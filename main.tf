@@ -57,10 +57,13 @@ resource "azurerm_linux_function_app" "rag" {
         application_stack {
             python_version = "3.11"
         }
-    }
-    app_settings = {
-        enabled = "false"
-    }
+        }
+
+        app_settings = {
+        "functionTimeout" = "00:10:00"
+        "AZURE_STORAGE_CONNECTION_STRING" = azurerm_storage_account.rag.primary_connection_string
+        "FUNCTIONS_WORKER_RUNTIME" = "python"
+        }
 }
 
 output "storage_account_name" {
