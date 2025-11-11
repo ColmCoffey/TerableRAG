@@ -1,0 +1,674 @@
+Chunk 1:
+MBoC | PERSPECTIVE
+Quantitative nature of overexpression
+experiments
+Hisao Moriya
+Research Core for Interdisciplinary Sciences, Okayama University, Okayama 700-8530, Japan
+ABSTRACT Overexpression experiments are sometimes considered as qualitative experi- Monitoring Editor
+ments designed to identify novel proteins and study their function. However, in order to draw Orna Cohen-Fix
+National Institutes of Health
+conclusions regarding protein overexpression through association analyses using large-scale
+biological data sets, we need to recognize the quantitative nature of overexpression experi-
+Received: Jul 17, 2015
+ments. Here I discuss the quantitative features of two different types of overexpression ex- Revised: Sep 9, 2015
+periment: absolute and relative. I also introduce the four primary mechanisms involved in Accepted: Sep 14, 2015
+growth defects caused by protein overexpression: resource overload, stoichiometric imbal-
+ance, promiscuous interactions, and pathway modulation associated with the degree of over-
+expression.
+INTRODUCTION OVEREXPRESSION EXPERIMENTS ARE INHERENTLY
+Cellular functions are performed through cooperative actions of QUANTITATIVE
+thousands of proteins. Intracellular levels of these proteins vary sub- Many large-scale overexpression experiments have been per-
+stantially (Kulak et al., 2014; Liebermeister et al., 2014; Figure 1), formed using transcriptional induction of strong promoters in
+and the level of each protein has to be highly optimized to maximize yeast to identify the proteins causing growth defects when overex-
+cellular functionality (Zaslaver et al., 2004; Dekel and Alon, 2005; pressed (hereafter called dosage-sensitive proteins; Liu et al.,
+Wagner, 2005; Li et al., 2014). The abnormal expression of a protein 1992; Espinet et al., 1995; Akada et al., 1997; Stevenson et al.,
+can have a detrimental effect on cellular functions. Overexpression 2001; Boyer et al., 2004; Gelperin et al., 2005; Sopko et al., 2006;
+of some proteins is a
+
+Chunk 2:
+laver et al., 2004; Dekel and Alon, 2005; pressed (hereafter called dosage-sensitive proteins; Liu et al.,
+Wagner, 2005; Li et al., 2014). The abnormal expression of a protein 1992; Espinet et al., 1995; Akada et al., 1997; Stevenson et al.,
+can have a detrimental effect on cellular functions. Overexpression 2001; Boyer et al., 2004; Gelperin et al., 2005; Sopko et al., 2006;
+of some proteins is associated with human conditions, such as Down Niu et al., 2008; Yoshikawa et al., 2011; Douglas et al., 2012).
+syndrome and cancer (Tang and Amon, 2013). Researchers have In most cases, overexpression experiments are considered as qual-
+used artificial overexpression of proteins to identify novel proteins itative screening methods to identify novel proteins involved in
+involved in biological processes of interest and examine the func- cell morphology and cellular processes, such as the cell cycle
+tions of their target proteins (Rine, 1991; Prelich, 2012). (Stevenson et al., 2001; Sopko et al., 2006; Niu et al., 2008).
+Detailed molecular mechanisms found in individual overexpression Recently the characteristics of proteins that are strongly associated
+experiments are summarized by Prelich (2012). Here I focus on the with dosage-sensitive proteins have been surveyed in an attempt
+results of large-scale overexpression experiments using the budding to uncover primary mechanistic consequences of protein overex-
+yeast Saccharomyces cerevisiae. I emphasize the often-overlooked pression (Gelperin et al., 2005; Sopko et al., 2006; Vavouri et al.,
+quantitative nature of overexpression experiments, as shown by 2009; Ma et al., 2010; Yoshikawa et al., 2011; Makanae et al., 2013;
+considering normal protein levels. I also discuss some primary Tomala and Korona, 2013).
+mechanistic consequences of protein overexpression as demon- In gene deletion experiments, the expression of a target protein
+strated in large-scale experiments. is stopped by removing the protein-coding regions from the ge
+
+Chunk 3:
+ments, as shown by 2009; Ma et al., 2010; Yoshikawa et al., 2011; Makanae et al., 2013;
+considering normal protein levels. I also discuss some primary Tomala and Korona, 2013).
+mechanistic consequences of protein overexpression as demon- In gene deletion experiments, the expression of a target protein
+strated in large-scale experiments. is stopped by removing the protein-coding regions from the ge-
+nome. On the other hand, in overexpression experiments, the de-
+DOI:10.1091/mbc.E15-07-0512 gree of overexpression of a target protein is quite diverse and varies
+Address correspondence to: Hisao Moriya (hisaom@cc.okayama-u.ac.jp). with the methods and target proteins used. Therefore, to use data
+Abbreviations used: GFP, green fluorescent protein; ID, intrinsically disordered;
+on dosage-sensitive proteins obtained by large-scale overexpres-
+IDP, intrinsically disordered protein; OE, overexpression; ORF, open reading frame.
+© 2015 Moriya. This article is distributed by The American Society for Cell Biology sion experiments for association studies, we need to recognize that
+under license from the author(s). Two months after publication it is available to the overexpression experiments are inherently quantitative. In the
+the public under an Attribution–Noncommercial–Share Alike 3.0 Unported Cre-
+next sections, I discuss the quantitative nature of overexpression
+ative Commons License (http://creativecommons.org/licenses/by-nc-sa/3.0).
+experiments, distinguishing them into two different types: absolute
+“ASCB®,” “The American Society for Cell Biology®,” and “Molecular Biology of
+the Cell®” are registered trademarks of The American Society for Cell Biology. and relative.
+3932 | H. Moriya Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+RELATIVE OVEREXPRESSION USING
+GENE COPY NUMBER INCREASE
+Increasing the gene copy number for the
+target protein should induce overexpression
+of the target protein. Multicopy plasmids
+derived from the 2-μm plasmid are usually
+used for this purpose i
+
+Chunk 4:
+ll®” are registered trademarks of The American Society for Cell Biology. and relative.
+3932 | H. Moriya Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+RELATIVE OVEREXPRESSION USING
+GENE COPY NUMBER INCREASE
+Increasing the gene copy number for the
+target protein should induce overexpression
+of the target protein. Multicopy plasmids
+derived from the 2-μm plasmid are usually
+used for this purpose in budding yeast
+(Rine, 1991; Jones et al., 2008). If the ex-
+pression of the protein is controlled by its
+native regulatory elements (i.e., promoter
+and terminator), the expression relative to
+its native level should increase as the copy
+number increases. If a multicopy plasmid
+with a copy number of 10 is used in the ex-
+periment, the expression of the proteins
+coded on the plasmid is expected to in-
+FIGURE 1: Expression levels of yeast proteins and their allocations in the yeast proteome. crease 10-fold (Figure 2, blue line). This type
+Proteome data (Kulak et al., 2014; Supplemental Table S1) visualized using a proteomap of experiment is considered a relative over-
+(Liebermeister et al., 2014; www.proteomaps.net/). The area occupied by each process (left) or expression experiment. The genetic tug-of-
+protein (right) is proportional to its relative protein amount in a cycling yeast population. war (gTOW) experiment (Moriya et al., 2006,
+2011, 2012; Kaizu et al., 2010; Makanae
+ABSOLUTE OVEREXPRESSION USING PROMOTER et al., 2013) is an example. In the gTOW experiment, the relative
+SWAPPING overexpression levels (fold increases) causing cellular defects are es-
+The GAL promoter is commonly used for strong induction of protein timated by measuring the copy number limits of the genes encod-
+expression in the budding yeast. The promoter-swapped gene cas- ing the target proteins. For further discussion, I use the dosage-
+settes are sometimes cloned into multicopy 2-μm plasmids to fur- sensitive protein data set obtained by Makanae et al. (2013) as a
+ther increase expression levels
+
+Chunk 5:
+monly used for strong induction of protein timated by measuring the copy number limits of the genes encod-
+expression in the budding yeast. The promoter-swapped gene cas- ing the target proteins. For further discussion, I use the dosage-
+settes are sometimes cloned into multicopy 2-μm plasmids to fur- sensitive protein data set obtained by Makanae et al. (2013) as a
+ther increase expression levels (Liu et al., 1992; Espinet et al., 1995; representative data set for the relative overexpression experiments;
+Akada et al., 1997; Stevenson et al., 2001; Boyer et al., 2004; their analysis is the most extensive available.
+Gelperin et al., 2005; Sopko et al., 2006; Niu et al., 2008; Yoshikawa In relative overexpression experiments, levels of target proteins
+et al., 2011; Douglas et al., 2012). In these experiments, target pro- after overexpression vary, depending on the native expression lev-
+teins are induced at similar high levels. This type of experiment is els. If a target protein is already highly expressed natively, the after
+considered an absolute overexpression experiment. For further dis- overexpression, a much larger amount of the protein should be
+cussion, I use the dosage-sensitive protein data set obtained by present in the cell. As shown in Figure 3A, proteins with high native
+Sopko et al. (2006) as a representative data set for absolute overex- expression are preferentially isolated as the dosage-sensitive pro-
+pression experiments. That study is the most extensive, widely cited teins in the relative overexpression experiment. High-level protein
+analysis.
+Because expression levels of proteins can vary by more than
+10,000-fold (Kulak et al., 2014; Figures 1 and 2), the degree of the
+overexpression in absolute overexpression experiments should dif-
+fer by some orders of magnitude. The average expression level of
+target proteins expressed by genes under the control of the GAL1
+promoter on a 2-μm plasmid has been estimated as ∼1% of the
+proteins expressed in the 
+
+Chunk 6:
+ression levels of proteins can vary by more than
+10,000-fold (Kulak et al., 2014; Figures 1 and 2), the degree of the
+overexpression in absolute overexpression experiments should dif-
+fer by some orders of magnitude. The average expression level of
+target proteins expressed by genes under the control of the GAL1
+promoter on a 2-μm plasmid has been estimated as ∼1% of the
+proteins expressed in the yeast (Tomala and Korona, 2013). Accord-
+ing to recent proteome data (Kulak et al., 2014; Figure 1),
+∼50,000,000 protein molecules are expressed in a budding yeast
+cell. Only eight glycolytic enzymes are expressed more than 1% of
+the total proteins (500,000 molecules/cell). Almost all proteins are
+thus “overexpressed” in the foregoing experiment. However, the
+degree of overexpression relative to the native level should vary
+strongly among the analyzed proteins (Figure 2). If the native level
+of a target protein is 100 molecules/cell, the degree of overexpres-
+sion will be estimated as 50,000-fold. If the native level of a target
+protein is 100,000 molecules/cell, the overexpression degree will be
+50-fold. Thus the absolute overexpression experiments analyze the
+consequences of comparably strong production of target proteins FIGURE 2: Conceptual representation of the quantitative nature of
+protein overexpression experiments. Native expression levels of yeast
+independently of their native expression levels. As shown in
+proteins (Kulak et al., 2014; Supplemental Table S1) are shown in
+Figure 3A, proteins with natively low expression are preferentially
+black. Estimated levels of the overexpressed proteins in an absolute
+isolated as the dosage-sensitive proteins in absolute overexpression
+overexpression experiment (orange line) and a relative overexpression
+experiments. If the native expression levels are strongly optimized
+experiment (blue line). Estimated degrees of overexpression (fold
+(see later discussion), the huge degree of overexpression of low- increases) are shown. Hig
+
+Chunk 7:
+erexpressed proteins in an absolute
+isolated as the dosage-sensitive proteins in absolute overexpression
+overexpression experiment (orange line) and a relative overexpression
+experiments. If the native expression levels are strongly optimized
+experiment (blue line). Estimated degrees of overexpression (fold
+(see later discussion), the huge degree of overexpression of low- increases) are shown. Highly expressed glycolytic enzymes analyzed in
+expression proteins can become a bias leading to preferential isola- Table 1 are shown in green circles. The estimated maximal protein
+tion of those proteins. expression level (Table 1) is shown in purple.
+Volume 26 November 5, 2015 Quantitative nature of OE experiments | 3933
+
+---PAGE BREAK---
+
+Overexpression experiments have also been
+performed in other organisms, such as
+Schizosaccharomyces pombe, Drosophila
+melanogaster, Arabidopsis thaliana, and
+Homo sapiens (Prelich, 2012), all using pro-
+moter swapping, meaning that they are all
+absolute overexpression experiments.
+CONSEQUENCES OF PROTEIN
+OVEREXPRESSION
+The ways by which protein overexpression
+can cause cellular defects depend on the
+protein properties and functions (Prelich,
+2012). Several mechanisms of cellular de-
+fects upon overexpression of proteins have
+been suggested from the analyses of dos-
+age-sensitive proteins obtained in genome-
+wide absolute (Vavouri et al., 2009; Ma
+et al., 2010; Tomala et al., 2014) and relative
+overexpression experiments (Makanae
+et al., 2013) and from the analyses of physi-
+ologies of disomic yeast strains (Sheltzer
+FIGURE 3: Trends in native expression levels of dosage-sensitive proteins and of proteins within and Amon, 2011; Tang and Amon, 2013).
+various categories. (A) Proteins isolated in absolute and relative overexpression experiments show Here I focus on four primary mechanisms:
+opposite trends in their native expression levels. Absolute overexpression tends to isolate lowly resource overload, stoichiometric imbal-
+expressed protei
+
+Chunk 8:
+ression levels of dosage-sensitive proteins and of proteins within and Amon, 2011; Tang and Amon, 2013).
+various categories. (A) Proteins isolated in absolute and relative overexpression experiments show Here I focus on four primary mechanisms:
+opposite trends in their native expression levels. Absolute overexpression tends to isolate lowly resource overload, stoichiometric imbal-
+expressed proteins, whereas relative overexpression tends to isolate highly expressed proteins.
+ance, promiscuous interactions, and path-
+Proteins isolated as dosage-sensitive proteins in overexpression experiments are separated by
+way modulation (Figure 4). The growth de-
+their expression levels, and their proportions are shown. Absolute overexpression, 603 proteins
+fects are largely explained by overload and
+(Sopko et al., 2006); relative overexpression, 682 proteins (Makanae et al., 2013). (B) Proteins
+toxicity (Tomala and Korona, 2013). Over-
+within different categories show different trends in their native expression levels, which could be
+biases to isolate dosage-sensitive proteins in overexpression experiments. Proteins within load is an abnormal cellular environment
+indicated categories are separated by their expression levels, and their proportions are shown. created by enhancement of normal activity
+Transcription factors, 125 proteins (Teixeira et al., 2014; www.yeastract.com/); intrinsic disorder, or turnover of a protein caused by its over-
+439 proteins with GlobPlot score >200 (Linding et al., 2003; http://globplot.embl.de/); protein expression. Toxicity is an effect causing cel-
+kinases, 114 proteins (Breitkreutz et al., 2010; www.yeastkinome.com/); membrane proteins; 255 lular defects due to novel and unrelated
+proteins with TMHMM score >100 (www.cbs.dtu.dk/services/TMHMM/); and protein complex properties generated by the overexpression
+members, 1485 proteins (Pu et al., 2009). The original data are given in Supplemental Table S1.
+of a protein. Overload is expressed as eithe
+
+Chunk 9:
+ses, 114 proteins (Breitkreutz et al., 2010; www.yeastkinome.com/); membrane proteins; 255 lular defects due to novel and unrelated
+proteins with TMHMM score >100 (www.cbs.dtu.dk/services/TMHMM/); and protein complex properties generated by the overexpression
+members, 1485 proteins (Pu et al., 2009). The original data are given in Supplemental Table S1.
+of a protein. Overload is expressed as either
+resource overload or pathway modulation.
+expression can become a bias in the preferential isolation of such Toxicity is triggered by promiscuous interactions. Stoichiometric im-
+proteins in relative overexpression experiments. This is because the balance can trigger both overload and toxicity.
+need for massive turnover of proteins causes cellular defects due to
+process overloads (discussed later). RESOURCE OVERLOAD
+A series of physiological analyses have been performed using Turnover of a protein includes its production (translation), folding,
+disomic yeast strains with 1 of the 16 chromosomes duplicated in a localization, degradation, and posttranslational modifications.
+haploid cell (Torres et al., 2007, 2008, 2010; Sheltzer et al., 2011, These processes require their own cellular resources. Strong expres-
+2012; Oromendia et al., 2012; Thorburn et al., 2013; Dephoure sion of a protein might overstretch these resources by monopolizing
+et al., 2014; Blank et al., 2015; Bonney et al., 2015). In each disomic them, leading to cellular defects (Figure 4A). Strong expression of
+cell, almost all of the genes on the duplicated chromosome are unnecessary proteins causes growth defects (Snoep et al., 1995;
+overexpressed twofold (Torres et al., 2007). This can be also consid- Stoebel et al., 2008; McIsaac et al., 2011). These defects are created
+ered relative overexpression. Analysis of this simultaneous overex- by a protein burden effect. The effect becomes apparent when the
+pression of hundreds of genes has led to many important insights cellular resources for protein turnover, e
+
+Chunk 10:
+noep et al., 1995;
+overexpressed twofold (Torres et al., 2007). This can be also consid- Stoebel et al., 2008; McIsaac et al., 2011). These defects are created
+ered relative overexpression. Analysis of this simultaneous overex- by a protein burden effect. The effect becomes apparent when the
+pression of hundreds of genes has led to many important insights cellular resources for protein turnover, especially the ribosomes pro-
+into the consequences of protein overexpression (Torres et al., 2008; ducing other proteins, are overstretched, monopolized by a strong
+Sheltzer and Amon, 2011; Tang and Amon, 2013; Oromendia and expression of unnecessary proteins (Stoebel et al., 2008; Shachrai
+Amon, 2014). et al., 2010; Shah et al., 2013). Any otherwise harmless protein thus
+As discussed, absolute and relative overexpression experiments could cause growth defects due to the protein burden effect when
+carry different biases due to their quantitative nature. These experi- it is ultimately highly expressed. In other words, proteins that have
+ments contribute to the understanding of the consequences of pro- no harmful effects on cellular functions could be expressed at levels
+tein overexpression. However, the biases have to be taken into con- causing a protein burden. These levels are considered the maximum
+sideration when investigating the mechanistic consequences of protein expression limit in a yeast cell and are almost the same for
+protein overexpression using association analyses of large-scale bio- any protein (see later discussion).
+logical data sets. In the following section, I discuss the independent What are the proteins expressed at these limits, and what is
+mechanisms of cellular defects upon overexpression of proteins in the maximum protein expression limit? We have presented evi-
+the context of the quantitative nature of overexpression experiments. dence that the limits of overexpression for some highly expressed
+3934 | H. Moriya Molecular Biology of the Cell
+
+---PAG
+
+Chunk 11:
+scuss the independent What are the proteins expressed at these limits, and what is
+mechanisms of cellular defects upon overexpression of proteins in the maximum protein expression limit? We have presented evi-
+the context of the quantitative nature of overexpression experiments. dence that the limits of overexpression for some highly expressed
+3934 | H. Moriya Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+FIGURE 4: Primary mechanisms of cellular defects after protein overexpression. (A) Resource overload. When a protein
+requires large amounts of cellular resources for translation, folding, localization, or degradation, the overexpression of
+the protein overloads those cellular resources. The protein burden effect is believed to be one of the overload of
+translation resources (i.e., ribosomes). (B) Stoichiometric imbalance. When a protein is a subunit of a protein complex,
+the overexpression of the protein disrupts the stoichiometry. The excess of subunits causes pathway modulation,
+abnormal complex formation, or overload of the cellular protein quality control resources. (C) Promiscuous interaction.
+Enhancement of protein–protein interaction upon the overexpression of ID region–containing proteins and aggregative
+proteins causes pathway modulation or sequestration of essential proteins. Under normal conditions, complex A–C is
+either scarce or nonexistent. (D) Pathway modulation. Overexpression of a regulatory protein causes pathway
+modulation. Pathway modulation can be triggered by stoichiometric imbalance and promiscuous interactions. Most
+regulators might have very large buffering ranges to avoid an untimely pathway modulation (see text). Diagrams are
+based on process description language level 1 of the systems biology graphical notation (www.sbgn.org/). An arrow
+with an open square refers to a process. A line that ends with a circle signifies catalysis for the process to which it
+attaches. A merging arrow with a filled circle signifies association, and a branc
+
+Chunk 12:
+ge buffering ranges to avoid an untimely pathway modulation (see text). Diagrams are
+based on process description language level 1 of the systems biology graphical notation (www.sbgn.org/). An arrow
+with an open square refers to a process. A line that ends with a circle signifies catalysis for the process to which it
+attaches. A merging arrow with a filled circle signifies association, and a branching arrow with a double circle indicates
+dissociation. The thickness of each arrow reflects the rate of each process. Processes shown with black lines happen in
+normal growth conditions. Processes shown with red lines are triggered upon overexpression of A.
+glycolytic enzymes (Tdh3, Pgk1, Cdc19, and Tpi1; Figure 2, green Because the overexpression of glycolytic enzymes might perturb
+circles) are determined by the protein burden (Makanae et al., the glycolytic flux, these estimates do not necessarily reflect the
+2013). In gTOW overexpression experiments, these proteins maximum expression limits for other proteins. However, if a protein
+should be expressed up to the levels causing cellular defects due causes a cellular defect at an expression level substantially below
+to the protein burden. As shown in Table 1, we can estimate the this limit, we can assume that mechanisms other than the protein
+expression levels by multiplying the native expression levels by the burden effect are involved. Ribosomal proteins are generally highly
+copy number limits of the glycolytic enzymes (the average level is expressed (Figure 1). Among them, RPL9A and RPS12 have been
+shown as the purple line in Figure 2). The total proteome consists isolated as dosage-sensitive proteins because they have low copy
+of ∼50,000,000 molecules/cell (Kulak et al., 2014). We can esti- number limits (Table 1). The estimated protein levels in the overex-
+mate the number of amino acids in the total proteome by multiply- pression experiments are 1.4–1.9% of the total proteome in terms of
+ing the number of protein mol
+
+Chunk 13:
+igure 2). The total proteome consists isolated as dosage-sensitive proteins because they have low copy
+of ∼50,000,000 molecules/cell (Kulak et al., 2014). We can esti- number limits (Table 1). The estimated protein levels in the overex-
+mate the number of amino acids in the total proteome by multiply- pression experiments are 1.4–1.9% of the total proteome in terms of
+ing the number of protein molecules by their amino acid lengths amino acids (Table 1), substantially lower than the limit levels calcu-
+and adding the results. This estimate gives ∼16,000,000,000 amino lated using the glycolytic enzymes. We can assume that there is an
+acids/cell (Supplemental Table S1). Thus we estimate the expres- unknown mechanism other than the protein burden causing the cel-
+sion levels of the aforementioned glycolytic enzymes as 14.2–56.5% lular defects upon the overexpression of ribosomal proteins.
+of the total proteome in terms of the number of protein molecules Intracellular proteins are folded with the help of molecular chap-
+and as 14.0–41.6% of the total proteome in terms of amino acid erones, localized to specific cellular compartments by the transloca-
+molecules (Table 1). Although these are very rough estimates, the tion and transport machinery, and degraded by the proteasome.
+residual protein production capacity of a yeast cell and the maxi- Overexpression of proteins with strong demands for those resources
+mum expression limit for any protein can be inferred from these might cause resource overloads, leading to cellular defects
+results. (Figure 4A). Growth defects in disomic strains have been explained
+Volume 26 November 5, 2015 Quantitative nature of OE experiments | 3935
+
+---PAGE BREAK---
+
+Protein molecules Gene copy Protein length Product of Product of
+Gene ORF per cell (% of total number limit (amino acids) #1 × #2 molecules #1 × #2 × #3 amino acids
+name name proteome) (#1) (#2) (#3) (% of total proteome) (% of total proteome)
+TDH3 YGR192C 1,575,311 (3.3) 4.3 332 6,
+
+Chunk 14:
+rains have been explained
+Volume 26 November 5, 2015 Quantitative nature of OE experiments | 3935
+
+---PAGE BREAK---
+
+Protein molecules Gene copy Protein length Product of Product of
+Gene ORF per cell (% of total number limit (amino acids) #1 × #2 molecules #1 × #2 × #3 amino acids
+name name proteome) (#1) (#2) (#3) (% of total proteome) (% of total proteome)
+TDH3 YGR192C 1,575,311 (3.3) 4.3 332 6,801,949 (14.2) 2,258,246,952 (14.0)
+PGK1 YCR012W 561,265 (1.2) 22.0 416 1,2358,595 (25.8) 5,141,175,549 (31.9)
+CDC19 YAL038W 404,162 (0.8) 31.8 500 12,864,113 (26.9) 6,432,056,484 (39.9)
+TPI1 YDR050C 395,237 (0.8) 68.5 248 27,054,398 (56.5) 6,709,490,697 (41.6)
+RPL9A YGL147C 265,169 (0.6) 6.2 191 1,642,828 (3.4) 313,780,172 (1.9)
+RPS12 YOR369C 258,298 (0.5) 6.2 143 1,611,136 (3.4) 230,392,526 (1.4)
+Total 47,900,214 16,130,396,439
+proteome
+The original data are given in Supplemental Table S1.
+TABLE 1: Estimation of absolute overexpression levels of proteins in relative overexpression experiments.
+by the overload of the protein quality control machinery involved in imbalances of protein complexes are the primary mechanisms of cel-
+protein folding and degradation (Torres et al., 2010; Oromendia lular defects after protein overexpression, protein-complex mem-
+et al., 2012). The protein degradation overload has been also tested bers should be preferentially isolated as the dosage-sensitive
+by overexpression experiments using the model protein green proteins. Although initial results supported this hypothesis (Papp
+fluorescent protein (GFP). The addition of a degradation signal et al., 2003), the dosage-sensitive proteins isolated in the absolute
+to GFP increased its potential to cause cellular defects upon its overexpression experiment were not preferentially the members of
+overexpression (Makanae et al., 2013). As noted earlier, gTOW rela- protein complexes (Sopko et al., 2006; Vavouri et al., 2009). How-
+tive overexpression experiments preferentially isolate natively highly ev
+
+Chunk 15:
+003), the dosage-sensitive proteins isolated in the absolute
+to GFP increased its potential to cause cellular defects upon its overexpression experiment were not preferentially the members of
+overexpression (Makanae et al., 2013). As noted earlier, gTOW rela- protein complexes (Sopko et al., 2006; Vavouri et al., 2009). How-
+tive overexpression experiments preferentially isolate natively highly ever, the dosage-sensitive genes isolated in the relative overexpres-
+expressed proteins as dosage-sensitive proteins (Figure 3A). Be- sion experiment preferentially include the complex members
+cause levels after overexpression of those proteins should be very (Makanae et al., 2013). In that report, the balance hypothesis was
+high (Figure 2), they might include many proteins causing overloads further validated in rescue experiments with simultaneously overex-
+of different cellular resources. pressed stoichiometric partner subunits. These contradictory results
+could be explained by differences in the quantitative nature of the
+STOICHIOMETRIC IMBALANCE experiments. To change the balance, the proteins should be overex-
+The expression level of each protein (as shown in Figure 1) should pressed in comparison with the native levels. In absolute overex-
+be ultimately determined by various types of equilibrium: the bal- pression experiments, the large variation in the degrees of balance
+anced numbers of subunits within a protein complex and of protein disruptions caused by the overexpressed proteins could hide the
+complexes within a cellular module and balance among cellular cellular defects triggered by stoichiometric imbalance. Protein-com-
+modules. Appropriate resource allocation in cellular modules should plex members tend to be natively highly expressed (Figure 3B). This
+maximize cellular performance (Liebermeister et al., 2014). For ex- might also create a bias against the isolation of complex members
+ample, the production rate of each subunit of a complex is highly because the
+
+Chunk 16:
+ triggered by stoichiometric imbalance. Protein-com-
+modules. Appropriate resource allocation in cellular modules should plex members tend to be natively highly expressed (Figure 3B). This
+maximize cellular performance (Liebermeister et al., 2014). For ex- might also create a bias against the isolation of complex members
+ample, the production rate of each subunit of a complex is highly because the absolute overexpression experiment preferentially iso-
+related to the molecular ratio (stoichiometry) of the subunit within lated proteins with natively low expression, as discussed earlier
+the complex (Li et al., 2014). This indicates that cellular systems are (Figure 3A).
+optimized to keep protein expression in balance. Because overex- Note that stoichiometric imbalance in a protein complex does
+pression of a protein complex member perturbs the equilibrium, not necessarily cause immediate cellular defects. As described ear-
+stoichiometric imbalance is believed to be a primary mechanism of lier and shown in Figure 4B, cellular defects caused by stoichiomet-
+cellular defects upon protein overexpression (balance hypothesis; ric imbalances in protein complexes depend on the functions and
+Papp et al., 2003; Veitia et al., 2008; Figure 4B). Examples of cellular characteristics of the overexpressed proteins. For example, to over-
+defects caused by overexpression-triggered disruption of the stoi- load cellular resources, proteins should be highly expressed. It is
+chiometric balance in complexes have been reported. Overexpres- thus possible that stoichiometric imbalance in a protein with a na-
+sion of a catalytic subunit relative to a regulatory subunit causes tively low expression will not cause resource overload.
+constitutive activation/inactivation of the catalytic subunit (de Nadal
+et al., 1998; Kaizu et al., 2010; Moriya et al., 2011). Overexpression PROMISCUOUS INTERACTIONS
+of a subunit in comparison with the expression of other subunits Proteins containing regions without 
+
+Chunk 17:
+ a na-
+sion of a catalytic subunit relative to a regulatory subunit causes tively low expression will not cause resource overload.
+constitutive activation/inactivation of the catalytic subunit (de Nadal
+et al., 1998; Kaizu et al., 2010; Moriya et al., 2011). Overexpression PROMISCUOUS INTERACTIONS
+of a subunit in comparison with the expression of other subunits Proteins containing regions without stable structures are called in-
+causes an abnormal toxic complex formation (Abruzzi et al., 2002). trinsically disordered proteins (IDPs; Habchi et al., 2014). The ID re-
+The disomic yeast can suffer from overloads of the protein quality gions enable flexible protein–protein interactions (Liu and Huang,
+control resources (most probably caused by unnecessary subunit 2014; Supplemental Table S1). Although the flexible interactions are
+production) due to stoichiometric imbalances (Torres et al., 2010; advantageous to the function of these proteins, there might be
+Oromendia et al., 2012). some unwanted interactions with nonphysiological partner proteins.
+Although stoichiometric imbalance explains the results of indi- The association analysis of absolute overexpression experiments
+vidual overexpression experiments, contradictory results have been has shown that these promiscuous interactions might be one of the
+obtained from large-scale experiments. About 30% of yeast proteins primary mechanisms of cellular defects (Vavouri et al., 2009; Ma
+are protein-complex members (Pu et al., 2009). If stoichiometric et al., 2010; Figure 4C). Despite the tendency of IDPs to have low
+3936 | H. Moriya Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+native expression levels (Figure 3B; Gsponer et al., 2008), they also these proteins above the threshold might cause untimely activation/
+have been preferentially isolated as dosage-sensitive proteins in inactivation of their target pathways. If this causes cellular defects,
+gTOW overexpression experiments (Makanae et al., 2013). The hy- these pro
+
+Chunk 18:
+a Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+native expression levels (Figure 3B; Gsponer et al., 2008), they also these proteins above the threshold might cause untimely activation/
+have been preferentially isolated as dosage-sensitive proteins in inactivation of their target pathways. If this causes cellular defects,
+gTOW overexpression experiments (Makanae et al., 2013). The hy- these proteins could be dosage sensitive (pathway modulation;
+pothetical involvement of promiscuous interactions in cellular de- Figure 4D; Sheltzer and Amon, 2011). Such pathway modulations
+fects is thus supported by both absolute and relative overexpression have been repeatedly observed in individual overexpression experi-
+experiments. ments (Prelich, 2012). However, regulatory proteins are not prefer-
+Promiscuous interaction–triggered cellular defects are difficult to entially isolated as dosage-sensitive proteins in gTOW relative over-
+validate in vivo because of the diversity of the functions and charac- expression experiments (Makanae et al., 2013). This suggests that
+teristics of IDPs. We do not have good model proteins or model the pathway overloads happen only when regulatory proteins are
+domains for testing such interactions. Regulatory proteins such as expressed in large excess above their native levels; the responses of
+transcription factors and signaling molecules often contain ID re- biological systems to changes in intracellular parameters are inher-
+gions (Supplemental Table S1). Systematic physiological analyses, ently robust (Alon et al., 1999; Little et al., 1999; von Dassow et al.,
+such as transcriptome analyses of cells overexpressing these IDPs, 2000; Kitano, 2004). Further analyses will be required to confirm the
+might distinguish the consequences of promiscuous interactions pathway modulation mechanisms. Such modulations could be rela-
+(e.g., unexpected pathway activation and stress response) from tively easily detected using transcriptome analyses of the dow
+
+Chunk 19:
+sow et al.,
+such as transcriptome analyses of cells overexpressing these IDPs, 2000; Kitano, 2004). Further analyses will be required to confirm the
+might distinguish the consequences of promiscuous interactions pathway modulation mechanisms. Such modulations could be rela-
+(e.g., unexpected pathway activation and stress response) from tively easily detected using transcriptome analyses of the down-
+pathway overloads (see later discussion). The degree of false-posi- stream genes specific for each pathway.
+tive (unexpected) interactions in two-hybrid analyses could be an
+index for promiscuous interactions because strong promoters are CONCLUSION
+normally used in these experiments (Uetz et al., 2000; Ito et al., I have discussed the quantitative nature of overexpression experi-
+2001). ments and some primary consequences of protein overexpression
+Strong expression of aggregative proteins, such as the disease- as revealed in the large-scale studies. Figure 2 is a conceptual pre-
+related heterologous proteins misfolded yellow fluorescent protein sentation of absolute and relative overexpression experiments. It
+mutants, causes cellular defects in yeast cells (Geiler-Samerotte allows an intuitive understanding of the quantitative nature of over-
+et al., 2011; Kaiser et al., 2013; Park et al., 2013). Some protein ag- expression and illustrates the importance of measurements of over-
+gregates are toxic because they capture essential proteins and limit- expressed protein levels. Some pioneering studies have revealed
+ing chaperones into the aggregates (Treusch and Lindquist, 2012; the diversity of protein expression levels even in absolute overex-
+Kaiser et al., 2013; Park et al., 2013). Protein aggregates could cause pression experiments (Gelperin et al., 2005; Tomala and Korona,
+toxicity, lead to novel and unwanted protein–protein interactions, 2013; Tomala et al., 2014). It is important to measure precisely the
+and overload protein quality control resources. Although overex-
+
+Chunk 20:
+diversity of protein expression levels even in absolute overex-
+Kaiser et al., 2013; Park et al., 2013). Protein aggregates could cause pression experiments (Gelperin et al., 2005; Tomala and Korona,
+toxicity, lead to novel and unwanted protein–protein interactions, 2013; Tomala et al., 2014). It is important to measure precisely the
+and overload protein quality control resources. Although overex- limits of protein expression to obtain a clear picture of the conse-
+pressed endogenous proteins sometimes form aggregates in yeast quences of protein overexpression leading to cellular defects.
+cells, they do not necessarily lead to cellular defects; they might Another issue is the confirmation of the hypotheses described.
+even have a positive effect on environmental adaptation (Alberti The consequences of protein overexpression are complex because
+et al., 2009). Their toxicities might depend on the proteins with the functions and characteristics of proteins are diverse but inter-
+which they interact. Association studies suggest that aggregative connected. For example, IDPs include many transcription factors
+proteins tend to be dosage sensitive (Gsponer and Babu, 2012). and protein kinases. Overexpression of these regulatory factors
+However, it has not been experimentally demonstrated that protein could cause both promiscuous interactions and pathway modula-
+aggregates are the primary cause of cellular defects after protein tions. Overexpression of a protein-complex member could cause
+overexpression. pathway activation and overloads. Further systematic analysis of cel-
+lular physiology using omics technologies and suppressor mutants
+PATHWAY MODULATION (such as in the analyses of disomic strains; Torres et al., 2010) are
+The expression level of each protein seems to be optimized to maxi- needed. Systematic genetic interaction analyses (Sopko et al., 2006;
+mize cellular functionality. It is possible that the more the expression Douglas et al., 2012) and analyses using model
+
+Chunk 21:
+iology using omics technologies and suppressor mutants
+PATHWAY MODULATION (such as in the analyses of disomic strains; Torres et al., 2010) are
+The expression level of each protein seems to be optimized to maxi- needed. Systematic genetic interaction analyses (Sopko et al., 2006;
+mize cellular functionality. It is possible that the more the expression Douglas et al., 2012) and analyses using model proteins (Geiler-
+level is changed, the more cellular functions are negatively affected. Samerotte et al., 2011; Makanae et al., 2013; Park et al., 2013;
+If this were true, proteins with low native expression would be iso- Tomala et al., 2014) should help to dissect the consequences of pro-
+lated as dosage-sensitive proteins in absolute overexpression experi- tein overexpression. Ideally, we should find a biomarker or a reporter
+ments. In these experiments, such proteins tend to be overexpressed associated with each mechanism to assess it properly.
+substantially above their native levels (Figures 2 and 3). Transcription
+factors, protein kinases, membrane proteins, and IDPs tend to be ACKNOWLEDGMENTS
+lowly expressed (Figure 3B). These proteins, except for IDPs, are
+I am sincerely grateful to Takashi Makino, Tohoku University, Sendai,
+preferentially isolated as dosage-sensitive proteins in absolute over-
+Japan, for various useful suggestions and comments on the manu-
+expression experiments (Sopko et al., 2006), but not in gTOW rela-
+script. I am also grateful to Kouji Ishikawa, Okayama University,
+tive overexpression experiments (Makanae et al., 2013). One simple
+Okayama, Japan, for his help with data analysis.
+explanation is that they are isolated as dosage-sensitive proteins in
+absolute overexpression experiments because their levels of overex-
+REFERENCES
+pression are far beyond their physiological concentrations.
+Abruzzi KC, Smith A, Chen W, Solomon F (2002). Protection from free
+Activities of regulatory molecules such as transcription factors
+beta-tubulin by the beta-tub
+
+Chunk 22:
+ his help with data analysis.
+explanation is that they are isolated as dosage-sensitive proteins in
+absolute overexpression experiments because their levels of overex-
+REFERENCES
+pression are far beyond their physiological concentrations.
+Abruzzi KC, Smith A, Chen W, Solomon F (2002). Protection from free
+Activities of regulatory molecules such as transcription factors
+beta-tubulin by the beta-tubulin binding protein Rbl2p. Mol Cell Biol 22,
+and signaling molecules are usually modulated in response to 138–147.
+changes in external and internal cellular conditions. Their biochemi- Akada R, Yamamoto J, Yamashita I (1997). Screening and identification of
+cal characteristics, such as binding constants and enzymatic activi- yeast sequences that cause growth inhibition when overexpressed. Mol
+Gen Genet 254, 267–274.
+ties, should differ by some orders of magnitude to avoid unwanted
+Alberti S, Halfmann R, King O, Kapila A, Lindquist S (2009). A systematic
+activation/inactivation of target pathways in which they are involved. survey identifies prions and illuminates sequence features of priono-
+Due to a mass-action effect, overexpression of inactive forms of genic proteins. Cell 137, 146–158.
+Volume 26 November 5, 2015 Quantitative nature of OE experiments | 3937
+
+---PAGE BREAK---
+
+Alon U, Surette MG, Barkai N, Leibler S (1999). Robustness in bacterial genes whose overexpression causes lethality in yeast. Genetics 132,
+chemotaxis. Nature 397, 168–171. 665–673.
+Blank HM, Sheltzer JM, Meehl CM, Amon A (2015). Mitotic entry in the Ma L, Pang CN, Li SS, Wilkins MR (2010). Proteins deleterious on overex-
+presence of DNA damage is a widespread property of aneuploidy in pression are associated with high intrinsic disorder, specific interaction
+yeast. Mol Biol Cell 26, 1440–1451. domains, and low abundance. J Proteome Res 9, 1218–1225.
+Bonney ME, Moriya H, Amon A (2015). Aneuploid proliferation defects in Makanae K, Kintaka R, Makino T, Kitano H, Moriya H (2013). Identification of
+ye
+
+Chunk 23:
+rious on overex-
+presence of DNA damage is a widespread property of aneuploidy in pression are associated with high intrinsic disorder, specific interaction
+yeast. Mol Biol Cell 26, 1440–1451. domains, and low abundance. J Proteome Res 9, 1218–1225.
+Bonney ME, Moriya H, Amon A (2015). Aneuploid proliferation defects in Makanae K, Kintaka R, Makino T, Kitano H, Moriya H (2013). Identification of
+yeast are not driven by copy number changes of a few dosage-sensitive dosage-sensitive genes in Saccharomyces cerevisiae using the genetic
+genes. Genes Dev 29, 898–903. tug-of-war method. Genome Res 23, 300–311.
+Boyer J, Badis G, Fairhead C, Talla E, Hantraye F, Fabre E, Fischer G, Hen- McIsaac RS, Silverman SJ, McClean MN, Gibney PA, Macinskas J, Hickman MJ,
+nequin C, Koszul R, Lafontaine I, et al. (2004). Large-scale exploration Petti AA, Botstein D (2011). Fast-acting and nearly gratuitous induction of
+of growth inhibition caused by overexpression of genomic fragments in gene expression and protein depletion in Saccharomyces cerevisiae. Mol
+Saccharomyces cerevisiae. Genome Biol 5, R72. Biol Cell 22, 4447–4459.
+Breitkreutz A, Choi H, Sharom JR, Boucher L, Neduva V, Larsen B, Lin ZY, Moriya H, Chino A, Kapuy O, Csikasz-Nagy A, Novak B (2011). Overexpres-
+Breitkreutz BJ, Stark C, Liu G, et al. (2010). A global protein kinase and sion limits of fission yeast cell-cycle regulators in vivo and in silico. Mol
+phosphatase interaction network in yeast. Science 328, 1043–1046. Syst Biol 7, 556.
+Dekel E, Alon U (2005). Optimality and evolutionary tuning of the expres- Moriya H, Makanae K, Watanabe K, Chino A, Shimizu-Yoshida Y (2012).
+sion level of a protein. Nature 436, 588–592. Robustness analysis of cellular systems using the genetic tug-of-war
+de Nadal E, Clotet J, Posas F, Serrano R, Gomez N, Ariño J (1998). The method. Mol Biosystems 8, 2513–2522.
+yeast halotolerance determinant Hal3p is an inhibitory subunit of Moriya H, Shimizu-Yoshida Y, Kitano H (2006). In vivo robustness a
+
+Chunk 24:
+tanabe K, Chino A, Shimizu-Yoshida Y (2012).
+sion level of a protein. Nature 436, 588–592. Robustness analysis of cellular systems using the genetic tug-of-war
+de Nadal E, Clotet J, Posas F, Serrano R, Gomez N, Ariño J (1998). The method. Mol Biosystems 8, 2513–2522.
+yeast halotolerance determinant Hal3p is an inhibitory subunit of Moriya H, Shimizu-Yoshida Y, Kitano H (2006). In vivo robustness analysis
+the Ppz1p Ser/Thr protein phosphatase. Proc Natl Acad Sci USA 95, of cell division cycle genes in Saccharomyces cerevisiae. PLoS Genet 2,
+7357–7362. 1034–1045.
+Dephoure N, Hwang S, O’Sullivan C, Dodgson SE, Gygi SP, Amon A, Torres Niu W, Li Z, Zhan W, Iyer VR, Marcotte EM (2008). Mechanisms of cell cycle
+EM (2014). Quantitative proteomic analysis reveals posttranslational control revealed by a systematic and quantitative overexpression screen
+responses to aneuploidy in yeast. Elife 3, e03023. in S. cerevisiae. PLoS Genet 4, e1000120.
+Douglas AC, Smith AM, Sharifpoor S, Yan Z, Durbic T, Heisler LE, Lee Oromendia AB, Amon A (2014). Aneuploidy: implications for protein ho-
+AY, Ryan O, Göttert H, Surendra A, et al. (2012). Functional analysis meostasis and disease. Dis Model Mech 7, 15–20.
+with a barcoder yeast gene overexpression system. G3 (Bethesda) 2, Oromendia AB, Dodgson SE, Amon A (2012). Aneuploidy causes proteo-
+1279–1289. toxic stress in yeast. Genes Dev 26, 2696–2708.
+Espinet C, de la Torre MA, Aldea M, Herrero E (1995). An efficient method Papp B, Pál C, Hurst LD (2003). Dosage sensitivity and the evolution of
+to isolate yeast genes causing overexpression-mediated growth arrest. gene families in yeast. Nature 424, 194–197.
+Yeast 11, 25–32. Park SH, Kukushkin Y, Gupta R, Chen T, Konagai A, Hipp MS, Hayer-Hartl
+Geiler-Samerotte KA, Dion MF, Budnik BA, Wang SM, Hartl DL, Drummond M, Hartl FU (2013). PolyQ proteins interfere with nuclear degradation
+DA (2011). Misfolded proteins impose a dosage-dependent fitness cost of cytosolic proteins by sequestering the Sis
+
+Chunk 25:
+rowth arrest. gene families in yeast. Nature 424, 194–197.
+Yeast 11, 25–32. Park SH, Kukushkin Y, Gupta R, Chen T, Konagai A, Hipp MS, Hayer-Hartl
+Geiler-Samerotte KA, Dion MF, Budnik BA, Wang SM, Hartl DL, Drummond M, Hartl FU (2013). PolyQ proteins interfere with nuclear degradation
+DA (2011). Misfolded proteins impose a dosage-dependent fitness cost of cytosolic proteins by sequestering the Sis1p chaperone. Cell 154,
+and trigger a cytosolic unfolded protein response in yeast. Proc Natl 134–145.
+Acad Sci USA 108, 680–685. Prelich G (2012). Gene overexpression: uses, mechanisms, and interpreta-
+Gelperin DM, White MA, Wilkinson ML, Kon Y, Kung LA, Wise KJ, Lopez- tion. Genetics 190, 841–854.
+Hoyo N, Jiang L, Piccirillo S, Yu H, et al. (2005). Biochemical and genetic Pu S, Wong J, Turner B, Cho E, Wodak SJ (2009). Up-to-date catalogues of
+analysis of the yeast proteome with a movable ORF collection. Genes yeast protein complexes. Nucleic Acids Res 37, 825–831.
+Dev 19, 2816–2826. Rine J (1991). Gene overexpression in studies of Saccharomyces cerevisiae.
+Gsponer J, Babu MM (2012). Cellular strategies for regulating functional Methods Enzymol 194, 239–251.
+and nonfunctional protein aggregation. Cell Rep 2, 1425–1437. Shachrai I, Zaslaver A, Alon U, Dekel E (2010). Cost of unneeded proteins in
+Gsponer J, Futschik ME, Teichmann SA, Babu MM (2008). Tight regulation E. coli is reduced after several generations in exponential growth. Mol
+of unstructured proteins: from transcript synthesis to protein degrada- Cell 38, 758–767.
+tion. Science 322, 1365–1368. Shah P, Ding Y, Niemczyk M, Kudla G, Plotkin JB (2013). Rate-limiting steps
+Habchi J, Tompa P, Longhi S, Uversky VN (2014). Introducing protein intrin- in yeast protein translation. Cell 153, 1589–1601.
+sic disorder. Chem Rev 114, 6561–6588. Sheltzer JM, Amon A (2011). The aneuploidy paradox: costs and benefits of
+Ito T, Chiba T, Ozawa R, Yoshida M, Hattori M, Sakaki Y (2001). A compre- an incorrect karyotype. Trends Genet 
+
+Chunk 26:
+ Kudla G, Plotkin JB (2013). Rate-limiting steps
+Habchi J, Tompa P, Longhi S, Uversky VN (2014). Introducing protein intrin- in yeast protein translation. Cell 153, 1589–1601.
+sic disorder. Chem Rev 114, 6561–6588. Sheltzer JM, Amon A (2011). The aneuploidy paradox: costs and benefits of
+Ito T, Chiba T, Ozawa R, Yoshida M, Hattori M, Sakaki Y (2001). A compre- an incorrect karyotype. Trends Genet 27, 446–453.
+hensive two-hybrid analysis to explore the yeast protein interactome. Sheltzer JM, Blank HM, Pfau SJ, Tange Y, George BM, Humpton TJ, Brito IL,
+Proc Natl Acad Sci USA 98, 4569–4574. Hiraoka Y, Niwa O, Amon A (2011). Aneuploidy drives genomic instabil-
+Jones GM, Stalker J, Humphray S, West A, Cox T, Rogers J, Dunham I, ity in yeast. Science 333, 1026–1030.
+Prelich G (2008). A systematic library for comprehensive overexpression Sheltzer JM, Torres EM, Dunham MJ, Amon A (2012). Transcriptional conse-
+screens in Saccharomyces cerevisiae. Nat Methods 5, 239–241. quences of aneuploidy. Proc Natl Acad Sci USA 109, 12644–12649.
+Kaiser CJ, Grötzinger SW, Eckl JM, Papsdorf K, Jordan S, Richter K (2013). Snoep JL, Yomano LP, Westerhoff HV, Ingram LO (1995). Protein burden in
+A network of genes connects polyglutamine toxicity to ploidy control in Zymomonas rnobilis: negative flux and growth control due to overpro-
+yeast. Nat Commun 4, 1571. duction of glycolytic enzymes. Microbiology 141, 2329–2337.
+Kaizu K, Moriya H, Kitano H (2010). Fragilities caused by dosage imbalance Sopko R, Huang D, Preston N, Chua G, Papp B, Kafadar K, Snyder M,
+in regulation of the budding yeast cell cycle. PLoS Genet 6, e1000919. Oliver SG, Cyert M, Hughes TR, et al. (2006). Mapping pathways
+Kitano H (2004). Biological robustness. Nat Rev Genet 5, 826–837. and phenotypes by systematic gene overexpression. Mol Cell 21,
+Kulak NA, Pichler G, Paron I, Nagaraj N, Mann M (2014). Minimal, encapsu- 319–330.
+lated proteomic-sample processing applied to copy-number estimation Stevenson LF, Kennedy BK, Har
+
+Chunk 27:
+le. PLoS Genet 6, e1000919. Oliver SG, Cyert M, Hughes TR, et al. (2006). Mapping pathways
+Kitano H (2004). Biological robustness. Nat Rev Genet 5, 826–837. and phenotypes by systematic gene overexpression. Mol Cell 21,
+Kulak NA, Pichler G, Paron I, Nagaraj N, Mann M (2014). Minimal, encapsu- 319–330.
+lated proteomic-sample processing applied to copy-number estimation Stevenson LF, Kennedy BK, Harlow E (2001). A large-scale overexpression
+in eukaryotic cells. Nat Methods 11, 319–324. screen in Saccharomyces cerevisiae identifies previously uncharacterized
+Li GW, Burkhardt D, Gross C, Weissman JS (2014). Quantifying absolute cell cycle genes. Proc Natl Acad Sci USA 98, 3946–3951.
+protein synthesis rates reveals principles underlying allocation of cellular Stoebel DM, Dean AM, Dykhuizen DE (2008). The cost of expression of
+resources. Cell 157, 624–635. Escherichia coli lac operon proteins is in the process, not in the prod-
+Liebermeister W, Noor E, Flamholz A, Davidi D, Bernhardt J, Milo R (2014). ucts. Genetics 178, 1653–1660.
+Visual account of protein investment in cellular functions. Proc Natl Acad Tang YC, Amon A (2013). Gene copy-number alterations: a cost-benefit
+Sci USA 111, 8488–8493. analysis. Cell 152, 394–405.
+Linding R, Russell RB, Neduva V, Gibson TJ (2003). GlobPlot: exploring Teixeira MC, Monteiro PT, Guerreiro JF, Gonçalves JP, Mira NP, dos Santos
+protein sequences for globularity and disorder. Nucleic Acids Res 31, SC, Cabrito TR, Palma M, Costa C, Francisco AP, et al. (2014). The
+3701–3708. YEASTRACT database: an upgraded information system for the analysis
+Little JW, Shepley DP, Wert DW (1999). Robustness of a gene regulatory of gene and genomic transcription regulation in Saccharomyces cerevi-
+circuit. EMBO J 18, 4299–4307. siae. Nucleic Acids Res 42, D161–D166.
+Liu Z, Huang Y (2014). Advantages of proteins being disordered. Protein Sci Thorburn RR, Gonzalez C, Brar GA, Christen S, Carlile TM, Ingolia NT,
+23, 539–550. Sauer U, Weissman JS, Amon A (
+
+Chunk 28:
+Little JW, Shepley DP, Wert DW (1999). Robustness of a gene regulatory of gene and genomic transcription regulation in Saccharomyces cerevi-
+circuit. EMBO J 18, 4299–4307. siae. Nucleic Acids Res 42, D161–D166.
+Liu Z, Huang Y (2014). Advantages of proteins being disordered. Protein Sci Thorburn RR, Gonzalez C, Brar GA, Christen S, Carlile TM, Ingolia NT,
+23, 539–550. Sauer U, Weissman JS, Amon A (2013). Aneuploid yeast strains exhibit
+Liu H, Krizek J, Bretscher A (1992). Construction of a GAL1-regulated yeast defects in cell growth and passage through START. Mol Biol Cell 24,
+cDNA expression library and its application to the identification of 1274–1289.
+3938 | H. Moriya Molecular Biology of the Cell
+
+---PAGE BREAK---
+
+Tomala K, Korona R (2013). Evaluating the fitness cost of protein expression analysis of protein-protein interactions in Saccharomyces cerevisiae.
+in Saccharomyces cerevisiae. Genome Biol Evol 5, 2051–2060. Nature 403, 623–627.
+Tomala K, Pogoda E, Jakubowska A, Korona R (2014). Fitness costs of Vavouri T, Semple JI, Garcia-Verdugo R, Lehner B (2009). Intrinsic protein
+minimal sequence alterations causing protein instability and toxicity. Mol disorder and interaction promiscuity are widely associated with dosage
+Biol Evol 31, 703–707. sensitivity. Cell 138, 198–208.
+Torres EM, Dephoure N, Panneerselvam A, Tucker CM, Whittaker CA, Gygi Veitia RA, Bottani S, Birchler JA (2008). Cellular reactions to gene dosage
+SP, Dunham MJ, Amon A (2010). Identification of aneuploidy-tolerating imbalance: genomic, transcriptomic and proteomic effects. Trends
+mutations. Cell 143, 71–83. Genet 24, 390–397.
+Torres EM, Sokolsky T, Tucker CM, Chan LY, Boselli M, Dunham MJ, Amon von Dassow G, Meir E, Munro EM, Odell GM (2000). The segment polarity
+A (2007). Effects of aneuploidy on cellular physiology and cell division in network is a robust developmental module. Nature 406, 188–192.
+haploid yeast. Science 317, 916–924. Wagner A (2005). Energy constraints on the evolution of
+
+Chunk 29:
+3, 71–83. Genet 24, 390–397.
+Torres EM, Sokolsky T, Tucker CM, Chan LY, Boselli M, Dunham MJ, Amon von Dassow G, Meir E, Munro EM, Odell GM (2000). The segment polarity
+A (2007). Effects of aneuploidy on cellular physiology and cell division in network is a robust developmental module. Nature 406, 188–192.
+haploid yeast. Science 317, 916–924. Wagner A (2005). Energy constraints on the evolution of gene expression.
+Torres EM, Williams BR, Amon A (2008). Aneuploidy: cells losing their bal- Mol Biol Evol 22, 1365–1374.
+ance. Genetics 179, 737–746. Yoshikawa K, Tanaka T, Ida Y, Furusawa C, Hirasawa T, Shimizu H (2011).
+Treusch S, Lindquist S (2012). An intrinsically disordered yeast prion arrests Comprehensive phenotypic analysis of single-gene deletion and overex-
+the cell cycle by sequestering a spindle pole body component. J Cell pression strains of Saccharomyces cerevisiae. Yeast 28, 349–361.
+Biol 197, 369–379. Zaslaver A, Mayo AE, Rosenberg R, Bashkin P, Sberro H, Tsalyuk M, Surette
+Uetz P, Giot L, Cagney G, Mansfield TA, Judson RS, Knight JR, Lockshon MG, Alon U (2004). Just-in-time transcription program in metabolic
+D, Narayan V, Srinivasan M, Pochart P, et al. (2000). A comprehensive pathways. Nat Genet 36, 486–491.
+Volume 26 November 5, 2015 Quantitative nature of OE experiments | 3939
+
+---PAGE BREAK---
+
+
+

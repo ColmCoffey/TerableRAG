@@ -1,0 +1,1852 @@
+Chunk 1:
+Journal of Neural Transmission (2022) 129:1201–1217
+https://doi.org/10.1007/s00702-022-02498-1
+NEUROLOGY AND PRECLINICAL NEUROLOGICAL STUDIES - REVIEW ARTICLE
+Blood‑based biomarker in Parkinson’s disease: potential for future
+applications in clinical research and practice
+Lars Tönges1,2 · Carsten Buhmann3 · Stephan Klebe4 · Jochen Klucken5,6,7 · Eun Hae Kwon1 · Thomas Müller8 ·
+David J. Pedrosa9,10 · Nils Schröter11 · Peter Riederer12,13 · Paul Lingor14
+Received: 9 March 2022 / Accepted: 27 March 2022 / Published online: 15 April 2022
+© The Author(s) 2022
+Abstract
+The clinical presentation of Parkinson’s disease (PD) is both complex and heterogeneous, and its precise classification
+often requires an intensive work-up. The differential diagnosis, assessment of disease progression, evaluation of therapeutic
+responses, or identification of PD subtypes frequently remains uncertain from a clinical point of view. Various tissue- and
+fluid-based biomarkers are currently being investigated to improve the description of PD. From a clinician's perspective,
+signatures from blood that are relatively easy to obtain would have great potential for use in clinical practice if they fulfill the
+necessary requirements as PD biomarker. In this review article, we summarize the knowledge on blood-based PD biomark-
+ers and present both a researcher’s and a clinician’s perspective on recent developments and potential future applications.
+Keywords Biomarker · Parkinson’s disease · Parkinsonian syndromes · Alpha-synuclein
+Introduction
+including alpha-Synuclein (aSyn) conformational changes
+and its propagation, alterations in biology of amyloid-beta
+Parkinson’s disease (PD) is a complex and heterogeneous and tau proteins, cellular damage resulting in increase of
+neurodegenerative movement disorder that presents in vari- neurofilaments, but also modified small non-coding RNA
+ous clinical phenotypes ranging from tremor-predominant levels, lymphocyte, and inflammatory profiles.
+syndromes to brad
+
+Chunk 2:
+ropagation, alterations in biology of amyloid-beta
+Parkinson’s disease (PD) is a complex and heterogeneous and tau proteins, cellular damage resulting in increase of
+neurodegenerative movement disorder that presents in vari- neurofilaments, but also modified small non-coding RNA
+ous clinical phenotypes ranging from tremor-predominant levels, lymphocyte, and inflammatory profiles.
+syndromes to bradykinetic-rigid manifestations and inter- However, these underlying processes do not consistently
+mediate types (Bloem et al. 2021). Similarly, disease- translate to individual clinical presentations and the indi-
+causing and disease-promoting pathomechanisms may be vidual course of disease might be quite different. Recent
+diverse and involve various molecular and cellular aspects data from large cohort studies support the finding that mild
+* Lars Tönges 8 Department of Neurology, St. Joseph Hospital
+lars.toenges@ruhr-uni-bochum.de Berlin-Weissensee, 13088 Berlin, Germany
+1 Department of Neurology, Ruhr-University Bochum, St. 9 Department of Neurology, Universitätsklinikum Gießen
+and Marburg, Marburg Site, 35043 Marburg, Germany
+Josef Hospital, Gudrunstr. 56, 44791 Bochum, Germany
+2 Center for Protein Diagnostics (ProDi), Ruhr University 10 Center of Mind, Brain and Behaviour (CMBB),
+Philipps-Universität Marburg, 35043 Marburg, Germany
+Bochum, 44801 Bochum, Nordrhein-Westfalen, Germany
+3 Department of Neurology, University Medical Center 11 Department of Neurology and Clinical Neuroscience,
+University of Freiburg, 79106 Freiburg, Germany
+Hamburg-Eppendorf, 20246 Hamburg, Germany
+4 Department of Neurology, University Hospital Essen, 12 Psychosomatics and Psychotherapy, University Hospital
+Wuerzburg, Clinic and Policlinic for Psychiatry,
+45147 Essen, Germany
+97080 Wuerzburg, Germany
+5 Department of Digital Medicine, University Luxembourg, 13 University of Southern Denmark Odense, 5000 Odense,
+LCSB, L-4367 Belval, Luxembourg
+Denmark
+6 Digital Medicine Research Group, Luxembourg
+
+Chunk 3:
+epartment of Neurology, University Hospital Essen, 12 Psychosomatics and Psychotherapy, University Hospital
+Wuerzburg, Clinic and Policlinic for Psychiatry,
+45147 Essen, Germany
+97080 Wuerzburg, Germany
+5 Department of Digital Medicine, University Luxembourg, 13 University of Southern Denmark Odense, 5000 Odense,
+LCSB, L-4367 Belval, Luxembourg
+Denmark
+6 Digital Medicine Research Group, Luxembourg Institute 14 School of Medicine, Klinikum Rechts Der Isar,
+of Health, L-1445 Strassen, Luxembourg
+Department of Neurology, Technical University of Munich,
+7 Centre Hospitalier de Luxembourg, Digital Medicine 81675 München, Germany
+Research Clinic, L-1210 Luxembourg, Luxembourg
+Vol.:(0112 33456789)
+
+---PAGE BREAK---
+
+1 202 L. Tönges et al.
+motor-predominant, intermediate, or diffuse malignant PD test; means no disease at autopsy), and (5) prior probability
+progression subtypes exist (Pablo-Fernández et al. 2019), (the background prevalence of the disease in the population
+but correlations of molecular and cellular alterations with tested) (Shaw et al. 2007; Gerlach et al. 2012).
+different subtypes have so far only been rare (Mestre et al. Traditionally, biomarkers were derived as lab-based bio-
+2021). To improve the diagnosis of PD, assess disease pro- logical measures from specimens including body fluids or
+gression, evaluate therapeutic responses, or identify PD tissues. They are commonly analyzed with biochemical,
+subtypes, various tissue- and fluid-based biomarkers are molecular, cellular, and histological analytics or related
+currently being investigated. Blood biomarkers that are methods derived from procedures of clinical chemistry and
+relatively easy to obtain would have a great potential for use laboratory medicine. The present manuscript will address
+if they were able to meet the necessary requirements in a blood-based biomarkers, since they are the best-studied bio-
+research setting and clinical practice. In this review article, markers in PD and easiest to be tr
+
+Chunk 4:
+ are methods derived from procedures of clinical chemistry and
+relatively easy to obtain would have a great potential for use laboratory medicine. The present manuscript will address
+if they were able to meet the necessary requirements in a blood-based biomarkers, since they are the best-studied bio-
+research setting and clinical practice. In this review article, markers in PD and easiest to be translated into everyday clin-
+we assess the current state of blood-based PD biomarkers, ical practice. Particularly with respect to the relationship to
+and present both a researcher's and a clinician's perspective clinical care procedures and implementation in clinical care,
+on recent developments. it is important to place the traditional laboratory-based bio-
+markers in the context of other relevant measures that could
+also be understood as biomarkers: clinical assessments such
+What is a biomarker?
+as quantitative scores and scales may also be considered
+biomarkers of a “clinical nature”, because they are widely
+A biomarker, as defined as a “biological marker”, is “a char- used for the purpose originally defined for biomarkers, e.g.,
+acteristic that is objectively measured and evaluated as an to measure and assess disease mechanisms and diagnostic/
+indicator of normal biological processes, pathogenic pro- therapeutic procedures.
+cesses or pharmacological responses to a therapeutic inter- The clinical assessments are nowadays electronically
+vention” (Biomarkers Definitions Working Group 2001, recorded as electronic clinical outcomes assessments
+FDA-NIH Biomarker Working Group 2016). As such, a (eCOA) including clinician, observer, or patient-reported
+biomarker should help us (1) to understand the physiology outcomes (PROMS) (Boyle et al. 2021). The ability to elec-
+and the pathological mechanism underlying the disease pro- tronically record clinical outcomes makes these measures
+cess, (2) to support the diagnostic workup including disease “available” similar to the classical
+
+Chunk 5:
+ As such, a (eCOA) including clinician, observer, or patient-reported
+biomarker should help us (1) to understand the physiology outcomes (PROMS) (Boyle et al. 2021). The ability to elec-
+and the pathological mechanism underlying the disease pro- tronically record clinical outcomes makes these measures
+cess, (2) to support the diagnostic workup including disease “available” similar to the classical biosampling procedures
+prediction and monitoring, and (3) to generate evidence for for lab-based biomarker. Vice versa, lab-based biomarker
+the therapeutic efficiency of any given treatment (Hampel measures increasingly turn into data entries stored in
+et al. 2010; Jack et al. 2013). large multidimensional registries for data-driven research
+A variety of quality criteria definitions exist for bio- approaches.
+marker in general depending on the different application In addition, “technical biomarkers” are typically under-
+areas described above (Editorial 2010). To meet endophe- stood as biological information recorded by technical
+notype criteria, candidate markers have to be (1) heritable, devices such as imaging technologies or objective technical
+(2) relatively state-independent and stable over time, (3) measures (e.g., ECG, blood pressure, etc.). Their assessment
+associated with the illness, and (4) to be found in affected procedure fits very well with the newly developing group
+as well as unaffected family members at a higher rate than in of “digital” biomarker covering patient-centric technical
+the general population. Biomarkers should support/replace measures such as wearable sensors and smartphone-based
+clinical endpoints, because they (1) are earlier/easier/quicker patient-reported outcome measures—partially referred to as
+to measure, (2) reduce trial duration, size, and costs, (3) “real-world outcome measures” (Rovini et al. 2017). The
+are more mechanistic, accurate, and reproducible, and current biomarker developments primarily serve such pur-
+(4) change dynamics
+
+Chunk 6:
+e sensors and smartphone-based
+clinical endpoints, because they (1) are earlier/easier/quicker patient-reported outcome measures—partially referred to as
+to measure, (2) reduce trial duration, size, and costs, (3) “real-world outcome measures” (Rovini et al. 2017). The
+are more mechanistic, accurate, and reproducible, and current biomarker developments primarily serve such pur-
+(4) change dynamics in proportion to what they represent poses, as summarized in Table 1.
+(Hampel et al. 2010; Jack et al. 2013; Ravina et al. 2005;
+Prasad and Hung 2021; Heldman et al. 2014; Benz et al.
+Biomarker applications in Parkinson’s
+2021).
+disease
+Further statistical quality criteria that have to be evaluated
+before acceptance as a biomarker include (1) > 85% sensi-
+tivity (100% indicates that all patients are identified with The most extensive biomarker research for PD stems from
+the disease), (2) > 85% specificity (100% of a test identi- lab-based biological measures so far. To date, however, not
+fies all individuals free of the disease), (3) positive predic- a single marker has been generally accepted or entered clini-
+tive value (> 80%; refers to % of people, who are positive cal practice. A major unmet need is to identify biomarkers
+for the biomarker and have definite disease at autopsy), (4) facilitating diagnosis and therapy of PD: particularly at early
+negative predictive value (is the % of people with a negative disease stages, diagnosing PD can be challenging, but even
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1203
+Table 1 Purposes of biomarker
+Biomarker class Application type
+Diagnostic biomarker For differential or presymptomatic diagnosis, screening for susceptibility and risks
+Prognostic biomarker For the prognosis/chance of healing, therapeutic decision support
+Monitoring biomarker For objective confirmation of therapeutic efficacy, detection of non-responsiveness, progression detection and
+class
+
+Chunk 7:
+… 1203
+Table 1 Purposes of biomarker
+Biomarker class Application type
+Diagnostic biomarker For differential or presymptomatic diagnosis, screening for susceptibility and risks
+Prognostic biomarker For the prognosis/chance of healing, therapeutic decision support
+Monitoring biomarker For objective confirmation of therapeutic efficacy, detection of non-responsiveness, progression detection and
+classification, safety and quality control
+Individualization biomarker To stratify the individual patient profile to assign the patient characteristics to a better—more personalized—ref-
+erence group
+at later stages, the rate of incorrect diagnoses is still remark- growth factor receptors have direct implications for thera-
+ably high (Rizzo et al. 2016). A biomarker that is able to peutic decisions (Bou-Dargham et al. 2021).
+validate the diagnosis of PD could be helpful here. At the The following section reviews the most extensively
+same time, such a diagnostic marker should be able to dif- studied and best characterized blood-derived laboratory-
+ferentiate between idiopathic PD and other Parkinsonian based biomarkers for PD concerning (differential) diagno-
+syndromes (PS), such as atypical PS (aPS) and secondary sis, disease progression/therapy response, and PD subtype
+PS. An example of a clinically useful and widely employed differentiation/individualization.
+technical biomarker is the 123I-FP-CIT SPECT, which dif-
+ferentiates PD from other movement disorders without dopa-
+Blood‑based biomarker
+minergic deficit with high sensitivity and specificity (Var-
+rone and Halldin 2010). However, it fails at differentiating
+Alpha‑synuclein
+PD from aPS and thus remains a more general marker for
+identifying degenerative disorders with striatal dopaminer-
+gic deficiency. Table 2 provides an overview of currently Alpha-synuclein (aSyn) is a small protein of 140 amino
+investigated blood biomarkers for PD. acids located at the presynaptic nerve terminals where it
+Biomarkers could also facilit
+
+Chunk 8:
+r, it fails at differentiating
+Alpha‑synuclein
+PD from aPS and thus remains a more general marker for
+identifying degenerative disorders with striatal dopaminer-
+gic deficiency. Table 2 provides an overview of currently Alpha-synuclein (aSyn) is a small protein of 140 amino
+investigated blood biomarkers for PD. acids located at the presynaptic nerve terminals where it
+Biomarkers could also facilitate clinical trials as surro- presumably exerts its regulatory role in synaptic function
+gates for disease progression. Whereas in clinical routine, and neurotransmitter release (Stefanis 2012). Importantly,
+disease progression is mostly quantified by an increase in a this protein is neuropathologically and genetically closely
+symptom severity score and application of clinical-type bio- linked to PD. aSyn undergoes extensive posttranslational
+marker (e.g., MDS-UPDRS, NMSS, or PDQ-39), symptom modifications including phosphorylation as well as confor-
+severity scores can be significantly skewed by symptomatic mational transformations leading to the formation of aggre-
+therapies that are commonly used in PD. A laboratory-based gates and neuronal toxicity (Zhang et al. 2019). Since aSyn
+biomarker that indicates disease progression independent is considered central to PD pathogenesis, it is most promis-
+of clinical symptoms could be very useful, particularly for ing to serve as a biomarker.
+clinical trials of disease-modifying substances. For example, Beyond its neuronal expression, aSyn can also be detected
+procalcitonin is a widely used biomarker for sepsis and indi- in blood, most abundantly in erythrocytes (red blood cells;
+cates therapeutic response well before the patients’ clinical RBCs) (Barbour et al. 2008). However, studies on total aSyn
+condition improves (Carrol et al. 2002). revealed inconsistent results. As compared to controls, total
+Finally, biomarkers could facilitate the identification of aSyn levels in PD serum or plasma were either increased
+subtypes of pati
+
+Chunk 9:
+bundantly in erythrocytes (red blood cells;
+cates therapeutic response well before the patients’ clinical RBCs) (Barbour et al. 2008). However, studies on total aSyn
+condition improves (Carrol et al. 2002). revealed inconsistent results. As compared to controls, total
+Finally, biomarkers could facilitate the identification of aSyn levels in PD serum or plasma were either increased
+subtypes of patients with similar clinical phenotypes, but (Lin et al. 2017; Ng et al. 2019), not significantly different
+differing etiopathogenesis. For example, genotyping can (Mata et al. 2010; Goldman et al. 2018), or even reduced
+identify multiple independent genotypes that are responsi- (Li et al. 2007; Besong-Agbo et al. 2013). Preanalytical
+ble for the development of a PD phenotype. Clearly, also factors, particularly aSyn contamination from RBCs due to
+idiopathic PD is a heterogeneous disorder, even in prodromal hemolysis, use of different analytical assays, and sampling
+stages (Berg et al. 2021; Qian and Huang 2019). Biomarkers procedures across studies, may have contributed to these
+permitting the identification of defined molecular subgroups discrepancies. Notably, higher aSyn levels in plasma and
+could enable the selection of clinical subgroups for clinical serum showed a significant correlation with motor sever-
+trials and subsequently pave the way for tailored therapies. ity (Wang et al. 2019a; Chang et al. 2020) and cognitive
+Such molecular stratification strategies are already success- decline (Lin et al. 2017; Ng et al. 2019). Exosomes are part
+fully employed in clinical oncology, where, for example, of extracellular vesicles (EV) that can transfer αSyn across
+breast cancer subtypes expressing certain hormone and/or cells and from brain to the peripheral blood. Significantly
+higher concentrations of exosomal aSyn have been observed
+1 3
+
+---PAGE BREAK---
+
+1 204 L. Tönges et al.
+1 3
+esaesid
+s’nosnikraP
+rof srekramoib
+doolb fo weivrevO
+2 elbaT
+rekramoib
+gnipytbus
+dna
+gnizila
+
+Chunk 10:
+, where, for example, of extracellular vesicles (EV) that can transfer αSyn across
+breast cancer subtypes expressing certain hormone and/or cells and from brain to the peripheral blood. Significantly
+higher concentrations of exosomal aSyn have been observed
+1 3
+
+---PAGE BREAK---
+
+1 204 L. Tönges et al.
+1 3
+esaesid
+s’nosnikraP
+rof srekramoib
+doolb fo weivrevO
+2 elbaT
+rekramoib
+gnipytbus
+dna
+gnizilaudividnI
+rekramoib
+gnirotinom
+dna
+citsongorP
+rekramoib citsongaiD
+)3102
+.la
+te
+sdluoF(
+emit
+revo
+sesaercni
+↑nySa-t
+amsalP
+-gnoseB(↓
+))3102
+.la te
+sdluoF( ↔
+,)9102 .la te gN(↑
+:nySa-t
+CH .sv
+DP ni )3102 .la
+te obgA
+;8102
+.la
+te
+gnaW(
+enilced
+evitingoc
+stciderp
+↑nySa-t
+amsalP
+)4102
+.la
+te ihS( CH
+.sv DP
+ni ↑nySa lamosoxe
+amsalP
+)7102
+.la
+te niL
+smailliW(
+mures
+,)6002
+.la te fangA-lE(
+amsalp ni
+↑nySa-o
+CH
+.sv
+DP ni )5102
+.la te
+gnaW( sCBR ,)6102
+.la
+te
+)3102
+.la te sdluoF(
+CH
+sv DP ni ↑nySa-p
+amsalP
+)0202
+.la
+te
+gN(
+DT-DP
+sv
+DGIP-DP
+ni
+↑LFN
+doolB
+tnemriapmi
+rotom
+ereves
+erom
+htiw
+detaicossa
+si
+↑LFN
+doolB
+.la
+te nossnaH(
+CH sv
+segats DP
+decnavda ni ↑LfN
+doolB
+evitingoc
+dna
+)1202
+.la
+te
+eY
+;1202
+.la te
+mörtsdöR
+dnalgY(
+nainosnikrap
+lacipyta
+ni
+↑LfN doolB
+)9102 .la te niL
+;7102
+.la
+te niL
+;1202
+.la
+te nnameiN
+;0202 .la
+te
+eohC(
+enilced
+.la
+te nossnaH
+;9102
+.la te niL(
+DP sv )SPA( semordnys
+.la
+te aM
+;1202
+.la
+te
+tdomaA
+;2202
+.la
+te nnamhuB
+;9102
+)9102
+.la te seuqraM
+;7102
+emit
+revo
+)1202
+)7102
+.la
+te
+gniD(
+DP
+ni epytbus
+DT .sv
+DGIP
+ni
+↓24ßA
+amsalP
+.la te
+niL(
+↔ ,)0202
+.la te zciweisakuŁ-kadjohC(
+:24ßA
+CH .sv
+DP ni )7102
+,.la te gniD( ↓
+,)a8102
+nehC(
+noitcnuf
+evitingoc
+esrow
+htiw
+setalerroc
+↑uat-t
+amsalP
+-kadjohC(
+↔
+uat-t
+mures
+dna )0202
+.la te nehC( ↑uat-t
+amsalP
+)2202
+.la
+te niL
+;0202
+.la
+te
+CH
+sv DP ni
+)0202 .la te zciweisakuŁ
+gnuhC(
+enilced
+evitingoc
+tciderp
+↑uat-t
+dna
+↑24ßA
+VE
+amsalP
+)a8102
+.la te
+niL(
+SPA/DP
+sv DTF
+ni ↑24ßA x ↑↑uat-p
+amsalP
+)1202
+.la
+te
+)8102
+.la
+te
+ýleseV(
+noisserped
+stciderp
+↑
+6-lI
+CH
+sv DP )6102
+.la te
+niQ( ↑ 01-LI ,6-LI
+amsalP
+dna
+yteixna
+,tnemriapmi
+lan
+
+Chunk 11:
+oc
+↑uat-t
+amsalP
+-kadjohC(
+↔
+uat-t
+mures
+dna )0202
+.la te nehC( ↑uat-t
+amsalP
+)2202
+.la
+te niL
+;0202
+.la
+te
+CH
+sv DP ni
+)0202 .la te zciweisakuŁ
+gnuhC(
+enilced
+evitingoc
+tciderp
+↑uat-t
+dna
+↑24ßA
+VE
+amsalP
+)a8102
+.la te
+niL(
+SPA/DP
+sv DTF
+ni ↑24ßA x ↑↑uat-p
+amsalP
+)1202
+.la
+te
+)8102
+.la
+te
+ýleseV(
+noisserped
+stciderp
+↑
+6-lI
+CH
+sv DP )6102
+.la te
+niQ( ↑ 01-LI ,6-LI
+amsalP
+dna
+yteixna
+,tnemriapmi
+lanitsetniortsag
+htiw
+setalerroc
+↑ 01-lI
+)8102
+.la
+te
+miK
+;8102
+.la
+te
+oknepraK(
+noisserped
+)5102
+.la
+te
+adawaS(
+lavivrus
+decuder
+htiw
+detaicossa
+↑ PRC
+CH
+sv DP
+)9102 .la
+te uiQ(
+↑PRC mureS/doolb
+elohW
+era
+↓
+enikotyc
+yrotammaflni-itna
+↑
+enikotyc
+yrotammaflniorP
+-liW(
+tnemriapmi
+evitingoc
+dna
+rotom
+esrow
+htiw
+detaicossa
+)6102
+.la
+te
+yarG‐smail
+ni
+noissergorp
+esaesid
+htiw
+etalerroc
+ot defiitnedi
+sANRim
+17
+:CH
+.sv
+DP
+ni
+↓ p3-7776-Rim
+,p3-6386-Rim
+:CH .sv
+DP
+ni
+↑
+)1202
+.la
+te nreK(
+DP
+)1202
+.la
+te nreK(
+p5-b51-Rim
+,p3-b784-Rim
+,p5-394-Rim
+editpep
+ß-diolyma
+24ßA
+,24
+editpep
+β-diolyma
+04ßA
+,llec
+doolb
+der
+CBR
+,nySa
+detalyrohpsohp
+nySa-p
+,nielcunys-ahpla
+ciremogilo
+nySa-o
+,nielcunys-ahpla
+latot nySa-t
+,nielcunys-ahpla
+nySa
+RLN
+,slortnoc
+yhtlaeh
+CH
+,esaesid
+s’nosnikraP
+DP
+,selcisev
+ralullecartxe
+VE
+,semordnys
+nainosnikraP
+lacipyta
+SPA
+,aitnemed
+laropmetotnorf
+DTF
+,uat detalyrohpsohp
+uat-p ,uat-latot
+uat-t
+,04
+notohP
+elgniS
+retropsnarT
+enimapoD
+ni
+soitar
+gnidnib
+latairts
+RBS
+NACSTaD
+,norefretni
+NFI
+,rotcaf
+sisorcen
+romut
+NT
+,nikuelretni
+LI
+,sllec
+yrotaluger
+T sgerT
+,oitar
+etycohpmyL-ot-lihportueN
+tnanimod-romert
+DT
+,ytlucffiid
+tiag
+ytilibatsni
+larutsop
+DGIP
+,nietorp
+evitcaer-C
+PRC
+,yhpargomoT
+detupmoC
+noissimE
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1205
+in PD patients compared to controls (Shi et al. 2014). A coexist with Lewy body pathology in PD correlating with
+recent study with a small sample size and a follow-up period an accelerated cognitive decline (Jellinger et al. 2002; Irwin
+of 22 months confirmed this 
+
+Chunk 12:
+detupmoC
+noissimE
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1205
+in PD patients compared to controls (Shi et al. 2014). A coexist with Lewy body pathology in PD correlating with
+recent study with a small sample size and a follow-up period an accelerated cognitive decline (Jellinger et al. 2002; Irwin
+of 22 months confirmed this finding in patients with early et al. 2013). Aβ and tau synergistically interact with aSyn
+stage PD, although not baseline, but longitudinal increase promoting their mutual accumulation (Clinton et al. 2010).
+of exosomal aSyn level was associated with higher risk of In CSF, a trend toward lower Aβ42 levels has been
+motor progression (Niu et al. 2020). reported in PD, mostly associated with cognitive dysfunc-
+Given the conflicting data on total aSyn levels, attention tion (Alves et al. 2014; Parnetti et al. 2014). Aβ42 can also
+has been directed to more disease-specific types of aSyn. be measured in blood. Earlier reports did not find a cor-
+Oligomeres of aSyn are considered as toxic forms that pre- relation with cerebral Aβ pathology as indicated by CSF or
+cede aggregation and neuronal death. Increased levels of positron emission tomography (PET) (Zetterberg 2015). It
+oligomeric forms of aSyn have been found in plasma (El- has been discussed that high amounts of the Aβ peptides in
+Agnaf et al. 2006), serum (Williams et al. 2016), and RBCs plasma could have derived from extra-cerebral sources such
+(Wang et al. 2015; Daniele et al. 2018) with moderate ability as platelets leading to these negative findings (Lim et al.
+to differentiate PD from controls. Phosphorylation at serine 2019). However, novel ultrasensitive immunoassay technolo-
+129 is the most common posttranslational modification of gies including immunomagnetic reduction (IMR) suggest
+aSyn. PD patients displayed elevated levels of phosphoryl- that plasma Aβ level could correlate with cerebral amyloido-
+ated aSyn in 
+
+Chunk 13:
+these negative findings (Lim et al.
+to differentiate PD from controls. Phosphorylation at serine 2019). However, novel ultrasensitive immunoassay technolo-
+129 is the most common posttranslational modification of gies including immunomagnetic reduction (IMR) suggest
+aSyn. PD patients displayed elevated levels of phosphoryl- that plasma Aβ level could correlate with cerebral amyloido-
+ated aSyn in plasma (Foulds et al. 2013) and in RBCs (Tian sis (Teunissen et al. 2018). Only a few studies have assessed
+et al. 2019). The diagnostic accuracy can be increased by Aβ42 in PD blood, reporting inconsistent findings regarding
+composite biomarkers including total, proteinase-K resist- blood level or correlation with cognitive functions (Lin et al.
+ant, and phosphorylated aSyn that differentiated PD from 2018a; Chojdak-Łukasiewicz et al. 2020; Chen et al. 2020).
+controls with an AUC of 0.81 (Abd Elhadi et al. 2019). One With regard to PD motor symptoms, lower Aß42 levels in
+of the rare longitudinal studies assayed total aSyn and phos- plasma were shown to be associated with postural instability
+phorylated aSyn at 4–6 monthly intervals from plasma of gait difficulty (PIGD) subtype (Ding et al. 2017). Of note,
+189 newly diagnosed PD patients over a period of 3–4 years this motor subtype in turn predisposes to the risk of develop-
+(Foulds et al. 2013). Whereas total plasma aSyn levels in PD ing cognitive impairment.
+were not different from controls at baseline and increased Evidence on tau protein level in PD blood is even more
+over time, higher phosphorylated aSyn levels were found limited. Furthermore, rapid changes in tau concentrations in
+in PD plasma which remained stable during the follow-ups. blood as demonstrated in patients with acute hypoxic brain
+Regarding the total aSyn dynamics, a higher clearance from injury could hamper a correlation with CSF tau (Randall
+the site of aSyn pathology to the general blood circulation et al. 2013). Increased and similar total tau leve
+
+Chunk 14:
+ited. Furthermore, rapid changes in tau concentrations in
+in PD plasma which remained stable during the follow-ups. blood as demonstrated in patients with acute hypoxic brain
+Regarding the total aSyn dynamics, a higher clearance from injury could hamper a correlation with CSF tau (Randall
+the site of aSyn pathology to the general blood circulation et al. 2013). Increased and similar total tau levels have been
+has been discussed. Another longitudinal study reported that observed in PD compared to controls (Chen et al. 2020;
+both baseline and longitudinal increases in total plasma aSyn Chojdak-Łukasiewicz et al. 2020). A recent study with 55
+predicted the progression of cognitive decline in individu- PD patients did not compare total tau levels with controls,
+als at risk for PD, presenting with hyposmia and dopamine but demonstrated a correlation between higher t-tau levels
+transporter (DAT) binding reduction (Wang et al. 2018). with lower cognitive performance (Lin et al. 2022). Among
+Overall, we conclude that the plasma level of oligomeric patients with parkinsonian syndromes, plasma levels of total
+and phosphorylated aSyn has potential value as a diagnostic and phosphorylated Tau were significantly increased in all
+tool, whereas the level of total aSyn could act as a surrogate disease groups compared to controls, with the highest level
+marker for the progression of PD. The utility of aSyn con- in patients with FTD that in combination with Aβ42 could
+taining exosomes needs to be further validated. Standardiza- differentiate FTD from PD/APS with high accuracy (Lin
+tion of preanalytical factors to allow comparability will be et al. 2018a).
+necessary. Aβ and tau have also been detected in exosomes/extracel-
+lular vesicles (EV). Although tau and Aß42 plasma EV lev-
+els did not differ between PD patients and controls, elevated
+Amyloid‑beta/tau
+levels of both proteins were significantly associated with
+cognitive impairment and combined with other parameters
+Amyloid beta p
+
+Chunk 15:
+eanalytical factors to allow comparability will be et al. 2018a).
+necessary. Aβ and tau have also been detected in exosomes/extracel-
+lular vesicles (EV). Although tau and Aß42 plasma EV lev-
+els did not differ between PD patients and controls, elevated
+Amyloid‑beta/tau
+levels of both proteins were significantly associated with
+cognitive impairment and combined with other parameters
+Amyloid beta peptides (Aβ) are cleaved from the amyloid including aSyn in EV identified cognitively impaired PD
+precursor protein (APP) into the isoforms Aβ42 and Aβ40 patients with high accuracy (Chung et al. 2021).
+that can further assemble into extracellular plaques (Chen Taken together, given the limited number of studies that
+et al. 2017). Hyperphosphorylation of tau protein can lead primarily had a cross-sectional design and only small sample
+to intracellular accumulations appearing as neurofibrillary size, it remains unclear to what extent AD core peptides in
+tangles (NFTs) (Lei et al. 2010). Amyloid plaques and NFTs the blood can reflect neuronal conditions in PD. Larger stud-
+are characteristic of Alzheimer’s disease (AD), but can also ies using ultrasensitive assay methods are needed to better
+1 3
+
+---PAGE BREAK---
+
+1 206 L. Tönges et al.
+assess the validity of Aβ and tau particularly for detecting (90.5%) for distinguishing between patients and controls
+and tracking cognitive dysfunction in PD. Future investiga- (Lin et al. 2019).
+tions should also include Aβ42/Aβ40 ratios to correct for Cross-sectional studies showed heterogeneous results
+interindividual differences. with respect to association of blood NfL concentrations with
+motor impairment in PD, revealing positive (Lin et al. 2019;
+Neurofilament light chain
+Niemann et al. 2021) and negative results (Oosterveld et al.
+2020). Higher NfL levels are associated with more severe
+Neurofilament light chain (NfL) is a structural protein highly motor impairment in the long-term disease course. Baseline
+expressed in axons and relea
+
+Chunk 16:
+association of blood NfL concentrations with
+motor impairment in PD, revealing positive (Lin et al. 2019;
+Neurofilament light chain
+Niemann et al. 2021) and negative results (Oosterveld et al.
+2020). Higher NfL levels are associated with more severe
+Neurofilament light chain (NfL) is a structural protein highly motor impairment in the long-term disease course. Baseline
+expressed in axons and released upon neuronal damage, ren- serum NFL levels showed significant hazard ratios for four
+dering it a robust marker for neuronal injury. NfL concen- out of five disease progression milestones in the long-term
+trations in blood and CSF strongly correlate (Hansson et al. course, indicating that patients with higher blood NFL levels
+2017; Wang et al. 2019b; Marques et al. 2019). Therefore, have a higher likelihood for later motor and social impair-
+blood NfL is a promising biomarker for neurodegeneration ment, expressed by the need for a walking-aid, nursing-home
+including Parkinson´s disease (PD). CSF NfL levels in dif- living, reaching final H and Y stage 5 or death (Ygland Röd-
+ferent Parkinsonian syndromes were found to correlate with ström et al. 2021). In de novo PD patients, higher baseline
+pathological changes in presynaptic putaminal dopamine serum NfL was associated with greater increases of UPDRS-
+transporter (DAT) density reflecting nigrostriatal degenera- III and total UPDRS scores, with greater worsening of pos-
+tion (Diekämper et al. 2021) and higher baseline serum NfL tural instability and gait disorder (PIGD) scores—but not
+was associated with greater reduction of putaminal DAT- tremor scores—over time (Ye et al. 2021).
+binding ratio over time (Ye et al. 2021). Blood NfL was also found associated with PIGD-sub-
+Blood NfL is higher in atypical parkinsonian syndromes type of PD (Pötter-Nerger et al. 2022; Ng et al. 2020). At
+(APS), such as multiple system atrophy (MSA), progressive 2 year follow-up, NfL levels were higher in PIGD compared
+supranuclear palsy (PSP
+
+Chunk 17:
+aminal DAT- tremor scores—over time (Ye et al. 2021).
+binding ratio over time (Ye et al. 2021). Blood NfL was also found associated with PIGD-sub-
+Blood NfL is higher in atypical parkinsonian syndromes type of PD (Pötter-Nerger et al. 2022; Ng et al. 2020). At
+(APS), such as multiple system atrophy (MSA), progressive 2 year follow-up, NfL levels were higher in PIGD compared
+supranuclear palsy (PSP), and corticobasal syndrome (CBS) to tremor-dominant subtype, and within the PIGD group,
+(Lin et al. 2019; Hansson et al. 2017; Marques et al. 2019; higher blood NfL was associated with worse global cogni-
+Mollenhauer et al. 2020) compared to PD and therefore tion and UPDRS III at baseline and predicted motor and
+might serve as biomarker to distinguish between APS and cognitive decline (Ng et al. 2020). Furthermore, NfL base-
+PD, even in early stages of APS, when clinical symptoms line levels were associated with greater worsening of PIGD
+are not yet conclusive (Hansson et al. 2017; Marques et al. scores over 8 year follow-up (Kim and Jeon 2021).
+2019). Accuracy levels up to 91% (sensitivity = 86% and Consistent inverse associations of blood NfL levels
+specificity = 85%) for distinguishing APS from PD apply- with cognitive scores have been reported (Oosterveld et al.
+ing a cut-off value of 14.8 g/L have been suggested (Marques 2020; Lin et al. 2019, 2018b). Except for one study (Ye et al.
+et al. 2019). In PD and controls, but not in APS (Marques 2021), all identified publications described a positive asso-
+et al. 2019), serum NfL concentrations correlate with age ciation between baseline blood NfL levels and negative cog-
+(Lin et al. 2018b, 2019; Marques et al. 2019; Mollenhauer nitive outcome by applying different cognitive measurement
+et al. 2020). instruments. This association was found for all PD sever-
+Blood NfL seems to be higher in more advanced ity stages, i.e., in a heterogenous PD cohort (Aamodt et al.
+PD patients compared to controls, while the situation 2021), 
+
+Chunk 18:
+aseline blood NfL levels and negative cog-
+(Lin et al. 2018b, 2019; Marques et al. 2019; Mollenhauer nitive outcome by applying different cognitive measurement
+et al. 2020). instruments. This association was found for all PD sever-
+Blood NfL seems to be higher in more advanced ity stages, i.e., in a heterogenous PD cohort (Aamodt et al.
+PD patients compared to controls, while the situation 2021), in prodromal and de novo patients (Mollenhauer et al.
+is described controversially for early disease stages. A 2020; Ma et al. 2021), in moderately (Lin et al. 2019), and
+metaanalysis showed no differences in blood NfL in PD advanced (Choe et al. 2020; Niemann et al. 2021) diseased
+patients not stratified by disease severity compared to con- PD patients. NfL values in the range from 14 to 19 pg/ml
+trols (Wang et al. 2019b). While recently blood NfL concen- have been suggested as cut-off values for a higher risk of
+trations at baseline and at follow-up (mean of 6.4 years) were cognitive decline (MoCA) (Aamodt et al. 2021; Lin et al.
+found higher in de novo PD patients compared to controls 2019), but likely cohort-related age-adjusted NfL levels are
+(Ma et al. 2021), others did not find a difference for earlier more reliable (Buhmann et al. 2022; Ma et al. 2021).
+PD disease stages (means for age, H&Y, and disease dura- Furthermore, blood NfL and NT-proBNP levels are asso-
+tion: 57y/2.0/34mo) (Marques et al. 2019). In another study, ciated with PD (Niemann et al. 2021) indicating subclinical
+only in advanced PD patients (65y/2.5/9.7y) but not in a less cardiac damage. In line, cardiac microdamage and vascular
+severely affected group of comparable age (65y/1.9/5.3y), risk factors have been found associated with motor symp-
+NfL blood levels were higher compared to controls (Hansson toms and progression in PD (Choe et al. 2020; Mollenhauer
+et al. 2017). For advanced PD patients (68.5y/3.1/7.8y), a et al. 2019) which might be part of the body-first type of PD
+plasma NfL cut-off va
+
+Chunk 19:
+ microdamage and vascular
+severely affected group of comparable age (65y/1.9/5.3y), risk factors have been found associated with motor symp-
+NfL blood levels were higher compared to controls (Hansson toms and progression in PD (Choe et al. 2020; Mollenhauer
+et al. 2017). For advanced PD patients (68.5y/3.1/7.8y), a et al. 2019) which might be part of the body-first type of PD
+plasma NfL cut-off value of 12.34 pg/ml has been suggested (Horsager et al. 2020).
+to have a modest sensitivity (53.2%) and a high specificity
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1207
+Overall, there are increasing data suggesting blood NfL Although there is no doubt that sncRNAs play an impor-
+as biomarker for disease severity and predictor for cogni- tant role in the regulation of disease-relevant mechanisms
+tive decline. Blood NfL concentration seems to be associ- and show a correlation with disease state and progression,
+ated with PD patients of the PIGD subtype and subclinical it remains to be determined if they can be established as a
+cardiomyopathy. clinically useful biomarker for PD. The weak correlation
+of individual sncRNA targets even from large studies does
+sncRNAs
+not allow designating specific sncRNAs as biomarker in
+PD. An important prerequisite for comparability between
+RNA species that are not translated into a protein, but con- studies will be the choice of a uniform sampling source as
+tribute to the regulation of gene expression are called non- well as a uniform quantification and analysis pipeline. Other
+coding RNA (ncRNA). In contrast to long non-coding RNA, sources which may show less variability, such as CSF, may
+small ncRNA (sncRNA) are shorter than 200 nucleotides be equally promising to explore (Caldi Gomes et al. 2021).
+and consist of different species, such as miRNA, piRNA, and
+siRNA. SncRNA has been previously shown to have a poten-
+Lymphocyte cell profiles
+tial as biomarker in various ty
+
+Chunk 20:
+coding RNA (ncRNA). In contrast to long non-coding RNA, sources which may show less variability, such as CSF, may
+small ncRNA (sncRNA) are shorter than 200 nucleotides be equally promising to explore (Caldi Gomes et al. 2021).
+and consist of different species, such as miRNA, piRNA, and
+siRNA. SncRNA has been previously shown to have a poten-
+Lymphocyte cell profiles
+tial as biomarker in various types of cancers (Esteller 2011).
+However, the identification of such markers is complicated,
+among other things, by the fact that blood is composed of Inflammation that is associated with neurodegeneration is
+different non-exclusive components, e.g., plasma, serum, gaining increasing attention in PD research. However, there
+PBMC, or exosomes, each of which contains sncRNA in a is an ongoing discussion on whether inflammation is an
+different composition (Roser et al. 2018). Furthermore, the important trigger factor for disease development or a con-
+method that is used to detect and quantify sncRNAs as well sequence of degeneration (Hirsch and Hunot 2009).
+as the sample pre-analytics may significantly alter the results A variety of studies with mostly retrospective and cross-
+of sncRNA analyses (Kuo et al. 2021). sectional approaches have described alterations attributable
+A multitude of PD patient cohorts has been analyzed to both pro- and anti-inflammatory cellular responses in PD.
+for differential expression of sncRNA in the hope to iden- ASyn was identified as a possible causal link between PD
+tify individual sncRNAs or combinations thereof that can and inflammation, as it was shown to be able to trigger spe-
+be used as a biomarker. One of the largest studies to date cific responses in both helper and cytotoxic T cells (Sulzer
+used 4.440 samples from 1.511 individuals in the discovery et al. 2017). T helper cells, also called CD4 + T cells, occupy
+cohort and 1.440 samples from 988 donors in an independent a key position in the regulation of the immune system via
+validation
+
+Chunk 21:
+wn to be able to trigger spe-
+be used as a biomarker. One of the largest studies to date cific responses in both helper and cytotoxic T cells (Sulzer
+used 4.440 samples from 1.511 individuals in the discovery et al. 2017). T helper cells, also called CD4 + T cells, occupy
+cohort and 1.440 samples from 988 donors in an independent a key position in the regulation of the immune system via
+validation cohort (Kern et al. 2021). As in most other stud- cytokines and, taken together with CD8 + T cells, comprise
+ies, more than 90% of all detected sncRNA species belonged the largest proportion of T cells (Luckheeram et al. 2012).
+to miRNA. Analysis of the discovery cohort showed miR- CD4 + T cells can adopt both a pro- (e.g., T helper (Th) 1)
+6836-3p and miR-6777-3p to be upregulated in PD, whereas and an anti-inflammatory phenotype (e.g., Th2 or T regula-
+miR-493-5p, miR-487b-3p, and miR-15b-5p supported the tory (Treg)). Regardless of dopaminergic therapy, a decline
+general trend of miRNA downregulation in PD patients com- of CD4 + cells was observed with a shift toward Th1 and a
+pared to controls. The latter two were also reproduced in the concomitant decrease in Th2 and Treg, representing a tip-
+validation cohort. Being able to study longitudinal data, the ping of the balance toward a proinflammatory state (Kus-
+authors also suggest that miRNAs can be used as progres- trimovic et al. 2018; Rocha et al. 2018; Sun et al. 2019).
+sion markers in PD. Although the miRNA identified in this Regarding Tregs, only the subtypes of suppressor, active
+study are involved in biological processes that are commonly and type 1 Tregs are diminished in PD, whereas classic and
+associated with PD pathogenesis (mitochondrial function, resting Tregs remain stable (Álvarez-Luquín et al. 2019).
+oxidative stress, and protein degradation), the correlation of In contrast, Schröder et al. found no difference in the total
+the deregulated miRNAs with those identified in previous number of CD4 + and CD8
+
+Chunk 22:
+es that are commonly and type 1 Tregs are diminished in PD, whereas classic and
+associated with PD pathogenesis (mitochondrial function, resting Tregs remain stable (Álvarez-Luquín et al. 2019).
+oxidative stress, and protein degradation), the correlation of In contrast, Schröder et al. found no difference in the total
+the deregulated miRNAs with those identified in previous number of CD4 + and CD8 + T lymphocytes, but observed
+studies is limited. Only miR-15b-5p was previously shown an increased proportion of activated cells (Schröder et al.
+to be regulated in the same direction (Ding et al. 2016). The 2018). In parallel, a shift from naive to activated Treg cells
+authors clearly show an age-dependence in the expression of (CD45RA + to CD45RO +) was observed with higher levels
+sncRNA and, by deconvolution, relate the origin of the miR- of CD45RO + cells associated with more severe motor and
+NAs mostly to cells of the immune system. Other summaries cognitive impairment (Magistrelli et al. 2020; Saunders et al.
+of the recent work on blood-based sncRNA biomarker in PD 2012). The proportion of Tregs expressing CD49d, coding
+display a plethora of different miRNA that were found to be for a molecule that enables migration into the central nerv-
+deregulated in cohorts of different sizes and compositions ous system, is increased in PD and linked to lower motor
+(Schulz et al. 2019; Kuo et al. 2021; Roser et al. 2018). impairment, suggesting a protective influence (Karaaslan
+et al. 2021). Significantly decreased expression of CD57
+1 3
+
+---PAGE BREAK---
+
+1 208 L. Tönges et al.
+was observed on CD8 + T cells accompanied by increased (Brocker et al. 2010). Results to date suggest differences in
+expression of CD28. This is inverse to the surface expression interleukin levels between PD and healthy controls, although
+observed in physiological immunosenescence, indicating interleukins must be considered separately, and also conflict-
+pathological immunological aging in PD and repres
+
+Chunk 23:
+erved on CD8 + T cells accompanied by increased (Brocker et al. 2010). Results to date suggest differences in
+expression of CD28. This is inverse to the surface expression interleukin levels between PD and healthy controls, although
+observed in physiological immunosenescence, indicating interleukins must be considered separately, and also conflict-
+pathological immunological aging in PD and representing a ing results have been published in recent years. For Il-6 and
+possible link to the increasing incidence of disease with age Il-10, a meta-analysis of 13, respectively 5, studies demon-
+(Williams-Gray et al. 2018). strated increased levels compared with healthy individuals,
+In addition to lymphocyte profiles analyzed by flow though with only a small-to-intermediate effect size (Qin
+cytometry, the neutrophil-to-lymphocyte ratio (NLR) is et al. 2016). Subsequent studies yielded mixed results and
+increasingly reported as an easily determinable and cost- found no difference (Schröder et al. 2018) or even decreased
+effective biomarker. NLR is an indicator of the inflamma- interleukin levels compared to healthy subjects (Rocha et al.
+tory status, that is evaluated not only in infectious but also 2018). A positive association was observed between Il-6
+in neurodegenerative disorders such as Alzheimer’s disease and depression in a 2 year follow-up (Veselý et al. 2018).
+(Dong et al. 2019; Russell et al. 2019). Elevated NLR was Concerning Il-10, a positive association with autonomic,
+found in PD compared to healthy controls in a case–con- especially gastrointestinal symptoms, was described, while
+trol study and confirmed in a subsequent meta-analysis of others found a positive association with anxiety and depres-
+nine studies (Muñoz‐Delgado et al. 2021). Late-onset PD is sion (Karpenko et al. 2018; Kim et al. 2018).
+reported to have a higher NLR than early onset PD (Jin et al. Compared to interleukins, data for TNF-α are even more
+2020). Regarding paraclinical and clinical par
+
+Chunk 24:
+ribed, while
+trol study and confirmed in a subsequent meta-analysis of others found a positive association with anxiety and depres-
+nine studies (Muñoz‐Delgado et al. 2021). Late-onset PD is sion (Karpenko et al. 2018; Kim et al. 2018).
+reported to have a higher NLR than early onset PD (Jin et al. Compared to interleukins, data for TNF-α are even more
+2020). Regarding paraclinical and clinical parameters, a neg- inconclusive with mixed results being reported for TNF-α
+ative association between NLR and striatal-binding ratios in levels, with increased (Dufek et al. 2009; Kouchaki et al.
+DaTScan analysis as a surrogate parameter for nigrostriatal 2018; Wang et al. 2016), decreased (Gupta et al. 2016), or
+degeneration was observed as well as a positive association equal levels (Lindqvist et al. 2012) compared to healthy
+with motor impairment indicating NLR as a potential bio- controls. Nevertheless, associations were observed with
+marker for disease progression. However, this is limited by disease stage, fatigue, depression, and anxiety (Menza et al.
+the fact that the associations were observed only for tremor- 2010). Chemokine ligand 5 (CCL5, RANTES) levels were
+dominant PD but not for other subtypes (Muñoz‐Delgado elevated in PD compared to controls with a positive cor-
+et al. 2021, Sanjari Moghaddam et al. 2018). relation with Hoehn and Yahr stage, motor impairment, and
+Taken together, lymphocyte profiles and NLR represent disease duration (Rentzos et al. 2007; Tang et al. 2014). In a
+an interesting approach as biomarkers for both diagnosis large prospective study, elevated proinflammatory and low
+and disease progression of PD. While the NLR is supported anti-inflammatory cytokine levels were associated with an
+by its easy accessibility and association with nigrostriatal unfavorable outcome for both motor deficits and cognition
+degeneration as one of the pathophysiological hallmarks of (Williams‐Gray et al. 2016). However, these results could
+PDs, lymphocyte profile
+
+Chunk 25:
+ proinflammatory and low
+and disease progression of PD. While the NLR is supported anti-inflammatory cytokine levels were associated with an
+by its easy accessibility and association with nigrostriatal unfavorable outcome for both motor deficits and cognition
+degeneration as one of the pathophysiological hallmarks of (Williams‐Gray et al. 2016). However, these results could
+PDs, lymphocyte profiles could potentially play a role in not be confirmed in a trial with a similar design (Yilmaz
+the identification of subtypes within PDs and contribute to et al. 2018).
+the pathophysiological understanding of the disease. Further Taken together, the value of individual inflammatory
+prospective studies with clearly defined a priori hypotheses markers in PD is low as both diagnostic and prognostic bio-
+and sufficient power are needed to conclusively assess the marker. Studies that combine several pro- and anti-inflam-
+value of lymphocyte profiles as biomarker. matory markers showed promising results both in diagnostic
+performance and as predictors of individual disease progres-
+Cytokines and other inflammatory markers sion (Rathnayake et al. 2019; Williams‐Gray et al. 2016).
+More prospective studies that are adequately powered are
+The altered composition of lymphocytes leads to and is in required to conclusively assess the potential of inflammatory
+turn influenced by an altered composition of cytokines. Sev- markers in PD.
+eral cytokines and inflammatory markers were investigated
+as a potential biomarker in PD. Elevated levels of CRP and
+Methods for biomarker identification using
+hs-CRP were found in patients with PD compared to healthy
+machine learning techniques
+controls in a large number of studies, though with limited
+sample sizes. These results have now been confirmed in
+recent meta-analyses (Akıl et al. 2015; Jin et al. 2020; Qiu Biomarker development is particularly challenging in dis-
+et al. 2019). Additionally, higher CRP levels, measured in an eases that involve multi
+
+Chunk 26:
+P were found in patients with PD compared to healthy
+machine learning techniques
+controls in a large number of studies, though with limited
+sample sizes. These results have now been confirmed in
+recent meta-analyses (Akıl et al. 2015; Jin et al. 2020; Qiu Biomarker development is particularly challenging in dis-
+et al. 2019). Additionally, higher CRP levels, measured in an eases that involve multiple subgroups or when a confirmed
+infection-free interval, are associated with reduced survival diagnosis cannot be made until autopsy, as is the case with
+(Sawada et al. 2015). Parkinson’s disease. This represents a vicious circle, e.g.,
+Interleukins comprise a group of more than 50 cytokines in PD patients with multifaceted manifestations, as the
+that can exert both a pro- and anti-inflammatory effect demand for universal biomarkers has often resulted in them
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1209
+being representative of PD subtypes at best (Eggers et al. assumptions. More importantly, however, interactions
+2012). One solution could lie in increasing computational between variables can be accounted for—approximating
+capacity for multiparametric assessment and improving data closer to complex biological systems. Particularly, combin-
+availability, including data-driven biomarker identification ing feature selection and classification has already been put
+based on clinical data (Xie et al. 2021; Mamoshina et al. into practice (Leclercq et al. 2019). Otherwise, especially
+2018). The basis for biomarker identification using data- unsupervised algorithms deliver conflicting specificity and
+base information is a thorough clinical description and a accuracy results, a major drawback. Thus, ethical and prac-
+sufficient number of samples. Databases containing informa- tical implications arising from that dilemma have yet to be
+tion on a large number of participants have been previously assessed, such
+
+Chunk 27:
+ identification using data- unsupervised algorithms deliver conflicting specificity and
+base information is a thorough clinical description and a accuracy results, a major drawback. Thus, ethical and prac-
+sufficient number of samples. Databases containing informa- tical implications arising from that dilemma have yet to be
+tion on a large number of participants have been previously assessed, such as the question of how to disclose the lack
+established and are in part openly available to researchers of explicability of the algorithms and the resulting medi-
+(Simuni et al. 2016; Usnich et al. 2021). However, acces- cal decisions to patients (Beil et al. 2019) or how the fact
+sible data are not sufficient for biomarker development and should be handled that important clinical aspects may not
+new possibilities of data analysis in large samples have have been incorporated to the training, so that generalizabil-
+revealed limitations in traditional statistical analyses. For ity may be questionable. Besides, the resulting multidimen-
+example, divergent clinical and statistical significance may sional patterns must not be fully intuitive, as they may not be
+require cautious interpretation, as do small-effect sizes with traceable or show a relationship to the original data. These
+high case numbers. Moreover, rather trivial problems are findings can emerge as a sort of “black box”-like markers
+encountered, such as, e.g., the handling of excessive type I which, however, have scientific value and have to be put into
+errors (Smith and Nichols 2018). Yet, problems of frequen- relation with other already established biomarkers or clini-
+tist approaches may be remedied with probabilistic methods cal findings. To a certain degree, one may therefore argue
+such as Bayesian statistics or what is broadly categorized as that machine learning models and the set of features may
+artificial intelligence. be coined as biomarker, themselves. Finally, it needs to be
+Thanks to ever-increasing co
+
+Chunk 28:
+th other already established biomarkers or clini-
+tist approaches may be remedied with probabilistic methods cal findings. To a certain degree, one may therefore argue
+such as Bayesian statistics or what is broadly categorized as that machine learning models and the set of features may
+artificial intelligence. be coined as biomarker, themselves. Finally, it needs to be
+Thanks to ever-increasing computing power, machine borne in mind that multidimensional biomarker patterns are
+learning approaches have found their way into everyday only tangible and useful through representative training data
+life, but especially into science. Such approaches usually sets.
+train in a representative dataset and are verified in the sec-
+ond set of data with characteristics as similar as possible
+(Mitchell 2010). Two approaches to biomarker discovery
+Current trends in PD biomarker research
+can be identified: classification and feature selection. For
+PD patients specifically, classification, on the one hand,
+may enable stratification according to, e.g., disease progres- Currently, a biomarker with a high sensitivity and specificity
+sion, age at onset, but more recently also to genetic profiles does not exist for diagnostic and/or therapeutic purposes in
+(Simuni et al. 2020); machine learning techniques thereby PD. The heterogeneity of PD is caused by both phenotype
+enable almost unlimited complexity, permitting the inclusion and genotype or epigenetic factors. Especially, the results of
+of thousands of genes or imaging results. Feature selection molecular genetics over the last decades have raised hopes
+methods, otherwise, can be divided into (1) filter methods of earlier diagnosis and opened new therapeutic neuropro-
+selecting features as per, e.g., correlations, (2) wrapper tective approaches (Cook et al. 2021). However, there is a
+methods using objective functions such as classification lively debate on the etiology of the disease and some studies
+accuracy to identify important featur
+
+Chunk 29:
+ed hopes
+methods, otherwise, can be divided into (1) filter methods of earlier diagnosis and opened new therapeutic neuropro-
+selecting features as per, e.g., correlations, (2) wrapper tective approaches (Cook et al. 2021). However, there is a
+methods using objective functions such as classification lively debate on the etiology of the disease and some studies
+accuracy to identify important feature combinations among challenge theories that have been favored for a long time
+all possibilities, and (3) embedded functions that incorporate (Horsager et al. 2020; Fearon et al. 2021). For example, the
+feature selection and penalize overfitting (He and Yu 2010). “brain first versus body first” dichotomization (Horsager
+In general terms, feature selection aims at liberating data et al. 2020) classified PD patients into two subgroups with
+from factors with only limited contribution, so that interest- premotor rapid eye movement (REM) sleep behavior disor-
+ing markers remain. What sounds simple and purposeful, der (RBD) at least 1 year prior to the onset of a motor phe-
+however, also has some disadvantages in practice. notype (“body-first”) and those characterized by the absence
+Classical statistical inference methods are beyond doubt of RBD at motor onset (“brain-first”). However, neither is
+in terms of scientific verification and application for bio- this simplification sufficient for patients in clinical practice
+marker discovery. To what extent machine learning algo- nor for clinical studies. Therefore, while understanding the
+rithms will enable biomarker identification remains yet underlying disease mechanism is key, the goal of a single
+unresolved, whereas some aspects are already becoming biomarker for PD patients will be difficult to achieve in the
+clear. In contrast to traditional statistical analyses neces- future. We have to move away from the idea of a single, ideal
+sitating specific distributional assumptions which may not biomarker for diagnostic, progression pu
+
+Chunk 30:
+et underlying disease mechanism is key, the goal of a single
+unresolved, whereas some aspects are already becoming biomarker for PD patients will be difficult to achieve in the
+clear. In contrast to traditional statistical analyses neces- future. We have to move away from the idea of a single, ideal
+sitating specific distributional assumptions which may not biomarker for diagnostic, progression purposes, or monitor-
+always be met, machine learning usually requires fewer ing therapeutic interventions in PD. As mentioned above,
+1 3
+
+---PAGE BREAK---
+
+1 210 L. Tönges et al.
+there is a significant overlap of a potential biomarker such a reliable and clinically relevant biomarker could enable an
+as aSyn species, Aß, tau, and miRNA (Sadlon et al. 2019) earlier implementation of, e.g., a disease-modifying therapy.
+in many patients with neurodegenerative diseases like AD A reliable biomarker should also enable the reflection of
+and PD. clinically relevant changes over the course of PD. An impor-
+Further research activity will be necessary to improve tant step forward was to raise awareness for early non-motor
+current or identify new techniques for the analysis of bio- signs based on initiatives for earlier detection of PD in the
+materials. The real-time quaking-induced conversion (RT- past years to characterize the so-called “prodromal” or “pre-
+QuIC) is one example of a promising new tool for measuring motor” interval. However, heterogeneity of symptoms and
+aggregated aSyn in CSF of PD which could be applied also the individually differing progression do not even allow a
+to blood specimens (van Rumund et al. 2019; Iranzo et al. reliable classification of early signs and the various sub-
+2021). However, the value of RT-QuIC in diagnostics or types of the disease entity PD (Berg et al. 2013; Mahlknecht
+for monitoring the disease course is controversial (Nakagaki et al. 2015). Currently, no validated, reliable, specific, easy
+et al. 2021; van Rumund et al. 2019). In addition,
+
+Chunk 31:
+specimens (van Rumund et al. 2019; Iranzo et al. reliable classification of early signs and the various sub-
+2021). However, the value of RT-QuIC in diagnostics or types of the disease entity PD (Berg et al. 2013; Mahlknecht
+for monitoring the disease course is controversial (Nakagaki et al. 2015). Currently, no validated, reliable, specific, easy
+et al. 2021; van Rumund et al. 2019). In addition, pattern to apply biomarker for PD is yet available. A popular model
+recognition methods will play a major role in the identifica- of dopaminergic neuron degeneration, the Braak model, con-
+tion of disease pathways, as has been previously shown in siders PD as α-synucleinopathy and sets Lewy body pathol-
+cancer research (Cheng and Zhan 2017). The selection of ogy as the essential lime light (Braak et al. 2003; Kings-
+cohorts included in biomarker analyses is also of utmost bury et al. 2010; Halliday et al. 2012). However, recently
+importance and needs to be considered when interpreting failed anti-alpha-synuclein approaches with cinpanemab and
+data from biomarker trials. Findings from other fields may similar results with prasinezumab leave doubts about aSyn
+lead the way: in analogy to reverse phenotyping of genetic as a therapeutic target in PD (Przuntek et al. 2004; Mül-
+findings, it would, e.g., also make sense for biomarker ler and Kohlhepp 2016; Müller et al. 2016; Jellinger 2019;
+research in PD to assign a phenotype to biological signals Espay 2022). One could postulate that Lewy body pathology
+instead of assigning biological signals to a phenotype (Stur- with aSyn pathology is not primarily responsible for nigral
+chio et al. 2020). degeneration in PD (Muller et al. 2021; Espay, 2022) or
+Therefore, the multidimensional analysis of combined that the enrichment of “pathologic” proteins as aSyn, tau or
+“dry” (clinical data including genetic information, artificial β-amyloid are not specific (Müller et al. 2021; Espay 2022).
+intelligence, imaging data including MRI, nucle
+
+Chunk 32:
+is not primarily responsible for nigral
+chio et al. 2020). degeneration in PD (Muller et al. 2021; Espay, 2022) or
+Therefore, the multidimensional analysis of combined that the enrichment of “pathologic” proteins as aSyn, tau or
+“dry” (clinical data including genetic information, artificial β-amyloid are not specific (Müller et al. 2021; Espay 2022).
+intelligence, imaging data including MRI, nuclear medicine, Concepts of purely aSyn-based biomarker in PD may fall
+and ultrasound) and “wet” (biochemical or metabolic param- short to address the entire pathophysiology of the disease.
+eters in serum, urine, stool, and tissue samples) biomarker On the other hand, there is no doubt that a certain genetic
+may provide sufficient information to facilitate accurate impact exists for some PD forms. More than 20 so-called
+diagnosis and treatment in PD. “PD genes” are known. However, these genetic risk factors
+and mutations in familial PD forms, such as DJ-1, PINK-1,
+and UCHL-1, only account for approximately 10% of idi-
+A clinician’s view on PD biomarker
+opathic PD patients. The penetration, the age of onset, and
+symptoms are highly variable. This was also shown in Glu-
+Over the past decades, many initiatives focused on research cocerebrosidase (GBA) mutation carriers (Thaler et al. 2020;
+into clinically relevant diagnostic and prognostic biomark- Mullin et al. 2021; Greuel et al. 2020). Thus, these genetic
+ers for Parkinson’s disease. Biomarkers are looked upon as mutations do not allow any conclusion on the progression of
+excellent tools to screen for PD or PD-at risk-individuals. PD, which is essential from the patients’ view.
+They may facilitate prodromal risk even before the onset Another interesting approach to develop biomark-
+of motor symptoms (Berg et al. 2013). However, to date, ers for measuring the progression of PD was published
+PD is mostly still diagnosed relatively late in the disease recently. Here, a PD prediction algorithm compromised of
+process, sometimes eve
+
+Chunk 33:
+ which is essential from the patients’ view.
+They may facilitate prodromal risk even before the onset Another interesting approach to develop biomark-
+of motor symptoms (Berg et al. 2013). However, to date, ers for measuring the progression of PD was published
+PD is mostly still diagnosed relatively late in the disease recently. Here, a PD prediction algorithm compromised of
+process, sometimes even years after the initial manifesta- ALDH1A1, LAMB2, UBE2K, SKP1A, and age was created
+tion of motor symptoms. It is also the common belief that by logistic regression for predicting progression to ≤ 70%
+the application of an available disease-modifying treatment Modified Schwab and England Activities of Daily Living
+following the earlier diagnostic screening will reduce the within 3 years. Hoehn and Yahr Scale (HYS) had worsened
+currently abundant missing motivation of chronic neurode- from HY stage ≤ 2 to 3 (Rabey et al. 2020). This study dem-
+generative disease-at-risk individuals for a testing procedure onstrates that a set of biomarker (instead of a single marker)
+(Müller 2017). could be more suitable to follow disease progression and
+PD is mostly diagnosed, when approximately 60% of should be equally considered for future biomarker develop-
+dopaminergic axons and 70% of nigral dopaminergic neu- ment approaches.
+rons are already gone. At that stage, frequently only transient Nevertheless, most PD patients suffer from sporadic
+motor symptoms occur (Chen 2010). The hypothesis is that PD forms (Emamzadeh and Surguchov 2018). There are
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1211
+environmental epigenetic influences, such as chronic toxin References
+exposure or still unknown for instance viral or bacterial
+infections, all of which may serve as further still hypotheti- Aamodt WW, Waligorska T, Shen J, Tropea TF, Siderowf A, Weintraub
+cal causes for the onset of sporadic PD forms. Therefore, D, Grossm
+
+Chunk 34:
+in Parkinson’s disease: potential for future applications in clinical… 1211
+environmental epigenetic influences, such as chronic toxin References
+exposure or still unknown for instance viral or bacterial
+infections, all of which may serve as further still hypotheti- Aamodt WW, Waligorska T, Shen J, Tropea TF, Siderowf A, Weintraub
+cal causes for the onset of sporadic PD forms. Therefore, D, Grossman M, Irwin D, Wolk DA, Xie SX, Trojanowski JQ,
+Shaw LM, Chen-Plotkin AS (2021) Neurofilament light chain
+the concept of a more or less singular molecular pathologic
+as a biomarker for cognitive decline in parkinson disease. Mov
+biomarker approach is misleading, in particular when it is Disord 36(12):2945–2950. https://d oi.o rg/1 0.1 002/m ds.2 8779
+based on a pathological finding (Müller et al. 2021). Abd Elhadi S, Grigoletto J, Poli M, Arosio P, Arkadir D, Sharon R
+(2019) α-Synuclein in blood cells differentiates Parkinson’s dis-
+ease from healthy controls. Ann Clin Transl Neurol 6(12):2426–
+2436. https://d oi.o rg/1 0.1 002/a cn3.5 0944
+Conclusions
+Akıl E, Bulut A, Kaplan İ, Özdemir HH, Arslan D, Aluçlu MU (2015)
+The increase of carcinoembryonic antigen (CEA), high-sensitiv-
+Recent research into Parkinson's biomarker has not been able ity C-reactive protein, and neutrophil/lymphocyte ratio in Par-
+kinson’s disease. Neurol Sci 36(3):423–428. https:// doi. org/ 10.
+to identify a biochemical biomarker that could be translated
+1007/s 10072-0 14-1 976-1
+into clinical practice so far. Clinical history taking and clin- Álvarez-Luquín DD, Arce-Sillas A, Leyva-Hernández J, Sevilla-
+ical examination are still the most important tools in the Reyes E, Boll MC, Montes-Moratilla E, Vivas-Almazán V,
+assessment of the disease. Different diagnostic tools are used Pérez-Correa C, Rodríguez-Ortiz U, Espinoza-Cárdenas R,
+Fragoso G, Sciutto E, Adalid-Peralta L (2019) Regulatory
+to confirm the clinical diagnosis or to rule out other diseases
+impairment in untreated Parkinson’s disease is not
+
+Chunk 35:
+ examination are still the most important tools in the Reyes E, Boll MC, Montes-Moratilla E, Vivas-Almazán V,
+assessment of the disease. Different diagnostic tools are used Pérez-Correa C, Rodríguez-Ortiz U, Espinoza-Cárdenas R,
+Fragoso G, Sciutto E, Adalid-Peralta L (2019) Regulatory
+to confirm the clinical diagnosis or to rule out other diseases
+impairment in untreated Parkinson’s disease is not restricted
+in the differential diagnosis. Blood-based biomarker tests to tregs: other regulatory populations are also involved. J Neu-
+for PD are currently evaluated in research settings if they roinflammation. https://d oi.o rg/1 0.1 186/s 12974-0 19-1 606-1
+can help to support the diagnosis or rule out other diseases Alves G, Lange J, Blennow K, Zetterberg H, Andreasson U, Forland
+MG, Tysnes O-B, Larsen JP, Pedersen KF (2014) CSF A 42
+with relative probabilities. We realize that probably due to
+predicts early-onset dementia in Parkinson disease. Neurol-
+the rather heterogeneous spectrum of Parkinson's disease, ogy 82(20):1784–1790. https://d oi.o rg/1 0.1 212/W NL.0 0000
+no biomarker will be able to describe the disease using a 000000 00425
+“black and white” differentiation, to predict its course or Barbour R, Kling K, Anderson JP, Banducci K, Cole T, Diep L, Fox
+M, Goldstein JM, Soriano F, Seubert P, Chilcote TJ (2008)
+even to clearly assign subtypes. Multidimensional analyses
+Red blood cells are the major source of alpha-synuclein in
+will be necessary for this in large patient cohorts, which, blood. Neurodegener Dis 5(2):55–59. https://d oi.o rg/1 0.1 159/
+in addition to blood-based biomarker, should also include 000112 832
+cerebrospinal fluid, tissue and other non-biological markers Beil M, Proft I, van Heerden D, Sviri S, van Heerden PV (2019)
+Ethical considerations about artificial intelligence for prog-
+such as novel digital movement profile markers. A compari-
+nostication in intensive care. Intensive Care Med Exp 7(1):70.
+son of patient cohorts characterized in th
+
+Chunk 36:
+-based biomarker, should also include 000112 832
+cerebrospinal fluid, tissue and other non-biological markers Beil M, Proft I, van Heerden D, Sviri S, van Heerden PV (2019)
+Ethical considerations about artificial intelligence for prog-
+such as novel digital movement profile markers. A compari-
+nostication in intensive care. Intensive Care Med Exp 7(1):70.
+son of patient cohorts characterized in the best possible and https://d oi.o rg/1 0.1 186/s 40635-0 19-0 286-6
+multidimensional manner with the highest quality has the Benz HL, Caldwell B, Ruiz JP, Saha A, Ho M, Christopher S, Bardot
+greatest long-term potential to contribute reliable results and D, Sheehan M, Donnelly A, McLaughlin L, Mange B, Hau-
+ber AB, Gwinn K, Heetderks WJ, Sheldon M (2021) Patient-
+to identify valuable biomarker sets for PD.
+centered identification of meaningful regulatory endpoints
+for medical devices to treat Parkinson’s disease. MDM Policy
+Pract 6(1):23814683211021380. https://d oi.o rg/1 0.1 177/2 3814
+Funding Open Access funding enabled and organized by Projekt 683211 02138 0
+DEAL. Berg D, Godau J, Seppi K, Behnke S, Liepelt-Scarfone I, Lerche
+S, Stockner H, Gaenslen A, Mahlknecht P, Huber H, Srulijes
+Declarations K, Klenk J, Fassbender K, Maetzler W, Poewe W (2013) The
+PRIPS study: screening battery for subjects at risk for Parkin-
+son’s disease. Eur J Neurol 20(1):102–108. https://d oi.o rg/1 0.
+Conflict of interest All authors declare that they have no conflicts of 1111/j.1 468-1 331.2 012.0 3798.x
+interest in regard to this work. Berg D, Borghammer P, Fereshtehnejad S-M, Heinzel S, Horsager J,
+Schaeffer E, Postuma RB (2021) Prodromal Parkinson disease
+Open Access This article is licensed under a Creative Commons Attri- subtypes - key to understanding heterogeneity. Nat Rev Neurol
+bution 4.0 International License, which permits use, sharing, adapta- 17(6):349–361. https://d oi.o rg/1 0.1 038/s 41582-0 21-0 0486-9
+tion, distribution and reproduction in any medium or format, as long Be
+
+Chunk 37:
+ J,
+Schaeffer E, Postuma RB (2021) Prodromal Parkinson disease
+Open Access This article is licensed under a Creative Commons Attri- subtypes - key to understanding heterogeneity. Nat Rev Neurol
+bution 4.0 International License, which permits use, sharing, adapta- 17(6):349–361. https://d oi.o rg/1 0.1 038/s 41582-0 21-0 0486-9
+tion, distribution and reproduction in any medium or format, as long Besong-Agbo D, Wolf E, Jessen F, Oechsner M, Hametner E,
+as you give appropriate credit to the original author(s) and the source, Poewe W, Reindl M, Oertel WH, Noelker C, Bacher M, Dodel
+provide a link to the Creative Commons licence, and indicate if changes R (2013) Naturally occurring α-synuclein autoantibody lev-
+were made. The images or other third party material in this article are els are lower in patients with Parkinson disease. Neurology
+included in the article's Creative Commons licence, unless indicated 80(2):169–175. https://d oi.o rg/1 0.1 212/W NL.0 b013e 3182
+otherwise in a credit line to the material. If material is not included in 7b90d1
+the article's Creative Commons licence and your intended use is not Biomarkers Definitions Working Group (2001) Biomarkers and surro-
+permitted by statutory regulation or exceeds the permitted use, you will gate endpoints: preferred definitions and conceptual framework.
+need to obtain permission directly from the copyright holder. To view a Clin Pharmacol Ther 69(3):89–95. https://d oi.o rg/1 0.1 067/m cp.
+copy of this licence, visit http://c reati vecom mons.o rg/l icens es/b y/4.0 /. 2001.1 13989
+1 3
+
+---PAGE BREAK---
+
+1 212 L. Tönges et al.
+Bloem BR, Okun MS, Klein C (2021) Parkinson’s disease. Lancet Clinton LK, Blurton-Jones M, Myczek K, Trojanowski JQ, LaFerla FM
+(london, England) 397(10291):2284–2303. https://d oi.o rg/1 0. (2010) Synergistic Interactions between Abeta, tau, and alpha-
+1016/S 0140-6 736(21)0 0218-X synuclein: acceleration of neuropathology and cognitive decline.
+Bou-Dargham MJ, Draughon S, Cantrell V, K
+
+Chunk 38:
+es et al.
+Bloem BR, Okun MS, Klein C (2021) Parkinson’s disease. Lancet Clinton LK, Blurton-Jones M, Myczek K, Trojanowski JQ, LaFerla FM
+(london, England) 397(10291):2284–2303. https://d oi.o rg/1 0. (2010) Synergistic Interactions between Abeta, tau, and alpha-
+1016/S 0140-6 736(21)0 0218-X synuclein: acceleration of neuropathology and cognitive decline.
+Bou-Dargham MJ, Draughon S, Cantrell V, Khamis ZI, Sang Q-XA J Neurosci: Official J Soc Neurosci 30(21):7281–7289. https://
+(2021) Advancements in human breast cancer targeted therapy doi.o rg/1 0.1 523/J NEURO SCI.0 490-1 0.2 010
+and immunotherapy. J Cancer 12(23):6949–6963. https://d oi.o rg/ Cook L, Schulze J, Naito A, Alcalay RN (2021) The role of genetic
+10.7 150/j ca.6 4205 testing for Parkinson’s disease. Curr Neurol Neurosci Rep
+Boyle J, Berman L, Dayton J, Iachan R, Jans M, ZuWallack R (2021) 21(4):17. https://d oi.o rg/1 0.1 007/s 11910-0 21-0 1100-7
+Physical measures and biomarker collection in health surveys: Daniele S, Frosini D, Pietrobono D, Petrozzi L, Lo Gerfo A, Baldacci
+propensity to participate. Res Soc Adm Pharmacy: RSAP F, Fusi J, Giacomelli C, Siciliano G, Trincavelli ML, Franzoni
+17(5):921–929. https://d oi.o rg/1 0.1 016/j.s aphar m.2 020.0 7.0 25 F, Ceravolo R, Martini C, Bonuccelli U (2018) α-Synuclein het-
+Braak H, Rüb U, Gai WP, Del Tredici K (2003) Idiopathic Parkin- erocomplexes with β-Amyloid are increased in red blood cells of
+son’s disease: possible routes by which vulnerable neuronal Parkinson’s disease patients and correlate with disease severity.
+types may be subject to neuroinvasion by an unknown patho- Front Mol Neurosci 11:53. https://d oi.o rg/1 0.3 389/f nmol.2 018.
+gen. J Neural Transm 110(5):517–536. https://d oi.o rg/1 0.1 007/ 00053
+s00702-0 02-0 808-2 de Pablo-Fernández E, Lees AJ, Holton JL, Warner TT (2019) Progno-
+Brocker C, Thompson D, Matsumoto A, Nebert DW, Vasiliou V (2010) sis and neuropathologic correlation of clinical subtypes of Par-
+Evolutionary divergence
+
+Chunk 39:
+y an unknown patho- Front Mol Neurosci 11:53. https://d oi.o rg/1 0.3 389/f nmol.2 018.
+gen. J Neural Transm 110(5):517–536. https://d oi.o rg/1 0.1 007/ 00053
+s00702-0 02-0 808-2 de Pablo-Fernández E, Lees AJ, Holton JL, Warner TT (2019) Progno-
+Brocker C, Thompson D, Matsumoto A, Nebert DW, Vasiliou V (2010) sis and neuropathologic correlation of clinical subtypes of Par-
+Evolutionary divergence and functions of the human interleukin kinson disease. JAMA Neurol 76(4):470–479. https://d oi.o rg/1 0.
+(IL) gene family. Hum Genomics 5(1):30. https://d oi.o rg/1 0. 1001/j amane urol.2 018.4 377
+1186/1 479-7 364-5-1 -3 0 Diekämper E, Brix B, Stöcker W, Vielhaber S, Galazky I, Kreissl MC,
+Buhmann C, Lezius S, Pötter-Nerger M, Gerloff C, Kuhle J, Choe Genseke P, Düzel E, Körtvelyessy P (2021) Neurofilament lev-
+C-U (2022) Age-adjusted serum neurofilament predicts cogni- els are reflecting the loss of presynaptic dopamine receptors in
+tive decline in Parkinson’s disease (MARK-PD). Mov Disord. movement disorders. Front Neurosci 15:690013. https://d oi.o rg/
+https://d oi.o rg/1 0.1 002/m ds.2 8909 10.3 389/f nins.2 021.6 90013
+Caldi Gomes L, Roser A-E, Jain G, Pena Centeno T, Maass F, Schilde Ding H, Huang Z, Chen M, Wang C, Chen X, Chen J, Zhang J (2016)
+L, May C, Schneider A, Bähr M, Marcus K, Fischer A, Lingor Identification of a panel of five serum miRNAs as a biomarker
+P (2021) MicroRNAs from extracellular vesicles as a signature for Parkinson’s disease. Parkinsonism Relat Disord 22:68–73.
+for Parkinson’s disease. Clin Transl Med 11(4):e357. https://d oi. https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 015.1 1.0 14
+org/1 0.1 002/c tm2.3 57 Ding J, Zhang J, Wang X, Zhang L, Jiang S, Yuan Y, Li J, Zhu L,
+Carrol ED, Thomson APJ, Hart CA (2002) Procalcitonin as a marker Zhang K (2017) Relationship between the plasma levels of neu-
+of sepsis. Int J Antimicrob Agents 20(1):1–9. https://d oi.o rg/1 0. rodegenerative proteins and motor subtypes of Parkinson’s dis-
+1016/s 0924-8 57
+
+Chunk 40:
+1 016/j.p arkre ldis.2 015.1 1.0 14
+org/1 0.1 002/c tm2.3 57 Ding J, Zhang J, Wang X, Zhang L, Jiang S, Yuan Y, Li J, Zhu L,
+Carrol ED, Thomson APJ, Hart CA (2002) Procalcitonin as a marker Zhang K (2017) Relationship between the plasma levels of neu-
+of sepsis. Int J Antimicrob Agents 20(1):1–9. https://d oi.o rg/1 0. rodegenerative proteins and motor subtypes of Parkinson’s dis-
+1016/s 0924-8 579(02)0 0047-x ease. J Neural Transm 124(3):353–360. https://d oi.o rg/1 0.1 007/
+Chang C-W, Yang S-Y, Yang C-C, Chang C-W, Wu Y-R (2020) s00702-0 16-1 650-2
+Plasma and serum alpha-synuclein as a biomarker of diagnosis Dong X, Nao J, Shi J, Zheng D (2019) Predictive value of routine
+in patients with Parkinson’s disease. Front Neurol. https://d oi. peripheral blood biomarkers in Alzheimer’s disease. Front Aging
+org/1 0.3 389/f neur.2 019.0 1388 Neurosci. https://d oi.o rg/1 0.3 389/f nagi.2 019.0 0332
+Chen JJ (2010) Parkinson’s disease: health-related quality of life, eco- Dufek M, Hamanová M, Lokaj J, Goldemund D, Rektorová I, Michálk-
+nomic cost, and implications of early treatment. Am J Managed ová Z, Sheardová K, Rektor I (2009) Serum inflammatory bio-
+Care 16:S87–93 markers in Parkinson’s disease. Parkinsonism Relat Disord
+Chen G-F, Xu T-H, Yan Y, Zhou Y-R, Jiang Y, Melcher K, Xu HE 15(4):318–320. https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 008.0 5.0 14
+(2017) Amyloid beta: structure, biology and structure-based Editorial (2010) Biomarkers on a roll. Nat Biotechnol 28(5):431.
+therapeutic development. Acta Pharmacol Sin 38(9):1205–1235. https://d oi.o rg/1 0.1 038/n bt051 0-4 31
+https://d oi.o rg/1 0.1 038/a ps.2 017.2 8 Eggers C, Pedrosa DJ, Kahraman D, Maier F, Lewis CJ, Fink GR,
+Chen N-C, Chen H-L, Li S-H, Chang Y-H, Chen M-H, Tsai N-W, Schmidt M, Timmermann L (2012) Parkinson subtypes progress
+Yu C-C, Yang S-Y, Lu C-H, Lin W-C (2020) Plasma levels of differently in clinical course and imaging pattern. PLoS ONE
+α-Synuclein, Aβ-40 and T-tau as biomarkers to predict cog
+
+Chunk 41:
+
+https://d oi.o rg/1 0.1 038/a ps.2 017.2 8 Eggers C, Pedrosa DJ, Kahraman D, Maier F, Lewis CJ, Fink GR,
+Chen N-C, Chen H-L, Li S-H, Chang Y-H, Chen M-H, Tsai N-W, Schmidt M, Timmermann L (2012) Parkinson subtypes progress
+Yu C-C, Yang S-Y, Lu C-H, Lin W-C (2020) Plasma levels of differently in clinical course and imaging pattern. PLoS ONE
+α-Synuclein, Aβ-40 and T-tau as biomarkers to predict cognitive 7(10):e46813. https://d oi.o rg/1 0.1 371/j ourna l.p one.0 04681 3
+impairment in Parkinson’s disease. Front Aging Neurosci. https:// El-Agnaf OMA, Salem SA, Paleologou KE, Curran MD, Gibson MJ,
+doi.o rg/1 0.3 389/f nagi.2 020.0 0112 Court JA, Schlossmacher MG, Allsop D (2006) Detection of
+Cheng T, Zhan X (2017) Pattern recognition for predictive, preven- oligomeric forms of alpha-synuclein protein in human plasma as
+tive, and personalized medicine in cancer. EPMA J 8(1):51–60. a potential biomarker for Parkinson’s disease. FASEB j: off Publ
+https://d oi.o rg/1 0.1 007/s 13167-0 17-0 083-9 Federation Am Soc Exp Biol 20(3):419–425. https://d oi.o rg/1 0.
+Choe C-U, Niemann L, Englisch C, Petersen E, Buhmann C, Pötter- 1096/fj .0 3-1 449co m
+Nerger M, Blankenberg S, Gerloff C, Schwedhelm E, Zeller T Emamzadeh FN, Surguchov A (2018) Parkinson’s disease: biomarkers,
+(2020) Subclinical cardiac microdamage, motor severity, and treatment, and risk factors. Front Neurosci 12:612. https://d oi.
+cognition in Parkinson’s disease. Mov Disord 35(10):1863–1868. org/1 0.3 389/f nins.2 018.0 0612
+https://d oi.o rg/1 0.1 002/m ds.2 8129 Espay AJ (2022) Movement disorders research in 2021: cracking the
+Chojdak-Łukasiewicz J, Małodobra-Mazur M, Zimny A, Noga L, Para- paradigm. The Lancet Neurol 21(1):10–11. https://d oi.o rg/1 0.
+dowski B (2020) Plasma tau protein and Aβ42 level as markers 1016/S 1474-4 422(21)0 0413-0
+of cognitive impairment in patients with Parkinson’s disease. Esteller M (2011) Non-coding RNAs in human disease. Nat Rev Genet
+Adv Clin Exp Med 29(1):115–121. https://d 
+
+Chunk 42:
+cking the
+Chojdak-Łukasiewicz J, Małodobra-Mazur M, Zimny A, Noga L, Para- paradigm. The Lancet Neurol 21(1):10–11. https://d oi.o rg/1 0.
+dowski B (2020) Plasma tau protein and Aβ42 level as markers 1016/S 1474-4 422(21)0 0413-0
+of cognitive impairment in patients with Parkinson’s disease. Esteller M (2011) Non-coding RNAs in human disease. Nat Rev Genet
+Adv Clin Exp Med 29(1):115–121. https://d oi.o rg/1 0.1 7219/ 12(12):861–874. https://d oi.o rg/1 0.1 038/n rg307 4
+acem/1 12058 Fearon C, Lang AE, Espay AJ (2021) The logic and pitfalls of Par-
+Chung C-C, Chan L, Chen J-H, Bamodu OA, Chiu H-W, Hong C-T kinson’s Disease as “brain-first” versus “body-first” subtypes.
+(2021) Plasma extracellular vesicles tau and β-amyloid as bio- Mov Disord 36(3):594–598. https://d oi.o rg/1 0.1 002/m ds.2 8493
+markers of cognitive dysfunction of Parkinson’s disease. The FDA-NIH Biomarker Working Group (2016). BEST (Biomarkers,
+FASEB J. https://d oi.o rg/1 0.1 096/fj .2 02100 787R EndpointS, and other Tools) Resource [Internet]. Silver Spring
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1213
+(MD): Food and Drug Administration (US). Co-published by pathologies. Nat Rev Neurosci 14(9):626–636. https://d oi.o rg/
+National Institutes of Health (US), Bethesda (MD). PMID: 10.1 038/n rn354 9
+27010052 Bookshelf ID: NBK326791 Jack CR, Knopman DS, Jagust WJ, Petersen RC, Weiner MW, Aisen
+Foulds PG, Diggle P, Mitchell JD, Parker A, Hasegawa M, Masuda- PS, Shaw LM, Vemuri P, Wiste HJ, Weigand SD, Lesnick TG,
+Suzukake M, Mann DMA, Allsop D (2013) A longitudinal study Pankratz VS, Donohue MC, Trojanowski JQ (2013) Tracking
+on α-synuclein in blood plasma as a biomarker for Parkinson’s pathophysiological processes in Alzheimer’s disease: an updated
+disease. Sci Rep 3:2540. https://d oi.o rg/1 0.1 038/s rep02 540 hypothetical model of dynamic biomarkers. The Lancet Neurol
+Gerlach M, Maetzler W, Broich K, Hampel H, Rems L, Reum T, 
+
+Chunk 43:
+sop D (2013) A longitudinal study Pankratz VS, Donohue MC, Trojanowski JQ (2013) Tracking
+on α-synuclein in blood plasma as a biomarker for Parkinson’s pathophysiological processes in Alzheimer’s disease: an updated
+disease. Sci Rep 3:2540. https://d oi.o rg/1 0.1 038/s rep02 540 hypothetical model of dynamic biomarkers. The Lancet Neurol
+Gerlach M, Maetzler W, Broich K, Hampel H, Rems L, Reum T, 12(2):207–216. https://d oi.o rg/1 0.1 016/S 1474-4 422(12)7 0291-0
+Riederer P, Stöffler A, Streffer J, Berg D (2012) Biomarker Jellinger KA (2019) Is Braak staging valid for all types of Parkinson’s
+candidates of neurodegeneration in Parkinson’s disease for the disease? J Neural Transm 126(4):423–431. https://d oi.o rg/1 0.
+evaluation of disease-modifying therapeutics. J Neural Transm 1007/s 00702-0 18-1 898-9
+(vienna, Austria 1996) 119(1):39–52. https://d oi.o rg/1 0.1 007/ Jellinger KA, Seppi K, Wenning GK, Poewe W (2002) Impact of coex-
+s00702-0 11-0 682-x istent Alzheimer pathology on the natural history of Parkinson’s
+Goldman JG, Andrews H, Amara A, Naito A, Alcalay RN, Shaw LM, disease. J Neural Transm (vienna, Austria; 1996) 109(3):329–
+Taylor P, Xie T, Tuite P, Henchcliffe C, Hogarth P, Frank S, 339. https://d oi.o rg/1 0.1 007/s 00702 02000 27
+Saint-Hilaire M-H, Frasier M, Arnedo V, Reimer AN, Sutherland Jin H, Gu H, Mao C, Chen J, Liu C (2020) Association of inflam-
+M, Swanson-Fischer C, Gwinn K, Kang UJ (2018) Cerebrospinal matory factors and aging in Parkinson’s disease. Neurosci Lett
+fluid, plasma, and saliva in the BioFIND study: relationships 736:135259. https://d oi.o rg/1 0.1 016/j.n eulet.2 020.1 35259
+among biomarkers and Parkinson’s disease features. Mov Dis- Karaaslan Z, Kahraman ÖT, Şanlı E, Ergen HA, Ulusoy C, Bilgiç B,
+ord : off J Mov Disord Soc 33(2):282–288. https://d oi.o rg/1 0. Yılmaz V, Tüzün E, Hanağası HA, Küçükali Cİ (2021) Inflam-
+1002/m ds.2 7232 mation and regulatory T cell genes are differentially expressed
+Greuel A, Trezzi J-P, Glaab E
+
+Chunk 44:
+i.o rg/1 0.1 016/j.n eulet.2 020.1 35259
+among biomarkers and Parkinson’s disease features. Mov Dis- Karaaslan Z, Kahraman ÖT, Şanlı E, Ergen HA, Ulusoy C, Bilgiç B,
+ord : off J Mov Disord Soc 33(2):282–288. https://d oi.o rg/1 0. Yılmaz V, Tüzün E, Hanağası HA, Küçükali Cİ (2021) Inflam-
+1002/m ds.2 7232 mation and regulatory T cell genes are differentially expressed
+Greuel A, Trezzi J-P, Glaab E, Ruppert MC, Maier F, Jäger C, Hodak in peripheral blood mononuclear cells of Parkinson’s disease
+Z, Lohmann K, Ma Y, Eidelberg D, Timmermann L, Hiller K, patients. Sci Rep. https://d oi.o rg/1 0.1 038/s 41598-0 21-8 1961-7
+Tittgemeyer M, Drzezga A, Diederich N, Eggers C (2020) GBA Karpenko MN, Vasilishina AA, Gromova EA, Muruzheva ZM, Berna-
+variants in Parkinson’s disease: clinical, metabolomic, and mul- dotte A (2018) Interleukin-1β, interleukin-1 receptor antagonist,
+timodal neuroimaging phenotypes. Mov Disord 35(12):2201– interleukin-6, interleukin-10, and tumor necrosis factor-α levels
+2210. https://d oi.o rg/1 0.1 002/m ds.2 8225 in CSF and serum in relation to the clinical diversity of Par-
+Gupta V, Garg RK, Khattri S (2016) Levels of IL-8 and TNF-α kinson’s disease. Cell Immunol 327:77–82. https:// doi. org/ 10.
+decrease in Parkinson’s disease. Neurol Res 38(2):98–102. 1016/j.c ellim m.2 018.0 2.0 11
+https://d oi.o rg/1 0.1 080/0 16164 12.2 015.1 13302 6 Kern F, Fehlmann T, Violich I, Alsop E, Hutchins E, Kahraman M,
+Halliday G, McCann H, Shepherd C (2012) Evaluation of the braak Grammes NL, Guimarães P, Backes C, Poston KL, Casey B,
+hypothesis: how far can it explain the pathogenesis of Parkinson’s Balling R, Geffers L, Krüger R, Galasko D, Mollenhauer B,
+disease? Expert Rev Neurother 12(6):673–686. https://d oi.o rg/ Meese E, Wyss-Coray T, Craig DW, van Keuren-Jensen K, Kel-
+10.1 586/e rn.1 2.4 7 ler A (2021) Deep sequencing of sncRNAs reveals hallmarks
+Hansson O, Janelidze S, Hall S, Magdalinou N, Lees AJ, Andreas- and regulatory modules of the transcriptome du
+
+Chunk 45:
+ pathogenesis of Parkinson’s Balling R, Geffers L, Krüger R, Galasko D, Mollenhauer B,
+disease? Expert Rev Neurother 12(6):673–686. https://d oi.o rg/ Meese E, Wyss-Coray T, Craig DW, van Keuren-Jensen K, Kel-
+10.1 586/e rn.1 2.4 7 ler A (2021) Deep sequencing of sncRNAs reveals hallmarks
+Hansson O, Janelidze S, Hall S, Magdalinou N, Lees AJ, Andreas- and regulatory modules of the transcriptome during Parkinson’s
+son U, Norgren N, Linder J, Forsgren L, Constantinescu R, Zet- disease progression. Nat Aging 1(3):309–322. https://d oi.o rg/1 0.
+terberg H, Blennow K (2017) Blood-based NfL: a biomarker 1038/s 43587-0 21-0 0042-6
+for differential diagnosis of parkinsonian disorder. Neurology Kim R, Jeon B (2021) Serum neurofilament light chain predicts future
+88(10):930–937. https://d oi.o rg/1 0.1 212/W NL.0 00000 0000 freezing of gait in Parkinson’s disease. Parkinsonism Relat Dis-
+003680 ord 91:102–104. https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 021.0 8.0 15
+He Z, Yu W (2010) Stable feature selection for biomarker discovery. Kim R, Kim H-J, Kim A, Jang M, Kim A, Kim Y, Yoo D, Im JH, Choi
+Comput Biol Chem 34(4):215–225. https://d oi.o rg/1 0.1 016/j. J-H, Jeon B (2018) Peripheral blood inflammatory markers in
+compbi olche m.2 010.0 7.0 02 early Parkinson’s disease. J Clin Neurosci 58:30–33. https://d oi.
+Heldman DA, Espay AJ, LeWitt PA, Giuffrida JP (2014) Clinician ver- org/1 0.1 016/j.j ocn.2 018.1 0.0 79
+sus machine: reliability and responsiveness of motor endpoints in Kingsbury AE, Bandopadhyay R, Silveira-Moriyama L, Ayling H,
+Parkinson’s disease. Parkinsonism Relat Disord 20(6):590–595. Kallis C, Sterlacci W, Maeir H, Poewe W, Lees AJ (2010) Brain
+https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 014.0 2.0 22 stem pathology in Parkinson’s disease: an evaluation of the Braak
+Hirsch EC, Hunot S (2009) Neuroinflammation in Parkinson’s disease: staging model. Mov Disord 25(15):2508–2515. https://d oi.o rg/
+a target for neuroprotection? The Lancet Neurology 8(4):382– 10.1
+
+Chunk 46:
+rd 20(6):590–595. Kallis C, Sterlacci W, Maeir H, Poewe W, Lees AJ (2010) Brain
+https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 014.0 2.0 22 stem pathology in Parkinson’s disease: an evaluation of the Braak
+Hirsch EC, Hunot S (2009) Neuroinflammation in Parkinson’s disease: staging model. Mov Disord 25(15):2508–2515. https://d oi.o rg/
+a target for neuroprotection? The Lancet Neurology 8(4):382– 10.1 002/m ds.2 3305
+397. https://d oi.o rg/1 0.1 016/S 1474-4 422(09)7 0062-6 Kouchaki E, Kakhaki RD, Tamtaji OR, Dadgostar E, Behnam M,
+Horsager J, Andersen KB, Knudsen K, Skjærbæk C, Fedorova TD, Nikoueinejad H, Akbari H (2018) Increased serum levels of
+Okkels N, Schaeffer E, Bonkat SK, Geday J, Otto M, Sommer- TNF-α and decreased serum levels of IL-27 in patients with Par-
+auer M, Danielsen EH, Bech E, Kraft J, Munk OL, Hansen SD, kinson disease and their correlation with disease severity. Clin
+Pavese N, Göder R, Brooks DJ, Berg D, Borghammer P (2020) Neurol Neurosurg 166:76–79. https://d oi.o rg/1 0.1 016/j.c lineu ro.
+Brain-first versus body-first Parkinson’s disease: a multimodal 2018.0 1.0 22
+imaging case-control study. Brain 143(10):3077–3088. https:// Kuo M-C, Liu SC-H, Hsu Y-F, Wu R-M (2021) The role of noncoding
+doi.o rg/1 0.1 093/b rain/a waa23 8 RNAs in Parkinson’s disease: biomarkers and associations with
+Iranzo A, Fairfoul G, Ayudhaya ACN, Serradell M, Gelpi E, Vilaseca pathogenic pathways. J Biomed Sci 28(1):78. https://d oi.o rg/1 0.
+I, Sanchez-Valle R, Gaig C, Santamaria J, Tolosa E, Riha RL, 1186/s 12929-0 21-0 0775-x
+Green AJE (2021) Detection of α-synuclein in CSF by RT-QuIC Kustrimovic N, Comi C, Magistrelli L, Rasini E, Legnaro M, Bombelli
+in patients with isolated rapid-eye-movement sleep behaviour R, Aleksic I, Blandini F, Minafra B, Riboldazzi G, Sturchio A,
+disorder: a longitudinal observational study. The Lancet Neurol Mauri M, Bono G, Marino F, Cosentino M (2018) Parkinson’s
+20(3):203–212. https://d oi.o rg/1 0.1 016/S 1474-4 422(20)3 0449-X diseas
+
+Chunk 47:
+ by RT-QuIC Kustrimovic N, Comi C, Magistrelli L, Rasini E, Legnaro M, Bombelli
+in patients with isolated rapid-eye-movement sleep behaviour R, Aleksic I, Blandini F, Minafra B, Riboldazzi G, Sturchio A,
+disorder: a longitudinal observational study. The Lancet Neurol Mauri M, Bono G, Marino F, Cosentino M (2018) Parkinson’s
+20(3):203–212. https://d oi.o rg/1 0.1 016/S 1474-4 422(20)3 0449-X disease patients have a complex phenotypic and functional Th1
+Irwin DJ, Lee VM-Y, Trojanowski JQ (2013) Parkinson’s disease bias: cross-sectional studies of CD4+ Th1/Th2/T17 and Treg
+dementia: convergence of α-synuclein, tau and amyloid-β in drug-naïve and drug-treated patients. J Neuroinflammation.
+https://d oi.o rg/1 0.1 186/s 12974-0 18-1 248-8
+1 3
+
+---PAGE BREAK---
+
+1 214 L. Tönges et al.
+Leclercq M, Vittrant B, Martin-Magniette ML, Scott Boyer MP, Perin Mata IF, Shi M, Agarwal P, Chung KA, Edwards KL, Factor SA,
+O, Bergeron A, Fradet Y, Droit A (2019) Large-scale automatic Galasko DR, Ginghina C, Griffith A, Higgins DS, Kay DM, Kim
+feature selection for biomarker discovery in high-dimensional H, Leverenz JB, Quinn JF, Roberts JW, Samii A, Snapinn KW,
+OMICs data. Front Genet 10:452. https://d oi.o rg/1 0.3 389/f gene. Tsuang DW, Yearout D, Zhang J, Payami H, Zabetian CP (2010)
+2019.0 0452 SNCA variant associated with Parkinson disease and plasma
+Lei P, Ayton S, Finkelstein DI, Adlard PA, Masters CL, Bush AI (2010) alpha-synuclein level. Arch Neurol 67(11):1350–1356. https://
+Tau protein: relevance to Parkinson’s disease. Int J Biochem Cell doi.o rg/1 0.1 001/a rchne urol.2 010.2 79
+Biol 42(11):1775–1778. https://d oi. org/1 0.1 016/j. biocel. 2010. Menza M, Dobkin RD, Marin H, Mark MH, Gara M, Bienfait K, Dicke
+07.0 16 A, Kusnekov A (2010) The role of inflammatory cytokines in
+Li Q-X, Mok SS, Laughton KM, McLean CA, Cappai R, Masters cognition and other non-motor symptoms of Parkinson’s disease.
+CL, Culvenor JG, Horne MK (2007) Plasma alpha-synuclein Psychosomatics 51(6):474–
+
+Chunk 48:
+iol 42(11):1775–1778. https://d oi. org/1 0.1 016/j. biocel. 2010. Menza M, Dobkin RD, Marin H, Mark MH, Gara M, Bienfait K, Dicke
+07.0 16 A, Kusnekov A (2010) The role of inflammatory cytokines in
+Li Q-X, Mok SS, Laughton KM, McLean CA, Cappai R, Masters cognition and other non-motor symptoms of Parkinson’s disease.
+CL, Culvenor JG, Horne MK (2007) Plasma alpha-synuclein Psychosomatics 51(6):474–479. https://d oi.o rg/1 0.1 176/a ppi.p sy.
+is decreased in subjects with Parkinson’s disease. Exp Neurol 51.6.4 74
+204(2):583–588. https://d oi.o rg/1 0.1 016/j.e xpneu rol.2 006.1 2. Mestre TA, Fereshtehnejad S-M, Berg D, Bohnen NI, Dujardin K,
+006 Erro R, Espay AJ, Halliday G, van Hilten JJ, Hu MT, Jeon B,
+Lim EW, Aarsland D, Ffytche D, Taddei RN, van Wamelen DJ, Wan Klein C, Leentjens AFG, Marinus J, Mollenhauer B, Postuma
+Y-M, Tan EK, Ray Chaudhuri K (2019) Amyloid-β and Parkin- R, Rajalingam R, Rodríguez-Violante M, Simuni T, Surmeier
+son’s disease. J Neurol 266(11):2605–2619. https://d oi.o rg/1 0. DJ, Weintraub D, McDermott MP, Lawton M, Marras C (2021)
+1007/s 00415-0 18-9 100-8 Parkinson’s disease subtypes: critical appraisal and recommenda-
+Lin C-H, Yang S-Y, Horng H-E, Yang C-C, Chieh J-J, Chen H-H, Liu tions. J Parkinsons Dis 11(2):395–404. https://d oi.o rg/1 0.3 233/
+B-H, Chiu M-J (2017) Plasma α-synuclein predicts cognitive JPD-2 02472
+decline in Parkinson’s disease. J Neurol Neurosurg Psychiatry Mitchell TM (2010) Machine learning, International ed., [Reprint]
+88(10):818–824. https://d oi.o rg/1 0.1 136/j nnp-2 016-3 14857 McGraw-Hill series in computer science. McGraw-Hill, New
+Lin C-H, Yang S-Y, Horng H-E, Yang C-C, Chieh J-J, Chen H-H, York, NY
+Liu B-H, Chiu M-J (2018a) Plasma biomarkers differentiate Par- Mollenhauer B, Zimmermann J, Sixel-Döring F, Focke NK, Wicke
+kinson’s disease from atypical parkinsonism syndromes. Front T, Ebentheuer J, Schaumburg M, Lang E, Friede T, Trenk-
+Aging Neurosci. https://d oi.o rg/1 0.3 389/f nagi.2 018.0 0123 walder C (
+
+Chunk 49:
+Graw-Hill, New
+Lin C-H, Yang S-Y, Horng H-E, Yang C-C, Chieh J-J, Chen H-H, York, NY
+Liu B-H, Chiu M-J (2018a) Plasma biomarkers differentiate Par- Mollenhauer B, Zimmermann J, Sixel-Döring F, Focke NK, Wicke
+kinson’s disease from atypical parkinsonism syndromes. Front T, Ebentheuer J, Schaumburg M, Lang E, Friede T, Trenk-
+Aging Neurosci. https://d oi.o rg/1 0.3 389/f nagi.2 018.0 0123 walder C (2019) Baseline predictors for progression 4 years
+Lin Y-S, Lee W-J, Wang S-J, Fuh J-L (2018b) Levels of plasma neu- after Parkinson’s disease diagnosis in the De Novo Parkinson
+rofilament light chain and cognitive function in patients with Cohort (DeNoPa). Mov Disord 34(1):67–77. https://d oi.o rg/
+Alzheimer or Parkinson disease. Sci Rep 8(1):17368. https://d oi. 10.1 002/m ds.2 7492
+org/1 0.1 038/s 41598-0 18-3 5766-w Mollenhauer B, Dakna M, Kruse N, Galasko D, Foroud T, Zetterberg
+Lin C-H, Li C-H, Yang K-C, Lin F-J, Wu C-C, Chieh J-J, Chiu M-J H, Schade S, Gera RG, Wang W, Gao F, Frasier M, Chahine
+(2019) Blood NfL: a biomarker for disease severity and pro- LM, Coffey CS, Singleton AB, Simuni T, Weintraub D, Seibyl
+gression in Parkinson disease. Neurology 93(11):e1104–e1111. J, Toga AW, Tanner CM, Kieburtz K, Marek K, Siderowf A,
+https://d oi.o rg/1 0.1 212/W NL.0 00000 00000 08088 Cedarbaum JM, Hutten SJ, Trenkwalder C, Graham D (2020)
+Lin W-T, Shaw J-S, Cheng F-Y, Chen P-H (2022) Plasma total tau pre- Validation of serum neurofilament light chain as a biomarker
+dicts executive dysfunction in Parkinson’s disease. Acta Neuro of Parkinson’s disease progression. Mov Disord 35(11):1999–
+Scandinavica 145(1):30–37. https://d oi.o rg/1 0.1 111/a ne.1 3517 2008. https://d oi.o rg/1 0.1 002/m ds.2 8206
+Lindqvist D, Kaufman E, Brundin L, Hall S, Surova Y, Hansson O Müller T (2017) Investigational agents for the management of Hun-
+(2012) Non-motor symptoms in patients with Parkinson’s disease tington’s disease. Expert Opin Investig Drugs 26(2):175–185.
+– correlations with inflammat
+
+Chunk 50:
+999–
+Scandinavica 145(1):30–37. https://d oi.o rg/1 0.1 111/a ne.1 3517 2008. https://d oi.o rg/1 0.1 002/m ds.2 8206
+Lindqvist D, Kaufman E, Brundin L, Hall S, Surova Y, Hansson O Müller T (2017) Investigational agents for the management of Hun-
+(2012) Non-motor symptoms in patients with Parkinson’s disease tington’s disease. Expert Opin Investig Drugs 26(2):175–185.
+– correlations with inflammatory cytokines in serum. PLoS ONE https://d oi.o rg/1 0.1 080/1 35437 84.2 017.1 27026 6
+7(10):e47387. https://d oi.o rg/1 0.1 371/j ourna l.p one.0 04738 7 Müller T, Kohlhepp W (2016) Hypomethylation in Parkinson’s dis-
+Luckheeram RV, Zhou R, Verma AD, Xia B (2012) CD4 + T Cells: dif- ease: an epigenetic drug effect? Mov Disord 31(4):605. https://
+ferentiation and functions. Clin Dev Immunol 2012:1–12. https:// doi.o rg/1 0.1 002/m ds.2 6560
+doi.o rg/1 0.1 155/2 012/9 25135 Müller T, Trommer I, Muhlack S, Mueller BK (2016) Levodopa
+Ma L-Z, Zhang C, Wang H, Ma Y-H, Shen X-N, Wang J, Tan L, Dong increases oxidative stress and repulsive guidance molecule
+Q, Yu J-T (2021) Serum neurofilament dynamics predicts cogni- A levels: a pilot study in patients with Parkinson’s disease.
+tive progression in de novo Parkinson’s disease. J Parkinsons Dis J Neural Transm 123(4):401–406. https://d oi.o rg/1 0.1 007/
+11(3):1117–1127. https://d oi.o rg/1 0.3 233/J PD-2 12535 s00702-0 16-1 519-4
+Magistrelli L, Storelli E, Rasini E, Contaldi E, Comi C, Cosentino Müller T, Mueller BK, Riederer P (2021) Perspective: treatment
+M, Marino F (2020) Relationship between circulating CD4+ T for disease modification in chronic neurodegeneration. Cells.
+lymphocytes and cognitive impairment in patients with Parkin- https://d oi.o rg/1 0.3 390/c ells1 00408 73
+son’s disease. Brain Behav Immun 89:668–674. https://d oi.o rg/ Mullin S, Stokholm MG, Hughes D, Mehta A, Parbo P, Hinz R,
+10.1 016/j.b bi.2 020.0 7.0 05 Pavese N, Brooks DJ, Schapira AHV (2021) Brain microglial
+Mahlknecht P, Seppi K, Poewe W (2015) The
+
+Chunk 51:
+on in chronic neurodegeneration. Cells.
+lymphocytes and cognitive impairment in patients with Parkin- https://d oi.o rg/1 0.3 390/c ells1 00408 73
+son’s disease. Brain Behav Immun 89:668–674. https://d oi.o rg/ Mullin S, Stokholm MG, Hughes D, Mehta A, Parbo P, Hinz R,
+10.1 016/j.b bi.2 020.0 7.0 05 Pavese N, Brooks DJ, Schapira AHV (2021) Brain microglial
+Mahlknecht P, Seppi K, Poewe W (2015) The concept of prodromal activation increased in glucocerebrosidase (GBA) mutation
+Parkinson’s disease. J Parkinsons Dis 5(4):681–697. https://d oi. carriers without Parkinson’s disease. Mov Disord 36(3):774–
+org/1 0.3 233/J PD-1 50685 779. https://d oi.o rg/1 0.1 002/m ds.2 8375
+Mamoshina P, Volosnikova M, Ozerov IV, Putin E, Skibina E, Cortese Muñoz-Delgado L, Macías-García D, Jesús S, Martín-Rodríguez JF,
+F, Zhavoronkov A (2018) Machine learning on human muscle Labrador-Espinosa MÁ, Jiménez-Jaraba MV, Adarmes-Gómez
+transcriptomic data for biomarker discovery and tissue-specific A, Carrillo F, Mir P (2021) Peripheral immune profile and
+drug target identification. Front Genet 9:242. https://d oi.o rg/1 0. neutrophil-to-lymphocyte ratio in Parkinson’s disease. Mov
+3389/f gene.2 018.0 0242 Disord 36(10):2426–2430. https://d oi.o rg/1 0.1 002/m ds.2 8685
+Marques TM, van Rumund A, Oeckl P, Kuiperij HB, Esselink RAJ, Nakagaki T, Nishida N, Satoh K (2021) Development of α-synuclein
+Bloem BR, Otto M, Verbeek MM (2019) Serum NFL discrimi- real-time quaking-induced conversion as a diagnostic method
+nates Parkinson disease from atypical parkinsonisms. Neurology for α-synucleinopathies. Front Aging Neurosci 13:703984.
+92(13):e1479–e1486. https://d oi.o rg/1 0.1 212/W NL.0 00000 0000 https://d oi.o rg/1 0.3 389/f nagi.2 021.7 03984
+007179
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1215
+Ng ASL, Tan YJ, Lu Z, Ng EYL, Ng SYE, Chia NSY, Setiawan F, Xu Rathnayake D, Chang T, Udagama P (2019) Selected serum cytokines
+Z, T
+
+Chunk 52:
+ging Neurosci 13:703984.
+92(13):e1479–e1486. https://d oi.o rg/1 0.1 212/W NL.0 00000 0000 https://d oi.o rg/1 0.3 389/f nagi.2 021.7 03984
+007179
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1215
+Ng ASL, Tan YJ, Lu Z, Ng EYL, Ng SYE, Chia NSY, Setiawan F, Xu Rathnayake D, Chang T, Udagama P (2019) Selected serum cytokines
+Z, Tay KY, Prakash KM, Au WL, Tan E-K, Tan LCS (2019) and nitric oxide as potential multi-marker biosignature panels
+Plasma alpha-synuclein detected by single molecule array is for Parkinson disease of varying durations: a case-control study.
+increased in PD. Ann Clin Transl Neurol 6(3):615–619. https:// BMC Neurol. https://d oi.o rg/1 0.1 186/s 12883-0 19-1 286-6
+doi.o rg/1 0.1 002/a cn3.7 29 Rentzos M, Nikolaou C, Andreadou E, Paraskevas GP, Rombos A,
+Ng ASL, Tan YJ, Yong ACW, Saffari SE, Lu Z, Ng EY, Ng SYE, Zoga M, Tsoutsou A, Boufidou F, Kapaki E, Vassilopoulos D
+Chia NSY, Choi X, Heng D, Neo S, Xu Z, Keong NCH, Tay (2007) Circulating interleukin-15 and RANTES chemokine in
+KY, Au WL, Tan LCS, Tan E-K (2020) Utility of plasma neu- Parkinson’s disease. Acta Neurol Scand 116(6):374–379. https://
+rofilament light as a diagnostic and prognostic biomarker of doi.o rg/1 0.1 111/j.1 600-0 404.2 007.0 0894.x
+the postural instability gait disorder motor subtype in early Rizzo G, Copetti M, Arcuti S, Martino D, Fontana A, Logroscino G
+Parkinson’s disease. Mol Neurodegener 15(1):33. https://d oi. (2016) Accuracy of clinical diagnosis of Parkinson disease: a
+org/1 0.1 186/s 13024-0 20-0 0385-5 systematic review and meta-analysis. Neurology 86(6):566–576.
+Niemann L, Lezius S, Maceski A, Leppert D, Englisch C, Schwed- https://d oi.o rg/1 0.1 212/W NL.0 00000 00000 02350
+helm E, Zeller T, Gerloff C, Kuhle J, Choe C-U (2021) Serum Rocha NP, Assis F, Scalzo PL, Vieira ÉLM, Barbosa IG, de Souza
+neurofilament is associated with motor function, cognitive MS, Christo PP, Reis HJ, Teixeira AL (2
+
+Chunk 53:
+ systematic review and meta-analysis. Neurology 86(6):566–576.
+Niemann L, Lezius S, Maceski A, Leppert D, Englisch C, Schwed- https://d oi.o rg/1 0.1 212/W NL.0 00000 00000 02350
+helm E, Zeller T, Gerloff C, Kuhle J, Choe C-U (2021) Serum Rocha NP, Assis F, Scalzo PL, Vieira ÉLM, Barbosa IG, de Souza
+neurofilament is associated with motor function, cognitive MS, Christo PP, Reis HJ, Teixeira AL (2018) Reduced activated
+decline and subclinical cardiac damage in advanced Parkin- T lymphocytes (CD4+CD25+) and plasma levels of cytokines
+son’s disease (MARK-PD). Parkinsonism Relat Disord 90:44– in Parkinson’s disease. Mol Neurobiol 55(2):1488–1497. https://
+48. https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 021.0 7.0 28 doi.o rg/1 0.1 007/s 12035-0 17-0 404-y
+Niu M, Li Y, Li G, Zhou L, Luo N, Yao M, Kang W, Liu J (2020) Roser AE, Caldi Gomes L, Schünemann J, Maass F, Lingor P (2018)
+A longitudinal study on α-synuclein in plasma neuronal Circulating miRNAs as diagnostic biomarkers for Parkinson’s
+exosomes as a biomarker for Parkinson’s disease development disease. Front Neurosci 12:625. https://d oi.o rg/1 0.3 389/f nins.
+and progression. Eur J Neurol 27(6):967–974. https://d oi.o rg/ 2018.0 0625
+10.1 111/e ne.1 4208 Rovini E, Maremmani C, Cavallo F (2017) How wearable sensors can
+Oosterveld LP, Verberk IMW, Majbour NK, El-Agnaf OM, Wein- support Parkinson’s disease diagnosis and treatment: a system-
+stein HC, Berendse HW, Teunissen CE, van de Berg WDJ atic review. Front Neurosci 11:555. https://d oi.o rg/1 0.3 389/f nins.
+(2020) CSF or serum neurofilament light added to α-Synuclein 2017.0 0555
+panel discriminates Parkinson’s from controls. Mov Disord Russell CD, Parajuli A, Gale HJ, Bulteel NS, Schuetz P, de Jager CP,
+35(2):288–295. https://d oi.o rg/1 0.1 002/m ds.2 7897 Loonen AJ, Merekoulias GI, Baillie JK (2019) The utility of
+Parnetti L, Farotti L, Eusebi P, Chiasserini D, de Carlo C, Giannandrea peripheral blood leucocyte ratios as biomarkers in infectious dis-
+D, Sa
+
+Chunk 54:
+n 2017.0 0555
+panel discriminates Parkinson’s from controls. Mov Disord Russell CD, Parajuli A, Gale HJ, Bulteel NS, Schuetz P, de Jager CP,
+35(2):288–295. https://d oi.o rg/1 0.1 002/m ds.2 7897 Loonen AJ, Merekoulias GI, Baillie JK (2019) The utility of
+Parnetti L, Farotti L, Eusebi P, Chiasserini D, de Carlo C, Giannandrea peripheral blood leucocyte ratios as biomarkers in infectious dis-
+D, Salvadori N, Lisetti V, Tambasco N, Rossi A, Majbour NK, eases: a systematic review and meta-analysis. J Infect 78(5):339–
+El-Agnaf O, Calabresi P (2014) Differential role of CSF alpha- 348. https://d oi.o rg/1 0.1 016/j.j inf.2 019.0 2.0 06
+synuclein species, tau, and AÎ242 in Parkinson’s disease. Front Sadlon A, Takousis P, Alexopoulos P, Evangelou E, Prokopenko I,
+Aging Neurosci. https://d oi.o rg/1 0.3 389/f nagi.2 014.0 0053 Perneczky R (2019) miRNAs identify shared pathways in Alzhei-
+Pötter-Nerger M, Dutke J, Lezius S, Buhmann C, Schulz R, Gerloff C, mer’s and Parkinson’s diseases. Trends Mol Med 25(8):662–672.
+Kuhle J, Choe C-U (2022) Serum neurofilament light chain and https://d oi.o rg/1 0.1 016/j.m olmed.2 019.0 5.0 06
+postural instability/gait difficulty (PIGD) subtypes of Parkinson’s Sanjari Moghaddam H, Ghazi Sherbaf F, Mojtahed Zadeh M, Ashraf-
+disease in the MARK-PD study. J Neural Transm. https://d oi.o rg/ Ganjouei A, Aarabi MH (2018) Association between peripheral
+10.1 007/s 00702-0 22-0 2464-x inflammation and DATSCAN data of the striatal nuclei in differ-
+Prasad EM, Hung S-Y (2021) Current therapies in clinical trials of ent motor subtypes of Parkinson disease. Front Neurol. https://
+Parkinson’s disease: a 2021 update. Pharmaceuticals(basel, Swit- doi.o rg/1 0.3 389/f neur.2 018.0 0234
+zerland). https://d oi.o rg/1 0.3 390/p h1408 0717 Saunders JAH, Estes KA, Kosloski LM, Allen HE, Dempsey KM, Tor-
+Przuntek H, Müller T, Riederer P (2004) Diagnostic staging of Parkin- res-Russotto DR, Meza JL, Santamaria PM, Bertoni JM, Murman
+son’s disease: conceptual asp
+
+Chunk 55:
+ront Neurol. https://
+Parkinson’s disease: a 2021 update. Pharmaceuticals(basel, Swit- doi.o rg/1 0.3 389/f neur.2 018.0 0234
+zerland). https://d oi.o rg/1 0.3 390/p h1408 0717 Saunders JAH, Estes KA, Kosloski LM, Allen HE, Dempsey KM, Tor-
+Przuntek H, Müller T, Riederer P (2004) Diagnostic staging of Parkin- res-Russotto DR, Meza JL, Santamaria PM, Bertoni JM, Murman
+son’s disease: conceptual aspects. J Neural Transm 111(2):201– DL, Ali HH, Standaert DG, Mosley RL, Gendelman HE (2012)
+216. https://d oi.o rg/1 0.1 007/s 00702-0 03-0 102-y CD4+ Regulatory and effector/memory T cell subsets profile
+Qian E, Huang Y (2019) Subtyping of Parkinson’s disease - where are motor dysfunction in Parkinson’s disease. J Neuroimmune Phar-
+we up to? Aging Dis 10(5):1130–1139. https://d oi.o rg/1 0.1 4336/ macol 7(4):927–938. https://d oi.o rg/1 0.1 007/s 11481-0 12-9 402-z
+AD.2 019.0 112 Sawada H, Oeda T, Umemura A, Tomita S, Kohsaka M, Park K,
+Qin X-Y, Zhang S-P, Cao C, Loh YP, Cheng Y (2016) Aberrations in Yamamoto K, Sugiyama H (2015) Baseline C-reactive pro-
+peripheral inflammatory cytokine levels in Parkinson disease. tein levels and life prognosis in Parkinson disease. PLoS ONE
+JAMA Neurol 73(11):1316. https:// doi. org/ 10. 1001/ jaman eurol. 10(7):e0134118. https://d oi.o rg/1 0.1 371/j ourna l.p one.0 13411 8
+2016.2 742 Schröder JB, Pawlowski M, Meyer zu Hörste G, Gross CC, Wiendl H,
+Qiu X, Xiao Y, Wu J, Gan L, Huang Y, Wang J (2019) C-reactive Meuth SG, Ruck T, Warnecke T (2018) Immune cell activation in
+protein and risk of Parkinson’s disease: a systematic review and the cerebrospinal fluid of patients with Parkinson’s disease. Front
+meta-analysis. Front Neurol. https://d oi.o rg/1 0.3 389/f neur.2 019. Neurol. https://d oi.o rg/1 0.3 389/f neur.2 018.0 1081
+00384 Schulz J, Takousis P, Wohlers I, Itua IOG, Dobricic V, Rücker G,
+Rabey JM, Yarden J, Dotan N, Mechlovich D, Riederer P, Youdim Binder H, Middleton L, Ioannidis JPA, Perneczky R, Bertram
+MBH (2020) Creation of a
+
+Chunk 56:
+spinal fluid of patients with Parkinson’s disease. Front
+meta-analysis. Front Neurol. https://d oi.o rg/1 0.3 389/f neur.2 019. Neurol. https://d oi.o rg/1 0.3 389/f neur.2 018.0 1081
+00384 Schulz J, Takousis P, Wohlers I, Itua IOG, Dobricic V, Rücker G,
+Rabey JM, Yarden J, Dotan N, Mechlovich D, Riederer P, Youdim Binder H, Middleton L, Ioannidis JPA, Perneczky R, Bertram
+MBH (2020) Creation of a gene expression classifier for pre- L, Lill CM (2019) Meta-analyses identify differentially expressed
+dicting Parkinson’s disease rate of progression. J Neural Transm micrornas in Parkinson’s disease. Ann Neurol 85(6):835–851.
+(vienna, Austria; 1996) 127(5):755–762. https://d oi.o rg/1 0.1 007/ https://d oi.o rg/1 0.1 002/a na.2 5490
+s00702-0 20-0 2194-y Shaw LM, Korecka M, Clark CM, Lee VM-Y, Trojanowski JQ (2007)
+Randall J, Mörtberg E, Provuncher GK, Fournier DR, Duffy DC, Biomarkers of neurodegeneration for diagnosis and monitoring
+Rubertsson S, Blennow K, Zetterberg H, Wilson DH (2013) Tau therapeutics. Nat Rev Drug Discov 6(4):295–303. https://d oi.
+proteins in serum predict neurological outcome after hypoxic org/1 0.1 038/n rd217 6
+brain injury from cardiac arrest: results of a pilot study. Resus- Shi M, Liu C, Cook TJ, Bullock KM, Zhao Y, Ginghina C, Li Y, Aro
+citation 84(3):351–356. https://d oi.o rg/1 0.1 016/j.r esusc itati on. P, Dator R, He C, Hipp MJ, Zabetian CP, Peskind ER, Hu S-C,
+2012.0 7.0 27 Quinn JF, Galasko DR, Banks WA, Zhang J (2014) Plasma
+1 3
+
+---PAGE BREAK---
+
+1 216 L. Tönges et al.
+exosomal α-synuclein is likely CNS-derived and increased in Luebeck International Parkinson’s Disease) study protocol: deep
+Parkinson’s disease. Acta Neuropathol 128(5):639–650. https:// phenotyping of an international genetic cohort. Front Neurol
+doi.o rg/1 0.1 007/s 00401-0 14-1 314-y 12:710572. https://d oi.o rg/1 0.3 389/f neur.2 021.7 10572
+Simuni T, Caspell-Garcia C, Coffey C, Lasch S, Tanner C, Marek K van Rumund A, Green AJE, Fairfoul G, Esselink RAJ, Bloem BR,
+
+Chunk 57:
+national Parkinson’s Disease) study protocol: deep
+Parkinson’s disease. Acta Neuropathol 128(5):639–650. https:// phenotyping of an international genetic cohort. Front Neurol
+doi.o rg/1 0.1 007/s 00401-0 14-1 314-y 12:710572. https://d oi.o rg/1 0.3 389/f neur.2 021.7 10572
+Simuni T, Caspell-Garcia C, Coffey C, Lasch S, Tanner C, Marek K van Rumund A, Green AJE, Fairfoul G, Esselink RAJ, Bloem BR,
+(2016) How stable are Parkinson’s disease subtypes in de novo Verbeek MM (2019) α-Synuclein real-time quaking-induced
+patients: analysis of the PPMI cohort? Parkinsonism Relat Disord conversion in the cerebrospinal fluid of uncertain cases of par-
+28:62–67. https://d oi.o rg/1 0.1 016/j.p arkre ldis.2 016.0 4.0 27 kinsonism. Ann Neurol 85(5):777–781. https://d oi.o rg/1 0.1 002/
+Simuni T, Uribe L, Cho HR, Caspell-Garcia C, Coffey CS, Siderowf ana.2 5447
+A, Trojanowski JQ, Shaw LM, Seibyl J, Singleton A, Toga AW, Varrone A, Halldin C (2010) Molecular imaging of the dopamine trans-
+Galasko D, Foroud T, Tosun D, Poston K, Weintraub D, Mol- porter. J Nucl Med: off Publ, Soc Nucl Med 51(9):1331–1334.
+lenhauer B, Tanner CM, Kieburtz K, Chahine LM, Reimer A, https://d oi.o rg/1 0.2 967/j numed.1 09.0 65656
+Hutten SJ, Bressman S, Marek K (2020) Clinical and dopamine Veselý B, Dufek M, Thon V, Brozman M, Királová S, Halászová T,
+transporter imaging characteristics of non-manifest LRRK2 and Koriťáková E, Rektor I (2018) Interleukin 6 and complement
+GBA mutation carriers in the Parkinson’s progression markers serum level study in Parkinson’s disease. J Neural Transm
+initiative (PPMI): a cross-sectional study. The Lancet Neurol 125(5):875–881. https://d oi.o rg/1 0.1 007/s 00702-0 18-1 857-5
+19(1):71–80. https://d oi.o rg/1 0.1 016/S 1474-4 422(19)3 0319-9 Wang X, Yu S, Li F, Feng T (2015) Detection of α-synuclein oligom-
+Smith SM, Nichols TE (2018) Statistical challenges in “big data” ers in red blood cells as a potential biomarker of Parkinson’s
+human neuroimaging. Neuron 97(2):263–
+
+Chunk 58:
+s-sectional study. The Lancet Neurol 125(5):875–881. https://d oi.o rg/1 0.1 007/s 00702-0 18-1 857-5
+19(1):71–80. https://d oi.o rg/1 0.1 016/S 1474-4 422(19)3 0319-9 Wang X, Yu S, Li F, Feng T (2015) Detection of α-synuclein oligom-
+Smith SM, Nichols TE (2018) Statistical challenges in “big data” ers in red blood cells as a potential biomarker of Parkinson’s
+human neuroimaging. Neuron 97(2):263–268. https://d oi.o rg/ disease. Neurosci Lett 599:115–119. https://d oi.o rg/1 0.1 016/j.
+10.1 016/j.n euron.2 017.1 2.0 18 neulet.2 015.0 5.0 30
+Stefanis L (2012) α-Synuclein in Parkinson’s disease. Cold Spring Wang X-M, Zhang Y-G, Li A-L, Long Z-H, Wang D, Li X-X, Xia
+Harb Perspect Med 2(2):a009399. https://d oi.o rg/1 0.1 101/c shpe J-H, Luo S-Y, Shan Y-H (2016) Relationship between levels of
+rspect.a 00939 9 inflammatory cytokines in the peripheral blood and the severity
+Sturchio A, Marsili L, Vizcarra JA, Dwivedi AK, Kauffman MA, Duker of depression and anxiety in patients with Parkinson’s disease.
+AP, Lu P, Pauciulo MW, Wissel BD, Hill EJ, Stecher B, Keel- Eur Rev Med Pharmacol Sci 20(18):3853–3856
+ing EG, Vagal AS, Wang L, Haslam DB, Robson MJ, Tanner Wang H, Atik A, Stewart T, Ginghina C, Aro P, Kerr KF, Seibyl J,
+CM, Hagey DW, El Andaloussi S, Ezzat K, Fleming RMT, Lu Jennings D, Jensen PH, Marek K, Shi M, Zhang J (2018) Plasma
+LJ, Little MA, Espay AJ (2020) Phenotype-agnostic molecular α-synuclein and cognitive impairment in the Parkinson’s asso-
+subtyping of neurodegenerative disorders: the cincinnati cohort ciated risk syndrome: a pilot study. Neurobiol Dis 116:53–59.
+biomarker program (CCBP). Front Aging Neurosci 12:553635. https://d oi.o rg/1 0.1 016/j.n bd.2 018.0 4.0 15
+https://d oi.o rg/1 0.3 389/f nagi.2 020.5 53635 Wang L, Wang G, Duan Y, Wang F, Lin S, Zhang F, Li H, Li A,
+Sulzer D, Alcalay RN, Garretti F, Cote L, Kanter E, Agin-Liebes J, Li H (2019a) A comparative study of the diagnostic potential
+Liong C, McMurtrey C, Hildebrand WH, Mao X, Dawson VL, 
+
+Chunk 59:
+biomarker program (CCBP). Front Aging Neurosci 12:553635. https://d oi.o rg/1 0.1 016/j.n bd.2 018.0 4.0 15
+https://d oi.o rg/1 0.3 389/f nagi.2 020.5 53635 Wang L, Wang G, Duan Y, Wang F, Lin S, Zhang F, Li H, Li A,
+Sulzer D, Alcalay RN, Garretti F, Cote L, Kanter E, Agin-Liebes J, Li H (2019a) A comparative study of the diagnostic potential
+Liong C, McMurtrey C, Hildebrand WH, Mao X, Dawson VL, of plasma and erythrocytic α-Synuclein in Parkinson’s disease.
+Dawson TM, Oseroff C, Pham J, Sidney J, Dillon MB, Carpen- Neurodegener Dis 19(5–6):204–210. https://d oi.o rg/1 0.1 159/
+ter C, Weiskopf D, Phillips E, Mallal S, Peters B, Frazier A, 000506 480
+Lindestam Arlehamn CS, Sette A (2017) T cells from patients Wang S-Y, Chen W, Xu W, Li J-Q, Hou X-H, Ou Y-N, Yu J-T, Tan
+with Parkinson’s disease recognize α-synuclein peptides. Nature L (2019b) Neurofilament light chain in cerebrospinal fluid
+546(7660):656–661. https://d oi.o rg/1 0.1 038/n ature 22815 and blood as a biomarker for neurodegenerative diseases: a
+Sun C, Zhao Z, Yu W, Mo M, Song C, Si Y, Liu Y (2019) Abnormal systematic review and meta-analysis. J Alzheimer’s Dis: JAD
+subpopulations of peripheral blood lymphocytes are involved in 72(4):1353–1361. https://d oi.o rg/1 0.3 233/J AD-1 90615
+Parkinson’s disease. Ann Transl Med 7(22):637. https://d oi.o rg/ Williams SM, Schulz P, Sierks MR (2016) Oligomeric α-synuclein
+10.2 1037/a tm.2 019.1 0.1 05 and β-amyloid variants as potential biomarkers for Parkinson’s
+Tang P, Chong L, Li X, Liu Y, Liu P, Hou C, Li R (2014) Correlation and Alzheimer’s diseases. Eur J Neurosci 43(1):3–16. https://d oi.
+between serum RANTES levels and the severity of Parkinson’s org/1 0.1 111/e jn.1 3056
+disease. Oxid Med Cell Longev 2014:1–4. https:// doi. org/ 10. Williams-Gray CH, Wijeyekoon R, Yarnall AJ, Lawson RA, Breen
+1155/2 014/2 08408 DP, Evans JR, Cummins GA, Duncan GW, Khoo TK, Burn DJ,
+Teunissen CE, Chiu M-J, Yang C-C, Yang S-Y, Scheltens P, Zetterberg Barker RA (2016) S erum i
+
+Chunk 60:
+1):3–16. https://d oi.
+between serum RANTES levels and the severity of Parkinson’s org/1 0.1 111/e jn.1 3056
+disease. Oxid Med Cell Longev 2014:1–4. https:// doi. org/ 10. Williams-Gray CH, Wijeyekoon R, Yarnall AJ, Lawson RA, Breen
+1155/2 014/2 08408 DP, Evans JR, Cummins GA, Duncan GW, Khoo TK, Burn DJ,
+Teunissen CE, Chiu M-J, Yang C-C, Yang S-Y, Scheltens P, Zetterberg Barker RA (2016) S erum immune markers and disease progres-
+H, Blennow K (2018) Plasma Amyloid-β (Aβ42) correlates with sion in an incident P arkinson’s disease cohort (ICICLE-PD ).
+cerebrospinal fluid Aβ42 in Alzheimer’s disease. J Alzheimer’s Mov Disord 31(7):995–1003. https://d oi.o rg/1 0.1 002/m ds.2 6563
+Dis: JAD 62(4):1857–1863. https://d oi.o rg/1 0.3 233/J AD-1 70784 Williams-Gray CH, Wijeyekoon RS, Scott KM, Hayat S, Barker RA,
+Thaler A, Shenhar-Tsarfaty S, Shaked Y, Gurevich T, Omer N, Bar- Jones JL (2018) Abnormalities of age-related T cell senescence
+Shira A, Gana-Weisz M, Goldstein O, Kestenbaum M, Cedar- in Parkinson’s disease. J Neuroinflammation. https://d oi.o rg/1 0.
+baum JM, Orr-Urtreger A, Giladi N, Mirelman A (2020) Meta- 1186/s 12974-0 18-1 206-5
+bolic syndrome does not influence the phenotype of LRRK2 and Xie Y, Meng W-Y, Li R-Z, Wang Y-W, Qian X, Chan C, Yu Z-F, Fan
+GBA related Parkinson’s disease. Sci Rep 10(1):9329. https://d oi. X-X, Pan H-D, Xie C, Wu Q-B, Yan P-Y, Liu L, Tang Y-J, Yao
+org/1 0.1 038/s 41598-0 20-6 6319-9 X-J, Wang M-F, Leung EL-H (2021) Early lung cancer diagnos-
+Tian C, Liu G, Gao L, Soltys D, Pan C, Stewart T, Shi M, Xie Z, Liu N, tic biomarker discovery by machine learning methods. Transl
+Feng T, Zhang J (2019) Erythrocytic α-Synuclein as a potential Oncol 14(1):100907. https://d oi.o rg/1 0.1 016/j.t ranon.2 020.
+biomarker for Parkinson’s disease. Transl Neurodegener 8:15. 100907
+https://d oi.o rg/1 0.1 186/s 40035-0 19-0 155-y Ye R, Locascio JJ, Goodheart AE, Quan M, Zhang B, Gomperts SN
+Usnich T, Vollstedt E-J, Schell N, Skrahina V, Bogdanovic X, 
+
+Chunk 61:
+achine learning methods. Transl
+Feng T, Zhang J (2019) Erythrocytic α-Synuclein as a potential Oncol 14(1):100907. https://d oi.o rg/1 0.1 016/j.t ranon.2 020.
+biomarker for Parkinson’s disease. Transl Neurodegener 8:15. 100907
+https://d oi.o rg/1 0.1 186/s 40035-0 19-0 155-y Ye R, Locascio JJ, Goodheart AE, Quan M, Zhang B, Gomperts SN
+Usnich T, Vollstedt E-J, Schell N, Skrahina V, Bogdanovic X, Gaber (2021) Serum NFL levels predict progression of motor impair-
+H, Förster TM, Heuer A, Koleva-Alazeh N, Csoti I, Basak AN, ment and reduction in putamen dopamine transporter binding
+Ertan S, Genc G, Bauer P, Lohmann K, Grünewald A, Schy- ratios in de novo Parkinson’s disease: an 8-year longitudinal
+manski EL, Trinh J, Schaake S, Berg D, Gruber D, Isaacson study. Parkinsonism Relat Disord 85:11–16. https:// doi. org/ 10.
+SH, Kühn AA, Mollenhauer B, Pedrosa DJ, Reetz K, Sammler 1016/j.p arkre ldis.2 021.0 2.0 08
+EM, Valente EM, Valzania F, Volkmann J, Zittel S, Brügge- Ygland Rödström E, Mattsson-Carlgren N, Janelidze S, Hansson
+mann N, Kasten M, Rolfs A, Klein C (2021) LIPAD (LRRK2/ O, Puschmann A (2021) Serum neurofilament light chain as a
+1 3
+
+---PAGE BREAK---
+
+Blood‑based biomarker in Parkinson’s disease: potential for future applications in clinical… 1217
+marker of progression in Parkinson’s disease: long-term obser- Zhang J, Li X, Li J-D (2019) The roles of post-translational modifica-
+vation and implications of clinical subtypes. J Parkinsons Dis. tions on α-Synuclein in the pathogenesis of Parkinson’s diseases.
+https://d oi.o rg/1 0.3 233/J PD-2 12866 Front Neurosci 13:381. https://d oi.o rg/1 0.3 389/f nins.2 019.0 0381
+Yilmaz R, Strafella AP, Bernard A, Schulte C, van den Heuvel L,
+Schneiderhan-Marra N, Knorpp T, Joos TO, Leypoldt F, Geritz Publisher's Note Springer Nature remains neutral with regard to
+J, Hansen C, Heinzel S, Apel A, Gasser T, Lang AE, Berg D, jurisdictional claims in published maps and institutional affiliations.
+Maetzler W, Marras C (2018) Se
+
+Chunk 62:
+1. https://d oi.o rg/1 0.3 389/f nins.2 019.0 0381
+Yilmaz R, Strafella AP, Bernard A, Schulte C, van den Heuvel L,
+Schneiderhan-Marra N, Knorpp T, Joos TO, Leypoldt F, Geritz Publisher's Note Springer Nature remains neutral with regard to
+J, Hansen C, Heinzel S, Apel A, Gasser T, Lang AE, Berg D, jurisdictional claims in published maps and institutional affiliations.
+Maetzler W, Marras C (2018) Serum inflammatory profile for the
+discrimination of clinical subtypes in Parkinson’s disease. Front
+Neurol. https://d oi.o rg/1 0.3 389/f neur.2 018.0 1123
+Zetterberg H (2015) Plasma amyloid β-quo vadis? Neurobiol Aging
+36(10):2671–2673. https://d oi.o rg/1 0.1 016/j.n eurob iolag ing.
+2015.0 7.0 21
+1 3
+
+---PAGE BREAK---
+
+
+

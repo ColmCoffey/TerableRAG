@@ -1,0 +1,1271 @@
+Chunk 1:
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Review Article
+Role of glycosylation in nucleating protein folding
+and stability
+Nisha Grandhi Jayaprakash and Avadhesha Surolia
+MolecularBiophysicsUnit,IndianInstituteofScience,Bangalore560012,India
+Correspondence:AvadheshaSurolia(surolia@mbu.iisc.ernet.in)
+Glycosylation constitutes one of the most common, ubiquitous and complex forms of
+post-translational modification. It commences with the synthesis of the protein and plays
+a significant role in deciding its folded state, oligomerization and thus its function. Recent
+studies have demonstrated that N-linked glycans help proteins to fold as the stability and
+folding kinetics are altered with the removal of the glycans from them. Several studies
+have shown that it alters not only the thermodynamic stability but also the structural fea-
+tures of the folded proteins modulating their interactions and functions. Their inhibition
+and perturbations have been implicated in diseases from diabetes to degenerative disor-
+ders. The intent of this review is to provide insight into the recent advancements in the
+general understanding on the aspect of glycosylation driven stability of proteins that is
+imperative to their function and finally their role in health and disease states.
+Introduction
+What is glycosylation?
+Glycosylation is the covalent addition of sugar moieties to the protein co-translationally or as a post-
+translational modification enzymatically. It is the most frequent, heterogeneous, stereo-chemically
+complex modification. The rich repertoire of this modification serves as a profitable mechanism for
+augmenting the potential of the genome. A recent review throws light on the multifunctional role of
+glycans inorganismal diversity [1].
+A majority of the glycosylation sequons displayed in the protein are glycosylated and more than
+half of the proteome constitutes glycoproteins [2]. The site of modification is dependent on factors
+like the residues in the co
+
+Chunk 2:
+on serves as a profitable mechanism for
+augmenting the potential of the genome. A recent review throws light on the multifunctional role of
+glycans inorganismal diversity [1].
+A majority of the glycosylation sequons displayed in the protein are glycosylated and more than
+half of the proteome constitutes glycoproteins [2]. The site of modification is dependent on factors
+like the residues in the consensus sequence, its accessibility and the sub-cellular localization of the
+glycoprotein. During glycosylation, an oligosaccharide chain is most often linked covalently to either
+the nitrogen atom of an asparagine side chain or the oxygen atom of a serine or a threonine residue.
+Less common forms of glycosylation include C-glycosylation that occurs on tryptophan or tyrosine
+residue, S-linked glycosylation through a sulphur atom on cysteine or methionine and
+C-mannosylation through C–C linkagesto theC2 position of tryptophan.
+This formation of the amino acid and sugar linkage is an essential step in the glycosylation of the
+protein via a series of complex enzymatic reactions. These distinctive reactions are tissue-specific and
+have a significant impact on several physiological and pathological processes [3]. It is beneficial to the
+protein to undergo this modification during synthesis, and it has been noted that structural destabil-
+ization improved glycosylation efficiency while the natively folded substrate protein was not efficiently
+glycosylatedinvitro.Initially,alltheglycansareidentical andundergofurther processingviathetrim-
+ming enzymes. This glycosylation code correlates with the biophysical effects of protein sequence and
+Received:10February2017 structure on glycosylation, and in this manner, it impartsthe functional blueprint for the glycoprotein
+Revised:14April2017 [4].
+Accepted:19April2017
+The endoplasmic reticulum quality control (ER-QC) recognizes aberrant proteins based on their
+VersionofRecordpublished: glycosylation profile, targeting them for either rescue
+
+Chunk 3:
+th the biophysical effects of protein sequence and
+Received:10February2017 structure on glycosylation, and in this manner, it impartsthe functional blueprint for the glycoprotein
+Revised:14April2017 [4].
+Accepted:19April2017
+The endoplasmic reticulum quality control (ER-QC) recognizes aberrant proteins based on their
+VersionofRecordpublished: glycosylation profile, targeting them for either rescue, export out of the ER or degradation.
+3July2017 Modification of the glycan occurs as it proceeds into the Golgi apparatus, by the action of resident
+2333
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+processing enzymes — glycosidases and glycosyltransferases forming an array of glycoforms. Once the protein
+attains the native conformation, the modified glycan serves as an address directing the protein trafficking
+towards endosome, lysosome, other compartments in the cell or by default towards the plasma membrane for
+secretion (Figure 1). In case of proteins with slow folding kinetics, they are targeted to the ER-associated
+degradation (ERAD) pathway for degradation by themannose-trimming enzymes [5].
+Despite not being under direct genetic control, glycosylation seems to be crucial in several aspects of the
+activity of the protein, that is its conformation, function, stability and dynamics. A fully processed glycan also
+has a huge impact on trafficking and localization of the glycoprotein and plays a major role in regulating the
+social behaviourof the cell including cell growth, differentiation and host cell interactions [6].
+N-linked glycans have also been known to function as molecular insulators. They enable a reduction in the
+density of macromolecular crowded environment by retarding the intermole
+
+Chunk 4:
+glycan also
+has a huge impact on trafficking and localization of the glycoprotein and plays a major role in regulating the
+social behaviourof the cell including cell growth, differentiation and host cell interactions [6].
+N-linked glycans have also been known to function as molecular insulators. They enable a reduction in the
+density of macromolecular crowded environment by retarding the intermolecular interactions and channelize
+the membrane proteins to function correctly. A recent study has demonstrated this effect on the diffusion of
+GPI-anchored variant surface glycoprotein (VSG) in the case of African trypanosomes. N-glycosylation was
+seen to modulate the molecular crowding threshold and facilitate lateral diffusion, high VSG mobility and
+dense packaging in their surface coat. It is hypothesized that the buffering effect offered by N-glycans can be
+crucial for antigenic variation leading to the evolution of new mosaic VSGs [7]. Studies have also established
+the role of a single glycan residue as being sufficient for receptor activity, protein trafficking and localization
+and bile acid uptake in the case of Na+-taurocholate co-transporting polypeptide, a receptor for hepatitis B
+virus. The perturbations in the glycan pattern led to protein degradation in the lysosomes via the endosomal
+pathway [8]
+Additionally, individual glycosylation on a protein is known to have discrete roles in sorting, maturation, sta-
+bility and function. A study was conducted to delineate the role of glycosylation site in the protein by sequen-
+tially removing and subsequently determining the effect on activityand fate of tyrosinase and tyrosinase-related
+proteins. It was seen that glycosylation on residue Asn 104 had no effect in protein processing or maturation,
+on Asn 94 it did not enhance stability or function while on residue Asn 304 (TRP-1), it was found to be
+important for activity and processing, and on Asn 181, glycosylation affected the glycoprotein transport
+through Golgi comp
+
+Chunk 5:
+fect on activityand fate of tyrosinase and tyrosinase-related
+proteins. It was seen that glycosylation on residue Asn 104 had no effect in protein processing or maturation,
+on Asn 94 it did not enhance stability or function while on residue Asn 304 (TRP-1), it was found to be
+important for activity and processing, and on Asn 181, glycosylation affected the glycoprotein transport
+through Golgi complex (Figure 2) [9,10]. A study conducted on similar lines on the human
+Ceroid-lipofuscinosis neuronal protein 5 based on the localization and stability assays revealed that the eight
+putativeN-glycosylationsites oftheproteincouldbecategorizedinto threegroups onthebasis ofthefunction-
+ality it induced. In the first group, glycosylation on the sites Asn 179, Asn 252, Asn 304 and Asn 320 was
+found to be crucial in folding, failing which the protein was misfolded and was retained in the ER. The second
+group was involved in the trafficking and localization of the protein in the endosome/lysosome; here, Asn 401
+glycosylation was found to be essential for lysosomal localization without which the protein was seen to accu-
+mulate in the Golgi initially before being transported to the plasma membrane for secretion. The third group
+was found to play a role in the lysosomal function where Asn 192 was found to be a crucial element for func-
+tionality [11]. These studies could figuratively draw lines to demarcate the functional differences in various
+N-glycosylation sites on theprotein.
+Types of glycosylation
+Astudyon thenatureand the distribution of protein glycosylation has revealed thatthe diversityof the glycans
+is achieved from the assembly of a total of 41 bonds between 13 different monosaccharides — glucose,
+mannose, galactose, fucose, N-acetylglucosamine, N-acetylgalactosamine, sialic acid, etc. and eight amino acids
+thatareinvolvedin glycosidic linkages [12,13].
+These can further be classified into six types of glycosylation — N-linked glycosylation, O-linked glycosyla-
+tion, C-
+
+Chunk 6:
+versityof the glycans
+is achieved from the assembly of a total of 41 bonds between 13 different monosaccharides — glucose,
+mannose, galactose, fucose, N-acetylglucosamine, N-acetylgalactosamine, sialic acid, etc. and eight amino acids
+thatareinvolvedin glycosidic linkages [12,13].
+These can further be classified into six types of glycosylation — N-linked glycosylation, O-linked glycosyla-
+tion, C-linked mannosylation, S-linked glycosylation, phospho-glycation and glypiation. Among them, N- and
+O-linkedglycosylations arethe mostcommon modifications seen in theglycoprotein(Figure3)[14].
+N-linked glycosylation
+Avast majority of the secretory proteins, that is, ∼90% of glycoproteins that occur in eukaryotes and archaea,
+undergo N-linked glycosylation in the ER. Here, upon recognition of the sequon N-X-S/T (or, rarely, N-X-C in
+a few plant proteins), where X can be anyamino acid but proline, a 14-sugar glycan is transferred en bloc onto
+the amino group of asparagine during translation. On the other hand, not all the sequons in the proteins are
+glycosylated which can be due to varied reasons such as conformational limitations and amino acid environ-
+ment. Data analysis has revealed that sequons containing proline and charged amino acids were significantly
+2334
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure1.AschematicrepresentationofthesynthesisandprocessingofglycosylatedproteinintheER.
+ThefigureillustratestheglycanattachmentontotheproteinatthesequonN-X-T/SasitenterstheER.Thefoldingoftheprotein
+isenabledbythelectinchaperones—calnexinorcalreticulin.Thisisfollowedbyglycanprocessingtotargettheglycoproteinto
+itsdestination.Thefoldedproteinisthensecretedortraffickedtotheothercellularcompartmentsvi
+
+Chunk 7:
+Figure1.AschematicrepresentationofthesynthesisandprocessingofglycosylatedproteinintheER.
+ThefigureillustratestheglycanattachmentontotheproteinatthesequonN-X-T/SasitenterstheER.Thefoldingoftheprotein
+isenabledbythelectinchaperones—calnexinorcalreticulin.Thisisfollowedbyglycanprocessingtotargettheglycoproteinto
+itsdestination.ThefoldedproteinisthensecretedortraffickedtotheothercellularcompartmentsviatheGolgicomplex.
+under-glycosylated compared with their uncharged counter parts. This results in micro-heterogeneity with a
+high degree ofstructurally complexglycoproteins [15].
+Studies have further revealed that the presence of an aromatic residue at n−2 position of the sequon
+increasesthe glycan occupancy in human cells byenabling the activityof the enzyme oligosaccharyltransferase.
+This residue enables attainment of a reverse turn owing to the dispersion forces between the sequon residue
+and the aromatic amino acid [16]. It further alters the glycan processing in the Golgi complex producing less
+complex glycosylated structures. This demonstrates the sequence–structure–function correlation where a
+manipulation in thesequence space altersthestructure andfunctionof theglycoprotein [17].
+O-linked glycosylation
+O-glycosylation is known to be vital for the physiological function of proteins and plays a crucial role during
+the early stages of development by regulating cell growth and cell cycle. It serves as a mechanism to modulate
+protein–protein interactions and intercellular signalling [18–21]. Aberrations in O-glycosylation are implicated
+incertain humandiseases andarealsoassociatedwithdiseaseriskfactors[22].Theinitiationevent forglycosy-
+lation is mainly dependent on the localization of the glycosyltransferases involved in the transfer process [23].
+Unlike N-linked glycosylation, sugars here are added in a step-wise manner catalyzed by different glycosyl
+transferase enzymes incrementally. Depending on the protein to be glycosylated and its localization, different
+glycans 
+
+Chunk 8:
+edwithdiseaseriskfactors[22].Theinitiationevent forglycosy-
+lation is mainly dependent on the localization of the glycosyltransferases involved in the transfer process [23].
+Unlike N-linked glycosylation, sugars here are added in a step-wise manner catalyzed by different glycosyl
+transferase enzymes incrementally. Depending on the protein to be glycosylated and its localization, different
+glycans are attached to the proteins. The O-linked glycosylation occurs post-translationally and is initiated in
+the ER for most of the O-glycans where a single monosaccharide is linked to the hydroxyl group of serine,
+threonine, tyrosine or on the oxidized forms of lysine and proline via glycosidic linkages. These can be further
+extended in the Golgi compartment in the case of secreted and membrane proteins. O-linked glycosylation can
+2335
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure2.Graphicalrepresentationofthecomparativerolesoftheconservedasparagineresiduesinhumantyrosinase
+indicatingthedifferentfunctionstheyperform.
+ThehumantyrosinasestructurewasmodelledwithtyrosinasefromBacillusmegateriumasthetemplateusingthe
+SWISS-MODELServer.Glycosylatedasparagineresiduesareshowninsphererepresentation.
+be classified into O-glucosamidation, O-xylosylation, O-glucosylation, O-galactosylation, O-mannosylation and
+O-fucosylation. O-mannosylation in particular begins in the ER when a mannose sugar is transferred from
+dolichol monophosphate-activated mannose onto serine or threonine residues of secretory proteins [24].
+O-mannosylation is significantly involved in ER protein quality control called as unfolded protein O-mannosy-
+lationwhereitinhibitstheaggregationoftheunfoldedproteinandpromotesitsentryintoERADpathway
+
+Chunk 9:
+sylation. O-mannosylation in particular begins in the ER when a mannose sugar is transferred from
+dolichol monophosphate-activated mannose onto serine or threonine residues of secretory proteins [24].
+O-mannosylation is significantly involved in ER protein quality control called as unfolded protein O-mannosy-
+lationwhereitinhibitstheaggregationoftheunfoldedproteinandpromotesitsentryintoERADpathway[25].
+A predominant form of O-linked glycosylation involves the addition of N-acetylgalactosamine (O-GalNAc)
+onto the serine or threonine side chain catalyzed by the enzyme N-acetyl galactoaminyltransferase in the Golgi
+apparatus. Mucin proteins, extracellular matrix components and proteoglycans frequently undergo this form of
+glycosylation [26]. Glycosylation of hydroxylysine and hydroxyproline is initiated in the ER where a Gal or a
+Glc residue is added onto collagen proteins which can be extended further in the Golgi complex. On the other
+hand, proteins of the nucleus and cytoplasm undergo O-GlcNAcylation where a serine/threonine residue is
+reversibly glycosylated with GlcNAc. This modification is intimately associated with cell signalling where it
+adds an additionallevelof modulation overandabovewhat is done by protein phosphorylation alone [27].
+To understand the effect of glycosylation on protein folding, stability and dynamics, it is imperative to study
+the glycosylation code and its influence on the protein’senergy landscape.
+Effects of glycosylation on protein stability
+The effect of glycosylation on protein folding is of great interest as it has a tremendous impact on the stability
+and structure of the protein. The covalent bonding of glycans to proteins enhances their thermal and kinetic
+stability by increasing their vibrational entropy, which forms a major portion of the configurational entropy in
+determining the protein dynamics and decreasing the free energy of their folding. It stabilizes the pre-existing
+conformation, reduces its tendency to form other secon
+
+Chunk 10:
+ stability
+and structure of the protein. The covalent bonding of glycans to proteins enhances their thermal and kinetic
+stability by increasing their vibrational entropy, which forms a major portion of the configurational entropy in
+determining the protein dynamics and decreasing the free energy of their folding. It stabilizes the pre-existing
+conformation, reduces its tendency to form other secondary structures and prevents thermal unfolding. These
+auxiliary effects arise from multiple factors, including the presence of a disulphide bond adjacent to the glyco-
+sylation sitewhich often promotesthe development of secondarystructures.
+Earlierexperimental and in silico studies have shown that glycosidic linkages on the Asn residue induce local
+stabilization effect around the glycosylation site [28]. An analysis of the heptasaccharide glycan present in
+2336
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure3.Typesofglycosylation.
+(A)Agraphicrepresentationofthesixtypesofglycosylation,theirsiteofglycanattachmentandthevariousglycosylated
+proteins.(B)ProteinscovalentlylinkedtoN-linkedandO-linkedglycansthataredifferentiallyprocessed.
+ECorL (lectin from Erythrina corallodendron) has shown that the presence of the glycan guides their folding
+pathway probably bystabilizing certain secondarystructural elements of intermediates during folding [29]. The
+solution and molecular dynamics studies have advanced the study of the conformation of the oligosaccharide
+and its effect on the structure and stability of the glycosylated and the non-glycosylated recombinant rECorL.
+The study indicates that, although the three-dimensional structures of the two forms are alike, the glycosylated
+form displayed a reduction 
+
+Chunk 11:
+of intermediates during folding [29]. The
+solution and molecular dynamics studies have advanced the study of the conformation of the oligosaccharide
+and its effect on the structure and stability of the glycosylated and the non-glycosylated recombinant rECorL.
+The study indicates that, although the three-dimensional structures of the two forms are alike, the glycosylated
+form displayed a reduction in the non-polar solvent accessible surface area when compared with the non-
+glycosylated ECorL protein. These findings provide a rationale for the higher thermodynamic stability of the
+glycosylated proteinin comparison withits non-glycosylated counterpart [30].
+2337
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+A similar assistance of glycans in the folding process was seen for another glycoprotein, soybean agglutinin
+(SBA), where glycosylation had a pronounced effect in maintaining the conformational stability of the lectin
+[31,32]. A study on the structural perturbations during the thermal unfolding of the two forms — glycosylated
+and non-glycosylated forms of SBA — shows that the non-glycosylated monomeric form has lesser stability
+than its corresponding glycosylated form at normal and elevated temperatures from the dynamics perspective.
+This is attributed to the non-covalent interactions between the protein and the carbohydrate as seen in the gly-
+cosylated protein. The results from Molecular dynamics simulation studies correlates the decrease in free
+energy, with the increase in vibrational energy as a result of glycan-induced stabilization by ∼45kcal/mol at
+normal temperature. Studies also revealed that the non-glycosylated monomeric form of the legume lectin SBA
+was less stable than the corre
+
+Chunk 12:
+tein and the carbohydrate as seen in the gly-
+cosylated protein. The results from Molecular dynamics simulation studies correlates the decrease in free
+energy, with the increase in vibrational energy as a result of glycan-induced stabilization by ∼45kcal/mol at
+normal temperature. Studies also revealed that the non-glycosylated monomeric form of the legume lectin SBA
+was less stable than the corresponding glycosylated form at normal and elevated temperatures. This was seen in
+terms of the interaction profile between the carbohydrate and the protein which was apparently crucial for
+maintaining the folded structureof the legume lectin (Figure 4) [33,34].
+Studies further highlight the role of glycosylation in terms of the protein–glycan interactions. Coarse-grained
+molecular dynamics simulations conducted to understand the mechanism underlying the loss of stabilityof the
+MM1 protein (miniaturized model of Gc-macrophage activating factor) by glycosylation, point to the origin of
+the destabilization to aconformational deformation of the protein led by the interaction of the monosaccharide
+with the protein surface. Loss of long-range protein–protein interaction has a greater destabilizing effect than
+the creation of new short-range protein–glycan interaction. This originates from a trade-off between the short-
+range and long-range interactions [35].
+A study on the effect of glycosylation on the dynamics of the Ribonuclease B protein revealed that although
+N-glycosylation did not significantly alter the global or the local structure, it did reduce the dynamic fluctua-
+tions, promoting an increase in stability. The global structures of glycosylated proteins are almost identical with
+non-glycosylated ones negating the effect of N-glycosylation on the global protein structure. However, the data
+from the NMR measurement of amide-proton/deuterium exchange rates indicated that the glycosylation of the
+Ribonuclease B protein enabled the protection of amide-proton resonances from 
+
+Chunk 13:
+ting an increase in stability. The global structures of glycosylated proteins are almost identical with
+non-glycosylated ones negating the effect of N-glycosylation on the global protein structure. However, the data
+from the NMR measurement of amide-proton/deuterium exchange rates indicated that the glycosylation of the
+Ribonuclease B protein enabled the protection of amide-proton resonances from solvent exchange for residues
+both around and far away from the glycosylation site. This was evidently not seen in the non-glycosylated
+form. This result further indicatesthat thepresence of sugarenhancestheproteinstability [36].
+Studies also show the influence of glycosylation in maintaining the biological activity of the protein.
+Glycodelin, a human secreted glycoprotein, for example has been of considerable interest to the understanding
+of the influence of glycosylation on its biological and the physiological activity in human reproduction. The
+N-linked glycans on glycodelins differ between the male and female glycoforms. Glycans on the glycodelin
+proteins are believed to assist the pathogens and infected cellsto escape host immune reactions [37]. It has also
+been reported that insignificant elaboration of glycans on the Fc portion of IgG can have a significant impact
+on the receptor binding and manipulating effector functions [38,39]. A similar study on the sphingomyelin
+phosphodiesterase acid-like 3A protein also established the various roles of N-glycosylation in preserving its
+phosphodiesterase activity, intracellular stability and protecting it against the degradation enzymes. The study
+further experimentally verified that the cleavage of the glycan from a matured protein resulted in loss of its
+enzymatic activity. It was also seen that the non-glycosylated protein was misfolded and was subjected to rapid
+degradation [40].
+O-glycosylation that is mannosylation in particular has been shown to indirectly promote stability in
+ER-associated secretory proteins Sec20p by 
+
+Chunk 14:
+es. The study
+further experimentally verified that the cleavage of the glycan from a matured protein resulted in loss of its
+enzymatic activity. It was also seen that the non-glycosylated protein was misfolded and was subjected to rapid
+degradation [40].
+O-glycosylation that is mannosylation in particular has been shown to indirectly promote stability in
+ER-associated secretory proteins Sec20p by hindering proteolytic cleavage [41]. It is also known to increase the
+thermostability of carbohydrate-binding modules by increasing the thermolysin cleavage resistance along with
+the binding affinity towards its substrate — bacterial microcrystalline cellulose [42]. There are, however, cases
+wherein no significant differences in terms of activity, conformation and dynamics between the glycosylated
+and the non-glycosylated forms were observed. A recent study on the Artemin (ART) protein revealed that the
+glycosylation offered no suggestive role in the activityof the protein despite the glycosylation sequon being at a
+close proximity to the protein active site. There was, however, a clear role played by glycosylation in increasing
+the solubility and stability of the protein [43]. These studies emphasize that natural glycosylation results in
+proteinstabilization.
+Effect of glycosylation on protein folding
+Glycosylation exerts its intrinsic effect by directly transforming the energy landscape for protein folding. It
+induces a locally mediated effect on the protein structure. These effects vary in accordance with the glycosyla-
+tion site and its secondary structure. It is known to negatively affect the α-helical segment if the glycosylation
+2338
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure4.Cartoo
+
+Chunk 15:
+ively affect the α-helical segment if the glycosylation
+2338
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure4.Cartoonrepresentationofnon-covalentinteractionsthatstabilizethefunctionalformofsoybeanagglutinin.
+Thenon-canonicalinterfaceishighlightedinthebox.Theinteractionbetweenthetwodimersisglycanmodulatedandis
+indicatedbydashedlines.
+site is at the centre of the helix while positively promotes folding if the site is between the ordered secondary
+structures. Previous studies have established that the three residues closest to the protein play a major role in
+accelerating protein folding and enable stabilization. This endorses the reasoning behind the most preferred
+section of the protein to get glycosylated. Studies have also shown the consequence of specific, evolved protein–
+glycan contacts in mediating the beneficial energetic effects on protein folding that is glycosylation facilitated
+[44–46].
+Glycosylation is seen to transform the folding kinetics of proteins by altering the rate-limiting step of the
+protein folding reaction. In the case of erythropoietin, it was observed that the absence of glycosylation did not
+alter the folding mechanism but stabilized the intermediate species to a greater extent than increasing the
+erythropoietin equilibrium stability. These results suggest that by biasing particular folding pathways, glycosyla-
+tion impedesthe folding of the intermediates rather than accelerating them. It further increasesthe folding rate
+of the protein than optimization of the biological function than [47]. The findings from another study on the
+non-structural protein 4B (NS4B) from Dengue virus indicated that disruption of the glycosylation rendered
+loss in the biological func
+
+Chunk 16:
+ng particular folding pathways, glycosyla-
+tion impedesthe folding of the intermediates rather than accelerating them. It further increasesthe folding rate
+of the protein than optimization of the biological function than [47]. The findings from another study on the
+non-structural protein 4B (NS4B) from Dengue virus indicated that disruption of the glycosylation rendered
+loss in the biological function of the protein in the formation of viral replication complex byadverselyaffecting
+its interaction with other proteins in the replication complex. Mutational analysis revealed the role of glycans
+in maintaining thefolded conformation of theNS4B protein [48].
+On the other hand, a study on the role of fucosylation in the structural stability and function of PMP-C
+(pars intercerebralis major peptide-C) did not display any striking structural changes owing to fucosylation in
+its native disulphide-bonded forms of PMP-C. It did, however, addressthe means of enhancing the function of
+PMP-C as a protease inhibitor via the presence of disulphide bonds between conserved cysteines and fucosyla-
+tion, thereby preserving the structural integrity [49]. Investigation of the structure, dynamics and stability of
+the PMP-C protein by NMR spectroscopy also acknowledged the fact that the fucosylated and defucosylated
+forms were very similar in their overall backbone conformations and were indistinguishable. The L-fucose
+moiety induced a local structural effect largely restricted to the side chains of neighbouring residues inducing
+the formation of a hydrophobic cluster. Likewise, analysis of the exchange rates of amide protons asserted the
+2339
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+role of fucosylation in de
+
+Chunk 17:
+xchange rates of amide protons asserted the
+2339
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+role of fucosylation in decreasing the dynamics of the protein which, in turn, led to an increase in stability as
+wasevident by thermal denaturation studies[50].
+O-glycosylation also has a crucial role in determining the structure of the protein in terms of the secondary,
+tertiary and quaternary structure of the folded protein. An example is the case of the human granulocyte
+macrophage colony-stimulating factor protein where O-glycosylation is seen to be essential for maintaining the
+structural stabilityof the protein and has resulted in an extended in vivo half-lifewithout affecting its biological
+function. Indeed, its deglycosylation was seen to affect significantly the attainment of secondary structures par-
+ticularly the α-helical ones [51]. In the context of intrinsically disordered proteins (IDPs), a simulation and
+dynamics study on the structural effect of O-linked glycosylation on IDPs revealed that O-linked glycosylation
+primarily modulates the functional property by altering the binding characteristics of the protein. Structurally,
+itwas found toinduce a reduction in thesecondarystructure propensity [52].
+Molecular mechanism by which glycosylation helps in protein folding
+Both N- and O-glycans serve as molecular appendages that stabilize the protein structures by the addition of
+bulky hydrophilic groups inducing favourable interactions around the modification site. The rationale under-
+lying this decrease in dynamics can be attributed to several mechanisms. For instance, the addition of a sugar
+moiety can provide a unique conformational change to the inter-glycosidic and glycopeptides link
+
+Chunk 18:
+ve as molecular appendages that stabilize the protein structures by the addition of
+bulky hydrophilic groups inducing favourable interactions around the modification site. The rationale under-
+lying this decrease in dynamics can be attributed to several mechanisms. For instance, the addition of a sugar
+moiety can provide a unique conformational change to the inter-glycosidic and glycopeptides linkages which
+dictate a precise conformation for the peptide reducing its dynamics considerably [53]. Core glycans enhance
+conformational stability thereby productive folding of the proteins [54]. A related study suggested two possible
+microscopic mechanisms of glycosylation on protein’s stability which is termed as a ‘context dependent’ glyco-
+sylation effect; the context here is the protein’s interaction network around the glycosylation site one where it
+energetically stabilizes specific hydrogen bonds by shielding them from solvent exposure leading to changes in
+the hydrophobicity of the modification site which is experimentally verified [55,56]. The second mechanism
+being entropic stabilization which affects local and large-scale correlated motions of protein [57]. Furthermore,
+studies on the effect of glycosylation on protein conformation have revealed that glycosylation facilitates struc-
+tural integrityof the protein by increasing the favourable interactions like hydrogen bonds, van der Waals, elec-
+trostatic energy between the protein and the glycan components enabling protein folding. This was observed in
+2384 N-glycoproteins retrievedfrom the ProteinDataBank (Figure5)[58,59].
+ThermodynamicstudiesonthehumanCD2(clusterofdifferentiation2),acellsurfaceglycoprotein,aimedto
+provide quantitative energetic analysis on the effect of N-glycosylation showing that glycosylated hCD2 is more
+stable by 3.1kcal/mol, with the folding accelerated by 4-fold, and has a significantly slower unfolding rate (50
+times) than its corresponding non-glycosylated form. This difference was attrib
+
+Chunk 19:
+.
+ThermodynamicstudiesonthehumanCD2(clusterofdifferentiation2),acellsurfaceglycoprotein,aimedto
+provide quantitative energetic analysis on the effect of N-glycosylation showing that glycosylated hCD2 is more
+stable by 3.1kcal/mol, with the folding accelerated by 4-fold, and has a significantly slower unfolding rate (50
+times) than its corresponding non-glycosylated form. This difference was attributed to the three hydrogen-
+bondinginteractionswithinthetypeIβ-bulgeturnprovidingtherequiredenergeticcontributionfortheprotein
+stability[60]. ItwasalsoseenthattheN-glycan’sfirstsaccharideunitwasresponsible for theentireacceleration
+of folding along with 75% of the native state stability. The other two saccharide units contributed in achieving
+theremaining25%ofthestabilitythatwasrequired.ThestudythusillustratedtheroleoftheconservedN-linked
+triosecore,ManGlcNAc(2),inimprovingboththermodynamicsandkineticsofproteinfolding[45].
+Coarse-grained MD studies have shown that introduction of glycans of a suitable hydrophobicity at flexible
+regionsaidedfoldingoftheproteinandincreasedtheconformationalstabilityincomparisonwiththenativecoun-
+terpart. However, the same was not true in the case of glycan addition onto the restricted residues as theircontri-
+bution to stability was limited but did increase the free energy barriers significantly. The glycosylation was found
+to follow the two-step folding mechanism that is hydrophobic collapse followed by structural rearrangement.
+Glycan chains, which were appropriately located in terms of hydrophobicity, promoted both the collapse and
+rearrangement while others were found to only accelerate the collapse hindering the structural rearrangement.
+Complementary to the entropic effects, there is a reduction in the conformational space of the unfolded state
+whereinsuitablylocatedglycansprovidetherequiredhydrophobicinteractionsstrengtheningthefoldedstate[61].
+These studies highlight the role of glycosylation in reducing the overall dynamic fluctuation
+
+Chunk 20:
+ile others were found to only accelerate the collapse hindering the structural rearrangement.
+Complementary to the entropic effects, there is a reduction in the conformational space of the unfolded state
+whereinsuitablylocatedglycansprovidetherequiredhydrophobicinteractionsstrengtheningthefoldedstate[61].
+These studies highlight the role of glycosylation in reducing the overall dynamic fluctuations of the protein,
+thereby accelerating protein folding and maintaining the folded protein conformation. The general mechanism
+for protein folding is thus a result of the decrease in the activation energy which induces native-state stabiliza-
+tion and enhances protein folding inthesecretory pathway.
+Thermodynamic and kinetic aspects of glycosylation
+The covalent binding of the bulky hydrophilic glycans is known to increase the solubilityof the protein enhan-
+cing the thermodynamic and kinetic stability of the glycoprotein, as well as providing protection from
+2340
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Figure5.Interactionplotillustratingthemolecularmechanismbywhichglycosylationstabilizestheproteinstructure.
+Hydrogenbondsandhydrophobicinteractionsaredepictedinthe2Dplot.ThiswasgeneratedusingLigPlot+.Theproteinand
+glycanareshowninthe3Dplotbysurfaceandstickrepresentation,respectively.Hydrogenbondsbetweentheglycanandthe
+protein,whicharecrucialfortheinteractionareindicatedinblue.
+Figure6.Aschematicrepresentationofthefreeenergyprofileofaglycoprotein.
+Glycosylationisknowntoresultinhigherstabilityoftheglycosylatedformthanthenon-glycosylatedformintheirnativestate.
+Itisalsoknowntoaffecttheheightofthefreeenergyfoldingbarrieroftheprotein.ImageadaptedfromShental-Bechorand
+Levy[65].
+2341
+©2017TheAuthor(s);pub
+
+Chunk 21:
+eglycanandthe
+protein,whicharecrucialfortheinteractionareindicatedinblue.
+Figure6.Aschematicrepresentationofthefreeenergyprofileofaglycoprotein.
+Glycosylationisknowntoresultinhigherstabilityoftheglycosylatedformthanthenon-glycosylatedformintheirnativestate.
+Itisalsoknowntoaffecttheheightofthefreeenergyfoldingbarrieroftheprotein.ImageadaptedfromShental-Bechorand
+Levy[65].
+2341
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+proteolysis. This increase in thermodynamic stability is manifested by the increase in the melting temperature
+along with the free energy difference between the two forms. Studies also report enhanced stability in case of
+N-linked glycoproteins which is not the case for O-linked glycosylation [62–64]. The extent of change in stabil-
+ity is, however, glycoprotein-dependent and is essential to decipher the glycosylation code thatdirectstheinter-
+action between the nature of the carbohydrates or the proteins, thereby dictating the biophysical properties of
+the glycosylated protein [4]. Thermodynamic analysis to investigate the origin of the enhanced protein stabil-
+ization by glycosylation indicates that the difference mainly arises from the higher amount of destabilization of
+the unfolded state in comparison with stability gain of the folded state. This was observed in the case of 63
+engineered SH3 domain variants with varied polysaccharide chains attached to glycosylation sites, wherein the
+thermal stabilization of the protein was found to be proportionate to the numberof covalentlyattached glycans
+along with the position of the glycosylation sites. The analysis indicated that the enhanced protein stabilization
+originated by destabilization of the unfolded state reasonably tha
+
+Chunk 22:
+ngineered SH3 domain variants with varied polysaccharide chains attached to glycosylation sites, wherein the
+thermal stabilization of the protein was found to be proportionate to the numberof covalentlyattached glycans
+along with the position of the glycosylation sites. The analysis indicated that the enhanced protein stabilization
+originated by destabilization of the unfolded state reasonably than stabilization of the folded state. Conjointly, it
+was also observed that the bulky polysaccharide chains forcesthe unfolded ensemble to adopt a more extended
+conformation. This is mediated by limiting the formation of a residual structure besides enthalpically inducing
+a higher free energy tothe unfolded state (Figure 6) [65].
+Studies on the kinetics of thermally induced aggregation of the glycoprotein Peniophora lycii phytase (Phy)
+and a deglycosylated form (dgPhy) discovered that the glycans strongly promoted kinetic stability by reducing
+the rate of irreversible denaturation while leaving the temperature for equilibrium denaturation unaltered. The
+deglycosylated form wasfound to aggregate ∼200 times faster than the glycosylated counterpart. This suggested
+first-order kinetics with respect to the concentration of the thermally denatured state. Here, in the case of
+glycosylated form, the inhibition of aggregation was found to be dependent on steric hindrance of the glycans
+in the aggregated form of the protein and was not due to strong hydration of the glycans which was affecting
+their kinetic stability [66].
+Investigation of the glycosylation patterns in the variable domain of the HIV1 Envelope protein (gp120)
+revealed that glycosylation reduced the formation of secondary structures in the peptide by stabilizing the pre-
+existing conformation. This effect is attributed to the increase in the entropy of the backbone, disruption of
+inter- and intra-hydrogen bonding interaction between the glycan and the peptide simultaneously resisting
+unfolding. Glycan–glycan interaction
+
+Chunk 23:
+the HIV1 Envelope protein (gp120)
+revealed that glycosylation reduced the formation of secondary structures in the peptide by stabilizing the pre-
+existing conformation. This effect is attributed to the increase in the entropy of the backbone, disruption of
+inter- and intra-hydrogen bonding interaction between the glycan and the peptide simultaneously resisting
+unfolding. Glycan–glycan interactions provided further stability by contributing enthalpically aided by
+di-sulphide linkages promoting the formation of β-strands. The study established the influence glycosylation
+exerted on the antigenicityand theimmunogenicityof the variable region [67].
+Furthermore, the oligosaccharide functions as a crowding agent. This results in a more expanded unfolded
+state with loss of residual structure and thus higher enthalpy. It has also been indicated that it was almost
+impossible to attain a higher stability fora proteinstructurethanwhatwas induced by thesugars [68].
+Effect of glycosylation on protein oligomerization
+Glycosylation has been seen to hinder oligomerization when the sequon is at the interface of the oligomer for-
+mation. A study on the effect of glycosylation on the dimerization of the human carcino embryonic antigen-
+related cell adhesion molecule 1 revealed that the native monomer of the molecule suggested extensive glycosy-
+lation at the interface. However, it was seen that addition of even a single N-linked N-acetylglucosamine at any
+of thepotentialglycosylation sites inhibited the dimer formation [69]
+In the case of ECorL, atomic resolution structural solution comparison of the glycosylated and the non-
+glycosylatedformrevealedthepresenceoflocalchanges near theglycosylationsites.Theseservedascompensa-
+tory interactions for the non-glycosylated protein replacing the hydrogen bonds between the protein and
+glycan. Additionally, examination of the dimer discovered minor changes in the conformation of the residues
+in the interface. However, the final oligomeric stru
+
+Chunk 24:
+on of the glycosylated and the non-
+glycosylatedformrevealedthepresenceoflocalchanges near theglycosylationsites.Theseservedascompensa-
+tory interactions for the non-glycosylated protein replacing the hydrogen bonds between the protein and
+glycan. Additionally, examination of the dimer discovered minor changes in the conformation of the residues
+in the interface. However, the final oligomeric structure of the ECorL was independent of the glycan attached
+to it asthe tertiary and quaternarystructures of both glycosylated and the non-glycosylated forms were equiva-
+lent [70]. A similar result was also seen in basic winged bean agglutinin (WBA) lectins wherein the dimeriza-
+tion was independent of the glycosylation as the site for the addition of sugar moieties was located away from
+the dimerization interface. It was further seen that in WBAII, glycosylation reduced the structural integrity by
+reducing the number of inter-subunit interactions in the protein, lowering its denaturation temperature while
+ensuring atwo-state thermal transition [71–73].
+The study on two Ribonuclease (RNase) proteins A and B revealed that, although identical in sequence and
+conformation, the ability of oligomerization of protein RNase B is slightly hindered during denaturation exclu-
+sively. This was because of glycosylation in the former one at site N34 when compared with RNase A which
+2342
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+forms both N and C dimers via swapping of the respective termini of the protein. Although alike in conform-
+ation, the folding rates of the two proteins are faster in the case of the glycosylated form. The oligomerization
+study suggested that the oligosaccharide chain either favours pro
+
+Chunk 25:
+iopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+forms both N and C dimers via swapping of the respective termini of the protein. Although alike in conform-
+ation, the folding rates of the two proteins are faster in the case of the glycosylated form. The oligomerization
+study suggested that the oligosaccharide chain either favours productive collisions between the monomers or
+stabilizestheN-termini-mediated dimersby increasing thecompaction ofthe oligomer (Figure7) [74,75].
+Prevention of oligomerization owing to glycosylation is seen to be beneficial in the case of Alzheimer’s
+disease as the addition of O-GlcNAc was seen to hinder the progression of neurodegeneration by stabilizing
+both tau and TAK-1 proteins by inhibiting them against aggregation. In the case of tau protein, it was further
+seen that O-GlcNAc was competing with the sites of phosphorylation and in turn blocking hyper-phosphoryl-
+ation and oligomerization. This study also identified O-GlcNAcase, a glycoside hydrolase to be a potential
+therapeutic target with the ability to alter the Alzheimer’s disease progression [76]. These studies demonstrate
+that the mode of dimerization of these glycoproteins is not dependent on their glycosylation but is overseen by
+the featuresthatare intrinsic tothe protein.
+Effect of impaired glycosylation in disease states
+N-glycosylation of proteins has been implicated in several diseases as it is intimately linked to the early protein
+folding events. Incomplete glycosylation, prevention of the addition of sugar moieties or lack of a full
+N-glycosylation site occupancy leads to abnormal protein folding and alterations in the physical properties of
+the protein. This results in unfolded protein response (UPR) triggered due to ER stress response [77]. There
+Figure7.Oligomerizationoftheribonucleaseproteins.
+(A)N-dimeroftheRibonucleaseAprotein.ChainAiscolouredincyanandchainBinorange.Theputativeglycosylationsite
+whic
+
+Chunk 26:
+es or lack of a full
+N-glycosylation site occupancy leads to abnormal protein folding and alterations in the physical properties of
+the protein. This results in unfolded protein response (UPR) triggered due to ER stress response [77]. There
+Figure7.Oligomerizationoftheribonucleaseproteins.
+(A)N-dimeroftheRibonucleaseAprotein.ChainAiscolouredincyanandchainBinorange.Theputativeglycosylationsite
+whichisdevoidoftheN-glycanisindicatedinstickrepresentation.(B)MonomeroftheRibonucleaseBprotein.ChainAis
+colouredinpinkandtheglycosylationsiteN34isshowninstickrepresentationcovalentlylinkedtotheglycanMan GlcNAc .
+6 2
+(C)Superimpositionofthe3DstructureofRNaseAshowningreenwithRNaseBshowninpink.TheRMSDwasfoundtobe
+0.475Å.
+2343
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+are several known genetic diseases listed in the National Organization of Rare Diseases (U.S.A.) that arise
+either from improperassemblyor processing of glycans which are collectively known as congenital disorders of
+glycosylation [78]. Studies have also established the effects of the N-glycan precursor length and theireffects on
+proteinfolding [79].
+Studies on Alzheimer’s disease have revealed that improper glycosylation of the amyloid precursor protein
+leads to the accumulation of the misfolded protein. This accumulation elicits the UPR, which triggers aberra-
+tions in cellular responses such as autophagy and apoptosis as a prelude to Alzheimer’s disease [80].
+Furthermore, in the case of congenital muscular dystrophy, proper glycosylation of the dystroglycan protein
+along with O-mannosylation is crucial for its binding to the extracellular matrix necessary for maintaining the
+stability of the membrane. Unlike other glycosylation disorders
+
+Chunk 27:
+iggers aberra-
+tions in cellular responses such as autophagy and apoptosis as a prelude to Alzheimer’s disease [80].
+Furthermore, in the case of congenital muscular dystrophy, proper glycosylation of the dystroglycan protein
+along with O-mannosylation is crucial for its binding to the extracellular matrix necessary for maintaining the
+stability of the membrane. Unlike other glycosylation disorders, this protein reaches its destination, but is non-
+functional owing toimproperconformation caused due toimpaired glycosylation [81].
+Mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) protein have been implicated
+in cystic fibrosis (CF), one of the lethal autosomal recessive disorders. The most common mutation results in
+defective glycosylation of CFTR, thereby affecting the secretory and endocytic traffic leading to mislocalization.
+N-Glycans also alter the folding energetic of the channel. This altered glycosylation is believed to contribute to
+the chronic infection and continuous inflammatory assault in the CF lung [82,83]. Epithelial cadherin
+(E-cadherin), a calcium-dependent cell–cell adhesion molecule, has been known to be crucial in epithelial
+tissue morphogenesis. Alteration in the glycosylation profile of this protein promoting malignant transform-
+ation has implications for its function, that is change in the protein conformation in turn modulates cell–cell
+adhesion —a key pathological event incancer metastasis [84].
+In the case of voltage-gated calcium channels, alterations in the glycosylation pattern of the channel protein
+result in pathological conditions. This is mainly due to modifications in the expression and hence regulating
+the gating property of the channel. These channels have been identified to contribute to peripheral neuropathy
+associated with diabetes. Defects in glycosylation pattern of these channels are also seen in congenital disorders
+such as long QT syndrome and varitint-waddler phenotype, a mutant phenotype [85]. On
+
+Chunk 28:
+al conditions. This is mainly due to modifications in the expression and hence regulating
+the gating property of the channel. These channels have been identified to contribute to peripheral neuropathy
+associated with diabetes. Defects in glycosylation pattern of these channels are also seen in congenital disorders
+such as long QT syndrome and varitint-waddler phenotype, a mutant phenotype [85]. On similar lines, transi-
+ent receptor potential channel (TRPP2) membrane protein is heavily glycosylated, is crucial for the biogenesis
+and stability of the protein and mutations at the glycosylation sites have been shown to affect the protein
+expression at the plasma membrane, highlighting its role in protein trafficking leading to autosomal dominant
+polycystic kidney disease [86].
+In summary, impaired glycosylation has been concomitantly linked with misfolded protein which in turn
+affects its localization, the downstream functioning of the protein and is manifested in a disease condition, sub-
+stantiating therole ofglycosylation inthe proteostasis.
+Conclusion
+Recent studies have established the role of glycosylation in a myriad of biological processes like the attainment
+of protein structure, oligomerization, protein trafficking, reduction in protein aggregation, modulation of
+protein function, ER-QC and in protein homeostasis. They mainly affect properties, such as protein solubility,
+polarity and bioavailability, and shield hydrophobic patches and sensitivity to protease enzymes. Studies have
+also explored the various cellular functions wherein the glycans playacritical role in cellular growth, differenti-
+ation, cell–cell communication, signal transduction, inflammatory and immune response. The impact of glyco-
+sylation for a protein is dependent on the location, chemical environment and number of glycosylated sites in
+the protein while on the other hand, the size, flexibility, structure and number of branches affect the glycosyla-
+tion from the glycan’s perspective. Th
+
+Chunk 29:
+cellular growth, differenti-
+ation, cell–cell communication, signal transduction, inflammatory and immune response. The impact of glyco-
+sylation for a protein is dependent on the location, chemical environment and number of glycosylated sites in
+the protein while on the other hand, the size, flexibility, structure and number of branches affect the glycosyla-
+tion from the glycan’s perspective. The consequence of glycosylation is seen byan increase in solubilityenhan-
+cing the thermal and kinetic stability accompanied by an augmented vibrational energy and a decrease in the
+freeenergyoffolding.Studies havefurthernotedtheaccretioninstructuralintegrityviathenon-covalentinter-
+actions between the protein and the glycan. This network of interactions induces local stabilization around the
+glycosylation site. This further corresponds to the decrease in protein dynamics and thereby aids in protein
+folding and conformational stability. It is therefore imperative to understand the influence of glycosylation in
+terms of the folding energy landscape of the protein. Furthermore, the glycan was seen to promote productive
+collisions favouring the protein oligomerization. Additionally, specific changes in the glycosylation of the glyco-
+proteinhave been implicated in disease progression,and these serve as potential biomarkers for disease diagno-
+sis, prognosis andprediction of treatments.
+Despite these promising findings, we have barely begun to decipher the role of glycosylation on protein
+structure, dynamics and activity.Thus, it remainstobe an area ofintense scientific scrutiny.
+2344
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Abbreviations
+CD2,clusterofdifferentiation2;CF,cysticfibrosis;CFTR,cysticfib
+
+Chunk 30:
+2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+Abbreviations
+CD2,clusterofdifferentiation2;CF,cysticfibrosis;CFTR,cysticfibrosistransmembraneconductanceregulator;
+ECorL,lectinfromErythrinacorallodendron;ERAD,ER-associateddegradation;ER-QC,endoplasmicreticulum
+qualitycontrol;GPI,glycophosphatidylinositol;IDP,intrinsicallydisorderedproteins;MD,moleculardynamics;
+NS4B,non-structuralprotein4B;PMP-C,parsintercerebralismajorpeptide-C;RNase,ribonuclease;SBA,
+soybeanagglutinin;UPR,unfoldedproteinresponse;VSG,variantsurfaceglycoprotein;WBA,wingedbean
+agglutinin.
+Funding
+ThisworkhasbeenfundedbytheCouncilofScientificandIndustrialResearch(CSIR),India,toA.S.A.S.isa
+BhatnagarfellowofCSIR.N.G.J.thankstheDepartmentofScienceandTechnology(DST),Govt.ofIndia,for
+INSPIREFellowship.
+Competing Interests
+TheAuthorsdeclarethattherearenocompetinginterestsassociatedwiththemanuscript.
+References
+1 Varki,A.(2017)Biologicalrolesofglycans.Glycobiology27,3–49doi:10.1093/glycob/cww086
+2 Apweiler,R.,Hermjakob,H.andSharon,N.(1999)Onthefrequencyofproteinglycosylation,asdeducedfromanalysisoftheSWISS-PROTdatabase.
+Biochim.Biophys.Acta,Gen.Subj.1473,4–8doi:10.1016/S0304-4165(99)00165-8
+3 Varki,A.(1993)Biologicalrolesofoligosaccharides:allofthetheoriesarecorrect.Glycobiology3,97–130doi:10.1093/glycob/3.2.97
+4 Shental-Bechor,D.andLevy,Y.(2009)Foldingofglycoproteins:towardunderstandingthebiophysicsoftheglycosylationcode.Curr.Opin.Struct.Biol.
+19,524–533doi:10.1016/j.sbi.2009.07.002
+5 Helenius,A.andAebi,M.(2004)RolesofN-linkedglycansintheendoplasmicreticulum.Annu.Rev.Biochem.73,1019–1049doi:10.1146/annurev.
+biochem.73.011303.073752
+6 Greene,E.R.,Himmel,M.E.,Beckham,G.T.andTan,Z.(2015)Glycosylationofcellulases:engineeringbetterenzymesfor
+
+Chunk 31:
+)Foldingofglycoproteins:towardunderstandingthebiophysicsoftheglycosylationcode.Curr.Opin.Struct.Biol.
+19,524–533doi:10.1016/j.sbi.2009.07.002
+5 Helenius,A.andAebi,M.(2004)RolesofN-linkedglycansintheendoplasmicreticulum.Annu.Rev.Biochem.73,1019–1049doi:10.1146/annurev.
+biochem.73.011303.073752
+6 Greene,E.R.,Himmel,M.E.,Beckham,G.T.andTan,Z.(2015)Glycosylationofcellulases:engineeringbetterenzymesforbiofuels.Adv.Carbohydr.
+Chem.Biochem.72,63–112doi:10.1016/bs.accb.2015.08.001
+7 Hartel,A.J.W.,Glogger,M.,Jones,N.G.,Abuillan,W.,Batram,C.,Hermann,A.etal.(2016)N-glycosylationenableshighlateralmobilityof
+GPI-anchoredproteinsatamolecularcrowdingthreshold.Nat.Commun.7,12870doi:10.1038/ncomms12870
+8 Appelman,M.D.,Chakraborty,A.,Protzer,U.,McKeating,J.A.andvandeGraaf,S.F.J.(2017)N-glycosylationoftheNa+-taurocholatecotransporting
+polypeptide(NTCP)determinesitstraffickingandstabilityandisrequiredforhepatitisBvirusinfection.PLoSONE12,e0170419doi:10.1371/journal.
+pone.0170419
+9 Xu,Y.,Bartido,S.,Setaluri,V.,Qin,J.,Yang,G.andHoughton,A.N.(2001)Diverserolesofconservedasparagine-linkedglycansitesontyrosinase
+familyglycoproteins.Exp.CellRes.267,115–125doi:10.1006/excr.2001.5232
+10 Gupta,G.,Sinha,S.,Mitra,N.andSurolia,A.(2009)ProbingintotheroleofconservedN-glycosylationsitesinthetyrosinaseglycoproteinfamily.
+Glycoconj.J.26,691–695doi:10.1007/s10719-008-9213-x
+11 Moharir,A.,Peck,S.H.,Budden,T.andLee,S.Y.(2013)TheroleofN-glycosylationinfolding,trafficking,andfunctionalityoflysosomalproteinCLN5.
+PLoSONE8,e74299doi:10.1371/journal.pone.0074299
+12 Cummings,R.D.(2009)Therepertoireofglycandeterminantsinthehumanglycome.Mol.Biosyst.5,1087–1104doi:10.1039/b907931a
+13 Nairn,A.V.andMoremen,K.W.(2009)Glycotranscriptomics.InHandbookofGlycomics(Cummings,R.andPierce,J.M.,eds),pp.95–136.
+AcademicPress
+14 Spiro,R.G.(2002)Proteinglycosylation:nature,distribution,enzymaticformation,anddiseaseimplicationsofglycopeptidebonds.Glycobiology12,
+43R–56Rdoi:10.1093/glycob/12.4.43R
+15 Rao,R.S.P.andWollenweber,B.(2010
+
+Chunk 32:
+thehumanglycome.Mol.Biosyst.5,1087–1104doi:10.1039/b907931a
+13 Nairn,A.V.andMoremen,K.W.(2009)Glycotranscriptomics.InHandbookofGlycomics(Cummings,R.andPierce,J.M.,eds),pp.95–136.
+AcademicPress
+14 Spiro,R.G.(2002)Proteinglycosylation:nature,distribution,enzymaticformation,anddiseaseimplicationsofglycopeptidebonds.Glycobiology12,
+43R–56Rdoi:10.1093/glycob/12.4.43R
+15 Rao,R.S.P.andWollenweber,B.(2010)DoN-glycoproteinshavepreferenceforspecificsequons?Bioinformation5,208–212doi:10.6026/
+97320630005208
+16 Murray,A.N.,Chen,W.,Antonopoulos,A.,Hanson,S.R.,Wiseman,R.L.,Dell,A.etal.(2015)Enhancedaromaticsequonsincrease
+oligosaccharyltransferaseglycosylationefficiencyandglycanhomogeneity.Chem.Biol.22,1052–1062doi:10.1016/j.chembiol.2015.06.017
+17 Chen,W.,Enck,S.,Price,J.L.,Powers,D.L.,Powers,E.T.,Wong,C.-H.etal.(2013)Structuralandenergeticbasisofcarbohydrate–aromaticpacking
+interactionsinproteins.J.Am.Chem.Soc.135,9877–9884doi:10.1021/ja4040472
+18 Luther,K.B.andHaltiwanger,R.S.(2009)RoleofunusualO-glycansinintercellularsignaling.Int.J.Biochem.CellBiol.41,1011–1024doi:10.1016/j.
+biocel.2008.10.001
+19 VandenSteen,P.,Rudd,P.M.,Dwek,R.A.andOpdenakker,G.(1998)ConceptsandprinciplesofO-linkedglycosylation.Crit.Rev.Biochem.Mol.Biol.
+33,151–208doi:10.1080/10409239891204198
+20 Vasudevan,D.andHaltiwanger,R.S.(2014)NovelrolesforO-linkedglycansinproteinfolding.Glycoconj.J.31,417–426doi:10.1007/
+s10719-014-9556-4
+21 Peter-Katalinic,́ J.(2005)Methodsinenzymology:O-glycosylationofproteins.MethodsEnzymol.405,139–171doi:10.1016/S0076-6879(05)05007-X
+22 Tran,D.T.andTenHagen,K.G.(2013)Mucin-typeO-glycosylationduringdevelopment.J.Biol.Chem.288,6921–6929doi:10.1074/jbc.R112.418558
+23 Orlean,P.(1990)Dolicholphosphatemannosesynthaseisrequiredinvivoforglycosylphosphatidylinositolmembraneanchoring,O-mannosylation,and
+N-glycosylationofproteininSaccharomycescerevisiae.Mol.Cell.Biol.10,5796–5805doi:10.1128/MCB.10.11.5796
+24 Xu,C.andNg,D.T.W.(2015)O-mannosylation:theotherglycanplayerofERqualitycontrol.Semin
+
+Chunk 33:
+ationduringdevelopment.J.Biol.Chem.288,6921–6929doi:10.1074/jbc.R112.418558
+23 Orlean,P.(1990)Dolicholphosphatemannosesynthaseisrequiredinvivoforglycosylphosphatidylinositolmembraneanchoring,O-mannosylation,and
+N-glycosylationofproteininSaccharomycescerevisiae.Mol.Cell.Biol.10,5796–5805doi:10.1128/MCB.10.11.5796
+24 Xu,C.andNg,D.T.W.(2015)O-mannosylation:theotherglycanplayerofERqualitycontrol.Semin.CellDev.Biol.41,129–134doi:10.1016/j.
+semcdb.2015.01.014
+2345
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+25 Stanley,P.(2011)Golgiglycosylation.ColdSpringHarb.Perspect.Biol.3,a005199doi:10.1101/cshperspect.a005199
+26 Bennett,E.P.,Mandel,U.,Clausen,H.,Gerken,T.A.,Fritz,T.A.,Tabak,L.A.etal.(2012)Controlofmucin-typeO-glycosylation:aclassificationofthe
+polypeptideGalNAc-transferasegenefamily.Glycobiology22,736–756doi:10.1093/glycob/cwr182
+27 Hart,G.W.andAkimoto,Y.(2009)TheO-GlcNAcmodification.InEssentialsofGlycobiology,2ndedn(Varki,A.,Cummings,R.D.,Esko,J.D.etal.,
+eds).ColdSpringHarborLaboratoryPress,ColdSpringHarbor,NY,Chapter18
+28 Pol-Fachin,L.,Verli,H.andLins,R.D.(2014)ExtensionandvalidationoftheGROMOS53A6 parametersetforglycoproteins.J.Comput.Chem.35,
+glyc
+2087–2095doi:10.1002/jcc.23721
+29 Mitra,N.,Sharon,N.andSurolia,A.(2003)RoleofN-linkedglycanintheunfoldingpathwayofErythrinacorallodendronlectin.Biochemistry42,
+12208–12216doi:10.1021/bi035169e
+30 Kaushik,S.,Mohanty,D.andSurolia,A.(2011)RoleofglycosylationinstructureandstabilityofErythrinacorallodendronlectin(EcorL):amolecular
+dynamicsstudy.ProteinSci.20,465–481doi:10.1002/pro.578
+31 Dessen,A.,Gupta,D.,Sabesan,S.,Brewer,C.F.andSacchettini,J.C.(1995)X-raycrystalstructureofthesoybeanagglutinincross-linkedwitha
+biantennaryanalogofthebloodgroupIcarbo
+
+Chunk 34:
+istry42,
+12208–12216doi:10.1021/bi035169e
+30 Kaushik,S.,Mohanty,D.andSurolia,A.(2011)RoleofglycosylationinstructureandstabilityofErythrinacorallodendronlectin(EcorL):amolecular
+dynamicsstudy.ProteinSci.20,465–481doi:10.1002/pro.578
+31 Dessen,A.,Gupta,D.,Sabesan,S.,Brewer,C.F.andSacchettini,J.C.(1995)X-raycrystalstructureofthesoybeanagglutinincross-linkedwitha
+biantennaryanalogofthebloodgroupIcarbohydrateantigen.Biochemistry34,4933–4942doi:10.1021/bi00015a004
+32 Sinha,S.andSurolia,A.(2007)Attributesofglycosylationintheestablishmentoftheunfoldingpathwayofsoybeanagglutinin.Biophys.J.92,
+208–216doi:10.1529/biophysj.106.092668
+33 Halder,S.,Surolia,A.andMukhopadhyay,C.(2015)Impactofglycosylationonstability,structureandunfoldingofsoybeanagglutinin(SBA):aninsight
+fromthermalperturbationmoleculardynamicssimulations.Glycoconj.J.32,371–384doi:10.1007/s10719-015-9601-y
+34 Halder,S.,Surolia,A.andMukhopadhyay,C.(2016)Dynamicssimulationofsoybeanagglutinin(SBA)dimerrevealstheimpactofglycosylationonits
+enhancedstructuralstability.Carbohydr.Res.428,8–17doi:10.1016/j.carres.2016.04.009
+35 Gavrilov,Y.,Shental-Bechor,D.,Greenblatt,H.M.andLevy,Y.(2015)Glycosylationmayreduceproteinthermodynamicstabilitybyinducinga
+conformationaldistortion.J.Phys.Chem.Lett.6,3572–3577doi:10.1021/acs.jpclett.5b01588
+36 Joao,H.C.andDwek,R.A.(1993)EffectsofglycosylationonproteinstructureanddynamicsinribonucleaseBandsomeofitsindividualglycoforms.
+Eur.J.Biochem.218,239–244doi:10.1111/j.1432-1033.1993.tb18370.x
+37 Lapid,K.andSharon,N.(2005)Meetthemultifunctionalandsexyglycoformsofglycodelin.Glycobiology16,39R–45Rdoi:10.1093/glycob/cwj059
+38 Barb,A.W.,Meng,L.,Gao,Z.,Johnson,R.W.,Moremen,K.W.andPrestegard,J.H.(2012)NMRcharacterizationofimmunoglobulinGFcglycanmotion
+onenzymaticsialylation.Biochemistry51,4618–4626doi:10.1021/bi300319q
+39 Shade,K.-T.andAnthony,R.(2013)Antibodyglycosylationandinflammation.Antibodies2,392–414doi:10.3390/antib2030392
+40 Traini,M.,Kumaran,R.,Thaysen-Andersen,M.,Kockx,M.,Jessup,W.andKrith
+
+Chunk 35:
+1093/glycob/cwj059
+38 Barb,A.W.,Meng,L.,Gao,Z.,Johnson,R.W.,Moremen,K.W.andPrestegard,J.H.(2012)NMRcharacterizationofimmunoglobulinGFcglycanmotion
+onenzymaticsialylation.Biochemistry51,4618–4626doi:10.1021/bi300319q
+39 Shade,K.-T.andAnthony,R.(2013)Antibodyglycosylationandinflammation.Antibodies2,392–414doi:10.3390/antib2030392
+40 Traini,M.,Kumaran,R.,Thaysen-Andersen,M.,Kockx,M.,Jessup,W.andKritharides,L.(2017)N-glycosylationofhumansphingomyelin
+phosphodiesteraseacidlike3A(SMPDL3A)isessentialforstability,secretionandactivity.Biochem.J.474,1071–1092doi:10.1042/BCJ20160735
+41 Weber,Y.,Prill,S.K.-H.andErnst,J.F.(2004)Pmt-mediatedOmannosylationstabilizesanessentialcomponentofthesecretoryapparatus,Sec20p,in
+Candidaalbicans.Eukaryot.Cell3,1164–1168doi:10.1128/EC.3.5.1164-1168.2004
+42 Guan,X.,Chaffey,P.K.,Zeng,C.,Greene,E.R.,Chen,L.,Drake,M.R.etal.(2015)Molecular-scalefeaturesthatgoverntheeffectsofO-glycosylation
+onacarbohydratebindingmodule.Chem.Sci.6,7185–7189doi:10.1039/C5SC02636A
+43 Danwen,Q.,Code,C.,Quan,C.,Gong,B.-J.,Arndt,J.,Pepinsky,B.etal.(2016)Investigatingtheroleofarteminglycosylation.Pharm.Res.33,
+1383–1398doi:10.1007/s11095-016-1880-x
+44 Chen,M.M.,Bartlett,A.I.,Nerenberg,P.S.,Friel,C.T.,Hackenberger,C.P.R.,Stultz,C.M.etal.(2010)Perturbingthefoldingenergylandscapeofthe
+bacterialimmunityproteinIm7bysite-specificN-linkedglycosylation.Proc.NatlAcad.Sci.U.S.A.107,22528–22533doi:10.1073/pnas.1015356107
+45 Hanson,S.R.,Culyba,E.K.,Hsu,T.-L.,Wong,C.-H.,Kelly,J.W.andPowers,E.T.(2009)ThecoretrisaccharideofanN-linkedglycoproteinintrinsically
+acceleratesfoldingandenhancesstability.Proc.NatlAcad.Sci.U.S.A.106,3131–3136doi:10.1073/pnas.0810318105
+46 Price,J.L.,Shental-Bechor,D.,Dhar,A.,Turner,M.J.,Powers,E.T.,Gruebele,M.etal.(2010)Context-dependenteffectsofasparagineglycosylation
+onPinWWfoldingkineticsandthermodynamics.J.Am.Chem.Soc.132,15359–15367doi:10.1021/ja106896t
+47 Banks,D.D.(2011)Theeffectofglycosylationonthefoldingkineticsoferythropoietin.J.Mol.Biol.412,536–550doi:
+
+Chunk 36:
+y.Proc.NatlAcad.Sci.U.S.A.106,3131–3136doi:10.1073/pnas.0810318105
+46 Price,J.L.,Shental-Bechor,D.,Dhar,A.,Turner,M.J.,Powers,E.T.,Gruebele,M.etal.(2010)Context-dependenteffectsofasparagineglycosylation
+onPinWWfoldingkineticsandthermodynamics.J.Am.Chem.Soc.132,15359–15367doi:10.1021/ja106896t
+47 Banks,D.D.(2011)Theeffectofglycosylationonthefoldingkineticsoferythropoietin.J.Mol.Biol.412,536–550doi:10.1016/j.jmb.2011.07.061
+48 Naik,N.G.andWu,H.-N.(2015)MutationofputativeN-glycosylationsitesondenguevirusNS4BdecreasesRNAreplication.J.Virol.89,6746–6760
+doi:10.1128/JVI.00423-15
+49 Kaushik,S.,Mohanty,D.andSurolia,A.(2012)MoleculardynamicssimulationsonParsintercerebralismajorpeptide-C(PMP-C)revealtheroleof
+glycosylationanddisulfidebondsinitsenhancedstructuralstabilityandfunction.J.Biomol.Struct.Dyn.29,905–920doi:10.1080/
+073911012010525026
+50 Mer,G.,Hietter,H.andLefèvre,J.-F.(1996)StabilizationofproteinsbyglycosylationexaminedbyNMRanalysisofafucosylatedproteinaseinhibitor.
+Nat.Struct.Biol.3,45–53doi:10.1038/nsb0196-45
+51 Kim,J.,Park,H.,Park,B.T.,Hwang,H.S.,Kim,J.I.,Kim,D.K.etal.(2016)O-glycansandO-glycosylationsitesofrecombinanthumanGM-CSFderived
+fromsuspension-culturedricecells,andtheirstructuralrole.Biochem.Biophys.Res.Commun.479,266–271doi:10.1016/j.bbrc.2016.09.057
+52 Zerze,G.H.andMittal,J.(2015)EffectofO-linkedglycosylationontheequilibriumstructuralensembleofintrinsicallydisorderedpolypeptides.J.Phys.
+Chem.B119,15583–15592doi:10.1021/acs.jpcb.5b10022
+53 Yadav,S.C.,PrasannaKumari,N.K.andJagannadham,M.V.(2010)Deglycosylatedmilinunfoldsviainactivemonomericintermediates.Eur.Biophys.J.
+39,1581–1588doi:10.1007/s00249-010-0615-x
+54 Glozman,R.,Okiyoneda,T.,Mulvihill,C.M.,Rini,J.M.,Barriere,H.andLukacs,G.L.(2009)N-glycansaredirectdeterminantsofCFTRfoldingand
+stabilityinsecretoryandendocyticmembranetraffic.J.CellBiol.184,847–862doi:10.1083/jcb.200808124
+55 Culyba,E.K.,Price,J.L.,Hanson,S.R.,Dhar,A.,Wong,C.-H.,Gruebele,M.etal.(2011)Proteinnative-statestabilizationbyplacingaromat
+
+Chunk 37:
+ys.J.
+39,1581–1588doi:10.1007/s00249-010-0615-x
+54 Glozman,R.,Okiyoneda,T.,Mulvihill,C.M.,Rini,J.M.,Barriere,H.andLukacs,G.L.(2009)N-glycansaredirectdeterminantsofCFTRfoldingand
+stabilityinsecretoryandendocyticmembranetraffic.J.CellBiol.184,847–862doi:10.1083/jcb.200808124
+55 Culyba,E.K.,Price,J.L.,Hanson,S.R.,Dhar,A.,Wong,C.-H.,Gruebele,M.etal.(2011)Proteinnative-statestabilizationbyplacingaromaticside
+chainsinN-glycosylatedreverseturns.Science331,571–575doi:10.1126/science.1198461
+56 Gao,J.,Bosco,D.A.,Powers,E.T.andKelly,J.W.(2009)Localizedthermodynamiccouplingbetweenhydrogenbondingandmicroenvironmentpolarity
+substantiallystabilizesproteins.Nat.Struct.Mol.Biol.16,684–690doi:10.1038/nsmb.1610
+57 Ji,C.G.,Xiao,X.andZhang,J.Z.H.(2012)Studyingtheeffectofsite-specifichydrophobicityandpolarizationonhydrogenbondenergyofproteinusing
+apolarizablemethod.J.Chem.TheoryComput.8,2157–2164doi:10.1021/ct300252d
+2346
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+BiochemicalJournal(2017)4742333–2347
+DOI:10.1042/BCJ20170111
+58 Christensen,N.J.andKepp,K.P.(2013)Stabilitymechanismsofathermophiliclaccaseprobedbymoleculardynamics.PLoSONE8,e61985doi:10.
+1371/journal.pone.0061985
+59 Lee,H.S.,Qi,Y.andIm,W.(2015)EffectsofN-glycosylationonproteinconformationanddynamics:proteindatabankanalysisandmoleculardynamics
+simulationstudy.Sci.Rep.5,8926doi:10.1038/srep08926
+60 Wang,X.Y.,Ji,C.G.andZhang,J.Z.H.(2012)ExploringthemolecularmechanismofstabilizationoftheadhesiondomainsofhumanCD2by
+N-glycosylation.J.Phys.Chem.B116,11570–11577doi:10.1021/jp304116d
+61 Lu,D.,Yang,C.andLiu,Z.(2012)Howhydrophobicityandtheglycosylationsiteofglycansaffectproteinfoldingandstability:amoleculardynamics
+simulation.J.Phys.Chem.B116,390–400doi:10.1021/jp203926r
+62 Wang,C.,Eufemi,M.,Turano,C.andGiartosio,A.(199
+
+Chunk 38:
+Zhang,J.Z.H.(2012)ExploringthemolecularmechanismofstabilizationoftheadhesiondomainsofhumanCD2by
+N-glycosylation.J.Phys.Chem.B116,11570–11577doi:10.1021/jp304116d
+61 Lu,D.,Yang,C.andLiu,Z.(2012)Howhydrophobicityandtheglycosylationsiteofglycansaffectproteinfoldingandstability:amoleculardynamics
+simulation.J.Phys.Chem.B116,390–400doi:10.1021/jp203926r
+62 Wang,C.,Eufemi,M.,Turano,C.andGiartosio,A.(1996)Influenceofthecarbohydratemoietyonthestabilityofglycoproteins.Biochemistry35,
+7299–7307doi:10.1021/bi9517704
+63 DeKoster,G.T.andRobertson,A.D.(1997)Thermodynamicsofunfoldingforkazal-typeserineproteaseinhibitors:entropicstabilizationofovomucoid
+firstdomainbyglycosylation.Biochemistry36,2323–2331doi:10.1021/bi962580b
+64 Pham,V.T.,Ewing,E.,Kaplan,H.,Choma,C.andHefford,M.A.(2008)Glycationimprovesthethermostabilityoftrypsinandchymotrypsin.Biotechnol.
+Bioeng.101,452–459doi:10.1002/bit.21919
+65 Shental-Bechor,D.andLevy,Y.(2008)Effectofglycosylationonproteinfolding:acloselookatthermodynamicstabilization.Proc.NatlAcad.Sci.U.S.
+A.105,8256–8261doi:10.1073/pnas.0801340105
+66 Høiberg-Nielsen,R.,Fuglsang,C.C.,Arleth,L.andWesth,P.(2006)InterrelationshipsofglycosylationandaggregationkineticsforPeniophoralycii
+phytase.Biochemistry45,5057–5066doi:10.1021/bi0522955
+67 Tian,J.,López,C.A.,Derdeyn,C.A.,Jones,M.S.,Pinter,A.,Korber,B.etal.(2016)EffectofglycosylationonanimmunodominantregionintheV1V2
+variabledomainoftheHIV-1envelopegp120protein.PLoSComput.Biol.12,e1005094doi:10.1371/journal.pcbi.1005094
+68 Shental-Bechor,D.andLevy,Y.(2011)Communication:foldingofglycosylatedproteinsunderconfinement.J.Chem.Phys.135,141104doi:10.1063/
+1.3650700
+69 Zhuo,Y.,Yang,J.-Y.,Moremen,K.W.andPrestegard,J.H.(2016)Glycosylationaltersdimerizationpropertiesofacell-surfacesignalingprotein,
+carcinoembryonicantigen-relatedcelladhesionmolecule1(CEACAM1).J.Biol.Chem.291,20085–20095doi:10.1074/jbc.M116.740050
+70 Kulkarni,K.A.,Srivastava,A.,Mitra,N.,Sharon,N.,Surolia,A.,Vijayan,M.etal.(2004)Effectofglycosylationonthestruc
+
+Chunk 39:
+Phys.135,141104doi:10.1063/
+1.3650700
+69 Zhuo,Y.,Yang,J.-Y.,Moremen,K.W.andPrestegard,J.H.(2016)Glycosylationaltersdimerizationpropertiesofacell-surfacesignalingprotein,
+carcinoembryonicantigen-relatedcelladhesionmolecule1(CEACAM1).J.Biol.Chem.291,20085–20095doi:10.1074/jbc.M116.740050
+70 Kulkarni,K.A.,Srivastava,A.,Mitra,N.,Sharon,N.,Surolia,A.,Vijayan,M.etal.(2004)EffectofglycosylationonthestructureofErythrina
+corallodendronlectin.Proteins56,821–827doi:10.1002/prot.20168
+71 Srinivas,V.R.,Singha,N.C.,Schwarz,F.P.andSurolia,A.(1998)Differentialscanningcalorimetricstudiesoftheglycoprotein,wingedbeanacidiclectin,
+isolatedfromtheseedsofPsophocarpustetrogonolobus.FEBSLett.425,57–60doi:10.1016/S0014-5793(98)00197-5
+72 Prabu,M.M.,Sankaranarayanan,R.,Puri,K.D.,Sharma,V.,Surolia,A.,Vijayan,M.etal.(1998)Carbohydratespecificityandquaternaryassociationin
+basicwingedbeanlectin:X-rayanalysisofthelectinat2.5Åresolution.J.Mol.Biol.276,787–796doi:10.1006/jmbi.1997.1568
+73 Srinivas,V.R.,Bachhawat-Sikder,K.,Habib,S.,Hasnain,S.E.andSurolia,A.(2001)ExpressionofwingedbeanbasicagglutinininSpodoptera
+frugiperdainsectcellexpressionsystem.Biosci.Rep.21,361–367doi:10.1023/A:1013294417847
+74 Gotte,G.,Libonati,M.andLaurents,D.V.(2003)GlycosylationandspecificdeamidationofRibonucleaseBaffecttheformationofthree-dimensional
+domain-swappedoligomers.J.Biol.Chem.278,46241–46251doi:10.1074/jbc.M308470200
+75 Xu,G.,Narayan,M.andScheraga,H.A.(2005)Theoxidativefoldingrateofbovinepancreaticribonucleaseisenhancedbyacovalentlyattached
+oligosaccharide.Biochemistry44,9817–9823doi:10.1021/bi0506932
+76 Yuzwa,S.A.,Shan,X.,Macauley,M.S.,Clark,T.,Skorobogatko,Y.,Vosseller,K.etal.(2012)IncreasingO-GlcNAcslowsneurodegenerationand
+stabilizestauagainstaggregation.Nat.Chem.Biol.8,393–399doi:10.1038/nchembio.797
+77 Xu,C.andNg,D.T.W.(2015)Glycosylation-directedqualitycontrolofproteinfolding.Nat.Rev.Mol.CellBiol.16,742–752doi:10.1038/nrm4073
+78 Guerriero,C.J.andBrodsky,J.L.(2012)Thedelicatebalancebetweensecretedproteinfold
+
+Chunk 40:
+.,Macauley,M.S.,Clark,T.,Skorobogatko,Y.,Vosseller,K.etal.(2012)IncreasingO-GlcNAcslowsneurodegenerationand
+stabilizestauagainstaggregation.Nat.Chem.Biol.8,393–399doi:10.1038/nchembio.797
+77 Xu,C.andNg,D.T.W.(2015)Glycosylation-directedqualitycontrolofproteinfolding.Nat.Rev.Mol.CellBiol.16,742–752doi:10.1038/nrm4073
+78 Guerriero,C.J.andBrodsky,J.L.(2012)Thedelicatebalancebetweensecretedproteinfoldingandendoplasmicreticulum-associateddegradationin
+humanphysiology.Physiol.Rev.92,537–576doi:10.1152/physrev.00027.2011
+79 Samuelson,J.andRobbins,P.W.(2015)EffectsofN-glycanprecursorlengthdiversityonqualitycontrolofproteinfoldingandonproteinglycosylation.
+Semin.CellDev.Biol.41,121–128doi:10.1016/j.semcdb.2014.11.008
+80 Pajak̨ ,B.,Kania,E.andOrzechowski,A.(2016)Killingmesoftly:connotationstounfoldedproteinresponseandoxidativestressinAlzheimer’sdisease.
+Oxid.Med.Cell.Longev.2016,1805304doi:10.1155/2016/1805304
+81 Uversky,V.N.andFink,A.(2007)ProteinMisfolding,AggregationandConformationalDiseases,PartB:MolecularMechanismsofConformational
+Diseases.Springer,NewYork
+82 Scanlin,T.F.andGlick,M.C.(1999)Terminalglycosylationincysticfibrosis.Biochim.Biophys.Acta,Mol.BasisDis.1455,241–253doi:10.1016/
+S0925-4439(99)00059-9
+83 Ntimbane,T.,Comte,B.,Mailhot,G.,Berthiaume,Y.,Poitout,V.,Prentki,M.etal.(2009)Cysticfibrosis-relateddiabetes:fromCFTRdysfunctionto
+oxidativestress.Clin.Biochem.Rev.30,153–177PMID:20011209
+84 Carvalho,S.,Catarino,T.A.,Dias,A.M.,Kato,M.,Almeida,A.,Hessling,B.etal.(2016)PreventingE-cadherinaberrantN-glycosylationatAsn-554
+improvesitscriticalfunctioningastriccancer.Oncogene35,1619–1631doi:10.1038/onc.2015.225
+85 Lazniewska,J.andWeiss,N.(2017)Glycosylationofvoltage-gatedcalciumchannelsinhealthanddisease.Biochim.Biophys.Acta,Biomembr.1859,
+662–666doi:10.1016/j.bbamem.2017.01.018
+86 Hofherr,A.,Wagner,C.,Fedeles,S.,Somlo,S.andKottgenM.(2014)N-Glycosylationdeterminestheabundanceofthetransientreceptorpotential
+channelTRPP2.J.Biol.Chem.289,14854–14867doi:10.1074/jbc.M114.56226
+
+Chunk 41:
+619–1631doi:10.1038/onc.2015.225
+85 Lazniewska,J.andWeiss,N.(2017)Glycosylationofvoltage-gatedcalciumchannelsinhealthanddisease.Biochim.Biophys.Acta,Biomembr.1859,
+662–666doi:10.1016/j.bbamem.2017.01.018
+86 Hofherr,A.,Wagner,C.,Fedeles,S.,Somlo,S.andKottgenM.(2014)N-Glycosylationdeterminestheabundanceofthetransientreceptorpotential
+channelTRPP2.J.Biol.Chem.289,14854–14867doi:10.1074/jbc.M114.562264
+2347
+©2017TheAuthor(s);publishedbyPortlandPressLimitedonbehalfoftheBiochemicalSociety
+Downloaded
+from
+http://portlandpress.com/biochemj/article-pdf/474/14/2333/690174/bcj-2017-0111.pdf
+by
+University
+of
+Turku
+(Turun
+Yliopisto)
+user
+on
+25
+October
+2024
+
+---PAGE BREAK---
+
+
+

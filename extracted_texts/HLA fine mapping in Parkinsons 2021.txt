@@ -1,0 +1,577 @@
+www.nature.com/npjparkd
+ARTICLE OPEN
+HLA ’
+Fine mapping of the locus in Parkinson s disease in
+Europeans
+EricYu1,2,AdityaAmbati 3,Maren StolpAndersen4,5,Lynne Krohn 1,2, Mehrdad A.Estiar1,2, Prabhjyot Saini1,2,
+Konstantin Senkevich 2,6, Yuri L.Sosero1,2,Ashwin Ashok Kumar Sreelatha7,JenniferA.Ruskey2,6, Farnaz Asayesh2,6,
+DanSpiegelman2,6, Mathias Toft4,5,MarteK. Viken8,9, Manu Sharma7, CornelisBlauwendraat 10,Lasse Pihlstrøm 4,
+✉
+EmmanuelMignot3,11 and ZivGan-Or 1,2,6,11
+Wefinemappedtheleukocyteantigen(HLA)regionin13,770Parkinson’sdisease(PD)patients,20,214proxy-cases,and490,861
+controlsofEuropean origin.Four HLAtypeswereassociated withPD aftercorrection formultiple comparisons, HLA-DQA1*03:01,
+HLA-DQB1*03:02,HLA-DRB1*04:01,and HLA-DRB1*04:04.Haplotype analyses followed by aminoacid analysisand conditional
+analysessuggestedthattheassociationisprotectiveandprimarilydrivenbythreespecificaminoacidpolymorphismspresentin
+mostHLA-DRB1*04subtypes—11V, 13H,and 33H(OR=0.87,95% CI: 0.83–0.90,p<8.23×10−9 forallthreevariants). No other
+effectswerepresentafteradjustmentfortheseaminoacids.OurresultssuggestthatspecificHLA-DRB1variantsareassociatedwith
+reducedriskofPD,providingadditionalevidencefortheroleoftheimmunesysteminPD.Althougheffectsizeissmallandhasno
+diagnosticsignificance,understandingthemechanismunderlyingthisassociationmayleadtotheidentificationofnewtargetsfor
+therapeutics development.
+npjParkinson’s Disease (2021) 7:84 ;https://doi.org/10.1038/s41531-021-00231-5
+INTRODUCTION RESULTS
+Although Parkinson’s disease (PD) is primarily a neurodegenera- Meta-analysisofHLAtypesinPDsuggestsasingleassociation
+tivedisorder,theroleoftheimmunesysteminthepathophysiol- After standard QC, a total of 12,137 patients, 14,422 proxy
+ogyofPDisincreasinglyrecognizedbasedonanimalandhuman patients, and 351,953 controls were included in the analysis
+studies1–3.Theimmunesystemcanbeinvolvedintheinitiationof
+(SupplementaryData1detailsthenumberofindividualsanalyzed
+PD,aswellasinitsprogression,andthatthisinvolvementcanbe from each cohort for each allele, and Supplementary Data 2
+peripheraland central3,4. provides basic demographic information for each cohort). As
+Neuropathological studies have shown evidence for microglial shown in Fig. 1A, our SNP-level meta-analysis identified the
+activationinthebrainsofpatients.However,itwasinitiallyunclear previousassociationforSNP,rs112485576,intheHLAlocus(inthe
+whether this activation was a part of the disease process, a currentanalysis:OR=0.87,95%CI:0.83–0.90,p=5.00×10−13,in
+consequence,oranepiphenomenon5.Geneticevidencealsolinks the previous meta-analysis: OR=0.85, 95% CI: 0.82–0.87, p=
+the immune system with PD, since genes such as LRRK2, the 6.96×10−28)6. No other HLA SNPs were significantly associated
+human leukocyte antigen (HLA) locus, and possibly BST1, all withPDafteradjustingforrs112485576(Fig.1B,C),indicatingthat
+associated withPD6 andhave arole inthe immunesystem7–9. the association of this locus was primarily driven by a single
+TheHLAregiononchromosome6includesgenesthatencode geneticriskfactor.Wealsoidentifiedthepreviousassociationsfor
+components of the major histocompatibility complex (MHC)8. theSNPsrs17425622,rs2395163,rs3129882,andrs9275326inthe
+Severalgenome-wideassociationstudies(GWASs)haveshownan HLAlocus(SupplementaryFigs.1–4).AlltheseSNPswerereported
+associationbetweentheHLAlocusandtheriskofPD.Inthelatest indifferentpreviousstudies,areinLD,andallrepresentthesame
+GWAS, an association with HLA-DRB5 has been reported, with a mainhaplotype that wereport inthecurrent analysis.
+potentialeffectofthers112485576singlenucleotidepolymorph- Wenextperformedameta-analysisassociationstudyofallHLA
+ism (SNP) on the expression of HLA-DRB56.Previous studies have types with carrier frequency above 1%. After HLA imputation, a
+suggested different associations with HLA-DQA2, HLA-DQB1, HLA- totalof141differentHLAtypesacross 10HLAlociwereincluded
+DRA, HLA-DRB1, HLA-DRB5, and with haplotypes within the HLA (setting the Bonferroni corrected threshold for statistical signifi-
+regioninEuropeans10–15. canceonα=3.55×10−4;0.05/141).Followingtheseanalyses,we
+Inthisstudy,weperformedHLAalleles,haplotypes,andamino found four HLA alleles that were associated with PD (Table 1,
+acidanalysesinPDon12,137patients,14,422proxypatients,and resultsforotherHLAallelesaredetailedinSupplementaryData3):
+351,953 controls. We further performed conditional analyses to HLA-DQA1*03:01, HLA-DQB1*03:02, HLA-DRB1*04:01, and HLA-
+finemapandidentifyspecificdriversoftheassociationwithPDin DRB1*04:04. These four alleles are all located within a small
+theHLAregion. genomic segment and have similar odds ratios ranging between
+1Department of Human Genetics, McGill University, Montréal, QC, Canada. 2The Neuro (Montreal Neurological Institute-Hospital), McGill University,Montreal, QC, Canada.
+3StanfordCenterForSleepSciencesandMedicine,DepartmentofPsychiatryandBehavioralSciences,StanfordUniversity,PaloAlto,CA,USA.4DepartmentofNeurology,Oslo
+UniversityHospital,Oslo,Norway.5InstituteofClinicalMedicine,UniversityofOslo,Oslo,Norway.6DepartmentofNeurologyandNeurosurgery,McGillUniversity,Montréal,QC,
+Canada.7CentreforGeneticEpidemiology,InstituteforClinicalEpidemiologyandAppliedBiometry,UniversityofTübingen,Tübingen,Germany.8DepartmentofMedical
+Genetics,UniversityofOsloandOsloUniversityHospital,Oslo,Norway.9DepartmentofImmunology,OsloUniversityHospital,Oslo,Norway.10LaboratoryofNeurogenetics,
+NationalInstituteonAging,NationalInstitutesofHealth,Bethesda,MD,USA.11Theseauthorscontributedequally:EmmanuelMignot,ZivGan-Or. ✉ email:ziv.gan-or@mcgill.ca
+PublishedinpartnershipwiththeParkinson’sFoundation
+;,:)(0987654321
+
+---PAGE BREAK---
+
+E.Yuetal.
+2
+Fig.1 ValidationofpreviouslyassociatedtopHLAlocusSNP(rs112485576)inourcohort.AForestplotdescribingtheeffectsizeand95%
+confidence interval of rs112485576 for each cohort and fixed-effect meta-analysis. B, C Two LocusZoom plots highlighting the significant
+variants before (B) and after (C) the conditional analysis on rs112485576. Dashed lines correspond to the significance threshold. Linkage
+disequilibriumvaluesareshownwithrespecttothemostsignificantSNPinthelocus.
+npjParkinson’sDisease(2021) 84 PublishedinpartnershipwiththeParkinson’sFoundation
+;,:)(0987654321
+
+---PAGE BREAK---
+
+E.Yuetal.
+3
+Table1. Meta-analysesofHLAallelesassociation.
+Allele Freqcases Freqcontrols OR(95%CI) Pvalue1 Direction HetPVal
+DQA1*03:01 0.168 0.185 0.86(0.81-0.90) 3.54e−08 – 0.85
+DQB1*03:02 0.182 0.199 0.87(0.83-0.92) 7.62e−07 – 0.58
+DRB1*04:01 0.187 0.221 0.89(0.84-0.94) 2.82e−05 – 0.87
+DRB1*04:04 0.068 0.082 0.84(0.77-0.91) 8.21e−05 – 0.85
+Freqcasescarrierfrequencyofalleleinpatients,Freqcontrolscarrierfrequencyofanalleleincontrols,OR(95%CI)oddsratioand95%confidenceinterval,
+Directiondirectionofbetaforeachcohort,HetPValPvalueofheterogeneity.
+1Bonferronicorrectionformultiplecomparisonssetsthethresholdforstatisticalsignificancetoα=3.55×10−4.
+Table2. Meta-analysesofHLAhaplotypeassociation.
+Haplotype Freqcases Freqcontrols OR(95%CI) Pvalue1 Direction HetPVal
+DQA1*03:01–DQB1*03:02 0.157 0.173 0.87(0.82–0.93) 7.21e−05 ++ 0.62
+DRB1*04:04–DQA1*03:01 0.067 0.081 0.83(0.76–0.91) 9.82e−05 + 0.34
+DRB1*04:01–DQA1*03:03 0.115 0.143 0.87(0.81–0.94) 4.96e−04 + 0.71
+Freqcasescarrierfrequencyofahaplotypeinpatients,Freqcontrolscarrierfrequencyofahaplotypeincontrols,OR(95%CI)oddsratioand95%confidence
+interval,Directiondirectionofbetaforeachcohort,HetPValPvalueofheterogeneity.
+1Bonferronicorrectionformultiplecomparisonssetsthethresholdforstatisticalsignificancetoα=5.95×10−4.
+Table3. Meta-analysesofHLAaminoacidchangesassociation.
+Aminoacid Freqcases Freqcontrols OR(95%CI) Pvalue1 Direction HetPVal
+DRB113H 0.289 0.331 0.87(0.83–0.91) 4.32e−09 – 0.60
+DRB133H 0.289 0.331 0.87(0.83–0.91) 4.32e−09 – 0.60
+DRB111V 0.302 0.342 0.87(0.83–0.91) 8.22e−09 – 0.45
+Freqcasescarrierfrequencyofanaminoacidinpatients,Freqcontrolscarrierfrequencyofanaminoacidincontrols;OR(95%CI)oddsratioand95%confidence
+interval,Directiondirectionofbetaforeachcohort,HetPValPvalueofheterogeneity.Pvalueofheterogeneity.
+1Bonferronicorrectionformultiplecomparisonssetsthethresholdforstatisticalsignificancetoα=7.86×10−5.
+0.84 and 0.89. Three of the four alleles have similar carrier HLA genes, setting the cut-off Bonferroni corrected p value for
+frequencies, indicating that they could be part of the same statisticalsignificanceatα=7.86×10−5.Tenaminoacidchanges
+haplotypes, with the fourth potentially representing a sub- were significantly associated with a reduced risk of PD (Supple-
+haplotype(Table 1). mentary Data 5). The top three associated variants are linked
+amino acids 11V, 13H, and 33H (Table 3) present in all
+HLAhaplotype analysis DRB1*04 subtypes, complementing the HLA haplotype analysis.
+Fourothervariants,26S,47Q,56R,and76V,intheDQA1gene,are
+For haplotype analysis, we allowed for up to three genes to be
+in perfect LD with each other (r2=1, D′=1, Supplementary Data
+included (Table 2) in each haplotype, since including more than
+5) and in partial LD (r2=0.38, D′=0.85) with the DRB1 variants.
+three genes generated multiple haplotypes with low allele
+The association of these DQA1 variants is weaker than the DRB1
+frequency that could not be analyzed at the current sample size.
+Atotalof84differentHLAhaplotypes(SupplementaryData4)with variants in terms of both effect size and statistical association
+allelefrequency>1%wereidentified,settingthecut-offBonferroni (Supplementary Data 5). Three other variants, 71T, 74E, and 75L,
+corrected p value for statistical significance at α=5.95×10−4. areintheDQB1gene,arealsoinperfectLDwitheachother(r2=
+Three different HLA haplotypes were associated with PD after
+1,D′=1,SupplementaryData5)andinpartialLD(r2=0.16,D′=
+correction for multiple comparisons: DQA1*03:01–DQB1*03:02, 0.99) with DRB1 13H and 33H. As an additional quality control
+DRB1*04:01–DQA1*03:03, and DRB1*04:04–DQA1*03:01. Upon step, we repeated all the analyses reported above without the
+further examination, this association was found to be driven by proxycases.Intheseanalyses,theresultsdidnotchange,withall
+several well-known sub-haplotypes, DRB1*04:04–DQA1*03:01– associations having the same direction of effect and with the
+DQB1*03:02, and DRB1*04:01–DQA1*03:01/3–DQB1*03:01/2 (Sup- same magnitude. Noadditional associations werefound.
+plementaryData4).BecausebothDQA1*03:01andDQA1*03:03as
+well as DQB1*03:01 and DQB1*03:03 are present within the Conditional analyses confirmthat DRB1*04amino acid
+extendedDRB1*04:01haplotype,itislikelythattheseassociations variants likelydrivethe association oftheHLAlocus withPD
+aredrivenbyDRB1. To further determine the specific genes or variants that drive
+theseassociations,weperformedasetofconditionalanalysesand
+Meta-analysis ofthe association ofHLAamino acidchanges re-analyzed the allele types, haplotypes, and amino acid associa-
+withPD tionswithPD.WeconditionedtheHLAtyperegressionmodelon
+TofurtheridentifythespecificsourceoftheassociationintheHLA the following: First, we performed the conditional analysis using
+locus,weperformedananalysisof636aminoacidchangesinthe the top hit from the most recent PD GWAS, rs112485576, to
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2021) 84
+
+---PAGE BREAK---
+
+E.Yuetal.
+4
+imputationinover3500individuals),whichallowedustoconfirm
+previously reported associations but also refute with a high
+degree of confidence other reported associations. Following a
+series of regression models and conditional analyses, our results
+indicate that the drivers of the association in the HLA region are
+threeaminoacidchangesspecificofHLA-DRB1*04subtypes,11V,
+13H,and33H(Fig.2).Twooftheseaminoacidchanges,13Hand
+33HareinperfectLD,and11VisinverystrongLDwiththeother
+two variants. This study agrees with a smaller HLA sequencing
+study12in1597PDcasesand1606controlswhichalsoobserveda
+protectiveeffectofDRB1*04andthesameaminoacids,although
+it also reported additional associations with DRB1*01:01 and
+DRB1*10:01 which were not confirmed in the current study.
+Interestingly,theV–H–Hmotifatpositions11V,13H,and33Hare
+centraltotheDRB1*04:01heterodimerandcontributetopeptide
+binding,notably through pocketP616 (Fig. 2).
+Previous studies on the HLA genomic region in PD have
+reported associations of different genes and HLA types with PD,
+including HLA-DQA2, HLA-DQB1, HLA-DRA, HLA-DRB1, and HLA-
+DRB510–15. The largest of these studies which performed proper
+HLA type analysis, included 7,996 cases and 36,455 controls,
+comparedtothecurrentstudyincludingmorethan24,000cases
+and 350,000 controls, with only partial overlap of samples (more
+details on these and other studies are in Supplementary Data 6).
+Therefore, the current study is more powered to detect true
+positive associations and true negative results, although we
+cannot rule out small effects that could not be detected even in
+our larger sample size. Most of the previously reported associa-
+tionswerenotreplicatedinthecurrent,largerstudy,whichallows
+us to focus more on the associations that were confirmed. The
+suggested association with HLA-DRB5 was reported in the most
+recentPDGWAS,inwhichnoproperHLAimputationandanalysis
+were performed. This reported association is based on an
+expression quantitative trait locus analysis, as the top associated
+SNP in this region, rs112485576 was also associated with
+differential expression of HLA-DRB6. A previous study of 2000 PD
+patients and 1986 controls has implicated a non-coding variant
+Fig. 2 Association of the HLA-DRB1 alleles and location of (rs3129882)withinHLA-DRAasdrivingtheassociationwithPDand
+associated amino acids. A The location of the HLA locus, alleles, suggested that this variant affects the expression of HLA-DR and
+andamino acids associated with Parkinson’sdisease in thecurrent HLA-DQgenes11.Similarly,anotherstudysuggestedthatthesame
+study. B 3D model of HLA-DRB1–HLA-DRA and the location of the
+variant in HLA-DRA (rs3129882) is associated with differential
+11V,13H,and33HaminoacidsassociatedwithPD(highlightedby
+expressionofMHC-IIonimmunecells17.Whileourstudydoesnot
+arrows).ThemodelwasgeneratedwithPyMolv.2.4.1(pdb4is6).
+rule out this possibility, since the main variants driving the
+association are amino acid changes in DRB1*04 that will affect
+epitope binding ability, it is likely that the effect on PD risk is
+examine the LD effect between this SNP and the different allele through these variants and not due to modified expression.
+and amino acid associations reported in the current study. We Additional functional studies will be required to study this
+further conditioned the HLA type regression models on hypothesis.
+DQA1*03:01, DQA1*03:03, and the DRB1 variant 13H. We have The current study adds further support to the hypothesis
+also adjusted for the PD PRS, to examine a potential polygenic suggestinganinvolvementoftheperipheralandcentralimmune
+effect(SupplementaryData3and5).Whiletheadjustmentforthe systemsinPD.OntopoftheHLAlocus,severalothergeneswith
+DRB1 variant 13H completely eliminated the associations in the potential roles in the immune system, including LRRK2 and
+DQA1 gene, adjustment for DQA1*03:01 and DQA1*03:03 did not potentiallyBST17,9,havebeenimplicatedinPD6.Intheperiphery,
+completely eliminate the association of the DRB1 gene (Supple- there are notable changes in the immune system of PD patients
+mentary Data 3), again supporting this gene and these specific compared to controls, as peripheral monocytes have differential
+amino acids (11V, 13H, and 33H, Table 3) as the drivers of the expression of immune-related proteins and markers3. Whether
+association in the HLA locus. Adjustment for PRS did not change thesechangesaredriversofthediseaseoraresultofthedisease
+theresults.ItisalsoworthnotingthattheDRB1variants11V(r2= is still undetermined, but accumulating evidence suggests that
+0.96,D′=0.99),13H(r2=0.99,D′=0.99),and33H(r2=0.99,D′= they can be part of the pathogenic process of PD. In the central
+0.99)areinLD withrs112485576, thetopGWAShitinthis locus. nervoussystem,pathologicalstudiessuggestthatmicroglialcells
+may have a central role in PD18. Microgliosis is a prominent
+pathologicalfindinginthepost-mortembrainsofPDpatients,and
+DISCUSSION evidence suggests that microglial activation occurs early in the
+Inthecurrentstudy,weperformedathoroughanalysisoftheHLA diseaseprocessandmaybeinvolvedinthepathogenesisofPD3.
+region and examined its association with PD in the European ThespecificcontributionofHLAtotheseprocessesisstillunclear
+populationusingatotalof12,137patients,14,422proxypatients, andneeds tobe further studied.
+and351,953controls. Theimportance ofthecurrentstudy liesin OneintriguingpossibilitythatmaydirectlyinvolveHLAwithPD
+its size and comprehensive approach (including validation of is the potential interaction of HLA-DRB1*04 with α-synuclein,
+npjParkinson’sDisease(2021) 84 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+E.Yuetal.
+5
+notably an epitope surrounding p.S129. Recent data has shown is that by adjusting for sex we eliminate potential sex-specific
+that α-synuclein fragments can bind MHC and increase T cell effects.ItispossiblethatspecificHLAtypesarerelevantinonesex
+reactivity19. This activity is proinflammatory, involves both CD4 moreorlessthantheother,andthisshouldbestudiedinlarger,
+and CD8 cells, and may occur before the onset of motor sex-stratifiedcohorts.
+symptoms19,20, suggesting the involvement of inflammation in Toconclude,ourresultssuggestarolefortheHLA-DRB1genein
+early PD pathogenesis. Studying specific α-synuclein fragments susceptibility for PD and provide further evidence for the
+has suggested that two major regions of α-synuclein may be importanceoftheimmunesysteminPD.Sincetheeffectissmall,
+associated withincreasedTcellreactivity inPD,withpreferential itdoesnotmeritroutineHLAtypinginPD,butunderstandingthe
+CD4activity:anN-terminalregioninvolvingaminoacidp.Y39and mechanism underlying this association may lead to a better
+aC-terminalregionsurroundingaminoacidp.S129,twoimportant understanding of PD in general and offer new targets for future
+residuesundergoingphosphorylation19.Thephosphorylationofp. immune-relatedtreatment.
+S129 is particularly interesting as it is well known for promoting
+aggregation21,22. Further analysis focused on the p.Y39 region
+suggested an association with α-synuclein-specific p.Y39 T cell METHODS
+responsesandHLADRB1*15:01andDRB5*01:01presentation.This Study population
+associationwasabolishedbyphosphorylation,whichreducedthe Thisstudywasdesignedasameta-analysisofmultiplecohorts,includinga
+binding of p.Y39-phosphorylated α-synuclein19,20. Other experi- totalof13,770PDpatients,20,214proxy-patients,and490,861controls,as
+ments by these authors have also suggested CD8+ T cells detailedinSupplementaryData1and2.Inbrief,weincludedcohortsand
+responses mediated by HLA-A11*01 presentation of epitopes in datasetsfromeightindependentsources:InternationalParkinson’sDisease
+the same N-terminal region of α-synuclein. However, in the Genomics Consortium (IPDGC) NeuroX dataset (dbGap phs000918.v1.p1,
+current study, we could not confirm an association of these HLA including datasets from multiple independent cohorts as previously
+described)29,McGillUniversity(McGill)30,NationalInstituteofNeurological
+typeswith PD.
+Moreinterestinglyinthecontextofourwork,increasedCD4+T Disorders and Stroke (NINDS) Genome-Wide genotyping in Parkinson’s
+Disease (dbGap phs000089.v4.p2)31, NeuroGenetics Research Consortium
+cell response to both p.S129 phosphorylated and unphosphory- (NGRC)(dbGapphs000196.v3.p1)11,OsloParkinson’sDiseaseStudy(Oslo),
+latedα-synucleinwasalsodemonstrated,suggestingtheinvolve- Parkinson’s Progression Markers Initiative (PPMI), Vance (dbGap
+ment of DQB1*05:01 and DQB1*04:02, as these alleles strongly phs000394) and PD cases and proxy-cases from the UK Biobank (UKB).
+boundthisα-synucleinepitopes19.TheseHLAalleles,however,are Proxy-casesarefirst-degreerelativesofPDpatients,thussharing~50%of
+not associated with therisk of PD inthecurrent study. However, the patients’ genetic background and eligible to serve as proxies, as
+theauthors reportedin thesupplementary data that DRB1*04:01 previously described32. Since they are genetically very similar, although
+was also a selective and strong binder of the same α-synuclein theydonothavePD,eachproxycaserepresentsacaseofPD,allowingus
+epitope with p.S129, but only when the epitope was unpho- to increase the power. However, we also analyzed the data without the
+sphorylated19.Notably,nootherDRB1allelesthatwereassayedin proxy-casescohorttomakesurethattheydidnotintroduceanybias.All
+this study19 had increased binding affinity to the α-synuclein cohorts were previously included in the most recent PD GWAS6. Study
+protocols were approved by the Institutional Review Board at McGill
+epitope with p.S129, except for the DRB1*04:01 allele that was a
+Universityandallpatientssignedinformedconsentbeforeparticipatingin
+strong binder only when unphosphorylated. Binding register thestudies.
+analysis using Immune Epitope Database (IEDB) MHC-II Binding
+Prediction(http://tools.iedb.org/mhcii/)suggeststhatthisepitope
+Pre-imputation genotype quality control
+binds a 9 amino acid AYEMPSEEG core, with p.S129 at the P6
+Inordertoincludeonlyhigh-qualitysamplesandSNPs,standardquality
+position,apositionpostulatedtobeimportantbasedonourHLA-
+DRaminoacidanalysispresentedabove.AsCD4+Tcellresponses
+S
+co
+ta
+n
+n
+t
+d
+ro
+a
+l
+rd
+(Q
+G
+C
+W
+)w
+A
+a
+S
+s
+Q
+p
+C
+er
+w
+fo
+a
+r
+s
+m
+d
+e
+o
+d
+n
+o
+e
+n
+to
+all
+fi
+d
+lt
+a
+e
+t
+r
+a
+o
+se
+u
+t
+t
+s
+s
+i
+a
+n
+m
+di
+p
+v
+l
+i
+e
+d
+s
+ua
+a
+l
+n
+ly
+d
+u
+S
+s
+N
+in
+P
+g
+s
+P
+w
+L
+i
+I
+t
+N
+h
+K
+lo
+v
+w
+1.9
+c
+3
+a
+3
+ll
+.
+aregenerallystrongerwhenepitopesarepresentedbyHLA-DRvs.
+rates, heterozygote outliers along gender mismatch as previously
+HLA-DQ23, HLA-DRB1*04 responses to the p.S129 unphosphory- described6. SNPs deviating from Hardy-Weinberg equilibrium were
+lated form of α-synuclein could be dominant in individuals with removed.OnlysamplesofEuropeanancestryclusteringwithHapMapv3
+HLA-DRB1*04,explainingtheprotectiveeffectofthisHLAsubtype using principal component analysis were included as shown in Supple-
+in PD. Additional experiments will be needed to further explore mentary Fig. 5. In order to exclude related individuals, we examined
+this hypothesis. relatedness in each dataset separately, followed by a relatedness test
+Ourstudyhasseverallimitations.First,thisstudywasperformed acrossalldatasetscombined,toexcludeindividualswhowereincludedin
+morethanonedataset.Allindividualswithpi_hat>0.125wereexcluded
+on European populations, and the results may be limited to this
+usingGCTAv1.26.034.
+population only. Additional studies in other populations are
+required. Several studies on HLA types and PD have been
+performed in Asian populations24–27, and the GWAS risk variant UKBiobank QC
+rs112485576hasasimilarOR(0.85)inthelargestAsianGWASto For the analysis of the UKB data, unrelated participants of European
+date28, yet larger studies are required, as well as studies in other ancestry (field 22006), with a low missingness rate (field 220027) were
+populations. An additional potential limitation of our study is its included after the exclusion of heterozygosity outliers as previously
+use of imputation rather than fully sequenced HLA types. Given
+described6.PDpatientsfromtheUKBiobankwereincludedbasedonself-
+report(field20002)orbasedontheirInternationalClassificationofdisease
+theveryhighperformanceoftheimputationtoolwhencompared
+diagnosis code (ICD-10, code G20, field 41270). From the remaining
+tofullsequencing(SupplementaryData7),thepotentialeffectof participants,proxy-casesweredefinedasfirst-degreerelatives(parentsor
+imputationinaccuraciesislikelysmallandshouldbedilutedinour siblings, field 20112–20114) of patients with PD. Principal components
+largesamplesize.Sincedifferentcohorts mayhavehaddifferent were calculated using flashpca35 after excluding related individuals as
+criteriafordeterminingthepresenceofPD,itisimportanttonote describedabove.Thecontrolgroupwasdividedrandomlyintotwogroups
+thatforallthepositiveassociationsreportedinthecurrentstudy, of controls: one wasincludedin theGWAS comparingPD patientsfrom
+thedirectionalitywasidenticalacrossallcohortswithsimilareffect UKBandcontrols,andthesecondwasincludedintheGWAScomparing
+magnitude, and for all meta-analyses the heterogeneity was not proxy-casesfromUKBandcontrols.Thisdivisionwasdoneproportionally
+statistically significant (supplementary Data 3–5), indicating that tothesizeofeachGWAS.
+thedifferentcriteriainthedifferentcohortsdidnothaveamajor
+effect on the results. In addition, we cannot rule out that other, Imputation
+rarerHLAtypesthatwerenotincludedinthecurrentanalysismay FortheSNPimputationofeachdataset,weusedtheMichiganImputation
+alsohavearoleinPD.Anadditionallimitationofthecurrentstudy Server on the 1000 Genomes Project panel (Phase 3, Version 5) using
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2021) 84
+
+---PAGE BREAK---
+
+E.Yuetal.
+6
+Minimac3andSHAPEITv2.r790.ImputedUKBiobankgenotypeddatav3 HLA amino acid changes, and PRS, by introducing significant findings
+weredownloadedinJuly2019.Allvariantswithanimputationquality(r2) fromthefirstanalysesascovariatesintheregressionmodels.Statistical
+of>0.30werelabeledassoftcallsand>0.80werelabeledashardcalls.Soft analyses were only performed on alleles, haplotypes, and amino acid
+callswereonlyusedtogetherwiththehardcallsforpolygenicriskscore changes with more than 1% carrier frequency. P value significance
+(PRS)calculation(seebelow);hardcallswereusedforallotheranalyses. levels were adjusted using Bonferroni correction. Meta-analysis was
+performedasdescribedabove.Allmissingdatawereexcludedfromthe
+analyses.
+Associationanalysis ofcommon variants onchromosome 6
+PriortodeterminingHLAtypes,weperformedasimpleassociationtestof
+allSNPslocatedonchromosome6,toverifythatweidentifiedthesamehit Reporting summary
+intheHLAregionaspreviouslydescribed6.Forthispurpose,wegenerated FurtherinformationonresearchdesignisavailableintheNatureResearch
+summary statistics of chromosome 6 for each dataset and used logistic ReportingSummarylinkedtothisarticle.
+regressionwithanadditivemodeladjustingforageatonsetforpatients
+andageatenrollmentofcontrols,sex,andpopulationstratification(first10
+principal components) with PLINK v2.00a2LM (25 Oct 2019)33. The UK DATAAVAILABILITY
+Biobankdatawereanalyzedsimilarlyusinglogisticregressionadjustingfor Anonymized data will be shared by request from any qualified investigator. All
+age, sex, the first 10 principal components, and Townsend index to summarystatisticsarefoundintheSupplementaryData.Theaccessionnumbersto
+account for additional potential population stratification confounders. thedatasetsfromdbGaP(https://www.ncbi.nlm.nih.gov/gap/)usedinthisstudyare:
+Finally,toharmonizeeffectsincasesandproxycases,summarystatistics International Parkinson’s Disease Genomics Consortium (IPDGC) NeuroX dataset
+forproxycaseswererescaledbasedongenome-wideassociationstudyby (dbGap phs000918.v1.p1), National Institute of Neurological Disorders and Stroke
+proxy as previously described32. Each dataset was analyzed separately, (NINDS)Genome-WidegenotypinginParkinson’sDisease(dbGapphs000089.v4.p2),
+followedbyameta-analysisofalldatasets.Tometa-analyzethedifferent NeuroGenetics Research Consortium (NGRC) (dbGap phs000196.v3.p1) and Vance
+datasets,weperformedafixed-effectsmeta-analysisusingMETALwithan
+(dbGapphs000394).
+inverse-variance-basedmodelandexaminedwhetherheterogeneityexists
+betweenthedifferentcohorts36.
+CODEAVAILABILITY
+HLAlocus analysis The scripts used in this analysis is available at https://github.com/gan-orlab/
+To impute specific HLA types for each individual, we inferred two field HLA_HIBAG/.
+resolution HLA alleles using HIBAG v1.22.0, a statistical method for HLA
+type imputation in R37. HIBAG was shown to be as accurate or more Received:23April 2021; Accepted: 30August 2021;
+accurateinEuropeanscomparedtoothertypesofHLAimputationtools38.
+HIBAG provided a reference panel for Europeans (n=2572) with high
+imputationaccuracyforHLA-A,HLA-B,HLA-C,classIgenes,andHLA-DPB1,
+HLA-DQA1,HLA-DQB1,andHLA-DRB1,classIIgenes.HLA-DRB3,HLA-DRB4,
+and HLA-DRB5 imputation models were trained using HIBAG37 on REFERENCES
+Europeanoriginsampletrainingset(n=3267)genotypedontheIllumina
+InfiniumPsychArray-24chipandfullysequencedat8-digitresolutionfor 1. Sanchez-Guajardo, V., Barnum, C. J., Tansey, M. G. & Romero-Ramos, M. Neu-
+HLA loci. These models were validated in a test set (n=886) with high
+roimmunologicalprocessesinParkinson’sdiseaseandtheirrelationtoα-synu-
+clein: microglia as the referee between neuronal processes and peripheral
+accuracy (Supplementary Data 7). Imputation accuracy for European
+immunity.ASNNeuro5,AN20120066(2013).
+DRB1*04 alleles was determined for DRB1*04:01 DRB1*04:02 DRB1*04:03,
+2. Wang, Q., Liu, Y. & Zhou, J. Neuroinflammation in Parkinson’s disease and its
+DRB1*04:04,DRB1*04:05,DRB1*04:07,DRB1*04:08.Alleleswithanimputa-
+tionprobabilityof<0.5weredefinedasundeterminedandindividualswith potentialastherapeutictarget.Transl.Neurodegener.4,19(2015).
+3. Tansey, M. G. & Romero-Ramos, M. Immune system responses in Parkinson’s
+two or more undetermined alleles were excluded from the analysis
+disease:earlyanddynamic.Eur.J.Neurosci.49,364–383(2019).
+(SupplementaryData1detailsthenumbersincludedforeachalleleineach 4. Devos,D.etal.ColonicinflammationinParkinson’sdisease.Neurobiol.Dis.50,
+cohort after all quality control steps). To further examine imputation 42–48(2013).
+accuracy,theresultsoftheDRB1imputationwerecomparedagainsthigh 5. Zhang,W.etal.Aggregatedα‐synucleinactivatesmicroglia:aprocessleadingto
+throughputHLAsequencingin380PDsamplesfromOslo.Thecombined diseaseprogressioninParkinson’sdisease.FASEBJ.19,533–542(2005).
+frequency of seven different DRB1*04 alleles detected in sequence data 6. Nalls,M.A.etal.Identificationofnovelriskloci,causalinsights,andheritablerisk
+was 0.15 with the 04:01 and 04:04 alleles being the most common for Parkinson’s disease: a meta-analysis of genome-wide association studies.
+(SupplementaryData8).ImputationaccuracyforDRB1*04alleleswasvery LancetNeurol.18,1091–1102(2019).
+highat2-digitresolution(SupplementaryData9).
+7. Malavasi,F.etal.CD38andCD157asreceptorsoftheimmunesystem:abridge
+ToexaminetheassociationofHLAalleleswithPD,weusedRv3.6to betweeninnateandadaptiveimmunity.Mol.Med.12,334–341(2006).
+performlogisticregression,adjustingforageatonset,sex,andthefirst
+8. Shiina, T., Hosomichi, K., Inoko, H. & Kulski, J. K. The HLA genomic loci map:
+10principalcomponents.TheUKBiobankdatasetwasalsoadjustedfor expression,interaction,diversityanddisease.J.Hum.Genet.54,15–39(2009).
+theTownsendindex.Haplotypeanalyseswereperformedusinghaplo.
+9. Wallings,R. L., Herrick, M. K. & Tansey, M. G. LRRK2 at the interfacebetween
+statsinRwithlogisticregressionasstatedabove.Onlyhaplotypeswith peripheralandcentralimmunefunctioninParkinson’s.Front.Neurosci.14,443
+posteriorprobability>0.2andacarrierfrequencyof>1%wereincluded (2020).
+intheanalysis.Aminoacidassociationanalyseswereperformedusing 10. Ahmed,I.etal.AssociationbetweenParkinson’sdiseaseandtheHLA-DRB1locus.
+HIBAG after converting P-coded alleles to amino acid sequences for Mov.Disord.27,1104–1110(2012).
+exon2,3ofHLAclassIgenes,andexon2ofclassIIgenes.Aminoacid 11. Hamza,T.H.etal.CommongeneticvariationintheHLAregionisassociatedwith
+associationsweretestedusinglogisticregressionasdescribedabove.A late-onsetsporadicParkinson’sdisease.Nat.Genet.42,781–785(2010).
+PRSwascalculatedusingPRSicev2.2.11withoutlinkagedisequilibrium 12. Hollenbach,J.A.etal.AspecificaminoacidmotifofHLA-DRB1mediatesriskand
+(LD)clumpingorPthresholding39.Thebetaweightsfromthesummary interactswithsmokinghistoryinParkinson’sdisease.Proc.NatlAcad.Sci.USA
+statistics of the 90 genome-wide significant variants in the latest PD 116,7419–7424(2019).
+GWAS6 were used in the PRS. To make sure that all possible variants 13. Wissemann, W. T. et al. Association of Parkinson disease with structural and
+wereincludedinthePRSanalysis,wealsoperformedimputationusing regulatoryvariantsintheHLAregion.Am.J.Hum.Genet.93,984–993(2013).
+the Haplotype Reference Consortium panel (Version r1.1 2016) with 14. Bandres-Ciga, S. et al. The genetic architecture of Parkinson disease in Spain:
+Minimac4 and Eagle v2.4. Ambiguous variants (rs6658353) and characterizing population-specific risk, differential haplotype structures, and
+rs112485576 from the HLA region were excluded from the PRS providingetiologicinsight.Mov.Disord.34,1851–1863(2019).
+calculation.WealsousedthetophitintheHLAregionfromthisGWAS 15. Hill-Burns,E.M.,Factor,S.A.,Zabetian,C.P.,Thomson,G.&Payami,H.Evidence
+to perform adjustment in the regression models and conditional formorethanoneParkinson’sdisease-associatedvariantwithintheHLAregion.
+analyses to determine whether the associations reported here are in PLoSONE6,e27109(2011).
+LDwiththeGWAStophit.Toexaminewhethersecondaryhitsexistin 16. Kamoun,M.etal.HLAaminoacidpolymorphismsandkidneyallograftsurvival.
+the HLA region, we adjusted for significant HLA variants, HLA alleles, Transplantation101,e170–e177(2017).
+npjParkinson’sDisease(2021) 84 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+E.Yuetal.
+7
+17. Kannarkat, G. T. et al. Common genetic variant association with altered HLA partners,includingAbbvie,Allergan,AmathusTherapeutics,AvidRadiopharma-
+expression,synergywithpyrethroidexposure,andriskforParkinson’sdisease:an ceuticals,Biogen,BioLegend,Bristol-MyersSquibb,Celgene,DenaliTherapeutics,
+observationalandcase-controlstudy.NPJParkinsonsDis.https://doi.org/10.1038/ GE Healthcare, Genentech, GlaxoSmithKline, Golub Capital, Handl Therapeutics,
+npjparkd.2015.2(2015). Insitro, Janssen, Lilly, Lundbeck, Merck, Meso Scale Discovery, Neurocrine
+18. Levesque,S.etal.Reactivemicrogliosis:extracellularmicro-calpainandmicroglia- Biosciences,Pfizer,Piramal,PrevailTherapeutics,Roche,SanofiGenzyme,Servier,
+mediateddopaminergicneurotoxicity.Brain133,808–821(2010). Takeda, Teva, UCB, Verily and Voyager Therapeutics. This research has been
+19. Sulzer,D.etal.TcellsfrompatientswithParkinson’sdiseaserecognizeα-synu- conductedusingtheUKBiobankResourceunderApplicationNumber35605.L.P.
+cleinpeptides.Nature546,656–661(2017). is supported by a grant from the National Health Association, Norway. MSA is
+20. LindestamArlehamn,C.S.etal.α-Synuclein-specificTcellreactivityisassociated supportedbyagrantfromtheSouth-EasternRegionalHealthAuthority,Norway.
+withpreclinicalandearlyParkinson’sdisease.Nat.Commun.11,1875(2020). KS is supported by a postdoctoral fellowship from the Canada First Research
+21. Fayyad,M.etal.Investigatingthepresenceofdoublyphosphorylatedα-synu- ExcellenceFund(CFREF),awardedtoMcGillUniversityfortheHealthyBrainsfor
+clein at tyrosine 125 and serine 129 in idiopathic Lewy body diseases. Brain HealthyLivesinitiative(HBHL).ZGOissupportedbytheFondsderecherchedu
+Pathol.30,831–843(2020). Québec—Santé(FRQS)Chercheurs-boursiersaward.
+22. Li,X.Y.etal.Phosphorylatedalpha-synucleininredbloodcellsasapotential
+diagnosticbiomarkerformultiplesystematrophy:apilotstudy.ParkinsonsDis.
+2020,8740419(2020). AUTHORCONTRIBUTIONS
+23. Grifoni,A.etal.CharacterizationofmagnitudeandantigenspecificityofHLA-DP, E.Y.,L.P.,E.M.,andZ.G.O.conceptualizedandsupervisedthestudy.J.A.R.,andF.A.
+DQ, and DRB3/4/5 Restricted DENV-Specific CD4+ T Cell Responses. Front. performed sample preparation. E.Y., M.S.A, and L.K. performed data preparation,
+Immunol.10,1568(2019).
+quality control. A.A. prepared HLA imputation panels. M.S.A, M.T., and M.K.V.
+24. Chang,K.H.,Wu,Y.R.,Chen,Y.C.,Fung,H.C.&Chen,C.M.Associationofgenetic
+performedHLApanelvalidation.E.Y.performedHLAimputation.E.Y.performedthe
+variants within HLA-DR region with Parkinson’s disease in Taiwan. Neurobiol.
+statisticalanalysis,C.B.contributedtotheseanalyses.M.A.E.,P.S.,K.S.,Y.L.S.,A.A.K.S.,
+Aging87,140e113–140e118(2020).
+D.S.,andM.S.performedadditionaldataqualitycontrol,checks,andanalysis.M.S.A,
+25. Ma,Z.G.,Liu,T.W.&Bo,Y.L.HLA-DRArs3129882A/Gpolymorphismwasnota
+M.T.,M.K.V., andL.P.providedbiospecimens and clinicaldata. E.Y.,A.A.,E.M.,and
+riskfactorforParkinson’sdiseaseinChinese-basedpopulations:ameta-analysis.
+Z.G.O.preparedtheinitialpaper.Allauthorscriticallyreviewed,edited,andapproved
+Int.J.Neurosci.125,241–246(2015).
+thearticle.
+26. Sun,C.etal.HLA-DRB1allelesareassociatedwiththesusceptibilitytosporadic
+Parkinson’sdiseaseinChineseHanpopulation.PLoSONE7,e48594(2012).
+27. Zhao,Y.etal.AssociationofHLAlocusvariantinParkinson’sdisease.Clin.Genet. COMPETINGINTERESTS
+84,501–504(2013).
+28. Foo, J. N. et al. Identification of risk loci for Parkinson disease in Asians and
+MathiasToft—Dr.ToftreceivedgrantsfromNorwegianParkinsonResearchFundand
+Reberg’slegacy.LassePihlstrøm—Dr.PihlstrømreceivedgrantsfromNationalHealth
+comparisonofriskbetweenAsiansandEuropeans:agenome-wideassociation
+study.JAMANeurol.77,746–754(2020). Association, Norway, and South-Eastern Regional Health Authority, Norway.
+EmmanuelMignot—Dr.MignotreportsconsultanciesfromIdorsiaPharmaceuticals
+29. Nalls, M. A. et al. Large-scale meta-analysis of genome-wide association data
+identifiessixnewrisklociforParkinson’sdisease.Nat.Genet.46,989–993(2014). Ltd.,personalfeesfromJazzPharmaceutical,Alairion,ALPCO,INEXIA,Merck,Orexia,
+30. Gan-Or,Z.etal.TheQuebecParkinsonnetwork:aresearcher-patientmatching
+Rhythm,andSunovion.ZivGan-Or—Dr.Gan-OrreportspersonalfeesfromIdorsia,
+platformandmultimodalbiorepository.J.Parkinson’sDis.10,301–313(2020). Neuron23, Handl Therapeutics, LysosomalTherapeutics Inc., Deerfield, Lighthouse,
+PrevailTherapeutics,OnoTherapeutics,Denali,andInceptionScience.EricYu,Aditya
+31. Simón-Sánchez, J. et al. Genome-wide association study reveals genetic risk
+underlyingParkinson’sdisease.Nat.Genet.41,1308–1312(2009). Ambati, Maren Stolp Andersen, Lynne Krohn, Mehrdad A. Estiar, Prabhjyot Saini,
+Konstantin Senkevich, Yuri L. Sosero, Ashwin Ashok Kumar Sreelatha, Jennifer A.
+32. Liu,J.Z.,Erlich,Y.&Pickrell,J.K.Case-controlassociationmappingbyproxyusing
+familyhistoryofdisease.Nat.Genet.49,325–331(2017). Ruskey,FarnazAsayesh,DanSpiegelman,MarteK.Viken,ManuSharma,andCornelis
+33. Chang,C.C.etal.Second-generationPLINK:risingtothechallengeoflargerand Blauwendraatreportnorelevantdisclosures.
+richerdatasets.GigaSciencehttps://doi.org/10.1186/s13742-015-0047-8(2015).
+34. Yang,J.,Lee,S.H.,Goddard,M.E.&Visscher,P.M.GCTA:atoolforgenome-wide
+complextraitanalysis.Am.J.Hum.Genet88,76–82(2011). ADDITIONAL INFORMATION
+35. Abraham,G.&Inouye,M.Fastprincipalcomponentanalysisoflarge-scalegen- Supplementary information The online version contains supplementary material
+ome-widedata.PLoSONE9,e93766(2014). availableathttps://doi.org/10.1038/s41531-021-00231-5.
+36. Willer, C. J., Li, Y. & Abecasis, G. R. METAL: fast and efficient meta-analysis of
+genomewideassociationscans.Bioinformatics26,2190–2191(2010). CorrespondenceandrequestsformaterialsshouldbeaddressedtoZivGan-Or.
+37. Zheng, X. et al. HIBAG—HLA genotype imputation with attribute bagging.
+PharmacogenomicsJ.14,192–200(2014). Reprints and permission information is available at http://www.nature.com/
+38. Karnes,J.H.etal.ComparisonofHLAallelicimputationprograms.PLoSONE12, reprints
+e0172444(2017).
+39. Choi,S.W.&O’Reilly,P.F.PRSice-2:polygenicriskscoresoftwareforbiobank- Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+scaledata.Gigascience8,giz082(2019). inpublishedmapsandinstitutionalaffiliations.
+ACKNOWLEDGEMENTS
+Wewouldliketothanktheparticipantsinthedifferentcohorts.Theaccesstopart Open Access This article is licensed under a Creative Commons
+oftheparticipantsforthisresearchhasbeenmadepossiblethankstotheQuebec Attribution 4.0 International License, which permits use, sharing,
+Parkinson’sNetwork(http://rpq-qpn.ca/en/).Thisworkwasfinanciallysupported adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+by grants from the Michael J. Fox Foundation, the Canadian Consortium on appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+NeurodegenerationinAging(CCNA),theCanadaFirstResearchExcellenceFund Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+(CFREF), awarded to McGill University for the Healthy Brains for Healthy Lives materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+initiative(HBHL),andParkinsonCanada.Wewouldliketothankallmembersof indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+the International Parkinson Disease Genomics Consortium (IPDGC). For a article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+complete overview of members, acknowledgements and funding, please see regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+http://pdgenetics.org/partners.Thisresearchwas alsosupportedin partbythe fromthecopyrightholder.Toviewacopyofthislicense,visithttp://creativecommons.
+Intramural Research Program of the NIH, National Institute on Aging. HLA org/licenses/by/4.0/.
+sequencingofsamplesfromtheOsloParkinson’sdiseasestudywassupportedby
+theNorwegianParkinsonResearchFund.PPMI—apublic–privatepartnership—is
+fundedbytheMichaelJ.FoxFoundationforParkinson’sResearchandfunding ©TheAuthor(s)2021
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2021) 84
+
+---PAGE BREAK---
+

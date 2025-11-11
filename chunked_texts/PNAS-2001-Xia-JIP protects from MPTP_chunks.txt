@@ -1,0 +1,578 @@
+Chunk 1:
+Gene transfer of the JNK interacting protein-1
+protects dopaminergic neurons in the MPTP
+model of Parkinson’s disease
+XuGangXia*,ThomasHarding†,MichaelWeller*,AlisonBieneman†,JamesB.Uney†,andJo¨rgB.Schulz*‡
+*NeurodegenerationLaboratory,DepartmentofNeurologyandMedicalSchool,UniversityofTu¨bingen,Hoppe-SeylerStrasse3,D-72076Tu¨bingen,
+Germany;and†UniversityResearchCentreforNeuroendocrinologyandCentreforSynapticPlasticity,DivisionofMedicine,UniversityofBristol,
+MarlboroughStreet,BristolBS28HW,UnitedKingdom
+EditedbySolomonH.Snyder,JohnsHopkinsUniversitySchoolofMedicine,Baltimore,MD,andapprovedJune29,2001(receivedforreviewApril12,2001)
+Increasingevidencesuggeststhatapoptosismaybetheunderlying apoptosiswouldresultinbetteroutcomethaninhibitingthefinal
+celldeathmechanismintheselectivelossofdopaminergicneurons execution of cell death.
+inParkinson’sdisease.Becausetheinhibitionofcaspasesprovides Persistent activation of c-Jun N-terminal kinases (JNKs) has
+only partial protection in the 1-methyl-4-phenyl-1,2,3,6-tetrahy- been demonstrated in various apoptotic cell death paradigms
+dropyridiney1-methyl-4-phenylpyridinium(MPTPyMPP1)modelof (13–15).IncreasedstriatalJNKactivityinducedbyexposureto
+Parkinson’sdisease,weinvestigatedtheroleoftheproapoptotic highconcentrationsofdopaminewasaccompaniedbyapoptosis
+c-JunN-terminalkinase(JNK)signalingcascadeinSH-SY5Yhuman (16).Recently,twocytoplasmicproteinsthatbindselectivelyto
+neuroblastomacellsinvitroandinmiceinvivo.MPTPyMPP1ledto JNK, known as JNK interacting proteins 1 and 2 (JIP-1 and
+the sequential phosphorylation and activation of JNK kinase JIP-2)(17,18),wereisolated.JIP-1y2arescaffoldproteinsthat
+(MKK4),JNK,andc-Jun,theactivationofcaspases,andapoptosis. bind to several components of the JNK signaling cascade in-
+In mice, adenoviral gene transfer of the JNK binding domain of cluding the JNK group of mitogen-activated protein kinases
+JNK-interactingprotein-1(ascaffoldproteinandinhibitorofJNK) (MAPKs),theMAPKkinaseisoformMKK7,andmember
+
+Chunk 2:
+JIP-2)(17,18),wereisolated.JIP-1y2arescaffoldproteinsthat
+(MKK4),JNK,andc-Jun,theactivationofcaspases,andapoptosis. bind to several components of the JNK signaling cascade in-
+In mice, adenoviral gene transfer of the JNK binding domain of cluding the JNK group of mitogen-activated protein kinases
+JNK-interactingprotein-1(ascaffoldproteinandinhibitorofJNK) (MAPKs),theMAPKkinaseisoformMKK7,andmembersof
+inhibited this cascade downstream of MKK4 phosphorylation, the mixed-lineage kinase group of MAPK kinase kinases (19).
+blockedJNK,c-Jun,andcaspaseactivation,thedeathofdopami- OverexpressionofJIP-1causesthecytoplasmicretentionofJNK
+nergic neurons, and the loss of catecholamines in the striatum. and thereby inhibits gene expression mediated by the JNK
+Furthermore, the gene transfer resulted in behavioral benefit. signalingpathway(17).However,interpretationoftheseresults
+Therefore,inhibitionoftheJNKpathwayoffersanewtreatment iscomplicatedbythelargenumberofproteinswithwhichJIP-1
+strategy for Parkinson’s disease that blocks the death signaling interacts. JIP-1 contains two well described domains: the C-
+pathwayupstreamoftheexecutionofapoptosisindopaminergic terminalPTBdomainofJIP-1interactswithRhoGEFandmay
+neurons,providingatherapeuticadvantageoverthedirectinhi- beinvolvedingrowthconeremodeling(20),consistentwiththe
+bitionofcaspases. location of JIP-1 in nascent growth cones, whereas the JNK
+bindingdomain(JBD)ofJIP-1islocatedattheNterminus(17,
+T
+oday,onlysymptomaticandnoneuroprotectivetherapiesare 19). Expression of the JBD has been shown to be an effective
+available for the treatment of Parkinson’s disease (PD). inhibitor of JNK in PC12 cells (17).
+Pathologically, the hallmark of PD is loss of dopaminergic Here, we report that MPTPyMPP1 activates the JNKyc-Jun
+neuronsinthesubstantianigra,leadingtothemajorclinicaland pathwayinvivoandinvitro,andthatadenovirus-mediatedgene
+pharmacologicalabnormalitiesthatcharacterizethedisease.In transferofJBDprotectsdopaminergiccellsfromMPTPy
+
+Chunk 3:
+nt of Parkinson’s disease (PD). inhibitor of JNK in PC12 cells (17).
+Pathologically, the hallmark of PD is loss of dopaminergic Here, we report that MPTPyMPP1 activates the JNKyc-Jun
+neuronsinthesubstantianigra,leadingtothemajorclinicaland pathwayinvivoandinvitro,andthatadenovirus-mediatedgene
+pharmacologicalabnormalitiesthatcharacterizethedisease.In transferofJBDprotectsdopaminergiccellsfromMPTPyMPP1
+therecentyears,mutationsinfourgeneshavebeenidentifiedto toxicity downstream from MKK4 phosphorylation.
+causeeitherautosomal-dominantorautosomal-recessivePDin
+rare families (1, 2). Although the genetic contribution to the MaterialsandMethods
+etiologyofPDisindisputableinsomecases,themajorityofPD ViralVectorConstructionandVirusPurification.Recombinant,E1-
+issporadic,andthecauseofneuronallossinthesubstantianigra deleted,adenoviralconstructs(AdV)wereproducedaccording
+is not known. Some advances have been made in defining tostandardtechniques.Theflag-taggedJBDofJIP-1(residues
+morphologicalandbiochemicaleventsinthepathogenesisofthe 127–281) was cloned into the AdV transfer vector pXCXCMV
+disease. Inhibition of oxidative phosphorylation, excitotoxicity, under the control of the human cytomegalovirus major IE
+and generation of reactive oxygen species are considered im- promoterenhancerfragment(663bpofpcDNA1;Invitrogen)
+portant mediators of neuronal death in PD (3, 4). Although followedbyabovinegrowthhormonepolyAtail.Recombinant
+evidenceimplicatingmorphologicalcharacteristicsofapoptosis virus(AdV-JBD)wasgeneratedbyhomologousrecombination
+inPDhasremainedcontroversial(5,6),themajorexecutioners with pJM17 in 293 cells (American Type Culture Collection),
+ofapoptosis,caspases,areactivatedindopaminergicsubstantia growntohightiterandpurifiedbyCsCldensity-gradientultra-
+nigra neurons (7). centrifugation. The AdV-EGFP vector was constructed as de-
+Insights into the pathogenesis of PD have been achieved scribed previously (21).
+experimentally by using the neurotoxin 1-methyl-4-phenyl-
+1,2
+
+Chunk 4:
+oners with pJM17 in 293 cells (American Type Culture Collection),
+ofapoptosis,caspases,areactivatedindopaminergicsubstantia growntohightiterandpurifiedbyCsCldensity-gradientultra-
+nigra neurons (7). centrifugation. The AdV-EGFP vector was constructed as de-
+Insights into the pathogenesis of PD have been achieved scribed previously (21).
+experimentally by using the neurotoxin 1-methyl-4-phenyl-
+1,2,3,6-tetrahydropyridine (MPTP). Chronic administration of
+MPTP activated caspases (8) and induced apoptosis in the Thispaperwassubmitteddirectly(TrackII)tothePNASoffice.
+substantia nigra pars compacta (SNpc) of mice (9), whereas Abbreviations:AdV,adenoviralconstructs;JBD,JNKbindingdomain;JIP-1,JNKinteracting
+apoptosis was not found in a more acute dosing regimen (10). protein-1; JNK, c-Jun N-terminal kinase; MPP1, 1-methyl-4-phenylpyridinium; MPTP,
+Apoptosisisregulatedbyanumberofproapoptoticandantiapo- 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine;PD,Parkinson’sdisease;MAPK,mitogen-
+activated protein kinase; PFA, paraformaldehyde; TH, tyrosine hydroxylase; p-c-Jun,
+ptoticgenes(11,12).Wehaveshownrecentlythatpeptideand
+phospho-c-Jun.
+protein inhibitors of caspases prevent loss of dopaminergic
+neuronsinMPTPy1-methyl-4-phenylpyridinium(MPP1)toxic-
+‡Towhomreprintrequestsshouldbeaddressed.E-mail:joerg.b.schulz@uni-tuebingen.de.
+Thepublicationcostsofthisarticleweredefrayedinpartbypagechargepayment.This
+itybutdonotpreservefunctionalintegrityoftheseneurons(8).
+articlemustthereforebeherebymarked“advertisement”inaccordancewith18U.S.C.
+We now asked whether interfering with the signals leading to §1734solelytoindicatethisfact.
+www.pnas.orgycgiydoiy10.1073ypnas.181182298 PNAS u August28,2001 u vol.98 u no.18 u 10433–10438
+YGOLOIBORUEN
+
+---PAGE BREAK---
+
+Fig.1. JBDinhibitsMPP1-inducedJNK,c-Jun,andcaspaseactivationand
+blockscelldeathinvitro.(a)SH-SY5YcellswereinfectedwithAdV-EGFPor
+AdV-JBDorwereleftuntreated.After48h,thesecellsweretreatedwith
+Fig.2. JBDexpressioninhibitsMPTP-inducedJNKandc-
+
+Chunk 5:
+o §1734solelytoindicatethisfact.
+www.pnas.orgycgiydoiy10.1073ypnas.181182298 PNAS u August28,2001 u vol.98 u no.18 u 10433–10438
+YGOLOIBORUEN
+
+---PAGE BREAK---
+
+Fig.1. JBDinhibitsMPP1-inducedJNK,c-Jun,andcaspaseactivationand
+blockscelldeathinvitro.(a)SH-SY5YcellswereinfectedwithAdV-EGFPor
+AdV-JBDorwereleftuntreated.After48h,thesecellsweretreatedwith
+Fig.2. JBDexpressioninhibitsMPTP-inducedJNKandc-JunbutnotMKK4
+MPP1.LysatesofSH-SY5YcellswerecollectedforWesternblotting12hlater
+phosphorylation in SNpc. Detection of flag-tagged JBD expression in the
+andexposedtoantibodiesrecognizingp-MKK4,p-JNK,p-c-Jun,caspase-9,or
+striatum(a)andtheSNpc(b)byimmunohistochemistryorWesternBlot(c)at
+activatedcaspase-3.(b)ThephasecontrastimagewastakenfromAdV-JBD-
+7daysafterstereotaxicAdV-JBDinjectionintothestriatum.Sevendaysafter
+infectedSH-SY5Ycells.(c)FlagimmunohistochemistryshowsJBD-positivecells
+virus transfection with AdV-EGFP and AdV-JBD, mice were treated with
+inthesamecultureasb.Comparingbandc,almost100%ofthecellsexpress
+injections of MPTP at 24-h intervals. Lysates of SNpc were collected after
+JBD.(d)WesternblotdetectionofJBDexpressioninSH-SY5Ycells.(e)JBD
+varyingdosesofMPTPandanalyzedforp-MKK4,p-JNK,orp-c-Jun(d).
+overexpression rescues SH-SY5Y cells from MPP1 toxicity. ***, P , 0.001
+comparedwithMPP1-treatedorAdV-EGFP-andMPP1-treatedcells(n56).
+(coordinates:flatskullposition,bregma,2.5mmlaterally,3mm
+below dura). For immunohistochemical detection of transgene
+CellCultureandInfectionwithViralVectors.Humanneuroblastoma
+expression 7 days after AdV-JBD delivery, four mice were
+SH-SY5Ycellswereculturedasdescribed(8).At80%conflu-
+anesthetized with 4% chloral hydrate and were cardiacally
+ency(2daysafterplating),thevolumeofconditionedmedium
+perfusedwithice-cold4%PFAinPBS(pH57.4).Thebrains
+was reduced to one-third, and recombinant adenovirus was
+were removed and placed in 4% PFA overnight at 4°C, then
+addedat150multiplicityofinfection.Afterallowingthevirusto
+changedto30%sucrosefor2daysandth
+
+Chunk 6:
+culturedasdescribed(8).At80%conflu-
+anesthetized with 4% chloral hydrate and were cardiacally
+ency(2daysafterplating),thevolumeofconditionedmedium
+perfusedwithice-cold4%PFAinPBS(pH57.4).Thebrains
+was reduced to one-third, and recombinant adenovirus was
+were removed and placed in 4% PFA overnight at 4°C, then
+addedat150multiplicityofinfection.Afterallowingthevirusto
+changedto30%sucrosefor2daysandthenstoredat280°C.At
+beabsorbedfor30min,theconditionedmediumwasreturned
+totheculture.After48h,thecellsweretreatedwith5mMMPP1 thesametimepoint,themicewerekilledunderdeepanesthesia,
+and their striatum and substantia nigra were rapidly removed,
+or vehicle.
+CelllysatesofSH-SY5Ycellswereharvestedat12h,andcell frozen, and stored at 280°C until Western blot analysis.
+viabilitywasmeasuredbyusingthetrypanblue-exclusionassay
+at30hafterMPP1treatmentasdescribed(22).Thecellviability MPTPMouseStudies.Oneweekafteradenovirusdeliverytothe
+was expressed as percentages of surviving cells versus sum of left striatum, the mice were treated with either PBS or MPTP
+surviving and dead cells. For immunohistochemical analysis of hydrochloride (Research Biochemicals, Natick, MA). MPTP
+flag-taggedJPDexpression,thecellswerewashedinPBStwice wasadministeredin0.1mlofPBSatadoseof30mg/kgi.p.at
+and then fixed in 4% paraformaldehyde (PFA) in PBS (pH 5 24-hintervalsforfivedoses(8,9).Tenanimalswereusedineach
+7.4)for10min.AfterwashinginPBSforthreetimes,thecultures groupforthedetectionofstriatalcatecholamineconcentrations
+were used for immunohistochemical analysis. andforcountingSNpcdopaminergicneurons.At5daysafterthe
+last MPTP injection, the mice were tested for amphetamine-
+Adenovirally Mediated Gene Transfer inVivo. Animal use was in induced motor asymmetry (23, 24). The mice were given D-
+accordancewiththeEuropeanConventionforAnimalCareand amphetamine (2 mg/kg, i.p.) and were placed in small (diame-
+Use of Laboratory Animals and was approved by the local ter 5 20 cm) plastic bowls. Ipsiversive and contraversive
+
+Chunk 7:
+ MPTP injection, the mice were tested for amphetamine-
+Adenovirally Mediated Gene Transfer inVivo. Animal use was in induced motor asymmetry (23, 24). The mice were given D-
+accordancewiththeEuropeanConventionforAnimalCareand amphetamine (2 mg/kg, i.p.) and were placed in small (diame-
+Use of Laboratory Animals and was approved by the local ter 5 20 cm) plastic bowls. Ipsiversive and contraversive
+AnimalCareCommittee.Twelve-week-oldmaleC57BLy6mice rotations to the intrastriatal injection side were monitored
+were anesthetized with methohexital (50 mg/kg i.p., Lilly, Bad visuallybetween5and24minpostamphetamineinjection.For
+Homburg,Germany)inPBS,and2.63107plaque-formingunits analysis, a net turning score was calculated by subtracting the
+oftherecombinantadenovirusinavolumeof2mlor2mlofPBS meannumberoffullturns(rotatingmorethan360°)perminute
+(pH 5 7.4) were stereotaxically injected into the left striatum to the left from the number of full turns to the right (24). The
+10434 u www.pnas.orgycgiydoiy10.1073ypnas.181182298 Xiaetal.
+
+---PAGE BREAK---
+
+Fig.3. MPTPinducesphosphorylationofc-Junandnucleartranslocationof Fig.4. JBDblocksMPTP-inducedcaspase-3activation.InTH-positiveSNpc
+p-c-Jun. (a) We did not detect p-c-Jun expression in SNpc dopaminergic neurons (a, green) MPTP activates caspase-3 (b, red) as demonstrated by
+neuronsofuntreatedcontrols(greenforTH,redforp-c-Jun,yellowfordouble colocalizationusingconfocalmicroscopy(c,yellow).JBDexpressioninhibited
+staining).(b)MPTPtreatmentledtotheinductionofp-c-Jun(red)andits theactivationofcaspase-3andthelossofTH-positiveneurons(d).
+translocation into the nucleus (white arrow). Double staining for TH (c)
+revealedthatthevastmajorityofp-c-Jun-positivecellscolocalized(yellow)
+withdopaminergicneurons(d). (1:200,VectorLaboratories),followedbythestainingprocedure
+by using Vectastain ABC kit (Vector Laboratories) in combi-
+nation with DAB reagents.
+animalswerekilledatday7afterthelastMPTPinjection.Both
+Histochemistry for flag-tagged JBD e
+
+Chunk 8:
+location into the nucleus (white arrow). Double staining for TH (c)
+revealedthatthevastmajorityofp-c-Jun-positivecellscolocalized(yellow)
+withdopaminergicneurons(d). (1:200,VectorLaboratories),followedbythestainingprocedure
+by using Vectastain ABC kit (Vector Laboratories) in combi-
+nation with DAB reagents.
+animalswerekilledatday7afterthelastMPTPinjection.Both
+Histochemistry for flag-tagged JBD expression was per-
+the right and left striata were rapidly dissected, frozen, and formedon16-mmcryosectionsofmousebrains(n54)andon
+stored at 280°C until the catecholamine concentrations were
+3,3-diaminobenzideneculturedcells.Apolyclonalmouseanti-flag
+measured by HPLC with electrochemical detection (8). The
+antibody (Stratagene) and a carbocyanine-2-labeled goat anti-
+posteriorpartsofthesamebrainscontainingthemidbrainwere mouseIgG(Biotrend,Cologne,Germany)wereusedtodetectflag
+removed, immersed for 24 h in 4% PFA, and cryoprotected in immunoreactivity.
+30%sucrosein0.1MPBSfor2daysat4°C.Thesebrainswere Forthecellulardetectionofactivatedcaspase-3andphospho-
+thenfrozenondryice-cooledisopentaneandstoredat280°C. c-Jun (p-c-Jun), the mice (n 5 4 per group) were anesthetized
+andperfusedat6hafterthethirdMPTPinjection.Themouse
+WesternBlotAnalysis.MPTPtreatmentofC57BLy6micestarted
+brainswerefixedin4%PFAfor2hatroomtemperature,then
+at7daysaftertransfectionwithAdV-JBDorAdV-EGFP.Three in 100% isopropanol overnight at 4°C. The samples were par-
+miceofeachgroupandateachtimepointwerekilled6hafter affin-embedded and cut into 10-mm coronal sections. To allow
+the second, third, and fifth administration of MPTP. Their double-labeling experiments, we used rabbit anti-CM1, rabbit
+substantia nigra was rapidly removed, frozen, and stored at anti-p-c-Jun,andmouseanti-THantibodiesasprimaryantibod-
+280°Cuntilanalysis.ThepreparationoflysatesandtheWestern
+ies and goat anti-mouse IgG (carbocyanine-2 labeled) and
+blots were performed as described (8). All primary antibodies anti-rabbitIgG(carbocyanine-3label
+
+Chunk 9:
+f MPTP. Their double-labeling experiments, we used rabbit anti-CM1, rabbit
+substantia nigra was rapidly removed, frozen, and stored at anti-p-c-Jun,andmouseanti-THantibodiesasprimaryantibod-
+280°Cuntilanalysis.ThepreparationoflysatesandtheWestern
+ies and goat anti-mouse IgG (carbocyanine-2 labeled) and
+blots were performed as described (8). All primary antibodies anti-rabbitIgG(carbocyanine-3labeled)assecondaryantibod-
+wereusedata1:1,000dilution.Primaryantibodiesusedwerethe ies. The CM1 antibody raised against the C terminus of the
+polyclonal phosphospecific MKK4 (Thr-223, Ab 9151; New human p17 caspase-3 fragment, specifically recognizing acti-
+England Biolabs), monoclonal phosphospecific JNK1y2 (Thr- vated caspase-3 (25), was used to detect activated caspase-3.
+183,Tyr-185,V73A;Promega),andapolyclonalphosphospecific Sectionswerewashed,mountedoncoverslips,andthenanalyzed
+c-Jun antibody (9164S, New England Biolabs). Activated by confocal laser scanning microscopy (LSM510, Zeiss). The
+caspase-3 was detected by using the CM1 antibody (IDUN specificityofimmunereactionswasconfirmedbysubstitutingthe
+Pharmaceuticals, La Jolla, CA), and caspase-9 processing was primaryantiseraormonoclonalantibodieswithnonimmuneIgG.
+detected by an antibody directed against the large subunit
+(IDUN Pharmaceuticals). Bound secondary antibodies were Stereology.ThetotalnumberofTH-positiveSNpcneuronswas
+visualized by using enhanced chemiluminescence. Blots were counted from seven mice per group by using the optical frac-
+repeated at least three times for every condition. tionator, an unbiased stereological technique of cell counting
+(26)describedpreviously(8).Countswereperformedmanually
+Immunohistochemistry. For tyrosine hydroxylase (TH) immuno- and blinded for treatment.
+histochemistry(n57pergroup),brainswereseriallysectioned
+(50 mm) through the entire midbrain. Neurons containing TH StatisticalAnalysis.Dataareexpressedasmeans6SEMvalues.
+werevisualizedbyincubatingthetissuesectionssuccessivelywit
+
+Chunk 10:
+al technique of cell counting
+(26)describedpreviously(8).Countswereperformedmanually
+Immunohistochemistry. For tyrosine hydroxylase (TH) immuno- and blinded for treatment.
+histochemistry(n57pergroup),brainswereseriallysectioned
+(50 mm) through the entire midbrain. Neurons containing TH StatisticalAnalysis.Dataareexpressedasmeans6SEMvalues.
+werevisualizedbyincubatingthetissuesectionssuccessivelywith Testsofvariancehomogeneity,normality,anddistributionwere
+a mouse monoclonal antibody to rat TH (1:200, Boehringer, performedtoensurethattheassumptionsrequiredforstandard
+Mannheim, Germany), biotinylated horse anti-mouse IgG parametricanalysisofvarianceweresatisfied.Statisticalanalysis
+Xiaetal. PNAS u August28,2001 u vol.98 u no.18 u 10435
+YGOLOIBORUEN
+
+---PAGE BREAK---
+
+wasperformedbyANOVAfollowedbyTukey’sposthoctestto
+compare group means. In all analyses, the null hypothesis was
+rejected at the 0.05 level.
+Results
+InVitroInhibitionofMPP1-InducedJNKandc-JunPhosphorylation,
+Caspase Activation, and Cell Death Downstream from MKK4 by
+AdV-JBDGeneTransfer.IthasbeenreportedrecentlythatMPTP
+inducessequentialphosphorylationofJNKkinase(MKK4)and
+JNKinthesubstantianigraofmice(27).Aputativeinhibitorof
+MKK4, CEP1347yKT-7515, protected against MPTP toxicity
+(28). To confirm that these effects were caused by the active
+metaboliteofMPTP,MPP1,wetreatedtheneuroblastomacell
+lineSH-SY5YwithMPP1.InvitrotreatmentofSH-SY5Ycells
+with 5 mM MPP1 resulted in increased phosphorylation of
+MKK4,JNK,andc-Junat12h(Fig.1a,lane1)withoutaffecting
+thetotalexpressionofJNKorc-Jun(datanotshown).Totest
+whether MPP1 toxicity involves the sequential activation of
+caspases9and3,westudiedthecleavageofthesecaspases.We
+detected a cleavage of 46-kDa procaspase-9 to its 35-kDa
+intermediate and the p17 cleavage product of procaspase-3,
+indicating that caspases are processed and activated.
+Adenoviral vectors infect SH-SY5Y cells with high efficacy
+(22). To study the effects of JNK inhibition on MPP1-induced
+celldeath,weu
+
+Chunk 11:
+icity involves the sequential activation of
+caspases9and3,westudiedthecleavageofthesecaspases.We
+detected a cleavage of 46-kDa procaspase-9 to its 35-kDa
+intermediate and the p17 cleavage product of procaspase-3,
+indicating that caspases are processed and activated.
+Adenoviral vectors infect SH-SY5Y cells with high efficacy
+(22). To study the effects of JNK inhibition on MPP1-induced
+celldeath,weusedadenoviralvectorsencodingtheJBDofJIP-1
+(AdV-JBD). Almost 100% of SH-SY5Y cells expressed flag-
+taggedJBDat48hafterinfection(Fig.1bandc).Asexpected,
+JBDmigratedatanapparentmolecularmassof38kDa(Fig.1d).
+Expression of the JBD inhibited the MPP1-induced phosphor-
+ylationofJNK(p-JNK)andc-Jun(p-c-Jun)butdidnotaffectthe
+phosphorylation of MKK4 (Fig. 1a, lane 3). EGFP gene trans-
+fectionhadnosucheffect(Fig.1a,lane2).Further,ectopicJBD
+expressionattenuatedthecleavageofcaspases9and3(Fig.1a,
+lane 3). Treatment with 5 mM MPP1 for 30 h resulted in the
+death of 50% of SH-SY5Y cells as measured by trypan blue
+staining.EctopicexpressionofJBD,butnotofEGFP,resulted
+in protection from MPP1-induced cell death (Fig. 1e).
+MPTP Treatment of Mice Results in JBD-Insensitive MKK4 and JBD-
+Sensitive JNK, c-Jun, and Caspase Activation in SNpc. Delivery of
+adenoviral vectors to the striatum of mice infects a high per-
+centage(.90%)ofdopaminergicneuronsintheSNpcandleads
+to strong transgene expression in the SNpc as well as in the
+striatum (8). Accordingly, delivery of AdV-JBD to the left
+striatumledtoexpressionoftheJBDinneuronalandglialcells
+in the striatum (Fig. 2a) at 1 week after infection. A high
+percentage of dopaminergic neurons in SNpc expressed the
+flag-taggedJBD(Fig.2b),presumablyasaresultofretrograde
+axonaltransport.DoublelabelingforTHconfirmedthat’90%
+of the dopaminergic neurons were transfected. There was no
+JBD expression in the contralateral, noninjected hemisphere
+(Fig. 2c).
+Morphologicstudiessuggestthat‘‘chronic’’MPTPtreatment
+of mice leads to apoptosis of dopaminergic SNpc neurons
+(2
+
+Chunk 12:
+age of dopaminergic neurons in SNpc expressed the
+flag-taggedJBD(Fig.2b),presumablyasaresultofretrograde
+axonaltransport.DoublelabelingforTHconfirmedthat’90%
+of the dopaminergic neurons were transfected. There was no
+JBD expression in the contralateral, noninjected hemisphere
+(Fig. 2c).
+Morphologicstudiessuggestthat‘‘chronic’’MPTPtreatment
+of mice leads to apoptosis of dopaminergic SNpc neurons
+(29–31), whereas no apoptosis was found in an acute dosing
+regimen (10). Therefore, by using the paradigm of Tatton and
+Kish (9), we injected five times 30 mg/kg i.p. at 24-h intervals.
+MPTPtreatmentresultedinarobustincreaseofMKK4,JNK,
+andc-Junphosphorylationinthesubstantianigraofmiceat6h
+Fig.5. JBDpreventsMPTP-inducedlossofTH-positivecellsinSNpcand
+catecholaminesinthestriatum.Comparedwithcontrols(a),MPTPinducesa
+lossofTH-positiveneurons(b),whichisnotaffectedbypriortreatmentwith
+AdV-EGFP(c).AdV-JBDpreventsthelossofTH-positivecellsinSNpc(dande)
+andthereductionofcatecholamineconcentrationsinthestriatum(f).*,P,
+0.05and**,P,0.01,ascomparedwithMPTP-treatedmicethatpreviously
+receivedvehicleorAdV-EGFPinjectionsintothestriatum(n57–10).
+10436 u www.pnas.orgycgiydoiy10.1073ypnas.181182298 Xiaetal.
+
+---PAGE BREAK---
+
+after the second and third injection of 30 mg/kg MPTP. The activationisaproapoptoticsignalthattriggerscaspase-mediated
+increase was smaller after five MPTP injections (Fig. 2d). deathofdopaminergicneuronsinaninvitroandinvivomodel
+Corresponding to the in vitro observations in SH-SY5Y cells, ofneurodegeneration.BecauseJIP-1canbindtootherkinases
+AdV-JBD blocked JNK and c-Jun phosphorylation but, as involved in the JNK cascade, we used a fragment of the JIP-1
+expected, did not block MKK4 phosphorylation (Fig. 2d). molecule (residues 127–281), which encompasses a binding
+Next,westudiedthecellularexpressionofp-c-JuninMPTP domain (JBD) that interacts with JNK-1, -2, and -3 but is not
+toxicity by immunohistochemistry. We did not detect p-c-Jun involved in the binding of JIP-1 to up
+
+Chunk 13:
+lation but, as involved in the JNK cascade, we used a fragment of the JIP-1
+expected, did not block MKK4 phosphorylation (Fig. 2d). molecule (residues 127–281), which encompasses a binding
+Next,westudiedthecellularexpressionofp-c-JuninMPTP domain (JBD) that interacts with JNK-1, -2, and -3 but is not
+toxicity by immunohistochemistry. We did not detect p-c-Jun involved in the binding of JIP-1 to upstream effectors such as
+expression in dopaminergic neurons of untreated control ani- MKK7,DLK,MLK3,andHPK1(18,19).Inlinewiththesedata,
+mals (Fig. 3a). Because the Western blot showed the peak of weshowthattheMPTP-inducedactivationofJNKandc-Junbut
+c-Junphosphorylationat6hafterthethirdMPTPinjection,we not the activation of MKK4 was inhibited by JBD overexpres-
+used this time point for further immunohistochemical analysis. sion.WedemonstratethatinhibitionofJNKbyoverexpression
+MPTPtreatmentledtoasubstantialincreaseinthenumberof of the JBD protects neurons from apoptosis in vivo. Because
+p-c-Jun-positive cells in SNpc (Fig. 3b). Most of these cells apoptosishasnotonlybeenimplicatedinParkinson’sdiseasebut
+showed coexpression of TH (Fig. 3 c and d). In several cells, alsoinseveralotherneurodegenerativediseasesincludingAlz-
+p-c-Junexpressionwasdetectedinthenucleus.Atthesametime heimer’sdisease,Huntington’sdisease,andamyotrophiclateral
+pointafterMPTPtreatment,wedetectedexpressionofactivated sclerosis, inhibition of JNK may offer a treatment strategy for
+caspase-3inthecytosolofasubstantialnumberofdopaminergic several other neurological disorders. In contrast to a systemic
+neurons, by using an antibody specifically recognizing active treatment with inhibitors of JNK, a gene therapeutic approach
+caspase-3 (Fig. 4 a–-c). AdV-JBD, but not AdV-EGFP, com- will allow to target the inhibitor specifically to cells at risk by
+pletelypreventedMPTP-inducedcaspase-3activation(Fig.4d). choosing neuron- or even neuron subtype-specific promoters.
+ThesmallmoleculeCEP1347yKT-7515,aputativeinhibitorof
+
+Chunk 14:
+an antibody specifically recognizing active treatment with inhibitors of JNK, a gene therapeutic approach
+caspase-3 (Fig. 4 a–-c). AdV-JBD, but not AdV-EGFP, com- will allow to target the inhibitor specifically to cells at risk by
+pletelypreventedMPTP-inducedcaspase-3activation(Fig.4d). choosing neuron- or even neuron subtype-specific promoters.
+ThesmallmoleculeCEP1347yKT-7515,aputativeinhibitorof
+AdV-JBD Gene Transfer Protects Dopaminergic SNpc Neurons and the JNK pathway, is protective against MPTP toxicity (28).
+Striatal Catecholamine Concentrations from MPTP Toxicity in Mice. However, because CEP1347yKT-7515 prevents already the ac-
+When analyzed at 7 days after the last MPTP administration, tivationofMKK4(27)andhasneurotrophin-likeproperties,§the
+treatment with 30 mg/kg MPTP i.p. at 24-h intervals for five exactmechanismbywhichitprovidesprotectionagainstMPTP
+dosessignificantlyreducedthenumberofTH-positiveneurons toxicity remains unclear. In our experiments, the expression of
+in SNpc (Fig. 5 a, b, and e) and the concentrations of striatal the JBD did not block the activation of the upstream kinase
+dopamine,dihydrophenylaceticacid,andhomovanillicacid(Fig. MKK4butspecificallyblockedthephosphorylationofJNK.We
+5f).Treatmentwithacontrolvector,AdV-EGFP,didnotaffect present in vivo evidence that the inhibition of JNK by overex-
+thesurvivalofSNpcdopaminergicneurons(Fig.5cande)and pression of the JBD blocks the activation of caspases and the
+striatal dopamine, dihydrophenylacetic acid, and homovanillic death of dopaminergic neurons induced by MPTPyMPP1. In
+acid concentrations (Fig. 5f). In contrast, AdV-JBD was pro- addition,JBDexpressionalsoattenuatedthedecreaseofstriatal
+tectedfromtheMPTP-inducedlossofTH-positivecellsinthe catecholamine concentrations and resulted in behavioral
+SNpc(Fig.5dande)andstriatalconcentrationsofdopamine, changes indicating improved dopaminergic synaptic function.
+dihydrophenylacetic acid, and homovanillic acid (Fig. 5f). The Thisisofimportance
+
+Chunk 15:
+ig. 5f). In contrast, AdV-JBD was pro- addition,JBDexpressionalsoattenuatedthedecreaseofstriatal
+tectedfromtheMPTP-inducedlossofTH-positivecellsinthe catecholamine concentrations and resulted in behavioral
+SNpc(Fig.5dande)andstriatalconcentrationsofdopamine, changes indicating improved dopaminergic synaptic function.
+dihydrophenylacetic acid, and homovanillic acid (Fig. 5f). The Thisisofimportanceasadenovirus-mediatedoverexpressionof
+protective effects were restricted to the hemisphere of adeno- thecaspaseinhibitorXIAPonlyprotecteddopaminergicsomata
+virus injection and transgene expression and did not extend to in the substantia nigra and not their terminals from degenera-
+the contralateral hemisphere (Fig. 5 e and f). tion, resulting in a failure to rescue the depletion of cat-
+echolamines in the striatum (37–39). In terms of functional
+AdV-JBD Gene Transfer Results in Behavioral Changes. Following restoration, the inhibition of an upstream apoptotic signaling
+administration of D-amphetamine, all mice became more acti- cascadeseemstobesuperiortoaninhibitionoftheexecutionof
+vated. Over the 20-min test period, MPTP-treated mice with apoptosis.UsingthesameMPTPtreatmentparadigm,wehave
+priorintrastriatalinjectionofeitherPBS(n57)orAdV-EGFP
+shown recently that the loss of TH-positive SNpc neurons
+(n 5 7) were less active (22 6 2.5 and 29 6 4.6 turns in any correlates well with the loss of fluorogold-labeled SNpc cells
+direction,respectively)comparedwithcontrolmicethatdidnot with a nigrostriatal projection (37–39). Therefore, the MPTP-
+receiveMPTP(4562.9).Incontrast,micewithpriortransfer
+induceddecreaseofTH-positivecellsdoesnotmerelysignifya
+of AdV-JBD (n 5 8) turned significantly more (55 6 6.3; P ,
+decreaseofTHexpressionbuttrulycelldeathofdopaminergic
+0.05)thanmicewithintrastriatalinjectionofeitherAdV-EGFP
+neurons.
+orPBS.Thenetmotorasymmetrywascalculatedbysubtracting
+Inourstudyandinexperimentsreportedrecently(27),MPTP
+the number of full body turns per minute ipsilateral 
+
+Chunk 16:
+ransfer
+induceddecreaseofTH-positivecellsdoesnotmerelysignifya
+of AdV-JBD (n 5 8) turned significantly more (55 6 6.3; P ,
+decreaseofTHexpressionbuttrulycelldeathofdopaminergic
+0.05)thanmicewithintrastriatalinjectionofeitherAdV-EGFP
+neurons.
+orPBS.Thenetmotorasymmetrywascalculatedbysubtracting
+Inourstudyandinexperimentsreportedrecently(27),MPTP
+the number of full body turns per minute ipsilateral from the
+didnotalterthelevelsoftotalJNKandMKK4,butspecifically
+numberofturnscontralateraltotheintrastriatalinjectionside.
+induced changes in the phosphorylation state of the proteins
+AdV-EGFPyMPTP(20.260.3turns/min),PBSyMPTP(0.26
+(27).ThespecificroleoftheJNKsignalingpathwaydependson
+0.3turns/min),andPBSyPBS(0.260.2turns/min)treatedmice
+the cellular context. Activation of the JNK signaling pathway
+did not show a side bias in motor behavior. In contrast, the
+results in inactivation of antiapoptotic factors or activation of
+unilateralAdV-JBDtransfectedmiceshowedsignificantmotor
+proapoptotic factors by phosphorylation (13). As reviewed by
+asymmetrywithpreferentialturningawayfromthetransfected
+Davis(13),potentialmechanismsfortheinductionofapoptosis
+side(2.560.3turns/min,P,0.01ascomparedwithanyofthe
+through the JNK signaling pathway include the induction of
+other three control groups). CD95yFas-L, the phosphorylation of p53, c-myc, Bcl-2, and
+Bcl-x .Thefunctionalsignificanceofthesetargetshasremained
+Discussion L
+controversial.Inaddition,JNKactivationhasbeenreportedto
+Apoptosis and caspase-mediated cell death are thought to be
+inducecytochromecrelease(40)andtoactivatethecytochrome
+important mediators of neuronal death in acute and chronic
+c-mediated death pathway independent from death receptor
+neurodegenerativediseases,includingParkinson’sdisease(7,11, signaling (41). We show here that MPTPyMPP1 induced acti-
+12, 32, 33). JNKs are a subfamily of mitogen-activated protein
+vationofcaspases,anddeathofdopaminergiccellsismediated
+kinases. Although the functions of JNKs under physiolog
+
+Chunk 17:
+nt mediators of neuronal death in acute and chronic
+c-mediated death pathway independent from death receptor
+neurodegenerativediseases,includingParkinson’sdisease(7,11, signaling (41). We show here that MPTPyMPP1 induced acti-
+12, 32, 33). JNKs are a subfamily of mitogen-activated protein
+vationofcaspases,anddeathofdopaminergiccellsismediated
+kinases. Although the functions of JNKs under physiological
+conditionsarelargelyunknown,thereisincreasingevidencethat
+JNKs are potent effectors of apoptosis or degeneration of §Harris,C.A.,Deshmukh,M.,Maroney,A.&Johnson,E.M.,Jr.(2000)Soc.Neurosci.Abstr.
+neurons in vitro and in vivo (34–36). Here, we show that JNK 26,601(abstr.).
+Xiaetal. PNAS u August28,2001 u vol.98 u no.18 u 10437
+YGOLOIBORUEN
+
+---PAGE BREAK---
+
+byJNKsignaling.InhibitionofJNKactivationbyJBDblocksnot disruptionoftheJNK3genecausesdefectsinkainate-induced
+onlycelldeathbutalsothecleavageofcaspase-9andcaspase-3. apoptosis (35). The antibody used in this study detects the
+We find that the JNK signaling cascade converges on the phosphorylationofJNKswithamolecularsizeof54and46kDa
+phosphorylation of c-Jun. We further demonstrate the translo- corresponding to JNK2 and JNK1, respectively. This does not
+cation of p-c-Jun from the cytosol to the nucleus, which is in rule out that JNK3 is activated. Unfortunately, none of the
+agreement with its function as a nuclear transcription factor. antibodies we used proved to be specific for the detection of
+Ectopicexpressionofc-Junleadstoapoptosis,andantibodiesor JNK3 (data not shown).
+dominant-negativemutantsofc-Junprotectneuronalcellsfrom Because JBD overexpression attenuated not only the loss of
+trophic factor withdrawal-induced apoptosis (37–39). Primary dopaminergicneuronsinSNpcbutalsothelossofdopaminergic
+neuronsfrommicewithmutationsatthephosphorylationsites synapticmarkersinthestriatuminducedbyMPTP,inhibitionof
+ofc-Jun(serines63and73mutatedtoalanines)areresistantto theJNKtransductionpathwaymayprovideapromisingoppor-
+kainate-
+
+Chunk 18:
+m Because JBD overexpression attenuated not only the loss of
+trophic factor withdrawal-induced apoptosis (37–39). Primary dopaminergicneuronsinSNpcbutalsothelossofdopaminergic
+neuronsfrommicewithmutationsatthephosphorylationsites synapticmarkersinthestriatuminducedbyMPTP,inhibitionof
+ofc-Jun(serines63and73mutatedtoalanines)areresistantto theJNKtransductionpathwaymayprovideapromisingoppor-
+kainate-inducedneuronalapoptosis(42).Theactivationofc-Jun tunity to treat the progressive cell loss and the functional
+impairment in PD.
+ismediatedbyJNKsignaling.Dominant-negativeJNKmutants
+and MKK4 mutants block dopamine-induced apoptosis in stri-
+WethankSibylleHaidforexcellenttechnicalassistance.Theconstruct
+atalcultures(16).Invivo,activatedJNKhasbeenimplicatedas
+oftheFlag-taggedJNKbindingdomain(JBD)wasagenerousgiftofDr.
+amediatorofdopaminergicneuronaldeathinadevelopmental
+MartinDickens(UniversityofLeicester).Thisstudywassupportedby
+modeloftargetdeprivation-inducedapoptosis(43).Micelack- DeutscheForschungsgemeinschaftGrantSchu932y2-2(toJ.B.S.)and
+ing MKK4 or both JNK1 and JNK2 genes exhibit defects in grantsfromtheWellcomeTrustandSouthandWestNationalHealth
+developmental neuronal apoptosis (34, 36), whereas targeted ServiceResearchDevelopmentdirectorate(toJ.B.U.).
+1. Zhang,Y.,Dawson,V.L.&Dawson,T.M.(2000)Neurobiol.Dis.7,240–250. 26. West,M.J.(1999)TrendsNeurosci.22,51–61.
+2. deSilva,H.R.,Khan,N.L.&Wood,N.W.(2000)Curr.Opin.Genet.Dev.10, 27. Saporito, M. S., Thomas, B. A. & Scott, R. W. (2000) J. Neurochem. 75,
+292–298. 1200–1208.
+3. Beal,M.F.(1995)Ann.Neurol.38,357–366. 28. Saporito,M.S.,Brown,E.M.,Miller,M.S.&Carswell,S.(1999)J.Pharmacol.
+4. Jenner,P.&Olanow,C.W.(1998)Ann.Neurol.44,S72–S84. Exp.Ther.288,421–427.
+5. Honig,L.S.&Rosenberg,R.N.(2000)Am.J.Med.108,317–330. 29. Polymeropoulos,M.H.,Lavedan,C.,Leroy,E.,Ide,S.E.,Dehejia,A.,Dutra,
+6. Burke,R.E.&Kholodilov,N.G.(1998)Ann.Neurol.44,S126–S133. A.,Pike,B.,Root,H.,Rubenstein,J.,Boyer,R.,etal.(1997)Science276,
+7. Hartmann,A.,Hunot,
+
+Chunk 19:
+rown,E.M.,Miller,M.S.&Carswell,S.(1999)J.Pharmacol.
+4. Jenner,P.&Olanow,C.W.(1998)Ann.Neurol.44,S72–S84. Exp.Ther.288,421–427.
+5. Honig,L.S.&Rosenberg,R.N.(2000)Am.J.Med.108,317–330. 29. Polymeropoulos,M.H.,Lavedan,C.,Leroy,E.,Ide,S.E.,Dehejia,A.,Dutra,
+6. Burke,R.E.&Kholodilov,N.G.(1998)Ann.Neurol.44,S126–S133. A.,Pike,B.,Root,H.,Rubenstein,J.,Boyer,R.,etal.(1997)Science276,
+7. Hartmann,A.,Hunot,S.,Michel,P.P.,Muriel,M.P.,Vyas,S.,Faucheux,B.A.,
+2045–2047.
+Mouatt-Prigent,A.,Turmel,H.,Srinivasan,A.,Ruberg,M.,etal.(2000)Proc.
+30. Gasser,T.,Mu¨ller-Myhsok,B.,Wszolek,Z.K.,Oehlmann,R.,Calne,D.B.,
+Natl. Acad. Sci. USA 97, 2875–2880. (First Published February 25, 2000;
+10.1073ypnas.040556597) Bonifati,V.,Bereznai,B.,Fabrizio,E.,Vieregge,P.&Horstmann,R.D.(1998)
+Nat.Genet.18,262–265.
+8. Eberhardt,O.,vonCoelln,R.,Ku¨gler,S.,Lindenau,J.,Rathke-Hartlieb,S.,
+31. Leroy,E.,Boyer,R.,Auburger,G.,Leube,B.,Ulm,G.,Mezey,E.,Harta,G.,
+Gerhardt,E.,Haid,S.,Isenmann,S.,Gravel,C.,Srinivasan,A.,etal.(2000)
+J.Neurosci.20,9126–9134. Brownstein,M.J.,Jonnalagada,S.,Chernova,T.,etal.(1998)Nature(London)
+9. Tatton,N.A.&Kish,S.J.(1997)Neuroscience77,1037–1048. 395,451–452.
+10.Jackson-Lewis, V., Jakowec, M., Burke, R. E. & Przedborski, S. (1995) 32. Schulz, J. B., Weller, M. & Moskowitz, M. A. (1999) Ann. Neurol. 45,
+Neurodegeneration4,257–269. 421–429.
+11.Yuan,J.&Yankner,B.A.(2000)Nature(London)407,802–809. 33. Robertson,G.S.,Crocker,S.J.,Nicholson,D.W.&Schulz,J.B.(2000)Brain
+12.Mattson,M.P.(2000)Nat.Rev.Mol.Cell.Biol.1,120–129. Pathol.10,283–292.
+13.Davis,R.J.(2000)Cell103,239–252. 34. Yang,D.,Tournier,C.,Wysk,M.,Lu,H.T.,Xu,J.,Davis,R.J.&Flavell,R.A.
+14.Mielke,K.&Herdegen,T.(2000)Prog.Neurobiol.61,45–60. (1997)Proc.Natl.Acad.Sci.USA94,3004–3009.
+15.Basu,S.&Kolesnick,R.(1998)Oncogene17,3277–3285. 35. Yang,D.D.,Kuan,C.Y.,Whitmarsh,A.J.,Rincon,M.,Zheng,T.S.,Davis,
+16.Luo,Y.,Umegaki,H.,Wang,X.,Abe,R.&Roth,G.S.(1998)J.Biol.Chem. R.J.,Rakic,P.&Flavell,R.A.(1997)Nature(London)389,865–870.
+273,3756–3764. 3
+
+Chunk 20:
+Wysk,M.,Lu,H.T.,Xu,J.,Davis,R.J.&Flavell,R.A.
+14.Mielke,K.&Herdegen,T.(2000)Prog.Neurobiol.61,45–60. (1997)Proc.Natl.Acad.Sci.USA94,3004–3009.
+15.Basu,S.&Kolesnick,R.(1998)Oncogene17,3277–3285. 35. Yang,D.D.,Kuan,C.Y.,Whitmarsh,A.J.,Rincon,M.,Zheng,T.S.,Davis,
+16.Luo,Y.,Umegaki,H.,Wang,X.,Abe,R.&Roth,G.S.(1998)J.Biol.Chem. R.J.,Rakic,P.&Flavell,R.A.(1997)Nature(London)389,865–870.
+273,3756–3764. 36. Kuan,C.Y.,Yang,D.D.,SamantaRoy,D.R.,Davis,R.J.,Rakic,P.&Flavell,
+17.Dickens,M.,Rogers,J.S.,Cavanagh,J.,Raitano,A.,Xia,Z.,Halpern,J.R., R.A.(1999)Neuron22,667–676.
+Greenberg,M.E.,Sawyers,C.L.&Davis,R.J.(1997)Science277,693–696. 37. Estus,S.,Zaks,W.J.,Freeman,R.S.,Gruda,M.,Bravo,R.&Johnson,E.M.,
+18.Yasuda,J.,Whitmarsh,A.J.,Cavanagh,J.,Sharma,M.&Davis,R.J.(1999) Jr.(1994)J.CellBiol.127,1717–1727.
+Mol.Cell.Biol.19,7245–7254.
+38. Ham,J.,Babij,C.,Whitfield,J.,Pfarr,C.M.,Lallemand,D.,Yaniv,M.&
+19.Whitmarsh,A.J.,Cavanagh,J.,Tournier,C.,Yasuda,J.&Davis,R.J.(1998)
+Rubin,L.L.(1995)Neuron14,927–939.
+Science281,1671–1674.
+39. Xia,Z.,Dickens,M.,Raingeaud,J.,Davis,R.J.&Greenberg,M.E.(1995)
+20.Meyer,D.,Liu,A.&Margolis,B.(1999)J.Biol.Chem.274,35113–35118.
+Science270,1326–1331.
+21.Harding,T.C.,Geddes,B.J.,Murphy,D.,Knight,D.&Uney,J.B.(1998)Nat.
+40. Hatai,T.,Matsuzawa,A.,Inoshita,S.,Mochida,Y.,Kuroda,T.,Sakamaki,K.,
+Biotechnol.16,553–555.
+Kuida,K.,Yonehara,S.,Ichijo,H.&Takeda,K.(2000)J.Biol.Chem.275,
+22.vonCoelln,R.,Ku¨gler,S.,B¨ahr,M.,Weller,M.,Dichgans,J.&Schulz,J.B.
+(2001)J.Neurochem.77,263–273. 26576–26581.
+23.Brundin,P.,Isacson,O.,Gage,F.H.,Prochiantz,A.&Bjo¨rklund,A.(1986) 41. Tournier, C., Hess, P., Yang, D. D., Xu, J., Turner, T. K., Nimnual, A.,
+BrainRes.366,346–349. Bar-Sagi,D.,Jones,S.N.,Flavell,R.A.&Davis,R.J.(2000)Science288,
+24.Doucet,G.,Brundin,P.,Seth,S.,Murata,Y.,Strecker,R.E.,Triarhou,L.C., 870–874.
+Ghetti,B.&Bjo¨rklund,A.(1989)Exp.BrainRes.77,552–568. 42. Behrens,A.,Sibilia,M.&Wagner,E.F.(1999)Nat.Genet.21,326–329.
+25.Srinivasan,A.,Roth,K.A.,Sayers,R.O.,Shindler,K.S.,Won
+
+Chunk 21:
+Hess, P., Yang, D. D., Xu, J., Turner, T. K., Nimnual, A.,
+BrainRes.366,346–349. Bar-Sagi,D.,Jones,S.N.,Flavell,R.A.&Davis,R.J.(2000)Science288,
+24.Doucet,G.,Brundin,P.,Seth,S.,Murata,Y.,Strecker,R.E.,Triarhou,L.C., 870–874.
+Ghetti,B.&Bjo¨rklund,A.(1989)Exp.BrainRes.77,552–568. 42. Behrens,A.,Sibilia,M.&Wagner,E.F.(1999)Nat.Genet.21,326–329.
+25.Srinivasan,A.,Roth,K.A.,Sayers,R.O.,Shindler,K.S.,Wong,A.M.,Fritz, 43. Oo,T.F.,Henchcliffe,C.,James,D.&Burke,R.E.(1999)J.Neurochem.72,
+L.C.&Tomaselli,K.J.(1998)CellDeathDiffer.5,1004–1016. 557–564.
+10438 u www.pnas.orgycgiydoiy10.1073ypnas.181182298 Xiaetal.
+
+---PAGE BREAK---
+
+
+

@@ -1,0 +1,1142 @@
+REVIEWS
+Dynamin, a membrane-remodelling
+GTPase
+Shawn M. Ferguson1,2 and Pietro De Camilli1–4
+Abstract | Dynamin, the founding member of a family of dynamin-like proteins (DLPs)
+implicated in membrane remodelling, has a critical role in endocytic membrane fission
+events. The use of complementary approaches, including live-cell imaging, cell-free studies,
+X-ray crystallography and genetic studies in mice, has greatly advanced our understanding
+of the mechanisms by which dynamin acts, its essential roles in cell physiology and the
+specific function of different dynamin isoforms. In addition, several connections between
+dynamin and human disease have also emerged, highlighting specific contributions of this
+GTPase to the physiology of different tissues.
+Endocytosis, the process through which cells internal­ understanding only of how dynamin is recruited and
+Synaptic vesicles
+Small (~40 nm in diameter) ize portions of their plasma membrane along with then acts at fission sites for clathrin­mediated endo­
+vesicles within neuronal extracellular material, is fundamentally important in cytosis. In this Review, we discuss how complementary
+presynaptic terminals that cell physiology. Endocytosis counterbalances the con­ experimental approaches have greatly increased our
+store and release
+tinuous delivery of new membrane to the cell surface understanding of dynamin’s action. We also highlight
+neurotransmitter.
+by exocytosis, regulates the abundance of proteins in how this information has been further enhanced by
+the plasma membrane, controls the signalling output new insights into the function and mechanistic action
+of receptors, mediates cellular uptake of nutrients and of dynamin­like proteins (DLPs).
+is also exploited by pathogens to enter cells. To sup­
+port these various functions, multiple molecularly and The discovery of dynamin
+morphologically distinct forms of endocytosis, both Dynamin was originally identified as a GTPase that
+constitutiv e and regulated, operate in all cells1–4. co­purified with brain microtubules6,9. Its role in endo­
+Generation of an endocytic vesicle requires the cytosis was revealed only subsequently, when the muta­
+recruitment of various proteins from the cytosol that tions responsible for the temperature­sensitive paralytic
+orchestrate the bending inward of the plasma membrane phenotype of Drosophila melanogaster shibire mutants
+to form a deeply invaginated bud and subsequently were mapped to the dynamin gene7,8. In these mutants,
+promote its fission. One such protein that directly par­ paralysis results from the neuronal activity­dependent
+1Department of Cell Biology,
+ticipates in the fission reaction is the GTPase dynamin, depletion of synaptic vesicles, which is accompanied by
+Yale University School of
+Medicine.2Program in the founding member of a family of GTPases that have the accumulation of arrested ‘collared’ endocytic pits
+Cellular Neuroscience, diverse roles in membrane­remodelling events through­ at the presynaptic plasma membrane5. Subsequent studie s
+Neurodegeneration and out the cell (FIG. 1). The role of dynamin in endocytosis revealed that similar collared pits formed at mamma­
+Repair, Yale University School
+has now been investigated for more than 20 years5–8. lian presynaptic plasma membranes upon exposure to
+of Medicine.3Kavli Institute
+for Neuroscience, A considerable amount of evidence indicates that GTP­γS, a slowly hydrolysable GTP analogue, and that
+Yale University School of dynamin assembles into helical polymers at the necks of they contained oligomeric assemblies of dynamin10. The
+Medicine.4Howard Hughes budding vesicles and that its GTP hydrolysis­dependent assembly of helical dynamin polymers either in solution11
+Medical Institute,
+conformational change promotes fission of the under­ or on membrane templates was additionally reconstituted
+Yale University School of
+Medicine, New Haven, lying tubular membrane to generate a free endocytic with the purified protein11 (FIG. 2e). Further investigations
+Connecticut 06510, USA. vesicle (FIG. 2). However, several aspects of its func­ in non­neuronal cells showed that dynamin is a general
+e‑mails: tion, its precise mechanisms of action and the specific component of clathrin­coated endocytic pits and that its
+shawn.ferguson@yale.edu; roles of multiple dynamin isoforms in mammalian cells GTPase activity is important for endocytosis: dynamin
+pietro.decamilli@yale.edu
+have remained elusive. Furthermore, although multiple mutants with impaired GTP binding (such as the com­
+doi:10.1038/nrm3266
+Published online dynamin­dependent and dynamin­independent endo­ monly used Lys44Ala mutant) and/or hydrolysis cycles
+11 January 2012 cytic pathways have been described, we have a good have dominant­negative effects on endocytosis12–15.
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 75
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+Membrane ruffles Endosymbiotic origin and that additional studies are required to fully address the
+Actin
+Dynamin of mitochondria issue of redundancy between dynamin isoforms.
+Ancient bacterium
+Actin pedestal Dynamin A family of DLPs
+E C Clathrin- Nucleus The dynamins are the founding members of a family
+E P Endosomal coated pit of GTPases known as the DLPs, the members of which
+actin comet Caveolae participate in membrane remodelling (FIG. 1; TABLE 1)
+ER
+and share basic features of domain organization (BOX 1).
+DRP1 They also have similar catalytic mechanisms and modes
+Atlastin of action that differ from those of the RAS superfamily
+Nucleus
+of regulatory GTPases. The G domains of DLPs undergo
+Mitochondrion OPA1
+nucleotide­dependent dimerization and dimer­dependent
+GTP hydrolysis29–32. G domain dimerization reciprocally
+Mitofusin
+induces structural rearrangements in the catalytic centre
+of the partner DLP, which stimulate GTP hydrolysis33.
+Podosomes and invadopodia Clathrin-coated pit
+In contrast to small regulatory GTPases of the RAS family,
+Figure 1 | Sites of action of dynamin and DLPs in a mammalian cell. Dynamin is DLP family GTPases have low affinity for nucleotides and
+localized at sites of endocytosis. It is also found atN aacttuinre m Reesvhiwewosrk |s M noulcelecuatlaerd C beyl tlh Bei ology
+do not require separate GAPs and GEFs (GTPase­activating
+actin-related protein 2/3 (ARP2/3) complex, such as membrane ruffles, podosomes and
+proteins and guanine nucleotide exchange factors), as
+invadopodia, and at actin pedestals induced by pathogenic bacteria (such as
+they load spontaneously with GTP and have intrinsic
+enteropathogenic Escherichia coli (EPEC)). Other dynamin-like proteins (DLPs), including
+mechanisms for stabilizing the transition state during
+atlastin, dynamin-related protein 1 (DRP1), optic atrophy 1 homologue (OPA1) and
+mitofusin, localize to sites of intracellular membrane fission and fusion in the endoplasmic GTP hydrolysis29. In the case of dynamin, GTP hydroly­
+reticulum (ER), mitochondria and peroxisomes (not shown). The possible endosymbiotic sis is thought to be supported by a sodium or potassium
+origin of mitochondria and peroxisomes (that is, their formation by the endocytosis of ion within the active site30. In other DLPs, divergent
+an ancient bacterium) may explain the role of a DLP in the fission of these organelles. mechanisms are used to stabilize the transition state.
+However, the lack of a requirement for additional GAP
+proteins, and the importance of G domain dimerizatio n,
+Three dynamin isoforms in mammals is conserve d within the DLP family.
+Mammalian genomes contain three dynamin genes16. Furthermore, whereas the GTP binding and hydrolysis
+The proteins encoded by these genes share the same cycle of regulatory GTPases mediates the recruitment and
+domain organization and 80% overall homology, but release of effector proteins, the cellular function of DLPs
+they have distinct expression patterns. Dynamin 1 is is tightly coupled to the dimerization of their G domains
+selectively expressed at high levels in neurons and is gen­ and, at least for some of them, to their polymeriza­
+SRC homology 3 domain erally not present in non­neuronal tissues17,18, although tion29,31,32,34,35. The conformational changes produced by
+(SH3 domain). A domain that it can be detected in many cultured cell lines19,20. GTP binding and hydrolysis in the G domain of DLPs
+mediates protein–protein Dynamin 2 is expressed ubiquitously17,21. Dynamin 3 is are transduced into a movement relative to adjacent
+interactions and binds
+found predominantly in the brain (at much lower levels domains36–38 that, when propagated along the polymer,
+Pro-containing short amino
+acid motifs. This domain is than dynamin 1) and testis, and at lower levels in some is expected to produce a force on membranes31,32. Thus,
+frequently found in proteins tissues, such as the lung16,17,22. Dynamin diversity is com­ for dynamin, the cycle of GTP loading and hydrolysis
+involved in signalling, pounded by the existence of multiple splice variants for is intimately coupled to its membrane­fission activity
+endocytosis and actin
+each of the three dynamins16. (FIG. 2d). This explains why mutations in dynamin that are
+regulation.
+Invertebrates, such as Caenorhabditis elegans and designed to lock it into a GTP­bound state do not result
+GAPs and GEFs D. melanogaster, possess only a single dynamin gene7,23. So, in the constitutive activation of endocytosis15, in contrast
+(GTPase-activating proteins the existence of three dynamin genes in mammals could to the persistent activity exhibited by regulatory GTPases
+and guanine nucleotide
+in principle reflect differences between the ‘housekeeping’ that harbour equivalent mutations.
+exchange factors). GAPs
+role of dynamin in clathrin­mediated endocytosis, which is
+promote GTP hydrolysis
+by GTPases, whereas GEFs mediated by dynamin 2, and the specialized forms of endo­ Domain organization of dynamin
+displace the GDP generated by cytosis in cells that additionally express dynamin 1 and/or On the basis of its primary sequence, dynamin, a cyto­
+the reaction, thus allowing the dynamin 3. In addition, this triplication of the dynamin solic protein, has typically been described as comprisin g:
+next cycle of GTP binding and
+gene during evolution may be partly explained by a need an amino­terminal G domain; a ‘middle’ or ‘stalk’
+hydrolysis to proceed.
+to fine­tune overall dynamin levels in specific tissues. region; a pleckstrin homology domain (PH domain); a
+Pleckstrin homology Different dynamin isoforms have some unique protein– GTPase effector domain (GED), so called because of
+domain protein interactions24–27. However, most of the differences its interactions with the G domain39; and a Pro­rich
+(PH domain). These domains
+between isoforms are quantitative rather than qualitative; c arboxy­termina l region, typically referred to as the Pro­
+often contain binding sites
+these include affinities for SRC homology 3 domain (SH3 rich domain (PRD)16 (FIG. 2a). More recently, informa­
+for phosphoinositides (most
+typically phosphatidylinositol- domain)­containing proteins22, rates of GTPase activity, tion about the structures of dynamin and DLPs30,34,36,37,
+4-phosphate and phosphatidyl- oligomerization efficiency and lipid­binding properties28. including the crystal structure of dimers of nearly full­
+inositol-4,5-bisphosphate) and Nonetheless, a recent report stating that differences in the length dynamin (lacking only the PRD)31,32 have allowed
+thus help target proteins to
+lipid­binding characteristics of dynamin 1 and dynamin 2 for a modified definition of dynamin domains that bette r
+specific membranes. However,
+they can also function in cause robust differences in their membrane­fission activ­ reflects the predicted three­dimensional hairpin­like
+protein–protein interactions. ity28 indicates that this remains an area of active research folding of the full­length protein (FIG. 2a,b).
+76 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+Nature Reviews | Molecular Cell Biology
+kceN kceN kceN
+REVIEWS
+a Dynamin 1 The G domain and BSE. The G domain sits on a helical
+GTPase Middle PH GED PRD bundle, known as the bundle signalling element (BSE)30
+or neck40, which is formed by three helices derived from
+G domain ‘Stalk’ ‘Foot’ ‘Stalk’ PRD sequences at the N­terminal and C­terminal sides of the
+1 301 520 627 751 864 G domain and from the C­terminal region of the GED,
+respectively (FIG. 2). Consistent with the idea that this
+region of the GED is in close physical proximity with,
+and is functionally linked to, the G domain, a screen for
+suppressor mutations of a mutation in the G domain
+of D. melanogaster dynamin identified a mutation
+within the GED C terminus41. The BSE is followed by
+a stalk, which is composed of helices from the middle
+domain and the N­terminal region of the GED30–33, and
+a PH domain42, which forms the vertex or ‘foot’ of the
+stalk hairpin and binds membranes. The PRD, which
+is expected to be unfolded, emerges at the boundary
+b G domain GTP e
+Neck between the BSE and the G domain, most likely project­
+1 ing away from the membrane, where it might interact
+2 2
+‘Stalk’ 90° with other proteins.
+‘Foot’
+3
+Dimerization through the stalk. The stalk of dynamin
+dimerizes in a cross­like fashion (FIG. 2a,b) to yield a
+c
+dynamin dimer in which the two G domains are oriented
+in opposite directions30–33 (FIG. 2b). This dimer is the basic
+dynamin unit and is different from the additional dimer­
+ization interface that is generated by the interaction of two
+G domains (FIG. 2b,c), which is discussed below.
+Phospholipid association through the PH domain. The
+PH domain binds acidic phospholipids in the cytosolic
+leaflet of the plasma membrane, and phosphatidyl­
+d inositol­4,5­bisphosphate (PtdIns(4,5)P) in particular,
+2
+via a positively charged surface at the foot of the dynamin
+hairpin42,43. PH­domain mutants that impair phospho­
+inositide binding exert dominant­negative effects on
+clathrin­mediated endocytosis44,45. The binding between
+Polymerization of GTP-dependent dimerization of Membrane fission the isolated dynamin PH domain and phosphoinositides
+dynamin helix G domains, GTP hydrolysis and is of very modest affinity (>1 mM), but this membrane
+resulting membrane constriction interaction is strengthened by charge­dependent asso­
+Figure 2 | Structure of dynamin and putative mechanism of dynamin-mediated ciation with other negatively charged phospholipids
+membrane fission. a | Linear representation of the domain organization of dynamin and by avidity afforded by dynamin polymerization43–46.
+based on its three-dimensional structure, as revealed by crystallographic studies A hydrophobic loop emerging from the PH domain
+(numbers indicate amino acid position within the primary sequence of the human may promote membrane interactions and may also have
+dynamin 1 xa splice variant). Regions that belong to the same folded module are shown
+curvatur e­generatin g or ­sensing properties28,47.
+in the same colour. The crystal structure of a dynamin dimer is shown below (minus the
+PRDs, which are thought to be unfolded), and is colour-coded to match the linear
+Coordinating dynamin function through the PRD. The
+representation (created with PyMOL (Schrödinger); Protein Data Bank code 3SNH31).
+PRD contains an array of PXXP amino acid motifs, which
+b | Schematic representation of dynamin dimers and of helical dynamin polymers around
+a tubular template in two different orientations (with 90° rotation between them). The interact with many SH3 domain­containing proteins
+colour-coding of the domains matches the colours in part a (minus the PRDs, which are (see Supplementary information S1 (table)) to localize
+thought to project out of the polymerized helix). The approximate location of the bound dynamin at endocytic sites and coordinate dynamin’s
+nucleotide is highlighted in yellow (small circles). Dynamin polymerization occurs as a function with these other factors during endocytosis48–51.
+result of interactions between the ‘stalks’ of dynamin monomers (interface 2) and between Accordingly, dynamin lacking the PRD cannot rescue
+stalk dimers (interfaces 1 and 3). The GTP-dependent dimerization of G domains between endocytic defects in dynamin­knockout fibroblasts19.
+adjacent rungs of the dynamin helix (highlighted by yellow stars in the longitudinal view
+The PRD–SH3 interactions are typically of moderate
+of the helix), is thought to promote assembly-stimulated GTPase activity, resulting in
+affinity, but the presence of multiple SH3­binding motifs
+membrane constriction and ultimately fission. c | Proposed GTP hydrolysis-dependent
+in the PRD and multiple SH3 domain­containing pro­
+lever-like movement of dynamin’s neck (the bundle signalling element), relative to the
+teins at endocytic sites, as well as the polymeric state of
+G domain. d | Schematic view of these key steps leading to dynamin-mediated membrane
+fission. e | Cryo-electron microscopy image showing a helical polymer of purified dynamin these proteins, results in a significant avidity effect, which
+that has driven the formation of a tubule from a liposome. GED, GTPase effector domain; enhances the ability of such interactions to concentrate
+PH, pleckstrin homology; PRD, Pro-rich domain. Image in part e courtesy of A. Frost, dynamin. At least some interactions of the dynamin PRD
+University of Utah, USA, and V. Unger, Northwestern University, USA. are regulate d by phosphorylation48.
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 77
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+Table 1 | Diverse roles for DLPs at membrane interfaces
+DLPs Organisms Subcellular localization and Functions Refs
+sites of action
+Classical dynamins Animals Endocytic sites in the plasma Endocytic membrane fission; regulation of –
+membrane; ARP2/3-containing ARP2/3-dependent actin dynamics
+actin meshworks
+DRP1 Animals Mitochondrial outer membrane; Mitochondrial fission; peroxisome division 159–162
+peroxisomes
+Mitofusin Animals Mitochondrial outer membrane Mitochondrial fusion 159–162
+OPA1 Animals Mitochondrial inner membrane Mitochondrial fusion 159–162,
+188
+Atlastin Animals ER Fusion of ER membranes 167,168,
+189
+Myxovirus resistance Animals ER Antiviral 169,190
+proteins
+Guanylate-binding proteins Animals Intracellular vesicles Defence against viral and bacterial pathogens 170,191,192
+Phragmoplastin Plants Cell plate Cell division 171
+ARC5, ADL Plants Chloroplast Chloroplast fission 193,194
+Vps1 Fungi Endosomes; plasma membrane? Membrane fission 98,195
+Bacterial DLP Cyanobacteria Integral membrane protein Membrane fusion? 40
+ARC5, ACCUMULATION AND REPLICATION OF CHLOROPLASTS 5; ARP2/3, actin-related protein 2/3; DLPs, dynamin-like proteins; DRP1, dynamin-related
+protein 1; ER, endoplasmic reticulum; OPA1, optic atrophy 1 homologue; Vps1, vacuolar protein sorting-associated 1.
+Coordinating polymerization and activity and minimal systems based on purified dynamin and
+Purified dynamin spontaneously polymerizes into artificial lipid bilayers55,56,61–63. Models derived from these
+rings and helices when incubated in solutions with low experiments have suggested that, when dynamin has
+ionic strength11 or in the presence of narrow negatively polymerized around the neck of an endocytic bud (or a
+charged tubular templates (such as membrane tubules, tubular membrane template in vitro), its GTP hydrolysis­
+microtubules or actin bundles)6,52–54. It can also tubu­ dependent structural reorganization triggers constriction
+late membrane bilayers under appropriate conditions by (in the ‘twistase’ and/or ‘constrictase’ models) or stretch­
+forming a continuous membrane coat around them10,55–57. ing (in the ‘poppase’ model) to promote membrane fission
+Dynamin polymerization resulting from the apposition (FIG. 2b). Importantly, cell­free studies have shown that
+of dimers via stalk–tip interactions (FIG. 2b; interfaces 1 purified dynamin alone can cut synthetic lipid tubules
+and 3) occurs an angle that determines the diameter of the in the presence of GTP55,56,61,63. Thus, although other fac­
+ring31,32. The tetrameric form of dynamin, which can be tors may assist the action of dynamin in vivo, dynamin is
+abundant in solution58, may be an intermediate in higher­ sufficien t to mediate membrane fission.
+order assembly34,38. Thus, the stalks form the core of the Recent crystallographic and cryo­electron micros­
+ring, whereas the BSE and G domains of each dimer pro­ copy (cryo­EM) studies of dynamin and DLPs have
+ject towards the adjacent rungs of the dynamin helix31,32 offered important new clues about how dynamin
+(FIG. 2b). It follows that G domain dimerization, which is works. First, the demonstration that dynamin belongs
+critical for GTP hydrolysis and for dynamin function, can to the superfamily of G proteins activated by nucleotide­
+only occur across adjacent rungs (FIG. 2b), which explains dependent dimerization (GADs)29 strongly argues
+the robust stimulation of dynamin’s GTPase activity upon against the possibility that GTP­bound dynamin may
+polymerization54. A similar overall domain organization function by recruiting another effector39. Second, as
+and mode of polymerization is predicted to be shared by G domain dimerization is critical for GTPase activ­
+all DLPs implicated in membrane fission59. However, the ity29,30,59,61,64 and requires interactions between adjacent
+module that binds the membrane in these other proteins rungs of the dynamin helix30 (FIG. 2b), dynamin’s action
+is divergent from dynamin, and the PRD is replaced by requires, at a minimum, a polymer that wraps around a
+sequences with different binding properties. Such diver­ membrane template to connect to the next rung. Third,
+gence probably reflects the different mechanisms that studies of dynamin and of the DLP atlastin suggest that
+recruit different DLPs to membranes and may speak GTP hydrolysis by a G domain dimer leads to a promi­
+against a key role of the PRD and the PH domain in the nent lever­like movement of the adjacent domain, the
+mechanics of fission. BSE in the case of dynamin36–38 (FIG. 2c). Such a move­
+ment could constrict the dynamin helix when propa­
+Membrane fission by the dynamin helix gated along its subunits. As this movement is triggered
+The mechanisms by which dynamin drives membrane fis­ by the interaction of G domains on adjacent rungs of
+sion have been the subject of intense debate and have been a helix, it could produce a coordinated rotational slid­
+analysed in living cells12,15,44,54, broken­cell preparations10,60 ing of one rung on the next, which is consistent with
+78 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+dynamin­mediated membrane fission. For example, the
+Box 1 | A family of DLPs
+relative contributions of G domain dimerization versus
+Dynamins are the founding members of a family of GTPases known as the dynamin-like subsequent GTP hydrolysis in the constriction and fis­
+proteins (DLPs), the members of which share basic features of domain organization and
+sion of membranes remain undefined. Furthermore, GTP
+roles in membrane remodelling (FIG. 1). Within this family, some proteins act similarly to
+hydrolysis may not only produce a power stroke but also
+dynamin in mediating membrane fission. For example, dynamin-related protein 1
+contribute to membrane destabilization by inducing helix
+(DRP1) is important for the fission of mitochondria and peroxisomes159–162. Others are
+disassembly.
+more distant members and mediate homotypic membrane fusion159–162. These include
+mitofusin, which controls the fusion of mitochondrial outer membranes, optic atrophy 1
+homologue (OPA1), which is important for inner mitochondrial membrane fusion, and Additional factors cooperating in fission. Although
+atlastin, which mediates the fusion of endoplasmic reticulum membranes159–162,167,168. dynamin alone can constrict and cut lipid tubules, the con­
+Also included in this family, on the basis of their structure and assembly properties, striction of the dynamin ring in vivo is likely to be assisted
+are the antiviral, interferon-inducible myxovirus resistance proteins9,169 and or regulated by other factors to achieve fission (FIG. 3).
+guanylate-binding proteins170, whose precise functions remain unknown. Plant DLPs These include: membrane tension generated by actin,
+control membrane traffic during cell plate formation in cytokinesis171 and mediate either via its polymerization or via myosin motors55,61,67,68;
+chloroplast division172,173. A bacterial DLP implicated in membrane remodelling has also
+a heterogeneous distribution of lipids on the two sides of
+been identified and structurally characterized40,172. Additionally, although differing
+the constriction, contributing to line tensio n69; enzymatic
+from the DLPs in that they are ATPases rather than GTPases, the EPS15 homology
+degradation of PtdIns(4,5)P, leading to catastrophic dis­
+domain-containing (EHD) proteins share structural similarities and are also implicated 2
+in membrane remodelling174. sociation of dynamin and other endocytic factors after
+Mutations in DLPs other than dynamin, and more specifically in DLPs that affect GTP hydrolysis70; and the partial destabil ization of the
+mitochondrial and endoplasmic reticulum dynamics, have been identified as causes of bilayer by neighbouring lipid­bindin g proteins, such
+inherited diseases. These include mutations in OPA1 (inducing optic atrophy type 1)175, as proteins containing Bin–amphiphysin–Rvs (BAR)
+mitofusin 2 (leading to Charcot–Marie–Tooth disease type 2A)176, atlastin (resulting domains71. The potential role of BAR domain­containing
+in hereditary spastic paraplegia)177 and DRP1 (generating lethal perinatal defects in proteins has acquired interest with the realization that the
+mitochondria and peroxisome fission)178.
+GTPase activity of dynamin involves interactions between
+dynamin rungs because the intercalation of BAR domains
+between rungs could hinder such an interaction71–73 and
+the reported twisting of dynamin­coated tubules during thus potentially inhibit dynamin’s action. Cryo­EM
+GTP hydrolysis55. However, in principle, such movement studies aimed at elucidating the precise organizational
+could also simply constrict the tubule by producing a relationship between dynamin rings and BAR domain
+structural change in the ring without any rotation32. proteins should help to determine the contribution that
+Surprisingly, however, if a dynamin helix has been this makes.
+assembled in the absence of hydrolysable GTP, sub­
+sequent GTP loading and hydrolysis does not necessarily A key component of clathrin-coated pits
+trigger fission, possibly because a long dynamin coat can Dynamin may contribute to multiple forms of endo­
+function as a stabilizing scaffold55,61,62. In cell­free systems, cytosis, but its action is best understood in the context
+efficient fission of lipid tubules occurs optimally under of clathrin­mediated endocytosis12–14,17,19,20,22,67,74 (FIG. 3).
+conditions in which dynamin polymerization occurs in During the formation of endocytic buds (FIG. 3), a
+the presence of GTP, allowing rapid coupling between subse t of scaffold proteins (such as FCH domain only 1
+dynamin assembly, GTP hydrolysis and polymer disas­ (FCHO1), epidermal growth factor receptor substrate 15
+sembly56,61,63. Under these conditions, fission is proposed (EPS15) and intersectin)67,75 and clathrin adaptors (for
+to result from the membrane destabilization that is pre­ example, the adaptor protein 2 (AP2) complex, AP180
+dicted to occur when the constricted ring disassembles and its homologue clathrin assembly lymphoid myeloid
+(FIG. 2d). A long, continuous dynamin helix may be less leukaemia (CALM; also known as PICALM) and epsin)
+efficient in promoting fission because it lacks a focal are first recruited to the PtdIns(4,5)P­rich plasma mem­
+2
+point for constriction or has less efficient subunit disso­ brane, coincident with the binding of some of these pro­
+ciation. In fact, taking into consideration bulk cytoplas­ teins to endocytic sorting motifs of integral membrane
+mic GTP concentrations of ~2 mM versus the binding proteins1,76. Such components cluster cargo, induce
+affinity of dynamin for GTP (K = ~1 μM)65, dynamin membrane curvature and also have actin­nucleating
+d
+oligomerizing into helices should be in a predominantly properties1,76. The coat subsequently grows through the
+GTP­bound state and be poised to hydrolyse GTP and assembly of the clathrin lattice, which, through positive
+disassemble quickly when the G domains of one turn can feedback, recruits additional cargo adaptors and endo­
+dimerize with the G domains of the next turn. Under cytic factors1,76,77. Dynamin also slowly accumulates
+some physiological conditions, local regulation of GTP around the growing pit67. Deep invagination of the bud
+levels probably contributes to proper dynamin function, and formation of a narrow neck, which is often assisted
+as mutations in the nucleoside diphosphate kinase gene, by a burst of actin polymerization19,78, involves the
+Line tension which helps maintain such levels, make synapses more recruitment of BAR domain­containing proteins, sever al
+A force that acts to minimize sensitive to dynamin mutations66. of which bind dynamin as well as the PtdIns(4,5)P
+2
+the length of the energetically Although there have been important advances in phosphatase synaptojanin19,72,73,79 (BOX 2; FIG. 3; see
+unfavourable interface
+our understanding of the structure of dynamin, we have Supplementary information S1 (table)). It is at this
+between adjacent membrane
+domains of different much to learn about how conformational changes pro­ point that dynamin rapidly accumulates at bud necks to
+composition. duced by the GTP hydrolysis cycle of dynamin relate to mediat e fission67,80 (FIG. 3).
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 79
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+b
+Nature Reviews | Molecular Cell Biology
+tip
+ta
+ecnadnubA
+REVIEWS
+a + Dynamin high­avidity affinity matrix71; see Supplementary infor­
+mation S1 (table)); and actin, which can directly bind
+dynamin85 (FIG. 3). The coinciding accumulation of BAR
+proteins, actin and dynamin at late stages of endocyto­
+sis67,80, which is consistent with feed­forward mechanisms,
+Dynamin Endophilin is particularly striking (FIG. 3b).
+The sequence of events underlying clathrin­mediated
+Clathrin- endocytosis is evolutionarily conserved, as this process
+coated pit shows mechanistic similarity to endocytosis at actin
+N-WASP,
+ARP2/3, actin – Dynamin patches in yeast86,87. Surprisingly, however, there are
+mixed reports as to whether the closest yeast homologue
+of dynamin, vacuolar protein sorting­associated 1 (Vps1),
+Membrane fission does88,89 or does not86,90 participate in actin patch endo­
+Dynamin cytosis, questioning how essential dynamin is for clathrin­
+Clathrin coat mediated endocytosis. It is possible that unique properties
+Actin of the yeast plasma membrane, for example tension and/ or
+Endophilin the presence of a cell wall, explain this difference91.
+Dynamin in other endocytic pathways
+Endocytosis can also occur without clathrin, and dynamin
+has been implicated in some clathrin­independent endo­
+cytic pathways (FIG. 1). For example, a role for dynamin
+–80 –60 –40 –20 0 20 40 60 80 in caveolin­dependent internalization has been sug­
+t (s)
+gested, and both dynamin and actin were transiently
+Figure 3 | Dynamin and clathrin-mediated endocytosis. a | The putative sequence
+detected at caveolae, coincident with their fission from
+of events in the action of clathrin adaptors, actin, Bin–amphiphysin–Rvs (BAR)
+the plasma membrane92,93. However, the dynamics and
+domain-containing proteins and dynamin at clathrin-coated endocytic pits, as revealed
+by studies of cells that lack dynamin (dynamin 1 and dynamin 2 double-knockout function of dynamin at caveolae remain largely undefined.
+fibroblasts)19. Lack of dynamin results in an arrest of the endocytic reaction at the stage Surprisingly, the absence of dynamin is accompanied by
+of deeply invaginated pits and in the actin-dependent elongation of their BAR a loss of caveolae and of their core component caveolin 1,
+domain-containing protein-coated tubular necks (lower-right electron microscopy (EM) rather than by the increase in caveolae abundance that
+micrograph). When actin is depolymerized (for example, through latrunculin B might be expected if dynamin were required for their fis­
+treatment), clathrin-coated buds collapse to Ω-shaped pits with short, wide necks sion19. Thus, it is not yet clear whether dynamin has a key
+(upper-left EM micrograph). The fluorescence micrograph shows tubulated endocytic
+role during the endocytic fission of caveolae.
+clathrin-coated pits in dynamin 1 and dynamin 2 double-knockout fibroblasts, as
+With respect to clathrin­ and caveolin­independent
+revealed by live-cell imaging of the BAR domain-containing protein endophilin 2,
+endocytic pathways, evidence for a role of dynamin is,
+which was labelled with green fluorescent protein (tubular neck), and of clathrin
+in many cases, primarily dependent on approaches using
+light chain, which was labelled with red fluorescent protein. b | Schematic timeline
+showing the accumulation of endocytic proteins at endocytic pits. The zero time dominant­negative mutants (which may exert indirect
+represents the fission reaction, as determined by the loss of accessibility of the bud effects) or pharmacological inhibition with drugs (which
+lumen to the extracellular medium (based on data from REF. 67). Note that the role may have off­target or non­physiological effects; see
+of actin may be non-essential under some conditions78,100. ARP2/3, actin-related Supplementary information S2 (box)). Thus, definitive
+protein 2/3; N-WASP, neural Wiskott–Aldrich syndrome protein. EM and fluorescence answers as to how dynamin affects such pathways will
+micrographs in part a are reproduced, with permission, from REF. 19 © (2009) Elsevier. require a combination of methods and should include
+loss­of­function studies. As robust bulk endocytosis still
+occurs in fibroblasts lacking dynamin19 and in the pres­
+The enrichment of dynamin at clathrin­coated endo­ ence of dominant­negative dynamin mutants12, dynamin
+cytic pits has been extensively demonstrated by fluo­ cannot have a universal role in endocytic vesicle fission.
+rescence microscopy12,51,67,80, including super­resolution
+methods60 and EM10,81. Furthermore, live imaging of cells Roles in intracellular budding
+expressing fluorescent dynamin shows that dynamin lev­ Vesicle budding, and thus membrane fission, occurs at
+els at the pits are low during early stages of clathrin­coated multiple points throughout the secretory and endocytic
+pit maturation (FIG. 3), most likely reflecting low­affinity pathways. Although dynamin does not affect most of
+interactions with other endocytic factors, and rise mark­ these events, several experimental approaches have sug­
+edly during later stages — reflecting polymerization at the gested that it might contribute to the fission of clathrin­
+bud neck — to reach a peak that coincides with mem­ coated vesicles that bud from the trans­Golgi network
+Caveolae
+brane fission67,80,82 (FIG. 3b). Factors that cooperatively, but (TGN)94, as well as of other vesicles that bud from either
+Small flask-shaped
+invaginations of the plasma redundantly, regulate dynamin assembly here include: the Golgi complex or endosomes20,95–97. The yeast dynamin
+membrane that are involved in PtdIns(4,5)P and other acidic phospholipids present in homologue Vps1 has also been implicated in retrograde
+2
+the endocytic uptake of various the plasma membrane83,84; the tubular membrane tem­ traffic between endosomes and the Golgi complex98.
+cell surface molecules and
+plate at the bud neck53; proteins containing dynamin­ However, there was no obvious accumulation of clathrin­
+some viruses, in signalling and
+in the regulation of plasma binding SH3 domains (primarily BAR domain­containing coated pits at the TGN of fibroblasts lacking dynamin19,
+membrane tension. proteins72,73, whose polymerization forms a powerful suggesting that dynamin is not universally required for
+80 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+mediate phagocytosis103), invadopodia104, podosomes105,
+Box 2 | Sensing and generating membrane curvature
+actin comets106,107 and the actin pedestals that can be
+Some proteins that function at the membrane interface bind preferentially to curved associated with bacterial cell entry108 (FIG. 1). At these
+membranes. This can result from: the intrinsic curvature of the membrane-binding
+sites, dynamin is not restricted to the membrane inter­
+surface of these proteins; their propensity to oligomerize into curved scaffolds; or the
+face but is present in the actin meshwork itself (FIG. 1).
+presence of amphipathic helices whose partial insertion into the bilayer is facilitated by
+This co localization is consistent with the PRD­mediated
+the loose packing of phospholipids at sites of high positive curvature. The same proteins
+binding of dynamin to numerous actin­regulating pro­
+can also force the membrane to curve and thus induce, propagate or stabilize bilayer
+curvature71,179–182. The ability of these proteins to function primarily as curvature sensors teins, including proteins that contain CDC42­interacting
+or curvature inducers depends on various factors, such as regulated affinity for the or ­regulating domains (summarized in Supplementary
+membrane (through changes in the phosphorylation, folding state or surface charge of information S1 (table)). Indeed, dynamin can bundle
+the membrane) and local concentration179. Dynamin has important curvature-sensing around actin filaments assembled in the presence of its
+and -generating properties53, owing to its polymerization into rings11 and to the partner cortactin, which can simultaneously bind filamen­
+presence of a hydrophobic loop emerging from its pleckstrin homology (PH) domain47. tous actin (F­actin)52,102. The stalk region of dynamin itself
+BAR domains. Many proteins that bind dynamin’s Pro-rich domain (PRD) via an SRC can also bind F­actin directly85. This raises the question of
+homology 3 (SH3) domain also contain Bin–amphiphysin–Rvs (BAR) domains, which whether dynamin can directly influence actin dynamics
+are protein modules with curvature-generating and -sensing properties71,79,183 (see and may have a role in actin function independen t of
+Supplementary information S1 (table)). BAR domains comprise amino acid sequences endocytosis. However, as membrane remodelling is the
+that fold into coiled-coils and dimerize into elongated, curved structures that are
+shared property of dynamin and other DLPs, and thus is
+optimally suited to bind the negatively charged cytosolic leaflet of the plasma
+likely to be the most critical function of dynamin, links
+membrane71,182,184,185. The presence of amphipathic helices or lipid-binding modules
+between dynamin and actin may predominantly reflect
+that flank the BAR domains and their propensity to polymerize further enhance the
+its role in membrane remodelling during endocytosis.
+bilayer-moulding properties of these proteins71. In BAR domain-containing proteins
+that bind dynamin, the bilayer-binding surface is optimally suited to bind endocytic Studies in yeast emphasize the critical role of actin in
+intermediates71 because it is typically concave (with shallow curvature in FCH-BAR endocytosis, further supporting this possibility86,90,109.
+(F-BAR) domains, such as syndapin, formin-binding protein 17 (FBP17), transducer The interaction of dynamin with actin and its regu­
+of CDC42-dependent actin assembly 1 (TOCA1) and CDC42-interacting protein 4 latory proteins may help position dynamin at endocytic
+(CIP4)71,185,186, and narrow curvature in classic BAR domains, such as endophilin, sites (FIGS 1,3). For example, a role of actin in directing the
+amphiphysin, sorting nexin 9 (SNX9) and SNX18 (REF. 71)). BAR domain-containing localization of dynamin at endocytic sites is supported by
+proteins are proposed to coordinate the progressive acquisition of bilayer curvature at
+studies of mammalian cells that lack dynamin, which have
+the necks of coated pits with the recruitment of factors that drive constriction, fission
+shown that F­actin acts upstream of dynamin at clathrin
+and immediate post-fission events (FIG. 3). Dynamin binding to the SH3 domain of BAR
+coated pits19 (FIG. 3). Actin may also generate membrane
+or F-BAR domain-containing proteins also relieves autoinhibitory intramolecular
+tension at the neck of endocytic buds, thus synergizing
+interactions that limit the membrane-binding activity of the BAR or F-BAR domain186,187.
+with dynamin during fission. Conversely, perturbation
+of dynamin function in living cells (by the expression of
+clathrin­mediated budding. It is also important to con­ mutant dynamin or by pharmacological inhibition)
+sider that some defects observed at non­endocytic sites can perturb actin dynamics85,101,106,107,110,111. However, in
+when dynamin is inhibited may arise indirectly through cells that lack dynamin, stress fibres do not seem to be
+clathrin sequestration at the cell surface, perturbation of affected19. The most obvious change observed in these cells
+membrane traffic, effects on signalling pathways and/or is the accumulation of ARP2/3­dependent actin mesh­
+cytoskeletal dynamics. works around the necks of arrested endocytic clathrin ­
+coated pits19 (FIG. 3). There is also evidence of alterations to
+Dynamin and the cytoskeleton other ARP2/3­dependent actin­based structures in these
+Dynamin interacts both directly and indirectly with cells, such as circular membrane ruffles and invadopodia
+the cytoskeleton. The relationship between these inter­ and/or podosomes104,105,111 (S.M.F., O. Destaing, R. Baron
+Lamellipodia actions and the endocytic function of dynamin is one of and P.D.C., unpublished observations). However, it is dif­
+Broad, thin plasma membrane
+the most interesting and poorly understood aspects ficult to discriminate between direct and indirect effects
+protrusions that are driven by
+of dynamin biology. in these experiments, as disrupted endocytosis may alter
+actin polymerization and are
+critical for cell motility and signalling pathways (see below).
+for some forms of bulk Intimate links with actin. A major property of dynamin, The recent crystallographic studies of dynamin30–33
+endocytosis. and one that is likely to be fundamentally important to its have raised new questions about potential non­endocytic
+action, is its link to the actin cytoskeleton. A link between effects of dynamin on actin dynamics. The helical organi­
+Podosomes
+Focal sites of dynamic actin dynamin and actin at endocytic sites is not surprising zation of dynamin polymers at the bud neck appears to be
+polymerization at the plasma and is consistent with the importance of actin for many optimally suited to allow an interaction in trans between
+membrane that are found in endocytic events, including at least a subset of clathrin­ dynamin G domains to promote GTP hydrolysis (FIG. 2b).
+motile cells at sites of cell– mediated endocytic processes19,67,68,99,100. However, However, purified dynamin can also polymerize into
+matrix interaction, where they
+immuno fluorescence studies and live­cell analyses show helices around actin bundles and microtubules. It will be
+promote the local degradation
+of the matrix. These structures that dynamin also colocalizes prominently with actin important to determine whether such a transient helica l
+are critical for supporting meshworks that are nucleated by the actin regulators arrangement occurs physiologically at non­endocytic
+cell migration through the neural Wiskott–Aldrich syndrome protein (N­WASP)– sites; these structures would be expected to produce
+extracellular matrix and for
+WAVE and actin­related protein 2/3 (ARP2/3) at several detectable bursts of fluorescence in cells expressing green
+bone resorption by osteoclasts.
+Similar to invadopodia, which other sites, including lamellipodia101, membrane ruffle s fluorescent protein­labelled dynamin but have not yet
+are found in invasive cells. (including circular dorsal ruffles102 and ruffles that been observed.
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 81
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+Possible ties to microtubule dynamics? Although dynamin findings suggest that dynamin may limit ACK signalling
+interacts with microtubules in vitro6, dynamin only by promoting clathrin­coated pit turnover.
+shows strong colocalization with microtubules in cells
+when its PH domain is mutated112. Moreover, disrup­ Unique roles for dynamin isoforms
+tion of dynamin function or lack of dynamin both result Gene­knockout studies in mice17,19,22 and the cells
+in a robust increase in the level of acetylated tubulin19,112, derived from them have provided numerous insights
+a modification associated with stable microtubules. into dynamin function and the specific roles of the three
+This effect may be related either directly to the ability of dynamin isoforms. Dynamin 2­knockout mice die early
+dynamin to bind microtubules or to altered microtubule in embryonic development, which is consistent with the
+dynamics that result from alterations in the structure ubiquitous expression and housekeeping functions of this
+and functional state of the cell cortex (for example, the isoform19. Conditional dynamin 2­knockout cells showed
+great abundance of endocytic clathrin coated pits and of transient defects in clathrin­mediated endocytosi s.
+a robust accumulation of actin around them), where the However, the severity of this phenotype was reduced by
+stability of the plus end of microtubules is regulated. dynamin 1 upregulation, demonstrating that these two
+isoforms have at least some overlapping functions19,20.
+Control of cytokinesis. Dynamin 2 concentrates at sites A double conditional knockout of dynamin 1 and
+of abscission and was implicated in the completion of dynamin 2 in mice19, and an analysis of fibroblasts
+cytokinesis113–115. Given the role of microtubules as well derived from these mice, confirmed that dynamin has
+as membrane traffic during abscission116–118, and the con­ an essential role in clathrin­mediated endocytosis but
+nections that dynamin has to each of these pathways, the also yielded unexpected results. Surprisingly, dynamin 1
+precise role of dynamin in cytokinesis remains unclear. and dynamin 2 double­knockout fibroblasts survived for
+Interestingly, dynamin 2 is phosphorylated during mitosis several weeks in culture without proliferation19, which
+by cyclin­dependent kinase 1 (CDK1), and its dephospho­ precluded analysis of the proposed role for dynamin in
+rylation by calcineurin at these sites is required during cytokinesis128. Most strikingly, dynamin 1 and dynamin 2
+cytokinesis114. This phosphorylation cycle of dynamin 2 double­knockout cells accumulated endocytic clathrin­
+is reminiscent of the phosphorylation cycle of dynamin 1 coated pits connected to the plasma membrane by long
+in nerve terminals, which is mediated by CDK5 and tubular necks19 (FIG. 3), similarly to the phenotype pro­
+calcineurin119 (FIG. 4). The broad use of this signalling duced by some dynamin mutants81 and to that observed
+pathway may be indicative of its fundamental impor­ in cells recovering from a temperature­induced block in
+tance. Indeed, this extends to CDK1 phosphorylation endocytosis129. These tubular necks, which were highly
+of dynamin­related protein 1 (DRP1), which promotes dynamic, had an outer diameter of approximately 36 nm
+mitocho ndrial fission during mitosis120. (REF. 19), which is consistent with that of tubules coated
+by BAR domain­containing proteins71. Accordingly,
+Endocytosis and signalling fluorescent imaging analysis shows that various BAR
+As clathrin­mediated endocytosis is the major pathway of domain­containing proteins, such as endophilin, sort­
+receptor internalization, dynamin regulates the abundance ing nexin 9 (SNX9), amphiphysin and tuba are present
+on the plasma membrane, and thus the signalling output, in these tubules19,127, as are N­WASP, components of the
+of diverse receptors, including growth factor receptors, ARP2/3 complex, other actin regulatory proteins and
+G protein­coupled receptors (GPCRs), ionotropic neuro­ F­actin19 (FIG. 3a).
+transmitter receptors, ion channels, cell adhesion proteins Thus, although dynamin may modulate early stages of
+and signalling proteins, such as Notch121–124. This was first clathrin­coated pit formation, it is essential only for a late
+emphasized by the major neurogenic developmental step of clathrin­mediated endocytosis, when membrane
+effects of the D. melanogaster shibire mutation125, which fission occurs. Moreover, the key function of dynamin is
+arise from the inhibition of Notch signalling (a phenotype to terminate the formation of a deeply invaginated pit,
+that is also observed when dynamin is lost124). In addi­ which is orchestrated by other factors. These studies have
+tion to these indirect effects of dynamin on signalling, also helped elucidate the sequence of events that occur
+dynamin also interacts directly with a large collection of upstream of dynamin, by allowing otherwise transient
+signalling proteins (see Supplementary information S1 intermediates to accumulate (FIG. 3a). They showed that
+(table)). These interactions may help coordinate signal­ the actin cytoskeleton has a primary role in elongating the
+ling from receptors internalized by clathrin­coated pits tubular necks of the coated pits and that the recruitment
+with the dynamics of the pits and resulting vesicles, and of BAR domain­containing proteins on tubules, which is
+they probably reflect an inseparable partnership between mediated to some extent by their curvature­sensing prop­
+endocytosis and signalling. The broader effects of endo­ erties, may help shape, stabilize and elongate the tubules
+cytosis on signalling have been extensively studied and in tight coordination with actin.
+Actin comets
+reviewed elsewhere3,121,126.
+‘Tails’ of filamentous actin
+nucleated by endosomes or A full and systematic assessment of how dynamin Dynamin and the nervous system
+intracellular pathogens that affects signalling has yet to be performed. However, Endocytosis has a housekeeping role in neurons, as in
+propel the endosome or dynamin loss significantly increases phosphorylation other cells. However, endocytosis, and clathrin­mediated
+pathogen through the
+and activation of the Tyr kinase activated CDC42 kinase endocytosis in particular, also has a specialized role in
+cytoplasm through the
+force produced by actin (ACK), which interacts with clathrin and other factors nerve terminals, mediating the local recycling of synaptic
+polymerization. implicated in clathrin­mediated endocytosis127. These vesicle membranes after exocytosis130 (FIG. 4a). Consistent
+82 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+a Wild type Double knockout Figure 4 | Dynamin participates in synaptic vesicle
+recycling at neuronal synapses. a | From electron
+Presynaptic
+microscopy analysis, wild-type synapses (left) are
+characterized by an abundance of synaptic vesicles and
+very few clathrin-coated pits or clathrin-coated vesicles,
+Vesicle which is consistent with the transient nature of
+Clathrin clathrin-coated structures even during intense synaptic
+activity. At synapses that lack the great majority of their
+Dynamin
+normal dynamin content (for example, from dynamin 1-
+Actin
+knockout neurons or, even more strikingly, from dynamin 1
+and dynamin 3 double-knockout neurons; right) there is a
+depletion of synaptic vesicles and a striking accumulation
+Postsynaptic of uniformly sized clathrin-coated pits, which bud from
+long invaginations of the plasma membrane17,22,145.
+A small increase in the abundance of clathrin-coated
+b c
+pits is also observed postsynaptically, where pits are
+more heterogeneous in size. b | Representative electron
+micrograph of a presynaptic terminal from a dynamin 1-
+knockout neuron. Presynaptic vesicle clusters at two
+synaptic junctions are very small (regions defined by
+dashed lines), whereas clathrin-coated vesicular structures
+are highly abundant and occupy the bulk of the terminal.
+As shown by electron tomography (see part c), all such
+structures are coated pits, although in this thin section
+(~60 nm) their tubular ‘stalks’ can only be seen in few cases,
+and their connection with the plasma membrane cannot
+be appreciated17,145. c | Partial electron tomography
+reconstruction from dynamin 1 and dynamin 3 double-
+knockout nerve terminals, showing a long tubular plasma
+membrane invagination studded with numerous individual
+clathrin-coated pits. The arrow indicates the opening of
+this tubular structure at the peripheral presynaptic plasma
+membrane. d | In resting synapses, the Pro-rich domain
+(PRD) of dynamin 1 is phosphorylated, preventing
+association with syndapin. Upon stimulation and increased
+d Resting synapse Stimulated synapse cytosolic calcium concentration, the protein phosphatase
+Dynamin 1 calcineurin, which directly binds a dynamin 1 splice variant
+G domain Calcineurin Calcineurin (xb), dephosphorylates dynamin 1, allowing its interaction
+‘Stalk’ ‘Foot’‘Stalk’ PRD with syndapin. This regulated interaction is thought to
+Neck P P
+Ca2+
+Syndapin promote synaptic vesicle endocytosis at times of elevated
+P
+P neuronal activity.
+Nature Reviews | Molecular Cell Biology
+with this, disruption of synaptic transmission is the most Dynamin 1 and nervous system function. Dynamin 1 is
+dramatic and rapid effect produced by the temperature­ present at high concentrations in the nervous syste m, is
+sensitive inactivation of dynamin in D. melanogaster5,7,8. concentrated at synapses and shows markedly increased
+Furthermore, perturbing dynamin impairs synaptic levels during synaptogenesis17,18. Additionally, dynamin 1
+vesicle recycling, and thus neuronal communication, in and several other endocytic proteins, collectively called
+severa l experimental models5,17,22,23,131–136. ‘dephosphins’ (REFS 139–141), are constitutively phos­
+The fact that all three dynamins are expressed in neu­ phorylated in resting synapses. This dynamin phospho­
+rons, with both dynamin 1 and dynamin 3 being expressed rylation depends, at least in part, on CDK5 (REF. 119),
+primarily in the nervous system, raises questions about the and, upon nerve stimulation, dynamin is rapidly dephos­
+specific roles that each of the three dynamins has here17,21. phorylated by the calcium­ and calmodulin­dependent
+On the basis of knockout studies, only dynamin 2 is phosphatase calcineurin139 (FIG. 4d); this is predicted to
+essential for the development of the nervous system19. Its facilitate dynamin inter actions with endocytic proteins
+conditional knockout using the Cre–loxP system in early to promote endocytosis48. The direct interaction of a
+neuronal progenitors137, prior to the onset of expression dynamin 1 splice variant (the ‘b’ C­terminal variant)
+of dynamin 1 and dynamin 3, drastically impairs brain with calcineurin, through a PXIXIT­like calcineurin­
+develop ment (S.M.F. and P.D.C., unpublished observa­ binding motif (PRITIS), further emphasizes the poten­
+tions). However, conditional deletion of dynamin 2 in tial physiological importance of this calcium­dependent
+neurons at an early postnatal stage138 does not affect mouse dephosphorylation reaction for synaptic function24,25
+viability or cause any discernible neurological phenotype (S. Giovedi, S.M.F. and P.D.C., unpublished observa­
+(S.M.F. and P.D.C., unpublished observations). This tions). On the basis of these considerations, dynamin 1
+indicates that, when dynamin 1 and/or dynamin 3 are was expected to be essential for synaptic vesicle
+expressed, they can replace the function of dynamin 2. endocytosis.
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 83
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+Surprisingly, dynamin 1 is dispensable for basic functions dynamin 1 and dynamin 3 double­knockout neurons
+of the nervous system17. However, dynamin 1­knockout (Y. Wu, S.M.F. and P.D.C., unpublished observations).
+mice rapidly develop a severe neurological phenotype, Overall, the results of these knockout studies in
+fail to thrive and die within two weeks of birth17. Thus, mice demonstrate that even the combined absence of
+dynamin 1 is not unique among the three dynamins in its dynamin 1 and dynamin 3 does not abolish synaptic
+ability to support synaptic vesicle recycling. However, the vesicle recycling. It is most likely that dynamin 2 is suf­
+massive increase in dynamin 1 expression during the first ficient to support synaptic vesicle endocytosis, albeit at
+postnatal weeks is critical to sustain the increase in syn­ a slower rate. This conclusion is supported by the ability
+aptic activity that occurs as the nervous system matures. of dynamin 2 overexpression to, at least partially, rescue
+Consistent with this, direct measurements of endocytic synaptic vesicle recycling defects in dynamin 1­knockou t
+rates at the calyx of Held synapse in the mouse brain stem neurons17. However, the additional occurrence of
+show that the endocytic rate in dynamin 1­knockout mice dynamin­independent synaptic vesicle recycling cannot
+is normal after small stimuli but rapidly saturates and fails be excluded. These findings support a model wherein
+to scale with exocytosis as stimulus strength increases136. the occurrence of two neuronally enriched dynamin iso­
+forms (dynamin 1 and dynamin 3) and the extremely high
+Dynamin 3 at the synapse. Dynamin 3 was pro­ level s of one of them (dynamin 1) are primarily needed
+posed to have a specific postsynaptic role, forming not to support a specific form of endocytosis, either
+special ized endocytic sites that locally recycle AMPA presynaptically or postsynaptically, but to allow clathrin­
+(α­amino­3­hydroxy­5­methyl­4­isoxazole propionic mediated endocytosis to function over a very broad range
+acid) receptors in dendritic spines142. Consistent with this, of neuronal activities. Nonetheless, unique properties of
+dynamin 3 binds the ENA–VASP­homology 1 (EVH1) dynamin 1 and dynamin 3 (and their splice variants) may
+domain of the postsynaptic protein Homer through fine­tune their functions in neurons.
+a PXXF motif that is not present in dynamin 1 and
+dynamin 2, and this property appeared consistent with Dynamin links to human disease
+the reported strong localization of dynamin 3 to dendritic Roles of abnormal dynamin function in genetic disease
+spines27. However, this dendritic enrichment of dynamin 3 have begun to emerge. Whereas mutations in dynamin 2
+was not confirmed by another study, which instead show links to tissue­specific diseases, mutations in
+emphasized an overlapping role with dynamin 1 presyn­ dynamin 1 specifically affect the nervous system.
+Calyx of Held
+A large synapse within the aptically22. Thus, it is unclear whether any one dynamin
+mammalian auditory brainstem isoform shows preferential enrichment or function within Dynamin 2 and tissue-specific diseases. Multiple unique
+that is suitable (in mice the postsynaptic compartment, although strong evidence missense mutations, or short deletions, within the middle,
+and rats) for presynaptic
+indicates that the dynamins play an important part in the PH and stalk domains of dynamin 2 have been identified
+measurement of membrane
+capacitance and thus for the endocytosis of neurotransmitter receptors143,144. in patients with two autosomal­dominant genetic con­
+detection of synaptic vesicle Dynamin 3­knockout mice do not show any obvious ditions, intermediate Charcot–Marie–Tooth disease147 and
+exocytosis and endocytosis pathological phenotype22. By contrast, dynamin 1 and centro nuclear myopathy148. Charcot–Marie–Tooth disease is
+on a millisecond timescale.
+dynamin 3 double­knockout mice have a more severe a peripheral neuropathy that is characterized by muscular
+phenotype than dynamin 1 single­knockout mice22. They weakness of the extremities and defects in neuronal axon
+Dendritic spines
+Small (~1 μm), spine-like, develop normally in utero but, although they maintain a conduction. Centronuclear myopathy is a group of con­
+actin-rich protrusions of limited degree of synaptic transmission, they die within genital diseases characterized by muscle weakness. The
+neuronal dendrites that several hours after birth. This result supports a partially dominant mode in which these disorders are inherited
+function as postsynaptic
+overlapping function of the two neuronally enriched supports the idea that the mutant dynamin gains a toxic
+sites for excitatory
+neurotransmission. They are dynamins in synaptic transmission. function (see Supplementary information S2 (box)).
+closely opposed to presynaptic How perturbed dynamin 2 function results in these
+sites of neurotransmitter Synaptic transmission in dynamin 1 and dynamin 3 conditions is unclear. There is no clear correlatio n
+release and are enriched in
+double-knockout mice. Electrophysiological recordings between the diseases and the mutation sites in the
+neurotransmitter receptors.
+from cultured dynamin 1 single­knockout neurons and dynamin structure, making mechanistic interpretations
+Charcot–Marie–Tooth dynamin 1 and dynamin 3 double­knockout neurons con­ difficult. It is interesting to note, however, that mutations
+disease firmed that synaptic transmission can still occur in the in the PH domain of dynamin 2 in patients with Charcot–
+A peripheral nervous system absence of these neuronal dynamins, although the ability Marie–Tooth disease are more frequently located in the
+dysfunction that is
+to release neurotransmitter, and to sustain release upon N­terminal portion of the domain, whereas mutations in
+characterized by slow action
+potential conduction owing sustained stimulation, is strongly reduced17,22. Likewise, patients with centronuclear myopathy are more frequently
+to defects in either the these mutants show a delay in compensatory endo cytosis located in the C­terminal portion of the dynamin 2 PH
+myelin sheath, which insulates in response to a stimulus17,22. The main ultrastructural domain149. Structural analysis shows that, although
+neuronal axons, or the
+defects observed are a reduced number of synaptic vesicles d isease­linked mutations in the PH and stalk domains
+axons themselves.
+and a massive accumulation of endocytic clathrin­coated are distant within the primary sequence of dynamin, they
+Centronuclear myopathy pits located along deep invaginations of the plasma mem­ actually cluster at an interface between these two domains
+A group of skeletal muscle brane17,22,145 (FIG. 4a,b). Dynamin 1 has been implicated in and so can potentially influence dynamin oligomeriza­
+diseases that result in muscle the bulk endocytosis that helps to recover synaptic vesicle tion31. It additionally remains unknown why altering the
+weakness and which are
+membrane in response to strong stimuli146. However, a function of dynamin 2 affects certain tissues so selectively.
+characterized by the abnormal
+central location of nuclei within form of bulk endocytosis still occurs in response to mas­ Mutations in amphiphysin 2, a major binding partner of
+muscle fibres. sive stimulation in both dynamin 1­knockout136,145 and dynamin in brain and muscle tissues, can also give rise
+84 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+to an autosomal­recessive form of centronuclear myo­ mediate membrane fission (such as dynamin and DRP1)
+pathy150. The muscle­specific isoform of amphiphysin 2 and those that mediate membrane fusion (such as atlastin,
+is expressed at very high levels and affects muscle func­ optic atrophy 1 homologue (OPA1) and mitofusin) are
+tion151, raising the possibility that muscle pathology in intriguing and unexpected because they suggest analogies
+these centronuclear myopathies involves an interaction between the mechanisms that mediate these seemingly
+between dynamin and amphiphysin 2. opposite membrane­remodelling processes. Elucidating
+the basis of these similarities will be important.
+A role for dynamin 1 in epilepsy? So far, no human diseas e Likewise, it will be interesting to determine why DLPs
+has been mapped to the dynamin 1 or dynamin 3 genes. are needed for only a subset of membrane­fissio n reactions.
+Nonetheless, given the prominent expression and func­ Other GTPases have been implicated in some membran e­
+tions of these proteins in neurons, mutations that produce budding reactions that do not involve dynamin or other
+neurological phenotypes are likely to occur. Supporting DLPs: for example, the ADP­ribosylation factor 1 (ARF1)
+this possibility, a spontaneous mouse mutation — creatin g GTPase affects coatome r complex I (COPI)­dependent
+the fitful mutant mouse — that causes seizures and budding from the Golgi complex and the secretion­
+hearin g impairment maps to the dynamin 1 gene152. This associated RAS­related 1 (SAR1) GTPase that regulates
+missense mutation (Ala408Tyr) occurs in an alternatively COPII­dependent budding from the endoplasmic reticu­
+spliced region within the middle domain of dynamin 1 lum158. However, both ARF1 and SAR1 are classic regu­
+and may affect its oligomerization. Electrophysiological latory GTPases that function by recruiting downstream
+recordings from neurons of these mice demonstrated effectors, indicating that they use a fundamentally differ­
+defects in GABA (γ­aminobutyric acid)­ergic neurotrans­ ent mechanism to that of dynamin. The two intracellular
+mission in response to prolonged stimulation152, a defect fission reactions besides endocytosis that clearly require
+that is similar to that of dynamin 1­knockout mice17,145. DLPs are the fission of mitochondria159–162 and the fission
+Thus, subtle perturbations of dynamin 1 function that of chloroplasts (in plants). The endo symbiotic origin of
+are otherwise compatible with life can enhance suscept­ these organelles implies that their outer membrane is
+ibility to seizure, and dynamin 1 should be considered as ancestrally derived from the plasma membrane, possi­
+a candidate gene in idiopathic cases of human epilepsy. It bly explaining why the fission of their outer membrane
+is of further intere st that knockout mice for mutations in requires a dynamin (FIG. 1).
+any of three dynamin­binding proteins, amphiphysin153, Other exciting areas that need to be explored include
+syndapin (also known as PACSIN)154 and endophilin155, possible non­endocytic functions of dynamin, particu­
+also have seizures. Additionally, mutations in human larly those involving the cytoskeleton (and the actin
+synapsin 1, another protein that has been implicated cytoskeleton in particular). The possibility that dynamin
+in synaptic vesicl e recycling, have been identified in could be a target for cancer therapy, because of its role
+patients with epilepsy156. It is most likely that impairing in either cytokinesis114 or cell migration and tissue inva­
+synaptic vesicle recycling lowers the threshold for seizure sion163, deserves consideration. Interestingly, the invasive
+through greater effects on inhibitory neurons that have activity of pancreatic ductal carcinoma was associated
+a high rate of synapti c vesicle turnover and thus a high with elevated dynamin 2 expression163. Are the poten­
+endocytic demand. tial non­endocytic actions of dynamin mediated by its
+Another spontaneous animal model with impaired polymerization in a manner that is analogous to that at the
+dynamin 1 function is exercise­induced collapse, a reces­ neck of clathrin­coated pits? Structural studies indicate
+sive condition that has been observed in dogs157. These that helical polymerization of dynamin around tubular
+otherwise healthy animals display acute and severe templates30–33 is optimally suited to promoting G domain
+muscl e weakness resulting in a life­threatening collapse dimerization and thus GTP hydrolysis. However, perhaps
+in response to intense exercise or excitement. The under­ other structural configurations are possible.
+lying missense mutation, Arg256Leu, is located within the It can be anticipated that the range of known genetic
+dynamin 1 G domain. The functional consequence of this diseases resulting directly from mutations in dynamin
+mutation on GTPase activity remains uncharacterized. genes will expand. Interestingly, several genes impli­
+cated in endocytosis, including CALM and genes that
+Conclusions and future questions encode the dynamin­binding proteins CD2­associated
+The function of dynamin has been extensively investi­ protein (CD2AP) and amphiphysin 2, have been linked
+gated in vitro and in vivo, and this has provided power ful to Alzheimer’s disease by genome­wide association stud­
+insights into its cellular roles. Studies of dynamin have ies164,165. Dynamin 2 also mediates the internalization and
+also helped identify factors that deform membranes infectivity of bacterial166 and viral pathogens, including
+and/ or sense membrane curvature and that participate HIV2,26. In addition to these possibilities, polymorphisms
+in the control of membrane fission. Cryo­EM and crys­ within dynamin genes may contribute to susceptibility
+tallographic studies of dynamin and other members of to many other specific diseases, as dynamin­dependent
+the dynamin superfamily have provided important new endocytosis is implicated in multiple processes that are
+insights into how it mediates membrane fission. However, relevant to disease.
+major question s remain open. Twenty years after the discovery that dynamin has a
+The precise mechanism through which dynamin critical role in endocytosis, the function and mechanisms
+achieves fission remains to be elucidated. The similari­ by which this protein acts remain a most important and
+ties and evolutionary relationship between DLPs that timely field of investigation.
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 85
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+1. McMahon, H. T. & Boucrot, E. Molecular mechanism 19. Ferguson, S. M. et al. Coordinated actions of actin and 38. Chappie, J. S. et al. A pseudoatomic model of the
+and physiological functions of clathrin-mediated BAR proteins upstream of dynamin at endocytic dynamin polymer identifies a hydrolysis-dependent
+endocytosis. Nature Rev. Mol. Cell Biol. 12, 517–533 clathrin-coated pits. Dev. Cell 17, 811–822 (2009). powerstroke. Cell 147, 209–222 (2011).
+(2011). Analyses the endocytic intermediates that 39. Sever, S., Muhlberg, A. B. & Schmid, S. L. Impairment
+2. Mercer, J., Schelhaas, M. & Helenius, A. Virus entry by accumulate in cells lacking dynamin and indicates of dynamin’s GAP domain stimulates receptor-
+endocytosis. Ann. Rev. Biochem. 79, 803–833 (2010). a role for F-actin in the recruitment of BAR mediated endocytosis. Nature 398, 481–486 (1999).
+3. Scita, G. & Di Fiore, P. P. The endocytic matrix. domain-containing proteins to the tubular neck 40. Low, H. H. & Lowe, J. A bacterial dynamin-like protein.
+Nature 463, 464–473 (2010). of clathrin-coated pits. Nature 444, 766–769 (2006).
+4. Howes, M. T., Mayor, S. & Parton, R. G. Molecules, 20. Liu, Y. W., Surka, M. C., Schroeter, T., Lukiyanchuk, V. 41. Narayanan, R., Leonard, M., Song, B. D., Schmid, S. L.
+mechanisms, and cellular roles of clathrin-independent & Schmid, S. L. Isoform and splice-variant specific & Ramaswami, M. An internal GAP domain negatively
+endocytosis. Curr. Opin. Cell Biol. 22, 519–527 functions of dynamin-2 revealed by analysis of regulates presynaptic dynamin in vivo: a two-step
+(2010). conditional knock-out cells. Mol. Biol. Cell 19, model for dynamin function. J. Cell Biol. 169, 117–
+5. Koenig, J. H. & Ikeda, K. Disappearance and 5347–5359 (2008). 126 (2005).
+reformation of synaptic vesicle membrane upon 21. Cook, T. A., Urrutia, R. & McNiven, M. A. Identification 42. Ferguson, K. M., Lemmon, M. A., Schlessinger, J. &
+transmitter release observed under reversible of dynamin 2, an isoform ubiquitously expressed in rat Sigler, P. B. Crystal structure at 2.2 Å resolution of the
+blockage of membrane retrieval. J. Neurosci. 9, tissues. Proc. Natl Acad. Sci. USA 91, 644–648 pleckstrin homology domain from human dynamin.
+3844–3860 (1989). (1994). Cell 79, 199–209 (1994).
+Shows the depletion of synaptic vesicles and 22. Raimondi, A. et al. Overlapping role of dynamin 43. Zheng, J. et al. Identification of the binding site for
+accumulation of collared pits in the plasma isoforms in synaptic vesicle endocytosis. Neuron 70, acidic phospholipids on the PH domain of dynamin:
+membrane of shibire mutant synapses upon acute 1100–1114 (2011). implications for stimulation of GTPase activity.
+stimulation at the non-permissive temperature, and Reports that, although dynamin 3-knockout mice J. Mol. Biol. 255, 14–21 (1996).
+thus nicely demonstrates the critical role played by lack a discernible phenotype, analysis of dynamin 1 44. Lee, A., Frank, D. W., Marks, M. S. & Lemmon, M. A.
+dynamin in synaptic vesicle recycling. and dynamin 3 double-knockout mice reveals a role Dominant-negative inhibition of receptor-mediated
+6. Shpetner, H. S. & Vallee, R. B. Identification of for both dynamins in the recycling of synaptic endocytosis by a dynamin-1 mutant with a defective
+dynamin, a novel mechanochemical enzyme that vesicles. pleckstrin homology domain. Curr. Biol. 9, 261–264
+mediates interactions between microtubules. Cell 59, 23. Clark, S. G., Shurland, D. L., Meyerowitz, E. M., (1999).
+421–432 (1989). Bargmann, C. I. & van der Bliek, A. M. A dynamin 45. Vallis, Y., Wigge, P., Marks, B., Evans, P. R. &
+7. van der Bliek, A. M. & Meyerowitz, E. M. Dynamin-like GTPase mutation causes a rapid and reversible McMahon, H. T. Importance of the pleckstrin
+protein encoded by the Drosophila shibire gene temperature-inducible locomotion defect in C. elegans. homology domain of dynamin in clathrin-mediated
+associated with vesicular traffic. Nature 351, Proc. Natl Acad. Sci. USA 94, 10438–10443 (1997). endocytosis. Curr. Biol. 9, 257–260 (1999).
+411–414 (1991). 24. Xue, J. et al. Calcineurin selectively docks with the 46. Bethoney, K. A., King, M. C., Hinshaw, J. E.,
+8. Chen, M. S. et al. Multiple forms of dynamin are dynamin Ixb splice variant to regulate activity- Ostap, E. M. & Lemmon, M. A. A possible effector role
+encoded by shibire, a Drosophila gene involved in dependent bulk endocytosis. J. Biol. Chem. 286, for the pleckstrin homology (PH) domain of dynamin.
+endocytosis. Nature 351, 583–586 (1991). 30295–30303 (2011). Proc. Natl Acad. Sci. USA 106, 13359–13364
+References 7 and 8 identify dynamin as the 25. Bodmer, D., Ascano, M. & Kuruvilla, R. Isoform- (2009).
+product of the shibire gene and set the stage for specific dephosphorylation of dynamin1 by calcineurin 47. Ramachandran, R. et al. Membrane insertion of the
+studies of dynamin as a critical endocytic protein. couples neurotrophin receptor endocytosis to axonal pleckstrin homology domain variable loop 1 is critical
+9. Obar, R. A., Collins, C. A., Hammarback, J. A., growth. Neuron 70, 1085–1099 (2011). for dynamin-catalyzed vesicle scission. Mol. Biol. Cell
+Shpetner, H. S. & Vallee, R. B. Molecular cloning of 26. Pizzato, M. et al. Dynamin 2 is required for the 20, 4630–4639 (2009).
+the microtubule-associated mechanochemical enzyme enhancement of HIV-1 infectivity by Nef. Proc. Natl 48. Anggono, V. et al. Syndapin I is the phosphorylation-
+dynamin reveals homology with a new family of Acad. Sci. USA 104, 6812–6817 (2007). regulated dynamin I partner in synaptic vesicle
+GTP-binding proteins. Nature 347, 256–261 (1990). 27. Gray, N. W. et al. Dynamin 3 is a component of the endocytosis. Nature Neurosci. 9, 752–760 (2006).
+10. Takei, K., McPherson, P. S., Schmid, S. L. & postsynapse, where it interacts with mGluR5 and Finds that syndapin is the major dynamin-interact-
+De Camilli, P. Tubular membrane invaginations coated Homer. Curr. Biol. 13, 510–515 (2003). ing protein in the brain and that this interaction is
+by dynamin rings are induced by GTP-γS in nerve 28. Liu, Y. W. et al. Differential curvature sensing and regulated by dynamin phosphorylation, potentially
+terminals. Nature 374, 186–190 (1995). generating activities of dynamin isoforms provide coupling this interaction to the activity status of
+11. Hinshaw, J. E. & Schmid, S. L. Dynamin self-assembles opportunities for tissue-specific regulation. Proc. Natl neurons.
+into rings suggesting a mechanism for coated vesicle Acad. Sci. USA 108, E234–E242 (2011). 49. Grabs, D. et al. The SH3 domain of amphiphysin binds
+budding. Nature 374, 190–192 (1995). 29. Gasper, R., Meyer, S., Gotthardt, K., Sirajuddin, M. & the proline-rich domain of dynamin at a single site that
+References 10 and 11 show the ability of dynamin Wittinghofer, A. It takes two to tango: regulation of defines a new SH3 binding consensus sequence.
+to polymerize into helices around membrane G proteins by dimerization. Nature Rev. Mol. Cell Biol. J. Biol. Chem. 272, 13419–13425 (1997).
+templates and at the base of clathrin-coated pits, 10, 423–429 (2009). 50. Lundmark, R. & Carlsson, S. R. Regulated membrane
+leading to a model wherein the assembly of 30. Chappie, J. S., Acharya, S., Leonard, M., Schmid, S. L. recruitment of dynamin-2 mediated by sorting nexin
+dynamin into helical polymers followed by & Dyda, F. G. domain dimerization controls dynamin’s 9. J. Biol. Chem. 279, 42694–42702 (2004).
+conformational changes triggered by GTP assembly-stimulated GTPase activity. Nature 465, 51. Shpetner, H. S., Herskovits, J. S. & Vallee, R. B.
+hydrolysis could lead to membrane fission. 435–440 (2010). A binding site for SH3 domains targets dynamin to
+12. Damke, H., Baba, T., Warnock, D. E. & Schmid, S. L. Reveals, through an analysis of the structure of a coated pits. J. Biol. Chem. 271, 13–16 (1996).
+Induction of mutant dynamin specifically blocks dynamin G domain–GED fusion protein, a need 52. Mooren, O. L., Kotova, T. I., Moore, A. J. & Schafer,
+endocytic coated vesicle formation. J. Cell Biol. 127, for dynamin G domain dimerization in mediating D. A. Dynamin2 GTPase and cortactin remodel actin
+915–934 (1994). GTP hydrolysis and proposes that such dimerization filaments. J. Biol. Chem. 284, 23995–24005 (2009).
+13. Herskovits, J. S., Burgess, C. C., Obar, R. A. & occurs between rungs of the dynamin helix. 53. Roux, A. et al. Membrane curvature controls dynamin
+Vallee, R. B. Effects of mutant rat dynamin on 31. Faelber, K. et al. Crystal structure of nucleotide-free polymerization. Proc. Natl Acad. Sci. USA 107,
+endocytosis. J. Cell Biol. 122, 565–578 (1993). dynamin. Nature 477, 561–566 (2011). 4141–4146 (2010).
+14. van der Bliek, A. M. et al. Mutations in human 32. Ford, M. G. J., Jenni, S. & Nunnari, J. The crystal 54. Stowell, M. H., Marks, B., Wigge, P. & McMahon, H. T.
+dynamin block an intermediate stage in coated vesicle structure of dynamin. Nature 477, 556–560 (2011). Nucleotide-dependent conformational changes in
+formation. J. Cell Biol. 122, 553–563 (1993). Describes the first crystal structures of nearly dynamin: evidence for a mechanochemical molecular
+Demonstrates that dynamin mutants with impaired full-length dynamin and reveals extensive spring. Nature Cell Biol. 1, 27–32 (1999).
+GTP binding and hydrolysis exert interactions that support dynamin assembly 55. Roux, A., Uyhazi, K., Frost, A. & De Camilli, P.
+dominant-negative effects on clathrin-mediated into polymeric helices. GTP-dependent twisting of dynamin implicates
+endocytosis. 33. Chappie, J. S. et al. A pseudoatomic model of the constriction and tension in membrane fission.
+15. Marks, B. et al. GTPase activity of dynamin and dynamin polymer identifies a hydrolysis-dependent Nature 441, 528–531 (2006).
+resulting conformation change are essential for powerstroke. Cell 147, 209–222 (2011). Visualizes dynamin-mediated membrane fission
+endocytosis. Nature 410, 231–235 (2001). Comparisons between dynamin G domain–GED in an in vitro assay and reveals contributions by
+Shows the importance of GTP hydrolysis by fusion protein structures that mimic the GTP-bound dynamin-mediated membrane constriction and
+dynamin in the endocytic actions of dynamin, state and ones that mimic a transition state membrane tension to membrane fission.
+arguing against a regulatory GTPase-like function suggest that large conformational changes 56. Sweitzer, S. M. & Hinshaw, J. E. Dynamin undergoes
+for dynamin. accompany GTP hydrolysis. a GTP-dependent conformational change causing
+16. Cao, H., Garcia, F. & McNiven, M. A. Differential 34. Gao, S. et al. Structural basis of oligomerization in the vesiculation. Cell 93, 1021–1029 (1998).
+distribution of dynamin isoforms in mammalian cells. stalk region of dynamin-like MxA. Nature 465, 57. Takei, K. et al. Generation of coated intermediates of
+Mol. Biol. Cell 9, 2595–2609 (1998). 502–506 (2010). clathrin-mediated endocytosis on protein-free
+17. Ferguson, S. M. et al. A selective activity-dependent 35. Ingerman, E. et al. Dnm1 forms spirals that are liposomes. Cell 94, 131–141 (1998).
+requirement for dynamin 1 in synaptic vesicle structurally tailored to fit mitochondria. J. Cell Biol. 58. Ramachandran, R. et al. The dynamin middle domain
+endocytosis. Science 316, 570–574 (2007). 170, 1021–1027 (2005). is critical for tetramerization and higher-order self-
+Reveals using dynamin 1-knockout mice that, 36. Bian, X. et al. Structures of the atlastin GTPase assembly. EMBO J. 26, 559–566 (2007).
+contrary to expectations, dynamin 1 is not required provide insight into homotypic fusion of endoplasmic 59. Low, H. H. & Lowe, J. Dynamin architecture — from
+for the making of synaptic vesicles but rather reticulum membranes. Proc. Natl Acad. Sci. USA 108, monomer to polymer. Curr. Opin. Struct. Biol. 20,
+serves to enhance the efficiency of this 3976–3981 (2011). 791–798 (2010).
+clathrin-mediated process at synapses. 37. Byrnes, L. J. & Sondermann, H. Structural basis for 60. Wu, M. et al. Coupling between clathrin-dependent
+18. Nakata, T. et al. Predominant and developmentally the nucleotide-dependent dimerization of the large endocytic budding and F-BAR-dependent tubulation in
+regulated expression of dynamin in neurons. G protein atlastin-1/SPG3A. Proc. Natl Acad. Sci. USA a cell-free system. Nature Cell Biol. 12, 902–908
+Neuron 7, 461–469 (1991). 108, 2216–2221 (2011). (2010).
+86 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+61. Bashkirov, P. V. et al. GTPase cycle of dynamin is 83. Barylko, B. et al. Synergistic activation of dynamin 108. Unsworth, K. E. et al. Dynamin is required for F-actin
+coupled to membrane squeeze and release, leading to GTPase by Grb2 and phosphoinositides. J. Biol. Chem assembly and pedestal formation by enteropathogenic
+spontaneous fission. Cell 135, 1276–1286 (2008). 273, 3791–3797 (1998). Escherichia coli (EPEC). Cell. Microbiol. 9, 438–449
+Describes an in vitro membrane fission assay that 84. Zoncu, R. et al. Loss of endocytic clathrin-coated pits (2007).
+suggests a role for repeated assembly and upon acute depletion of phosphatidylinositol 109. Kubler, E. & Riezman, H. Actin and fimbrin are
+disassembly of short dynamin scaffolds in the 4,5-bisphosphate. Proc. Natl Acad. Sci. USA 104, required for the internalization step of endocytosis in
+triggering of membrane fission. 3793–3798 (2007). yeast. EMBO J. 12, 2855–2862 (1993).
+62. Danino, D., Moon, K. H. & Hinshaw, J. E. Rapid 85. Gu, C. et al. Direct dynamin-actin interactions regulate 110. Gomez, T. S. et al. Dynamin 2 regulates T cell
+constriction of lipid bilayers by the mechanochemical the actin cytoskeleton. EMBO J. 29, 3593–3606 activation by controlling actin polymerization at the
+enzyme dynamin. J. Struct. Biol. 147, 259–267 (2010). immunological synapse. Nature Immunol. 6,
+(2004). 86. Conibear, E. Converging views of endocytosis in yeast 261–270 (2005).
+63. Pucadyil, T. J. & Schmid, S. L. Real-time visualization and mammals. Curr. Opin. Cell Biol. 22, 513–518 111. Yamada, H. et al. Dynasore, a dynamin inhibitor,
+of dynamin-catalyzed membrane fission and vesicle (2010). suppresses lamellipodia formation and cancer cell
+release. Cell 135, 1263–1275 (2008). 87. Kaksonen, M., Toret, C. P. & Drubin, D. G. A modular invasion by destabilizing actin filaments. Biochem.
+Reports an in vitro assay that closely mimics the design for the clathrin- and actin-mediated Biophys. Res. Commun. 390, 1142–1148 (2009).
+in vivo situation by allowing observation of endocytosis machinery. Cell 123, 305–320 (2005). 112. Tanabe, K. & Takei, K. Dynamic instability of
+dynamin-mediated membrane fission in the 88. Nannapaneni, S. et al. The yeast dynamin-like protein microtubules requires dynamin 2 and is impaired
+continuous presence of GTP, and reveals Vps1:vps1 mutations perturb the internalization and in a Charcot–Marie–Tooth mutant. J. Cell Biol. 185,
+the fluctuating assembly and disassembly the motility of endocytic vesicles and endosomes via 939–948 (2009).
+of dynamin leading up to membrane fission. disorganization of the actin cytoskeleton. Eur. J. Cell 113. Skop, A. R., Liu, H., Yates, J. 3rd, Meyer, B. J. &
+64. Ghosh, A., Praefcke, G. J., Renault, L., Wittinghofer, A. Biol. 89, 499–508 (2010). Heald, R. Dissection of the mammalian midbody
+& Herrmann, C. How guanylate-binding proteins 89. Smaczynska-de, R. II. et al. Yeast dynamin Vps1 and proteome reveals conserved cytokinesis mechanisms.
+achieve assembly-stimulated processive cleavage of amphiphysin Rvs167 function together during Science 305, 61–66 (2004).
+GTP to GMP. Nature 440, 101–104 (2006). endocytosis. Traffic 14 Nov 2011 114. Chircop, M. et al. Phosphorylation of dynamin II at
+65. Binns, D. D. et al. The mechanism of GTP hydrolysis by (doi:10.1111/j.1600-0854.2011.01311.x). serine-764 is associated with cytokinesis. Biochim.
+dynamin II: a transient kinetic study. Biochemistry 39, 90. Kaksonen, M., Toret, C. P. & Drubin, D. G. Harnessing Biophys. Acta 1813, 1689–1699 (2011).
+7188–7196 (2000). actin dynamics for clathrin-mediated endocytosis. 115. Thompson, H. M., Skop, A. R., Euteneuer, U., Meyer,
+66. Krishnan, K. S. et al. Nucleoside diphosphate kinase, Nature Rev. Mol. Cell Biol. 7, 404–414 (2006). B. J. & McNiven, M. A. The large GTPase dynamin
+a source of GTP, is required for dynamin-dependent 91. Aghamohammadzadeh, S. & Ayscough, K. R. associates with the spindle midzone and is required
+synaptic vesicle recycling. Neuron 30, 197–210 Differential requirements for actin during yeast and for cytokinesis. Curr. Biol. 12, 2111–2117 (2002).
+(2001). mammalian endocytosis. Nature Cell Biol. 11, 116. Goss, J. W. & Toomre, D. K. Both daughter cells traffic
+67. Taylor, M. J., Perrais, D. & Merrifield, C. J. A high 1039–1042 (2009). and exocytose membrane at the cleavage furrow
+precision survey of the molecular dynamics of 92. Pelkmans, L., Puntener, D. & Helenius, A. Local actin during mammalian cytokinesis. J. Cell Biol. 181,
+mammalian clathrin-mediated endocytosis. PLoS Biol. polymerization and dynamin recruitment in SV40- 1047–1054 (2008).
+9, e1000604 (2011). induced internalization of caveolae. Science 296, 117. Gromley, A. et al. Centriolin anchoring of exocyst and
+Details a systematic analysis of the recruitment of 535–539 (2002). SNARE complexes at the midbody is required for
+a large collection of proteins to clathrin and their 93. Henley, J. R., Krueger, E. W., Oswald, B. J. & secretory-vesicle-mediated abscission. Cell 123,
+relationship to the membrane fission event. McNiven, M. A. Dynamin-mediated internalization 75–87 (2005).
+68. Collins, A., Warrington, A., Taylor, K. A. & Svitkina, T. of caveolae. J. Cell Biol. 141, 85–99 (1998). 118. Morita, E. et al. Human ESCRT and ALIX proteins
+Structural organization of the actin cytoskeleton at 94. Jones, S. M., Howell, K. E., Henley, J. R., Cao, H. & interact with proteins of the midbody and function in
+sites of clathrin-mediated endocytosis. Curr. Biol. 21, McNiven, M. A. Role of dynamin in the formation of cytokinesis. EMBO J. 26, 4215–4227 (2007).
+1167–1175 (2011). transport vesicles from the trans-Golgi network. 119. Tan, T. C. et al. Cdk5 is essential for synaptic vesicle
+69. Liu, J., Sun, Y., Drubin, D. G. & Oster, G. F. The Science 279, 573–577 (1998). endocytosis. Nature Cell Biol. 5, 701–710 (2003).
+mechanochemistry of endocytosis. PLoS Biol. 7, 95. Derivery, E. et al. The Arp2/3 activator WASH controls 120. Kashatus, D. F. et al. RALA and RALBP1 regulate
+e1000204 (2009). the fission of endosomes through a large multiprotein mitochondrial fission at mitosis. Nature Cell Biol. 13,
+70. Chang-Ileto, B. et al. Synaptojanin 1-mediated PI(4,5) complex. Dev. Cell 17, 712–723 (2009). 1108–1115 (2011).
+P hydrolysis is modulated by membrane curvature 96. Kreitzer, G., Marmorstein, A., Okamoto, P., Vallee, R. 121. Sorkin, A. & von Zastrow, M. Endocytosis and
+2
+and facilitates membrane fission. Dev. Cell 20, 206– & Rodriguez-Boulan, E. Kinesin and dynamin are signalling: intertwining molecular networks. Nature
+218 (2011). required for post-Golgi transport of a plasma- Rev. Mol. Cell Biol. 10, 609–622 (2009).
+71. Frost, A., Unger, V. M. & De Camilli, P. The BAR membrane protein. Nature Cell Biol. 2, 125–127 122. Sigismund, S. et al. Clathrin-mediated internalization is
+domain superfamily: membrane-molding (2000). essential for sustained EGFR signaling but dispensable
+macromolecules. 97. Mesaki, K., Tanabe, K., Obayashi, M., Oe, N. & Takei, for degradation. Dev. Cell 15, 209–219 (2008).
+Cell 137, 191–196 (2009). K. Fission of tubular endosomes triggers endosomal 123. Vieira, A. V., Lamaze, C. & Schmid, S. L. Control of EGF
+72. Farsad, K. et al. Generation of high curvature acidification and movement. PloS ONE 6, e19764 receptor signaling by clathrin-mediated endocytosis.
+membranes mediated by direct endophilin bilayer (2011). Science 274, 2086–2089 (1996).
+interactions. J. Cell Biol. 155, 193–200 (2001). 98. Rothman, J. H., Raymond, C. K., Gilbert, T., O’Hara, 124. Windler, S. L. & Bilder, D. Endocytic internalization
+73. Takei, K., Slepnev, V. I., Haucke, V. & De Camilli, P. P. J. & Stevens, T. H. A putative GTP binding protein routes required for Delta/Notch signaling. Curr. Biol.
+Functional partnership between amphiphysin and homologous to interferon-inducible Mx proteins 20, 538–543 (2010).
+dynamin in clathrin-mediated endocytosis. Nature Cell performs an essential function in yeast protein sorting. 125. Poodry, C. A. shibire, a neurogenic mutant of
+Biol. 1, 33–39 (1999). Cell 61, 1063–1074 (1990). Drosophila. Dev. Biol. 138, 464–472 (1990).
+74. Huang, F., Khvorova, A., Marshall, W. & Sorkin, A. 99. Yarar, D., Waterman-Storer, C. M. & Schmid, S. L. A 126. Polo, S. & Di Fiore, P. P. Endocytosis conducts the cell
+Analysis of clathrin-mediated endocytosis of epidermal dynamic actin cytoskeleton functions at multiple signaling orchestra. Cell 124, 897–900 (2006).
+growth factor receptor by RNA interference. J. Biol. stages of clathrin-mediated endocytosis. Mol. Biol. Cell 127. Shen, H. et al. Constitutive activated
+Chem. 279, 16657–16661 (2004). 16, 964–975 (2005). Cdc42-associated kinase (Ack) phosphorylation at
+75. Henne, W. M. et al. FCHo proteins are nucleators of 100. Boulant, S., Kural, C., Zeeh, J. C., Ubelmann, F. & arrested endocytic clathrin-coated pits of cells that
+clathrin-mediated endocytosis. Science 328, Kirchhausen, T. Actin dynamics counteract membrane lack dynamin.
+1281–1284 (2010). tension during clathrin-mediated endocytosis. Mol. Biol. Cell 22, 493–502 (2011).
+76. Traub, L. M. Tickets to ride: selecting cargo for Nature Cell Biol. 13, 1124–1131 (2011). 128. Chircop, M. et al. Inhibition of dynamin by dynole
+clathrin-regulated internalization. Nature Rev. Mol. 101. Schlunck, G. et al. Modulation of Rac localization and 34–2 induces cell death following cytokinesis failure in
+Cell Biol. 10, 583–596 (2009). function by dynamin. Mol. Biol. Cell 15, 256–267 cancer cells. Mol. Cancer Ther. 10, 1553–1562
+77. Kirchhausen, T. Adaptors for clathrin-mediated traffic. (2004). (2011).
+Annu. Rev. Cell Dev. Biol. 15, 705–732 (1999). 102. Krueger, E. W., Orth, J. D., Cao, H. & McNiven, M. A. 129. Goldenthal, K. L., Pastan, I. & Willingham, M. C. Initial
+78. Saffarian, S., Cocucci, E. & Kirchhausen, T. Distinct A dynamin-cortactin-Arp2/3 complex mediates actin steps in receptor-mediated endocytosis. The influence
+dynamics of endocytic clathrin-coated pits and coated reorganization in growth factor-stimulated cells. of temperature on the shape and distribution of
+plaques. PLoS Biol. 7, e1000191 (2009). Mol. Biol. Cell 14, 1085–1096 (2003). plasma membrane clathrin-coated pits in cultured
+79. Itoh, T. et al. Dynamin and the actin cytoskeleton 103. Gold, E. S. et al. Dynamin 2 is required for mammalian cells. Exp. Cell Res. 152, 558–564
+cooperatively regulate plasma membrane invagination phagocytosis in macrophages. J. Exp. Med. 190, (1984).
+by BAR and F-BAR proteins. Dev. Cell 9, 791–804 1849–1856 (1999). 130. Dittman, J. & Ryan, T. A. Molecular circuitry of
+(2005). 104. Baldassarre, M. et al. Dynamin participates in focal endocytosis at nerve terminals. Annu. Rev. Cell Dev.
+80. Perera, R. M., Zoncu, R., Lucast, L., De Camilli, P. & extracellular matrix degradation by invasive cells. Biol. 25, 133–160 (2009).
+Toomre, D. Two synaptojanin 1 isoforms are recruited Mol. Biol. Cell 14, 1074–1084 (2003). 131. Newton, A. J., Kirchhausen, T. & Murthy, V. N.
+to clathrin-coated pits at different stages. Proc. Natl 105. Ochoa, G. C. et al. A functional link between dynamin Inhibition of dynamin completely blocks compensatory
+Acad. Sci. USA 103, 19332–19337 (2006). and the actin cytoskeleton at podosomes. J. Cell Biol. synaptic vesicle endocytosis. Proc. Natl Acad. Sci. USA
+81. Damke, H., Binns, D. D., Ueda, H., Schmid, S. L. & 150, 377–389 (2000). 103, 17955–17960 (2006).
+Baba, T. Dynamin GTPase domain mutants block 106. Lee, E. & De Camilli, P. Dynamin at actin tails. 132. Shupliakov, O. et al. Synaptic vesicle endocytosis
+endocytic vesicle formation at morphologically distinct Proc. Natl Acad. Sci. USA 99, 161–166 impaired by disruption of dynamin-SH3 domain
+stages. Mol. Biol. Cell 12, 2578–2589 (2001). (2002). interactions. Science 276, 259–263 (1997).
+82. Massol, R., Boll, W., Griffin, A. M. & Kirchhausen, T. 107. Orth, J. D., Krueger, E. W., Cao, H. & McNiven, M. A. 133. Sundborger, A. et al. An endophilin–dynamin complex
+burst of auxilin recruitment determines the onset of The large GTPase dynamin regulates actin comet promotes budding of clathrin-coated vesicles during
+clathrin-coated vesicle uncoating. Proc. Natl Acad. Sci. formation and movement in living cells. Proc. Natl synaptic vesicle recycling. J. Cell Sci. 124, 133–143
+USA 103, 10265–10270 (2006). Acad. Sci. USA 99, 167–172 (2002). (2011).
+NATURE REVIEWS | MOLECULAR CELL BIOLOGY VOLUME 13 | FEBRUARY 2012 | 87
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+
+REVIEWS
+134. Xu, J. et al. GTP-independent rapid and slow 157. Patterson, E. E. et al. A canine DNM1 mutation is 181. Antonny, B. Membrane deformation by protein coats.
+endocytosis at a central synapse. Nature Neurosci. 11, highly associated with the syndrome of exercise- Curr. Opin. Cell Biol. 18, 386–394 (2006).
+45–53 (2008). induced collapse. Nature Genet. 40, 1235–1239 182. McMahon, H. T. & Gallop, J. L. Membrane curvature
+135. Yamashita, T., Hige, T. & Takahashi, T. Vesicle (2008). and mechanisms of dynamic cell membrane
+endocytosis requires dynamin-dependent GTP 158. Donaldson, J. G. & Jackson, C. L. ARF family G remodelling. Nature 438, 590–596 (2005).
+hydrolysis at a fast CNS synapse. Science 307, proteins and their regulators: roles in membrane 183. Peter, B. J. et al. BAR domains as sensors of
+124–127 (2005). transport, development and disease. Nature Rev. Mol. membrane curvature: the amphiphysin BAR structure.
+136. Lou, X., Paradise, S., Ferguson, S. M. & De Camilli, P. Cell Biol. 12, 362–375 (2011). Science 303, 495–499 (2004).
+Selective saturation of slow endocytosis at a giant 159. Detmer, S. A. & Chan, D. C. Functions and 184. Frost, A. et al. Structural basis of membrane
+glutamatergic central synapse lacking dynamin 1. dysfunctions of mitochondrial dynamics. Nature Rev. invagination by F-BAR domains. Cell 132, 807–817
+Proc. Natl Acad. Sci. USA 105, 17555–17560 Mol. Cell Biol. 8, 870–879 (2007). (2008).
+(2008). 160. Hoppins, S., Lackner, L. & Nunnari, J. The machines 185. Shimada, A. et al. Curved EFC/F-BAR-domain dimers
+137. Isaka, F. et al. Ectopic expression of the bHLH gene that divide and fuse mitochondria. Annu. Rev. are joined end to end into a filament for membrane
+Math1 disturbs neural development. Eur. J. Neurosci. Biochem. 76, 751–780 (2007). invagination in endocytosis. Cell 129, 761–772
+11, 2582–2588 (1999). 161. Okamoto, K. & Shaw, J. M. Mitochondrial morphology (2007).
+138. Dewachter, I. et al. Neuronal deficiency of presenilin 1 and dynamics in yeast and multicellular eukaryotes. 186. Wang, Q. et al. Molecular mechanism of membrane
+inhibits amyloid plaque formation and corrects Annu. Rev. Genet. 39, 503–536 (2005). constriction and tubulation mediated by the F-BAR
+hippocampal long-term potentiation but not a 162. Westermann, B. Mitochondrial fusion and fission in protein pacsin/syndapin. Proc. Natl Acad. Sci. USA
+cognitive defect of amyloid precursor protein [V717I] cell life and death. Nature Rev. Mol. Cell Biol. 11, 106, 12700–12705 (2009).
+transgenic mice. J. Neurosci. 22, 3445–3453 (2002). 872–884 (2010). 187. Rao, Y. et al. Molecular basis for SH3 domain
+139. Cousin, M. A. & Robinson, P. J. The dephosphins: 163. Eppinga, R. D. et al. Increased expression of the large regulation of F-BAR-mediated membrane
+dephosphorylation by calcineurin triggers synaptic GTPase dynamin 2 potentiates metastatic migration deformation. Proc. Natl Acad. Sci. USA 107,
+vesicle endocytosis. Trends Neurosci. 24, 659–665 and invasion of pancreatic ductal carcinoma. 8213–8218 (2010).
+(2001). Oncogene 15 Aug 2011 (doi:10.1038/onc.2011.329). 188. Cipolat, S., Martins de Brito, O., Dal Zilio, B. &
+140. Lee, S. Y., Wenk, M. R., Kim, Y., Nairn, A. C. & 164. Hollingworth, P. et al. Common variants at ABCA7, Scorrano, L. OPA1 requires mitofusin 1 to promote
+De Camilli, P. Regulation of synaptojanin 1 by cyclin- MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are mitochondrial fusion. Proc. Natl Acad. Sci. USA 101,
+dependent kinase 5 at synapses. Proc. Natl Acad. Sci. associated with Alzheimer’s disease. Nature Genet. 15927–15932 (2004).
+USA 101, 546–551 (2004). 43, 429–435 (2011). 189. Moss, T. J., Daga, A. & McNew, J. A. Fusing a lasting
+141. McPherson, P. S., Takei, K., Schmid, S. L. & De Camilli, 165. Naj, A. C. et al. Common variants at MS4A4/MS4A6E, relationship between ER tubules. Trends Cell Biol. 21,
+P. p145, a major Grb2-binding protein in brain, is CD2AP, CD33 and EPHA1 are associated with late- 416–423 (2011).
+co-localized with dynamin in nerve terminals where it onset Alzheimer’s disease. Nature Genet. 43, 436– 190. Gao, S. et al. Structure of myxovirus resistance protein
+undergoes activity-dependent dephosphorylation. 441 (2011). a reveals intra- and intermolecular domain
+J. Biol. Chem. 269, 30132–30139 (1994). 166. Veiga, E. et al. Invasive and adherent bacterial interactions required for the antiviral function.
+142. Lu, J. et al. Postsynaptic positioning of endocytic pathogens co-opt host clathrin for infection. Cell Host Immunity 35,
+zones and AMPA receptor cycling by physical coupling Microbe 2, 340–351 (2007). 514–525 (2011).
+of dynamin-3 to Homer. Neuron 55, 874–889 (2007). 167. Hu, J. et al. A class of dynamin-like GTPases involved 191. Kim, B. H. et al. A family of IFN-γ–inducible 65-kD
+143. Carroll, R. C. et al. Dynamin-dependent endocytosis of in the generation of the tubular ER network. Cell 138, GTPases protects against bacterial infection. Science
+ionotropic glutamate receptors. Proc. Natl Acad. Sci. 549–561 (2009). 332, 717–721 (2011).
+USA 96, 14112–14117 (1999). 168. Orso, G. et al. Homotypic fusion of ER membranes 192. MacMicking, J. D. IFN-inducible GTPases and
+144. Perez-Otano, I. et al. Endocytosis and synaptic requires the dynamin-like GTPase atlastin. Nature immunity to intracellular pathogens. Trends Immunol.
+removal of NR3A-containing NMDA receptors by 460, 978–983 (2009). 25,
+PACSIN1/syndapin1. Nature Neurosci. 9, 611–621 169. Haller, O., Gao, S., von der Malsburg, A., Daumke, O. 601–609 (2004).
+(2006). & Kochs, G. Dynamin-like MxA GTPase: structural 193. Gao, H., Kadirjan-Kalbach, D., Froehlich, J. E. &
+145. Hayashi, M. et al. Cell- and stimulus-dependent insights into oligomerization and implications for Osteryoung, K. W. ARC5, a cytosolic dynamin-like
+heterogeneity of synaptic vesicle endocytic recycling antiviral activity. J. Biol. Chem 285, 28419–28424 protein from plants, is part of the chloroplast division
+mechanisms revealed by studies of dynamin 1-null (2010). machinery. Proc. Natl Acad. Sci. USA 100,
+neurons. Proc. Natl Acad. Sci. USA 105, 2175–2180 170. Prakash, B., Praefcke, G. J., Renault, L., Wittinghofer, 4328–4333 (2003).
+(2008). A. & Herrmann, C. Structure of human guanylate- 194. Glynn, J. M., Miyagishima, S. Y., Yoder, D. W.,
+146. Clayton, E. L. et al. The phospho-dependent dynamin- binding protein 1 representing a unique class of GTP- Osteryoung, K. W. & Vitha, S. Chloroplast division.
+syndapin interaction triggers activity-dependent bulk binding proteins. Nature 403, 567–571 (2000). Traffic 8, 451–461 (2007).
+endocytosis of synaptic vesicles. J. Neurosci. 29, 171. Gu, X. & Verma, D. P. Phragmoplastin, a dynamin-like 195. Vater, C. A., Raymond, C. K., Ekena, K., Howald-
+7706–7717 (2009). protein associated with cell plate formation in plants. Stevenson, I. & Stevens, T. H. The VPS1 protein, a
+147. Zuchner, S. et al. Mutations in the pleckstrin homology EMBO J. 15, 695–704 (1996). homolog of dynamin required for vacuolar protein
+domain of dynamin 2 cause dominant intermediate 172. Low, H. H., Sachse, C., Amos, L. A. & Lowe, J. sorting in Saccharomyces cerevisiae, is a GTPase with
+Charcot–Marie–Tooth disease. Nature Genet. 37, Structure of a bacterial dynamin-like protein lipid tube two functionally separable domains. J. Cell Biol. 119,
+289–294 (2005). provides a mechanism for assembly and membrane 773–786 (1992).
+148. Bitoun, M. et al. Mutations in dynamin 2 cause curving.
+dominant centronuclear myopathy. Nature Genet. 37, Cell 139, 1342–1352 (2009). Acknowledgements
+1207–1209 (2005). 173. Miyagishima, S. Y. et al. A plant-specific dynamin- This work was supported in part by the Howard Hughes
+149. Durieux, A. C., Prudhon, B., Guicheney, P. & Bitoun, related protein forms a ring at the chloroplast division Medical Institute, the G. Harold and Leila Y. Mathers
+M. Dynamin 2 and human diseases. J. Mol. Med. 88, site. Plant Cell 15, 655–665 (2003). Charitable Foundation, US National Institutes of Health
+339–350 (2010). 174. Daumke, O. et al. Architectural and mechanistic grants (R37NS036251, DK45735 and DA018343), the
+150. Nicot, A. S. et al. Mutations in amphiphysin 2 (BIN1) insights into an EHD ATPase involved in membrane W. M. Keck Foundation and a National Alliance for Research
+disrupt interaction with dynamin 2 and cause remodelling. Nature 449, 923–927 (2007). on Schizophrenia and Depression distinguished investigator
+autosomal recessive centronuclear myopathy. 175. Delettre, C. et al. Nuclear gene OPA1, encoding a award to P.D.C. We thank H. Shen, M. Pirucello, A. Raimondi
+Nature Genet. 39, 1134–1139 (2007). mitochondrial dynamin-related protein, is mutated in and O. Daumke for their suggestions and insights and
+151. Lee, E. et al. Amphiphysin 2 (Bin1) and T-tubule dominant optic atrophy. Nature Genet. 26, 207–210 M. Pirucello and A. Raimondi for assistance with the prepara-
+biogenesis in muscle. Science 297, 1193–1196 (2000). tion of figures.
+(2002). 176. Zuchner, S. et al. Mutations in the mitochondrial
+152. Boumil, R. M. et al. A missense mutation in a highly GTPase mitofusin 2 cause Charcot–Marie–Tooth Competing interests statement
+conserved alternate exon of dynamin-1 causes neuropathy type 2A. Nature Genet. 36, 449–451 The authors declare no competing financial interests.
+epilepsy in fitful mice. PLoS Genet. 6, e1001046 (2004).
+(2010). 177. Zhao, X. et al. Mutations in a newly identified GTPase
+153. Di Paolo, G. et al. Decreased synaptic vesicle recycling gene cause autosomal dominant hereditary spastic DATABASES
+efficiency and cognitive deficits in amphiphysin 1 paraplegia. Nature Genet. 29, 326–331 (2001). Protein Data Bank: http://www.rcsb.org/pdb/home/home.do
+knockout mice. Neuron 33, 789–804 (2002). 178. Waterham, H. R. et al. A lethal defect of mitochondrial 3SNH
+154. Koch, D. et al. Proper synaptic vesicle formation and and peroxisomal fission. N. Engl. J. Med. 356,
+neuronal network activity critically rely on syndapin I. 1736–1741 (2007). FURTHER INFORMATION
+EMBO J. 30, 4955–4969 (2011). 179. Baumgart, T., Capraro, B. R., Zhu, C. & Das, S. L. Pietro De Camilli’s homepage:
+155. Milosevic, I. et al. Recruitment of endophilin to Thermodynamics and mechanics of membrane http://medicine.yale.edu/labs/decamilli/www/Home.html
+clathrin-coated pit necks is required for efficient vesicle curvature generation and sensing by proteins and
+SUPPLEMENTARY INFORMATION
+uncoating after fission. Neuron 72, 587–601 (2011). lipids. Annu. Rev. Phys. Chem. 62, 483–506 (2011).
+156. Fassio, A. et al. SYN1 loss-of-function mutations in 180. Farsad, K. & De Camilli, P. Mechanisms of membrane See online article: S1 (table) | S2 (box)
+autism and partial epilepsy cause impaired synaptic deformation. Curr. Opin. Cell Biol. 15, 372–381 ALL LINKS ARE ACTIVE IN THE ONLINE PDF
+function. Hum. Mol. Genet. 20, 2297–2307 (2011). (2003).
+88 | FEBRUARY 2012 | VOLUME 13 www.nature.com/reviews/molcellbio
+© 2012 Macmillan Publishers Limited. All rights reserved
+
+---PAGE BREAK---
+

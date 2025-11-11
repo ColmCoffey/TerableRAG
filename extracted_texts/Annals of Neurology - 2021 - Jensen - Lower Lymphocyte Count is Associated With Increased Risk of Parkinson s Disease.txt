@@ -1,0 +1,590 @@
+RESEARCHARTICLE
+Lower Lymphocyte Count is Associated
+With Increased Risk of Parkinson’s Disease
+Melanie P. Jensen, MBBS
+,1,2†
+Benjamin Meir Jacobs, MRCP
+,1†
+Ruth Dobson, MRCP, PhD ,1 Sara Bandres-Ciga, PhD,3 Cornelis Blauwendraat, PhD ,3
+Anette Schrag, MD, PhD,4 Alastair J. Noyce, MRCP, PhD, 1,4
+and The International Parkinson’s Disease Genomics Consortium (IPDGC)
+Objectives: Patients with established Parkinson’s disease (PD) display differences in peripheral blood markers of
+immunefunction,includingleukocytedifferentialcounts,comparedwithcontrols.Thesedifferencesmaybeusefulbio-
+markers to predict PD and may shed light on pathogenesis. We sought to identify whether peripheral immune dys-
+regulationwasassociatedwithincreasedriskofsubsequentPDdiagnosis.
+Methods: We examined the relationship between incident PD, baseline differential leukocyte count and other blood
+markersofacuteinflammationinUKBiobank(UKB),alongitudinalcohortwith(cid:1)500,000participants.Weusedarange
+ofsensitivityanalysesandMendelianrandomization(MR)tofurtherexplorethenatureofassociations.
+Results:Afterexcludingindividualswithcomorbiditieswhichcouldinfluencebiomarkersofinflammation,465incident
+PD cases and 312,125 controls remained. Lower lymphocyte count was associated with increased risk of subsequent
+PDdiagnosis(per1-SDdecreaseinlymphocytecountoddsratio[OR]=1.18,95%confidenceinterval[CI]=1.07–1.32,
+p = 0.01). There was some evidence that reductions in eosinophil counts, monocyte counts and C-reactive pro-
+adjusted
+tein(CRP)wereassociatedwithincreasedPDrisk,andthathigherneutrophilcountwasalsoassociated.Onlytheasso-
+ciation betweenlower lymphocytecount and increasedPD riskremained robust to sensitivityanalyses.MR suggested
+that the effect of lower lymphocyte count on PD risk may be causal (per 1-SD decrease in lymphocyte count; OR
+MR
+=1.09,95%CI=1.01–1.18,p=0.02).
+Interpretation: We provide converging evidence from observational analyses in UKB and MR that lower lymphocyte
+countisassociatedwithanincreasedriskofsubsequentPD.
+ANNNEUROL2021;89:803–812
+Parkinson’s disease (PD) affects 2% of the population measure in large-scale observational studies. Previous stud-
+over 65years of age.1 The diagnosis is made once ies have found lower lymphocyte counts in patients with
+motor signs appear, however, by this stage (cid:1)50% of PD compared with controls, driven by reductions in
+nigrostriatal neurons have been lost.2 There is an urgent helper-CD4+ T cell and B-cell counts.3–7 Case-control
+unmet clinical need for earlier identification of PD and studies have also identified higher neutrophil and lower
+development of therapies that could slow, prevent, or lymphocyte counts in patients with established PD com-
+reversetheprogression ofthedisease. paredwithcontrols.8
+Immune dysregulation may play a role in the patho- Converging evidence from genetic, epidemiological,
+genesis of PD. The white blood cell (WBC) differential is and cytokine profiling studies has added further weight to
+a crude marker of immune function but is simple to the view that immune dysregulation may play a role in
+Viewthisarticleonlineatwileyonlinelibrary.com.DOI:10.1002/ana.26034
+ReceivedSep30,2020,andinrevisedformJan28,2021.AcceptedforpublicationJan28,2021.
+AddresscorrespondencetoDrAlastairJ.Noyce,PreventiveNeurologyUnit,WolfsonInstituteofPreventiveMedicine,QueenMaryUniversityofLondon,
+CharterhouseSquare,LondonEC1M6BQ,UK.E-mail:a.noyce@qmul.ac.uk
+†Theseauthorscontributedequallytothiswork.
+Fromthe1PreventiveNeurologyUnit,WolfsonInstituteofPreventiveMedicine,QueenMaryUniversityofLondon,London,UK;2DepartmentofCellular
+Pathology,NorthwestLondonPathology,CharingCrossHospitalCampus,London,UK;3LaboratoryofNeurogenetics,NationalInstituteonAging,
+NationalInstitutesofHealth,Bethesda,MD,USA;and4DepartmentofClinicalandMovementNeurosciences,UCLInstituteofNeurology,London,UK
+Additionalsupportinginformationcanbefoundintheonlineversionofthisarticle.
+©2021TheAuthors.AnnalsofNeurologypublishedbyWileyPeriodicalsLLConbehalfofAmericanNeurologicalAssociation. 803
+ThisisanopenaccessarticleunderthetermsoftheCreativeCommonsAttribution-NonCommercial-NoDerivsLicense,whichpermitsuseand
+distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations
+aremade.
+
+---PAGE BREAK---
+
+ANNALSof Neurology
+the pathogenesis of PD.9 Human leukocyte antigen genes PD or a consequence of preclinical PD, limiting our abil-
+(HLA; DRB1 / DRB5) have been identified as risk loci itytomakecausalinferencesaboutthedirectionofeffect.
+for PD in genomewide association studies (GWAS).10,11
+Invitro,alpha-synuclein-derivedpeptidesarepreferentially
+Methods
+displayed on major histocompatibility (MHC) molecules
+Population
+associated with PD risk, suggesting that PD-associated
+UKB recruited (cid:1)500,000 individuals aged 40 to 69years
+HLAhaplotypescoulddriveanadaptiveimmuneresponse
+between 2006 and 2010. Prospective follow-up data,
+targeted toward alpha-synuclein epitopes.12,13 Variants in
+including census data, blood tests, and healthcare records,
+the leucine-rich repeat kinase 2 (LRRK2) gene, a target for
+are regularly obtained.18 Institutional review board
+proinflammatory signals, confer effects in the same direc-
+approval was not required as all data provided by UKB is
+tion on risk of PD and Crohn’s disease.14 Observational de-identified.
+studies have reported reduced risk of PD and reduced PD cases were defined as individuals with an Inter-
+penetrance of LRRK2 variants with use of immunosup- national Classification of Disease (ICD)-10 diagnosis of
+pressants and nonsteroidal anti-inflammatory drugs.15,16 PD (code G20) derived from Hospital Episode Statistics
+The prospective ICICLE-PD cohort study found that a oraself-reporteddiagnosisofPD.ThedateatPDdiagno-
+baseline “pro-inflammatory” serum cytokine profile in sis was determined using the UKB data field “Date of
+patients with PD was associated with faster motor deterio- Parkinson’s Disease report.” Age at diagnosis was derived
+rationthanan“anti-inflammatory”profile.17 using this field, age at recruitment, and birth year. Cases
+It is however unclear whether immune dysregulation were defined as “incident” if their age at diagnosis was
+is detectable inthe years prior toPDdiagnosis.Toanswer greater than at recruitment. “Prevalent” PD cases (ie, with
+this, we studied the relationship between baseline blood a diagnosis of PD at baseline), were excluded from ana-
+tests (differential leukocyte count and markers of acute lyses. “Controls” were defined as all other individuals in
+inflammation) and incident PD in UK Biobank (UKB), a the dataset after applying these exclusions. Individuals
+large longitudinal cohort with (cid:1)500,000 participants. We without data available for the baseline visit blood tests
+used a range of sensitivity analyses to mitigate the likeli- were excluded. A flowchart of participant numbers at each
+hood that observed associations were driven by con- stage of inclusions and exclusions is provided in Figure 1.
+founding or reverse causation. Given the long latency Demographic details of excluded participants are also
+between the biological onset and clinical presentation of showninTable1.
+PD, it is plausible that cases identified as clinically inci- Various pre-existing health conditions can influence
+dent were actually biologically “prevalent” at the time of leukocyte differential counts and biomarkers of inflamma-
+recruitment. Observed associations between immune tion. To minimize bias from unbalanced comorbidities
+changes and incident PD could either be a determinant of among cases and controls, we excluded individuals with
+ICD-10 diagnoses of malignant neoplasms, disease of the
+blood and blood-forming organs, autoimmune disease,
+thyrotoxicosis, demyelinating disease of the central ner-
+vous system, inflammatory respiratory conditions (asthma
+and bronchiectasis), noninfective enteritis, inflammatory
+dermatologicalconditions(atopicdermatitisandpsoriasis),
+inflammatory polyarthropathies, spondylopathies, and eat-
+ingdisorders (Supplementary TableS1).
+BloodCellMarkers
+Blood cell markers (absolute and relative counts) and
+other markers of inflammation (CRP and albumin) were
+obtained from baseline blood tests of UKB participants
+taken at the initial assessment visit (https://biobank.ndph.
+ox.ac.uk/showcase/label.cgi?id=100080). Details of data
+processing can be found on the UKB website (http://
+biobank.ndph.ox.ac.uk/showcase/showcase/docs/haematol
+ogy.pdf and https://biobank.ndph.ox.ac.uk/showcase/sho
+FIGURE 1: Flowchart of participants showing the number of
+individualsincludedateachstage. wcase/docs/serum_biochemistry.pdf).
+804 Volume89,No.4
+
+---PAGE BREAK---
+
+Jensenetal.:LymphocyteCountandParkinson’sDiseaseRisk
+TABLE1.DemographicInformationforIncidentPDCasesandControlsAfterExclusions
+Excludedindividuals Matchedanalysis Unmatchedanalysis
+Controls Cases Controls Controls
+(n=172,582) (n=1,201) (n=1,860) Cases(n=465) (n=312,125) Cases(n=465)
+AgeatPDreport NA 69.65(5.7) NA 68.52(6.82) NA 68.52(6.82)
+Ageat 58.99(7.46) 63.58(5.18) 62.4(5.81) 62.4(5.82) 55.21(8.1) 62.4(5.82)
+recruitment
+Townsendscore −1.2(3.15) −1.16(3.21) −1.52(3.05) −1.51(2.94) −1.36(3.06) −1.51(2.94)
+Sex
+F 95,510(55.35%) 317(41.22%) 636(34.19%) 159(34.19%) 167,951(53.81%) 159(34.19%)
+M 77,062(44.65%) 452(58.78%) 1,224(65.81%) 306(65.81%) 144,174(46.19%) 306(65.81%)
+Self-reportedethnicbackground
+Non-White 7,067(4.12%) 31(4.05%) 72(3.89%) 12(2.61%) 18,406(5.93%) 12(2.61%)
+White 164,518(95.88%) 735(95.95%) 1,778(96.11%) 448(97.39%) 292,189(94.07%) 448(97.39%)
+Countryofbirth
+Donotknow 47(0.03%) 0(0%) 0(0%) 1(0.22%) 90(0.03%) 1(0.22%)
+Elsewhere 11186(6.49%) 47(6.14%) 124(6.67%) 24(5.18%) 26936(8.64%) 24(5.18%)
+England 137,274(79.69%) 640(83.55%) 1,438(77.4%) 362(78.19%) 239,966(76.96%) 362(78.19%)
+Northern 1,061(0.62%) 8(1.04%) 14(0.75%) 6(1.3%) 1,920(0.62%) 6(1.3%)
+Ireland
+Prefernotto 204(0.12%) 0(0%) 1(0.05%) 3(0.65%) 475(0.15%) 3(0.65%)
+answer
+Republicof 2,051(1.19%) 10(1.31%) 19(1.02%) 11(2.38%) 2,737(0.88%) 11(2.38%)
+Ireland
+Scotland 12,742(7.4%) 39(5.09%) 174(9.36%) 41(8.86%) 25,952(8.32%) 41(8.86%)
+Wales 7,703(4.47%) 22(2.87%) 88(4.74%) 15(3.24%) 13,724(4.4%) 15(3.24%)
+“Unmatchedanalysis”referstotheentirecohortafterexclusionofindividualswithpotentiallyconfoundingcomorbidities.“Matchedanalysis”refersto
+1:4 matched controls (matched to incident PD cases by age at recruitment and sex). Demographic data for excluded individuals (excluded due to
+potentiallyconfoundingcomorbidities)arealsoshown.Categoricalvariablesarepresentedasn(%),andcontinuousvariablesasmean(SD).
+NA=notapplicable;PD=Parkinson’sdisease.
+StatisticalAnalysis effect of a decrease in each exposure on PD risk. The
+Wedeterminedassociations ofbloodcellandinflammatory regression coefficient for each trait therefore represents the
+markers with incident risk of PD using logistic regression. predicted effect of a 1-standard deviation (SD) decrease in
+Asourprimaryanalysis,weconductedmultivariablelogistic the trait. Raw, untransformed counts and distributions for
+regression,modelingincidentPDdiagnosisastheoutcome, each of the blood test traits are shown in Supplementary
+andadjustingforage,sex,Townsenddeprivationscore,and TableS2.Thestrengthofassociationwasdeterminedusing
+ethnicity(dichotomizedas“White”backgroundvsallother
+the likelihood ratiotest, comparing the fullmodel to a null
+ethnicities). Models were of the form: Incident PD(cid:1)age model consisting of the confounding covariates only (inci-
++sex+deprivation+ethnicity+blood cellmarker. Prior to dent PD(cid:1)age+sex+deprivation+ethnicity). The p
+modelfitting,allexposures weretransformedtoZ scores to values were adjusted to control the false discovery rate at
+allow for comparison of effect sizes between exposures 5% using the Benjamini-Hochberg procedure (adjusted
+(Z = (value−mean)/SD). For clarity, we examined the pvaluesarelabeledas“Q”values).
+April2021 805
+
+---PAGE BREAK---
+
+ANNALSof Neurology
+We then undertook a variety of sensitivity analyses. in adjusted and normalized lymphocyte count per addi-
+First, we included additional covariates in the models: tionaleffectallele.
+body mass index (BMI) at recruitment, smoking status We applied the following steps to develop a genetic
+(“ever” vs “never”), and alcohol consumption (“ever” vs instrument forlymphocytecount:
+“never”). Second, we excluded individuals within serial
+1. Removed single nucleotide polymorphisms (SNPs) not
+time windows of PD diagnosis (<1, <2, <3years from
+typed/imputedintheoutcomeGWAS;
+diagnosis, etc.) to determine whether the effects from the
+2. Restrictedtobiallelicsinglenucleotidevariants;
+primary analysis were restricted to individuals who would
+3. Removed SNPs within the super-extended MHC
+go on to develop PD sooner (i.e. who were more likely to
+region due to the complex pleiotropy and linkage dis-
+already have PD and simply have not had their diagnosis
+equilibrium (LD) of this region (hg19, chr6:
+coded in healthcare records yet). Third, we repeated the
+25,000,000–35,000,000);
+analysis using a matched case:control approach, individu-
+4. Restricted to SNPs strongly associated with standard-
+ally matching controls by age and sex to PD cases with a
+izedlymphocytecount(p<5e-08);
+4:1 ratio. Fourth, we repeated the analyses with more lib-
+5. Clumped SNPs using stringent default parameters (LD
+eral inclusion criteria (ie, including all participants in the
+window=10,000kb,r2=0.001);
+datasetregardlessofco-existentcomorbidities).
+6. Removed SNPs explaining more variance in the out-
+To determine associations between blood markers
+comethantheexposurethroughSteigerfiltering.22
+andtimeuntilPDdiagnosis,weconstructed linearmodels
+for the time toPD diagnosis onage, sex, Townsend score,
+Outcome data for PD were taken from the most
+ethnicity, and blood cell marker. Model fit was quantified
+recent and largestcase-control GWAS of PD published by
+using the likelihood ratio test. Time to diagnosis/report the IPDGC and 23andMe.25 Overlap in the controls in
+wasnormalisedpriortomodel-fittingusingtherank-based
+the exposure and outcome data can result in bias, so we
+inverse-normaltransformation.
+used summary statistics from the PD GWAS that
+excludedparticipantsfromtheUKB.
+MendelianRandomization We harmonized exposure and outcome SNPs to
+We used2-sampleMendelianrandomization (MR) tofur-
+ensure that effect estimates were aligned for the same
+ther examine robust associations from the observational
+effect allele. As our primary analysis, we used the inverse-
+study forevidenceof causal influence onPDrisk.MR isa
+variance weighted (IVW) MR estimate, which provides an
+type of instrumental variable (IV) analysis, which exploits
+estimate of the effect of the exposure on the outcome
+the association between genetic variants and an exposure when MR assumptions are valid.26 As a secondary sensi-
+to predict the effect of that exposure on an outcome.19,20 tivity analysis, we applied the Mixture of Experts
+As genetic variants are randomly allocated at birth and do
+approach, which applies different MR estimators and
+not change throughout the lifetime, MR can be used in
+methods for SNP instrument selection (heterogeneity and
+some situations to estimate the effect of an exposure while directionality filtering), and predicts which method has
+reducing the effects of confounding and reverse causation.
+the highest probability of estimating the effect of the
+The validity of the MR estimate depends on 3 core
+exposure on the outcome based on the data characteris-
+assumptions:thattheIVisassociatedwiththeexposure of tics.22 As a further sensitivity analysis, we used MR-
+interest, that the IV is not associated with confounders of
+PRESSO (Pleiotropy Residual Sum and Outlier) to auto-
+the exposure-outcome association, and that the IV is only
+matically remove outliers with evidence of substantial plei-
+associated with the outcome via its effect on the exposure otropy. MR-PRESSO quantifies the degree of distortion
+of interest. If these assumptions are satisfied, MR can be of the IVW estimate contributed by each variant; more
+used to approximate the causal effect of the exposure on
+pleiotropic variants are expected to deviate more strongly
+theoutcome.21
+from the overall IVW regression line.27 For each variant,
+Weperformed2-sampleMRusingtheTwoSampleMR
+MR-PRESSO calculates the IVW estimate without that
+R package.22,23 For the exposure instrument, we used variant,quantifiesthedifference between theexpectedand
+summary statistics from the largest published GWAS on
+observed effect on the outcome of that variant, and com-
+blood cell traits.24 This GWAS of 408,112 European
+pares that residual to a null distribution to generate an
+UKB participants used as its outcome measure the abso-
+empiricalpvalue.
+lute lymphocyte count which was adjusted for covariates
+(age, sex, principal components, and study-specific fac- DataandCodeAvailability
+tors) and rank inverse-normalized. Thus, a one unit UK Biobank data are available via application (https://
+increase in the beta coefficient represents a 1-SD increase www.ukbiobank.ac.uk/). Code is available at https://
+806 Volume89,No.4
+
+---PAGE BREAK---
+
+Jensenetal.:LymphocyteCountandParkinson’sDiseaseRisk
+TABLE2.AssociationofBloodCellTraitsandInflammatoryMarkerswithIncidentPD
+Trait ORper1-SDreductioninexposure p Adjustedpvalue(Q,FDR5%)
+Lymphocytecount 1.18(95%CI=1.07–1.32) 0.001 0.011
+Eosinophilcount 1.16(95%CI=1.04–1.3) 0.006 0.027
+CRP 1.13(95%CI=1–1.29) 0.031 0.073
+Monocytecount 1.12(95%CI=1.01–1.26) 0.032 0.073
+Neutrophilcount 0.91(95%CI=0.84–1) 0.051 0.093
+Albumin 1.04(95%CI=0.93–1.15) 0.504 0.756
+Plateletcount 1.02(95%CI=0.93–1.13) 0.645 0.829
+Totalwhitecellcount 1(95%CI=0.91–1.1) 0.945 0.979
+Basophilcount 1(95%CI=0.91–1.11) 0.979 0.979
+Thetableshowstheoddsratios,confidenceintervals,pvaluesfromlikelihoodratiotests,andFDRQvaluesfortheoutputofmultivariablelogistic
+regressionmodels,modelingincidentPDonage+sex+deprivation+ethnicity+trait.Oddsratiosrepresentthepredictedeffectofa1standarddevia-
+tion(SD)decreaseinthetrait(ie,a1unitdecreaseinZscore)ontheoddsofincidentPD.Forinstance,foreach1-SDdecreaseinlymphocytecount,
+theoddsofPDarepredictedtoincreaseby18%.
+CI=confidenceinterval;CRP=C-reactiveprotein;FDR=FalseDiscoveryRate;OR=oddsratio;PD=Parkinson’sdisease;SE=standarderror.
+github.com/Wolfson-PNU-QMUL/PD_FBC. PD GWAS
+summary statistics which exclude UKB data can be
+obtained from https://pdgenetics.org/resources and an
+application to 23andMe https://research.23andme.com/
+dataset-access/.25 Blood cell trait GWAS summary statis-
+tics have been made publicly available by the authors at
+ftp://ftp.sanger.ac.uk/pub/project/humgen/summary_statis
+tics/UKBB_blood_cell_traits/.
+Results
+Demographics
+After applying the exclusion criteria, 465 incident PD
+cases and 312,125 controls remained in the main
+(unmatched) analysis (see Fig 1). Participant demographic
+dataareshowninTable1.
+AssociationofBloodCellandInflammatory
+TraitswithIncident PD
+Each 1-SD reduction in lymphocyte count was associated
+with an 18% increase in the odds of incident PD (odds
+ratio [OR] =1.18, 95% confidence interval [CI] = 1.07–
+1.32, p = 0.01; Table 2, Fig 2). There was some evi-
+adjusted
+dence that reductions in CRP, monocyte count, and eosin- FIGURE 2: Association of blood cell traits and inflammatory
+markers with incident Parkinson’s disease (PD) in the UK
+ophil count were also associated with an increased risk of Biobank(UKB).Betasand95%confidenceintervals(CIs)are
+subsequentPD(seeTable2).Therewasalsosomeevidence shown from multivariable logistic regression models of the
+that a higher neutrophil count was associated with PD (see form PD(cid:1)age+sex+ethnicity+Townsend deprivation
+score+bloodmarker.EstimatesshownhereareforZ-scores
+Table 2). We obtained similar results with a slight loss of
+andareorientatedsuchthatanincreaseof“1”onthexaxis
+precision in a matched case:control subset of the wider corresponds to the effect of a 1 standard deviation (SD)
+cohort(SupplementaryTableS3). decreaseinthebloodmarker.
+April2021 807
+
+---PAGE BREAK---
+
+ANNALSof Neurology
+FIGURE 4: Mendelian randomization (MR) analysis of the
+effect of lymphocyte count on Parkinson’s disease (PD) risk.
+Scatter plot showing per-effect-allele single nucleotide
+FIGURE 3: Mendelian randomization (MR) estimates from
+various methods using the “Mixture of Experts (MOE) polymorphism(SNP)associationswithlymphocytecountand
+approach.” MR estimates are orientated such that they theper-allelelogoddsratio[OR]forPD.Notethattoorient
+the MR effects in the same direction as the observational
+express the predicted effect on PD risk of each 1 standard
+estimate, we reversed the effect directions for SNP
+deviation (SD) reduction in lymphocyte count. The y axis
+associations with lymphocyte count such that a 1 unit
+shows different MR methods and different approaches for
+filtering single nucleotide polymorphisms (SNPs) to be increase on the x axis reflects a genetically-predicted 1
+included in the genetic instrument (heterogeneity filtering standard deviation (SD) reduction in lymphocyte count for
+[HF]). Note that we employed Steiger / directional filtering
+eachcopyoftheeffectallele.ThemodelfitlinesindicateMR
+estimatesfromdifferentMRmethods.
+(DF)fortheprimaryanalysisandtheMOEanalysis.Estimates
+are colored and ordered by the “MOE” statistic, which is
+similar to an area under the curve statistic in that it
+quantifiesthatabilityofagivenMRmethodtodistinguisha
+trueeffectfromtheabsenceofatrueeffect.MOEstatistics
+diagnosis(within1,2,3,4,5,6,7,and8yearsofdiagno-
+closer to 1 indicate a higher likelihood that the given MR
+methodwillgiveanaccurateestimateforthegivendataset. sis). There was a consistent signal in all groups (Supple-
+mentary Table S5). Exclusion of extreme lymphocyte
+counts (mean±>3 SD) did not substantially alter the
+To determine whether these associations could be observed association (OR for PD per 1-SD decrease in
+driven by confounding, we constructed models in which lymphocyte count = 1.17, 95% CI = 1.06–1.29,
+we also controlled for variables that can impact both PD p = 0.002). Lymphopenia – defined as a binary trait
+risk and blood cell indices: BMI, smoking, and alcohol (ie, absolute lymphocyte count <1×109 cells/L) – was
+consumption.Theeffectestimatesfromthesemodelswere associated with an increased risk of PD (OR = 1.93, 95%
+lessprecisebutofasimilarmagnitudetotheprimaryanal- CI = 1.26–2.97, p = 0.006). Repeating these analyses
+ysis(SupplementaryTableS4).Inthesemodels,onlylym- using theentireUKBcohortwithavailabledata(ie,includ-
+phocyte count remained strongly associated with incident ing those with potentially confounding comorbidities that
+PDatafalsediscoveryrateof5%. were excluded for the primary analysis) yielded very similar
+To examine the possibility that reverse causation findings (Supplementary Table S6). There was no strong
+could be driving our findings (ie, that early PD could be evidence that any blood markers were associated with
+driving lower lymphocyte counts) we excluded individuals time until PD diagnosis at a false discovery rate of <5%
+who underwent blood draw within serial time windows of (SupplementaryTableS7).
+808 Volume89,No.4
+
+---PAGE BREAK---
+
+Jensenetal.:LymphocyteCountandParkinson’sDiseaseRisk
+MendelianRandomization (UPDRS) motor scores.29 Flow cytometric analysis has
+WeusedMRtodeterminewhethertheobservationalasso- demonstratedthatleukocyteapoptosisishigherinpatients
+ciation between lower lymphocyte count and increased with PD than in controls and is associated with dopami-
+risk of incident PD might be a causal relationship. The nergic deficits on single photon emission computed
+genetic instrument for lymphocyte count consisted of tomography (SPECT).30 However, these studies have
+510 independent non-MHC autosomal SNPs (Supple- examined immune markers in established PD and have
+mentary Table S8). Collectively, these SNPs explained not determined whether lower lymphocyte count influ-
+5.37% of the variance in lymphocyte count in this sample encesPDriskorrepresentsaconsequenceofaccumulating
+and could be considered a strong instrument (F PD pathology. Moreover, most individuals with PD in
+statistic=45.3). these studies are receiving dopaminergic medication,
+In the primary MR analysis (IVW), for each geneti- which could confound immunophenotypic patient/control
+cally estimated 1-SD decrease in lymphocyte count, the differences.31–33 In contrast to previous studies relating
+odds of PD were increased by 9% (OR = 1.09, 95% blood counts to prevalent PD, the availability of baseline
+CI = 1.01–1.18, p = 0.02). The confidence interval for blood tests and longitudinal follow-up of PD diagnosis in
+the IVW estimate overlapped those of the observational this study enabled us to examine the association between
+estimate. There was no evidence that unbalanced horizon- leukocytesubsetsandriskofincidentPD.
+tal pleiotropy (whereby variants influence the outcome via Only one other study has explored the link between
+pathways other than through the exposure) was biasing leukocyte subsets and risk of incident PD. In the Swedish
+the IVW result (MR-Egger intercept = −0.0006, Apolipoprotein-RelatedMortalityRiskcohort,higherlym-
+p = 0.76). There was evidence of substantial heterogeneity phocyte count was associated with a lower risk of incident
+in the IVW estimate (Cochran’s Q = 642, PD (HR = 0.74, 95% CI = 0.59–0.94).34 However, pre-
+p = 5.29×10 −5), however, heterogeneity filtering did not existing health conditions that can influence blood counts
+alter the magnitude of the effect, and in fact increased the were not excluded or adjusted for so the possibility of
+precision of the estimate (Supplementary Table S9). Stan- residual confounding remained. We took several steps to
+dard sensitivity analyses and the “mixture of experts” address bias and confounding in the observational study:
+approach yielded similar effect estimates with varying we excluded 100,000 individuals with comorbidities, such
+degrees of precision, collectively providing evidence that as autoimmune disease and cancer, we corrected for
+genetically lowered lymphocyte count may be a risk factor potential confounders in the primary analysis (age, sex,
+for PD (Figs 3 and 4, Supplementary Table S9). MR- ethnicity, and deprivation indices), and undertook sensi-
+PRESSO yielded an estimate of similar magnitude and tivity analyses (including a broader list of confounders,
+precision to the primary analysis (OR = 1.09, 95% matching controls to cases in a 4:1 ratio for age and sex,
+CI=1.01–1.17,p=0.03).
+and excluding extreme values more than 3 SDs from the
+mean, and including the entire cohort of individuals).
+Takentogether, theassociationbetween lower lymphocyte
+Discussion
+count and higher risk of subsequent PD diagnosis does
+We used data from >300,000 individuals enrolled in the not appear to be driven by measured confounding factors.
+UKB to examine the association between blood markers Inaddition,weshowtheassociationpersistedafterexclud-
+of immune system function (full blood count, CRP, and ing individuals who underwent blood draw within 8years
+albumin) and the risk of subsequent PD diagnosis. We ofdiagnosis, reducingthepossibilityofreversecausation.
+found evidence that lower lymphocyte count was associ- We then used MR to further explore the nature of
+ated with increased risk of incident PD. This finding was the association between lower lymphocyte count and
+robust in a range of sensitivity analyses and 2-sample MR, higher risk of PD. We used the latest large-scale GWAS
+suggesting it was unlikely to be driven by observed con- efforts to construct a strong genetic instrument explaining
+foundingfactorsorreversecausation. (cid:1)5% of the variation in lymphocyte count. The IVW
+Several studies have assessed changes in leukocyte MR estimate was commensurate with the observational
+populations in PD after diagnosis. Established PD is asso- effect size we observed (OR =1.09, 95% CI = 1.01–
+MR
+ciated with lower lymphocyte counts, driven by absolute 1.18; OR =1.18, 95% CI = 1.07–1.32). The
+Observational
+reductions in CD4+ T-helper cells, CD19+ B-cells, and MR-Egger regression intercept, which quantifies the
+Treg
+cells.4–6,28
+In a study of 123 newly diagnosed degree to which net unbalanced horizontal pleiotropy may
+patients with PD, the percentage of neutrophils and lym- bias the IVW estimate, was close to null, suggesting that
+phocytes had positive and negative correlations, respec- the main IVW estimate provided an unbiased estimate of
+tively, with Unified Parkinson Disease Rating Scale the effect of lower lymphocyte count on risk of
+April2021 809
+
+---PAGE BREAK---
+
+ANNALSof Neurology
+PD. Sensitivity analyses using a variety of MR estimators, MR analysis precludes the identification of nonlinear
+heterogeneity filtering, and MR-PRESSO supported the exposure-outcomeassociations,althoughnonlinear mecha-
+magnitude of the IVW estimate, albeit with varying nisms are not seen in other conditions in which
+precision. lymphopenia influences outcome.39,40 Furthermore we
+PDisknowntohavealonglatencybetweenbiologi- used the age at PD report to determine approximate age
+cal onset and clinical presentation. As such, a proportion at diagnosis - this is a proxy measure at best and reflects
+oftheincidentPDcasesincludedmayhavebeenclinically the first coded diagnosis of PD in linked healthcare
+incident but biologically prevalent at the time of recruit- records or by self-report (where both were available, the
+ment. We cannot be certain that lymphopenia precedes earlier date was used). This is not the same as the true
+biological disease onset and it could therefore be a marker date of diagnosis, and may be several years later. Although
+of preclinical PD.Alternatively,theassociationmightarise we tried to mitigate this concern by excluding individuals
+as a result of a shared, potentially genetic, cause. Hence, whose blood test date and date of PD report were close,
+we are limited in our ability to conclude that lower lym- we cannot exclude the possibility that for some individ-
+phocyte count mechanistically drives PD pathogenesis uals, the true date of PD diagnosis could differ consider-
+from this study. Nonetheless, there is evidence to support ablyfromthedateofPDreport.
+a mechanistic link between lower lymphocyte count and In conclusion, we report that lower lymphocyte
+PD. Studies in patients with PD have demonstrated count is associated with higher risk of subsequent diagno-
+blood–brain barrier compromise in the vicinity of the sis of PD in a large UK cohort. The association remained
+midbrain and increased T-cells infiltrating affected brain robust to a range of sensitivity analyses. MR analyses
+regions.35 CD4+ T-cell counts in the amygdala correlate suggested that this relationship may be causal and is not
+with activated microglia and alpha-synuclein pathology, purely driven by confounding or reverse causation. Lower
+suggesting a causative role for infiltrating T-cells in lymphocyte count, although lacking specificity as a bio-
+propagating neurodegeneration.36 Thus, reductions in marker in isolation, may enhance efforts to identify
+peripheral lymphocyte counts in incident PD may patients who are at the earliest (ie, preclinical) stages of
+reflect migration of T-cells into the central nervous PD.Wecannotexclude thepossibilitythatlower lympho-
+system(CNS). cytecountmaybeaconsequence ofpreclinicalPDorthat
+Strengths of our study include the large sample size the association arises through a common aetiological fac-
+derived from the UKB, the triangulation of various differ- tor. Further work is required to replicate these findings in
+ent sensitivity analyses, and the triangulation of the obser- other cohorts and to address the mechanisms underpin-
+vational and MR results. The comprehensive phenotyping ningthisrelationship.
+of individuals in the cohort allowed us to correct for mul-
+tiplepotentialconfounding factors.
+Limitations of our study include the possibility of Acknowledgments
+collider bias. UKB is a highly selected cohort and we
+This research has been conducted using the UK Bio-
+analysed only (cid:1)65% of the recruited sample (due to
+bank Resource. We thank the participants of the UK
+exclusion of participants with missing covariates, prevalent
+Biobank. We would also like to acknowledge the
+PD cases, and those with comorbidities that can influence
+23andMe Research Team (especially Dr Karl Heilbron)
+blood counts). However, despite selection leading to more
+and the 23andMe research participants. The Preventive
+favorable risk factor profiles, exposure-outcome associa-
+Neurology Units is funded by the Barts Charity. Mel-
+tions in the UKB have been shown to be generalizable.37
+anie Jensen received support from the Isaac Schapera
+Survivalbiasmaydistortobservationalstudyresults.How-
+Trust and Benjamin Jacobs is an National Institute for
+ever, the cohort of participants we analyzed in the UKB
+Health Research (NIHR) Academic Clinical Fellow. The
+were relatively young at study inclusion (see Table 1),
+funding bodies had no role design and conduct of the
+which,inturn, islikelytominimizethe impactofsurvival
+study; collection, management, analysis, and interpreta-
+bias on effect estimates.38 We did not adjust for medica-
+tion of the data; preparation, review, or approval of the
+tion use, which could impact leukocyte subsets, although
+manuscript; and decision to submit the manuscript for
+exclusion for comorbidities associated with use of immu-
+publication.
+nosuppressant and immunomodulatory medication will
+have captured a significant proportion of this con-
+founding. Due to lack of flow cytometric data in the Author Contributions
+UKB, we could not establish whether the observed associ- M.P.J., B.M.J., and A.J.N. contributed to the conception
+ation was driven by reductions in T-cells and/or B-cells. and design of the study. M.P.J., B.M.J., R.D., S.B., C.B.,
+810 Volume89,No.4
+
+---PAGE BREAK---
+
+Jensenetal.:LymphocyteCountandParkinson’sDiseaseRisk
+and A.S. contributed to acquisition and analysis of data. 16. San Luciano M, Tanner CM, Meng C, et al. Nonsteroidal anti-
+inflammatory use and LRRK2 Parkinson’s disease penetrance. Mov
+M.P.J., B.M.J., R.D., S.B., C.B., and A.S. contributed to
+Disord2020;35:1755–1764.
+draftingthetextandpreparingthefigures.
+17. Williams-Gray CH, Wijeyekoon R, Yarnall AJ, et al. Serum immune
+markersanddiseaseprogressioninanincidentParkinson’sdisease
+cohort(ICICLE-PD).MovDisord2016;31:995–1003.
+Potential Conflicts of Interest
+18. Bycroft C, Freeman C, Petkova D, et al. The UKbiobank resource
+The authors have no potential conflicts of interest to with deep phenotyping and genomic data. Nature 2018;562:
+203–209.
+report.
+19. Davey Smith G, Hemani G. Mendelian randomization: genetic
+anchors for causal inference in epidemiological studies. Hum Mol
+Genet2014;23:R89–R98.
+20. Bandres-CigaS,NoyceAJ,TraynorBJ.Mendelianrandomization-A
+References journeyfromobscuritytocenterstagewithafewpotholesalongthe
+way.JAMANeurol2019;77:7–8.
+1. deRijkMC,LaunerLJ,BergerK,etal.PrevalenceofParkinson’sdis-
+ease in Europe: a collaborative study of population-based cohorts. 21. BowdenJ,DaveySmithG,BurgessS.Mendelianrandomizationwith
+Neurologicdiseasesintheelderlyresearchgroup.Neurology2000; invalid instruments: effect estimation and bias detection through
+54:S21–S23. eggerregression.IntJEpidemiol2015;44:512–525.
+2. ChengH-C, UlaneCM, Burke RE.Clinical progression inParkinson 22. HemaniG,TillingK,DaveySmithG.Orientingthecausalrelation-
+disease and the neurobiology of axons. Ann Neurol 2010;67: ship between imprecisely measured traits using GWAS summary
+715–725. data.PLoSGenet2017;13:e1007081.
+3. Gruden MA, Sewell RDE, Yanamandra K, et al. Immunoprotection 23. Hemani G, Zheng J, Elsworth B, et al. The MR-base platform sup-
+againsttoxicbiomarkersisretainedduringParkinson’sdiseasepro- portssystematiccausalinferenceacrossthehumanphenome.Elife
+gression.JNeuroimmunol2011;233:221–227. 2018;7:e34408.
+4. Bas J, Calopa M, Mestre M, et al. Lymphocyte populations in 24. VuckovicD,BaoEL,AkbariP,etal.Thepolygenicandmonogenic
+Parkinson’s disease and in rat models of parkinsonism. basisofbloodtraitsanddiseases.Cell2020;182:1214–1231.
+JNeuroimmunol2001;113:146–152.
+25. NallsMA,BlauwendraatC,VallergaCL,etal.Identificationofnovel
+5. Baba Y, Kuroiwa A, Uitti RJ, et al. Alterations of T-lymphocyte riskloci,causalinsights,andheritableriskforParkinson’sdisease:a
+populationsinParkinsondisease.ParkinsonismRelatDisord2005;11: meta-analysis of genome-wide association studies. Lancet Neurol
+493–498. 2019;18:1091–1102.
+6. StevensCH,RoweD,Morel-KoppM-C,etal.ReducedThelperand 26. PierceBL,BurgessS.Efficient designforMendelianrandomization
+B lymphocytes in Parkinson’s disease. J Neuroimmunol 2012;252: studies: subsample and 2-sample instrumental variable estimators.
+95–99. AmJEpidemiol2013;178:1177–1184.
+7. NiwaF,KuriyamaN,NakagawaM,ImanishiJ.Effectsofperipheral 27. VerbanckM,ChenCY,NealeB,DoR.Detectionofwidespreadhori-
+lymphocyte subpopulations and the clinical correlation with zontalpleiotropyincausalrelationshipsinferredfromMendelianran-
+Parkinson’sdisease.GeriatrGerontolInt2011;12:102–107. domization betweencomplextraitsanddiseases. NatGenet2018;
+50:693–698.
+8. AkilE,BulutA,KaplanI,etal.Theincreaseofcarcinoembryonicanti-
+gen (CEA), high-sensitivity C-reactive protein, and 28. CharlettA,DobbsRJ,DobbsSM,etal.Bloodprofileholdscluesto
+neutrophil/lymphocyteratioinParkinson’sdisease.NeurolSci2015; role of infection in a premonitory state for idiopathic parkinsonism
+36:423–428. andofgastrointestinalinfectioninestablisheddisease.GutPathog
+2009;1:20.
+9. TanE-K,ChaoY-X,WestA,etal.Parkinsondiseaseandtheimmune
+system—associations,mechanismsandtherapeutics.NatRevNeurol 29. UmeharaT,OkaH,NakaharaA,etal.Differentialleukocytecountis
+2020;16:303–318. associated with clinical phenotype in Parkinson’s disease. J Neurol
+Sci2020;409:116638.
+10. SaikiM,BakerA,Williams-GrayCH,etal.Associationofthehuman
+leucocyte antigen region with susceptibility to Parkinson’s disease. 30. LinW-C,TsaiN-W,HuangY-C,etal.Peripheralleukocyteapopto-
+JNeurolNeurosurgPsychiatry2010;81:890–891. sisinpatientswith parkinsonism: correlation withclinicalcharacter-
+istics and neuroimaging findings. Biomed Res Int 2014;2014:
+11. NallsMA,PlagnolV,HernandezDG,etal.Imputationofsequence
+635923.
+variants for identification of genetic risks for Parkinson’s disease: a
+meta-analysisofgenome-wideassociationstudies.Lancet2011;377: 31. McKenna F, McLaughlin PJ, Lewis BJ, et al. Dopamine receptor
+641–649. expressiononhumanT-andB-lymphocytes,monocytes,neutrophils,
+eosinophilsandNKcells:aflowcytometricstudy.JNeuroimmunol
+12. Sulzer D, Alcalay RN, Garretti F, et al. T cells from patients with 2002;132:34–40.
+Parkinson’s disease recognize alpha-synuclein peptides. Nature
+2017;546:656–661. 32. Besser MJ, Ganor Y, Levite M. Dopamine by itself activates either
+D2,D3 orD1/D5 dopaminergic receptors innormal humanT-cells
+13. Bandres-Ciga S, Cookson MR. Alpha-synuclein triggers T-cell and triggers the selective secretion of either IL-10, TNFα or both.
+response.IsParkinson’sdiseaseanautoimmunedisorder?MovDis-
+JNeuroimmunol2005;169:161–171.
+ord2017Sep;32:1327.
+33. Carr L, Tucker A, Fernandez-Botran R. In vivo administration of L-
+14. HuiKY,Fernandez-HernandezH,HuJ,etal.Functionalvariantsin
+dopa or dopamine decreases the number of splenic IFN gamma-
+theLRRK2geneconfersharedeffectsonriskforCrohn’sdiseaseand
+producingcells.JNeuroimmunol2003;137:87–93.
+Parkinson’sdisease.SciTranslMed2018;10:eaai7795.
+34. Yazdani S, Mariosa D, Hammar N, et al. Peripheral immune bio-
+15. NoyceAJ,BestwickJP,Silveira-MoriyamaL,etal.Meta-analysisof
+markersandneurodegenerativediseases:aprospectivecohortstudy
+earlynonmotorfeaturesandriskfactorsforParkinsondisease.Ann with20yearsoffollow-up.AnnNeurol2019;86:913–926.
+Neurol2012;72:893–901.
+April2021 811
+
+---PAGE BREAK---
+
+ANNALSof Neurology
+35. GarrettiF,AgalliuD,LindestamArlehamnCS,etal.Autoimmunityin 38. SmitRAJ,TrompetS,DekkersOM,etal.SurvivalbiasinMendelian
+Parkinson’s disease: the role of α-Synuclein-specific T cells. Front randomization studies: a threat to causal inference. Epidemiology
+Immunol2019;10:303. 2019;30:813–816.
+36. Kouli A, Camacho M, Allinson K, Williams-Gray CH. Neu- 39. Britanova OV, Putintseva EV, Shugay M, et al. Age-related
+roinflammationandproteinpathologyinParkinson’sdiseasedemen- decrease in TCR repertoire diversity measured with deep
+tia.ActaNeuropatholCommun2020;8:211. and normalized sequence profiling. J Immunol 2014;192:
+2689–2698.
+37. BattyGD,GaleCR,KivimakiM,DearyIJ,BellS.Comparisonofriskfac-
+torassociationsinUKBiobankagainstrepresentative,generalpopulation 40. ZidarDA,Al-KindiSG,LiuY,etal.AssociationofLymphopeniawith
+basedstudieswithconventionalresponserates:prospectivecohortstudy RiskofmortalityamongadultsintheUSgeneralpopulation.JAMA
+andindividualparticipantmeta-analysis.BMJ.2020;368:m131. NetworkOpen2019;2:e1916526-e.
+812 Volume89,No.4
+
+---PAGE BREAK---
+

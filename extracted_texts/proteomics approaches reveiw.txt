@@ -1,0 +1,1270 @@
+JOURNAL OF PROTEOMICS 73 (2009) 10–29
+available at www.sciencedirect.com
+www.elsevier.com/locate/jprot
+Review
+Proteomics in human Parkinson's disease research
+Virginie Lickera, Enikö Kövarib, Denis F. Hochstrasserc, Pierre R. Burkharda,d,⁎
+aNeuroproteomicsGroup,UniversityMedicalCenter,FacultyofMedicine,UniversityofGeneva,Switzerland
+bDepartmentofPsychiatry,GenevaUniversityHospitals,Switzerland
+cDepartmentofGeneticsandLaboratoryMedicine,GenevaUniversityHospitals,Switzerland
+dDepartmentofNeurology,GenevaUniversityHospitals,Geneva,Switzerland
+A R T I C L E I N F O A B S T R A C T
+Articlehistory: Duringthelastdecades,considerableadvancesintheunderstandingofspecificmechanisms
+Received8April2009 underlying neurodegeneration in Parkinson's disease have been achieved, yet neither
+Accepted8July2009 definiteetiologynorunifyingsequenceofmoleculareventshasbeenformallyestablished.
+Current unmet needs in Parkinson's disease research include exploring new hypotheses
+Keywords: regardingdiseasesusceptibility,occurrenceandprogression,identifyingreliablediagnostic,
+Parkinson'sdisease prognostic and therapeutic biomarkers, and translating basic research into appropriate
+Lewybody disease-modifying strategies. The most popular view proposes that Parkinson's disease
+Substantianigra results from the complex interplay between genetic and environmental factors and
+Proteomics mechanisms believed to be at work include oxidative stress, mitochondrial dysfunction,
+Protein excitotoxicity, iron deposition and inflammation. More recently, a plethora of data has
+α-synuclein accumulatedpinpointinganabnormalprocessingoftheneuronalproteinα-synucleinasa
+pivotal mechanism leading to aggregation, inclusions formation and degeneration. This
+protein-orientedscenariologicallyopensthedoortotheapplicationofproteomicstrategies
+to this field of research. We here review the current literature on proteomics applied to
+Parkinson's disease research, with particular emphasis on pathogenesis of sporadic
+Parkinson'sdiseaseinhumans.WeproposetheviewthatParkinson'sdiseasemaybean
+acquiredorgenetically-determinedbrainproteinopathyinvolvinganabnormalprocessing
+ofseveral,ratherthanindividualneuronalproteins,anddiscusssomepre-analyticaland
+analyticaldevelopmentsinproteomicsthatmayhelpinverifyingthisconcept.
+©2009ElsevierB.V.Allrightsreserved.
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2. NeuropathologyofParkinson'sdisease:theenigmaofprogression . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Abbreviations: ALS, amyotrophic lateral sclerosis; α-SYN, α-synuclein; AD, Alzheimer's disease; CNS, central nervous system; CSF,
+cerebrospinal fluid; DA, dopamine; DUB, deubiquinating enzyme; 2-DE, two-dimensional electrophoresis; HE, hematoxylin–eosin; LB,
+Lewybody;LC,locusceruleus;LCM,lasercapturemicrodissection;LD,levodopa;LN,Lewyneuritis;LP,lumbarpuncture;MPTP,1-methyl
+4-phenyl1,2,3,6-tetrahydropyridine;NM,neuromelanin;PD,Parkinson'sdisease;PTMs,post-translationalmodifications;ROS,reactive
+oxygenspecies;SNpc,substantianigraparscompacta;TMT,tandemmasstags;UB,ubiquitin;UPS,ubiquitin–proteasomesystem;VTA,
+ventraltegmentalarea.
+⁎ Corresponding author. Department of Neurology, Geneva University Hospitals, 4, rue Gabrielle-Perret-Gentil, 1211 Geneva 14,
+Switzerland.Tel.:+41223728309;fax:+41223728332.
+E-mailaddress:Pierre.Burkhard@hcuge.ch(P.R.Burkhard).
+1874-3919/$–seefrontmatter©2009ElsevierB.V.Allrightsreserved.
+doi:10.1016/j.jprot.2009.07.007
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 11
+3. Selectiveneurodegeneration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+4. Lewybody . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4.1. Structureandcomposition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4.2. Alpha-synuclein . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5. Potentialmechanismsunderlyingdegeneration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.1. Oxidativestressandmitochondrialdysfunction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+5.2. Proteinaggregationandtheubiquitin–proteasomesystem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+5.3. Manyunsolvedissues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6. ProteomicsappliedtoParkinson'sdiseaseresearch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.1. ProteomicsinanimalmodelsofPD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.2. ProteomicsinhumanPD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.2.1.CSFproteinprofiling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6.2.2.Braintissueproteinprofiling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+6.2.3.Cellularandsubcellularproteomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+7. Potentialavenuesandconclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+7.1. Quantitatingproteinexpression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+7.2. Examiningproteinmodifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+7.2.1.Oxidation,nitrationandS-nitrosylation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+7.2.2.Phosphorylation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+7.2.3.Ubiquitination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+7.3. Studyingproteinmiscleavage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+1. Introduction and postural instability. Since the pioneering work of Fritz
+HeinrichLewyin1912andConstantinTrétiakoffin1919,the
+Parkinson'sdisease(PD)isthemostcommonneurodegenera- neuropathologicallesionsatthebasisoftypical,sporadicPD
+tivemovementdisorder,affecting1–2%ofthepopulationover havebeenextensivelystudiedandcomprehensivelydefined
+theage of60 years[1]and over6 million peopleworldwide. [7,8]. Classically, there is a progressive loss of neurons in
+Recent epidemiological projections herald a continuously selectedpigmentedandnon-pigmentedbrainstemandcere-
+increasingprevalencealongwithpopulations'aginganditis bralnuclei,particularlyinthesubstantianigraparscompacta
+anticipated that the number of affected individuals may (SNpc)inthemidbrainandthelocusceruleus(LC)inthepons.
+double in the most populous nations within the next two There is also a mild degree of astrocytic and microglial
+decades [2]. As a result, PD represents a growing socio- reaction. Remaining neurons show inclusions, known as
+economic burden on societies and a major public health pale bodies and Lewy bodies (LBs, Fig. 1a) when located in
+challenge for the future, the more so as, despite extensive their cytoplasm, and Lewy neuritis (LNs, Fig. 1d) in their
+research, neither the cause nor the mechanisms underlying neuronalprocesses,whichhavebeenshownusingimmuno-
+the condition have been firmly established thus far. Con-
+chemistrytechniquestobenotablycomposedofα-synuclein
+sequences resulting from this uncertainty include poor (α-SYN) (Fig. 1b, f, h) [9]. The temporal and topographical
+diagnosticaccuracy,absenceofvalidbiomarkersanddifficul- progression of PD pathology in the central (CNS) and, to a
+ties to elaborate therapeutic interventions that might sig- lesserextent,theperipheralautonomicnervoussystem,has
+nificantlyinfluencediseaseprogression.Inthisreviewarticle,
+beenrecentlyrefined[10–13].Accordingtothesestudies,PD
+wemaketheassumptionthatmodernproteomictechnologies pathology, defined as α-SYN positive aggregates, appears to
+mayoffernewinsightsintothepathogenesisofPDand,while follow a non-random, caudo-rostral progression within the
+broadreviewshavealreadybeenpublishedinthisfield[3–5], CNS,startinginthedorsalmotornucleusofthevagusnervein
+wewillfocusonproteomicsasatooltoapproachpathogen- the brainstem, in the olfactory bulb and anterior olfactory
+esisofsporadicPDinhumans. nucleus.Lesionsthenbecomemoreandmorepronouncedin
+affected areas while progressing rostrally and involving
+subsequentstructuresinastereotypedandselectivemanner
+2. Neuropathology of Parkinson's disease: the through what Braak and colleagues have defined as six
+enigma of progression neuropathological stages of PD, the first two stages corre-
+spondingtopresymptomaticPDandthenextfourtosympto-
+Sincebeingformallyrecognizedasadistinctmorbidentityin matic PD. During this pathological process, selective
+1817byJamesParkinsoninhisseminal“EssayonaShaking structuresofthebrainstem,temporalmesocortexandeven-
+Palsy” [6], PD has been essentially regarded as a disorder of tually neocortex are progressively involved. Consequently,
+motor function, producing a variable, asymmetric and pro- involvement of the SNpc, which occurs during PD's Braak
+gressivecombinationofrestingtremor,bradykinesia,rigidity stage 3, is just another step in a much larger, multisytem
+
+---PAGE BREAK---
+
+12 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+specificbrainregionstoexhibitLewypathology,irrespective
+of the timing of events. According to this view, there is no
+caudo-rostral progression and the common involvement of
+theSNpc,theLCandthedorsalmotornucleusof thevagus
+nerve, either alone or in various combinations, reflects the
+individuallikelihoodandvulnerabilityofthesestructuresto
+developLewydeposits.
+From a research point of view, whatever the mode of
+progression, these neuropathological considerations imply
+thatinformation extracted fromhumansamples,taken at a
+certain time point during PD progression, will, somewhat
+artifactually, offer an instantaneous view of a constantly
+evolving pathology and may not necessarily reflect the
+complexdynamicsofthewholedegenerativeprocess.
+3. Selective neurodegeneration
+WhereastheetiologyofsporadicPDremainsunknown,many
+pathogenicmechanismshavebeenshowntobelikelyatwork
+in the SNpc of PD patients, including oxidative stress and
+production of reactive oxygen species (ROS) in excess,
+mitochondrialdysfunctionandenergyproductionimbalance,
+excitotoxicity mediated by increased glutamatergic stimula-
+tion,excessivedepositionofreactiveironandabnormaliron–
+neuromelanin (NM) interaction, inflammation and immune-
+mediated reactions, defects in neurotrophic factors, and
+apoptosis, among others [17]. More recently, an abnormal
+cellularproteinprocessinganddysfunctionoftheubiquitin–
+proteasomesystem(UPS)havebeensuggestedtobecentralto
+LB formation and neurodegeneration. It is likely that more
+than one of these mechanisms is involved, yet the exact
+combinationandsuccessionofwhichremainunclear.
+The nigrostriatal pathway is formed by DA-containing
+neuronsprojectingtothestriatum(i.e.,putamenandcaudate
+nucleus)whosecellbodiesareconfinedinadenselypopulated
+Fig.1–HistologicallesionsofParkinson'sdisease:“classical”
+SNsubdivisionindividualizedastheparscompacta.TheSNpc
+or“brainstem-type”Lewybodiesinthesubstantianigra
+actsasamodulatorofmotorfunctionviaadualeffectuponthe
+parscompacta(a–c);Lewyneurites(d);palebodies(eandf)
+basal ganglia loops, through dopaminereceptor D1-mediated
+andcorticalLewybodiesintheentorhinalcortex(gandh). activationalongthedirectpathwayandD2-mediatedinactiva-
+(a,eandg:HEstaining;b,d,fandh:immunohistochemistry tionoftheindirectpathway,topromotevoluntaryandinhibit
+withantibodyanti-α-synuclein;c:immunohistochemistry
+involuntarymovements.InPD,theextensiveneuronaldegen-
+withantibodyanti-ubiquitin.Scalebar:a–cande–h:20µm,d:
+eration of this dopaminergic pathway alters the balance
+60µm). between both loopsresultinginthetypical features of PD, in
+particular bradykinesia. While PD neurodegeneration is not
+restrictedtodopaminergicsystems,thereasonswhyaselected
+pathology,whichinvolvesnotonlymotorbutalsonon-motor, population of DA neurons is primarily targeted while others
+autonomic, limbic and cognitive systems. It is important to remainmarginallyornotatallaffected,isanimportantissueto
+appreciate that, in this scenario, neurodegeneration is be addressed. Indeed, neurodegeneration of the DA neurons
+initiated a considerable time before symptoms become doesnotseemtooccurrandomlyordiffuselywithintheSNpcor
+detectable — probably 5 to 10 years — and the disease theotherDAsystems.Infact,nigrallesionsareregionallyhighly
+clinicallystartswhenabout50to70%ofnigralneuronshave selectivewiththeventrolateralandcaudaltiersbeingprimarily
+alreadybeenlost[14].Thus,anearlyclinicaldiagnosisofPDis and more severely affected, whereas the dorsomedial tier is
+necessarilymadeatanadvancedpathologicalstage. moreaffectedduringnormalaging[18].Althoughageconstitu-
+However, the concept proposed above has been recently testhemostimportantriskfactorforthedevelopmentofPD,the
+challengedmostlybecauseofthelackofcorrelationbetween processes inducing age-related dopaminergic neuronal loss
+the Braak staging system and the clinical severity of PD, seem to be anatomically distinct from those underlying PD.
+casting doubt about its predictive validity [15,16]. As an ThisheterogeneityandselectivevulnerabilityofDA—andalso
+alternative,ithasbeenhypothesizedthattheregionalpattern non-DA — neurons has been hypothesized to result from
+of α-SYN deposition may reflect the relative propensity of morphologicalspecificities.Indeed,arelativelylownumberof
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 13
+DA neurons (about 450,000 in adult human SNpc) provide Altogether, neurodegeneration of PD does not occur at
+massivestriatalinnervationsthroughdisproportionatelylong, randomandappearstobetopographicallypatternednotonly
+thinandbranchedaxonalprojections,comparedtoarelatively throughouttheCNSbutalsowithinaffectedstructures.Under-
+smallcellbody,whicharepoorlyornotmyelinated.Thistypeof standingthebasisofthisselectivity,whichislikelytosomehow
+neuron may need higher energy production to achieve basic reflectpathogenesis[23],maybeofcrucialimportance.
+functions,particularlyaxonaltransmission,andmaybemore
+vulnerabletoanyformofinsult[19].Comparedtomostbrain
+structures, DA neurons are more exposed than others to 4. Lewy body
+oxidative stress. Their elevated rate of oxygen and calcium
+metabolism,lowlevelsofantioxidantsandhighironcontentare Lewyinclusions,thepathologicalhallmarkofPD,arefoundinthe
+all factors inducinghigher rateofdamaging ROS. Thus, their cytoplasm of surviving neurons of the SNpc but also in non-
+specificphysiologymayalsoholdthekeyoftheirvulnerability. dopaminergicneuronssuchastheLCorthecortex.Theyexhibita
+For example, DA neurons maintain an autonomous activity variablemorphology,developingasisolateormultiple,spherical
+relyingonL-typecalciumchannels,whereasotherneuronsuse orelongated,8to30µmindiameter,LBsincellbodies,orspindle-
+sodiumchannels[20].Thisrelianceimpliesanincreasedand likeLNsinneuronalprocesses.CompositionofLBs,molecular
+sustainedenergyconsumptiontosequesterandpumpcalcium mechanismsofaggregation,biologicalroleandimplicationinthe
+outofthecell.Ultimately,thisimposesanincreasedmetabolic pathogenicprocessesunderlyingPDarestillunclear,inspiteof
+stressonmitochondria,acceleratingcellularageinganddeath the identification of α-SYN as an important component [9].
+[20].Inaddition,DAitselfmaypredispose,induceorfacilitate Importantly,α-SYNinclusionsarenotspecificforPDandoccur
+degeneration.Itschemicalinstabilityandauto-oxidationcap- also in other neurological conditions, tentatively classified as
+ability,occurringbothspontaneouslyandenzymatically,may “alpha-synucleinopathies”,whichincludebesidesPD,dementia
+potentially lead to ROS production. Two populations of DA with LBs, the LB variant of Alzheimer's disease (AD), multiple
+neuronscanbeobservedinthemesencephalon,thosecontain- system atrophy, and neurodegeneration with brain iron accu-
+ing NM, a major DA oxidation by-product [21], and those mulationtypeI,amongothers.
+without. A correlation between the vulnerability of nigral
+neurons and NM pigmentation has been established. Indeed, 4.1. Structureandcomposition
+NM-containingneuronswhichcomprisenotonlyDAneuronsof
+theSNpcbutalsonoradrenergicneuronsoftheLCseemtobe In PD, two variants of intracytoplasmic LBs can be distin-
+morepronetodegenerateinPD[22].Thus,notonlyDAbutalso guished: the classical brainstem type found within the
+NMitselfcouldbecytotoxicandcontributetooxidativestress perikaryon of DA nigral neurons and a less common type
+throughitsinteractionwithironandotherreactivemetabolites foundincorticalneurons.Atlightmicroscopyusinghematox-
+[22]. ylin/eosin(HE)staining,classicalLBstypicallyexhibitadense
+AmongDAneurons,anotherpatternofregionalvulnerability coresurroundedbyaclearerhalo(Fig.1a).CorticalLBsareless
+hasbeenobserved,withsomepopulationsshowinglessorno eosinophilic and present with a more homogeneous aspect
+lossatall[23–25].Forexample,adjacentmidbrainDApopula- lacking the distinctive core and halo (Fig. 1g). The greater
+tions within the ventral tegmental area (VTA) and their sensitivityofimmunostaininganalysishasallowedaneasier
+projectionstotheventralstriatumexhibitarelativeresistance identificationofLBs[31]anddemonstratedthatα-SYNlabels
+toPD-relateddegeneration.IncontrasttoSNpc,VTAneurons specificallythehalowhereasubiquitin(UB)stainingyieldsa
+contain little NM, indicating less DA-related oxidative stress more diffuse labelling (Fig. 1b, c). Other structures weakly
+duringneuronlifespan[26].Furthermore,itisalsopossiblethat stainedwithHEbutclearlypositiveforα-SYNandUBarealso
+neuron surrounding influences their fate critically. Indeed, detected,includingpalebodies(Fig.1e,f).Somedatasuggest
+susceptibleneuronstendtolieincalbindin-poorregionsofthe that pale bodies correspond to LBs at an early stage of
+SNpc[23],knownasnigrosomes,whereasneuronsincalbindin- development [32,33]. Ultrastructurally, classical LBs seem to
+enriched regions, knownas thenigral matrix and containing be composed of fibrils radiating out from a central core of
+neuron terminals issued from the striatum, are spared. The densegranularmaterialwhereasthecorticaltypeiscomposed
+significance of this topographical distinction is unknown. almost exclusively of circular or oval material [34]. Our
+Finally,andatvariancewiththeobservationssupportingthe knowledgeregardingthebiochemicalcompositionofLBshas
+neuronbodyasthemaintargetofdegenerationinPD,ithasalso evolvedwithmoresophisticatedimmunohistochemicaltech-
+beenproposedthatthelossofnigralneuronsmayresultfroma niques, showing that LBs were notably positive for many
+“dyingback”processwherebystriatalnerveterminalsarethe compoundsbesidesUBandα-SYN.Infact,theuseofvarious
+primary target of the degenerative process [27]. Indeed, the non-proteomictechniqueshasledtoalistofnearly80proteins
+degree of terminal loss in the striatum appears to be dispro- identifiedthusfarwithinLBs(Table1).
+portionallymorepronouncedcomparedtotheseverityofSNpc
+neuron loss [28,29]. Whereas this scenario may explain the 4.2. Alpha-synuclein
+topologyofneuronallossintheSNpcwhichissomatotopically
+connectedtotheputamen,itseemsatoddswiththenotionof α-SYNbelongstothesynucleinfamilyofproteinscomposedofα,
+structuralcompensatorymechanismsthatarebelievedtooccur βandγ-synuclein,whichareextensivelyexpressedinthebrain.
+in the striatum to attenuate the effects of reduced DA Although the exact physiological functions of α-SYN remain
+transmission, one of which relying on synaptogenesis, i.e. uncertain,itmaybeinvolvedinneurotransmissionbyregulating
+sproutingofnewterminalsbysurvivingneurons[30]. synaptic vesicles size, recycling and plasticity [35]. α-SYN is a
+
+---PAGE BREAK---
+
+14 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+Table 1–List of proteins identified in Lewy bodies using non-proteomic, essentially immunohistochemistry staining
+techniques.
+Advancedglycation Complementproteins Immunoglobulins(IgGs) P35nck5a Synapticvesicle-specific
+endproducts (C3d,C4d,C7,C9) protein
+αβ-crystallin Chondroitinsulfate PhosphorylatedIkBa P38 Synaptophysine
+proteoglycans
+α-synuclein ChromograninA Hemeoxygenase-1 p62/sequestosome1 Synaptotagmine
+α2-macroglobulin Cullin-1 Histonedeacetylase4 Parkin Tau
+Agrin CyclinB Leucine-richrepeatkinase2 PhospholipaseC-δ Tissuetransglutaminase
+(LRRK-2)
+Amyloidprecursor Cyclin-dependentkinase5 Lipids PTEN-induced TorsinA
+protein(APP) kinase1(PINK1)
+ApolipoproteinJ/clusterin Cytochromec Microtubule-associated Prolyl-isomerasePin Tropomyosine
+proteins(MAP-1,1b,2,5) 1
+26SproteasomeATPase DJ-1 Multicatalyticproteinase Retinoblastoma Tubulin
+protein
+Basicfibroblastgrowth Dorfin mxAprotein ROC1 Tubulinpolymerization
+factor promotingprotein/p25
+β-TrCP Extracellularsignal- NEDD8 sept4/H5 Tyrosinhydroxylase
+regulatedkinases
+Cterminusof 14-3-3protein Neurofilaments SIAH-1 Ubiquitin
+Hsp70-interactingprotein
+Calcium/calmodulin-dependent G-protein-coupledreceptor NFκB,IκBa Sphingomyelin Ubiquitinactivating
+proteinkinaseII kinase5 enzyme(E1)
+CalbindinD28K Gelsoline-relatedamyloid NUB1 Cu/Znsuperoxide Ubiquitinconjugating
+proteinFinnishtype dismutase enzymeUbcH7(E2)
+Centrosome/aggresome-related Glyceraldehyde-3-phosphate omi/HtrA2 Mnsuperoxide UbiquitinC-terminal
+proteins dehydrogenase dismutase hydrolase(UCH-L1)
+CHIP Heatshockproteins(HSP27, pael-R Synphilin-1 Vesicularmonoamine
+40,60,70,90,110) transporter2
+AccordingtoShultsCK,2006,andWakabayashiKetal.,2007.
+GeneticdefectsinproteinshighlightedinboldhavebeenreportedtocauseorincreasethesusceptibilityforParkinson'sdisease.
+highlyconserved140-aminoacidpresynapticproteinof~19kDa mechanismthatmightbecommontosporadicPDaswell,inview
+originallyidentifiedinhumansasthenon-amyloidbetacompo- oftherecentfindingthatsomepolymorphismsofthepromoter
+nent (NAC) of AD amyloid plaques [36]. Its structure can be regionoftheSNCAgenemayincreasetheriskofPDinthegeneral
+divided into three regions. First, a 60-aminoacid N-terminal population[44–46].Inaddition,manyfactorsthatcanpromoteα-
+region containing 11 imperfect repeats with highly conserved SYNaggregationhavebeenidentified.Forexample,α-SYNwas
+KTKEGV motives, is predicted to form amphipatic alpha-helix showntocarrypost-translationalmodifications(PTMs)suchas
+typicalofapolipoprotein-like-class-A2whichmediatesbindingto phosphorylation(atSer129)andubiquitination(atLys12,Lys21
+phospholipidvesicles[37].Second,acentralregioncontainingthe andLys23)thatcouldcontributetoitstoxicity[47].Deleterious
+NACsequencefromresidue61to95whichappearstobeessential interactionsbetweenα-SYNandenvironmentalagentsorother
+foraggregation[36].Third,aC-terminalportion,lessconserved, proteins could also dramatically accelerate the rate of α-SYN
+containingmanyacidicresidueswhichconfertothemoleculea fibrillogenesisinvitroandimpairingtheprocessofdegradationof
+lowpI.Natively,α-SYNpresentsinasoluble,unfoldedstatein theabnormalproteinand/orincreaseoxidativestress[48,49].
+thecytoplasmbutcanbefoundinmoreorderedstatessuchasα-
+helicalconformationinthepresenceoflipidmembranesorasβ-
+sheetsinfibrilscomposingLBs[38,39]. 5. Potential mechanisms underlying
+Involvementofα-SYNinPDpathogenesisderivesfromthe degeneration
+identification of missense mutations (A53T and A30P) in the
+SNCAgeneinearly-onsetfamilialPDkindredswithautosomal 5.1. Oxidativestressandmitochondrialdysfunction
+dominantinheritance[40,41].Interestingly,predictionssuggest
+thattheseN-terminallylocatedmutationscoulddisrupttheα- Post-mortem studies have consistently implicated oxidative
+helixandextendtheβ-sheetstructure,whichisthoughttobe damagetolipids,proteins,andDNAinthepathogenesisofPD,
+involvedintheself-aggregationofproteinsandtheformationof asobservedintheSNpcofsporadicPDbrains[50].Thesource
+amyloid-likestructures.Perhapsmoreimportantly,duplications ofthisincreasedoxidativestressisuncertainbutmayinclude
+andtriplicationsoftheα-SYNgeneSNCAwerealsoreportedin mitochondrialdysfunction,increaseddopaminemetabolism,
+autosomaldominantformsofPD,resultinginincreasedlevelsof reactiveirondepositionandimpairedantioxidantpathways.
+wild-typeα-SYNintheabsenceofotherknownmutations[42,43]. In fact, much evidence suggests a major role for defects in
+Thesedatasuggestthatabnormalintracellularaccumulationof complex I of the respiratory chainleading to decreasedATP
+wild-type α-SYN is sufficient to induce neurodegeneration, a productionaswellasdamagecausedbyexcessproductionof
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 15
+ROS. Consistent with this hypothesis, altered complex I somes.Undernon-physiologicalconditions,suchasmolecu-
+activity was observed in the SNpc of sporadic PD patients lar crowding, oxidative stress, PTMs or modifications of the
+[51]. In addition, several observational and epidemiological proteinprimarystructure,solublemonomersandoligomersof
+studiessuggestthatpesticidesandotherenvironmentaltoxins native or non-native polypeptides may self-assemble, poly-
+that inhibit complex I are involved in the pathogenesis of merizeandcoalesceintogiantintracellularinclusions,suchas
+sporadic PD [52]. For example, 1-methyl 4-phenyl 1,2,3,6- LBsinPD[59].Infact,ithasbeensuggested,basedonmany
+tetrahydropyridine (MPTP) was initially identified as an similaritiesbetweenbothstructures,thataggresomesandLBs
+accidental by-product during the illicit manufacture of a maybecreatedfollowingthesamecytoprotectiveprocessof
+syntheticopiate in NorthernCalifornia in the early 80s, and proteinsequestration.Whereasaggresomesmaybeclearedby
+druguserswhoinjectedMPTPdevelopedanacutesyndrome enhanced proteasome activity and autophagy, LBs may not,
+closely resembling PD [53]. The selectivity of MPTP for forreasonsthatareyetunclear[60].Eventually,LBsandLNs
+dopaminergicneuronsrelatestoitsconversioninastrocytes may impair critical intracellular processes, notably axonal
+bymonoamineoxidaseBtotheactivemetabolite,1-methyl-4- transport, synaptic plasticity and neurotransmission, and
+phenylpyridinium(MPP+),whichistakenupinDAneurons eventuallypromotedegeneration.
+throughthedopaminetransporter,whereitinhibitscomplexI Because the UPS is a major pathway mediating the
+and ultimately leads to cell death [27]. Similarly, the widely degradation of abnormal cellular proteins [61], it has been
+used herbicide paraquat, the insecticide rotenone and the proposed that its dysfunction may be a key factor in the
+fungicidemaneb(manganeseethylenepistithiocarbamate)all pathogenesisofPDandLBformation(reviewedin[62])either
+inhibit complex I and inducea selectiveloss of nigrostriatal primarilyorsecondarytoanimpairmentofthecapacityofthe
+neurons in rodents [54]. In rotenone-treated rats, LB-like UPStohandleanoverwhelmingquantityofalteredproteins.
+intraneuronal filamentous inclusions containing α-SYN and Inparticular,failureofthe26Sproteasomemaybecritical[63].
+UBhavebeenobserved[55].Inaddition,aconnectionbetween For example, UB has been observed to concentrate in LBs
+α-SYNandcomplexIissupportedbytheobservationthatα- where it colocalizes with chaperones and UPS components
+SYN knockout mice are resistant to MPTP, whereas α-SYN that normally take part in the protein quality control
+transgenicmiceshowenhancedtoxicity[56],suggestingthat machineryandclearanceofabnormalproteinsinthecell.To
+α-SYN is required for mediating the downstream effects of further support this view, it has been recently shown that
+complex I inhibition. These findings are consistent with systemic administration of the proteasome inhibitors epox-
+alterationsincomplexIbeingcentraltothepathogenesisof omicinorPSIinratsinducesagraduallyprogressive,levodopa
+sporadic PD and support environmental factors as main (LD)-responsive, form of parkinsonism similar to PD in
+contributors to PD pathogenesis. However, the role of mito- humans[64].ThecentralroleoftheUPSinPDpathogenesis
+chondrial defects and oxidative stress has also been chal- is,however,stillamatterofdisagreement[65].
+lengedbyseveralauthorsarguingthatthesealterationsmay
+merelyreflecttheunspecificandadditionaleffectsofaging[57] 5.3. Manyunsolvedissues
+or the consequences, rather than the cause, of neuronal
+dysfunction. Theabovereviewofthepotentialmechanismsunderlyingthe
+pathogenesis of PD shows that important issues remain
+5.2. Protein aggregation and the ubiquitin–proteasome unsolved. First, since 1997, a plethora of genetic defects has
+system been reported in familial forms of PD, with an autosomal
+dominant or recessive mode of inheritance. To date, nearly
+Aggregationofsolubleproteinsintoinsolublecomplexesand twenty loci have been implicated, from which ten different
+inclusions is now considered at the core of many neurode- causal as well as susceptibility gene mutations have been
+generativeconditions,includingPD.Onepivotalmechanism formally identified (Table 2). In general, with the notable
+forproteinstoaggregatereliesontheexposureofhydrophobic exception of PARK9, PARK14 and PARK15, the phenotype of
+segmentsthatarepronetoforminappropriateintermolecular genetically-determinedPDisquitesimilartosporadicPD,but
+binding, when proteins are unfolded, partially folded or ageat onsetisusually younger. The involvement ofsome of
+misfolded.Itisnoteworthy,however,thatproteinaggregation thesegenestendstosupportthemechanismsofdegeneration
+does not seem to occur at random but is a highly specific describedabove.Forexample,PARK2ischaracterizedbygenetic
+phenomenonoccurringbetweensimilarhydrophobicproteins defects in the protein parkin which acts mainly as an E3
+ordistinctproteinssharingacommonaggregation-promoting ubiquitinligaseessentialfortheUPS.Similarly,PARK6results
+motif [58]. During this process, many native proteins not frommutatedformsofPTEN-inducedkinase1,amitochondrial
+primarily involved in the aggregation formation, may be proteinthatseemstohaveaprotectiveroleagainstproteasome
+recruited and trapped into growing inclusions, as ”innocent inhibitors. On the other hand, pathogenic mechanisms asso-
+by-standers”. ciatedwithPARK8andmorerecentgeneabnormalitiesfitless
+Underphysiologicalconditions,neuronshandleabnormal easily into current theories. Although information obtained
+or altered (genetically modified, denatured, misfolded, etc) through genetic approaches has proved immensely useful to
+cellular proteins by distinct mechanisms, notably molecular elaborate new hypotheses regarding the pathogenesis of
+chaperone-mediatedrefolding,degradationbytheubiquitin– sporadicPD,thediversityofgenesuncoveredsofarmakesit
+proteasome system (UPS) and peptidases, and, when the difficulttoestablishaunifyinghypothesisthattakesallormost
+productionofabnormalpolypeptidesexceedsthecapacityof knowngeneproductsintoaccount.Second,itisstillnotclear
+the UPS, sequestration into microtubule-dependent aggre- whether LBs and LNs are the toxic entities promoting
+
+---PAGE BREAK---
+
+Table2–PARK-assignedcausalandsusceptibilitygeneticdefectsleadingorcontributingtoParkinson'sdisease.
+Locusa Chromosome Gene Mutation Modeof Gene Protein Ageof Features Lewy
+locationa symbola inheritance product function onset bodies
+PARK1 4q21.3-q22 SNCA A53T,A30P,E46K AD(sometimesin α-synuclein Synapticproteinofunknown 45- Early-onsetPDwith Yes
+sporadiccases) function 60years earlydementia
+PARK2 6q25.2-q27 PARK2 Pointmutations, AR(rarelyAD) Parkin E3ubiquitinligase <20years Early-onsetPDwith Afew
+deletions,multiplications slowprogression
+PARK3 2p13 PARK3 ? AD ? ? 60years Late-onsettypicalPD Yes
+PARK4 4q21.3-q22 SNCA Duplication,triplication AD α-synuclein Synapticproteinof 45– Early-onsetPDwith Yes
+unknownfunction 60years earlydementia
+PARK5 4p13 UCHL1 Mutation AD Ubiquitincarboxylterminal Deubiquitylating 45– Early-onsettypicalPD ?
+hydrolaseL1 enzyme 60years
+PARK6 1p36.12 PINK1 Missensemutations, AR(rarelyAD) PTEN-inducedkinase1 Mitochondrialprotein 20– Early-onsetPDwith Yes
+truncations ofunknownfunction 45years slowprogression
+PARK7 1p36 DJ-1 Deletions,truncation, AR DJ-1protein Astrocyticandneuronal 20– Early-onsetPDwith ?
+missensemutation proteinofunknwonfunction 45years slowprogression
+PARK8 12q12 LRKK2 G2019S,I2020T, AD(sometimesin Leucine-richrepeatserine/ Proteinkinase >50years Late-onsettypicalPD Usually
+missensemutations sporadiccases) threonineproteinkinase2 yes
+PARK9 1p36 ATP13A2 Missensemutations AR ATPasetype13A2 Lysosomaltype5Ptype <20years Atypical ?
+ATPase (Kufor–Rakebdisease)
+PARK10 1p32 PARK10 ? Susceptibility ? ? 60– TypicalPD ?
+70years
+PARK11 2q37.1 GIGYF2 Missensemutations AD GRB10-interactingGYFprotein Brainproteinofunknown 60– TypicalPD ?
+2 function 70years
+PARK12 Xq21-q25 PARK12 ? Susceptibility ? ? 60– Typical PD
+70years
+PARK13 2p13.1 HTRA2 Missensemutations, Susceptibility Omi/HtrAserinepeptidase2 Mitochondrialserine 60– TypicalPD ?
+polymorphism protease 70years
+PARK14 22q13.1 PLA2G6 Missensemutations AR PhospholipaseA2,groupVI Fattyacidreleasefrom 10– Atypical ?
+phosphlipids 25years (dystoniaparkinsonism)
+PARK15 22q11.2-qter FBX07 Missense,truncating, AR F-boxprotein7 Molecularscaffoldinthe 10– Atypical ?
+compoundmutations formationofproteincomplexes 20years (pallidopyramidal
+disease)
+a Accordingtowww.genenames.org(March2009).
+16
+JOURNAL
+OF
+PROTEOMICS
+73
+(2009)
+10–29
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 17
+degenerationbyimpairingthenormalfunctioningofneurons degenerationofDAneuronsandtoestablishthebasisforfuture
+andaxons,orwhetheritrepresentsaprotectivemechanismof neuroprotectivetherapies,theyalsodemonstratedanumberof
+defencebywhichneuronssequesteralteredproteinstolimit limitations.Atpresent,noneofthemconsistentlyrecapitulate
+theirtoxiceffectsuponneuronalhomeostasis[66].Inthelatter allclinicalandneuropathologicalfeaturesofhumansporadic
+scenario, degeneration occurs late in the process, when the PD. Moreover, it has been particularly difficult to model the
+capacityofLBstocircumventtoxiccompoundsisoverwhelmed. progressive time course of PD, to replicate the pattern of
+AmajorargumentinfavorofaprotectingroleofLBsinPDcomes neurodegeneration involving selected nigral and extra-nigral
+fromtheobservationthatPARK2-orPARK8-affectedindividuals brainstructuresovertimeandtoproducetypicalLBs[73].While
+do not consistently show LBs, suggesting that LBs are not almosteachgroupworkingonPDbasicresearchhasbeenable
+necessaryfornigraldegenerationtooccur.Theneurotoxicityof toproduceitsownanimalmodelofPD,thegoldstandardinthis
+elevatedlevelsofvariousα-SYNintermediatesintheaggrega- fieldisstillawaited.Proteomicstechnologieshavebeenapplied
+tionprocess(monomers,oligomers,protofibrilsandfibrils)has tosomeoftheseanimalmodels[74–87],andtheseaspects—
+alsobeenextensivelystudied(recentlyreviewedin[67–69])and whichextendbeyondthescopeofthepresentarticledevotedto
+eachhasbeensuspectedtobethetriggeringagentofdegenera- humansporadicPD—havebeenextensivelyreviewedin[88]to
+tion inPD, ratherthanmature LBs. This issueiscrucial with whichthereaderisreferredformoredetailedinformation.
+respect to developing neuroprotective agents, because inter-
+ventions aiming at interfering with protein aggregation may 6.2. ProteomicsinhumanPD
+turn out to be deleterious by inhibiting the formation of
+potentially protective LBs or by favoring the accumulation of Incontrasttoanimalmodelswhichcanbequiteeasilymade
+toxic intermediates. Third, the temporal and mechanistical availableasneeded,thetype,number,quantityandqualityof
+relationshipsbetweenoxidativestress,mitochondrialdysfunc- samples that can be obtained from humans are limited.
+tionandproteinaggregationarestillunclearand,perhapsmore However, samples from neurologically-affected patients are
+importantly, the promoters, i.e. the causal factors, of these of enormous interest because they may show abnormalities
+abnormalbiologicalprocessesarecompletelyunknown[70,71]. directlylinkedtotheconditionunderstudy.InPD,asinother
+Fourth, the selectivity of the structures involved in PD, as neurologicaldiseases,moststudieshavereliedonsamplesof
+described above, can hardly be explained by the currently cerebrospinalfluid(CSF)obtainedfromlivingpatientsandof
+knownpathogenicfactorslikelytooperateinthePDbrains,and brain tissue obtained at autopsy, the value of each being
+themorphologicalhypothesesdevelopedbyBraakandcollea- dependentupontheproposedaimsofthestudy.Bothtypesof
+gues are difficult to incorporate into the suspected scenarios sample have advantages and limitations that require to be
+associating oxidative stress, mitochondrial dysfunction and recognizedwheninterpretingdata.
+proteasomedysfunction.
+In order to examine these unanswered, yet fundamental 6.2.1. CSFproteinprofiling
+questions,andbecausePDisnowviewedasadisorderofbrain CSFmayrepresentanidealsourceofdiagnostic,prognosticof
+protein handling — or a “protein deposition/conformational therapeutic biomarkers, because of its proximity to brain
+disease” — we make the assumption that proteomics-based structuresundergoingdegenerationwhichmayreleasepatho-
+studiesofrelevantbrainsamplesmightbeoneofthemostappro- genically relevant molecules into the extracellular space. In
+priateandunbiasedstrategiestoapproachPDpathogenesis. addition,CSFisavailableoverpatient'slifetimewhichmakes
+possiblethestudyofproteinprofilechangesduringtheentire
+diseasecourse.Indeed,followingtheintroductionandroutine
+6. Proteomics applied to Parkinson's useofatraumaticneedlesintheclinic,lumbarpuncture(LP)is
+disease research nowconsidereda minimally invasiveprocedurethat can be
+performedatanytimeduringPDprogressionandrepeatedin
+Duringthepastfewyears,anumberofproteomicstudieshave thesameindividual.ThequantityofCSFthatcanbeobtained
+been performed in the field of PD research both in animal fromasingleLPisbetween5and20ml,whichcorresponds
+modelsofandinhumanswithPD. roughly to 2 to 8 mg of proteins, a figure that allows most
+proteomictechnologiestobeperformedinmultiplicates.
+6.1. ProteomicsinanimalmodelsofPD ProteomicapproachesofCSFhavealreadyprovedsuccessful
+for other neurodegenerative conditions such as AD [89] and
+Numerous animal models of PD have been designed using Creutzfeldt–Jakob disease [90]. Extensive CSF 2-DE maps have
+speciesasdiversifiedasthewormCaenorhabditiselegans,thefly beenpublished[91,92]aswellasusingotherseparationmethods
+Drosophila melanogaster, various strains of mice and rats, and [93,94]and,thusfar,over2500proteinshavebeenidentifiedin
+non-human primates [72]. Neurodegeneration has been humanCSF[95].Advantagesandlimitationsregardingtheuseof
+obtained by means of various protocols of exposure to the CSFinproteomicshavebeendiscussedelsewhere,inparticular
+neurotoxins6-hydroxydopamine,MPTP,paraquat,rotenoneor with respect to sample preparation which requires specific
+to proinflammatory molecules such as lipopolysaccharides. handling [96,97]. One of the major issues relies on the high
+More recently, genetically-modified animals have been engi- dynamic range of protein concentrations contained in CSF, a
+neered according to the identified gene defects found in small number of which overwhelming a multitude of low
+humans.Whiletheseanimalmodelshaveprovedveryuseful abundance, yet of key value, proteins. This problem may be
+to increase our understanding of the pathophysiology of the solvedbypre-analyticalfractionationorimmunoaffinitytechni-
+basal ganglia, to dissect some mechanisms engaged in the quesallowingthefewmoreabundantproteinstoberemoved.
+
+---PAGE BREAK---
+
+18 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+InPD,becausedegenerationaffectsonlyalimitedsubset Currently, no single biomarker has been validated for PD
+ofbrainstructures,itisanticipatedthatpotentialbiomarkers anditispossiblethatacombinationofseveralofthemmay
+will be found as low or very low abundance proteins, as prove superior. For example, a large scale study using
+demonstrated,forexample,bytheCSFdeterminationofthe Luminex-basedmultianalyteprofilereportedtheperformance
+monomericformofα-SYNwhichhasproveddifficultbecause of a panel of eight CSF proteins (tau, amyloid β , β -
+42 2
+ofitsminuteconcentrationinthisbiologicalfluid.Recently,a microglobulin,vitaminDbindingprotein,apolipoproteinA-II
+groupfirmlyestablishedthemeasurementofα-SYNinplasma and apolipoprotein E, brain derived neutrophic factor, and
+andCSF[98].Onaverage,adecreasedconcentrationofα-SYN interleukin-8)todistinguishPDfromADpatientsandcontrols.
+was observed in the CSF of PD patients compared withage- Authors were able to identify effectively PD patients with a
+matched controls and this decrease correlated with disease 95% sensitivity and 95% specificity [109] and these encoura-
+severity, although values from both groups were largely gingresultswillrequireconfirmationbyindependentgroups.
+overlapping [99]. Moreover, CSF levels of DJ-1 were found to
+besignificantlyincreasedinsporadicPDandwellcorrelated 6.2.2. Braintissueproteinprofiling
+with disease progression [100]. DJ-1 was also found into the At variance with the use of samples obtained from living
+serum of both healthy controls and PD patients, but no patients,inwhichonlyatentative—probableattheverybest—
+significant level differences were observed between the two diagnosisofPDcanbemade,brainsampleshavetheconsider-
+groups[101].ThedistinctbehaviorofDJ-1levelsbetweenCSF ableadvantageofbeingassessedbyneuropathologicalexam-
+andserumcouldbeexplainedeitherbyadilutingeffectofthe ination,providingadefinitediagnosisofPD.Regionsofinterest
+protein in serum or by a potential oxidation of the protein canbepreciselydissected,forexampletheSNpc,LCorcerebral
+that may have prevented antibodies directed against native cortex,thusincreasingthestudyspecificity.Thelargeamount
+DJ-1torecognizethepost-translationnallymodifiedprotein. oftissueavailablemayallowindividualcells,i.e.DAneuronsto
+The latter hypothesis is supported by the fact that abnor- be separated, or subcellular fractions, i.e. LBs, to be purified.
+maloxidationofDJ-1hasindeedbeenobservedinPDpatients Finally, and more importantly, direct analyses of the very
+[102]. structures that are primarily affected in PD may provide a
+Historically, in 1984, Harrington and Merril studied CSF comprehensive and simultaneous view of the degenerative
+samples from 20 PD patients by the then available 2-DE mechanismsthatarelikelytobeatwork.Themajortheoretical
+technologyandwereabletodetectin75%oftheircases,but limitationofthisapproachinvolvesthepotentialcontamina-
+in none of 91 healthy controls, the appearance of a single tionofanalysesbypost-mortemalterations[110].Infact,this
+abnormalspot(129intheirnomenclature)presentwithinthe issuehasbeenrecentlyexaminedbyindependentgroupsusing
+Iglightchainstrainofspots[103].Quantitativechangesof20 human [111] and mouse [110, 112, 113] brain tissue samples
+additional spots were also noted, notably apolipoprotein A1 exposedtoincreasinglylongpost-morteminterval,upto72h.
+and orosomucoid. Unfortunately, these findings were never Somewhatsurprisingly,thesestudiesconsistentlyshowedthat,
+confirmedby this group nor replicated by othersever since. even for prolonged post-mortem delay at room temperature,
+Morerecently,amore advancedstudybasedon amultiplex braintissuedoesnotundergomassivedegradationandonlya
+quantitativeplatformusingiTRAQwasabletodetectvarious minority(6.5%ofspotsafter48hatroomtemperaturein[111])of
+changesinthecompositionofCSFfrompatientswithAD,PD, proteinsshowsignificantmodifications,includingdihydropyr-
+dementiawithLBsandcontrols[104].Over1500proteinswere imidinase related protein-2, GFAP and, importantly for PD
+identifiedand72werereportedtobeuniquelyassociatedwith research, synuclein proteins. Most changes occur after 48 h.
+PD. Ceruloplasmin and apolipoprotein H were confirmed by Theproblemofartifactualpost-mortemchangesmaythusnot
+Western blot analysis and appeared to be good candidate beassignificantaspreviouslyfearedandcanbecircumvented
+markersforPD.Forinstance,thedepositionofceruloplasmin, by limiting the post-mortem delay to less than 24 h and by
+a major iron-carrying protein, had already been found to including inthestudy a controlgroup of neuropathologically
+correlatewithdiseaseseverity[105]andtobedecreasedinthe intactbrainsampleswithmatchedpost-mortemdelay,when-
+bloodofPDpatients[106].However,arecentstudychallenged everpossible.Listsofproteinsvulnerabletopost-mortemdelay
+the significance of this finding, as considerable overlap in are available in [110] and [111]. Additional issues include the
+individual values between PD patients and controls was contributionofunspecificage-relatedchangestothepathology,
+observed[107].Inanotherstudy,theseraof422patientswith thepotentialimpactofthemanyandlong-usedpharmacolo-
+PD, amyotrophic lateral sclerosis (ALS), related neurological gicaltreatmentsuponproteinexpressionandaselectionbias
+disordersandunaffectedindividualswereinvestigatedusing owingtothefactthat,withfewexceptions,onlypatientswith
+quantitative2-DE[108].Inthisunbiasedapproach,differences advanced PD come to autopsy. This last point is important
+in the expression of 7 out of 9 complement-relatedproteins because it may obscure data interpretation especially when
+were found. The PD and ALS populations showed a marked assessing changes of protein expression for the purpose of
+increaseincomponentsofcomplementC3(C3candC3dg)and establishing early biomarkers of the condition. Ideally, PD
+complementfactorH.Moreover,factorBwasmoreelevatedin patientswithlargerangeofdiseasedurationsshouldbestudied.
+PD, but not in ALS, with respect to controls. These results Fasano et al. werethefirst to profilethe human PD SNpc
+showingdifferencesinthepathwaysofcomplement,includ- using2-DE.Thisgroupwasabletoidentifyatotalof44proteins
+ing C3 phosphorylation differences, between ALS and PD from which nine were found differentially expressed in PD
+provide independent evidence for the role of systemic, comparedtoage-matchedcontrols[114].Ofnote,therewasan
+immune-mediatedinflammatoryprocessespossiblyinvolved increaseofsomeROS-scavengingandmitochondrialproteins
+intheseconditions. (peroxiredoxinII,mitochondrialcomplexIIIorATPsynthaseD)
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 19
+inPDspecimens,supportingtheroleofoxidativestressinPD systems, such as PCR for nucleic acid, as well as the time
+pathogenesis. Using a similar approach, the SNpc study by consumingandcumbersomenatureofcellcollection.Indeed,
+Werneretal.ledtothedetectionof221spotsfounddifferen- thelargenumberofcellstobeextractedfromatissuesection
+tially expressed between PD and control groups, contrasting necessaryfor2-DEanalyses[123–125]orashotgunproteomics
+with321spotsshowingastrictlyconservedpatternofexpres- analysis followed by MS [126,127] may vary from 10,000 to
+sion. Out of a total of 37 identified proteins, they found 16 100,000 cells. These figures may decrease in the near future
+differentiallyregulated,includingelementsofironmetabolism with the emergence of more sensitive MS techniques and
+(ferritinH),glutathione-relatedredoxmetabolism(glutathione automatedmethodstocollectcells.Otherpurificationmeth-
+S-transferase M3, P1, O1) or novel redox proteins such as ods have been tested for this purpose but it is uncertain
+SH3BGRL [115]. Importantly, expression of DJ-1 and UCH-L1 whether these techniques are suitable for proteomics [128–
+was not different in the two groups and twelve of the 16 130].Leverenzetal.examinedthecontentofLBsdissectedby
+differentially regulated proteins displayed only modest LCM from neurons of the frontal cortex from patients with
+changes, as the level ratio of the PD over control group was dementiawithLBs[131].Theanalysisofapproximately2500
+below 1.5 fold. Comparing the data from these two similar corticalLBsledtotheidentificationof296proteins,ofwhich17
+studies, 8 common proteins were found yet none of the hadbeenpreviouslyassociatedwithbrainstemorcorticalLBs,
+differentiallyexpressedoneswereconcordant.Morerecently, includingα-SYN.Thepresenceofoneprotein,theheatshock
+anextensiveinvestigationofthehumanSNpcusingashotgun cognate71wasvalidatedbyimmunohistochemistrynotonly
+proteomicapproachcombiningICAToriTRAQandMSorMS/MS inthebrainstembutalsoincorticalLBs.Morerecently,another
+identified a total of 1263 non-redundant proteins, but the group,usingLCMS/MS,studiedcorticalLBsfrompatientswith
+complete dataset of protein identifications was not provided theLewyvariantofADthatwereenrichedbysucrosegradient
+[116]. centrifugation [132]. These researchers were able to identify
+AsLBpathologyeventuallyextendsfromthebrainstemto about550proteinsfromwhich40werefoundtoco-purifywith
+thecortex,effortswerealsomadetocharacterizethehuman LBsincludingsomewellknownLB-associatedproteinssuchas
+frontal cortex in PD [117]. Using LCMS/MS-based technology α-SYN, UB, UCH-L1 and proteasomal components. Interest-
+andiTRAQlabelling,astudyreportedthecharacterizationof ingly,theyalsoidentifiednovelkinases,thedeubiquitinating
+humancorticalproteinsaffectedduringPDprogression[118]. enzymeotubain1andUBligases(KPC,skip-cullin-F-boxand
+About 800 proteins were identified, and approximately 200 possibly Ube4b). Similarly to proteomic studies of the SNpc,
+werefoundtobedifferentiallyexpressedbetweenPDpatients comparison of results between both studies on cortical LBs
+at various stages and controls, including the 70-kDa mito- showedminimalconcordance,raisingthepossibilityofbiases
+chondrial heat shock protein mortalin which was found to relatedtosamplesormethodsdifferences.
+decrease with disease progression. Recently, it has been Because the physiological functions of proteins are likely
+demonstratedthatCRP40,asplicevariantofmortalin,exhibits related to their specific intracellular localization, isolation of
+acatecholaminebindingfunctionthatmayconferneuropro- thesespecificcellularcompartmentscanbeconsideredasan
+tectivepropertiestothischaperone-likeprotein[119]. entrypointtounderstandthecellularmechanismsunderlying
+brain disorders. Organelle proteomics consists in the enrich-
+6.2.3. Cellularandsubcellularproteomes mentandisolationoffractionscontainingproteinsassociated
+To allow a deeper probing of the neural proteome, various with organelles of interest via classical methods such as
+strategieshavetobeelaboratedtoreducethecomplexityofthe fractionation,immunoprecipitationoraffinitypull-downstra-
+samplepriortoanalysisandtoselectonlyadiscrete,buthighly tegies,amongothers,priortoproteomicinvestigation(reviewed
+relevantsubsetoftheentireproteome[120].WhenusingPD in[133–135]).Varioussubcellularstructuressuchasmitochon-
+brainsamples,thisconcepttranslatesintoassessingaffected dria[136,137],plasmamembranes[138],synapticvesicles[139]
+tissueandcellswithanincreasinglevelofspecificity,ranging orpost-synapticstructures[140,141]havebeenalreadystudied
+from the entire SNpc, or other LBs-enriched regions, to DA usingproteomicapproaches,andmaycontributetounderstand
+neuronsandeventuallytoLBsandotherrelevantsubcellular theirroleinPDpathogenesis.Forexample,extensiveinvestiga-
+orevenmolecularfractions. tions identified and quantified proteins of mitochondria-
+ItisimportanttoappreciatethattheSNpciscomposedof enrichedfractionsisolatedfromhumanSNpcofMPTP-treated
+differentcelltypesamongwhichonly5to10%areDAneurons. miceandPDpatientscomparedtoage-matchedcontrolsusing
+Thus,a5-foldchangeinproteinexpressioninDAneuronswill an unbiased quantitative proteomic approach [77,142]. In the
+be diluted to 0.5-fold or less and hardly detectable when latter,bycomparingthetwogroupsdifferentiallylabelledwith
+examiningthewholeSNpc.Recentimprovementsinsampling ICAT and analysed by a linear trap quadrupole (LTQ) mass
+techniquessuchasthedevelopmentoflasercapturemicro- spectrometer,authorsreportedtheidentificationofasmuchas
+dissection(LCM)haveallowedtheseparationofcellpopula- 842 proteins with 119 displaying significant changes in their
+tionsofenhancedpurityfromheterogeneoustissuesections relativeabundance.Interestingly,mortalinwasfoundagaintobe
+viadirectvisualizationofthecellsofinterest[121].Withthis substantiallyandpreferentiallydecreasedinthemitochondrial
+technique, a finely-focused laser is used to cut around or fractions of PD brains as well as in the rotenone-induced cell
+capturecellsofinterestoutoffixedtissueslices(reviewedin modelofPD.Anotherstudyreportedasequentialmethodforthe
+[122]). Although LCM was commonly applied in genomic isolationofhighlypurifiedNMgranulesfoundinDAneuronsof
+molecularprofiling,theapproachremainslimitedinproteo- human SNpc prior to proteomic analysis [143]. Seventy-two
+mics. The main drawback, precluding a more widespread proteins were identified by LCMS/MS analysis, of which the
+proteomicapplication,liesinthelackofproteinamplification majoritywassharedwithmelanosomesandlysosomes.These
+
+---PAGE BREAK---
+
+20 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+results provide important insights into the cellular processes whichcomprisearound30%ofeukaryoticproteins[148]andare
+generating the NM granules. As many evidences suggest a naturally prone to aggregation. To verify this hypothesis, a
+functionalroleforNMinPDneurodegeneration[21,22,144,145], screeningoftheprimarysequencesoftheidentifiedproteinsmay
+the comparison of NM granules content between control and be undertaken using algorithms that have been developed to
+diseasedstatesmayoffersomeimportantcluesregardingNM predicttheseregionsofextendeddisorders[149].Finally,α-SYN
+toxicityinPD. wasshowntodisplayalargenumberofbindingpartnersincell
+Finally,abodyofevidencesuggeststhatPTMsmaycontribute lines [150]. If α-SYN itself is not toxic when present at
+to disease pathology, particularly in the SNpc. Approaches physiological concentrations, its interaction with other mole-
+allowingthehighthroughputproteomicanalysisofspecifically cules could lead to neuronal degeneration and, again, the
+modified subproteomes such as oxidised, phosphorylated, proteomic characterization of these interactants by pull-down
+ubiquitinatedorglycosylated[146]proteinshavebeendeveloped. assaysonLBfrompost-mortemtissuesmaybeofinterest.
+Untilnowtheyweremainlyappliedtocelllinesoranimalmodels Consequently, we propose a reappraisal of the protein
+andtoalesserextenttohumanbraintissuesofADorPDpatients. aggregationhypothesisthat,inouropinion,shouldgobeyond
+thestudyofα-SYNalone.WeherehypothesizethatPDmaybea
+morewidespreadbrain“proteinopathy”(orproteinconforma-
+7. Potential avenues and conclusion tional disorder) whereby a number of aggregation-prone
+neuronal proteins may experience conformational modifica-
+After more than a decade of intensive research on α-SYN tions that promote abnormal protein-to-protein interactions
+aggregation,itbecomesincreasinglyclearthatα-SYNcannotby andincreasebindingcapacitybetweenrelatedbutnotnecessa-
+itselfelucidateallaspectsofPDpathogenesis.First,asalready rilysimilar,hydrophobic,nativelyunfoldedorpartiallyfolded
+mentionedabove,α-SYNaggregatesarenotuniquetoPDbutcan polypeptides.Theseconformationalmodificationsmayresult
+be found in a variety of conditions grouped under the label fromdistinctmechanisms,includingoverexpression,PTMsor
+synucleinopathies,agroupofenormouslyheterogeneouscondi- miscleavage of one or a few aggregation-prone proteins, and
+tionswithrespecttotheirclinicalmanifestations,neuroradiolo- mayinitiateacascadeofeventsbywhichtheseproteinsmay
+gicalexpressionandneuropathologicalfeatures.α-SYNcanalso becomeinactiveortoxic.Then,smallaggregatesformedany-
+befoundincidentallyinotherwiseneurologicallyintactindivi- where within neuron body and processes may coalesce and
+duals.Evenatthecellularlevel,α-SYNdepositionmayoccurnot growintoinsoluble,degradation-resistantinclusions.Identify-
+onlyinneuronsbutalsoinothercelltypes,suchasolidoden- ingwhichproteinsarebestcandidatesfortheseeventstooccur
+drocytesinmultiplesystematrophywheretheyarereferredtoas and deciphering which mechanisms are more likely to be
+glial cytoplasmic inclusions. Second, α-SYN pattern of immu- involved,areallcrucialissuesthatmaybeaddressedbymeans
+nostainingisprimarilylocatedintheperipheryofmesencephalic ofspecificpre-analyticalandanalyticalproteomicstrategies.
+LBsandisnotprominentinitscoreaswouldbeexpectedfora Toachievethisgoal,webelievethatmucheffortshouldbe
+moleculepresumedtoplayaninitiatingroleinseedingaggrega- placed on sample purification and fractionation prior to
+tion.Conversely,ubiquitinatedproteinsandcomponentsofthe proteomicanalyses. For thestudy ofhumanSNpc,asshown
+UPS are found in the LB centre. Third, based on its intense on Fig. 2, we propose an experimental workflow that allows
+staining using immunohistochemistry techniques, α-SYN is isolating proteomes of interest with an increasing level of
+considered a major if not the essential component of LBs. tissular,cellularandsubcellularspecificity.Atthetissularlevel,
+However,immunostainingmethodsarenotoriouslynotquanti- themesencephalonfromneuropathologically-provenPDcases
+tativeand,infact,atrulyquantitativeassessmentofthemanyLB and matched controls should be carefully and selectively
+components is still awaited. Furthermore, the totality of LB dissected, frozen and cryosectioned. Delineating the whole
+constituentshasnotbeenestablishedyetandproteomicstudies SNpcproteomeandcomparingitbetweenthetwogroupsmay
+oncorticalLBs[131,132]suggestthatα-SYNisjustoneamong provide information on global changes occurring in this
+hundredsofproteinsthatcomposeLBs.Fourth,whilenumerous structureinPD.Atthecellularlevel,aproteomics-compatible
+studies have focused on α-SYN and its high propensity to numberofbromophenolbluestained-DAneuronsareextracted
+aggregate under certain conditions, limited information is fromthesamesetsofsamplesusingLCM,yieldingthreedis-
+availableaboutotherproteinsthatmayexhibitsimilarproperties tinctneuronalpopulationstobecompared,thosefromhealthy
+such as parkin, UCH-L1, LRKK2, DJ-1, omi/HtrA2, PINK1 and subjects and those from PD neurons with and without LBs.
+others. For example, the in vitro overexpression of parkin Rather than focusing on LBs, this step may be important
+associated with an inhibition of proteasomal activity, was to assess the whole cellular pathophysiology and particu-
+recently shown to lead to the formation of inclusions sharing larly to study LB-free nigral degeneration that occur in some
+many characteristics with LBs such as their organisation or genetically-determined forms of PD such as PARK2. At the
+immunoreactivity against UB, and some proteasome compo- subcellularlevel,proteomesofinterestfromthesamesetsof
+nents[147],supportingthenotionthatotherproteinsthanα-SYN neurons can be determined after enrichment of relevant
+may induce aggregation. A way to identify aggregation-prone fractions,includingnuclei,mitochondria,synapses,NMgran-
+proteins may rely on their primary aminoacid sequence, as ules,LBsorothercomplexes,throughsubcellularfractionation
+proteinscontainingthehydrophobicaminoacidsAla,Val,Leu,Ile, orimmunoprecipitationtechniques.ItisnoteworthythatLCM
+Phe,Trp,MetorPromaybemoreatriskofmisfoldingorbeing may not be suitable to purify LBs because of their small size
+resistanttorefolding.ItiswellpossiblethatmanyLBconstituents which approaches the capture limits of the LCM technology
+belongtothisclassofhydrophobicproteins.Inaddition,LBsmay [132]. Because the same samples are used at each step,
+be enriched with natively unfolded proteins, such as α-SYN, comparisonofdatasetsmaybelessbiasedbyinter-individual
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 21
+Fig.2–Diagramshowingapossibleproteomicapproachtoassessbiologicalmechanismsunderlyingneurodegenerationinthe
+substantianigraparscompactafromParkinson'sdiseasehumanbrainsobtainedatautopsy.Atthepre-analyticallevel,itis
+proposedtoexaminesampleswithanincreasinglevelofspecificityateachstepandwithappropriateproteomicsstrategies,
+accordingtoworkinghypotheses.
+variability. Specific proteomic strategies are defined for each comparisonofsilver-stainedpatternsofmultiplegelsandMS/
+level,accordingtoworkinghypotheses,whichinvolve(1)estab- MSidentificationremainsvalid,thedevelopmentoffluorescent
+lishingwhichproteinsmaybeover-orunderexpressedinthe and chemiluminescent based technologies has extended its
+SNpc and its components, using quantitative approaches; application, allowing the multiplex assessment of protein
+(2)examiningwhichqualitativeproteinmodificationsmayplay quantification on a single gel using the DIGE technology and
+aprominentroleintheaggregationprocesses;and(3)assessing the large scale detection of protein modifications. MS/MS
+protein miscleavage as another potential mechanism under- identificationshouldbeperformedwithhighlysensitivemass
+lyinginclusionformationinPD.Datavalidationisacrucialstep spectrometers that may be able to dissect spots into their
+thatshouldnotbeforgottenalongthewholeprocedure. sometimesmultiplecomponents.Anothermethodcalled“shot-
+gun proteomics” involves proteins trypsinisation, peptide
+7.1. Quantitatingproteinexpression separationsusingabroadrangeofmulti-dimensionalchroma-
+tographic,affinityorgel-basedtechniques,followedbyMS/MS
+Multiplication of the SNCA gene has been shown to be a identification.Thisgel-freealternativehasbecomewidespread
+potential mechanism by which increased expression ofwild- forrelativeorabsolutequantificationusingstableisotopelabels
+typeα-SYNmayleadnotonlytoautosomaldominantbutalso at a proteinor peptide level,and morerecentlyforlabel-free
+to apparently sporadic PD with LBs. Interestingly, phenotype quantitationstrategies.Instableisotopelabelling,quantitative
+anddiseaseseverityseemcorrelatedwithSNCAcopynumber peptide ratios— thoughttoreflectaccuratelythe abundance
+and probably gene product levels [151]. This observation ratio of the compared proteins — can be obtained from the
+provides the rationale to study other proteins, whose over- relativecomparisonofpeptidesignalintensitiesdiscriminated
+expressionandhighintracellularconcentrationsmaypromote fromsingleMSorMS/MSscansowingtotheirmassdifferences
+inclusion formation. Quantitative or semi-quantitative meth- (forreviewedsee[152,153]).Forexample,theisobarictaggingof
+odsarehighlydesirabletoexaminethishypothesis.Whereas peptides using iTRAQ or tandem mass tags (TMT) [154]
+the traditional proteomic approach using 2-DE separation, consisting in a reporter and a balance group, enables the
+
+---PAGE BREAK---
+
+22 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+simultaneousproteinidentificationandquantificationofupto the melanised neurons of PD brain [165]. The 2DOxyblot
+respectively6and8samplesbyMS/MS.Aftersamplespooling, techniquewasalsosuccessfullyusedtomapnitratedproteins
+peptidesofthesamesequencelabelledwithdifferentversions inADbrains[166].Itisthereforeanticipatedthattheapplication
+ofasetofmultiplexisobaricreagentsappearatthesamemass of 2DOxyblot on human SNpc, DA neurons or subcellular
+in an MS scan, but upon CID fragmentation in the mass fractionscouldprovidenewinsightsintoPDmechanisms.
+spectrometer, give rise to low mass MS/MS signature ions Athirdapproachhasrecentlyemergedfromthedemonstra-
+correspondingtothereporterloss.Inaddition,whenproteinsof tionthatthenitrosylationreactionofcysteinethiolsidechain
+interest are identified,thespiking ofa knownquantity of an withnitricoxidespeciesformsS-nitrosylatedderivatives.This
+isotope-labelledpeptidechemicallysynthesizedasaninternal mechanism has recently been linked to unfolded protein
+standardcanprovideabsolutequantification[155].Incontrast, response [167] and neurodegeneration in PD [167–169]. The
+label-freequantitationcaneitherbebasedonthecorrelationof detectionofendogenouslyS-nitrosylatedproteinsmainlyrelies
+theMSpeakintensitieswithproteinamounts[156]oronthe onthebiotin-switchassaypioneeredbyJaffreyandSnyderandis
+correlationofthenumberofMS/MSspectraassignedtoeach compatiblewithabroadrangeofmethodssuchasSDS-PAGE,
+protein(spectralcounting)[157]. immunodetection and mass spectrometry [170]. Using this
+Allthesequantitativeapproachescanbeusedatanystepin technique, the protein–disulphide isomerase (PDI) chaperone,
+theworkflowproposedonFig.2,althoughwebelievegel-based which assists in the maturation and transport of unfolded
+techniquesmaybeinsufficientlysensitiveandthereforeless secretoryproteinswasshowntobeS-nitrosylatedinPDbrains.
+suitableforcellularofsubcellularfractionanalyses.Tomake The modification blocked its protective enzymatic activity,
+resultsmorerobust,wealsoproposetousetwoindependent leadingtotheaccumulationofpolyubiquitinatedproteinsand
+methodsofquantificationusingthesamesetofsamples,in activatingtheunfoldedproteinresponse.Thesedatasupporta
+order to identify — and exclude — method-dependent data, previouslyunrecognizedrelationshipbetweennitricoxideand
+and to apply stringent criteria for the determination of proteinmisfoldingindegenerativedisorders[167].Moreover,two
+differentiallyexpressedspotsorMSpeaks. studiesreportedthatparkinwasS-nitrosylatedinvariouscellular
+and animal models as well as in sporadic PD brains [168,171].
+7.2. Examiningproteinmodifications These authors found that, although overexpression of parkin
+couldrescueneuronalcelllinesexposedtoproteasomeinhibi-
+Proteomic tools allow performing comprehensive study of tion,theS-nitrosylationcouldinhibitparkinubiquitinE3ligase
+specific PTMs that are known to occur in the PD SNpc, activityandalteritsprotectivefunction[168,171].S-nitrosylation
+including the identification and quantification of modified mayprecludeproperubiquitinationofparkinsubstratesresulting
+proteinsaswellastheprecisesitesofmodification. in their aggregation. These findings provide a molecular link
+between nitric oxide toxicity, UPS impairment and protein
+7.2.1. Oxidation,nitrationandS-nitrosylation accumulationinsporadicPD.
+In PD, considerable evidence supports oxidative or nitrative Lately, a high throughput proteomic approach termed
+stressaskeyfactorsinvolvedinneurodegeneration[158].For SNOSID (S-NitrOsylation Site Identification) has been devel-
+example, oxidative modifications of α-SYN via dopamine opedforthesimultaneousidentificationofproteinscontain-
+adducts [159] or nitration [160] facilitate its aggregation. ing SNO-cysteine sites in complex biological mixtures [172].
+Threeassaysarecommonlyusedtoassessmarkersofprotein Builtonthebiotin-switchtechnique,thisinnovativemethod
+oxidationbasedonthedetectionofproteincarbonyls,tyrosine combines thebiotinylationof proteinSNO-cysteine residues
+nitrationorcysteineS-nitrosylation. followedbytrypsindigestion,affinitypurificationofbiotiny-
+The first assay involves the reaction of 2,4-dinitrophenyl- lated-peptides,andaminoacidsequencingbyliquidchroma-
+hydrazine with carbonyl groups on proteins, followed by their tographytandemMS[172].Tothebestofourknowledge,this
+spectrophotometricalquantification.Thistechniquewasapplied approachhasnotyetbeenusedinPDresearch.
+toSNpcspecimensfromPDpatientsanddemonstratedincreased
+levels of oxidised proteins compared to controls [161,162]. The 7.2.2. Phosphorylation
+high throughput comparison and identification of proteins ProteinphosphorylationisoneofthemostfrequentPTMsanda
+containingcarbonylsindiseasedandcontrolbrainsamplescan criticalregulatorymechanismofcellularhomeostasisincluding
+bedeterminedbyanelegantmethodtermed2DOxyblot,without proliferation,geneexpressionorsignaltransduction[173–175].
+loosinginformationonproteinisoforms.Thetechniquecouples Forexample,inADandothertauopathies,amassiveincreasein
+2-DEwiththeimmunohistochemicaldetectionofproteinreactive theconcentrationoffreehyperphosphorylatedtauisthoughtto
+carbonylsgroupsandfinallythematchingof2DOxyblotwith2-DE beattheheartofabnormalfilamentsassembly.Insynucleino-
+gels images followed by mass spectrometry of differentially pathies, α-SYN was found to be extensively and selectively
+detectedspots. Thisprocedurewassuccessfullyappliedtothe phosphorylatedatSer129inaggregates,asdemonstratedbyMS
+comparisonofoxidationlevelsofbrainproteinsintheinferior and histochemical techniques [176], and this modification
+parietallobuleofADsubjectsversuscontrols,withtheidentifica- seemstopromotefibrillogenesisinvitro[176].
+tion of several specifically oxidised proteins, such as creatine A variety of strategies have been introduced for the large
+kinaseBB,glutaminesynthase,UCH-L1andothers[163,164]. scaleidentificationofphospho-proteinsandphospho-peptides,
+A second way to index oxidative damage to proteins is the determination of their sites of phosphorylation on Ser,
+throughthenitrationoftyrosineresiduesmediatedbyreactive ThrorTyrresiduesandtheirquantitativeanalysis(seereview
+nitrogen species. Antibodies specific for 3-nitrotyrosine were [177–179]).Quantitativephosphoproteomicsisbasedon2-DEor
+usedtodemonstrateincreasedproteinnitrationswithinLBsin MS technologies. The use of phosphorylation-specific stains
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 23
+Table3–Someproteomics-derivedproteinsofinterestforPDresearch.
+SwissProt Proteinname Function Sample Quantification Observed Hypothetic Reference
+ID method changesa significance
+P00450 Ceruloplasmin Irontransporter CSF iTRAQLCMS/MS ↓(0.65) Freeiron- [101]
+induced
+oxidativestress
+P02749 Apolipoprotein Transporterofvarioussubstrates CSF iTRAQLCMS/MS ↓(0.66) Unclear [101]
+H (i.e.phospholipids,heparin)
+P01024 Complement Serum 2DE ↑(~7) [105]
+proteinsC3
+isoformC3c
+phosphorylated
+P01024 Complement Immune/inflammatoryresponse Serum 2DE ↑(~5.5)
+proteinsC3 throughcomplementsystem
+isoformC3dg activation
+P08603 Complement Serum 2DE ↑(~3) [105]
+factorH,short
+splicedform
+P54289 Voltage- Calcium-dependentsignal SNpc 2DE ↑(2.7) Increased [108]
+dependent transduction calciuminfluxin
+calcium DAneurons
+channel
+subunitalpha-
+2/delta-1
+P32119 Peroxiredoxin2 Redoxmetabolism SNpc 2DE ↑(2.0) Actsagainst [108]
+increased
+oxidativestress
+O75368 SH3domain Redoxmetabolism SNpc 2DE ↑(1.85) Actsagainst [109]
+binding increased
+glutamicacid oxidativestress
+richproteinlike
+(SH3BGRL)
+O75947 ATPsynthaseD Energyproduction SNpc 2DE ↑(1.75) Compensatory [108]
+chain mechanismfor
+ATPproduction
+inhibition
+P47985 Ubiquinol Energyproduction SNpc 2DE 2spots:↑ Compensatory [108]
+cytochromec (3)and↑ mechanismfor
+reductaseiron– (1.6) ATPproduction
+sulfursubunit inhibition
+O95299 NADH- Energyproduction SNpc, ICATLCMS/MS ↓(0.34) Mitochondrial [73]
+ubiquinone mitochondrial complexI
+42kDasubunit fraction dysfunction
+P33518 Cytochromec Energyproduction SNpc, ICATLCMS/MS ↓(0.69) Mitochondrial [73]
+oxidase mitochondrial complexI
+polypeptide1 fraction dysfunction
+Q14019 Coactosin-like Cellstructure,bindsto SNpc 2DE ↑(2.0) Structural [109]
+1 F-actin reorganisation
+P09455 Cellular Intracellulartransport SNpc 2DE ↑(1.76) Compensatory [109]
+retinol-binding ofretinolandretinal mechanismfor
+protein1 lossofaldehyde
+dehydrogenases
+P00352 Aldehyde Retinoidmetabolism, SNpc, ICATLCMS/MS ↓(0.38) Decreased [73]
+dehydrogenase detoxificationofaldehydes mitochondrial detoxificationof
+1A1 fraction aldehydes
+SNpc 2DE ↓(0.75) [109]
+P38646 Mortalin Chaperone-likeprotein,control SNpc, ICATLCMS/MS ↓(0.45) Reduced [73]
+ofcellproliferation,cellularaging mitochondrial capacityto
+fraction interactwith
+Frontal iTRAQLC/MSMS, ↓(0.66– multiplebinding [112]
+cortex, 2DE 0.49) partnersorto
+cytosolic refoldproteins
+fractions
+a Inparentheses,PDsamplesovercontrolsratio.
+
+---PAGE BREAK---
+
+24 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+such as Pro-Q Diamond fully compatible with other staining toolinassessingtheroleofproteolysisinPDneurodegenera-
+methods(e.g.,DIGE)andmodernMS-basedanalysis[180]has tion,asrecentlyshownbyNilssonetal.[200].
+allowedparalleldeterminationofproteinexpressionchanges As summarized in Table 3, proteomic studies performed
+andalteredphosphorylationpatternswithinasingle2-DEgel thus far in the field of PD have already generated a large
+experiment [181]. This labor-intensive approach is now sup- amountofdatathatsupportexistingpathogenictheoriesand
+planted by the development of phospho-proteins/peptides have produced a number of original findings regarding PD
+enrichmentmethodscombinedwithelegantMSidentification pathogenesisandbiomarkers.However,thesedevelopments
+andquantificationusingstableisotopelabelling[182]orlabel- remainconfidentialintheneurosciencecommunityandare
+freemethods[183]. rarely incorporated into the current scenarios of molecular
+mechanisms underlyingPD. Reasonsmaybe foundin some
+7.2.3. Ubiquitination limitations that tend to affect existing clinical (and basic)
+CovalentadditionofsingleormultiplesunitsofUB,typicallyto proteomicstudies[201],notably(1)thelackofwell-definedand
+lysineresidues,isacrucialmechanisminvolvedinthetargeting specific working hypothesis preceding the design of the
+ofintracellularproteinsfor26Sproteoasomaldegradationbut proteomic protocol, which has been used essentially as a
+also in various other functions [184]. UB is a small, highly screening tool; (2) the choice of samples which may not be
+conservedproteinthatmodifiessubstratesthroughacascade adequate for the purpose of the study; (3) an enormous
+involving activating (E1), conjugating (E2), ligase (E3) and variability of pre-analytical and analytical methods which
+deubiquitinating enzymes (DUBs) [185]. As human genome may preclude inter-laboratory comparisons; (4) the limited
+mayencodeafewE1sbutaroundfiftyE2sandhundredsofE3s, number and heterogeneity of samples examined and low
+thescopeof proteinubiquitination underpathological condi- statisticalpowerofcomparative analyses;(5)theabsenceof
+tionscouldbelarge[186].Thestudyofubiquitinatedproteins resultvalidationusingindependent,standardizedandreliable
+providesadirecttooltoassesstheroleoftheUPSpathwayinPD methods. These caveats have to be kept in mind when
+pathogenesis. If protein aggregation and LB formation do assessing available studies performed in PD research and
+originatefromanimpaired26Sproteasomalfunction[187]or needtobeovercomeinfutureproteomicstudies.Basedonthe
+fromsomealteredDUBs,thenthemajorityofLBcomponents,or literature reviewed above, it could be concluded that the
+atleastproteinscomposingLBfibrils,areexpectedtobefully mechanismsatthebasisofPDpathogenesisareexceedingly
+ubiquitinatedor,conversely,deubiquitinatedbyDUBsfollowing complex and our current understanding of them remains
+aggregation.ThisdoesnotseemtobethecaseinPDbutthis limited. The prevailing theory involves an impairment of
+issuerequiresfurtherinvestigation.Thedeterminationofthe selected groups of neurons to handle abnormally processed
+preciseformofUBinaggregatesanditssubstratesmighthelpin cellularproteinswhichdepositasinsolubleandtoxicaggre-
+improving our understanding of the process. Strategies have gates, the cause of which being still elusive. Proteomics-
+been recently developed for the affinity purification of UB- orientedstudiespublishedsofartendtosupportthisviewand,
+conjugates, including UB antibodies [188] and UB binding in fact, suggest that proteomics may be one of the most
+proteins[189].However,methodologiesstillneedtoberefined promisingresearchavenuesinthefieldofPDpathogenesis.
+toallowthelargescaleroutineanalysisofthesemodifications.
+Giventhenumbersofmulti-proteincomplexesinvolvedinthe
+UPSmachineryandallthesubstratessusceptibletobetargeted, Acknowledgments
+largescaleproteomicapproachesarenecessarytofullyunder-
+standtheroleofubiquitinationindiseasesingeneral,andinPD Thisworkhasbeenmadepossiblethroughthegenerosityofthe
+inparticular. Memorial A. de Rothschild Foundation, the Edmond J. Safra
+Philanthropic Foundation, the Gustaaf Hamburger Foundation,
+7.3. Studyingproteinmiscleavage the Ernst and Lucie Schmidheiny Foundation and Swiss
+Parkinson.
+The role of proteolytic cleavage in degenerative diseases has
+been established in AD where the abnormal involvement of
+REFERENCES
+sequentially active secretases leads to the accumulation and
+aggregationofpathogenicAβ andtheformationofamyloid
+42
+plaques. Moreover, inclusions in post-mortem tissues of
+[1] ThomasB,BealMF.Parkinson'sdisease.HumMolGenet
+patients with Huntington's disease contain short N-terminal
+2007:R183–9416SpecNo.2.
+fragmentsofpolyglutaminerepeats[190],thatseemtobemore
+[2] DorseyER,ConstantinescuR,ThompsonJP,BiglanKM,
+toxic than full-length huntingtin [191,192]. In PD, the role of
+HollowayRG,KieburtzK,etal.Projectednumberofpeople
+proteolytic products is less clearly established. C-terminally withParkinsondiseaseinthemostpopulousnations,2005
+truncatedα-SYNseemsto be present inLBsof patients with through2030.Neurology2007;68:384–6.
+dementiawithLBs[193]andmorepronetoaggregateinvitro [3] FasanoM,LopianoL.Alpha-synucleinandParkinson's
+[160,194,195].Moreover,evidencessuggestthattheNACpeptide disease:aproteomicview.ExpertRevProteomics
+ofα-SYNidentifiedindementiawithLBscouldalsoaggregateas
+2008;5:239–48.
+[4] PienaarIS,DanielsWM,GotzJ.Neuroproteomicsasa
+toxicentities[196].Thedevelopmentofanovelexcitingfieldin
+promisingtoolinParkinson'sdiseaseresearch.JNeural
+proteomics,peptidomics,dedicatedtotheanalysisofendogen- Transm2008;115:1413–30.
+ouspeptidesthatareusuallymissedbystandardgel-basedor [5] ZhangJ,GoodlettDR.Proteomicapproachtostudying
+shotgunproteomicstrategies(see[197–199]),couldbeavaluable Parkinson'sdisease.MolNeurobiol2004;29:271–88.
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 25
+[6] ParkinsonJ.Anessayontheshakingpalsy. ParkinsonandHuntington.Clinical,morphologicaland
+JNeuropsychiatryClinNeurosci2002;14:223–36. neurochemicalcorrelations.JNeurolSci1973;20:415–55.
+[7] FornoLS.NeuropathologyofParkinson'sdisease. [29] HerkenhamM,LittleMD,BankiewiczK,YangSC,MarkeySP,
+JNeuropatholExpNeurol1996;55:259–72. JohannessenJN.SelectiveretentionofMPP+withinthe
+[8] GrayF.TheneuropathologyofParkinsonsyndrome.Rev monoaminergicsystemsoftheprimatebrainfollowing
+Neurol(Paris)1988;144:229–48. MPTPadministration:Aninvivoautoradiographicstudy.
+[9] SpillantiniMG,SchmidtML,LeeVM,TrojanowskiJQ,JakesR, Neuroscience1991;40:133–58.
+GoedertM.Alpha-synucleininLewybodies.Nature [30] BrotchieJ,Fitzer-AttasC.Mechanismscompensatingfor
+1997;388:839–40. dopaminelossinearlyParkinsondisease.Neurology
+[10] BraakH,DelTrediciK,BratzkeH,Hamm-ClementJ, 2009;72:S32–8.
+Sandmann-KeilD,RubU.Stagingoftheintracerebral [31] LennoxG,LoweJ,MorrellK,LandonM,MayerRJ.
+inclusionbodypathologyassociatedwithidiopathic Anti-ubiquitinimmunocytochemistryismoresensitivethan
+Parkinson'sdisease(preclinicalandclinicalstages).JNeurol conventionaltechniquesinthedetectionofdiffuseLewy
+2002;249(Suppl3):III/1–5. bodydisease.JNeurolNeurosurgPsychiatry1989;52:67–71.
+[11] BraakH,DelTrediciK,RubU,deVosRA,JansenSteurEN, [32] SakamotoM,UchiharaT,HayashiM,NakamuraA,KikuchiE,
+BraakE.Stagingofbrainpathologyrelatedtosporadic MizutaniT,etal.HeterogeneityofnigralandcorticalLewy
+Parkinson'sdisease.NeurobiolAging2003;24:197–211. bodiesdifferentiatedbyamplifiedtriple-labelingfor
+[12] BraakH,GhebremedhinE,RubU,BratzkeH,DelTrediciK. alpha-synuclein,ubiquitin,andthiazinred.ExpNeurol
+StagesinthedevelopmentofParkinson'sdisease-related 2002;177:88–94.
+pathology.CellTissueRes2004;318:121–34. [33] Gomez-TortosaE,NewellK,IrizarryMC,SandersJL,Hyman
+[13] BraakH,RubU,GaiWP,DelTrediciK.IdiopathicParkinson's BT.Alpha-synucleinimmunoreactivityindementiawith
+disease:possibleroutesbywhichvulnerableneuronaltypes Lewybodies:morphologicalstagingandcomparisonwith
+maybesubjecttoneuroinvasionbyanunknownpathogen. ubiquitinimmunostaining.ActaNeuropathol
+JNeuralTransm2003;110:517–36. 2000;99:352–7.
+[14] MarsdenCD.Parkinson'sdisease.TheLancet [34] RoyS,WolmanL.Ultrastructuralobservationsin
+1990;335:948–9. Parkinsonism.JPathol1969;99:39–44.
+[15] BurkeRE,DauerWT,VonsattelJP.Acriticalevaluationofthe [35] MooreDJ,WestAB,DawsonVL,DawsonTM.Molecular
+BraakstagingschemeforParkinson'sdisease.AnnNeurol pathophysiologyofParkinson'sdisease.AnnuRevNeurosci
+2008;64:485–91. 2005;28:57–87.
+[16] JellingerKA.Acriticalreappraisalofcurrentstagingof [36] UédaK,FukushimaH,MasliahE,XiaY,IwaiA,YoshimotoM,
+Lewy-relatedpathologyinhumanbrain.ActaNeuropathol etal.MolecularcloningofcDNAencodinganunrecognized
+2008;116:1–16. componentofamyloidinAlzheimerdisease.ProcNatlAcad
+[17] GandhiS,WoodNW.MolecularpathogenesisofParkinson's SciUSA1993;90:11282–6.
+disease.HumMolGenet2005:2749–5514SpecNo.2. [37] ClaytonDF,GeorgeJM.Thesynucleins:afamilyofproteins
+[18] FearnleyJM,LeesAJ.AgingandParkinson'sdisease: involvedinsynapticfunction,plasticity,neurodegeneration
+substantianigraregionalselectivity.Brain anddisease.TrendsNeurosci1998;21:249–54.
+1991;114:2283–301. [38] DavidsonWS,JonasA,ClaytonDF,GeorgeJM.Stabilization
+[19] BraakH,BohlJR,MullerCM,RubU,deVosRA,DelTrediciK. ofalpha-synucleinsecondarystructureuponbindingto
+StanleyFahnLecture2005:thestagingprocedureforthe syntheticmembranes.JBiolChem1998;273:9443–9.
+inclusionbodypathologyassociatedwithsporadic [39] WeinrebPH,ZhenW,PoonAW,ConwayKA,LansburyJrPT.
+Parkinson'sdiseasereconsidered.MovDisord NACP,aproteinimplicatedinAlzheimer'sdiseaseand
+2006;21:2042–51. learning,isnativelyunfolded.Biochemistry
+[20] SurmeierDJ.Calcium,ageing,andneuronalvulnerabilityin 1996;35:13709–15.
+Parkinson'sdisease.LancetNeurol2007;6:933–8. [40] PolymeropoulosMH,LavedanC,LeroyE,IdeSE,DehejiaA,
+[21] DoubleKL,ZeccaL,CostiP,MauerM,GriesingerC,ItoS,etal. DutraA,etal.Mutationinthealpha-synucleingene
+Structuralcharacteristicsofhumansubstantianigra identifiedinfamilieswithParkinson'sdisease.Science
+neuromelaninandsyntheticdopaminemelanins. 1997;276:2045–7.
+JNeurochem2000;75:2583–9. [41] KrugerR,KuhnW,MullerT,WoitallaD,GraeberM,KoselS,
+[22] HirschE,GraybielAM,AgidYA.Melanizeddopaminergic etal.AlaSOPromutationinthegeneencoding
+neuronsaredifferentiallysusceptibletodegenerationin alpha-synucleininParkinson'sdisease.NatGenet
+Parkinson'sdisease.Nature1988;334:345–8. 1998;18:106–8.
+[23] DamierP,HirschEC,AgidY,GraybielAM.Thesubstantia [42] Chartier-HarlinMC,KachergusJ,RoumierC,MourouxV,
+nigraofthehumanbrain:II.Patternsoflossof DouayX,LincolnS,etal.Alpha-synucleinlocusduplication
+dopamine-containingneuronsinParkinson'sdisease.Brain asacauseoffamilialParkinson'sdisease.Lancet
+1999;122:1437–48. 2004;364:1167–9.
+[24] ItoH,GotoS,SakamotoS,HiranoA.Calbindin-D28kinthe [43] SingletonA,Gwinn-HardyK.Parkinson'sdiseaseand
+basalgangliaofpatientswithparkinsonism.AnnNeurol dementiawithLewybodies:adifferenceindose?Lancet
+1992;32:543–50. 2004;364:1105–7.
+[25] KishSJ,ShannakK,HornykiewiczO.Unevenpatternof [44] MaraganoreDM,deAndradeM,ElbazA,FarrerMJ,Ioannidis
+dopaminelossinthestriatumofpatientswithidiopathic JP,KrugerR,etal.Collaborativeanalysisofalpha-synuclein
+Parkinson'sdisease.Pathophysiologicandclinical genepromotervariabilityandParkinsondisease.JAMA
+implications.NEnglJMed1988;318:876–80. 2006;296:661–70.
+[26] SulzerD.Multiplehithypothesesfordopamineneuron [45] PankratzN,WilkJB,LatourelleJC,DeStefanoAL,HalterC,
+lossinParkinson'sdisease.Trends PughEW,etal.Genomewideassociationstudyfor
+Neurosci2007;30:244–50. susceptibilitygenescontributingtofamilialParkinson
+[27] DauerW,PrzedborskiS.Parkinson'sdisease:mechanisms disease.HumGenet2009;124:593–605.
+andmodels.Neuron2003;39:889–909. [46] WinklerS,HagenahJ,LincolnS,HeckmanM,HaugarvollK,
+[28] BernheimerH,BirkmayerW,HornykiewiczO,JellingerK, Lohmann-HedrichK,etal.Alpha-synucleinandParkinson
+SeitelbergerF.Braindopamineandthesyndromesof diseasesusceptibility.Neurology2007;69:1745–50.
+
+---PAGE BREAK---
+
+26 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+[47] AndersonJP,WalkerDE,GoldsteinJM,deLaatR,BanducciK, [68] TofarisGK,SpillantiniMG.Physiologicalandpathological
+CaccavelloRJ,etal.PhosphorylationofSer-129isthe propertiesofalpha-synuclein.CellMolLifeSci
+dominantpathologicalmodificationofalpha-synucleinin 2007;64:2194–201.
+familialandsporadicLewybodydisease.JBiolChem [69] UverskyVN.Neuropathology,biochemistry,andbiophysics
+2006;281:29739–52. ofalpha-synucleinaggregation.JNeurochem
+[48] Manning-BogAB,McCormackAL,LiJ,UverskyVN,FinkAL, 2007;103:17–37.
+DiMonteDA.Theherbicideparaquatcausesup-regulation [70] PrzedborskiS.Pathogenesisofnigralcelldeathin
+andaggregationofalpha-synucleininmice:paraquatand Parkinson'sdisease.ParkinsonismRelatDisord2005;11
+alpha-synuclein.JBiolChem2002;277:1641–4. (Suppl1):S3–7.
+[49] UverskyVN,LiJ,FinkAL.Pesticidesdirectlyacceleratethe [71] ShererTB,BetarbetR,GreenamyreJT.Pathogenesisof
+rateofalpha-synucleinfibrilformation:apossiblefactorin Parkinson'sdisease.CurrOpinInvestigDrugs2001;2:657–62.
+Parkinson'sdisease.FEBSLett2001;500:105–8. [72] WaxmanEA,GiassonBI.Molecularmechanismsof
+[50] JennerP,OlanowCW.Oxidativestressandthepathogenesis alpha-synucleinneurodegeneration.BiochimBiophysActa
+ofParkinson'sdisease.Neurology1996;47:S161–70. 2009;15:32–9.
+[51] SchapiraAH,CooperJM,DexterD,ClarkJB,JennerP, [73] MeredithGE,SonsallaPK,ChesseletMF.Animalmodelsof
+MarsdenCD.MitochondrialcomplexIdeficiencyin Parkinson'sdiseaseprogression.ActaNeuropathol
+Parkinson'sdisease.JNeurochem1990;54:823–7. 2008;115:385–98.
+[52] ShererTB,BetarbetR,GreenamyreJT.Environment, [74] DeIuliisA,GrigolettoJ,RecchiaA,GiustiP,ArslanP.A
+mitochondria,andParkinson'sdisease.Neuroscientist proteomicapproachinthestudyofananimalmodelof
+2002;8:192–7. Parkinson'sdisease.ClinChimActa2005;357:202–9.
+[53] LangstonJW,BallardP,TetrudJW,IrwinI.Chronic [75] DiedrichM,MaoL,BernreutherC,ZabelC,NebrichG,Kleene
+Parkinsonisminhumansduetoaproductof R,etal.Proteomeanalysisofventralmidbrainin
+meperidine–analogsynthesis.Science1983;219:979–80. MPTP-treatednormalandL1camtransgenicmice.
+[54] ThiruchelvamM,RichfieldEK,BaggsRB,TankAW, Proteomics2008;8:1266–75.
+Cory-SlechtaDA.Thenigrostriataldopaminergicsystemasa [76] IchibangaseT,SaimaruH,TakamuraN,KuwaharaT,
+preferentialtargetofrepeatedexposurestocombined KoyamaA,IwatsuboT,etal.ProteomicsofCaenorhabditis
+paraquatandmaneb:implicationsforParkinson'sdisease. elegansover-expressinghumanalpha-synucleinanalyzedby
+JNeurosci2000;20:9207–14. fluorogenicderivatization-liquidchromatography/tandem
+[55] ShererTB,KimJH,BetarbetR,GreenamyreJT.Subcutaneous massspectrometry:identificationofactinandseveral
+rotenoneexposurecauseshighlyselectivedopaminergic ribosomalproteinsasnegativemarkersatearlyParkinson's
+degenerationandalpha-synucleinaggregation.ExpNeurol diseasestages.BiomedChromatogr2008;22:232–4.
+2003;179:9–16. [77] JinJ,HuletteC,WangY,ZhangT,PanC,WadhwaR,etal.
+[56] SongDD,ShultsCW,SiskA,RockensteinE,MasliahE. Proteomicidentificationofastressprotein,mortalin/
+Enhancedsubstantianigramitochondrialpathologyin mthsp70/GRP75:relevancetoParkinsondisease.MolCell
+humanalpha-synucleintransgenicmiceaftertreatment Proteomics2006;5:1193–204.
+withMPTP.ExpNeurol2004;186:158–72. [78] LiuB,ShiQ,MaS,FengN,LiJ,WangL,etal.Striatal19SRpt6
+[57] FukuiH,MoraesCT.Themitochondrialimpairment,oxidative deficitisrelatedtoalpha-synucleinaccumulationin
+stressandneurodegenerationconnection:realityorjustan MPTP-treatedmice.BiochemBiophysResCommun
+attractivehypothesis?TrendsNeurosci2008;31:251–6. 2008;376:277–82.
+[58] RajanRS,IllingME,BenceNF,KopitoRR.Specificityin [79] McLaughlinP,ZhouY,MaT,LiuJ,ZhangW,HongJS,etal.
+intracellularproteinaggregationandinclusionbody Proteomicanalysisofmicroglialcontributiontomouse
+formation.ProcNatlAcadSciUSA2001;98:13060–5. strain-dependentdopaminergicneurotoxicity.Glia
+[59] KopitoRR.Aggresomes,inclusionbodiesandprotein 2006;53:567–82.
+aggregation.TrendsCellBiol2000;10:524–30. [80] PeriquetM,CortiO,JacquierS,BriceA.Proteomicanalysisof
+[60] OlanowCW,PerlDP,DeMartinoGN,McNaughtKS. parkinknockoutmice:alterationsinenergymetabolism,
+Lewy-bodyformationisanaggresome-relatedprocess:a proteinhandlingandsynapticfunction.JNeurochem
+hypothesis.LancetNeurol2004;3:496–503. 2005;95:1259–76.
+[61] McNaughtKS,OlanowCW,HalliwellB,IsacsonO, [81] PoonHF,FrasierM,ShreveN,CalabreseV,WolozinB,
+JennerP.Failureoftheubiquitin–proteasomesystem ButterfieldDA.Mitochondrialassociatedmetabolicproteins
+inParkinson'sdisease.NatRevNeurosci areselectivelyoxidizedinA30Palpha-synucleintransgenic
+2001;2:589–94. mice—amodeloffamilialParkinson'sdisease.Neurobiol
+[62] OlanowCW,McNaughtKS.Ubiquitin–proteasomesystem Dis2005;18:492–8.
+andParkinson'sdisease.MovDisord2006;21:1806–23. [82] SantosPM,SimoesT,Sa-CorreiaI.Insightsintoyeast
+[63] BedfordL,HayD,PaineS,RezvaniN,MeeM,LoweJ,etal.Is adaptiveresponsetotheagriculturalfungicidemancozeb:a
+malfunctionoftheubiquitinproteasomesystemthe toxicoproteomicsapproach.Proteomics2009;9:657–70.
+primarycauseofalpha-synucleinopathiesandotherchronic [83] ValastroB,DekundyA,KroghM,LundbladM,JamesP,
+humanneurodegenerativedisease?BiochimBiophysActa DanyszW,etal.Proteomicanalysisofstriatalproteinsinthe
+2008;1782:683–90. ratmodelofL-DOPA-induceddyskinesia.JNeurochem
+[64] McNaughtKS,PerlDP,BrownellAL,OlanowCW.Systemic 2007;102:1395–409.
+exposuretoproteasomeinhibitorscausesaprogressive [84] VanLaarVS,DukesAA,CascioM,HastingsTG.Proteomic
+modelofParkinson'sdisease.AnnNeurol2004;56:149–62. analysisofratbrainmitochondriafollowingexposureto
+[65] LimKL,TanJM.Roleoftheubiquitinproteasomesystemin dopaminequinone:implicationsforParkinsondisease.
+Parkinson'sdisease.BMCBiochem2007;8(Suppl1):S13. NeurobiolDis2008;29:477–89.
+[66] HarrowerTP,MichellAW,BarkerRA.Lewybodiesin [85] XunZ,SowellRA,KaufmanTC,ClemmerDE.Lifetime
+Parkinson'sdisease:protectorsorperpetrators? proteomicprofilingofanA30Palpha-synucleinDrosophila
+ExpNeurol2005;195:1–6. modelofParkinson'sdisease.JProteomeRes2007;6:3729–38.
+[67] BisagliaM,MammiS,BubaccoL.Structuralinsightson [86] XunZ,SowellRA,KaufmanTC,ClemmerDE.Protein
+physiologicalfunctionsandpathologicaleffectsof expressioninaDrosophilamodelofParkinson'sdisease.
+alpha-synuclein.FASEBJ2009;23:329–40. JProteomeRes2007;6:348–57.
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 27
+[87] XunZ,SowellRA,KaufmanTC,ClemmerDE.Quantitative hyperechogenicityinParkinsondisease.Neurology
+proteomicsofapresymptomaticA53Talpha-synuclein 2004;63:1912–7.
+DrosophilamodelofParkinsondisease.MolCellProteomics [106] TorsdottirG,KristinssonJ,SveinbjornsdottirS,SnaedalJ,
+2008;7:1191–203. JohannessonT.Copper,ceruloplasmin,superoxide
+[88] SowellRA,OwenJB,ButterfieldDA.Proteomicsinanimal dismutaseandironparametersinParkinson'sdisease.
+modelsofAlzheimer'sandParkinson'sdiseases.AgeingRes PharmacolToxicol1999;85:239–43.
+Rev2009;8:1–17. [107] TorsdottirG,SveinbjornsdottirS,KristinssonJ,SnaedalJ,
+[89] ZellnerM,VeitingerM,UmlaufE.Theroleofproteomicsin JohannessonT.Ceruloplasminandsuperoxidedismutase
+dementiaandAlzheimer'sdisease.ActaNeuropathol (SOD1)inParkinson'sdisease:afollow-upstudy.JNeurolSci
+2009;118:181–95. 2006;241:53–8.
+[90] BrechlinP,JahnO,SteinackerP,CepekL,KratzinH,Lehnert [108] GoldknopfIL,ShetaEA,BrysonJ,FolsomB,WilsonC,DutyJ,
+S,etal.Cerebrospinalfluid-optimizedtwo-dimensional etal.ComplementC3candrelatedproteinbiomarkersin
+differencegelelectrophoresis(2-DDIGE)facilitatesthe amyotrophiclateralsclerosisandParkinson'sdisease.
+differentialdiagnosisofCreutzfeldt–Jakobdisease. BiochemBiophysResCommun2006;342:1034–9.
+Proteomics2008;8:4357–66. [109] ZhangJ,SokalI,PeskindER,QuinnJF,JankovicJ,KenneyC,etal.
+[91] FinehoutEJ,FranckZ,LeeKH.Towardstwo-dimensional CSFmultianalyteprofiledistinguishesAlzheimerand
+electrophoresismappingofthecerebrospinalfluidproteome Parkinsondiseases.AmJClinPathol2008;129:526–9.
+fromasingleindividual.Electrophoresis2004;25:2564–75. [110] FountoulakisM,HardmeierR,HogerH,LubecG.Postmortem
+[92] SickmannA,DormeyerW,WortelkampS,WoitallaD,Kuhn changesinthelevelofbrainproteins.ExpNeurol
+W,MeyerHE.Towardsahighresolutionseparationof 2001;167:86–94.
+humancerebrospinalfluid.JChromatogrBAnalytTechnol [111] CreceliusA,GotzA,ArzbergerT,FrohlichT,ArnoldGJ,Ferrer
+BiomedLifeSci2002;771:167–96. I,etal.Assessingquantitativepost-mortemchangesinthe
+[93] DayonL,HainardA,LickerV,TurckN,KuhnK,Hochstrasser graymatterofthehumanfrontalcortexproteomeby2-D
+DF,etal.Relativequantificationofproteinsinhuman DIGE.Proteomics2008;8:1276–91.
+cerebrospinalfluidsbyMS/MSusing6-plexisobarictags. [112] FranzenB,YangY,SunnemarkD,WickmanM,OttervaldJ,
+AnalChem2008;80:2921–31. OppermannM,etal.Dihydropyrimidinaserelatedprotein-2
+[94] XuJ,ChenJ,PeskindER,JinJ,EngJ,PanC,etal. asabiomarkerfortemperatureandtimedependentpost
+Characterizationofproteomeofhumancerebrospinalfluid. mortemchangesinthemousebrainproteome.Proteomics
+IntRevNeurobiol2006;73:29–98. 2003;3:1920–9.
+[95] PanS,ZhuD,QuinnJF,PeskindER,MontineTJ,LinB,etal.A [113] HunsuckerSW,SolomonB,GawrylukJ,GeigerJD,Vacano
+combineddatasetofhumancerebrospinalfluidproteins GN,DuncanMW,etal.Assessmentofpost-mortem-induced
+identifiedbymulti-dimensionalchromatographyand changestothemousebrainproteome.JNeurochem
+tandemmassspectrometry.Proteomics2007;7:469–73. 2008;105:725–37.
+[96] HaleJE,GelfanovaV,YouJS,KniermanMD, [114] BassoM,GiraudoS,CorpilloD,BergamascoB,LopianoL,
+DeanRA.Proteomicsofcerebrospinalfluid:methods FasanoM.Proteomeanalysisofhumansubstantianigrain
+forsampleprocessing.MethodsMolBiol Parkinson'sdisease.Proteomics2004;4:3943–52.
+2008;425:53–66. [115] WernerCJ,Heyny-vonHaussenR,MallG,WolfS.Proteome
+[97] ShiM,CaudleWM,ZhangJ.Biomarkerdiscoveryin analysisofhumansubstantianigrainParkinson'sdisease.
+neurodegenerativediseases:aproteomicapproach. ProteomeSci2008;6:8.
+NeurobiolDis2009;35:157–64. [116] KitsouE,PanS,ZhangJ,ShiM,ZabetiA,DicksonDW,etal.
+[98] El-AgnafOM,SalemSA,PaleologouKE,CooperLJ,Fullwood Identificationofproteinsinhumansubstantianigra.
+NJ,GibsonMJ,etal.Alpha-synucleinimplicatedin ProteomicsClinAppl2008;2:776–82.
+Parkinson'sdiseaseispresentinextracellularbiological [117] PanS,ShiM,JinJ,AlbinRL,LiebermanA,GearingM,etal.
+fluids,includinghumanplasma.FASEBJ2003;17:1945–7. Proteomicsidentificationofproteinsinhumancortexusing
+[99] TokudaT,SalemSA,AllsopD,MizunoT,NakagawaM,Qureshi multidimensionalseparationsandMALDItandemmass
+MM,etal.Decreasedalpha-synucleinincerebrospinalfluidof spectrometer.MolCellProteomics2007;6:1818–23.
+agedindividualsandsubjectswithParkinson'sdisease. [118] ShiM,JinJ,WangY,BeyerRP,KitsouE,AlbinRL,etal.
+BiochemBiophysResCommun2006;349:162–6. Mortalin:aproteinassociatedwithprogressionofParkinson
+[100] WaragaiM,WeiJ,FujitaM,NakaiM,HoGJ,MasliahE,etal. disease?JNeuropatholExpNeurol2008;67:117–24.
+IncreasedlevelofDJ-1inthecerebrospinalfluidsof [119] GabrieleJ,PontorieroGF,ThomasN,ThomsonCA,Skoblenick
+sporadicParkinson'sdisease.BiochemBiophysRes K,PristupaZB,etal.Cloning,characterization,andfunctional
+Commun2006;345:967–72. studiesofahuman40-kDacatecholamine-regulatedprotein:
+[101] WaragaiM,NakaiM,WeiJ,FujitaM,MizunoH,HoG,etal. implicationsincentralnervoussystemdisorders.CellStress
+PlasmalevelsofDJ-1asapossiblemarkerforprogression Chaperones2009.
+ofsporadicParkinson'sdisease.NeurosciLett2007;425:18–22. [120] TriblF,MarcusK,BringmannG,MeyerHE,GerlachM,
+[102] BandopadhyayR,KingsburyAE,CooksonMR,ReidAR,Evans RiedererP.Proteomicsofthehumanbrain:sub-proteomes
+IM,HopeAD,etal.TheexpressionofDJ-1(PARK7)innormal mightholdthekeytohandlebraincomplexity.JNeural
+humanCNSandidiopathicParkinson'sdisease. Transm2006;113:1041–54.
+Brain2004;127:420–30. [121] BonnerRF,Emmert-BuckM,ColeK,PohidaT,ChuaquiR,
+[103] HarringtonMG,MerrilCR.Two-dimensionalelectrophoresis GoldsteinS,etal.Lasercapturemicrodissection:molecular
+and“ultrasensitive”silverstainingofcerebrospinalfluid analysisoftissue.Science1997;278:1481–3.
+proteinsinneurologicaldiseases.ClinChem1984;30:1933–7. [122] EspinaV,WulfkuhleJD,CalvertVS,VanMeterA,ZhouW,
+[104] AbdiF,QuinnJF,JankovicJ,McIntoshM,LeverenzJB,Peskind CoukosG,etal.Laser-capturemicrodissection.NatProtoc
+E,etal.Detectionofbiomarkerswithamultiplex 2006;1:586–603.
+quantitativeproteomicplatformincerebrospinalfluidof [123] AiJ,TanY,YingW,HongY,LiuS,WuM,etal.Proteome
+patientswithneurodegenerativedisorders.JAlzheimersDis analysisofhepatocellularcarcinomabylasercapture
+2006;9:293–348. microdissection.Proteomics2006;6:538–46.
+[105] HochstrasserH,BauerP,WalterU,BehnkeS,SpiegelJ,Csoti [124] JonesMB,KrutzschH,ShuH,ZhaoY,LiottaLA,KohnEC,etal.
+I,etal.Ceruloplasmingenevariationsandsubstantianigra Proteomicanalysisandidentificationofnewbiomarkersand
+
+---PAGE BREAK---
+
+28 JOURNAL OF PROTEOMICS 73 (2009) 10–29
+therapeutictargetsforinvasiveovariancancer.Proteomics isolatedfromthehumanbrain.MolCellProteomics
+2002;2:76–84. 2005;4:945–57.
+[125] WulfkuhleJD,SgroiDC,KrutzschH,McLeanK,McGarveyK, [144] FasanoM,GiraudoS,CohaS,BergamascoB,LopianoL.
+KnowltonM,etal.Proteomicsofhumanbreastductal ResidualsubstantianigraneuromelanininParkinson's
+carcinomainsitu.CancerRes2002;62:6740–9. diseaseiscross-linkedtoalpha-synuclein.NeurochemInt
+[126] BakerH,PatelV,MolinoloAA,ShillitoeEJ,EnsleyJF,YooGH, 2003;42:603–6.
+etal.Proteome-wideanalysisofheadandnecksquamous [145] JellingerK,KienzlE,RumpelmairG,RiedererP,Stachelberger
+cellcarcinomasusinglaser-capturemicrodissectionand H,Ben-ShacharD,etal.Iron–melanincomplexinsubstantia
+tandemmassspectrometry.OralOncol2005;41:183–99. nigraofparkinsonianbrains:anX-raymicroanalysis.
+[127] LiC,HongY,TanY-X,ZhouH,AiJ-H,LiS-J,etal.Accurate JNeurochem1992;59:1168–71.
+qualitativeandquantitativeproteomicanalysisofclinical [146] HwangH,ZhangJ,ChungKA,LeverenzJB,ZabetianCP,
+hepatocellularcarcinomausinglasercapture PeskindER,etal.Glycoproteomicsinneurodegenerative
+microdissectioncoupledwithisotope-codedaffinitytagand diseases.MassSpectromRev2009.
+two-dimensionalliquidchromatographymass [147] JunnE,LeeSS,SuhrUT,MouradianMM.Parkin
+spectrometry.MolCellProteomics2004;3:399–409. accumulationinaggresomesduetoproteasome
+[128] IwatsuboT,YamaguchiH,FujimuroM,YokosawaH,IharaY, impairment.JBiolChem2002;277:47870–7.
+TrojanowskiJQ,etal.Purificationandcharacterizationof [148] FinkAL.Nativelyunfoldedproteins.CurrOpinStructBiol
+LewybodiesfromthebrainsofpatientswithdiffuseLewy 2005;15:35–41.
+bodydisease.AmJPathol1996;148:1517–29. [149] WardJJ,SodhiJS,McGuffinLJ,BuxtonBF,JonesDT.
+[129] PollanenMS,BergeronC,WeyerL.Characterizationofa Predictionandfunctionalanalysisofnativedisorderin
+sharedepitopeincorticalLewybodyfibrilsandAlzheimer proteinsfromthethreekingdomsoflife.JMolBiol
+pairedhelicalfilaments.ActaNeuropathol1994;88:1–6. 2004;337:635–45.
+[130] SianJ,HensiekR,SenitzD,MuenchG,JellingerK,RiedererP, [150] JinJ,LiGJ,DavisJ,ZhuD,WangY,PanC,etal.Identification
+etal.AnoveltechniquefortheisolationofLewybodiesin ofnovelproteinsassociatedwithbothalpha-synucleinand
+brain.ActaNeuropathol1998;96:111–5. DJ-1.MolCellProteomics2007;6:845–59.
+[131] LeverenzJB,UmarI,WangQ,MontineTJ,McMillanPJ, [151] IbanezP,LesageS,JaninS,LohmannE,DurifF,DesteeA,etal.
+TsuangDW,etal.Proteomicidentificationofnovelproteins Alpha-synucleingenerearrangementsindominantly
+incorticalLewybodies.BrainPathol2007;17:139–45. inheritedparkinsonism:frequency,phenotype,and
+[132] XiaQ,LiaoL,ChengD,DuongDM,GearingM,LahJJ,etal. mechanisms.ArchNeurol2009;66:102–8.
+Proteomicidentificationofnovelproteinsassociatedwith [152] IliukA,GalanJ,TaoWA.Playingtagwithquantitative
+Lewybodies.FrontBiosci2008;13:3850–6. proteomics.AnalBioanalChem2009;393:503–13.
+[133] LiKW,SmitAB.Subcellularproteomicsinneuroscience. [153] OngSE,MannM.Massspectrometry-basedproteomicsturns
+FrontBiosci2008;13:4416–25. quantitative.NatChemBiol2005;1:252–62.
+[134] YatesIIIJR,GilchristA,HowellKE,BergeronJJ.Proteomicsof [154] ThompsonA,SchaferJ,KuhnK,KienleS,SchwarzJ,Schmidt
+organellesandlargecellularstructures.NatRevMolCellBiol G,etal.Tandemmasstags:anovelquantificationstrategy
+2005;6:702–14. forcomparativeanalysisofcomplexproteinmixturesby
+[135] JungE,HellerM,SanchezJ-C,HochstrasserDF.Proteomics MS/MS.AnalChem2003;75:1895–904.
+meetscellbiology:theestablishmentofsubcellular [155] GerberSA,RushJ,StemmanO,KirschnerMW,GygiSP.
+proteomes.Electrophoresis2000;21:3369–77. Absolutequantificationofproteinsandphosphoproteins
+[136] FornerF,FosterLJ,CampanaroS,ValleG,MannM. fromcelllysatesbytandemMS.ProcNatlAcadSciUSA
+Quantitativeproteomiccomparisonofratmitochondria 2003;100:6940–5.
+frommuscle,heart,andliver.MolCellProteomics [156] WangW,ZhouH,LinH,RoyS,ShalerTA,HillLR,etal.
+2006;5:608–19. Quantificationofproteinsandmetabolitesbymassspec-
+[137] MoothaVK,BunkenborgJ,OlsenJV,HjerrildM,Wisniewski trometrywithoutisotopiclabelingorspikedstandards.Anal
+JR,StahlE,etal.Integratedanalysisofproteincomposition, Chem2003;75:4818–26.
+tissuediversity,andgeneregulationinmouse [157] LiuH,SadygovRG,YatesIIIJR.Amodelforrandomsampling
+mitochondria.Cell2003;115:629–40. andestimationofrelativeproteinabundanceinshotgun
+[138] NielsenPA,OlsenJV,PodtelejnikovAV,AndersenJR,Mann proteomics.AnalChem2004;76:4193–201.
+M,WisniewskiJR.Proteomicmappingofbrainplasma [158] JennerP.OxidativestressinParkinson'sdisease.AnnNeurol
+membraneproteins.MolCellProteomics2005;4:402–8. 2003;53:S26–38.
+[139] CoughenourHD,SpauldingRS,ThompsonCM.Thesynaptic [159] ConwayKA,RochetJC,BieganskiRM,LansburyJrPT.Kinetic
+vesicleproteome:acomparativestudyinmembraneprotein stabilizationofthealpha-synucleinprotofibrilbya
+identification.Proteomics2004;4:3141–55. dopamine–alpha-synucleinadduct.Science
+[140] CollinsMO,HusiH,YuL,BrandonJM,AndersonCN, 2001;294:1346–9.
+BlackstockWP,etal.Molecularcharacterizationand [160] MurrayIV,GiassonBI,QuinnSM,KoppakaV,AxelsenPH,
+comparisonofthecomponentsandmultiprotein IschiropoulosH,etal.Roleofalpha-synuclein
+complexesinthepostsynapticproteome.JNeurochem2006; carboxy-terminusonfibrilformationinvitro.Biochemistry
+97(Suppl1):16–23. 2003;42:8530–40.
+[141] JordanBA,FernholzBD,BoussacM,XuC,GrigoreanG,Ziff [161] AlamZI,DanielSE,LeesAJ,MarsdenDC,JennerP,Halliwell
+EB,etal.Identificationandverificationofnovelrodent B.Ageneralisedincreaseinproteincarbonylsinthebrainin
+postsynapticdensityproteins.MolCellProteomics Parkinson'sbutnotincidentalLewybodydisease.
+2004;3:857–71. JNeurochem1997;69:1326–9.
+[142] JinJ,MeredithGE,ChenL,ZhouY,XuJ,ShieFS,etal. [162] FloorE,WetzelMG.Increasedproteinoxidationinhuman
+Quantitativeproteomicanalysisofmitochondrialproteins: substantianigraparscompactaincomparisonwith
+relevancetoLewybodyformationand basalgangliaandprefrontalcortexmeasuredwithan
+Parkinson'sdisease.BrainResMolBrainRes improveddinitrophenylhydrazineassay.JNeurochem
+2005;134:119–38. 1998;70:268–75.
+[143] TriblF,GerlachM,MarcusK,AsanE,TatschnerT,Arzberger [163] CastegnaA,AksenovM,AksenovaM,ThongboonkerdV,Klein
+T,etal.“Subcellularproteomics”ofneuromelaningranules JB,PierceWM,etal.Proteomicidentificationofoxidatively
+
+---PAGE BREAK---
+
+JOURNAL OF PROTEOMICS 73 (2009) 10–29 29
+modifiedproteinsinAlzheimer'sdiseasebrain.PartI:creatine renalcells:Regulationofaquaporin-2phosphorylationat
+kinaseBB,glutaminesynthase,andubiquitincarboxy-terminal twosites.ProcNatlAcadSci2006;103:7159–64.
+hydrolaseL-1.FreeRadicBiolMed2002;33:562–71. [184] WelchmanRL,GordonC,MayerRJ.Ubiquitinandubiquitin-like
+[164] CastegnaA,AksenovM,ThongboonkerdV,KleinJB,Pierce proteinsasmultifunctionalsignals.NatRevMolCellBiol
+WM,BoozeR,etal.Proteomicidentificationofoxidatively 2005;6:599–609.
+modifiedproteinsinAlzheimer'sdiseasebrain.PartII: [185] NijmanSM,Luna-VargasMP,VeldsA,BrummelkampTR,Dirac
+dihydropyrimidinase-relatedprotein2,alpha-enolaseand AM,SixmaTK,etal.Agenomicandfunctionalinventoryof
+heatshockcognate71.JNeurochem2002;82:1524–32. deubiquitinatingenzymes.Cell2005;123:773–86.
+[165] GoodPF,HsuA,WernerP,PerlDP,OlanowCW.Proteinnitration [186] SempleCA.Thecomparativeproteomicsofubiquitinationin
+inParkinson'sdisease.JNeuropatholExpNeurol mouse.GenomeRes2003;13:1389–94.
+1998;57:338–42. [187] McNaughtKS,BelizaireR,IsacsonO,JennerP,OlanowCW.
+[166] CastegnaA,ThongboonkerdV,KleinJB,LynnB,Markesbery AlteredproteasomalfunctioninsporadicParkinson's
+WR,ButterfieldDA.Proteomicidentificationofnitrated disease.ExpNeurol2003;179:38–46.
+proteinsinAlzheimer'sdiseasebrain.JNeurochem [188] MatsumotoM,HatakeyamaS,OyamadaK,OdaY,Nishimura
+2003;85:1394–401. T,NakayamaKI.Large-scaleanalysisofthehuman
+[167] UeharaT,NakamuraT,YaoD,ShiZ-Q,GuZ,MaY,etal. ubiquitin-relatedproteome.Proteomics2005;5:4145–51.
+S-Nitrosylatedprotein-disulphideisomeraselinksprotein [189] BennettEJ,ShalerTA,WoodmanB,RyuKY,ZaitsevaTS,
+misfoldingtoneurodegeneration.Nature2006;441:513–7. BeckerCH,etal.Globalchangestotheubiquitinsystemin
+[168] ChungKK,ThomasB,LiX,PletnikovaO,TroncosoJC,MarshL, Huntington'sdisease.Nature2007;448:704–8.
+etal.S-nitrosylationofparkinregulatesubiquitinationand [190] DiFigliaM,SappE,ChaseKO,DaviesSW,BatesGP,Vonsattel
+compromisesparkin'sprotectivefunction.Science JP,etal.Aggregationofhuntingtininneuronalintranuclear
+2004;304:1328–31. inclusionsanddystrophicneuritesinbrain.Science
+[169] FangJ,NakamuraT,ChoD-H,GuZ,LiptonSA. 1997;277:1990–3.
+S-nitrosylationofperoxiredoxin2promotesoxidative [191] SaudouF,FinkbeinerS,DevysD,GreenbergME.Huntingtin
+stress-inducedneuronalcelldeathinParkinson'sdisease. actsinthenucleustoinduceapoptosisbutdeathdoesnot
+ProcNatlAcadSciUSA2007;104:18742–7. correlatewiththeformationofintranuclearinclusions.Cell
+[170] JaffreySR,SnyderSH.Thebiotinswitchmethodforthe 1998;95:55–66.
+detectionofS-nitrosylatedproteins.SciSTKE20012001:PL1. [192] deAlmeidaLP,RossCA,ZalaD,AebischerP,DeglonN.
+[171] YaoD,GuZ,NakamuraT,ShiZQ,MaY,GastonB,etal. Lentiviral-mediateddeliveryofmutanthuntingtininthe
+NitrosativestresslinkedtosporadicParkinson'sdisease: striatumofratsinducesaselectiveneuropathologymodulated
+S-nitrosylationofparkinregulatesitsE3ubiquitinligase bypolyglutaminerepeatsize,huntingtinexpressionlevels,and
+activity.ProcNatlAcadSciUSA2004;101:10810–4. proteinlength.JNeurosci2002;22:3473–83.
+[172] HaoG,DerakhshanB,ShiL,CampagneF,GrossSS.SNOSID, [193] TakedaA,MalloryM,SundsmoM,HonerW,HansenL,
+aproteomicmethodforidentificationofcysteine MasliahE.AbnormalaccumulationofNACP/alpha-synuclein
+S-nitrosylationsitesincomplexproteinmixtures.ProcNatl inneurodegenerativedisorders.AmJPathol1998;152:367–72.
+AcadSciUSA2006;103:1012–7. [194] SerpellLC,BerrimanJ,JakesR,GoedertM,CrowtherRA.Fiber
+[173] CohenP.Theregulationofproteinfunctionbymultisite diffractionofsyntheticalpha-synucleinfilamentsshows
+phosphorylation—a25yearupdate.TrendsBiochemSci amyloid-likecross-betaconformation.ProcNatlAcadSciUS
+2000;25:596–601. A2000;97:4897–902.
+[174] PawsonT,ScottJD.Signalingthroughscaffold,anchoring, [195] CrowtherRA,RossJ,MariaGraziaS,MichelG.Synthetic
+andadaptorproteins.Science1997;278:2075–80. filamentsassembledfromC-terminallytruncatedalpha-
+[175] PawsonT.Proteinmodulesandsignallingnetworks.Nature synuclein.FEBSLett1998;436:309–12.
+1995;373:573–80. [196] El-AgnafOM,JakesR,CurranMD,MiddletonD,IngenitoR,
+[176] FujiwaraH,HasegawaM,DohmaeN,KawashimaA,Masliah BianchiE,etal.Aggregatesfrommutantandwild-type
+E,GoldbergMS,etal.alpha-Synucleinisphosphorylatedin alpha-synucleinproteinsandNACpeptideinduceapoptotic
+synucleinopathylesions.NatCellBiol2002;4:160–4. celldeathinhumanneuroblastomacellsbyformationof
+[177] CollinsMO,YuL,ChoudharyJS.Analysisofprotein beta-sheetandamyloid-likefilaments.FEBSLett1998;440:71–5.
+phosphorylationonaproteome-scale.Proteomics [197] BoonenK,LanduytB,BaggermanG,HussonSJ,HuybrechtsJ,
+2007;7:2751–68. SchoofsL.Peptidomics:theintegratedapproachofMS,
+[178] ParadelaA,AlbarJP.Advancesintheanalysisofprotein hyphenatedtechniquesandbioinformaticsforneuropeptide
+phosphorylation.JProteomeRes2008;7:1809–18. analysis.JSepSci2008;31:427–45.
+[179] SalihE.Phosphoproteomicsbymassspectrometryand [198] Schulz-KnappeP,SchraderM,ZuchtHD.Thepeptidomics
+classicalproteinchemistryapproaches.MassSpectromRev concept.CombChemHighThroughputScreen
+2005;24:828–46. 2005;8:697–704.
+[180] SteinbergT,AgnewBJ,GeeKR,LeungW-Y,GoodmanT, [199] SvenssonM,SkoldK,NilssonA,FalthM,SvenningssonP,
+SchulenbergB,etal.Globalquantitativephosphoprotein AndrenPE.Neuropeptidomics:expandingproteomics
+analysisusingmultiplexedproteomicstechnology. downwards.BiochemSocTrans2007;35:588–93.
+Proteomics2003;3:1128–44. [200] NilssonA,FalthM,ZhangX,KultimaK,SkoldK,Svenningsson
+[181] SchulenbergB,AggelerR,BeechemJM,CapaldiRA,Patton P,etal.Striatalalterationsofsecretogranin-1,somatostatin,
+WF.Analysisofsteady-stateproteinphosphorylationin prodynorphin,andcholecystokininpeptidesinan
+mitochondriausinganovelfluorescentphosphosensordye. experimentalmousemodelofParkinsondisease.MolCell
+JBiolChem2003;278:27251–5. Proteomics2009;8:1094–104.
+[182] SachonE,MohammedS,BacheN,JensenON. [201] MischakH,ApweilerR,BanksRE,ConawayM,CoonJ,
+Phosphopeptidequantitationusingamine-reactiveisobaric DominiczakA,etal.Clinicalproteomics:aneedtodefinethe
+taggingreagentsandtandemmassspectrometry: fieldandtobegintosetadequatestandards.ProteomicsClin
+applicationtoproteinsisolatedbygelelectrophoresis.Rapid Appl2007;1:148–56.
+CommunMassSpectrom2006;20:1127–34.
+[183] HoffertJD,PisitkunT,WangG,ShenRF,KnepperMA.
+Quantitativephosphoproteomicsofvasopressin-sensitive
+
+---PAGE BREAK---
+

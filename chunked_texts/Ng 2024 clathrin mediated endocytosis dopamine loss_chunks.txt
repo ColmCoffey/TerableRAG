@@ -1,0 +1,1317 @@
+Chunk 1:
+www.nature.com/npjparkd
+ARTICLE
+OPEN
+Mutations in Parkinsonism-linked endocytic proteins
+synaptojanin1 and auxilin have synergistic effects on
+dopaminergic axonal pathology
+✉
+Xin YiNg1, YumeiWu2,3,6, Youneng Lin1,6,Sidra Mohamed Yaqoob 1,6, LoisE. Greene4, PietroDeCamilli2,3 and MianCao 1,5
+Parkinson’sdisease(PD)isaneurodegenerativedisordercharacterizedbydefectivedopaminergic(DAergic)inputtothestriatum.
+Mutationsin twogenesencoding synaptically enrichedclathrin-uncoating factors, synaptojanin1 (SJ1)and auxilin, havebeen
+implicatedin atypicalParkinsonism. SJ1knock-in (SJ1-KIRQ)mice carryinga disease-linkedmutation displayneurological
+manifestationsreminiscentofParkinsonism.Herewereportthatauxilinknockout(Aux-KO)micedisplaydystrophic changesofa
+subsetofnigrostriatalDAergicterminalssimilartothoseofSJ1-KIRQmice.Furthermore,Aux-KO/SJ1-KIRQdoublemutantmicehave
+shorterlifespan and moreseveresynaptic defectsthansingle mutantmice. Theseinclude increase indystrophic striatal nerve
+terminalspositiveforDAergicmarkersandforthePDriskproteinSV2C,aswellasadaptivechangesinstriatalinterneurons.The
+synergistic effect ofthetwo mutations demonstratesa speciallability ofDAergic neuronstodefects inclathrin uncoating, with
+implicationsfor PDpathogenesis inatleast some forms ofthis condition.
+npjParkinson’s Disease (2023) 9:26 ;https://doi.org/10.1038/s41531-023-00465-5
+INTRODUCTION SJ1-KIRQ mice), recapitulated patients’ neurological manifesta-
+Recessive loss-of-function (LOF) mutations in two genes SYNJ1 tions13. Nerve terminals of these mice exhibited accumulation of
+(PARK20)andDNAJC6(PARK19),whichencodethepre-synaptically clathrin coated vesicles (CCVs) and SVs endocytic defects.
+enrichedproteinssynaptojanin1(SJ1)andauxilin,werereported Importantly, selective synaptic abnormalities were observed in
+in rare cases of familial recessive juvenile/early-onset atypical nigrostriatalDAergicnerveterminalsofthesemice,i.e.,theaxonal
+Parkinsonism1–4. Interestingly, these two proteins function at p
+
+Chunk 2:
+ichencodethepre-synaptically clathrin coated vesicles (CCVs) and SVs endocytic defects.
+enrichedproteinssynaptojanin1(SJ1)andauxilin,werereported Importantly, selective synaptic abnormalities were observed in
+in rare cases of familial recessive juvenile/early-onset atypical nigrostriatalDAergicnerveterminalsofthesemice,i.e.,theaxonal
+Parkinsonism1–4. Interestingly, these two proteins function at projections specifically degenerated in PD13. Perturbations in
+different steps, albeit synergistically, in the shedding of the autophagosome formation were also reported in neuronal
+clathrin coat that follows clathrin-dependent vesicle budding to cultures of these mice14, in patient iPSC-derived human DA
+generatenewsynapticvesicles(SVs)(Fig.2a)5.SJ1,aphosphatase neuronal models carrying the same mutation and in nerve
+that sequentially dephosphorylates PI(4,5)P via tandemly terminals of Drosophila carrying the corresponding mutation15.
+2
+arranged 5-phosphatase and 4-phosphatase domains, mediates Motor symptoms, endocytic defects at synapses, and degenera-
+thedissociationoftheendocyticclathrinadapters(theinnerlayer tion of DAergic nerve terminals were also reported in aged SJ1
+ofthecoat),whosemembraneinteractionisPI(4,5)P dependent6. Heterozygous(+/−)mice16.Moreover,astrongsyntheticinterac-
+2
+Auxilin, a clathrin-binding co-chaperone, recruits the ATPase tionwasobservedinmicebetweentheSJ1R258Qmutationand
+HSC70 to disassemble the clathrin lattice, i.e., outer layer of the the loss of Sac2, a PI4P phosphatase shown by genome-wide
+coat6. Moreover, since auxilin contains a binding domain for association study (GWAS) to bea candidatePD risk gene17.
+monophosphoinositides7, its recruitment was proposed to be LOF animal models of auxilin also have features of PD
+controlled, atleast inpartby theactivity of SJ1. pathogenesis. Reduced auxilin level in Drosophila leads to PD-
+Complete LOF of SJ1 results in early postnatal death8,9, while like motor symptoms and accelerates α-synuclein medi
+
+Chunk 3:
+or association study (GWAS) to bea candidatePD risk gene17.
+monophosphoinositides7, its recruitment was proposed to be LOF animal models of auxilin also have features of PD
+controlled, atleast inpartby theactivity of SJ1. pathogenesis. Reduced auxilin level in Drosophila leads to PD-
+Complete LOF of SJ1 results in early postnatal death8,9, while like motor symptoms and accelerates α-synuclein mediated DA
+the R258Q mutation responsible for Parkinsonism selectively neuron loss18. Auxilin mutant flies are also more sensitive to the
+impairsthefunctionofits4-phosphatasedomain(alsocalledSac environmental toxin paraquat18. Auxilin KO mice (Aux-KO mice)
+domain)2. In the case of auxilin, Parkinsonism mutations result in arebornwithalowerthannormalmendelianratioandasubsetof
+complete or very strong loss of function10. Patients affected by them die perinatally19. The brain levels of the auxilin paralogue,
+Parkinsonismcarryingmutationsinthesetwogenessharesimilar cyclinG-associatedkinase(GAK),areupregulatedinthesurviving
+clinical manifestations: early- or juvenile-onset, typical motor mice, and these mice were reported to have a normal lifespan,
+deficits with atypical epilepsy and, in some patients, develop- although a systematic analysis of their neurological performance
+mental delay and/or dopamine (DA) deficiency as detected by wasnotcarriedout.Inneuronalculturesderivedfromthesemice,
+reducedDaTScan signalinthestriatum11,12. impaired SVs endocytosis and clathrin uncoating defects were
+Severalanimalmodelshavebeengeneratedandcharacterized observed19. Mice carrying the auxilin Parkinsonism-linked muta-
+for both Parkinsonism genes. Knock-in (KI) mice carrying the Sac tionR927Gshowedmotorimpairmentsinoldmice,andbothSVs
+domain mutation R258Q (R259Q in mice, referred henceforth as recycling and Golgi trafficking defects20. Finally, in human
+1ProgrammeinNeuroscienceandBehaviouralDisorders,Duke-NUSMedicalSchool,Singapore,Singapore.2DepartmentsofNeuroscienceandCellBiology,HowardHughes
+Me
+
+Chunk 4:
+m-linked muta-
+for both Parkinsonism genes. Knock-in (KI) mice carrying the Sac tionR927Gshowedmotorimpairmentsinoldmice,andbothSVs
+domain mutation R258Q (R259Q in mice, referred henceforth as recycling and Golgi trafficking defects20. Finally, in human
+1ProgrammeinNeuroscienceandBehaviouralDisorders,Duke-NUSMedicalSchool,Singapore,Singapore.2DepartmentsofNeuroscienceandCellBiology,HowardHughes
+MedicalInstitute,PrograminCellularNeuroscience,NeurodegenerationandRepair,KavliInstituteforNeuroscience,YaleUniversitySchoolofMedicine,NewHaven,CT06510,
+USA. 3Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase, MD, USA. 4Laboratory of Cell Biology, NHLBI, National Institutes of
+Health,Bethesda,MD,USA.5DepartmentofPhysiology,NationalUniversityofSingapore,Singapore,Singapore.6Theseauthorscontributedequally:YumeiWu,YounengLin,
+✉
+SidraMohamedYaqoob. email:mian.cao@duke-nus.edu.sg
+PublishedinpartnershipwiththeParkinson’sFoundation
+;,:)(0987654321
+
+---PAGE BREAK---
+
+a b
+Ctrl
+Ctrl Aux-KO Aux-KO
+e
+Ctrl Aux-KO Ctrl Aux-KO
+TH
+DAT
+Merge
+Dorsal striatum Ventral striatum
+f
+2M 5M 12M
+Aux-KO
+midbrain-likeorganoids,mutationsofauxilinwereshowntocause strongly suggest that their mutations result in Parkinsonism via
+keyPDpathologicfeaturesandalsodevelopmentaldefectsdueto the same, or very similar, pathogenetic mechanism. Elucidating
+impairedWNT-LMX1A signaling21. such a mechanism may offer the possibility of developing
+The implication in Parkinsonism of two genes that have intervention strategies to prevent the onset of Parkinsonism
+cooperative function in clathrin uncoating during SVs recycling manifestations in individuals homozygous for these mutations. It
+TAD/HT
+h
+2M 5M 12M
+SJ1-KIRQ
+TAD/HT
+X.Y.Ngetal.
+2
+c d
+g
+Aux-KO
+i
+SJ1-KIRQ
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+;,:)(0987654321
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+3
+Fig. 1 Aux-KO mice exhibit parkinsonism-like phenotypes with dystrophic DAergic axon terminals in the
+
+Chunk 5:
+ncoating during SVs recycling manifestations in individuals homozygous for these mutations. It
+TAD/HT
+h
+2M 5M 12M
+SJ1-KIRQ
+TAD/HT
+X.Y.Ngetal.
+2
+c d
+g
+Aux-KO
+i
+SJ1-KIRQ
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+;,:)(0987654321
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+3
+Fig. 1 Aux-KO mice exhibit parkinsonism-like phenotypes with dystrophic DAergic axon terminals in the dorsal striatum. a Hindlimb
+clasping phenotype of 4-month-old Aux-KO mouse. b 2-month-old Aux-KO mice have missteps while walking on the balance beam.
+cQuantificationforthenumberofmisstepsduringthebalancebeamtestforthreeagegroupsofAux-KOmice.Aux-KOmiceonlyexhibitmild
+finemotordeficitsat2–4monthscomparedtotheCtrlgroup.Dataarerepresentedasmean±SEM(**p<0.01,byStudent’sunpairedttest).
+nnumbersfor theCtrl(2–4M:15,5–8M:7and>9M:8)andAux-KOmice(2–4M:14,5–8M:8and>9M:13).dPerformanceof threeage
+groupsofAux-KOmiceontheacceleratedrotarod.Dataarerepresentedasmean±SEM.nnumbersusedforeachagegroupoftheCtrland
+Aux-KOmice(2–4M:15and13;5–8M:9and11;>9M:11and15).eDoublestainingforTHandDATof1-month-oldCtrlandAux-KOmice
+shows selective clustering of these two DAergic markers only in the dorsal striatum. Scale bar: 20µm. f, h Age-dependent decrease
+ofthenumberofTH/DAT-positiveclustersinthedorsalstriatumofAux-KOandSJ1-KIRQmiceisobservedrespectivelyatboth5-monthand
+12-month.Scalebar:20µm.g,iQuantificationforTHandDATclustersshownin(f)and(h).Thenumberofclustersiscountedinfiverandomly
+selected, 300×300-µm regions of interest (ROIs). Data are represented as mean±SEM (**p<0.01, and ***p<0.001, and ****p<0.0001 by
+two-wayANOVAwithpost-hocTukey’stest).n=3miceforeachgenotypeandeachagegroup.
+is also possible that mutations of other PD genes may converge terminals of the nigrostriatal DA system are selectively and
+onsuchmechanisms,sothatstudiesonSJ1andauxilinmayhave similarlyaffectedbyeithercompleteLOFofauxilinortheR258Q
+moregeneralimplications. mutation in SJ1, two genetic perturbations that result in
+Herew
+
+Chunk 6:
+by
+two-wayANOVAwithpost-hocTukey’stest).n=3miceforeachgenotypeandeachagegroup.
+is also possible that mutations of other PD genes may converge terminals of the nigrostriatal DA system are selectively and
+onsuchmechanisms,sothatstudiesonSJ1andauxilinmayhave similarlyaffectedbyeithercompleteLOFofauxilinortheR258Q
+moregeneralimplications. mutation in SJ1, two genetic perturbations that result in
+Herewesetouttoinvestigatewhetherlossofauxilinfunctionin Parkinsonism in human patients. Tiny DAT-positive clusters first
+micephenocopiesthedystrophicchangesthatwehaveobserved appearedatabout3-weekandlargeclusterspositiveforbothDAT
+in the striata of SJ1-KIRQ mice and to determine whether the andTHpeakedat1–2months.However,inbothadult(5-month)
+combined loss of auxilin and the Parkinsonism mutation of SJ1 and aged mice (12-month), the number of these clusters was
+results in synergistic effects on such changes. Our results significantly reduced (Fig. 1f, g), similar to what we observed in
+demonstrate a similar effect of the two genetic perturbations on SJ1-KIRQmice(Fig.1h,i).Possibly,structuralchangesofasubsetof
+nigrostriatalDAergicnerveterminals.WealsoshowthatAux-KO/
+DAergic nerve terminals only occurs at a young age and these
+SJ1-KIRQ double mutant mice have a much shorter lifespan than
+terminals eventually degenerate. However, the occurrence of a
+single mutants and more severe dystrophic changes in the
+repairmechanism cannotbe excluded.
+striatum. Our results strengthen evidence for a vulnerability of
+nigrostriatal neurons to clathrin uncoating perturbations at
+synapses, and suggest that such dysfunction may play a role in
+atleast someform ofParkinsonism. Moresevere neurological phenotypes in Aux-KO/SJ1-KIRQ
+doublemutant mice thaninsingle mutantmice
+The similar clinical phenotypes of Parkinsonism mutations in SJ1
+RESULTS
+(RQ mutation) and auxilin (complete LOF) as well as the similar
+Neurological defects in Aux-KO mice that survive early cellularandhistologicalphenotypesobservedin
+
+Chunk 7:
+such dysfunction may play a role in
+atleast someform ofParkinsonism. Moresevere neurological phenotypes in Aux-KO/SJ1-KIRQ
+doublemutant mice thaninsingle mutantmice
+The similar clinical phenotypes of Parkinsonism mutations in SJ1
+RESULTS
+(RQ mutation) and auxilin (complete LOF) as well as the similar
+Neurological defects in Aux-KO mice that survive early cellularandhistologicalphenotypesobservedinSJ1-KIRQandAux-
+postnataldeath KO mice prompted us to examine a synergistic effect of the two
+As previously reported, a subset ofAux-KO mice dieshortly after geneticdisruptionsbygeneratingAux-KO/SJ1-KIRQdoublemutant
+birth19.Thesurvivorscanhavealifespansimilartowild-type(WT) mice. As shown in Fig. 2b, Aux-KO/SJ1-KIRQ mice have much
+controls but a subset of them develop early-onset tonic-clonic shorterlifespancomparedtoeithersinglemutantmice,revealing
+epileptic seizures starting at 3–4 postnatal week (Supplementary astrongsyntheticgeneticinteraction.About75%ofAux-KO/SJ1-
+video 1), a finding also reported in the clinical cases carrying KIRQ mice died within 1 month after birth. Moreover, they were
+auxilin mutations. Hindlimb clasping phenotype, a sign of
+usually smaller in size (Supplementary Fig. 1a, b) and showed
+neurodegeneration, was observed in 30% of the mice at 1-
+hindlimbclaspingandseizures.ThelevelofNeuropeptideY(NPY)
+month-old(Fig.1a).Moreover,at2-4monthstheyshowedamild was dramatically increased in dentate gyrus (DG) mossy fibers in
+fine motor deficit in the balanced beam test with significantly
+Aux-KO/SJ1-KIRQ. hippocampus, compared to single mutants and
+more missteps as they walk along the beam (Fig. 1b, c and
+controls, most likely a sign of frequent epileptic seizures22,23
+Supplementary video 2a, b), while their performance on rotarod
+(Supplementary Fig. 1c, d). To date, only one Aux-KO/SJ1-KIRQ
+(gross motor) was normal (Fig. 1d). These results show that Aux-
+mouse out of more than 50 survived to adulthood and died
+KO mice have at least some of the features obser
+
+Chunk 8:
+hey walk along the beam (Fig. 1b, c and
+controls, most likely a sign of frequent epileptic seizures22,23
+Supplementary video 2a, b), while their performance on rotarod
+(Supplementary Fig. 1c, d). To date, only one Aux-KO/SJ1-KIRQ
+(gross motor) was normal (Fig. 1d). These results show that Aux-
+mouse out of more than 50 survived to adulthood and died
+KO mice have at least some of the features observed in patients
+suddenlyat7-month-old.Asassessedbythebalancedbeamtest
+carryingauxilin Parkinsonism mutations.
+andbyimmunohistologicalanalysis,thismousehadmoresevere
+motorcoordinationdefectandDAergicterminaldystrophyinthe
+DefectsofDAergic nerveterminals in thedorsal striatumof
+striatum compared to single mutant mice (Supplementary video
+Aux-KO mice
+3a–d and Supplementary Fig.1e)
+The previously reported analysis of cultured neurons of Aux-KO
+Hematoxylin and eosin (H&E) staining of Aux-KO/SJ1-KIRQ
+mice demonstrated perturbations consistent with a defect in
+mouse brains at 1-month of age (the age at which nearly 25%
+clathrin uncoating. To examine the impact of auxilin LOF on the
+of the double mutant mice survived) revealed a normal brain
+DAergic nigrostriatal pathway, we performed immunohistochem-
+architecture (Supplementary Fig. 2). Likewise, no obvious gliosis
+istry on brain frozen sections using antibodies directed against
+was observed in different brain regions upon immunostaining
+tyrosine hydroxylase (TH) and the plasma membrane dopamine
+transporter(DAT),bothmarkersofDAneurons.SimilartoSJ1-KIRQ withionizedcalcium-bindingadaptermolecule(Iba1),amicroglia
+marker and glial fibrillary acidic protein (GFAP), an astrocyte
+mice, scattered abnormal TH- and DAT-positive clusters, were
+observed in the striata of these mice, but not in WT and marker(SupplementaryFig.3a,b).Moreover,westernblotanalysis
+heterozygous littermates, in addition to the normal diffuse oftotalhomogenatesofbrainsatthesameageshowedthatthe
+punctateimmunoreactivityrepresentingaxonterminalvaricosities levels of majo
+
+Chunk 9:
+acidic protein (GFAP), an astrocyte
+mice, scattered abnormal TH- and DAT-positive clusters, were
+observed in the striata of these mice, but not in WT and marker(SupplementaryFig.3a,b).Moreover,westernblotanalysis
+heterozygous littermates, in addition to the normal diffuse oftotalhomogenatesofbrainsatthesameageshowedthatthe
+punctateimmunoreactivityrepresentingaxonterminalvaricosities levels of major synaptic proteins tested, including SV proteins,
+of DAergic neurons (Fig. 1e). Typically, these clusters were endocytic proteins and proteins of DA metabolism were
+localized next to the soma of striatal neurons. Interestingly, as in unchanged at this age, with the exception of a modest
+thecaseofSJ1-KIRQbrains,theseclusterswerespecificallypresent upregulation in amphiphysin 2 and endophilin1 of SJ1-KIRQ mice
+in the dorsal but not ventral striatum (Fig. 1e). Thus, nerve (SupplementaryFig. 4a,b).
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+4
+a b
+Aux-KO/SJ1-KIRQ Survival Curve
+c
+CLC AP2 SJ1 Amphiphysin 2 Amphiphysin 1
+Ctrl
+Aux-KO
+SJ1-KIRQ
+Aux-KO/
+SJ1-KIRQ
+d
+e f
+Ctrl Aux-KO SJ1-KIRQ Aux-KO/SJ1-KIRQ Amph1/Gad65
+Amph1
+Gad65
+Merge
+SynergisticdisruptingeffectsofauxilinandSJ1mutationson aswellasemptyclathrincagesinthecaseofAux-KOneurons,as
+clathrin coat dynamicsin nerve terminals revealedbyelectronmicroscopy(EM)(Fig.3).Thesedefects,which
+Synapses of either Aux-KO or SJ1-KIRQ mice display abnormal resultindefectiveendocyticrecyclingofSVs,arenotrestrictedto
+presynaptic clustering of endocytic factors, as revealed by DAergic nerve terminals, in agreement with the ubiquitous
+immunofluorescence (Fig. 2c, d), and an accumulation of CCVs expression of SJ1 and auxilin in neurons. Moreover, they are
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+5
+Fig.2 LOFofbothAuxilinandSJ1exacerbateneurologicaldefectsinAux-KO/SJ1-KIRQmice.aSchematicdiagramdisplayingtherol
+
+Chunk 10:
+ nerve terminals, in agreement with the ubiquitous
+immunofluorescence (Fig. 2c, d), and an accumulation of CCVs expression of SJ1 and auxilin in neurons. Moreover, they are
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+5
+Fig.2 LOFofbothAuxilinandSJ1exacerbateneurologicaldefectsinAux-KO/SJ1-KIRQmice.aSchematicdiagramdisplayingtheroleof
+Auxilin (PARK19) and SJ1 (PARK20) in clathrin-mediated SVs recycling. Adapted from “Clathrin-Mediated Endocytosis”, by BioRender.com
+(2022).Retrievedfromhttps://app.biorender.com/biorender-templates.bSurvivalcurvesofwild-type(WT),Aux-KO,SJ1-KIRQ,andAux-KO/SJ1-
+KIRQ mice. c Representative images of immunoreactivity for CLC, AP2, SJ1, Amphiphysin 2 and Amphiphysin 1 in DIV19 cultured primary
+corticalneuronsfromCtrl,Aux-KO,SJ1-KIRQandAux-KO/SJ1-KIRQnewbornpups.Scalebar:5µm.dQuantificationofsynapticclustersintensity
+showninc.Dataarerepresentedasmean±SEM(*p<0.05,**p<0.01,***p<0.001,****p<0.0001byone-wayANOVAwithpost-hocTukey’s
+test).Thenumberofneuronsquantifiedforeachendocyticmarkerisasfollow:Ctrl:n=43–49,Aux-KO:n=32–52,SJ1-KIRQ:n=35–37,Aux-
+KO/SJ1-KIRQ: n=39–44 cultured from 4–6 mice. e Immunostaining of amphiphysin 1 with Gad65 (inhibitory presynaptic marker) in DIV19
+corticalneuronsrevealedthatthesesynapticclusteringofendocyticproteinsoccurpredominantlyinGABAergicneurons.Scalebar: 5µm.
+fMander’scoefficientshowsthatbothsinglemutants(Aux-KOandSJ1-KIRQ)anddoublemutantAux-KO/SJ1-KIRQhavebettercolocalizationof
+Amph1 and Gad65 clusters compared to control. Data are represented as mean±SEM (*p<0.05, ***p<0.001, ****p<0.0001 by one-way
+ANOVAwithpost-hocTukey’stest).n=8–10neurons.
+generallymoreprominentatinhibitorynerveterminalsaslabeled were detected by EM in both auxilin KO and Aux-KO/SJ1-KIRQ
+by GAD65, which have higher tonic levels of activity (Fig. 2e, f). striata(Fig.5).Moreover,EManalysisconfirmedthattheincrease
+Both these defects were more severe at synapses of double of T
+
+Chunk 11:
+SEM (*p<0.05, ***p<0.001, ****p<0.0001 by one-way
+ANOVAwithpost-hocTukey’stest).n=8–10neurons.
+generallymoreprominentatinhibitorynerveterminalsaslabeled were detected by EM in both auxilin KO and Aux-KO/SJ1-KIRQ
+by GAD65, which have higher tonic levels of activity (Fig. 2e, f). striata(Fig.5).Moreover,EManalysisconfirmedthattheincrease
+Both these defects were more severe at synapses of double of TH/DAT-positive clusters corresponded to an increase in the
+mutant neurons. At these synapses, the fluorescence intensity of numberofonion-likeplasmamembranederivedstructures.While
+clusters of endocytic proteins, such as clathrin, adapter protein these structures were difficult to be found in thin sections of
+complex 2 (AP2), SJ1, amphiphysin 1 and amphiphysin 2, which singlemutantmice duetotheir scattered distribution, theywere
+wasalreadyhigherinAux-KOandSJ1-KIRQsinglemutantneurons mucheasiertobefoundinthinsectionofdoublemutantstriata,
+than in controls, was even higher in Aux-KO/SJ1-KIRQ neurons confirming their abundance. Red arrowheads in Fig. 5 show that
+(Fig.2c, d). they represent plasma membrane invagination. Lamellae some-
+Asynergisticeffectofthetwomutationscouldalsobeobserved times contained scattered small SV clusters or CCVs consistent
+byEM,asshownbyrepresentativeEMmicrographsinFig.3a,and withtheiraxonalnature.Moreover,anti-THimmunogoldlabeling
+by a morphometric analysis of CCVs and empty clathrin cages in confirmed that these structures corresponded to TH accumula-
+nerveterminalsofthestriatum(Fig.3b).Asexpected,theSJ1-KIRQ tions(Supplementary Fig.7).
+mutationresultedprimarilyinanincreaseinCCVsandtheAux-KO Immunofluorescence for a variety of nerve terminal proteins
+mutationalsoresultedinanincreaseofemptyclathrincages,but and specific components of the DAergic system revealed co-
+thecombinationofthetwomutationsledtoanoverallincreasein enrichment of several other proteins with TH and DAT in these
+assembled clathrin (both cages and coated vesicles). At some structures
+
+Chunk 12:
+rilyinanincreaseinCCVsandtheAux-KO Immunofluorescence for a variety of nerve terminal proteins
+mutationalsoresultedinanincreaseofemptyclathrincages,but and specific components of the DAergic system revealed co-
+thecombinationofthetwomutationsledtoanoverallincreasein enrichment of several other proteins with TH and DAT in these
+assembled clathrin (both cages and coated vesicles). At some structures in Aux-KO/SJ1-KIRQ mice. These include AADC (Fig. 6a,
+inhibitorysynapsesinotherregionsofthebrainsuchincreasewas g),theplasmamembranemarkerSNAP25(Fig.6b,g)andasubset
+huge, as illustrated by the three examples of inhibitory nerve of SV proteins, such as synaptic vesicle glycoprotein 2C (SV2C)
+terminalsinthedeepcerebellarnucleishowninFig.3cthatshow (Fig.6c,g)andsynaptotagmin1(Syt1)(SupplementaryFig.8c)but
+massiveaccumulations of emptyclathrin cagesand CCVs. nototherSVhouse-keepingproteinssuchasSV2B(Fig.6d,g)and
+synapsin(SupplementaryFig.8d).BothAADCandSV2Cwerealso
+Enhanceddystrophic changes in the striatumof clustered with TH/DAT in Aux-KO or SJ1-KIRQ striatum (Supple-
+Aux-KO/SJ1-KIRQdouble mutantmice mentary Fig. 8a, b). Given the very low numbers of SVs in the
+onion-like structures but the abundance of plasma membrane,
+WenextfocusedontheDAsysteminbothmidbrainandstriatum.
+SV2CandSyt1mayhavebeenmorepronethanotherstobecome
+The morphology of neurons positive for TH and for aromatic
+stranded in the plasma membrane in double mutant neurons.
+L-amino acid decarboxylase (AADC, the enzyme that acts down-
+SV2C immunoreactivity was particularly strong consistent with a
+stream of TH to convert levodopa into DA and is thus another
+preferentialexpressionofthisSV2isoforminthestriatumandthe
+marker of DAergic neurons) in both substantia nigra (SN) and
+midbrain, relative to SV2A and SV2B (http://dropviz.org/ and
+ventral tegmental area (VTA) appeared normal in 1-month-old
+refs.24,25). It is also worth to note that gene encoding SV2C was
+Aux-KO/SJ1-KIRQ mice when compared to WT controls (Supple
+
+Chunk 13:
+levodopa into DA and is thus another
+preferentialexpressionofthisSV2isoforminthestriatumandthe
+marker of DAergic neurons) in both substantia nigra (SN) and
+midbrain, relative to SV2A and SV2B (http://dropviz.org/ and
+ventral tegmental area (VTA) appeared normal in 1-month-old
+refs.24,25). It is also worth to note that gene encoding SV2C was
+Aux-KO/SJ1-KIRQ mice when compared to WT controls (Supple-
+mentaryFig.5a).Stereologicalcountingshowednosignificantloss recently identified as a PD risk locus26,27. Importantly, the
+abnormal SNAP25 positive clusters were not observed in other
+of TH-positive neurons in either SN or VTA in Aux-KO/SJ1-KIRQ
+brain regions, suggesting a selective impairment in the striatum
+midbrain at this age (Supplementary Fig. 5b). However, in the
+(SupplementaryFig.9a,b).Noneoftheendocyticproteinstested,
+striatum of Aux-KO/SJ1-KIRQ mice, the DAergic nerve terminal
+includingclathrinlightchain(CLC)andendophilin1werefoundin
+dystrophicphenotypewasmoreseverethaninthesinglemutant
+these aggregates (Fig. 6e–g), in agreement with the absence of
+mice. The number of TH/DAT-positive clusters in the dorsal
+striatum was significantly increased compared to single mutants accumulationofendocyticintermediatesobservedbyEMatthese
+sites.
+(Fig. 4a, c, d). More importantly, similar TH/DAT-positive clusters
+Consistent with the occurrence of dystrophic changes of
+were also observed in the ventral striatum (including both the
+DAergic axons, measurements of the total content of DA in the
+nucleus accumbens and olfactory tubercle) of Aux-KO/SJ1-KIRQ
+striatumat1-month-oldusingHPLC,showedthatDAlevelswere
+mice, but not of the single mutant mice (Fig. 4b, c, e and
+significantly decreased in striata of Aux-KO/SJ1-KIRQ mice com-
+Supplementary Figs. 5c, 6). Since the ventral striatum receives
+paredtothoseofsinglemutantsandcontrols(Fig.6h).However,
+DAergic axonal input from the VTA of the midbrain, this result
+we did not see any changes in the DA metabolites (DOPAC and
+indicatesthatthe
+
+Chunk 14:
+dthatDAlevelswere
+mice, but not of the single mutant mice (Fig. 4b, c, e and
+significantly decreased in striata of Aux-KO/SJ1-KIRQ mice com-
+Supplementary Figs. 5c, 6). Since the ventral striatum receives
+paredtothoseofsinglemutantsandcontrols(Fig.6h).However,
+DAergic axonal input from the VTA of the midbrain, this result
+we did not see any changes in the DA metabolites (DOPAC and
+indicatesthatthecombinedperturbationofauxilinandSJ1affects
+HVA)levelsamongthefourdifferentgenotypes(datanotshown).
+the function of midbrain DAergic neurons more globally. It
+Thesignificanceofthiswillhavetobeaddressedinfuturestudies.
+suggests a vulnerability of both SN and VTA DAergic neurons to
+thecombinedlossofSJ1andauxilin,butalowertoleranceofSN
+neuronstothe lossof eitherone ofthese two proteins. Adaptive upregulation ofstriatal TH/AADC-positive
+EMobservationsofSJ1-KIRQstriatahadshownthatthepresence interneurons andSV2C-positive cholinergicinterneurons in
+of TH/DAT-positive clusters correlated with the occurrence of Aux-KO/SJ1-KIRQmice
+abnormal nerve terminals characterized by peculiar onion-like Most interestingly, we also detected some protein expression
+plasma membrane accumulations. Accordingly, similar structures changesinlocalstriatalneuronsofAux-KO/SJ1-KIRQmice.First,in
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+a
+Ctrl Aux-KO SJ1-KIRQ Aux-KO/SJ1-KIRQ
+sections of mutant striata immunolabeled with anti-TH antibody, DA, however, they were also shown to be positive for GABA
+in addition to the presence of TH-positive normal and abnormal (Supplementary Fig. 10b), and negative for DAT (Fig. 7c, g).
+nerveterminalswhichco-localizedwithDATimmunoreactivity,we Second, we detected another neuronal population which was
+also observed sparsely distributed TH-positive interneurons strongly labeled with two different SV2C antibodies in Aux-KO/
+(THINs)cellbodies,differentfromDarpp32-positivemediumspiny SJ1-KIRQ striata (Fig. 7e and Supplement
+
+Chunk 15:
+ (Supplementary Fig. 10b), and negative for DAT (Fig. 7c, g).
+nerveterminalswhichco-localizedwithDATimmunoreactivity,we Second, we detected another neuronal population which was
+also observed sparsely distributed TH-positive interneurons strongly labeled with two different SV2C antibodies in Aux-KO/
+(THINs)cellbodies,differentfromDarpp32-positivemediumspiny SJ1-KIRQ striata (Fig. 7e and Supplementary Fig. 10c, d). These
+neurons(MSNs)whichaccountforthepredominantpopulationin SV2C-positiveneuronalcellbodiesdidnotoverlapwithTH/AADC-
+the striatum (Supplementary Fig. 10a). These neurons were not positiveneurons,butwereallpositiveforcholineacetyltransferase
+visible in WT and Aux-KO striata, and were only occasionally (ChAT), a marker of striatal cholinergic interneurons (CHINs)
+observed in SJ1-KIRQ (Fig. 7a, b). Such neurons were positive for (Fig. 7e–g and Supplementary Fig. 10c, d). Compared to WT
+AADC (Fig. 7d, g), suggesting that they could possibly generate sections, SV2C expression was much higher in a subset of
+)2mμ(
+aera
+c(cid:2)panys/sVS#
+Ctrl Aux-KOSJ1-KIRQAux-KO Ctrl Aux-KOSJ1-KIRQAux-KO
+/SJ1-KIRQ /SJ1-KIRQ
+)2mμ(
+aera
+c(cid:2)panys/sCE
+&
+sVCC#
+)2mμ(
+aera
+c(cid:2)panys/sVCC#
+Ctrl Aux-KOSJ1-KIRQAux-KO
+/SJ1-KIRQ
+)2mμ(
+aera
+c(cid:2)panys/sCE#
+X.Y.Ngetal.
+6
+b
+Ctrl Aux-KOSJ1-KIRQAux-KO
+/SJ1-KIRQ
+c
+Aux-KO/SJ1-KIRQ Aux-KO/SJ1-KIRQ Aux-KO/SJ1-KIRQ
+Fig. 3 Accumulation of CCVs and empty clathrin cages in nerve terminals of Aux-KO, SJ1-KIRQ, and Aux-KO/SJ1-KIRQ mice.
+a Representative EM micrographs of nerve terminals from the dorsal striatum of single and double mutant mice. Red and black arrows
+pointtoCCVsandemptyclathrincoatedcages(EC)respectively.Scalebar:250nm.bMorphometryanalysisofthenumberofSVs,sumof
+numberofCCVsandECs,CCVs,aswellasECsperpre-synapticareainthedorsalstriatum(Ctrln=124,Aux-KOn=156,SJ1-KIRQn=198,and
+Aux-KO/SJ1-KIRQn=120).Eachdotrepresentsonenerveterminal.Dataarerepresentedasmean±SEM.*p<0.05,**p<0.01,****p<0.0001
+(One-wayANOVAwithGames-Howell’smultiplecom
+
+Chunk 16:
+nd black arrows
+pointtoCCVsandemptyclathrincoatedcages(EC)respectively.Scalebar:250nm.bMorphometryanalysisofthenumberofSVs,sumof
+numberofCCVsandECs,CCVs,aswellasECsperpre-synapticareainthedorsalstriatum(Ctrln=124,Aux-KOn=156,SJ1-KIRQn=198,and
+Aux-KO/SJ1-KIRQn=120).Eachdotrepresentsonenerveterminal.Dataarerepresentedasmean±SEM.*p<0.05,**p<0.01,****p<0.0001
+(One-wayANOVAwithGames-Howell’smultiplecomparisontest).cExamplesofPurkinjenerveterminalsinthedeepcerebellarnucleiofAux-
+KO/SJ1-KIRQmouseshowingthestrikingaccumulationofassembledclathrin(bothECsandCCVs).ThetightpackagingofSVs(middleand
+rightimages)waspreviouslyreportedinnerveterminalsofSJ1-KIRQmice(13Fig.S3d)andmayreflectdystrophicchanges,Scalebar:500nm.
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+HT
+TAD
+egreM
+a
+Ctrl Aux-KO SJ1-KIRQ Aux-KO/SJ1-KIRQ
+m
+u
+ta
+ir
+ts
+la
+s
+r
+o
+D
+b
+HT
+TAD
+egreM
+X.Y.Ngetal.
+7
+c
+Ctrl Aux-KO SJ1-KIRQ Aux-KO/SJ1-KIRQ
+c
+A
+N
+-
+m
+u
+ta
+ir
+ts
+la
+r
+tn
+e
+V
+d e
+Dorsal striatum Ventral striatum
+Fig. 4 DAergic axon terminals undergo dystrophic changes in both dorsal and ventral striatum of Aux-KO/SJ1-KIRQ mice.
+a, b Representative images for TH and DAT in cryopreserved-sections for 4 genotypes in a dorsal striatum and b nucleus accumbens
+(NAc) which is part of the ventral striatum. Scale bar: 20µm. c Quantification of colocalization of TH and DAT clusters using Mander’s
+coefficient for dorsal striatum, DS and ventral striatum, VS. Data are represented as mean±SEM. n=3–4 mice per genotype.
+d,eQuantificationfortheaveragenumberofDATandTHclustersabove5µm2inddorsalstriatumand(e)ventralstriatumof1–2months
+old mice. The number of clusters is calculated in five regions of interest (ROIs) which were selected at random for quantification of each
+mouse.Dataarerepresentedasmean±SEM(*p<0.05,**p<0.01,***p<0.001,****p<0.0001bytwo-wayANOVAwithpost-hocTukey’stest).
+n=3–4miceforeachgenotype.
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(20
+
+Chunk 17:
+rsalstriatumand(e)ventralstriatumof1–2months
+old mice. The number of clusters is calculated in five regions of interest (ROIs) which were selected at random for quantification of each
+mouse.Dataarerepresentedasmean±SEM(*p<0.05,**p<0.01,***p<0.001,****p<0.0001bytwo-wayANOVAwithpost-hocTukey’stest).
+n=3–4miceforeachgenotype.
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+8
+Aux-KO Aux-KO/SJ1-KIRQ
+SJ1-KIRQ Aux-KO/SJ1-KIRQ
+Fig.5 EMmicrographsshowingmultilayeredonion-likemembranestructuresinthedorsalstriatumofAux-KO,SJ1-KIRQ,andAux-KO/
+SJ1-KIRQmice.Thesestructures,whicharepositiveforTHimmunoreactivity(seeSupplementaryFig6),appeartoresultfrominvaginationsof
+theplasmamembraneasindicatedbyredarrowheads.NoteinthebottomrightfieldpresenceofaclusterofSVs(black arrowheads)and
+scatteredCCVs(redarrows)andemptyclathrincages(blackarrows),confirmingthatthesestructuresrepresentdystrophicchangesofnerve
+terminals.Scalebar:500nm.
+ChAT-positive neurons in Aux-KO/SJ1-KIRQ (Fig. 7h, I and that can lead to juvenile/early-onset Parkinsonism. How such
+SupplementaryFig.10e,f).Theintensity,numberanddistribution dysfunctioninturnleadstodiseaseremainstobefurtherclarified.
+of ChAT remains unchanged between WT and Aux-KO/SJ1-KIRQ MechanismsmayincludeadefectinSVsrecyclingwithanimpact
+(Fig.7h,i),suggestingthisisaspecificupregulationofSV2Cinthe onDArelease,otheralterationsofsynapticmembranetrafficsuch
+ChINs.Wefurtherexaminedothercelltypesinthestriatumusing asimpairmentofautophagosomeformationandsequestrationof
+immunofluorescence against Darpp32 for MSNs, GFAP for astro- critical factors by assembled clathrin. As SJ1 and auxilin are
+cytes and Iba1 for microglia. Both MSNs and glia cells appeared neuronalhousekeepingproteins,amajoropenquestioniswhyis
+normal in morphology, localization and fluorescence intensity the DAergic system more severely affected, although, as
+(Supplementary Fig. 8e–g). Collectively, these findings suggest previously 
+
+Chunk 18:
+or MSNs, GFAP for astro- critical factors by assembled clathrin. As SJ1 and auxilin are
+cytes and Iba1 for microglia. Both MSNs and glia cells appeared neuronalhousekeepingproteins,amajoropenquestioniswhyis
+normal in morphology, localization and fluorescence intensity the DAergic system more severely affected, although, as
+(Supplementary Fig. 8e–g). Collectively, these findings suggest previously shown by us and others, synaptic defects in SJ1-KIRQ
+that thelocal striatal microcircuitry has beenaffected in Aux-KO/ andauxilin mutantmice arenot restricted toDAergic neurons.
+SJ1-KIRQ mutant mice, possibly as a result of DA deficiency and Aux-KO mice have phenotypic manifestations that resemble
+impairedDAergic innervation. thoseofSJ1-KIRQmice,andbothofthemrecapitulatesomeofthe
+manifestations of human Parkinsonism patients carrying muta-
+tions in the DNAJC6/PARK19 and the SYNJ1/PARK20 genes.
+DISCUSSION However,theneurologicaldefectsofAux-KOmicearelesssevere
+In this study, we show that LOF mutations in two Parkinsonism- thanthoseofSJ1-KIRQmice.Thisisprobablyduetothepresence
+linkedproteinsimplicatedinendocyticclathrin-mediatedbudding andcompensatoryupregulationoftheauxilinparalogueauxilin-2/
+atsynapses,SJ1andauxilin,producesimilardystrophicchangesof GAK in Aux-KO mouse brains19. GAK itself was identified as a PD
+nigrostriatalDAergicnerveterminals.Moreover,weshowastrong riskgene viaa GWASstudy28.
+syntheticinteractionofSJ1ParkinsonismmutationandauxilinKO. Both the SJ1-KIRQ mouse model and the Aux-KO model have
+These findings provide striking evidence for the proposed beenreportedtoshowpresynapticclusteringofendocyticfactors
+functional partnership of the two proteins in clathrin coat and accumulations of assembled clathrin13,19. These clathrin
+shedding, with the phosphoinostide phosphatase activity of SJ1 structures weredifferent in thetwo genotypes: primarily CCVs in
+being responsible for the dissociation of the clathrin adapters SJ1-KIRQmicewhileemptyclathrincagesinAux-KOmic
+
+Chunk 19:
+owpresynapticclusteringofendocyticfactors
+functional partnership of the two proteins in clathrin coat and accumulations of assembled clathrin13,19. These clathrin
+shedding, with the phosphoinostide phosphatase activity of SJ1 structures weredifferent in thetwo genotypes: primarily CCVs in
+being responsible for the dissociation of the clathrin adapters SJ1-KIRQmicewhileemptyclathrincagesinAux-KOmice,asinthe
+fromthemembraneandauxilinplayingacriticalrole,alongwith absence of auxilin spontaneously assembled cytosolic clathrin
+the chaperone HSC70, in the disassembly of the clathrin coat. In doesnotdisassemble.Thesechangeswerewidespreadacrossthe
+fact, the phosphoinositide phosphatase activity of SJ1 was brain,butmoreprominentatinhibitorysynapses,probablydueto
+proposed to help recruit auxilin. Importantly, they point to the tonic firing pattern in these synapses which requires more
+dysfunction in clathrin uncoating as one of the perturbations efficient SVs recycling, hence making these synapses more
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+DAT AADC Merge
+vulnerabletoendocyticdefects.Asimilardifferenceintheimpact observedinbothhumanpatientsandmicewithmutationsinSJ1
+of endocytic protein mutations on excitatory and inhibitory andauxilin.
+synapseswasalsoobservedinSJ1KO29anddynaminKOmice30. The most interesting new observation that we have made in
+Theimbalancedexcitatory/inhibitorysynaptictransmissioninSJ1- Aux-KO mice is the occurrence of histological defects in their
+KIRQ mice and Aux-KO mice could explain the epileptic seizures striatum which are similar to those that we had observed in the
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT SNAP25
+/OK-xuA
+lrtC
+QRIK-1JS
+a b
+Merge
+TH SV2C Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT SV2B Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+c d
+DAT CLC Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT Endophilin 1 Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+X.Y.Ngetal.
+9
+e f
+g h
+A
+D
+f
+o
+el
+v
+e
+d
+l
+e
+s
+ali
+m
+r
+o
+N
+PublishedinpartnershipwiththeParkinson’sFoundation 
+
+Chunk 20:
+ures striatum which are similar to those that we had observed in the
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT SNAP25
+/OK-xuA
+lrtC
+QRIK-1JS
+a b
+Merge
+TH SV2C Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT SV2B Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+c d
+DAT CLC Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+DAT Endophilin 1 Merge
+/OK-xuA
+lrtC
+QRIK-1JS
+X.Y.Ngetal.
+9
+e f
+g h
+A
+D
+f
+o
+el
+v
+e
+d
+l
+e
+s
+ali
+m
+r
+o
+N
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+10
+Fig. 6 Accumulation of other proteins with TH/DAT in dystrophic DAergic nerve terminals in 1-month-old Aux-KO/SJ1-KIRQ mice.
+a Double staining of DATwith AADC, a DA catabolism enzyme showed colocalization in the striatum of Aux-KO/SJ1-KIRQ mice. Scale bar:
+20µm.bDoublestainingofDATwithSNAP25,aplasmamembraneSNAREproteinshowedcolocalizationinthestriatumofAux-KO/SJ1-KIRQ
+mice.Scalebar:20µm.c,dDoublestainingofSV2C(c)andSV2B(d)revealsthatSV2CisspecificallyaccumulatedinTH/DAT-positiveclusters
+inthestriatumofAux-KO/SJ1-KIRQmice,butnotitsfamilymemberSV2B.Scalebar:20µm.e,fDoublestainingofclathrinlightchain(e)and
+endophilin(f)revealsthatbothendocyticproteinsdonotcolocalizewithTH/DAT-positiveclustersinthestriatumofAux-KO/SJ1-KIRQmice.
+Scale bar: 20µm. g Mander’s colocalization coefficient shows that AADC and SV2C colocalize the best with DAT/TH clusters, followed by
+SNAP25.SV2B,CLCandEndo1donotcolocalizewiththeDATclusters.Dataarerepresentedasmean±SEM.n=5–11randomsamplingsites.
+hAux-KO/SJ1-KIRQshows50%reductioninstriatalDAlevelsmeasuredusingHPLC.Dataarerepresentedasmean±SEM(*p<0.05,**p<0.01
+byone-wayANOVAwithpost-hocTukey’stest).n=14forcontrolandn=7forAux-KO,SJ1-KIRQandAux-KO/SJ1-KIRQ,respectively.
+striatum of SJ1-KIRQ mice13. These consist of TH/DAT-positive increase in the number of TH-positive THINs. THINs were also
+structures, also enriched in the plasma membrane protein positive for AADC, suggesting that they may synthesize DA. A
+SNAP25, that reflect presence of dystrophic DAergic nerve similar increase was previousl
+
+Chunk 21:
+n=14forcontrolandn=7forAux-KO,SJ1-KIRQandAux-KO/SJ1-KIRQ,respectively.
+striatum of SJ1-KIRQ mice13. These consist of TH/DAT-positive increase in the number of TH-positive THINs. THINs were also
+structures, also enriched in the plasma membrane protein positive for AADC, suggesting that they may synthesize DA. A
+SNAP25, that reflect presence of dystrophic DAergic nerve similar increase was previously reported in neurotoxin-induced
+terminals and correlate with abnormal onion-like plasma mem- rodent and non-human primate PD models33,34, as well as in a
+brane infoldings detectable by EM. The occurrence of these genetic PD mouse model35, and was interpreted as a compensa-
+histological/cellular phenotypes in both mutant mouse models torychangeduetolossofDAergicterminals.Theincreasethatwe
+suggests a special liability of nigrostriatal DA neurons to have observed in Aux-KO/SJ1-KIRQ striata may have a similar
+perturbation of endocytic clathrin coat dynamics, which may be explanation. However, DAT is not detected in these TH/AADC-
+relevant toPD pathogenesis. positive interneurons, suggesting they are not “authentic” DA
+Possibly, as we discussed in our study of SJ1-KIRQ mice, these neurons36. Second, in addition to the accumulation of SV2C with
+onion-likeinvaginationsoftheplasmamembranearetheresultof TH and DAT in DAergic terminals, we also observed upregulated
+endocyticimpairmentatasubsetofsynapses.However,theyare SV2C expression in the soma of another subset of striatal
+not enriched with endocytic proteins nor several house-keeping interneurons, the ChAT-positive giant ChINs. Expression of SV2C
+SVproteins,consistentwiththelackofenrichmentofSVsinthese in striatal ChINs has previously been reported37,38, but such
+terminals.Surprisingly,theyareenrichedinSV2C,whichistheSV2 expression is robustly increased in Aux-KO/SJ1-KIRQ striata, while
+family member expressed in DAergic neurons and also a expressionofChATremainsrelativelyunchanged.Interestingly,a
+modulator of DA release24. Inte
+
+Chunk 22:
+on of SV2C
+SVproteins,consistentwiththelackofenrichmentofSVsinthese in striatal ChINs has previously been reported37,38, but such
+terminals.Surprisingly,theyareenrichedinSV2C,whichistheSV2 expression is robustly increased in Aux-KO/SJ1-KIRQ striata, while
+family member expressed in DAergic neurons and also a expressionofChATremainsrelativelyunchanged.Interestingly,a
+modulator of DA release24. Interestingly, the gene encoding studyinvolvingneurotoxinPDmousemodelstodepleteDAalso
+SV2C was recently identified by GWAS from both Asian and showed a significant increase in striatal SV2C mRNA levels39.
+EuropeancohortsasaPDrisklocus26,27.Moreover,inbothAux-KO ConsideringthatanimbalanceofDAergicandcholinergicsignals
+and SJ1-KIRQ mice, dystrophic DAergic nerve terminals in the inthestriatumisafeatureofPD40andthatSV2Chasbeenlinked
+striatum peak in abundance at 1-2 months but gradually bymultiplestudiestoPD24,26,27,39,41,thisadaptivechangeinAux-
+decreased(5and12months),indicatingeitherrepairmechanisms KO/SJ1-KIRQ striata deserves further investigation.
+or removal of degenerated nerve terminals in older mice. In conclusion, we have reported here strong evidence for the
+Interestingly,afollowupstudyonParkinsonismpatientscarrying hypothesis that mutations in SJ1 and auxilin may lead to
+the SJ1 RQ mutation showed relative stability of clinical Parkinsonism via a similar pathogenetic mechanism. Several PD
+manifestations at later stages31. The early-onset feature in both causative genes have now been identified. The next goal is to
+the Aux-KO and SJ1-KIRQ mice also suggests there may be some identify the cellular process onto which these genes functionally
+neurodevelopmental defects in these mouse models. Indeed, converge, as such identification will provide insight into patho-
+Parkinsonismpatientscarryingbothgenes’mutationssufferfrom
+geneticmechanismswithimplicationfortherapeuticapproaches.
+developmentaldelay11,12,andarecentstudyofhumanmidbrain-
+After the well-established partnership o
+
+Chunk 23:
+entify the cellular process onto which these genes functionally
+neurodevelopmental defects in these mouse models. Indeed, converge, as such identification will provide insight into patho-
+Parkinsonismpatientscarryingbothgenes’mutationssufferfrom
+geneticmechanismswithimplicationfortherapeuticapproaches.
+developmentaldelay11,12,andarecentstudyofhumanmidbrain-
+After the well-established partnership of PINK1 and Parkin, the
+like organoids carrying the auxilin Parkinsonism mutation also cooperation of SJ1 and auxilin is the second clear example of
+showed impaired WNT-LMX1A signaling during DA neuron functionalpartnershipbetweentwoPARKgenes.Additionally,we
+development21.
+previously reported a synergistic function of SJ1 with another
+The strong synthetic effect of the SJ1-KIRQ mutation and the phosphoinositide phosphatase, Sac2, which GWAS studies had
+Aux-KO mutation is a key result that provides evidence for a indicated as a candidate PD risk gene. Thus, we anticipate that
+similarpathogeneticmechanismresultingfrommutationsinthese furtherstudiesofauxilinandSJ1willprovidevaluableinsightinto
+twoproteins.Relativetosinglemutants,doublemutantmicehave mechanismsthat are at thecoreofat leastsome form ofPD.
+muchshorterlifespanandusuallydiebetween3to4weeksafter
+birth, which is the critical period for neurodevelopment in
+rodents32. Moreover, they display enhanced clustering of endo- METHODSANDMATERIALS
+cytic proteins and more abundant dystrophic TH/DAT/AADC/ Animals
+SV2C-positive nerve terminals, which additionally are not
+Both the Aux-KO (RRID: MMRRC_036980-JAX) and SJ1-KIRQ mice
+restricted to the dorsal striatum as in single mutant mice, but
+were generated as described before13,19. These two mouse
+arealsopresentintheventralstriatum.Thus,thereappearstobe
+models were crossed with each other to generate the Aux-KO/
+a special vulnerability of DAergic neurons to the combined SJ1
+SJ1-KIRQ double-mutant mice. Mice were housed in SPF rooms
+and auxilin perturbations in the SN and VTA that 
+
+Chunk 24:
+d to the dorsal striatum as in single mutant mice, but
+were generated as described before13,19. These two mouse
+arealsopresentintheventralstriatum.Thus,thereappearstobe
+models were crossed with each other to generate the Aux-KO/
+a special vulnerability of DAergic neurons to the combined SJ1
+SJ1-KIRQ double-mutant mice. Mice were housed in SPF rooms
+and auxilin perturbations in the SN and VTA that project to the
+with a 12-h light/dark cycle. All experiments involving animals
+dorsal and ventral striatum, respectively. One factor that may
+were conducted according to the protocol approved by
+contributetothevulnerabilityofDAergicneurontodisruptionsof
+SingHealthInstitutionalAnimalCareandUseCommittee(IACUC).
+two endocytic proteins may be their tonic firing activity, which
+WTorHeterozygouslittermatesofthemutantmiceareusedand
+mayrequireefficientSVsrecyclingtosustaincontinuousreleaseof
+definedasthecontrol group.
+DA. However, this is not a unique property of these neurons,
+suggesting that otherfactors come into play.
+A striking finding in Aux-KO/SJ1-KIRQ striata, besides the Antibodies
+presence of dystrophic DAergic nerve terminals, was the ThefollowingprimaryantibodieswereobtainedfromDrPietroDe
+occurrence of changes in two different types of interneurons, Camilli’s lab at Yale University: rabbit anti-SJ1, rabbit anti-Auxilin,
+which likely reflect adaptive modifications. First, there was an mouse anti-Amphiphysin 1, mouse anti-Clathrin Heavy Chain,
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+Ctrl
+rabbit anti-pan-Dynamin, rabbit anti-pan-Endophilin, mouse anti- fromAbcam;mouseanti-α-synuclein(610786,RRID:AB_2748880),
+GAD65, rabbit anti-SNAP25, rabbit anti-Synapsin, mouse anti- mouseanti-AP2(611350,RRID:AB_398872)andmouseanti-Hip1R
+VAMP2,rabbitanti-Synaptophysinandmouseanti-Syt1.Theother (612118, RRID: AB_399489) from BD Biosciences; rabbit anti-
+antibodies used in this study were obtained from commercial DARPP-32 (2306, R
+
+Chunk 25:
+anti-pan-Endophilin, mouse anti- fromAbcam;mouseanti-α-synuclein(610786,RRID:AB_2748880),
+GAD65, rabbit anti-SNAP25, rabbit anti-Synapsin, mouse anti- mouseanti-AP2(611350,RRID:AB_398872)andmouseanti-Hip1R
+VAMP2,rabbitanti-Synaptophysinandmouseanti-Syt1.Theother (612118, RRID: AB_399489) from BD Biosciences; rabbit anti-
+antibodies used in this study were obtained from commercial DARPP-32 (2306, RRID: AB_823479) and rabbit anti-NPY (11976,
+sourcesasstated:rabbitanti-LRRK2(ab133474,RRID:AB_2713963) RRID:AB_2716286)fromCellSignalingTechnology;mouseanti-α-
+HT
+a
+Aux-KO SJ1-KIRQ Aux-KO/ SJ1-KIRQ
+c
+b
+QRIK-1JS/OK-xuA
+TH DAT Merge
+TH AADC Merge
+QRIK-1JS/OK-xuA
+d
+SV2C TH Merge QRIK-1JS/OK-xuA
+e
+f
+SV2C ChAT
+QRIK-1JS/OK-xuA
+g
+TW
+SV2C ChAT
+QRIK-1JS/OK-xuA
+X.Y.Ngetal.
+11
+h
+i
+SV2C
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+12
+Fig. 7 Adaptive changes of TH-positive interneurons and SV2C-positive cholinergic interneurons in Aux-KO/SJ1-KIRQ striatum.
+a Immunostaining of TH reveals the Aux-KO/SJ1-KIRQ striatum contains a large number of THINs. THINs are not found in Ctrl and Aux-KO
+striatum;andarelessoftenfoundinSJ1-KIRQstriatum.Scalebar:20µm.bQuantificationforthenumberofTHINsin10randomlyselected
+regionsofinterest(ROIs)fromarepresentativecoronalsectionofthestriatum.Dataarerepresentedasmean±SEM(**p<0.01byone-way
+ANOVAwithpost-hocTukey’stest).n=3–4miceforeachgenotype.cImmunostainingofTH(green)andDAT(red)revealspresenceofTH-
+positive/DAT-negativeneuronsinthe1-month-oldAux-KO/SJ1-KIRQstriatum.Scalebar:20µm.dTHINsalsoshowimmunoreactivitytowards
+anti-AADCantibody.Scalebar:20µm.eRepresentativeimagesofSV2CandTHstaininginthedorsalstriatumof1-month-oldAux-KO/SJ1-KIRQ
+mice.THandSV2Cwereobservedtobeexpressedinseparateneuronpopulations.SV2C-positive/TH-negativeneuronsaremarkedbywhite
+arrows.Scalebar: 20µm.fDouble stainingof striatal regionwith cholinergic markerChATand SV2Cshows overlapbetween thetwoina
+specificneuronalsubset,i
+
+Chunk 26:
+reactivitytowards
+anti-AADCantibody.Scalebar:20µm.eRepresentativeimagesofSV2CandTHstaininginthedorsalstriatumof1-month-oldAux-KO/SJ1-KIRQ
+mice.THandSV2Cwereobservedtobeexpressedinseparateneuronpopulations.SV2C-positive/TH-negativeneuronsaremarkedbywhite
+arrows.Scalebar: 20µm.fDouble stainingof striatal regionwith cholinergic markerChATand SV2Cshows overlapbetween thetwoina
+specificneuronalsubset,indicatingthattheSV2C-positiveneuronsaregiantstriatalChINs.Scalebar:20µm.gThecellbodiesofTHINsand
+ChINs are selected as our region of interest to perform Pearson’s correlation coefficient. This demonstrate the two different types of
+interneurons:THINswhereTHandAADCcolocalizeswellbutnotwithDAT;ChINswhereSV2CcolocalizeswellwithChATbutnotwithTH.
+Dataarerepresentedasmean±SEM.n=7–10randomsamplingsite.hStriatalIHCforsinglecoronalsectionrevealssubsetofChAT-positive
+ChINs that exhibit striking upregulation of SV2C in Aux-KO/SJ1-KIRQ mice compared to control. Scale bar: 50µm. i Quantification for
+percentage of ChAT-positive interneurons expressing SV2C, as well as individual intensity of SV2C and ChAT in striatal ChINs. For each
+individual mouse,20 ChINs across a single coronal section of striatum were randomly selected forquantification. Data are represented as
+mean±SEM(*p<0.05and**p<0.01,byStudent’sunpairedttest).Ctrl:n=5miceandAux-KO/SJ1-KIRQ:n=5mice.
+adaptin (MA1-064, RRID: AB_2258307) from Life Technologies; BalanceBeamtest
+mouse anti-Amph2 (05-449, RRID: AB_309738), goat anti-ChAT Anarrowbeam(10mmwidth)wassuspended15cmaboveasoft
+(AB144P, RRID: AB_2079751), mouse anti-CLC (AB9884, RRID: padding.Micewereplacedonendofthebeamandduringtheir
+AB_992745), rat anti-DAT (MAB369, RRID: AB_2190413), mouse triptowardtheotherend,thenumberofmissteps(pawslips)was
+anti-SV2C (MABN367, RRID: AB_2905667) and rabbit anti-TH recorded.Thetestwasconductedthriceforeachmouseandthe
+(AB152, RRID: AB_390204) from Merck Millipore; mouse anti- averagenumber ofmissteps wascalculated.
+β-actin (sc-47778, RRID: 
+
+Chunk 27:
+ padding.Micewereplacedonendofthebeamandduringtheir
+AB_992745), rat anti-DAT (MAB369, RRID: AB_2190413), mouse triptowardtheotherend,thenumberofmissteps(pawslips)was
+anti-SV2C (MABN367, RRID: AB_2905667) and rabbit anti-TH recorded.Thetestwasconductedthriceforeachmouseandthe
+(AB152, RRID: AB_390204) from Merck Millipore; mouse anti- averagenumber ofmissteps wascalculated.
+β-actin (sc-47778, RRID: AB_2714189) and mouse anti-Hsc70 (sc-
+7298, RRID: AB_627761) from Santa Cruz Biotechnology; rabbit Rotarod test
+anti-Auxilin (HPA031182, RRID: AB_10611957), rabbit anti-GABA
+Mice were placed on a rod which is rotating at 4rpm with an
+(A2052, RRID: AB_477652), rabbit anti-GFAP (ZRB2383, RRID:
+acceleration to 40rpm within 6min. The duration of the mice
+AB_2905668) and rabbit anti-SJ1 (HPA011916, RRID:
+stayingontherodismeasuredtwotimesat10minintervalsand
+AB_1857692) from Sigma-Aldrich; rabbit anti-Amphiphysin 1 theaverage‘latency tofall’was determinedfor eachmouse.
+(120002, RRID: AB_887690), rabbit anti-AADC (369003, RRID:
+AB_2620131), rabbit anti-SV2B (119102, RRID: AB_887803), rabbit
+Immunoblotting
+anti-SV2C (119202, RRID: AB_887803), rabbit anti-Synaptogyrin 3
+(103302,RRID:AB_2619752),andrabbitanti-Syt11(270003,RRID: Mouse brain tissues were homogenized in buffer containing
+AB_2619994)from Synaptic Systems; rabbit anti-Iba1 (019-19741, 20mM Tris-HCl (pH 7.4), 150mM NaCl, 2mM EDTA and
+RRID: AB_839504)from FUJIFILMWako Chemicals. cOmpleteTM EDTA-free Protease Inhibitor Cocktail (Roche, USA).
+Secondaryantibodiesusedwereallpurchasedfromcommercial Thehomogenizedsampleswerecentrifugedat700gfor10minto
+sourcesasstated:donkeyanti-mouseIgG(H+L)AlexaFluor594 obtain the post-nuclear supernatant (PNS). Protein concentration
+(A21203, RRID: AB_141633), goat anti-mouse IgG (H+L) Alexa was determined by the Pierce BCA Protein Assay Kit. SDS-PAGE
+and western blotting were performed by standard procedures.
+Fluor 488 (A11001, RRID: AB_2534069), goat anti-mouse IgG
+(H+L) Alexa Fluor 594 (A11032
+
+Chunk 28:
+00gfor10minto
+sourcesasstated:donkeyanti-mouseIgG(H+L)AlexaFluor594 obtain the post-nuclear supernatant (PNS). Protein concentration
+(A21203, RRID: AB_141633), goat anti-mouse IgG (H+L) Alexa was determined by the Pierce BCA Protein Assay Kit. SDS-PAGE
+and western blotting were performed by standard procedures.
+Fluor 488 (A11001, RRID: AB_2534069), goat anti-mouse IgG
+(H+L) Alexa Fluor 594 (A11032, RRID: AB_2534091), goat anti- The membranes were blotted with primary antibodies and then
+mouse IgG (H+L) Alexa Fluor 647 (A21236, RRID: AB_2535805), IRDye® Secondary Antibodies (LI-COR, USA). The protein bands
+donkey anti-rabbit IgG (H+L) Alexa Fluor 488 (A21206, RRID: were detected using Odyssey® CLx imaging system and its
+AB_2535792),goatanti-rabbitIgG(H+L)AlexaFluor488(A11034, intensity was quantified via Image Studio Lite software (Ver 5.2,
+RRID: SCR_013715). A minimum of three independent sets of
+RRID: AB_2576217), goat anti-rabbit IgG (H+L) Alexa Fluor 594
+sampleswereusedforquantification.Allblotswereprocessedin
+(A11037, RRID: AB_2534095), goat anti-rabbit IgG (H+L) Alexa
+parallel andderive fromthe same experiment.
+Fluor 647 (A21244, RRID: AB_2535812), goat anti-rat IgG (H+L)
+Alexa Fluor 488 (A11006, RRID: AB_2534074), goat anti-rat IgG
+(H+L)AlexaFluor594(A11007,RRID:AB_10561522)anddonkey Primarycortical neuron culture andstaining
+anti-goatIgG(H+L)AlexaFluor488(A11055,RRID:AB_2534102) CulturesofcorticalneuronswerepreparedfromP0toP2neonatal
+from Life Technologies and IRDye 800CW donkey anti-rabbit IgG mouse brains by previously described methods42 and used at
+(926-32213, RRID: AB_621848), IRDye 800CW donkey anti-mouse DIV19. Cortical tissue was dissected out, placed in ice-cold HBSS,
+IgG (926-32212, RRID: AB_621847), IRDye 680RD donkey anti- and diced into small pieces of less than 1 mm3 per piece. Tissue
+mouse IgG (926-68072, RRID: AB_10953628) and IRDye 800CW was then digested for 30min in an activated enzyme solution
+goat anti-rat (926-32219, RRID: AB_1850025) fr
+
+Chunk 29:
+ID: AB_621848), IRDye 800CW donkey anti-mouse DIV19. Cortical tissue was dissected out, placed in ice-cold HBSS,
+IgG (926-32212, RRID: AB_621847), IRDye 680RD donkey anti- and diced into small pieces of less than 1 mm3 per piece. Tissue
+mouse IgG (926-68072, RRID: AB_10953628) and IRDye 800CW was then digested for 30min in an activated enzyme solution
+goat anti-rat (926-32219, RRID: AB_1850025) from LI-COR containing papain (20 U/ml) and DNase (20μg/ml) at 37°C,
+followedbygentletrituration.Thecellsuspensioniscentrifugedat
+Biosciences.
+300g for 5min. The cell pellet is resuspended and plated onto
+poly-d-lysine-coated coverslips to a density of 60,000 cells/cm2.
+Motorbehavioral tests 2–3h after plating, the medium was exchanged to Neurobasal/
+Aux-KO and littermate control mice between 2–13 months old B27 serum-free medium, and cells were maintained at 37°C in a
+were used for balance beam and rotarod tests. The mice were 5% CO2 humidified incubator. Cells were fixed with 4%
+divided into three age groups: 2–4 months old (n=13–15), paraformaldehyde (PFA) and 4% sucrose in 1 X PBS for 20min,
+5–8 months old (n=7–12) and more than 9 months old followed by 10min incubation with 50mM NH Cl, then blocked
+4
+(n=8–15)foreachgenotype.Bothmalesandfemaleswereused and permeabilized with 5% bovine serum albumin (BSA), 1 X
+for the behavioral assays. Both tests were conducted during the phosphate-buffered saline (PBS) and 0.1% Triton X-100. Primary
+lightperiod.Themicewereallowedtoacclimatizetothetestfor and secondary antibody incubations were subsequently per-
+atleast 30minbefore each test. formed in the same buffer. Alexa 488, 594 and 647 conjugated
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+13
+secondary antibodies were purchased from Invitrogen. After quantify puncta larger than 1μm2. The Fiji plugin “Analyze
+washing, samples were mounted on slides with Fluoromount-G particles” was then used to measure average fluor
+
+Chunk 30:
+med in the same buffer. Alexa 488, 594 and 647 conjugated
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+13
+secondary antibodies were purchased from Invitrogen. After quantify puncta larger than 1μm2. The Fiji plugin “Analyze
+washing, samples were mounted on slides with Fluoromount-G particles” was then used to measure average fluorescence
+(Invitrogen). Samples were observed and imaged on a spinning intensityof thepuncta.
+disk system (Gataca Systems) based on an inverted microscope ThequantificationofTH/DAT-positiveclusteringinstriatumwas
+(NikonTi2-E;Nikon)equippedwithaconfocalspinninghead(CSU- alsodonesimilarlyusingFijisoftware.Inthiscase,foreachmouse,
+W, Yokogawa) and a Plan-Apo 60x oil TIRF objective. The same 5 random sampling sites were selected respectively for both
+exposure time and laser intensity were used when imaging the dorsal and ventral striatum. At least three mice from each
+same markerfor all4genotypes. genotypeandeachagegroupwerecollectedforthispurpose.The
+thresholdsettingfortheclusterswassettoquantifypunctabigger
+Brainhistology andimmunofluorescence than 5μm2 to ensure normal positive axonal terminals were not
+counted in. The average number of clusters was counted
+Mice were anesthetized with a Ketamine/Xylazine anesthetic
+automaticallywith Fijiplugin“AnalyseParticles”based onallfive
+cocktail injection, perfused transcardially with ice-cold 4% PFA in
+1XPBSandthebrainswerekeptinthesamefixativeovernightat randomsampling sitesforeach mouse.
+Quantification of the THINs were done with the same images
+4°C.Onthenextday,brainsweretransferredto30%sucrosein1
+used to quantify TH/DAT-positive clusters. The number of TH-
+X PBS and kept overnight at 4°C on top of a roller. Brains were
+positive cell bodies were counted from the 5 random sampling
+thenembeddedinOCT(Tissue-Tek)andfreezeinliquidnitrogen-
+sitesselectedfor thedorsal and ventral striatum respectively.
+cooled 2-methylbutane (Isopentane). Co
+
+Chunk 31:
+ges
+4°C.Onthenextday,brainsweretransferredto30%sucrosein1
+used to quantify TH/DAT-positive clusters. The number of TH-
+X PBS and kept overnight at 4°C on top of a roller. Brains were
+positive cell bodies were counted from the 5 random sampling
+thenembeddedinOCT(Tissue-Tek)andfreezeinliquidnitrogen-
+sitesselectedfor thedorsal and ventral striatum respectively.
+cooled 2-methylbutane (Isopentane). Coronal or sagittal sections
+of 20µm thickness were cut with a cryostat. The sections are
+either mounted on adhesive slide, SuperFrost® Plus (VWR) or Quantification ofstriatal cholinergic interneurons (ChINs)
+collectedasfloatingsectionsin1XPBSina24-wellplate.Sections The number of ChINs was quantified from individual coronal
+werethenblockedin5%BSAand0.1%TritonX-100in1XPBSfor sections of the striatum double stained with ChAT and SV2C.
+1hatroomtemperature.Afterblocking,sectionswereincubated Imageacquisitioninvolvedtilingoftheentiresectionusinga20x
+with primary antibodies (diluted in the same buffer) and kept Air lens, keeping the same laser intensity and exposure for both
+overnightat4°C.Subsequently,sectionswerewashed3timesfor channels on MetaMorph Microscopy Automation and Image
+10min with 0.1% Triton X-100 in 1 X PBS, then incubated with AnalysisSoftware(RRID:SCR_002368).Stitchedimageswerethen
+Alexa-conjugated secondary antibodies for 1h at room tempera- settothesamethresholdintensityforeachindividualchannelin
+ture.Finally,thesectionsweremountedwithFluoromount-Gwith Fiji software (Version ImageJ 1.52p/Java 1.8.0_172 (64-bit), RRID:
+or without DAPI (Invitrogen) and sealed with nail polish. The SCR_002285). Cell Counter plugin was used to count visible cell
+floating sections were mounted onto slides after all the staining bodies across the striatum (outlined on the basis of Allen mouse
+procedures. Images were acquired with a spinning disk system brain atlas). Percentage ratio of the cell count from individual
+(Gataca Systems) based on an inverted microscope (Nikon Ti2-E; channe
+
+Chunk 32:
+lish. The SCR_002285). Cell Counter plugin was used to count visible cell
+floating sections were mounted onto slides after all the staining bodies across the striatum (outlined on the basis of Allen mouse
+procedures. Images were acquired with a spinning disk system brain atlas). Percentage ratio of the cell count from individual
+(Gataca Systems) based on an inverted microscope (Nikon Ti2-E; channelswasused asa measureof ChINsexpressingSV2C.
+Nikon) equipped with a confocal spinning head (CSU-W, QuantificationofChATandSV2CintensitiesinChINswasdone
+Yokogawa) and a Plan-Apo 40x oil objective. The same exposure withthesameimagesusedforquantifyingnumberofcholinergic
+timeandlaserintensitywereusedwhenimagingthesamemarker interneurons. Manually drawn ROIs were used to analyse the
+forall4 genotypes. intensities of 20 neurons randomly selected across the striatum.
+For stereological analysis of TH-positive dopaminergic neurons Corrected total cell fluorescence (CTCF) was calculated and the
+inthemidbrain,30µmcoronalsectionwerecollected,incubated intensities of each channel were normalized to averaged control
+with 0.1% H 2 O 2 for 20min to quench endogenous peroxidase levels.Forbothgenotypes,fiveindividualmicewereanalysedfor
+activity and subsequently incubated with buffer containing 5%
+this purpose.
+BSA, 1X PBS and 0.1% Triton X-100 for 1h at room temperature.
+Next, sections were incubated overnight at 4°C with anti-TH
+Colocalization analysis
+primaryantibody(1:1000).Thesectionswerethenwashedwith1X
+PBS 3 times for 10min and incubated with a biotinylated anti- Colocalization analysis was also performed on the Fiji software
+rabbit secondary antibody (Vector Laboratories, USA) for 1h at (VersionImageJ1.52p/Java1.8.0_172(64-bit),RRID:SCR_002285).
+roomtemperature,laterfollowedbyincubationwithAvidin/Biotin For the quantification of colocalization of immunofluorescence
+complex (ABC) reagent for 45min at room temperature (Vector signalsintheclusters(bothcorticalendocyticclustersandstriata
+
+Chunk 33:
+lso performed on the Fiji software
+rabbit secondary antibody (Vector Laboratories, USA) for 1h at (VersionImageJ1.52p/Java1.8.0_172(64-bit),RRID:SCR_002285).
+roomtemperature,laterfollowedbyincubationwithAvidin/Biotin For the quantification of colocalization of immunofluorescence
+complex (ABC) reagent for 45min at room temperature (Vector signalsintheclusters(bothcorticalendocyticclustersandstriatal
+Laboratories PK-6200). Finally, immunoreactivity was revealed by DAergicTH/DAT-positiveclusters),theimagesaresettothesame
+incubationwith diaminobenzidine (DAB)(Vector Laboratories SK- threshold to mask all the normal, healthy axon terminals. For
+4100). Stereological analysis was performed using the optical colocalization analysis of Amph1/Gad65, 8-10 neurons were
+fractionator probe in the Stereo Investigator software (MBF quantified for each genotype. For colocalization analysis of TH/
+Bioscience, USA). A total of 9 coronal sections (every 4th serial DAT,5randomsamplingsiteswereselectedrespectivelyforboth
+section across the midbrain) were collected for counting. The dorsal and ventral striatum of each mouse. At least three mice
+substantia nigra par compacta (SN) and ventral tegmental area from each genotype were collected for this purpose. For the
+(VTA)regionswereoutlinedbasedontheAllenmousebrainatlas colocalization analysis of other markers with TH or DAT, 5-11
+using5xobjective lensandcounts wereperformedusing60xoil randomsamplingsiteswereselectedfromthedorsalstriatum.Fiji
+objectivelens.Theparametersusedincludeacountingframesize plugin, JACoP43, was used to set the threshold and calculate
+of50×50μm,asamplingsiteof132×71μm,adissectorheightof Mander’s coefficient. Only M1 values are reported. For the
+13μm, 2μm guard zones and coefficient of error (Gunderson, colocalizationofimmunofluorescencecellbodies’signalofTHINs
+m=1)werelessthan0.1. andChINs,7-10somafrom3-4 randomregionsofinterest (ROIs)
+ofstriatum wereselected. JACoP wasused to calculate Pearson’s
+Quantificationofimmu
+
+Chunk 34:
+ calculate
+of50×50μm,asamplingsiteof132×71μm,adissectorheightof Mander’s coefficient. Only M1 values are reported. For the
+13μm, 2μm guard zones and coefficient of error (Gunderson, colocalizationofimmunofluorescencecellbodies’signalofTHINs
+m=1)werelessthan0.1. andChINs,7-10somafrom3-4 randomregionsofinterest (ROIs)
+ofstriatum wereselected. JACoP wasused to calculate Pearson’s
+QuantificationofimmunoreactivityclusteringandTH-positive coefficientforcolocalization analysis.
+striatal interneurons
+Theendocyticproteinclusteringquantificationwasconductedon Electronmicroscopy (EM)
+the Fiji software (Version ImageJ 1.52p/Java 1.8.0_172 (64-bit), All EM reagents were from EMS, Hatfield, PA, unless noted
+RRID: SCR_002285) as follows. The same threshold intensity was otherwise. 1-3 months old mice were anesthetized and fixed by
+appliedtoallimagesandarandomregionofinterestwithanarea transcardial perfusion with 4% formaldehyde and 0.125%
+of500μm2wasmanuallyselected.Amaskwasusedtoselectively glutaraldehyde in 0.1M PB buffer. Brain were removed and
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+14
+dissected in small pieces (0.5×0.5×0.5mm3) and further comparisons.Datawithp-values<0.05,<0.01,<0.001,and<0.0001
+incubated in the same fixative at 4°C overnight. Brain tissues arerepresented by asterisks *,**,***, and ****.
+were further incubated in 2.5% glutaraldehyde in 0.1M sodium
+cacodylate buffer for additional 1h at room temperature, post- Reporting summary
+fixed(1hour)in2%OsO ,1.5%K Fe(CN) (Sigma-Aldrich,St.Louis,
+4 4 6 Further information on research design is available in the Nature
+MO) in 0.1M sodium cacodylate buffer, stained (overnight) with
+Portfolio ReportingSummary linkedto thisarticle.
+2% aqueous uranyl acetate at 4°C, dehydrated in gradually
+increasing concentration of EtoH, and embedded in Embed 812.
+Ultrathin sections, about 60nm thick, were cut with a Leica DATAAVAILABILITY
+ultramicrotomeandexaminedinaTa
+
+Chunk 35:
+her information on research design is available in the Nature
+MO) in 0.1M sodium cacodylate buffer, stained (overnight) with
+Portfolio ReportingSummary linkedto thisarticle.
+2% aqueous uranyl acetate at 4°C, dehydrated in gradually
+increasing concentration of EtoH, and embedded in Embed 812.
+Ultrathin sections, about 60nm thick, were cut with a Leica DATAAVAILABILITY
+ultramicrotomeandexaminedinaTalosL120CTEMmicroscopeat
+The datasets generated and/or analyzed in this study are available from the
+80kV.ImagesweretakenwithVeloxsoftwareanda4k×4KCeta correspondingauthorMianCaoonrequest.
+CMOS Camera (Thermo Fisher Scientific). For quantification,
+images of synapses were selected based on the presence of an Received:15July 2022;Accepted: 20January2023;
+active zone. The number of SVs (diameter≤80nm), CCVs, and
+clathrincageswasmeasuredinmorethan120synapsesforeach
+control and mutant condition. These values were normalized to
+thecross-sectionalareaofthepresynapticterminal.Resultsofthe
+morphometric analysis are presented as mean±SEM. Statistical REFERENCES
+significance was evaluated using one-way ANOVA followed by 1. Quadri,M.etal.MutationintheSYNJ1geneassociatedwithautosomalrecessive,
+Games-Howell’smultiple comparisontest. early-onsetParkinsonism.Hum.Mutat.34,1208–1215(2013).
+2. Krebs,C.E.etal.TheSac1domainofSYNJ1identifiedmutatedinafamilywith
+early-onsetprogressiveParkinsonismwithgeneralizedseizures.Hum.Mutat.34,
+Immunogold labeling 1200–1207(2013).
+Aux-KO/SJ1-KIRQ mice were transcardially perfused with 4% 3. Edvardson,S.etal.AdeleteriousmutationinDNAJC6encodingtheneuronal-
+formaldehyde and 0.125% glutaraldehyde in 0.1M phosphate specific clathrin-uncoating co-chaperone auxilin, is associated with juvenile
+buffer(pH7.4).Dorsalstriataweredissectedandembeddedin1% parkinsonism.PloSOne7,e36458(2012).
+4. Koroglu,C.,Baysal,L.,Cetinkaya,M.,Karasoy,H.&Tolun,A.DNAJC6isresponsible
+gelatin in 0.1M phosphate buffer. Tissue pieces were trimmed,
+infiltrated in 2.3M sucrose, and then were fr
+
+Chunk 36:
+de and 0.125% glutaraldehyde in 0.1M phosphate specific clathrin-uncoating co-chaperone auxilin, is associated with juvenile
+buffer(pH7.4).Dorsalstriataweredissectedandembeddedin1% parkinsonism.PloSOne7,e36458(2012).
+4. Koroglu,C.,Baysal,L.,Cetinkaya,M.,Karasoy,H.&Tolun,A.DNAJC6isresponsible
+gelatin in 0.1M phosphate buffer. Tissue pieces were trimmed,
+infiltrated in 2.3M sucrose, and then were frozen rapidly onto f 1 o 9 r , j 3 u 2 v 0 e – n 3 il 2 e 4 p ( a 2 r 0 k 1 in 3 s ) o . nismwithphenotypicvariability.ParkinsonismRelat.Disord.
+aluminumpinsinliquidnitrogen.60nmfrozensectionsoncarbon/ 5. Nguyen,M.,Wong,Y.C.,Ysselstein,D.,Severino,A.&Krainc,D.Synaptic,mito-
+formvar coated grids were prepared with a Leica Cryo-EMUC6 chondrial,andlysosomaldysfunctioninParkinson’sdisease.TrendsNeurosci.42,
+UltraCutmicrotome.Sectionswerelabeledwithrabbitanti-Tyrosine 140–149(2019).
+Hydroxylase (TH) and 10nm Protein A gold (Utrecht Medical 6. Saheki,Y.&DeCamilli,P.Synapticvesicleendocytosis.ColdSpringHarb.Perspect.
+Center)44.GridswereexaminedinFEITecnaiBiotwinTEMat80Kv. Biol.4,a005645(2012).
+7. Guan,R.,Dai,H.,Harrison,S.C.&Kirchhausen,T.StructureofthePTEN-likeregionof
+ImagesweretakenwithMoradaCCDandiTEM(Olympus)software.
+auxilin,adetectorofclathrin-coatedvesiclebudding.Structure18,1191–1198(2010).
+8. Dyment,D.A.etal.HomozygousnonsensemutationinSYNJ1associatedwith
+HPLCanalysis to detectstriatal levels ofdopamine intractableepilepsyandtaupathology.Neurobiol.aging36,e1221–e1225(2015).
+Striatumtissues dissected frommicebrain werehomogenized in 9. Cremona, O. et al. Essential role of phosphoinositide metabolism in synaptic
+vesiclerecycling.Cell99,179–188(1999).
+0.5N perchloric acid with 100µM of deferoxamine mesylate and
+10. Kurian,M.A.&Abela,L.DNAJC6ParkinsonDisease.InGeneReviews®.(edsAdam,
+100µM of glutathione. The homogenized samples were further
+M.P.etal.)(Seattle(WA):UniversityofWashington,Seattle,2021).
+sonicated, centrifuged and the supernatants were filtered using 11. Ng, J. e
+
+Chunk 37:
+nositide metabolism in synaptic
+vesiclerecycling.Cell99,179–188(1999).
+0.5N perchloric acid with 100µM of deferoxamine mesylate and
+10. Kurian,M.A.&Abela,L.DNAJC6ParkinsonDisease.InGeneReviews®.(edsAdam,
+100µM of glutathione. The homogenized samples were further
+M.P.etal.)(Seattle(WA):UniversityofWashington,Seattle,2021).
+sonicated, centrifuged and the supernatants were filtered using 11. Ng, J. et al. DNAJC6 mutations disrupt dopamine homeostasis in juvenile
+0.1µm PVDF centrifugal filters before collecting the filtrates for parkinsonism-dystonia.Mov.Disord.35,1357–1368(2020).
+HPLC analysis. A reversed-phase UltiMate 3000 HPLC system 12. Lesage,S.etal.ClinicalvariabilityofSYNJ1-associatedearly-onsetParkinsonism.
+(ThermoFisherScientific)withanelectrochemicaldetectoranda FrontNeurol.12,648457(2021).
+reversed-phase column (Vydac Denali, C18, 4.6x250mm, 5µm 13. Cao,M.etal.ParkinsonSacdomainmutationinsynaptojanin1impairsclathrin
+uncoatingatsynapsesandtriggersdystrophicchangesindopaminergicaxons.
+particle size, 120Å pore size) were used to run the samples. The
+Neuron93,882–896.e885(2017).
+HPLCrunwasperformedataflowrateof0.5mlperminutewitha
+14. Yang,S.etal.Presynapticautophagyiscoupledtothesynapticvesiclecyclevia
+mobile phase containing 1.3% sodium acetate, 0.01% EDTA ATG-9.Neuron110,824–840.e(2022).
+(pH8.0), 0.5% sodium 1-heptanesulfonate, 7% acetonitrile (v/v) 15. Vanhauwaert,R.etal.TheSAC1domaininsynaptojaninisrequiredforautop-
+and 2% methanol (v/v), adjusted to pH 4.0 with acetic acid. All hagosomematurationatpresynapticterminals.EMBOJ.36,1392–1411(2017).
+buffers used for HPLC analysis were double filtered through 16. Pan,P.Y.etal.Synj1haploinsufficiencycausesdopamineneuronvulnerabilityand
+0.2µMnylonmembranes.Dopamineinthesampleswasidentified alpha-synucleinaccumulationinmice.Hum.Mol.Genet29,2300–2312(2020).
+17. Cao,M.,Park,D.,Wu,Y.&DeCamilli,P.AbsenceofSac2/INPP5Fenhancesthe
+by retention time of dopamine standard (around 14min) and
+phenotypeofaParkinson’sdiseasemutati
+
+Chunk 38:
+ analysis were double filtered through 16. Pan,P.Y.etal.Synj1haploinsufficiencycausesdopamineneuronvulnerabilityand
+0.2µMnylonmembranes.Dopamineinthesampleswasidentified alpha-synucleinaccumulationinmice.Hum.Mol.Genet29,2300–2312(2020).
+17. Cao,M.,Park,D.,Wu,Y.&DeCamilli,P.AbsenceofSac2/INPP5Fenhancesthe
+by retention time of dopamine standard (around 14min) and
+phenotypeofaParkinson’sdiseasemutationofsynaptojanin1.Proc.NatlAcad.
+quantified by measuring the area under the peak using the Sci.USA117,12428–12434(2020).
+software ChromeleonTM 7.2 Chromatography Data System 18. Song,L.etal.Auxilinunderliesprogressivelocomotordeficitsanddopaminergic
+(Thermo Fisher Scientific). The areas under the peaks were neuronlossinadrosophilamodelofParkinson’sdisease.CellRep.18,1132–1143
+normalizedtotheir respectivetissue weight. (2017).
+19. Yim,Y.I.etal.Endocytosisandclathrin-uncoatingdefectsatsynapsesofauxilin
+knockoutmice.Proc.NatlAcad.Sci.USA107,4412–4417(2010).
+Statistical analysis
+20. Roosen,D.A.etal.MutationsinAuxilincauseparkinsonismviaimpairedclathrin-
+All statistical analysis was performed using GraphPad Prism (Ver mediated trafficking at the Golgi apparatus and synapse. Preprint at https://
+9.3.1, RRID: SCR_002798). All graphs were also plotted on www.biorxiv.org/content/10.1101/830802v3(2021).
+GraphPad Prism. Data are presented as mean±SEM unless 21. Wulansari, N. et al. Neurodevelopmental defects and neurodegenerative phe-
+otherwise stated. Statistical significance was determined using notypesinhumanbrainorganoidscarryingParkinson’sdisease-linkedDNAJC6
+the Student’s unpaired t test for the comparison of two mutations.Sci.Adv.7,eabb1540(2021).
+22. Vezzani,A.&Sperk,G.OverexpressionofNPYandY2receptorsinepilepticbrain
+independent groups or ANOVA with Tukey’s Honest Significant
+tissue:anendogenousneuroprotectivemechanismintemporallobeepilepsy?
+Difference or Games-Howell’s post hoc test for multiple group Neuropeptides38,245–252(2004).
+npjParkinson’sDisease(2023) 26 Publishedinp
+
+Chunk 39:
+t for the comparison of two mutations.Sci.Adv.7,eabb1540(2021).
+22. Vezzani,A.&Sperk,G.OverexpressionofNPYandY2receptorsinepilepticbrain
+independent groups or ANOVA with Tukey’s Honest Significant
+tissue:anendogenousneuroprotectivemechanismintemporallobeepilepsy?
+Difference or Games-Howell’s post hoc test for multiple group Neuropeptides38,245–252(2004).
+npjParkinson’sDisease(2023) 26 PublishedinpartnershipwiththeParkinson’sFoundation
+
+---PAGE BREAK---
+
+X.Y.Ngetal.
+15
+23. Nadler,J.V.,Tu,B.,Timofeeva,O.,Jiao,Y.&Herzog,H.NeuropeptideYinthe ACKNOWLEDGEMENTS
+recurrentmossyfiberpathway.Peptides28,357–364(2007).
+WethankMorvenGrahamfortechnicalhelpandProf.ZhangSu-Chunforsharing
+24. Dunn,A.R.etal.Synapticvesicleglycoprotein2C(SV2C)modulatesdopamine the reagents. This research was supported in part by grants from Ministry of
+release and is disrupted in Parkinson disease. Proc. Natl Acad. Sci. USA 114, EducationAcademicResearchFund(AcRF)Tier2Singapore(MOE2019-T2-2-090)
+E2253–E2262(2017).
+toMC,fromtheNIH(NS36251andDA18343),theKavliInstituteforNeuroscience,
+25. Janz, R. & Sudhof, T. C. SV2C is a synaptic vesicle protein with an unusually the Parkinson Foundation and the Aligning Science Across Parkinson’s grant
+restrictedlocalization:anatomyofasynapticvesicleproteinfamily.Neuroscience ASAP-000580 through the Michael J. Fox Foundation for Parkinson’s Research
+94,1279–1290(1999).
+(MJFF)toPDC.Forthepurposeofopenaccess,theauthorhasappliedaCCBY
+26. Foo, J. N. et al. Identification of risk loci for Parkinson disease in Asians and public copyright license to all Author Accepted Manuscripts arising from this
+comparisonofriskbetweenAsiansandEuropeans:agenome-wideassociation submission.
+study.JAMANeurol.77,746–754(2020).
+27. Grover,S.etal.ReplicationofaNovelParkinson’sLocusinaEuropeanAncestry
+Population.Mov.Disord.36,1689–1695(2021). AUTHORCONTRIBUTIONS
+28. Nalls, M. A. et al. Large-scale meta-analysis of genome-wide association data
+identifiessixnewrisklociforParkinson’sdisease.Nat.Gene
+
+Chunk 40:
+ising from this
+comparisonofriskbetweenAsiansandEuropeans:agenome-wideassociation submission.
+study.JAMANeurol.77,746–754(2020).
+27. Grover,S.etal.ReplicationofaNovelParkinson’sLocusinaEuropeanAncestry
+Population.Mov.Disord.36,1689–1695(2021). AUTHORCONTRIBUTIONS
+28. Nalls, M. A. et al. Large-scale meta-analysis of genome-wide association data
+identifiessixnewrisklociforParkinson’sdisease.Nat.Genet46,989–993(2014). X.Y.N.,P.D.C.,andM.C.designedtheexperiments.X.Y.N.,Y.W.,Y.L.,S.M.Y.,andM.C.
+performedtheexperiments.X.Y.N.,P.D.C.,andM.C.wrotethepaper.L.E.G.provided
+29. Luthi, A. et al. Synaptojanin 1 contributes to maintaining the stability of
+Aux-KOmice.Allauthorsreadandapprovedthefinalmanuscript.
+GABAergictransmissioninprimaryculturesofcorticalneurons.J.Neurosci.21,
+9101–9111(2001).
+30. Hayashi,M.etal.Cell-andstimulus-dependentheterogeneityofsynapticvesicle
+COMPETINGINTERESTS
+endocyticrecyclingmechanismsrevealedbystudiesofdynamin1-nullneurons.
+Proc.NatlAcad.Sci.USA105,2175–2180(2008). Theauthorsdeclarethattheyhavenoconflictofinterest.P.D.C.isamemberofthe
+31. Picillo,M.,Ranieri,A.,Orefice,G.,Bonifati,V.&Barone,P.Clinicalprogressionof ScientificAdvisoryBoardofCASMATherapeutics.
+SYNJ1-relatedearlyonsetatypicalparkinsonism:3-yearfollowupoftheoriginal
+Italianfamily.J.Neurol.261,823–824(2014).
+32. Li,J.,Kim,S.,Pappas,S.S.&Dauer,W.T.CNScriticalperiods:implicationsfor ADDITIONAL INFORMATION
+dystoniaandotherneurodevelopmentaldisorders.JCIInsight6,e142483(2021). Supplementary information The online version contains supplementary material
+33. Keber,U.etal.Striataltyrosinehydroxylase-positiveneuronsareassociatedwith availableathttps://doi.org/10.1038/s41531-023-00465-5.
+L-DOPA-induced dyskinesia in hemiparkinsonian mice. Neuroscience 298,
+302–317(2015).
+CorrespondenceandrequestsformaterialsshouldbeaddressedtoMianCao.
+34. Betarbet, R. et al. Dopaminergic neurons intrinsic to the primate striatum. J.
+Neurosci.17,6761–6768(1997).
+Reprints and permission information is available at 
+
+Chunk 41:
+sitiveneuronsareassociatedwith availableathttps://doi.org/10.1038/s41531-023-00465-5.
+L-DOPA-induced dyskinesia in hemiparkinsonian mice. Neuroscience 298,
+302–317(2015).
+CorrespondenceandrequestsformaterialsshouldbeaddressedtoMianCao.
+34. Betarbet, R. et al. Dopaminergic neurons intrinsic to the primate striatum. J.
+Neurosci.17,6761–6768(1997).
+Reprints and permission information is available at http://www.nature.com/
+35. Doucet-Beaupre, H. et al. Lmx1a and Lmx1b regulate mitochondrial functions reprints
+andsurvivalofadultmidbraindopaminergicneurons.Proc.NatlAcad.Sci.USA
+113,E4387–E4396(2016). Publisher’snoteSpringerNatureremainsneutralwithregardtojurisdictionalclaims
+36. Xenias,H.S.,Ibanez-Sandoval,O.,Koos,T.&Tepper,J.M.Arestriataltyrosine inpublishedmapsandinstitutionalaffiliations.
+hydroxylaseinterneuronsdopaminergic.J.Neurosci.35,6584–6599(2015).
+37. Dunn,A.R.etal.ImmunochemicalanalysisoftheexpressionofSV2Cinmouse,
+macaqueandhumanbrain.BrainRes.1702,85–95(2019).
+38. Dardou,D.etal.DistributionofSV2CmRNAandproteinexpressioninthemouse Open Access This article is licensed under a Creative Commons
+brainwithaparticularemphasisonthebasalgangliasystem.BrainRes.1367, Attribution 4.0 International License, which permits use, sharing,
+130–145(2011).
+adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+39. Dardou,D.etal.AroleforSv2cinbasalgangliafunctions.BrainRes.1507,61–73 appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreative
+(2013). Commonslicense,andindicateifchangesweremade.Theimagesorotherthirdparty
+40. Tanimura,A.etal.StriatalcholinergicinterneuronsandParkinson’sdisease.Eur.J. materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+Neurosci.47,1148–1158(2018).
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+41. Hill-Burns,E.M.etal.Ageneticbasisforthevariableeffectofsmoking/nicotine article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+onParkinson’sdisease.
+
+Chunk 42:
+linergicinterneuronsandParkinson’sdisease.Eur.J. materialinthisarticleareincludedinthearticle’sCreativeCommonslicense,unless
+Neurosci.47,1148–1158(2018).
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthe
+41. Hill-Burns,E.M.etal.Ageneticbasisforthevariableeffectofsmoking/nicotine article’sCreativeCommonslicenseandyourintendeduseisnotpermittedbystatutory
+onParkinson’sdisease.PharmacogenomicsJ.13,530–537(2013).
+regulationorexceedsthepermitteduse,youwillneedtoobtainpermissiondirectly
+42. Ferguson,S.M.etal.Aselectiveactivity-dependentrequirementfordynamin1in from the copyright holder. To view a copy of this license, visit http://
+synapticvesicleendocytosis.Science316,570–574(2007).
+creativecommons.org/licenses/by/4.0/.
+43. Bolte,S.&Cordelieres,F.P.Aguidedtourintosubcellularcolocalizationanalysis
+inlightmicroscopy.J.Microsc224,213–232(2006).
+44. Tokuyasu,K.T.Atechniqueforultracryotomyofcellsuspensionsandtissues.J. ©TheAuthor(s)2023
+CellBiol.57,551–565(1973).
+PublishedinpartnershipwiththeParkinson’sFoundation npjParkinson’sDisease(2023) 26
+
+---PAGE BREAK---
+
+
+

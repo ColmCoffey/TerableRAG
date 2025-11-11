@@ -1,0 +1,885 @@
+Chunk 1:
+Ribosomal Protein s15 Phosphorylation
+Mediates LRRK2 Neurodegeneration
+in Parkinson’s Disease
+IanMartin,1,2,11JungwooWrenKim,1,3,11ByoungDaeLee,1,2,9HoChulKang,1,2,10Jin-ChongXu,1,2HaoJia,1,3,11
+JeannetteStankowski,1,2,11Min-SikKim,4,7JunZhong,7ManojKumar,1,2ShaidaA.Andrabi,1,2,11YulanXiong,1,2
+DennisW.Dickson,13ZbigniewK.Wszolek,14AkhileshPandey,4,5,6,7,11,12TedM.Dawson,1,2,8,11,*
+andValinaL.Dawson1,2,3,8,11,*
+1NeuroregenerationandStemCellPrograms,InstituteforCellEngineering
+2DepartmentofNeurology
+3DepartmentofPhysiology
+4DepartmentofBiologicalChemistry
+5DepartmentofPathology
+6DepartmentofOncology
+7McKusickNathansInstituteofGeneticMedicine
+8SolomonH.SnyderDepartmentofNeuroscience
+JohnsHopkinsUniversitySchoolofMedicine,Baltimore,MD21205,USA
+9Age-RelatedandBrainDiseaseResearchCenter,DepartmentofNeuroscience,KyungHeeUniversity,Seoul130-701,SouthKorea
+10DepartmentofPhysiology,AjouUniversitySchoolofMedicine,Suwon443-749,SouthKorea
+11AdrienneHelisMalvinMedicalResearchFoundation,NewOrleans,LA70130,USA
+12DianaHelisHenryMedicalResearchFoundation,NewOrleans,LA70130,USA
+13DepartmentofNeuroscience
+14DepartmentofNeurology
+MayoClinic,Jacksonville,FL32224,USA
+*Correspondence:tdawson@jhmi.edu(T.M.D.),vdawson@jhmi.edu(V.L.D.)
+http://dx.doi.org/10.1016/j.cell.2014.01.064
+SUMMARY INTRODUCTION
+Mutations in leucine-rich repeat kinase 2 (LRRK2) Following the identification of pathogenic leucine-rich repeat
+are a common cause of familial and sporadic kinase 2 (LRRK2) mutations that lead to Parkinson’s disease
+Parkinson’s disease (PD). Elevated LRRK2 kinase (PD) in 2004 (Paisa´n-Ru´ız et al., 2004; Zimprich et al., 2004),
+activity and neurodegeneration are linked, but the LRRK2 mutations are now known to be the most common
+phosphosubstrate that connects LRRK2 kinase geneticcauseofPD,accountingforupto40%offamilialcases
+in certain populations (Martin et al., 2011). LRRK2 mutations
+activity to neurodegeneration is not known. Here,
+resultinclinicalandpathologicalfeaturesthatcloselyresemble
+we
+
+Chunk 2:
+4; Zimprich et al., 2004),
+activity and neurodegeneration are linked, but the LRRK2 mutations are now known to be the most common
+phosphosubstrate that connects LRRK2 kinase geneticcauseofPD,accountingforupto40%offamilialcases
+in certain populations (Martin et al., 2011). LRRK2 mutations
+activity to neurodegeneration is not known. Here,
+resultinclinicalandpathologicalfeaturesthatcloselyresemble
+we show that ribosomal protein s15 is a key patho-
+themorecommonsporadicPD,suggestingthatunderstanding
+genic LRRK2 substrate in Drosophila and human
+LRRK2-linkeddiseasemechanismsmaybeagatewaytounder-
+neuron PD models. Phosphodeficient s15 carrying
+standing sporadic PD. Multiple lines of evidence indicate that
+a threonine 136 to alanine substitution rescues
+LRRK2 kinase activity is key to PD development, particularly
+dopamine neuron degeneration and age-related the findings that (1) the common G2019S mutation bestows
+locomotor deficits in G2019S LRRK2 transgenic increased kinase activity toward generic kinase substrates
+Drosophila and substantially reduces G2019S (Anand et al., 2009; Covy and Giasson, 2009; Greggio
+LRRK2-mediated neurite loss and cell death in et al., 2006; Luzo´n-Toro et al., 2007; Smith et al., 2006; West
+human dopamine and cortical neurons. Remark- et al., 2007), and (2) LRRK2 toxicity is kinase-dependent
+ably, pathogenic LRRK2 stimulates both cap- (Dengetal.,2011;Greggioetal.,2006;Leeetal.,2010;MacLeod
+etal.,2006;Smithetal.,2006).Tounderstandthelinkbetween
+dependent and cap-independent mRNA translation
+LRRK2 kinase activity and PD development, it is imperative
+and induces a bulk increase in protein synthesis
+toidentifyauthenticLRRK2substratesthatarelinkedtoneuro-
+inDrosophila,whichcanbepreventedbyphospho-
+degenerationinPD(TsikaandMoore,2012).
+deficient T136A s15. These results reveal a novel
+LRRK2 is a large multidomain protein with several protein-
+mechanism of PD pathogenesis linked to elevated
+protein interaction domains and a catalytic core containing
+
+
+Chunk 3:
+ induces a bulk increase in protein synthesis
+toidentifyauthenticLRRK2substratesthatarelinkedtoneuro-
+inDrosophila,whichcanbepreventedbyphospho-
+degenerationinPD(TsikaandMoore,2012).
+deficient T136A s15. These results reveal a novel
+LRRK2 is a large multidomain protein with several protein-
+mechanism of PD pathogenesis linked to elevated
+protein interaction domains and a catalytic core containing
+LRRK2 kinase activity and aberrant protein synthe- GTPase,C-terminalofROC(COR),andkinasedomainswhere
+sis in vivo. mostPD-linkedmutationsarefound.Itislikelythatitsphysiologic
+472 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+and pathophysiologic functions are mediated through protein- ableonline).ACytoscapenetworkanalysisrevealsthatthemajor
+proteininteractionsand/orphosphorylationofLRRK2substrates LRRK2 interacting proteins identified by this approach are
+(Cookson,2010).AnumberofcandidateLRRK2substrateshave functionally categorized into four major groups; structural
+beenidentified.LRRK2kinaseactivityispartofanendophilinA constituents of the ribosome, proteins involved in transporter
+phosphorylation cycle that promotes efficient synaptic vesicle activity,nucleotidebinding,andcationbinding(FigureS1A).To
+endocytosisattheneuromuscularjunction(Mattaetal.,2012). determinewhichoftheseinteractingproteinsaredirectLRRK2
+Phosphorylation of ezrin/radixin/moesin by LRRK2 promotes substrates, GST-fusion proteins were generated by Gateway
+therearrangementoftheactincytoskeletoninneuronalmorpho- cloning and screened via an in vitro LRRK2 kinase assay to
+genesis (Parisiadou et al., 2009). LRRK2 phosphorylation of assess phosphorylation in the presence of wild-type LRRK2,
+eukaryotic initiation factor 4E (eIF4E)-binding protein (4E-BP) kinase-dead LRRK2 (D1994A), and two disease-causing
+hasbeensuggestedtocoupleincreasedLRRK2kinaseactivity variants with kinase domain mutations, G2019S LRRK2 and
+to aberrant translation of a small number of mRNAs through I2020T LRRK2 (Figure S1B
+
+Chunk 4:
+ 2009). LRRK2 phosphorylation of assess phosphorylation in the presence of wild-type LRRK2,
+eukaryotic initiation factor 4E (eIF4E)-binding protein (4E-BP) kinase-dead LRRK2 (D1994A), and two disease-causing
+hasbeensuggestedtocoupleincreasedLRRK2kinaseactivity variants with kinase domain mutations, G2019S LRRK2 and
+to aberrant translation of a small number of mRNAs through I2020T LRRK2 (Figure S1B). Approximately 60% of all GST-
+4E-BP-dependent perturbation of microRNA activity (Gehrke fusionproteinswereamenabletopurification(TableS1).Eleven
+etal.,2010;Imaietal.,2008).However,whilethisstudyraises proteinsarephosphorylatedbywild-type,G2019SandI2020T
+thepossibilitythatLRRK2mayaffecttranslationatsomelevel, LRRK2,butnotbykinase-deadD1994ALRRK2.Tencandidate
+amechanisticlinkinvolvingphospho-4E-BPislackingasthere substratesareribosomalproteinsandtheotherproteinislactate
+was no direct demonstration that LRRK2 phosphorylation of dehydrogenaseB(LDHB)(Figures1EandS1C).Consistentwith
+4E-BPmediatesalteredtranslationofthesemRNAs.Moreover, our finding that LRRK2 interacts with and phosphorylates
+recentstudiessuggestthat4E-BPmaynotbeanimportantinvivo ribosomal proteins, endogenous LRRK2 is highly enriched in
+LRRK2 substrate (Kumar et al., 2010; Trancikova et al., 2012) theribosomalsubcellularfractionsuggestingthatLRRK2might
+raisingadditionaldoubtontheroleof4E-BPasakinasesubstrate playanimportantroleinribosomalfunctionandmRNAtransla-
+importantinLRRK2toxicity.Thus,howelevatedLRRK2kinase tion (Figure 1F). Similar levels of enrichment are observed for
+activityiscoupledto aberrantmRNA translationand neurode- overexpressed wild-type, D1994A, and G2019S LRRK2 (data
+generationinPDremainstobeclarified. notshown),suggestingthatthephysicalassociationofLRRK2
+InordertounderstandtheconnectionbetweenLRRK2kinase with ribosomes is not kinase-dependent. To further determine
+activity and neurotoxicity, candidate LRRK2 substrates were the scope of LRRK2 actions at the ribosome, all known ribo-
+identif
+
+Chunk 5:
+onand neurode- overexpressed wild-type, D1994A, and G2019S LRRK2 (data
+generationinPDremainstobeclarified. notshown),suggestingthatthephysicalassociationofLRRK2
+InordertounderstandtheconnectionbetweenLRRK2kinase with ribosomes is not kinase-dependent. To further determine
+activity and neurotoxicity, candidate LRRK2 substrates were the scope of LRRK2 actions at the ribosome, all known ribo-
+identified through LRRK2 tandem affinity purification and somal proteins belonging to the human 40Sand 60Ssubunits
+invitrokinasescreeningofLRRK2-interactingphosphoproteins. amenabletopurificationweresubjectedtoinvitroLRRK2kinase
+WefindthatribosomalproteinsaremajorLRRK2interactorsand assays(TableS2).Atotalof19ribosomalproteinsarephosphor-
+LRRK2kinasetargetsandthatLRRK2ismarkedlyenrichedin ylatedbyLRRK2(TableS2).Threesubstratesbelongingtothe
+theribosomalsubcellularfraction.Blockingphosphorylationof 40S ribosomal subunit, s11, s15, and s27, exhibit significantly
+thesmallribosomalsubunitproteins15rescuesLRRK2neuro- increasedphosphorylationbythepathogenicmutantsG2019S
+toxicityinhumandopamineneuronsandDrosophilaPDmodels. and I2020T LRRK2 (Figure 1E). We reasoned that substrates
+WedemonstratethatpathogenicLRRK2inducesanincreasein exhibitingelevatedphosphorylationwithpathogenicLRRK2var-
+bulkproteinsynthesisinflies,whichisblockedbyphosphodefi- iantsmightbeinvolvedinLRRK2toxicity.Toidentifyphosphor-
+cient s15. Moreover, the global protein synthesis inhibitor ylation sites on these three ribosomal proteins, tandem mass
+anisomycin rescues the locomotor deficits and dopamine spectrometry analysis was performed following LRRK2 phos-
+neuron loss in aged G2019S LRRK2 transgenic Drosophila. phorylationinvitro(FiguresS2AandS2B).LRRK2phosphory-
+Ourfindingsidentifys15asakeypathogenicLRRK2substrate latesthreonine136ofs15andthreonines28,46,and54ofs11
+thatlinkselevatedLRRK2kinaseactivitytoParkinson’sdisease (FiguresS2AandS2B).Weareunabletodetectphosphorylation
+pathogenesisviaalteredtranslation. ofs27byL
+
+Chunk 6:
+performed following LRRK2 phos-
+neuron loss in aged G2019S LRRK2 transgenic Drosophila. phorylationinvitro(FiguresS2AandS2B).LRRK2phosphory-
+Ourfindingsidentifys15asakeypathogenicLRRK2substrate latesthreonine136ofs15andthreonines28,46,and54ofs11
+thatlinkselevatedLRRK2kinaseactivitytoParkinson’sdisease (FiguresS2AandS2B).Weareunabletodetectphosphorylation
+pathogenesisviaalteredtranslation. ofs27byLRRK2viamassspectrometry(datanotshown).
+RESULTS s15IsaPathogenicLRRK2SubstrateinHuman
+DopamineNeurons
+IdentifyingCandidateLRRK2KinaseSubstrates A substitution of threonine 136 to alanine in s15 significantly
+LRRK2-interactingphosphoproteinswereidentifiedbytandem reduceswild-type,G2019S,andI2020TLRRK2phosphorylation
+affinity purification (TAP) of LRRK2 from HEK293 cells. A ofs15(Figure2A).Atriplemutationofthreonines28,46,and54
+LRRK2TAPtagwasgeneratedbyfusingastreptavidinbinding toalaninesins11eliminatesphosphorylationofs11bywild-type,
+peptideandacalmodulinbindingpeptidetotheCterminusof G2019S,andI2020TLRRK2(FigureS2C).Toascertainwhether
+LRRK2.TAP-taggedLRRK2complexretainskinaseactivity(Fig- s15ors11phosphorylationarerequiredforLRRK2toxicity,the
+ures1A–1C).LRRK2-interactingphosphoproteinswereenriched effectsofT136As15andtriplemutant(T28A,T46A,T54A)s11
+byimmobilizedmetalaffinitychromatography(IMAC)(Figure1D) wereexamined.G2019SLRRK2hasbeenrepeatedlyshownto
+and then separated via SDS-PAGE. The gel was divided into causekinase-dependentneuronaltoxicitycharacterizedbyneu-
+multiple even-sized pieces and protein bands were identified ritelossandcelldeathinrodentandhumanneurons(Greggio
+bymassspectrometry.Tocontrolfornonspecificbinding,pro- et al., 2006; Lee et al., 2010; Ramsden et al., 2011; Smith
+teins identified by TAP of two unrelated proteins, Botch and etal.,2006;Westetal.,2007).PhosphodeficientT136As15is
+GADD45b were subtracted from the mass spectrometry data markedly protective against G2019S LRRK2 toxicity (neurite
+setforLRRK2,leaving161interactingproteins(TableS1avail- loss
+
+Chunk 7:
+sspectrometry.Tocontrolfornonspecificbinding,pro- et al., 2006; Lee et al., 2010; Ramsden et al., 2011; Smith
+teins identified by TAP of two unrelated proteins, Botch and etal.,2006;Westetal.,2007).PhosphodeficientT136As15is
+GADD45b were subtracted from the mass spectrometry data markedly protective against G2019S LRRK2 toxicity (neurite
+setforLRRK2,leaving161interactingproteins(TableS1avail- lossandcelldeath)whereastriplemutants11failedtoinfluence
+Cell157,472–485,April10,2014ª2014ElsevierInc. 473
+
+---PAGE BREAK---
+
+Figure1. IdentificationofCandidateLRRK2Substrates
+(A)CartoonofLRRK2TAPconstructwithC-terminalstreptavidinbindingpeptide(SBP)andcalmodulinbindingpeptide(CBP)tagsandschemeforidentifying
+LRRK2-interactingphosphoproteins.
+(B)LRRK2TAPcopurifiedproteinsvisualizedbycoomassieandsilverstainedpolyacrylamidegels.Controlisemptyvector.
+(C)PhosphorimagingofLRRK2complexpurifiedbyTAPdemonstratingthatitwaskinaseactive.
+(D)IMACenrichmentofphosphoproteinsfromTAPeluate.FT,flow-through;Elu,eluate.
+(E)LRRK2kinasesubstratesexhibitingsignificantlyincreasedphosphorylation(g-32P-ATPincorporation)byG2019SandI2020TLRRK2comparedtoWTLRRK2
+(individualone-wayANOVAforeffectofLRRK2variant,p<0.0001,Bonferroniposttest,**p<0.01,***p<0.001,****p<0.0001,n=3–7).Coomassiebrilliant
+blue-stainedgelsareshown.
+(F)EndogenousLRRK2levelsinHEK293cellwholelysates,nuclear(Nuc),mitochondrial(Mito),orribosomal(Ribo)subcellularfractions.EndogenousLRRK2is
+enrichedinribosomalfractions(ANOVAfollowedbyBonferroniposttest,***p<0.001,n=3).Dataaremean±SEM.
+SeealsoFigureS1andTablesS1andS2.
+LRRK2 toxicity in rat cortical neurons (Figures 2B and S2C). toxicity(Figure2C)consistentwithG2019SLRRK2toxicitybeing
+Overexpressionofs15ismodestlytoxictoratcorticalneurons mediatedvias15phosphorylation.Toextendourinvestigation
+butoverexpressionofT136As15,s11ortriplemutants11are and probe the role of s15 in human neurotoxicity caused
+not(Figures2BandS2C).T136As15isadditionallyprotective by G2019S LRRK2, human midbrain dopamine neu
+
+Chunk 8:
+rons (Figures 2B and S2C). toxicity(Figure2C)consistentwithG2019SLRRK2toxicitybeing
+Overexpressionofs15ismodestlytoxictoratcorticalneurons mediatedvias15phosphorylation.Toextendourinvestigation
+butoverexpressionofT136As15,s11ortriplemutants11are and probe the role of s15 in human neurotoxicity caused
+not(Figures2BandS2C).T136As15isadditionallyprotective by G2019S LRRK2, human midbrain dopamine neurons and
+against the kinase domain mutant I2020T LRRK2, but not the corticalneuronswerederivedfromhumanembryonicstemcells
+pathogenicROCdomainmutantR1441CLRRK2(FigureS2D). and characterized (Figures S3A and S3B). G2019S LRRK2
+Coexpression of wild-type s15 did not substantially influence causesneurotoxicityinhumanmidbraindopamineneurons(Fig-
+toxicityforanyoftheLRRK2variantstested.Tofurtherexplore ure 3A) and in human cortical neurons (Figure 3B), where it
+theroleofs15phosphorylationinLRRK2toxicity,theeffectof resultsinsignificantlyelevatedendogenousphospho-T136s15
+phosphomimetic T136D s15 was examined. T136D s15 alone levels(FigureS3C),observedusingavalidatedphosphospecific
+is sufficient to induce neuronal toxicity and when expressed antibodytophospho-T136(FiguresS3D–S3F).LRRK2toxicityin
+together with G2019S LRRK2, did not exacerbate LRRK2 both human dopamine and cortical neurons is significantly
+474 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+Figure2. Phosphodeficients15ProtectsagainstLRRK2Toxicity
+(A)LRRK2invitrokinaseassay.T136A(TA)s15reducesphosphorylationbywild-type(WT),D1994A(DA),G2019S(GS),andI2020T(IT)LRRK2(two-wayANOVA,
+p<0.0001foreffectofT136Amutation,n=3),andpreventstheincreaseins15phosphorylationviaG2019SandI2020TLRRK2(Bonferroniposttest,***p<0.001;
+ns,notsignificant).
+(B)T136A(TA)s15blocksG2019SLRRK2toxicity(neuriteshorteningandcelldeath)inratcorticalneurons(individualANOVA,Bonferroniposttests,*p<0.05,
+***p<0.001,****p<0.0001,n=5).Arrowsindicateneuronslackingneurites,asubsetofwhichareTUNEL-positive(seeinsetmagnifications)asindicated.The
+vastm
+
+Chunk 9:
+=3),andpreventstheincreaseins15phosphorylationviaG2019SandI2020TLRRK2(Bonferroniposttest,***p<0.001;
+ns,notsignificant).
+(B)T136A(TA)s15blocksG2019SLRRK2toxicity(neuriteshorteningandcelldeath)inratcorticalneurons(individualANOVA,Bonferroniposttests,*p<0.05,
+***p<0.001,****p<0.0001,n=5).Arrowsindicateneuronslackingneurites,asubsetofwhichareTUNEL-positive(seeinsetmagnifications)asindicated.The
+vastmajorityofGFP-positiveneurons((cid:1)90%)colabeledforLRRK2ands15whencotransfected(datanotshown).
+(C)PhosphomimeticT136D(TD)s15mimicsG2019SLRRK2toxicity(individualANOVA,Bonferroniposttest,*p<0.05,**p<0.01,***p<0.001,n=3).Scalebars
+represent25mM.Dataaremean±SEM.
+SeealsoFigureS2.
+attenuated by T136A s15 but not wild-type s15. Phosphomi- s15IsanAuthenticLRRK2SubstrateInVivo
+meticT136Ds15istoxictobothtypesofneurons(Figures3A Because phosphorylation of s15 by LRRK2 was found to be
+and 3B). Partial knockdown ((cid:1)50%) of s15 in human cortical requiredforLRRK2neurotoxicity,theinteractionandphosphor-
+neurons partially rescues neuronal toxicity caused by G2019S ylationofs15byLRRK2wasfurtherinvestigated.Recombinant
+LRRK2, similar to that observed for T136A s15 (Figure S3G), s15isphosphorylatedbywild-typeLRRK2withaK of1.5mM
+m
+whileexpressionofG2019SLRRK2isnotaffected(FigureS3G). and by G2019S LRRK2 with a K of 0.7 mM, suggesting a
+m
+Finally, increasing wild-type LRRK2 overexpression leads to a stronger substrate affinity between s15 and G2019S LRRK2
+modest increase in s15 phosphorylation and neuronal toxicity, compared to that with wild-type LRRK2 (Figure 4A). G2019S
+but not to the extent observed via G2019S LRRK2 (Figures and I2020T LRRK2 both increase phospho-s15 levels in cells
+S3H and S3I). Taken together, these data reveal that s15 is a whereas overexpression of the ROC domain mutants R1441C
+pathogenic LRRK2 substrate for LRRK2 mutations within the or R1441G do not (Figure 4B). These phosphorylation results
+kinase domain of LRRK2 and that LRRK2 and s15 act in the areconsistentwi
+
+Chunk 10:
+served via G2019S LRRK2 (Figures and I2020T LRRK2 both increase phospho-s15 levels in cells
+S3H and S3I). Taken together, these data reveal that s15 is a whereas overexpression of the ROC domain mutants R1441C
+pathogenic LRRK2 substrate for LRRK2 mutations within the or R1441G do not (Figure 4B). These phosphorylation results
+kinase domain of LRRK2 and that LRRK2 and s15 act in the areconsistentwiththeabilityoftheT136As15mutanttorescue
+samecelldeathpathway. G2019S and I2020T LRRK2 neurotoxicity but not R1441C
+Cell157,472–485,April10,2014ª2014ElsevierInc. 475
+
+---PAGE BREAK---
+
+Figure 3. Phosphodeficient s15 Protects
+against G2019S LRRK2 Toxicity in Human
+DopamineandCorticalNeurons
+G2019S LRRK2 toxicity (neurite shortening and
+celldeath)inhumanmidbraindopamineneurons
+(A)(whitearrows)andhumancorticalneurons(B)
+isphenocopiedbyphospho-mimeticT136D(TD)
+s15 and rescued by phosphomutant T136A
+(TA) s15 but not wild-type s15. Individual
+ANOVA,Bonferroniposttest,*p<0.05,**p<0.01,
+***p<0.001,n=4).Scalebarsrepresent25mM.
+Dataaremean±SEM.
+SeealsoFigureS3.
+s15 is significantly increased in head
+ribosomal fractions from G2019S trans-
+genicfliesbutnotkinase-deadG2019S/
+D1994ALRRK2flies(Figure5B).Asinhu-
+mancells, endogenous s15and dLRRK
+exhibit partial colocalization around the
+nucleus of Drosophila S2 cells (Fig-
+ureS4G).Thesedatacollectivelydemon-
+stratethats15isanauthenticanddirect
+invivoLRRK2kinasesubstrate.
+Phosphodeficients15Blocks
+NeurodegenerationinG2019S
+LRRK2TransgenicDrosophila
+To determine whether s15 phos-
+phorylationunderliesLRRK2-dependent
+neurodegenerationandPD-relatedphe-
+notypesinvivo,weusedtherobustand
+efficient Drosophila LRRK2 transgenic
+model in which flies expressing human
+G2019S LRRK2 rapidly exhibit aging-
+neurotoxicity (see Figures 2 and S2). LRRK2-IN-1 and CZC- relateddopaminergicneurodegenerationandlocomotordeficits
+25146,twopotentLRRK2kinaseinhibitorswithnonoverlapping linkedtoincreasedLRRK2kinaseactivity(Liuetal.,2008).Dopa-
+off-target kinase inhibitio
+
+Chunk 11:
+notypesinvivo,weusedtherobustand
+efficient Drosophila LRRK2 transgenic
+model in which flies expressing human
+G2019S LRRK2 rapidly exhibit aging-
+neurotoxicity (see Figures 2 and S2). LRRK2-IN-1 and CZC- relateddopaminergicneurodegenerationandlocomotordeficits
+25146,twopotentLRRK2kinaseinhibitorswithnonoverlapping linkedtoincreasedLRRK2kinaseactivity(Liuetal.,2008).Dopa-
+off-target kinase inhibition (Deng et al., 2011; Ramsden et al., mineneurondegenerationandlocomotordysfunctionobserved
+2011) block G2019S LRRK2 phosphorylation of s15 both in in aged G2019S LRRK2 transgenic Drosophila are completely
+kinaseassaysinvitroandincellculture(Figures4C,S4A,and rescuedbycoexpressionofT136As15whereaswild-types15
+S4B). The G2019S/A2016T LRRK2 variant is resistant to is not protective (Figures 5C, 5D, and S5A). Neither s15 nor
+LRRK2-IN-1 kinase inhibition, and phosphorylation of s15 by T136A s15 coexpression affects G2019S LRRK2 levels (Fig-
+thisLRRK2variantisunaffectedbyLRRK2-IN-1treatment(Fig- ure S5B). There were no effects of LRRK2, s15, or T136A s15
+ure4C),furthersupportingthatreduceds15phosphorylationis overexpressionobservedinyoungfliesintheseassays,consis-
+caused specifically by LRRK2 kinase inhibition. Endogenous tentwithpreviousreportsforLRRK2transgenicfliesatthisage
+LRRK2 and s15 both exhibit punctate immunostaining with (Liu et al., 2008) (Figures S5C and S5D). Also, neither s15 nor
+partialperinuclearcolocalizationinhumancorticalneurons(Fig- T136A s15 expression alone significantly affects negative
+ures 4D and S4C), which is also found for overexpressed geotaxis or dopamine neuron survival in aged flies, although
+G2019S LRRK2 and s15 (Figure S4C). Endogenous s15 and therewasaslightreductioninclimbingabilitywiths15overex-
+LRRK2 coimmunoprecipitate and s15interacts with the WD40 pression(FiguresS5EandS5F).s15isanintegralribosomalpro-
+proteininteractiondomainofLRRK2(FigureS4D).Postmortem teinandknocking-downs15byRNAiislethalinDrosophila,via
+cortexfromhumanG2019Scarriers
+
+Chunk 12:
+neuron survival in aged flies, although
+G2019S LRRK2 and s15 (Figure S4C). Endogenous s15 and therewasaslightreductioninclimbingabilitywiths15overex-
+LRRK2 coimmunoprecipitate and s15interacts with the WD40 pression(FiguresS5EandS5F).s15isanintegralribosomalpro-
+proteininteractiondomainofLRRK2(FigureS4D).Postmortem teinandknocking-downs15byRNAiislethalinDrosophila,via
+cortexfromhumanG2019Scarriersexhibitincreaseds15phos- whole-bodyortargetedneuronalexpression(datanotshown).
+phorylationinribosomalfractions(Figure4E).LRRK2expression
+wasnotsignificantlydifferentinG2019Scarrierribosomalfrac- LRRK2StimulatesCap-Dependentand
+tionsorwholelysatescomparedtocontrolpatientbrainsamples Cap-IndependentTranslation
+(Figures 4E and S4F). Finally, ribosomal fractions from dLRRK Theroleofs15inLRRK2toxicityraisesthepossibilitythatpath-
+(DrosophilaLRRK2homolog)nullflyheadsexhibitsignificantly ogenic LRRK2 might modulate the activity of ribosomes to
+reduced s15 phosphorylation (Figure 5A) whereas phospho- impactproteinsynthesisinans15-dependentmanner.Although
+476 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+Figure4. Phosphorylationofs15byPathogenicLRRK2VariantsandBlockbyLRRK2-IN-1
+(A)KineticsofLRRK2orG2019SLRRK2initialenzymevelocityatvariouss15concentrationsforderivationoftheMichaelis-Mentenconstant,Km.Dataare
+mean±SEM,n=3.Silverstainedgelsareshown.
+(B)Phospho-s15levelsfollowingcotransfectionofHEK293cellswithV5s15andLRRK2.DensitometryrevealedasignificanteffectofG2019SandI2020TLRRK2
+variantsonphospho-s15levels(ANOVAfollowedbyBonferroniposttest,*p<0.05,n=5).
+(C)LRRK2-IN-1blockedV5s15phosphorylationbyG2019SLRRK2butnotadrug-resistantvariant,G2019S/A2016TLRRK2incotransfectedHEK293cells
+(ANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=3).
+(D)EndogenousLRRK2ands15inhumancorticalneuronsexhibitpunctateimmunostaining,predominantlyintheperinuclearregionwheretheycolocalize.Scale
+barsrepresent10mM.
+(E)Phospho-s15isincreasedinribosomalfractionsfromG2019SLRRK2humanpostmortembrains(Stud
+
+Chunk 13:
+edV5s15phosphorylationbyG2019SLRRK2butnotadrug-resistantvariant,G2019S/A2016TLRRK2incotransfectedHEK293cells
+(ANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=3).
+(D)EndogenousLRRK2ands15inhumancorticalneuronsexhibitpunctateimmunostaining,predominantlyintheperinuclearregionwheretheycolocalize.Scale
+barsrepresent10mM.
+(E)Phospho-s15isincreasedinribosomalfractionsfromG2019SLRRK2humanpostmortembrains(Student’sttest,**p<0.01).Wholelysateswererun
+separately(seeFigureS4)duetogelspaceconstraints.Dataaremean±SEM.
+SeealsoFigureS4.
+littleisknownabouttheroleofs15intranslation,itislocatedon translation (Khairulinaetal.,2010;Pisarevetal.,2006).mRNA
+thesurfaceofthe40SribosomalsubunitanditsC-terminaltail translationcanoccurbybothcap-dependentandcap-indepen-
+(where T136 lies) is highly conserved among eukaryotes and dentmechanismsofribosomebinding.Tosimultaneouslyprobe
+may extend into the ribosomal decoding site during mRNA theeffectsof LRRK2oncap-dependentand cap-independent
+Cell157,472–485,April10,2014ª2014ElsevierInc. 477
+
+---PAGE BREAK---
+
+Figure5. RescueofDopamineNeuronDegenerationandLocomotorDysfunctioninAgedG2019SLRRK2DrosophilabyPhosphomutants15
+(A)Phospho-s15isreducedindLRRKe03680(dLRRKnull)homozygotescomparedtoisogenicw1118controls(Student’sttest,p<0.001,n=4groupsof100fly
+heads/genotype).L,wholelysates;R,ribosomalfractions.
+(B)G2019SLRRK2transgenicflies(Ddc-Gal4;UAS-G2019S-LRRK2)exhibitincreasedphospho-s15(ANOVA,Bonferroniposttest,**p<0.01;***p<0.001;ns,
+notsignificant,n=4groupsof100flyheads/genotype).L,wholelysates;R,ribosomalfractions.LRRK2exhibitsanadditionalhighmolecularweightband(likely
+SDS-insolubleLRRK2).
+(C)AgedfliesexpressingG2019SLRRK2exhibitasignificantlocomotordeficitinnegativegeotaxisassays,whichisrescuedbyT136A(TA)s15expression
+(ANOVAfollowedbyBonferroniposttest,*p<0.05,**p<0.01,n=30–40flies).GenotypesareDdc-Gal4/+;+/+(Control),UAS-s15/+;+/+(s15),UAS-T136As15/
++;+/+(TAs15),Ddc-Gal4/+;UAS-LRRK2/+(LRRK2),Ddc-Gal4/+;UAS-G2019S-LRRK2/+(G2019S),Ddc-Gal4/UAS-s15;UAS-G2
+
+Chunk 14:
+(likely
+SDS-insolubleLRRK2).
+(C)AgedfliesexpressingG2019SLRRK2exhibitasignificantlocomotordeficitinnegativegeotaxisassays,whichisrescuedbyT136A(TA)s15expression
+(ANOVAfollowedbyBonferroniposttest,*p<0.05,**p<0.01,n=30–40flies).GenotypesareDdc-Gal4/+;+/+(Control),UAS-s15/+;+/+(s15),UAS-T136As15/
++;+/+(TAs15),Ddc-Gal4/+;UAS-LRRK2/+(LRRK2),Ddc-Gal4/+;UAS-G2019S-LRRK2/+(G2019S),Ddc-Gal4/UAS-s15;UAS-G2019S-LRRK2/+(GS/s15),and
+Ddc-Gal4/UAS-T136As15;UAS-G2019S-LRRK2/+(GS/TAs15).
+(D)DopamineneuronlossinagedG2019SLRRK2fliesisrescuedbyT136As15coexpression.Confocalprojectionimagesthroughtheposteriorflybrainshow
+fivemajordopamineneuronclusters(PPM1,PPM2,PPM3,PPL1,PPL2).Scalebarsrepresent60mM.Forquantitation,individualANOVAfollowedbyBonferroni
+posttest,*p<0.05,**p<0.01***p<0.001,n=10flybrainspergenotype.Genotypesareasin(C).Dataaremean±SEM.
+SeealsoFigureS5.
+translation,abicistronicreportercomposedofaFLAGreadout Importantly, these effects are augmented by the phosphomi-
+tomonitorcap-dependenttranslationfollowedbyanIRESsite metic T136D mutation and subtly decreased by T136A s15,
+with a c-Myc readout to monitor cap-independent translation withoutsignificantchangesinreportertranscriptlevels(Figures
+from the same transcript was utilized (Figure 6A). G2019S 6CandS6A).Todeterminewhethers15phosphorylationmedi-
+LRRK2 dose-dependently increases both cap-dependent and ates the effects of LRRK2 on translation, cap-dependent and
+cap-independent reporter translation in a kinase-dependent cap-independent reporter translation induced by G2019S
+manner(Figure6B),whilereportermRNAlevelsarenotsignifi- LRRK2 was monitored in the presence of wild-type s15 or
+cantly affected by LRRK2 expression (Figure S6A). Wild-type T136A s15. Wild-type s15 modestly enhances the stimulation
+s15 stimulates both cap-dependent and cap-independent oftranslationbyG2019SLRRK2,whereasT136As15blocked
+reporter translation in a dose-dependent manner (Figure 6C). stimulation of both cap-dependent and cap-independent
+478 Cell157
+
+Chunk 15:
+ was monitored in the presence of wild-type s15 or
+cantly affected by LRRK2 expression (Figure S6A). Wild-type T136A s15. Wild-type s15 modestly enhances the stimulation
+s15 stimulates both cap-dependent and cap-independent oftranslationbyG2019SLRRK2,whereasT136As15blocked
+reporter translation in a dose-dependent manner (Figure 6C). stimulation of both cap-dependent and cap-independent
+478 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+translationbyG2019SLRRK2(Figure6D).ReportermRNAlevels ure S6J). Taken together, these results suggest that phos-
+are not significantly different between the groups (Figure 6D). phorylation of s15 on T136 by LRRK2 mediates enhanced
+Partial knockdown of s15 similarly attenuates cap-dependent cap-dependent and cap-independent reporter translation and
+and cap-independent reporter translation (Figure S6B) further thatastimulatoryeffectofLRRK2onmRNAtranslationcontrib-
+supportingthelinkbetweens15andLRRK2effectsontransla- utestoLRRK2toxicity.
+tion. LRRK2 was previously reported to phosphorylate human
+4E-BP1 and it was suggested that phospho-4E-BP1 affects G2019SLRRK2IncreasesBulkTranslationinDrosophila
+the expression of certain genes by repressing miRNA activity Fromourinvitroreporterassays,wehypothesizedthatpatho-
+(Gehrkeetal.,2010).Asexpected,knockdownofDICERledto genicLRRK2maycauseabulkshiftintranslationthat,asshown
+reduced miRNA levels (data not shown) but failed to stimulate in other neurodevelopmental and neurodegenerative diseases,
+bicistronic reporter expression (Figure S6C) suggesting that canimpairneuronalfunction.Consistentwithourinvitroobser-
+G2019SLRRK2doesnotpromotereportertranslationbyimpair- vations,35S-methionine/cysteinepulselabelingofnewlysynthe-
+ingthemiRNApathway.Similarly,overexpressinghAgo2,which sized protein was significantly increased in G2019S LRRK2
+was proposed to be functionally impeded by phospho-4E-BP transgenicDrosophilaheads(Figure7A),suggestinganincrease
+binding, did not attenuate cap-depend
+
+Chunk 16:
+ntwithourinvitroobser-
+G2019SLRRK2doesnotpromotereportertranslationbyimpair- vations,35S-methionine/cysteinepulselabelingofnewlysynthe-
+ingthemiRNApathway.Similarly,overexpressinghAgo2,which sized protein was significantly increased in G2019S LRRK2
+was proposed to be functionally impeded by phospho-4E-BP transgenicDrosophilaheads(Figure7A),suggestinganincrease
+binding, did not attenuate cap-dependent or cap-independent inproteinsynthesisratesbyLRRK2.Inaccordancewithitsability
+reporter expression (Figure S6D). Because phosphorylation of toblockLRRK2toxicity,T136As15coexpressionabolishesthis
+4E-BPblocksitsabilitytobindtoandrepresseIF4E,itispossible increase(Figure7A).SDS-PAGEanalysisoflysatesindicatesa
+thatelevatedlevelsofeIF4Ecouldstimulatetranslationuponan bulkincreaseinmanyproteinsacrossalargerangeofmolecular
+increase in phospho-4E-BP (Imai et al., 2008). However, while weightsbyG2019SLRRK2(Figure7B).Assessmentofhouse-
+4E-BP overexpression was previously reported to rescue loss keeping gene mRNAs undergoing translation in monosome
+of dopamine neurons observed in flies expressing pathogenic and polysome fractions from fly heads reveals that G2019S
+dLRRK variants (Imai et al., 2008), it did not reduce G2019S LRRK2expression leadsto anenrichmentof mRNAsin heavy
+LRRK2-mediated reporter expression in cells (Figure S6D). polysome fractions, an effect which is attenuated by T136A
+Moreover, we did not detect an increase in phospho-4E-BP1 s15(Figure7C).Thisincreaseindensityofribosomesassociated
+levelsfollowingG2019SLRRK2expressionincells(FigureS6E) withmRNA indicates that LRRK2 stimulates mRNA translation
+orG2019SLRRK2transgenicflyheads(FigureS6F),consistent and that an increased rate of protein synthesis underlies the
+withother subsequent studies (Kumar et al.,2010; Trancikova augmentedproteinlevelsobservedvia35S-methionine/cysteine
+etal.,2012)thatfailedtofindanincreasein4E-BP1phosphory- labeling. Increased ribosomal density typically indicates an
+lationinmammaliancellsexp
+
+Chunk 17:
+mulates mRNA translation
+orG2019SLRRK2transgenicflyheads(FigureS6F),consistent and that an increased rate of protein synthesis underlies the
+withother subsequent studies (Kumar et al.,2010; Trancikova augmentedproteinlevelsobservedvia35S-methionine/cysteine
+etal.,2012)thatfailedtofindanincreasein4E-BP1phosphory- labeling. Increased ribosomal density typically indicates an
+lationinmammaliancellsexpressingpathogenicLRRK2variants increaseintranslationinitiation,butcouldtheoreticallysignala
+or LRRK2 transgenic mouse brain. Additionally, an increase in slowerrateofribosomalelongationorreleaseupontermination.
+4E-BP phosphorylation would not account for an increase Reducedelongation/terminationratesarenotconsistentwithan
+in cap-independent translation because neither eIF4E nor increaseinproteinproduction,however,andG2019SLRRK2did
+4E-BP1 are known to be involved in this mode of translation. not affect rates of ribosomal runoff following treatment of
+Finally,partiallossofeIF4Eexpressiondidnotblockneurode- cellswithharringtonine,adrugthatpreventstranslocationofri-
+generative phenotypes (age-related loss of dopamine neurons bosomesengagedininitiationbutnotelongation(FiguresS7A–
+and locomotor deficits) observed in aged G2019S transgenic S7D). Hence, these data are consistent with an effect of
+flies(FiguresS6G–S6I).Collectively,theseresultssuggestthat LRRK2oninitiation,therate-limitingstepintranslation.Toinde-
+miRNA pathway impairment or elevated free eIF4E levels via pendentlytestwhetherabulkincreaseinproteinsynthesisun-
+4E-BP1phosphorylationdoesnotplayamajorroleinLRRK2- derliesG2019SLRRK2toxicity,fliesweretreatedwiththeglobal
+inducedtranslation. proteinsynthesisinhibitoranisomycin.Chroniclow-doseaniso-
+Reporter expression in human ES cell-derived cortical mycintreatmentthroughoutadulthoodrescuedlocomotordefi-
+neurons is stimulated in G2019S LRRK2-expressing neurons cits and dopamine neuron loss in aged G2019S LRRK2 trans-
+and this is blocked by T136A s15 coexpression (Figure 6
+
+Chunk 18:
+RRK2toxicity,fliesweretreatedwiththeglobal
+inducedtranslation. proteinsynthesisinhibitoranisomycin.Chroniclow-doseaniso-
+Reporter expression in human ES cell-derived cortical mycintreatmentthroughoutadulthoodrescuedlocomotordefi-
+neurons is stimulated in G2019S LRRK2-expressing neurons cits and dopamine neuron loss in aged G2019S LRRK2 trans-
+and this is blocked by T136A s15 coexpression (Figure 6E). genicDrosophila,whereasnoeffectsofthedrugwereseenin
+If the stimulatory effect of G2019S LRRK2 on translation controlflies(Figures7Dand7E).Anisomycintreatmentdidnot
+underlies its neuronal toxicity, then it might be expected that affectLRRK2expressionlevels(FigureS7E)ors15phosphoryla-
+reporter-positiveneuronswouldexhibitdisproportionatelyhigh tion (Figure S7F) but did reduce the increase in translation
+levels of toxicity. Indices of translation-linked neuronal injury observed in G2019S LRRK2 transgenic flies (Figure S7G). The
+and translation-linked cell death in reporter-positive neurons rescue effect of anisomycin supports our conclusion that
+indicate that cell injury and death are coupled to increases in elevated bulk protein synthesis underlies G2019S LRRK2
+translation(Figure6E).G2019SLRRK2stimulatesreportertrans- toxicity.
+lationandincreasesbothtoxicityindicesby(cid:1)3-foldcompared
+tokinase-deadG2019S/D1994ALRRK2inhumancorticalneu- DISCUSSION
+rons(Figure6E).ThiseffectisblockedbyT136As15coexpres-
+sion.Comparisonofreporter-positiveneuronswithneighboring Themajorfindingfromthisstudyistheidentification,viaascreen
+reporter-negativeneuronsreveals5-foldhigherlevelsofneurite for LRRK2 kinase substrates, of s15as a novel in vivoLRRK2
+toxicity in reporter-positive neurons and a similar difference in substrate that underlies PD-related phenotypes in Drosophila
+levels of cell death under all conditions, further suggesting a and directly links LRRK2 toxicity to altered mRNA translation.
+link between translation stimulation and LRRK2 toxicity (Fig- Screening for LRRK2-interacting 
+
+Chunk 19:
+K2 kinase substrates, of s15as a novel in vivoLRRK2
+toxicity in reporter-positive neurons and a similar difference in substrate that underlies PD-related phenotypes in Drosophila
+levels of cell death under all conditions, further suggesting a and directly links LRRK2 toxicity to altered mRNA translation.
+link between translation stimulation and LRRK2 toxicity (Fig- Screening for LRRK2-interacting proteins revealed numerous
+Cell157,472–485,April10,2014ª2014ElsevierInc. 479
+
+---PAGE BREAK---
+
+(legendonnextpage)
+480 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+ribosomalproteins andled to thediscovery thatLRRK2isen- tively dampening the kinase activity of wild-type LRRK2 (Sen
+riched in the ribosomal subcellular fraction. Further screening etal.,2009;Webberetal.,2011).Whileweobserveanincrease
+of all ribosomal proteins as candidate LRRK2 substrates re- inP-s15andrescueeffectofT136As15forthekinasedomain
+vealed that s15 is a strong LRRK2 substrate, which although mutantsG2019SandI2020TLRRK2,R1441CLRRK2doesnot
+not identified in the original screen, interacts directly with showsimilarphenotypes,suggestingthatalternativepathogenic
+LRRK2incoimmunoprecipitationstudies.Invitrophosphoryla- mechanisms leading to PD may result from this mutation,
+tion assays indicate that wild-type LRRK2 phosphorylates a possibly involving other pathogenic substrates or perhaps
+number of ribosomal proteins, of which s15 phosphorylation even kinase-independent pathways. Future detailed studies
+transduces LRRK2-related toxicity and regulation of cap- arenecessarytounderstandtheconsequencesofROCdomain
+dependentandcap-independenttranslation.s15fulfillsseveral mutationsonLRRK2functionandneurotoxicity.
+criteriaasasubstrateforLRRK2includingenhancedphosphor- StudiesinDrosophilamodelsofLRRK2toxicitysuggestthat
+ylationinLRRK2transgenicDrosophilabrainandhumanbrain LRRK2mutantswithincreasedkinaseactivitycanstimulate4E-
+expressingthecommonG2019SmutationandinHEK293cells BP1 phosphorylation and
+
+Chunk 20:
+ofROCdomain
+dependentandcap-independenttranslation.s15fulfillsseveral mutationsonLRRK2functionandneurotoxicity.
+criteriaasasubstrateforLRRK2includingenhancedphosphor- StudiesinDrosophilamodelsofLRRK2toxicitysuggestthat
+ylationinLRRK2transgenicDrosophilabrainandhumanbrain LRRK2mutantswithincreasedkinaseactivitycanstimulate4E-
+expressingthecommonG2019SmutationandinHEK293cells BP1 phosphorylation and expression of transcription factors
+expressingG2019SLRRK2,whereitisblockedbytwospecific e2f1 and dp through unclear mechanisms possibly involving
+and unrelated LRRK2 kinase inhibitors. Moreover, s15 phos- elevated levels of free eIF4E or perturbed miRNA function
+phorylationissignificantlyreducedinfliesnullfortheDrosophila (Gehrke et al., 2010; Imai et al., 2008; Tain et al., 2009). Evi-
+LRRK2 homolog, dLRRK. s15 phosphorylation is central to denceshowingthat4E-BPisadirectLRRK2substrateorthat
+G2019S LRRK2 toxicity because T136A s15 blocks G2019S 4E-BP has a role in miRNA function is lacking, however, and
+LRRK2 toxicity in human dopamine neurons and additionally importantlytherehasbeennodemonstrationthatLRRK2-medi-
+blocks neurodegeneration, locomotor deficits, and elevated atedphosphorylationof4E-BPdirectlymediatesalteredtrans-
+protein synthesis observed in a Drosophila in vivo PD model. lationofthefewmRNAsmentioned.Subsequent studieshave
+While wild-type s15 coexpression appears to provide a minor failedtodetectanincreaseinP-4E-BPincellsormousebrain
+protective effect in rat cortical neuron cultures overexpressing following increased LRRK2 kinase activity (Kumar et al.,2010;
+G2019S LRRK2 (Figure 2B), it was not protective in other Trancikovaetal.,2012).Ourdatafrominvitroreporterassays
+neuronal culture experiments or in G2019S LRRK2 transgenic andDrosophilasuggestthatG2019SLRRK2actuallypromotes
+flies,incontrasttoT136As15coexpression,whichproducesa an increase in bulk translation and provide a mechanism by
+clearandsignificantprotectiveeffectinallneuronalcultureex- which G2019S 
+
+Chunk 21:
+RRK2 (Figure 2B), it was not protective in other Trancikovaetal.,2012).Ourdatafrominvitroreporterassays
+neuronal culture experiments or in G2019S LRRK2 transgenic andDrosophilasuggestthatG2019SLRRK2actuallypromotes
+flies,incontrasttoT136As15coexpression,whichproducesa an increase in bulk translation and provide a mechanism by
+clearandsignificantprotectiveeffectinallneuronalcultureex- which G2019S LRRK2 directly stimulates cap-dependent and
+periments and Drosophila neurodegenerative phenotypes cap-independent translation at the ribosomal level through
+examined.Itispossiblethatthesmallprotectiveeffectseenin phosphorylation of s15. Our results also indicate that patho-
+ratcorticalneuronsmayberelatedtoaminorcompetitiveeffect genic LRRK2 does not cause a systematic effect on either
+ofextracytosolics15thatmightreducephosphorylationofs15 mode of translation via 4E-BP phosphorylation or disruption
+byLRRK2directlyattheribosomeinthiscontext.Informatively, ofthemiRNApathway.Thus,theobservationthatoverexpres-
+wild-type LRRK2 overexpression in Drosophila causes a slight sionof4E-BPorreductionindLRRKlevelscanbeprotectivein
+increase in s15 phosphorylation and, as observed in previous Drosophila models of PINK1 and Parkin pathology may be
+studies(Liuetal.,2008),leadstoamodesteffectonlocomotion accounted for by a potential for modulated 4E-BP expression
+anddopamineneuronviability,whicharemorepronouncedwith to dampen aberrant protein production as opposed to direct
+G2019S LRRK2 expression. This supports a well-established interference with LRRK2 substrate phosphorylation-mediated
+linkbetweenLRRK2kinaseactivityandneurotoxicityandsug- signaling(Tainetal.,2009).Consistentwiththisnotionareour
+geststhatwild-typeLRRK2overexpressioncouldintheoryresult observations that the global protein synthesis inhibitor aniso-
+inpathologyifexpressedathighenoughlevels.Consistentwith mycin rescues the locomotor deficits and dopamine neuron
+this, elevated wild-type LRRK2 overexpression in neuronal loss in 
+
+Chunk 22:
+LRRK2kinaseactivityandneurotoxicityandsug- signaling(Tainetal.,2009).Consistentwiththisnotionareour
+geststhatwild-typeLRRK2overexpressioncouldintheoryresult observations that the global protein synthesis inhibitor aniso-
+inpathologyifexpressedathighenoughlevels.Consistentwith mycin rescues the locomotor deficits and dopamine neuron
+this, elevated wild-type LRRK2 overexpression in neuronal loss in aged G2019S LRRK2 transgenic Drosophila. Further
+cultures results in slightly increased s15 phosphorylation and studies investigating a possible role of altered translation
+neuronal toxicity, but not to the extent observed with G2019S following other genetic mutations linked to PD are warranted
+LRRK2 expression, suggesting, as previously reported, that bythisfinding.
+additional mechanisms may differentially regulate the kinase Defects in translational regulation underlie a number of
+activitiesofwild-typeandmutantformsofLRRK2invivo,effec- inherited diseases. These diseases exhibit a high degree of
+Figure6. G2019SLRRK2StimulatesCap-DependentandCap-IndependentTranslation
+(A)BicistronicreporterassayforassessingeffectsofLRRK2oncap-dependentandcap-independenttranslation.
+(B) G2019S LRRK2 stimulates cap-dependent (FLAG-GFP) and cap-independent (c-Myc-GFP) bicistronic reporter translation in human neuroblastoma
+(SH-SY5Y)cells(individualtwo-wayANOVA,effectofLRRK2dose,p%0.0075,andgenotype,p<0.002,n=3),inakinase-dependentmannerversus
+G2019S/D1994A(GS/DA)(Bonferroniposttests,*p<0.05,**p<0.01,***p<0.001,****p<0.0001,n=3).
+(C)V5s15stimulatescap-dependentandcap-independentreportertranslationwhichisreducedbyT136AandpotentiatedbyT136Dmutations(individual
+two-wayANOVA,effectofs15variant,p%0.0073,effectofdose,p%0.0099,n=3).
+(D) G2019S LRRK2-stimulated cap-dependent (c.d.) and cap-independent (c.i.) reporter translation is attenuated by V5-T136A s15 (individual ANOVA,
+p%0.0014,Bonferroniposttest,*p<0.05,**p<0.01,n=8)whilebicistronicreportermRNAwasnotsignificantlydifferent(ANOVA,ns,n=8).
+(E)Inh
+
+Chunk 23:
+isreducedbyT136AandpotentiatedbyT136Dmutations(individual
+two-wayANOVA,effectofs15variant,p%0.0073,effectofdose,p%0.0099,n=3).
+(D) G2019S LRRK2-stimulated cap-dependent (c.d.) and cap-independent (c.i.) reporter translation is attenuated by V5-T136A s15 (individual ANOVA,
+p%0.0014,Bonferroniposttest,*p<0.05,**p<0.01,n=8)whilebicistronicreportermRNAwasnotsignificantlydifferent(ANOVA,ns,n=8).
+(E)Inhumancorticalneurons,G2019SLRRK2-stimulatedreporterexpression,toxicity,andcelldeatharerescuedbyT136As15coexpression(individual
+ANOVA,Bonferroniposttest,*p<0.05,***p<0.001,n=4).Scalebarsrepresent25mM.Dataaremean±SEM.
+SeealsoFigureS6.
+Cell157,472–485,April10,2014ª2014ElsevierInc. 481
+
+---PAGE BREAK---
+
+Figure7. ElevatedProteinSynthesisinG2019SLRRK2TransgenicFliesIsBlockedbyT136As15
+(A)Denovoproteinsynthesis,measuredby35S-met/cysincorporationissignificantlyincreasedinproteinprecipitatesfromG2019SLRRK2transgenicflyheads,
+whichisblockedbyT136As15coexpression(*p<0.05,n=5groupsof50heads/genotype).GenotypesareDa-Gal4alone(Control),Da-Gal4;UAS-LRRK2(WT),
+Da-Gal4/UAS-G2019S/D1994ALRRK2(GS/DA),Da-Gal4;UAS-G2019SLRRK2(G2019S),Da-Gal4/UAS-T136As15;UAS-G2019SLRRK2(GS+TAs15).
+(B)Autoradiographyfromlysatesrevealsawidespreadincreasein35S-met/cys-labeledproteinabundance.Ponceaustainingfortotalprotein.
+(C)FractionscollectedfromflyheadpolysomeprofilesandusedforRT-PCRoftranslatingmRNAindicatesaG2019SLRRK2-mediatedshiftintubulinandactin
+5Ctoheavypolysomefractions,preventedbyT136As15(two-wayANOVA,Bonferroniposttest,*p<0.05,**p<0.01,***p<0.001,n=3groupsof100flyheads/
+genotype).
+(D)ConfocalzstackprojectionimagesandquantitationofdopamineneuronsinDrosophilabrains.Anisomycin(10mM)treatmenttofoodthroughoutadulthood
+rescueddopamineneuronlossinagedG2019Stransgenicflies(individualANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=8–10flyheadspergenotype).
+(E)Anisomycintreatmentpreventedage-relatedlocomotordeficitsinG2019Sflies(ANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=25fliespergenotype).
+Genotypesfor(D)and(E)a
+
+Chunk 24:
+magesandquantitationofdopamineneuronsinDrosophilabrains.Anisomycin(10mM)treatmenttofoodthroughoutadulthood
+rescueddopamineneuronlossinagedG2019Stransgenicflies(individualANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=8–10flyheadspergenotype).
+(E)Anisomycintreatmentpreventedage-relatedlocomotordeficitsinG2019Sflies(ANOVA,Bonferroniposttest,*p<0.05,**p<0.01,n=25fliespergenotype).
+Genotypesfor(D)and(E)areasin(A).Dataaremean±SEM.
+SeealsoFigureS7.
+heterogeneitydespitethefactthatproteinsynthesisisafunda- hasbeenidentifiedasafundamentalmechanismdrivingprion
+mentalprocessofallcells(Scheperetal.,2007).Inthenervous diseaseneurodegeneration(Morenoetal.,2012)andperturbed
+system,excessiveproteinsynthesishaslongbeenimplicatedin RNA metabolism through mutations in RNA binding proteins
+the development of Fragile X syndrome (reviewed in [Bhakar such as TAR DNA binding protein-43 (TDP-43) and fused in
+et al., 2012]). More recently, systematically altered translation sarcoma/translocated in sarcoma (FUS/TLS) has been
+482 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+implicatedinthepathogenesisofamyotrophiclateralsclerosis overexpressed s15 was assessed from whole lysates extracted using 1%
+and frontotemporal dementia (Lagier-Tourenne et al., 2012; NP-40 lysis buffer and separated by SDS-PAGE for immunoblotting. In
+Polymenidou et al., 2011; Tollervey et al., 2011). Thus, homogenizedheadsofLRRK2transgenicordLRRKnullflies,phosphoryla-
+tionofendogenouss15wasassessedinribosomalfractionsthatwereisolated
+loss of translational control is emerging as an important
+essentially as described before (Belin et al., 2010) with the addition of
+mediator of diverse neurologic diseases. A molecular under-
+phosphataseinhibitorstotheextractionbuffer.
+standingofhowaberrantproteinsynthesisleadstoneurodegen-
+erationinthesediseaseswillbeanimportantfuturepriority. DrosophilaDopamineNeuronImmunohistochemistry
+In summary, these findings support a role for dysregulated andLocomotorFunction
+translat
+
+Chunk 25:
+ed before (Belin et al., 2010) with the addition of
+mediator of diverse neurologic diseases. A molecular under-
+phosphataseinhibitorstotheextractionbuffer.
+standingofhowaberrantproteinsynthesisleadstoneurodegen-
+erationinthesediseaseswillbeanimportantfuturepriority. DrosophilaDopamineNeuronImmunohistochemistry
+In summary, these findings support a role for dysregulated andLocomotorFunction
+translationinthepathogenesisofPD.Consistentwiththisnotion Dopamine neuron immunohistochemistry and negative geotaxis assess-
+istherecentobservationthatmutationsinthetranslationinitia- mentoflocomotorfunctionwereperformedasdescribedinSupplemental
+Information.
+tion factor eIF4G1 cause autosomal dominant PD (Chartier-
+Harlinetal.,2011;Nuytemansetal.,2013).Whethermutations
+DeNovoProteinSynthesisandmRNAPolysomeProfilingin
+inLRRK2andeIF4G1convergeoncommonoroverlappingpath- Drosophila
+ogenic outputs are under detailed investigation. As mentioned For protein synthesis measurement, 35S-methionine/cysteine (100 mCi/ml)
+above, elevated or impaired translation has been identified as incorporationintofliesfedwithlabeledfoodfor24hrwasassessedbyliquid
+a causative factor in numerous neurological diseases and scintillation counting and expressed relative to total protein amount.
+emphasizestheimportanceofproteinhomeostasisinneuronal Polysomeswereisolatedfromflyheadsviasucrosegradientcentrifugation
+and fractionated for RNA extraction, cDNA synthesis and real-time PCR
+function. Thus, further understanding the role of translation in
+measurementofgenesrelativetoaspike-inluciferasesyntheticRNAadded
+the degenerative process of PD will provide new targets for
+priortoRNAextractionaspreviouslydescribed(Thoreenetal.,2012).See
+diseasemodificationinPD.
+SupplementalInformationforfulldetails.
+EXPERIMENTALPROCEDURES StatisticalAnalyses
+Allstatisticalanalyses,includingStudent’sttests,ANOVA,andassociated
+LRRK2TandemAffinityPurification BonferroniposttestswereperformedusingGraphPadPrismsoftware.
+LRRK2-interacting pho
+
+Chunk 26:
+ive process of PD will provide new targets for
+priortoRNAextractionaspreviouslydescribed(Thoreenetal.,2012).See
+diseasemodificationinPD.
+SupplementalInformationforfulldetails.
+EXPERIMENTALPROCEDURES StatisticalAnalyses
+Allstatisticalanalyses,includingStudent’sttests,ANOVA,andassociated
+LRRK2TandemAffinityPurification BonferroniposttestswereperformedusingGraphPadPrismsoftware.
+LRRK2-interacting phosphoproteins were identified using tandem affinity
+purificationofTAPtaggedLRRK2fromHEK293cells,IMACphosphoprotein SUPPLEMENTALINFORMATION
+enrichmentandmassspectrometryinseries.Fulldescriptionofthemethod
+isprovidedintheSupplementalInformation.
+SupplementalInformationincludesExtendedExperimentalProcedures,seven
+figures,andtwotablesandcanbefoundwiththisarticleonlineathttp://dx.doi.
+LRRK2InVitroKinaseAssays org/10.1016/j.cell.2014.01.064.
+RecombinantLRRK2(aa970–2,527)andrecombinantGST-taggedsubstrate
+candidateswereincubatedinkinaseassaybuffercontainingg-P32-ATPfor
+AUTHORCONTRIBUTIONS
+phosphorimaging-based visualization of protein phosphorylation following
+separation of the reaction mixture by SDS-PAGE. See Supplemental
+I.M.,V.L.D.,andT.M.D.formulatedthehypothesis,initiatedandorganizedthe
+Informationforfulldetails.
+study,andwrotethemanuscript.I.M.,J.W.K.,B.D.L.,H.K.,M.S.K.,J.Z.,H.J.,
+A.P.,T.M.D.,andV.L.D.designedexperimentsandanalyzeddata.I.M.,J.W.K.
+LRRK2InVitroToxicityAssays J.S.,B.D.L.,H.C.K.,J-C.X.,M.S.K.,J.Z.,M.K.,S.A.A.,andH.J.performed
+Toxicity(lossofneuritesandappearanceofTUNEL-positivenuclei)inrodent experiments.
+andhumanneuronsoverexpressingLRRK2,substrateandGFPforneurite
+tracingina10:10:1ratiowasassessedusingpreviouslydescribedmethods ACKNOWLEDGMENTS
+48hrfollowingplasmidtransfection(Leeetal.,2010;Lietal.,2010;Ramsden
+etal.,2011;Xiongetal.,2010).ThevastmajorityofGFPpositiveneurons
+The authors acknowledge the Adrienne Helis Malvin Medical Research
+((cid:1)90%) also colabeled for overexpressed LRRK2 and substrate indicating
+FoundationandtheDianaHelisHenryMedicalResearchF
+
+Chunk 27:
+ingina10:10:1ratiowasassessedusingpreviouslydescribedmethods ACKNOWLEDGMENTS
+48hrfollowingplasmidtransfection(Leeetal.,2010;Lietal.,2010;Ramsden
+etal.,2011;Xiongetal.,2010).ThevastmajorityofGFPpositiveneurons
+The authors acknowledge the Adrienne Helis Malvin Medical Research
+((cid:1)90%) also colabeled for overexpressed LRRK2 and substrate indicating
+FoundationandtheDianaHelisHenryMedicalResearchFoundationandtheir
+thattheeffectsofLRRK2ands15/s11overexpressioncouldbeassessedin
+directengagementinthecontinuousactiveconductofmedicalresearchin
+theseneurons,aspreviouslydescribed(Leeetal.,2010).SeeSupplemental
+conjunctionwithTheJohnsHopkinsHospitalandTheJohnsHopkinsUniver-
+Informationformoredetails.Researchinvolvinghumanpluripotentstemcells
+sitySchoolofMedicineandtheFoundations’Parkinson’sDiseasePrograms.
+(hPSCs)wassubjecttooversightandapprovalbytheJohnsHopkinsUniver-
+The authors acknowledge the Johns Hopkins Stem Cell Core Facility for
+sityInstitutionalStemCellResearchOversight(ISCRO)Committee.Research
+providingasubsetofthehumanneuronsusedinthisstudy.Fundingfora
+involvinganimalsubjectswassubjecttooversightandapprovalbytheJohns
+portion of the research described in this article was provided by Merck
+HopkinsUniversityAnimalCareandUseProgram.
+KGAA.UnderalicensingagreementbetweenMerckKGAAandTheJohns
+HopkinsUniversity,Dr.DawsonandtheUniversitysharedfeesreceivedby
+Generationofs15andT136As15TransgenicLines theUniversityonlicensingofsomeofthereagentsdescribedinthisarticle.
+Human s15 and T136A s15 constructs were generated by subcloning Dr.DawsonalsowasapaidconsultanttoMerckKGAA.Thetermsofthis
+full-lengthcDNAintopUASTbetweenEcoR1andXba1restrictionsites.After arrangementarebeingmanagedbyTheJohnsHopkinsUniversityinaccor-
+sequenceverification,constructsweremicroinjectedintow1118flyembryos. dancewithitsconflictofinterestpolicies.MayoClinicandDr.Wszolekhave
+Transgenic UAS-s15 and UAS-T136A s15 expression were confirmed by afinancialinterestinatechnology(LRRK2gene)referencedinthismanuscr
+
+Chunk 28:
+this
+full-lengthcDNAintopUASTbetweenEcoR1andXba1restrictionsites.After arrangementarebeingmanagedbyTheJohnsHopkinsUniversityinaccor-
+sequenceverification,constructsweremicroinjectedintow1118flyembryos. dancewithitsconflictofinterestpolicies.MayoClinicandDr.Wszolekhave
+Transgenic UAS-s15 and UAS-T136A s15 expression were confirmed by afinancialinterestinatechnology(LRRK2gene)referencedinthismanuscript.
+westernblotonflyheadsfollowingexpressiondrivenviadaughterless-Gal4 ThistechnologyhasbeenlicensedtoacommercialentityandMayoClinicand
+(FigureS5A).DetailsonadditionalflylinesusedareprovidedinSupplemental Dr.Wszolekreceiveroyaltiesfromthatlicense.Dr.Wszolek’sannualroyalties
+Information. arelessthan$200peryear.ThisworkwasalsosupportedbyNationalInsti-
+tutes of Health/National Institute of Neurological Disorders and Stroke
+Phospho-s15AssessmentinCellsandDrosophila (NIH/NINDS) P50NS038377, the JPB Foundation, and the MDSCRF
+Apolyclonalantibodytophospho-Thr136wasgeneratedandvalidatedas 2007-MSCRFI-0420-00, 2009-MSCRFII-0125-00, MDSCRF 2013-MSCRFII-
+described in the Supplemental Information. In cells, phosphorylation of 0105-00 to T.M.D. and V.L.D., NIH/NINDS P50 NS072187 to D.D. and
+Cell157,472–485,April10,2014ª2014ElsevierInc. 483
+
+---PAGE BREAK---
+
+Z.K.W.,andaNewYorkStemCellFoundation-DruckenmillerFellowshipto Luzo´n-Toro,B.,RubiodelaTorre,E.,Delgado,A.,Pe´rez-Tur,J.,andHilfiker,
+I.M.T.M.D.istheLeonardandMadlynAbramsonProfessorinNeurodegener- S. (2007). Mechanistic insight into the dominant mode of the Parkinson’s
+ativeDiseases. disease-associatedG2019SLRRK2mutation.Hum.Mol.Genet.16,2031–
+2039.
+Received:June17,2013 MacLeod,D.,Dowman,J.,Hammond,R.,Leete,T.,Inoue,K.,andAbeliovich,
+Revised:December8,2013 A.(2006).ThefamilialParkinsonismgeneLRRK2regulatesneuriteprocess
+Accepted:January23,2014 morphology.Neuron52,587–593.
+Published:April10,2014
+Martin,I.,Dawson,V.L.,andDawson,T.M.(2011).Recentadvancesinthe
+genetics of Parkinson’s disease. Annu. Rev. Genomics Hum. Genet. 12,
+REFERE
+
+Chunk 29:
+2031–
+2039.
+Received:June17,2013 MacLeod,D.,Dowman,J.,Hammond,R.,Leete,T.,Inoue,K.,andAbeliovich,
+Revised:December8,2013 A.(2006).ThefamilialParkinsonismgeneLRRK2regulatesneuriteprocess
+Accepted:January23,2014 morphology.Neuron52,587–593.
+Published:April10,2014
+Martin,I.,Dawson,V.L.,andDawson,T.M.(2011).Recentadvancesinthe
+genetics of Parkinson’s disease. Annu. Rev. Genomics Hum. Genet. 12,
+REFERENCES
+301–325.
+Anand,V.S.,Reichling,L.J.,Lipinski,K.,Stochaj,W.,Duan,W.,Kelleher,K., Matta,S.,VanKolen,K.,daCunha,R.,vandenBogaart,G.,Mandemakers,
+Pungaliya,P.,Brown,E.L.,Reinhart,P.H.,Somberg,R.,etal.(2009).Investi- W.,Miskiewicz,K.,DeBock,P.J.,Morais,V.A.,Vilain,S.,Haddad,D.,etal.
+gationofleucine-richrepeatkinase2:enzymologicalpropertiesandnovel (2012).LRRK2controlsanEndoAphosphorylationcycleinsynapticendocy-
+assays.FEBSJ.276,466–478. tosis.Neuron75,1008–1021.
+Belin,S.,Hacot,S.,Daudignon,L.,Therizols,G.,Pourpe,S.,Mertani,H.C., Moreno,J.A.,Radford,H.,Peretti,D.,Steinert,J.R.,Verity,N.,Martin,M.G.,
+Rosa-Calatrava, M., and Diaz, J.J. (2010). Purification of ribosomes from Halliday,M.,Morgan,J.,Dinsdale,D.,Ortori,C.A.,etal.(2012).Sustained
+humancelllines.Curr.Protoc.CellBiol.Chapter3,Unit3.40. translationalrepressionbyeIF2a-Pmediatesprionneurodegeneration.Nature
+485,507–511.
+Bhakar,A.L.,Do¨len,G.,andBear,M.F.(2012).ThepathophysiologyoffragileX
+(andwhatitteachesusaboutsynapses).Annu.Rev.Neurosci.35,417–443. Nuytemans, K., Bademci, G., Inchausti, V., Dressen, A., Kinnamon, D.D.,
+Mehta,A.,Wang,L.,Zu¨chner,S.,Beecham,G.W.,Martin,E.R.,etal.(2013).
+Chartier-Harlin,M.C.,Dachsel,J.C.,Vilarin˜o-Gu¨ell,C.,Lincoln,S.J.,Lepreˆtre,
+WholeexomesequencingofrarevariantsinEIF4G1andVPS35inParkinson
+F.,Hulihan,M.M.,Kachergus,J.,Milnerwood,A.J.,Tapia,L.,Song,M.S.,etal.
+disease.Neurology80,982–989.
+(2011).TranslationinitiatorEIF4G1mutationsinfamilialParkinsondisease.
+Am.J.Hum.Genet.89,398–406. Paisa´n-Ruı´z,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simo´n,J.,vanderBrug,M.,
+Lo´pezdeMunain,A.,Aparicio,S.,Gil,
+
+Chunk 30:
+o-Gu¨ell,C.,Lincoln,S.J.,Lepreˆtre,
+WholeexomesequencingofrarevariantsinEIF4G1andVPS35inParkinson
+F.,Hulihan,M.M.,Kachergus,J.,Milnerwood,A.J.,Tapia,L.,Song,M.S.,etal.
+disease.Neurology80,982–989.
+(2011).TranslationinitiatorEIF4G1mutationsinfamilialParkinsondisease.
+Am.J.Hum.Genet.89,398–406. Paisa´n-Ruı´z,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simo´n,J.,vanderBrug,M.,
+Lo´pezdeMunain,A.,Aparicio,S.,Gil,A.M.,Khan,N.,etal.(2004).Cloningof
+Cookson, M.R.(2010).The roleofleucine-rich repeatkinase2 (LRRK2) in
+thegenecontainingmutationsthatcausePARK8-linkedParkinson’sdisease.
+Parkinson’sdisease.Nat.Rev.Neurosci.11,791–797.
+Neuron44,595–600.
+Covy,J.P.,andGiasson,B.I.(2009).Identificationofcompoundsthatinhibit
+thekinaseactivityofleucine-richrepeatkinase2.Biochem.Biophys.Res. Parisiadou,L.,Xie,C.,Cho,H.J.,Lin,X.,Gu,X.L.,Long,C.X.,Lobbestael,E.,
+Commun.378,473–477. Baekelandt,V.,Taymans,J.M.,Sun,L.,andCai,H.(2009).Phosphorylationof
+ezrin/radixin/moesinproteinsbyLRRK2promotestherearrangementofactin
+Deng,X.,Dzamko,N.,Prescott,A.,Davies,P.,Liu,Q.,Yang,Q.,Lee,J.D.,
+cytoskeletoninneuronalmorphogenesis.J.Neurosci.29,13971–13980.
+Patricelli,M.P.,Nomanbhoy,T.K.,Alessi,D.R.,andGray,N.S.(2011).Charac-
+terizationofaselectiveinhibitoroftheParkinson’sdiseasekinaseLRRK2.Nat. Pisarev,A.V.,Kolupaeva,V.G.,Pisareva,V.P.,Merrick,W.C.,Hellen,C.U.,and
+Chem.Biol.7,203–205. Pestova,T.V.(2006).Specificfunctionalinteractionsofnucleotidesatkey-3
+and+4positionsflankingtheinitiationcodonwithcomponentsofthemamma-
+Gehrke,S.,Imai,Y.,Sokol,N.,andLu,B.(2010).PathogenicLRRK2negatively
+lian48Stranslationinitiationcomplex.GenesDev.20,624–636.
+regulatesmicroRNA-mediatedtranslationalrepression.Nature466,637–641.
+Polymenidou,M.,Lagier-Tourenne,C.,Hutt,K.R.,Huelga,S.C.,Moran,J.,
+Greggio,E.,Jain,S.,Kingsbury,A.,Bandopadhyay,R.,Lewis,P.,Kaganovich,
+Liang,T.Y.,Ling,S.C.,Sun,E.,Wancewicz,E.,Mazur,C.,etal.(2011).Long
+A.,vanderBrug,M.P.,Beilina,A.,Blackinton,J.,Thomas,K.J.,etal.(2006).
+pre-mRNAdepletionandRNAmissplicingcontribu
+
+Chunk 31:
+esDev.20,624–636.
+regulatesmicroRNA-mediatedtranslationalrepression.Nature466,637–641.
+Polymenidou,M.,Lagier-Tourenne,C.,Hutt,K.R.,Huelga,S.C.,Moran,J.,
+Greggio,E.,Jain,S.,Kingsbury,A.,Bandopadhyay,R.,Lewis,P.,Kaganovich,
+Liang,T.Y.,Ling,S.C.,Sun,E.,Wancewicz,E.,Mazur,C.,etal.(2011).Long
+A.,vanderBrug,M.P.,Beilina,A.,Blackinton,J.,Thomas,K.J.,etal.(2006).
+pre-mRNAdepletionandRNAmissplicingcontributetoneuronalvulnerability
+Kinase activity is required for the toxic effects of mutant LRRK2/dardarin.
+fromlossofTDP-43.Nat.Neurosci.14,459–468.
+Neurobiol.Dis.23,329–341.
+Ramsden,N.,Perrin,J.,Ren,Z.,Lee,B.D.,Zinn,N.,Dawson,V.L.,Tam,D.,
+Imai,Y.,Gehrke,S.,Wang,H.Q.,Takahashi,R.,Hasegawa,K.,Oota,E.,and
+Bova,M.,Lang,M.,Drewes,G.,etal.(2011).Chemoproteomics-baseddesign
+Lu,B.(2008).Phosphorylationof4E-BPbyLRRK2affectsthemaintenanceof
+of potent LRRK2-selective lead compounds that attenuate Parkinson’s
+dopaminergicneuronsinDrosophila.EMBOJ.27,2432–2443.
+disease-relatedtoxicityinhumanneurons.ACSChem.Biol.6,1021–1028.
+Khairulina, J., Graifer, D., Bulygin, K., Ven’yaminova, A., Frolova, L., and
+Scheper, G.C., van der Knaap, M.S., and Proud, C.G. (2007). Translation
+Karpova,G.(2010).Eukaryote-specificmotifofribosomalproteinS15neigh-
+matters:proteinsynthesisdefectsininheriteddisease.Nat.Rev.Genet.8,
+borsAsitecodonduringelongationandterminationoftranslation.Biochimie
+711–723.
+92,820–825.
+Sen,S.,Webber, P.J., andWest, A.B. (2009).Dependenceofleucine-rich
+Kumar,A.,Greggio,E.,Beilina,A.,Kaganovich,A.,Chan,D.,Taymans,J.M.,
+repeatkinase2(LRRK2)kinaseactivityondimerization.J.Biol.Chem.284,
+Wolozin,B.,andCookson,M.R.(2010).TheParkinson’sdiseaseassociated
+36346–36356.
+LRRK2 exhibits weaker in vitro phosphorylation of 4E-BP compared to
+autophosphorylation.PLoSONE5,e8730. Smith,W.W.,Pei,Z.,Jiang,H.,Dawson,V.L.,Dawson,T.M.,andRoss,C.A.
+(2006). Kinase activity of mutant LRRK2 mediates neuronal toxicity. Nat.
+Lagier-Tourenne, C., Polymenidou, M., Hutt, K.R., Vu, A.Q., Baughn, M.,
+Neurosci.9,1231–1233.
+
+Chunk 32:
+ndCookson,M.R.(2010).TheParkinson’sdiseaseassociated
+36346–36356.
+LRRK2 exhibits weaker in vitro phosphorylation of 4E-BP compared to
+autophosphorylation.PLoSONE5,e8730. Smith,W.W.,Pei,Z.,Jiang,H.,Dawson,V.L.,Dawson,T.M.,andRoss,C.A.
+(2006). Kinase activity of mutant LRRK2 mediates neuronal toxicity. Nat.
+Lagier-Tourenne, C., Polymenidou, M., Hutt, K.R., Vu, A.Q., Baughn, M.,
+Neurosci.9,1231–1233.
+Huelga,S.C.,Clutario,K.M.,Ling,S.C.,Liang,T.Y.,Mazur,C.,etal.(2012).
+DivergentrolesofALS-linkedproteinsFUS/TLSandTDP-43intersectinpro- Tain,L.S.,Mortiboys,H.,Tao,R.N.,Ziviani,E.,Bandmann,O.,andWhitworth,
+cessinglongpre-mRNAs.Nat.Neurosci.15,1488–1497. A.J.(2009).Rapamycinactivationof4E-BPpreventsparkinsoniandopami-
+Lee,B.D.,Shin,J.H.,VanKampen,J.,Petrucelli,L.,West,A.B.,Ko,H.S.,Lee, nergicneuronloss.Nat.Neurosci.12,1129–1135.
+Y.I.,Maguire-Zeiss,K.A.,Bowers,W.J.,Federoff,H.J.,etal.(2010).Inhibitors Thoreen, C.C., Chantranupong, L., Keys, H.R., Wang, T., Gray, N.S., and
+ofleucine-richrepeatkinase-2protectagainstmodelsofParkinson’sdisease. Sabatini,D.M.(2012).AunifyingmodelformTORC1-mediatedregulationof
+Nat.Med.16,998–1000. mRNAtranslation.Nature485,109–113.
+Li,X.,Moore,D.J.,Xiong,Y.,Dawson,T.M.,andDawson,V.L.(2010).Reeval- Tollervey,J.R.,Curk,T.,Rogelj,B.,Briese,M.,Cereda,M.,Kayikci,M.,Ko¨nig,
+uationofphosphorylationsitesintheParkinsondisease-associatedleucine- J.,Hortoba´gyi,T.,Nishimura,A.L.,Zupunski,V.,etal.(2011).Characterizing
+richrepeatkinase2.J.Biol.Chem.285,29569–29576. theRNAtargetsandposition-dependentsplicingregulationbyTDP-43.Nat.
+Liu,Z.,Wang,X.,Yu,Y.,Li,X.,Wang,T.,Jiang,H.,Ren,Q.,Jiao,Y.,Sawa,A., Neurosci.14,452–458.
+Moran,T.,etal.(2008).ADrosophilamodelforLRRK2-linkedparkinsonism. Trancikova,A.,Mamais,A.,Webber,P.J.,Stafa,K.,Tsika,E.,Glauser,L.,
+Proc.Natl.Acad.Sci.USA105,2693–2698. West,A.B.,Bandopadhyay,R.,andMoore,D.J.(2012).Phosphorylationof
+484 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+4E-BP1inthemammalianbrainisnotalteredbyLRRK2expre
+
+Chunk 33:
+,H.,Ren,Q.,Jiao,Y.,Sawa,A., Neurosci.14,452–458.
+Moran,T.,etal.(2008).ADrosophilamodelforLRRK2-linkedparkinsonism. Trancikova,A.,Mamais,A.,Webber,P.J.,Stafa,K.,Tsika,E.,Glauser,L.,
+Proc.Natl.Acad.Sci.USA105,2693–2698. West,A.B.,Bandopadhyay,R.,andMoore,D.J.(2012).Phosphorylationof
+484 Cell157,472–485,April10,2014ª2014ElsevierInc.
+
+---PAGE BREAK---
+
+4E-BP1inthemammalianbrainisnotalteredbyLRRK2expressionorpatho- Parkinson’s disease-associated mutations in LRRK2 link enhanced GTP-
+genicmutations.PLoSONE7,e47784. binding and kinase activities to neuronal toxicity. Hum. Mol. Genet. 16,
+Tsika,E.,andMoore,D.J.(2012).MechanismsofLRRK2-mediatedneurode- 223–232.
+generation.Curr.Neurol.Neurosci.Rep.12,251–260. Xiong,Y.,Coombes,C.E.,Kilaru,A.,Li,X.,Gitler,A.D.,Bowers,W.J.,Dawson,
+Webber,P.J.,Smith,A.D.,Sen,S.,Renfrow,M.B.,Mobley,J.A.,andWest, V.L.,Dawson,T.M.,andMoore,D.J.(2010).GTPaseactivityplaysakeyrolein
+A.B.(2011).Autophosphorylationintheleucine-richrepeatkinase2(LRRK2) thepathobiologyofLRRK2.PLoSGenet.6,e1000902.
+GTPase domain modifies kinase and GTP-binding activities. J. Mol. Biol. Zimprich, A., Biskup, S., Leitner, P., Lichtner, P., Farrer, M., Lincoln, S.,
+412,94–110. Kachergus,J.,Hulihan,M.,Uitti,R.J.,Calne,D.B.,etal.(2004).Mutations
+West,A.B.,Moore,D.J.,Choi,C.,Andrabi,S.A.,Li,X.,Dikeman,D.,Biskup, in LRRK2 cause autosomal-dominant parkinsonism with pleomorphic
+S., Zhang, Z., Lim, K.L., Dawson, V.L., and Dawson, T.M. (2007). pathology.Neuron44,601–607.
+Cell157,472–485,April10,2014ª2014ElsevierInc. 485
+
+---PAGE BREAK---
+
+
+

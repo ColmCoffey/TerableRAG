@@ -1,0 +1,858 @@
+fnins-15-646518 March2,2021 Time:17:46 #1
+REVIEW
+published:08March2021
+doi:10.3389/fnins.2021.646518
+Roles of Selenoproteins in Brain
+Function and the Potential
+Mechanism of Selenium in
+Alzheimer’s Disease
+Zhong-HaoZhang1,2 andGuo-LiSong1,2,3*
+1ShenzhenKeyLaboratoryofMarineBioresourcesandEcology,CollegeofLifeSciencesandOceanography,Shenzhen
+University,Shenzhen,China,2ShenzhenBayLaboratory,Shenzhen,China,3Shenzhen-HongKongInstituteofBrain
+Science-ShenzhenFundamentalResearchInstitutions,Shenzhen,China
+Selenium (Se) and its compounds have been reported to have great potential in the
+preventionandtreatmentofAlzheimer’sdisease(AD).However,littleisknownaboutthe
+functional mechanism of Se in these processes, limiting its further clinical application.
+Seexertsitsbiologicalfunctionsmainlythroughselenoproteins,whichplayvitalrolesin
+maintaining optimal brain function. Therefore, selenoproteins, especially brain function-
+associatedselenoproteins,maybeinvolvedinthepathogenesisofAD.Here,weanalyze
+the expression and distribution of 25 selenoproteins in the brain and summarize the
+Editedby:
+relationships between selenoproteins and brain function by reviewing recent literature
+MatthewWilliamPitts,
+TheUniversityofHawai‘iatMa¯noa, and information contained in relevant databases to identify selenoproteins (GPX4,
+UnitedStates
+SELENOP, SELENOK, SELENOT, GPX1, SELENOM, SELENOS, and SELENOW) that
+Reviewedby:
+are highly expressed specifically in AD-related brain regions and closely associated
+NikolaySolovyev,
+InstituteofTechnologySligo,Ireland with brain function. Finally, the potential functions of these selenoproteins in AD are
+UlrichE.M.Schweizer, discussed, for example, the function of GPX4 in ferroptosis and the effects of the
+UniversityofBonn,Germany
+endoplasmic reticulum (ER)-resident protein SELENOK on Ca2+ homeostasis and
+*Correspondence:
+receptor-mediated synaptic functions. This review discusses selenoproteins that are
+Guo-LiSong
+lilys@szu.edu.cn closely associated with brain function and the relevant pathways of their involvement
+inADpathologytoprovidenewdirectionsforresearchonthemechanismofSeinAD.
+Specialtysection:
+Thisarticlewassubmittedto Keywords:selenoprotein,neurotransmission,brainfunction,Alzheimer’sdisease,Ca2+homeostasis
+Neuroenergetics,NutritionandBrain
+Health,
+asectionofthejournal INTRODUCTION
+FrontiersinNeuroscience
+Received:27December2020 Overthepastdecades,selenium(Se)anditscompoundshavemainlybeenthefocusofresearch
+Accepted:16February2021 onregulationofdevelopmentandtheimmunesystemandonantitumorpropertiesduetotheir
+Published:08March2021
+strongantioxidantactivities(Rayman,2000;Schomburg,2016).Nutritionaldatashowthatunder
+Citation: normaldietconditions,theSelevelishighestinthekidney,followedbytheliver,spleen,pancreas,
+ZhangZ-HandSongG-L(2021) heart, and brain (Chen and Berry, 2003). However, when Se uptake is insufficient, this ranking
+RolesofSelenoproteinsinBrain
+changesaccordingtothepriorityorderofdifferentorgansforSe.Amongorgans,thebrainretains
+FunctionandthePotential
+Se the longest (Burk et al., 1972; Brown and Burk, 1973), indicating the importance of Se in
+MechanismofSeleniuminAlzheimer’s
+Disease.Front.Neurosci.15:646518. themaintenanceofphysiologicalfunctioninthecentralnervoussystem(CNS).Epidemiological
+doi:10.3389/fnins.2021.646518 surveys show a significant positive correlation between the Se level and cognitive ability—i.e., a
+FrontiersinNeuroscience|www.frontiersin.org 1 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #2
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+dose-response effect (Gao et al., 2007)—and that the blood Se and GPX6) exhibit different tissue-specific expression patterns
+levelgraduallydecreaseswithage(Berretal.,1993).Furthermore, andsubcellularlocalization(Brigelius-Flohe,1999).Thioredoxin
+Selevelschangesignificantlyinthebrainandbloodofpatients reductases (TrxRs) (TXNRD1, TXNRD2, and TXNRD3) are
+with various neurodegenerative diseases [such as Alzheimer’s other antioxidases that contribute not only to the antioxidant
+disease (AD), Parkinson’s disease (PD), multiple sclerosis, and system but also to cell proliferation and apoptosis (Mustacich
+Batten’s disease] (Chen and Berry, 2003). Therefore, the role of andPowis,2000).Thyroidhormonedeiodinases(DIOs)(DIO1,
+Seinthebrainandinneurodegenerativediseaseshasgradually DIO2, and DIO3) participate in T3 and T4 production and
+becomearesearchhotspot. regulatethyroidhormoneactivities(Kohrle,2000).Methionine-
+AD is an age-related neurodegenerative disease with a sulfoxide-reductase 1 (MSRB1), also called SELENOR, is
+very high prevalence among elderly people. The Se level in responsible mainly for repairing methionine-oxidized proteins.
+AD patients and carriers of the apolipoprotein E (ApoE4) Interestingly, selenophosphate synthetase 2 (SEPHS2) (an
+allele (a high risk factor for sporadic AD) is significantly enzyme involved in selenocysteine (Sec) biosynthesis) is also
+decreased (Cardoso et al., 2010), suggesting that Se deficiency a selenoprotein. As a plasma Se transport protein, SELENOP
+is associated with AD. Senile plaques generated by β-amyloid also exhibits lipid hydroperoxide reductase activity (Saito,
+(Aβ)depositionandneurofibrillarytangles(NFTs)formedbytau 2020).SELENOK,SELENOM,SELENOF,SELENOS,SELENOT,
+hyperphosphorylation in the brain are two major pathological DIO2,andSELENONareendoplasmicreticulum(ER)-resident
+features of AD. Early studies showed that Se supplementation selenoproteins and participate mainly in the regulation of
+inSH-SY5Ycellsexpressingamutantamyloidprecursorprotein physiological processes, including Ca2+ flux, protein folding,
+(APP)genereducedlipidperoxidationproductlevels,inhibited and ER stress (Pitts and Hoffmann, 2018). SELENOO, the
+β-secretase1(BACE1),andγ-secretaseactivity,andreducedAβ largest mammalian selenoprotein, possesses a protein kinase-
+aggregation (Gwon et al., 2010). Sodium selenate, an inorganic like domain and may have a function in oxidative stress
+Se compound, was once considered a useless Se compound response (Lenart and Pawlowski, 2013). Sporadic reports
+because of its low bioavailability (Daniels, 1996). Interestingly, have addressed other selenoproteins (SELENOW, SELENOH,
+van Eersel et al. (2010) and Jin et al. (2017) used transgenic SELENOI, SELENOU, and SELENOV), which still lack clear
+animalmodelsofADtoshowthatsodiumselenatereducedtau recognitionexceptfortheirantioxidantfunction.
+protein phosphorylation and ameliorated cognitive impairment Biochemical and bioinformatic analyses have shown that
+inADmicebyregulatingtheactivityofproteinphosphatase2A most selenoproteins are expressed in the brain (Zhang et al.,
+(PP2A) (Ishrat et al., 2009; Lovell et al., 2009; Corcoran et al., 2008) and that some selenoproteins are closely associated with
+2010;vanEerseletal.,2010;Jinetal.,2017),whichundoubtedly brain function. The tRNA[Ser]Sec (Trsp) gene is required for
+promotedresearchregardingSeinADpreventionandtreatment. the expression of all functional selenoproteins. Neuron-specific
+Organic Se has attracted attention due to its advantages, Trsp-knockoutmicehadsignificantlydecreasedexpressionlevels
+including its enhanced biological activity, decreased toxicity, of selenoproteins in the brain and showed delayed growth,
+and diminished environmental pollution concern compared to loss of balance, and extensive neuronal degeneration (Wirth
+inorganicSe.ManyorganicSecompoundshavebeenshownto et al., 2010). Additionally,
+Selenop−/−
+mice exhibited many
+havetherapeuticeffectsinADmicemodels(Xieetal.,2017,2018; featuresofneurologicaldysfunction(Hilletal.,2004;Schweizer
+Zhang et al., 2017a, 2018). Through a series of studies, Zhang etal.,2005).GPX4-regulatedferroptosiscaninduceprogressive
+et al. showed that selenomethionine enhanced the antioxidant cognitive impairment and hippocampal neurodegeneration in
+capacity, mitigated Aβ and tau pathology, reversed synaptic mice (Hambright et al., 2017). Thus, these brain function-
+deficits, and ameliorated cognitive decline in AD mice (Song related selenoproteins may be involved in the occurrence and
+et al., 2014; Zhang et al., 2016, 2017a, 2018), demonstrating development of AD. However, the selenoproteins involved and
+the multitarget effect of Se in AD treatment. Furthermore, theirrolesintheseprocessesremainunclear.Thisreviewanalyzes
+impaired autophagy (Zhang et al., 2017b,c; Song et al., 2018) the expression and distribution of selenoproteins in the brain,
+andmitochondrialdysfunction(Balabanetal.,2017)havebeen assesses the associations between various selenoproteins and
+shown to be the targets of Se compounds in AD. However, the brain function and the potential of these selenoproteins in
+in-depth mechanisms of Se in AD prevention and treatment AD research, and discusses the roles of these selenoproteins
+remain unclear, and this lack of knowledge is a major factor inADpathology.
+limitingfurtherclinicalapplicationofSeinADandareasonable
+explanationfortheunsuccessfulrandomizedclinicaltrialofSein
+Expression and Distribution of
+theADstudyofKryscioetal.(2017),whichwasbasedontheSe
+Selenoproteins in the Brain
+andvitaminECancerPreventionTrial.
+ThoughthereareseveralSeutilizationpathwaysinthebody, Insertion of UGA-encoded Sec into a translating selenoprotein
+selenoprotein synthesis is the main means by which Se exerts polypeptide is a complex and sophisticated protein translation
+numerous biological functions. Currently, genes encoding 25 process controlled synergistically by multiple regulatory factors
+selenoproteinshavebeenidentifiedinhumangenomicsequences (Bulteau and Chavatte, 2015). Differential expression levels of
+(Kryukov et al., 2003). Glutathione peroxidase (GPX) was the selenoproteins in tissues and organs are directly associated
+firstidentifiedselenoproteinandparticipatesinredoxreactions. with the biological functions of selenoproteins. The current
+Se-containing GPX isozymes (GPX1, GPX2, GPX3, GPX4, data regarding the differential expression levels of various
+FrontiersinNeuroscience|www.frontiersin.org 2 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #3
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+selenoproteins in the brain originated from the bioinformatic in the brain. SELENOP is highly expressed in the brain
+studies conducted by Zhang et al. (2008). The transcripts due to its Se transport function. Among all selenoproteins,
+of 24 selenoproteins are expressed in the mouse brain. The SELENOW exhibits the highest expression level in the brain;
+expression levels of GPX4, SELENOK, SELENOM, SELENOW, however,thisexpressionprofileisnotconsistentwiththecurrent
+and SELENOF in the brain are higher than those of other understandingofitsbiologicalfunctionsinthebrain.SELENOIis
+selenoproteins, and GPX4, SELENOP, and SELENOW are anotherselenoproteinthathasonlyrecentlybeguntobestudied
+expressed at high levels in more than 90% of brain regions. and may perform certain physiological functions because of its
+A recent gene transcriptomic analysis (Fagerberg et al., 2014) expressioninthebrain.
+ranked the expression levels of 25 selenoproteins in the Furthermore, differences in the spatial expression levels of
+human brain (Figure 1). Among all selenoproteins, 6 (GPX3, selenoproteins also determine their physiological functions in
+DIO3, GPX2, DIO1, SELENOV, and GPX6) were confirmed the brain (Zhang et al., 2008). The spatial expression profile
+to have very low or no expression in the human brain. data of selenoproteins in the human brain are incomplete.
+SELENOW, GPX4, SELENOP, SELENOF, and SELENOK have Zhang et al. (2008) thoroughly analyzed in situ hybridization
+the five highest expression levels, and this pattern is basically data and the expression profiles of more than 210,000
+consistent with that observed in the mouse brain (Zhang genes in a genome-wide expression database of the brain
+et al., 2008). The next most highly expressed selenoproteins, in of adult mice in the previously published Allen Brain Atlas
+decreasing order, are SELENOT, SELENOH, GPX1, TXNRD1, (ABA) and showed that brain selenoproteins are enriched
+SELENON, SELENOS, SEPHS2, SELENOI, and SELENOM. mainly in the hippocampus, olfactory bulb, neocortex, and
+Six ER-resident selenoproteins (except for DIO2), especially cerebellar cortex; the expression levels of GPX4, SELENOW,
+SELENOF,SELENOK,andSELENOT,areexpressedatrelatively and SELENOF are highest in these four regions (Zhang et al.,
+high levels in the brain. In addition, the selenoenzymes GPX4, 2008). Except for SELENOP, all selenoprotein genes with high
+GPX1, TXNRD1, and SEPHS2 are expressed at high levels expressionlevelsinthebrainhaveatleastmoderateexpression
+levels in the hippocampal region. The oculomotor nucleus,
+Edinger-Westphal nucleus, nucleus raphe pontis, anteroventral
+periventricularnucleus,anddorsalpremammillarynucleushave
+the lowest expression levels of selenoproteins, indicating that
+theseregionsmightbelessdependentonselenoproteinsandSe
+(Zhangetal.,2008).
+Selenoproteins and Brain Function
+BrainandNeuralDevelopment
+The importance of Se in brain development was confirmed
+in
+Selenop−/−
+mice (Schomburg et al., 2003). In a low-
+Se environment, newborn
+Selenop−/−
+mice exhibit severe
+hypoplasia and death (Hill et al., 2004; Schweizer et al., 2005).
+However, after overexpression of SELENOP in hepatocytes, the
+above neuropathological features were reversed when the mice
+were fed a Se-adequate diet (Renko et al., 2008). GPX4 and
+SELENOTarealsoindispensableforneuraldevelopmentinmice.
+GPX4geneknockoutinducesembryoniclethality,andmicewith
+conditional GPX4 knockout exhibit massive neurodegeneration
+before weaning (Seiler et al., 2008), which might be associated
+with selective loss of parvalbumin (PV) interneurons in mouse
+hippocampalandcorticalregions(Wirthetal.,2010).Although
+GPX1 gene knockout does not affect the normal development
+of mice, GPX1 overexpression improves the differentiation of
+mouse embryonic stem cells into central neural stem cells,
+especially dopaminergic neurons (Gardaneh et al., 2011; Abasi
+et al., 2012). SELENOT is the only ER-resident selenoprotein
+whose knockout leads to embryonic lethality in mice. Neuron-
+specific SELENOT-knockout mice have significant decreases
+FIGURE1|RankingofthemRNAexpressionlevelsof25selenoproteinsin
+thehumanbrain.Thefragmentsperkilobaseofexonmodelpermillion in the hippocampal, cortical, and cerebellar volumes due to
+mappedreads(FPKM)valuesof25selenoproteinsinthebrainobtainedfrom neuronalapoptosisinthebrainatpostnatalday7(P7),leading
+genetranscriptomedatawereanalyzedtorankselenoproteinsbasedontheir to abnormal brain function in adult mice, which suggests a
+expressionlevelinthehumanbrain.Thedataarefromtheliterature
+neuroprotective function of SELENOT in brain development
+(Fagerbergetal.,2014).
+(Castexetal.,2016).
+FrontiersinNeuroscience|www.frontiersin.org 3 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #4
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+Furthermore, SELENOW protects neurons against oxidative fluxthroughregulationofinositol1,4,5-trisphosphatereceptor
+stress injury during neuronal development. H O -induced cell (IP3R)palmitoylation(Vermaetal.,2011;Fredericksetal.,2014)
+2 2
+apoptosis is significantly increased in SELENOW-knockout andthatSELENOKoverexpressionincreasesIP3R-mediatedfree
+primary neurons derived from the embryonic cerebral cortex Ca2+ levels in microglia (Meng et al., 2019). Furthermore,
+(Chungetal.,2009).RecentstudiesofSELENOI(ethanolamine a cyclic adenosine monophosphate (cAMP)-mediated increase
+phosphotransferase 1, EPT1) showed that EPT1 mutation in Ca2+ levels in neuronal cells was shown to significantly
+leads to cerebellar and brain stem atrophy, which can induce improve SELENOT expression. SELENOT overexpression also
+sensorineural deafness, blindness, and seizures. These results affects the basal Ca2+ level in cells, indicating that SELENOT
+confirm the indispensable role of EPT1 in myelination and regulatesintracellularCa2+homeostasis(Grumolatoetal.,2008).
+neurodevelopment and in the maintenance of phospholipid A study by Jo et al. (2019) in cell and animal models showed
+homeostasis in humans (Horibata et al., 2018). Although that mutation of Ala92 in DIO2 to Thr increased ER stress in
+nervous system-specific deletion TXNRD2 does not affect different brain regions in mice and that the unfolded protein
+the normal development of mice, cerebellar hypoplasia in response (UPR) and hypothyroidism were present (Jo et al.,
+TXNRD1-knockout mice occurs due to decreased proliferation 2019). Neuronal SELENOM overexpression has been shown
+of granule cell precursors within the external granular layer to reduce H O -mediated intracellular Ca2+ flux. Conversely,
+2 2
+(EGL),indicatingthatTXNRD1affectsneuronalprecursorcells SELENOM gene knockout promoted an increase in cytosolic
+and participates in the regulation of neuronal development Ca2+ levels, enhanced oxidative stress, and apoptosis (Reeves
+(Soerensen et al., 2008). Thyroid hormone influences brain etal.,2010).Inpresenilin2(PS2)-overexpressingneurons,Ca2+
+development through regulation of neuron and glial cell effluxfromtheERwasassociatedwithadecreaseinSELENOM
+differentiation and myelin and synapse formation. DIO2 in expression (Hwang et al., 2005). However, the mechanism
+astrocytes mediates the transformation of T4 into active T3, underlying the regulation of Ca2+ homeostasis by SELENOM
+and DIO3 in neurons degrades T3 and T4 to stabilize thyroid remainsunclear.
+hormone homeostasis in the brain (Bernal, 2000). Although
+the development and maturation of PV neurons in the SynapticFunctionandNeurotransmission
+cortex depend on thyroid hormone, no significant changes in Because selenoproteins play diverse roles in development
+these cells were observed in DIO2-knockout mice, and the and maintain homeostasis in the CNS (Solovyev, 2015)
+most significant change was sensorineural hearing loss caused selenoproteins may be assumed to play roles in signal
+by retarded cochlear development (Ng et al., 2004, 2009). transmission. Previous studies have shown that Se-mediated
+DIO3-knockout mice also exhibit developmental disorders in neurotransmission is active mainly in the dopaminergic
+retinal receptors (Ng et al., 2010), indicating that DIOs can system and that Se deficiency can induce chemical injury to
+significantly affect the development of the visual and auditory dopaminergic terminals and neurons (Kim et al., 1999, 2000).
+systemsinthebrain. However, few studies have confirmed the direct relationship
+between selenoproteins and neuronal signal transmission.
+Ca2+ HomeostasisandERStress SELENOPwasthefirstselenoproteinidentifiedtobeassociated
+Seven ER-resident selenoproteins are involved mainly in with synaptic signal transmission. Alterations of synaptic
+regulatingcalciumflux,proteinfolding,andredoxbalanceinthe transmissionandlong-termpotentiationwereobservedinCA1
+ER.Otherselenoproteinsarealsoinvolvedinthesephysiological synapses of
+Selenop−/−
+mice (Peters et al., 2006). In addition,
+processes; for example, SELENOP responds to ER stress in SELENOP interacts with the postsynaptic apolipoprotein E
+hepatocytes (Zhao et al., 2016), and SELENOW regulates Ca2+ receptor-2 (ApoER2) which participates in reelin protein-
+channelsinmusclecells(Yaoetal.,2016).However,accordingto mediated synaptic signal transmission (Weeber et al., 2002;
+currentreports,onlyfiveER-residentselenoproteins(SELENOK, Beffert et al., 2005). ApoER2 also forms a functional complex
+SELENOM,SELENOS,SELENOT,andDIO2)participateinthe withtheN-methyl-D-aspartatereceptor(NMDAR)andlocalizes
+regulationofERhomeostasisinthebrainorneuralcells.Previous in the postsynaptic membrane of excitatory synapses (Krebs
+studieshaveshownthattheSELENOS-mediatedcomplex,which et al., 1991; Beffert et al., 2005). NMDAR is the major receptor
+iscomposedofSELENOK,valosin-containingprotein(VCP)(an for glutamate during neuronal synaptic transmission, and
+important ATPase on the ER membrane), Derlin (a chaperone synaptic impairment is directly associated with NMDAR
+protein), and an E3 ubiquitin ligase, transports misfolded disorders in AD (Wang and Reddy, 2017). Notably, a recent
+proteins to the ubiquitin-proteasome system for degradation study by Zhang et al. (2020) showed imbalanced levels of
+(Ye et al., 2004; Lee et al., 2015), indicating that SELENOS two functional subunits of NMDAR, namely, NMDAR2A
+and SELENOK play important roles in protein folding and and NMDAR2B, in the brains of SELENOK-knockout mice.
+in the ER-associated degradation (ERAD) pathway. Neuronal Therefore, SELENOK may play a role in neuronal synaptic
+SELENOS expression increases with ER stress (Curran et al., transmission, but further studies are needed to support this
+2005;Gaoetal.,2006),andSELENOSgeneknockoutresultsin speculation. Furthermore, neuron-specific GPX4-knockout
+ER stress-mediated apoptosis (Rueli et al., 2017). To date, no
+miceandSelenop−/−
+micehavespontaneousseizuressincethe
+evidence indicates that SELENOS is directly involved in Ca2+ corresponding regions (the cortical region in GPX4-knockout
+regulation. However, studies have shown that SELENOK can
+miceandtheinferiorcolliculusinSelenop−/−mice)inthebrain
+interact with a palmitoyltransferase (DHHC6) to affect Ca2+ lackPV-expressingGABAergicinterneurons(Wirthetal.,2010;
+FrontiersinNeuroscience|www.frontiersin.org 4 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #5
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+Pittsetal.,2012,2015), suggesting that GPX4 and SELENOP Brain Function-Associated
+participate in the process of GABAergic neuron transduction. Selenoproteins and AD
+Although SELENOR deficiency does not interfere with CNS
+The hippocampus, olfactory bulb, neocortex, and cerebellar
+development, the significantly downregulated expression levels
+cortex, which have high selenoprotein expression, are also
+of synaptic proteins and the synaptic receptor NMDAR can
+vulnerable to neurodegenerative diseases; in particular, the
+substantially affect the persistence of long-term potentiation
+hippocampusandcortexaremajorpathologicalregionsinAD.
+and long-term depression (LTP/LTD) in the hippocampal
+Aheatmapoftheexpressionlevelsofselenoproteinsin12brain
+CA1 region of the mouse brain (Shi et al., 2019). A study by
+regions was plotted based on the in situ hybridization profile
+Boukhzaretal.(2016)confirmedthatSELENOTwasnecessary
+informationintheABA(Figure2).Thismapshowsthatthehigh
+fordopamineproductionbydopaminergicneuronsinPDmodel
+expressionlevelsofthebrainselenoproteinsSEPHS2,SELENOK,
+mice.Duringoxidativestressinducedbyneurotoxins,SELENOT
+SELENOR, DIO2, SELENOS, SELENOF, SELENOW, and
+regulatestyrosinehydrolaseactivitytoincreasedopaminelevels,
+SELENOT are even more pronounced in the hippocampal and
+thus maintaining the functionality of dopaminergic neurons
+corticalregions(themainpathologicalareasinthebraininAD)
+(Boukhzaretal.,2016).
+thaninotherbrainregions,suggestingthattheseselenoproteins
+might be strongly associated with AD. Currently, research on
+GlialCell-MediatedNeuroinflammation
+selenoproteinsinADislimited.Tofurtherinvestigatetheroles
+Neuroinflammation in the brain is the excessive reaction
+of selenoproteins in AD pathology, selenoproteins with the
+of glial cells to pathological changes and usually presents
+greatest research potential in AD are identified. Results in the
+as excessive activation and proliferation of microglia and
+literature were comprehensively assessed based on expression
+astrocytes. The antioxidant capacity of GPX1 may participate
+abundanceinthebrain,expressionspecificityinthehippocampal
+in the regulation of the inflammatory cascade reaction in
+and cortical regions, and correlations of selenoproteins with
+the brain.
+Gpx1−/−
+astrocytes reduce the H O clearance
+2 2 fourbrainfunctions(closelyassociatedwithADpathology).As
+rate to cause cell death (Liddell et al., 2006; Shin et al.,
+showninTable1,selenoproteinsweredividedinto5levelsbased
+2018). However, mice with ischemic brain diseases and on their expression levels (FPKM value: >100, 40–100, 15–40,
+GPX1 overexpression have significantly fewer overactivated
+astrocytesandmicrogliathancorrespondingmicewithoutGPX1
+overexpression (Ishibashi et al., 2002). Functionally, GPX4 is
+the only GPX that can use phospholipid hydroperoxides as
+substrates (Brigelius-Flohe and Maiorino, 2013) and is the
+control center for lipid oxidation-mediated apoptosis. In a
+neuron-specific GPX4-knockout mouse model, stress-induced
+proliferation of astrocytes and neuroinflammation associated
+with neurodegenerative diseases occurred in the brain (Seiler
+etal.,2008).Interestingly,comparedtoGPX4expressionduring
+perinatal brain development, it decreased in glial cells in the
+adulthumanbrain;however,GPX4expressioninastrocyteswas
+found to be significantly upregulated in a cerebral ischemia
+model (Savaskan et al., 2007). The same phenomenon was
+observed for SELENOS. Compared to its high expression in
+neurons,SELENOSexpressionissparseinastrocytes.However,
+under pathological conditions or in the setting of brain injury,
+SELENOSexpressionincreasessignificantly,especiallyinreactive
+astrocytes. A study by Fradejas et al. (2011) showed that
+SELENOS overexpression influenced astrocyte functions and
+reducedthesecretionofproinflammatorycytokinestoenhance
+resistance to ER stress and neuroinflammation. As mentioned
+in the previous sections, SELENOK promotes the migration
+and phagocytosis of microglia through the regulation of Ca2+
+flux, and SELENOK is the only reported selenoprotein to have
+direct regulatory functions in microglia (Meng et al., 2019).
+SELENOM may reduce the oxidative stress level in cerebellar
+astrocytes, in addition to neurons, through the regulation of
+Ca2+ flux (Reeves et al., 2010). Furthermore, brains from FIGURE2|Heatmapofthedistributionof24selenoproteinsinthemouse
+SELENOP- and SELENOR-knockout mice exhibit obvious glial brain.Basedongenome-wideinsituhybridizationdatapublishedintheABA
+cellproliferation,suggestingthatthesetwoselenoproteinsmight forthebrainsofadultmice,rawexpressionvaluesof23selenoproteinsin12
+regionsinthemousebrainwereanalyzedandusedtoplotaheatmap.The
+also be involved in the regulation of neuroinflammation in the
+databasecontainsnoexpressiondataforSELENOHinbrainregions.
+brain(Valentineetal.,2005).
+FrontiersinNeuroscience|www.frontiersin.org 5 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #6
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+1–15,and<1)accordingtoexpressionabundanceinthebrain. in the brain (Hambright et al., 2017). Recent studies have
+Selenoproteins were also divided into 5 levels based on their shown that lipid peroxidation-induced ferroptosis participates
+specificexpressionlevelsinthehippocampalcortex(percentage in neuronal death in AD (Stockwell et al., 2017). GPX4
+of expression in the hippocampal and cortical regions: >40, reduces lipid peroxide production catalyzed by Fe2+, and
+30–40, 20–30, 10–20, and <10%), and divided into 2 levels lipoxygenase (LOX) and is the key regulator of the ferroptosis
+based on the level of attention received in brain function pathway (Ingold et al., 2018; Wu et al., 2018). Significant
+studies (level 1: reported and level 2: massively reported), iron accumulation and lipid peroxidation combined with
+respectively. Based on the comprehensive coefficients (the total reductions in glutathione (GSH) and GPX4 were observed
+number of stars) obtained from the assessment, the top five in the hippocampus in AD patients (Yoo et al., 2010). In
+selenoproteinsareGPX4,SELENOP,SELENOK,SELENOT,and addition,GPX4knockoutinforebrainneuronsofmicedirectly
+GPX1/SELENOM/SELENOS/SELENOW, which are consistent causes age-related neurodegenerative changes and obvious
+with the ranking of AD research correlation (the number of neuronal loss (Hambright et al., 2017), indicating that GPX4
+reports on each selenoprotein in AD-related research). Though is significantly associated with AD. Interestingly, the reactive
+this order may change with continued research on the roles oxygen species (ROS) level in GPX4-knockdown cells did
+of selenoproteins in brain function, these selenoproteins are not significantly change, but the level of lipid peroxidation
+hypothesizedtobethemoststronglyassociatedwithADbasedon products increased significantly. However, GPX1 does not
+existingresearchdata.Therefore,therelationshipsbetweenthese decrease the lipid peroxide level mediated by GPX4 defects.
+selenoproteinsandADarediscussedfurther. These results suggest the specificity of GPX4 in protecting
+cells against lipid peroxidation damage (Yoo et al., 2010).
+GPX4andGPX1 Increased lipid peroxidation is considered an early event in
+Ferroptosis is a current research hotspot. Enhanced AD. Iron accumulation promotes Aβ and tau aggregation
+neuroinflammation and elevated lipid oxidation levels are (Yamamoto et al., 2002; Cheignon et al., 2018), whereas APP
+hallmarks of pathological changes related to ferroptosis andtaucollectivelypromoteirontransporttocausethevicious
+TABLE1|Analysisof25selenoproteinsinADstudies.
+Seleno-proteins Expression Expression Brainfunctioncorrelation Comprehensive ADresearch
+abundance specificity coefficient correlation
+Brain ERstress Neuro- Neuro-
+development transmission inflammation
+GPX4 (cid:73)(cid:73)(cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73)(cid:73) — (cid:73) (cid:73)(cid:73) 13 6
+SELENOP (cid:73)(cid:73)(cid:73)(cid:73)(cid:73) (cid:73)(cid:73) (cid:73)(cid:73) — (cid:73)(cid:73) (cid:73) 12 9
+SELENOK (cid:73)(cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73)(cid:73) — (cid:73) (cid:73) (cid:73) 11 1
+SELENOT (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73)(cid:73) (cid:73) (cid:73) — 10 0
+GPX1 (cid:73)(cid:73)(cid:73) (cid:73)(cid:73) (cid:73)(cid:73) — — (cid:73)(cid:73) 9 5
+SELENOM (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) — (cid:73)(cid:73) — (cid:73) 9 4
+SELENOS (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) — (cid:73)(cid:73) — (cid:73) 9 2
+SELENOW (cid:73)(cid:73)(cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73) — — — 9 1
+SELENOR (cid:73)(cid:73) (cid:73)(cid:73)(cid:73)(cid:73) — — (cid:73) (cid:73) 8 2
+DIO2 (cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73) (cid:73) — — 7 1
+SELENOF (cid:73)(cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) — — — — 7 0
+TXNRD1 (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73) — — — 7 0
+SELENOI (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) (cid:73) — — — 7 0
+DIO3 (cid:73) (cid:73)(cid:73)(cid:73)(cid:73)(cid:73) (cid:73) — — — 7 0
+SEPHS2 (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73)(cid:73) — — — — 7 0
+SELENON (cid:73)(cid:73)(cid:73) (cid:73)(cid:73)(cid:73) — — — — 6 0
+TXNRD2 (cid:73)(cid:73) (cid:73)(cid:73) (cid:73) — — — 5 0
+SELENOO (cid:73)(cid:73) (cid:73)(cid:73) — — — — 4 0
+TXNRD3 (cid:73)(cid:73) (cid:73)(cid:73) — — — — 4 0
+DIO1 (cid:73) (cid:73)(cid:73)(cid:73) — — — — 4 0
+SELENOH (cid:73)(cid:73)(cid:73) — — — — — 3 0
+GPX2 (cid:73) (cid:73)(cid:73) — — — — 3 0
+SELENOV (cid:73) (cid:73)(cid:73) — — — — 3 0
+GPX3 (cid:73) (cid:73) — — — — 2 0
+GPX6 — — — — — — 0 0
+Onestarindicates1level,andthecomprehensivecoefficientisthetotalnumberofstars.
+FrontiersinNeuroscience|www.frontiersin.org 6 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #7
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+cycle of ferroptosis (Duce et al., 2010; Lei et al., 2017). In role of GPX4 in iron-mediated Aβ aggregation should be
+the brains of Gpx4± mice, the activity and protein level of addressed, for the current data cannot confirm the direct effect
+β-secretase are significantly upregulated, and Aβ levels and ofGPX4onironaccumulationexceptfortheinhibitionoflipid
+amyloid plaque deposition are significantly increased (Chen peroxidationproducts.
+etal.,2008).Theabovedataindicatethatthelipidperoxidation- Unlike for GPX4, the current research data on GPX1
+mediated ferroptosis pathway regulated by GPX4 is involved cannot confirm its direct association with AD. Crack et al.
+in the neurodegenerative process in AD (Figure 3D), which (2006) used a GPX1-knockout primary neuron model and
+may be a potential mechanism of Se on AD. Furthermore, showed that depletion of GPX1 increased the sensitivity of
+as the downstream regulator of the ferroptosis pathway, the neurons to Aβ toxicity. Similarly, the cognitive ability of
+FIGURE3|TheeffectsofselenoproteinsonthepathologicalprocessesofAD.(A,B)SELENOP,SELENOWandSELENOMinhibittheaggregationofAβandtau.
+SELENOSparticipatesinthepathologicalproteindegradationprocessthroughERAD.(C)SELENOKaffectsthedistributionofsynapticreceptors.(D)GPX4
+regulatesferroptosis-mediatedneuronalapoptosis.
+FrontiersinNeuroscience|www.frontiersin.org 7 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #8
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+GPX1-knockoutmicetreatedwithAβ1-42declinedsignificantly, tropomyosin receptor kinase B (TrkB) signal transduction and
+and the activity levels of the βII-isoform of protein kinase Zn2+ homeostasis(Yueetal.,2020),significantlyimprovingthe
+C (PKCβII) and extracellular signal−regulated kinase (ERK) learningandmemoryabilitiesofADmice.Theseresultsindicate
+in the brain significantly decreased. Re-expression of GPX1 that the structural characteristics of SELENOP determine its
+in this mouse brain activated PKCβII-mediated ERK signal potential active role in AD progression (Figure 3B). However,
+transductiontoameliorateAβ1-42-inducedmemoryimpairment as Solovyev (2020) noted, although results clearly show that
+(Shin et al., 2020). In addition, studies of GPX4 and GPX1 SELENOPisassociatedwithAD,mostrelevantevidenceisfrom
+gene polymorphisms show that certain GPX1 (rs1050450) and in vitro studies. Therefore, more animal model and human-
+GPX4(rs713041)genotypesaresignificantlyassociatedwithAD basedstudiesareneededtoobtainreliableconclusions(Solovyev,
+patientsinaSouthBrazilianpopulation(daRochaetal.,2018). 2020).Moreover,comparedwiththeinhibitionofSELENOPon
+In addition, the Pro198Leu polymorphism in GPX1 has been theaggregationofAβandtau,theinteractionbetweenSELENOP
+reported to be associated with GPX1 enzyme activity. Recent and ApoER2 and their effects on synaptic signal transmission
+studies found that this polymorphism can significantly affect deserve more attention as Figure 3C showed, which may be
+the plasma Se level in AD patients, suggesting that the GPX1 involvedinsynapticdysfunctioninAD.
+genotype might impact the effect of Se supplementation in AD Although dietary Se deficiency affects GPX activity in the
+(Cardoso et al., 2012). Notably, in a survey of the Ecuadorian brain,itdoesnotreducetheSELENOWlevel(Sunetal.,2001).
+population,theLeualleleofGPX1wasapotentialriskfactorfor However, SELENOW in the brain is one of the selenoproteins
+AD (Paz-Y-Mino et al., 2010). However, no data are currently whoseexpressionismoreaffectedbySELENOP(Hoffmannetal.,
+available to further validate whether the association between 2007). Similar to most selenoproteins, SELENOW, as a GSH-
+GPX1polymorphismsandADwasduetotheinfluenceofGPX1 dependent antioxidant, is involved in redox reactions (Jeong
+onSelevelsinthebody. et al., 2002). SELENOW protects developing myoblasts against
+oxidativestressandinhibitsinteractionsbetween14-3-3proteins
+SELENOPandSELENOW andtranscriptionalactivatorstoparticipateinmusclegrowthand
+SELENOP is the most studied selenoprotein in AD-related differentiation (Loflin et al., 2006; Jeon et al., 2014). However,
+research, possibly because of its high expression and multiple relatively few reports have addressed the role of SELENOW in
+functionsinthebrain(Solovyevetal.,2018)anditsassociation brain function. SELENOW is highly expressed in the cerebral
+with the expression levels of many other selenoproteins. For cortex,dentategyrus,andhippocampusofpostpartumratsand
+example, loss of SELENOP can cause significant reductions in inthebrainandspinalcordofdevelopingembryos(Jeongetal.,
+the brain expression levels of GPX4, SELENOK, SELENOM, 2004;Chungetal.,2009).Inaddition,SELENOWisextensively
+and SELENOW (Hoffmann et al., 2007). Previous studies have expressedinsynapses,andSELENOWexpressionissignificantly
+reported that SELENOP expression increases in the brain with decreased in the synaptosomes of SELENOP-knockout mice
+age (Lu et al., 2004) and that SELENOP gene expression is (Raman et al., 2013), suggesting that SELENOW has biological
+significantly increased in the brains of AD patients (Miller functions in neuronal synapses. A recent study by Chen et al.
+et al., 2008; Rueli et al., 2015). Bellinger et al. (2008) further (2018)foundthatCys37ofSELENOWandCys322oftauform
+confirmed that the spatial distributions of SELENOP, Aβ, and a disulfide bond to inhibit tau protein aggregation, indicating
+NFTs are colocalized in the brains of AD patients, suggesting thatSELENOWmayaffecttaupathologyandmaybeassociated
+thatSELENOPisassociatedwithAD.Ionsofnumerousmetals, with AD (Figure 3A). However, the specificity of the disulfide
+such as aluminum, zinc, copper, and iron, can promote Aβ bond between SELENOW and tau should be strictly evaluated.
+aggregationduringthepathologicalprocessofAD(Falleretal., Based on the current data, the formation of a disulfide bond
+2014; Lei et al., 2020). Many Sec and Cys residues and a His- withtauatthissitemaybeageneraleffectinhibitingtauprotein
+richdomaininSELENOPdetermineitsmetal-bindingcapacity aggregation,andfurtherinvivostudiesareneededtoobtainmore
+(Turanovetal.,2015).SELENOPformsacoordinationcomplex conclusiveresults.
+with Zn2+ and Aβ in vitro to inhibit Aβ aggregation and
+neurotoxicity(Duetal.,2013).SELENOPalsointeractswiththe SELENOK,SELENOT,SELENOS,andSELENOM
+C-terminal domain of α-tubulin, which binds with tau protein Our assessment indicates that ER-resident selenoproteins
+to mediate the regulation of microtubule assembly (Du et al., (SELENOK,SELENOT,SELENOM,andSELENOS),arestrongly
+2014a), implying that SELENOP might be associated with the associated with AD, especially SELENOK, which has the
+structureorfunctionoftauprotein.StudiesbyDuetal.(2014a) strongestcorrelationduetoitshighexpressioninthebrainand
+andValentineetal.(2005)confirmedthishypothesisandshowed itsspecificexpressioninthecortexandhippocampus.Compared
+that SELENOP significantly attenuates metalion-mediated tau to other selenoproteins, SELENOK is highly expressed in
+aggregation and mitochondrial movement impairment and immunecells(Vermaetal.,2011).Inaddition,aSrc-homology
+that SELENOP knockout induces structural and functional 3 (SH3) domain in SELENOK mediates its interaction with
+neuronal axon damage (Valentine et al., 2005; Du et al., DHHC6,anenzymethatisalsolocalizedintheER(Fredericks
+2014b). Furthermore, the antioxidant function of SELENOP et al., 2014). The interaction between SELENOK and DHHC6
+alsoprotectsneuronsagainstAβ-inducedtoxicity.Interestingly, effectivelycatalyzesthepalmitoylationofproteinssuchasIP3R
+overexpressionofSec-deficientandhistidine-richSELENOPcan andCD36tostabilizetheirexpressionandfurtherpromoteCa2+
+inhibittheaggregationofAβandtauthroughtheregulationof flux in the ER to activate immune cells (Fredericks et al., 2014;
+FrontiersinNeuroscience|www.frontiersin.org 8 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #9
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+Fredericks and Hoffmann, 2015; Marciel and Hoffmann, 2019). AD,indicatingthatSELENOSparticipatesintheC99degradation
+Microglia-mediated neuroinflammation is considered a major process through ERAD. Interestingly, there is no obvious
+AD-inducing factor (Tejera and Heneka, 2016; Hansen et al., relationshipbetweenthespatiallocalizationofSELENOSandAβ
+2018),andSELENOKoverexpressionsignificantlyincreasesthe inthebrainsofADpatients.However,SELENOSisexpressedat
+Ca2+ level and IP3R expression and promotes the migration highlevelsinneuronsofNFTs(Ruelietal.,2017).Furtherstudies
+and phagocytosis of microglia to regulate neuroimmunity and have shown that the inhibition of SELENOS expression under
+neuroinflammation in the brain (Meng et al., 2019). However, ERstressincreasestauphosphorylationandphosphorylatedtau
+the direct relationship between SELENOK and AD has not aggregation.AlthoughSELENOSisinvolvedintheproductionof
+been reported until recently. A study by Zhang et al. (2020) Aβandthehyperphosphorylationandaggregationoftauprotein
+showed that SELENOK expression is significantly decreased in (asshowninFigures3A,B),therelationshipsbetweenSELENOS
+thebrainsofADpatientsandmiceandthatSELENOKknockout expressionandADpathologyproteinsarestillratherconfusing,
+is associated with pathological changes, such as intracellular especially in mouse model studies. In addition, due to limited
+Ca2+ flux dysregulation in neurons and an imbalance in the researchontheeffectsofSesupplementationonSELENOSlevels
+distributionofsynapticreceptors,thatarehighlyconsistentwith and enhanced SELENOS expression on cognitive ability, the
+AD pathology. Currently, neuronal excitotoxicity mediated by mechanism of Se in AD from the perspective of SELENOS has
+thedisequilibriumbetweensynapticandextrasynapticNMDAR yettobeclarified.
+is a widely accepted pathogenic factor for synaptic loss in AD Previous studies have shown that the transcription of
+(Hardingham and Bading, 2010; Talantova et al., 2013; Huang SELENOMissignificantlyinhibitedinthebrainsoffamilialAD
+etal.,2017).AsFigure3Cshows,SELENOKparticipatesinthe transgenic mice overexpressing a human mutant presenilin 2
+regulationofER-Ca2+fluxandthebalancebetweensynapticand (PS2)gene,whichdisruptCa2+homeostasisthroughpromoting
+extrasynapticNMDARexpressiontorestoresynapticdeficitsin Ca2+shuttlingfromtheERtomitochondria(Hwangetal.,2005).
+AD.Inaddition,theeffectsofSELENOKonimmuneregulation Later, a study by Yim et al. (2009) confirmed that SELENOM
+andmicroglia-mediatedneuroinflammationinthebrainshould participates in APP cleavage and tau hyperphosphorylation,
+also be addressed, and further exploration of the underlying that the activity of α/γ-secretases in SELENOM-overexpressing
+mechanismsmayrevealtheroleofSELENOKinADpathology. mice changed after Se treatment, and that the phosphorylation
+Because of its effect on Ca2+ flux in neural cells and of tau protein at multiple sites was inhibited through ERK
+dopaminergic neurotransmission, SELENOT may be associated pathway activation. Unfortunately, these results have not
+with AD. To date, however, no research has been conducted been verified in AD models. Mutation of the Sec residue
+regardingSELENOTinAD.SELENOTexpressionissignificantly in SELENOM to Cys revealed that SELENOM can bind
+increased in the peripheral blood mononuclear cells and brain to transition metal ions via its His-rich domain and thus
+striataltissueofPDpatients.Bothsilencingandoverexpression regulate Zn2+-mediated Aβ aggregation and neurotoxicity (Du
+of SELENOT influence oxidative stress and apoptosis in et al., 2013). In an Aβ-expressing cell model, both full-length
+dopaminergic neurons (Boukhzar et al., 2016; Shao et al., 2019; and truncated SELENOM were found to attenuate oxidative
+Zhang et al., 2019). Dopaminergic neurons are also closely stress-induced mitochondrial damage through inhibition of
+associated with AD pathology, and several alterations in the Aβ oligomer formation (Chen et al., 2013). Still, the above
+dopaminergicsystemhavebeenreportedinADpatients(Burns anti-Aβ aggregation functions and mechanisms of SELENOM
+et al., 2005; Rossato et al., 2009). Dopaminergic neurons in need to be further confirmed by in vivo studies, especially
+the prefrontal cortex participate in the formation of cognitive the effect and mechanism on homeostasis of Ca2+ and
+memory (Perkovic et al., 2018). Loss of dopaminergic neurons energyinthebrain.
+affects synaptic plasticity in hippocampal CA1 neurons in AD
+(Nobili et al., 2017). Although the functions of dopaminergic
+neurons differ across brain regions, the regulatory function of CONCLUSION
+SELENOTindopaminergicneuronsinAD-relatedbrainregions
+warrantsin-depthstudy. As selenoproteins are the representatives of Se performing
+CleavageofAPPbyβ-secretaseunderpathologicalconditions its physiological functions, investigation of the functions of
+producesa99-aminoacidC-terminaltransmembranefragment selenoproteinsinthebrainandtheassociationofselenoproteins
+of APP (C99), which is further cleaved into Aβ. Accumulating with AD pathology might be critical for elucidating the
+evidence indicates that a high C99 level is the determining mechanism of action of Se. Selenoproteins (GPX4, SELENOP,
+factor of AD (Lee et al., 2006; Lauritzen et al., 2012; Pera SELENOK, SELENOT, GPX1, SELENOM, SELENOS, and
+et al., 2017). C99 is a miscleaved protein; therefore, the ERAD SELENOW),whicharehighlyexpressedinthebrain,specifically
+pathway is activated in cells for its degradation (Bustamante expressed in AD pathological regions, and closely associated
+et al., 2013). As mentioned in the previous sections, binding of with brain function, may be the most promising targets in AD
+SELENOStochaperoneproteinssuchasSELENOKandDerlin research. Existing reports show that these selenoproteins may
+can mediate the UPR and ERAD to maintain ER homeostasis. participate in pathological processes of AD, including neuronal
+Recently,Jangetal.(2017)showedthatubiquitination-dependent apoptosis, pathological protein aggregation and clearance,
+C99 degradation was inhibited and that the Aβ1-42 level was synapticdysfunction,andglialcell-mediatedneuroinflammation
+significantlyincreasedinaSELENOS-knockdowncellmodelof (Figure 3). Although the regulatory functions and molecular
+FrontiersinNeuroscience|www.frontiersin.org 9 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #10
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+mechanisms of the above selenoproteins require further Both authors contributed to the article and approved the
+validation and exploration, this review provides relatively submittedversion.
+sufficient and reliable research data and directions for future
+studiesonSeandAD.
+FUNDING
+AUTHOR CONTRIBUTIONS This work was supported by the National Natural Sciences
+Foundation of China (No. 31800681), Guangdong Natural
+Z-HZ: makes substantial contributions to conception and Science Foundation (No. 2018A030310447), Guangdong
+design, and literature research and annalysis of data, Natural Science Foundation for Major Cultivation Project (No.
+and the manuscript preparation and editing. Z-HZ and 2018B030336001), Shenzhen-Hong Kong Institute of Brain
+G-LS: participate in revising the manuscript critically for Science-Shenzhen Fundamental Research Institutions (No.
+important intellectual content, and give final approval 2019SHIBS0003),andShenzhenFundamentalResearchProgram
+of the version to be submitted and any revised version. (No.JCYJ20200109105836705).
+REFERENCES Cardoso,B.R.,Ong,T.P.,Jacob-Filho,W.,Jaluul,O.,Freitas,M.I.,Cominetti,C.,
+etal.(2012).Glutathioneperoxidase1Pro198LeupolymorphisminBrazilian
+Abasi,M.,Massumi,M.,Riazi,G.,andAmini,H.(2012).Thesynergisticeffectof Alzheimer’sdiseasepatients:relationstotheenzymeactivityandtoselenium
+beta-boswellicacidandNurr1overexpressionondopaminergicprogramming status.J.Nutrigenet.Nutrigenomics5,72–80. doi:10.1159/000338682
+of antioxidant glutathione peroxidase-1-expressing murine embryonic stem Cardoso,B.R.,Ong,T.P.,Jacob-Filho,W.,Jaluul,O.,Freitas,M.I.,andCozzolino,
+cells.Neuroscience222,404–416. doi:10.1016/j.neuroscience.2012.07.009 S.M.(2010).NutritionalstatusofseleniuminAlzheimer’sdiseasepatients.Br.
+Balaban,H.,Naziroglu,M.,Demirci,K.,andOvey,I.S.(2017).Theprotectiverole J.Nutr.103,803–806.
+of selenium on scopolamine-induced memory impairment, oxidative stress, Castex,M.T.,Arabo,A.,Benard,M.,Roy,V.,LeJoncour,V.,andPrevost,G.
+andapoptosisinagedrats:theinvolvementofTRPM2andTRPV1Channels. (2016).SelenoproteinTdeficiencyleadstoneurodevelopmentalabnormalities
+Mol.Neurobiol.54,2852–2868. doi:10.1007/s12035-016-9835-0 andhyperactivebehaviorinmice.Mol.Neurobiol.53,5818–5832. doi:10.1007/
+Beffert,U.,Weeber,E.J.,Durudas,A.,Qiu,S.,Masiulis,I.,andSweatt,J.D.(2005). s12035-015-9505-7
+Modulationofsynapticplasticityandmemorybyreelininvolvesdifferential Cheignon, C.,Tomas,M.,Bonnefont-Rousselot,D.,Faller,P.,Hureau,C.,and
+splicingofthelipoproteinreceptorApoer2.Neuron47,567–579. doi:10.1016/ Collin,F.(2018).OxidativestressandtheamyloidbetapeptideinAlzheimer’s
+j.neuron.2005.07.007 disease.RedoxBiol.14,450–464. doi:10.1016/j.redox.2017.10.014
+Bellinger,F.P.,He,Q.P.,Bellinger,M.T.,Lin,Y.,Raman,A.V.,andWhite,L.R. Chen,H.,Liu,S.,Li,S.,Chen,J.,Ni,J.,andLiu,Q.(2018).Blockingthethiolat
+(2008).AssociationofselenoproteinpwithAlzheimer’spathologyinhuman cysteine-322destabilizestauproteinandpreventsitsoligomerformation.ACS
+cortex.J.AlzheimersDis.15,465–472. doi:10.3233/jad-2008-15313 Chem.Neurosci.9,1560–1565. doi:10.1021/acschemneuro.8b00003
+Bernal, J. (2000). "Thyroid hormones in brain development and function," in Chen,J.,andBerry,M.J.(2003).Seleniumandselenoproteinsinthebrainand
+Endotext, eds K.R. Feingold, B. Anawalt, A. Boyce, G. Chrousos, W.W. De braindiseases.J.Neurochem.86,1–12. doi:10.1046/j.1471-4159.2003.01854.x
+Herder,K.Dungan(SouthDartmouth,MA). Chen, L., Na, R., Gu, M., Richardson, A., and Ran, Q. (2008). Lipid
+Berr,C.,Nicole,A.,Godin,J.,Ceballos-Picot,I.,Thevenin,M.,Dartigues,J.F., peroxidation up-regulates BACE1 expression in vivo: a possible early event
+etal.(1993).Seleniumandoxygen-metabolizingenzymesinelderlycommunity ofamyloidogenesisinAlzheimer’sdisease.J.Neurochem.107,197–207. doi:
+residents:apilotepidemiologicalstudy.J.Am.Geriatr.Soc.41,143–148. doi: 10.1111/j.1471-4159.2008.05603.x
+10.1111/j.1532-5415.1993.tb02048.x Chen,P.,Wang,R.R.,Ma,X.J.,Liu,Q.,andNi,J.Z.(2013).Differentformsof
+Boukhzar, L., Hamieh, A., Cartier, D., Tanguy, Y., Alsharif, I., and Castex, M. selenoproteinmdifferentiallyaffectabetaaggregationandROSgeneration.Int.
+(2016).SelenoproteinTexertsanessentialoxidoreductaseactivitythatprotects J.Mol.Sci.14,4385–4399. doi:10.3390/ijms14034385
+dopaminergicneuronsinmousemodelsofparkinson’sdisease.Antioxid.Redox Chung,Y.W.,Jeong,D.,Noh,O.J.,Park,Y.H.,Kang,S.I.,andLee,M.G.(2009).
+Signal.24,557–574. doi:10.1089/ars.2015.6478 AntioxidativeroleofselenoproteinWinoxidant-inducedmouseembryonic
+Brigelius-Flohe, R. (1999). Tissue-specific functions of individual glutathione neuronalcelldeath.Mol.Cells27,609–613. doi:10.1007/s10059-009-0074-3
+peroxidases.FreeRadic.Biol.Med.27,951–965. doi:10.1016/s0891-5849(99) Corcoran, N. M., Martin, D., Hutter-Paier, B., Windisch, M., Nguyen, T., and
+00173-2 Nheu, L. (2010). Sodium selenate specifically activates PP2A phosphatase,
+Brigelius-Flohe,R.,andMaiorino,M.(2013).Glutathioneperoxidases.Biochim. dephosphorylatestauandreversesmemorydeficitsinanAlzheimer’sdisease
+Biophys.Acta1830,3289–3303. model.J.Clin.Neurosci.17,1025–1033. doi:10.1016/j.jocn.2010.04.020
+Brown,D.G.,andBurk,R.F.(1973).Seleniumretentionintissuesandspermof Crack,P.J.,Cimdins,K.,Ali,U.,Hertzog,P.J.,andIannello,R.C.(2006).Lackof
+ratsfedatorulayeastdiet.J.Nutr.103,102–108. doi:10.1093/jn/103.1.102 glutathioneperoxidase-1exacerbatesAbeta-mediatedneurotoxicityincortical
+Bulteau, A. L., and Chavatte, L. (2015). Update on selenoprotein biosynthesis. neurons.J.Neural.Transm.113,645–657. doi:10.1007/s00702-005-0352-y
+Antioxid.RedoxSignal.23,775–794. doi:10.1089/ars.2015.6391 Curran,J.E.,Jowett,J.B.,Elliott,K.S.,Gao,Y.,Gluschenko,K.,andWang,J.
+Burk,R.F.,Brown,D.G.,Seely,R.J.,andScaief,C.C.(1972).Influenceofdietary (2005).GeneticvariationinselenoproteinSinfluencesinflammatoryresponse.
+andinjectedseleniumonwhole-blodyretention,routeofexcretion,andtissue Nat.Genet.37,1234–1241. doi:10.1038/ng1655
+retentionof75SeO32-intherat.J.Nutr.102,1049–1055.doi:10.1093/jn/102. daRocha,T.J.,SilvaAlves,M.,Guisso,C.C.,DeAndrade,F.M.,Camozzato,A.,
+8.1049 DeOliveira,A.A.,etal.(2018).AssociationofGPX1andGPX4polymorphisms
+Burns,J.M.,Galvin,J.E.,Roe,C.M.,Morris,J.C.,andMckeel,D.W.(2005). with episodic memory and Alzheimer’s disease. Neurosci. Lett. 666, 32–37.
+ThepathologyofthesubstantianigrainAlzheimerdiseasewithextrapyramidal doi:10.1016/j.neulet.2017.12.026
+signs.Neurology64,1397–1403. doi:10.1212/01.wnl.0000158423.05224.7f Daniels,L.A.(1996).Seleniummetabolismandbioavailability.Biol.TraceElem.
+Bustamante,H.A.,Rivera-Dictter,A.,Cavieres,V.A.,Munoz,V.C.,Gonzalez,A., Res.54,185–199. doi:10.1007/BF02784430
+andLin,Y.(2013).TurnoverofC99iscontrolledbyacrosstalkbetweenERAD Du, X., Li, H., Wang, Z., Qiu, S., Liu, Q., and Ni, J. (2013). Selenoprotein P
+andubiquitin-independentlysosomaldegradationinhumanneurogliomacells. andselenoproteinMblockZn2+-mediatedAbeta42aggregationandtoxicity.
+PLoSOne8:e83096. doi:10.1371/journal.pone.0083096 Metallomics5,861–870. doi:10.1039/c3mt20282h
+FrontiersinNeuroscience|www.frontiersin.org 10 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #11
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+Du, X., Qiu, S., Wang, Z., Wang, R., Wang, C., Tian, J., et al. (2014a). Direct Hwang,D.Y.,Cho,J.S.,Oh,J.H.,Shim,S.B.,Jee,S.W.,andLee,S.H.(2005).
+interactionbetweenselenoproteinPandtubulin.Int.J.Mol.Sci.15,10199– Differentially expressed genes in transgenic mice carrying human mutant
+10214. doi:10.3390/ijms150610199 presenilin-2(N141I):correlationofselenoproteinMwithAlzheimer’sdisease.
+Du, X., Zheng, Y., Wang, Z., Chen, Y., Zhou, R., Song, G., et al. (2014b). Neurochem.Res.30,1009–1019. doi:10.1007/s11064-005-6787-6
+InhibitoryactofselenoproteinPonCu(+)/Cu(2+)-inducedtauaggregationand Ingold,I.,Berndt,C.,Schmitt,S.,Doll,S.,Poschmann,G.,andBuday,K.(2018).
+neurotoxicity.Inorg.Chem.53,11221–11230. doi:10.1021/ic501788v SeleniumutilizationbyGPX4isrequiredtopreventhydroperoxide-induced
+Duce,J.A.,Tsatsanis,A.,Cater,M.A.,James,S.A.,Robb,E.,andWikhe,K.(2010). ferroptosis.Cell172:e421. doi:10.1016/j.cell.2017.11.048
+Iron-exportferroxidaseactivityofbeta-amyloidprecursorproteinisinhibited Ishibashi, N., Prokopenko, O., Weisbrot-Lefkowitz, M., Reuhl, K. R., and
+byzincinAlzheimer’sdisease.Cell142,857–867.doi:10.1016/j.cell.2010.08.014 Mirochnitchenko,O.(2002).Glutathioneperoxidaseinhibitscelldeathand
+Fagerberg, L., Hallstrom, B. M., Oksvold, P., Kampf, C., Djureinovic, D., and glialactivationfollowingexperimentalstroke.BrainRes.Mol.BrainRes.109,
+Odeberg,J.(2014).Analysisofthehumantissue-specificexpressionbygenome- 34–44. doi:10.1016/S0169-328X(02)00459-X
+wideintegrationoftranscriptomicsandantibody-basedproteomics.Mol.Cell. Ishrat,T.,Parveen,K.,Khan,M.M.,Khuwaja,G.,Khan,M.B.,Yousuf,S.,etal.
+Proteomics13,397–406. doi:10.1074/mcp.M113.035600 (2009).Seleniumpreventscognitivedeclineandoxidativedamageinratmodel
+Faller, P., Hureau, C., and La Penna, G. (2014). Metal ions and intrinsically ofstreptozotocin-inducedexperimentaldementiaofAlzheimer’stype.Brain
+disordered proteins and peptides: from Cu/Zn amyloid-beta to general Res.1281,117–127. doi:10.1016/j.brainres.2009.04.010
+principles.Acc.Chem.Res.47,2252–2259. doi:10.1021/ar400293h Jang, J. K., Park, K. J., Lee, J. H., Ko, K. Y., Kang, S., and Kim, I. Y.
+Fradejas, N., Serrano-Perez Mdel, C., Tranque, P., and Calvo, S. (2011). (2017).SelenoproteinSisrequiredforclearanceofC99throughendoplasmic
+SelenoproteinSexpressioninreactiveastrocytesfollowingbraininjury.Glia reticulum-associateddegradation.Biochem.Biophys.Res.Commun.486,444–
+59,959–972. doi:10.1002/glia.21168 450. doi:10.1016/j.bbrc.2017.03.060
+Fredericks, G. J., and Hoffmann, P. R. (2015). Selenoprotein K and protein Jeon,Y.H.,Park,Y.H.,Lee,J.H.,Hong,J.H.,andKim,I.Y.(2014).Selenoprotein
+palmitoylation.Antioxid.RedoxSignal.23,854–862.doi:10.1089/ars.2015.6375 WenhancesskeletalmuscledifferentiationbyinhibitingTAZbindingto14-3-3
+Fredericks, G. J., Hoffmann, F. W., Rose, A. H., Osterheld, H. J., Hess, F. M., protein.Biochim.Biophys.Acta1843,1356–1364. doi:10.1016/j.bbamcr.2014.
+Mercier,F.,etal.(2014).Stableexpressionandfunctionoftheinositol1,4,5- 04.002
+triphosphatereceptorrequirespalmitoylationbyaDHHC6/selenoproteinK Jeong,D.W.,Kim,E.H.,Kim,T.S.,Chung,Y.W.,Kim,H.,andKim,I.Y.(2004).
+complex.Proc.Natl.Acad.Sci.U.S.A.111,16478–16483. doi:10.1073/pnas. DifferentdistributionsofselenoproteinWandthioredoxinduringpostnatal
+1417176111 braindevelopmentandembryogenesis.Mol.Cells17,156–159.
+Gao,S.,Jin,Y.,Hall,K.S.,Liang,C.,Unverzagt,F.W.,andJi,R.(2007).Selenium Jeong,D.,Kim,T.S.,Chung,Y.W.,Lee,B.J.,andKim,I.Y.(2002).Selenoprotein
+levelandcognitivefunctioninruralelderlyChinese.Am.J.Epidemiol.165, Wisaglutathione-dependentantioxidantinvivo.FEBSLett.517,225–228.
+955–965. doi:10.1093/aje/kwk073 doi:10.1016/S0014-5793(02)02628-5
+Gao,Y.,Hannan,N.R.,Wanyonyi,S.,Konstantopolous,N.,Pagnon,J.,andFeng, Jin,N.,Zhu,H.,Liang,X.,Huang,W.,Xie,Q.,Xiao,P.,etal.(2017).Sodium
+H.C.(2006).ActivationoftheselenoproteinSEPS1geneexpressionbypro- selenate activated Wnt/beta-catenin signaling and repressed amyloid-beta
+inflammatorycytokinesinHepG2cells.Cytokine33,246–251. doi:10.1016/j. formation in a triple transgenic mouse model of Alzheimer’s disease. Exp.
+cyto.2006.02.005 Neurol.297,36–49. doi:10.1016/j.expneurol.2017.07.006
+Gardaneh, M., Gholami, M., and Maghsoudi, N. (2011). Synergy between Jo,S.,Fonseca,T.L.,Bocco,B.,Fernandes,G.W.,Mcaninch,E.A.,andBolin,A.P.
+glutathioneperoxidase-1andastrocyticgrowthfactorssuppressesfreeradical (2019).Type2deiodinasepolymorphismcausesERstressandhypothyroidism
+generationandprotectsdopaminergicneuronsagainst6-hydroxydopamine. inthebrain.J.Clin.Invest.129,230–245. doi:10.1172/JCI123176
+RejuvenationRes.14,195–204. doi:10.1089/rej.2010.1080 Kim,H.C.,Jhoo,W.K.,Choi,D.Y.,Im,D.H.,Shin,E.J.,Suh,J.H.,etal.(1999).
+Grumolato, L., Ghzili, H., Montero-Hadjadje, M., Gasman, S., Lesage, J., and Protection of methamphetamine nigrostriatal toxicity by dietary selenium.
+Tanguy, Y. (2008). Selenoprotein T is a PACAP-regulated gene involved in BrainRes.851,76–86. doi:10.1016/S0006-8993(99)02122-8
+intracellularCa2+mobilizationandneuroendocrinesecretion.FASEBJ.22, Kim,H.,Jhoo,W.,Shin,E.,andBing,G.(2000).Seleniumdeficiencypotentiates
+1756–1768. doi:10.1096/fj.06-075820 methamphetamine-induced nigral neuronal loss; comparison with MPTP
+Gwon, A. R., Park, J. S., Park, J. H., Baik, S. H., Jeong, H. Y., Hyun, D. H., model.BrainRes.862,247–252. doi:10.1016/S0006-8993(00)02085-0
+et al. (2010). Selenium attenuates a beta production and a beta-induced Kohrle, J. (2000). The deiodinase family: selenoenzymes regulating thyroid
+neuronal death. Neurosci. Lett. 469, 391–395. doi: 10.1016/j.neulet.2009. hormoneavailabilityandaction.CellMol.Life.Sci.57,1853–1863.doi:10.1007/
+12.035 PL00000667
+Hambright,W.S.,Fonseca,R.S.,Chen,L.,Na,R.,andRan,Q.(2017).Ablationof Krebs,M.O.,Desce,J.M.,Kemel,M.L.,Gauchy,C.,Godeheu,G.,Cheramy,A.,
+ferroptosisregulatorglutathioneperoxidase4inforebrainneuronspromotes etal.(1991).Glutamatergiccontrolofdopaminereleaseintheratstriatum:
+cognitiveimpairmentandneurodegeneration.RedoxBiol.12,8–17. doi:10. evidence for presynaptic N-methyl-D-aspartate receptors on dopaminergic
+1016/j.redox.2017.01.021 nerve terminals. J. Neurochem. 56, 81–85. doi: 10.1111/j.1471-4159.1991.
+Hansen, D. V., Hanson, J. E., and Sheng, M. (2018). Microglia in Alzheimer’s tb02565.x
+disease.J.CellBiol.217,459–472. doi:10.1083/jcb.201709069 Kryscio,R.J.,Abner,E.L.,Caban-Holt,A.,Lovell,M.,Goodman,P.,Darke,A.K.,
+Hardingham,G.E.,andBading,H.(2010).SynapticversusextrasynapticNMDA etal.(2017).Associationofantioxidantsupplementuseanddementiainthe
+receptor signalling: implications for neurodegenerative disorders. Nat. Rev. preventionofalzheimer’sdiseasebyvitamineandseleniumtrial(PREADViSE).
+Neurosci.11,682–696. doi:10.1038/nrn2911 JAMANeurol.74,567–573. doi:10.1001/jamaneurol.2016.5778
+Hill, K. E., Zhou, J., Mcmahan, W. J., Motley, A. K., and Burk, R. F. (2004). Kryukov,G.V.,Castellano,S.,Novoselov,S.V.,Lobanov,A.V.,Zehtab,O.,Guigo,
+Neurological dysfunction occurs in mice with targeted deletion of the R.,etal.(2003).Characterizationofmammalianselenoproteomes.Science300,
+selenoproteinPgene.J.Nutr.134,157–161. doi:10.1093/jn/134.1.157 1439–1443. doi:10.1126/science.1083516
+Hoffmann,P.R.,Hoge,S.C.,Li,P.A.,Hoffmann,F.W.,Hashimoto,A.C.,and Lauritzen,I.,Pardossi-Piquard,R.,Bauer,C.,Brigham,E.,Abraham,J.D.,and
+Berry,M.J.(2007).Theselenoproteomeexhibitswidelyvarying,tissue-specific Ranaldi,S.(2012).Thebeta-secretase-derivedC-terminalfragmentofbetaAPP,
+dependence on selenoprotein P for selenium supply. Nucleic Acids Res. 35, C99,butnotAbeta,isakeycontributortoearlyintraneuronallesionsintriple-
+3963–3973. doi:10.1093/nar/gkm355 transgenicmousehippocampus.J.Neurosci.32,16243–11655a.doi:10.1523/
+Horibata,Y.,Elpeleg,O.,Eran,A.,Hirabayashi,Y.,Savitzki,D.,Tal,G.,etal.(2018). JNEUROSCI.2775-12.2012
+EPT1(selenoproteinI)iscriticalfortheneuraldevelopmentandmaintenance Lee,J.H.,Park,K.J.,Jang,J.K.,Jeon,Y.H.,Ko,K.Y.,Kwon,J.H.,etal.(2015).
+ofplasmalogeninhumans.J.LipidRes.59,1015–1026.doi:10.1194/jlr.P081620 SelenoproteinS-dependentselenoproteinKbindingtop97(VCP)proteinis
+Huang,Y.,Shen,W.,Su,J.,Cheng,B.,Li,D.,Liu,G.,etal.(2017).Modulatingthe essentialforendoplasmicreticulum-associateddegradation.J.Biol.Chem.290,
+balanceofsynapticandextrasynapticNMDAreceptorsshowspositiveeffects 29941–29952. doi:10.1074/jbc.M115.680215
+against amyloid-beta-induced neurotoxicity. J. Alzheimers Dis. 57, 885–897. Lee, K. W., Im, J. Y., Song, J. S., Lee, S. H., Lee, H. J., and Ha, H. Y. (2006).
+doi:10.3233/JAD-161186 ProgressiveneuronallossandbehavioralimpairmentsoftransgenicC57BL/6
+FrontiersinNeuroscience|www.frontiersin.org 11 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #12
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+inbredmiceexpressingthecarboxyterminusofamyloidprecursorprotein. Peters,M.M.,Hill,K.E.,Burk,R.F.,andWeeber,E.J.(2006).Alteredhippocampus
+Neurobiol.Dis.22,10–24. doi:10.1016/j.nbd.2005.09.011 synapticfunctioninselenoproteinPdeficientmice.Mol.Neurodegener.1:12.
+Lei,P.,Ayton,S.,andBush,A.I.(2020).TheessentialelementsofAlzheimer’s doi:10.1186/1750-1326-1-12
+disease.J.Biol.Chem.doi:10.1074/jbc.REV120.008207Onlineaheadofprint. Pitts, M. W., and Hoffmann, P. R. (2018). Endoplasmic reticulum-resident
+Lei, P., Ayton, S., Appukuttan, A. T., Moon, S., Duce, J. A., and Volitakis, selenoproteinsasregulatorsofcalciumsignalingandhomeostasis.CellCalcium
+I. (2017). Lithium suppression of tau induces brain iron accumulation and 70,76–86. doi:10.1016/j.ceca.2017.05.001
+neurodegeneration.Mol.Psychiatry22,396–406. doi:10.1038/mp.2016.96 Pitts,M.W.,Kremer,P.M.,Hashimoto,A.C.,Torres,D.J.,Byrns,C.N.,Williams,
+Lenart,A.,andPawlowski,K.(2013).Intersectionofselenoproteinsandkinase C.S.,etal.(2015).Competitionbetweenthebrainandtestesunderselenium-
+signalling. Biochim. Biophys. Acta 1834, 1279–1284. doi: 10.1016/j.bbapap. compromisedconditions:insightintosexdifferencesinseleniummetabolism
+2013.03.019 andriskofneurodevelopmentaldisease.J.Neurosci.35,15326–15338. doi:
+Liddell, J. R., Hoepken, H. H., Crack, P. J., Robinson, S. R., and Dringen, R. 10.1523/JNEUROSCI.2724-15.2015
+(2006).Glutathioneperoxidase1andglutathionearerequiredtoprotectmouse Pitts,M.W.,Raman,A.V.,Hashimoto,A.C.,Todorovic,C.,Nichols,R.A.,and
+astrocytesfromiron-mediatedhydrogenperoxidetoxicity.J.Neurosci.Res.84, Berry,M.J.(2012).DeletionofselenoproteinPresultsinimpairedfunction
+578–586. doi:10.1002/jnr.20957 ofparvalbumininterneuronsandalterationsinfearlearningandsensorimotor
+Loflin,J.,Lopez,N.,Whanger,P.D.,andKioussi,C.(2006).SelenoproteinW gating.Neuroscience208,58–68. doi:10.1016/j.neuroscience.2012.02.017
+duringdevelopmentandoxidativestress.J.Inorg.Biochem.100,1679–1684. Raman,A.V.,Pitts,M.W.,Seyedali,A.,Hashimoto,A.C.,Bellinger,F.P.,and
+doi:10.1016/j.jinorgbio.2006.05.018 Berry,M.J.(2013).SelenoproteinWexpressionandregulationinmousebrain
+Lovell, M. A., Xiong, S., Lyubartseva, G., and Markesbery, W. R. (2009). andneurons.BrainBehav.3,562–574. doi:10.1002/brb3.159
+Organoselenium(Sel-Plexdiet)decreasesamyloidburdenandRNAandDNA Rayman,M.P.(2000).Theimportanceofseleniumtohumanhealth.Lancet356,
+oxidative damage in APP/PS1 mice. Free Radic. Biol. Med. 46, 1527–1533. 233–241. doi:10.1016/S0140-6736(00)02490-9
+doi:10.1016/j.freeradbiomed.2009.03.008 Reeves, M. A., Bellinger, F. P., and Berry, M. J. (2010). The neuroprotective
+Lu,T.,Pan,Y.,Kao,S.Y.,Li,C.,Kohane,I.,Chan,J.,etal.(2004).Generegulation functions of selenoprotein M and its role in cytosolic calcium regulation.
+and DNA damage in the ageing human brain. Nature 429, 883–891. doi: Antioxid.RedoxSignal.12,809–818. doi:10.1089/ars.2009.2883
+10.1038/nature02661 Renko, K., Werner, M., Renner-Muller, I., Cooper, T. G., Yeung, C. H., and
+Marciel, M. P., and Hoffmann, P. R. (2019). Molecular mechanisms by which Hollenbach, B. (2008). Hepatic selenoprotein P (SePP) expression restores
+selenoprotein Kregulates immunity and cancer. Biol. Trace Elem. Res. 192, seleniumtransportandpreventsinfertilityandmotor-incoordinationinsepp-
+60–68. doi:10.1007/s12011-019-01774-8 knockoutmice.Biochem.J.409,741–749. doi:10.1042/BJ20071172
+Meng, X. L., Chen, C. L., Liu, Y. Y., Su, S. J., Gou, J. M., and Huan, F. N. Rossato,J.I.,Bevilaqua,L.R.,Izquierdo,I.,Medina,J.H.,andCammarota,M.
+(2019).SelenoproteinSELENOKenhancesthemigrationandphagocytosisof (2009).Dopaminecontrolspersistenceoflong-termmemorystorage.Science
+microglialcellsbyincreasingthecytosolicfreeCa(2+)levelresultedfromthe 325,1017–1020. doi:10.1126/science.1172545
+up-regulationofIP3R.Neuroscience406,38–49. doi:10.1016/j.neuroscience. Rueli,R.H.,Parubrub,A.C.,Dewing,A.S.,Hashimoto,A.C.,Bellinger,M.T.,
+2019.02.029 and Weeber, E. J. (2015). Increased selenoprotein P in choroid plexus and
+Miller,J.A.,Oldham,M.C.,andGeschwind,D.H.(2008).Asystemslevelanalysis cerebrospinalfluidinAlzheimer’sdiseasebrain.J.AlzheimersDis.44,379–383.
+oftranscriptionalchangesinAlzheimer’sdiseaseandnormalaging.J.Neurosci. doi:10.3233/JAD-141755
+28,1410–1420. doi:10.1523/JNEUROSCI.4098-07.2008 Rueli,R.H.,Torres,D.J.,Dewing,A.S.,Kiyohara,A.C.,Barayuga,S.M.,and
+Mustacich,D.,andPowis,G.(2000).Thioredoxinreductase.Biochem.J.346(Pt1), Bellinger,M.T.(2017).SelenoproteinSreducesendoplasmicreticulumstress-
+1–8. doi:10.1042/bj3460001 inducedphosphorylationoftau:potentialroleinselenatemitigationoftau
+Ng, L., Goodyear, R. J., Woods, C. A., Schneider, M. J., Diamond, E., and pathology.J.AlzheimersDis.55,749–762. doi:10.3233/JAD-151208
+Richardson,G.P.(2004).Hearinglossandretardedcochleardevelopmentin Saito,Y.(2020).SelenoproteinPasaninvivoredoxregulator:disordersrelated
+micelackingtype2iodothyroninedeiodinase.Proc.Natl.Acad.Sci.U.S.A.101, toitsdeficiencyandexcess.J.Clin.Biochem.Nutr.66,1–7. doi:10.3164/jcbn.
+3474–3479. doi:10.1073/pnas.0307402101 19-31
+Ng, L., Hernandez, A., He, W., Ren, T., Srinivas, M., and Ma, M. (2009). A Savaskan, N. E., Borchert, A., Brauer, A. U., and Kuhn, H. (2007). Role for
+protectiverolefortype3deiodinase,athyroidhormone-inactivatingenzyme, glutathioneperoxidase-4inbraindevelopmentandneuronalapoptosis:specific
+incochleardevelopmentandauditoryfunction.Endocrinology150,1952–1960. inductionofenzymeexpressioninreactiveastrocytesfollowingbraininjury.
+doi:10.1210/en.2008-1419 FreeRadic.Biol.Med.43,191–201. doi:10.1016/j.freeradbiomed.2007.03.033
+Ng,L.,Lyubarsky,A.,Nikonov,S.S.,Ma,M.,Srinivas,M.,andKefas,B.(2010). Schomburg,L.(2016).Dietaryseleniumandhumanhealth.Nutrients9:22. doi:
+Type3deiodinase,athyroid-hormone-inactivatingenzyme,controlssurvival 10.3390/nu9010022
+andmaturationofconephotoreceptors.J.Neurosci.30,3347–3357. doi:10. Schomburg,L.,Schweizer,U.,Holtmann,B.,Flohe,L.,Sendtner,M.,andKohrle,
+1523/JNEUROSCI.5267-09.2010 J.(2003).GenedisruptiondisclosesroleofselenoproteinPinseleniumdelivery
+Nobili, A., Latagliata, E. C., Viscomi, M. T., Cavallucci, V., Cutuli, D., and totargettissues.Biochem.J.370,397–402. doi:10.1042/bj20021853
+Giacovazzo,G.(2017).Dopamineneuronallosscontributestomemoryand Schweizer,U.,Streckfuss,F.,Pelt,P.,Carlson,B.A.,Hatfield,D.L.,Kohrle,J.,etal.
+rewarddysfunctioninamodelofAlzheimer’sdisease.Nat.Commun.8:14727. (2005).HepaticallyderivedselenoproteinPisakeyfactorforkidneybutnotfor
+doi:10.1038/ncomms14727 brainseleniumsupply.Biochem.J.386,221–226. doi:10.1042/BJ20041973
+Paz-Y-Mino,C.,Carrera,C.,Lopez-Cortes,A.,Munoz,M.J.,Cumbal,N.,Castro, Seiler,A.,Schneider,M.,Forster,H.,Roth,S.,Wirth,E.K.,andCulmsee,C.(2008).
+B.,etal.(2010).GeneticpolymorphismsinapolipoproteinEandglutathione Glutathione peroxidase 4 senses and translates oxidative stress into 12/15-
+peroxidase 1 genes in the ecuadorian population affected with Alzheimer’s lipoxygenasedependent-andAIF-mediatedcelldeath.CellMetab8,237–248.
+disease. Am. J. Med. Sci. 340, 373–377. doi: 10.1097/MAJ.0b013e3181 doi:10.1016/j.cmet.2008.07.005
+e93475 Shao, Z. Q., Zhang, X., Fan, H. H., Wang, X. S., Wu, H. M., Zhang, L., et al.
+Pera, M., Larrea, D., Guardia-Laguarta, C., Montesinos, J., Velasco, K. R., (2019).SelenoproteinTpromotesproliferationandG1-to-StransitioninSK-
+and Agrawal, R. R. (2017). Increased localization of APP-C99 in N-SHcells:implicationsinParkinson’sdisease.J.Nutr.149,2110–2119. doi:
+mitochondria-associated ER membranes causes mitochondrial dysfunction 10.1093/jn/nxz199
+in Alzheimer disease. EMBO J. 36, 3356–3371. doi: 10.15252/embj.2017 Shi,T.,Yang,Y.,Zhang,Z.,Zhang,L.,Song,J.,Ping,Y.,etal.(2019).LossofMsrB1
+96797 perturbsspatiallearningandlong-termpotentiation/long-termdepressionin
+Perkovic,M.N.,Strac,D.S.,Tudor,L.,Konjevod,M.,Erjavec,G.N.,andPivac,N. mice.Neurobiol.Learn.Mem.166:107104. doi:10.1016/j.nlm.2019.107104
+(2018).Catechol-O-methyltransferase,cognitionandAlzheimer’sdisease.Curr. Shin,E.J.,Chung,Y.H.,Sharma,N.,Nguyen,B.T.,Lee,S.H.,andKang,S.W.
+AlzheimerRes.15,408–419. doi:10.2174/1567205015666171212094229 (2020). Glutathione peroxidase-1 knockout facilitates memory impairment
+FrontiersinNeuroscience|www.frontiersin.org 12 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #13
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+induced by beta-Amyloid (1-42) in mice via inhibition of PKC betaII- Wu, J. R., Tuo, Q. Z., and Lei, P. (2018). Ferroptosis, a recent defined form
+mediated ERK signaling; application with glutathione peroxidase-1 gene- ofcriticalcelldeathinneurologicaldisorders.J.Mol.Neurosci.66,197–206.
+encoded adenovirus vector. Neurochem. Res. 45, 2991–3002. doi: 10.1007/ doi:10.1007/s12031-018-1155-6
+s11064-020-03147-3 Xie, Y., Liu, Q., Zheng, L., Wang, B., Qu, X., Ni, J., et al. (2018).
+Shin,E.J.,Hwang,Y.G.,Pham,D.T.,Lee,J.W.,Lee,Y.J.,andPyo,D.(2018). Se-methylselenocysteine ameliorates neuropathology and cognitive deficits
+Glutathioneperoxidase-1overexpressingtransgenicmiceareprotectedfrom by attenuating oxidative stress and metal dyshomeostasis in Alzheimer
+neurotoxicityinducedbymicrocystin-leucine-arginine.Environ.Toxicol.33, model mice. Mol. Nutr. Food Res. 62:e1800107. doi: 10.1002/mnfr.201
+1019–1028. doi:10.1002/tox.22580 800107
+Soerensen,J.,Jakupoglu,C.,Beck,H.,Forster,H.,Schmidt,J.,andSchmahl,W. Xie, Y., Tan, Y., Zheng, Y., Du, X., and Liu, Q. (2017). Ebselen ameliorates
+(2008).Theroleofthioredoxinreductasesinbraindevelopment.PLoSOne beta-amyloid pathology, tau pathology, and cognitive impairment in triple-
+3:e1813. doi:10.1371/journal.pone.0001813 transgenicAlzheimer’sdiseasemice.J.Biol.Inorg.Chem.22,851–865. doi:
+Solovyev,N.(2020).SelenoproteinPanditspotentialroleinAlzheimer’sdisease. 10.1007/s00775-017-1463-2
+Hormones19,73–79. doi:10.1007/s42000-019-00112-w Yamamoto, A., Shin, R. W., Hasegawa, K., Naiki, H., Sato, H., Yoshimasu, F.,
+Solovyev, N. D. (2015). Importance of selenium and selenoprotein for brain etal.(2002).Iron(III)inducesaggregationofhyperphosphorylatedtauandits
+function:fromantioxidantprotectiontoneuronalsignalling.J.Inorg.Biochem. reductiontoiron(II)reversestheaggregation:implicationsintheformation
+153,1–12. doi:10.1016/j.jinorgbio.2015.09.003 ofneurofibrillarytanglesofAlzheimer’sdisease.J.Neurochem.82,1137–1147.
+Solovyev,N.,Drobyshev,E.,Bjorklund,G.,Dubrovskii,Y.,Lysiuk,R.,andRayman, doi:10.1046/j.1471-4159.2002.t01-1-01061.x
+M.P.(2018).Selenium,selenoproteinP,andAlzheimer’sdisease:istherealink? Yao,H.,Fan,R.,Zhao,X.,Zhao,W.,Liu,W.,Yang,J.,etal.(2016).Selenoprotein
+FreeRadic.Biol.Med.127,124–133. doi:10.1016/j.freeradbiomed.2018.02.030 Wredox-regulatedCa2+channelscorrelatewithseleniumdeficiency-induced
+Song, G. L., Chen, C., Wu, Q. Y., Zhang, Z. H., Zheng, R., Chen, Y., muscles Ca2+ leak. Oncotarget 7, 57618–57632. doi: 10.18632/oncotarget.
+etal.(2018).Selenium-enrichedyeastinhibitedbeta-amyloidproductionand 11459
+modulatedautophagyinatripletransgenicmousemodelofAlzheimer’sdisease. Ye,Y.,Shibata,Y.,Yun,C.,Ron,D.,andRapoport,T.A.(2004).Amembrane
+Metallomics10,1107–1115. doi:10.1039/C8MT00041G protein complex mediates retro-translocation from the ER lumen into the
+Song, G., Zhang, Z., Wen, L., Chen, C., Shi, Q., and Zhang, Y. cytosol.Nature429,841–847. doi:10.1038/nature02656
+(2014). Selenomethionine ameliorates cognitive decline, reduces tau Yim,S.Y.,Chae,K.R.,Shim,S.B.,Hong,J.T.,Park,J.Y.,Lee,C.Y.,etal.(2009).
+hyperphosphorylation, and reverses synaptic deficit in the triple transgenic ERK activation induced by selenium treatment significantly downregulates
+mouse model of Alzheimer’s disease. J. Alzheimers Dis. 41, 85–99. beta/gamma-secretaseactivityandTauphosphorylationinthetransgenicrat
+doi:10.3233/JAD-131805 overexpressing human selenoprotein M. Int. J. Mol. Med. 24, 91–96. doi:
+Stockwell,B.R.,FriedmannAngeli,J.P.,Bayir,H.,Bush,A.I.,Conrad,M.,and 10.3892/ijmm_00000211
+Dixon,S.J.(2017).Ferroptosis:aregulatedcelldeathnexuslinkingmetabolism, Yoo,M.H.,Gu,X.,Xu,X.M.,Kim,J.Y.,Carlson,B.A.,Patterson,A.D.,etal.
+redox biology, and disease. Cell 171, 273–285. doi: 10.1016/j.cell.2017. (2010). Delineating the role of glutathione peroxidase 4 in protecting cells
+09.021 againstlipidhydroperoxidedamageandinAlzheimer’sdisease.Antioxid.Redox
+Sun,Y.,Butler,J.A.,andWhanger,P.D.(2001).Glutathioneperoxidaseactivity Signal.12,819–827. doi:10.1089/ars.2009.2891
+and selenoprotein W levels in different brain regions of selenium-depleted Yue,C.,Shan,Z.,Tan,Y.,Yao,C.,Liu,Y.,Liu,Q.,etal.(2020).His-richdomainof
+rats(1).J.Nutr.Biochem.12,88–94. doi:10.1016/S0955-2863(00)00130-3 selenoproteinpamelioratesneuropathologyandcognitivedeficitsbyregulating
+Talantova,M.,Sanz-Blasco,S.,Zhang,X.,Xia,P.,Akhtar,M.W.,andOkamoto, TrkBpathwayandzinchomeostasisinanAlzheimermodelofmice.ACSChem.
+S. (2013). Abeta induces astrocytic glutamate release, extrasynaptic NMDA Neurosci.11,4098–4110. doi:10.1021/acschemneuro.0c00278
+receptoractivation,andsynapticloss.Proc.Natl.Acad.Sci.U.S.A.110,E2518– Zhang, X., Liu, R. P., Cheng, W. H., and Zhu, J. H. (2019). Prioritized brain
+E2527. doi:10.1073/pnas.1306832110 selenium retention and selenoprotein expression: nutritional insights into
+Tejera, D., and Heneka, M. T. (2016). Microglia in Alzheimer’s disease: the Parkinson’sdisease.Mech.AgeingDev.180,89–96. doi:10.1016/j.mad.2019.
+good,thebadandtheugly.Curr.AlzheimerRes.13,370–380. doi:10.2174/ 04.004
+1567205013666151116125012 Zhang,Y.,Zhou,Y.,Schweizer,U.,Savaskan,N.E.,Hua,D.,Kipnis,J.,etal.(2008).
+Turanov,A.A.,Everley,R.A.,Hybsier,S.,Renko,K.,Schomburg,L.,Gygi,S.P., Comparativeanalysisofselenocysteinemachineryandselenoproteomegene
+etal.(2015).Regulationofselenocysteinecontentofhumanselenoproteinpby expressioninmousebrainidentifiesneuronsaskeyfunctionalsitesofselenium
+dietaryseleniumandinsertionofcysteineinplaceofselenocysteine.PLoSOne inmammals.J.Biol.Chem.283,2427–2438. doi:10.1074/jbc.M707951200
+10:e0140353. doi:10.1371/journal.pone.0140353 Zhang,Z.H.,Chen,C.,Jia,S.Z.,Cao,X.C.,Liu,M.,andTian,J.(2020).Selenium
+Valentine,W.M.,Hill,K.E.,Austin,L.M.,Valentine,H.L.,Goldowitz,D.,and restoressynapticdeficitsbymodulatingNMDAreceptorsandselenoproteinK
+Burk,R.F.(2005).Brainstemaxonaldegenerationinmicewithdeletionof inanAlzheimer’sdiseasemodel.Antioxid.RedoxSignal.doi:10.1089/ars.2019.
+selenoproteinp.Toxicol.Pathol.33,570–576.doi:10.1080/01926230500243045 7990Onlineaheadofprint.
+vanEersel,J.,Ke,Y.D.,Liu,X.,Delerue,F.,Kril,J.J.,Gotz,J.,etal.(2010).Sodium Zhang, Z. H., Chen, C., Wu, Q. Y., Zheng, R., Liu, Q., Ni, J. Z., et al.
+selenatemitigatestaupathology,neurodegeneration,andfunctionaldeficitsin (2016). Selenomethionine reduces the deposition of beta-amyloid plaques
+Alzheimer’s disease models. Proc. Natl. Acad. Sci. U.S.A. 107, 13888–13893. by modulating beta-secretase and enhancing selenoenzymatic activity in a
+doi:10.1073/pnas.1009038107 mousemodelofAlzheimer’sdisease.Metallomics8,782–789. doi:10.1039/
+Verma, S., Hoffmann, F. W., Kumar, M., Huang, Z., Roe, K., Nguyen-Wu, E., C6MT00117C
+etal.(2011).SelenoproteinKknockoutmiceexhibitdeficientcalciumfluxin Zhang,Z.H.,Wen,L.,Wu,Q.Y.,Chen,C.,Zheng,R.,Liu,Q.,etal.(2017a).
+immunecellsandimpairedimmuneresponses.J.Immunol.186,2127–2137. Long-term dietary supplementation with selenium-enriched yeast improves
+doi:10.4049/jimmunol.1002878 cognitiveimpairment,reversessynapticdeficits,andmitigatesTaupathology
+Wang,R.,andReddy,P.H.(2017).RoleofglutamateandNMDAreceptorsin inatripletransgenicmousemodelofAlzheimer’sdisease.J.Agric.FoodChem.
+Alzheimer’sdisease.J.AlzheimersDis.57,1041–1048.doi:10.3233/JAD-160763 65,4970–4979. doi:10.1021/acs.jafc.7b01465
+Weeber, E. J., Beffert, U., Jones, C., Christian, J. M., Forster, E., Sweatt, J. D., Zhang,Z.H.,Wu,Q.Y.,Chen,C.,Zheng,R.,Chen,Y.,Liu,Q.,etal.(2017b).
+etal.(2002).ReelinandApoEreceptorscooperatetoenhancehippocampal Selenomethionineattenuatestheamyloid-betalevelbybothinhibitingamyloid-
+synapticplasticityandlearning.J.Biol.Chem.277,39944–39952. doi:10.1074/ betaproductionandmodulatingautophagyinNeuron-2a/AbetaPPswecells.
+jbc.M205147200 J.AlzheimersDis.59,591–602. doi:10.3233/JAD-170216
+Wirth, E. K., Conrad, M., Winterer, J., Wozny, C., Carlson, B. A., and Roth, Zhang,Z.H.,Wu,Q.Y.,Chen,C.,Zheng,R.,Chen,Y.,Ni,J.Z.,etal.(2018).
+S. (2010). Neuronal selenoprotein expression is required for interneuron Comparisonoftheeffectsofselenomethionineandselenium-enrichedyeast
+developmentandpreventsseizuresandneurodegeneration.FASEBJ.24,844– inthetriple-transgenicmousemodelofAlzheimer’sdisease.FoodFunct.9,
+852. doi:10.1096/fj.09-143974 3965–3973. doi:10.1039/C7FO02063E
+FrontiersinNeuroscience|www.frontiersin.org 13 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+
+fnins-15-646518 March2,2021 Time:17:46 #14
+ZhangandSong SelenoproteinsandAlzheimer’sdisease
+Zhang, Z. H., Wu, Q. Y., Zheng, R., Chen, C., Chen, Y., Liu, Q., et al. ConflictofInterest:Theauthorsdeclarethattheresearchwasconductedinthe
+(2017c).Selenomethioninemitigatescognitivedeclinebytargetingbothtau absenceofanycommercialorfinancialrelationshipsthatcouldbeconstruedasa
+hyperphosphorylation and autophagic clearance in an Alzheimer’s disease potentialconflictofinterest.
+mousemodel.J.Neurosci.37,2449–2462. doi:10.1523/JNEUROSCI.3229-16.
+2017 Copyright © 2021 Zhang and Song. This is an open-access article distributed
+Zhao, Y., Banerjee, S., Huang, P., Wang, X., Gladson, C. L., Heston, underthetermsoftheCreativeCommonsAttributionLicense(CCBY).Theuse,
+W. D., et al. (2016). Selenoprotein P neutralizes lipopolysaccharide distribution or reproduction in other forums is permitted, provided the original
+and participates in hepatic cell endoplasmic reticulum stress author(s)andthecopyrightowner(s)arecreditedandthattheoriginalpublication
+response. FEBS Lett. 590, 4519–4530. doi: 10.1002/1873-3468. in this journal is cited, in accordance with accepted academic practice. No use,
+12494 distributionorreproductionispermittedwhichdoesnotcomplywiththeseterms.
+FrontiersinNeuroscience|www.frontiersin.org 14 March2021|Volume15|Article646518
+
+---PAGE BREAK---
+

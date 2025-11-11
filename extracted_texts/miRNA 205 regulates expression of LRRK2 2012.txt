@@ -1,0 +1,802 @@
+Human Molecular Genetics, 2013, Vol. 22, No. 3 608–620
+doi:10.1093/hmg/dds470
+Advance Access published on November 2, 2012
+MicroRNA-205 regulates the expression of
+Parkinson’s disease-related leucine-rich repeat
+kinase 2 protein
+Hyun Jin Cho1, Guoxiang Liu1, Seok Min Jin2, Loukia Parisiadou1, Chengsong Xie1, Jia Yu1,
+Lixin Sun1, Bo Ma1, Jinhui Ding3, Rene´e Vancraenenbroeck4, Evy Lobbestael5, Veerle
+Baekelandt5,Jean-MarcTaymans5,PingHe6,JuanC.Troncoso7,YongShen6andHuaibinCai1,∗
+1Transgenics Section, Laboratory of Neurogenetics, National Institute on Aging, 2Biochemistry Section, Surgical
+Neurology Branch, National Institute of Neurological Disorders and Stroke and 3Computational Biology Core,
+Laboratory of Neurogenetics, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892, USA,
+4Laboratory for biomolecular modeling and 5Laboratory for Neurobiology and Gene Therapy, Katholieke Universiteit
+Leuven, Leuven B-3000, Belgium, 6Roskamp Institute, Sarasota, FL 34243 and 7Division of Neuropathology,
+Department of Pathology, The Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA
+ReceivedJuly24,2012;RevisedOctober3,2012;AcceptedOctober24,2012
+Recent genome-wide association studies indicate that a simple alteration of Leucine-rich repeat kinase 2
+(LRRK2) gene expression may contribute to the etiology of sporadic Parkinson’s disease (PD). However,
+the expression and regulation of LRRK2 protein in the sporadic PD brains remain to be determined. Here,
+we found that the expression of LRRK2 protein was enhanced in the sporadic PD patients using the frontal
+cortex tissue from a set of 16 PD patients and 7 control samples. In contrast, no significant difference was
+detected in the level of LRRK2 mRNA expression between the control and PD cases, suggesting a potential
+post-transcriptional modification of the LRRK2 protein expression in the sporadic PD brains. Indeed, it was
+identified that microRNA-205 (miR-205) suppressed the expression of LRRK2 protein through a conserved-
+bindingsiteatthe3′-untranslatedregion(UTR)ofLRRK2gene.Interestingly,miR-205expressionwassignifi-
+cantlydownregulatedinthebrainsofpatientswithsporadicPD,showingtheenhancedLRRK2proteinlevels.
+Also, in vitro studies in the cell lines and primary neuron cultures further established the role of miR-205 in
+modulating the expression of LRRK2 protein. In addition, introduction of miR-205 prevented the neurite
+outgrowth defects in the neurons expressing a PD-related LRRK2 R1441G mutant. Together, these findings
+suggest that downregulation of miR-205 may contribute to the potential pathogenic elevation of LRRK2
+proteininthebrainsofpatientswithsporadicPD,whileoverexpressionofmiR-205mayprovideanapplicable
+therapeutic strategy to suppress the abnormal upregulation of LRRK2 protein in PD.
+INTRODUCTION While the loss of DA neurons takes place in the SN, other
+brain regions, including the frontal cortex, develop Lewy
+Parkinson’s disease (PD) is a devastating neurodegenerative bodies (2–5). An increasing number of genetic mutations
+disorder, pathologically characterized by a preferential loss have been identified as the genetic causes of PD (6), in
+of dopaminergic (DA) neurons in the substantia nigra pars which multiple missense mutations in the Leucine-rich
+compacta (SNpc) and the presence of intracytoplasmic inclu- repeat kinase 2 (LRRK2) gene have been found to cause an
+sions namely Lewy bodies and Lewy neurites in neurons (1). autosomal-dominant form of familial PD (7,8). In addition to
+∗Towhomcorrespondenceshouldbeaddressedat:TransgenicsSection,LaboratoryofNeurogenetics,NationalInstituteonAging,NationalInstitutes
+ofHealth,Building35,Room1A116,MSC3707,35ConventDrive,Bethesda,MD20892-3707,USA.Tel: +3014028087;Fax: +3014802830;
+Email:caih@mail.nih.gov
+Published by Oxford University Press 2012.
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 609
+thefamilialmutations,recentgenome-wideassociationstudies
+(GWAS) reveal that the LRRK2 gene locus is a genetic risk
+factor for the more common sporadic PD (9,10), indicating a
+potential alteration of LRRK2 expression in the etiology of
+sporadic PD. In line with this notion, our previous studies in
+the PD mouse model demonstrate that overexpression of
+LRRK2 accelerated a-synuclein-mediated neurodegeneration,
+while inhibition of LRRK2 expression ameliorated a-
+synuclein-induced neuropathology (11). These earlier genetic
+and transgenic studies raise the question of whether the level
+of LRRK2 protein expression is elevated in the brains of
+patients with sporadic PD, and then how the expression of
+LRRK2 protein is regulated.
+MicroRNAs (miRNAs) are evolutionarily conserved small
+non-protein-coding transcripts that bind to partially comple-
+mentary sites in the 3′-untranslated region (3′-UTR) of target
+messenger RNAs (mRNAs), and thereby control the transla-
+tion of their target gene (12). A number of miRNAs have
+been associated with neuronal development, synaptic plasti-
+city, memory formation and neurodegenerative diseases in
+the nervous system through regulating the translation of tar-
+geted genes (13,14). In particular, miR-133b has been indi-
+cated in the development of midbrain DA neurons (15).
+MiR-7 represses the expression of a-synuclein protein, and
+protects against a-synuclein-mediated cytotoxicity (16).
+Meanwhile, a recent report shows that LRRK2 is actively
+involved in the miRNA processing (17). However, there is
+no report on the miRNA modulating LRRK2 protein expres-
+sion in PD brains.
+Here, we examined the level of LRRK2 protein and
+Figure1.LevelofLRRK2proteinisincreasedinthefrontalcortexofspor-
+LRRK2-targeting miRNAs in the frontal cerebral cortex of
+adicPDpatients.(A,B)WesternblotanalysisofLRRK2proteinexpression
+patients with sporadic PD. We found that the level of
+(probed with OC83A antibody) in the frontal cerebral cortex of NPC, PD
+LRRK2 protein expression was significantly increased in the andPDDcases.Thecasenumberwasshownonthetopofeachsample(Sup-
+PD brains, whereas the level of miRNA-205 (miR-205) ex- plementary Material, Table S2). (C) LRRK2 protein levels for each sample
+pression was decreased. We further demonstrated that werequantified.TheLRRK2bandsofsamplesinthetwodifferentmembranes
+werequantifiedusingthe02-06sample,loadedinbothgels.NPC(n¼7),PD
+miR-205 suppressed the expression of LRRK2 protein in the (n¼8) and PDD (n¼8) cases. ∗P,0.05 compared with NPC samples.
+cell lines and primary neuron cultures through targeting its (D)AscattergraphshowstheexpressionofLRRK2mRNAinthefrontalcere-
+binding site in the 3′-UTR of LRRK2 gene. Therefore, our bralcortexofNPC,PDandPDDcases.
+findings suggest that miR-205 may serve as a potential bio-
+marker in PD, and upregulation of the miR-205 level may
+provide a possible therapeutic avenue to inhibit LRRK2 ex- protein in the frontal cortex of PD and PDD patients was sig-
+pression in the sporadic PD. nificantly upregulated compared with the NPC (P,0.05,
+Fig. 1C). Moreover, the other LRRK2 antibody, provided by
+the Michael J. Fox Foundation (MJFF-2 (c41-2)), was used
+RESULTS to detect increased LRRK2 protein levels in the frontal
+cortexofthePDpatientstoconfirmthisresult(Supplementary
+The level of LRRK2 protein expression is increased in the
+Material, Fig. S1D and E). As a result, enhanced LRRK2
+frontal cortex of patients with sporadic PD
+protein expression was observed in the brain of PD patients
+To investigate whether the steady-state expression of LRRK2 using two different LRRK2 antibodies. Meanwhile, the
+proteinisaltered inthebrainofsporadicPDandsporadicPD levels of LRRK2 mRNA were comparable between NPC, PD
+with dementia (PDD) patients, we compared the expression and PDD cases (Fig. 1D). Also, to check whether increased
+level of LRRK2 protein in the frontal cortex of PD (n¼8) LRRK2 protein levels in the RIPA-soluble fractions of PD
+and PDD (n¼8) patients with age-matched non-pathological brains are from altered detergent solubility, we extracted pro-
+controls (NPCs, n¼7) (Fig. 1A and B). First, the specificity teins from the RIPA-insoluble fraction using the 2% sodium
+of the custom-made LRRK2 antibody (OC83A), recognizes dodecyl sulfate (SDS) buffer and LRRK2 proteins were
+both human and mouse LRRK2, was tested for western blot detected by western blotting analysis using an MJFF-2 poly-
+analyses (Supplementary Material, Fig. S1A–C). The densi- clonal LRRK2 antibody (Supplementary Material, Fig. S1F).
+tometry of LRRK2 bands in the human brain samples was As a result, we observed the LRRK2 proteins in the
+measured and normalized to b-actin for each sample RIPA-insolublefractionsofhumanfrontalcortex.Inaddition,
+(Fig. 1C). It was found that the expression of LRRK2 the LRRK2 proteins in the RIPA-insoluble fraction showed
+
+---PAGE BREAK---
+
+610 Human Molecular Genetics, 2013, Vol. 22, No. 3
+high levels in the PD brains compared with normal brains. Pearson’s correlation), patients with PD (P¼0.0166,
+This indicates that the differences in LRRK2 protein levels R2¼0.6933, n¼7) and patients with PDD (P¼0.0250,
+between NPC and PD cases do not reflect altered detergent R2¼0.6670, n¼7) (Fig. 2C). When all of the samples
+solubility. werecombinedtogether,amoresignificantinversecorrelation
+In addition to the frontal cortex, we also determined the of LRRK2 protein and miR-205 expression was found
+levels of LRRK2 proteins in the striatal medium-sized spiny (P¼0.0001∗∗∗, R2¼0.5494, n¼21; Fig. 2D).
+neuronsandSNpc DAneuronsof NPCandPDbrainsections To ensure the specificity of the decreased miR-205 level in
+by immunohistochemistry using a commercial mouse mono- PD patients, we also measured other highly scored putative
+clonal LRRK2 antibody (N138/6) that also recognizes both miRNA expression levels in the frontal cortex of NPC, PD
+mouse and human LRRK2 proteins. The specificity of the and PDD patients. The putative-binding sites for miR-181
+N138/6 was tested using LRRK2 knockout brain extracts and miR-19 are conserved among human, mouse, rat, dong
+and sections (Supplementary Material, Fig. S2A and B). The and other vertebrates, although these two miRNA binding
+striatal medium-sized spiny neurons were identified by sites showed lower scores compared with the miR-205
+co-staining with a marker protein CTIP2 (18). It was found binding site in the human LRRK2 3′-UTR (Table 1). Also,
+thattheintensityofLRRK2immunoreactivitywassignificant- we checked other miRNA, miR-410, having a
+lyenhancedinthestriatalneuronsofPDcasescomparedwith putative-responding site in the LRRK2 3′-UTR of the human
+theNPC(n¼18neuronsforNPCand19neuronsforPD;n¼ brain samples. Interestingly, miR-181 (Fig. 2E), miR-19
+4,6forNPCandPDcases;P,0.001,SupplementaryMater- (Fig.2F)andmiR-410(Fig.2G)revealednosignificantdiffer-
+ial,Fig.S2CandD).Ofnote,thelevelsofLRRK2mRNAex- ences between the normal and PD patient brains. Only the
+pression of the striatum were comparable between NPC and level of miR-205 expression was remarkably downregulated
+PD cases in quantitative real-time-PCR (qRT-PCR) analysis in the frontal cortex of PD patients compared with NPC.
+(Supplementary Material, Fig. S2E). In addition to the frontal cortex, miR-205 was significantly
+downregulated in the striatum of patients with sporadic PD
+compared with controls (n¼4 and 5 for NPC and PD cases,
+The levels of miR-205 are downregulated in the frontal
+P,0.01; Supplementary Material, Fig. S4A). And the
+cortex of sporadic PD patients
+levels of miR-410 expression showed no difference in NPC
+Considering that LRRK2 mRNA levels showed no significant and PD cases (Supplementary Material, Fig. S4B). A similar
+changesinthefrontalcortexofthePDandPDDpatientscom- inversecorrelationwasalsoobservedinthestriatum,although
+pared with the controls (Fig. 1D), the upregulation of LRRK2 statistical significance could not be determined due to limited
+proteinexpressioninthefrontalcortexregionofpatientswith sample numbers (P¼0.1679, R2¼0.3420, n¼7; Supple-
+sporadicPDisunlikelycaused byupregulatedgenetranscrip- mentary Material, Fig. S4C). Together, these analyses
+tion. It was speculated that microRNAs could be responsible supportthehypothesisthatthedownregulationofmiR-205ex-
+for the post-transcriptional regulation of LRRK2, as they pression contributes, at least in part, to the elevation of
+suppress gene translation by binding to the specific regions LRRK2proteinexpressioninthebrainsofpatientswithspor-
+within the 3′-UTR of thetarget gene ina sequence-dependent adic PD.
+manner (19).
+AnumberofputativemiRNAtargetsiteswereidentifiedin
+the3′-UTRofbothhumanandmouseLRRK2genesbysilicon Overexpression of miR-205 represses LRRK2 protein
+expression in vitro
+analysis using the TargetScan algorithm (20,21). We further
+narrowed down the conserved miRNAs across the different To directly investigate the effect of miR-205 on LRRK2
+vertebrate species utilizing the UCSC whole-genome align- protein expression, miR-205 precursor oligonucleotides
+ments program (http://genome.ucsc.edu). Of these, only the (pre-miR-205) was transfected into the cells and the level of
+miR-205 targeting site, located at 103–123bp downstream LRRK2 protein was analyzed by western blotting. Pre-miR
+of the human LRRK2 stop codon, is conserved among is converted into mature miR by Dicer after it enters into
+human, mouse, rat, dog and other vertebrates with a high the cells (24). It was observed that the treatment of
+score (Fig. 2A; Supplementary Material, Fig. S3). HEK293T cells with pre-miR-205 consistently repressed
+Human miR-205 is located in chromosome 1q at position LRRK2 protein expression by (cid:4)60% when compared with
+1q32.2 and has been reported to show variable expression in the cells treated with either vehicle (vcl) or a control
+a number of human carcinoma cell lines (22,23). To study scrambled pre-miRNA oligonucleotide (P,0.001 versus
+the possibility that the expression of LRRK2 protein is regu- control miRNA oligo, Fig. 3A). As a control, a similar reduc-
+lated by miR-205, the levels of miR-205 were measured in tionoftheLRRK2proteinexpressionwasdetectedinthecells
+the frontal cortex of NPC and PD cases by qRT-PCR treated with LRRK2 small interference RNA (siRNA) (P,
+(Fig.2B).Interestingly,thefrontalcerebralcortexofsporadic 0.001 versus control siRNA oligo, Fig. 3A). In addition, the
+PD patients showed significantly lower levels of miR-205 ex- efficacy of miR-205 in inhibiting the expression of LRRK2
+pressionthanthecontrols(n¼15forPDandn¼11forNPC, protein was investigated in the primary cultured mouse cor-
+P¼0.0017, Fig. 2B), whereas no significant difference was tical neurons. A similar reduction in the LRRK2 protein
+found between the patients with PD and PDD (Fig. 2B). level was observed after treatment with pre-miR-205 (P,
+Moreover, statistically significant inverse correlation 0.001 versus control miRNA oligo, Fig. 3B). Also, in
+between the expression of LRRK2 protein and miR-205 was primaryneuroncultures,therewasamiR-205dose-dependent
+observed in the NPCs (P¼0.0410, R2¼0.6029, n¼7, reduction in LRRK2 protein levels of which 20pmol of
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 611
+Figure2.IncreasedlevelsofLRRK2proteininthefrontalcortexofthesporadicPDpatientsarecorrelatedwiththedownregulationofmiR-205.(A)The
+miR-205 target sites are located at 103–123bp 3′-UTR of the human LRRK2 stop codon and at 159–191bp 3′-UTR of the mouse LRRK2 stop codon.
+(B)Scatterplotshowshsa-miR-205expressionlevelsinthefrontalcerebralcortexofNPCandPD/PDDcases.∗∗P,0.01comparedwithNPCsamples;nscom-
+paredwithPDsamples.(C)Pearson’scorrelationtestdemonstratesasignificantinversecorrelationbetweenhsa-miR-205andLRRK2proteinexpressioninthe
+frontalcortexofNPC(P¼0.0410,R2¼0.6029,n¼7),patientswithPD(P¼0.0166,R2¼0.7148,n¼7)andpatientswithPDD(P¼0.0250,R2¼0.6670,
+n¼7).(D)Pearson’scorrelationtestdemonstratesasignificantinversecorrelationbetweenhsa-miR-205andLRRK2proteinexpressioninthefrontalcortexof
+allhumanbrainsamples.(E–G)ScatterplotsshowmiR-181(E),miR-19(F)andmiR-410(G)levelsinthefrontalcerebralcortexofNPCandPD/PDDcases.
+pre-miR-205resultedin30%reductionofLRRK2expression, protein(asterisk,Fig.3Cc).Moreover,thismiR-205-mediated
+while 40pmol of pre-miR-205 reduced it by 50% (Fig. 3B). suppression of LRRK2 also showed dose-dependent result.
+Next, to ensure whether the miR-205 affects the stabilities The signal intensity of LRRK2 immunostaining was reduced
+of LRRK2 protein and mRNA, we performed a pulse-chase butstilldetectableinthecellhavingalow-GFPlevel(asterisk,
+experiment using cycloheximide to examine the degradation Fig. 3Ca), whereas it was almost absent in the cell having a
+of LRRK2 protein and also carried out the qRT-PCR to high-GFP level (asterisk, Fig. 3Cb).
+measure the LRRK2 mRNA in control oligo- or miR-205 ArecentstudyalsoindicatesthatLRRK2mayinteractwith
+oligo-transfected HEK293 cells. As a result, no significant the miRNA processing pathway in regulating the protein syn-
+alterations in the stabilities of LRRK2 protein and mRNA thesis (17). To investigate whether overexpression of wild-
+wereobservedbetweencontrololigoandmiR-205-transfected type or PD-related mutant LRRK2 affects the expression of
+cells (Supplementary Material, Fig. S5A and B). miR-205,we measured the levels of miR-205in the forebrain
+WefurtherexaminedthedownregulationofLRRK2protein homogenates from 1-month-old non-transgenic (nTg), wild-
+at the cellular level using the HeLa cells transfected with a type LRRK2 (wtLRRK2) overexpressing transgenic mice
+GFP-tagged pre-miR-205 expression vector (GFP-miR-205). (CamKII-wtLRRK2)andLRRK2G2019Smutantoverexpres-
+Here,GFPwasusedtoindicatethecellsexpressingexogenous sing transgenic mice (CamKII-G2019S) (11). As a result, it
+miR-205. Consistent with the results from the western blot was identified that overexpression of either WT or G2019S
+analysis,LRRK2immunoreactivitywaseffectivelydownregu- LRRK2 did not significantly affect the levels of miR-205 ex-
+latedbymiR-205intheGFP-positivecells(asterisks,Fig.3Ca pression in the mouse brains (Fig. 3D), indicating no regula-
+and Cb). In contrast, transfection of a control GFP-CmiR tion of miR-205 expression by enhanced LRRK2 protein
+vector exhibits no effects on the signal intensity of LRRK2 levels.
+
+---PAGE BREAK---
+
+612 Human Molecular Genetics, 2013, Vol. 22, No. 3
+Table1. ConservedsitesformiRNAfamiliesbroadlyconservedamongvertebrates
+Predictedconsequentialpairingofthetargetregion Context+scorea
+(top)andmiRNA(bottom)
+Position116–123ofLRRK23′-UTR 5′...AAAUAGCUCGUGUGUAUGAAGGA... 20.36
+|||||||
+hsa-miR-205 3′ GUCUGAGGCCACCUUACUUCCU
+Position505–511ofLRRK23′-UTR 5′...AAAUAUUCAAAUGAAUUUGCACU... 20.20
+|||||||
+hsa-miR-19b 3′ AGUCAAAACGUACCUAAACGUGU
+Position505–511ofLRRK23′-UTR 5′...AAAUAUUCAAAUGAAUUUGCACU... 20.20
+|||||||
+hsa-miR-19a 3′ AGUCAAAACGUAUCUAAACGUGU
+Position739–745ofLRRK23′-UTR 5′...UUUCAACUCUAUGUUUGAAUGUG... 20.04
+|||||||
+hsa-miR-181d 3′ UGGGUGGCUGUUGUUACUUACAA
+Position739–745ofLRRK23′-UTR 5′...UUUCAACUCUAUGUUUGAAUGUG... 20.04
+|||||||
+hsa-miR-181a 3′ UGAGUGGCUGUCGCAACUUACAA
+Position739–745ofLRRK23′-UTR 5′...UUUCAACUCUAUGUUUGAAUGUG... 20.04
+|||||||
+hsa-miR-181b 3′ UGGGUGGCUGUCGUUACUUACAA
+Position739–745ofLRRK23′-UTR 5′...UUUCAACUCUAUGUUUGAAUGUG... 20.04
+|||||||
+hsa-miR-181c 3′ UGAGUGGCUGUCCAACUUACAA
+aThecontext+scoreforaspecificsiteisthesumofthecontributionofsite-type,3′-pairing,localAU,position,targetsiteabundanceandseed-pairingstability
+calculatedasinGarciaetal.(38).
+Next, to confirm the role of miR-205 in regulating the activity (P,0.001 versus control oligo; P,0.001 versus
+LRRK2 protein expression, the putative miR-205 targeting control inhibitor; Fig. 4C). Together, these results demonstrate
+siteofLRRK2wasinsertedatthe3′-UTRofafireflyluciferase thatendogenousmiR-205isasuppressorofLRRK2proteinex-
+reporter gene (pGL3-LRRK2). Then it was tested whether pression in the cells.
+miR-205 affected the expression of the luciferase reporter
+in M17 cells. As a result, the luciferase activity of
+pGL3-LRRK2 was significantly decreased by co-expression
+of miR-205, which was also dose-dependent (P,0.05, 0.01 MiR-205 treatment rescues the R1441G LRRK2-induced
+versus pGL3-CXCR4 construct; Fig. 3E). In contrast, impairment of neurite outgrowth
+miR-205 showed no effect on the pGL3-CXCR4 construct
+LRRK2 is involved in the early development of neuronal pro-
+(negative control), which contains a chemokine receptor 4
+cesses(26).Theneuronsderivedfromtransgenicmiceoverex-
+siRNA binding site (Fig. 3E). Moreover, the co-expression
+pressingG2019SandY1699CmutantformsofLRRK2display
+of miR-205 with pGL3 expression vector containing point
+shortened neurites and reduced primary neurite numbers. To
+mutations in the LRRK2 miR-205 targeting site (LRRK2-
+investigate whether miR-205 has the rescue effect on the
+mUTR) displayed no reduction in the luciferase activity
+impairedneuriteoutgrowthinducedbymutantLRRK2expres-
+(Fig. 3F). These results demonstrate that miR-205 suppresses
+sion,themiR-205wasintroducedintotheculturedhippocam-
+the expression of LRRK2 protein through the direct targeting
+the 3′-UTR of LRRK2. pal neurons derived from R1441G LRRK2 transgenic mice
+(27). The bacterial artificial chromosome (BAC) clone used
+for generating the line of LRRK2 transgenic mice containing
+42kb DNA fragment downstream of the stop codon of
+MiR-205 inhibitor enhances LRRK2 protein expression
+human LRRK2, and thereby it has the miR-205 binding site
+Anti-miR miRNA inhibitors (miRNA inhibitors) are designed within the 3′-UTRof LRRK2 gene.Similar toprevious obser-
+to specifically bind to the endogenous miRNAs and inhibit vations in neurons overexpressing G2019S or Y1699C
+their activity on endogenous targets (25). Accordingly, it was LRRK2, the neurons expressing the R1441G LRRK2 also dis-
+identifiedthat transfectionofmiR-205inhibitors inducedupre- played shortened neurites (Fig. 5Ab and B) and reduced
+gulation of LRRK2 protein expression in neuron cultures dose neurite numbers (Fig. 5Ab and C) compared with littermate
+dependently. (P,0.05 versus control oligo, Fig. 4A and B). controls. Interestingly, the impaired neurite outgrowth was
+In addition, neuron culture co-transfected with pre-miR-205 prevented by overexpression of miR-205 (Fig. 5Ad, B and
+and miR-205 inhibitor exhibits no significant change in the C). However, overexpression of an irrelevant miRNA
+levels of LRRK2 protein (Fig. 4A and B). Also, the luciferase (miR-29) or a negative control miRNA (ngt ctrl) failed to
+activityofpGL3-LRRK2wassignificantlyincreasedinthepres- rescue the neurite outgrowth defects in neurons from the
+enceofthemiR-205inhibitor,whereasthenegativecontrolin- LRRK2R1441GBACtransgenicmouse(Fig.5A–C),indicat-
+hibitorandmiR-29inhibitorshowednoeffectontheluciferase ing that this rescue result is the miR-205 specific effect.
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 613
+Figure3.MiR-205modulatesLRRK2proteinexpressioninvitro.(A,B)WesternblotsshowLRRK2proteinexpressionlevelsinpre-miR-205oligo-orLRRK2
+siRNA-transfectedHEK293Tcells(A)andprimaryculturedmousecorticalneurons(B).AscrambledmicroRNAoligo(Ctrloligo),ascrambledsiRNA(Ctrl
+siRNA)andavehicle(Vcl)onlywereusedasnegativecontrols.b-Actinorb-IIItubulinwasusedasaloadingcontrol.Bargraphsdepictthesignalintensitiesof
+LRRK2-positivebandsinthevehicle,microRNAandsiRNA-treatedsamples.∗∗P,0.01and∗∗∗P,0.001comparedwithvehicle-treatedcells.(C)Represen-
+tativeimagesshowimmunostainingofendogenousLRRK2protein(red)intheHeLacellstransfectedwithlow(a)orhigh(b)levelsofGFP-miR205(green)
+plasmidsorcontrolGFP-CmiR(c)plasmid.Thetransfectedcellsaremarkedbyredasterisks.Scalebar:20mm.(D)QuantifiedmiR-205expressionlevelsinthe
+forebrainof1-month-oldCaMKII-wtLRRK2,CaMKII-G2019SandlittermatenTgmice(n¼3foreachgenotype).(E)Bargraphdepictstheluciferaseactivities
+ofthepGL3-LRRK2constructinthepresenceofincreasingconcentrationofmiR-205.Luciferaseactivitywasnormalizedtotherenillaluciferaseactivity.∗P,
+0.05,∗∗P,0.01comparedwith0pmolmiR-205-treatedcells.(F)LuciferaseactivitiesoftheLRRK2-mUTRinthepresenceofhsa-miR-205(20pmol).∗P,
+0.05comparedwithvehicle-treatedcells.
+Also, we checked the levels of LRRK2 mRNA and protein rescues the mutant LRRK2-induced neurite outgrowth defects
+in cultured hippocampal neurons from the LRRK2 R1441G through the suppression of LRRK2 protein expression.
+BACtransgenicmouseaftermiR-205.Asaresult,theexpres- Noticeably, miR-205-transfected nTg neurons showed a
+sion of LRRK2 mRNA showed no significant changes in the moderate increase in both the total neurite length and neurite
+miR-205-treated neurons compared with the control oligo- numbers (Fig. 5Ac, B and C). However, these changes do
+and miR-29 oligo-treated cells (Supplementary Material, not reach statistical significance, despite a significant reduc-
+Fig.S6A),whiletheexpressionofLRRK2proteinwassignifi- tion of LRRK2 protein expression was observed in these
+cantly downregulated by treatment of miR-205 (P,0.01 neurons (Fig. 5D and E). These observations in miR-205-
+versusR1441G+ngtctrl,Fig.5DandE).Thesedataindicate treated nTg neurons are consistent with our previous findings
+that transfected miR-205 efficiently downregulated LRRK2 in LRRK2 knockout neurons, in which only a moderate in-
+protein expression in the cultured neurons derived from the crease of neurite outgrowth was found in LRRK2-deficient
+LRRK2 R1441G BAC transgenic mice and it showed no neurons compared with control neurons (26).
+effects on the level of LRRK2 transcripts. Taken together, Next,wetriedtoprovethattherescueeffectofmiR-205on
+these results demonstrate that overexpression of miR-205 impairedneuriteoutgrowthintheR1441GLRRK2-expressing
+
+---PAGE BREAK---
+
+614 Human Molecular Genetics, 2013, Vol. 22, No. 3
+with our previous report that overexpression of wild-type
+LRRK2hadnosignificanteffectsonthedevelopmentofneur-
+onal processes when compared with littermate controls (26).
+Taken together, the miR-205 inhibitor exacerbated the
+neurite outgrowth defect by upregulation of R1441G LRRK2
+protein expression.
+Mouse midbrain DA neurons display a high level of
+miR-205 expression
+To further establish the inverse correlation between LRRK2
+protein and miR-205 expression in vivo, we checked the ex-
+pression of LRRK2 protein and miR-205 in the cerebral
+cortex,hippocampus,midbrain,striatumandcerebellum of1-
+month-old mice. As a result, the LRRK2 protein was highly
+expressed in the cerebral cortex, striatum and cerebellum;
+modestlyexpressedinthehippocampus;andbarelydetectable
+in the midbrain (Fig. 6A and B). Interestingly, the expression
+ofLRRK2mRNAwascomparableinthemidbrainandhippo-
+campus regions (Fig. 6C), suggesting a potential post-
+transcriptional regulation of LRRK2 protein expression in
+the midbrain. Consistent with this notion, we found the
+Figure4.TreatmentofmiR-205inhibitorupregulatesLRRK2proteinexpres-
+highest level of miR-205 expression in the midbrains of
+sion. (A) Western blot shows a dose-dependent increase of endogenous
+these mice (Fig. 6D). As a negative control, the level
+LRRK2 protein expression in mouse primary cortical neurons treated with
+miR-205inhibitoroligos.Thetotalamountofoligoswasthesameforeach of miR-452 expression, putative miRNA for the 3′-UTR of
+treatment by adjusting with negative control oligos. (B) Bar graph shows mouse LRRK2 but not conserved among the other species,
+thesignalintensitiesofLRRK2-positivebandsinvehicle(Vcl),miR-205in- was comparable in these brain regions (Fig. 6E). In addition,
+hibitor oligo and miR-205 plus miR-205 inhibitor mixture oligo-treated
+samples.∗P,0.05comparedwithvehicle-treatedcells.##P,0.01compared it was investigated whether the DA neurons are the main
+with40pmolinhibitor-treatedcells.(C)Bargraphdepictstheluciferaseactiv- cells expressing miR-205 in the mouse midbrain region. To
+ityinthepresenceof40pmolofthemiR-205inhibitor,negativecontrol(Ngt harvest the DA neurons, the laser capture microdissection
+ctrloligo),negativecontrolinhibitor(Ngtctrlinhibitor)andmiR-29inhibitor, (LCM)wasperformedandRNAswereextractedfromisolated
+respectively.Thesameamountoftotaloligoswasappliedtoeachcondition.
+neurons for qRT-PCR analysis. We performed the qRT-PCR
+∗∗∗P,0.001comparedwithNgtctrloligo-treatedcells.
+for the mRNA expressions of GFAP, TH, Vmat2 and DAT
+genes in isolated DA neurons and astrocytes to confirm the
+neurons is not the results produced by the indirect effect genetic make-up of two cell populations (Supplementary Ma-
+of miR-205. In the LRRK2 G2019S transgenic mice terial, Fig. S7). As a result, the mRNA level of GFAP, the
+(CaMKII-LRRK2 G2019S), the transgene contains only the marker gene of astrocyte, was significantly high in the astro-
+coding region of LRRK2 that lacks the miR-205 binding site cytes compared with DA neurons (Supplementary Material,
+(26). Using this mouse line, the same experiments were per- Fig. S7A). In contrast, the expression of the DA neuron
+formed with control oligo, miR-205 and miR-29. As a markers such as TH, Vmat2 and DAT was mainly observed
+result, it was observed that the treatment of miR-205 inthenigralDAneuronsbutnotintheastrocytes(Supplemen-
+showed no rescue effect on the neurite outgrowth defects in taryMaterial,Fig.S7B–D).Usingthesesamples,itwasfound
+the G2019S LRRK2-expressing neurons (Supplementary Ma- that the expression of miR-205 in midbrain DA neurons was
+terial, Fig. S6B and C), indicating the specific rescue effect extremelyhighercomparedwiththeastrocytes(Fig.6F),indi-
+of the miR-205 on impaired neurite outgrowth in the LRRK2 cating that miR-205 is mainly expressed in the neurons of
+R1441G BAC transgenic mouse through targeting the midbrain. Taken together, these results suggest that the high
+3′-UTR of LRRK2 gene. level of miR-205 expression may contribute to the low level
+TofurtherinvestigatewhetheranmiR-205inhibitorexacer- of LRRK2 protein expression in the mouse midbrain region.
+bates the neurite outgrowth defect induced by R1441G Because aging is a main factor contributing to the develop-
+LRRK2, we transfected the negative control inhibitor (ngt mentofsporadicPD,wedecidedtostudytheaging-dependent
+ctrlinh),miR-205inhibitor(miR-205inh),andmiR-29inhibi- changesofLRRK2protein,mRNAandmiR-205expressionin
+tor (miR-29 inh) into the neurons from nTg and LRRK2 themidbrainregionsusing1-,9-and18-month-oldmice.Asa
+R1441G BAC transgenic mice. We found that R1441G result, a significant reduction of LRRK2 protein was detected
+LRRK2-expressingneuronstreatedwiththemiR-205inhibitor in an age-dependent manner (Fig. 6G and H). Next, it was
+showed shorter neuritis and reduced neurite numbers com- investigated whether the alteration of LRRK2 protein expres-
+pared with the ngt ctrl inhibitor- and miR-29 inhibitor-treated sionintheoldermiceiscorrelated withthechangeinLRRK2
+R1441G LRRK2 neurons (Fig. 5Fd, G and H). Interestingly, mRNA levels. Consistent with previous results (28), there
+the miR-205 inhibitor revealed no effects on the nTg were no significant alterations of LRRK2 mRNA levels in
+neurons (Fig. 5F–H), despite 2-fold increase in LRRK2 the midbrain between young and old mice (Fig. 6I). Finally,
+proteinlevels(Fig.5IandJ).Theseobservationsareconsistent the levels of miR-205 expression in the midbrain of different
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 615
+Figure5.Pre-miR-205precursortreatmentrescuestheneuritegrowthdefectsinducedbyR1441GLRRK2.(A)Representativeimagesshowculturedhippocam-
+palneurons(2DIV)derivedfrompostnatalday1littermatenon-transgenic(nTg,a,c,e)andR1441GLRRK2transgenic(R1441G,b,d,f)pups.Theneurons
+werestainedwithb-IIItubulinantibody(green)24haftertransfectionwithanegativecontrol(ngtctrl)oligo(40pmol;a,b),pre-miR-205oligo(40pmol;c,d)
+orpre-miR-29oligo(40pmol;e,f).Scalebar:20mm.(B,C)Bargraphsdepictmeasurementofthetotalneuritelength(B),andthenumberofprimaryneurites
+(C)fromneuronsunderdifferenttreatmentconditions.Fiftyto100neuronswereanalyzedpergenotypepercondition.∗P,0.05,∗∗P,0.01and∗∗∗P,0.001.
+(D,E)WesternblotshowsalterationofLRRK2proteinexpressioninculturedhippocampalneuronsfromnTgandLRRK2R1441Gpups.Threeindependent
+experimentswerecarriedoutforthisstudy.∗P,0.05,∗∗P,0.01.(F)Representativeimagesshowculturedhippocampalneurons(2DIV)derivedfromlit-
+termatenon-transgenic(nTg,a,c,e)andR1441GLRRK2transgenic(R1441G,b,d,f)pups.Theneuronsweretransfectedwithanegativecontrolinhibitor(ngt
+ctrlinh)(40pmol;a,b),miR-205inhibitor(40pmol;c,d)ormiR-29inhibitor(40pmol;e,f).Scalebar:20mm.(G,H)Bargraphsshowmeasurementofthe
+totalneuritelength(G),andthenumberofprimaryneurites(H)fromneuronsunderdifferenttreatmentconditions.Fiftyto100neuronswereanalyzedper
+genotype per condition.∗P,0.05, ∗∗P,0.01,∗∗∗P,0.001. (I, J) Western blot showsLRRK2 protein levels in culturedhippocampal neuronsfrom nTg
+andLRRK2R1441Gpups.Threeindependentexperimentswerecarriedoutforthisstudy.∗∗∗P,0.001.
+
+---PAGE BREAK---
+
+616 Human Molecular Genetics, 2013, Vol. 22, No. 3
+age groups were measured using the qRT-PCR. Interestingly,
+it was found that the levels of miR-205 showed significantly
+higherexpressioninthemidbrainsof18-month-oldmicecom-
+pared with the 1-month-old group (P,0.001, Fig. 6J). To-
+gether, these data support an inverse correlation between the
+expressionofLRRK2proteinandmiR-205inthemousemid-
+brain in the aging process. It suggests that the expression of
+LRRK2 protein can be dynamically regulated by miR-205 in
+the midbrain during the normal aging.
+DISCUSSION
+MissensemutationsinLRRK2havebeenassociatedwithboth
+familialandsporadicformsofPD(29).RecentGWASfurther
+raisethepossibilitythatasimplealterationofLRRK2geneex-
+pressionmaycontributetothecommonsporadicPD(9,10).In
+support of this notion, here we showed that LRRK2 protein
+expression was significantly increased in the frontal cerebral
+cortex from patients with sporadic PD. Attempts have been
+made to examine the expression levels of LRRK2 protein in
+the brain of patients with familial and sporadic PD (30,31).
+However, it is difficult to draw conclusions from these early
+studies, because of the small sample sizes and the uncertainty
+ofLRRK2antibody’sspecificity.Here,wehavecharacterized
+twoLRRK2antibodiesthatspecificallyrecognizedLRRK2in
+thewesternblotandimmunohistochemical analyses,inwhich
+LRRK2knockouttissueswereusedasnegativecontrols.More
+critically, we were able to obtain a sufficient number of well-
+preserved frontal cerebral cortices of patients with sporadic
+PD/PDD and controls from the Sun Heath Institute (32) for
+LRRK2 protein expression study. Our western blot analysis
+demonstrated asignificantincrease ofLRRK2 proteinexpres-
+sion in the frontal cortex of patients with sporadic PD and
+PDD compared with the controls. In addition, it was detected
+that LRRK2 protein expression was also upregulated in the
+soma of striatal medium-sized spiny neurons of patients with
+sporadic PD by immunostaining of paraffin-embedded SNpc
+sections. Also, we tried to investigate the LRRK2 protein
+levels in the SNpc region of PD patients. Because of huge
+cell loss in this brain region, immunohistochemistry analysis
+was performed to observe anti-LRRK2 immuno-intensity in
+each DA neuron instead of western blot analysis. Consistent
+with the notion of very low LRRK2 expression in the SNpc
+DA neurons (28,33), no apparent LRRK2-positive staining
+was observed in the neuronal cell body of either NPC or PD
+cases (Supplementary Material, Fig. S8A). Instead, more
+Figure6.RegionaldistributionofLRRK2proteinandmiR-205expressionin
+LRRK2-positive puncta were found along the processes of
+mousebrains.(A)WesternblotofLRRK2proteinindifferentbrainregionsof
+1-month-oldmice.CTX,cerebralcortex;HIP,hippocampus;MB,midbrain; DAneuronsinthePDcasescomparedwiththecontrols(Sup-
+STR,striatum;CB,cerebellum.THandb-actinwereusedasloadingcontrols. plementary Material, Fig. S8A and B).
+(B–E)BargraphsquantifytheexpressionofLRRK2protein(B),mRNA(C), Also, we further examined the cell-type distribution of
+miR-205(D)andmiR-452asanegativecontrol(E)indifferentbrainregions.
+LRRK2 in the brain of 1-month-old mice by immunohisto-
+Therelativeexpressionisshownasapercentageofthemeanusingthecortex
+regionasreference.∗∗∗P,0.001.(F)Bargraphshowsthequantificationof chemistry using an LRRK2 N138/6 antibody. LRRK2
+miR-205expressioninthemidbrainDAneuronsandculturedprimaryastro- protein was more enriched in the soma of neurons compared
+cytes. In this experiment, U6 snRNA was used as a normalization control. with the astrocytes and microglia (Supplementary Material,
+∗∗∗P,0.001. (G) Western blot analysis of LRRK2 protein expression in
+Fig. S8C). The neurons, astrocytes and microglia were identi-
+themidbrainof1-,9-and18-month-oldmice.(H–J)Bargraphsshowquan-
+fied by co-staining with the respective marker proteins: neur-
+tificationofLRRK2protein(H),mRNAlevels(I)andmiR-205levels(J)in
+the midbrain of 1-, 9-and 18-month-old mice. ∗P,0.05, ∗∗P,0.01 and onal nuclei (NeuN), glial fibrillary acidic protein (GFAP)
+∗∗∗P,0.001. and ionized calcium-binding adaptor molecule 1 (IBa1). This
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 617
+indicatesthatLRRK2proteinexpressionmaybemorecontrib- causative factor in the pathogenesis of sporadic PD. We
+uted by neurons in the brains of NPC and PD cases. further reveal a novel regulatory mechanism of LRRK2
+By silicon analysis of the 3′-UTR of human LRRK2 gene protein expression through miR-205, and suggest that
+and its vertebrate orthologs, we identified a conserved miR-205 may serve as an applicable biomarker and a thera-
+miR-205-binding site across different vertebrate species. Pre- peutic target in the sporadic PD.
+viousstudiesdemonstratethatmiR-205modulatestheexpres-
+sion of low-density lipoprotein receptor-related protein 1, a
+multifunctional endocytic receptor that plays essential roles
+in the pathogenesis of Alzheimer’s disease (34). In addition,
+MATERIALS AND METHODS
+miR-205 has been shown to be overexpressed in some types
+of tumors such as head and neck squamous cell carcinoma Human brain tissues
+while it is significantly downregulated in the breast tumors
+Rapidly autopsied frontal cerebral cortices (within 3h of the
+compared with the matched normal tissue (22,23). These
+postmortem interval) were obtained from the Brain and
+reportsindicatethatmiR-205mayinvolveavarietyofimport-
+Body Donation Program of the Banner Sun Health Research
+ant biological and pathological pathways. We examined the
+Institute (32). Striatal tissues and paraffin-embedded striatum
+levels of miR-205 in the frontal cerebral cortex and striatum
+as well as SNpc sections were obtained from the brain bank
+of patients with sporadic PD and controls. We found an
+of Johns Hopkins University School of Medicine. Subjects
+inverse correlation between LRRK2 protein and miR-205 ex-
+or their legal representatives signed informed consents
+pression in the brains of PD and control cases. To study the
+approvedbytheBannerHealthandJohnsHopkinsInstitution-
+levels of LRRK2 protein and miR-205, we performed main
+alReviewBoards.ThediagnosisofPDwasmadebasedonthe
+experiments using the frontal cortex, a brain region that has
+clinicopathological criteria including characteristic clinical
+the projection of DA neurons. Although the frontal cortex of
+features and on the presence of Lewy bodies within the pig-
+PD patients shows no pronounced cell death like the SNpc
+mented neurons lost in the substantia nigra. Subjects with
+region, it is still molecularly and pathologically affected in
+PD were divided into two groups on the basis of the presence
+PD brains (2–5) and shows the biochemical alterations
+or absence of clinically documented dementia. NPCs were
+involved in the disease process. While the SNpc region of
+selected based on the absence of cognitive impairment, Par-
+sporadic PD is almost completely depleted of DA neurons
+kinsonism and Lewy bodies. Tissues of patients with auto-
+by the time of autopsy, the frontal cortex shows no dramatic
+somal recessive juvenile Parkinsonism, a relatively rare
+neuronal cell death. Nevertheless, the frontal cortex has the
+syndrome that shares many features of Parkinsonism, but
+Lewy bodies during the disease. So the study with the
+without the presence of Lewy bodies or Lewy neurites, were
+frontal cortex of sporadic PD patients can reveal pathogeni-
+excluded from this study. The average age at death for the
+cally relevant disease changes.
+PD subjects included in this study was 80+6.9 years old,
+Next, we identified the same inverse correlation of LRRK2
+whilefortheNPCsubjectsitwas85+6.6yearsold(Supple-
+protein and miR-205 expression in the mouse brain diverse
+mentary Material, Tables S1 and S2).
+regions, especially in the midbrain, in which the highest
+level of miR-205 expression but the lowest level of LRRK2
+protein expression was observed. The expression of LRRK2
+protein and miR-205 was also dynamically regulated and in-
+Western blot analysis
+versely correlated in this region between young and old
+mice, suggesting a potential post-transcriptional regulatory Protein extracts for western blots were prepared as described
+roleofmiR-205 inmodulatingtheLRRK2 proteinexpression previously (26). Briefly, brain tissue or isolated cells were
+during aging. These findings may also suggest that the main- sonicated in RIPA buffer (Sigma, St Louis, MO, USA) in
+tenance of a low level of LRRK2 expression by miR-205 is the presence of protease inhibitor cocktail, PMSF, and phos-
+important for the function and survival of midbrain DA phatase inhibitor cocktails 1 and 2 (all from Sigma). Lysates
+neurons. were then centrifuged at 48C for 15min at 14000rpm to get
+Indeed, we observed that overexpression of miR-205 sup- the supernatant of particulate and insoluble matter. For the
+pressed the expression of LRRK2 protein in both cell lines RIPA-insoluble fraction, SDS lysis buffer (2% SDS, 10mM
+and primary neuronal cultures, and prevented the neurite out- EDTA, 50mM Tris, pH 8.0 and PMSF) was added to the
+growthdefectsinducedbyPD-relatedLRRK2R1441Gexpres- pellet and then sonicated. Protein concentration was deter-
+sion. mined using the bicinchoninic acid (BCA) assay kit (Pierce,
+However, it remains unclear how miR-205 expression is Rockford, IL, USA). For western blotting, 20mg of protein
+downregulated in the brains of patients with PD. A recent was separated by polyacrylamide gel electrophoresis using
+reportindicatesaninvolvementofDNAmethylationinmodu- NuPage 4–12% Bis-Tris gels (Invitrogen, Carlsbad, CA,
+lating the expression of miR205 in cancer cells (35). Further USA) in NuPAGE MOPS SDS Running buffer (Invitrogen).
+studies on DNA methylation or other modifications of the To ensure efficient transfer of proteins, gels were incubated
+miR-205 gene locus in the brains of patients with PD may in 2×NuPAGE transfer buffer with methanol at room tem-
+provide the mechanistic insights into the alteration of perature for 20min. The separated proteins were then trans-
+miR-205 expression in patients with sporadic PD. ferred to nitrocellulose using the iBlot Dry Blotting system
+In summary, here we provide evidences of increased (Invitrogen) for 7min and incubated with specific primary
+LRRK2 protein expression in the PD brains as a potential antibodies.
+
+---PAGE BREAK---
+
+618 Human Molecular Genetics, 2013, Vol. 22, No. 3
+Antibodies working parameters: spot size¼7mm; power¼50–70mW
+and duration¼20 ms. After the GFP-positive neurons from
+The polyclonal LRRK2 antibody (OC83A) was generated by
+the midbrain were isolated and captured onto LCM Macro
+immunization of rabbits with a histidine-tagged recombinant
+Caps (Applied Biosystems), the total RNA was extracted
+peptide corresponding to the residues 982–1280 of human
+using the PicoPure Isolation kit (Applied biosystems) follow-
+LRRK2. The monoclonal LRRK2 antibody (N138/6) was
+ing the protocol provided by the company.
+obtained from UC Davis/NIH Neuromab Facility (Davis,
+CA, USA). Polyclonal antibodies (4EC9E and 4C84E)
+against murine LRRK2 were described previously (26). The Immunostaining and light microscopy
+other antibodies used for immunohistochemistry were glial fi-
+As described previously (36), mice were perfused via cardiac
+brillaryacidicprotein(GFAP)(Sigma-AldrichUSA,StLouis,
+infusion with 4% paraformaldehyde in cold phosphate buf-
+MO, USA), ionized calcium-binding adaptor molecule-1
+fered saline (PBS). To obtain frozen sections, brain tissues
+(Iba1) (Wako Chemicals USA, Richmond, VA, USA), tryo-
+were removed and submerged in 30% sucrose for 24h and
+sine hydroxylase (TH) (Pel-Freez Biologicals, Rogers, AR,
+sectioned at 40mm thickness with cryostat (Leica CM1950).
+USA) and HA (1:500, Santa Cruz Biotech, Santa Cruz, CA,
+For immunohistochemistry of human brain sections, paraffin
+USA). Monoclonal b-actin and b-III tubulin antibodies (all
+was removed with xylene and the sections were rehydrated
+from Sigma) were used as loading controls or to visualize
+in graded ethanol solution. The sections were then processed
+neurites, respectively.
+by microwave to elicit heat-induced antigen retrieval (three
+times, 5min at 350 W) in citrate buffer. The procedures for
+immunostaining were performed as described previously
+Quantitative real time PCR
+(11). For immunocytochemistry assay, cells were plated on
+Total RNAs were prepared from brain tissues using the to BD BioCoat poly-D-lysine/laminin cell ware 12mm round
+Mercury RNA isolation kit (Exiqon, Vedbaek, Denmark) coverslips. For endogenous LRRK2, the cells were fixed
+according to the manufacturer’s protocol. For LRRK2 with cold methanol for 5min on ice, and incubated with
+mRNA, reverse transcription was performed using the RT2 10%normalgoatserum(Sigma-Aldrich)for1hatroomtem-
+First Strand kit (SABiosciences, Fredrick, MD, USA) and a perature to block nonspecific staining. After washing with
+real-time PCR was performed using the Taqman PCR mix PBS, the cells were incubated with primary antibody
+(Applied Biosystems, Foster City, CA, USA) in the ABI’s (OC83A; 1:250) for 3h at room temperature. Alexa 488- or
+7900HT Fast Real-Time PCR system (Applied Biosystems). Alexa 568-conjugated secondary antibodies (Invitrogen)
+The levels of LRRK2 mRNA expression were normalized to were used to visualize the signals. The fluorescent images
+actin mRNA. The primers for human or mouse LRRK2 were captured using a laser scanning confocal microscope
+were: 5′-AGCAGGACAAAGCCAGCCTCA-3′ and 5′-GAT (LSM 510; Zeiss, Thornwood, NJ, USA). Paired images
+GGCAGCATTGGGATACAG-3′. The primers for mouse were collected at the same gain and offset settings.
+b-actin were: 5′-CGTTGACATCCGTAAAGACC-3′ and
+5′-GCTAGGAGCCAGAGCAGTAA-3′. The primers for the
+human b-actin were purchased from SABiosciences. For Cell line and primary neuron culture
+qRT-PCR of miRNA, a miRCURY LNA first-strand cDNA
+The human embryonic kidney cell line HEK293T and HeLa
+kit (Exiqon) was used for the reverse transcription reaction,
+cells were maintained in Dulbecco’s modified Eagle’s
+and qRT-PCR was performed using miRCURY LNA
+medium (DMEM-high glucose) containing 10% fetal bovine
+miR-205, miR-410, miR-452 and miRCURY LNA SYBR serum (FBS) in a 5% CO incubator at 378C. The human
+2
+Greenmastermix(Exiqon)accordingtothesupplier’sinstruc-
+neuroblastoma cell line M17 was maintained in Opti-MEM
+tion.U6snRNAwasusedasanormalizationcontrol(Exiqon)
+medium (GIBCO BRL) with 10% FBS. Mouse primary
+for both human and mouse samples. The primers for the
+neuron cultures were prepared from the cortex of newborn
+miR-181 andmiR-19 were purchased from Qiagen (Valencia,
+(postnatal day 0) pups, as described previously (36). Briefly,
+CA, USA). The relative expression of miRNA was calculated
+tissues were dissociated with papain (Worthington) buffer,
+by using the comparative DDC method, also known as the
+T and the cells were plated in poly-D-lysine-coated wells in
+22DDCT method. basal eagle medium (Sigma) containing B27, N2, 1mM
+L-glutamine and penicillin/streptomycin (all from Invitrogen).
+The medium was changed every 2 days.
+Laser capture microdissection (LCM) and RNA isolation
+Brains of the PITX3/H2BjGFP transgenic mouse, in which
+Constructs and transfection
+the GFP is expressed in the nucleus of midbrain DA
+neurons, were quickly dissected out and sectioned at 16mM The pEZX-MR01-miR205 and the miRNA scrambled control
+thickness by cryostat. The midbrain coronal sections (from clone for pEZX-MR01 were purchased from GeneCopoeia
+Bregma 22.92mm to 23.88mm) were collected consecu- (Germantown, MD, USA). The Cy3-labeled negative control
+tively onto a PAN membrane frame slide (Applied Biosys- oligonucleotides, negative control oligonucleotides, negative
+tems) and stored at 2808C until the performance of LCM. control inhibitor, pre-miR-205, anti-miR-205 inhibitor,
+TheGFP-positivecellsinthemidbrainwereisolatedandcap- pre-miR-29 and miR-29 inhibitor were purchased from
+tured by an ArturusXT microdissection system with fluores- Ambion (Austin, TX, USA). Small interfering RNA (siRNA)
+cent illumination (Applied Biosystems) at the following against human LRRK2 and non-targeting control siRNA
+
+---PAGE BREAK---
+
+Human Molecular Genetics, 2013, Vol. 22, No. 3 619
+were purchased from Santa Cruz Biotechnology. Lipofecta- SUPPLEMENTARY MATERIAL
+mine 2000 (Invitrogen) or FuGENE HD (Roche Applied
+Supplementary Material is available at HMG online.
+Science) was used for the transfection of cell lines, and the
+calcium phosphate method was used to transfect primary Conflict of Interest statement. None declared.
+neuron cultures as described previously (37). Briefly,
+primary neurons cultured for 10 days were transfected with
+DNA constructs or with a pre miRNA precursor. The DNA– FUNDING
+calcium phosphate precipitate was incubated with neuronal
+culturesfor(cid:4)3handthentheprecipitatewasdissolvedbyin- This work was supported in part by the Intramural Research
+Program of the National Institute on Aging at the National
+cubationinthemediumpre-equilibratedina10%CO incuba-
+2 InstitutesofHealth(H.C.,AG000944-01),NIHextramuralre-
+tor for 20min in a 5% CO incubator. The efficiency of
+2 searchgrants(Y.S.,NIHRO1025888andNIHR01AG032441),
+pre-miRNA oligo transfection was determined using
+and the Research Foundation - Flanders (FWO, grant
+Cy3-labeled pre-miRNA. On average, we achieved 99% effi-
+G.0666.09 to J.-M.T./V.B. and senior researcher fellowship
+ciency in cells and 60–70% efficiency in neurons. The cells
+to J.-M.T.), Agency for Innovation by Science and Technol-
+wereused24–48haftertransfectionforwesternblotanalysis
+ogy Grant (J.-M.T./V.B., IWT SBO/80020), Katholieke Uni-
+or immunostaining.
+versiteit Leuven Grants (J.-M.T./V.B, IOF-KP/07/001 and
+OT/08/052A). Support from the Michael J. Fox Foundation
+(J.-M.T./V.B.) and the Fund DruwO˜-Eerdekens managed by
+Luciferase activity assays
+the King Baudouin Foundation (J.-M.T.) is gratefully
+The 3′-UTR of human LRRK2 that contains the miR-205 tar- acknowledged. We are grateful to the Banner Sun Health Re-
+geting site (5′-AAATAGCTCGTGTGTATGAAGGA-3′) was searchInstituteBrainDonationProgramofSunCity,Arizona
+subcloned into the pGL3 vector (Promega, Madison, WS, for the provision of human brain tissue. The Banner Sun
+USA). The plasmid LRRK2-mUTR containing mutations of Health Research Institute Brain and Body Donation Program
+the miR-205 target site (5′-AAATAGCTGCTGTGTAGGA and theArizona Parkinson’sDisease Consortium issupported
+AGTA-3′) were also generated. The resulting pGL3-LRRK2 by the National Institute on Aging (P30 AG19610 Arizona
+expression construct was co-transfected with pre-miRNA Alzheimer’s Disease Core Center), the Arizona Department
+andpRL-TKvectorintotheHEK293Tcells.Luciferaseactiv- ofHealthServices(contract211002,ArizonaAlzheimer’sRe-
+itywasmeasuredusingthedualluciferaseassaykit(Promega) searchCenter),theArizonaBiomedicalResearchCommission
+and normalized to renila luciferase activity. (contracts 4001, 0011, 05-901 and 1001) and the Michael
+J. Fox Foundation for Parkinson’s Research. We thank Dr
+CharlesH.Adler(MayoClinic,Scottsdale,AZ,USA)forcrit-
+Image quantification
+ical reading and editing this manuscript. We thank other
+To quantify bands detected by western blotting, images were members of the Cai laboratory for all their support and help.
+analyzed using Multi Gaugew (ver. 3.0, Fujifilm). For the
+quantitative assessment of various marker protein accumula-
+tions and distributions in the soma or nucleus, images were REFERENCES
+taken using identical settings and exported to ImageJ (NIH)
+1. Schapira,A.H.(1997)PathogenesisofParkinson’sdisease.Baillieres.
+for imaging analyses. Images were converted to an 8-bit Clin.Neurol.,6,15–36.
+color scale (fluorescence intensity from 0 to 255) using 2. Ferrer,I.,Martinez,A.,Blanco,R.,Dalfo,E.andCarmona,M.(2011)
+ImageJ. The areas of interest were first selected by Polygon NeuropathologyofsporadicParkinsondiseasebeforetheappearanceof
+parkinsonism:preclinicalParkinsondisease.J.Neural.Transm.,118,
+or Freehand selection tools, and then subjected to measure-
+821–839.
+ment by mean optical intensities or area fractions. The mean
+3. Lanoue,A.C.,Dumitriu,A.,Myers,R.H.andSoghomonian,J.J.(2010)
+intensity of the background area was subtracted from the DecreasedglutamicaciddecarboxylasemRNAexpressioninprefrontal
+selected area to determine the net mean intensity. The length cortexinParkinson’sdisease.Exp.Neurol.,226,207–217.
+ofneuriteswasalsomeasuredusingNIH ImageJasdescribed 4. Beach,T.G.,Adler,C.H.,Lue,L.,Sue,L.I.,Bachalakuri,J.,Henry-
+Watson,J.,Sasse,J.,Boyer,S.,Shirohi,S.,Brooks,R.etal.(2009)
+previously (26). In each case, the bar graphs represent the
+UnifiedstagingsystemforLewybodydisorders:correlationwith
+neurite length or number of 50–100 neurons sampled from nigrostriataldegeneration,cognitiveimpairmentandmotordysfunction.
+three randomly selected microscopic fields of at least two in- Acta.Neuropathologica.,117,613–634.
+dependentexperimentsfromapersonblindtothegenotypeof 5. Dumitriu,A.,latourelle,J.C.,Hadzi,T.C.,Pankratz,N.,Garza,D.,Miller,
+J.P.,Vance,J.M.,Foroud,T.,Beach,T.G.andMyers,R.H.(2012)Gene
+the neurons.
+expressionprofilesinParkinsondiseasepreforntalcorteximplicate
+FOXO1andgeneunderitstranscriptionalregulation.PLoSGenet.,8,
+e1002794.
+Statistical analysis 6. Hardy,J.,Cai,H.,Cookson,M.R.,Gwinn-Hardy,K.andSingleton,A.
+(2006)GeneticsofParkinson’sdiseaseandparkinsonism.Ann.Neurol.,
+Data from three or more independent experiments are pre- 60,389–398.
+sentedasthemean+standarderrorofthemean(SEM).Stat- 7. Paisan-Ruiz,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simon,J.,vander,
+istical significance was determined using Student’s t-test B.M.,Lopez,D.M.,Aparicio,S.,Gil,A.M.,Khan,N.etal.(2004)
+CloningofthegenecontainingmutationsthatcausePARK8-linked
+followed by a Mann–Whitney test, Tukey–Kramer multiple
+Parkinson’sdisease.Neuron,44,595–600.
+comparison test or nonparametric Pearson’s correlation test.
+8. Zimprich,A.,Biskup,S.,Leitner,P.,Lichtner,P.,Farrer,M.,Lincoln,S.,
+Calculations were performed using GraphPad Prism software. Kachergus,J.,Hulihan,M.,Uitti,R.J.,Calne,D.B.etal.(2004)Mutations
+
+---PAGE BREAK---
+
+620 Human Molecular Genetics, 2013, Vol. 22, No. 3
+inLRRK2causeautosomal-dominantParkinsonismwithpleomorphic 25. Cheng,A.M.,Byrom,M.W.,Shelton,J.andFord,L.P.(2005)Antisense
+pathology.Neuron,44,601–607. inhibitionofhumanmiRNAsandindicationsforaninvolvementof
+9. Satake,W.,Nakabayashi,Y.,Mizuta,I.,Hirota,Y.,Ito,C.,Kubo,M., miRNAincellgrowthandapoptosis.NucleicAcidsRes.,33,1290–1297.
+Kawaguchi,T.,Tsunoda,T.,Watanabe,M.,Takeda,A.etal.(2009) 26. Parisiadou,L.,Xie,C.,Cho,H.J.,Lin,X.,Gu,X.L.,Long,C.X.,
+Genome-wideassociationstudyidentifiescommonvariantsatfourlocias Lobbestael,E.,Baekelandt,V.,Taymans,J.M.,Sun,L.etal.(2009)
+geneticriskfactorsforParkinson’sdisease.Nat.Genet.,41,1303–1307. Phosphorylationofezrin/radixin/moesinproteinsbyLRRK2promotesthe
+10. Simon-Sanchez,J.,Schulte,C.,Bras,J.M.,Sharma,M.,Gibbs,J.R.,Berg, rearrangementofactincytoskeletoninneuronalmorphogenesis.
+D.,Paisan-Ruiz,C.,Lichtner,P.,Scholz,S.W.,Hernandez,D.G.etal. J.Neurosci.,29,13971–13980.
+(2009)Genome-wideassociationstudyrevealsgeneticriskunderlying 27. Li,Y.,Liu,W.,Oo,T.F.,Wang,L.,Tang,Y.,Jackson-Lewis,V.,Zhou,
+Parkinson’sdisease.Nat.Genet.,41,1308–1312. C.,Geghman,K.,Bogdanov,M.,Przedborski,S.etal.(2009)Mutant
+11. Lin,X.,Parisiadou,L.,Gu,X.L.,Wang,L.,Shim,H.,Sun,L.,Xie,C., LRRK2(R1441G)BACtransgenicmicerecapitulatecardinalfeaturesof
+Long,C.X.,Yang,W.J.,Ding,J.etal.(2009)Leucine-richrepeatkinase2 Parkinson’sdisease.Nat.Neurosci.,12,826–828.
+regulatestheprogressionofneuropathologyinducedby 28. Galter,D.,Westerlund,M.,Carmine,A.,Lindqvist,E.,Sydow,O.and
+Parkinson’s-disease-relatedmutantalpha-synuclein.Neuron,64, Olson,L.(2006)LRRK2expressionlinkedtodopamine-innervatedareas.
+807–827. Ann.Neurol.,59,714–719.
+12. Bartel,D.P.(2004)MicroRNAs:genomics,biogenesis,mechanism,and 29. Giasson,B.I.andVanDeerlin,V.M.(2008)MutationsinLRRK2asa
+function.Cell,116,281–297. causeofParkinson’sdisease.Neurosignals,16,99–105.
+30. Sharma,S.,Bandopadhyay,R.,Lashley,T.,Renton,A.E.,Kingsbury,
+13. Kosik,K.S.(2006)TheneuronalmicroRNAsystem.Nat.Rev.Neurosci.,
+A.E.,Kumaran,R.,Kallis,C.,Vilarino-Guell,C.,O’Sullivan,S.S.,Lees,
+7,911–920.
+A.J.etal.(2011)LRRK2expressioninidiopathicandG2019Spositive
+14. Hebert,S.S.andDeStrooper,B.(2009)AlterationsofthemicroRNA
+Parkinson’sdiseasesubjects:Amorphologicalandquantitativestudy.
+networkcauseneurodegenerativedisease.TrendsNeurosci.,32,199–206.
+Neuropathol.Appl.Neurobiol.,37,777–790.
+15. Kim,J.,Inoue,K.,Ishii,J.,Vanti,W.B.,Voronov,S.V.,Murchison,E.,
+31. Devine,M.J.,Kaganovich,A.,Ryten,M.,Mamais,A.,Trabzuni,D.,
+Hannon,G.andAbeliovich,A.(2007)AMicroRNAfeedbackcircuitin
+Manzoni,C.,McGoldrick,P.,Chan,D.,Dillman,A.,Zerle,J.etal.(2011)
+midbraindopamineneurons.Science,317,1220–1224.
+PathogenicLRRK2mutationsdonotaltergeneexpressionincellmodel
+16. Junn,E.,Lee,K.W.,Jeong,B.S.,Chan,T.W.,Im,J.Y.andMouradian,
+systemsorhumanbraintissue.PLoSONE,6,e22489.
+M.M.(2009)Repressionofalpha-synucleinexpressionandtoxicityby
+32. Beach,T.G.,Sue,L.I.,Walker,D.G.,Roher,A.E.,Lue,L.,Vedders,L.,
+microRNA-7.Proc.NatlAcad.Sci.USA,106,13052–13057.
+Connor,D.J.,Sabbagh,M.N.andRogers,J.(2008)TheSunHealth
+17. Gehrke,S.,Imai,Y.,Sokol,N.andLu,B.(2010)PathogenicLRRK2
+ResearchInstituteBrainDonationProgram:descriptionandexperience,
+negativelyregulatesmicroRNA-mediatedtranslationalrepression.Nature,
+1987–2007.CellTissueBank,9,229–245.
+466,637–641.
+33. Taymans,J.M.,Vanden,H.C.andBaekelandt,V.(2006)Distributionof
+18. Arlotta,P.,Molyneaux,B.J.,Jabaudon,D.,Yoshida,Y.andMacklis,J.D.
+PINK1andLRRK2inratandmousebrain.J.Neurochem.,98,951–961.
+(2008)Ctip2controlsthedifferentiationofmediumspinyneuronsandthe
+34. Song,H.andBu,G.(2009)MicroRNA-205inhibitstumorcellmigration
+establishmentofthecellulararchitectureofthestriatum.J.Neurosci.,28,
+throughdown-regulatingtheexpressionoftheLDLreceptor-related
+622–632.
+protein1.Biochem.Biophys.Res.Commun.,388,400–405.
+19. Bartel,D.P.(2009)MicroRNAs:targetrecognitionandregulatory 35. Bhatnagar,N.,Li,X.,Padi,S.K.,Zhang,Q.,Tang,M.S.andGuo,B.
+functions.Cell,136,215–233. (2010)DownregulationofmiR-205andmiR-31confersresistanceto
+20. Lewis,B.P.,Shih,I.H.,Jones-Rhoades,M.W.,Bartel,D.P.andBurge, chemotherapy-inducedapoptosisinprostatecancercells.CellDeathDis.,
+C.B.(2003)PredictionofmammalianmicroRNAtargets.Cell,115, 1,e105.
+787–798. 36. Cai,H.,Lin,X.,Xie,C.,Laird,F.M.,Lai,C.,Wen,H.,Chiang,H.C.,
+21. Lewis,B.P.,Burge,C.B.andBartel,D.P.(2005)Conservedseedpairing, Shim,H.,Farah,M.H.,Hoke,A.etal.(2005)LossofALS2functionis
+oftenflankedbyadenosines,indicatesthatthousandsofhumangenesare insufficienttotriggermotorneurondegenerationinknock-outmicebut
+microRNAtargets.Cell,120,15–20. predisposesneuronstooxidativestress.J.Neurosci.,25,7567–7574.
+22. Fletcher,A.M.,Heaford,A.C.andTrask,D.K.(2008)Detectionof 37. Lai,C.,Xie,C.,McCormack,S.G.,Chiang,H.C.,Michalak,M.K.,Lin,
+metastaticheadandnecksquamouscellcarcinomausingtherelative X.,Chandran,J.,Shim,H.,Shimoji,M.,Cookson,M.R.etal.(2006)
+expressionoftissue-specificmir-205.Transl.Oncol.,1,202–208. Amyotrophiclateralsclerosis2-deficiencyleadstoneuronaldegeneration
+23. Wu,H.andMo,Y.Y.(2009)TargetingmiR-205inbreastcancer.Expert inamyotrophiclateralsclerosisthroughalteredAMPAreceptor
+Opin.Ther.Targets,13,1439–1448. trafficking.J.Neurosci.,26,11798–11806.
+24. Chendrimada,T.P.,Gregory,R.I.,Kumaraswamy,E.,Norman,J.,Cooch, 38. Garcia,D.M.,Baek,D.,Shin,C.,Bell,G.W.,Grimson,A.andBartel,
+N.,Nishikura,K.andShiekhattar,R.(2005)TRBPrecruitsthedicer D.P.(2011)Weakseed-pairingstabilityandhightarget-siteabundance
+complextoAgo2formicroRNAprocessingandgenesilencing.Nature, decreasetheproficiencyoflsy-6andothermiRNAs.Nat.Struct.Mol.
+436,740–744. Biol.,18,1139–1146.
+
+---PAGE BREAK---
+

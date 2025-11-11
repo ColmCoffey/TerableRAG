@@ -1,0 +1,565 @@
+Chunk 1:
+JournalofParkinson’sDisease12(2022)1073–1082 1073
+DOI10.3233/JPD-229002
+IOSPress
+Clinical Trial Highlights
+Parkinson’s Disease Drug Therapies in the
+Clinical Trial Pipeline: 2022 Update
+KevinMcFarthinga,GaryRafaloffb,MarcoBaptistac,LeahMursaleend,RosieFuestd,
+RichardK.Wysed andSimonR.W.Stottd,∗
+aParkinson’sResearchAdvocate,Oxford,UK
+bParkinson’sResearchAdvocate,Marlboro,NJ,USA
+cTheMichaelJFoxFoundation,GrandCentralStation,NewYork,NY,USA
+dCureParkinson’s,London,UK
+Accepted26April2022
+Pre-press6May2022
+Abstract.
+Background:AstheinternationalcommunitydealtwiththeongoingCOVID-19pandemic,importantprogresscontinued
+tobemadeinthedevelopmentofnewdrug-basedtherapiesfortheneurodegenerativeconditionofParkinson’sdisease(PD)
+in2021.Thisprogressincludedboth“symptomatictreatments”(ST–improves/reducessymptomsofthecondition)and
+“diseasemodifyingtreatments”(DMT-attemptstodelay/slowprogressionbyaddressingtheunderlyingbiologyofPD),
+whichcanbecategorisedfurtherbasedontheirmechanismsofactionandclassofdrug.
+Objective:Thisreportcontinuespreviouseffortstoprovideanoverviewofthepharmacologicaltherapies-bothSTand
+DMT-inclinicaltrialsforPDduring2021–2022,withtheaimofcreatinggreaterawarenessandinvolvementintheclinical
+trial process. We also hope to stimulate collaboration amongst all stakeholders, including industry, academia, advocacy
+organizations,andmostimportantlypatientcommunity.
+Methods:WeconductedareviewofclinicaltrialsofdrugtherapiesforPDusingtrialdataobtainedfromtheClinicalTrials.gov
+andWorldHealthOrganisation(WHO)registries,andperformedabreakdownanalysisofstudiesthatwereactiveasofJanuary
+31st2022.Wealsoassessedactivedrugdevelopmentprojectsthathadcompletedoneclinicalphasebutwereyettostartthe
+next.
+Results:Therewasatotalof147clinicaltrialsregisteredontheClinicalTrials.govwebsiteasactiveduringtheperiodof
+analysis. Of these trials, 91 (62%) were investigating STs, while 56 (38%) focused on DMTs. Approximately 1/3 of the
+studies(34.7%;51trials)wereinPhase1,whileoverhalfofthetrialswereinPhas
+
+Chunk 2:
+022.Wealsoassessedactivedrugdevelopmentprojectsthathadcompletedoneclinicalphasebutwereyettostartthe
+next.
+Results:Therewasatotalof147clinicaltrialsregisteredontheClinicalTrials.govwebsiteasactiveduringtheperiodof
+analysis. Of these trials, 91 (62%) were investigating STs, while 56 (38%) focused on DMTs. Approximately 1/3 of the
+studies(34.7%;51trials)wereinPhase1,whileoverhalfofthetrialswereinPhase2(50.3%;74trials).Only15%(22
+trials)ofthestudieswereinPhase3,ofwhichonly3trialswereevaluatingDMTs.Noveltherapeutics(42%)werethemost
+commontypeofagentsbeingtestedacrossallphasesoftesting,followedbyrepurposedagents(34%)andreformulations
+(20%).
+Conclusions:Despitesignificantglobalhealthconstraints,thedevelopmentofnewdrug-basedtherapiesforPDcontinuedin
+2021.Hopefullywithashifttowardsapost-pandemicworldinwhichCOVID-19isbettermanaged,wewillseeanincrease
+inthenumberofclinicaltrialsfocusedondrugdevelopmentforPD.TheneedformorePhase3studiesforDMTsremains
+acute.
+Keywords: Clinical trials, studies, Parkinson’s, disease modification, neuroprotection, immunotherapy, inflammation,
+genetherapy
+INTRODUCTION
+2021wasaremarkableyearformedicalresearch,
+∗Correspondenceto:Simon R.W. Stott, Cure Parkin-
+highlightedbytheglobalrolloutofrapidlydeveloped
+son’s, 120 New Cavendish Street, London, UK. E-mail:
+Simon@cureparkinsons.org.uk. vaccinesforCOVID-19,theWHOrecommendation
+ISSN1877-7171©2021–Theauthors.PublishedbyIOSPress.ThisisanOpenAccessarticledistributedundertheterms
+oftheCreativeCommonsAttribution-NonCommercialLicense(CCBY-NC4.0).
+
+---PAGE BREAK---
+
+1074 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+ofthefirstvaccineformalaria[1],clinicalevidence onthefollowingsearchcriteria:
+of a genetic silencing method for Sickle cell dis-
+ease [2], and a vastly improved new treatment for • Condition:Parkinson;Parkinson’s
+hepatitis C [3]. These and many other remarkable • Studytype:Interventional
+scientific milestones were achieved under the con- • Phase:EarlyPhase1,Phase1,Phase2,Phase3
+siderableco
+
+Chunk 3:
+iew2022
+ofthefirstvaccineformalaria[1],clinicalevidence onthefollowingsearchcriteria:
+of a genetic silencing method for Sickle cell dis-
+ease [2], and a vastly improved new treatment for • Condition:Parkinson;Parkinson’s
+hepatitis C [3]. These and many other remarkable • Studytype:Interventional
+scientific milestones were achieved under the con- • Phase:EarlyPhase1,Phase1,Phase2,Phase3
+siderableconstraintsandlimitationsimposedbythe • Statusparameter:“Recruiting”,“Notyetrecruit-
+ongoingglobalpandemic.Suchsuccessesbodewell ing”, “Active, not recruiting”, or “Enrolling by
+forfuturemedicalprogress. invitation”.
+Importantachievementswerealsomadeinthefield
+of PD research with another $132million in basic
+A breakdown analysis of the studies that were
+researchfundingbeingawardedbytheAligningSci-
+active was conducted, which involved dividing
+ence Across Parkinson’s initiative (ASAP [4]), the
+the therapies into “symptomatic treatments” (ST -
+awardingofagranttofundthesettingupoftheAccel-
+improves / reduces symptoms of the condition) and
+erating Clinical Treatments for Parkinson’s Disease
+“diseasemodifyingtreatments”(DMT-attemptsto
+(Edmond J Safra ACT-PD) project - a Multi-Arm,
+delay/slowprogressionbyaddressingtheunderlying
+Multi Stage clinical trial platform to rapidly accel-
+biology of PD alleviating the features of the condi-
+erate the search for disease modifying therapies for
+tion).Thesestudieswerethenfurtherassignedtoone
+PD [5], the roll out of the Parkinson’s Progression
+of 14 categories in accordance with our previously
+Marker Initiative (PPMI) 2.0 focusing on the iden-
+usedmethods[7].Analyseswerealsoconductedon
+tification of markers of disease progression for use
+thenatureofthetherapies,intermsoftheirorigin–
+inclinicaltrialsoftherapiestoreduceprogressionof
+whethertheywerenovel,repurposed,reformulated,
+PD(NCT04477785),andalargenumberofbiotech
+orunderanewclaim.ThosestudieslistedasPhase1/2
+mergers and industrial collaborations further driv-
+wereclassifiedasPhase1;andthose
+
+Chunk 4:
+hods[7].Analyseswerealsoconductedon
+tification of markers of disease progression for use
+thenatureofthetherapies,intermsoftheirorigin–
+inclinicaltrialsoftherapiestoreduceprogressionof
+whethertheywerenovel,repurposed,reformulated,
+PD(NCT04477785),andalargenumberofbiotech
+orunderanewclaim.ThosestudieslistedasPhase1/2
+mergers and industrial collaborations further driv-
+wereclassifiedasPhase1;andthoselistedasPhase
+ing clinical development of novel therapeutics (for
+2/3classifiedasPhase2.Adiagramoftheworkflow
+example, UCB and Novartis entered into a global
+ispresentedinFig.1.
+agreementtodevelopnovelalpha-synucleintargeting
+agents[6]).
+Despitethepandemic-imposedrestriction,acon- RESULTS
+siderableamountofclinicaltrialactivityfocusedon
+developing new therapies for PD was maintained On January 31st 2022, the records of 226 inter-
+over this period. With the goal of providing the ventional clinical trials were downloaded from the
+PD research and patient communities with a better ClinicalTrials.gov(N=183)andWHOICTRPweb-
+understandingofthecurrentlandscapeofdrug-based sites(N=43).Unfortunately,manyofthestudieson
+clinicaltrials,thisannualreportwasinitiatedin2020 the WHO ICTRP website did not have information
+[7]. In that first edition, the analysis was limited to regardingthephaseofstudyandhadtobeexcluded.
+active interventional drug-focused trials registered Further assessment of each study downloaded from
+on the ClinicalTrials.gov website [8]. In 2021, we theClinicalTrials.govwebsiteresultedintheexclu-
+expandedthereporttoincludeclinicaltrialslistedon sion of a further 36 trials from this dataset as they
+theWorldHealthOrganisation(WHO)registries[9, didnotmeetourcriteria.Thisledtoatotaldatasetof
+10]. And now, for a third year in a row, we provide 165 trials registered as ongoing and active for drug
+anotherreportonthedrugdevelopmentpipelinefor therapiestargetingPD,147ofwhichwerefromClin-
+PDintendedtohighlightareasofprogressandhope- icalTrials.govand18fromtheWHOICTRPregistry
+fullysti
+
+Chunk 5:
+ dataset as they
+theWorldHealthOrganisation(WHO)registries[9, didnotmeetourcriteria.Thisledtoatotaldatasetof
+10]. And now, for a third year in a row, we provide 165 trials registered as ongoing and active for drug
+anotherreportonthedrugdevelopmentpipelinefor therapiestargetingPD,147ofwhichwerefromClin-
+PDintendedtohighlightareasofprogressandhope- icalTrials.govand18fromtheWHOICTRPregistry
+fullystimulategreaterawarenessandinvolvementin collation.Thefulllistisavailableinsupplementary
+theclinicaltrialprocess. file1.
+Thirty-sixtrialsthatwereinthedatasetforthe2021
+reportwerenotpresentinthe2022dataset.Someof
+METHODS these trials were no longer on the list because one
+phase of development had been completed success-
+Themethodsemployedinthisreportwereidentical fully and although planning for the next trial is in
+tothosewehaveusedpreviously[10].Briefly,clinical progress, it had not yet been registered. These “in
+trialdatawasdownloadedfromtheClinicalTrials.gov between”projectswereaddedtothelistofinbetween-
+andWHOregistriesonthe31st January2022,based ers,alsopresentedinsupplementaryfile1.
+
+---PAGE BREAK---
+
+K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022 1075
+Fig.1. Aschematicoutliningthedatacollectionandanalysis.
+To allow for a comparison with our 2020 and range of different therapeutic approaches – every
+2021 reports, we focused our analysis on the clini- category was represented in Phase 1. The largest
+caltrials.govlist.WeclassifiedthesetrialsbySTand category in Phase 1 was dopaminergic symptom
+DMT and compared these to our previous analyses relief (27.5%), followed by cell therapies (17.6%),
+(Table1).AnobviousincreaseinthenumberofST other(11.8%),andtargetingalpha-synuclein(9.8%;
+trials at the Phase 2 stage was evident in 2022, but Fig.3).
+limited progress to Phase 3 is apparent across both Phase 2 – Similar to our previous reports, Phase
+categories. 2madeupthelargestnumberofclinicaltrialsinour
+Next,wefocusedondesignatingatherapeuticcat- dataset (50.3% of the total n
+
+Chunk 6:
+therapies (17.6%),
+(Table1).AnobviousincreaseinthenumberofST other(11.8%),andtargetingalpha-synuclein(9.8%;
+trials at the Phase 2 stage was evident in 2022, but Fig.3).
+limited progress to Phase 3 is apparent across both Phase 2 – Similar to our previous reports, Phase
+categories. 2madeupthelargestnumberofclinicaltrialsinour
+Next,wefocusedondesignatingatherapeuticcat- dataset (50.3% of the total number of trials, includ-
+egoryforeachtrial(Fig.2).Dopaminergicsymptom ing74studiesinvolving65agents;Fig.4).Themain
+relief(N=39)andnon-dopaminergicsymptomrelief observationatthisstageofdrugdevelopmentwasthe
+(N=38)werethelargestcategoriesbasedonthenum- large number of trials for non-dopaminergic symp-
+beroftrials(Table2).Acomparisonwasmadewith tom relief (44.6%). The next largest segment was
+the2020and2021categorydata,whereanincrease dopaminergic symptom relief (12.2%), then other
+inthenumberoftrialsforGLP-1Ragonistsandthose (9.5%)andGLP-1Ragonists(8.1%).
+targetingalpha-synucleinwasapositiveDMTtrend Phase3–Forathirdyear,Phase3wasthesmallest
+(SupplementalTable1). set of clinical trials (only 15% of the total number)
+and the least diverse - only 5 categories were rep-
+Therapycategoryanalysis resented (Fig. 5). Of these, dopaminergic symptom
+relief(72.7%)madeupthebulkoftheactivestudies.
+Phase1-Oftheactivetrialsregisteredontheclin- Phase3isthefinalstageoftheclinicaldevelopment
+icaltrials.govwebsite,34.7%(51trialsof50agents) process,involvingverylargestudiesthatrequiresig-
+werelistedasPhase1orPhase1/2.Similartoourpre- nificantfinancialresources,butthelackoftransition
+viousreports,thePhase1trialsrepresentedabroad between Phase 2 to Phase 3 studies was a disap-
+
+---PAGE BREAK---
+
+1076 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+Table1
+STandDMTbyPhaseandyear–ClinicalTrials.gov
+PHASE ST DMT TOTALTRIALS
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+1 27 24 27 24 25 24 51 49 51
+2 36 33 46 30 32 28 66 65 74
+3 25 26 19 3 2 3 28 28 22
+Total 88 83 93 57 59 54 145 142 147
+Fig.2. As
+
+Chunk 7:
+1trialsrepresentedabroad between Phase 2 to Phase 3 studies was a disap-
+
+---PAGE BREAK---
+
+1076 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+Table1
+STandDMTbyPhaseandyear–ClinicalTrials.gov
+PHASE ST DMT TOTALTRIALS
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+1 27 24 27 24 25 24 51 49 51
+2 36 33 46 30 32 28 66 65 74
+3 25 26 19 3 2 3 28 28 22
+Total 88 83 93 57 59 54 145 142 147
+Fig.2. AschematicofalloftheagentsinactiveclinicaltrialsforPD,registeredonclinicaltrials.govasofthe31stJanuary2022.
+
+---PAGE BREAK---
+
+K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022 1077
+Table2
+NumberofTrialsbytherapeuticcategory-ClinicalTrials.gov
+Category Phase1 Phase2 Phase3 TOTAL
+Anti-inflammatories 1 2.0% 0 0.0% 0 0.0% 1
+Antioxidants 1 2.0% 2 2.7% 0 0.0% 3
+Celltherapy 9 17.6% 2 2.7% 0 0.0% 11
+Dopaminergicsymptomrelief 14 27.5% 9 12.2% 16 72.7% 39
+Energyandmitochondria 1 2.0% 3 4.1% 0 0.0% 4
+GBA 1 2.0% 1 1.4% 0 0.0% 2
+GLP-1Ragonists 1 2.0% 6 8.1% 1 4.5% 8
+Immunotherapy 3 5.9% 2 2.7% 0 0.0% 5
+Kinaseinhibitors 1 2.0% 2 2.7% 0 0.0% 3
+Microbiome/GIT 4 7.8% 2 2.7% 0 0.0% 6
+Neurotrophicfactors 2 3.9% 1 1.4% 0 0.0% 3
+Non-dopaminergicsymptomrelief 2 3.9% 33 44.6% 3 13.6% 38
+Targetingalpha-synuclein 5 9.8% 4 5.4% 1 4.5% 10
+Other 6 11.8% 7 9.5% 1 4.5% 14
+TOTAL 51 74 22 147
+Fig.3. ApiechartoftheagentsinactivePhase1trialsforPD,registeredonclinicaltrials.govasofJanuary31st2022.
+pointing observation over the three-year period that Studiescompletingin2022
+thesereportshavebeenconducted.Itisappreciated,
+however,thattherehasbeenaglobalpandemicdur- Therewere96trialslistedintheclinicaltrials.gov
+ing that period of time, which may have hampered dataset as completing before the end of 2022 (38
+progress. Phase 1 trials, 49 Phase 2 trials, and 9 Phase 3 tri-
+
+---PAGE BREAK---
+
+1078 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+Fig.4. ApiechartoftheagentsinactivePhase2trialsforPD,registeredonclinicaltrials.govasofJanuary31st2022.
+als). This accounts for 65% of the 147 active trials, ous 
+
+Chunk 8:
+ that period of time, which may have hampered dataset as completing before the end of 2022 (38
+progress. Phase 1 trials, 49 Phase 2 trials, and 9 Phase 3 tri-
+
+---PAGE BREAK---
+
+1078 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+Fig.4. ApiechartoftheagentsinactivePhase2trialsforPD,registeredonclinicaltrials.govasofJanuary31st2022.
+als). This accounts for 65% of the 147 active trials, ous research with repurposed GLP-1R agonists like
+and 33% of the trials due to complete are classified exenatide,liraglutideandlixisenatide.
+asDMT.Ofthe32DMTtrials,18areinPhase1,13
+inPhase2and1isinPhase3(Table3).
+TrialsregisteredontheWHOICTRPdatabase
+Natureofagentsbeingtested Atotalof18trialsregisteredonWHOICTRPlist
+ofotherregistriesreachedthefinalcriteriaforinclu-
+The majority of the therapies being tested in our sioninouranalysis.Therearealargenumberofactive
+dataset were novel (42.2%) or repurposed (34%). clinical trials for PD on the WHO registries, but in
+Novel agents dominated Phase 1 while repurposed mostcasestheinformationprovidedwaslackingkey
+therapiesweremoreapparentatPhase2&3(Table4). detailsrequiredforinclusionhere(suchasPhaseof
+Itisencouragingtonotethatsomeofthenovelagents testing).Oftheincludedstudies,therewere8trialsin
+beingevaluatedaretheresultof‘pathfindingstudies’ Phase1or1/2,9studiesinPhase2,andonly1Phase
+with repurposed therapies. For example, NLY-01 is 3 trial (which explores curcumin supplementation).
+anewGLP-1Ragonistthathasresultedfromprevi- HalfofthesestudieswerecategorisedasDMT.
+
+---PAGE BREAK---
+
+K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022 1079
+Fig.5. ApiechartoftheagentsinactivePhase3trialsforPD,registeredonclinicaltrials.govasofJanuary31st2022.
+Table3
+DMTclinicaltrialsthatareduetocompletebyend2022-Clinicaltrials.gov
+Phase1 Phase2 Phase3
+Rifaximin WIN-1001X Ganoderma
+GlycerolPhenylbutyrate Rasagiline
+Exenatide Ambroxol
+anle138b Lixisenatide
+NE3107 Deferiprone
+Talineuren Carvedilol
+NNI-362 ANAVEX2-73
+Mesenchymalstemcells RadotinibHCl
+Sargram
+
+Chunk 9:
+5. ApiechartoftheagentsinactivePhase3trialsforPD,registeredonclinicaltrials.govasofJanuary31st2022.
+Table3
+DMTclinicaltrialsthatareduetocompletebyend2022-Clinicaltrials.gov
+Phase1 Phase2 Phase3
+Rifaximin WIN-1001X Ganoderma
+GlycerolPhenylbutyrate Rasagiline
+Exenatide Ambroxol
+anle138b Lixisenatide
+NE3107 Deferiprone
+Talineuren Carvedilol
+NNI-362 ANAVEX2-73
+Mesenchymalstemcells RadotinibHCl
+Sargramostim Carvedilol
+UB-312 PT320
+IkT-148009 Autologousmesenchymalstemcells
+AAV2-GDNF Liraglutide
+MEDI1341 Exenatide
+Hypoestoxide
+UDCA(Ursodeoxycholicacid)
+Posiphen
+Lithium
+InjectionofUmbilicalcordderivedMSCs
+Table4
+Natureofagentsbeingclinicallytested-Clinicaltrials.gov
+PHASE NOVEL REPURPOSED REFORMULATION NEWCLAIM TOTAL
+1 25 12 13 1 51
+2 32 33 6 3 74
+3 5 5 10 2 22
+TOTAL 62 50 29 6 147
+% 42.2% 34.0% 19.7% 4.1%
+
+---PAGE BREAK---
+
+1080 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+DISCUSSION ized,double-blindstudyfoundthatENT-01wassafe
+and tolerable, but also significantly improved gas-
+The 2022 drug development pipeline review rep- trointestinal passage. Unexpectedly, they reported
+resents a testament to the dedication of the PD encouraging data on psychosis-related secondary
+community to addressing the need for new ther- endpoints[14].Thesecompletedtrialresultsindicate
+apies. Despite significant obstacles presented by excitingpotentialdevelopmentsinthecomingyears.
+the restrictions of the COVID-19 response, clinical In 2022, we are looking forward to the results of
+trials were initiated, continued and completed dur- additional clinical trials. These include the Phase 2
+ing this period. It is particularly encouraging that studies of DMTs such as the mitochondrial target-
+across the multi-year period of our analysis that we ingUDCA(whichhasbeentestedinthe“UPstudy”
+have not seen a major reduction in the amount of - NCT03840005) and the iron chelator deferiprone
+clinical trial activity. Of the trials that have com- trial (NCT02655315). There are also a number of
+pletedandre
+
+Chunk 10:
+ period. It is particularly encouraging that studies of DMTs such as the mitochondrial target-
+across the multi-year period of our analysis that we ingUDCA(whichhasbeentestedinthe“UPstudy”
+have not seen a major reduction in the amount of - NCT03840005) and the iron chelator deferiprone
+clinical trial activity. Of the trials that have com- trial (NCT02655315). There are also a number of
+pletedandreportedresultssinceourpreviousupdate, GLP-1R agonist trials that will complete this year,
+there have been some very interesting findings. In suchaswithliraglutide(NCT02953665),lixisenatide
+2021,thebiotechcompanyDenaliTherapeuticscom- (NCT03439943),andPT320,whichisaslow-release
+pleted their Phase 1b trial of their LRRK2 inhibitor formulationofexenatidethathasbeendevelopedby
+DNL-151(NCT04056689)inpatientswithPD,and thebiotechcompanyPeptron(NCT04269642).
+announcedthatthesafetyandbiomarkergoalswere Thisthirdeditionofthedrugdevelopmentpipeline
+met. They also reported data demonstrating target for PD provides the opportunity to start exploring
+engagementandreductionofbothLRRK2andsub- trends across years, and several stark patterns stand
+strateactivity[11].Thecompanyisnowcollaborating out. As an estimated 10 million people are living
+withthepharmaceuticalcompanyBiogentoadvance withPD,itisimportanttoseemoretransitionfrom
+intoalate-stageclinicaltrialofthedrug(nowreferred Phase2toPhase3intheclinicaltestingofnewther-
+toasBIIB122/DNL151).Theyplantostarttwoclini- apies for PD. There were only 22 Phase 3 studies
+calstudiesthisyear,firstlytheLIGHTHOUSEStudy in our analysis, 19 of which are ST. Of these, six
+(a global Phase 3 trial expected to enroll approxi- use sub-cutaneous (SC) infusion, with the objective
+mately400individualswithPDwhocarryaLRRK2 ofprovidingacontinuousdeliveryofthetherapeutic
+mutation),andtheLUMAstudy(aglobalPhase2b agenttominimisetheincidenceofmotorfluctuations.
+trialhopingtoenrollapproximately640individuals Abbvie’sABBV-951usesphosphorylatedversionsof
+withPDwhodonotca
+
+Chunk 11:
+these, six
+(a global Phase 3 trial expected to enroll approxi- use sub-cutaneous (SC) infusion, with the objective
+mately400individualswithPDwhocarryaLRRK2 ofprovidingacontinuousdeliveryofthetherapeutic
+mutation),andtheLUMAstudy(aglobalPhase2b agenttominimisetheincidenceofmotorfluctuations.
+trialhopingtoenrollapproximately640individuals Abbvie’sABBV-951usesphosphorylatedversionsof
+withPDwhodonotcarryaLRRK2mutation[12]). levodopa and carbidopa (LD/CD) as the pro-drugs
+Anavex Life Sciences announced positive results have greater solubility, with SC infusion. Neuro-
+for their Phase 2 trial (NCT04575259) evaluat- derm’s ND0612 also uses SC infused LD/CD. A
+ing ANAVEX 2-73 (blarcamesine) in patients with similarprincipleappliestoIPX203fromImpax(now
+PD dementia (PDD). The reported results showed ownedbyAmnealPharmaceuticals)withanextended
+clinically meaningful, and statistically significant, release tablet version of LD/CD. Supernus are test-
+dose-dependentimprovementsintheCognitiveDrug ingSCinfusionofapomorphine,adopamineagonist,
+Research(CDR)assessmentanalysis.Thecompany andRennesUniversityareassessingtheuseofapo-
+isnowindiscussionswithregulatorsregardinghow morphineinfusioninearlyPD.Cerevel’stavapadon
+toadvancelatestageclinicaltestingofthedrug.Ina isadopamine1/5partialagonistandisbeinginvesti-
+Phase 2 clinical trial (NCT03713957) of GRF6021, gatedinfourPhase3studies,coveringbothearlyPD
+in patients with PD and cognitive impairment, the andthosepatientsenduringmotorfluctuations.
+biotechfirmAlkahestreportedthatthedrugdemon- Inadditiontothelackofphasetransition,theslow
+strated positive effects on cognitive endpoints and speedofclinicaldevelopmentalsostandsoutinour
+wassafeandwelltolerated[13].Thecompanyplans multi-yearanalysis.Thereareeffortstoaddressthis
+tofurtherstudyitsefficacyasaPDDMT. issue,however,asresearchteamsexplorenewclini-
+Anothersetofveryrecenttrialresultscamefrom caltrialdesignsandplatforms.Oneexcitingexample
+thePhase2bKARMETstudythatwasconductedby of this in 
+
+Chunk 12:
+itive effects on cognitive endpoints and speedofclinicaldevelopmentalsostandsoutinour
+wassafeandwelltolerated[13].Thecompanyplans multi-yearanalysis.Thereareeffortstoaddressthis
+tofurtherstudyitsefficacyasaPDDMT. issue,however,asresearchteamsexplorenewclini-
+Anothersetofveryrecenttrialresultscamefrom caltrialdesignsandplatforms.Oneexcitingexample
+thePhase2bKARMETstudythatwasconductedby of this in the PD field is the development of Multi-
+thebiotechcompanyEnterin.Theyaredevelopinga Armstudiesthatexploremultipledrugsatthesame
+derivativeofsqualamine,calledENT-01,whichsup- time,drasticallyreducingpatientnumbersandcosts
+pressesaggregationofalpha-synucleininmodelsof byunifyingasingleplacebocomparatorarmacross
+PD. The KARMET study involved 150 individuals multipletreatmentarms.TheAustralianFederalgov-
+withPDwhoexperienceconstipation.Therandom- ernment has awarded an AUS$30 million grant to
+
+---PAGE BREAK---
+
+K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022 1081
+establishaseriesofDMTclinicaltrialsinPD,eval- LD/CDLevodopaandcarbidopa
+uating three agents prioritised by the international LIDLevodopa-induceddyskinesia
+LinkedClinicalTrialscommittee[15,16].Themulti- LRRK2Leucine-richrepeatkinase2
+arm design for clinical trials has also evolved to MAMSMulti-ArmMulti-Stage
+become more adaptive [17]. Using interim analysis MAO-BMonoamineoxidasetypeB
+ofdataasthetrialisactive,investigatorswillbeable MCIMildCognitiveImpairment
+toidentifytreatmentarmsthatarehavingnoimpact MOAMechanismsofAction
+anddiscontinuethem.Likewise,suchadynamicplat- MRIMagneticResonanceImaging
+formwillallowforseamlesstransitioningfromPhase NIHNationalInstitutesofHealth
+2safetyandefficacystudiestolargerPhase3trials. NINDS National Institute of Neurological Disor-
+In2021,theEdmondJSafraFoundationawardeda dersandStroke
+significant grant to build a Multi-Arm, Multi-stage NMDAN-methyl-D-aspartate
+platformforPDtoevaluateDMT[5]. NMSNon-motorsymptoms
+PDParkinson’sDisease
+SCSub-cutaneous
+SUMMARY
+STSymptomaticTherapy
+
+
+Chunk 13:
+sstransitioningfromPhase NIHNationalInstitutesofHealth
+2safetyandefficacystudiestolargerPhase3trials. NINDS National Institute of Neurological Disor-
+In2021,theEdmondJSafraFoundationawardeda dersandStroke
+significant grant to build a Multi-Arm, Multi-stage NMDAN-methyl-D-aspartate
+platformforPDtoevaluateDMT[5]. NMSNon-motorsymptoms
+PDParkinson’sDisease
+SCSub-cutaneous
+SUMMARY
+STSymptomaticTherapy
+UDCAUrsodeoxycholicacid
+AlthoughCOVID-19hasrepresentedasignificant
+WHOWorldHealthOrganization
+obstacle during 2021-2022, important progress has
+stillbeenmadeintermsoftheclinicaldevelopmentof
+STsandDMTsforPD.Thetotalnumberoftrialsand AUTHORCONTRIBUTION
+themixofSTsandDMTshasremainedsimilaracross
+thetimeframe.Whilemanyprojectshavedroppedout KMcF, GR, MB, LM, RF, RKW & SRWS per-
+ofthelist,progressiontoPhase1andfromPhase1 formed the trial categorization & helped write/edit
+to 2 appears to continue. The lack of movement of themanuscript.
+DMTsfromPhase2toPhase3remainsaconcernand
+isamajorrate-limitingsteptotheprovisionofnew ACKNOWLEDGMENTS
+therapiestothosepeoplelivingwithPD.Thereare,
+however,anumberofPhase3trialsintheplanning TheauthorswouldliketothankProfTanyaSimuni
+stagesand13DMTPhase2trialsduetocompleteby of Northwestern University and Helen Matthews of
+theendof2022(almosttwo-thirdsofthe147trialsin CureParkinson’sforreadingthemanuscriptandpro-
+ourprimarydatasetareplannedtocompletein2022). vidingconstructivefeedback.Theauthorswouldalso
+Thiswillhopefullyresultinanincreaseinthenumber like to thank all of the trial participants and their
+ofDMTPhase3trialsinthecomingyears.Welook families,andtheresearchersinvolvedintheongoing
+forwardtocommentingontheoutcomesinourfuture clinicalresearchforPD.
+reviews.
+CONFLICTOFINTEREST
+ABBREVIATIONS
+Theauthorsdeclarenoconflictsofinterest.
+AMSCAutologousMesenchymalstemcells
+ASAPAligningScienceAcrossParkinson’s
+SUPPLEMENTARYMATERIAL
+COVID-19Coronavirusdisease2019
+CNSCentralNervoussystem
+The supplementary material is available in the
+CSFCerebrospinalflui
+
+Chunk 14:
+theresearchersinvolvedintheongoing
+forwardtocommentingontheoutcomesinourfuture clinicalresearchforPD.
+reviews.
+CONFLICTOFINTEREST
+ABBREVIATIONS
+Theauthorsdeclarenoconflictsofinterest.
+AMSCAutologousMesenchymalstemcells
+ASAPAligningScienceAcrossParkinson’s
+SUPPLEMENTARYMATERIAL
+COVID-19Coronavirusdisease2019
+CNSCentralNervoussystem
+The supplementary material is available in the
+CSFCerebrospinalfluid
+electronic version of this article: https://dx.doi.org/
+DMTDiseaseModifyingTherapies
+10.3233/JPD-229002.
+FDAFoodandDrugAdministration
+GBAGlucocerebrosidase
+GDNFGlialcell-derivedneurotrophicfactor REFERENCES
+GITGastrointestinalTract
+GLP-1RGlucagon-likepeptide1receptor [1] WHO recommends groundbreaking malaria vaccine for
+children at risk, https://www.who.int/news/item/06-10-
+ICTRPInternationalClinicalTrialsRegistryPlat-
+2021-who-recommends-groundbreaking-malaria-vaccine-
+form for-children-at-risk
+
+---PAGE BREAK---
+
+1082 K.McFarthingetal./Parkinson’sDrugDevelopmentReview2022
+[2] EsrickEB,LehmannLE,BiffiA,AchebeM,BrendelC, [11] Denali Therapeutics Presents Positive Results from
+CiuculescuMF,DaleyH,MacKinnonB,MorrisE,Fed- Phase 1 and Phase 1b Studies of Its LRRK2
+erico A, Abriss D, Boardman K, Khelladi R, Shaw K, Inhibitor, BIIB122/DNL151, Supporting Late-
+NegreH,NegreO,NikiforowS,RitzJ,PaiS-Y,London Stage Development Plans in Parkinson’s Disease,
+WB, Dansereau C, Heeney MM, Armant M, Manis JP, https:// www.denalitherapeutics.com/investors/press-
+WilliamsDA(2021)Post-TranscriptionalGeneticSilenc- release?id=8141&type=api
+ingofBCL11AtoTreatSickleCellDisease.NEnglJMed [12] Denali Therapeutics Announces Progression and
+384(3),205-215. Expansion of Broad Therapeutic Portfolio for
+[3] Andrieux-MeyerI,TanSS,ThanprasertsukS,SalvadoriN, Neurodegeneration and Expected Key Milestones
+Mene´treyC,SimonF,CresseyTR,SaidHRHM,Hassan in 2022, https://www.globenewswire.com/news-
+MRA,OmarH,TeeHP,ChanWK,KumarS,Thongsawat release/2022/01/10/2363990/0/en/Denali-Therapeutics-
+S,ThetketK,Avihingsano
+
+Chunk 15:
+peutics Announces Progression and
+384(3),205-215. Expansion of Broad Therapeutic Portfolio for
+[3] Andrieux-MeyerI,TanSS,ThanprasertsukS,SalvadoriN, Neurodegeneration and Expected Key Milestones
+Mene´treyC,SimonF,CresseyTR,SaidHRHM,Hassan in 2022, https://www.globenewswire.com/news-
+MRA,OmarH,TeeHP,ChanWK,KumarS,Thongsawat release/2022/01/10/2363990/0/en/Denali-Therapeutics-
+S,ThetketK,AvihingsanonA,KhemnarkS,YerlyS,Ngo- Announces-Progression-and-Expansion-of-Broad-
+Giang-Huong N, Siva S, Swanson A, Goyal V, Bompart Therapeutic-Portfolio-for-Neurodegeneration-and-
+F,Pe´coulB,MuradS(2021)Efficacyandsafetyofravi- Expected-Key-Milestones-in-2022.html
+dasvirplussofosbuvirinpatientswithchronichepatitisC [13] Alkahest to Present Positive Data from Completed
+infectionwithoutcirrhosisorwithcompensatedcirrhosis Phase 2 Clinical Trial at the 15th International
+(STORM-C-1):Interimanalysisofatwo-stage,open-label, Conference on Alzheimer’s and Parkinson’s Dis-
+multicentre,singlearm,phase2/3trial.LancetGastroen- ease, https://www.globenewswire.com/news-release/
+terolHepatol6(6),448-458. 2021/03/08/2188969/0/en/Alkahest-to-Present-Positive-
+[4] Grantees for Circuitry and Brain-Body Interactions, Data-from-Completed-Phase-2-Clinical-Trial-at-the-15th-
+https://parkinsonsroadmap.org/research-network/circuitry/ International-Conference-on-Alzheimer-s-and-Parkinson-
+[5] Edmond J. Safra Foundation awards £1.375 million to s-Disease.html
+rapidlyaccelerateParkinson’sdrugsearch,https://www.ucl. [14] Enterin Meets Study Endpoints for the Phase 2b
+ac.uk/campaign/news/2021/jun/edmond-j-safra-foundation (KARMET) Study Involving Patients With Parkinson’s
+-awards-ps1375-million-rapidly-accelerate-parkinsons- Disease, https://www.globenewswire.com/news-
+drug release/2022/01/27/2374392/0/en/Enterin-Meets-Study-
+[6] https://www.ucb.com/stories-media/Press- Endpoints-for-the-Phase-2b-KARMET-Study-Involving-
+Releases/article/UCB-Announces-Global-Partnership-to- Patients-With-Parkinson-s-Disease.html
+
+
+Chunk 16:
+on (KARMET) Study Involving Patients With Parkinson’s
+-awards-ps1375-million-rapidly-accelerate-parkinsons- Disease, https://www.globenewswire.com/news-
+drug release/2022/01/27/2374392/0/en/Enterin-Meets-Study-
+[6] https://www.ucb.com/stories-media/Press- Endpoints-for-the-Phase-2b-KARMET-Study-Involving-
+Releases/article/UCB-Announces-Global-Partnership-to- Patients-With-Parkinson-s-Disease.html
+Bring-Disease-Modifying-Therapies-to-People-Living- [15] BrundinP,WyseRK(2019)TheLinkedClinicalTrialsini-
+with-Parkinson-s-Disease tiative(LCT)forParkinson’sdisease.EurJNeurosci49(3),
+[7] McFarthingK,BuffS,RafaloffG,DomineyT,WyseRK, 307-315.
+StottSRW(2020)Parkinson’sDiseaseDrugTherapiesin [16] StottSRW,WyseRK,BrundinP(2021)DrugRepurposing
+theClinicalTrialPipeline:2020.JParkinsonsDis10(3), forParkinson’sDisease:TheInternationalLinkedClinical
+757-774. Trialsexperience.FrontNeurosci15,653377.
+[8] TheClinicalTrials.govwebsite,https://clinicaltrials.gov [17] Zeissler ML, Li V, Parmar MKB, Carroll CB (2020) Is
+[9] TheWorldHealthOrganisation(WHO)InternationalClin- ItPossibletoConductaMulti-ArmMulti-StagePlatform
+icalTrialsRegistryPlatform,https://www.who.int/clinical- TrialinParkinson’sDisease:LessonsLearnedfromOther
+trials-registry-platform; NeurodegenerativeDisordersandCancer.JParkinsonsDis
+[10] McFarthingK,RafaloffG,BaptistaMAS,WyseRK,Stott 10(2),413-428.
+SRW (2021) Parkinson’s Disease Drug Therapies in the
+Clinical Trial Pipeline: 2021 Update. J Parkinsons Dis
+11(3),891-903.
+
+---PAGE BREAK---
+
+
+

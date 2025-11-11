@@ -1,0 +1,2022 @@
+Chunk 1:
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Submitted Manuscript: Confidential template updated: February 2022
+Title: The R1441C-LRRK2 mutation induces myeloid immune cell exhaustion
+1
+in an age- and sex-dependent manner
+2
+3 Authors: Rebecca L., Wallings1,2,6, Karen McFarland2,3, Hannah A. Staley1,2, Noelle
+4 Neighbarger1,2, Susen Schaake4, Norbert Brüggemann4,5, Simone Zittel5, Tatiana Usnich4,5,
+5 Christine Klein4,6, Esther M Sammler6,7,8 and Malú Gámez Tansey1, 2, 3,6*
+6
+7 Affiliations:
+8 1 Department of Neuroscience, 2 Center for Translational Research in Neurodegenerative Disease,
+9 University of Florida, College of Medicine, McKnight Brain Institute, Gainesville, Florida, USA
+10 3 Department of Neurology and Fixel Institute for Neurological Diseases, University of Florida
+11 Health, Gainesville, Florida, USA
+12 4 Institute of Neurogenetics, University of Lübeck, Lübeck, Germany.
+13 5 Department of Neurology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany
+14 6 Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network, Chevy Chase,
+15 MD, USA
+16 7 MRC Protein Phosphorylation and Ubiquitylation Unit, School of Life Sciences, University of
+17 Dundee, Dundee DD1 5EH, U.K. d.r.alessi@dundee.ac.uk e.m.sammler@dundee.ac.uk.
+18 8 Department of Neurology, School of Medicine, Ninewells Hospital, Ninewells Drive, Dundee
+19 DD1 9SY, U.K.
+20
+21 *Corresponding author. Email: mgtansey@ufl.edu
+22
+23
+24
+25
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+26 Abstract: Considering age is the greatest risk factor for
+
+Chunk 2:
+
+21 *Corresponding author. Email: mgtansey@ufl.edu
+22
+23
+24
+25
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+26 Abstract: Considering age is the greatest risk factor for many neurodegenerative diseases, aging, in
+27 particular aging of the immune system, is the most underappreciated and understudied contributing factor
+28 in the neurodegeneration field. Genetic variation around the LRRK2 gene affects risk of both familial and
+29 sporadic Parkinson's disease (PD). The leucine-rich repeat kinase 2 (LRRK2) protein has been implicated
+30 in peripheral immune signaling, however, the effects of an aging immune system on LRRK2 function have
+31 been neglected to be considered. We demonstrate here that the R1441C mutation induces a hyper-
+32 responsive phenotype in macrophages from young female mice, characterized by increased effector
+33 functions, including stimulation-dependent antigen presentation, cytokine release, phagocytosis, and
+34 lysosomal function. This is followed by age-acquired immune cell exhaustion in a Lrrk2-kinase-dependent
+35 manner. Immune-exhausted macrophages exhibit suppressed antigen presentation and hypophagocytosis,
+36 which is also demonstrated in myeloid cells from R1441C and Y1699C-PD patients. Our novel findings
+37 that LRRK2 mutations confer immunological advantage at a young age but may predispose the carrier to
+38 age-acquired immune cell exhaustion have significant implications for LRRK2 biology and therapeutic
+39 development. Indeed, LRRK2 has become an appealing target in PD, but our findings suggest that more
+40 research is required to understand the cell-type specific consequences and optimal timing of LRRK2-
+41 targeting therapeutics.
+42 One Sentence Summary: The R1441C-LRRK2 mutation causes an age-acquired i
+
+Chunk 3:
+ired immune cell exhaustion have significant implications for LRRK2 biology and therapeutic
+39 development. Indeed, LRRK2 has become an appealing target in PD, but our findings suggest that more
+40 research is required to understand the cell-type specific consequences and optimal timing of LRRK2-
+41 targeting therapeutics.
+42 One Sentence Summary: The R1441C-LRRK2 mutation causes an age-acquired immune cell
+43 exhaustion in macrophages in a sex-dependent manner
+44
+45
+46
+47
+48
+49
+50
+2
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+51 Main Text:
+52 INTRODUCTION
+53 Parkinson’s disease (PD) is a common, progressive neurodegenerative disease, affecting around 1-2% of
+54 the population over the age of 65 (1). PD prevalence will likely increase two-fold by the year 2030 (2). In
+55 addition, the projected total economic burden will surpass $79 billion by 2037 (3), underscoring the need
+56 to reduce PD incidence and delay disease progression. The fact that there are currently no disease-
+57 modifying drugs for people with PD indicates that knowledge gaps still need to be closed to identify ways
+58 to cure or prevent this disease. Although the etiology of PD is largely unknown, it is thought to involve a
+59 complex interaction between various genetic and environmental factors (4). Although typically thought of
+60 as a disease limited to the central nervous system (CNS), evidence suggests a crucial and fundamental role
+61 of inflammation in both the CNS and the periphery in PD pathogenesis (5). Numerous studies of peripheral
+62 blood and cerebrospinal fluid from patients with PD suggest alterations in markers of inflammation and
+63 immune cell populations that could initiate or exacerbate neuroinflammation and perpetuate the
+64 neurodegenerative proce
+
+Chunk 4:
+ystem (CNS), evidence suggests a crucial and fundamental role
+61 of inflammation in both the CNS and the periphery in PD pathogenesis (5). Numerous studies of peripheral
+62 blood and cerebrospinal fluid from patients with PD suggest alterations in markers of inflammation and
+63 immune cell populations that could initiate or exacerbate neuroinflammation and perpetuate the
+64 neurodegenerative process (6-9). Furthermore, a number of disease genes and risk factors have been
+65 identified as modulators of immune function in PD (10-12).
+66 Pathogenic variants in the gene encoding leucine-rich repeat kinase 2 (LRRK2) account for the majority of
+67 familial PD patients (13). LRRK2 is a large, complex protein containing six functional domains, two of
+68 which have known enzymatic activities; a ROC domain (GTPase activity) and a MAPKK domain (kinase
+69 activity). There are numerous single-nucleotide substitutions in each of these domains that have been shown
+70 to be pathogenic (14-21). The second most prevalent mutation, R1441C, located in the GTPase ROC
+71 domain, is present in about 46% of familial PD that has an origin in the Basque region in Spain (22) and
+72 leads to decreased LRRK2 GTPase hydrolysis and increased LRRK2 protein kinase activity (23, 24).
+73 LRRK2 is expressed in innate and adaptive immune cells and its expression is tightly regulated by immune
+74 stimulation (9, 25-28). Furthermore, LRRK2 is a member of the receptor interacting protein (RIP) kinase
+75 family, which is a group of proteins that detect and respond to cellular stress by regulating cell death and
+3
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+76 activation of the immune system (29). LRRK2 function has also been implicated in pathogen control based
+77 on observatio
+
+Chunk 5:
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+76 activation of the immune system (29). LRRK2 function has also been implicated in pathogen control based
+77 on observations that LRRK2 variants confer differential susceptibility to a number of bacterial infections,
+78 including Mycobacterium tuberculosis (30, 31), Salmonella Typhimurium (32), and Listeria monocytogenes
+79 (33), as well as an increased risk of developing leprosy (34) and inflammatory bowel disease such as
+80 Crohn’s (35) and ulcerative colitis (36). Collectively such data strongly suggest a generalized role of
+81 LRRK2 in immune system regulation.
+82 Although research has focused primarily on neuroinflammation in PD over the last two decades, it is
+83 becoming increasingly clear that peripheral inflammatory responses may play important roles in PD
+84 pathogenesis (37, 38). For example, immune signaling plays a role in the regulation of neurodegeneration
+85 in a LRRK2-PD pre-clinical model, with the R1441C mutation altering the type II interferon response in
+86 peripheral immune cells (28). Furthermore, neutralization of IL-6 over-production in the periphery of these
+87 mice prevents substantia nigra pars compacta (SNpc) dopaminergic (DA) neuron loss in the presence of
+88 peripheral lipopolysaccharide (LPS) exposure (39). Importantly, immune dysfunction in the periphery takes
+89 primacy over the CNS, as the presence of Lrrk2 mutations in lymphocytes alone is sufficient to induce DA
+90 neuron loss in the midbrain of LPS-treated mice (39). Such data suggest a pertinent role of the peripheral
+91 immune system in LRRK2-PD, with immune dysfunction driving the development of the disease.
+92 As well as a role in immune response, a vast amount of research has focused on the role of LR
+
+Chunk 6:
+cy over the CNS, as the presence of Lrrk2 mutations in lymphocytes alone is sufficient to induce DA
+90 neuron loss in the midbrain of LPS-treated mice (39). Such data suggest a pertinent role of the peripheral
+91 immune system in LRRK2-PD, with immune dysfunction driving the development of the disease.
+92 As well as a role in immune response, a vast amount of research has focused on the role of LRRK2 at the
+93 lysosome. In immune cells, specifically, LRRK2 has been shown to mediate a number of lysosome-
+94 dependent immune functions such as phagocytosis (40) and antigen presentation (9, 27, 41). Intriguingly,
+95 LRRK2 has been shown to alter lysosomal function and autophagy in kidneys in an age-dependent, biphasic
+96 manner, with enhanced autophagy levels in young Lrrk2-null mice, that are reduced and drop below control
+97 levels once the mice reach 20 months of age (42). Despite this intriguing observation, few studies have
+98 investigated the effects of LRRK2 mutations on lysosomal processes in the context of aging. Considering
+99 age is the greatest risk factor for many neurodegenerative diseases, aging, in particular aging of the immune
+4
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+100 system (5), is the most underappreciated and understudied contributing factor to neurodegeneration in the
+101 field.
+102 To close this important gap, we assessed the effects of LRRK2 mutations on immune responses and
+103 lysosomal function in peripheral immune cells in young versus old mice. We used R1441C-Lrrk2 mutant
+104 knock-in (KI) mice based on previous findings demonstrating an effect of the R1441C/G mutation on
+105 peripheral immune responses (28, 39) whilst evading limitations of an overexpression model and
+106 investigating the effects of the
+
+Chunk 7:
+sed the effects of LRRK2 mutations on immune responses and
+103 lysosomal function in peripheral immune cells in young versus old mice. We used R1441C-Lrrk2 mutant
+104 knock-in (KI) mice based on previous findings demonstrating an effect of the R1441C/G mutation on
+105 peripheral immune responses (28, 39) whilst evading limitations of an overexpression model and
+106 investigating the effects of the R1441C mutation in physiologically relevant levels. Peritoneal macrophages
+107 (pMacs) were isolated from these mice to examine the effects of the R1441C mutation on macrophage cell
+108 function at different ages. pMacs are not a homogenous population of cells, but rather a mix of small and
+109 large pMacs (SPMs and LPMs, respectively). LPMs are resident to the peritoneal cavity and are
+110 traditionally thought of as anti-inflammatory, phagocytic and responsible for the presentation of exogenous
+111 antigens (43). SPMs, on the other hand, are generated from bone-marrow-derived myeloid precursors which
+112 migrate to the peritoneal cavity in response to infection, inflammatory stimuli, or thioglycolate, and present
+113 a pro-inflammatory functional profile (43). We observed a bi-phasic, age-dependent effect of the R1441C-
+114 Lrrk2 KI mice, with increased antigen presentation, production of anti-inflammatory cytokines, lysosomal
+115 activity, and pathogen uptake in peripheral macrophages from young (2-3 months) R1441C-Lrrk2 KI mice
+116 examined ex vivo. Conversely, peripheral macrophages from aged (18-21 months) R1441C-Lrrk2 KI mice
+117 exhibited a diminished capacity to present antigens in the presence of inflammatory insults, decreased
+118 lysosomal function and pathogen uptake, with concomitant increases in DNA fragmentation in the presence
+119 of pathogens. Importantly, we demonstrate that this is a sex-dependent phenotype, with male R1441C-Lrrk2
+120 KI failing to present this age-dependent phenotype. Furthermore, we demonstrate that the age-dependent
+121 hypophagocyto
+
+Chunk 8:
+ntigens in the presence of inflammatory insults, decreased
+118 lysosomal function and pathogen uptake, with concomitant increases in DNA fragmentation in the presence
+119 of pathogens. Importantly, we demonstrate that this is a sex-dependent phenotype, with male R1441C-Lrrk2
+120 KI failing to present this age-dependent phenotype. Furthermore, we demonstrate that the age-dependent
+121 hypophagocytosis and decreased antigen presentation in the R1441C-LRRK2 KI females is due to an
+122 acquired immune cell exhaustion driven by increased Lrrk2 protein kinase activity and immune responses
+123 whilst young. These phenotypes were also observed in human peripheral myeloid cells, with monocyte-
+124 derived macrophages from R1441C and Y1699C patients exhibiting decreased pathogen uptake and
+5
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+125 increased programmed cell death protein ligand 1 (PDL1) expression, consistent with immune cell
+126 exhaustion.
+127
+128 RESULTS
+129 LRRK2 R1441C mutant immune cells display age-dependent biphasic alteration in antigen
+130 presentation
+131 LRRK2 protein expression has been shown to increase in immune cells from both murine pre-clinical
+132 models and patient cells in response to inflammatory stimuli (9, 27, 28, 44-46). To determine whether this
+133 is age-dependent, Lrrk2 protein expression were assessed in pMacs from young and aged mice treated with
+134 100U of IFNγ for 18h. In pMacs from young females, IFNγ treatment significantly increased total Lrrk2
+135 protein in both B6 and R1441C pMacs (Fig. 1A, B; p < 0.01). Relative to pMacs from young female mice,
+136 pMacs from aged females expressed increased total Lrrk2 protein under vehicle stimulation, with aged
+137 R1441C pMacs expressing significantly less Lrrk2 
+
+Chunk 9:
+ng and aged mice treated with
+134 100U of IFNγ for 18h. In pMacs from young females, IFNγ treatment significantly increased total Lrrk2
+135 protein in both B6 and R1441C pMacs (Fig. 1A, B; p < 0.01). Relative to pMacs from young female mice,
+136 pMacs from aged females expressed increased total Lrrk2 protein under vehicle stimulation, with aged
+137 R1441C pMacs expressing significantly less Lrrk2 protein relative to B6 aged pMacs (p <0.05).
+138 Furthermore, pMacs from aged females did not exhibit a significant increase in Lrrk2 protein expression
+139 with IFNγ treatment, with aged R1441C pMacs still expressing significantly less Lrrk2 protein relative to
+140 B6 aged pMacs in IFNγ-treatment (p<0.05). In pMacs from young male mice, the same observations were
+141 made as in the females (Fig. S1A, B). In aged male mice, although a lack of IFNγ-mediated Lrrk2 increase
+142 was observed as seen in females, the effect of the R1441C mutation was not observed. These observations
+143 indicate that Lrrk2 protein increase in macrophages as a function of age in both males and females, however,
+144 the R1441C mutation limits this increase in a sex-dependent manner.
+145 To decipher whether these alterations in Lrrk2 protein expression was accompanied by increases in Lrrk2
+146 kinase activity, phosphorylation of Rab10 at T73 (pT73), a bona fide kinase-substrate of Lrrk2 (23), was
+147 quantified. In pMacs from young female mice, a significant (p<0.01) increase in pT73 Rab10 expression
+148 was observed in response to IFNγ in R1441C-Lrrk2 cells, whilst this was not observed in pMacs from young
+6
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+149 B6 females (Fig. 1C, D). Interestingly, this phenotype was reversed in pMacs from aged female mice, with
+150 a signi
+
+Chunk 10:
+
+6
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+149 B6 females (Fig. 1C, D). Interestingly, this phenotype was reversed in pMacs from aged female mice, with
+150 a significant increase (p<0.01) in pT73 Rab10 expression observed in response to IFNγ in B6 but not
+151 R1441C-Lrrk2 cells. Of note, the pT73 Rab10 expression in pMacs from aged B6 females in response to
+152 IFNγ was significantly (p<0.05) elevated relative to all other groups, suggesting that, in B6 females, Lrrk2
+153 kinase activity increases with age. In pMacs from young male mice, however, no significant effect of the
+154 R1441C mutation was observed in vehicle or IFNγ conditions (Fig. SB, C), although a significant (p<0.01)
+155 increase in pT73 Rab10 expression was observed in response to IFNγ. Interestingly, a significant increase
+156 in pT73 Rab10 expression was observed in pMacs from aged male mice relative to those from young males,
+157 suggesting that Lrrk2 kinase activity increases with age in pMacs from male mice. Furthermore, upon IFNγ
+158 treatment, a significant increase in pT73 Rab10 expression was observed in pMacs from aged R1441C-
+159 Lrrk2 males relative to all other groups, suggesting an additive effect of the R1441C mutation on Lrrk2
+160 kinase activity in an ageing male immune system.
+161 As pMacs are not a homogenous population of cells, as previously discussed, we used multi-color flow
+162 cytometry-based methods to immunophenotype LPMs and SPMs, as the two populations can be
+163 distinguished based on CD11b expression (Fig. S1D) (43). No differences were seen in LPM or SPM count
+164 between genotypes in males or females at either young or aged (Fig. S1E-H).
+165 To begin to investigate the effects of the R1441C mutation on pMac function at different ages, 
+
+Chunk 11:
+ used multi-color flow
+162 cytometry-based methods to immunophenotype LPMs and SPMs, as the two populations can be
+163 distinguished based on CD11b expression (Fig. S1D) (43). No differences were seen in LPM or SPM count
+164 between genotypes in males or females at either young or aged (Fig. S1E-H).
+165 To begin to investigate the effects of the R1441C mutation on pMac function at different ages, surface
+166 MHC-II expression was assessed on both LPMs and SPMs via multi-color flow cytometry as a measure of
+167 antigen presentation in both vehicle and IFNγ treated pMacs. In pMacs from young females, the R1441C
+168 mutation increases surface MHC-II expression on LPMs in IFNγ treatments (Fig 1D). Interestingly,
+169 although no effect of age was observed in vehicle conditions, surface MHC-II expression was significantly
+170 decreased in aged pMacs from both B6 and R1441C when treated with IFNγ relative to LPM from young
+171 mice (p<0.001). Furthermore, a significant decrease in surface MHC-II expression was observed in LPM
+172 from aged R1441C females relative to aged B6 LPM (p<0.01), indicative of decreased ability to engage in
+173 antigen presentation in these cells. This effect of the R1441C mutation was not observed in LPMs from
+7
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+174 male mice (Fig. 1E). However, as seen in LPM from female mice, an effect of age was also observed in
+175 LPM from male mice, with surface MHC-II expression significantly decreased in LPM from aged mice, in
+176 both vehicle and IFNγ conditions (p<0.001). Regarding surface MHC-II expression on SPMs, the same
+177 effect of age was observed in both male and female pMacs, with SPM from aged mice expressing
+178 significantly less surface MHC-II relative to SPM from youn
+
+Chunk 12:
+fect of age was also observed in
+175 LPM from male mice, with surface MHC-II expression significantly decreased in LPM from aged mice, in
+176 both vehicle and IFNγ conditions (p<0.001). Regarding surface MHC-II expression on SPMs, the same
+177 effect of age was observed in both male and female pMacs, with SPM from aged mice expressing
+178 significantly less surface MHC-II relative to SPM from young mice (p<0.001) (Fig. S1I, J).
+179 With alterations in surface MHC-II expression, there is likely increased and decreased transport of MHC-
+180 II-complexes to the cell surface in pMacs from young and aged R1441C females, respectively. To test this,
+181 using pMacs treated with vehicle or IFNγ, we co-stained for extracellular vs intracellular MHC-II
+182 (ExMHCII vs IcMHCII) and monitored expression via fluorescence microscopy. pMacs were co-treated
+183 with 100nM PF360 to determine the effects of Lrrk2 kinase activity on surface MHC-II expression.
+184 Treatment with the Lrrk2 kinase inhibitor, PF360 (PF-06685360)PF360 reduced expression of Lrrk2
+185 phosphorylated at S935 (pS935) Lrrk2 in all groups (Fig. S2A, B). Although no significant effects of
+186 genotype or age were observed in vehicle treated pMacs from female mice, upon IFNγ stimulation, a
+187 significant increase in Ex:IcMHCII ratio was observed in pMacs from young R1441C mice relative to other
+188 groups (p<0.05) (Fig. 1F, Fig. S2C). Furthermore, a significant decrease in Ex:IcMHCII ratio was observed
+189 in pMacs from aged R1441C females relative to aged B6 pMacs and young pMacs (p<0.01) (Fig. 1G). The
+190 increased Ex:IcMHCII ratio in pMacs from young R1441C females was ameliorated upon Lrrk2 kinase
+191 inhibition (Fig. S2C, D), with this treatment also decreasing Ex:IcMHCII ratio in pMacs from young and
+192 aged B6 females. However, no effect of Lrrk2 kinase inhibition was seen in pMacs from aged R1441C
+193 females. Such data suggests that Lrrk2-kinase inhibition reduces the transport of IcMHCII to the cell s
+
+Chunk 13:
+:IcMHCII ratio in pMacs from young R1441C females was ameliorated upon Lrrk2 kinase
+191 inhibition (Fig. S2C, D), with this treatment also decreasing Ex:IcMHCII ratio in pMacs from young and
+192 aged B6 females. However, no effect of Lrrk2 kinase inhibition was seen in pMacs from aged R1441C
+193 females. Such data suggests that Lrrk2-kinase inhibition reduces the transport of IcMHCII to the cell surface
+194 to engage in antigen presentation, but this may occur in an age- and genotype-dependent manner. No effect
+195 of the R1441C mutation was observed in males (Fig. 1H, I, Fig. S2D). It seems therefore that the R1441C
+196 mutation exhibits a bi-phasic, age- and sex-dependent effect on antigen presentation in macrophages. The
+197 effect of Lrrk2 protein kinase inhibition on antigen presentation, however, does not appear to be bi-phasic,
+8
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+198 with Lrrk2 kinase inhibition decreasing antigen presentation in pMacs from both young and aged mice, at
+199 least in B6 mice.
+200
+201 LRRK2 R1441C mutant immune cells display age-dependent biphasic alteration in cytokine release
+202 ex vivo and circulating cytokines in vivo
+203 To investigate the extent to which alterations in antigen presentation were accompanied by changes in
+204 cytokine release, media from vehicle- and IFNγ treated cells were collected and cytokine release was
+205 quantified on a multiplexed immunoassay panel (Fig. 2A). In pMacs from young R1441C females, increases
+206 in IL6 relative to B6 controls was observed in vehicle treated conditions, which was ameliorated upon
+207 ageing (Fig. 2B). Interestingly, a bi-phasic, age-dependent pattern was observed regarding IL10 release,
+208 with increased IL10 observed in pMacs from young R1441C fe
+
+Chunk 14:
+ine release was
+205 quantified on a multiplexed immunoassay panel (Fig. 2A). In pMacs from young R1441C females, increases
+206 in IL6 relative to B6 controls was observed in vehicle treated conditions, which was ameliorated upon
+207 ageing (Fig. 2B). Interestingly, a bi-phasic, age-dependent pattern was observed regarding IL10 release,
+208 with increased IL10 observed in pMacs from young R1441C females relative to young B6 controls, whilst,
+209 conversely, decreased IL10 was observed in pMacs from aged R1441C females relative to aged B6 controls
+210 (Fig. 2B). As well, TNF was significantly elevated in IFNγ-treated pMacs from R1441C aged females
+211 relative to aged B6 controls and both young B6 and young R1441C females (p<0.05) (Fig. 2B). With a
+212 decrease in the release of the anti-inflammatory cytokine, IL10, and an increase in the release of the pro-
+213 inflammatory cytokine, TNF, in females, these findings indicate that pMacs from aged R1441C female
+214 mice promote a pro-inflammatory microenvironment.
+215 In pMacs from R1441C males, IL6 release was significantly increased in IFNγ conditions relative to B6
+216 controls in both young and aged mice (p<0.05) (Fig. 2C). Similarly, IL10 release was significantly increased
+217 in pMacs from both aged and young R1441C males relative to B6 controls (p<0.05) (Fig.2C). Regarding
+218 TNF release from pMacs from male mice, no genotype effects were observed in pMacs from young mice,
+219 whilst an increase in TNF was observed in aged R1441C males relative to aged B6 controls, although this
+220 did not significantly differ from pMacs from neither young B6 or R1441C males (Fig.2C). It seems
+221 therefore that, in pMacs from aged male mice, the R1441C-associated increase in IL6 and IL10 seen in
+9
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights re
+
+Chunk 15:
+acs from neither young B6 or R1441C males (Fig.2C). It seems
+221 therefore that, in pMacs from aged male mice, the R1441C-associated increase in IL6 and IL10 seen in
+9
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+222 young mice is retained with age but R1441C macrophages secrete more TNF than B6 controls after
+223 stimulation.
+224 To determine if these alterations in cytokine release associated with the R1441C mutation ex vivo was also
+225 detectable in vivo, plasma from whole blood was collected and cytokine release was quantified (Fig. 2D).
+226 A significant increase in IL10, IL6, and TNF was observed in plasma from young R1441C female mice
+227 relative to young B6 controls (p<0.05) (Fig. 2E). Interestingly, an increase in these cytokines were observed
+228 with age, although IL6 and IL10 release was significantly reduced in aged R1441C females relative to B6
+229 controls (p<0.01), confirming the biphasic age-dependent effects observed ex vivo. In young male mice, a
+230 significant increase in both IL6, IL10 and TNF were also observed in R1441C males relative to B6 controls
+231 (p<0.01) (Fig. 2F). However, unlike in females, an age-dependent increase in cytokine release across
+232 genotypes was not observed, with the only genotype effect being observed in aged male mice seen with
+233 IL10, with a decrease in IL10 observed in aged R1441C males relative to aged B6 controls.
+234
+235 The R1441C Lrrk2 mutation is associated with alterations of monocyte populations and microglia
+236 activation in aged female mice
+237 The observation of a biphasic immune response, with an initial hyperinflammation state proceeded by a
+238 subsequent downregulation of immune responses, prompted us to hypothesize that what was being observed
+239 in aged R1441C fe
+
+Chunk 16:
+lative to aged B6 controls.
+234
+235 The R1441C Lrrk2 mutation is associated with alterations of monocyte populations and microglia
+236 activation in aged female mice
+237 The observation of a biphasic immune response, with an initial hyperinflammation state proceeded by a
+238 subsequent downregulation of immune responses, prompted us to hypothesize that what was being observed
+239 in aged R1441C female immune cells was immune cell exhaustion. Immune cell exhaustion arises from
+240 chronic stimulation of immune cells, leading to a downregulation, or even absence, of an expected effector
+241 response (e.g. antigen presentation, cytokine release or phagocytosis) (47). It is known that monocytes
+242 pushed to exhaustion shift to express higher Ly6C levels and a reduction in Ly6C- monocytes under resting
+243 conditions (48). We therefore assessed monocyte sub-populations in the blood of young and aged mice to
+244 determine if a shift to an exhausted state could be observed. Indeed, we observed a detectable increase in
+245 Ly6C+:Ly6C- in the peripheral blood mononuclear cells isolated from blood of aged R1441C female mice
+246 relative to aged B6 controls and young B6 and R1441C female mice (Fig. S3A) with no significant change
+10
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+247 observed in male mice (Fig. S3B). The fact that no effect of genotype was observed in young females and
+248 only aged females, suggests the development of an age-acquired immune cell exhaustion phenotype in the
+249 R1441C females. This is further supported by the observation that in aged R1441C female mice, but not
+250 males, an increase in PDL1 expression, an immune checkpoint molecule, was upregulated on LyC+
+251 monocytes from blood relative to B6 controls (Fig. S3C, D
+
+Chunk 17:
+served in young females and
+248 only aged females, suggests the development of an age-acquired immune cell exhaustion phenotype in the
+249 R1441C females. This is further supported by the observation that in aged R1441C female mice, but not
+250 males, an increase in PDL1 expression, an immune checkpoint molecule, was upregulated on LyC+
+251 monocytes from blood relative to B6 controls (Fig. S3C, D).
+252 It has been suggested that circulating monocytes, disrupted in PD, may infiltrate the brain parenchyma and
+253 affect local glial and adaptive immune responses (49). To determine whether exhausted monocytes could
+254 be infiltrating the brain parenchyma of aged R1441C female mice, immune cells were isolated from whole
+255 brain and assessed via multi-color flow cytometry (Fig. S3E). Indeed, in aged R1441C females, an increase
+256 in overall Ly6C+ monocytes in the brain parenchyma was observed relative to B6 controls, whilst MHC-
+257 II/Ly6C+ were decreased (Fig. S3F, G), suggesting that whilst there is an increase in infiltrating Ly6C+
+258 monocytes in the brains of aged R1441C females, they exhibit the same decrease in antigen presenting
+259 capabilities to those observed in pMacs ex vivo. Importantly, alongside this increase in infiltrating
+260 monocytes into the brain parenchyma, a concomitant increase in MHC-II expression on microglia was
+261 observed in aged R1441C females relative to B6 controls (Fig. S3H) with no changes in overall microglia
+262 number (Fig. S3I). No changes were observed in the brains of male mice (Fig. S3J-M).
+263
+264 LRRK2 R1441C mutant immune cells display age-dependent biphasic alterations in lysosomal activity
+265 As previously discussed, loss of Lrrk2 leads to biphasic alterations in lysosomal function in kidneys (42).
+266 Interestingly, lysosomal dysfunction has been implicated in immune cell exhaustion, with decreased
+267 autophagy levels and lysosomal function being associated with increased T cell exhaustion (50). We
+268 therefore h
+
+Chunk 18:
+s display age-dependent biphasic alterations in lysosomal activity
+265 As previously discussed, loss of Lrrk2 leads to biphasic alterations in lysosomal function in kidneys (42).
+266 Interestingly, lysosomal dysfunction has been implicated in immune cell exhaustion, with decreased
+267 autophagy levels and lysosomal function being associated with increased T cell exhaustion (50). We
+268 therefore hypothesized that the biphasic immune response observed in R1441C females would be associated
+269 with concomitant biphasic lysosomal function.
+11
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+270 The Eα: YAe model is used to monitor the antigen presentation capabilities of cells by incubating an
+271 endogenous peptide (Eα 52-68) which is subsequently phagocytosed, transported to the lysosome, loaded
+272 onto an MHC-II complex at the lysosome and transported back to the plasma membrane for antigen
+273 presentation (Fig. 3A). This Eα peptide-loaded MHC-II can subsequently be detected via flow cytometry
+274 using the YAe antibody (51); DOI: 10.1016/j.jim.2015.04.023). We observed that YAe median
+275 fluorescence intensity (MFI) was significantly increased in IFNγ-treated LPMs from young R1441C
+276 females relative to age-matched B6 controls and pMacs from aged females (p<0.05) (Fig. 3B). Furthermore,
+277 IFNγ-treated LPMs from aged R1441C females exhibited decreased YAe MFI relative to other groups. Co-
+278 treatment with PF360 ameliorated the increased YAe MFI observed in LPMs from young R1441C females.
+279 Antigen presentation and pathogen sensing require protease action and sufficient lysosomal function in
+280 order to occur (52), which is why lysosomotropic agents have been shown to decrease peptide-loaded-
+281 MHC-II surface expression in antige
+
+Chunk 19:
+ecreased YAe MFI relative to other groups. Co-
+278 treatment with PF360 ameliorated the increased YAe MFI observed in LPMs from young R1441C females.
+279 Antigen presentation and pathogen sensing require protease action and sufficient lysosomal function in
+280 order to occur (52), which is why lysosomotropic agents have been shown to decrease peptide-loaded-
+281 MHC-II surface expression in antigen presenting cells (51). Indeed, when co-treated with the vacuolar H+
+282 ATPase (V-ATPase) inhibitor, Bafilomycin A1, YAe MFI significantly decreased in both R1441C and B6
+283 LPMs from both young and aged mice (p<0.01). Although no effect of genotype was observed in male mice
+284 at either ages, the same treatment effects were observed as seen in females, with PF360 and Bafilomycin
+285 A1 co-treatment significant decreasing YAe MFI relative to IFNγ conditions (p<0.01) (Fig. 3C). Due to
+286 this observation and the crucial role of the lysosome in antigen presentation, we next sought to probe the
+287 effects of the R1441C mutation on lysosomal function in these pMacs.
+288 pMacs were plated and incubated with the lysosomal degradation probe, DQ Red BSA, and the pan-
+289 cathepsin probe, BMV109, and collected for flow cytometry to quantify lysosomal activity. It was observed
+290 that LPMs from young R1441C females exhibited increased DQ-BSA and BMV109 MFI relative to age-
+291 matched controls and pMacs from aged B6 and R1441C females (Fig. 3D, E), indicative of increased
+292 lysosomal protein degradation and pan-cathepsin activity, respectively. Conversely, LPMs from aged
+293 R1441C females exhibited decreased DQ-BSA and BMV109 MFI relative to age-matched controls and
+294 pMacs from young B6 and R1441C females. Interestingly, LPM from both aged B6 and R1441C females
+12
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author
+
+Chunk 20:
+females exhibited decreased DQ-BSA and BMV109 MFI relative to age-matched controls and
+294 pMacs from young B6 and R1441C females. Interestingly, LPM from both aged B6 and R1441C females
+12
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+295 exhibited decreased DQ-BSA MFI relative to young mice, reflecting an overall decrease in lysosomal
+296 degradative capacity with age. No effects of genotype were observed in LPMs from male mice (Fig. S4A,
+297 B). These observations made via flow cytometry were confirmed with fluorescence microscopy (Fig. 3F-I;
+298 Fig. S4C-F). As was observed with YAe measurements, Lrrk2 kinase inhibition via treatment with PF360
+299 significantly reduced BMV109 MFI observed via microscopy (p<0.05) in all groups except aged B6 and
+300 R1441C females, which exhibited decreased measurement of pan cathepsin activity which were unaffected
+301 by Lrrk2 kinase inhibition. However, Lrrk2 kinase inhibition was able to decrease DQ-BSA MFI in all
+302 groups.
+303
+304 R1441C Lrrk2 mutation is association with age-acquired hypo-phagocytosis
+305 Lysosomal function in macrophages is crucial for a number of other immune-related functions in myeloid
+306 cells, including phagocytosis. Therefore, we posited that the observed biphasic effects of the R1441C
+307 mutation on lysosomal function would have downstream consequences on phagocytosis in pMacs. To
+308 explore this hypothesis, pMacs were plated and incubated with pHrodo™ Green E. coli BioParticles™,
+309 after which uptake and fluorescence intensity were monitored over 5 hours. An increase in GFP MFI was
+310 observed in pMac cultures from young R1441C females relative to age-matched B6 controls and pMac
+311 cultures from aged B6 and R1441C females (Fig. 4A, B). As well, a significant re
+
+Chunk 21:
+s. To
+308 explore this hypothesis, pMacs were plated and incubated with pHrodo™ Green E. coli BioParticles™,
+309 after which uptake and fluorescence intensity were monitored over 5 hours. An increase in GFP MFI was
+310 observed in pMac cultures from young R1441C females relative to age-matched B6 controls and pMac
+311 cultures from aged B6 and R1441C females (Fig. 4A, B). As well, a significant reduction in GFP MFI was
+312 observed in pMacs from aged R1441C females relative to age-matched B6 controls and young B6 and
+313 R1441C females (p<0.01). Lrrk2 kinase inhibition with PF360 significantly reduced GFP MFI in young
+314 R1441C females (p<0.01), with no effects of Lrrk2 kinase inhibition on GFP MFI in other groups. In male
+315 mice, pMacs from young R1441C males did exhibit increased GFP MFI relative to age-matched B6 controls
+316 and aged B6 and R1441C mice which could be significantly reduced with PF360 co-treatment (p<0.05)
+317 (Fig. S5A-B). Interestingly, an overall effect of age was observed in pMac cultures from male mice, with
+318 aged B6 and R1441C pMacs exhibiting decreased GFP MFI relative to pMacs cultures from young male
+319 mice. It was still observed, however, that, despite this decrease in phagocytosis with age, pMacs from aged
+13
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+320 R1441C males exhibited increased GFP MFI relative to age-matched B6 controls. Collectively, it seems
+321 that pMacs from R1441C females exhibit increased phagocytic uptake at a young age and develop an age-
+322 dependent hypophagocytic phenotype. pMacs from R1441C males, however, exhibit this same increased
+323 phagocytic uptake at a young age but retain this increase in old ages.
+324
+325 Hypophagocytic activity in R1441C macrophages is associated 
+
+Chunk 22:
+ age-matched B6 controls. Collectively, it seems
+321 that pMacs from R1441C females exhibit increased phagocytic uptake at a young age and develop an age-
+322 dependent hypophagocytic phenotype. pMacs from R1441C males, however, exhibit this same increased
+323 phagocytic uptake at a young age but retain this increase in old ages.
+324
+325 Hypophagocytic activity in R1441C macrophages is associated with aberrant pathogen-mediated
+326 DNA damage
+327 Our data thus far suggests a potential age-acquired immune cell exhaustion in macrophages from R1441C
+328 female mice. In other disease states associated with cellular exhaustion, apoptotic depletion of immune cells
+329 is also observed (53). To investigate the degree of pathogen-induced apoptosis in pMacs from R1441C
+330 mice, pMacs were plated in the presence of E. coli for 12 hours, harvested and stained using terminal
+331 deoxynucleotidyl transferase dUTP nick end labeling (TUNEL), which detects DNA breaks formed during
+332 the final phase of apoptosis, and TUNEL fluorescence was assessed via flow cytometry. LPMs from young
+333 R1441C females exhibited decreased TUNEL MFI in response to E. Coli relative to age-matched B6
+334 controls and LPMs from aged mice, whilst an increase was observed in LPMs from aged R1441C females
+335 relative to all other groups (Fig. 4C). Reduced apoptosis in young R1441C mice could lead to prolonged
+336 presence of activated immune cells which should otherwise be eliminated, resulting in an increased and
+337 prolonged inflammatory response and, if sustained for prolonged times, could lead to immune cell
+338 exhaustion. Indeed, in response to E. Coli, no effect of genotype was observed in aged males (Fig. S5C).
+339 These novel findings support the conclusion that R1441C males may evade the age-acquired immune cell
+340 exhaustion that is seen in females by increasing clearance of activated immune cells.
+341
+342 Immune cell exhaustion in R1441C Lrrk2 mutant immune cells is dependent on Lrrk2 kin
+
+Chunk 23:
+ell
+338 exhaustion. Indeed, in response to E. Coli, no effect of genotype was observed in aged males (Fig. S5C).
+339 These novel findings support the conclusion that R1441C males may evade the age-acquired immune cell
+340 exhaustion that is seen in females by increasing clearance of activated immune cells.
+341
+342 Immune cell exhaustion in R1441C Lrrk2 mutant immune cells is dependent on Lrrk2 kinase activity
+14
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+343 Our data thus far suggest a potential age-acquired immune cell exhaustion in macrophages from R1441C
+344 female mice. We hypothesized that this age-acquired immune cell exhaustion was driven by the initial
+345 hyperinflammatory phase when these mice are young, characterized by increased cytokine release,
+346 increased antigen presentation, and reduced apoptosis of activated immune cells. We therefore
+347 hypothesized that pMacs from young R1441C female mice could be pushed to acquire this age-dependent
+348 immune cell exhaustion phenotype if subjected to chronic overstimulation ex vivo. To test this, pMacs were
+349 isolated and plated in the presence of a vehicle or 100ng/mL LPS for a 5-day chronic treatment (Fig. 5A).
+350 We first sought to understand how Lrrk2 expression is altered by LPS-induced exhaustion and how age and
+351 the R1441C affects this. In pMacs from young females, an increase in Lrrk2 expression was observed in
+352 response to LPS-induced exhaustion (Fig. 5B, C). Importantly, there was no significant effect of treatment
+353 in pMacs from aged female mice, with aged R1441C pMacs expressing significantly less Lrrk2 relative to
+354 B6 controls (p<0.01). Interestingly, these same observations were made in pMacs from aged male mice
+355 (Fig. S6A, B) suggesting that, wit
+
+Chunk 24:
+ase in Lrrk2 expression was observed in
+352 response to LPS-induced exhaustion (Fig. 5B, C). Importantly, there was no significant effect of treatment
+353 in pMacs from aged female mice, with aged R1441C pMacs expressing significantly less Lrrk2 relative to
+354 B6 controls (p<0.01). Interestingly, these same observations were made in pMacs from aged male mice
+355 (Fig. S6A, B) suggesting that, with an additional chronic inflammatory stress, aged R1441C males can
+356 exhibit some of the phenotypes observed in females.
+357 A number of negative costimulatory markers that are associated with immune cell exhaustion have been
+358 identified, including the immune checkpoint molecule, PDL1 (54). PDL1 expression was quantified via
+359 multi-color flow cytometry in pMacs from young and aged mice to determine if pMacs from aged R1441C
+360 females were exhausted as hypothesized. Indeed, an increase in PDL1+ cells was observed in both vehicle
+361 and LPS-exhausted aged R1441C LPMs relative to age-matched B6 controls as well as young mice (Fig.
+362 5D). As this was seen in both vehicle and LPS conditions, these exciting findings suggest that pMacs from
+363 R1441C females are already exhibiting immune cell exhaustion markers, which is then exacerbated by
+364 chronic LPS-exhaustion. Interestingly, a significant increase in PDL1+ cell count was observed in pMacs
+365 from young R1441C females in both vehicle and LPS-exhausted conditions relative to age-matched B6
+366 controls (p<0.01) (Fig. 5D). Interestingly, when cells were pushed to exhaustion with Lrrk2 kinase inhibitor
+367 co-treatment, a significant reduction in PDL1+ cell count was observed (p<0.05). These data suggest that
+15
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+368 R1441C macrophages from 
+
+Chunk 25:
+ a significant reduction in PDL1+ cell count was observed (p<0.05). These data suggest that
+15
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+368 R1441C macrophages from female mice may be susceptible to immune cell exhaustion in a Lrrk2-kinase
+369 dependent manner.
+370 LPMs from aged R1441C male mice, although no significant effect of genotype was observed in vehicle
+371 conditions, when pushed to exhaustion with LPS, an increase in PDL1+ LPMs relative to age-matched B6
+372 controls, as well as pMacs from young mice, was observed (Fig. S6C). The lack of differences in PDL1+
+373 cells between genotypes or ages in male mice suggests there is no effect of the R1441C mutation on immune
+374 cell exhaustion in naïve animals. However, based on the increased PDL1+ cell counts observed in aged
+375 R1441C males when treated with LPS for 5 days, we conclude that a secondary, chronic inflammatory
+376 insult can push R1441C pMacs from male mice to acquire immune cell exhaustion like that seen in female
+377 mice.
+378 We next sought to determine if LPS-induced exhausted macrophages from young female R1441C mice also
+379 exhibited the diminished antigen presentation capabilities that we observe in the aged R1441C
+380 macrophages. After a 5-day treatment with vehicle or LPS +/- PF360, macrophages were treated with IFNγ
+381 and MHC-II expression was quantified via multi-color flow cytometry. In LPMs subjected to a 5-day
+382 vehicle pre-treatment, the same increased MHC-II expression in R1441C macrophages relative to B6
+383 controls was observed (Fig. 5E). As hypothesized, in LPMs pushed to exhaustion with a 5-day LPS pre-
+384 treatment, a decreased response to IFNγ was elicited in both genotypes; however, R1441C LPMs exhibited
+385 decreased MHC-II relative 
+
+Chunk 26:
+multi-color flow cytometry. In LPMs subjected to a 5-day
+382 vehicle pre-treatment, the same increased MHC-II expression in R1441C macrophages relative to B6
+383 controls was observed (Fig. 5E). As hypothesized, in LPMs pushed to exhaustion with a 5-day LPS pre-
+384 treatment, a decreased response to IFNγ was elicited in both genotypes; however, R1441C LPMs exhibited
+385 decreased MHC-II relative to B6 controls in response to IFNγ, phenocopying what was observed in
+386 macrophages with aged mice. Importantly, this could be ameliorated by co-treatment with PF360 during
+387 the 5-day pre-treatment, suggesting that the push to immune cell exhaustion and vulnerability of R1441C
+388 macrophages is dependent on Lrrk2 protein kinase activity. Furthermore, we also observed that pMacs from
+389 young R1441C females pushed to exhaustion with a 5-day pre-treatment of LPS exhibited a significant
+390 reduction in phagocytosis as measured by uptake of pHrodo™ Green E. coli relative to B6 controls detected
+391 by GFP+ cell percentage and GFP MFI which was ameliorated with PF360 co-treatment (p<0.01) (Fig. 5F-
+392 H).
+16
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+393 Based on the observation that the PDL1+ cell count was elevated in LPMs from aged R1441C males relative
+394 to B6 controls, we hypothesized that a 5-day LPS treatment would induce immune cell exhaustion in pMacs
+395 from aged R1441C males similar to that seen in female mice. After a 5-day treatment with vehicle or LPS
+396 +/- PF30, macrophages from aged male mice were treated with IFNγ and MHC-II expression quantified via
+397 multi-color flow cytometry. LPMs from aged males pushed to exhaustion with 5-day LPS pre-treatment,
+398 R1441C LPMs exhibited decreased MHC-II relative to B6 controls 
+
+Chunk 27:
+stion in pMacs
+395 from aged R1441C males similar to that seen in female mice. After a 5-day treatment with vehicle or LPS
+396 +/- PF30, macrophages from aged male mice were treated with IFNγ and MHC-II expression quantified via
+397 multi-color flow cytometry. LPMs from aged males pushed to exhaustion with 5-day LPS pre-treatment,
+398 R1441C LPMs exhibited decreased MHC-II relative to B6 controls in response to IFNγ, phenocopying what
+399 was observed in macrophages from aged female R1441C mice (Fig. S6E). Additionally, the same
+400 hypophagocytic phenotype observed in aged R1441C female pMacs was observed in males once pushed to
+401 exhaustion with a 5-day LPS treatment (Fig. S6F-H). Collectively such data support the hypothesis that,
+402 with a secondary hit in the form of a chronic, inflammatory stimulus, male R1441C mice exhibit increased
+403 immune cell exhaustion relative to B6 controls, similar to that seen in naïve R1441C female macrophages.
+404
+405 Transcriptomic profiling reveals age- and sex-specific alterations in critical effector function
+406 pathways in R1441C macrophages
+407 To explore the age and sexually dimorphic effects of the R1441C mutation on macrophage function, RNA
+408 was harvested from pMacs post-vehicle or IFNγ treatment and processed for RNA sequencing (RNAseq).
+409 A principal component analysis (PCA) was conducted from the resulting dataset which revealed that groups
+410 in our dataset primarily cluster based on age and treatment with vehicle or IFNγ treatment (Fig. S7A).
+411 We first sought to identify key cellular pathways altered under different treatment conditions in R1441C
+412 pMacs relative to B6 controls. In pMacs from young females treated with IFNγ, Gene Ontology (GO)
+413 enrichment analysis revealed that upregulated differentially expressed genes (DEGs) in R1441C
+414 macrophages were enriched in pathways such as regulation of phagocytosis, T cell differentiation, cytokine
+415 production and defense response to virus (Fig. S7
+
+Chunk 28:
+erent treatment conditions in R1441C
+412 pMacs relative to B6 controls. In pMacs from young females treated with IFNγ, Gene Ontology (GO)
+413 enrichment analysis revealed that upregulated differentially expressed genes (DEGs) in R1441C
+414 macrophages were enriched in pathways such as regulation of phagocytosis, T cell differentiation, cytokine
+415 production and defense response to virus (Fig. S7B, C). In pMacs from aged females treated with IFNγ,
+416 GO enrichment analysis showed downregulated DEGs in R1441C macrophages were enriched in pathways
+417 such as detection of external biotic stimulus, acute inflammatory response, and regulation of MAP kinase
+17
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+418 activity (Fig. S7D, E). Collectively, such observations support our previous data that shows an effect of
+419 R1441C Lrrk2 on functional readouts such as increased phagocytosis and cytokine production in response
+420 to IFNγ in young females relative to B6 controls, whilst in aged mice, effector functions responsible for
+421 defense responses are significantly downregulated relative to B6 controls.
+422 Overall, fewer genes were dysregulated in R1441C pMacs from young females treated with vehicle, relative
+423 to pMacs treated with IFNγ (Fig. S8A), although these DEGs were enriched in similar pathways (Fig. S8B).
+424 Similar observations were made with pMacs treated with vehicle from aged females (Fig. S8C). As Lrrk2
+425 protein increases in response to IFNγ, it follows that DEGs driven by the R1441C mutation would have a
+426 more significant biological impact in these conditions where Lrrk2 protein expression are increased.
+427 Furthermore, given that the majority of phenotypes we observe in pMacs from R1441C females are seen in
+428 resp
+
+Chunk 29:
+e with pMacs treated with vehicle from aged females (Fig. S8C). As Lrrk2
+425 protein increases in response to IFNγ, it follows that DEGs driven by the R1441C mutation would have a
+426 more significant biological impact in these conditions where Lrrk2 protein expression are increased.
+427 Furthermore, given that the majority of phenotypes we observe in pMacs from R1441C females are seen in
+428 response to an inflammatory insult or immunological challenge, such as IFNγ or E. Coli, it is logical that
+429 more R1441C:B6 DEGs would be observed in these conditions relative to vehicle treatments. Few
+430 R1441C:B6 DEGs were observed in pMacs from male mice at both ages and in both treatments (Fig. S8D-
+431 I). This is unsurprising, given that many phenotypes were not observed in R1441C male mice. pMacs from
+432 aged R1441C only begin to exhibit phenotypes similar to R1441C female mice when pushed to immune
+433 cell exhaustion and re-challenged with IFNγ. It is therefore likely that to identify key cellular pathways that
+434 are altered by the R1441C mutation in male mice, a second, chronic immune insult is needed to elicit those
+435 changes.
+436
+437 R1441C Lrrk2 mutation alters transcriptional regulation of mitochondrial and oxidative stress genes
+438 in macrophages in a sex- and age-dependent manner
+439 Based on the observation that the R1441C mutation alters gene expression in pMacs from aged female
+440 mice, we next sought to determine the key cellular pathways that this mutation altered in the aging process.
+441 When comparing DEGs in pMacs from both B6 and R1441C aged mice treated with IFNγ relative to those
+442 from young pMacs, there was a large degree of overlap between the DEGs identified in the two genotypes
+18
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed
+
+Chunk 30:
+eated with IFNγ relative to those
+442 from young pMacs, there was a large degree of overlap between the DEGs identified in the two genotypes
+18
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+443 (Fig. 6A-C). However, 2012 genes were identified to be differentially expressed upon aging and novel to
+444 R1441C pMacs. KEGG pathway enrichment analysis revealed that these 2012 genes unique to aged
+445 R1441C pMacs were significantly enriched for pathways associated with neurodegenerative diseases, such
+446 as Parkinson’s disease, Alzheimer’s disease and Huntington’s disease (p<0.05) (Fig. 6D). Similarly, GO
+447 biological pathway enrichment analysis of these DEGs showed a significant enrichment (p<0.05) in
+448 pathways related to mitochondria, oxidative stress and metabolism, including mitochondrial respiratory
+449 chain complex I assembly, glucose and pyruvate metabolic process and cellular respiration, which are all
+450 known key lysosomal and mitochondrial functions. Many DEGs observed in the Parkinson’s Disease
+451 KEGG pathway were present in the GO biological pathways associated with mitochondrial function and
+452 oxidative stress, including many Nduf and Cox genes, Park7, Pink1 and Prkn (Fig. 6E). Furthermore, GO
+453 and KEGG pathway enrichment analysis of DEGs identified as upregulated in pMacs from aged R1441C
+454 females relative to aged R1441C males showed a significant enrichment (p<0.05) in these same pathways,
+455 including Parkinson’s Disease, cellular respiration and ribonucleotide biosynthetic process (Fig. 6F). Given
+456 that pMacs from aged R1441C females are susceptible to the age-dependent, bi-phasic immunophenotype
+457 described here, whilst pMacs from aged R1441C males seem to be protected, altered mitochondrial function
+4
+
+Chunk 31:
+C males showed a significant enrichment (p<0.05) in these same pathways,
+455 including Parkinson’s Disease, cellular respiration and ribonucleotide biosynthetic process (Fig. 6F). Given
+456 that pMacs from aged R1441C females are susceptible to the age-dependent, bi-phasic immunophenotype
+457 described here, whilst pMacs from aged R1441C males seem to be protected, altered mitochondrial function
+458 as a function of age in the females, which is not observed in the males, may underlie this observation.
+459 When comparing DEGs in aged pMacs from both B6 and R1441C female mice treated with vehicle from,
+460 unsurprisingly, different DEGs were identified relative to what was seen in IFNγ conditions (Fig. S9A-D).
+461 As opposed to pathways related to mitochondria and oxidative induced by IFNγ conditions, DEGs novel to
+462 R1441C in vehicle conditions were significantly enriched (p<0.05) in pathways such as wound healing
+463 responses, and Wnt, ERK and PI3K signaling. It seems, therefore, that at rest, or under vehicle-treatment
+464 conditions, the R1441C mutation exerts its effects on aging through pathways crucial for metabolism, cell
+465 survival, and cell growth. The Wnt signaling cascade is crucial in macrophages and serves as a regulator of
+466 macrophage inflammation-resolving state (55). However, during an inflammatory insult, the R1441C
+467 mutation exerts its effects on aging through pathways crucial for oxidative stress and cellular respiration.
+468
+19
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+469 Interestingly, when assessing DEGs in pMacs from aged male mice treated with IFNγ, 540 genes were
+470 identified as novel and upregulated in R1441C macrophages that were not significantly affected by aging
+471 in B6 controls (Fig. S9E-G)
+
+Chunk 32:
+he copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+469 Interestingly, when assessing DEGs in pMacs from aged male mice treated with IFNγ, 540 genes were
+470 identified as novel and upregulated in R1441C macrophages that were not significantly affected by aging
+471 in B6 controls (Fig. S9E-G). Pathway enrichment analysis revealed that these 540 upregulated genes
+472 significantly enriched pathways (p<0.05) related to type II interferon production, cytokine production, and
+473 NFkB and JNK signaling (Fig. S9H). We also observed that, with the 5-day LPS stimulation, pMacs from
+474 aged R1441C male mice could be pushed to exhibit phenotypes that paralleled those seen in aged female
+475 R1441C macrophages. It has previously been reported that sustained and chronic STAT1 signaling, known
+476 to be stimulated by cytokine signaling (56), is necessary to induce macrophage exhaustion (48).
+477 Collectively, we interpret our findings that the upregulated DEGs, including driving increased cytokine
+478 release in R1441C aged male macrophages, may predispose these macrophages to become exhausted upon
+479 LPS-stimulation.
+480
+481 R1441C- and Y1699C-LRRK2 monocyte-derived patient macrophages exhibit hypophagocytosis and
+482 increased markers for exhaustion
+483 To assess the effects of PD-associated mutations on immune cell exhaustion in humans carrying LRRK2
+484 mutations, PBMCs were collected from 2 PD-Y1699C and 1 PD-R1441C patient, 9 healthy controls, and 3
+485 non-manifesting carriers (NMC) of the R1441C pathogenic variant (Fig. 7A). R1441C and Y1699C variant
+486 are located in the GTPase domain of the LRRK2 protein, and both have been shown to perturb LRRK2’s
+487 GTPase activity and have been reported to elevate its kinase activity (15, 23, 24, 57, 58). In the cohorts
+488 available for this study, although healthy controls were balanced for sex (5 male and 4 female), all
+
+Chunk 33:
+riers (NMC) of the R1441C pathogenic variant (Fig. 7A). R1441C and Y1699C variant
+486 are located in the GTPase domain of the LRRK2 protein, and both have been shown to perturb LRRK2’s
+487 GTPase activity and have been reported to elevate its kinase activity (15, 23, 24, 57, 58). In the cohorts
+488 available for this study, although healthy controls were balanced for sex (5 male and 4 female), all PD
+489 patients and NMCs were male (Table S3).
+490 Pathogen phagocytosis was quantified in monocyte-derived macrophages of these individuals and a
+491 hypophagocytic phenotype was observed in monocyte-derived macrophages from PD-R1441C and Y1699C
+492 relative to healthy controls and R1441C NMCs, as indicated by a reduced number of GFP+ cells (Fig. 7B,
+493 C), with no differences in GFP MFI observed between groups (Fig. S10A). Next, to assess whether
+20
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+494 increased markers of immune cell exhaustion accompanied reduced rates of phagocytosis, PDL1 expression
+495 was assessed in peripheral blood mononuclear cells (PBMCs). Consistent with our mouse data, we observed
+496 that PBMCs from both PD-Y1699C and PD-R1441C patients exhibited increased PDL1+ cell count and
+497 MFI (Fig. 7D, E). When quantifying PDL1 expression in specific immune-cell subsets (Fig. S10B), it was
+498 determined that this overall increase in PDL1 expression was driven by expression in classical monocytes,
+499 with increased PDL1 expression observed in PD-Y1699C and R1441C classical monocytes relative to
+500 healthy controls and R1441C NMCs (Fig. 7F), with no significant differences observed in other cell types
+501 (Fig. S10C, D). Similarly, increased PDL1 expression was evident in monocyte-derived macrophages from
+502 PD-Y1699C and R
+
+Chunk 34:
+ PDL1 expression was driven by expression in classical monocytes,
+499 with increased PDL1 expression observed in PD-Y1699C and R1441C classical monocytes relative to
+500 healthy controls and R1441C NMCs (Fig. 7F), with no significant differences observed in other cell types
+501 (Fig. S10C, D). Similarly, increased PDL1 expression was evident in monocyte-derived macrophages from
+502 PD-Y1699C and R1441C patients relative to healthy controls and R1441C NMCs (Fig. 7G). Collectively,
+503 the immune cell exhaustion phenotype observed in aged R1441C female mice is also associated with an
+504 exhaustion phenotype in cells from patients harboring the LRRK2-Y1699C or R1441C mutation.
+505
+506
+507 DISCUSSION
+508 Considering age is the greatest risk factor for many neurodegenerative diseases, aging, in particular aging
+509 of the immune system, is the most underappreciated and understudied contributing factor in the
+510 neurodegeneration field. Our novel findings reveal a bi-phasic age- and sex-dependent effect of the R1441C
+511 mutation in peripheral immune cells, with increased cytokine release, antigen presentation, phagocytosis
+512 and lysosomal activity in macrophages from young female R1441C mice, with many of these phenotypes
+513 ameliorated by Lrrk2 protein kinase inhibition. Our findings further reveal an age-acquired immune cell
+514 exhaustion in macrophages from R1441C females associated with hypophagocytosis, decreased antigen
+515 presentation, and reduced lysosomal pan-cathepsin activation and protein degradation, increased pathogen-
+516 mediated DNA breakage, and increased PDL1 expression indicative of immune cell exhaustion.
+517 Importantly, this immune cell exhaustion phenotype was also observed in monocytes and macrophages
+518 from human subjects with PD and harboring the R1441C and the Y1699C mutation. Furthermore, it was
+21
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder
+
+Chunk 35:
+d PDL1 expression indicative of immune cell exhaustion.
+517 Importantly, this immune cell exhaustion phenotype was also observed in monocytes and macrophages
+518 from human subjects with PD and harboring the R1441C and the Y1699C mutation. Furthermore, it was
+21
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+519 demonstrated that, although macrophages from male mice did not exhibit this bi-phasic age-dependent
+520 phenotype, they could be pushed to exhaustion with chronic LPS stimulation, suggesting that, along with
+521 age, a secondary inflammatory insult is required to observe immune cell exhaustion phenotypes in
+522 macrophages from R1441C males. Finally, it was demonstrated that there is an age-acquired dysregulation
+523 in the expression of genes associated with PD risk, mitochondrial function, and oxidative stress in
+524 macrophages from female R1441C mice.
+525 Consistent with findings in ex vivo studies in macrophages, we consistently observed elevated expression
+526 of both IL10 and IL6 in circulating plasma from young R1441C mice. It has recently been shown that
+527 RAW264.7 cells expressing T1348N-LRRK2, an artificial P-Loop null mutation that disrupts GTP binding
+528 (59, 60), produce significantly less IL10 relative to wild-type cells in response to LPS and Zymosan (61).
+529 IL10 is produced by macrophages and is critical in limiting immune-mediated pathology (62), and it was
+530 therefore suggested by Nazish et al that there may be a neuroprotective role of LRRK2 in immune signaling
+531 through regulation of IL10 secretion. In addition, we also observed elevations in IL6, which is known to be
+532 promptly and transiently produced in response to infections and tissue injuries during host defense through
+533 the stimulation of im
+
+Chunk 36:
+mune-mediated pathology (62), and it was
+530 therefore suggested by Nazish et al that there may be a neuroprotective role of LRRK2 in immune signaling
+531 through regulation of IL10 secretion. In addition, we also observed elevations in IL6, which is known to be
+532 promptly and transiently produced in response to infections and tissue injuries during host defense through
+533 the stimulation of immune reactions (63). These observations implicate a protective role of Lrrk2 in young
+534 R1441C mice. The pro-inflammatory cytokine, TNF, was also increased in circulating plasma of young
+535 R1441C mice, a compensatory increase that may also contribute to organisms ability to fight infection given
+536 that mice lacking TNF exhibit increased susceptibility to infection with increased bacterial load (64). In
+537 support of the protective role of LRRK2 in immune signaling, LRRK2 has been demonstrated to provide
+538 increased pathogen control of Salmonella typhimurium (32, 65) and Listeria monocytogenes (33).
+539 Consistent with these reports, we observed increased E. coli uptake and decreased E. coli-mediated DNA
+540 damage in macrophages from young R1441C female mice, providing further support for a protective role
+541 of LRRK2 in immune signaling and defense against pathogens, at least in a young organism. Given that
+542 LRRK2 mutations are associated with not only PD, but also Crohn’s Disease (CD) (2, 12, 66) and leprosy
+543 (67), it is difficult to understand why these mutations would have persisted in the human population. Given
+22
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+544 the evidence discussed and the data presented here, it is plausible to speculate that these mutations may
+545 have persisted due to the immunological advantage they 
+
+Chunk 37:
+://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+544 the evidence discussed and the data presented here, it is plausible to speculate that these mutations may
+545 have persisted due to the immunological advantage they confer to young organisms, including protection
+546 against certain infections.
+547 For the first time, we have reported here an age-dependent, bi-phasic effect of LRRK2 on immune cell
+548 function, with the R1441C mutation inducing myeloid cell immune cell exhaustion in a sex-dependent
+549 manner. The concept of immune cell exhaustion was first described as the clonal deletion of virus-specific
+550 CD8+ T-cells that occurs during high-grade chronic infections, and in T-cells is characterized by the
+551 stepwise and progressive loss of T-cell functions (68). Regarding exhausted myeloid cells, pathogenic
+552 inflammation and immunosuppression, characterized by decreased antigen presentation, hypophagocytosis
+553 and altered cytokine release, have been described more recently (48). The immune system is composed of
+554 numerous cell types with varying states of activation, and cell-to-cell communication during immune
+555 responses is crucial for host defense and resolution of inflammation. The observations made here in innate
+556 immune cells, therefore, likely have downstream effects on myeloid cell communication with adaptive
+557 immune cell types in the periphery. Indeed, alterations in the adaptive immune system have been reported
+558 in PD patients. For example, a meta-analysis of 943 cases of PD identified a reduction in circulating CD4+
+559 T cells in PD-patients (69, 70). More specifically, HLA-DR+ T cells and CD45RO+ memory T cells have
+560 been shown to be increased in people with PD relative to healthy age- and sex-matched controls, while
+561 naive CD4+ T cells are 
+
+Chunk 38:
+ns in the adaptive immune system have been reported
+558 in PD patients. For example, a meta-analysis of 943 cases of PD identified a reduction in circulating CD4+
+559 T cells in PD-patients (69, 70). More specifically, HLA-DR+ T cells and CD45RO+ memory T cells have
+560 been shown to be increased in people with PD relative to healthy age- and sex-matched controls, while
+561 naive CD4+ T cells are reduced (70-72). CD4+FOXP3+ Treg cells have increased suppressive activity in
+562 patients with PD (73). Interestingly, one characteristic of immune cell exhaustion is the dysregulated cross-
+563 talk between CD4+ and CD8+ T-cells due to the suppressive action of Tregs (74). Furthermore, Tregs
+564 directly inhibit the antigen-presenting function of monocytes and macrophages (75). Further research is
+565 required to understand the role of cell-to-cell communication in these myeloid cell phenotypes, and if
+566 immune cell exhaustion driven by LRRK2 is a contributing factor.
+567 A sex-dependent effect of the R1441C mutation was reported here, with females exhibiting an age-acquired
+568 immune cell exhaustion phenotype which could only be elicited in macrophages from males upon a
+23
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+569 secondary, chronic inflammatory insult. Sex-dependent effects of LRRK2 mutations have previously been
+570 reported. A protective effect of the G2019S mutation against S. typhimurium has been observed in mice,
+571 with female mutant mice showing increased survival relative to B6 controls which was not observed in
+572 males (65). Such observations are also consistent with the sexual dimorphism reported in subjects with PD
+573 who also carry a heterozygous p.G2019S mutation in LRRK2, with female sex being more common amongst
+5
+
+Chunk 39:
+effect of the G2019S mutation against S. typhimurium has been observed in mice,
+571 with female mutant mice showing increased survival relative to B6 controls which was not observed in
+572 males (65). Such observations are also consistent with the sexual dimorphism reported in subjects with PD
+573 who also carry a heterozygous p.G2019S mutation in LRRK2, with female sex being more common amongst
+574 carriers than non-carriers (76-78). This sexual dimorphism has also been reported for the R1441C/G/H
+575 mutations (77). We observed an R1441C-dependent phenotype in macrophages from male mice only when
+576 a secondary, chronic inflammatory insult was applied. It is particularly interesting that genes that are
+577 significantly upregulated with age in R1441C macrophages from male mice are associated with pathways
+578 which are heavily implicated in the phenotypes we observed in macrophages from young R1441C females.
+579 An increase in gene expression in pathways associated with cytokine production is consistent with our
+580 previous observation of increased IL6, IL10 and TNF release in aged male pMacs relative to B6 controls.
+581 Further research is therefore required to determine the extent to which this sexual dimorphism is driven by
+582 altered immune system susceptibility to LRRK2 mutations in males and females.
+583 We observed alterations in genes enriched in the KEGG Parkinson’s Disease pathway in R1441C female
+584 macrophages as a function of age, with these genes being mostly associated with mitochondrial respiration
+585 and oxidative stress. Not surprisingly, mitochondrial dysfunction has emerged as one of the key
+586 mechanisms underlying the pathogenesis of both sporadic PD and familial Parkinsonism (79, 80). LRRK2
+587 has been heavily implicated in mitochondrial function and mitophagy, with LRRK2 mutations causing
+588 reduced mitochondria potential and decreased ATP production, mitochondrial DNA damage, mitochondrial
+589 fragmentation and altered rates of mit
+
+Chunk 40:
+ial dysfunction has emerged as one of the key
+586 mechanisms underlying the pathogenesis of both sporadic PD and familial Parkinsonism (79, 80). LRRK2
+587 has been heavily implicated in mitochondrial function and mitophagy, with LRRK2 mutations causing
+588 reduced mitochondria potential and decreased ATP production, mitochondrial DNA damage, mitochondrial
+589 fragmentation and altered rates of mitophagy in various cell types and pre-clinical models (81-84). But
+590 importantly, our findings herein reveal that pathways once thought to be primarily important to neuronal
+591 demise (mitochondrial and oxidative stress) are also disrupted in peripheral immune cells by PD-associated
+592 mutations in a sex- and age-dependent manner and have important implications for monitoring risk, target
+593 engagement, and disease progression of PD and perhaps other NDs by assessing peripheral immune cell
+24
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+594 types ex vivo. It is known that, in T cells, mitochondrial stress induced by chronic antigen stimulation drives
+595 immune cell exhaustion (85). Further research is therefore required to fully understand the role of
+596 mitochondria and mitophagy, and therefore lysosomal function, in the R1441C-mediated immune cell
+597 exhaustion phenotypes observed here.
+598 GO and KEGG pathway enrichment analysis of DEGs identified as upregulated in pMacs from aged
+599 R1441C females relative to aged R1441C males showed a significant enrichment in pathways related to
+600 mitochondrial function and cellular respiration. Interestingly, estrogen increases expression of respiratory
+601 complexes, antioxidant molecules, and anti-apoptotic factors that directly impact mitochondrial structure
+602 and function, with aging in wom
+
+Chunk 41:
+ied as upregulated in pMacs from aged
+599 R1441C females relative to aged R1441C males showed a significant enrichment in pathways related to
+600 mitochondrial function and cellular respiration. Interestingly, estrogen increases expression of respiratory
+601 complexes, antioxidant molecules, and anti-apoptotic factors that directly impact mitochondrial structure
+602 and function, with aging in women being associated with a reduction in estrogen formation and the
+603 subsequent development of mitochondrial dysfunction (86). Given that pMacs from aged R1441C females
+604 are susceptible to the age-dependent, bi-phasic immunophenotype described here, whilst pMacs from aged
+605 R1441C males seem to be protected, altered mitochondrial function as a consequence of aging may underlie
+606 this observation. It was also observed that, with chronic-LPS stimulation, pMacs from aged R1441C males
+607 elicited a phenotype comparable to that seen in pMacs from aged R1441C females, suggesting a secondary,
+608 chronic inflammatory insult is needed in conjunction with aging in R1441C males for immune cell
+609 exhaustion to occur. It has previously been reported that upon LPS stimulation, decreased mitochondrial
+610 membrane potential decreases and ROS levels increase in macrophages (87). Further research is therefore
+611 required to decipher if altered mitochondrial function underlies the synergizing effects of aging and chronic
+612 inflammation in R1441C-induced immune cell exhaustion in macrophages from males.
+613 It has previously been shown that LRRK2 exerts differential effects on inflammatory responses in a tissue-
+614 specific manner, and it has been suggested that there is a differential role of LRRK2 in the periphery versus
+615 the CNS (65, 88). It therefore remains to be determined how the data reported here impacts our
+616 understanding of LRRK2 in myeloid cells in both the periphery and the CNS. Indeed, we observed a
+617 decrease in MHC-II expression in peripheral myeloid c
+
+Chunk 42:
+atory responses in a tissue-
+614 specific manner, and it has been suggested that there is a differential role of LRRK2 in the periphery versus
+615 the CNS (65, 88). It therefore remains to be determined how the data reported here impacts our
+616 understanding of LRRK2 in myeloid cells in both the periphery and the CNS. Indeed, we observed a
+617 decrease in MHC-II expression in peripheral myeloid cells of aged R1441C females, whilst microglia
+618 expressed increased MHC-II in these mice relative to B6 controls, implying a differential effect of LRRK2
+25
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+619 in the periphery vs. the CNS. Alterations in type II interferon responses have been observed in both induced
+620 pluripotent stem cell (iPSC)-derived microglia and macrophages from patients harboring G2019S mutations
+621 (89), and similar effects of LRRK2 mutations on lysosomal function have also been reported in patient
+622 iPSC-derived microglia and macrophages (90). However, it has been demonstrated that expression of
+623 R1441C-Lrrk2 in peripheral lymphocytes alone is sufficient to induce dopaminergic neuronal cell loss in
+624 the midbrains of LPS-treated mice (39), suggesting that the periphery plays a pertinent and perhaps primary
+625 role in LRRK2-PD, and future research into how immune cell exhaustion in the periphery impacts cross-
+626 talk with the CNS is needed to inform future immunomodulatory therapeutic interventions for PD.
+627 We successfully demonstrated that, like macrophages from aged R1441C mice, myeloid cells from R1441C
+628 and Y1699C patients exhibited hypophagocytosis and increased expression of immune cell exhaustion
+629 markers relative to those from HCs and R1441C-NMCs. However, it is unclear if the same hyper-respo
+
+Chunk 43:
+with the CNS is needed to inform future immunomodulatory therapeutic interventions for PD.
+627 We successfully demonstrated that, like macrophages from aged R1441C mice, myeloid cells from R1441C
+628 and Y1699C patients exhibited hypophagocytosis and increased expression of immune cell exhaustion
+629 markers relative to those from HCs and R1441C-NMCs. However, it is unclear if the same hyper-responsive
+630 phenotype that was observed in young R1441C female mice is exhibited in myeloid cells in R1441C carriers
+631 at a younger age or prior to disease onset. Indeed, we did show that R1441C-NMCs did not exhibit these
+632 immune cell exhaustion phenotypes, and it is noteworthy that the average age of the 3 R1441C-NMCs in
+633 this study was 30.5 years (Table S3), whilst the average age of the R1441C and Y1699C-PD subjects was
+634 42 and 63.5, respectively. Further investigation is therefore required to determine if PBMCs from NMCs,
+635 upon follow-up after further aging or disease onset, exhibit immune cell exhaustion. As well, it is interesting
+636 to note that, despite the immune cell exhaustion phenotype being observed in female R1441C KI mice, all
+637 the R1441C and Y1699C-PD patients recruited here were male (Table S3), and PBMCs from these male
+638 patients exhibited similar immune cell exhaustion phenotypes observed in female R1441C mice. We do,
+639 however, observe these immune cell exhaustion phenotypes in macrophages from aged R1441C males upon
+640 a secondary, chronic inflammatory insult. Such observations support the hypothesis that complex gene-by-
+641 environment interactions combine with an ageing immune system to create the ‘perfect storm’ that enables
+642 the development and progression of PD (5). Further research is therefore required to determine if sex plays
+643 a role in this ‘perfect storm’. Furthermore, further research is required to understand if these phenotypes
+26
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.56206
+
+Chunk 44:
+nteractions combine with an ageing immune system to create the ‘perfect storm’ that enables
+642 the development and progression of PD (5). Further research is therefore required to determine if sex plays
+643 a role in this ‘perfect storm’. Furthermore, further research is required to understand if these phenotypes
+26
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+644 are exclusive to LRRK2-pathogenic variants located in the GTPase domain or if they are seen in other
+645 LRRK2 mutant immune cells, such as the more common G2019S mutation, as well as in idiopathic PD or
+646 sporadic cases.
+647 LRRK2-targeting therapies, including antisense oligonucleotides (ASOs) and kinase inhibitors, have been
+648 suggested as a potential therapeutic for LRRK2-PD, with many hypothesizing that targeting the increased
+649 LRRK2 levels and kinase activity will be beneficial to CNS-related pathology. Our findings suggest that
+650 more research is required to understand the location and optimal timing for the administration of these
+651 LRRK2-targeting therapeutics. Specifically, if LRRK2 plays a critical role in pathogen and infection control
+652 in a pathogen or tissue-specific manner, it may mean that LRRK2-targeting therapies may need to be limited
+653 to carriers of LRRK2 pathogenic variants and/or may need to be delivered in a CNS compartment-targeted
+654 manner as opposed to systemically to avoid deleterious collateral damage to immune function. Indeed, the
+655 LRRK2 ASO currently being tested in the clinic is being delivered via intrathecal injection directly into the
+656 cisterna magna, thus limiting systemic exposure (NCT03976349). Lastly, perhaps somewhat surprisingly,
+657 we found that, while LRRK2 kinase inhibition could rescue some of the effector f
+
+Chunk 45:
+ opposed to systemically to avoid deleterious collateral damage to immune function. Indeed, the
+655 LRRK2 ASO currently being tested in the clinic is being delivered via intrathecal injection directly into the
+656 cisterna magna, thus limiting systemic exposure (NCT03976349). Lastly, perhaps somewhat surprisingly,
+657 we found that, while LRRK2 kinase inhibition could rescue some of the effector functions of young mutant-
+658 LRRK2 mice, it had no beneficial effects on the immune-cell exhaustion phenotypes observed here in
+659 macrophages from aged mice; however, it did prove to be protective in macrophages from young mice to
+660 prevent the development of an immune-cell exhaustive phenotype. Such observations suggest that LRRK2-
+661 targeting therapies would elicit the most beneficial effects during the prodromal phases of disease, and
+662 further research on PBMCs from prodromal patients with pre-motor features at risk for development of
+663 motor PD due to a family history will be required to investigate this possibility and inform future clinical
+664 trials.
+665 Our study is not without limitations, and further steps are needed to translate our findings into clinical
+666 samples further. Firstly, although we provide evidence of immune cell exhaustion in patient immune cells,
+667 this was carried out in a small population due to the availability of cells to us at the time. It is hard to
+668 conclude here whether R1441C-NMC did not exhibit immune cell exhaustion phenotypes due to the fact
+27
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+669 that these phenotypes only present themselves upon disease onset, or, whether immune cell exhaustion
+670 phenotypes are not present amongst all R1441C carriers. Furthermore, due to the fact that penet
+
+Chunk 46:
+3; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+669 that these phenotypes only present themselves upon disease onset, or, whether immune cell exhaustion
+670 phenotypes are not present amongst all R1441C carriers. Furthermore, due to the fact that penetrance of
+671 these mutations is low, it may be that the NMCs recruited for this study will not develop PD and this
+672 explains their lack of immune cell exhaustion phenotypes. Larger, longitudinal studies are therefore
+673 required in order to decipher between these possibilities. Secondly, due to the lack of a longitudinal study
+674 design and limited sample numbers, it is hard to conclude whether age or chronic immune insult are the
+675 primary driver of immune cell exhaustion in our patient samples, and whether immune cell exhaustion is a
+676 key driver of PD onset and/or progression. Thirdly, although the G2019S-LRRK2 mutation is the largest
+677 contributor to familial forms of PD, and LRRK2 has been implicated in sporadic forms of the disease, the
+678 R1441C mutation is comparably rarer, with prevalence estimates between 0.03-2% (91). The focus on
+679 R1441C, therefore, may be limited, and further studies are required to determine if these phenotypes are
+680 mutation-specific and if they are seen in sporadic and idiopathic-PD cases. Lastly, although increased PDL1
+681 expression and hypophagocytosis were observed in patient samples, there are other effector functions
+682 altered due to immune cell exhaustion, and in other cell types, such as cytokine release, T cell proliferation
+683 and differentiation. Further studies in clinical and pre-clinical samples are therefore required to understand
+684 the effects of LRRK2 mutations on other immune cell effector functions and how immune cell exhaustion
+685 may be implicated in this.
+686
+687 MATERIALS AND METHODS
+688 Study d
+
+Chunk 47:
+red due to immune cell exhaustion, and in other cell types, such as cytokine release, T cell proliferation
+683 and differentiation. Further studies in clinical and pre-clinical samples are therefore required to understand
+684 the effects of LRRK2 mutations on other immune cell effector functions and how immune cell exhaustion
+685 may be implicated in this.
+686
+687 MATERIALS AND METHODS
+688 Study design
+689 The primary objective of this research was to investigate the effects of the R1441C LRRK2 pathogenic
+690 variant on myeloid cell effector function in a sex- and age-dependent manner. We hypothesized that a
+691 biphasic, age-dependent effect of the R1441C pathogenic variant would be observed, affecting antigen
+692 presentation, cytokine release, phagocytosis and lysosomal function in macrophages. To explore our
+693 hypothesis, we used R1441C KI mice and B6 controls and assessed myeloid cell effector function both ex
+28
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+694 vivo and in vivo, in males and females at 2-3 months and 18-21 months. All studies were performed by
+695 investigators blinded to genotype and treatment groups at the University of Florida, USA. Power analyses
+696 based on the labs pilot and published data indicated that n = 8-12 per group for flow-cytometry and cytokine
+697 release assays, and n = 4-6 for imaging based immunophenotyping and immunoblotting would be needed
+698 to yield 80% power with a α set to 0.05. Exclusion criteria for experiments involving mice included mice
+699 who reached endpoint before time of experiment (due to health-related issues), mice who were found to
+700 have tumors whilst collecting tissue, and datapoints that fell more than 3SD +/- of the average of that group.
+701 Multiple cohorts of mice 
+
+Chunk 48:
+yping and immunoblotting would be needed
+698 to yield 80% power with a α set to 0.05. Exclusion criteria for experiments involving mice included mice
+699 who reached endpoint before time of experiment (due to health-related issues), mice who were found to
+700 have tumors whilst collecting tissue, and datapoints that fell more than 3SD +/- of the average of that group.
+701 Multiple cohorts of mice (each cohort consisting of 6-12 mice per group depending on the assay) were used
+702 to generate this data set. As 2 sexes, 2 genotypes and 2 ages were used to generate this data, each cohort
+703 consisted of 8 groups, equating to 48-96 mice. Each cohort was separated into batches and experiments
+704 carried out, and data acquired and analyzed for each batch, with data from batches merged post-analysis to
+705 form the overall data set for that cohort. As well, entirely independent cohorts of mice were used to produce
+706 data using orthogonal assays (e.g. 1 cohort used for flow cytometry, 1 cohort used for microscopy and
+707 western blotting analysis) to ensure the phenotypes we were observing were not assay- or cohort-dependent.
+708 By generating this data across batches of animals and using multiple orthogonal assays to confirm
+709 phenotypes in separate cohorts of mice, we ensure that our data is robust and reproducible. A schematic of
+710 this study design is shown in Fig.S11.
+711 The study used human PBMCs received from collaborators at University Hospital Schleswig-Holstein,
+712 University of Luebeck, Germany and the University Hospital Eppendorf, Hamburg, Germany. Samples
+713 were received at the University of Florida and investigators were unblinded after completion of analysis.
+714 Deidentified data provided included sex, age at collection, age of diagnosis, clinical diagnosis and genetic
+715 status.
+716 Animals
+717 R1441C knock-in (Strain #009346; B6.Cg-Lrrk2tm1.1Shn/J) mice have previously been characterized (92)
+718 and were maintained in the McKnight Brain Inst
+
+Chunk 49:
+3 were received at the University of Florida and investigators were unblinded after completion of analysis.
+714 Deidentified data provided included sex, age at collection, age of diagnosis, clinical diagnosis and genetic
+715 status.
+716 Animals
+717 R1441C knock-in (Strain #009346; B6.Cg-Lrrk2tm1.1Shn/J) mice have previously been characterized (92)
+718 and were maintained in the McKnight Brain Institute vivarium (University of Florida) at 22°C at 60-70%
+29
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+719 humidity with a 12-hour light/dark cycle and ad libitum access to standard rodent chow and water. C57BL/6
+720 (Strain #000664) controls were used for all studies. All animal procedures were approved by the University
+721 of Florida Institutional Animal Care and Use Committee and were in accordance with the National Institute
+722 of Health Guide for the Care and Use of Laboratory Animals (NIH Publications No. 80-23) revised 1996.
+723 Female and male mice were aged to 2-3 or 18-21-months-old and sacrificed via cervical dislocation or rapid
+724 decapitation.
+725
+726 Human subjects
+727 This study was reviewed and approved by the University of Lubeck Institutional Review Board (AZ16-
+728 039). Participants provided written informed consent to participate. During recruitment, a family history
+729 was used to assess history of disease and patients were screened for LRRK2 variants. See Table S3 for
+730 patient demographics.
+731
+732 Statistics and data analysis
+733 All individual level data can be found in data file S1 and is also available on Zenodo
+734 (10.5281/zenodo.11099669). Data and statistical analyses were performed using IBM SPSS statistics 27 or
+735 GraphPad Prism 9. For assessing differences between groups, data were analyzed by either 
+
+Chunk 50:
+creened for LRRK2 variants. See Table S3 for
+730 patient demographics.
+731
+732 Statistics and data analysis
+733 All individual level data can be found in data file S1 and is also available on Zenodo
+734 (10.5281/zenodo.11099669). Data and statistical analyses were performed using IBM SPSS statistics 27 or
+735 GraphPad Prism 9. For assessing differences between groups, data were analyzed by either 1-way or 2-way
+736 analysis of variance (ANOVA), or by t-test. In instances when data did not fit parametric assumptions,
+737 Kruskal-Wallis non-parametric ANOVA was used. Post hoc tests following ANOVAs were conducted
+738 using Tukey HSD or Bonferroni correction. Two-tailed levels of significance were used and p < 0.05 was
+739 considered statistically significant. Graphs are depicted by means +/- standard error of the mean (SEM).
+740
+741 List of Supplementary Materials:
+742 Materials and Methods
+743 Supplementary figures:
+30
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+744 Figure S1. Characterization of ex vivo pMac cultures.
+745 Figure S2. R1441C mutation leads to age dependent biphasic alteration in antigen presentation.
+746 Figure S3. The R1441C Lrrk2 mutation causes alterations of monocyte population and microglia activation
+747 in aged female mice.
+748 Figure S4. R1441C mutation leads to age-dependent biphasic alteration in lysosomal activity.
+749 Figure S5. R1441C Lrrk2 mutation alters pathogen uptake and pathogen-mediated DNA damage in age-
+750 and sex-dependent manner.
+751 Figure S6. R1441C Lrrk2 mutation induces immune cell exhaustion in a kinase-dependent manner.
+752 Figure S7. Transcriptomic profiling reveals alterations in critical effector function pathways in R1441C
+753 macrophages in age- and sex- dependent manner.
+754 Figure S8. 
+
+Chunk 51:
+Figure S5. R1441C Lrrk2 mutation alters pathogen uptake and pathogen-mediated DNA damage in age-
+750 and sex-dependent manner.
+751 Figure S6. R1441C Lrrk2 mutation induces immune cell exhaustion in a kinase-dependent manner.
+752 Figure S7. Transcriptomic profiling reveals alterations in critical effector function pathways in R1441C
+753 macrophages in age- and sex- dependent manner.
+754 Figure S8. R1441C Lrrk2 mutation alters biological processes in macrophages in a sex- and age-dependent
+755 manner.
+756 Figure S9. R1441C Lrrk2 mutation alters transcriptional changes associated with age in sex dependent
+757 manner.
+758 Figure S10. R1441C- and Y1699C-LRRK2 monocyte derived macrophages exhibit hypo phagocytosis and
+759 increased markers for immune cell exhaustion.
+760 Figure S11. Schematic of study design with mice.
+761 Supplementary tables:
+762 Table S1. Flow cytometry marker antibody panel (mouse)
+763 Table S2. Antibodies for immunoblotting
+764 Table S3. Patient demographics
+765 Table S4. Flow cytometry marker antibody panel (human)
+31
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+766 References (93-98)
+767 References
+768 1. Von Campenhausen, S., B. Bornschein, R. Wick, K. Bötzel, C. Sampaio, W. Poewe, W. Oertel, U. Siebert,
+769 K. Berger, and R. Dodel, Prevalence and incidence of Parkinson's disease in Europe. 15(4): p. 473-490
+770 (2005).
+771 2. Marras, C., J.C. Beck, J.H. Bower, E. Roberts, B. Ritz, G.W. Ross, R.D. Abbott, R. Savica, S.K. Van Den
+772 Eeden, A.W. Willis, C.M. Tanner, and P.G. Parkinson's Foundation, Prevalence of Parkinson's disease across
+773 North America. NPJ Parkinsons Dis. 4: p. 21 (2018).
+774 3. Yang, W., J.L. Hamilton, C. Kopil, J.C. Beck, C.M. Tanner, R.L. Albin, E. Ray Dorsey, N. Dahodwala, I.
+775 Cintina, P. Hog
+
+Chunk 52:
+Marras, C., J.C. Beck, J.H. Bower, E. Roberts, B. Ritz, G.W. Ross, R.D. Abbott, R. Savica, S.K. Van Den
+772 Eeden, A.W. Willis, C.M. Tanner, and P.G. Parkinson's Foundation, Prevalence of Parkinson's disease across
+773 North America. NPJ Parkinsons Dis. 4: p. 21 (2018).
+774 3. Yang, W., J.L. Hamilton, C. Kopil, J.C. Beck, C.M. Tanner, R.L. Albin, E. Ray Dorsey, N. Dahodwala, I.
+775 Cintina, P. Hogan, and T. Thompson, Current and projected future economic burden of Parkinson’s disease
+776 in the U.S. npj Parkinson's Disease. 6(1) (2020).
+777 4. Bloem, B.R., M.S. Okun, and C. Klein, Parkinson's disease. Lancet. 397(10291): p. 2284-2303 (2021).
+778 5. Tansey, M.G., Wallings, R. L., Houser, M. C., Herrick, M. K., Keating, C. E. & Joers, V., The contributions
+779 of inflammation and immune dysfunction to Parkinson disease. Nature Reviews Immunology. (2022).
+780 6. Bliederhaeuser, C., L. Zondler, V. Grozdanov, W.P. Ruf, D. Brenner, H.L. Melrose, P. Bauer, A.C. Ludolph,
+781 F. Gillardon, J. Kassubek, J.H. Weishaupt, and K.M. Danzer, LRRK2 contributes to monocyte dysregulation
+782 in Parkinson's disease. Acta Neuropathol Commun. 4(1): p. 123 (2016).
+783 7. Grozdanov, V., C. Bliederhaeuser, W.P. Ruf, V. Roth, K. Fundel-Clemens, L. Zondler, D. Brenner, A.
+784 Martin-Villalba, B. Hengerer, J. Kassubek, A.C. Ludolph, J.H. Weishaupt, and K.M. Danzer, Inflammatory
+785 dysregulation of blood monocytes in Parkinson’s disease patients. 128(5): p. 651-663 (2014).
+786 8. Grozdanov, V., L. Bousset, M. Hoffmeister, C. Bliederhaeuser, C. Meier, K. Madiona, L. Pieri, M. Kiechle,
+787 P.J. McLean, J. Kassubek, C. Behrends, A.C. Ludolph, J.H. Weishaupt, R. Melki, and K.M. Danzer,
+788 Increased Immune Activation by Pathologic alpha-Synuclein in Parkinson's Disease. Ann Neurol. 86(4): p.
+789 593-606 (2019).
+790 9. Cook, D.A., G.T. Kannarkat, A.F. Cintron, L.M. Butkovich, K.B. Fraser, J. Chang, N. Grigoryan, S.A.
+791 Factor, A.B. West, J.M. Boss, and M.G. Tansey, LRRK2 levels in immune cells ar
+
+Chunk 53:
+J. Kassubek, C. Behrends, A.C. Ludolph, J.H. Weishaupt, R. Melki, and K.M. Danzer,
+788 Increased Immune Activation by Pathologic alpha-Synuclein in Parkinson's Disease. Ann Neurol. 86(4): p.
+789 593-606 (2019).
+790 9. Cook, D.A., G.T. Kannarkat, A.F. Cintron, L.M. Butkovich, K.B. Fraser, J. Chang, N. Grigoryan, S.A.
+791 Factor, A.B. West, J.M. Boss, and M.G. Tansey, LRRK2 levels in immune cells are increased in Parkinson's
+792 disease. NPJ Parkinsons Dis. 3: p. 11 (2017).
+793 10. Kline, E.M., M.C. Houser, M.K. Herrick, P. Seibler, C. Klein, A.B. West, and T. M.G., Genetic and
+794 Environmental Factors in Parkinson's Disease Converge on Immune Function and Inflammation. Movement
+795 Disorders. 36(1): p. 25-36 (2021).
+796 11. Houser, M.C. and M.G. Tansey, The gut-brain axis: is intestinal inflammation a silent driver of Parkinson's
+797 disease pathogenesis? NPJ Parkinsons Dis. 3: p. 3 (2017).
+798 12. Herrick, M.K. and M.G. Tansey, Is LRRK2 the missing link between inflammatory bowel disease and
+799 Parkinson’s disease? npj Parkinson's Disease. 7(1) (2021).
+800 13. Blauwendraat, C., M.A. Nalls, and A.B. Singleton, The genetic architecture of Parkinson's disease. Lancet
+801 Neurol. 19(2): p. 170-178 (2020).
+802 14. West, A.B., D.J. Moore, S. Biskup, A. Bugayenko, W.W. Smith, C.A. Ross, V.L. Dawson, and T.M. Dawson,
+803 Parkinson's disease-associated mutations in leucine-rich repeat kinase 2 augment kinase activity. Proc Natl
+804 Acad Sci U S A. 102(46): p. 16842-7 (2005).
+805 15. West, A.B., D.J. Moore, C. Choi, S.A. Andrabi, X. Li, D. Dikeman, S. Biskup, Z. Zhang, K.L. Lim, V.L.
+806 Dawson, and T.M. Dawson, Parkinson's disease-associated mutations in LRRK2 link enhanced GTP-binding
+807 and kinase activities to neuronal toxicity. Hum Mol Genet. 16(2): p. 223-32 (2007).
+808 16. Funayama, M., K. Hasegawa, H. Kowa, M. Saito, S. Tsuji, and F. Obata, A new locus for Parkinson's disease
+809 (PARK8) maps to chromosome 12p11.2-q13.1. Ann Neurol. 51(3): p. 296-301 (2002).
+810 17
+
+Chunk 54:
+L.
+806 Dawson, and T.M. Dawson, Parkinson's disease-associated mutations in LRRK2 link enhanced GTP-binding
+807 and kinase activities to neuronal toxicity. Hum Mol Genet. 16(2): p. 223-32 (2007).
+808 16. Funayama, M., K. Hasegawa, H. Kowa, M. Saito, S. Tsuji, and F. Obata, A new locus for Parkinson's disease
+809 (PARK8) maps to chromosome 12p11.2-q13.1. Ann Neurol. 51(3): p. 296-301 (2002).
+810 17. Funayama, M., Y. Li, H. Tomiyama, H. Yoshino, Y. Imamichi, M. Yamamoto, M. Murata, T. Toda, Y.
+811 Mizuno, and N. Hattori, Leucine-rich repeat kinase 2 G2385R variant is a risk factor for Parkinson disease
+812 in Asian population. Neuroreport. 18(3): p. 273-5 (2007).
+813 18. Hatano, T., M. Funayama, S.I. Kubo, I.F. Mata, Y. Oji, A. Mori, C.P. Zabetian, S.M. Waldherr, H. Yoshino,
+814 G. Oyama, Y. Shimo, K.I. Fujimoto, H. Oshima, Y. Kunii, H. Yabe, Y. Mizuno, and N. Hattori, Identification
+815 of a Japanese family with LRRK2 p.R1441G-related Parkinson's disease. Neurobiol Aging. 35(11): p. 2656
+816 e17-2656 e23 (2014).
+32
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+817 19. Ross, O.A., Y.R. Wu, M.C. Lee, M. Funayama, M.L. Chen, A.I. Soto, I.F. Mata, G.J. Lee-Chen, C.M. Chen,
+818 M. Tang, Y. Zhao, N. Hattori, M.J. Farrer, E.K. Tan, and R.M. Wu, Analysis of Lrrk2 R1628P as a risk factor
+819 for Parkinson's disease. Ann Neurol. 64(1): p. 88-92 (2008).
+820 20. Haugarvoll, K. and Z.K. Wszolek, Clinical features of LRRK2 parkinsonism. 15: p. S205-S208 (2009).
+821 21. Satake, W., Y. Nakabayashi, I. Mizuta, Y. Hirota, C. Ito, M. Kubo, T. Kawaguchi, T. Tsunoda, M. Watanabe,
+822 A. Takeda, H. Tomiyama, K. Nakashima, K. Hasegawa, F. Obata, T. Yoshikawa, H. Kawakami, S. Sakoda,
+823 M. Yamamoto, N. Hattori, M. Murata, Y. Nakamura, and T. Toda, Genome-wide ass
+
+Chunk 55:
+0. Haugarvoll, K. and Z.K. Wszolek, Clinical features of LRRK2 parkinsonism. 15: p. S205-S208 (2009).
+821 21. Satake, W., Y. Nakabayashi, I. Mizuta, Y. Hirota, C. Ito, M. Kubo, T. Kawaguchi, T. Tsunoda, M. Watanabe,
+822 A. Takeda, H. Tomiyama, K. Nakashima, K. Hasegawa, F. Obata, T. Yoshikawa, H. Kawakami, S. Sakoda,
+823 M. Yamamoto, N. Hattori, M. Murata, Y. Nakamura, and T. Toda, Genome-wide association study identifies
+824 common variants at four loci as genetic risk factors for Parkinson's disease. Nat Genet. 41(12): p. 1303-7
+825 (2009).
+826 22. Gaig, C., M. Ezquerra, M.J. Marti, E. Muñoz, F. Valldeoriola, and E. Tolosa, LRRK2 Mutations in Spanish
+827 Patients With Parkinson Disease. Archives of Neurology. 63(3): p. 377 (2006).
+828 23. Steger, M., F. Tonelli, G. Ito, P. Davies, M. Trost, M. Vetter, S. Wachter, E. Lorentzen, G. Duddy, S. Wilson,
+829 M.A. Baptista, B.K. Fiske, M.J. Fell, J.A. Morrow, A.D. Reith, D.R. Alessi, and M. Mann,
+830 Phosphoproteomics reveals that Parkinson's disease kinase LRRK2 regulates a subset of Rab GTPases. Elife.
+831 5 (2016).
+832 24. Lewis, P.A., E. Greggio, A. Beilina, S. Jain, A. Baker, and M.R. Cookson, The R1441C mutation of LRRK2
+833 disrupts GTP hydrolysis. 357(3): p. 668-671 (2007).
+834 25. Gardet, A., Y. Benita, C. Li, B.E. Sands, I. Ballester, C. Stevens, J.R. Korzenik, J.D. Rioux, M.J. Daly, R.J.
+835 Xavier, and D.K. Podolsky, LRRK2 Is Involved in the IFN- Response and Host Response to Pathogens. The
+836 Journal of Immunology. 185(9): p. 5577-5585 (2010).
+837 26. Atashrazm, F., D. Hammond, G. Perera, M.F. Bolliger, E. Matar, G.M. Halliday, B. Schule, S.J.G. Lewis,
+838 R.J. Nichols, and N. Dzamko, LRRK2-mediated Rab10 phosphorylation in immune cells from Parkinson's
+839 disease patients. Mov Disord. 34(3): p. 406-415 (2019).
+840 27. Wallings, R.L., L.P. Hughes, H.A. Staley, Z.D. Simon, N.R. McFarland, R.N. Alcalay, A. Garrido, M.J.
+841 Marti, E.T. Sarro, N. Dzamko, and M.G. Tansey, WHOPPA Enables Parallel Assessment of L
+
+Chunk 56:
+M. Halliday, B. Schule, S.J.G. Lewis,
+838 R.J. Nichols, and N. Dzamko, LRRK2-mediated Rab10 phosphorylation in immune cells from Parkinson's
+839 disease patients. Mov Disord. 34(3): p. 406-415 (2019).
+840 27. Wallings, R.L., L.P. Hughes, H.A. Staley, Z.D. Simon, N.R. McFarland, R.N. Alcalay, A. Garrido, M.J.
+841 Marti, E.T. Sarro, N. Dzamko, and M.G. Tansey, WHOPPA Enables Parallel Assessment of Leucine-Rich
+842 Repeat Kinase 2 and Glucocerebrosidase Enzymatic Activity in Parkinson's Disease Monocytes. Front Cell
+843 Neurosci. 16: p. 892899 (2022).
+844 28. Kozina, E., S. Sadasivan, Y. Jiao, Y. Dou, Z. Ma, H. Tan, K. Kodali, T. Shaw, J. Peng, and R.J. Smeyne,
+845 Mutant LRRK2 mediates peripheral and central immune responses leading to neurodegeneration in vivo.
+846 Brain. 141(6): p. 1753-1769 (2018).
+847 29. Rideout, H.J. and D.B. Re, LRRK2 and the "LRRKtosome" at the Crossroads of Programmed Cell Death:
+848 Clues from RIP Kinase Relatives. Adv Neurobiol. 14: p. 193-208 (2017).
+849 30. Wang, Z., S. Arat, M. Magid-Slav, and J.R. Brown, Meta-analysis of human gene expression in response to
+850 Mycobacterium tuberculosis infection reveals potential therapeutic targets. BMC Systems Biology. 12(1)
+851 (2018).
+852 31. Hartlova, A., S. Herbst, J. Peltier, A. Rodgers, O. Bilkei-Gorzo, A. Fearns, B.D. Dill, H. Lee, R. Flynn, S.A.
+853 Cowley, P. Davies, P.A. Lewis, I.G. Ganley, J. Martinez, D.R. Alessi, A.D. Reith, M. Trost, and M.G.
+854 Gutierrez, LRRK2 is a negative regulator of Mycobacterium tuberculosis phagosome maturation in
+855 macrophages. EMBO J. 37(12) (2018).
+856 32. Liu, W., X.N. Liu, Y. Li, J. Zhao, Z. Liu, Z. Hu, Y. Wang, Y. Yao, A.W. Miller, B. Su, M.R. Cookson, X.
+857 Li, and Z. Kang, LRRK2 promotes the activation of NLRC4 inflammasome during Salmonella Typhimurium
+858 infection. The Journal of Experimental Medicine. 214(10): p. 3051-3066 (2017).
+859 33. Zhang, Q., Y. Pan, R. Yan, B. Zeng, H. Wang, X. Zhang, W. Li, H. Wei, and Z. Liu, Commensal bacteria
+860 dir
+
+Chunk 57:
+., X.N. Liu, Y. Li, J. Zhao, Z. Liu, Z. Hu, Y. Wang, Y. Yao, A.W. Miller, B. Su, M.R. Cookson, X.
+857 Li, and Z. Kang, LRRK2 promotes the activation of NLRC4 inflammasome during Salmonella Typhimurium
+858 infection. The Journal of Experimental Medicine. 214(10): p. 3051-3066 (2017).
+859 33. Zhang, Q., Y. Pan, R. Yan, B. Zeng, H. Wang, X. Zhang, W. Li, H. Wei, and Z. Liu, Commensal bacteria
+860 direct selective cargo sorting to promote symbiosis. 16(9): p. 918-926 (2015).
+861 34. Fava, V.M., J. Manry, A. Cobat, M. Orlova, N. Van Thuc, N.N. Ba, V.H. Thai, L. Abel, A. Alcaïs, and E.
+862 Schurr, A Missense LRRK2 Variant Is a Risk Factor for Excessive Inflammatory Responses in Leprosy.
+863 PLOS Neglected Tropical Diseases. 10(2): p. e0004412 (2016).
+864 35. Witoelar, A., I.E. Jansen, Y. Wang, R.S. Desikan, J.R. Gibbs, C. Blauwendraat, W.K. Thompson, D.G.
+865 Hernandez, S. Djurovic, A.J. Schork, F. Bettella, D. Ellinghaus, A. Franke, B.A. Lie, L.K. McEvoy, T.H.
+866 Karlsen, S. Lesage, H.R. Morris, A. Brice, N.W. Wood, P. Heutink, J. Hardy, A.B. Singleton, A.M. Dale, T.
+867 Gasser, O.A. Andreassen, and M. Sharma, Genome-wide Pleiotropy Between Parkinson Disease and
+868 Autoimmune Diseases. JAMA Neurology. 74(7): p. 780 (2017).
+869 36. Villumsen, M., S. Aznar, B. Pakkenberg, T. Jess, and T. Brudek, Inflammatory bowel disease increases the
+870 risk of Parkinson’s disease: a Danish nationwide cohort study 1977–2014. Gut. 68(1): p. 18-24 (2019).
+871 37. Skaper, S.D., L. Facci, M. Zusso, and P. Giusti, An Inflammation-Centric View of Neurological Disease:
+872 Beyond the Neuron. Frontiers in Cellular Neuroscience. 12 (2018).
+33
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+873 38. Gelders, G., V. Baekelandt, and A. Van der Perren, Linking Neuroinflamma
+
+Chunk 58:
+rs in Cellular Neuroscience. 12 (2018).
+33
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+873 38. Gelders, G., V. Baekelandt, and A. Van der Perren, Linking Neuroinflammation and Neurodegeneration in
+874 Parkinson's Disease. J Immunol Res. 2018: p. 4784268 (2018).
+875 39. Kozina, E., M. Byrne, and R.J. Smeyne, Mutant LRRK2 in lymphocytes regulates neurodegeneration via IL-
+876 6 in an inflammatory model of Parkinson’s disease. npj Parkinson's Disease. 8(1) (2022).
+877 40. Kim, K.S., P.C. Marcogliese, J. Yang, S.M. Callaghan, V. Resende, E. Abdel-Messih, C. Marras, N.P.
+878 Visanji, J. Huang, M.G. Schlossmacher, L. Trinkle-Mulcahy, R.S. Slack, A.E. Lang, and D.S. Park,
+879 Regulation of myeloid cell phagocytosis by LRRK2 via WAVE2 complex stabilization is altered in
+880 Parkinson’s disease. Proceedings of the National Academy of Sciences. 115(22): p. E5164-E5173 (2018).
+881 41. Liu, Z., E. Xu, H.T. Zhao, T. Cole, and A.B. West, LRRK2 and Rab10 coordinate macropinocytosis to
+882 mediate immunological responses in phagocytes. EMBO J. 39(20): p. e104862 (2020).
+883 42. Tong, Y., E. Giaime, H. Yamaguchi, T. Ichimura, Y. Liu, H. Si, H. Cai, J.V. Bonventre, and J. Shen, Loss of
+884 leucine-rich repeat kinase 2 causes age-dependent bi-phasic alterations of the autophagy pathway. 7(1): p. 2
+885 (2012).
+886 43. Cassado, A.D.A., M.R. Dâ€™Impã©Rio Lima, and K.R. Bortoluci, Revisiting Mouse Peritoneal
+887 Macrophages: Heterogeneity, Development, and Function. Frontiers in Immunology. 6 (2015).
+888 44. Schapansky, J., J.D. Nardozzi, F. Felizia, and M.J. Lavoie, Membrane recruitment of endogenous LRRK2
+889 precedes its potent regulation of autophagy. 23(16): p. 4201-4214 (2014).
+890 45. Hakimi, M., T. Selvanantham, E. Swinton, R.F. Padmore, Y. Tong, G. Ka
+
+Chunk 59:
+R. Bortoluci, Revisiting Mouse Peritoneal
+887 Macrophages: Heterogeneity, Development, and Function. Frontiers in Immunology. 6 (2015).
+888 44. Schapansky, J., J.D. Nardozzi, F. Felizia, and M.J. Lavoie, Membrane recruitment of endogenous LRRK2
+889 precedes its potent regulation of autophagy. 23(16): p. 4201-4214 (2014).
+890 45. Hakimi, M., T. Selvanantham, E. Swinton, R.F. Padmore, Y. Tong, G. Kabbach, K. Venderova, S.E.
+891 Girardin, D.E. Bulman, C.R. Scherzer, M.J. LaVoie, D. Gris, D.S. Park, J.B. Angel, J. Shen, D.J. Philpott,
+892 and M.G. Schlossmacher, Parkinson's disease-linked LRRK2 is expressed in circulating and tissue immune
+893 cells and upregulated following recognition of microbial structures. J Neural Transm (Vienna). 118(5): p.
+894 795-808 (2011).
+895 46. Moehle, M.S., J.P.L. Daher, T.D. Hull, R. Boddu, H.A. Abdelmotilib, J. Mobley, G.T. Kannarkat, M.G.
+896 Tansey, and A.B. West, The G2019S LRRK2 mutation increases myeloid cell chemotactic responses and
+897 enhances LRRK2 binding to actin-regulatory proteins. 24(15): p. 4250-4267 (2015).
+898 47. Kaminski, H., M. Lemoine, and T. Pradeu, Immunological exhaustion: How to make a disparate concept
+899 operational? PLOS Pathogens. 17(9): p. e1009892 (2021).
+900 48. Pradhan, K., Z. Yi, S. Geng, and L. Li, Development of Exhausted Memory Monocytes and Underlying
+901 Mechanisms. Front Immunol. 12: p. 778830 (2021).
+902 49. Strader, S. and A.B. West, The interplay between monocytes, alpha-synuclein and LRRK2 in Parkinson's
+903 disease. Biochem Soc Trans. 51(2): p. 747-758 (2023).
+904 50. Jin, J., H. Zhang, C.M. Weyand, and J.J. Goronzy, Lysosomes in T Cell Immunity and Aging. Front Aging.
+905 2: p. 809539 (2021).
+906 51. Hennies, C.M., M.A. Lehn, and E.M. Janssen, Quantitating MHC class II trafficking in primary dendritic
+907 cells using imaging flow cytometry. J Immunol Methods. 423: p. 18-28 (2015).
+908 52. Watts, C., The endosome-lysosome pathway and information generation in the immune system. Biochim
+909 
+
+Chunk 60:
+, and J.J. Goronzy, Lysosomes in T Cell Immunity and Aging. Front Aging.
+905 2: p. 809539 (2021).
+906 51. Hennies, C.M., M.A. Lehn, and E.M. Janssen, Quantitating MHC class II trafficking in primary dendritic
+907 cells using imaging flow cytometry. J Immunol Methods. 423: p. 18-28 (2015).
+908 52. Watts, C., The endosome-lysosome pathway and information generation in the immune system. Biochim
+909 Biophys Acta. 1824(1): p. 14-21 (2012).
+910 53. Boomer, J.S., J.M. Green, and R.S. Hotchkiss, The changing immune system in sepsis. Virulence. 5(1): p.
+911 45-56 (2014).
+912 54. Jubel, J.M., Z.R. Barbati, C. Burger, D.C. Wirtz, and F.A. Schildberg, The Role of PD-1 in Acute and Chronic
+913 Infection. Front Immunol. 11: p. 487 (2020).
+914 55. Weinstock, A., K. Rahman, O. Yaacov, H. Nishi, P. Menon, C.A. Nikain, M.L. Garabedian, S. Pena, N.
+915 Akbar, B.E. Sansbury, S.P. Heffron, J. Liu, G. Marecki, D. Fernandez, E.J. Brown, K.V. Ruggles, S.A.
+916 Ramsey, C. Giannarelli, M. Spite, R.P. Choudhury, P. Loke, and E.A. Fisher, Wnt signaling enhances
+917 macrophage responses to IL-4 and promotes resolution of atherosclerosis. Elife. 10 (2021).
+918 56. Morris, R., N.J. Kershaw, and J.J. Babon, The molecular details of cytokine signaling via the JAK/STAT
+919 pathway. Protein Science. 27(12): p. 1984-2009 (2018).
+920 57. West, A.B., D.J. Moore, S. Biskup, A. Bugayenko, W.W. Smith, C.A. Ross, V.L. Dawson, and T.M. Dawson,
+921 From The Cover: Parkinson's disease-associated mutations in leucine-rich repeat kinase 2 augment kinase
+922 activity. 102(46): p. 16842-16847 (2005).
+923 58. Daniëls, V., R. Vancraenenbroeck, B.M.H. Law, E. Greggio, E. Lobbestael, F. Gao, M. De Maeyer, M.R.
+924 Cookson, K. Harvey, V. Baekelandt, and J.-M. Taymans, Insight into the mode of action of the LRRK2
+925 Y1699C pathogenic mutant. 116(2): p. 304-315 (2011).
+926 59. Biosa, A., A. Trancikova, L. Civiero, L. Glauser, L. Bubacco, E. Greggio, and D.J. Moore, GTPase activity
+927 regulates kinase activity and cell
+
+Chunk 61:
+ R. Vancraenenbroeck, B.M.H. Law, E. Greggio, E. Lobbestael, F. Gao, M. De Maeyer, M.R.
+924 Cookson, K. Harvey, V. Baekelandt, and J.-M. Taymans, Insight into the mode of action of the LRRK2
+925 Y1699C pathogenic mutant. 116(2): p. 304-315 (2011).
+926 59. Biosa, A., A. Trancikova, L. Civiero, L. Glauser, L. Bubacco, E. Greggio, and D.J. Moore, GTPase activity
+927 regulates kinase activity and cellular phenotypes of Parkinson's disease-associated LRRK2. 22(6): p. 1140-
+928 1156 (2013).
+34
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+929 60. Nguyen, A.P. and D.J. Moore, Understanding the GTPase Activity of LRRK2: Regulation, Function, and
+930 Neurotoxicity. Adv Neurobiol. 14: p. 71-88 (2017).
+931 61. Nazish, I., C. Arber, T.M. Piers, T.T. Warner, J.A. Hardy, P.A. Lewis, J.M. Pocock, and R. Bandopadhyay,
+932 Abrogation of LRRK2 dependent Rab10 phosphorylation with TLR4 activation and alterations in evoked
+933 cytokine release in immune cells. Neurochem Int. 147: p. 105070 (2021).
+934 62. Sanin, D.E., C.T. Prendergast, and A.P. Mountford, IL-10 Production in Macrophages Is Regulated by a
+935 TLR-Driven CREB-Mediated Mechanism That Is Linked to Genes Involved in Cell Metabolism. J Immunol.
+936 195(3): p. 1218-32 (2015).
+937 63. Tanaka, T., M. Narazaki, and T. Kishimoto, IL-6 in inflammation, immunity, and disease. Cold Spring Harb
+938 Perspect Biol. 6(10): p. a016295 (2014).
+939 64. Li, X., H. Korner, and X. Liu, Susceptibility to Intracellular Infections: Contributions of TNF to Immune
+940 Defense. Front Microbiol. 11: p. 1643 (2020).
+941 65. Shutinoski, B., M. Hakimi, I.E. Harmsen, M. Lunn, J. Rocha, N. Lengacher, Y.Y. Zhou, J. Khan, A. Nguyen,
+942 Q. Hake-Volling, D. El-Kodsi, J. Li, A. Alikashani, C. Beauchamp, J. Majithia, K. Coombs, D. S
+
+Chunk 62:
+(10): p. a016295 (2014).
+939 64. Li, X., H. Korner, and X. Liu, Susceptibility to Intracellular Infections: Contributions of TNF to Immune
+940 Defense. Front Microbiol. 11: p. 1643 (2020).
+941 65. Shutinoski, B., M. Hakimi, I.E. Harmsen, M. Lunn, J. Rocha, N. Lengacher, Y.Y. Zhou, J. Khan, A. Nguyen,
+942 Q. Hake-Volling, D. El-Kodsi, J. Li, A. Alikashani, C. Beauchamp, J. Majithia, K. Coombs, D. Shimshek,
+943 P.C. Marcogliese, D.S. Park, J.D. Rioux, D.J. Philpott, J.M. Woulfe, S. Hayley, S. Sad, J.J. Tomlinson, E.G.
+944 Brown, and M.G. Schlossmacher, Lrrk2 alleles modulate inflammation during microbial infection of mice in
+945 a sex-dependent manner. Science Translational Medicine. 11(511): p. eaas9292 (2019).
+946 66. Daseke, M.J., 2nd, M.A.A. Tenkorang-Impraim, Y. Ma, U. Chalise, S.R. Konfrst, M.R. Garrett, K.Y.
+947 DeLeon-Pennell, and M.L. Lindsey, Exogenous IL-4 shuts off pro-inflammation in neutrophils while
+948 stimulating anti-inflammation in macrophages to induce neutrophil phagocytosis following myocardial
+949 infarction. J Mol Cell Cardiol. 145: p. 112-121 (2020).
+950 67. Fava, V., M. Orlova, A. Cobat, A. Alcaïs, M. Mira, and E. Schurr, Genetics of leprosy reactions: an overview.
+951 107: p. 132-142 (2012).
+952 68. Yi, J.S., M.A. Cox, and A.J. Zajac, T-cell exhaustion: characteristics, causes and conversion. Immunology.
+953 129(4): p. 474-81 (2010).
+954 69. Jiang, S., H. Gao, Q. Luo, P. Wang, and X. Yang, The correlation of lymphocyte subsets, natural killer cell,
+955 and Parkinson's disease: a meta-analysis. Neurol Sci. 38(8): p. 1373-1380 (2017).
+956 70. Saunders, J.A., K.A. Estes, L.M. Kosloski, H.E. Allen, K.M. Dempsey, D.R. Torres-Russotto, J.L. Meza,
+957 P.M. Santamaria, J.M. Bertoni, D.L. Murman, H.H. Ali, D.G. Standaert, R.L. Mosley, and H.E. Gendelman,
+958 CD4+ regulatory and effector/memory T cell subsets profile motor dysfunction in Parkinson's disease. J
+959 Neuroimmune Pharmacol. 7(4): p. 927-38 (2012).
+960 71. Fiszer, U., E. Mix, S. Fredrikson
+
+Chunk 63:
+, J.A., K.A. Estes, L.M. Kosloski, H.E. Allen, K.M. Dempsey, D.R. Torres-Russotto, J.L. Meza,
+957 P.M. Santamaria, J.M. Bertoni, D.L. Murman, H.H. Ali, D.G. Standaert, R.L. Mosley, and H.E. Gendelman,
+958 CD4+ regulatory and effector/memory T cell subsets profile motor dysfunction in Parkinson's disease. J
+959 Neuroimmune Pharmacol. 7(4): p. 927-38 (2012).
+960 71. Fiszer, U., E. Mix, S. Fredrikson, V. Kostulas, and H. Link, Parkinson's disease and immunological
+961 abnormalities: increase of HLA-DR expression on monocytes in cerebrospinal fluid and of CD45RO+ T cells
+962 in peripheral blood. Acta Neurol Scand. 90(3): p. 160-6 (1994).
+963 72. Kustrimovic, N., C. Comi, L. Magistrelli, E. Rasini, M. Legnaro, R. Bombelli, I. Aleksic, F. Blandini, B.
+964 Minafra, G. Riboldazzi, A. Sturchio, M. Mauri, G. Bono, F. Marino, and M. Cosentino, Parkinson's disease
+965 patients have a complex phenotypic and functional Th1 bias: cross-sectional studies of CD4+ Th1/Th2/T17
+966 and Treg in drug-naive and drug-treated patients. J Neuroinflammation. 15(1): p. 205 (2018).
+967 73. Rosenkranz, D., S. Weyer, E. Tolosa, A. Gaenslen, D. Berg, T. Leyhe, T. Gasser, and L. Stoltze, Higher
+968 frequency of regulatory T cells in the elderly and increased suppressive activity in neurodegeneration. J
+969 Neuroimmunol. 188(1-2): p. 117-27 (2007).
+970 74. McRitchie, B.R. and B. Akkaya, Exhaust the exhausters: Targeting regulatory T cells in the tumor
+971 microenvironment. Front Immunol. 13: p. 940052 (2022).
+972 75. Tiemessen, M.M., A.L. Jagger, H.G. Evans, M.J. van Herwijnen, S. John, and L.S. Taams,
+973 CD4+CD25+Foxp3+ regulatory T cells induce alternative activation of human monocytes/macrophages.
+974 Proc Natl Acad Sci U S A. 104(49): p. 19446-51 (2007).
+975 76. Marder, K., Y. Wang, R.N. Alcalay, H. Mejia-Santana, M.X. Tang, A. Lee, D. Raymond, A. Mirelman, R.
+976 Saunders-Pullman, L. Clark, L. Ozelius, A. Orr-Urtreger, N. Giladi, S. Bressman, and L.A.J. Consortium,
+977 Age-specific penetrance 
+
+Chunk 64:
+CD4+CD25+Foxp3+ regulatory T cells induce alternative activation of human monocytes/macrophages.
+974 Proc Natl Acad Sci U S A. 104(49): p. 19446-51 (2007).
+975 76. Marder, K., Y. Wang, R.N. Alcalay, H. Mejia-Santana, M.X. Tang, A. Lee, D. Raymond, A. Mirelman, R.
+976 Saunders-Pullman, L. Clark, L. Ozelius, A. Orr-Urtreger, N. Giladi, S. Bressman, and L.A.J. Consortium,
+977 Age-specific penetrance of LRRK2 G2019S in the Michael J. Fox Ashkenazi Jewish LRRK2 Consortium.
+978 Neurology. 85(1): p. 89-95 (2015).
+979 77. Cilia, R., C. Siri, D. Rusconi, R. Allegra, A. Ghiglietti, G. Sacilotto, M. Zini, A.L. Zecchinelli, R. Asselta, S.
+980 Duga, A.M. Paganoni, G. Pezzoli, M. Seia, and S. Goldwurm, LRRK2 mutations in Parkinson's disease:
+981 confirmation of a gender effect in the Italian population. Parkinsonism Relat Disord. 20(8): p. 911-4 (2014).
+982 78. Trinh, J., I. Guella, and M.J. Farrer, Disease penetrance of late-onset parkinsonism: a meta-analysis. JAMA
+983 Neurol. 71(12): p. 1535-9 (2014).
+35
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+984 79. Giannoccaro, M.P., C. La Morgia, G. Rizzo, and V. Carelli, Mitochondrial DNA and primary mitochondrial
+985 dysfunction in Parkinson's disease. Mov Disord. 32(3): p. 346-363 (2017).
+986 80. Larsen, S.B., Z. Hanss, and R. Kruger, The genetic architecture of mitochondrial dysfunction in Parkinson's
+987 disease. Cell Tissue Res. 373(1): p. 21-37 (2018).
+988 81. Williamson, M.G., M. Madureira, W. McGuinness, R. Heon-Roberts, E.D. Mock, K. Naidoo, K.M.L. Cramb,
+989 M.C. Caiazza, A.B. Malpartida, M. Lavelle, K. Savory, S.W. Humble, R. Patterson, J.B. Davis, N. Connor-
+990 Robson, B.J. Ryan, and R. Wade-Martins, Mitochondrial dysfunction and mitophagy defects in LRRK2-
+991 R1441C Parkinson's disease model
+
+Chunk 65:
+se. Cell Tissue Res. 373(1): p. 21-37 (2018).
+988 81. Williamson, M.G., M. Madureira, W. McGuinness, R. Heon-Roberts, E.D. Mock, K. Naidoo, K.M.L. Cramb,
+989 M.C. Caiazza, A.B. Malpartida, M. Lavelle, K. Savory, S.W. Humble, R. Patterson, J.B. Davis, N. Connor-
+990 Robson, B.J. Ryan, and R. Wade-Martins, Mitochondrial dysfunction and mitophagy defects in LRRK2-
+991 R1441C Parkinson's disease models. Hum Mol Genet. 32(18): p. 2808-2821 (2023).
+992 82. Mortiboys, H., K.K. Johansen, J.O. Aasly, and O. Bandmann, Mitochondrial impairment in patients with
+993 Parkinson disease with the G2019S mutation in LRRK2. Neurology. 75(22): p. 2017-20 (2010).
+994 83. Gonzalez-Hunt, C.P., E.A. Thacker, C.M. Toste, S. Boularand, S. Deprets, L. Dubois, and L.H. Sanders,
+995 Mitochondrial DNA damage as a potential biomarker of LRRK2 kinase activity in LRRK2 Parkinson’s
+996 disease. Scientific Reports. 10(1) (2020).
+997 84. Sanders, L.H., J. Laganière, O. Cooper, S.K. Mak, B.J. Vu, Y.A. Huang, D.E. Paschon, M. Vangipuram, R.
+998 Sundararajan, F.D. Urnov, J.W. Langston, P.D. Gregory, H.S. Zhang, J.T. Greenamyre, O. Isacson, and B.
+999 Schüle, LRRK2 mutations cause mitochondrial DNA damage in iPSC-derived neural cells from Parkinson's
+1000 disease patients: Reversal by gene correction. Neurobiology of Disease. 62: p. 381-386 (2014).
+1001 85. Scharping, N.E., D.B. Rivadeneira, A.V. Menk, P.D.A. Vignali, B.R. Ford, N.L. Rittenhouse, R. Peralta, Y.
+1002 Wang, Y. Wang, K. DePeaux, A.C. Poholek, and G.M. Delgoffe, Mitochondrial stress induced by continuous
+1003 stimulation under hypoxia rapidly drives T cell exhaustion. Nat Immunol. 22(2): p. 205-215 (2021).
+1004 86. Klinge, C.M., Estrogenic control of mitochondrial function. Redox Biol. 31: p. 101435 (2020).
+1005 87. Ji, D., J.-Y. Yin, D.-F. Li, C.-T. Zhu, J.-P. Ye, and Y.-Q. Pan, Effects of inflammatory and anti-inflammatory
+1006 environments on the macrophage mitochondrial function. Scientific Reports. 10(1) (2020).
+1007 88. Wallings, R.L., 
+
+Chunk 66:
+T cell exhaustion. Nat Immunol. 22(2): p. 205-215 (2021).
+1004 86. Klinge, C.M., Estrogenic control of mitochondrial function. Redox Biol. 31: p. 101435 (2020).
+1005 87. Ji, D., J.-Y. Yin, D.-F. Li, C.-T. Zhu, J.-P. Ye, and Y.-Q. Pan, Effects of inflammatory and anti-inflammatory
+1006 environments on the macrophage mitochondrial function. Scientific Reports. 10(1) (2020).
+1007 88. Wallings, R.L., M.K. Herrick, and M.G. Tansey, LRRK2 at the Interface Between Peripheral and Central
+1008 Immune Function in Parkinson’s. Frontiers in Neuroscience. 14 (2020).
+1009 89. Panagiotakopoulou, V., D. Ivanyuk, S. De Cicco, W. Haq, A. Arsic, C. Yu, D. Messelodi, M. Oldrati, D.C.
+1010 Schondorf, M.J. Perez, R.P. Cassatella, M. Jakobi, N. Schneiderhan-Marra, T. Gasser, I. Nikic-Spiegel, and
+1011 M. Deleidi, Interferon-gamma signaling synergizes with LRRK2 in neurons and microglia derived from
+1012 human induced pluripotent stem cells. Nat Commun. 11(1): p. 5163 (2020).
+1013 90. Yadavalli, N. and S.M. Ferguson, LRRK2 suppresses lysosome degradative activity in macrophages and
+1014 microglia through MiT-TFE transcription factor inhibition. Proceedings of the National Academy of
+1015 Sciences. 120(31) (2023).
+1016 91. Simpson, C., L. Vinikoor-Imler, F.L. Nassan, J. Shirvan, C. Lally, T. Dam, and N. Maserejian, Prevalence
+1017 of ten LRRK2 variants in Parkinson's disease: A comprehensive review. Parkinsonism Relat Disord. 98: p.
+1018 103-113 (2022).
+1019 92. Tong, Y., A. Pisani, G. Martella, M. Karouani, H. Yamaguchi, E.N. Pothos, and J. Shen, R1441C mutation
+1020 in LRRK2 impairs dopaminergic neurotransmission in mice. Proc Natl Acad Sci U S A. 106(34): p. 14622-7
+1021 (2009).
+1022
+1023 Acknowledgments: We thank members of the Tansey lab for useful discussions and edits of the
+1024 manuscript. We thank the UF Interdisciplinary Center for Biotechnology Research (UF | ICBR) for use of
+1025 flow cytometry and sequencing facilities and advice. Partial funding for this work was derived from
+
+Chunk 67:
+neurotransmission in mice. Proc Natl Acad Sci U S A. 106(34): p. 14622-7
+1021 (2009).
+1022
+1023 Acknowledgments: We thank members of the Tansey lab for useful discussions and edits of the
+1024 manuscript. We thank the UF Interdisciplinary Center for Biotechnology Research (UF | ICBR) for use of
+1025 flow cytometry and sequencing facilities and advice. Partial funding for this work was derived from awards
+1026 from the Bright Focus Fellowship A2021017F (RLW), NIH/NINDS grant RF1NS128800 (MGT), NIH
+1027 NIA 1RF1AG057247, and the joint efforts of The Michael J. Fox Foundation for Parkinson’s Research
+1028 (MJFF) and the Aligning Science Across Parkinson’s (ASAP) initiative. MJFF administers the grant ASAP-
+36
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1029 020527 on behalf of ASAP and itself. For the purpose of open access, the author has applied a CC-BY
+1030 public copyright license to the Author Accepted Manuscript (AAM) version arising from this submission.
+1031 N.B. was supported by the DFG (BR4328.2-1, GRK1957), the Michael J Fox Foundation, the Collaborative
+1032 Center for X-linked Dystonia-Parkinsonism and the EU Joint Programme - Neurodegenerative Disease
+1033 Research (JPND)
+1034
+1035
+1036 Author contributions:
+1037 Conceptualization: RLW, MGT
+1038 Methodology: RLW, HAS, KMF, SS, NB, SZ, TU, CK, ES
+1039 Investigation: RLW, KMF
+1040 Visualization: RLW, MGT
+1041 Funding acquisition: RLW, MGT
+1042 Project administration: MGT
+1043 Supervision: MGT
+1044 Writing – original draft: RLW, HAS, KMF, SS, NB, SZ, TU, CK, ES, MGT
+1045 All authors reviewed and approved the final manuscript.
+1046 Competing interests: MGT is a current advisor/consultant for INmune Bio, Merck, Forward Therapeutics,
+1047 Weston Foundation, Alzheimer’s Association, 
+
+Chunk 68:
+lization: RLW, MGT
+1041 Funding acquisition: RLW, MGT
+1042 Project administration: MGT
+1043 Supervision: MGT
+1044 Writing – original draft: RLW, HAS, KMF, SS, NB, SZ, TU, CK, ES, MGT
+1045 All authors reviewed and approved the final manuscript.
+1046 Competing interests: MGT is a current advisor/consultant for INmune Bio, Merck, Forward Therapeutics,
+1047 Weston Foundation, Alzheimer’s Association, Bright Focus Foundation, New Horizons Research,
+1048 SciNeuro, NysnoBio, Longevity, iMetabolic Pharma, Novo Nordisk, and iMMvention and an AE for
+1049 Science Advances. N.B. received honaria from Abbott, Abbvie, Biogen, Biomarin, Bridgebio, Centogene,
+1050 Esteve, Ipsen, Merz, Teva, Zambon. CK is medical advisor to Centogene, Retromer Therapeutics, and
+1051 Takeda and Speakers Honoraria from Desitin and Bial.
+1052 All other authors hold no competing interests.
+1053
+37
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1054 Data and materials availability: All data are available in the main text or supplementary files, including
+1055 links to data repositories and individual level data in Data File S1. Correspondence and requests for
+1056 materials should be addressed to MGT.
+1057
+1058
+1059
+1060
+1061
+1062
+1063
+1064
+1065
+1066
+1067
+1068
+1069
+1070
+1071
+1072
+1073
+1074
+38
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1075 Figures
+1076
+1077 Figure 1. R1441C mutation leads to age dependent biphasic alteration in antigen presentation. pMacs
+1078 from 2-3-month and 18-21-month-old female or male, B6 or R1441C mice were stimulated with 
+
+Chunk 69:
+n posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1075 Figures
+1076
+1077 Figure 1. R1441C mutation leads to age dependent biphasic alteration in antigen presentation. pMacs
+1078 from 2-3-month and 18-21-month-old female or male, B6 or R1441C mice were stimulated with 100U IFNγ
+1079 for 18-hours. (A, B) Total Lrrk2 protein expression was assessed and normalized to β-Actin and quantified.
+1080 Representative western blots shown. (C, D) T73 Rab10 protein expression was assessed and normalized to
+1081 total Rab10 and quantified. Representative western blots shown. (E, F) Surface MHC-II median
+1082 fluorescence intensity (MFI) was quantified on LPMs and via flow cytometry. (G-J) pMacs were stained
+1083 for intracellular and extracellular MHC-II MFI and Ex:IcMHC-II ratio quantified. Scale bars, 100μM. Bars
+1084 represent mean +/- SEM (N = 6-12 mice). Three-way ANOVA, Bonferroni post hoc, groups sharing the
+1085 same letters are not significantly different (p > 0.05) whilst groups displaying different letters are
+1086 significantly different (p < 0.05).
+39
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1087
+1088 Figure 2. R1441C mutation leads to age dependent biphasic alteration in cytokine release ex vivo and
+1089 circulating cytokines in vivo. (A) pMacs from 2-3-month and 18-21-month-old female or male, B6 or
+1090 R1441C mice were stimulated with 100U IFNγ for 18-hours and media collected. (B, C) IL10, IL6 and
+1091 TNF were quantified and normalized to live cell count. (D) Trunk blood was collected via trunk bleed and
+1092 plasma was isolated. (E, F) IL10, IL6 and TNF were quantified. Bars represent mean +/- SEM (N
+
+Chunk 70:
+ng cytokines in vivo. (A) pMacs from 2-3-month and 18-21-month-old female or male, B6 or
+1090 R1441C mice were stimulated with 100U IFNγ for 18-hours and media collected. (B, C) IL10, IL6 and
+1091 TNF were quantified and normalized to live cell count. (D) Trunk blood was collected via trunk bleed and
+1092 plasma was isolated. (E, F) IL10, IL6 and TNF were quantified. Bars represent mean +/- SEM (N = 8-10
+1093 mice). Three-way ANOVA, Bonferroni post hoc.
+1094
+40
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1095
+1096 Figure 3. R1441C mutation leads to age dependent biphasic alteration in lysosomal activity. pMacs
+1097 from 2-3-month and 18-21-month-old female or male, B6 or R1441C mice were stimulated with 100U IFNγ
+1098 for 18-hours. (A) Schematic of YAe assay. (B, C) Cells were co-treated with 100nM PF360 or 50nM
+1099 Bafilomycin A1 (baf) and YAe MFI was quantified on LPMs via flow-cytometry. (D, E) DQ-BSA and
+1100 BMV109 MFI was quantified in LPMs via flow cytometry. (F-I) DQ-BSA and BMV109 MFI was
+1101 quantified in pMacs via microscopy. Scale bars, 100μM. Bars represent mean +/- SEM (N = 6-12 mice).
+1102 Two -way ANOVA, Bonferroni post hoc, or Student’s T-test. Groups sharing the same letters are not
+1103 significantly different (p > 0.05) whilst groups displaying different letters are significantly different (p <
+1104 0.05).
+41
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1105
+1106 Figure 4. R1441C Lrrk2 mutation alters pathogen uptake and pathogen-mediated DNA damage in
+1107 age- and sex-dependent manner. 
+
+Chunk 71:
+---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1105
+1106 Figure 4. R1441C Lrrk2 mutation alters pathogen uptake and pathogen-mediated DNA damage in
+1107 age- and sex-dependent manner. pMacs from 2-3-month and 18-21-month-old female, B6 or R1441C
+1108 mice were incubated with 100μg of pHrodo E. coli. +/- 100nM PF360. (A, B) pMacs were imaged every
+1109 20 minutes for 5 hours, and GFP fluorescence was measured. Scale bars, 100μM. Four-way ANOVA,
+1110 Bonferroni post hoc. Main effects of groups are reported in the graph key. Groups sharing the same letters
+1111 are not significantly different (p > 0.05) whilst groups displaying different letters are significantly different
+1112 (p < 0.05). (C) TUNEL MFI was quantified in LPMs via flow cytometry. Bars represent mean +/- SEM (N
+1113 = 4-12 mice). One-way ANOVA, Bonferroni post hoc. Groups sharing the same letters are not significantly
+1114 different (p > 0.05) whilst groups displaying different letters are significantly different (p < 0.05).
+1115
+1116
+1117
+1118
+1119
+1120
+1121
+1122
+42
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1123
+1124 Figure 5. R1441C Lrrk2 mutation induces immune cell exhaustion in a kinase-dependent manner.
+1125 pMacs from 2-3-month and 18-21-month-old female, B6 or R1441C mice were incubated with 100ng/mL
+1126 of LPS for 5 days +/- 100nM PF360. (A) Schematic of study design. (B, C) Lrrk2 protein expression was
+1127 assessed and normalized to β-Actin and quantified. Representative western blots shown. (D) PDL1+ LPM
+1128 count was quantified via flow cytometry.
+
+Chunk 72:
+exhaustion in a kinase-dependent manner.
+1125 pMacs from 2-3-month and 18-21-month-old female, B6 or R1441C mice were incubated with 100ng/mL
+1126 of LPS for 5 days +/- 100nM PF360. (A) Schematic of study design. (B, C) Lrrk2 protein expression was
+1127 assessed and normalized to β-Actin and quantified. Representative western blots shown. (D) PDL1+ LPM
+1128 count was quantified via flow cytometry. (E) After 5-day LPS or vehicle treatment, pMacs were stimulated
+1129 with 100nG/mL of IFNγ for 18-hours and MHC-II MFI expression was quantified via flow cytometry. Bars
+1130 represent mean +/- SEM (N = 6-12 mice). Three -way ANOVA, Bonferroni post hoc. (F-H) After 5-day
+1131 LPS or vehicle treatment, pMacs were incubated with 100μg of pHrodo E. coli. +/- 100nM PF360. pMacs
+1132 were imaged every 20 minutes for 5 hours, and GFP+ cells (% of total) and GFP MFI was measured. Scale
+1133 bars, 100μM. Four-way ANOVA, Bonferroni post hoc. Main effects of groups are reported in each graph
+1134 key. Groups sharing the same letters are not significantly different (p > 0.05) whilst groups displaying
+1135 different letters are significantly different (p < 0.05).
+43
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1136
+1137 Figure 6. R1441C Lrrk2 mutation alters transcriptional regulation of mitochondrial and oxidative
+1138 stress genes as a function of age in macrophages from mutant females. Transcriptomic analysis from
+1139 B6 or R1441C vehicle and IFNγ-treated pMacs, harvested from 2-3-month or18-21-month-old. (A, B, C).
+1140 Significant Old:Young DEGs in IFNγ-treated pMacs were counted and compared across B6 and R1441C.
+1141 Volcano plots show genes with log -transformed fold change > 0.5 and an adjusted p-value ≤ 0.05. (D)
+2
+1142 KEGG pathway and GO BP enr
+
+Chunk 73:
+ges from mutant females. Transcriptomic analysis from
+1139 B6 or R1441C vehicle and IFNγ-treated pMacs, harvested from 2-3-month or18-21-month-old. (A, B, C).
+1140 Significant Old:Young DEGs in IFNγ-treated pMacs were counted and compared across B6 and R1441C.
+1141 Volcano plots show genes with log -transformed fold change > 0.5 and an adjusted p-value ≤ 0.05. (D)
+2
+1142 KEGG pathway and GO BP enrichment analysis identifies pathways in Old:Young DEGs seen only in
+1143 R1441C samples. (E). Heat maps show KEGG: Parkinson’s Disease pathway with significant Old:Young
+1144 DEGs seen only in R1441C samples. (F) KEGG pathway and GO BP enrichment analysis identifies
+1145 pathways in Aged R1441C F:M upregulated DEGs. pMac-derived RNA was used from 4-6 mice per sex,
+1146 genotype, treatment and age in transcriptomic studies.
+44
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1147
+1148 Figure 7. R1441C and Y1699C-LRRK2 monocyte-derived patient macrophages exhibit
+1149 hypophagocytosis and increased markers for immune cell exhaustion. (A) Schematic of study design.
+1150 (B, C) Cryopreserved PBMCs were cryorecovered and plated in the presence of hM-CSF to differentiate
+1151 myeloid cells to macrophages. Macrophages were incubated with 100μg of pHrodo E. coli and imaged
+1152 every 20 minutes for 5 hours, and GFP+ cells (% of total) quantified. . Scale bars, 100μM. Three-way
+1153 ANOVA, Bonferroni post hoc. Main effects of groups are reported in each graph key. Groups sharing the
+1154 same letters are not significantly different (p > 0.05) whilst groups displaying different letters are
+1155 significantly different (p < 0.05). (D, E, F) PDL1+ cell count and PDL1 expression was quantified in total
+1156 PBMCs via flow cytometry. Bars represent mean +/- SEM (N
+
+Chunk 74:
+. Three-way
+1153 ANOVA, Bonferroni post hoc. Main effects of groups are reported in each graph key. Groups sharing the
+1154 same letters are not significantly different (p > 0.05) whilst groups displaying different letters are
+1155 significantly different (p < 0.05). (D, E, F) PDL1+ cell count and PDL1 expression was quantified in total
+1156 PBMCs via flow cytometry. Bars represent mean +/- SEM (N = 3-9 participants). One-way ANOVA,
+1157 Bonferroni post hoc. Groups sharing the same letters are not significantly different (p > 0.05) whilst groups
+1158 displaying different letters are significantly different (p < 0.05). (G) Monocyte-derived macrophages were
+1159 stained for PDL1 and microscopy images captured. Scale bars, 100μM.
+1160
+1161
+1162
+1163
+1164
+1165
+45
+
+---PAGE BREAK---
+
+bioRxiv preprint doi: https://doi.org/10.1101/2023.10.12.562063; this version posted May 2, 2024. The copyright holder for this preprint (which
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1166
+1167
+1168
+1169
+1170
+1171
+1172
+1173
+1174
+1175
+1176
+1177
+1178
+1179
+1180
+1181
+1182
+1183
+1184
+46
+
+---PAGE BREAK---
+
+
+

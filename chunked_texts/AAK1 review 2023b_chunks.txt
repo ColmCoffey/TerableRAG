@@ -1,0 +1,1133 @@
+Chunk 1:
+EuropeanJournalofMedicinalChemistry248(2023)115102
+Contents lists available at ScienceDirect
+European Journal of Medicinal Chemistry
+journal homepage: www.elsevier.com/locate/ejmech
+Review article
+Development and therapeutic potential of adaptor-associated kinase 1
+inhibitors in human multifaceted diseases
+Xin Xina,1, Yue Wangb,1, Lele Zhanga,1, Dan Zhanga, Leihao Shaa, Ziyu Zhua, Xiaoyi Huanga,
+Wuyu Maoa,*, Jifa Zhanga,**
+aJoint Research Institution of Altitude Health, State Key Laboratory of Biotherapy and Cancer Center, Department of Respiratory and Critical Care Medicine, Institute of
+Respiratory Health, National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, Chengdu, 610041, Sichuan, China
+bLeling Traditional Chinese Medicine Hospital, Leling, 253600, Shandong, China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Adaptor-Associated Kinase 1 (AAK1), a Ser/Thr protein kinase, responsible for regulating clathrin-mediated
+AAK1 endocytosis, is ubiquitous in the central nervous system (CNS). AAK1 plays an important role in neuropathic
+Small molecule inhibitors pain and a variety of other human diseases, including viral invasion, Alzheimer’s disease, Parkinson’s syndrome,
+Structure-activity relationships (SARs)
+etc. Therefore, targeting AAK1 is a promising therapeutic strategy. However, although small molecule AAK1
+Anti-neuropathic pain
+inhibitors have been vigorously developed, only BMS-986176/LX-9211 has entered clinical trials. Simulta-
+Broad-spectrum antiviral target
+neously, new small molecule inhibitors, including BMS-911172 and LP-935509, exhibited excellent druggability.
+This review elaborates on the structure, biological function, and disease relevance of AAK1. We emphatically
+analyze the structure-activity relationships (SARs) of small molecule AAK1 inhibitors based on different binding
+modalities and discuss prospective strategies to provide insights into novel AAK1 therapeutic agents for clinical
+practice.
+1. Introductio
+
+Chunk 2:
+5509, exhibited excellent druggability.
+This review elaborates on the structure, biological function, and disease relevance of AAK1. We emphatically
+analyze the structure-activity relationships (SARs) of small molecule AAK1 inhibitors based on different binding
+modalities and discuss prospective strategies to provide insights into novel AAK1 therapeutic agents for clinical
+practice.
+1. Introduction damage by inhibiting AAK1 [10]. Therefore, AAK1 is considered as a
+potential anti-neuropathic pain target. In addition, AAK1 has a signifi-
+Adapter-Associated Kinase 1 (AAK1), also known as AP2-associated cant role in the control of numerous signal pathways and physiological
+protein kinase 1, belongs to the Numb associated kinase (NAK) family processes [11–13]. AAK1 has been implicated in a variety of human
+[1,2] and is a highly conserved Ser/Thr protein kinase [3,4]. AAK1 was disorders [14,15] including Alzheimer’s disease (AD) [16], Amyo-
+originally named for its ability to phosphorylate the μ2 subunit of trophic lateral sclerosis (ALS) [17], Parkinson’s disease (PD) [18], RNA
+adaptor-related protein complex 2 (AP2) at Thr156 [5] and participate virus entry and assembly [19], and others. Various vital functions of
+in clathrin-mediated endocytosis and secretion [6,7]. The AAK1 gene is AAK1 throughout life have stimulated the production of AAK1 inhibitors
+located on the human chromosome 2p14 and encodes a 683 amino acid (AAK1i) [20].
+sequence [2]. As a protein kinase ubiquitously expressed in the central Notably, AAK1i has demonstrated remarkable clinical efficacy while
+nervous system (CNS), chemical genetic analysis and mass spectrometry treating COVID-19 [21–23]. Although there is currently no
+analysis confirmed that AAK1 is the substrate of nuclear Dbf2-related FDA-approved medication targeting AAK1, repurposed drugs have
+(NDR) kinase 1/2 [8] and PCTAIRE-1 (also known as facilitated AAK1i research and development [24–27]. Sunitinib, recog-
+cyclin-dependent protein kina
+
+Chunk 3:
+ystem (CNS), chemical genetic analysis and mass spectrometry treating COVID-19 [21–23]. Although there is currently no
+analysis confirmed that AAK1 is the substrate of nuclear Dbf2-related FDA-approved medication targeting AAK1, repurposed drugs have
+(NDR) kinase 1/2 [8] and PCTAIRE-1 (also known as facilitated AAK1i research and development [24–27]. Sunitinib, recog-
+cyclin-dependent protein kinase (CDK) 16) [9], which regulate dendritic nized as AAK1i, is a pan-receptor tyrosine kinase (RTK) inhibitor
+branching and neurotransmitter transmission, respectively. Attenuating licensed by the FDA for the treatment of cancer [28]. To date, many
+the expression of AAK1 can significantly control neuropathic pain and AAK1i have been developed; for example, LP-935509 alleviates persis-
+neurological disorders. Recent studies have shown that miRNA-384-3p tent neuralgia in the mouse spinal nerve ligation (SNL) model [29];
+can alleviate sevoflurane-induced neuronal apoptosis and neurological inhibitors based on pyrrolo[2,3-b]pyridines skeleton increase resistance
+* Corresponding author.
+** Corresponding author.
+E-mail addresses: wuyanmao1@sina.com (W. Mao), zjf298257@163.com (J. Zhang).
+1 These authors contributed equally to this work.
+https://doi.org/10.1016/j.ejmech.2023.115102
+Received 10 November 2022; Received in revised form 6 January 2023; Accepted 6 January 2023
+Availableonline7January2023
+0223-5234/©2023PublishedbyElsevierMassonSAS.
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+to DENV and EBOV viruses in vitro and human primary dendritic cells 2. Structure and physiological function of AAK1
+[30]. However, these drugs still have certain flaws, such as limited
+selectivity and unfixable dose dependence. AAK1 comprises three domains: a highly conserved N-terminal Ser/
+As the AAK1 target has become a hotspot in recent years, several Thr kinase domain (about 267 amino acids), an intermediate QPA-rich
+inh
+
+Chunk 4:
+itro and human primary dendritic cells 2. Structure and physiological function of AAK1
+[30]. However, these drugs still have certain flaws, such as limited
+selectivity and unfixable dose dependence. AAK1 comprises three domains: a highly conserved N-terminal Ser/
+As the AAK1 target has become a hotspot in recent years, several Thr kinase domain (about 267 amino acids), an intermediate QPA-rich
+inhibitors have entered the clinical phase. BMS-986176/LX-9211 is region (residues 312–630), and a C-terminal α-adaptin-interacting
+currently in development for diabetic peripheral neuropathic pain domain (AID) [2]. AAK1 bears a strong resemblance to other members of
+(ClinicalTrials.gov identifier: NCT04455633) and post-herpetic neural- the NAK family in the kinase domain but differs in other domains
+gia (ClinicalTrials.gov identifier: NCT04662281) in Phase II clinical [Fig. 1A]. The most relevant are AAK1 and BMP-2 inducible kinase
+trials. Baricitinib is being integrated with Remdisivir in the Adaptive (BIKE), which share 74% of their kinase domains and 50% of their total
+COVID-19 Treatment Trial 2 (ACTT-2) in Phase III clinical trial sequence [3]. Only three residues separate AAK1 from BIKE at the ATP
+(ClinicalTrials.gov identifier: NCT04401579). Additionally, certain binding pocket: two minor changes at the hinge region (Asp127 in AAK1
+small compounds have recently demonstrated promise for medicinal use vs. Glu131 in BIKE, and Phe127 vs. Tyr132) and one significant change
+in preclinical studies. In a chronic constriction injury (CCI) model in at the P loop (Ala58 vs. Ser63), which serves as the defining features to
+rats, BMS-911172 significantly reduced neuropathic pain without distinguish AAK1 from BIKE [Fig. 1B].
+causing dose-limiting adverse effects [29]; meanwhile, PHZ-OH em- According to SDS-PAGE, it can be concluded that AAK1 mainly exists
+ploys AAK1 targeted inhibition to significantly lower caspase-11 acti- as a monomer rather than a dimer, with a typical bilobed do
+
+Chunk 5:
+serves as the defining features to
+rats, BMS-911172 significantly reduced neuropathic pain without distinguish AAK1 from BIKE [Fig. 1B].
+causing dose-limiting adverse effects [29]; meanwhile, PHZ-OH em- According to SDS-PAGE, it can be concluded that AAK1 mainly exists
+ploys AAK1 targeted inhibition to significantly lower caspase-11 acti- as a monomer rather than a dimer, with a typical bilobed domain [32].
+vation and sepsis mortality [31]. The big-C helix (ASCH), a characteristic of the NAK family, is inserted by
+This review emphasizes the structure, biological function, and dis- AAK1 into the C-terminal end of the activation region, directly affecting
+ease relevance of AAK1. We summarize the structure-activity relation- substrate binding and catalytic efficiency through conformational
+ships (SARs) and binding modes of representative AAK1i. Meanwhile, changes [2]. The N-terminal of the ASCH forms hydrogen bonds with
+we focus on the latest progress in AAK1i development and perspectives Gln203 in the αE/αF loop, while Leu207 and Ile243 interact in a similar
+on relevant drug design strategies, contributing to future research into manner. The glutamate (Glu229) side chain of the APE motif forms a salt
+targeting inhibitors. bridge for activating the C-terminal of the loop. Furthermore, the argi-
+nine and tyrosine residues preceding the APE motif (Tyr225 and
+Fig. 1. Structure and dynamic of human AAK1. (A) Schematic diagram of the AAK1 kinase domain and domain organization comparison of human NAK family. (B)
+Details of AAK1 crystal structure (PDB ID: 4WSQ). ASCH (cyan): the activation C-terminal helix. The cysteine residue labeled in the grey rectangle provides a co-
+valent binding site.
+2
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Arg226) appear to help immobilize the activation segment. Met94 from Nrg1-mediated neurogenesis [Fig. 3]. Notch pathway regulates the
+α-C helix, Tyr106 from β4, and Hi
+
+Chunk 6:
+vation C-terminal helix. The cysteine residue labeled in the grey rectangle provides a co-
+valent binding site.
+2
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Arg226) appear to help immobilize the activation segment. Met94 from Nrg1-mediated neurogenesis [Fig. 3]. Notch pathway regulates the
+α-C helix, Tyr106 from β4, and His174 and Phe195 from the HRD and cellular life course, which is linked to several human diseases, such as
+DFG motifs constitute the R spine, suggesting that AAK1 is a constitu- cancers [40]. AAK1 mediates Notch targeting to Rab5-positive endo-
+tively active kinase. AAK1 features a unique phosphate-binding loop at somes to promote early endosome synthesis, directly influencing their
+the ATP site, called the “P loop,” which in AAK1 is Ala53-Ala59. The membrane-tethered active form, and serves as an important cofactor in
+double-glycine motif in the loop allows it to adapt to various inhibitor the Notch signaling pathway [41]. In addition, it ameliorates
+scaffolds by changing the loop’s conformation. The cysteine (Cys193) in coagulation-induced organ dysfunction and lethality by inhibiting
+AAK1 provides an active site required for targeting covalent inhibitors AAK1-mediated lipopolysaccharide (LPS) endocytosis to reduce
+[33], being a potential priority scheme to increase selectivity. caspase-11 pathway activation in sepsis models [31]. AAK1 modulates
+AAK1 is present at a high level in the cell membrane and cytoplasm. brain-derived neurotrophic factor (BDNF) to enhance paxillin-drebrin
+AAK1 accumulates in the presynaptic terminals of neuronal cells, while interactions and may promote neuronal morphogenesis as well as
+in non-neuronal cells it coexists with the clathrin-AP2 complex in actin remodeling [42]. WNT activates AAK1 to promote endocytosis
+clathrin-coated pits. AAK1 phosphorylates the μ2 subunit of AP2 at [Fig. 3], thus downregulating WNT signaling through a negative feed
+
+Chunk 7:
+AAK1 accumulates in the presynaptic terminals of neuronal cells, while interactions and may promote neuronal morphogenesis as well as
+in non-neuronal cells it coexists with the clathrin-AP2 complex in actin remodeling [42]. WNT activates AAK1 to promote endocytosis
+clathrin-coated pits. AAK1 phosphorylates the μ2 subunit of AP2 at [Fig. 3], thus downregulating WNT signaling through a negative feed-
+Thr156 [34], which facilitates recognition and interaction with cell back loop [43]. Also, AAK1i stabilizes β-catenin and activates β-cat-
+surface receptors to enhance endocytosis [35]. AAK1 is a NAK family enin-dependent WNT signaling [44], accelerating the transcription of
+homolog whose structure is most similar to BIKE [2] and whose function target genes. As a member of the NAK family, AAK1 promotes dendritic
+most closely resembles cyclin G-associated kinase (GAK) [36]. BIKE morphogenesis while regulating early Numb function [45].
+plays an important role in osteoblast differentiation [37], and GAK
+mediates the connection of clathrin to the plasma membrane and the 3. The role of AAK1 in human multifaceted diseases
+trans-Golgi network (TGN), while AAK1 interacts with the α-subunit of
+AP2 in addition to promoting recognition on the membrane [5]. AAK1 is AAK1 plays important roles in human multifaceted diseases, such as
+also involved in early/sorting endosomal receptor recycling of trans- neuropathic pain, neurodegenerative diseases, and viral diseases. Inhi-
+ferrin, however, overexpression of the long form of AAK1, encoding an bition of AAK1 activity can provide a variety of therapeutic outcomes.
+additional clathrin-binding domain (AAK1L CBD2) impairs transferrin Besides, AAK1 has a synergistic effect with immune cells, which can also
+endocytosis [7]. Furthermore, overexpression of AAK1 inhibits indicate the extent of tumor growth. Therefore, AAK1 becomes a po-
+low-density lipoprotein receptor-related protein (LRP), thereby pre- tential and attractive therapeutic target f
+
+Chunk 8:
+apeutic outcomes.
+additional clathrin-binding domain (AAK1L CBD2) impairs transferrin Besides, AAK1 has a synergistic effect with immune cells, which can also
+endocytosis [7]. Furthermore, overexpression of AAK1 inhibits indicate the extent of tumor growth. Therefore, AAK1 becomes a po-
+low-density lipoprotein receptor-related protein (LRP), thereby pre- tential and attractive therapeutic target for multifaceted human
+venting endocytosis, while reducing the number of phosphorylated diseases.
+subunits [4]. The high homology with mammalian Ark1/Prk1 suggests
+that AAK1 may play a role in coordinating the dynamics of cytoskeleton 3.1. Neuropathic pain
+actin [38]. AAK1 has also been shown to be a crucial cytokine for viral
+infections and to be heavily engaged in neurodegenerative diseases, in AAK1 gene knockout mice have an attenuated response to persistent
+addition to playing a significant role in the treatment of neuropathic pain, and AAK1i prevented mice from producing allodynia [7]. γ-ami-
+pain [Fig. 2]. nobutyric acid (GABA) channel plays an important role in CNS [35,46],
+In PC12 cells, neuregulin 1 and receptor tyrosine kinase 4 (Nrg1/ and μ2-dependent endocytosis is extremely major for GABAA Cl- chan-
+ErbB4)-dependent neurotrophic factor signaling was shown to be nels [47]. AAK1i reduces the amount of μ2-contained GABAA channel to
+inhibited by AAK1. Inhibition of AAK1 will result in the sustained achieve the analgesic effect, making AAK1 an anti-neuropathic pain
+activation of downstream signaling by ErbB4 [39], leading to enhanced target [Fig. 4]. Opioids are the most widely used drugs against neuralgia
+Fig. 2. The upstream genes of AAK1 and the signaling pathways involved in AAK1. Phosphorylated MST1/2 and MAP4Ks phosphorylates NDR1/2 and induce NDR1/
+2 to phosphorylate AAK1 at Ser635, which can inhibit the growth of dendrite branching. The abundance of miR-125b-5p can affect the activity of CDK16, which
+inhibits cell degradation and promote autophagy indirectly.
+
+Chunk 9:
+ely used drugs against neuralgia
+Fig. 2. The upstream genes of AAK1 and the signaling pathways involved in AAK1. Phosphorylated MST1/2 and MAP4Ks phosphorylates NDR1/2 and induce NDR1/
+2 to phosphorylate AAK1 at Ser635, which can inhibit the growth of dendrite branching. The abundance of miR-125b-5p can affect the activity of CDK16, which
+inhibits cell degradation and promote autophagy indirectly. CDK16 phosphorylates AAK1 at Thr389 to promote synaptic transmission.
+3
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 3. The roles of AAK1 in multiple signal pathways. AAK1 inhibits Nrg1/ErbB4-dependent neurotrophic factor signaling, which activates ERK1/2 to enhance
+neurogenesis and signaling. Meanwhile, other ErbB receptors also have possibility of being inhibited by AAK1. AAK1 modulates BDNF to enhance paxillin-drebrin
+interactions and may promote neuronal morphogenesis and actin remodeling. AAK1 activates WNT pathway, which facilitates the Rab5 synthesis and transmission in
+the early and late endosome. Besides, the Numb protein activates AAK1 but inhibits Notch receptor, which indicates a dynamic balance. WNT activates AAK1 to
+phosphorylate AP2M1(AP2-μ2) at Thr156, to promote clathrin-mediated WNT receptor (LRP6) endocytosis. However, the abundance of LRP6 also inhibits WNT,
+forming an AAK1-driven negative feedback loop.
+(cid:0)
+Fig. 4. AAK1 participates in the pathogenesis of multiple diseases. AAK1 can activate GABAA Cl channels through phosphorylating AP2M1, which plays an
+important role in neuropathic pain sensation. AP2M1 is essential for virus that abducts the clathrin-mediated endocytic pathway to enter cells, and AAK1i decreases
+virus invasion by downgrading phosphorylated AP2M1 through inhibiting AAK1 activity. AAK1 can promote amyloid β (Aβ)-induced damage through AP2M1 in AD.
+AAK1 is colocated with endosome and presynaptic protein markers, but it is wrongly located as an aggregate 
+
+Chunk 10:
+athic pain sensation. AP2M1 is essential for virus that abducts the clathrin-mediated endocytic pathway to enter cells, and AAK1i decreases
+virus invasion by downgrading phosphorylated AP2M1 through inhibiting AAK1 activity. AAK1 can promote amyloid β (Aβ)-induced damage through AP2M1 in AD.
+AAK1 is colocated with endosome and presynaptic protein markers, but it is wrongly located as an aggregate containing mutant SOD1s and neurofilament proteins in
+ALS, which complex can inhibit the activity of AAK1.
+4
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+[48,49]. However, long-term administration is related to many adverse expression, whereas downregulation of AAK1 expression diminished the
+events, including immunosuppression, the disorder of self-reward, and infection of RABV in N2a cells [70]. AAK1 knockout in HEK293 cells
+neurohormone deficiency [50,51]. As an alternative, AAK1i avoids the greatly inhibited cell infection with RABV, where AAK1 mRNA expres-
+inhibitory pathway of opioids, which it can also synergize with [29]. In sion was reduced by 85% [71]. ⅣⅣ. DENV infection slightly increased the
+the effective dose tests, mice treated with a reasonable dose of AAK1i did levels of AAK1 and GAK transcripts in a large number of Huh7 cells
+not show any obvious dyskinesia, implying its enormous research value relative to uninfected cells, and AAK1 expression was related to the
+[52]. abundance of DENV in cells [72]. Although in the absence of AP2,
+endocytosis uptake of some receptors can be maintained by alternative
+3.2. Neurodegenerative diseases clathrin adaptors, AP2 is necessary for optimal coat assembly and traf-
+ficking. AP2M1 (AP2-μ2) is essential for any virus that abducts the
+AAK1 affects the alpha-synuclein aggregation and the resulting clathrin-mediated endocytic pathway to enter cells, including influenza,
+neurodegeneration in Caenorhabditis elegans, suggesting it great poten- adenovirus, 
+
+Chunk 11:
+rnative
+3.2. Neurodegenerative diseases clathrin adaptors, AP2 is necessary for optimal coat assembly and traf-
+ficking. AP2M1 (AP2-μ2) is essential for any virus that abducts the
+AAK1 affects the alpha-synuclein aggregation and the resulting clathrin-mediated endocytic pathway to enter cells, including influenza,
+neurodegeneration in Caenorhabditis elegans, suggesting it great poten- adenovirus, and foot-and-mouth disease virus. Inhibiting AAK1 activity
+tial in combating neurodegenerative diseases [53]. I. AAK1 expression is to down-regulate viral endocytosis has become an effective way to
+enhanced in the cerebral cortex, hippocampus, and plasma of AD model develop broad-spectrum antiviral drugs [73].
+mice [16]. Inhibition of endocytosis in AD models has prevented amy-
+loid β (Aβ)-induced damage [54]. In Aβ 1-42 treated mice, AAK1 levels 3.4. Other diseases
+varied periodically, and in mice with cognitive impairment in the AD
+model, AAK1 expression was increased, indicating a negative correla- AAK1 expression and immune cell infiltration are closely related,
++
+tion between AAK1 levels and cognitive function [Fig. 4]. II. There is a and high AAK1 expression is associated with high CD4 T cell infiltra-
+single nucleotide polymorphism (SNP) in intron 16 of the AAK1 gene on tion [64]. AAK1 inhibition can affect the expression of chemokine re-
+chromosome 2 [18], whose location and function are closely related to ceptors and improve T cell trafficking in vitro and in vivo. Additionally,
+PD susceptibility genes [55,56]. AAK1 is associated with the age of onset AAK1 has been identified in tumor models, providing a possible way for
+of familial PD and affects the risk of PD by regulating lysosomal activity. improving T cell aggregation in tumors. This target is also beneficial for
+Microarray studies of PD brains have shown differential expression of applications using CAR-T cells and adoptive cell metastasis [74]. The
+AAK1 [57], providing a new idea for disease surveillance. I
+
+Chunk 12:
+ied in tumor models, providing a possible way for
+of familial PD and affects the risk of PD by regulating lysosomal activity. improving T cell aggregation in tumors. This target is also beneficial for
+Microarray studies of PD brains have shown differential expression of applications using CAR-T cells and adoptive cell metastasis [74]. The
+AAK1 [57], providing a new idea for disease surveillance. III. Approx- abundance of AAK1 has emerged as one of the characteristic indices for
+imately 20% of familial ALS (FALS) is caused by superoxide dismutase 1 prognostic prediction of diffuse large B-cell lymphoma [75]. Due to the
+(SOD1) gene mutation [58], and AAK1 can selectively interact with depletion of AAK1 in RKO colon cancer cells, AAK1 emerged as a
+mutant SOD1s. Under normal physiological conditions, AAK1 partially possible target for tumor therapy, suggesting that AAK1 may be involved
+colocalizes with endosome and presynaptic protein markers, but it is in controlling apoptosis.
+mislocalized as an aggregate containing mutant SOD1s and neurofila-
+ment proteins in ALS disease models. The level of AAK1 protein in ALS 4. AAK1 inhibitors for the treatment of different human diseases
+patients decreased, and the distribution of AAK1 was abnormal after
+onset [59]. AAK1 may be involved in ALS pathology in two ways: one is SARs-based drug design, radioactive displacement assay and a series
+the loss of its regulatory function in the synaptic vesicle cycle, which of new screening techniques have facilitated the development of novel
+may lead to presynaptic dysfunction as well as cell death; and the other AAK1i [53,76]. We have categorized and summarized AAK1i for
+is the presence of misfolding and aggregation in its expression pattern different disease types and chemical scaffolds, such as aryl amides,
+[17]. biaryl alkyl ethers, etc. At present, most of the known small molecule
+AAK1i belong to type I inhibitors, which target the conserved
+3.3. Viral diseases ATP-binding site in kinas
+
+Chunk 13:
+ and the other AAK1i [53,76]. We have categorized and summarized AAK1i for
+is the presence of misfolding and aggregation in its expression pattern different disease types and chemical scaffolds, such as aryl amides,
+[17]. biaryl alkyl ethers, etc. At present, most of the known small molecule
+AAK1i belong to type I inhibitors, which target the conserved
+3.3. Viral diseases ATP-binding site in kinase activity and exhibit an Asp-Phe-Gly-in
+(DFG-in) conformation that facilitates phosphorylation transfer [77,
+Most viruses require internalization by endocytosis to penetrate and 78]. They all provide structural references and ideas for the design and
+infect, and clathrin-mediated endocytosis is the most commonly used development of novel AAK1i and further lay the foundation for the
+entry route for viruses [60]. After adhering to the cell surface and development of AAK1 as a new therapeutic target.
+binding to specific receptors, the virus is loaded into clathrin-coated
+vesicles. Within the endosome, a decrease in pH can induce a confor- 4.1. AAK1 inhibitors for neuropathic pain
+mational change in the viral envelope protein [61], allowing the virus to
+fuse with the endosomal membrane and release the virus into the host 4.1.1. Aryl amides
+cell cytoplasm, thereby completing the invasion of the virus to the host Hydrogen interaction is an important factor in drug design. More-
+cell. Therefore, AAK1 (cofactor of clathrin-mediated endocytosis) be- over, chemical structures need to be selected that can bind to form
+comes a potential broad-spectrum antiviral target [Fig. 4]. hydrogen bonds, such as amides [79]. Aryl amides 1 (IC50 =69 nM) was
+AAK1 is extensively involved in the invasion mechanism of viruses: I. first identified by Richard et al. [80]. Subsequently, SARs-studies on the
+SARS-CoV-2 enters target cells through angiotensin-converting enzyme amide side chain was carried out [Fig. 5A]. Compound 2 has the best
+2 (ACE-2)-mediated endocytosis [62], which is controlled by AAK
+
+Chunk 14:
+, such as amides [79]. Aryl amides 1 (IC50 =69 nM) was
+AAK1 is extensively involved in the invasion mechanism of viruses: I. first identified by Richard et al. [80]. Subsequently, SARs-studies on the
+SARS-CoV-2 enters target cells through angiotensin-converting enzyme amide side chain was carried out [Fig. 5A]. Compound 2 has the best
+2 (ACE-2)-mediated endocytosis [62], which is controlled by AAK1. potency with isobutyl as the substituent, suggesting that the isobutyl
+AAK1 inhibition may interrupt virus propagation and intracellular as- side chain is the most suitable length side chain; the
+sembly [63]. There was no significant difference in the expression level cyclopentyl-substituted analog 3 showed similar potency to 2, indi-
+of AAK1 between patients with lung adenocarcinoma (LUAD) and cating that the cyclopentyl group on the α-carbon is approximately
+normal subjects, however, the expression level of AAK1 was signifi- equivalent to isobutyl, but the other cycloalkyl substitutions led to
+cantly decreased in COVID-19 patients infected with SARS-CoV-2 [64]. negative effects, implying that the space for the binding pocket to
+Baricitinib reduces inflammation by inhibiting Janus-kinase signaling accommodate aliphatic side chains is limited. The introduction of the
+and activator of transcription (JAK-STAT) pathways, and cooperatively piperidine ring yielded compound 4, whose metabolic stability (H/R/M)
+inhibits AAK1 to reduce receptor-mediated viral endocytosis, thus was substantially lower than that of 2 (89/75/64 vs. 60/42/2), and the
+achieving dual therapeutic effects [65,66]. II. Studies have shown that end-group oxazole ring was superior to the imidazole ring because the
+AAK1 regulates the assembly and entry steps in the HCV infection cycle nitrogen atom on the oxazole ring interacted with the hydrogen bond in
+[67,68]. AAK1 depletion leads to the loss of epidermal growth factor the hinge area, with only compound 5 showing similar potency to 2.
+(EGF)-mediated enhan
+
+Chunk 15:
+6]. II. Studies have shown that end-group oxazole ring was superior to the imidazole ring because the
+AAK1 regulates the assembly and entry steps in the HCV infection cycle nitrogen atom on the oxazole ring interacted with the hydrogen bond in
+[67,68]. AAK1 depletion leads to the loss of epidermal growth factor the hinge area, with only compound 5 showing similar potency to 2.
+(EGF)-mediated enhancement of HCV entry and EGF receptor endocy- Substitution of Me with CHF2 on the benzene ring to obtain compound 6
+tosis [69]. III. RABV infection increased AAK1 transcription and (BMS-911172), showing higher activity in HEK293 cells (IC50 =51 nM)
+5
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 5. (A) The structure-activity relationship of Aryl Amides. Binding mode of AAK1i to AAK1 structure: (B) compound 2 (PDB ID: 7LVH); (C) compound 4 (PDB
+ID: 7LVI).
+and better potency in the plasma and brain of male C57BL6 mice. compound 4 (PDB ID: 7LVI) is caused by the spatial conflict between the
+Compound 6 responded well only to NAK family members among 391 isopropyl and the protein. The ability of compound 6 (PDB ID: 7RJ8) to
+kinases tested, inhibiting μ2 phosphorylation at concentrations consis- form hydrogen bonds with ATP binding site in the hinge region makes it
+tent with those observed in AAK1 knockout mice. In addition, the a potential ATP-competitive small molecule kinase inhibitor, with other
+rotarod model showed that it effectively avoided the dose-limiting side interaction relationships similar to compound 2.
+effects seen in the current therapeutic drugs and that the drug performed
+well in the mouse formalin-induced persistent pain model (Phase II) and 4.1.2. Biaryl alkyl ethers
+the rat neuropathic pain CCI model. The generation of novel bis(hetero)aromatic ethers with high CNS
+The X-ray crystal structure (PDB ID: 7LVH) elucidates that com- permeability has given rise to fresh thought. After pre
+
+Chunk 16:
+und 2.
+effects seen in the current therapeutic drugs and that the drug performed
+well in the mouse formalin-induced persistent pain model (Phase II) and 4.1.2. Biaryl alkyl ethers
+the rat neuropathic pain CCI model. The generation of novel bis(hetero)aromatic ethers with high CNS
+The X-ray crystal structure (PDB ID: 7LVH) elucidates that com- permeability has given rise to fresh thought. After preliminary
+pound 2 binds to the ATP site of AAK1 [Fig. 5B]. The nitrogen atom of screening, Luo et al. obtained lead compound 7 [81], which was ex-
+the oxazole ring forms a hydrogen bond with the NH of the Cys129 pected to develop an oral drug by switching amides for ethers to get rid
+backbone in the hinge region. The central phenyl group is sandwiched of amide hydrogen bonds [Fig. 6B]. Improved cellular potency and CNS
+between Val60 of the P loop and Cys193 at the N-terminal of the DFG permeability were achieved [Fig. 6A]. Compound 8, obtained by
+motif (Asp194-Phe195-Gly196); the equivalent interaction occurs be- replacing the amide with ether, resulted in a decrease in IC50 value and
+tween amide NH and side chain oxygen of Asp194 from DFG motif. The inhibition in most CYP isoforms due to the breakage of hydrogen bonds.
+amine forms a hydrogen bond with the side chain oxygen of Asn181 and The introduction of CF3 (9) into the central benzene ring did not
+positions the isopropyl so that it is upward and close to the bottom of the completely solve the problem in compound 8, and CYP3A4 inhibition
+P loop. Hydrophobic interaction between the isopropyl and small lipo- remained. Insertion of a methyl group into the side chain amino group
+philic pocket on P loop enhances drug potency and kinase selectivity. helped to reduce CYP3A4 inhibition, and CHF2 substituted compound
+The crystal structure is consistent with the SARs findings, that is, the D- 10 performed well in terms of IC50 value as well as cellular potency.
+leucine-derived amide side chain exhibits stable hydrogen bonding, How
+
+Chunk 17:
+ a methyl group into the side chain amino group
+philic pocket on P loop enhances drug potency and kinase selectivity. helped to reduce CYP3A4 inhibition, and CHF2 substituted compound
+The crystal structure is consistent with the SARs findings, that is, the D- 10 performed well in terms of IC50 value as well as cellular potency.
+leucine-derived amide side chain exhibits stable hydrogen bonding, However, the single-point assay panel demonstrated its lowered kinase
+which promotes the bridge stability between the N-terminal region (P selectivity for AAK1 [82]. Substituting the central benzene ring with
+loop) and the C-terminal region (DFG motif) via the amine, amide ni- pyridine ring substantially improved selectivity, and retained other
+trogen, and alkyl side chain with appropriate length. There is a critical excellent properties. Compound 11 (BMS-986176/LX-9211) inhibited
+hydrophobic interaction of methoxy with the upper Leu52 and Ala53 only 4 of the 396 kinases, while it was approximately 500-fold more
+and the lower Leu183 from P loop, and the size of methoxy fits perfectly selective for AAK1 than the others. The compound
+into this binding pocket, thus enhancing the effectiveness. By comparing BMS-986176/LX-9211(11) at an oral dose of 0.3–1 mg/kg was effective
+the crystal structure [Fig. 5C], the decrease in the effectiveness of in reducing the thermal hyperalgesia of CCI rats and showed excellent
+6
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 6. (A) Design strategy of compounds 7–11. (B) Proposed AAK1i with an extra hydrogen-bond donor for better potency. (C) Modification on compound 11 for
+selective AAK1i. The Cell-IC50 was tested in HEK293F cells.
+spinal cord occupancy [83]. Its permeability to the CNS expanded with the preliminary product. Compound 16 obtained by inserting Et
+further applications [84]. In addition, the preclinical results also showed into the 4-position was able to enh
+
+Chunk 18:
+ AAK1i with an extra hydrogen-bond donor for better potency. (C) Modification on compound 11 for
+selective AAK1i. The Cell-IC50 was tested in HEK293F cells.
+spinal cord occupancy [83]. Its permeability to the CNS expanded with the preliminary product. Compound 16 obtained by inserting Et
+further applications [84]. In addition, the preclinical results also showed into the 4-position was able to enhance the potency. After enantiomeric
+that BMS-986176/LX9211(11) has a low potential for neuromotor separation of 11 by chiral supercritical fluid chromatography (SFC), it
+injury and has entered clinical trials (NCT04662281 and NCT0445633). was found that the S-enantiomer [(S)-16] is more potent than the R-
+Because of the excellent pharmaceutical properties of the biaryl alkyl enantiomer [(R)-16]. Cyano substitution analogy (17) was able to
+ethers chemotype [Fig. 6B], the biaryl scaffolds were extensively further improve the potency and became the optimal structure among 4-
+explored and further optimized by Luo’s group [85]. Compounds 12 and position alkyl ether and N-alkylamine analogs; these results indicate that
+13 [Fig. 6C] were obtained from BMS-986176/LX-9211 by substituting the substituent at 4-position of quinazoline is able to bind to the small
+CHF2 with an amide group as a critical modification and adjusting the hydrophobic pocket in the AAK1 kinase domain and improve the po-
+conformation of the central pyridine ring, respectively. Compound 13, tency. Based on the structure of 17, the IC50 value of compound 18 could
+the central pyridine isomer of BMS-986176/LX-9211 (11), was 4-fold be further improved by inserting OMe at 7-position; the substitution of
+more potent than 11 in vitro and achieved benefit in the CCI rat model the terminal oxazole ring with a pyridine ring (19) resulted in an
+with lower plasma exposure. Compounds 12 and 13, at oral doses of attenuation of potency. On the basis of compounds 18 and 19, quina-
+1–10 mg/kg, both exhibited good efficacy in th
+
+Chunk 19:
+as 4-fold be further improved by inserting OMe at 7-position; the substitution of
+more potent than 11 in vitro and achieved benefit in the CCI rat model the terminal oxazole ring with a pyridine ring (19) resulted in an
+with lower plasma exposure. Compounds 12 and 13, at oral doses of attenuation of potency. On the basis of compounds 18 and 19, quina-
+1–10 mg/kg, both exhibited good efficacy in the rat neuropathic pain zoline ring is replaced by quinoline ring to give compounds 20 and 21,
+model. And both possess high CNS penetration and excellent spinal cord both of which have lower IC50 values and better effectiveness of S-
+targeting binding. These substances also show favorable physicochem- configuration. In contrast, compound 20 has better cellular activity,
+ical and oral pharmacokinetic (PK) properties. Nevertheless, the toxicity kinase selectivity and metabolic stability. Compound (S)-20 down-
+profile still must be considered, as both show toxicity to hepatocellular regulated the phosphorylation of μ2 by 64% at a dose of 30 mg/kg
+and other cardiovascular systems at high dosages. (sc) with better brain penetration (a B/P ratio of 1.5), which deserves
+further optimization.
+4.1.3. Quinazoline derivatives The crystal structure of S-16 with mouse AAK1 (PDB ID: 7RJ6)
+The strategy of optimizing bicyclic systems as modifiers to improve revealed a single hydrogen bond between the hinge-binding oxazole
+the effectiveness of inhibitors has been widely used [86,87]. Richard nitrogen and the backbone N of Cys129; the amine was shown to form
+et al. synthesized a series of quinazoline analogs based on compound hydrogen bonds with the side chain carboxylate of Asp194 from DFG
+6C4 by ring-forming reactions that would provide a new carrier motif and the side chain oxygen of Asn181 [Fig. 7B]. The hydrogen bond
+[Fig. 7A], which can project substituents onto hydrophobic back-pocket interaction between the side chain amine and the protein would main-
+substituents to improve the cellu
+
+Chunk 20:
+ analogs based on compound hydrogen bonds with the side chain carboxylate of Asp194 from DFG
+6C4 by ring-forming reactions that would provide a new carrier motif and the side chain oxygen of Asn181 [Fig. 7B]. The hydrogen bond
+[Fig. 7A], which can project substituents onto hydrophobic back-pocket interaction between the side chain amine and the protein would main-
+substituents to improve the cellular efficacy of inhibitor and explore tain the orientation of the isopropyl to optimize the hydrophobic
+better AAK1i [88]. interaction between its distal isopropyl group and the hydrophobic
+Substitution of the aryl amide of compound 14 with quinazoline gave pocket at the underside of the P loop region, as evidenced by the surface
+compound 15, which showed a slight reduction in potency compared expression of the protein in the X-ray crystal structure. The quinazoline
+7
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 7. (A) The structure-activity relationship of Quinazoline Derivatives. (B) X-ray crystal structure of AAK1 in complex with compound (S)-16 (PDB ID: 7RJ6), (C)
+compound (S)-20 (PDB ID: 7RJ7).
+ring is located between the Val60 of P loop and Cys193 located at the N- structure of S-20 with AAK1 (PDB ID: 7RJ7) shows that the S-enan-
+terminal side of the DFG motif (Asp194-Phe195-Gly196), while the 4- tiomer of 20 binds in the same manner as (S)-16 [Fig. 7C]. The identical
+ethyl substituent occupies a small hydrophobic pocket close to the hydrogen-bonding interaction as well as hydrophobic interaction of the
+gatekeeper residue (Met126). Site Map characterization revealed the isopropyl group is present. The difference is that it replaces a bound
+hydrophobic-friendly region at the position of the C4 substituent, which water molecule and forms a water-mediated hydrogen bond with the
+may explain the increased potency of the ethyl analogy in (S)-16. The amide backbone NH of Phe195, and this hydrogen 
+
+Chunk 21:
+f the
+gatekeeper residue (Met126). Site Map characterization revealed the isopropyl group is present. The difference is that it replaces a bound
+hydrophobic-friendly region at the position of the C4 substituent, which water molecule and forms a water-mediated hydrogen bond with the
+may explain the increased potency of the ethyl analogy in (S)-16. The amide backbone NH of Phe195, and this hydrogen bonding interaction
+existence of a polar region adjacent to the hydrophobic region around contributes to the enhancement in the potency of the 4-cyano substitu-
+the DFG motif, where the 4-cyano substituent of 17 reaches and may ent analogs.
+form a hydrogen bond or water-mediated hydrogen bond with the
+protein, explains the favorable activity of this analog. The crystal
+Fig. 8. Chemical structure of compounds 22–28. The Cell-IC50 was tested in HEK293F cells.
+8
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+4.1.4. Phenanthrene derivatives 4.2. AAK1 inhibitors for viral diseases
+[3H]BMT-046091 (22) is a potent and selective AAK1i [Fig. 8] and
+has been successfully used to measure the occupancy of brain targets To date, most antiviral therapies have been approved to target viral
+following systemic AAK1 inhibition in rodents through radioligand [89]. enzymes through a “one drug, one bug” approach. However, the low
+[3H]BMT-046091 inhibited AAK1 phosphorylation of AP2M1 (IC50 = efficiency and high cost of drug development make it difficult to meet
+28 nM), which was absent in the brains of AAK1 knockout mice. In the clinical needs on a large scale. In addition, virus-targeted medicines are
+spinal cord, [3H]BMT-046091 was enriched in the dorsal horn superfi- typically less effective due to the development of drug resistance. This
+cial layers, which was not altered by CCI surgery. Systemic adminis- dilemma can be overcome by host-targeted therapies that focus on
+tration of AAK1i occupied the AAK1 binding site, an
+
+Chunk 22:
+inical needs on a large scale. In addition, virus-targeted medicines are
+spinal cord, [3H]BMT-046091 was enriched in the dorsal horn superfi- typically less effective due to the development of drug resistance. This
+cial layers, which was not altered by CCI surgery. Systemic adminis- dilemma can be overcome by host-targeted therapies that focus on
+tration of AAK1i occupied the AAK1 binding site, and occupation of this enhancing virus-dependent host resistance [90]. Because they provide
+site correlated with anti-neuropathic pain effects, implying its potential the opportunity to repurpose drugs that have been shown to control
+in anti-neuropathic pain. In addition, BMT-090605 (23) and particular host activities, host-targeted methods are appealing for the
+BMT-124110 (24) [Fig. 8] also exhibited intracellular AAK1 inhibition treatment of developing viral infections. Due to its crucial function in
+[29]. Experiments involving these two compounds indicated that AAK1 the viral life cycle, AAK1 is a potential target for the development of
+restraint in the spinal cord was essential for anti-neuropathic pain effects broad-spectrum antiviral drugs.
+in rats. Oral administration of 24 did not show the same analgesic effect
+as intrathecal injection of 23 into rodents. 4.2.1. Pyrrolo[2,3-b]pyridine derivatives
+DiscoverX analysis was used to evaluate the binding of 577 structural
+4.1.5. Pyrazolo[1,5-a]pyrimidine and Imidazo[1,2-b]pyridazine derivatives with a panel of 203 protein kinases. Researchers identified a
+derivatives pyrrolo[2,3-b]pyridine derivative (29) as a potent AAK1i (Kd =53 nM)
+In an enzyme assay using the structural domain of human AAK1 [91]. Compound 29 was selected as the lead compound, and a series of
+kinase, LP-935509 (25) inhibited phosphorylation of a peptide derived SARs studies [Fig. 9A] were performed [92]. Using 3,4-dimethoxy--
+from the μ2 protein (IC50 =3.3 nM), while inhibiting the binding to 13 phenyl as the C5 substituent, the best potency was obtained,
+
+Chunk 23:
+M)
+In an enzyme assay using the structural domain of human AAK1 [91]. Compound 29 was selected as the lead compound, and a series of
+kinase, LP-935509 (25) inhibited phosphorylation of a peptide derived SARs studies [Fig. 9A] were performed [92]. Using 3,4-dimethoxy--
+from the μ2 protein (IC50 =3.3 nM), while inhibiting the binding to 13 phenyl as the C5 substituent, the best potency was obtained, and the
+kinases by more than 70% [50]. LP-935509 exhibited 100% oral pyridine ring in compound 30 was also the best choice for the SARs
+bioavailability, a plasma half-life of 3.6 h, and high brain penetration. studies of the N-Acyl moiety. On the basis of 28, optimization with
+LP-935509 competed with ATP to reduce neuropathic pain behavior in acetylene instead of amide gave compound 31, but it has low selectivity
+mice and rats, but did not affect acute pain perception. In addition, it can and may be a better pharmacological tool to explore the role of AAK1 in
+be distributed throughout the body, matching the wide distribution of viral infection. Compounds 29–31 effectively reduced the phosphory-
+AAK1, moreover, the anti-neuropathic pain effect of LP-935509 was lation of AP2M1, and compounds 30 and 31 showed dose-dependent
+highly correlated with the occupancy value of the AAK1 binding sites. inhibition of DENV infection. Another nitrogen atom was inserted into
+Radiographic autoradiography analysis showed a dose-dependent effect the pyrrole part to produce pyrazolo[3,4-b]pyridine analog 32, which
+of LP-935509 on AAK1 binding sites in the dorsal horn of the spinal cord was 100-fold less potent than 30. When the pyridine moiety of com-
+and no difference in potency between the spinal cord and forebrain re- pound 31 was replaced by a pyrazine ring, the pyrrolo[2,3-b]pyrazine
+gions. LP-922761 (26), an analogy of LP-935509, relieves neuropathic analog 33 was obtained. It was endowed with a better AAK1 affinity
+pain, but oral LP-922761 remains ineffective. In addition, compounds tha
+
+Chunk 24:
+ss potent than 30. When the pyridine moiety of com-
+and no difference in potency between the spinal cord and forebrain re- pound 31 was replaced by a pyrazine ring, the pyrrolo[2,3-b]pyrazine
+gions. LP-922761 (26), an analogy of LP-935509, relieves neuropathic analog 33 was obtained. It was endowed with a better AAK1 affinity
+pain, but oral LP-922761 remains ineffective. In addition, compounds than 31, but showed greater cytotoxicity in Huh7 cells.
+27 and 28 with the same scaffold have been used to modulate AAK1 The crystal structure of AAK1 (PDB ID: 5L4Q) complexed with
+activity as potential therapeutic agents for neurological disorders compound 29 shows that the pyrrolo[2,3-b]pyridine moiety is directly
+[Fig. 8]. bound between two highly conserved residue side chains (Ala72 at the
+N-terminal β2 and Leu183 at the C-terminal), in which the nitrogen
+atom combines with residues Asp127 and Cys129 in the hinge region,
+Fig. 9. The structure-activity relationship of Pyrrolo[2,3-b]pyridine Derivatives and X-ray crystal structure of AAK1 in complex with compound 29 (PDB ID: 5L4Q).
+The Cell-IC50 was tested in Huh7 cells.
+9
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+forming two hydrogen bonds [Fig. 9B]. The 4-cyanophenyl moiety is of patients with COVID-19 [97]. Midostaurin (39), a Flt3 inhibitor, ex-
+oriented toward the solvent, and the benzene ring is sandwiched be- hibits anti-HCV activity by inhibiting AAK1 [26]. As an alternative
+tween Gly132 of the hinge region and Leu52 of β1. The nitrogen atom of therapy, drug repurposing can not only reduce the risk of failure and
+the cyano group interacts with Asn136 on the side chain to form a polar R&D costs, but also improve the success rate of treatment through drug
+interaction. The nicotinamide moiety binds to the gatekeeper residue synergy [98].
+Met126 and forms a hydrogen bond with Lys74 from the side chain; Likewise, kinase inhibitors are a powerful 
+
+Chunk 25:
+apy, drug repurposing can not only reduce the risk of failure and
+the cyano group interacts with Asn136 on the side chain to form a polar R&D costs, but also improve the success rate of treatment through drug
+interaction. The nicotinamide moiety binds to the gatekeeper residue synergy [98].
+Met126 and forms a hydrogen bond with Lys74 from the side chain; Likewise, kinase inhibitors are a powerful group of therapeutic
+another highly conserved residue usually links the phosphate of ATP to agents with a tendency to block several targets [99,100]. Quantitative
+the α-C helix. Compound 29 also interacts with two water molecules: analysis of the selectivity of kinase inhibitors indicated there are good
+one behind the ATP pocket and the other in front of the adenosine affinity activities between AAK1 and the current group of kinase in-
+binding site below Val60 of the β1 strand. hibitors (compounds 40–51) which merit further exploration [Fig. 11].
+However, drug selectivity is another important factor to be considered,
+4.2.2. Repurposing existing drugs not just high affinity. For example, the c-Jun N-terminal kinase (JNK)
+Drug repurposing is a beneficial therapeutic strategy used inhibitor SP600125 (52) interacts strongly with BIKE and AAK1 but
+commonly. At present, several FDA-approved drugs have good inhibi- exhibits selectivity for 300 kinases [101]. Notably, the present and up-
+tory effects on AAK1 [Fig. 10], which provides a solution for the coming findings suggest that RTK inhibitor is possible AAK1i [102].
+development of new drugs and treating unknown viruses. Sunitinib (34)
+is an oral drug approved by the FDA for the treatment of renal cell
+4.3. AAK1 inhibitors for other diseases
+carcinoma and imatinib-resistant gastrointestinal stromal tumor [93].
+Liver tissue lysates collected from AG-B6 mice after dosing show that the
+PHZ-OH (53) may act as a favorable small molecule for AAK1i,
+combination of Sunitinib (34) and Erlotinib (35) caused dose-dependent
+which may facilit
+
+Chunk 26:
+s an oral drug approved by the FDA for the treatment of renal cell
+4.3. AAK1 inhibitors for other diseases
+carcinoma and imatinib-resistant gastrointestinal stromal tumor [93].
+Liver tissue lysates collected from AG-B6 mice after dosing show that the
+PHZ-OH (53) may act as a favorable small molecule for AAK1i,
+combination of Sunitinib (34) and Erlotinib (35) caused dose-dependent
+which may facilitate the development of highly potent agents for the
+AAK1 inhibition, confirming AAK1 as an antiviral target [28]. At the
+treatment of sepsis-associated coagulation, multiple organ dysfunction,
+same time, the combination of the two drugs achieved sustained inhi-
+and death in the future [31]. Molecular docking results showed that
+bition of systemic infection in DENV-infected IFN-α/β and IFN-γ
+AAK1 had a high binding energy to PHZ-OH, and surface plasmon
+receptor-deficient mice. In addition, Sunitinib deters RABV infection by resonance (SPR) results revealed a high affinity (Kd =4670 nM) between
+blocking the kinase activity of AAK1. However, AAK1 overexpression
+PHZ-OH and AAK1. Both AAK1 knockout and PHZ-OH administration
+completely reversed the antiviral effects of Sunitinib and Erlotinib [72],
+alone can significantly inhibit outer membrane vesicle (OMV)-induced
+and the safety of this therapy still needs further exploration. Baricitinib
+pyroptosis in WT/Gbp2-deficient cells [103], thus the results suggest
+(36) was originally an oral Janus-associated kinase (JAK) 1/2 inhibitor
+that PHZ-OH can prevent AAK1-mediated LPS internalization for
+approved for the treatment of rheumatoid arthritis (RA) [94]. Studies
+caspase-11 activation [104].
+have shown that it can inhibit AAK1 by regulating the internal
+transport-related cell surface protein ACE-2, and significantly reduce the
+4.4. Other AAK1 inhibitors
+SARS-CoV-2 viral load, inflammatory markers, and IL-6 levels in pa-
+tients with bilateral COVID-19 pneumonia, further confirming its po-
+In addition to the above large number of AAK1i
+
+Chunk 27:
+tis (RA) [94]. Studies
+caspase-11 activation [104].
+have shown that it can inhibit AAK1 by regulating the internal
+transport-related cell surface protein ACE-2, and significantly reduce the
+4.4. Other AAK1 inhibitors
+SARS-CoV-2 viral load, inflammatory markers, and IL-6 levels in pa-
+tients with bilateral COVID-19 pneumonia, further confirming its po-
+In addition to the above large number of AAK1i used to treat dis-
+tential antiviral activity [23,95]. Fedratinib (37) is an oral small
+eases, other different types of compounds also exhibit AAK1 inhibitory
+molecule ATP-competitive inhibitor of JAK2 and FMS-like tyrosine ki-
+effects [Fig. 12].
+nase 3 (FLT3; CD135; STK1; FLK2) with potential antitumor activity
+[96]. The high-affinity inhibition of AAK1 potentially makes it a potent
+precursor for the development of AAK1i. Cynaroside (38) is a β-D-glu- 4.4.1. Nature products derivatives
+RNAi data suggest that AAK1 is a candidate target for the natural
+coside flavonoid that interacts with AAK1 active site residues Leu52,
+protein kinase C (PKC) inhibitor K252a (54) [39], which has a greater
+Val60, Phe128, Cys129, Gln133, Leu183 and Asp194 with high affinity.
+affinity for K252a compared to K252a-Me (55), suggesting that insertion
+Current studies have shown that Cynaroside is effective in the treatment
+of methyl groups is sterically unfavorable and requires higher energy to
+Fig. 10. Chemical structures of compounds 34–39. FDA-approved drugs and clinical drugs which inhibit AAK1.
+10
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 11. Chemical structures of compounds 40–53. These compounds have a high affinity with AAK1.
+adjust the conformation. (5Z)-7-oxozeaenol (56) is a natural anti- 4.4.2. Aminopyrimidine derivatives
+protozoal compound, which irreversibly binds to various kinases [105]. Aminopyrimidine represents a novel chemical probe of AAK1/BIKE
+Incubation of (5Z)-7-oxozeaenol with recombinant AAK
+
+Chunk 28:
+48(2023)115102
+Fig. 11. Chemical structures of compounds 40–53. These compounds have a high affinity with AAK1.
+adjust the conformation. (5Z)-7-oxozeaenol (56) is a natural anti- 4.4.2. Aminopyrimidine derivatives
+protozoal compound, which irreversibly binds to various kinases [105]. Aminopyrimidine represents a novel chemical probe of AAK1/BIKE
+Incubation of (5Z)-7-oxozeaenol with recombinant AAK1 protein and is capable of inhibiting different off-target kinases [106]. Com-
+resulted in 132 Da changes in the observed protein molecular weight, pounds 57 and 58 were found to be potent inhibitors of NAK family
+confirming its covalent binding with AAK1 at Cys193. members (AAK1, BIKE and serine/threonine kinase (STK) 16) [107]. In
+11
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+Fig. 12. Chemical structures of compounds 54–65. These compounds with potential to be optimized as AAK1i.
+addition, the introduction of the bromine group enhanced the potency of targeting AAK1 and BIKE due to its excellent performance in various
+the inhibitor. It was found that the halogen bond is very important for indices [110,111].
+the ligand efficiency of AAK1 [108].
+4.4.4. Pan-AAK1 inhibitors
+4.4.3. Indazole derivatives Compound 63, a 2,6,9-heterotrisubstituted purine, was identified as
+The indazole SB-742864 (59) was identified as a semi-selective in- a potential inhibitor of multiple myeloma (MM) tumor cells. It may
+hibitor of AAK1 [109], and its affinity for AAK1 was well confirmed in target the JAK family, ABL proto-oncogene 1 (ABL1), and AAK1, and
+the split-luciferase assay. The indazole 3-substituent formed polar in- 52% of AAK1 treated with compound 63 was significantly inhibited
+teractions with the kinase hinge region, with small hydrocarbon chains according to quantitative PCR (qPCR) screening [112]. In addition,
+and rings or alkylamines on sulfonamides showed better AAK1 inhibi- compound 64 is a dual-target in
+
+Chunk 29:
+e 1 (ABL1), and AAK1, and
+the split-luciferase assay. The indazole 3-substituent formed polar in- 52% of AAK1 treated with compound 63 was significantly inhibited
+teractions with the kinase hinge region, with small hydrocarbon chains according to quantitative PCR (qPCR) screening [112]. In addition,
+and rings or alkylamines on sulfonamides showed better AAK1 inhibi- compound 64 is a dual-target inhibitor of liver kinase B1 (LKB1) and
+tion. Iterative optimization led to an analog 60 of SB-742864, which AAK1 that has been reported. Compound 65 can significantly inhibit the
+effectively and selectively inhibited AAK1 and BIKE. Further optimiza- phosphoinositide 3-kinase (PI3K) family of kinases, and the KINO-
+tion to improve selectivity resulted in SGC-AAK1-1 (61), which showed MEscan™ assay of DiscoverRx showed that it has a strong hit against
+good selectivity for a panel of 406 wild-type human protein kinases. AAK1 [113], which may become a hit compound targeting AAK1.
+Only a few other kinases were inhibited with dissociation constant
+values less than 30 times in the range of AAK1 [110]. Like the lead 5. Conclusions and perspectives
+compound 60, SGC-AAK1-1 inhibited AAK1-dependent AP2M1 phos-
+phorylation in HEK293T cells [43]. Opening the cyclopropyl carbox- AAK1 controls clathrin-mediated endocytosis, which is prevalent
+amide of compound 60 yielded the 2-methylpropionamide analog 62 throughout the body and particularly active in the CNS. As a cofactor for
+(SGC-AAK1-1N), which had no significant AAK1 or BIKE inhibitory ac- activated GABAA, it is widely involved in neurotransmission. The pri-
+tivity. Meanwhile, SGC-AAK1-1 (61) is an excellent probe candidate mary target of antiepileptic drugs is GABAA [114], which is the
+12
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c in a l C h e m i s t r y 248(2023)115102
+predominant GABA receptor [115]. AAK1 may diminish the expression Declaration of competing interest
+of GABAA downregulated by abnor
+
+Chunk 30:
+ission. The pri-
+tivity. Meanwhile, SGC-AAK1-1 (61) is an excellent probe candidate mary target of antiepileptic drugs is GABAA [114], which is the
+12
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c in a l C h e m i s t r y 248(2023)115102
+predominant GABA receptor [115]. AAK1 may diminish the expression Declaration of competing interest
+of GABAA downregulated by abnormal autophagy in epilepsy to a
+certain extent, being the key to developing novel clinical drugs. The authors declare that they have no known competing financial
+Furthermore, AAK1 is the downstream target of NDR1/2 and CDK16, interests or personal relationships that could have appeared to influence
+while NDR kinases [116,117] and CDK kinases [118,119] play a role in the work reported in this paper.
+cell proliferation and cell death, making AAK1 an effective target for the
+treatment of various cancers and tumors. Meanwhile, AAK1 can label Data availability
+the accumulation of T cells and has potential synergistic effects [63].
+AAK1 is involved in the regulation of the Notch pathway and the WNT No data was used for the research described in the article.
+pathway, which are tightly associated with cancer [120–122]. In
+particular, WNT-directed therapy represents an important develop- Acknowledgments
+mental therapeutic area. These pharmacological reports have further
+contributed to the investigation of how AAK1 is involved in the life of This review was supported by National Natural Science Foundation
+cancer cells [123], and provide an alternative option for cancer treat- of China (81903502, 22277083), and Natural Science Foundation of
+ment. At the same time, AAK1 has recently been discovered as a po- Sichuan Province (2022NSFSC1365, 2022NSFSC1187).
+tential therapeutic target to cure COVID-19 after SARS-CoV-2 infection
+[124], and a series of clinical trials have been conducted. In the treat- References
+ment of SARS-CoV-2-induced pneumonia, patients were given Bar-
+icitinib, in whi
+
+Chunk 31:
+02, 22277083), and Natural Science Foundation of
+ment. At the same time, AAK1 has recently been discovered as a po- Sichuan Province (2022NSFSC1365, 2022NSFSC1187).
+tential therapeutic target to cure COVID-19 after SARS-CoV-2 infection
+[124], and a series of clinical trials have been conducted. In the treat- References
+ment of SARS-CoV-2-induced pneumonia, patients were given Bar-
+icitinib, in which clinical and respiratory parameters were significantly [1] E.B. Sorensen, S.D. Conner, AAK1 regulates Numb function at an early step in
+clathrin-mediated endocytosis, Traffic 9 (2008) 1791–1800.
+improved [125]. In addition to the above-mentioned causes, the causes
+[2] F.J. Sorrell, M. Szklarz, K.R.A. Azeez, J.M. Elkins, S. Knapp, Family-wide
+of nerve pain include damage to the peripheral nervous system, such as structural analysis of human numb-associated protein kinases, Structure 24
+tumors, which can also be caused by HIV infection [126,127]. Involved (2016) 401–411.
+[3] E. Smythe, K.R. Ayscough, The Ark1/Prk1 family of protein kinases, EMBO Rep. 4
+in tumors and HIV, AAK1 is also an important component of the CNS
+(2003) 246–251.
+that regulates neurotransmitters and dendritic growth, indicating that [4] T. Takahashi, T. Furuchi, A. Naganuma, Endocytic Ark/Prk kinases play a critical
+AAK1 is worthy of further exploration in the treatment of neuropathic role in Adriamycin resistance in both yeast and mammalian cells, Cancer Res. 66
+(2006) 11932–11937.
+pain.
+[5] S.D. Conner, T. Schroter, S.L. Schmid, AAK1-mediated mu 2 phosphorylation is
+We summarize the progress of small molecule AAK1i in recent de- stimulated by assembled clathrin, Traffic 4 (2003) 885–890.
+cades, most of which are type I small molecule inhibitors, in other [6] S.D. Conner, S.L. Schmid, Identification of an adaptor-associated kinase, AAK1, as
+words, they are ATP-competitive inhibitors that still suffers from poor a regulator of clathrin-mediated endocytosis, JCB (J. Cell Biol.) 156 (2002)
+921–929.
+select
+
+Chunk 32:
+ AAK1i in recent de- stimulated by assembled clathrin, Traffic 4 (2003) 885–890.
+cades, most of which are type I small molecule inhibitors, in other [6] S.D. Conner, S.L. Schmid, Identification of an adaptor-associated kinase, AAK1, as
+words, they are ATP-competitive inhibitors that still suffers from poor a regulator of clathrin-mediated endocytosis, JCB (J. Cell Biol.) 156 (2002)
+921–929.
+selectivity [128,129]. Type III inhibitors (binding outside the [7] D.M. Henderson, S.D. Conner, A novel AAK1 splice variant functions at multiple
+ATP-binding site) can overcome the problem of weak selectivity, and steps of the endocytic Pathway, Mol. Biol. Cell 18 (2007) 2698–2706.
+their ability to stay on target for a long time provides space for [8] S.K. Ultanir, N.T. Hertz, G. Li, W.-P. Ge, A.L. Burlingame, S.J. Pleasure, K.
+M. Shokat, L.Y. Jan, Y.-N. Jan, Chemical genetic identification of NDR1/2 kinase
+improving efficacy [130]. There are some type III inhibitors designed
+substrates AAK1 and Rabin8 uncovers their roles in dendrite arborization and
+and approved by FDA, which show great strengths [131], such as spine development, Neuron 73 (2012) 1127–1142.
+Cobimetinib (a mitogen-activated extracellular signal-regulated kinase [9] S.N. Shehata, M. Deak, C. Collodet, S.F. Spiegl, S. Geley, D. Sumpton,
+K. Sakamoto, Identification of novel PCTAIRE-1/CDK16 substrates using a
+(MEK) 1/2 inhibitor, FDA) [132] and ARQ902 (a protein kinase B (PKB) chemical genetic screen, Cell. Signal. 59 (2019) 53–61.
+inhibitor) [133]. The specific ASCH sequence in AAK1 provides the [10] Y. Chen, X. Gao, H. Pei, miRNA-384-3p alleviates sevoflurane-induced nerve
+possibility of developing type III inhibitors [134]. Meanwhile, Cys193 in injury by inhibiting Aak1 kinase in neonatal rats, Brain and Behavior, 12 (2022)
+e2556.
+AAK1 provides a binding site for the development of covalent inhibitors,
+[11] G.J. Doherty, H.T. McMahon, Mechanisms of endocytosis, Annu. Rev. Biochem.
+which can well address kinase r
+
+Chunk 33:
+ei, miRNA-384-3p alleviates sevoflurane-induced nerve
+possibility of developing type III inhibitors [134]. Meanwhile, Cys193 in injury by inhibiting Aak1 kinase in neonatal rats, Brain and Behavior, 12 (2022)
+e2556.
+AAK1 provides a binding site for the development of covalent inhibitors,
+[11] G.J. Doherty, H.T. McMahon, Mechanisms of endocytosis, Annu. Rev. Biochem.
+which can well address kinase resistance [135]. Moreover, different 78 (2009) 857–902.
+chiral conformations of small molecules can bring great differences in [12] S. Watanabe, E. Boucrot, Fast and ultrafast endocytosis, Curr. Opin. Cell Biol. 47
+(2017) 64–71.
+potency [136]. In the case of AAK1, the amino side chain on the
+[13] H.T. McMahon, E. Boucrot, Molecular mechanism and physiological functions of
+S-configuration carbon atom brings better potency. Cytotoxicity is also a clathrin-mediated endocytosis, Nat. Rev. Mol. Cell Biol. 12 (2011) 517–533.
+non-negligible factor. Actively developing natural product-derived [14] P. Cossart, A. Helenius, Endocytosis of viruses and bacteria, Cold Spring Harbor
+drugs is conducive to the expansion of new drug scaffolds and the Perspect. Biol. 6 (2014).
+[15] A.I. Krahn, C. Wells, D.H. Drewry, L.K. Beitel, T.M. Durcan, A.D. Axtman,
+development of human-tolerated small molecule inhibitors, providing a Defining the neural kinome: strategies and opportunities for small molecule drug
+basis for their clinical application [137]. discovery to target neurodegenerative diseases, ACS Chem. Neurosci. 11 (2020)
+Although AAK1i is being extensively studied, there is no commer-
+1871–1886.
+[16] X. Fu, M. Ke, W. Yu, X. Wang, Q. Xiao, M. Gu, Y. Lu, Periodic variation of AAK1 in
+cially available inhibitor. When it comes to the development of AAK1i, an A beta(1-42)-induced mouse model of Alzheimer’s disease, J. Mol. Neurosci.
+there are three major challenges: I. It is difficult to achieve high selec- 65 (2018) 179–189.
+tivity of kinase inhibitors due to the high similarity of AAK1 to othe
+
+Chunk 34:
+6] X. Fu, M. Ke, W. Yu, X. Wang, Q. Xiao, M. Gu, Y. Lu, Periodic variation of AAK1 in
+cially available inhibitor. When it comes to the development of AAK1i, an A beta(1-42)-induced mouse model of Alzheimer’s disease, J. Mol. Neurosci.
+there are three major challenges: I. It is difficult to achieve high selec- 65 (2018) 179–189.
+tivity of kinase inhibitors due to the high similarity of AAK1 to other [17] B. Shi, S.D. Conner, J. Liu, Dysfunction of endocytic kinase AAK1 in ALS, Int. J.
+Mol. Sci. 15 (2014) 22918–22932.
+members of the NAK family; II. Although AAK1i can effectively bind to
+[18] J.C. Latourelle, N. Pankratz, A. Dumitriu, J.B. Wilk, S. Goldwurm, G. Pezzoli, C.
+substrates through hydrogen bonds and hydrophobic interactions, they B. Mariani, A.L. DeStefano, C. Halter, J.F. Gusella, W.C. Nichols, R.H. Myers,
+still suffer from poor metabolic stability and poor blood-brain barrier T. Foroud, P.P.G. Investigators, Genomewide association study for onset age in
+Parkinson disease, BMC Med. Genet. 10 (2009).
+(BBB) permeability; III. We need to clarify the variable configuration
+[19] T. Pillaiyar, S. Laufer, Kinases as potential therapeutic targets for anti-coronaviral
+sites of AAK1 to promote the development of specific inhibitors. In therapy, J. Med. Chem. 65 (2022) 955–982.
+summary, further in-depth study on the interaction between AAK1 [20] B. Martinez-Gualda, D. Schols, S. De Jonghe, A patent review of adaptor
+associated kinase 1 (AAK1) inhibitors (2013-present), Expert Opin. Ther. Pat. 31
+typical structural domain binding sites and inhibitors will provide a
+(2021) 911–936.
+series of support and guidance for the development of more effective [21] C. Gil, T. Ginex, I. Maestro, V. Nozal, L. Barrado-Gil, M.A ´ . Cuesta-Geijo,
+AAK1i [123]. The biological function of AAK1 as well as the J. Urquiza, D. Ramírez, C. Alonso, N.E. Campillo, A. Martinez, COVID-19: drug
+high-resolution structure of the protein need to be further investigated. targets and potential treatment
+
+Chunk 35:
+936.
+series of support and guidance for the development of more effective [21] C. Gil, T. Ginex, I. Maestro, V. Nozal, L. Barrado-Gil, M.A ´ . Cuesta-Geijo,
+AAK1i [123]. The biological function of AAK1 as well as the J. Urquiza, D. Ramírez, C. Alonso, N.E. Campillo, A. Martinez, COVID-19: drug
+high-resolution structure of the protein need to be further investigated. targets and potential treatments, J. Med. Chem. 63 (2020) 12359–12386.
+[22] J. Stebbing, A. Phelan, I. Griffin, C. Tucker, O. Oechsle, D. Smith, P. Richardson,
+In the past decades, a small number of inhibitors against AAK1 have COVID-19: combining antiviral and anti-inflammatory treatments, Lancet Infect.
+been reported. Although their development may face many challenges, Dis. 20 (2020) 400.
+it is highly expected that more AAK1-specific inhibitors with favorable [23] F. Cantini, L. Niccoli, D. Matarrese, E. Nicastri, P. Stobbione, D. Goletti,
+Baricitinib therapy in COVID-19: a pilot study on safety and clinical impact,
+potency will be discovered, and allow the expansion of their clinical
+J. Infect. 81 (2020) 318.
+applications to human multifaceted diseases.
+13
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+[24] L. Caly, J.D. Druce, M.G. Catton, D.A. Jans, K.M. Wagstaff, The FDA-approved [45] W.-K. Yang, Y.-H. Peng, H. Li, H.-C. Lin, Y.-C. Lin, T.-T. Lai, H. Suo, C.-H. Wang,
+drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro, Antivir. Res. 178 W.-H. Lin, C.-Y. Ou, X. Zhou, H. Pi, Henry C. Chang, C.-T. Chien, Nak regulates
+(2020), 104787. localization of clathrin sites in higher-order dendrites to promote local dendrite
+[25] S. Xia, M. Liu, C. Wang, W. Xu, Q. Lan, S. Feng, F. Qi, L. Bao, L. Du, S. Liu, C. Qin, growth, Neuron 72 (2011) 285–299.
+F. Sun, Z. Shi, Y. Zhu, S. Jiang, L. Lu, Inhibition of SARS-CoV-2 (previously 2019- [46] I. Ferando, G.C. Faas, I. Mody, Diminished KCC2 confounds synapse specificity of
+nCoV) infect
+
+Chunk 36:
+ 104787. localization of clathrin sites in higher-order dendrites to promote local dendrite
+[25] S. Xia, M. Liu, C. Wang, W. Xu, Q. Lan, S. Feng, F. Qi, L. Bao, L. Du, S. Liu, C. Qin, growth, Neuron 72 (2011) 285–299.
+F. Sun, Z. Shi, Y. Zhu, S. Jiang, L. Lu, Inhibition of SARS-CoV-2 (previously 2019- [46] I. Ferando, G.C. Faas, I. Mody, Diminished KCC2 confounds synapse specificity of
+nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its LTP during senescence, Nat. Neurosci. 19 (2016) 1197–1200.
+spike protein that harbors a high capacity to mediate membrane fusion, Cell Res. [47] H.U. Zeilhofer, W.T. Ralvenius, M.A. Acun˜a, Chapter four - restoring the spinal
+30 (2020) 343. pain gate: GABAA receptors as targets for novel analgesics, in: U. Rudolph (Ed.),
+[26] M. Punekar, M. Kshirsagar, C. Tellapragada, K. Patil, Repurposing of antiviral Advances in Pharmacology, Academic Press, 2015, pp. 71–96.
+drugs for COVID-19 and impact of repurposed drugs on the nervous system, [48] W.A. Ray, C.P. Chung, K.T. Murray, K. Hall, C.M. Stein, Prescription of long-
+Microbial Pathogenesis 168 (2022) 105608. acting opioids and mortality in patients with chronic noncancer pain, JAMA 315
+[27] R. Raghuvanshi, S.B. Bharate, Recent developments in the use of kinase inhibitors (2016) 2415–2423.
+for management of viral infections, J. Med. Chem. 65 (2022) 893–921. [49] E.M. Hoffman, J.C. Watson, J. St Sauver, N.P. Staff, C.J. Klein, Association of
+[28] E. Bekerman, G. Neveu, A. Shulla, J. Brannan, S.-Y. Pu, S. Wang, F. Xiao, long-term opioid therapy with functional status, adverse outcomes, and mortality
+R. Barouch-Bentov, R.R. Bakken, R. Mateo, J. Govero, C.M. Nagamine, M. among patients with polyneuropathy, JAMA Neurol. 74 (2017) 773–779.
+S. Diamond, S. De Jonghe, P. Herdewijn, J.M. Dye, G. Randall, S. Einav, [50] C.J. Hayhurst, M.E. Durieux, Differential opioid tolerance and opioid-induced
+Anticancer kinase inhibitors impair intracellular viral trafficking and ex
+
+Chunk 37:
+adverse outcomes, and mortality
+R. Barouch-Bentov, R.R. Bakken, R. Mateo, J. Govero, C.M. Nagamine, M. among patients with polyneuropathy, JAMA Neurol. 74 (2017) 773–779.
+S. Diamond, S. De Jonghe, P. Herdewijn, J.M. Dye, G. Randall, S. Einav, [50] C.J. Hayhurst, M.E. Durieux, Differential opioid tolerance and opioid-induced
+Anticancer kinase inhibitors impair intracellular viral trafficking and exert broad- hyperalgesia: a clinical reality, Anesthesiology 124 (2016) 483–488.
+spectrum antiviral effects, J. Clin. Invest. 127 (2017) 1338–1352. [51] D.B. Rosoff, G.D. Smith, F.W. Lohoff, Prescription opioid use and risk for major
+[29] W. Kostich, B.D. Hamman, Y.-W. Li, S. Naidu, K. Dandapani, J. Feng, A. Easton, depressive disorder and anxiety and stress-related disorders: a multivariable
+C. Bourin, K. Baker, J. Allen, K. Savelieva, J.V. Louis, M. Dokania, S. Elavazhagan, mendelian randomization analysis, JAMA Psychiatr. 78 (2021) 151–160.
+P. Vattikundala, V. Sharma, M.L. Das, G. Shankar, A. Kumar, V.K. Holenarsipur, [52] A.D. Kaye, E.M. Cornett, B. Hart, S. Patil, A. Pham, M. Spalitta, K.F. Mancuso,
+M. Gulianello, T. Molski, J.M. Brown, M. Lewis, Y. Huang, Y. Lu, R. Pieschl, Novel pharmacological nonopioid therapies in chronic pain, Curr. Pain Headache
+K. O’Malley, J. Lippy, A. Nouraldeen, T.H. Lanthorn, G. Ye, A. Wilson, Rep. (2018) 22.
+A. Balakrishnan, R. Denton, J.E. Grace, K.A. Lentz, K.S. Santone, Y. Bi, A. Main, [53] Y. Fang, J. Wang, M. Zhao, Q. Zheng, C. Ren, Y. Wang, J. Zhang, Progress and
+J. Swaffield, K. Carson, S. Mandlekar, R.K. Vikramadithyan, S.J. Nara, C. Dzierba, challenges in targeted protein degradation for neurodegenerative disease therapy,
+J. Bronson, J.E. Macor, R. Zaczek, R. Westphal, L. Kiss, L. Bristow, C.M. Conway, J. Med. Chem. 65 (2022) 11454–11477.
+B. Zambrowicz, C.F. Albright, Inhibition of AAK1 kinase as a novel therapeutic [54] S. Schmid, B. Jungwirth, V. Gehlert, M. Blobner, G. Schneider, S. Kratzer,
+approach to treat neuropathic pain, J
+
+Chunk 38:
+a, challenges in targeted protein degradation for neurodegenerative disease therapy,
+J. Bronson, J.E. Macor, R. Zaczek, R. Westphal, L. Kiss, L. Bristow, C.M. Conway, J. Med. Chem. 65 (2022) 11454–11477.
+B. Zambrowicz, C.F. Albright, Inhibition of AAK1 kinase as a novel therapeutic [54] S. Schmid, B. Jungwirth, V. Gehlert, M. Blobner, G. Schneider, S. Kratzer,
+approach to treat neuropathic pain, J. Pharmacol. Exp. Therapeut. 358 (2016) K. Kellermann, G. Rammes, Intracerebroventricular injection of beta-amyloid in
+371–386. mice is associated with long-term cognitive impairment in the modified hole-
+[30] S. Verdonck, S.Y. Pu, F.J. Sorrell, J.M. Elkins, M. Froeyen, L.J. Gao, L.I. Prugar, D. board test, Behav. Brain Res. 324 (2017) 15–20.
+E. Dorosky, J.M. Brannan, R. Barouch-Bentov, S. Knapp, J.M. Dye, P. Herdewijn, [55] A. Brice, α-Synuclein gene and Parkinson’s disease, Science 279 (1998)
+S. Einav, S. De Jonghe, Synthesis and structure–activity relationships of 3, 5- 1113–1117.
+disubstituted-pyrrolo [2, 3-b] pyridines as inhibitors of adaptor-associated kinase [56] K. Zhang, S. Zhu, J. Li, T. Jiang, L. Feng, J. Pei, G. Wang, L. Ouyang, B. Liu,
+1 with antiviral activity, J. Med. Chem. 62 (2019) 5810. Targeting autophagy using small-molecule compounds to improve potential
+[31] C. Yuan, K. Ai, M. Xiang, C. Xie, M. Zhao, M. Wu, H. Li, Y. Wu, Y. Cao, C. Li, therapy of Parkinson’s disease, Acta Pharm. Sin. B 11 (2021) 3015.
+Y. Zhong, X. Pei, H.K.W. Law, L. Gao, Q. Xiao, X. Yang, Novel 1-hydroxy [57] Y. Zhang, M. James, F.A. Middleton, R.L. Davis, Transcriptional analysis of
+phenothiazinium-based derivative protects against bacterial sepsis by inhibiting multiple brain regions in Parkinson’s disease supports the involvement of specific
+AAK1-mediated LPS internalization and caspase-11 signaling, Cell Death Dis. 13 protein processing, energy metabolism, and signaling pathways, and suggests
+(2022) 722. novel disease mechanisms, Am. J. Med. Genet. Part B: Neuropsychiatric Geneti
+
+Chunk 39:
+iazinium-based derivative protects against bacterial sepsis by inhibiting multiple brain regions in Parkinson’s disease supports the involvement of specific
+AAK1-mediated LPS internalization and caspase-11 signaling, Cell Death Dis. 13 protein processing, energy metabolism, and signaling pathways, and suggests
+(2022) 722. novel disease mechanisms, Am. J. Med. Genet. Part B: Neuropsychiatric Genetics
+[32] L. Farnung, S.M. Vos, C. Wigge, P. Cramer, Nucleosome–Chd1 structure and 137B (2005) 5–16.
+implications for chromatin remodelling, Nature 550 (2017) 539–542. [58] D.R. Rosen, T. Siddique, D. Patterson, D.A. Figlewicz, P. Sapp, A. Hentati,
+[33] S. Rao, D. Gurbani, G. Du, R.A. Everley, C.M. Browne, A. Chaikuad, L. Tan, D. Donaldson, J. Goto, J.P. O’Regan, H.-X. Deng, Z. Rahmani, A. Krizus,
+M. Schroeder, S. Gondi, S.B. Ficarro, T. Sim, N.D. Kim, M.J. Berberich, S. Knapp, D. McKenna-Yasek, A. Cayabyab, S.M. Gaston, R. Berger, R.E. Tanzi, J.
+J.A. Marto, K.D. Westover, P.K. Sorger, N.S. Gray, Leveraging compound J. Halperin, B. Herzfeldt, R. Van den Bergh, W.-Y. Hung, T. Bird, G. Deng, D.
+promiscuity to identify targetable cysteines within the kinome, Cell Chemical W. Mulder, C. Smyth, N.G. Laing, E. Soriano, M.A. Pericak–Vance, J. Haines, G.
+Biology 26 (2019) 818(. -+). A. Rouleau, J.S. Gusella, H.R. Horvitz, R.H. Brown, Mutations in Cu/Zn
+[34] S.D. Conner, S.L. Schmid, The adaptor-associated kinase, AAK1, regulates cargo superoxide dismutase gene are associated with familial amyotrophic lateral
+selection by AP2 complexes, Mol. Biol. Cell 13 (2002), 95A-95A. sclerosis, Nature 362 (1993) 59–62.
+[35] J.J. Kim, R.E. Hibbs, Direct structural insights into GABAA receptor [59] A. Baldwin, W. Li, M. Grace, J. Pearlberg, E. Harlow, K. Münger, D.
+pharmacology, Trends Biochem. Sci. 46 (2021) 502–517. A. Grueneberg, Kinase requirements in human cells: II. Genetic interaction
+[36] D. Dorosky, L.I. Prugar, S. Pu, C. O’Brien, R. Bakken, S. De Jonghe, P. Herdewijn, screens identify kin
+
+Chunk 40:
+2 (1993) 59–62.
+[35] J.J. Kim, R.E. Hibbs, Direct structural insights into GABAA receptor [59] A. Baldwin, W. Li, M. Grace, J. Pearlberg, E. Harlow, K. Münger, D.
+pharmacology, Trends Biochem. Sci. 46 (2021) 502–517. A. Grueneberg, Kinase requirements in human cells: II. Genetic interaction
+[36] D. Dorosky, L.I. Prugar, S. Pu, C. O’Brien, R. Bakken, S. De Jonghe, P. Herdewijn, screens identify kinase requirements following HPV16 E7 expression in cancer
+J. Brannan, J.M. Dye, S. Einav, AAK1 and GAK inhibitors demonstrate activity cells, Proc. Natl. Acad. Sci. USA 105 (2008) 16478–16483.
+against Filoviruses, J. Immunol. (2018) 200. [60] J.M. White, G.R. Whittaker, Fusion of enveloped viruses in endosomes, Traffic 17
+[37] S. Pu, S. Schor, M. Karim, S. Saul, M. Robinson, S. Kumar, L.I. Prugar, D. (2016) 593–614.
+E. Dorosky, J. Brannan, J.M. Dye, S. Einav, BIKE Regulates Dengue Virus [61] D. Eshel, I. Miyara, T. Ailing, A. Dinoor, D. Prusky, pH regulates endoglucanase
+Infection and Is a Cellular Target for Broad-Spectrum Antivirals, vol. 184, expression and virulence of Alternaria alternata persimmon fruit, Mol. Plant
+Antiviral Research, 2020. Microbe Interact. 15 (2002) 774–779.
+[38] K.R. Henry, K. D’Hondt, J.S. Chang, D.A. Nix, M. Cope, C.S.M. Chan, D.G. Drubin, [62] P. Richardson, I. Griffin, C. Tucker, D. Smith, O. Oechsle, A. Phelan, M. Rawling,
+S.K. Lemmon, The actin-regulating kinase Prk1p negatively regulates Scd5p, a E. Savory, J. Stebbing, Baricitinib as potential treatment for 2019-nCoV acute
+suppressor of clathrin deficiency, in actin organization and endocytosis, Curr. respiratory disease, Lancet 395 (2020) e30–e31.
+Biol. 13 (2003) 1564–1569. [63] R. Lu, X. Zhao, J. Li, P. Niu, B. Yang, H. Wu, W. Wang, H. Song, B. Huang, N. Zhu,
+[39] L. Kuai, S.-E. Ong, J.M. Madison, X. Wang, J.R. Duvall, T.A. Lewis, C.J. Luce, S. Y. Bi, X. Ma, F. Zhan, L. Wang, T. Hu, H. Zhou, Z. Hu, W. Zhou, L. Zhao, J. Chen,
+D. Conner, D.A. Pearlman, J.L. Wood, S.L. Schreiber, S.A. Carr, E
+
+Chunk 41:
+r. respiratory disease, Lancet 395 (2020) e30–e31.
+Biol. 13 (2003) 1564–1569. [63] R. Lu, X. Zhao, J. Li, P. Niu, B. Yang, H. Wu, W. Wang, H. Song, B. Huang, N. Zhu,
+[39] L. Kuai, S.-E. Ong, J.M. Madison, X. Wang, J.R. Duvall, T.A. Lewis, C.J. Luce, S. Y. Bi, X. Ma, F. Zhan, L. Wang, T. Hu, H. Zhou, Z. Hu, W. Zhou, L. Zhao, J. Chen,
+D. Conner, D.A. Pearlman, J.L. Wood, S.L. Schreiber, S.A. Carr, E.M. Scolnick, S. Y. Meng, J. Wang, Y. Lin, J. Yuan, Z. Xie, J. Ma, W.J. Liu, D. Wang, W. Xu, E.
+J. Haggarty, AAK1 identified as an inhibitor of neuregulin-1/ErbB4-dependent C. Holmes, G.F. Gao, G. Wu, W. Chen, W. Shi, W. Tan, Genomic characterisation
+neurotrophic factor signaling using integrative chemical genomics and and epidemiology of 2019 novel coronavirus: implications for virus origins and
+proteomics, Chem. Biol. 18 (2011) 891–906. receptor binding, Lancet 395 (2020) 565–574.
+[40] D. MacGrogan, J. Münch, J.L. de la Pompa, Notch and interacting signalling [64] B. Tang, J. Zhu, Y. Cong, W. Yang, C. Kong, W. Chen, Y. Wang, Y. Zeng, J. Ji, The
+pathways in cardiac development, disease, and regeneration, Nat. Rev. Cardiol. landscape of coronavirus disease 2019 (COVID-19) and integrated analysis SARS-
+15 (2018) 685–704. CoV-2 receptors and potential inhibitors in lung adenocarcinoma patients, Front.
+[41] N. Gupta-Rossi, S. Ortica, V. Meas-Yedid, S. Heuss, J. Moretti, J.-C. Olivo-Marin, Cell Dev. Biol. 8 (2020).
+A. Israel, The adaptor-associated kinase 1, AAK1, is a positive regulator of the [65] G. Moreno-Gonzalez, A. Mussetti, A. Albasanz-Puig, I. Salvador, A. Sureda,
+Notch pathway, J. Biol. Chem. 286 (2011) 18720–18730. C. Gudiol, R. Salazar, M. Marin, M. Garcia, V. Navarro, I. de la Haba Vaca,
+[42] C. Chen, C.-H. Chu, Y. Chu, T.-Y. Chang, S.-W. Chen, S.-Y. Liang, Y.-C. Tsai, B.- E. Coma, G. Sanz-Linares, X. Dura, S. Fontanals, G. Serrano, C. Cruz, R. Manez,
+C. Chen, H.-L. Tu, P.-L. Cheng, Neuronal paxillin and drebrin mediate BDNF- A Phase I/II Clinical Trial to evaluate
+
+Chunk 42:
+y, J. Biol. Chem. 286 (2011) 18720–18730. C. Gudiol, R. Salazar, M. Marin, M. Garcia, V. Navarro, I. de la Haba Vaca,
+[42] C. Chen, C.-H. Chu, Y. Chu, T.-Y. Chang, S.-W. Chen, S.-Y. Liang, Y.-C. Tsai, B.- E. Coma, G. Sanz-Linares, X. Dura, S. Fontanals, G. Serrano, C. Cruz, R. Manez,
+C. Chen, H.-L. Tu, P.-L. Cheng, Neuronal paxillin and drebrin mediate BDNF- A Phase I/II Clinical Trial to evaluate the efficacy of baricitinib to prevent
+induced force transduction and growth cone turning in a soft-tissue-like respiratory insufficiency progression in onco-hematological patients affected with
+environment, Cell Rep. 40 (2022), 111188. COVID19: a structured summary of a study protocol for a randomised controlled
+[43] M.J. Agajanian, M.P. Walker, A.D. Axtman, R.R. Ruela-de-Sousa, D.S. Serafin, A. trial, Trials (2021) 22.
+D. Rabinowitz, D.M. Graham, M.B. Ryan, T. Tamir, Y. Nakamichi, M. [66] J. Huang, C. Zhou, J. Deng, J. Zhou, JAK inhibition as a new treatment strategy
+V. Gammons, J.M. Bennett, R.M. Counago, D.H. Drewry, J.M. Elkins, C. Gileadi, for patients with COVID-19, Biochem. Pharmacol. 202 (2022), 115162-115162.
+O. Gileadi, P.H. Godoi, N. Kapadia, S. Mueller, A.S. Santiago, F.J. Sorrell, C. [67] G. Neveu, A. Ziv-Av, R. Barouch-Bentov, E. Berkerman, J. Mulholland, S. Einav,
+I. Wells, O. Fedorov, T.M. Willson, W.J. Zuercher, M.B. Major, WNT activates the AAK1 and GAK regulate hepatitis C virus entry and are potential drug targets,
+AAK1 kinase to promote clathrin-mediated endocytosis of LRP6 and establish a J. Virol. 89 (2015) 4387.
+negative feedback loop, Cell Rep. 26 (2019) 79 (+). [68] G. Neveu, A. Ziv-Av, R. Barouch-Bentov, E. Berkerman, J. Mulholland, S. Einav,
+[44] R. Nusse, H. Clevers, Wnt/β-Catenin signaling, disease, and emerging therapeutic AP-2-Associated protein kinase 1 and cyclin G-associated kinase regulate hepatitis
+modalities, Cell 169 (2017) 985–999. C virus entry and are potential drug targets, J. Virol. 89 (2015) 4387–4404.
+14
+
+---PAGE BREAK---
+
+X. 
+
+Chunk 43:
+79 (+). [68] G. Neveu, A. Ziv-Av, R. Barouch-Bentov, E. Berkerman, J. Mulholland, S. Einav,
+[44] R. Nusse, H. Clevers, Wnt/β-Catenin signaling, disease, and emerging therapeutic AP-2-Associated protein kinase 1 and cyclin G-associated kinase regulate hepatitis
+modalities, Cell 169 (2017) 985–999. C virus entry and are potential drug targets, J. Virol. 89 (2015) 4387–4404.
+14
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c i n a l C h e m i s t r y 248(2023)115102
+[69] J. Diao, H. Pantua, H. Ngu, L. Komuves, L. Diehl, G. Schaefer, S.B. Kapadia, [88] R.A. Hartz, V.T. Ahuja, S.J. Nara, C.M.V. Kumar, R.K.V.L.P. Manepalli, S.
+Hepatitis C virus induces epidermal growth factor receptor activation via CD81 K. Sarvasiddhi, S. Honkhambe, V. Patankar, B. Dasgupta, R. Rajamani, J.
+binding for viral internalization and entry, J. Virol. 86 (2012) 10935–10949. K. Muckelbauer, D.M. Camac, K. Ghosh, M. Pokross, S.E. Kiefer, J.M. Brown,
+[70] C. Wang, J. Wang, L. Shuai, X. Ma, H. Zhang, R. Liu, W. Chen, X. Wang, J. Ge, L. Hunihan, M. Gulianello, M. Lewis, J.S. Lippy, N. Surti, B.D. Hamman, J. Allen,
+Z. Wen, Z. Bu, The serine/threonine kinase AP2-associated kinase 1 plays an W.A. Kostich, J.J. Bronson, J.E. Macor, C.D. Dzierba, Bicyclic heterocyclic
+important role in rabies virus entry, Viruses-Basel 12 (2020). replacement of an aryl amide leading to potent and kinase-selective adaptor
+[71] J. Luo, Y. Zhang, Y. Wang, Q. Liu, L. Chen, B. Zhang, Y. Luo, S. Huang, X. Guo, protein 2-associated kinase 1 inhibitors, J. Med. Chem. 65 (2022) 4121–4155.
+Rhabdovirus infection is dependent on serine/threonine kinase AP2-associated [89] J.V. Louis, Y. Lu, R. Pieschl, Y. Tian, Y. Hong, K. Dandapani, S. Naidu, R.
+kinase 1, Life 10 (2020) 170. K. Vikramadithyan, C. Dzierba, S.K. Sarvasiddhi, S.J. Nara, J. Bronson, J.
+[72] S.Y. Pu, F. Xiao, S. Schor, E. Bekerman, F. Zanini, R. Barouch-Bentov, C. E. Macor, C. Albright, W. Kostich, Y.-W. Li, H-3 BMT-046091 a potent and
+M. Na
+
+Chunk 44:
+n is dependent on serine/threonine kinase AP2-associated [89] J.V. Louis, Y. Lu, R. Pieschl, Y. Tian, Y. Hong, K. Dandapani, S. Naidu, R.
+kinase 1, Life 10 (2020) 170. K. Vikramadithyan, C. Dzierba, S.K. Sarvasiddhi, S.J. Nara, J. Bronson, J.
+[72] S.Y. Pu, F. Xiao, S. Schor, E. Bekerman, F. Zanini, R. Barouch-Bentov, C. E. Macor, C. Albright, W. Kostich, Y.-W. Li, H-3 BMT-046091 a potent and
+M. Nagamine, S. Einav, Feasibility and biological rationale of repurposing selective radioligand to determine AAK1 distribution and target engagement,
+sunitinib and erlotinib for dengue treatment, Antivir. Res. 155 (2018) 67. Neuropharmacology 118 (2017) 167–174.
+[73] E. Bekerman, G. Neveu, A. Shulla, J. Brannan, S.Y. Pu, S. Wang, F. Xiao, [90] E. Bekerman, S. Einav, Combating emerging viral threats, Science 348 (2015)
+R. Barouch-Bentov, R.R. Bakken, R. Mateo, J. Govero, C.M. Nagamine, M. 282–283.
+S. Diamond, S. De Jonghe, P. Herdewijn, J.M. Dye, G. Randall, S. Einav, [91] P. Bamborough, D. Drewry, G. Harper, G.K. Smith, K. Schneider, Assessment of
+Anticancer kinase inhibitors impair intracellular viral trafficking and exert broad- chemical coverage of kinome space and its implications for kinase drug discovery,
+spectrum antiviral effects, J. Clin. Invest. 127 (2017) 1338. J. Med. Chem. 51 (2008) 7898–7914.
+[74] L.M. Rogers, Z. Wang, S.L. Mott, A.J. Dupuy, G.J. Weiner, A genetic screen to [92] S. Verdonck, S.-Y. Pu, F.J. Sorrell, J.M. Elkins, M. Froeyen, L.-J. Gao, L.I. Prugar,
+identify gain- and loss-of-function modifications that enhance T-cell infiltration D.E. Dorosky, J.M. Brannan, R. Barouch-Bentov, S. Knapp, J.M. Dye,
+into tumors, Cancer Immunol. Res. 8 (2020) 1206–1214. P. Herdewijn, S. Einav, S. De Jonghe, Synthesis and structure-activity
+[75] T. Pan, Y. He, H. Chen, J. Pei, Y. Li, R. Zeng, J. Xia, Y. Zuo, L. Qin, S. Chen, relationships of 3,5-Disubstituted-pyrrolo 2,3-b pyridines as inhibitors of adaptor-
+L. Xiao, H. Zhou, Identification and validation of a prognostic 
+
+Chunk 45:
+ R. Barouch-Bentov, S. Knapp, J.M. Dye,
+into tumors, Cancer Immunol. Res. 8 (2020) 1206–1214. P. Herdewijn, S. Einav, S. De Jonghe, Synthesis and structure-activity
+[75] T. Pan, Y. He, H. Chen, J. Pei, Y. Li, R. Zeng, J. Xia, Y. Zuo, L. Qin, S. Chen, relationships of 3,5-Disubstituted-pyrrolo 2,3-b pyridines as inhibitors of adaptor-
+L. Xiao, H. Zhou, Identification and validation of a prognostic gene signature for associated kinase 1 with antiviral activity, J. Med. Chem. 62 (2019) 5810–5831.
+diffuse large B-cell lymphoma based on tumor microenvironment-related genes, [93] D. Cunningham, E. Plow, D. Allexandre, B.I. Rini, M.P. Davis, Neurophysiological
+Front. Oncol. 11 (2021). changes: sunitinib fatigue severity, J. Clin. Oncol. 34 (2016), e21683-e21683.
+[76] T. Liu, Y. Wang, J. Wang, C. Ren, H. Chen, J. Zhang, DYRK1A inhibitors for [94] M.C. Genovese, J. Kremer, O. Zamani, C. Ludivico, M. Krogulec, L. Xie, S.
+disease therapy: current status and perspectives, Eur. J. Med. Chem. 229 (2022), D. Beattie, A.E. Koch, T.E. Cardillo, T.P. Rooney, W.L. Macias, S. de Bono, D.
+114062. E. Schlichting, J.S. Smolen, Baricitinib in patients with refractory rheumatoid
+[77] Z. Zhao, H. Wu, L. Wang, Y. Liu, S. Knapp, Q. Liu, N.S. Gray, Exploration of type II arthritis, N. Engl. J. Med. 374 (2016) 1243–1252.
+binding mode: a privileged approach for kinase inhibitor focused drug discovery? [95] T.N. Hoang, M. Pino, A.K. Boddapati, E.G. Viox, C.E. Starke, A.A. Upadhyay,
+ACS Chem. Biol. 9 (2014) 1230–1241. S. Gumber, K. Busman-Sahay, Z. Strongin, J.L. Harper, G.K. Tharp, K.L. Pellegrini,
+[78] Y. Liu, N.S. Gray, Rational design of inhibitors that bind to inactive kinase S. Kirejczyk, K. Zandi, S. Tao, T.R. Horton, E.N. Beagle, E.A. Mahar, M.Y. Lee,
+conformations, Nat. Chem. Biol. 2 (2006) 358–364. J. Cohen, S.M. Jean, J.S. Wood, F. Connor-Stroud, R.L. Stammen, O.M. Delmas,
+[79] J. Zhang, L. Zhang, J. Wang, L. Ouyang, Y. Wang, Polo-like kinase 1 inhibitors in S. Wang, K.A. Cooney, M.N. Sa
+
+Chunk 46:
+. Liu, N.S. Gray, Rational design of inhibitors that bind to inactive kinase S. Kirejczyk, K. Zandi, S. Tao, T.R. Horton, E.N. Beagle, E.A. Mahar, M.Y. Lee,
+conformations, Nat. Chem. Biol. 2 (2006) 358–364. J. Cohen, S.M. Jean, J.S. Wood, F. Connor-Stroud, R.L. Stammen, O.M. Delmas,
+[79] J. Zhang, L. Zhang, J. Wang, L. Ouyang, Y. Wang, Polo-like kinase 1 inhibitors in S. Wang, K.A. Cooney, M.N. Sayegh, L. Wang, D. Weiskopf, P.D. Filev,
+human cancer therapy: development and therapeutic potential, J. Med. Chem. 65 J. Waggoner, A. Piantadosi, S.P. Kasturi, H.A. Shakhshir, S.P. Ribeiro, R.P. Sekaly,
+(2022) 10133–10160. R.D. Levit, J.D. Estes, T.H. Vanderford, R.F. Schinazi, S.E. Bosinger, M. Paiardini,
+[80] R.A. Hartz, V.T. Ahuja, S.J. Nara, C.M.V. Kumar, J.M. Brown, L.J. Bristow, Baricitinib treatment resolves lower airway inflammation and neutrophil
+R. Rajamani, J.K. Muckelbauer, D. Camac, S.E. Kiefer, L. Hunihan, M. Gulianello, recruitment in SARS-CoV-2-infected rhesus macaques, Cell 184 (2021) 460.
+M. Lewis, A. Easton, J.S. Lippy, N. Surti, S.N. Pattipati, M. Dokania, [96] Fedratinib becomes new option in myelofibrosis, Cancer Discov. 9 (2019), 1332-
+S. Elavazhagan, K. Dandapani, B.D. Hamman, J. Allen, W. Kostich, J.J. Bronson, 1332.
+J.E. Macor, C.D. Dzierba, Discovery, structure-activity relationships, and in vivo [97] P. Kar, M.M. Saleh-E-In, N. Jaishee, A. Anandraj, E. Kormuth, B. Vellingiri,
+evaluation of novel aryl amides as brain penetrant adaptor protein 2-associated C. Angione, P.K.S.M. Rahman, S. Pillay, A. Sen, D. Naidoo, A. Roy, Y.E. Choi,
+kinase 1 (AAK1) inhibitors for the treatment of neuropathic pain, J. Med. Chem. Computational profiling of natural compounds as promising inhibitors against the
+64 (2021) 11090–11128. spike proteins of SARS-CoV-2 wild-type and the variants of concern, viral cell-
+[81] G. Luo, L. Chen, W.A. Kostich, B. Hamman, J. Allen, A. Easton, C. Bourin, entry process, and cytokine storm in COVID-19, J. Cell. Biochem. 123 (2022)
+M. G
+
+Chunk 47:
+ors for the treatment of neuropathic pain, J. Med. Chem. Computational profiling of natural compounds as promising inhibitors against the
+64 (2021) 11090–11128. spike proteins of SARS-CoV-2 wild-type and the variants of concern, viral cell-
+[81] G. Luo, L. Chen, W.A. Kostich, B. Hamman, J. Allen, A. Easton, C. Bourin, entry process, and cytokine storm in COVID-19, J. Cell. Biochem. 123 (2022)
+M. Gulianello, J. Lippy, S. Nara, T.K. Maishal, K. Thiyagarajan, P. Jalagam, S. 964–986.
+N. Pattipati, K. Dandapani, M. Dokania, P. Vattikundala, V. Sharma, [98] F. Bu, J. Zhang, W. Shuai, J. Liu, Q. Sun, L. Ouyang, Repurposing drugs in
+S. Elavazhagan, M.K. Verma, M.L. Das, S. Wagh, A. Balakrishnan, B.M. Johnson, autophagy for the treatment of cancer: from bench to bedside, Drug Discov.
+K.S. Santone, G. Thalody, R. Denton, H. Saminathan, V.K. Holenarsipur, Today 27 (2022) 1815–1831.
+A. Kumar, A. Rao, S.P. Putlur, S.K. Sarvasiddhi, G. Shankar, J.V. Louis, [99] J. Baselga, Targeting tyrosine kinases in cancer: the second wave, Science 312
+M. Ramarao, C.M. Conway, Y.-W. Li, R. Pieschl, Y. Tian, Y. Hong, J. Ditta, (2006) 1175–1178.
+A. Mathur, J. Li, D. Smith, J. Pawluczyk, D. Sun, S. Yip, D.-R. Wu, [100] J.S. Sebolt-Leopold, J.M. English, Mechanisms of drug inhibition of signalling
+M. Vetrichelvan, A. Gupta, A. Wilson, S. Gopinathan, S. Wason, L. Bristow, C. molecules, Nature 441 (2006) 457–462.
+F. Albright, J.J. Bronson, J.E. Macor, C.D. Dzierba, Discovery of (S)-1-((2 ’,6-Bis [101] K.-H. Lee, S.-E. Kim, Y.-S. Lee, SP600125, a selective JNK inhibitor, aggravates
+(difluoromethyl)- 2,4 ’-bipyridin -5-yl)oxy)-2,4-dimethylpentan-2-amine (BMS- hepatic ischemia-reperfusion injury, Exp. Mol. Med. 38 (2006) 408–416.
+986176/LX-9211): AHighly selective, CNS penetrable, and orally active [102] S. Galimberti, M. Petrini, C. Barat`e, F. Ricci, S. Balducci, S. Grassi, F. Guerrini,
+AdaptorProtein-2 associated kinase 1 inhibitor in clinical trials for theTreatment E. Ciabatti, S. Mechelli, A. Di 
+
+Chunk 48:
+pyridin -5-yl)oxy)-2,4-dimethylpentan-2-amine (BMS- hepatic ischemia-reperfusion injury, Exp. Mol. Med. 38 (2006) 408–416.
+986176/LX-9211): AHighly selective, CNS penetrable, and orally active [102] S. Galimberti, M. Petrini, C. Barat`e, F. Ricci, S. Balducci, S. Grassi, F. Guerrini,
+AdaptorProtein-2 associated kinase 1 inhibitor in clinical trials for theTreatment E. Ciabatti, S. Mechelli, A. Di Paolo, C. Baldini, L. Baglietto, L. Macera, P.
+of neuropathic pain, J. Med. Chem. 65 (2022) 4457–4480. G. Spezia, F. Maggi, Tyrosine kinase inhibitors play an antiviral action in patients
+[82] M.W. Karaman, S. Herrgard, D.K. Treiber, P. Gallant, C.E. Atteridge, B. affected by chronic myeloid leukemia: a possible model supporting their use in
+T. Campbell, K.W. Chan, P. Ciceri, M.I. Davis, P.T. Edeen, R. Faraoni, M. Floyd, J. the fight against SARS-CoV-2, Front. Oncol. 10 (2020) 1428.
+P. Hunt, D.J. Lockhart, Z.V. Milanov, M.J. Morrison, G. Pallares, H.K. Patel, [103] Sivapriya K. Vanaja, Ashley J. Russo, B. Behl, I. Banerjee, M. Yankova, Sachin
+S. Pritchard, L.M. Wodicka, P.P. Zarrinkar, A quantitative analysis of kinase D. Deshmukh, Vijay A.K. Rathinam, Bacterial outer membrane vesicles mediate
+inhibitor selectivity, Nat. Biotechnol. 26 (2008) 127–132. cytosolic localization of LPS and caspase-11 activation, Cell 165 (2016)
+[83] G.J. Bennett, Y.-K. Xie, A peripheral mononeuropathy in rat that produces 1106–1119.
+disorders of pain sensation like those seen in man, Pain 33 (1988) 87–107. [104] Y. Aachoui, I.A. Leaf, J.A. Hagar, M.F. Fontana, C.G. Campos, D.E. Zak, M.H. Tan,
+[84] T.T. Wager, R.Y. Chandrasekaran, X. Hou, M.D. Troutman, P.R. Verhoest, P.A. Cotter, R.E. Vance, A. Aderem, E.A. Miao, Caspase-11 protects against
+A. Villalobos, Y. Will, Defining desirable central nervous system drug space bacteria that escape the vacuole, Science 339 (2013) 975–978.
+through the alignment of molecular properties, in vitro ADME, and safety [105] G.A. Ellestad, (5Z)-7-Oxozeaenol: a novel
+
+Chunk 49:
+Wager, R.Y. Chandrasekaran, X. Hou, M.D. Troutman, P.R. Verhoest, P.A. Cotter, R.E. Vance, A. Aderem, E.A. Miao, Caspase-11 protects against
+A. Villalobos, Y. Will, Defining desirable central nervous system drug space bacteria that escape the vacuole, Science 339 (2013) 975–978.
+through the alignment of molecular properties, in vitro ADME, and safety [105] G.A. Ellestad, (5Z)-7-Oxozeaenol: a novel and potent resorcylic acid lactone
+attributes, ACS Chem. Neurosci. 1 (2010) 420–434. kinase inhibitor with a cis-enone Michael acceptor, Chirality 31 (2019) 110–117.
+[85] G. Luo, L. Chen, W.A. Kostich, B. Hamman, J. Allen, A. Easton, C. Bourin, [106] J. Rani, S. Kumar, M. Saini, J. Mundlia, P.K. Verma, Biological potential of
+M. Gulianello, J. Lippy, S. Nara, S.N. Pattipati, K. Dandapani, M. Dokania, pyrimidine derivatives in a new era, Res. Chem. Intermed. 42 (2016) 6777–6804.
+P. Vattikundala, V. Sharma, S. Elavazhagan, M.K. Verma, M.L. Das, S. Wagh, [107] D.H. Drewry, J.K. Annor-Gyamfi, C.I. Wells, J.E. Pickett, V. Dederer, F. Preuss,
+A. Balakrishnan, B.M. Johnson, K.S. Santone, G. Thalody, R. Denton, S. Mathea, A.D. Axtman, Identification of pyrimidine-based lead compounds for
+H. Saminathan, V.K. Holenarsipur, A. Kumar, A. Rao, S.P. Putlur, S. understudied kinases implicated in driving neurodegeneration, J. Med. Chem. 65
+K. Sarvasiddhi, G. Shankar, J.V. Louis, M. Ramarao, C.M. Conway, Y.-W. Li, (2022) 1313–1328.
+R. Pieschl, Y. Tian, Y. Hong, L. Bristow, C.F. Albright, J.J. Bronson, J.E. Macor, C. [108] M. Dammann, M. Kramer, M.O. Zimmermann, F.M. Boeckler, Quadruple target
+D. Dzierba, Discovery and optimization of biaryl alkyl ethers as a novel class evaluation of diversity-optimized halogen-enriched fragments (HEFLibs) reveals
+ofHighly selective, CNS-penetrable, and orally active AdaptorProtein-2-associated substantial ligand efficiency for AP2-associated protein kinase 1 (AAK1), Front.
+kinase 1 (AAK1) inhibitors for the PotentialTreatment of neuropathic pain, Chem. 9 
+
+Chunk 50:
+zierba, Discovery and optimization of biaryl alkyl ethers as a novel class evaluation of diversity-optimized halogen-enriched fragments (HEFLibs) reveals
+ofHighly selective, CNS-penetrable, and orally active AdaptorProtein-2-associated substantial ligand efficiency for AP2-associated protein kinase 1 (AAK1), Front.
+kinase 1 (AAK1) inhibitors for the PotentialTreatment of neuropathic pain, Chem. 9 (2022).
+J. Med. Chem. 65 (2022) 4534–4564. [109] J.M. Elkins, V. Fedele, M. Szklarz, K.R.A. Azeez, E. Salah, J. Mikolajczyk,
+[86] P. Eastwood, J. Gonzalez, S. Paredes, S. Fonquerna, A. Cardús, J.A. Alonso, S. Romanov, N. Sepetov, X.-P. Huang, B.L. Roth, A.A.H. Zen, D. Fourches,
+A. Nueda, T. Domenech, R.F. Reinoso, B. Vidal, Discovery of potent and selective E. Muratov, A. Tropsha, J. Morris, B.A. Teicher, M. Kunkel, E. Polley, K.E. Lackey,
+bicyclic A2B adenosine receptor antagonists via bioisosteric amide replacement, F.L. Atkinson, J.P. Overington, P. Bamborough, S. Mueller, D.J. Price, T.
+Bioorg. Med. Chem. Lett 20 (2010) 1634–1637. M. Willson, D.H. Drewry, S. Knapp, W.J. Zuercher, Comprehensive
+[87] S. Sun, Q. Jia, Z. Zhang, Applications of amide isosteres in medicinal chemistry, characterization of the published kinase inhibitor set, Nat. Biotechnol. 34 (2016)
+Bioorg. Med. Chem. Lett 29 (2019) 2535–2550. 95–103.
+15
+
+---PAGE BREAK---
+
+X. Xin et al. E u r o p e a n J o u r n a l o f M e d i c in a l C h e m i s t r y 248(2023)115102
+[110] C. Wells, R.M. Counago, J.C. Limas, T.L. Almeida, J.G. Cook, D.H. Drewry, J. [123] H. Xiang, J. Zhang, C. Lin, L. Zhang, B. Liu, L. Ouyang, Targeting autophagy-
+M. Elkins, O. Gileadi, N.R. Kapadia, A. Lorente-Macias, J.E. Pickett, A. Riemen, R. related protein kinases for potential therapeutic purpose, Acta Pharm. Sin. B 10
+R. Ruela-de-Sousa, T.M. Willson, C. Zhang, W.J. Zuercher, R. Zutshi, A. (2020) 569–581.
+D. Axtman, SGC-AAK1-1: a chemical probe targeting AAK1 and BMP2K, ACS Med. [124] C. Sarah, Targeting host kinases, Nat. Rev. Drug
+
+Chunk 51:
+geting autophagy-
+M. Elkins, O. Gileadi, N.R. Kapadia, A. Lorente-Macias, J.E. Pickett, A. Riemen, R. related protein kinases for potential therapeutic purpose, Acta Pharm. Sin. B 10
+R. Ruela-de-Sousa, T.M. Willson, C. Zhang, W.J. Zuercher, R. Zutshi, A. (2020) 569–581.
+D. Axtman, SGC-AAK1-1: a chemical probe targeting AAK1 and BMP2K, ACS Med. [124] C. Sarah, Targeting host kinases, Nat. Rev. Drug Discov. 16 (2017), 314-314.
+Chem. Lett. 11 (2020) 340–345. [125] F. Cantini, L. Niccoli, D. Matarrese, E. Nicastri, P. Stobbione, D. Goletti,
+[111] R.A.M. Serafim, J.M. Elkins, W.J. Zuercher, S.A. Laufer, M. Gehringer, Chemical Baricitinib therapy in COVID-19: a pilot study on safety and clinical impact,
+probes for understudied kinases: challenges and opportunities, J. Med. Chem. 65 J. Infect. 81 (2020) 318–356.
+(2022) 1132–1170. [126] L. Colloca, T. Ludman, D. Bouhassira, R. Baron, A.H. Dickenson, D. Yarnitsky,
+[112] V.M. Shahani, D.P. Ball, A.V. Ramos, Z. Li, P.A. Spagnuolo, S. Haftchenary, A. R. Freeman, A. Truini, N. Attal, N.B. Finnerup, C. Eccleston, E. Kalso, D.
+D. Schimmer, S. Trudel, P.T. Gunning, A 2,6,9-hetero-trisubstituted purine L. Bennett, R.H. Dworkin, S.N. Raja, Neuropathic pain, Nat. Rev. Dis. Prim. 3
+inhibitor exhibits potent biological effects against multiple myeloma cells, Bioorg. (2017), 17002.
+Med. Chem. 21 (2013) 5618–5628. [127] K. Bannister, J. Sachau, R. Baron, A.H. Dickenson, Neuropathic pain: mechanism-
+[113] R. He, B. Xu, L. Ping, X. Lv, Structural optimization towards promising β-methyl- based therapeutics, Annu. Rev. Pharmacol. Toxicol. 60 (2020) 257–274.
+4-acrylamido quinoline derivatives as PI3K/mTOR dual inhibitors for anti-cancer [128] N.D. Marino, J.Y. Zhang, A.L. Borges, A.A. Sousa, L.M. Leon, B.J. Rauch, R.
+therapy: the in vitro and in vivo biological evaluation, Eur. J. Med. Chem. 214 T. Walton, J.D. Berry, J.K. Joung, B.P. Kleinstiver, J. Bondy-Denomy, Discovery of
+(2021), 113249. widespread type I and type V CRISPR-Cas inhibitors,
+
+Chunk 52:
+57–274.
+4-acrylamido quinoline derivatives as PI3K/mTOR dual inhibitors for anti-cancer [128] N.D. Marino, J.Y. Zhang, A.L. Borges, A.A. Sousa, L.M. Leon, B.J. Rauch, R.
+therapy: the in vitro and in vivo biological evaluation, Eur. J. Med. Chem. 214 T. Walton, J.D. Berry, J.K. Joung, B.P. Kleinstiver, J. Bondy-Denomy, Discovery of
+(2021), 113249. widespread type I and type V CRISPR-Cas inhibitors, Science 362 (2018)
+[114] H.C. Mefford, Expanding role of GABAA receptors in generalised epilepsies, 240–242.
+Lancet Neurol. 17 (2018) 657–658. [129] L.M. Jones, K. Melgar, L. Bolanos, K. Hueneman, M.M. Walker, J.-K. Jiang, K.
+[115] S. Masiulis, R. Desai, T. Uchan´ski, I. Serna Martin, D. Laverty, D. Karia, M. Wilson, X. Zhang, J. Shen, F. Jiang, P. Sutter, A. Wang, X. Xu, G.J. Tawa, S.
+T. Malinauskas, J. Zivanov, E. Pardon, A. Kotecha, J. Steyaert, K.W. Miller, A. B. Hoyt, M. Wunderlich, E. O’Brien, J.P. Perentesis, D.T. Starczynowski, C.
+R. Aricescu, GABAA receptor signalling mechanisms revealed by structural J. Thomas, Targeting AML-associated FLT3 mutations with a type I kinase
+pharmacology, Nature 565 (2019) 454–459. inhibitor, J. Clin. Investig. 130 (2020) 2017–2023.
+[116] M. Keller, F. Dubois, S. Teulier, A.P.J. Martin, J. Levallet, E. Maille, S. Brosseau, [130] R. Morishita, J. Higaki, S.I. Hayashi, Y. Yo, M. Aoki, S. Nakamura, A. Moriguchi,
+N. Elie, A. Hergovich, E. Bergot, J. Camonis, G. Zalcman, G. Levallet, NDR2 kinase H. Matsushita, K. Matsumoto, T. Nakamura, T. Ogihara, Role of hepatocyte
+contributes to cell invasion and cytokinesis defects induced by the inactivation of growth factor in endothelial regulation: prevention of high D-glucose-induced
+RASSF1A tumor-suppressor gene in lung cancer cells, J. Exp. Clin. Cancer Res. 38 endothelial cell death by prostaglandins and phosphodiesterase type 3 inhibitor,
+(2019) 158. Diabetologia 40 (1997) 1053–1061.
+[117] A.A.D. Sharif, A. Hergovich, The NDR/LATS protein kinases in immunology and [131] G.L. Goebel, X. Qiu, P
+
+Chunk 53:
+ of growth factor in endothelial regulation: prevention of high D-glucose-induced
+RASSF1A tumor-suppressor gene in lung cancer cells, J. Exp. Clin. Cancer Res. 38 endothelial cell death by prostaglandins and phosphodiesterase type 3 inhibitor,
+(2019) 158. Diabetologia 40 (1997) 1053–1061.
+[117] A.A.D. Sharif, A. Hergovich, The NDR/LATS protein kinases in immunology and [131] G.L. Goebel, X. Qiu, P. Wu, Kinase-targeting small-molecule inhibitors and
+cancer biology, Semin. Cancer Biol. 48 (2018) 104–114. emerging bifunctional molecules, Trends Pharmacol. Sci. 43 (2022) 866–881.
+[118] B.A. Feinberg, J. Wojtynek, I. Dokubo, Y. Jeune-Smith, J. Kish, A. Gajra, [132] K.K. Chan, A.R. Bass, Checkpoint inhibitor-induced polymyalgia rheumatica
+Prescribing preferences for hormone sensitive (HR+) metastatic breast cancer controlled by cobimetinib, a MEK 1/2 inhibitor, Ann. Rheum. Dis. 78 (2019) e70.
+(mBC) in the CDK 4/6 inhibitor (CDK 4/6i) era, J. Clin. Oncol. 38 (2020), e13058- [133] B. Wang, H. Wu, C. Hu, H. Wang, J. Liu, W. Wang, Q. Liu, An overview of kinase
+e13058. downregulators and recent advances in discovery approaches, Signal Transduct.
+[119] M. Bury, B. Le Calv´e, G. Ferbeyre, V. Blank, F. Lessard, New insights into CDK Targeted Ther. 6 (2021) 423.
+regulators: novel opportunities for cancer therapy, Trends Cell Biol. 31 (2021) [134] X. Lu, J.B. Smaill, K. Ding, New promise and opportunities for allosteric kinase
+331–344. inhibitors, Angew. Chem. Int. Ed. 59 (2020) 13764–13776.
+[120] B. Zhou, W. Lin, Y. Long, Y. Yang, H. Zhang, K. Wu, Q. Chu, Notch signaling [135] A. Abdeldayem, Y.S. Raouf, S.N. Constantinescu, R. Moriggl, P.T. Gunning,
+pathway: architecture, disease, and therapeutics, Signal Transduct. Targeted Advances in covalent kinase inhibitors, Chem. Soc. Rev. 49 (2020) 2617–2687.
+Ther. 7 (2022) 95. [136] W.F. Kean, H.E. Howard-Lock, C.J.L. Lock, Chirality in antirheumatic drugs,
+[121] E.Y. Rim, H. Clevers, R. Nusse, The wnt pathway: from signaling mechanisms t
+
+Chunk 54:
+em, Y.S. Raouf, S.N. Constantinescu, R. Moriggl, P.T. Gunning,
+pathway: architecture, disease, and therapeutics, Signal Transduct. Targeted Advances in covalent kinase inhibitors, Chem. Soc. Rev. 49 (2020) 2617–2687.
+Ther. 7 (2022) 95. [136] W.F. Kean, H.E. Howard-Lock, C.J.L. Lock, Chirality in antirheumatic drugs,
+[121] E.Y. Rim, H. Clevers, R. Nusse, The wnt pathway: from signaling mechanisms to Lancet 338 (1991) 1565–1568.
+synthetic modulators, Annu. Rev. Biochem. 91 (2022) 571–598. [137] T. Rodrigues, D. Reker, P. Schneider, G. Schneider, Counting on natural products
+[122] S.G. Pai, B.A. Carneiro, J.M. Mota, R. Costa, C.A. Leite, R. Barroso-Sousa, J. for drug design, Nat. Chem. 8 (2016) 531–541.
+B. Kaplan, Y.K. Chae, F.J. Giles, Wnt/beta-catenin pathway: modulating
+anticancer immune response, J. Hematol. Oncol. 10 (2017) 101.
+16
+
+---PAGE BREAK---
+
+
+

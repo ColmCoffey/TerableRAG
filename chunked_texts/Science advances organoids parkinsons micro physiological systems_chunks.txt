@@ -1,0 +1,2924 @@
+Chunk 1:
+SCIENCE ADVANCES | RESEARCH ARTICLE
+SYSTEMS BIOLOGY
+Copyright © 2021
+The Authors, some
+Human physiomimetic model integrating rights reserved;
+exclusive licensee
+microphysiological systems of the gut, liver, and American Association
+for the Advancement
+brain for studies of neurodegenerative diseases of Science. No claim to
+original U.S. Government
+Martin Trapecar1, Emile Wogram2, Devon Svoboda2*, Catherine Communal1, Attya Omer2, Works. Distributed
+Tenzin Lungjangwa2, Pierre Sphabmixay2,3, Jason Velazquez1†, Kirsten Schneider1, under a Creative
+Commons Attribution
+Charles W. Wright1, Samuel Mildrum1,4,5, Austin Hendricks1,4,5, Stuart Levine1,4,5,
+NonCommercial
+Julien Muffat2‡, Meelim Jasmine Lee1, Douglas A. Lauffenburger1,6, David Trumper3,6, License 4.0 (CC BY-NC).
+Rudolf Jaenisch2,5*§, Linda G. Griffith1,3,7*§
+Slow progress in the fight against neurodegenerative diseases (NDs) motivates an urgent need for highly controlled
+in vitro systems to investigate organ-organ– and organ-immune–specific interactions relevant for disease patho-
+physiology. Of particular interest is the gut/microbiome-liver-brain axis for parsing out how genetic and environ-
+mental factors contribute to NDs. We have developed a mesofluidic platform technology to study gut-liver-cerebral
+interactions in the context of Parkinson’s disease (PD). It connects microphysiological systems (MPSs) of the primary
+human gut and liver with a human induced pluripotent stem cell–derived cerebral MPS in a systemically circulated
++
+common culture medium containing CD4 regulatory T and T helper 17 cells. We demonstrate this approach using
+a patient-derived cerebral MPS carrying the PD-causing A53T mutation, gaining two important findings: (i) that
+systemic interaction enhances features of in vivo–like behavior of cerebral MPSs, and (ii) that microbiome-associated
+short-chain fatty acids increase expression of pathology-associated pathways in PD.
+INTRODUCTION is prominently involved in the humoral and immune pat
+
+Chunk 2:
+ this approach using
+a patient-derived cerebral MPS carrying the PD-causing A53T mutation, gaining two important findings: (i) that
+systemic interaction enhances features of in vivo–like behavior of cerebral MPSs, and (ii) that microbiome-associated
+short-chain fatty acids increase expression of pathology-associated pathways in PD.
+INTRODUCTION is prominently involved in the humoral and immune pathways as
+The gut-brain axis operates as a bidirectional communication system the first draining point of the large intestine. In animal models,
+integrating the central nervous system (CNS) with endocrine, meta- those individual routes of action and connections to pathology are
+bolic, and immune signaling pathways (1). As a vital participant in difficult to deconvolute. Furthermore, the influence of individual
+this system, the microbiome and its metabolic products, including microbiome-derived metabolites cannot be readily separated from
+short-chain fatty acids (SCFA), directly and indirectly affect the the context of the entire gut milieu. This drives a need for causality-
+broader gut-immune-liver-brain axis. Accumulating data implicate focused, human-based, preclinical models that incorporate engineer-
+dysregulation of the gut-brain axis in a variety of pathologies from ing conceptualization of diseases such as new platform technologies
+inflammatory bowel disease to neurodegenerative diseases (NDs) (2, 3). designed to capture the crucial yet complex physiological phenomena
+The causality of multifactorial diseases involving the gut-brain in vitro in a systematic and scalable manner.
+axis are difficult to parse in animal models, as the highly convoluted Parkinson’s disease (PD) is prototypical of NDs, with links to the
+nature of the systemic interactions are combined with interspecies gut microbiome and systemic immune function, for which etiologies
+differences in metabolism and immunology. For example, SCFA and effective therapies remain poorly defined. PD is a late age-ons
+
+Chunk 3:
+.
+axis are difficult to parse in animal models, as the highly convoluted Parkinson’s disease (PD) is prototypical of NDs, with links to the
+nature of the systemic interactions are combined with interspecies gut microbiome and systemic immune function, for which etiologies
+differences in metabolism and immunology. For example, SCFA and effective therapies remain poorly defined. PD is a late age-onset,
+produced by fermentation in the human proximal colon (up to chronic, neurodegenerative disorder characterized by inflammation,
+600 mmol/day) can influence gut-brain communication and function accumulation of Lewy bodies in neurons, and cell death. Approxi-
+directly or indirectly through immune, endocrine, vagal, and other mately 90% of PD cases are sporadic (4). However, familial PD has
+humoral pathways (3). Microbial bioactives can affect the axis via been linked to dominant mutations, such as the A53T mutation,
+local interactions with enteric nerves transduced to the CNS (vagal causing misfolding and aggregation of -synuclein (Syn) with for-
+pathway) or, separately, via systemic circulation to organs and tissues mation of Lewy bodies (5). Neurons throughout the nervous system
+(humoral pathway) and immune cells (immune pathway). The liver are affected, causing especially pronounced damage to dopaminergic
+neurons in the brain and associated symptomatic loss of motor con-
+1Department of Biological Engineering, Massachusetts Institute of Technology, trol. Environmental and genetic factors have been associated with
+Cambridge, MA, USA. 2Whitehead Institute for Biomedical Research, Cambridge, development of PD and other NDs.
+MA, USA. 3Department of Mechanical Engineering, Massachusetts Institute of A potentially important signaling link between the gut microbiome
+Technology, Cambridge, MA, USA. 4MIT BioMicro Center, Cambridge, MA, USA. 5De-
+and the brain in the context of PD involves SCFA. A previous study
+partment of Biology, Massachusetts Institute of Technology, Cambrid
+
+Chunk 4:
+, Cambridge, development of PD and other NDs.
+MA, USA. 3Department of Mechanical Engineering, Massachusetts Institute of A potentially important signaling link between the gut microbiome
+Technology, Cambridge, MA, USA. 4MIT BioMicro Center, Cambridge, MA, USA. 5De-
+and the brain in the context of PD involves SCFA. A previous study
+partment of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA.
+6Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, with gnotobiotic mice implicated the presence of SCFA to faster pro-
+MA, USA. 7Center for Gynepathology Research, Massachusetts Institute of Technology, gression toward PD in a mouse model of the disease (1). Intriguingly,
+Cambridge, MA, USA.
+recent data in mice also implicate the microbiome in increased in-
+*Present address: Casma Therapeutics Inc., Cambridge, MA, USA.
+†Present address: Preclinical Safety, Novartis Institutes for Biomedical Research Inc., flammation related to amyotrophic lateral sclerosis—a phenomenon
+Cambridge, MA, USA. that is reduced in mice treated with broad-spectrum antibiotics (6).
+‡Present address: Department of Molecular Genetics, University of Toronto and SCFA exert pleiotropic effects that may contribute to a brain
+Program in Neurosciences and Mental Health, The Hospital for Sick Children,
+phenotype: They are linked to the development of microglia, provide
+Toronto, Ontario, Canada.
+§Corresponding author. Email: griff@mit.edu (L.G.G.); jaenisch@wi.mit.edu (R.J.) an important energy source for the brain, and influence neuronal
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 1 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+function (2). Moreover, SCFA modulate several major metabolic a non-PDMS elastomer on the pumps; and (iii) inclusion of gravity
+pathways in the liver that alter blood lipids and sugars and influence flow connections as part 
+
+Chunk 5:
+21; 7 : eabd1707 29 January 2021 1 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+function (2). Moreover, SCFA modulate several major metabolic a non-PDMS elastomer on the pumps; and (iii) inclusion of gravity
+pathways in the liver that alter blood lipids and sugars and influence flow connections as part of the fluidic circuit, to offset any slight dif-
+the inflammatory phenotypes of immune cells in the intestine, liver, ferences in pump flow rates arising from minor fabrication variances
+and circulation (7, 8), thus indirectly influencing the microenviron- and thus control fluid volumes in individual compartments while
+ment of the nervous system in ways that might potentiate or protect minimizing the overall platform footprint (see details in Materials
+from development of PD or other NDs in humans. and Methods and Results). We take advantage of this on-board,
+Experiments performed in gnotobiotic mice cannot be translated platform-integrated pumping technology to conduct a proof-of-
+directly into a protocol for experimentation on human patients. We principle experiment demonstrating its potential utility for coculture
+therefore designed an in vitro all-human physiomimetic model that with circulating immune cells, thus illuminating facets of complex
+captures salient features observed in those studies as a demonstra- systemic immune system–mediated processes.
+tion for how continuously interlinked microphysiological systems Our findings using this physiomimetic model of early-onset PD
+(MPSs) can bring insights into human disease pathophysiology. MPSs indicate that the interaction of healthy cerebral MPS controls with
+are in vitro models that, under perfusion, mimic facets of physio- MPSs of the gut-liver axis in the presence of circulating CD4 regu-
+logical organ behavior (9). The goal of physiomimetic models is to latory T cells (Tregs) and T helper 17 (TH17) cells beneficial
+
+Chunk 6:
+
+(MPSs) can bring insights into human disease pathophysiology. MPSs indicate that the interaction of healthy cerebral MPS controls with
+are in vitro models that, under perfusion, mimic facets of physio- MPSs of the gut-liver axis in the presence of circulating CD4 regu-
+logical organ behavior (9). The goal of physiomimetic models is to latory T cells (Tregs) and T helper 17 (TH17) cells beneficially affects
+define the essential elements of complex disease states involving the cerebral MPS’s phenotype. This includes increased expression of
+multiple organ systems and capture these in the simplest possible genes associated with maturity of neurons, astrocytes, and especially
+MPS experimental configuration that will reveal useful insights. Here, microglia. We observed pathology-related effects of systemic SCFA
+we first define the physiomimetic model for parsing causality in the unique to MPSs of PD, but not in healthy controls. Hence, engineered
+interconnection between the microbiome and early stages of NDs human physiomimetic models can aid in our understanding of multi-
+according to the following phenomena: (i) humoral and immune factorial NDs and complement in vivo animal models as tools to
+pathways connecting microbial metabolites (but not microbes) to the investigate disease causality.
+gut-liver-brain axis independently of endocrine and vagal pathways;
+(ii) how interaction between MPSs of the gut, liver, and circulating
+CD4+ T cells affects maturation of neurons, astrocytes, and microglia; RESULTS
+(iii) the effects of bioaccessible SCFA on cerebral MPSs that repre- Conceptualization of key biological phenomena informing
+sent certain features of familial PD and those of healthy controls; experimental platform design
+and (iv) how increase or reduction of inflammatory mediators via At a coarse-grain view, we considered the following biological
+SCFA and inclusion of CD4+ T cells affects the PD phenotype. phenomena in the conceptualization of a physiomimetic model of
+On
+
+Chunk 7:
+ualization of key biological phenomena informing
+sent certain features of familial PD and those of healthy controls; experimental platform design
+and (iv) how increase or reduction of inflammatory mediators via At a coarse-grain view, we considered the following biological
+SCFA and inclusion of CD4+ T cells affects the PD phenotype. phenomena in the conceptualization of a physiomimetic model of
+On the basis of this conceptualization of the disease, we designed the gut-liver-brain axis (Fig. 1A and fig. S1A): (i) SCFA adsorption
+an experimental platform linking three complex MPSs—gut/immune, through a colon mucosal barrier incorporating innate immune cells,
+liver/immune, cerebral/immune—via a common culture media con- where the SCFA may be partially metabolized to influence produc-
+taining circulating immune cells in continuous coculture. The platform tion of soluble signaling molecules; (ii) transport through the portal
+design simultaneously addresses several challenges required to circulation to the liver, where additional metabolism occurs by hepato-
+accomplish the desired physiological integration, including (i) open cytes, and where the SCFA exert influence on innate immune
+system accommodating standard culture models for each MPS (e.g., Kupffer cells in the liver; and (iii) transport of soluble metabolites
+Transwell insert for mucosal barrier), thus facilitating access to and inflammatory mediators through the systemic circulation to the
+individual compartments for fluid sampling and comparison with brain along with (iv) migration of adaptive immune CD4+ T cells
+literature for behaviors of individual MPSs; (ii) continuous recircu- via systemic circulation between the gut, liver, and the brain.
+lation of medium within each MPS to facilitate molecular and cellular As MPSs represent relatively reductionist models of complex organ
+transport between tissues and circulating medium with flow rates systems, we structured individual MPSs to reflect the above-described
+t
+
+Chunk 8:
+ture for behaviors of individual MPSs; (ii) continuous recircu- via systemic circulation between the gut, liver, and the brain.
+lation of medium within each MPS to facilitate molecular and cellular As MPSs represent relatively reductionist models of complex organ
+transport between tissues and circulating medium with flow rates systems, we structured individual MPSs to reflect the above-described
+tailored to the needs of each individual MPS; (iii) continuous recir- physiological features and scaled the relative cell numbers according
+culation of a relatively small volume of common culture medium to their physiological functions (Fig. 1A). The gut serves many func-
+(5 ml) between MPSs at flow rates sufficient to exchange the entire tions, of which nutrient absorption and regulation of immune tolerance
+culture volume over five times per day, with flow patterns that provide toward the commensal microbiome are among the most important.
+physiologically scaled ratios of systemic (25%) and portal (75%) cir- Cell lines that are often used to model some features of the colon
+culation to the liver MPS; (iv) in addition to continuous flow be- barrier, such as the cancer-derived Caco-2 line, are not appropriate
+tween MPSs, independent fluid mixing within each MPS to enhance for modeling SCFA effects because of the stark differences in their
+local molecular and cellular transport; (v) continuous recirculation metabolism and signaling compared to human primary tissues (10).
+of functionally viable immune cells; (vi) minimal loss of lipophilic We thus designed the gut MPS based on primary colon epithelial cells
+medium components to platform adsorption; and (vii) moderate that were propagated as organoids and seeded as single cells on 12-well
+throughput on each platform, with three complete independent Transwells. Myeloid cells, like macrophages and dendritic cells, are
+circuits per platform. While individual constraints have been ad- both the first line of defense against pathogens 
+
+Chunk 9:
+olon epithelial cells
+medium components to platform adsorption; and (vii) moderate that were propagated as organoids and seeded as single cells on 12-well
+throughput on each platform, with three complete independent Transwells. Myeloid cells, like macrophages and dendritic cells, are
+circuits per platform. While individual constraints have been ad- both the first line of defense against pathogens in the gut and crucial
+dressed in other platforms, this is the first demonstration of integra- modulators of epithelial homeostasis and tissue repair; hence, their
+tion of all components. The crucial elements of the approach include integration into MPSs of the gut is an essential biological feature (11).
+(i) unique on-board microfluidic pumps that are safe for immune We seeded peripheral blood mononuclear cell (PBMC)–derived macro-
+cells and can be multiplexed on the platform, with individually phages and dendritic cells on the basolateral side of the Transwells
+addressable flow rates, to eliminate external tubing and minimize harboring a differentiated primary epithelial monolayer (fig. S1B).
+circulating medium volumes; (ii) elimination of polydimethylsiloxane The liver receives most of its blood from the gut and plays a pivotal
+(PDMS) by machining the platform from polycarbonate and using role in the metabolism of and immunity against gut-derived products.
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 2 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+A Design rationale of microphysiological systems (MPSs) and their interaction
+Portal/systemic circulation
+Gut-brain axis
+in Parkinson’s
+disease (PD) 5 11
+1 4 7 10 PD
+2
+8
+SCFA 3 6
+(acetate, 12
+propionate, 9
+butyrate) PD-C
+Gut MPS Liver MPS CD4+ T cells Cerebral MPS
+1. Absorption and metabolism 5. Metabolism by hepatocytes 8. Modulation of circulating 10. Cerebral uptake and
+by colonocytes 6. De novo lipogenesis and CD4
+
+Chunk 10:
+ microphysiological systems (MPSs) and their interaction
+Portal/systemic circulation
+Gut-brain axis
+in Parkinson’s
+disease (PD) 5 11
+1 4 7 10 PD
+2
+8
+SCFA 3 6
+(acetate, 12
+propionate, 9
+butyrate) PD-C
+Gut MPS Liver MPS CD4+ T cells Cerebral MPS
+1. Absorption and metabolism 5. Metabolism by hepatocytes 8. Modulation of circulating 10. Cerebral uptake and
+by colonocytes 6. De novo lipogenesis and CD4 T cell differentiation interaction with the CNS
+2–3. Interaction with dendritic glucogenesis 9. Balancing tolerance and 11. Development of microglia
+cells and macrophages 7. Interaction with Kupffer cells immunity 12. Potential involvement in PD
+4. Transport into liver via and reduced innate activation
+portal venous system
+Cell-type ratio:
+1:12 > MAC/DC : Epithelial cell 1:10 > Kupffer cell : Hepatocyte 2:1 > Treg cell : TH17 cell 1:10 > Microglia : Neurons/astrocytes
+Cell count per MPS:
+Apical Transwell: Liver scaffold: In circulation: Apical Transwell:
+6 x 105 Epithelial cells ± SCFA 6 x 105 Primary epithelial cells 2.4 x 105 PBMC-derived Tregs/ml 2 x105 hiPS neurons/astrocytes
+Basal Transwell: 6 x 104 Primary Kupffer cells 1.2 x 105 PBMC-derived TH17s/ml 2 x104 hiPS microglia
+5 x 104 Macrophages/dendritic cells ±A53T mutation
+B
+Utility wells
+•Feed
+•Drug/LPS dosing
+•Waste removal
+•Diurnal variation
+Micropumps
+•Bidirectional
+•Range of flow rates
+•High precision
+Cerebral Spillways 20 mM
+MPS •Maintain fluid levels SCFA
+•Passive return flow
+Gut
+MPS
+Circulation within and between compartments
+Compartments Flow rates (µl/s)
+Cerebral Self-circulation 1.0
+Circulation Mixer-gut 0.13
+T reg /T H 17 Liver 25% Liver M Se ix lf e -c r- i l r i c v u e l r ation 0 1 .0 .0 43
+MPS
+cells 75% Gut Self-circulation, 0.25
+Basal
+The liver MPS was designed to capture the metabolic transformation them (15), immune-metabolic cross-talk can be adequately represented
+of SCFA as well as features of the immunological environment. The in long-term culture by primary hepatocytes and Kupffer cells (12).
+
+Chunk 11:
+g /T H 17 Liver 25% Liver M Se ix lf e -c r- i l r i c v u e l r ation 0 1 .0 .0 43
+MPS
+cells 75% Gut Self-circulation, 0.25
+Basal
+The liver MPS was designed to capture the metabolic transformation them (15), immune-metabolic cross-talk can be adequately represented
+of SCFA as well as features of the immunological environment. The in long-term culture by primary hepatocytes and Kupffer cells (12).
+microtissue comprised a coculture of human primary cryopreserved Cells were seeded on a microperfused liver scaffold that allows for
+hepatocytes and Kupffer cells at physiological 10:1 ratio maintained optimal oxygenation and nutrient flow (fig. S1C) (12).
+in a culture medium permissive for retention of inflammation re- Key players in perpetuating inflammation-related cerebral PD
+sponses (12, 13). Although it is technically feasible to include addi- pathology are neurons, astrocytes, and microglia. We therefore adapted
+tional primary nonparenchymal cells (14), or cell lines representing a well-established, robust model comprising human PD patient-derived
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 3 of 22
+yad/lm
+03
+3XGLB physiomimetic platform C 3XGLB features and parameters
+Acetate:Propionate:Butyrate
+(molar ratio of 3:1:1)
+Fig. 1. Human 3XGLB physiomimetic system of the gut-liver-brain axis. (A) Schematic representation of the design rationale for the experimental approach and
+description of individual MPSs included in this study. (B) Top left: pneumatic plates machined in acrylic; top right: mesofluidic plate machined from monolithic polysulfone;
+bottom: 3X Gut-Liver-Brain (3XGLB) platform composed of pneumatic and fluidic plates with elastomeric polyurethane membrane in between them to form a pumping
+manifold with integrated fluid channels. The platform allows three-way interaction in three replicates where the center liver-specific MPS can be fluidically linked to two
+additional Transwell-based MPSs. Photo credit: Martin Trapecar, MIT. (C) Top view o
+
+Chunk 12:
+t-Liver-Brain (3XGLB) platform composed of pneumatic and fluidic plates with elastomeric polyurethane membrane in between them to form a pumping
+manifold with integrated fluid channels. The platform allows three-way interaction in three replicates where the center liver-specific MPS can be fluidically linked to two
+additional Transwell-based MPSs. Photo credit: Martin Trapecar, MIT. (C) Top view of the 3XGLB with identified fluidic and pumping properties as well as operational
+parameters (for more details, see fig. S1A).
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+induced pluripotent stem cells (iPSCs) differentiated into neurons, (CM) during different modes of a 4-day interaction (Fig. 2A). Canon-
+astrocytes, and microglia cultured in a Transwell format amenable ical functional tissue phenotypic markers, gut barrier integrity, and
+to incorporation on a mesofluidic platform (16). We used a neural liver albumin production were preserved throughout tissue interac-
+differentiation method that gives rise to various types of CNS cells, tion (fig. S1, B and C). These functions were also maintained during
+as PD-associated pathology is not limited to the substantia nigra interactions involving the PD MPSs and SCFA described below.
+and dopaminergic neurons, but rather affects a wide variety of CNS Interaction of the control PD-C cerebral MPSs with the gut and
+cell types (17). The cerebral cell types used in this study were derived liver MPSs in the absence or presence of Treg/TH17 cells markedly
+from human iPSCs (hiPSCs) that carry either the A53T mutation in affected its biology (Fig. 2B). DGE analysis of neuron-related genes
+Syn (PD) or hiPSC corrected (PD-C) to wild-type healthy status (5), (21, 22) (in collectively harvested neurons, astrocytes, and microglia)
+to enable isogenic comparison of disease and healthy cerebral tissue. showed increased expression of genes important for h
+
+Chunk 13:
+ly
+from human iPSCs (hiPSCs) that carry either the A53T mutation in affected its biology (Fig. 2B). DGE analysis of neuron-related genes
+Syn (PD) or hiPSC corrected (PD-C) to wild-type healthy status (5), (21, 22) (in collectively harvested neurons, astrocytes, and microglia)
+to enable isogenic comparison of disease and healthy cerebral tissue. showed increased expression of genes important for homeostasis of
+Microbiome-derived metabolites and their derivatives have been mature neurons such as GAP43 and CNR1 and reduced expression
+shown to affect the differentiation and function of T lymphocytes, of genes associated with neuronal progenitors (PAX6 and NCAM1)
+most notably the balance between CD4+ Tregs and TH17 cells (8), during gut-liver-cerebral interaction versus PD-C MPSs in isolation.
+both of which are implicated in PD. These two immune cell types This enhancement of neuronal maturation during interaction was
+play an important role in maintaining the balance between auto- more pronounced in the presence of Treg/TH17 cells (Fig. 2B). A
+immunity and immune tolerance where Tregs dampen inflammation similar trend was observed when analyzing astrocyte-related genes
+by producing transforming growth factor– (TGF-) on one side and (23, 24), which showed increased expression of homeostatic genes
+TH17 cells (TH17s) support inflammation by releasing the cytokines and reduced expression of genes associated with astrocyte activation.
+interleukin-17 (IL-17) and IL-22 (18) on the other. An increased However, the greatest and most significant fold changes in DGE
+number of TH17 cells versus the frequency of Tregs in circulation has were observed in those associated with maturation and immune
+been observed in patients with PD, yet the exact contribution of this activation of microglia (25, 26). In vivo–like maturation of microglia
+phenomenon is yet to be defined (19, 20). Moreover, in advanced is particularly hard to achieve with current in vitro methods (26).
+stages of PD, TH
+
+Chunk 14:
+ versus the frequency of Tregs in circulation has were observed in those associated with maturation and immune
+been observed in patients with PD, yet the exact contribution of this activation of microglia (25, 26). In vivo–like maturation of microglia
+phenomenon is yet to be defined (19, 20). Moreover, in advanced is particularly hard to achieve with current in vitro methods (26).
+stages of PD, TH17 cells have been shown to be the first effector Our data showed that the interaction of PD-C with gut and liver
+T cells to cross the disrupted blood-brain barrier (BBB). In this cur- MPSs significantly favors expression of genes related to maturation
+rent study, we therefore integrated circulating PBMC-derived Treg of microglia such as CD14, MAFB, SPI1, and that of genes associated
+and TH17 cells as a feature of the adaptive immune system that has with microglia immune function among which are CD74, C3, and
+been implicated in the progression of PD. Human Leukocyte Antigen–DR isotype (HLA-DR)—especially in
+Capturing the biological phenomena described above in an the presence of Treg/TH17 cells (Fig. 2B). Responsiveness of microglia
+in vitro experimental setting requires a platform technology that to external stimuli via innate immune activation, major histocom-
+enables (i) continuous fluidic communication between MPSs as well patibility complex class II signaling, and activation of complement
+as controllable circulation within each compartment, (ii) undisrupted cascades is relevant for in vitro modeling of NDs.
+continuous circulation of CD4+ immune cells, and (iii) the incorpo- Furthermore, transcriptional changes analyzed by PANTHER
+ration of well-defined and validated cell culturing systems such as pathway enrichment (Fig. 2C) showed that interaction of the PD-C
+Transwell inserts that are routinely used by many medical researchers cerebral MPS with the liver and gut MPSs enhanced several pathways
+and (iv) that are engineered on a mesofluidic scale that allows for compare
+
+Chunk 15:
+rthermore, transcriptional changes analyzed by PANTHER
+ration of well-defined and validated cell culturing systems such as pathway enrichment (Fig. 2C) showed that interaction of the PD-C
+Transwell inserts that are routinely used by many medical researchers cerebral MPS with the liver and gut MPSs enhanced several pathways
+and (iv) that are engineered on a mesofluidic scale that allows for compared to isolated cerebral MPSs. These include integrin signaling,
+the interrogation of bigger media volumes and tissue mass as those increased glycolysis, and axon guidance that are required for neuronal
+offered by microfluidic setups. axonal growth and the establishment of neuronal connections (27).
+The resulting 3XGLB (3X Gut-Liver-Brain) human physiomimetic Moreover, dopamine and metabotropic glutamate receptor pathways
+system of the gut-liver-brain axis allows for the selective integration important for neurotransmitter signaling were increased during the
+of key physiological features and MPSs (Fig. 1B and movie S1). The interaction (28). Addition of Treg/TH17 cells to the interacting MPSs
+physiomimetic 3XGLB system was engineered to house three sets of further increased PD-C MPS expression of genes related to glycolysis
+three fluidically interconnected MPSs with adjustable, pneumatic and axonal guidance (Fig. 2D). Pathways related to cholesterol bio-
+intra- and intercompartmental circulation (Fig. 1C). The system synthesis, serotonin receptor 5HT4, and oxytocin receptor–mediated
+features low-volume pumps that can circulate culture medium con- signaling were increased in the presence of Treg/TH17 cells. Cholesterol
+taining adaptive immune cells between the individual compartments, in the brain is regulated independently of that in circulation and
+preserving immune cell viability (fig. S1D). Cell ratios and numbers represents up to 25% of total body cholesterol, being largely pro-
+of all MPSs were kept constant across all interaction studies (scaled duced by astrocytes and 
+
+Chunk 16:
+nce of Treg/TH17 cells. Cholesterol
+taining adaptive immune cells between the individual compartments, in the brain is regulated independently of that in circulation and
+preserving immune cell viability (fig. S1D). Cell ratios and numbers represents up to 25% of total body cholesterol, being largely pro-
+of all MPSs were kept constant across all interaction studies (scaled duced by astrocytes and vital for electrical signal transmission as well
+as described in Fig. 1A) and are described in detail in Materials as serotonin and oxytocin receptor signaling (29). Dysregulation of
+and Methods. cholesterol synthesis in the brain is associated with a variety of NDs;
+thus, in vitro models of NDs capturing alterations in cholesterol
+Physiomimetic interaction improves markers of cerebral metabolism are highly relevant for preclinical research.
+MPS phenotype and maturity of neurons, astrocytes, Next, we characterized phenotypic markers and cytokines in cir-
+and microglia culating media during interactions and compared them to known
+First, we aimed to understand how the physiomimetic interaction clinical values (Fig. 2, E and F, and tables S1 and S2) as inflammatory
+of cerebral MPSs with the gut and liver MPSs, as well as Treg/TH17 status is an important benchmark for comparison of the microenviron-
+cells, affects expression of genes specific to the maturation and func- ment in vitro to that in vivo. Moreover, the starting media volumes
+tion of neurons, astrocytes, and microglia. We evaluated differential and numbers/ratios of individual cell types across interaction repli-
+gene expression (DGE), enriched pathways in PD-C MPS tissue, and cates were kept constant in the engineered 3XGLB system, and
+cytokine/chemokine concentrations in the shared common medium a comparison to known in vivo clinical values offered important
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 4 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE 
+
+Chunk 17:
+sion (DGE), enriched pathways in PD-C MPS tissue, and cates were kept constant in the engineered 3XGLB system, and
+cytokine/chemokine concentrations in the shared common medium a comparison to known in vivo clinical values offered important
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 4 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+A
+C D
+Integrin signaling pathway JAK/STAT signaling pathway
+Glycolysis
+Dopamine receptor−mediated signaling pathway
+Angiogenesis
+Metabotropic glutamate receptor group I pathway
+Axon guidance mediated by netrin
+TGF- signaling pathway
+0 50 100 150
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 5 of 22
+tnemhcirne
+yawhtaP
+PD-C B Interaction-dependent changes in PD-C cerebral MPS
+Log2 FC
+−1 0 1
+NES
+NCAM1
+MSI1
+PAX6
+DCX
+GAP43
+TUBB3
+ENO2
+GADD45B
+CNR1
+NEFL
+with gut-liver in isolation with gut-liver-Treg/TH17
+Combined z and P score
+*
+****
+*
+****
+*
+*
+*
+****
+****
+seneg
+rotinegorP
+seneg
+citatsoemoh
+erutaM
+Log2 FC
+−2 −1 0 1 2
+GFAP
+ALDOC
+SLC1A2 ****
+CHI3L1
+**
+EMP1
+F3
+**** NDRG2
+S1PR1
+TRIL
+MFGE8
+TTYH1
+*
+*
+****
+seneg
+citatsoemoH
+seneg
+noitavitcA
+****
+****
+*
+Log2 FC
+−2−1 0 1 2
+CX3CR1
+CSFIR
+IBA1
+**** CD14
+SPI1
+MAFB
+**** **** CD74
+****
+**** CCL2
+** HLA-DRA
+CIITA ****
+**
+C3
+seneg
+noitarutaM
+seneg
+noitcnuf
+enummI
+****
+****
+*
+****
+****
+****
+****
+*
+*
+Cerebral MPS Neuron-related genes Astrocyte-related genes Microglia-related genes
+PD-C
+Cerebral MPS
+****
+****
+PD-C Cerebral MPS ****
+****
+****
+****
+PD-C with gut-liver vs. PD-C with gut-liver-Treg/TH17 vs.
+isolated PD-C with gut-liver
+PD-C PD-C PD-C
+Glycolysis Cholesterol biosynthesis
+T cell activation
+Interleukin signaling pathway
+3-adrenergic receptor
+Axon guidance mediated by netrin
+5HT4 type receptor−mediated signaling pathway
+Oxytocin receptor−mediated signaling pathway
+0 50100150200250 Combined z and P score
+tnemhcirne
+yawhtaP
+50
+40 30 20
+10
+0
+lm/gp
+IL-10
+60 40
+20
+0
+lm/gp
+TNF-
+500 400 
+
+Chunk 18:
+H17 vs.
+isolated PD-C with gut-liver
+PD-C PD-C PD-C
+Glycolysis Cholesterol biosynthesis
+T cell activation
+Interleukin signaling pathway
+3-adrenergic receptor
+Axon guidance mediated by netrin
+5HT4 type receptor−mediated signaling pathway
+Oxytocin receptor−mediated signaling pathway
+0 50100150200250 Combined z and P score
+tnemhcirne
+yawhtaP
+50
+40 30 20
+10
+0
+lm/gp
+IL-10
+60 40
+20
+0
+lm/gp
+TNF-
+500 400 300 200 100
+0
+lm/gp
+100
+80 60 40
+20
+0
+DJ-1
+lm/gp
+IL-6
+80,000
+60,000
+40,000
+20,000
+0
+lm/gp
+α-Synuclein
+25,000 20,000 15,000 10,000 5000
+0
+lm/gp GFAP 15,000 10,000 5000
+0
+lm/gp
+12
+10
+8 6
+4
+2
+0
+NSE
+lm/gp
+300
+200
+100
+0
+lm/gp
+20
+15 10
+5
+0
+Fractalkine
+lm/gp
+IL-10 200
+150 100
+50
+0
+lm/gp
+TNF-
+60 50 40 30 20 10
+0
+lm/gp
+140
+120 100 80 60
+40
+20
+0
+Flt-3L
+lm/gp
+IL-6
+70 60 50 40 30 20 10
+0
+lm/gp
+15
+10
+5
+0
+GM-CSF
+lm/gp
+IL-15
+800 600 400 200
+0
+lm/gp
+120
+100 80
+60 40
+20
+0
+VEGF
+lm/gp
+70
+60
+50 40
+30 20
+10
+0
+lm/gp
+G-CSF
+sSPM
+neewteb
+derahs
+aidem
+nommoC
+aidem
+SPM
+larberec
+lacipA
+PD-C
+with gut-liver
+E F
+Cerebral MPS in interaction with the gut and liver Control cerebral MPS in Isolation
+Cerebral MPS in interaction with the gut, liver, and Treg/TH17 cells Cerebral MPS in interaction with the gut and liver
+Reported range in the plasma of healthy participants Cerebral MPS in interaction with the gut, liver, and Treg/TH17 cells
+Reported range in cerebrospinal fluid of healthy participants
+Fig. 2. Physiomimetic interaction increases in vivo markers of cerebral MPSs. (A) Schematic presentation of conditions compared in Fig. 1 (B to F) and tables S1 and
+S2. Top: Control PD-C cerebral MPS in isolation; middle: Control PD-C cerebral MPS in interaction with the gut and liver MPSs; bottom: Control PD-C MPS in interaction
+with the gut and liver MPSs and Treg/TH17 cells. (B to D) We jointly harvested neurons, astrocytes, and microglia of three separate replicates of control PD-C cerebral MPSs
+after a 4-day interaction with the gut and liver MPSs in the absence or presence of Treg/TH17 cells. (B) We compared 
+
+Chunk 19:
+Control PD-C cerebral MPS in interaction with the gut and liver MPSs; bottom: Control PD-C MPS in interaction
+with the gut and liver MPSs and Treg/TH17 cells. (B to D) We jointly harvested neurons, astrocytes, and microglia of three separate replicates of control PD-C cerebral MPSs
+after a 4-day interaction with the gut and liver MPSs in the absence or presence of Treg/TH17 cells. (B) We compared DGE of neuron-, astrocyte-, and microglia-related
+genes between cerebral MPSs in isolation versus those in interaction. Significance is expressed as *P < 0.05, **P < 0.001, ****P < 0.00001. (C and D) PANTHER pathway
+enrichments in cerebral PD-C MPSs in interaction over those in isolation. Data represent averages of three replicates. Pathways are ranked on the basis of a combined
+z and P value score. (E) Concentrations of cytokines measured in the CM shared between MPSs after 96 hours of gut-liver-cerebral (PD-C) interaction studies with or with-
+out circulating Treg/TH17 cells and indicated reported values of the same proteins in human plasma (for exact values and references, see table S1). (F) Concentrations of
+cytokines and neuronal markers measured in the apical control PD-C MPS media after 96 hours in isolation or during the gut-liver-brain interaction studies with or without
+circulating Treg/TH17 cells and indicated reported values of the same proteins in human cerebrospinal fluid (for exact values and references, see table S2). Data represent
+averages of two to nine replicates after 4 days in culture. Error bars represent SEM. TNF-, tumor necrosis factor–; GFAP, glial fibrillary acidic protein.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on January 01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+guiding insight for ex vivo scaling of devices mimicking human elevated concurrently with glycophospholipids in the substantia nigra
+physiology. Most of the cytokines and chemokines detected in the region of patients with PD (32), was overexpr
+
+Chunk 20:
+llary acidic protein.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on January 01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+guiding insight for ex vivo scaling of devices mimicking human elevated concurrently with glycophospholipids in the substantia nigra
+physiology. Most of the cytokines and chemokines detected in the region of patients with PD (32), was overexpressed as well (Fig. 3C).
+CM shared between the MPSs, especially in the presence of circulating On the basis of WikiPathways, pathways of microglial activation and
+Treg/TH17 cells, showed an overlap in concentration values with cytoplasmic ribosomal proteins were more highly expressed in the
+ranges reported for human plasma (Fig. 2E and table S1), where PD MPS. Conversely, pathways associated with nitric oxide–mediated
+measured values reflect maximum concentrations accumulated at neuroprotection and the Parkin-ubiquitin proteasomal system path-
+day 4 of culture in medium exchanged after 2 days of interaction. way, which is critical for proper regulation of protein turnover (33),
+Similarly, we compared cytokine and neuronal marker concentra- are more enriched in the PD-C control MPSs (Fig. 3D).
+tions in the apical compartment of the PD-C cerebral MPSs after Multiplex cytokine analysis at day 4 of culture of the individual
+4 days in isolation or interaction (without interim media changes) PD and PD-C MPSs showed subtle differences between the two con-
+with concentrations reported in the cerebrospinal fluid (CSF) of ditions where PD MPSs appear to release a slightly higher amount
+healthy human individuals (Fig. 2F and table S2). CSF cytokine of inflammatory cytokines tumor necrosis factor– (TNF-), IL-6,
+concentrations are a reasonable proxy for brain interstitial cytokine and IL-17A but significantly less of the chemokines fractalkine, an
+values (30). Interaction of the cerebral MPSs with the gut and liver important signaling molecule between neurons and microglia and
+MPSs, e
+
+Chunk 21:
+hy human individuals (Fig. 2F and table S2). CSF cytokine of inflammatory cytokines tumor necrosis factor– (TNF-), IL-6,
+concentrations are a reasonable proxy for brain interstitial cytokine and IL-17A but significantly less of the chemokines fractalkine, an
+values (30). Interaction of the cerebral MPSs with the gut and liver important signaling molecule between neurons and microglia and
+MPSs, especially in the presence of circulating Treg/TH17 cells, led to regulator of microglia activation (34), and monocyte chemoattrac-
+PD-C cytokine and neuronal marker concentrations to be closer to tant protein (MCP)–1 and MCP-3 (fig. S2B). The neuron-specific
+ranges reported in CSF of healthy adults. This is particularly true for protein neuron-specific enolase (NSE) and the astrocyte- derived
+the release of Syn, which occupies the center stage in PD research protein glial fibrillary acidic protein (GFAP) are produced by the
+(Fig. 2F). In the presence of Treg/TH17 cells, levels of the cytokines MPSs at similar rates; however, the PD MPSs release significantly
+granulocyte-macrophage colony-stimulating factor (GM-CSF), frac- less DJ-1, also known as PD protein 7, that inhibits aggregation of
+talkine, and interferon- were insignificantly increased in both the Syn (35). This is consistent with PD MPSs releasing less soluble,
+common and apical cerebral medium, which might explain the in- multiplex-detectable Syn and in agreement with clinical observa-
+creased expression of genes related to maturation of microglia that tions (Fig. 3E) (36).
+underpins the importance of immune-tissue interactions in achieving When transcriptomic changes were probed for disease-associated
+a greater in vivo–like phenotype. patterns via the GEO Diseases database, genes associated with neuro-
+Analysis of both transcriptomic and multiplexed cytokine/ degenerative malfunction and PD were found to be enriched in the
+neuronal marker data indicates several functional parameters of PD MPSs—in particular, 
+
+Chunk 22:
+teractions in achieving When transcriptomic changes were probed for disease-associated
+a greater in vivo–like phenotype. patterns via the GEO Diseases database, genes associated with neuro-
+Analysis of both transcriptomic and multiplexed cytokine/ degenerative malfunction and PD were found to be enriched in the
+neuronal marker data indicates several functional parameters of PD MPSs—in particular, genes related to ribosomal proteins (Fig. 3F).
+control PD-C MPSs to be increased when in interaction with the While PD in a clinical setting is most commonly associated with
+gut, liver, and CD4+ T cells as opposed to its expression in isolation, Syn protein misfolding and aggregation in dopaminergic neurons
+suggesting better alignment with in vivo function. in the substantia nigra region of the brain, other neuronal cell types
+like enteric neurons and regions of the CNS are also affected by
+PD cerebral MPSs exhibit disease-specific transcriptomic, synucleinopathy in PD (37). Our data indicate that even under fairly
+inflammatory, and metabolomic characteristics in isolation reductionist conditions, PD cerebral MPSs carrying the A53T
+Patient-specific hiPSCs are valuable in studying diseases where mutation exhibit fundamental metabolic and transcriptional differ-
+genetic background variation poses a significant effect, as they enable ences reminiscent of PD when compared to the control PD-C
+experiments under genetically well-defined conditions (5). Here, we cerebral MPSs.
+used hiPSC-derived neurons, astrocytes, and microglia carrying the
+PD-associated A53T mutation to establish the PD cerebral MPS. We SCFA universally decrease inflammatory cytokines and alter
+also used same-donor hiPSC-derived neurons, astrocytes, and secretion of neuronal biomarkers during physiomimetic
+microglia with the corrected mutation for the control PD-C MPS. interaction with and without circulating T reg /T H 17 cells
+We first examined behaviors of PD versus PD-C MPSs in isola- After evaluating the s
+
+Chunk 23:
+D cerebral MPS. We SCFA universally decrease inflammatory cytokines and alter
+also used same-donor hiPSC-derived neurons, astrocytes, and secretion of neuronal biomarkers during physiomimetic
+microglia with the corrected mutation for the control PD-C MPS. interaction with and without circulating T reg /T H 17 cells
+We first examined behaviors of PD versus PD-C MPSs in isola- After evaluating the steady-state influence of physiomimetic inter-
+tion. Neurons of the cerebral MPSs used in this study exhibit expres- action of the PD-C MPS with gut and liver MPSs as well as Treg/
+sion of neuron-specific markers and release neuron-specific proteins. TH17 cells and characterization of the PD MPS, we proceeded with
+Ramified microglia, astrocytes, and neurons that formed a multilayered interaction studies elucidating the effect of gut MPS-derived SCFA
+three-dimensional (3D) structure when grown on microporous mem- on the phenotype of PD versus PD-C cerebral MPSs. Using the
+branes exhibited comparable morphological features in the PD and 3XGLB platform, we fluidically connected the gut, liver, and cerebral
+PD-C MPSs (Fig. 3A). However, a global untargeted metabolomic MPSs in the absence or presence of circulating Treg/TH17 cells, in-
+screen of the cell culture media of both MPSs after 4 days of culture cluded in a ratio of 2:1 (Fig. 4A). We added 20 mM of total SCFA
+revealed a stark contrast between their metabolic functions. The in a physiological molar ratio between acetate, propionate, and
+most enriched metabolic pathways in the PD MPSs, as compared to butyrate (6:2:2) into the apical compartment of the gut MPSs and
+PD-C, were the mevalonate metabolism and creatine metabolism proceeded with a 4-day interaction experiment. In a gut-liver inter-
+(Fig. 3B). We were able to predict the phenotype of the MPS based action study without a cerebral MPS, SCFA have been shown to be
+solely on the metabolite profiles analyzed using a Random Forest readily absorbed by the gut MPS (ulcerat
+
+Chunk 24:
+al compartment of the gut MPSs and
+PD-C, were the mevalonate metabolism and creatine metabolism proceeded with a 4-day interaction experiment. In a gut-liver inter-
+(Fig. 3B). We were able to predict the phenotype of the MPS based action study without a cerebral MPS, SCFA have been shown to be
+solely on the metabolite profiles analyzed using a Random Forest readily absorbed by the gut MPS (ulcerative colitis donor), where
+algorithm (fig. S2A). 50% of butyrate was consumed by the epithelium and the remaining
+Comparison of DGE between mutant and control MPSs revealed SCFA, mainly propionate and butyrate, were metabolized by the
+significant transcriptional differences. In particular, the PD cerebral healthy liver MPS, which led to increased de novo lipogenesis and
+MPS showed increased expression of CYP26B1, an enzyme-inactivating glycolysis (8). Acetate remained the most abundant SCFA in systemic
+retinoic acid as a tissue-patterning mechanism governing develop- circulation that resembles known in vivo distribution and metabolic
+ment of the hindbrain (31). GPNMB, a glycoprotein shown to be dynamics of SCFA (38).
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 6 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+A B
+C D
+DLK1
+CYP26B1
+COL1A2
+MAGED1
+GPNMB PEG10 NWD2
+TFCP2 ARMCX1
+GPR50
+MAF ZNF793
+PXMP4
+1 2 3 4 5 6 7 8 9 10 GEO diseases R R P P S L5 3 Rett syndrome C0035372 sample 390 1
+R R P P L3 L 2 3 Schizophrenia C0036341 sample 261 2 E R E P F S 1 3 A A 1 Parkinson’s disease DOID-14330 sample 941 3
+R R P P S L6 7 Astrocytoma DOID-3069 sample 860 4 E R E P F S 1G A Oligodendroglioma DOID-3181 sample 858 5
+SLC R 2 P 5 L A 1 6 5 Oligodendroglioma DOID-3181 sample 859 6 R R P P L L 1 9 9 Schizophrenia DOID-5419 sample 854 7
+TM E S E B F 10 2 Salivary gland adenoid carcinoma DOID-4866 sample 511 8 RPL C 1 L 0 U A Uterine leiomyoma C0042133 sample 16 9
+F R XY P D S5 6 Senesc
+
+Chunk 25:
+OID-14330 sample 941 3
+R R P P S L6 7 Astrocytoma DOID-3069 sample 860 4 E R E P F S 1G A Oligodendroglioma DOID-3181 sample 858 5
+SLC R 2 P 5 L A 1 6 5 Oligodendroglioma DOID-3181 sample 859 6 R R P P L L 1 9 9 Schizophrenia DOID-5419 sample 854 7
+TM E S E B F 10 2 Salivary gland adenoid carcinoma DOID-4866 sample 511 8 RPL C 1 L 0 U A Uterine leiomyoma C0042133 sample 16 9
+F R XY P D S5 6 Senescence C0001792 sample 167 10
+We first evaluated the potential of SCFA to alter the inflammatory 39 cytokine/chemokine analytes measured in the basal CM and apical
+environment of the CM shared between the MPSs and the apical cerebral MPS compartments during all interactions, with and without
+compartment of the cerebral MPSs as well as the apical release of Treg/TH17 cells (Fig. 4B). Clear separation along the diagonal was
+neurological biomarkers during interaction. We constructed an observed on the basis of whether the sample origin was basal or
+unsupervised principal components analysis (PCA) model from apical media and the absence or presence of Treg/TH17 cells (round
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 7 of 22
+detcerroc-DP
+SPM
+larberec
+DP
+SPM
+larberec
+IBA1 (microglia) S100B (astrocytes) Tuj1 (neurons) Composite
+Mevalonate metabolism
+Creatine metabolism
+Carnitine metabolism
+Thiamine metabolism
+Tyrosine metabolism
+Glutathione metabolism
+Purine metabolism
+Polyamine metabolism
+Pyrimidine metabolism, uracil containing
+Alanine and aspartate metabolism
+Phenylalanine metabolism
+Methionine, taurine metabolism
+Food component/plant
+Leucine and valine metabolsim
+Lysophospholipid
+0 5 10
+E F
+PD- corrected
+PD 300
+200
+100
+0
+lm/gp
+60,000
+40,000
+20,000
+0
+DJ1 P = 0.004**
+lm/gp
+GFAP
+20,000 P = 0.07
+15,000
+10,000
+5000
+lm/gp
+NSE
+P = 0.83
+150
+100
+50
+0
+lm/gp
+TSG 2 30,000 P = 0.06
+20,000
+10,000
+lm/gp
+100,000
+80,000
+60,000
+40,000 20,000
+UCHL1 P = 0.002**
+lm/gp
+-Synuclein
+P = 0.08
+Fig. 3. PD cerebral MPSs exhibit PD-associated transcriptional and metabolic features. (A) Rep
+
+Chunk 26:
+phospholipid
+0 5 10
+E F
+PD- corrected
+PD 300
+200
+100
+0
+lm/gp
+60,000
+40,000
+20,000
+0
+DJ1 P = 0.004**
+lm/gp
+GFAP
+20,000 P = 0.07
+15,000
+10,000
+5000
+lm/gp
+NSE
+P = 0.83
+150
+100
+50
+0
+lm/gp
+TSG 2 30,000 P = 0.06
+20,000
+10,000
+lm/gp
+100,000
+80,000
+60,000
+40,000 20,000
+UCHL1 P = 0.002**
+lm/gp
+-Synuclein
+P = 0.08
+Fig. 3. PD cerebral MPSs exhibit PD-associated transcriptional and metabolic features. (A) Representative, 3D rendered confocal images of the PD (top) and control
+PD-C (bottom) cerebral MPSs composed of hiPSC-derived microglia (green), astrocytes (purple), and neurons (red) cocultured on 0.4-m microporous 24-well Transwells.
+(B) Metabolic pathway enrichment in apical cerebral media after 4 days of culture of the PD cerebral MPSs when compared to the PD-C control MPS. (C) Volcano plot of
+DGE among neurons, astrocytes, and microglia in PD MPSs (red) over PD-C control MPSs (blue). (D) ClueGO Network of enriched (magenta) and suppressed (blue) WikiPathway
+pathways in PD cerebral MPSs based on DGE shown under (C). (E) Concentration (ng/ml) of multiplexed neuronal markers in apical media of the PD and PD-C MPSs after
+4 days of culture in isolation. Data represent six to nine biological replicates from two to three independent experiments. Significance was determined with paired t test.
+Lines in violin plots denote distribution quartiles. (F) DGE pathway enrichments in PD cerebral MPSs as compared to control PD-C MPSs based on the GEO Diseases database.
+Diseases are ranked by combined P value and rank score. (B to D and F) Data represent averages of three replicates after 4 days in coculture.
+Downloaded
+from
+https://www.science.org
+at Turku
+University
+on January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+or square sample labeling). The difference in cytokine ratios in the basis of ±SCFA treatment (i.e., empty versus filled markers) but not
+CM to the apical cerebral MPS media indicates that passive trans- PD and PD-C genotype; empty markers (+SCFA) are
+
+Chunk 27:
+in coculture.
+Downloaded
+from
+https://www.science.org
+at Turku
+University
+on January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+or square sample labeling). The difference in cytokine ratios in the basis of ±SCFA treatment (i.e., empty versus filled markers) but not
+CM to the apical cerebral MPS media indicates that passive trans- PD and PD-C genotype; empty markers (+SCFA) are left-shifted on
+port of signaling molecules into the apical compartment is insignif- the PC1 axis compared to their filled (no SCFA) counterparts. TH17
+icant, despite the lack of an endothelial BBB. Hence, a brain-specific cells are one of the first types of lymphocytes to cross the BBB under
+environment was maintained during interaction. inflammatory conditions, and their production of IL-17 contributes
+Notably, when focusing on a specific media compartment (apical to PD progression, while, at the same time, a reduced ratio of Tregs to
+or basal) and presence of Treg/TH17 cells, samples separated on the TH17 cells in blood of patients with PD has been observed (19, 20).
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 8 of 22
+9-LI BB/BA-FGDP 8-LI FGEV eniklatcarF α1-LI F71-LI 12-LI NIXATOE 3β-FGT 2 β-FGT L04DCs L3-tlF 51-LI SETNAR FSC-MG γ-NFI AA-FGDP 72-LI CDM 1-PCM AR1-LI β1-PIM ORG 01-PI α1-PIM 3-PCM α-FNT
+6.5
+0
+−6.5
+sllec
+T
+oN
+/sllec
+T
+lasaB/lacipA DP/C-DP
+A B media
+Apical c
+B
+e
+a
+r
+s
+e
+a
+b
+l
+r a co l
+M
+m m
+PS
+o n
+media
+P P
+P P
+D D
+D D
+/ /
+/ /
+B B
+A A
+a a
+p p
+s s
+i i c c
+a a
+a a
+l l / /
+l l / /
+N N
+N N
+o o
+o o
+T T
+T T
+c c
+c c
+e e
+e e
+l l l l
+l l
+s s
+l l s s
+/ /
+/ /
+S N
+N S
+C o
+C o
+F S
+F S
+A
+A
+C
+C
+F
+F
+A
+A
+PD/Basal/T cells/No SCFA
+PD/Basal/T cells/SCFA
+PD/Apical/T cells/No SCFA
+PD/Apical/T cells/SCFA
+PD-C/Basal/No T cells/No SCFA
+PD-C/Basal/No T cells/SCFA
+PD-C/Apical/No T cells/No SCFA
+PD-C/Apical/No T cells/SCFA
+PD-C/Basal/T cells/No SCFA
+PD-C/Basal/T cells/SCFA
+PD-C/Apical/T cells/No SCFA
+PD-C/Apical/T cells/SCFA
+C (+SCFA )
+Log FC
+No SCFA
+• •• • • •• • • 
+
+Chunk 28:
+/
+S N
+N S
+C o
+C o
+F S
+F S
+A
+A
+C
+C
+F
+F
+A
+A
+PD/Basal/T cells/No SCFA
+PD/Basal/T cells/SCFA
+PD/Apical/T cells/No SCFA
+PD/Apical/T cells/SCFA
+PD-C/Basal/No T cells/No SCFA
+PD-C/Basal/No T cells/SCFA
+PD-C/Apical/No T cells/No SCFA
+PD-C/Apical/No T cells/SCFA
+PD-C/Basal/T cells/No SCFA
+PD-C/Basal/T cells/SCFA
+PD-C/Apical/T cells/No SCFA
+PD-C/Apical/T cells/SCFA
+C (+SCFA )
+Log FC
+No SCFA
+• •• • • •• • • • • • ••
+• • • • • • • •
+•
+• • • • • •• • • • • • • • • • • • • • • • •
+• • • •• • • • • •• • • • •
+• •• • • • •• • • • •• • •
+•• • • •
+• FDR < 0.05
+• • FDR < 0.01
+D NSE
+0 2000 4000 6000 8000
+AFCS+
+AFCS+
+Trans-glutaminase 2
+*
+0 200 400 600 800 1000
+AFCS+
+AFCS+
+DJ-1
+0 200 400 600 800
+AFCS+
+AFCS+
+-Synuclein
+*
+0 2000 4000 6000
+AFCS+
+AFCS+
+UCHL1
+0 500
+1
+0 0,00
+1
+0 5,00
+2
+0 0,00
+2
+0 5,000
+AFCS+
+AFCS+
+GFAP
+**
+0 5000 10,000 15,000 20,000
+AFCS+
+AFCS+
+*
+C-DP
+DP
+PD-Cor PD
+Cerebral MPS ±20 mM SCFA
+PD-Cor PD
+Cerebral MPS ±20 mM SCFA
+pg/ml
+sllec
+T oN
+sllec
+T
+B
+A
+B
+A
+B
+A
+B
+A
+DP
+C-DP
+DP
+C-DP
+Significant in the absence Significant in the presence Significant in the absence
+Condition of Treg/TH17 cells of Treg/TH17 cells and presence of Treg/TH17 cells
+Fig. 4. SCFA universally reduce inflammatory cytokines during physiomimetic interaction. (A) Schematic presentation of conditions compared in Fig. 1 (B to D).
+(B) PCA of all multiplexed cytokines/chemokines after 4 days of interactions in the CM shared between the MPSs and apical cerebral MPS media. Samples primarily separate
+from top to bottom depending on the sampling site as indicated by the dotted line and from left to right depending on the presence of SCFA (empty markers) versus
+absence of SCFA (filled markers). Samples were z scored before PCA. (C) Presence of SCFA significantly reduces concentrations of most analytes regardless of PD or PD-C
+genotype, as illustrated in a heatmap showing log2 fold changes (log2FC) in cytokine, chemokine, and growth factor concentrations between SCFA-treated and untreated
+groups (see leftmost column). T
+
+Chunk 29:
+ence of SCFA (empty markers) versus
+absence of SCFA (filled markers). Samples were z scored before PCA. (C) Presence of SCFA significantly reduces concentrations of most analytes regardless of PD or PD-C
+genotype, as illustrated in a heatmap showing log2 fold changes (log2FC) in cytokine, chemokine, and growth factor concentrations between SCFA-treated and untreated
+groups (see leftmost column). The log2FC values are annotated for significance based on the false discovery rate (FDR) where •FDR < 0.05, ••FDR < 0.01. Heatmaps comparing
+actual concentrations can be found in fig. S3. (D) Concentration (ng/ml) of multiplexed neuronal markers in apical media of the interacting cerebral MPSs after 4 days of
+culture. Significance was determined with a paired t test where *P < 0.05, **P < 0.001. Each interacting condition had three replicates, and the results present their averages.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+SCFA have previously been reported to promote Treg differentiation In contrast, SCFA effects on the PD cerebral MPS exhibit different
+as well as to increase T cell effector function (39). mechanisms on the transcriptional level. The most significantly up-
+To further illuminate the influences of SCFA captured in the regulated pathways in SCFA-exposed PD MPSs were pathways
+left-shift of the +SCFA compared to −SCFA paired conditions along associated with cytoplasmic ribosomal proteins (Fig. 5, A and B).
+the PC1 axis in the PCA, we generated a heatmap of log2 fold changes While the involvement of the ribosomal protein machinery in the
+in cytokine, chemokine, and growth factor concentration values be- pathology of NDs is poorly understood, some preliminary studies
+tween SCFA-treated and untreated groups for each condition (Fig. 4C). link the increase of certain ribosomal protein genes to advanced PD
+A two-sided t test was conducted to compare the sample values +SCFA [a
+
+Chunk 30:
+le the involvement of the ribosomal protein machinery in the
+in cytokine, chemokine, and growth factor concentration values be- pathology of NDs is poorly understood, some preliminary studies
+tween SCFA-treated and untreated groups for each condition (Fig. 4C). link the increase of certain ribosomal protein genes to advanced PD
+A two-sided t test was conducted to compare the sample values +SCFA [although this is disease stage and site specific (44)]. Moreover, SCFA
+and −SCFA within a given condition, and values are annotated for increase the stress unfolded-protein response mediated through heat
+significance on the heatmap based on the false discovery rate. The shock factor 1. Concurrently, pathways related to spinal cord injury
+heatmap is organized to group together (i) analytes that are signifi- were up-regulated in PD MPSs exposed to SCFA during physiomi-
+cant only for groups in the absence of Treg/TH17 cells, (ii) analytes metic interaction, which, according to WikiPathways, is an umbrella
+that are significant only for groups with Treg/TH17 cells, and (iii) term encompassing increased activation and proliferation of astro-
+analytes that are significant across all conditions. The overwhelming cytes and microglia that results in scarring and reduced axonal
+majority of analytes are significantly suppressed by the presence of regeneration, although, to a smaller degree, pathways associated with
+SCFA during interaction, regardless of the PD genotype and re- Alzheimer’s disease—another ND associated with protein misfolding
+gardless of the presence of Treg/TH17 cells. This result is consistent and aggregation—were up-regulated under both the presence of
+with previously described anti-inflammatory effects of SCFA (8). Treg/TH17 cells and their absence after exposure to SCFA.
+Notably, the only significantly increased cytokines were the Treg/ Comparison of log2 fold changes and significance of DGE among
+TH17-related molecules TGF-2 and 3, IL-17F, and IL-21 in the apical 
+
+Chunk 31:
+ult is consistent and aggregation—were up-regulated under both the presence of
+with previously described anti-inflammatory effects of SCFA (8). Treg/TH17 cells and their absence after exposure to SCFA.
+Notably, the only significantly increased cytokines were the Treg/ Comparison of log2 fold changes and significance of DGE among
+TH17-related molecules TGF-2 and 3, IL-17F, and IL-21 in the apical all conditions indicated greater sensitivity of PD cerebral MPSs to
+compartments of the PD MPSs but not PD-C. SCFA have been SCFA than PD-C cultures regardless of presence or absence of Treg/
+shown previously to increase TGF- and IL-17 production of resting TH17 cells. This finding confirmed the previous observation of greater
+Treg and TH17 CD4 T cells (8). A greater number of measured ana- cytokine/chemokine reduction in PD MPSs by SCFA (Fig. 5C). In a
+lytes were significantly altered in the interactions with the PD than direct comparison of transcriptional changes between SCFA-treated
+with the PD-C MPSs, which indicates greater susceptibility of PD PD-C and PD cerebral MPSs during gut-liver-brain interaction in
+MPS to the presence of SCFA—particularly in the interaction with the presence of Treg/TH17 cells, significant differences in transcrip-
+Treg/TH17 cells. tion were observed (Fig. 5D). Pathways associated with increased
+SCFA did not significantly alter the release of Syn in either the metabolism and neurogenesis are enriched in the PD-C MPSs in the
+apical PD-C or the PD cerebral MPS (Fig. 4D); however, NSE and presence of SCFA and Treg/TH17 cells over the PD MPS while again
+GFAP were significantly reduced in the apical PD MPS during inter- pathways related to cytoplasmic ribosomal proteins, mevalonate
+action without Treg/TH17 cells. Although not significantly, it appears metabolism, and microglial activation are enriched in the PD MPSs
+that transglutaminase 2, an enzyme involved in protein cross-linking (Fig. 5E).
+in PD (40), was universally increased in the intera
+
+Chunk 32:
+n
+GFAP were significantly reduced in the apical PD MPS during inter- pathways related to cytoplasmic ribosomal proteins, mevalonate
+action without Treg/TH17 cells. Although not significantly, it appears metabolism, and microglial activation are enriched in the PD MPSs
+that transglutaminase 2, an enzyme involved in protein cross-linking (Fig. 5E).
+in PD (40), was universally increased in the interactions of the PD This finding led us to further characterize other in vitro condi-
+MPS as compared to PD-C while UCHL1, an important neuron- tions (e.g., PD or PD-C cerebral MPSs in isolation or in interaction
+specific enzyme shown to be protective against protein degradation with gut and liver, and with or without T cells and/or SCFA) with
+(41), seemed to be reduced in the PD MPSs. SCFA significantly re- respect to expression of certain genes that are known to be under-
+duced DJ-1 release (known to inhibit Syn aggregation) in PD but or overexpressed in patients with PD in vivo (Fig. 5F), to discern
+not PD-C MPSs in the presence of Treg/TH17 cells. whether any of the in vitro conditions were more closely associated
+with known trends in patients. The condition most resembling the
+Interaction with SCFA increases pathology-associated in vivo trends is the physiomimetic interaction with T cells and
+transcriptomic changes in PD but not PD-C MPSs SCFA. Under both conditions, genes encoding Syn (SNCA) and
+While the analysis of inflammatory signaling molecules indicated a tyrosine hydroxylase (TH), which is responsible for catalyzing cre-
+reduced state of immune activation during interactions in the pres- ation of dopamine, were underexpressed in the PD MPSs while genes
+ence of SCFA in both PD and PD-C conditions, the data also sug- related to protein translation (PABPC1), breakdown (SERPINA3),
+gested the PD MPSs to be more susceptible to alterations by SCFA and microglia activation (CD163) were increased. These differences
+with additional impact on release of neuronal biomarkers
+
+Chunk 33:
+tions in the pres- ation of dopamine, were underexpressed in the PD MPSs while genes
+ence of SCFA in both PD and PD-C conditions, the data also sug- related to protein translation (PABPC1), breakdown (SERPINA3),
+gested the PD MPSs to be more susceptible to alterations by SCFA and microglia activation (CD163) were increased. These differences
+with additional impact on release of neuronal biomarkers (Fig. 4D). were pronounced at a greater fold change and statistical significance
+Therefore, we investigated differences in gene expression individually in the presence of Treg/TH17 cells and SCFA. Moreover, during this
+in PD-C as well as PD MPSs in interactions with SCFA, first without interaction, genes associated with disease-associated microglia (DAM)
+Treg/TH17 cells (Fig. 5A) and next in their presence (Fig. 5B). (45), particularly TREM2-dependent stage 2 DAM, were significantly
+Transcriptomic analysis of the PD-C MPSs among the interac- increased by the presence of Treg/TH17 cells and SCFA as compared
+tions with SCFA and in the absence or presence of Treg/TH17 cells to the PD-C MPSs under the same conditions. DAM represent
+showed enrichment in beneficial pathways associated with glial cell microglia associated with pathologic lesions in NDs (46).
+differentiation (astrocytes and microglia), biogenic amine synthesis
+regulating production of the neurotransmitters dopamine and sero- SCFA induce transcriptomic changes unique to PD MPSs
+tonin (42), dopaminergic neurogenesis, and G protein signaling in the presence and absence of CD4+ T reg /T H 17 cells
+pathways (Fig. 5, A and B). G protein receptor GPR40 is a fatty acid A number of inflammatory cytokines during interaction with and
+receptor important not only for nutrient sensing but also for without circulating Treg/TH17 cells were reduced by SCFA, yet, at
+normal brain development as well as maintaining proper neuronal the same time, SCFA led to enrichment of pathology-related pathways
+function (43). under both conditions
+
+Chunk 34:
+G protein receptor GPR40 is a fatty acid A number of inflammatory cytokines during interaction with and
+receptor important not only for nutrient sensing but also for without circulating Treg/TH17 cells were reduced by SCFA, yet, at
+normal brain development as well as maintaining proper neuronal the same time, SCFA led to enrichment of pathology-related pathways
+function (43). under both conditions (Figs. 4 and 5) in the PD cerebral MPS but
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 9 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+−1 0 1 −1 0 12 −2 0 −2 0 2
+Log2FC
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 10 of 22
+)detsujda
+P( 01goL−
+PD-corrected PD
+PD PD-corrected
+−Treg/TH17 +Treg/TH17 −Treg/TH17 +Treg/TH17
++SCFA - SCFA +SCFA −SCFA +SCFA −SCFA +SCFA −SCFA DLK1
+MAGED1
+SLC432A
+RTL1 TENM4 MATN2 CY M P2 E 6 G B F 1 10 NWD2
+TFCP2 CP GPR50
+−4 −2 0 2
+Log2FC
+)detsujda
+P( 01goL−
+A
+miRNA targets in ECM and receptors
+Glial cell differentiation
+GPR40 pathway
+Biogenic amine synthesis
+Statin pathway
+Prostaglandin synthesis and regulation
+Dopaminergic neurogenesis
+Regulation of Wnt/B-catenin signaling
+Glycogen synthesis and degradation
+Adipogenesis
+0 100200300400500
+B Combined z and P score
+C D
+E
+tnemhcirne
+yawhtaP
+PD-C MPS in gut-liver MPS
+interaction + SCFA
+Glial cell differentiation
+Synaptic vesicle pathway G protein signaling pathways
+Melatonin metabolism and effects
+Pathways regulating hippo signaling
+Dopamine metabolism
+Biogenic amine synthesis
+Leptin and adiponectin
+Triacylglyceride synthesis
+BDNF signaling pathway
+0 50 100 150
+Combined z and P score
+tnemhcirne
+yawhtaP
+Cytoplasmic ribosomal proteins
+Photodynamic therapy–induced unfolded protein response
+Spinal cord injury
+Ferroptosis
+PI3K-Akt signaling pathway
+Neovascularization processes
+Amyotrophic lateral sclerosis
+Alzheimer’s disease
+BDNF signaling pathway
+Statin pathway
+0 200 400 600 800
+
+
+Chunk 35:
+and adiponectin
+Triacylglyceride synthesis
+BDNF signaling pathway
+0 50 100 150
+Combined z and P score
+tnemhcirne
+yawhtaP
+Cytoplasmic ribosomal proteins
+Photodynamic therapy–induced unfolded protein response
+Spinal cord injury
+Ferroptosis
+PI3K-Akt signaling pathway
+Neovascularization processes
+Amyotrophic lateral sclerosis
+Alzheimer’s disease
+BDNF signaling pathway
+Statin pathway
+0 200 400 600 800
+Combined z and P score
+PD-C MPS in gut-liver-Treg/TH17 MPS
+interaction + SCFA
+tnemhcirne
+yawhtaP
+PD MPS in gut-liver MPS
+interaction + SCFA
+Cytoplasmic ribosomal proteins
+G protein signaling pathways Photodynamic therapy–induced unfolded protein response
+Spinal cord injury
+Hippo-merlin signaling dysregulation
+Ferroptosis
+Glial cell differentiation
+Cholesterol biosynthesis pathway
+Neovascularization processes
+Alzheimer’s disease
+0 500 1000 1500
+Combined z and P score
+tnemhcirne
+yawhtaP
+PD MPS in gut-liver-Treg/TH17 MPS
+interaction + SCFA
+Cytoplasmic ribosomal proteins
+Translation factors
+Mevalonate pathway
+TYROBP causal network Ferroptosis Synaptic vesicle pathway Complement activation
+Cholesterol biosynthesis pathway Parkin-ubiquitin proteasomal system pathway
+Macrophage markers
+0 500 1000 1500
+Combined z and P score
+C-DP
+revo
+tnemhcirne
+yawhtaP
+Cori cycle
+Photodynamic therapy−induced HIF-1 survival signaling
+Focal adhesion-PI3K-Akt-mTOR−signaling pathway
+HIF1A and PPARG regulation of glycolysis
+Dopaminergic neurogenesis
+Hfe effect on hepcidin production Glycolysis and gluconeogenesis
+Focal adhesion BDNF-TrkB signaling Thermogenesis
+0 10 20 30 40 50
+Combined z and P score
+PD MPS in gut-liver-Treg/TH17 interaction with SCFA
+DP
+revo
+tnemhcirne
+yawhtaP
+PD-C MPS in gut-liver-Treg/TH17
+interaction with SCFA
+Log2FC
+−2 −1 0 1 2
+SNCA
+TMEM255A
+TH
+GBE1
+YWHAH
+DCLK1
+YWHAZ
+PABPC1 SERPINA3
+CD163
+PD vs. PD-C in isolation
+PD vs. PD-C in gut-liver-Treg/TH17
+MPS interaction with SCFA
+DP ni
+decudeR
+DP
+ni desaercnI
+stneitap
+stneitap
+Log2FC
+−0.50.00.51.01.5
+****
+**** CSF1R
+**** **** CTSS
+*** **
+
+Chunk 36:
+ gut-liver-Treg/TH17 interaction with SCFA
+DP
+revo
+tnemhcirne
+yawhtaP
+PD-C MPS in gut-liver-Treg/TH17
+interaction with SCFA
+Log2FC
+−2 −1 0 1 2
+SNCA
+TMEM255A
+TH
+GBE1
+YWHAH
+DCLK1
+YWHAZ
+PABPC1 SERPINA3
+CD163
+PD vs. PD-C in isolation
+PD vs. PD-C in gut-liver-Treg/TH17
+MPS interaction with SCFA
+DP ni
+decudeR
+DP
+ni desaercnI
+stneitap
+stneitap
+Log2FC
+−0.50.00.51.01.5
+****
+**** CSF1R
+**** **** CTSS
+*** **** SPARC
+** **** C1QA
+*
+**** CTSB
+*** CTSD
+*** APOE
+****
+**** TREM2 **** CTSL
+**** **** CD9
+2 egatS MAD
+****
+**** ****
+* ****
+**** ****
+*
+****
+**** ****
+****
+****
+** ****
+****
+PD vs. PD-C in isolation
+PD vs. PD-C in gut-liver-Treg/TH17
+MPS interaction with SCFA
+citatsoemoH
+1 egatS
+seneg
+MAD
+PD-C or PD
+Cerebral MPS ± 20 mM SCFA
+PD-Cor PD
+Cerebral MPS ± 20 mM SCFA
+F G
+PD-associated DGE of PD vs. PD-C DAMof PDvs. PD-C
+MPSs in isolation or interaction with SCFFFA MPSs in isolation or interaction with SCFFFA
+Fig. 5. SCFA increase pathology-related transcriptomic changes in PD MPSs. (A) Left: Schematic representation of the interaction condition. Right: Comparison of
+enriched pathways based on WikiPathways between SCFA-exposed and non-exposed PD-C (left) as well as PD MPSs (right) in interactions with the gut and liver MPSs.
+(B) Left: Schematic representation of the interaction condition. Right: Comparison of enriched pathways based on WikiPathways between SCFA-exposed and non-exposed
+PD-C (left) as well as PD MPSs (right) in interactions with the gut and liver MPSs as well as circulating Treg/TH17 cells. (C) Volcano plots of differentially expressed genes in
+control PD-C and PD cerebral MPSs across all interaction conditions in the presence (red) or absence (blue) of SCFA. (D) Volcano plot of DGE in SCFA-exposed PD cerebral
+MPSs (red) over PD-C control MPSs (blue) during gut-liver-brain interactions in the presence of circulating Treg/TH17 cells and SCFA. (E) Pathway enrichments based on
+DGE shown under (D) in SCFA-exposed control PD-C cerebral MPSs (top) as compared to SCFA-exp
+
+Chunk 37:
+ MPSs across all interaction conditions in the presence (red) or absence (blue) of SCFA. (D) Volcano plot of DGE in SCFA-exposed PD cerebral
+MPSs (red) over PD-C control MPSs (blue) during gut-liver-brain interactions in the presence of circulating Treg/TH17 cells and SCFA. (E) Pathway enrichments based on
+DGE shown under (D) in SCFA-exposed control PD-C cerebral MPSs (top) as compared to SCFA-exposed PD MPSs (bottom) according to WikiPathways. Pathways are
+ranked based on a combined z and P value score. (F) DGE of PD-associated genes comparing PD and PD-C MPSs in isolation or interaction with Treg/TH17 cells and SCFA.
+Interaction significantly increases the in vivo–like expression of PD-associated genes. (G) DGE of disease-associated microglia (DAM)–associated genes comparing PD and
+PD-C MPSs in isolation or interaction with Treg/TH17 cells and SCFA where the interaction in the presence of Treg/TH17 cells significantly increases expression of DAMs.
+(A to G) Data represent averages of three replicates after a 4-day interaction. Significance is indicated as *P < 0.05, **P < 0.001, ***P < 0.0001, ****P < 0.00001.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+not the control PD-C MPS. We next investigated universal SCFA- twined, obscuring causality. While most of our current knowledge
+specific transcriptomic changes occurring in both the presence and about PD comes from valuable animal experimentation and hu-
+absence of CD4+ T cells in PD versus PD-C MPSs when they were man clinical data, the overwhelming disease complexity on a whole
+in interaction with gut and liver MPSs. We identified 359 uniquely organismal level is a roadblock to progress in its own right. With
+up-regulated genes in PD MPSs when they were in interaction with the advance of human ex vivo modeling of organ-organ interac-
+gut and liver MPSs regardless of the presence or absence of Treg/ tions, previously inaccess
+
+Chunk 38:
+the overwhelming disease complexity on a whole
+in interaction with gut and liver MPSs. We identified 359 uniquely organismal level is a roadblock to progress in its own right. With
+up-regulated genes in PD MPSs when they were in interaction with the advance of human ex vivo modeling of organ-organ interac-
+gut and liver MPSs regardless of the presence or absence of Treg/ tions, previously inaccessible possibilities arise in recreating com-
+TH17 cells, while 33 genes were universally up-regulated in the PD-C plex aspects of human disease etiology under defined and controlled
+MPSs by SCFA (Fig. 6A). Similarly, 303 genes were universally conditions (9).
+down-regulated in the PD MPSs and 5 in the PD-C SCFA-exposed At present, in vitro models insufficiently recapitulate organ-organ
+MPSs. Analysis of gene expression in all cerebral MPSs (regardless and organ-immune interactions required for representative modeling
+of genotype or presence of CD4+ T cells) showed that SCFA univer- related to gut-liver metabolism, immunity, and complex cerebral
+sally increased metabolic pathways associated with lipid metabolism biology (51, 52), but a number of technologies have been developed
+as previously reported (47), increased pathways of acetylcholine for the coculture of various MPSs that represent important stepping
+synthesis, and reduced expression of pathways associated with im- stones in the evolution of multiorgan-interacting platforms (52, 53).
+mune activation in a manner consistent with the reduced concen- Drug metabolism and toxicology have been mainstay applications
+tration of inflammatory cytokines (Fig. 6B). of MPS technologies (51, 52), with emerging applications in modeling
+We next identified universally enriched (Fig. 6C) and down- diseases necessitating incorporation of more complex organ-level
+regulated pathways (Fig. 6D) exclusively in the PD MPSs. SCFA phenomena (8, 11, 14). Multiorgan pharmacokinetics and toxicity
+specifically increased expression of genes related t
+
+Chunk 39:
+matory cytokines (Fig. 6B). of MPS technologies (51, 52), with emerging applications in modeling
+We next identified universally enriched (Fig. 6C) and down- diseases necessitating incorporation of more complex organ-level
+regulated pathways (Fig. 6D) exclusively in the PD MPSs. SCFA phenomena (8, 11, 14). Multiorgan pharmacokinetics and toxicity
+specifically increased expression of genes related to cytoplasmic have been investigated by pipetting discrete aliquots of media be-
+protein processing including cytoplasmic protein complex binding, tween individual MPSs (53, 54) and by interconnecting individual
+transport, metabolism, and responses to unfolded protein with re- MPSs fluidically on a platform (55), an approach that is also being
+sponses to metal ions based on GO Molecular Function (GO MF) applied to disease modeling (8, 56). However, extended (48+ hours)
+and Biological Process (GO BP). Moreover, analysis based on Kyoto coculture with innate immune cells and concomitant analysis of in-
+Encyclopedia of Genes and Genomes and WikiPathways indicated a flammation responses have not been described. Acute trafficking of
+strong up-regulation of pathways regulating silencing of ceruloplasmin. circulating immune cells through an endothelial or epithelial barrier
+Ceruloplasmin is vitally important for iron transport and prevention has been studied in individual MPSs using once-through flow (15),
+of iron accumulation, and mutations in the ceruloplasmin encod- but a significant barrier to extended coculture of circulating immune
+ing gene have been found to be associated with increased iron accu- cells with interconnected MPS is the need for pumps that are both
+mulation in patients with PD (48). The A53T Syn mutation has safe for circulating immune cells and compatible with lipophilic
+explicitly been linked to increased iron-dependent aggregation and culture medium components, including drugs (i.e., pump materials
+toxicity (49) due to Syn’s strong affinity for both ferric
+
+Chunk 40:
+ased iron accu- cells with interconnected MPS is the need for pumps that are both
+mulation in patients with PD (48). The A53T Syn mutation has safe for circulating immune cells and compatible with lipophilic
+explicitly been linked to increased iron-dependent aggregation and culture medium components, including drugs (i.e., pump materials
+toxicity (49) due to Syn’s strong affinity for both ferric and ferrous must exclude PDMS).
+iron with both forms of iron accelerating Syn aggregation (50). Our conceptual and experimental model of continuous and pro-
+Concurrently, pathways associated with ferroptosis were increased. longed interactive immune-metabolic cross-talk between organ
+On the other hand, SCFA universally reduced pathways involved systems represents a significant advance in modeling the human
+in glutamate receptor activity, general neurogenesis, and chromo- gut-brain axis in the context of NDs in vitro. We have created a
+some organization. Moreover, SCFA reduced pathways of protein human gut-liver-cerebral physiomimetic system that incorporates cells
+SUMOylation. Posttranslational modification of Syn via small of both the innate and adaptive immune system. Using this approach
+ubiquitin-like modifier (SUMO) proteins is necessary to prevent Syn and advanced genetic tools, we were able to observe increased mat-
+aggregation, and SUMOylation of DJ-1 is critical for its full function (35). uration of hiPSC-derived neurons, astrocytes, and microglia on the
+Together (Fig. 6E), our findings show interaction of PD-C cere- transcriptomic level. Using hiPSCs from a donor with familiar PD
+bral MPSs with the gut-liver axis to increase expression of pathways carrying the A53T mutation, we could partially recreate known
+related to (i) maturation of neurons, microglia, and astrocytes; (ii) clinical manifestations of familial PD that includes several markers
+immune function; and (iii) neuronal function. Addition of SCFA indicative of Syn aggregation, previously reported ch
+
+Chunk 41:
+ familiar PD
+bral MPSs with the gut-liver axis to increase expression of pathways carrying the A53T mutation, we could partially recreate known
+related to (i) maturation of neurons, microglia, and astrocytes; (ii) clinical manifestations of familial PD that includes several markers
+immune function; and (iii) neuronal function. Addition of SCFA indicative of Syn aggregation, previously reported changes in lipid
+further increased lipid metabolism–related pathways in all cerebral metabolism, and increase in pathways related to neuronal pathology.
+MPSs regardless of phenotype. The observed SCFA-induced chang- However, it is important to note that PD encompasses a great number
+es appeared to benefit the PD-C cerebral MPSs under all conditions of different pathological changes that are not restricted only to neu-
+while the opposite seems to be true for the PD MPSs in the presence rons and the brain; hence, the here presented system mimics only a
+or absence of Treg/TH17 cells. Under both interaction conditions, subset of known disease hallmarks. Moreover, PD is a slow-progressing
+SCFA reduced pathways related to general neurogenesis and increased disease that develops over decades, which is a considerable challenge
+expression of genes related to neurodegenerative pathology. While these from the perspective of disease modeling, both in vitro and in vivo.
+preliminary results paint an interesting hypothesis, further work using Currently, we can only perform comparative exposure studies over
+a variety of different donors and cell lines will speak of the universality relatively short time frames compared to the time frames for disease
+of our findings in terms of both donor specificity and specificity of development. Whereas some individual cerebral MPSs have been
+these results regarding the underlying cause of proteinopathies. maintained in culture for over 5 months and liver MPS for weeks
+(12), the duration of the experiments here was limited in the longevity
+of the gut mucos
+
+Chunk 42:
+time frames compared to the time frames for disease
+of our findings in terms of both donor specificity and specificity of development. Whereas some individual cerebral MPSs have been
+these results regarding the underlying cause of proteinopathies. maintained in culture for over 5 months and liver MPS for weeks
+(12), the duration of the experiments here was limited in the longevity
+of the gut mucosal barrier. Gut epithelia differentiate rapidly when
+DISCUSSION cultured in a format lacking continuous stimulation from the basal
+Multifactorial NDs remain one of the biggest medical challenges of compartment by niche factors that maintain the stem cell compart-
+our time, because both environmental and genetic factors are inter- ment (57). These factors were not used as they are deleterious to the
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 11 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+A B Universally up-regulated Universally down-regulated
+Up-regulated Down-regulated after SCFA treatment after SCFA treatment
+P + D S M C P F S A P + D S c C M F P A S P + D S M C P F S A P + D S c C M F P A S miRNA targets in ECM receptors Angiogenesis
++ Treg/TH17 + Treg/TH17 Acetylcholine synthesis IL-6 signaling pathway
+P + D S M CF P A S P + D S c C M FA PS P + D S M CF P A S P + D S c C M FA PS Statin pathway NO/cGMP-mediated neuroprotection
++ Treg/TH17 + Treg/TH17
+Biogenic amine synthesis TNF-α signaling pathway
+Metabolic pathway of LDL, HDL, and TGWnt signaling pathway and potency
+0 200 400 600 0 50 100 150
+Combined z and P score Combined z and P score
+C
+Up-regulated pathways in PD cerebral MPSs by SCFA in the presence and absence of Treg/TH17 cells
+L13a-mediated translational silencing
+of ceruloplasmin expression
+SRP-dependent cotranslational
+protein targeting to membrane Protein targeting to ER Selenocysteine synthesis
+Structural constituent Ribosome Regulation of expr
+
+Chunk 43:
+cy
+0 200 400 600 0 50 100 150
+Combined z and P score Combined z and P score
+C
+Up-regulated pathways in PD cerebral MPSs by SCFA in the presence and absence of Treg/TH17 cells
+L13a-mediated translational silencing
+of ceruloplasmin expression
+SRP-dependent cotranslational
+protein targeting to membrane Protein targeting to ER Selenocysteine synthesis
+Structural constituent Ribosome Regulation of expression of
+of ribosome SLITs and ROBOs
+Nitrogen compound transport
+Axon guidance
+Cellular protein localization Peptide biosynthetic process
+Protein-containing
+complex binding un R f e o s ld p e o d n s p e ro t t o e in Cellular reponse to Regulation of protein Ferroptosis
+metal ion metabolic process Ferroptosis Apoptosis-related network
+Antigen processing due to altered Notch3
+D
+Down-regulated pathways in PD cerebral MPSs by SCFA in the presence and absence of Treg/TH17 cells
+Nervous system development
+Chromosome organization SUMO E3 ligases SUMOylate
+Chromatin binding target proteins
+Cell projection organization
+SUMOylation
+Cell cycle
+Neurogenesis
+Protein-protein interactions
+Glutamate receptor activity Brain development at synapses
+Regulation of cell cycle Glutamatergic synapse
+Rett syndrome–
+Protein binding MicroRNAs in cancer causing genes
+E
+1 PD-C cerebral MPS 2 PD-C cerebral MPS 3 PD cerebral MPS
++ +
+20 mM SCFA 20 mM SCFA
+Physiomimetic interaction Physiomimetic interaction Physiomimetic interaction
+INCREASED INCREASED INCREASED
+Maturation Glial cell differentiation PD-associated pathology
+Immune function Lipid metabolism Lipid metabolism
+Neurogenesis Dopaminergic signaling Ferroptosis-associated
+pathways
+Fig. 6. PD MPS-unique transcriptional changes during interaction with SCFA. (A) Venn diagram showing number of unique or shared DGE among SCFA-exposed PD
+and PD-C MPSs during interaction with the gut and liver in the presence or absence of circulating Treg/TH17 cells. Left: Up-regulated genes, right: down-regulated genes.
+On the basis of the number of altered genes, 
+
+Chunk 44:
+erroptosis-associated
+pathways
+Fig. 6. PD MPS-unique transcriptional changes during interaction with SCFA. (A) Venn diagram showing number of unique or shared DGE among SCFA-exposed PD
+and PD-C MPSs during interaction with the gut and liver in the presence or absence of circulating Treg/TH17 cells. Left: Up-regulated genes, right: down-regulated genes.
+On the basis of the number of altered genes, SCFA affect PD MPSs to a greater extent than PD-C MPSs. (B) Pathway enrichments based on DEG shown under (A) univer-
+sally in all cerebral MPSs, regardless of genotype or the presence of Treg/TH17 cells, according to WikiPathways database. Pathways are ranked on the basis of a combined
+z and P value score. (C) Up-regulated pathways, identified with g:Profiler, exclusively in PD cerebral MPSs after interaction and the exposure to SCFA regardless of the
+presence of Treg/TH17 cells. (D) Down-regulated pathways, identified with g:Profiler, exclusively in PD cerebral MPSs after gut-liver interaction and the exposure to SCFA
+regardless of the presence of Treg/TH17 cells. (A to D) Data represent averages of three replicates after a 4-day interaction. (E) Schematic summary of unique and universal
+effects of SCFA during interaction with the PD-C and PD cerebral MPSs.
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 12 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+other MPSs. Tissue-engineering approaches that combine the niche oped on the basis of iPSCs, cell lines, or human umbilical vein
+factor–producing stromal cells with epithelial cells in a crypt-lumen endothelial sources (54, 68, 69), in vivo–like function of the barrier
+configuration are needed to create a long-lived gut mucosa, and we is notoriously difficult to achieve. This stems from the fact that (i)
+speculate that several biomaterials and microfabrication technolo- the BBB is not composed of one single cell type 
+
+Chunk 45:
+ vein
+factor–producing stromal cells with epithelial cells in a crypt-lumen endothelial sources (54, 68, 69), in vivo–like function of the barrier
+configuration are needed to create a long-lived gut mucosa, and we is notoriously difficult to achieve. This stems from the fact that (i)
+speculate that several biomaterials and microfabrication technolo- the BBB is not composed of one single cell type but rather requires
+gies recently described for gut mucosal barrier culture might soon the interplay of a number of cells with varying ratios to achieve
+be combined to this end (57, 58). in vivo functionality, (ii) they are not static in their physiological
+Our work shows that interaction of corrected cerebral MPSs behavior but highly dynamic in terms of permeability as well as
+with the gut and liver MPSs and circulating Treg/TH17 leads to the receptors and transporters they express as a response to changes
+increased expression of neuronal, astrocyte, and microglial homeo- in environment, and (iii) vascular barriers are not the same through-
+static genes as well as metabolic pathways related to glycolysis out the human body but rather specific. As a result, in vitro BBBs
+and cholesterol synthesis. Moreover, the interaction increased lack well-defined and accepted benchmarks and can present mis-
+dopamine receptor–mediated signaling, axon guidance, and serotonin leading biological features of a multi-MPS system (69, 70). Cytokines,
+and oxytocin signaling in interacting cerebral MPSs. Inclusion of SCFA, and other microbial metabolites pass the barrier (3, 53);
+both innate and adaptive immune cells in the physiomimetic sys- hence, we chose to compare interaction of MPSs, immune cells,
+tem resulted in cytokine/chemokine values closer to reported values and SCFA laterally between PD and PD-corrected MPSs in the
+in human plasma and CSF. Future experiments will be aimed at ex- absence of an in vitro BBB. While important differences exist be-
+ploring changes in functionality of the 
+
+Chunk 46:
+ immune cells in the physiomimetic sys- hence, we chose to compare interaction of MPSs, immune cells,
+tem resulted in cytokine/chemokine values closer to reported values and SCFA laterally between PD and PD-corrected MPSs in the
+in human plasma and CSF. Future experiments will be aimed at ex- absence of an in vitro BBB. While important differences exist be-
+ploring changes in functionality of the individual cell types involved tween the response of the PD and PD-corrected cerebral MPSs to
+in this study. These experiments can be coupled to advanced models SCFA, this work can serve as a reference point without the inclusion
+of heterologous cellular cytokine cross-talk and network models of of an in vitro BBB in which future models with an in vivo–like BBB
+metabolism to further illuminate immune-metabolic cross-talk with can be evaluated.
+organ systems (59–61). In the gut, the vascular barrier is involved in inflammation asso-
+Exacerbated neuronal damage is accompanied by inflammatory ciated with microbial antigens, a phenomenon we deliberately sep-
+responses in vivo, where a question remains whether inflammation arate from that of microbial small-molecule metabolites and hence
+itself is a primary driver of PD pathology. Addition of SCFA in the was not included in the present study. The epithelial barrier is the
+gut-liver-brain interaction led to a marked decrease in inflammatory major gate to the systemic circulation for metabolic products, such
+mediators in interactions with and without Treg/TH17 cells. Gastro- as SCFA, and cytokines analyzed here. Similarly, the highly fenes-
+intestinal symptoms often precede motor manifestations of PD (62), trated liver sinusoidal endothelial cells are antigen-presenting cells
+and in mouse models of PD, SCFA were implicated in early onset that are involved in response to bacterial antigens and modulate
+of PD (1), yet paradoxically, a study comparing the colonic micro- immune cell trafficking (71) but become a significant barrier to
+
+Chunk 47:
+s-
+intestinal symptoms often precede motor manifestations of PD (62), trated liver sinusoidal endothelial cells are antigen-presenting cells
+and in mouse models of PD, SCFA were implicated in early onset that are involved in response to bacterial antigens and modulate
+of PD (1), yet paradoxically, a study comparing the colonic micro- immune cell trafficking (71) but become a significant barrier to
+biota of patients with PD with those of healthy controls has identified hepatocyte uptake of nutrients only under cirrhotic conditions
+a reduced frequency of SCFA-producing bacterial phyla among the outside the scope of those studied here.
+PD cohort (62). This contradiction might be explained by the context- In our lateral comparison of PD and PD-C MPSs during interac-
+dependent modulatory action of SCFA that might depend on the tion, even without a BBB, we were able to identify significant links
+disease stage or genetic background. SCFA can dampen inflammation between SCFA and the PD cerebral MPSs. These were unique to
+and promote differentiation of tolerance inducing CD4+ Treg cells the PD genotype and were not observed among MPSs with the cor-
+(63), yet exacerbate proinflammatory programs of activated CD4+ rected A53T mutation. Notably, pathways related to ferroptosis were
+(8, 39) and CD8+ T cells (64). However, in the physiomimetic inter- uniquely increased in PD but not PD-C MPSs during interaction
+action of SCFA (albeit in the absence of a live microbiome) and PD with SCFA, regardless of the presence of Treg/TH17 cells and the
+cerebral MPSs carrying the A53T mutation, in both the presence reduction in inflammatory cytokines. This might suggest a lipid
+and absence of Treg/TH17 cells, SCFA lead to enrichments in PD- metabolism–related, rather than immune-related link between SCFA
+associated pathways and changes on the global gene expression and PD neuronal pathology in vitro. Ferroptosis is a form of regu-
+indicative of neuronal damage. This might be due to inflammatio
+
+Chunk 48:
+h the presence reduction in inflammatory cytokines. This might suggest a lipid
+and absence of Treg/TH17 cells, SCFA lead to enrichments in PD- metabolism–related, rather than immune-related link between SCFA
+associated pathways and changes on the global gene expression and PD neuronal pathology in vitro. Ferroptosis is a form of regu-
+indicative of neuronal damage. This might be due to inflammation- lated cell death where iron-dependent accumulation of lipid hydro-
+independent modulatory properties of SCFA related to lipid metab- peroxides leads to cell death (72). Iron, phospholipids, and fatty acid
+olism. The mevalonate pathway was the most enriched pathway metabolism increase the cells’ susceptibility to ferroptosis (73). Evi-
+when comparing the metabolomic profile of PD versus PD-C MPSs dence of ferroptosis as a cause of death in dopaminergic neurons in
+in isolation, which is an essential pathway required for cholesterol PD is mounting and increased interest exists in the connection
+synthesis and a target of statins—a class of cholesterol-lowering between protein misfolding, ferroptosis, and lipid metabolism that
+drugs (65). Studies report both disease-improving and disease- warrants further investigation (74).
+exacerbating effects of statins in general, and a consensus has yet Last, our proof-of-concept physiomimetic study indicates that
+to be achieved (66). The brain is a highly lipid-rich organ where interaction of cerebral MPSs with gut and liver MPSs increases ex-
+both cholesterol accumulation and monounsaturated fatty acid pression of genes associated with maturation of neurons, astrocytes,
+metabolism have been linked to neurotoxicity; hence, an urgent and microglia—a feature notoriously hard to achieve in in vitro
+need exists to further clarify involvement of fatty acid metabolism models of the brain. Further verification with additional cell lines
+in PD (67). representing different patient origins will be useful for extending our
+Last, a limitation of th
+
+Chunk 49:
+ion of neurons, astrocytes,
+metabolism have been linked to neurotoxicity; hence, an urgent and microglia—a feature notoriously hard to achieve in in vitro
+need exists to further clarify involvement of fatty acid metabolism models of the brain. Further verification with additional cell lines
+in PD (67). representing different patient origins will be useful for extending our
+Last, a limitation of the current study and many other in vitro biological findings, but our current study illustrates how key ques-
+models of NDs, such as 2D single-cell type cultures or brain organoid- tions can be defined and combined with an experimental framework,
+based models, is the absence of a functional in vitro BBB. Although representing an essential first step in this direction. Our work adds
+significant progress in modeling the neuro-vascular unit has been credence to the growing promise of physiomimetic technologies to
+made and a number of in vitro models of the BBB have been devel- serve as tools for hypothesis generation and mechanistic confirmation
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 13 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+as well as a capability to supplement current preclinical approaches EVOM2 meter (World Precision Instruments). Monolayers were
+in neurodegenerative research. used for further experimentation at days 7 to 9 after seeding.
+Coculture of epithelial monolayers with dendritic cells
+and macrophages (gut MPS)
+MATERIALS AND METHODS Gut MPSs were prepared by seeding human monocyte-derived
+Gut MPSs dendritic cells and macrophages, as the innate immune component
+Gut organoids of the gut MPS, on the basolateral side of Transwell membranes that
+The colon organoids HC176 of nondiseased tissue used in this study have differentiated epithelial monolayers on the apical side as de-
+were established and maintained as previously described (75) by the scr
+
+Chunk 50:
+ared by seeding human monocyte-derived
+Gut MPSs dendritic cells and macrophages, as the innate immune component
+Gut organoids of the gut MPS, on the basolateral side of Transwell membranes that
+The colon organoids HC176 of nondiseased tissue used in this study have differentiated epithelial monolayers on the apical side as de-
+were established and maintained as previously described (75) by the scribed before (8). The monocytes were isolated from Leuko Pak
+Harvard Digestive Disease Center. Endoscopic tissue biopsies were PBMCs (StemCell, catalog no. 70500) using the EasySep Human
+collected from the ascending colon of de-identified individuals at Monocyte Enrichment Kit without CD16 depletion (StemCell,
+Boston Children’s Hospital upon the donors’ informed consent. catalog no. 19058). We differentiated macrophages in RPMI 1640
+Methods were carried out in accordance to the Institutional Review medium (Gibco) supplemented with 10% fetal bovine serum (FBS),
+Board of Boston Children’s Hospital (protocol no. IRB-P00000529). 1× Glutamax, and Recombinant Human M-CSF (100 ng/ml; Bio-
+We digested the tissue in 2 mg ml−1 collagenase I (StemCell, catalog Legend, catalog no. 574804). Dendritic cells were differentiated in
+no. 07416) for 40 min at 37°C followed by mechanical dissociation, RPMI 1640 medium (Gibco) supplemented with Pen/Strep, 10%
+and isolated crypts were resuspended in growth factor–reduced heat-inactivated FBS, 1% MEM Non-Essential Amino Acid Solution
+Matrigel (Corning, catalog no. 356237) and polymerized at 37°C. (Gibco), 1% Glutamax, GM-CSF (100 ng/ml; BioLegend, catalog no.
+Organoids were cultured in expansion medium (EM) consisting of 572903), Recombinant human IL-4 (70 ng/ml; BioLegend, catalog
+Advanced Dulbecco’s modified Eagle’s medium (DMEM)/F12 sup- no. 574004), and retinoic acid (10 nM; Sigma-Aldrich, catalog no.
+plemented with L-WRN conditioned medium (65% v/v; American R2625-50MG). After 7 days of differentiation (at day 8 after epithelial
+Type Culture 
+
+Chunk 51:
+ no.
+Organoids were cultured in expansion medium (EM) consisting of 572903), Recombinant human IL-4 (70 ng/ml; BioLegend, catalog
+Advanced Dulbecco’s modified Eagle’s medium (DMEM)/F12 sup- no. 574004), and retinoic acid (10 nM; Sigma-Aldrich, catalog no.
+plemented with L-WRN conditioned medium (65% v/v; American R2625-50MG). After 7 days of differentiation (at day 8 after epithelial
+Type Culture Collection, catalog no. CRL-3276), Glutamax (2 mM; cell seeding), dendritic cells and macrophages were harvested using
+Thermo Fisher Scientific, catalog no. 35050-061), Hepes (10 mM; TrypLE Express (Gibco) and seeded onto the basal side of the
+Thermo Fisher Scientific, catalog no. 15630-080), penicillin/ Transwells, 2.5 × 104 cells per population per Transwell. Gut MPSs
+streptomycin (Pen/Strep) (Thermo Fisher Scientific, catalog no. with TEER greater than 200 ohm·cm2 were considered acceptable
+15070063), murine epidermal growth factor (EGF) (50 ng ml−1; for experimentation and were integrated onto the 3XGLB platform
+Thermo Fisher Scientific, catalog no. PMG8041), N2 supplement for interaction studies. During all experiments, the gut MPSs were
+(Thermo Fisher Scientific, catalog no. 17502-048), B-27 Supplement maintained in serum-free apical medium consisting of Advanced
+(Thermo Fisher Scientific, catalog no. 17502-044), human [Leu15]- DMEM/F12 with or without the SCFA, sodium acetate (12 mM), sodium
+gastrin I (1 nM; Sigma-Aldrich, catalog no. G9145), N-acetyl cysteine propionate (4 mM), and sodium butyrate (4 mM) from Sigma-Aldrich.
+(500 M; Sigma-Aldrich, catalog no. A9165-5G), nicotinamide
+(10 mM; Sigma-Aldrich, catalog no. N0636), thiazovivin (2.5 M; Common media
+Tocris, catalog no. 3845), A83-01 (500 nM; Tocris, catalog no. 2939), The basal gut compartment and the liver and cerebral MPS com-
+SB202190 (10 M; PeproTech catalog no. 1523072), prostaglandin partments that were fluidically linked to systemic circulation on the
+E2 (5 nM; StemCell catalog no. 72192) at 37°C an
+
+Chunk 52:
+otinamide
+(10 mM; Sigma-Aldrich, catalog no. N0636), thiazovivin (2.5 M; Common media
+Tocris, catalog no. 3845), A83-01 (500 nM; Tocris, catalog no. 2939), The basal gut compartment and the liver and cerebral MPS com-
+SB202190 (10 M; PeproTech catalog no. 1523072), prostaglandin partments that were fluidically linked to systemic circulation on the
+E2 (5 nM; StemCell catalog no. 72192) at 37°C and 5% CO2. Organoids 3XGLB were fed with serum-free CM that contained William’s E
+were passaged every 7 days by incubating in Cell Recovery Solution medium (Thermo Fisher Scientific, catalog no. A1217601), 4% Cell
+(Corning, catalog no. 354253) for 40 min at 4°C, followed by Maintenance Supplement Pack (Thermo Fisher Scientific, catalog no.
+mechanical dissociation and reconstitution in fresh Matrigel at a CM4000), IL-2 (50 IU/ml; R&D Systems, catalog no. 202-IL), 100 nM
+1:3 to 4 ratio. hydrocortisone, 5 mM glucose, 800 pM insulin, and 0.5% Pen/Strep.
+Epithelial monolayers on Transwell inserts Experiments here and throughout the entire work were conducted
+Colon organoids were collected at days 7 to 9 after passaging. Cell in modified culture medium that had previously been tailored for
+Recovery Solution was used for 40 min at 4°C to dissolve Matrigel, physiological responses of the human liver MPS, in which the high
+followed by incubation of organoids in Trypsin/EDTA (Thermo nonphysiological concentrations of cortisol and insulin, typically used
+Fisher Scientific, catalog no. 12605036) at 37°C for 5 min. Next, to maintain CYP450 levels in primary hepatocyte cultures, were re-
+organoids were mechanically dissociated into single cells, resuspend- duced to concentrations within the physiological range (12, 13).
+ed in EM without nicotinamide, and seeded onto type I collagen
+(50 g/ml)–coated 12-well 0.4-m pore polyester Transwell inserts Liver MPSs
+(Corning, 3493) at a density of 3 × 105 cells per Transwell. After 3 to Preparation of the liver MPSs was performed as described prev
+
+Chunk 53:
+s were mechanically dissociated into single cells, resuspend- duced to concentrations within the physiological range (12, 13).
+ed in EM without nicotinamide, and seeded onto type I collagen
+(50 g/ml)–coated 12-well 0.4-m pore polyester Transwell inserts Liver MPSs
+(Corning, 3493) at a density of 3 × 105 cells per Transwell. After 3 to Preparation of the liver MPSs was performed as described previously.
+5 days of incubation, monolayers were confluent and we initiated Single-donor human primary hepatocytes were obtained from BioIVT
+differentiation as described previously (8). For differentiation, (lot AQL; 63-year-old male), and Kupffer cells, as the innate immune
+apical medium was replaced with Advanced DMEM/F12 plus Hepes, component of the liver MPSs, were purchased from Thermo Fisher
+Glutamax, and Pen/Strep and basolateral media with differentiation Scientific (catalog no. HUKCCS; 29-year-old male). Both cell types
+medium, which is EM without L-WRN conditioned medium, nicotin- were seeded on liver scaffolds that are 0.25-mm polystyrene discs
+amide, prostaglandin E2, SB202190, and thiazovivin, but supple- perforated with 301 channels (diameter = 0.3 mm) (14). Scaffolds
+mented with human recombinant noggin (100 ng ml−1; PeproTech, were soaked in 70% EtOH for 15 min, washed twice with phosphate-
+catalog no. 120-10C) and 20% R-spondin conditioned medium buffered saline (PBS), and coated with rat tail collagen I (30 g/ml)
+(Sigma-Aldrich, catalog no. SCC111). Monolayer integrity was moni- in PBS for 1 hour at room temperature (RT). Collagen-coated scaf-
+tored with transepithelial electrical resistance (TEER) measurements, folds were air-dried and then punched into the 3XGLB platforms
+which were performed using the EndOhm-12 chamber with an for interaction experiments. On the basis of our previous work (8),
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 14 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREA
+
+Chunk 54:
+lial electrical resistance (TEER) measurements, folds were air-dried and then punched into the 3XGLB platforms
+which were performed using the EndOhm-12 chamber with an for interaction experiments. On the basis of our previous work (8),
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 14 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+hepatocytes and Kupffer cells were thawed in Cryopreserved
+Hepatocyte Recovery Medium 5 days before interaction experi- Table 1. NGD media formulation.
+ments (Thermo Fisher Scientific, catalog no. CM7000), centrifuged Reagent Volume
+at 100g for 8 min, and seeded in a 10:1 ratio on to the scaffold,
+6 × 105:6 × 104 cells per well, in hepatocyte seeding medium (Thermo Gem21 without vitamin A 5 ml
+Neuroplex N2 2.5 ml
+Fisher Scientific, catalog no. A1217601) with 5 mM glucose,
+5% FBS, 100 nM hydrocortisone, and an in-house supplement Albumax I 1 g
+cocktail equivalent to Gibco Cocktail A (Thermo Fisher Scientific, NaCl 5 M 5 ml
+catalog no. CM3000; but with only 200 to 800 pM insulin) and cul-
+Sodium pyruvate 100× 5 ml
+tured under flow at 37°C. After 1 day, the medium was changed to
+Pen/Strep 5 ml
+hepatocyte maintenance medium [William’s E medium with 5 mM
+glucose, 100 nM hydrocortisone, and an in-house supplement Glutamax 5 ml
+cocktail equivalent to Gibco Cocktail B (Thermo Fisher Scientific, Biotin (5 mg/ml in 1 M NaOH) 0.35 l
+catalog no. CM4000) but with only 200 to 800 pM insulin] and Ascorbic (100 mM stock) 50 l
+changed at day 3. At day 5 after seeding, the medium was changed
+to CM + 25UI IL-2, and the interaction studies with the gut and Lactic syrup (60%) 100 l
+cerebral MPSs had begun. The CM was also added to the control Neurobasal media 500 ml
+LiverChip. To evaluate the physiological status of the liver, sam-
+ples from all compartments but the apical gut MPS (i.e., liver,
+directly above the scaffold; basal gut MPS; and mixer) w
+
+Chunk 55:
+fter seeding, the medium was changed
+to CM + 25UI IL-2, and the interaction studies with the gut and Lactic syrup (60%) 100 l
+cerebral MPSs had begun. The CM was also added to the control Neurobasal media 500 ml
+LiverChip. To evaluate the physiological status of the liver, sam-
+ples from all compartments but the apical gut MPS (i.e., liver,
+directly above the scaffold; basal gut MPS; and mixer) were taken
+at every medium change (every 48 hours) and assayed for albumin
+via enzyme-linked immunosorbent assay (Bethyl Laboratories, Differentiation of microglia
+catalog no. E80-129). Microglia were differentiated from iPSCs using a previously pub-
+lished protocol (77). Briefly, hiPSCs were adapted to feeder-free con-
+Cerebral MPSs ditions on Matrigel (Thermo Fisher Scientific CB40234) in mTesr
+The cerebral MPSs were established as cocultures of neurons, astro- media (StemCell Technologies 85850). Once stably adapted, iPSC
+cytes, and microglia seeded on 24-well Transwells. All three cell colonies were plated at low density on low–growth factor Matrigel
+types are differentiated from the same donor cell lines. Cells of the (Thermo Fisher Scientific CB40230) in T75 flasks in mTesr media.
+PD cerebral MPS (PD cerebral MPS) are differentiated from hiPSCs Once colonies reached 1 mm in diameter, flasks underwent the fol-
+stemming from fibroblasts of a patient with early onset of PD due to lowing media changes outlined in step 1 through step 4: (step 1)
+an A53T point mutation in exon 3 of the Syn gene (76). To control mTesr media containing BMP4 (80 ng/ml; PeproTech 120-05ET) for
+for the mutation, we have used hiPSCs from the same donor but 4 days; (step 2) Stempro media (Life Technologies 10639011) with
+with the corrected mutation for our control cerebral MPS (PD-C FGF (25 ng/ml; Life Technologies PHG0263), SCF (100 ng/ml;
+cerebral MPS). hiPSCs carrying the Syn mutation were repro- PeproTech 300-07), and vascular EGF (80 ng/ml; PeproTech 100-20),
+grammed using doxycycline-induci
+
+Chunk 56:
+mutation, we have used hiPSCs from the same donor but 4 days; (step 2) Stempro media (Life Technologies 10639011) with
+with the corrected mutation for our control cerebral MPS (PD-C FGF (25 ng/ml; Life Technologies PHG0263), SCF (100 ng/ml;
+cerebral MPS). hiPSCs carrying the Syn mutation were repro- PeproTech 300-07), and vascular EGF (80 ng/ml; PeproTech 100-20),
+grammed using doxycycline-inducible and Cre-recombinase–excisable for 2 days; (step 3) Stempro media with IL-3 (50 ng/ml; PeproTech
+lentiviral vectors. Both progenitor cell lines and methodology were 200-03), Flt3 (50 ng/ml; PeproTech 300-19), M-CSF (50 ng/ml;
+published and extensively described previously (5). The three cell PeproTech AF-300-25), TPO (5 ng/ml; PeproTech 300-18-500u), and
+types in coculture were allowed to attach and form a 3D network of SCF (50 ng/ml) for 8 days; and (step 4) Stempro media with M-CSF
+protrusions on the microporous membranes over the course of at (50 ng/ml), Flt-3 (50 ng/ml), and GM-CSF (25 ng/ml; PeproTech
+least 24 hours before being moved onto the 3XGLB platform for 300-03). Myeloid precursor cells started to be released into suspen-
+interaction studies. sion several days after beginning step 4. Following 4 to 7 days in
+Differentiation of neurons/astrocytes step 4, myeloid precursors were collected and plated for microglial
+Both hiPSC carrying the A53T point mutation (PD phenotype) and differentiation. Myeloid precursors were plated on six-well Primaria
+hiPSC with the corrected A53T mutation (corrected phenotype) plates (VWR 62406-455) at 1 × 106 per well in the following media:
+were first differentiated into neural progenitor cells (NPCs). Cells Neurobasal (Life Technologies 21103049) supplemented with 1%
+were treated with collagenase for 30 min and collected into 15-ml Gem21 B27 (Gemini BioProducts 400161), Neuroplex 0.5% N2
+Falcon tubes containing hES media. Following two washes with hES (Gemini BioProducts 400163), 0.2% Albumax I (Life Technologies
+media and one was
+
+Chunk 57:
+:
+were first differentiated into neural progenitor cells (NPCs). Cells Neurobasal (Life Technologies 21103049) supplemented with 1%
+were treated with collagenase for 30 min and collected into 15-ml Gem21 B27 (Gemini BioProducts 400161), Neuroplex 0.5% N2
+Falcon tubes containing hES media. Following two washes with hES (Gemini BioProducts 400163), 0.2% Albumax I (Life Technologies
+media and one wash with PBS−/−, cells were treated with Accutase 11020021), 50 mM NaCl (Sigma-Aldrich), 1× Pyruvate (Life Tech-
+for 10 min and broken into single cells. The cell suspension was nologies 11360070), 1× Pen/Strep (Life Technologies), and 1× Glutamax
+filtered through a 40-l filter with Hanks’ balanced salt solution (Life Technologies 35050061), supplemented with cytokines TGF-1
+(HBSS)/bovine serum albumin (BSA) 0.1% into a 50-ml Falcon tube. (25 ng/ml; PeproTech 100-21-500 g), M-CSF (12.5 ng/ml), and
+A total of 5 × 106 cells per well were plated on a six-well plate with IL-034 (100 ng/ml; PeproTech 200-34). Cells were differentiated
+neuroglial differentiation (NGD) media (see Table 1) that contained into microglia for 2 weeks. To generate Transwells, microglia were
+2.5 M dorsomorphin, fibroblast growth factor (FGF; 10 ng/ml), collected using a 10-min incubation in 2 mM EDTA (Life Technol-
+insulin (1:500), and RI (1:1000). Medium was changed daily for 11 ogies AM9260G) and combined with isolated neurons at a ratio of 1
+to 14 days. Three days after rosette formation, cells were passaged microglial cell to 10 neurons.
+in a 1:1 ratio. For final differentiation, 2 × 106 NPCs per well were PD and PD-corrected cerebral MPSs
+seeded on a six-well plate in NGD media. Cells were differentiated After differentiation neurons, astrocytes and microglia were treated
+for 4 weeks with media changes every 3 days. with Accutase for 10 min at 37°C and collected into 15-ml Falcon
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 15 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turk
+
+Chunk 58:
+e PD and PD-corrected cerebral MPSs
+seeded on a six-well plate in NGD media. Cells were differentiated After differentiation neurons, astrocytes and microglia were treated
+for 4 weeks with media changes every 3 days. with Accutase for 10 min at 37°C and collected into 15-ml Falcon
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 15 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+tubes with 10-ml plastic pipettes and placed in the incubator for an Cerebral MPS
+additional 10 min at 37°C. Cells were gently triturated 10× with a Transwells, containing neurons, astrocytes, and microglia, were fixed
+5-ml glass pipette. Deoxyribonuclease I was added to a concentra- in 4% paraformaldehyde (PFA) (Electron Microscopy Science cata-
+tion of 0.05% followed by repeated gentle resuspension 10×. HBSS log no. 15710) in PBS for 30 min at RT followed by washing with
+with 0.1% BSA was added to the suspension and filtered through a PBS 1× and permeabilization with 0.3% Triton (Sigma-Aldrich, catalog
+40-m mesh filter with an underlying cushion of HBSS with 4%. no. T8787-100ML) in PBS. Cells were blocked with 3% BSA (Sigma-
+Cells were centrifuged at 100g for 10 min at 4°C and counted. Before Aldrich, catalog no. A7030-100G) in PBS for 30 min at RT. Primary
+seeding the cells onto 24-well 0.4-m pore polyester Transwell inserts, antibodies used were goat anti-Iba1 (Abcam, catalog no. AB5076;
+the membranes were coated overnight with 0.1% polyethyleneimine 1:500), mouse anti-Tuj1 (BioLegend, catalog no. 801201; 1:1000),
+(PEI) at 4°C. Neurons/astrocytes were seeded at a density of 2 × 105 and rabbit anti- S100B (Agilent, catalog no. Z031129-2; 1:1000). Pri-
+per cerebral MPS with 2 × 104 microglia. During studies off-platform mary antibodies were diluted in 3% BSA + 0.1% Triton in PBS and
+and during the gut-liver-brain interaction, the gut MPS had 200 l of incubated at 4°C overnight. Next
+
+Chunk 59:
+alog no. 801201; 1:1000),
+(PEI) at 4°C. Neurons/astrocytes were seeded at a density of 2 × 105 and rabbit anti- S100B (Agilent, catalog no. Z031129-2; 1:1000). Pri-
+per cerebral MPS with 2 × 104 microglia. During studies off-platform mary antibodies were diluted in 3% BSA + 0.1% Triton in PBS and
+and during the gut-liver-brain interaction, the gut MPS had 200 l of incubated at 4°C overnight. Next day, cells were washed 3× with PBS
+NGD media added to the apical compartment whereas the basal and stained with secondary antibodies Alexa 488, 568, and 647 (Life
+compartment contained the CM. Technologies; 1:500). Secondary antibodies were added for 2 hours
+at RT followed by 2× washing with PBS. Transwell membranes with
+Human circulating CD4 T reg and T H 17 cells the stained cells were mounted onto glass slides (VWR catalog no.
+Naïve CD4 T cells were used to differentiate Treg and TH17 cells 488311-703) with mounting buffer (Electron Microscopy Science catalog
+derived from the same Leuko Pak donor, a 44-year-old Caucasian no. 17984-25). Images were acquired with the Zeiss LSM 710 confocal
+female (StemCell, catalog no. 70500) as the dendritic cells and macro- microscope at a 20× magnification, curated with the Zeiss ZEN soft-
+phages in the gut MPS. Naïve CD4 T cells were isolated with the ware, and processed with Imaris 9.2.0 (Bitplane, Zurich, Switzerland).
+EasySep Human Naïve CD4+ T Cell Isolation Kit II (StemCell,
+catalog no. 17555). Cells were differentiated to Tregs or TH17 cells in Physiomimetic platform 3XGLB
+RPMI 1640 medium (Gibco) supplemented with Pen/Strep, 10% Fabrication and assembly
+heat-inactivated FBS, 1% MEM Non-Essential Amino Acid Solution, We developed the underlying technology of the 3XGLB in-house as
+1 mM sodium pyruvate, 1% Glutamax, 2.5% ImmunoCult Human described previously (52). The 3XGLB iteration of the system was
+CD3/CD28 T cell activator (StemCell, catalog no. 10971), and human designed in CAD and commercially machined. The pneumatic plates
+
+
+Chunk 60:
+ation and assembly
+heat-inactivated FBS, 1% MEM Non-Essential Amino Acid Solution, We developed the underlying technology of the 3XGLB in-house as
+1 mM sodium pyruvate, 1% Glutamax, 2.5% ImmunoCult Human described previously (52). The 3XGLB iteration of the system was
+CD3/CD28 T cell activator (StemCell, catalog no. 10971), and human designed in CAD and commercially machined. The pneumatic plates
+TGF- (5 ng/ml; R&D Systems, catalog no. 240-B/CF). In addition, were machined in acrylic and solvent bonded to form two-layer
+Tregs received IL-2 (100 IU/ml; R&D Systems, catalog no. 202-IL) manifolds, while the fluidic plates were machined from monolithic
+and 10 nM retinoic acid (Sigma-Aldrich, catalog no. R2625-50MG), polysulfone. We treated the pneumatic plates with vapor polishing
+while for TH17 cell differentiation, 10 ng/ml each of human IL-6 and fluidic plates were cryo-deburred to remove sharp burrs. Fifty-
+and IL-1 (R&D Systems, catalog no. 206-IL, 201-LB) were added. micrometer-thick polyurethane membranes are supplied by American
+After 7 days of differentiation at 37°C, cells were harvested into CM Polyfilm Inc. and mounted onto grip rings (Ultron Systems UGR-12)
+and distributed in a physiological 2:1 ratio of Treg/TH17 cells among to provide uniform tension. The membranes were laser-cut to re-
+the compartments on the 3XGLB platform (total of 2.4 × 105 Tregs move material around screw holes. After cutting, they were rinsed
+and 1.2 × 105 TH17 cells per interaction lane) (8). Treg/TH17 ratio in in 10% 7× solution followed by deionized (DI) water and then ster-
+human peripheral blood varies from 0.2 to 1 in healthy individuals ilized using ethylene oxide gas. All hardware components are reusable,
+and total Treg numbers vary from 7 × 104 to 5 × 105 per milliliter. except for the polyurethane membranes. Flow of media between com-
+While T cells were prevented to come into direct contact with the partments on the platform is achieved by pumping driven from outside
+epi
+
+Chunk 61:
+pheral blood varies from 0.2 to 1 in healthy individuals ilized using ethylene oxide gas. All hardware components are reusable,
+and total Treg numbers vary from 7 × 104 to 5 × 105 per milliliter. except for the polyurethane membranes. Flow of media between com-
+While T cells were prevented to come into direct contact with the partments on the platform is achieved by pumping driven from outside
+epithelium and neurons/astrocyte/microglia grown on microporous the incubator by a microcontroller and a pneumatic solenoid manifold
+membranes, their contact was enabled with antigen-presenting cells controlling the tubing, which is run through the back of the incubator
+of the gut MPS and the liver MPS. to intermediary connectors. The system allows for safe circulation
+of CD4 T cells within and between compartments at high velocities
+Immunofluorescence confocal imaging and preserved T cell viability (fig. S1B). Inside the incubator, tubing
+Gut MPS is attached to the platform through valved breakaway couplings,
+Epithelial monolayers on the apical side of Transwell membranes and allowing removal from the incubator for media changes and sam-
+macrophages/dendritic cells on the basolateral side were washed pling. Flow rates and calibration factors can be adjusted through a
+with fluorescence-activated cell sorting (FACS) buffer (PBS with graphical user interface and are sent to a customized microcontroller
+2% FBS) and stained with primary mouse anti-human CD14 (BD (National Instruments myRIO-1900) over USB or WiFi.
+Pharmingen, catalog no. 347490) according to previously established Operation
+protocols (8). Following a wash with FACS buffer, cells were fixed and Sterile platforms were assembled 4 days before experimentation in
+permeabilized with a Fixation/Permeabilization kit (BD Biosciences, a laminar flow hood. They were primed with PBS containing 1% BSA
+catalog no. 554714) and concurrently stained with an Alexa Fluor 488 (Sigma-Aldrich, catalog no. A9576) and Pen/Strep. Pump func
+
+Chunk 62:
+n
+protocols (8). Following a wash with FACS buffer, cells were fixed and Sterile platforms were assembled 4 days before experimentation in
+permeabilized with a Fixation/Permeabilization kit (BD Biosciences, a laminar flow hood. They were primed with PBS containing 1% BSA
+catalog no. 554714) and concurrently stained with an Alexa Fluor 488 (Sigma-Aldrich, catalog no. A9576) and Pen/Strep. Pump function
+secondary goat anti-mouse antibody (BioLegend, catalog no. 405319), and tubing connections were visually confirmed by pumping from
+NucBlue (Invitrogen, catalog no. 12303553), and ActinRed (Invitrogen, the mixer (cerebral MPS compartment) to each dry compartment
+catalog no. 15119325). The membranes were mounted on glass slides and then by running the recirculation pumps backward to clear all
+with Prolong Diamond Antifade (Invitrogen, catalog no. 15205739) air from the channels. We ran the platforms overnight in the incu-
+and cured for 24 hours. Images were acquired with the Zeiss LSM bator to passivate and confirm full operation before the addition of
+880 confocal microscope at a 63× magnification and curated with the gut, liver, and cerebral MPS as well as the circulating Treg/TH17
+the Zeiss ZEN software. cells (8). On the day of the experiment, priming media were replaced
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 16 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+with serum-free CM (see the “Common media” section) with the (Version-8.3.0, GraphPad Software). Hierarchical complete clustering,
+volume of each compartment being as follows: gut MPS, 2 ml (apical heatmaps, and PCA of cytokine concentrations were performed
+0.5 ml, basal 1.5 ml); liver MPS, 1.6 ml; and the cerebral MPS com- using ClustVis, an online platform integrating several R packages
+partment, 3.1 ml (apical 0.8 ml, basal 2.3 ml) for a total recirculation for analysis. Cytokine data were norma
+
+Chunk 63:
+chical complete clustering,
+volume of each compartment being as follows: gut MPS, 2 ml (apical heatmaps, and PCA of cytokine concentrations were performed
+0.5 ml, basal 1.5 ml); liver MPS, 1.6 ml; and the cerebral MPS com- using ClustVis, an online platform integrating several R packages
+partment, 3.1 ml (apical 0.8 ml, basal 2.3 ml) for a total recirculation for analysis. Cytokine data were normalized by mean-centering
+volume of 5.4 ml and total system volume of 6.7 ml. The layout of and variance scaling before clustering and PCA. Actual cytokine/
+the platform and flow parameters are indicated in fig. S1, but in chemokine and neuronal marker concentrations were plotted in
+brief, media from the basal gut compartment were distributed to the Prism 8.0 (GraphPad Software). Paired t test was used to calculate
+liver and, from there, to the cerebral MPS compartment. The cerebral statistical significance.
+MPS compartment serves as a mixer that re-distributes media back
+to the gut (75%) and liver (25%). Interaction studies were performed Metabolomics
+over 4 days with complete media changes every 48 hours. Circulating Broad discovery metabolomic analysis and bioinformatic data pro-
+Treg/TH17 cells that were collected with the media during the 48-hour cessing were performed by Metabolon (Metabolon Inc., Durham,
+media change were returned to each original platform equally dis- NC, USA). Samples from the cerebral MPSs in isolation were sub-
+tributed among the three compartments. During the media change ject to metabolite extractions and analysis by reversed-phase ultra-
+and at the end of the interaction studies on day 4, CM was collected performance liquid chromatography–tandem mass spectrometry
+from the apical and basal gut compartment, from the liver compart- (RP/UPLC-MS/MS) (ESI+) (−ESI) with details of the methods pub-
+ment above the scaffold, and from the apical and basal compartment lished previously (78). Following receipt, samples were inventoried
+of the cerebral MPS. M
+
+Chunk 64:
+of the interaction studies on day 4, CM was collected performance liquid chromatography–tandem mass spectrometry
+from the apical and basal gut compartment, from the liver compart- (RP/UPLC-MS/MS) (ESI+) (−ESI) with details of the methods pub-
+ment above the scaffold, and from the apical and basal compartment lished previously (78). Following receipt, samples were inventoried
+of the cerebral MPS. Media samples were collected in low-binding and immediately stored at −80°C. Each sample received was acces-
+tubes, supernatants were spun down at 10,000g for 5 min to remove sioned into the Metabolon Laboratory Information Management
+cell debris, BSA was added to a final concentration of 0.5% (except System (LIMS) and assigned by the LIMS, a unique identifier that
+the samples reserved for metabolomic analysis), and the samples were was associated with the original source identifier only. This identifier
+transferred to a −80°C freezer. Cytokine/chemokine and albumin was used to track all sample handling, tasks, results, etc. The samples
+measurements during interaction studies were performed on the (and all derived aliquots) were tracked by the LIMS. All portions of
+media collected from the basal cerebral MPS/mixer compartment any sample were automatically assigned their own unique identifiers
+that distributes the media between the gut and liver MPSs. Each by the LIMS when a new task was created; the relationship of these
+condition was performed in three biological replicates. samples was also tracked. All samples were maintained at −80°C
+until processing.
+Multiplex cytokine/chemokine assays and analysis Global metabolomic discovery
+We measured the cytokine/chemokine concentrations using the follow- We have performed the global metabolomic discovery on control
+ing multiplex assays from Millipore Sigma: MILLIPLEX MAP Human CM and media collected from the apical and basal compartment of
+Neuroscience Magnetic Bead Panel 1 (catalog no. HNS1MAG-95k), cerebral MPSs in isolation. As
+
+Chunk 65:
+e assays and analysis Global metabolomic discovery
+We measured the cytokine/chemokine concentrations using the follow- We have performed the global metabolomic discovery on control
+ing multiplex assays from Millipore Sigma: MILLIPLEX MAP Human CM and media collected from the apical and basal compartment of
+Neuroscience Magnetic Bead Panel 1 (catalog no. HNS1MAG-95k), cerebral MPSs in isolation. As per previously established protocols
+MILLIPLEX MAP Human Cytokine/Chemokine Magnetic Bead (8), samples were prepared using the automated MicroLab STAR
+Panel—Premixed 41 Plex (catalog no. HCYTMAG-60K-PX41), system from Hamilton Company. Several recovery standards were
+MILLIPLEX MAP TGF Magnetic Bead 3 Plex Kit (catalog no. added before the first step in the extraction process for quality control
+TGFBMAG-64K-03), and a custom MILLIPLEX MAP Human TH17 (QC) purposes. To remove protein, small molecules bound to pro-
+Panel (catalog no. HTH17MAG-14K-10). The protein standards tein or trapped in the precipitated protein matrix were dissociated,
+were reconstituted in CM, and we serially diluted the protein stock and to recover chemically diverse metabolites, proteins were pre-
+to generate an eight-point standard curve. Samples were analyzed cipitated with methanol under vigorous shaking for 2 min (Glen Mills
+with the Bio-Plex 3D Suspension Array System (Bio-Rad Laboratories GenoGrinder 2000) followed by centrifugation. The resulting ex-
+Inc.). Data were collected using the xPONENT for FLEXMAP 3D tract was divided into five fractions: two for analysis by two separate
+software, version 4.2 (Luminex Corporation, Austin, TX, USA). Con- RP/UPLC-MS/MS methods with positive-ion mode electrospray
+centration of each analyte was determined from a standard curve, ionization (ESI), one for analysis by RP/UPLC-MS/MS with nega-
+which was generated by fitting a five-parameter logistic regression tive-ion mode ESI, one for analysis by HILIC/UPLC-MS/MS with
+of mean fluorescence on known concentrat
+
+Chunk 66:
+(Luminex Corporation, Austin, TX, USA). Con- RP/UPLC-MS/MS methods with positive-ion mode electrospray
+centration of each analyte was determined from a standard curve, ionization (ESI), one for analysis by RP/UPLC-MS/MS with nega-
+which was generated by fitting a five-parameter logistic regression tive-ion mode ESI, one for analysis by HILIC/UPLC-MS/MS with
+of mean fluorescence on known concentrations of each analyte negative-ion mode ESI, and one sample was reserved for backup.
+(Bio-Plex Manager software). To concurrently evaluate all cytokine/ Samples were placed briefly on a TurboVap (Zymark) to remove
+chemokine concentration values and identify multi-analyte profiles, the organic solvent. The sample extracts were stored overnight un-
+samples were assessed using PCA, an unsupervised dimensionality der nitrogen before preparation for analysis.
+reduction technique. PCA was implemented using MATLAB Several types of controls were analyzed in concert with the ex-
+(version 2018b, MathWorks). To evaluate the effect of SCFA treat- perimental samples: A pooled matrix sample generated by taking a
+ment, samples were collapsed into log2 fold-change values. Specifi- small volume of each experimental sample (or, alternatively, use of
+cally, fold-change ratios were calculated using the mean of samples a pool of well-characterized human plasma) served as a technical
+treated with SCFA from a given disease background, T cell experi- replicate throughout the dataset; extracted water samples served as
+mental setup, and media compartment and the mean of samples process blanks; and a cocktail of QC standards that were carefully
+without SCFA treatment from the same experimental setup. The chosen not to interfere with the measurement of endogenous com-
+statistical significance of log2 fold-change values was determined pounds were spiked into every analyzed sample, allowing instrument
+from a two-sample t test using all biological replicates for each of the performance monitoring and aidi
+
+Chunk 67:
+ of QC standards that were carefully
+without SCFA treatment from the same experimental setup. The chosen not to interfere with the measurement of endogenous com-
+statistical significance of log2 fold-change values was determined pounds were spiked into every analyzed sample, allowing instrument
+from a two-sample t test using all biological replicates for each of the performance monitoring and aiding chromatographic alignment.
+two groups in the comparison. Values were corrected for multiple Instrument variability was determined by calculating the median
+hypothesis testing using the Benjamini–Hochberg method. Values relative standard deviation (RSD) for the standards that were added to
+were calculated using MATLAB and visualized using Prism each sample before injection into the mass spectrometers. Overall
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 17 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+process variability was determined by calculating the median RSD molecules based on one of these factors, the use of all three data
+for all endogenous metabolites (i.e., noninstrument standards) present points can be used to distinguish and differentiate biochemicals.
+in 100% of the pooled matrix samples. Experimental samples were More than 3300 commercially available purified standard com-
+randomized across the platform run with QC samples spaced evenly pounds have been acquired and registered into LIMS for analysis on
+among the injections. all platforms for determination of their analytical characteristics.
+All methods used a Waters ACQUITY UPLC and a Thermo Fisher Additional mass spectral entries have been created for structurally
+Scientific Q-Exactive high resolution/accurate mass spectrometer unnamed biochemicals that have been identified by virtue of their
+interfaced with a heated ESI (HESI-II) source and Orbitrap mass recurrent nature (both chromatographic a
+
+Chunk 68:
+ of their analytical characteristics.
+All methods used a Waters ACQUITY UPLC and a Thermo Fisher Additional mass spectral entries have been created for structurally
+Scientific Q-Exactive high resolution/accurate mass spectrometer unnamed biochemicals that have been identified by virtue of their
+interfaced with a heated ESI (HESI-II) source and Orbitrap mass recurrent nature (both chromatographic and mass spectral). These
+analyzer operated at 35,000 mass resolution. The sample extract was compounds have the potential to be identified by future acquisition
+dried and then reconstituted in solvents compatible with each of the of a matching purified standard or by classical structural analysis.
+four methods. Each reconstitution solvent contained a series of stan- Peaks were quantified using area under the curve. For samples
+dards at fixed concentrations to ensure injection and chromatographic analyzed on different days, a data normalization step was performed
+consistency. One aliquot was analyzed using acidic positive-ion con- to correct variation resulting from instrument inter-day tuning dif-
+ditions, chromatographically optimized for more hydrophilic com- ferences. Essentially, each compound was corrected in run-day blocks
+pounds. In this method, the extract was gradient eluted from a C18 by registering the medians to equal one (1.00) and normalizing each
+column (Waters UPLC BEH C18; 2.1 × 100 mm, 1.7 m) using water data point proportionately (termed the “block correction”). For
+and methanol, containing 0.05% perfluoropentanoic acid (PFPA) studies that did not require more than 1 day of analysis, no normal-
+and 0.1% formic acid (FA). Another aliquot was also analyzed using ization is necessary, other than for purposes of data visualization. In
+acidic positive-ion conditions; however, it was chromatographically certain instances, biochemical data may have been normalized to an
+optimized for more hydrophobic compounds. In this method, the additional factor (e.g., cell 
+
+Chunk 69:
+han 1 day of analysis, no normal-
+and 0.1% formic acid (FA). Another aliquot was also analyzed using ization is necessary, other than for purposes of data visualization. In
+acidic positive-ion conditions; however, it was chromatographically certain instances, biochemical data may have been normalized to an
+optimized for more hydrophobic compounds. In this method, the additional factor (e.g., cell counts, total protein as determined by
+extract was gradient eluted from the same aforementioned C18 col- Bradford assay, osmolality, etc.) to account for differences in metab-
+umn using methanol, acetonitrile, water, 0.05% PFPA, and 0.01% FA olite levels due to differences in the amount of material present in
+and was operated at an overall higher organic content. Another each sample. Two types of statistical analysis are usually performed:
+aliquot was analyzed using basic negative ion–optimized conditions (i) significance tests and (ii) classification analysis. Standard statis-
+using a separate dedicated C18 column. The basic extracts were tical analyses are performed in ArrayStudio on log-transformed data.
+gradient-eluted from the column using methanol and water, but For those analyses not standard in ArrayStudio, the programs R
+with 6.5 mM ammonium bicarbonate at pH 8. The fourth aliquot (http://cran.r-project.org/) or JMP were used. Pathway enrichment
+was analyzed via negative ionization following elution from a HILIC analysis and visualization were performed with Metabolons propri-
+column (Waters UPLC BEH Amide; 2.1 × 150 mm, 1.7 m) using a etary Pathway Explorer tool.
+gradient consisting of water and acetonitrile with 10 mM ammonium
+formate (pH 10.8). The MS analysis alternated between MS and data- RNA-seq
+dependent MSn scans using dynamic exclusion. The scan range Library preparation, sequencing, and analysis were performed by the
+varied slightly between methods but covered 70 to 1000 mass/charge BioMicro Center at MIT.
+ratio (m/z). Raw data files are archived. RNA e
+
+Chunk 70:
+t consisting of water and acetonitrile with 10 mM ammonium
+formate (pH 10.8). The MS analysis alternated between MS and data- RNA-seq
+dependent MSn scans using dynamic exclusion. The scan range Library preparation, sequencing, and analysis were performed by the
+varied slightly between methods but covered 70 to 1000 mass/charge BioMicro Center at MIT.
+ratio (m/z). Raw data files are archived. RNA extraction, cDNA library preparation, and
+Bioinformatic analysis of identified targets next-generation sequencing
+The Metabolon informatics system consisted of four major compo- Neurons, astrocytes, and microglia from the cerebral MPSs were
+nents, the LIMS, the data extraction and peak-identification software, jointly collected, and mRNA was extracted using the PureLink RNA
+data processing tools for QC and compound identification, and a mini kit (Thermo Fisher Scientific, catalog no. 12183018A). Total
+collection of information interpretation and visualization tools for RNA was analyzed and quantified using the Fragment Analyzer
+use by data analysts. The hardware and software foundations for (Advanced Analytical). RNA sequencing (RNA-seq) libraries were
+these informatics components were the LAN backbone and a data- prepared using a volume reduced version of the New England Biolabs
+base server running Oracle 10.2.0.1 Enterprise Edition (8). ribosomal reduction chemistry and RNA-seq library construction
+Raw data were extracted, peak-identified, and QC-processed us- kit (Mildrum et al., in preparation). In brief, RNA quality and quantity
+ing Metabolon’s hardware and software. These systems are built on were confirmed using an Agilent Fragment Analyzer and ribosomal
+a web-service platform using Microsoft’s .NET technologies, which RNA (rRNA) was depleted from 50 ng of total RNA using the
+run on high-performance application servers and fiber-channel NEBNext Ribodepletion kit (New England Biolabs) at a 1:6 ratio
+storage arrays in clusters to provide active failover and load-balanci
+
+Chunk 71:
+ems are built on were confirmed using an Agilent Fragment Analyzer and ribosomal
+a web-service platform using Microsoft’s .NET technologies, which RNA (rRNA) was depleted from 50 ng of total RNA using the
+run on high-performance application servers and fiber-channel NEBNext Ribodepletion kit (New England Biolabs) at a 1:6 ratio
+storage arrays in clusters to provide active failover and load-balancing. from the standard protocol using a Mosquito HV automated liquid
+Compounds were identified by comparison to library entries of puri- handler (TTP Labtech). The resulting depleted RNA is then frag-
+fied standards or recurrent unknown entities. Metabolon maintains mented and converted to cDNA, and indexed Illumina libraries are
+a library based on authenticated standards that contains the reten- constructed using the NEBNext Ultra II Directional RNA Library
+tion time/index (RI), m/z, and chromatographic data (including MS/ Construction Kit (New England Biolabs) at a 1:10 ratio from the
+MS spectral data) on all molecules present in the library. Further- standard protocol using the Mosquito HV. Final libraries are quan-
+more, biochemical identifications are based on three criteria: retention tified using SYBRgreen on a Varioskan plate reader and spot-checked
+index within a narrow RI window of the proposed identification, using the Agilent Fragment Analyzer. Samples were pooled and
+accurate mass match to the library ±10 ppm, and the MS/MS for- quantified by quantitative polymerase chain reaction before Illumina
+ward and reverse scores between the experimental data and authentic sequencing on a HiSeq2000 using 40-nt single-end reads.
+standards. The MS/MS scores are based on a comparison of the ions RNA-seq data analysis
+present in the experimental spectrum to the ions present in the Quality control: Reads were aligned against the hg19 (Feb 2009)
+library spectrum. While there may be similarities between these human genome assembly using bwa mem v. 0.7.12-r1039
+Trapecar et al., S
+
+Chunk 72:
+cing on a HiSeq2000 using 40-nt single-end reads.
+standards. The MS/MS scores are based on a comparison of the ions RNA-seq data analysis
+present in the experimental spectrum to the ions present in the Quality control: Reads were aligned against the hg19 (Feb 2009)
+library spectrum. While there may be similarities between these human genome assembly using bwa mem v. 0.7.12-r1039
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 18 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+[http://bio-bwa.sourceforge.net/] with flags –t 16 –f and map- SUPPLEMENTARY MATERIALS
+ping rates, fraction of multiply-mapping reads, number of unique Supplementary material for this article is available at http://advances.sciencemag.org/cgi/
+20-mers at the 5′ end of the reads, and insert size distributions; content/full/7/5/eabd1707/DC1
+fraction of rRNAs were calculated using bedtools v. 2.25.0. In addi- View/request a protocol for this paper from Bio-protocol.
+tion, each resulting bam file was randomly down-sampled to a
+million reads, which were aligned against hg19, and read density
+REFERENCES AND NOTES
+across genomic features was estimated for RNA-seq–specific quali-
+1. T. R. Sampson, J. W. Debelius, T. Thron, S. Janssen, G. G. Shastri, Z. E. Ilhan, C. Challis,
+ty control metrics. RNA-seq mapping and quantitation: Reads
+C. E. Schretter, S. Rocha, V. Gradinaru, M.-F. Chesselet, A. Keshavarzian, K. M. Shannon,
+were aligned against GRCh38/ENSEMBL 89 annotation using R. Krajmalnik-Brown, P. Wittung-Stafshede, R. Knight, S. K. Mazmanian, Gut microbiota
+STAR v. 2.5.3a with the following flags: -runThreadN 8 --runMode regulate motor deficits and neuroinflammation in a model of Parkinson's disease. Cell
+alignReads --outFilterType BySJout --outFilterMultimapNmax 167, 1469–1480.e12 (2016).
+2. C. R. Martin, V. Osadchiy, A. Kalani, E. A. Mayer, The brain-gut-microbiome axis. Cell. Mol.
+20 --align
+
+Chunk 73:
+ng-Stafshede, R. Knight, S. K. Mazmanian, Gut microbiota
+STAR v. 2.5.3a with the following flags: -runThreadN 8 --runMode regulate motor deficits and neuroinflammation in a model of Parkinson's disease. Cell
+alignReads --outFilterType BySJout --outFilterMultimapNmax 167, 1469–1480.e12 (2016).
+2. C. R. Martin, V. Osadchiy, A. Kalani, E. A. Mayer, The brain-gut-microbiome axis. Cell. Mol.
+20 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --outFilter-
+Gastroenterol. Hepatol. 6, 133–148 (2018).
+MismatchNmax 999 --alignIntronMin 10 --alignIntronMax 3. B. Dalile, L. Van Oudenhove, B. Vervliet, K. Verbeke, The role of short-chain fatty acids
+1000000 --alignMatesGapMax 1000000 --outSAMtype BAM Sorted- in microbiota-gut-brain communication. Nat. Rev. Gastroenterol. Hepatol. 16, 461–478
+ByCoordinate --quantMode TranscriptomeSAM with --genomeDir (2019).
+4. F. Soldner, Y. Stelzer, C. S. Shivalila, B. J. Abraham, J. C. Latourelle, M. I. Barrasa,
+pointing to a 75-nt junction GRCh38 STAR suffix array. Gene
+J. Goldmann, R. H. Myers, R. A. Young, R. Jaenisch, Parkinson-associated risk variant
+expression was quantitated using RSEM v. 1.3.0 with the following in distal enhancer of -synuclein modulates target gene expression. Nature 533, 95–99
+flags for all libraries: rsem-calculate-expression --calc-pme --align- (2016).
+ments -p 8 --forward-prob 0 against an annotation matching the 5. F. Soldner, J. Laganière, A. W. Cheng, D. Hockemeyer, Q. Gao, R. Alagappan, V. Khurana,
+STAR SA reference. Posterior mean estimates (pme) of counts and L. I. Golbe, R. H. Myers, S. Lindquist, L. Zhang, D. Guschin, L. K. Fong, B. J. Vu, X. Meng,
+F. D. Urnov, E. J. Rebar, P. D. Gregory, H. S. Zhang, R. Jaenisch, Generation of isogenic
+estimated RPKM were retrieved.
+pluripotent stem cells differing exclusively at two early onset Parkinson point mutations.
+DGE analysis Cell 146, 318–331 (2011).
+To identify significantly altered genes in isolation versus interaction 6. A. Burberry, M. F. Wells, F. Limone, A
+
+Chunk 74:
+hin, L. K. Fong, B. J. Vu, X. Meng,
+F. D. Urnov, E. J. Rebar, P. D. Gregory, H. S. Zhang, R. Jaenisch, Generation of isogenic
+estimated RPKM were retrieved.
+pluripotent stem cells differing exclusively at two early onset Parkinson point mutations.
+DGE analysis Cell 146, 318–331 (2011).
+To identify significantly altered genes in isolation versus interaction 6. A. Burberry, M. F. Wells, F. Limone, A. Couto, K. S. Smith, J. Keaney, G. Gillet, N. van Gastel,
+conditions, differential gene analysis of count data was performed J. Y. Wang, O. Pietilainen, M. Qian, P. Eggan, C. Cantrell, J. Mok, I. Kadiu, D. T. Scadden,
+K. Eggan, C9orf72 suppresses systemic and neural inflammation induced by gut bacteria.
+using DESeq2 (Version 1.12.3) in R as described previously (8).
+Nature 582, 89–94 (2020).
+Dataset parameters were estimated using the estimateSizeFactors()
+7. A. Koh, F. De Vadder, P. Kovatcheva-Datchary, F. Backhed, From dietary fiber to host
+and estimateDispersions() functions; read counts across condi- physiology: Short-chain fatty acids as key bacterial metabolites. Cell 165, 1332–1345
+tions were modeled on the basis of a negative binomial distribu- (2016).
+tion and a Wald test was used to test for differential expression 8. M. Trapecar, C. Communal, J. Velazquez, C. A. Maass, Y.-J. Huang, K. Schneider,
+C. W. Wright, V. Butty, G. Eng, O. Yilmaz, D. Trumper, L. G. Griffith, Gut-liver
+[nbinomWaldtest(), all packaged into the DESeq() function],
+physiomimetics reveal paradoxical modulation of IBD-related inflammation by
+using the treatment type as a contrast. Fold changes, P values, and short-chain fatty acids. Cell Syst. 10, 223–239.e9 (2020).
+Benjamin-Hochberg–adjusted P values (BH) were reported for each 9. K. Ronaldson-Bouchard, G. Vunjak-Novakovic, Organs-on-a-Chip: A fast track
+protein-coding gene. Regularized fold changes were calculated using for engineered human tissues in drug development. Cell Stem Cell 22, 310–324
+(2018).
+the lfcShrink() function.
+10. Y. Tang, Y
+
+Chunk 75:
+, and short-chain fatty acids. Cell Syst. 10, 223–239.e9 (2020).
+Benjamin-Hochberg–adjusted P values (BH) were reported for each 9. K. Ronaldson-Bouchard, G. Vunjak-Novakovic, Organs-on-a-Chip: A fast track
+protein-coding gene. Regularized fold changes were calculated using for engineered human tissues in drug development. Cell Stem Cell 22, 310–324
+(2018).
+the lfcShrink() function.
+10. Y. Tang, Y. Chen, H. Jiang, D. Nie, Short-chain fatty acids induced autophagy serves
+GSEA, pathway enrichment, gene ontology analysis,
+as an adaptive strategy for retarding mitochondria-mediated apoptotic cell death.
+and visualization Cell Death Differ. 18, 602–618 (2011).
+Differential expression results from DESeq2 were retrieved, and the 11. G. Noel, N. W. Baetz, J. F. Staab, M. Donowitz, O. Kovbasnjuk, M. F. Pasetti, N. C. Zachos,
+“stat” column was used to prerank genes for gene set enrichment A primary human macrophage-enteroid co-culture model to investigate mucosal gut
+physiology and host-pathogen interactions. Sci. Rep. 7, 45270 (2017).
+analysis (GSEA) analysis. Briefly, the stat values reflect the Wald’s
+12. T. J. Long, P. A. Cosgrove, R. T. Dunn II, D. B. Stolz, H. Hamadeh, C. Afshari, H. McBride,
+test performed on read counts as modeled by DESeq2 using the L. G. Griffith, Modeling therapeutic antibody-small molecule drug-drug interactions
+negative binomial distribution. Genes that were not expressed were using a three-dimensional perfusable human liver coculture platform. Drug Metab.
+excluded from the analysis. GSEA (version 2.2.3) was performed Dispos. 44, 1940–1948 (2016).
+13. U. Sarkar, D. Rivera-Burgos, E. M. Large, D. J. Hughes, K. C. Ravindra, R. L. Dyer, to identify differentially regulated gene sets in isolation versus
+M. R. Ebrahimkhani, J. S. Wishnok, L. G. Griffith, S. R. Tannenbaum, Metabolite profiling
+interaction, as described previously (79). To stabilize variance,
+and pharmacokinetic evaluation of hydrocortisone in a perfused three-dimensional
+the normalized
+
+Chunk 76:
+ Sarkar, D. Rivera-Burgos, E. M. Large, D. J. Hughes, K. C. Ravindra, R. L. Dyer, to identify differentially regulated gene sets in isolation versus
+M. R. Ebrahimkhani, J. S. Wishnok, L. G. Griffith, S. R. Tannenbaum, Metabolite profiling
+interaction, as described previously (79). To stabilize variance,
+and pharmacokinetic evaluation of hydrocortisone in a perfused three-dimensional
+the normalized count data were processed using a regularized human liver bioreactor. Drug Metab. Dispos. 43, 1091–1099 (2015).
+logarithm transformation in DESeq2. The signal-to-noise metric 14. A. M. Clark, S. E. Wheeler, C. L. Young, L. Stockdale, J. Shepard Neiman, W. Zhao,
+was used to generate the ranked list of genes. The empirical P values D. B. Stolz, R. Venkataramanan, D. Lauffenburger, L. Griffith, A. Wells, A liver
+microphysiological system of tumor cell dormancy and inflammatory responsiveness is
+for each enrichment score were calculated relative to the null distri-
+affected by scaffold properties. Lab Chip 17, 156–168 (2016).
+bution of enrichment scores, which was computed via 1000 gene set 15. X. Li, S. M. George, L. Vernetti, A. H. Gough, D. L. Taylor, A glass-based, continuously
+permutations. Gene sets with nominal P < 0.05 and q value < 0.05 zonated and vascularized human liver acinus microphysiological system (vLAMPS)
+were considered significant. Volcano plots of differentially ex- designed for experimental modeling of diseases and ADME/TOX. Lab Chip 18, 2614–2631
+(2018).
+pressed genes were made with plot.ly (Plotly). Positive or negative
+16. J. Muffat, Y. Li, B. Yuan, M. Mitalipova, A. Omer, S. Corcoran, G. Bakiasi, L. H. Tsai,
+fold changes of DGEs were analyzed separately for enrichments.
+P. Aubourg, R. M. Ransohoff, R. Jaenisch, Efficient derivation of microglia-like cells
+Pathway analysis and gene ontology term analysis based on various from human pluripotent stem cells. Nat. Med. 22, 1358–1367 (2016).
+databases were performed using the following tools: OmicsNet, 17. 
+
+Chunk 77:
+ova, A. Omer, S. Corcoran, G. Bakiasi, L. H. Tsai,
+fold changes of DGEs were analyzed separately for enrichments.
+P. Aubourg, R. M. Ransohoff, R. Jaenisch, Efficient derivation of microglia-like cells
+Pathway analysis and gene ontology term analysis based on various from human pluripotent stem cells. Nat. Med. 22, 1358–1367 (2016).
+databases were performed using the following tools: OmicsNet, 17. D. Sulzer, D. J. Surmeier, Neuronal vulnerability, pathogenesis, and Parkinson's disease.
+Enrichr, g:Profiler, and ClueGO in Cytoscape. ClueGO was also Mov. Disord. 28, 715–724 (2013).
+18. K. Atarashi, N. Manel, E. L. Brodie, T. Shima, U. Karaoz, D. Wei, K. C. Goldfarb, C. A. Santee,
+used for visualization of significantly enriched WikiPathways
+S. V. Lynch, T. Tanoue, A. Imaoka, K. Itoh, K. Takeda, Y. Umesaki, K. Honda, D. R. Littman,
+networks where size and color intensity of nods correspond to Induction of intestinal Th17 cells by segmented filamentous bacteria. Cell 139, 485–498
+significance of enrichments. (2009).
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 19 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+19. Z. Liu, Y. Huang, B. B. Cao, Y. H. Qiu, Y. P. Peng, Th17 cells induce dopaminergic 43. T. Yamashima, A putative link of PUFA, GPR40 and adult-born hippocampal neurons
+neuronal death via LFA-1/ICAM-1 interaction in a mouse model of Parkinson's disease. for memory. Prog. Neurobiol. 84, 105–115 (2008).
+Mol. Neurobiol. 54, 7762–7776 (2017). 44. P. Garcia-Esparcia, K. Hernández-Ortega, A. Koneti, L. Gil, R. Delgado-Morales, E. Castaño,
+20. F. Yang, B. Li, L. Li, H. Zhang, The clinical significance of the imbalance of Th17 M. Carmona, I. Ferrer, Altered machinery of protein synthesis is region- and stage-
+and Treg cells and their related cytokines in peripheral blood of Parkinson's disease dependent and is associated with -synuclein oligomers in Parkinson's d
+
+Chunk 78:
+. Hernández-Ortega, A. Koneti, L. Gil, R. Delgado-Morales, E. Castaño,
+20. F. Yang, B. Li, L. Li, H. Zhang, The clinical significance of the imbalance of Th17 M. Carmona, I. Ferrer, Altered machinery of protein synthesis is region- and stage-
+and Treg cells and their related cytokines in peripheral blood of Parkinson's disease dependent and is associated with -synuclein oligomers in Parkinson's disease. Acta
+patients. Int. J. Clin. Exp. Med. 9, 17946–17951 (2016). Neuropathol. Commun. 3, 76 (2015).
+21. Z. He, Q. Yu, Identification and characterization of functional modules reflecting 45. J. P. Bennett Jr., P. M. Keeney, D. G. Brohawn, RNA sequencing reveals small and variable
+transcriptome transition during human neuron maturation. BMC Genomics 19, 262 contributions of infectious agents to transcriptomes of postmortem nervous tissues
+(2018). from amyotrophic lateral sclerosis, Alzheimer's disease and Parkinson's disease subjects,
+22. J. M. Redwine, C. F. Evans, Markers of central nervous system glia and neurons in vivo and increased expression of genes from disease-activated microglia. Front. Neurosci. 13,
+during normal and pathological conditions. Curr. Top. Microbiol. Immunol. 265, 119–140 235 (2019).
+(2002). 46. H. Keren-Shaul, A. Spinrad, A. Weiner, O. Matcovitch-Natan, R. Dvir-Szternfeld,
+23. J. D. Cahoy, B. Emery, A. Kaushal, L. C. Foo, J. L. Zamanian, K. S. Christopherson, Y. Xing, T. K. Ulland, E. David, K. Baruch, D. Lara-Astaiso, B. Toth, S. Itzkovitz, M. Colonna,
+J. L. Lubischer, P. A. Krieg, S. A. Krupenko, W. J. Thompson, B. A. Barres, A transcriptome M. Schwartz, I. Amit, A unique microglia type associated with restricting development
+database for astrocytes, neurons, and oligodendrocytes: A new resource of Alzheimer's disease. Cell 169, 1276–1290.e17 (2017).
+for understanding brain development and function. J. Neurosci. 28, 264–278 (2008). 47. D. J. Morrison, T. Preston, Formation of short chain fatty acids by the gut microbiota
+24. P. Hasel, O. Dand
+
+Chunk 79:
+rtz, I. Amit, A unique microglia type associated with restricting development
+database for astrocytes, neurons, and oligodendrocytes: A new resource of Alzheimer's disease. Cell 169, 1276–1290.e17 (2017).
+for understanding brain development and function. J. Neurosci. 28, 264–278 (2008). 47. D. J. Morrison, T. Preston, Formation of short chain fatty acids by the gut microbiota
+24. P. Hasel, O. Dando, Z. Jiwaji, P. Baxter, A. C. Todd, S. Heron, N. M. Márkus, J. McQueen, and their impact on human metabolism. Gut Microbes 7, 189–200 (2016).
+D. W. Hampton, M. Torvell, S. S. Tiwari, S. McKay, A. Eraso-Pichot, A. Zorzano, R. Masgrau, 48. H. Hochstrasser, P. Bauer, U. Walter, S. Behnke, J. Spiegel, I. Csoti, B. Zeiler, A. Bornemann,
+E. Galea, S. Chandran, D. J. A. Wyllie, T. I. Simpson, G. E. Hardingham, Correction: Author J. Pahnke, G. Becker, O. Riess, D. Berg, Ceruloplasmin gene variations and substantia nigra
+correction: Neurons and neuronal activity control gene expression in astrocytes hyperechogenicity in Parkinson disease. Neurology 63, 1912–1917 (2004).
+to regulate their development and metabolism. Nat. Commun. 9, 16176 (2018). 49. N. Ostrerova-Golts, L. Petrucelli, J. Hardy, J. M. Lee, M. Farer, B. Wolozin, The A53T
+25. A. T. McKenzie, M. Wang, M. E. Hauberg, J. F. Fullard, A. Kozlenkov, A. Keenan, Y. L. Hurd, -synuclein mutation increases iron-dependent aggregation and toxicity. J. Neurosci. 20,
+S. Dracheva, P. Casaccia, P. Roussos, B. Zhang, Brain cell type specific gene expression 6048–6054 (2000).
+and co-expression network architectures. Sci. Rep. 8, 8868 (2018). 50. N. Golts, H. Snyder, M. Frasier, C. Theisler, P. Choi, B. Wolozin, Magnesium inhibits
+26. R. Timmerman, S. M. Burm, J. J. Bajramovic, An overview of in vitro methods to study spontaneous and iron-induced aggregation of -synuclein. J. Biol. Chem. 277,
+microglia. Front. Cell. Neurosci. 12, 242 (2018). 16116–16123 (2002).
+27. M. Cheah, M. R. Andrews, Integrin activation: Implications for axon regen
+
+Chunk 80:
+ N. Golts, H. Snyder, M. Frasier, C. Theisler, P. Choi, B. Wolozin, Magnesium inhibits
+26. R. Timmerman, S. M. Burm, J. J. Bajramovic, An overview of in vitro methods to study spontaneous and iron-induced aggregation of -synuclein. J. Biol. Chem. 277,
+microglia. Front. Cell. Neurosci. 12, 242 (2018). 16116–16123 (2002).
+27. M. Cheah, M. R. Andrews, Integrin activation: Implications for axon regeneration. Cell 7, 51. N. Tsamandouras, W. L. K. Chen, C. D. Edington, C. L. Stokes, L. G. Griffith, M. Cirit,
+20 (2018). Integrated gut and liver microphysiological systems for quantitative in vitro
+28. P. J. Voulalas, L. Holtzclaw, J. Wolstenholme, J. T. Russell, S. E. Hyman, Metabotropic pharmacokinetic studies. AAPS J. 19, 1499–1512 (2017).
+glutamate receptors and dopamine receptors cooperate to enhance extracellular 52. C. D. Edington, W. L. K. Chen, E. Geishecker, T. Kassis, L. R. Soenksen, B. M. Bhushan,
+signal-regulated kinase phosphorylation in striatal neurons. J. Neurosci. 25, 3763–3773 D. Freake, J. Kirschner, C. Maass, N. Tsamandouras, J. Valdez, C. D. Cook, T. Parent,
+(2005). S. Snyder, J. Yu, E. Suter, M. Shockley, J. Velazquez, J. J. Velazquez, L. Stockdale, J. P. Papps,
+29. J. E. Vance, Dysregulation of cholesterol balance in the brain: Contribution I. Lee, N. Vann, M. Gamboa, M. E. LaBarge, Z. Zhong, X. Wang, L. A. Boyer,
+to neurodegenerative diseases. Dis. Model. Mech. 5, 746–755 (2012). D. A. Lauffenburger, R. L. Carrier, C. Communal, S. R. Tannenbaum, C. L. Stokes,
+30. B. A. Plog, M. Nedergaard, The glymphatic system in central nervous system health D. J. Hughes, G. Rohatgi, D. L. Trumper, M. Cirit, L. G. Griffith, Interconnected
+and disease: Past, present, and future. Annu. Rev. Pathol. 13, 379–394 (2018). microphysiological systems for quantitative biology and pharmacology studies. Sci. Rep.
+31. M. Addison, Q. Xu, J. Cayuso, D. G. Wilkinson, Cell identity switching regulated by retinoic 8, 4530 (2018).
+acid signaling maintains homogeneous segments in th
+
+Chunk 81:
+ G. Rohatgi, D. L. Trumper, M. Cirit, L. G. Griffith, Interconnected
+and disease: Past, present, and future. Annu. Rev. Pathol. 13, 379–394 (2018). microphysiological systems for quantitative biology and pharmacology studies. Sci. Rep.
+31. M. Addison, Q. Xu, J. Cayuso, D. G. Wilkinson, Cell identity switching regulated by retinoic 8, 4530 (2018).
+acid signaling maintains homogeneous segments in the hindbrain. Dev. Cell 45, 606–620.e3 53. L. Vernetti, A. Gough, N. Baetz, S. Blutt, J. R. Broughman, J. A. Brown, J. Foulke-Abel,
+(2018). N. Hasan, J. In, E. Kelly, O. Kovbasnjuk, J. Repper, N. Senutovitch, J. Stabb, C. Yeung,
+32. E. B. Moloney, A. Moskites, E. J. Ferrari, O. Isacson, P. J. Hallett, The glycoprotein GPNMB is N. C. Zachos, M. Donowitz, M. Estes, J. Himmelfarb, G. Truskey, J. P. Wikswo, D. L. Taylor,
+selectively elevated in the substantia nigra of Parkinson's disease patients and increases Functional coupling of human microphysiology systems: Intestine, liver, kidney proximal
+after lysosomal stress. Neurobiol. Dis. 120, 1–11 (2018). tubule, blood-brain barrier and skeletal muscle. Sci. Rep. 7, 42296 (2017).
+33. K. Tanaka, T. Suzuki, N. Hattori, Y. Mizuno, Ubiquitin, proteasome and parkin. Biochim. 54. B. M. Maoz, A. Herland, E. A. FitzGerald, T. Grevesse, C. Vidoudez, A. R. Pacheco,
+Biophys. Acta 1695, 235–247 (2004). S. P. Sheehy, T. E. Park, S. Dauth, R. Mannix, N. Budnik, K. Shores, A. Cho, J. C. Nawroth,
+34. E. Janda, L. Boi, A. R. Carta, Microglial phagocytosis and its regulation: A therapeutic D. Segrè, B. Budnik, D. E. Ingber, K. K. Parker, A linked organ-on-chip model of the human
+target in Parkinson's disease? Front. Mol. Neurosci. 11, 144 (2018). neurovascular unit reveals the metabolic coupling of endothelial and neuronal cells. Nat.
+35. Y. Shinbo, T. Niki, T. Taira, H. Ooe, K. Takahashi-Niki, C. Maita, C. Seino, S. M. M. Iguchi-Ariga, Biotechnol. 36, 865–874 (2018).
+H. Ariga, Proper SUMO-1 conjugation is essential to DJ-1 to exert its full activi
+
+Chunk 82:
+chip model of the human
+target in Parkinson's disease? Front. Mol. Neurosci. 11, 144 (2018). neurovascular unit reveals the metabolic coupling of endothelial and neuronal cells. Nat.
+35. Y. Shinbo, T. Niki, T. Taira, H. Ooe, K. Takahashi-Niki, C. Maita, C. Seino, S. M. M. Iguchi-Ariga, Biotechnol. 36, 865–874 (2018).
+H. Ariga, Proper SUMO-1 conjugation is essential to DJ-1 to exert its full activities. 55. C. W. McAleer, C. J. Long, D. Elbrecht, T. Sasserath, L. R. Bridges, J. W. Rumsey, C. Martin,
+Cell Death Differ. 13, 96–108 (2006). M. Schnepper, Y. Wang, F. Schuler, A. B. Roth, C. Funk, M. L. Shuler, J. J. Hickman,
+36. B. Mollenhauer, J. J. Locascio, W. Schulz-Schaeffer, F. Sixel-Döring, C. Trenkwalder, Multi-organ system for the evaluation of efficacy and off-target toxicity of anticancer
+M. G. Schlossmacher, -Synuclein and tau concentrations in cerebrospinal fluid therapeutics. Sci. Transl. Med. 11, eaav1386 (2019).
+of patients presenting with parkinsonism: A cohort study. Lancet Neurol. 10, 230–240 (2011). 56. S. Bauer, C. Wennberg Huldt, K. P. Kanebratt, I. Durieux, D. Gunne, S. Andersson, L. Ewart,
+37. C. Soto, S. Pritzkow, Protein misfolding, aggregation, and conformational strains W. G. Haynes, I. Maschmeyer, A. Winter, C. Ämmälä, U. Marx, T. B. Andersson, Functional
+in neurodegenerative diseases. Nat. Neurosci. 21, 1332–1340 (2018). coupling of human pancreatic islets and liver spheroids on-a-chip: Towards a novel
+38. J. H. Cummings, E. W. Pomare, W. J. Branch, C. P. Naylor, G. T. Macfarlane, Short chain fatty human ex vivo type 2 diabetes model. Sci. Rep. 7, 14620 (2017).
+acids in human large intestine, portal, hepatic and venous blood. Gut 28, 1221–1227 57. V. Hernandez-Gordillo, T. Kassis, A. Lampejo, G. H. Choi, M. E. Gamboa, J. S. Gnecco,
+(1987). A. Brown, D. T. Breault, R. Carrier, L. G. Griffith, Fully synthetic matrices for in vitro culture
+39. J. Park, M. Kim, S. G. Kang, A. H. Jannasch, B. Cooper, J. Patterson, C. H. Kim, Short-chain of primar
+
+Chunk 83:
+4620 (2017).
+acids in human large intestine, portal, hepatic and venous blood. Gut 28, 1221–1227 57. V. Hernandez-Gordillo, T. Kassis, A. Lampejo, G. H. Choi, M. E. Gamboa, J. S. Gnecco,
+(1987). A. Brown, D. T. Breault, R. Carrier, L. G. Griffith, Fully synthetic matrices for in vitro culture
+39. J. Park, M. Kim, S. G. Kang, A. H. Jannasch, B. Cooper, J. Patterson, C. H. Kim, Short-chain of primary human intestinal enteroids and endometrial organoids. Biomaterials 254,
+fatty acids induce both effector and regulatory T cells by suppression of histone 120125 (2020).
+deacetylases and regulation of the mTOR-S6K pathway. Mucosal Immunol. 8, 80–93 58. Y. Wang, R. Kim, D. B. Gunasekara, M. I. Reed, M. DiSalvo, D. L. Nguyen, S. J. Bultman,
+(2015). C. E. Sims, S. T. Magness, N. L. Allbritton, Formation of human colonic crypt array by
+40. E. Junn, R. D. Ronchetti, M. M. Quezado, S. Y. Kim, M. M. Mouradian, Tissue application of chemical gradients across a shaped epithelial monolayer. Cell. Mol.
+transglutaminase-induced aggregation of alpha-synuclein: Implications for Lewy body Gastroenterol. Hepatol. 5, 113–130 (2018).
+formation in Parkinson's disease and dementia with Lewy bodies. Proc. Natl. Acad. Sci. 59. A. Wells, H. S. Wiley, A systems perspective of heterocellular signaling. Essays Biochem.
+U.S.A. 100, 2047–2052 (2003). 62, 607–617 (2018).
+41. H. Osaka, Y. L. Wang, K. Takada, S. Takizawa, R. Setsuie, H. Li, Y. Sato, K. Nishikawa, 60. G. L. Medlock, T. J. Moutinho, J. A. Papin, Medusa: Software to build and analyze
+Y. J. Sun, M. Sakurai, T. Harada, Y. Hara, I. Kimura, S. Chiba, K. Namikawa, H. Kiyama, ensembles of genome-scale metabolic network reconstructions. PLoS Comput. Biol. 16,
+M. Noda, S. Aoki, K. Wada, Ubiquitin carboxy-terminal hydrolase L1 binds to and stabilizes e1007847 (2020).
+monoubiquitin in neuron. Hum. Mol. Genet. 12, 1945–1958 (2003). 61. A. R. Soltis, S. Motola, S. Vernia, C. W. Ng, N. J. Kennedy, S. Dalin, B. J. Matthews, R. J. Davis,
+42. G. M. Miller
+
+Chunk 84:
+K. Namikawa, H. Kiyama, ensembles of genome-scale metabolic network reconstructions. PLoS Comput. Biol. 16,
+M. Noda, S. Aoki, K. Wada, Ubiquitin carboxy-terminal hydrolase L1 binds to and stabilizes e1007847 (2020).
+monoubiquitin in neuron. Hum. Mol. Genet. 12, 1945–1958 (2003). 61. A. R. Soltis, S. Motola, S. Vernia, C. W. Ng, N. J. Kennedy, S. Dalin, B. J. Matthews, R. J. Davis,
+42. G. M. Miller, The emerging role of trace amine-associated receptor 1 in the functional E. Fraenkel, Hyper- and hypo- nutrition studies of the hepatic transcriptome
+regulation of monoamine transporters and dopaminergic activity. J. Neurochem. 116, and epigenome suggest that PPAR regulates anaerobic glycolysis. Sci. Rep. 7, 174
+164–176 (2011). (2017).
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 20 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+62. M. M. Unger, J. Spiegel, K. U. Dillmann, D. Grundmann, H. Philippeit, J. Bürmann, 82. L. M. Wakefield, J. J. Letterio, T. Chen, D. Danielpour, R. S. Allison, L. H. Pai, A. M. Denicoff,
+K. Faßbender, A. Schwiertz, K. H. Schäfer, Short chain fatty acids and gut microbiota differ M. H. Noone, K. H. Cowan, J. A. O'Shaughnessy, Transforming growth factor-beta1
+between patients with Parkinson's disease and age-matched controls. Parkinsonism Relat. circulates in normal human plasma and is unchanged in advanced metastatic breast
+Disord. 32, 66–72 (2016). cancer. Clin. Cancer Res. 1, 129–136 (1995).
+63. Y. Furusawa, Y. Obata, S. Fukuda, T. A. Endo, G. Nakato, D. Takahashi, Y. Nakanishi, 83. I. Agalliu, X. Xue, M. Cushman, E. Cornell, A. W. Hsing, R. C. Kaplan, K. Anastos,
+C. Uetake, K. Kato, T. Kato, M. Takahashi, N. N. Fukuda, S. Murakami, E. Miyauchi, S. Hino, S. Rajpathak, G. Y. F. Ho, Detectability and reproducibility of plasma levels of chemokines
+K. Atarashi, S. Onawa, Y. Fujimura, T. Lockett, J. M. Clarke, D. L. Topping, M. Tomita, S. 
+
+Chunk 85:
+. Nakato, D. Takahashi, Y. Nakanishi, 83. I. Agalliu, X. Xue, M. Cushman, E. Cornell, A. W. Hsing, R. C. Kaplan, K. Anastos,
+C. Uetake, K. Kato, T. Kato, M. Takahashi, N. N. Fukuda, S. Murakami, E. Miyauchi, S. Hino, S. Rajpathak, G. Y. F. Ho, Detectability and reproducibility of plasma levels of chemokines
+K. Atarashi, S. Onawa, Y. Fujimura, T. Lockett, J. M. Clarke, D. L. Topping, M. Tomita, S. Hori, and soluble receptors. Results Immunol. 3, 79–84 (2013).
+O. Ohara, T. Morita, H. Koseki, J. Kikuchi, K. Honda, K. Hase, H. Ohno, Commensal 84. H. O. Kim, H.-S. Kim, J. C. Youn, E.-C. Shin, S. Park, Serum cytokine profiles in healthy
+microbe-derived butyrate induces the differentiation of colonic regulatory T cells. Nature young and elderly population assessed using multiplexed bead-based immunoassays.
+504, 446–450 (2013). J. Transl. Med. 9, 113 (2011).
+64. M. Luu, K. Weigand, F. Wedi, C. Breidenbend, H. Leister, S. Pautz, T. Adhikary, A. Visekruna, 85. G. Kleiner, V. Zanin, L. Monasta, S. Crovella, L. Caruso, D. Milani, A. Marcuzzi, Pediatric
+Regulation of the effector function of CD8+ T cells by gut microbiota-derived metabolite patients with inflammatory bowel disease exhibit increased serum levels
+butyrate. Sci. Rep. 8, 14430 (2018). of proinflammatory cytokines and chemokines, but decreased circulating levels
+65. J. L. Goldstein, M. S. Brown, Regulation of the mevalonate pathway. Nature 343, 425–430 of macrophage inhibitory protein-1, interleukin-2 and interleukin-17. Exp. Ther. Med. 9,
+(1990). 2047–2052 (2015).
+66. S. S. S. Saravi, S. S. S. Saravi, K. Khoshbin, A. R. Dehpour, Current insights into 86. G. Kleiner, A. Marcuzzi, V. Zanin, L. Monasta, G. Zauli, Cytokine levels in the serum
+pathogenesis of Parkinson's disease: Approach to mevalonate pathway and protective of healthy subjects. Mediators Inflamm. 2013, 434010 (2013).
+role of statins. Biomed. Pharmacother. 90, 724–730 (2017). 87. K. D. Sekiyama, M. Yoshiba, A. W. Thomson, Circulating proinflammatory cyt
+
+Chunk 86:
+hpour, Current insights into 86. G. Kleiner, A. Marcuzzi, V. Zanin, L. Monasta, G. Zauli, Cytokine levels in the serum
+pathogenesis of Parkinson's disease: Approach to mevalonate pathway and protective of healthy subjects. Mediators Inflamm. 2013, 434010 (2013).
+role of statins. Biomed. Pharmacother. 90, 724–730 (2017). 87. K. D. Sekiyama, M. Yoshiba, A. W. Thomson, Circulating proinflammatory cytokines (IL-1
+67. S. Fanning, A. Haque, T. Imberdis, V. Baru, M. I. Barrasa, S. Nuber, D. Termine, , TNF-, and IL-6) and IL-1 receptor antagonist (IL-1Ra) in fulminant hepatic failure
+N. Ramalingam, G. P. H. Ho, T. Noble, J. Sandoe, Y. Lou, D. Landgraf, Y. Freyzon, G. Newby, and acute hepatitis. Clin. Exp. Immunol. 98, 71–77 (1994).
+F. Soldner, E. Terry-Kantor, T.-E. Kim, H. F. Hofbauer, M. Becuwe, R. Jaenisch, D. Pincus,
+88. M. Shi, J. Bradner, A. M. Hancock, K. A. Chung, J. F. Quinn, E. R. Peskind, D. Galasko,
+C. B. Clish, T. C. Walther, R. V. Farese Jr., S. Srinivasan, M. A. Welte, S. D. Kohlwein,
+J. Jankovic, C. P. Zabetian, H. M. Kim, J. B. Leverenz, T. J. Montine, C. Ginghina,
+U. Dettmer, S. Lindquist, D. Selkoe, Lipidomic analysis of -synuclein neurotoxicity
+U. J. Kang, K. C. Cain, Y. Wang, J. Aasly, D. Goldstein, J. Zhang, Cerebrospinal fluid
+identifies stearoyl CoA desaturase as a target for Parkinson treatment. Mol. Cell 73, biomarkers for Parkinson disease diagnosis and progression. Ann. Neurol. 69, 570–580
+1001–1014.e8 (2019).
+(2011).
+68. R. F. Keep, H. C. Jones, L. R. Drewes, The year in review: Progress in brain barriers
+89. T. Khaibullin, V. Ivanova, E. Martynova, G. Cherepnev, F. Khabirov, E. Granatov,
+and brain fluid research in 2018. Fluids Barriers CNS 16, 4 (2019).
+A. Rizvanov, S. Khaiboullina, Elevated levels of proinflammatory cytokines
+69. H. Uwamori, Y. Ono, T. Yamashita, K. Arai, R. Sudo, Comparison of organ-specific in cerebrospinal fluid of multiple sclerosis patients. Front. Immunol. 8, 531 (2017).
+endothelial cells in terms of microvascular fo
+
+Chunk 87:
+G. Cherepnev, F. Khabirov, E. Granatov,
+and brain fluid research in 2018. Fluids Barriers CNS 16, 4 (2019).
+A. Rizvanov, S. Khaiboullina, Elevated levels of proinflammatory cytokines
+69. H. Uwamori, Y. Ono, T. Yamashita, K. Arai, R. Sudo, Comparison of organ-specific in cerebrospinal fluid of multiple sclerosis patients. Front. Immunol. 8, 531 (2017).
+endothelial cells in terms of microvascular formation and endothelial barrier functions. 90. M. P. Vawter, O. Dillon-Carter, W. W. Tourtellotte, P. Carvey, W. J. Freed, TGF1 and TGF2
+Microvasc. Res. 122, 60–70 (2019).
+concentrations are elevated in Parkinson's disease in ventricular cerebrospinal fluid.
+70. J. G. DeStefano, J. J. Jamieson, R. M. Linville, P. C. Searson, Benchmarking in vitro Exp. Neurol. 142, 313–322 (1996).
+tissue-engineered blood-brain barrier models. Fluids Barriers CNS 15, 32 (2018).
+91. D. Westhoff, J. Witlox, L. Koenderman, K. J. Kalisvaart, J. F. M. de Jonghe, M. F. M. van Stijn,
+71. S. Shetty, P. F. Lalor, D. H. Adams, Liver sinusoidal endothelial cells - gatekeepers
+A. P. J. Houdijk, I. C. M. Hoogland, A. M. J. Maclullich, D. J. van Westerloo, D. van de Beek,
+of hepatic immunity. Nat. Rev. Gastroenterol. Hepatol. 15, 555–567 (2018).
+P. Eikelenboom, W. A. van Gool, Preoperative cerebrospinal fluid cytokine levels
+72. S. J. Dixon, K. M. Lemberg, M. R. Lamprecht, R. Skouta, E. M. Zaitsev, C. E. Gleason,
+and the risk of postoperative delirium in elderly hip fracture patients.
+D. N. Patel, A. J. Bauer, A. M. Cantley, W. S. Yang, B. Morrison III, B. R. Stockwell,
+J. Neuroinflammation 10, 122 (2013).
+Ferroptosis: An iron-dependent form of nonapoptotic cell death. Cell 149, 1060–1072
+92. L. Sosvorova, J. Vcelak, M. Mohapl, J. Vitku, M. Bicikova, R. Hampl, Selected pro- and
+(2012).
+anti-inflammatory cytokines in cerebrospinal fluid in normal pressure hydrocephalus.
+73. B. R. Stockwell, J. P. Friedmann Angeli, H. Bayir, A. I. Bush, M. Conrad, S. J. Dixon, S. Fulda,
+Neuro Endocrinol. Lett. 35, 586–593 
+
+Chunk 88:
+ptosis: An iron-dependent form of nonapoptotic cell death. Cell 149, 1060–1072
+92. L. Sosvorova, J. Vcelak, M. Mohapl, J. Vitku, M. Bicikova, R. Hampl, Selected pro- and
+(2012).
+anti-inflammatory cytokines in cerebrospinal fluid in normal pressure hydrocephalus.
+73. B. R. Stockwell, J. P. Friedmann Angeli, H. Bayir, A. I. Bush, M. Conrad, S. J. Dixon, S. Fulda,
+Neuro Endocrinol. Lett. 35, 586–593 (2014).
+S. Gascón, S. K. Hatzios, V. E. Kagan, K. Noel, X. Jiang, A. Linkermann, M. E. Murphy,
+93. A. Abdelhak, T. Hottenrott, E. Morenas-Rodríguez, M. Suárez-Calvet, U. K. Zettl,
+M. Overholtzer, A. Oyagi, G. C. Pagnussat, J. Park, Q. Ran, C. S. Rosenfeld, K. Salnikow,
+C. Haass, S. G. Meuth, S. Rauer, M. Otto, H. Tumani, A. Huss, Glial activation markers
+D. Tang, F. M. Torti, S. V. Torti, S. Toyokuni, K. A. Woerpel, D. D. Zhang, Ferroptosis:
+A regulated cell death nexus linking metabolism, redox biology, and disease. Cell 171, in CSF and serum from patients with primary progressive multiple sclerosis:
+Potential of serum GFAP as disease severity marker? Front. Neurol. 10, 280 273–285 (2017).
+(2019).
+74. S. J. Guiney, P. A. Adlard, A. I. Bush, D. I. Finkelstein, S. Ayton, Ferroptosis and cell death
+mechanisms in Parkinson's disease. Neurochem. Int. 104, 34–48 (2017). 94. K. Mokuno, K. Kato, K. Kawai, Y. Matsuoka, T. Yanagi, I. Sobue, Neuron-specific enolase
+75. J. Roper, T. Tammela, N. M. Cetinbas, A. Akkad, A. Roghanian, S. Rickelt, M. Almeqdadi, and S-100 protein levels in cerebrospinal fluid of patients with various neurological
+K. Wu, M. A. Oberli, F. J. Sánchez-Rivera, Y. K. Park, X. Liang, G. Eng, M. S. Taylor, diseases. J. Neurol. Sci. 60, 443–451 (1983).
+R. Azimi, D. Kedrin, R. Neupane, S. Beyaz, E. T. Sicinska, Y. Suarez, J. Yoo, L. Chen,
+L. Zukerberg, P. Katajisto, V. Deshpande, A. J. Bass, P. N. Tsichlis, J. Lees, R. Langer,
+R. O. Hynes, J. Chen, A. Bhutkar, T. Jacks, Ö. H. Yilmaz, In vivo genome editing Acknowledgments: We are grateful to S. Mazmanian, C. Edington
+
+Chunk 89:
+k, X. Liang, G. Eng, M. S. Taylor, diseases. J. Neurol. Sci. 60, 443–451 (1983).
+R. Azimi, D. Kedrin, R. Neupane, S. Beyaz, E. T. Sicinska, Y. Suarez, J. Yoo, L. Chen,
+L. Zukerberg, P. Katajisto, V. Deshpande, A. J. Bass, P. N. Tsichlis, J. Lees, R. Langer,
+R. O. Hynes, J. Chen, A. Bhutkar, T. Jacks, Ö. H. Yilmaz, In vivo genome editing Acknowledgments: We are grateful to S. Mazmanian, C. Edington, and C. Mass for critical
+and organoid transplantation models of colorectal cancer and metastasis. Nat. Biotechnol. input and conceptualization of the study; to B. Ringeisen, D. Stepp, R. Cecil, and G. Kost for
+35, 569–576 (2017). support and feedback; to D. Breault, F. Zhou, J. Papps, V. Hernandez-Gordillo, and the
+76. L. I. Golbe, A. M. Lazzarini, R. C. Duvoisin, G. D. Iorio, G. Sanges, V. Bonavita, S. la Sala, Organoid Core of the Harvard Digestive Disease Center for help with establishing intestinal
+Clinical genetic analysis of Parkinson's disease in the Contursi kindred. Ann. Neurol. 40, organoid cultures; to D. Brubaker and J. Das for help with RNA-seq analysis and data
+767–775 (1996). representation; to J. W. Kemmitt for help with operating the physiomimetic platforms; to
+77. P. Douvaras, B. Sun, M. Wang, I. Kruglikov, G. Lallos, M. Zimmer, C. Terrenoire, B. Zhang, H. Lee for managing laboratory operations; and to C. Ives for help in the graphic
+S. Gandy, E. Schadt, D. O. Freytes, S. Noggle, V. Fossati, Directed differentiation of human representation of our work. Funding: The work was funded by the grants DARPA
+pluripotent stem cells to microglia. Stem Cell Rep. 8, 1516–1524 (2017). W911NF-12-2-0039, NIH/NIBIB R01EB021908, and in part by the National Institute of
+78. A. M. Evans, B. R. Bridgewater, Q. Liu, M. W. Mitchell, R. J. Robinson, H. Dai, S. J. Stewart, Environmental Health Sciences of the NIH under award P30-ES002109; in part by the Koch
+C. D. DeHaven, L. A. D. Miller, High resolution mass spectrometry improves data quantity Institute Support (core) Grant P
+
+Chunk 90:
+24 (2017). W911NF-12-2-0039, NIH/NIBIB R01EB021908, and in part by the National Institute of
+78. A. M. Evans, B. R. Bridgewater, Q. Liu, M. W. Mitchell, R. J. Robinson, H. Dai, S. J. Stewart, Environmental Health Sciences of the NIH under award P30-ES002109; in part by the Koch
+C. D. DeHaven, L. A. D. Miller, High resolution mass spectrometry improves data quantity Institute Support (core) Grant P30-CA14051 from the National Cancer Institute and the NIH
+and quality as compared to unit mass resolution mass spectrometry in high-throughput grant P30DK034854; and in part by the Army Research Office Institute for Collaborative
+profiling metabolomics. Metabolomics 4, 132 (2014). Biotechnologies cooperative agreement W911NF-19-2-0026. E.W. was the recipient of a
+79. A. Subramanian, P. Tamayo, V. K. Mootha, S. Mukherjee, B. L. Ebert, M. A. Gillette, research fellowship from the Deutsche Forschungsgemeinschaft (WO 2255/1-1), and M.J.L.
+A. Paulovich, S. L. Pomeroy, T. R. Golub, E. S. Lander, J. P. Mesirov, Gene set enrichment was supported by the National Science Foundation Graduate Research Fellowship under grant
+analysis: A knowledge-based approach for interpreting genome-wide expression no. 1745302. Author contributions: M.T., E.W., D.S., C.C., D.A.L., D.T., R.J., and L.G.G. were
+profiles. Proc. Natl. Acad. Sci. U.S.A. 102, 15545–15550 (2005). responsible for conceptualization, writing, and review. M.T., P.S., S.L., S.M., E.W., D.S., J.M., and
+80. C. R. Chapman, C. Reyes, V. Gupta, Normal physiological levels of human cytokines using M.J.L. were responsible for investigation, data curation and analysis, and methodology. M.T.,
+Bio-Plex Pro™ cytokine assays, Bio-Rad Tech. Note (2010). E.W., D.S., A.O., T.L., J.V., K.S., S.M., A.H., and C.W.W. performed the experiments and assisted
+81. K. Alnek, K. Kisand, K. Heilman, A. Peet, K. Varik, R. Uibo, Increased blood levels of growth with data analysis. Competing interests: L.G.G. has patents on predicate technology
+factors, proinf
+
+Chunk 91:
+ curation and analysis, and methodology. M.T.,
+Bio-Plex Pro™ cytokine assays, Bio-Rad Tech. Note (2010). E.W., D.S., A.O., T.L., J.V., K.S., S.M., A.H., and C.W.W. performed the experiments and assisted
+81. K. Alnek, K. Kisand, K. Heilman, A. Peet, K. Varik, R. Uibo, Increased blood levels of growth with data analysis. Competing interests: L.G.G. has patents on predicate technology
+factors, proinflammatory cytokines, and Th17 cytokines in patients with newly diagnosed (LiverChip) that are licensed to CN BioInnovations (Cambridge, UK). L.G.G. and D.T. have
+type 1 diabetes. PLOS ONE 10, e0142976 (2015). applied for patents on multi-organ interacting systems. R.J. is a cofounder of Fate, Fulcrum,
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 21 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+and Omega Therapeutics and an advisor to Camp4 and Dewpoint Therapeutics. L.G.G. and D.T. Submitted 4 June 2020
+are inventors on the following patents related to this work filed by the Massachusetts Institute Accepted 11 December 2020
+of Technology (nos. WO2017176357A3, published 4 January 2018, and US20180272346A1, Published 29 January 2021
+published 27 September 2018). The authors declare that they have no other competing 10.1126/sciadv.abd1707
+interests. Data and materials availability: All data needed to evaluate the conclusions in the
+paper are present in the paper and/or the Supplementary Materials. Information and requests Citation: M. Trapecar, E. Wogram, D. Svoboda, C. Communal, A. Omer, T. Lungjangwa,
+for biological resources, reagents, and data should be directed to and will be fulfilled by the P. Sphabmixay, J. Velazquez, K. Schneider, C. W. Wright, S. Mildrum, A. Hendricks, S. Levine, J. Muffat,
+lead contacts, L.G.G. (griff@mit.edu) and R.J. (jaenisch@wi.mit.edu). All unique materials M. J. Lee, D. A. Lauffenburger, D. Trumper, R. Jaenisch, L. G. Griffith, Human
+
+Chunk 92:
+unal, A. Omer, T. Lungjangwa,
+for biological resources, reagents, and data should be directed to and will be fulfilled by the P. Sphabmixay, J. Velazquez, K. Schneider, C. W. Wright, S. Mildrum, A. Hendricks, S. Levine, J. Muffat,
+lead contacts, L.G.G. (griff@mit.edu) and R.J. (jaenisch@wi.mit.edu). All unique materials M. J. Lee, D. A. Lauffenburger, D. Trumper, R. Jaenisch, L. G. Griffith, Human physiomimetic
+generated in this study are available from the lead contacts by reasonable request, but we model integrating microphysiological systems of the gut, liver, and brain for studies of
+may require a completed materials transfer agreement. neurodegenerative diseases. Sci. Adv. 7, eabd1707 (2021).
+Trapecar et al., Sci. Adv. 2021; 7 : eabd1707 29 January 2021 22 of 22
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+Human physiomimetic model integrating microphysiological systems of the gut,
+liver, and brain for studies of neurodegenerative diseases
+Martin TrapecarEmile WogramDevon SvobodaCatherine CommunalAttya OmerTenzin LungjangwaPierre
+SphabmixayJason VelazquezKirsten SchneiderCharles W. WrightSamuel MildrumAustin HendricksStuart LevineJulien
+MuffatMeelim Jasmine LeeDouglas A. LauffenburgerDavid TrumperRudolf JaenischLinda G. Griffith
+Sci. Adv., 7 (5), eabd1707. • DOI: 10.1126/sciadv.abd1707
+View the article online
+https://www.science.org/doi/10.1126/sciadv.abd1707
+Permissions
+https://www.science.org/help/reprints-and-permissions
+Use of think article is subject to the Terms of service
+Science Advances (ISSN 2375-2548) is published by the American Association for the Advancement of Science. 1200 New York Avenue
+NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS.
+Copyright © 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution NonC
+
+Chunk 93:
+published by the American Association for the Advancement of Science. 1200 New York Avenue
+NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS.
+Copyright © 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim
+to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC).
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+January
+01,
+2022
+
+---PAGE BREAK---
+
+
+

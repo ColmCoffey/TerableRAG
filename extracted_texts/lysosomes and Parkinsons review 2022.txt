@@ -1,0 +1,2172 @@
+Journal Pre-proofs
+Review Article
+From lysosomal storage disorders to Parkinson’s Disease – Challenges and
+opportunities
+Rebecca Mächtel, Fanni Annamaria Boros, Jan Philipp Dobert, Philipp
+Arnold, Friederike Zunke
+PII: S0022-2836(22)00559-9
+DOI: https://doi.org/10.1016/j.jmb.2022.167932
+Reference: YJMBI 167932
+To appear in: Journal of Molecular Biology
+Received Date: 5 October 2022
+Revised Date: 14 December 2022
+Accepted Date: 19 December 2022
+Please cite this article as: R. Mächtel, F. Annamaria Boros, J. Philipp Dobert, P. Arnold, F. Zunke, From
+lysosomal storage disorders to Parkinson’s Disease – Challenges and opportunities, Journal of Molecular Biology
+(2022), doi: https://doi.org/10.1016/j.jmb.2022.167932
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover
+page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version
+will undergo additional copyediting, typesetting and review before it is published in its final form, but we are
+providing this version to give early visibility of the article. Please note that, during the production process, errors
+may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+© 2022 Published by Elsevier Ltd.
+
+---PAGE BREAK---
+
+From lysosomal storage disorders to Parkinson’s Disease –
+Challenges and opportunities
+Rebecca Mächtel1, Fanni Annamaria Boros1, Jan Philipp Dobert1, Philipp Arnold2 and
+Friederike Zunke1
+1Department of Molecular Neurology, University Clinics Erlangen, Erlangen, Germany
+2Institute of Functional and Clinical Anatomy, Friedrich-Alexander-University Erlangen-
+Nürnberg (FAU), Erlangen, Germany
+Keywords:
+Parkinson’s disease, lysosome, lysosomal enzymes, lysosomal storage disorder,
+neurodegeneration
+Funding:
+We acknowledge the Michael J. Fox Foundation for Parkinson’s research for continuous
+support.
+List of abbreviations:
+4-MU, 4-methylumbelliferyl; aSyn, α-synuclein; ATP, adenosine triphosphate; AD, Alzheimer
+disease; AVV, adenovirus vector; BBB, blood-brain barrier; CLN2, ceroid lipofuscinosis type
+2; CNS, central nervous system; CSF, cerebrospinal fluid; CTSx, cathepsin x; ER,
+endoplasmic reticulum; EOPD, early onset Parkinson’s disease; ERT, enzyme replacement
+therapy; GD, Gaucher’s disease; GWAS, genome-wide association studies; iPSCs, induced
+pluripotent stem cells; MLD, Metachromatic leukodystrophy; MPTP, 1-methyl-4-phenyl-
+1,2,5,6-tetrahydropyridine; NCL, neuronal ceroid lipofuscinosis; KRS, Kufor-Rabek syndrome;
+LSD, lysosomal storage disease/disorder; PCT, pharmacological chaperone therapy; PD,
+Parkinson’s disease; SRT, substrate reduction therapy
+For further gene, protein, and disease names/abbreviations, see Table 1
+1
+
+---PAGE BREAK---
+
+Abstract
+Lysosomes are specialized organelles with an acidic pH that act as recycling hubs for
+intracellular and extracellular components. They harbour numerous different hydrolytic
+enzymes to degrade substrates like proteins, peptides, and glycolipids. Reduced catalytic
+activity of lysosomal enzymes can cause the accumulation of these substrates and loss of
+lysosomal integrity, resulting in lysosomal dysfunction and lysosomal storage disorders
+(LSDs). Post-mitotic cells, such as neurons, seem to be highly sensitive to damages induced
+by lysosomal dysfunction, thus LSDs often manifest with neurological symptoms. Interestingly,
+some LSDs and Parkinson’s disease (PD) share common cellular pathomechanisms,
+suggesting convergence of aetiology of the two disease types. This is further underlined by
+genetic associations of several lysosomal genes involved in LSDs with PD. The increasing
+number of lysosome-associated genetic risk factors for PD makes it necessary to understand
+functions and interactions of lysosomal proteins/enzymes both in healthy and disease states,
+thereby holding the potential to identify new therapeutic targets. In this review, we highlight
+genetic and mechanistic interactions between the complex lysosomal network, LSDs and PD,
+and elaborate on methodical challenges in lysosomal research.
+2
+
+---PAGE BREAK---
+
+Lysosomal dysfunction in neurons can be provoked by different mechanisms, which can
+reinforce each other reciprocally. Single mutations of proteins within these pathways are
+often the culprit for the development of specific LSDs, and these protein variants show a
+significant overlap with the development of PD. Although LSDs and PD share several
+pathomechanisms, the connections often are elusive and complex. (Figure created with
+BioRender.com.)
+3
+
+---PAGE BREAK---
+
+Figure 1 Overview of lysosomal formation and function highlighting PD-associated pathways
+and genetic variants. Lysosomes are acidic vesicles with a lipid-bilayer membrane. They
+consist of specialized lysosomal membrane proteins and hydrolases that maintain lysosomal
+homeostasis. Relevant steps in lysosome formation and maintenance are indicated together
+with examples of lysosomal proteins of which certain genetic variants have been identified as
+PD risk factors. This includes lysosomal membrane proteins affecting lysosomal integrity,
+lysosomal enzymes for the degradation of various substrates including the PD-associated
+protein α-synuclein (aSyn), as well as components of the intracellular trafficking machinery.
+Introduction – Lysosomal (dys)functions and correlations to
+Parkinson’s disease
+Parkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by the
+irreversible loss of dopaminergic neurons in the substantia nigra pars compacta. Worldwide,
+about 1 % of people above 60 years are affected by PD, yet approximately 10 % of PD cases
+manifest at younger ages (as early as patients in their 30s). These are referred to as early
+onset PD (EOPD) [1, 2]. A large number of studies revealed a family history in 15-25 % of the
+diagnoses, but only 5-10% of all cases could be identified as monogenic forms, caused by a
+single mutation of a high risk gene [3]. To date, pathogenic mutations of several genes could
+4
+
+---PAGE BREAK---
+
+be identified as an inheritable source for (EO)PD, e.g., SNCA, LRRK2, VPS35 (autosomal
+dominant), and PRKN, PINK1, DJ1 (autosomal recessive) [4]. However, PD is a multifactorial
+disease, which appears with various symptoms and underlying pathomechanisms. Besides
+genetic factors, various lifestyle and environmental factors contribute to its development, and
+combinations thereof [5]. Nonetheless, the growing number of genetic variants identified or
+proposed to contribute to the disease implies that such genetic factors could play an important
+role in a great percentage of idiopathic PD cases as well.
+The pathohistological hallmark of PD are Lewy bodies consisting mainly of aggregated α-
+synuclein (aSyn) and other aggregation-prone proteins [6]. Interestingly, a number of recent
+studies show mechanistic as well as genetic connections between lysosomal (dys)function and
+PD pathology. This highlights the role of lysosomal pathways in the development of
+neurodegeneration, and proposes a complex interplay between lysosomal neurodegenerative
+disorders and PD caused by genetic mutations in lysosomal proteins.
+Structure and function of the lysosomal system
+Lysosomes are specialized organelles, which degrade and recycle proteins, glycolipids and
+other intra- and extracellular components. They have an indispensable role in multiple
+essential processes such as autophagy and endocytosis, thus providing pathogen control and
+depletion of toxic substrates and degradation products [7]. Lysosomal membranes embed
+ATP-consuming proton pumps to retain a luminal pH of 4.6 to 5.0 [8, 9]. The acidic pH is
+essential for the activity of over 60 highly specialized hydrolases [10], as it assures their activity
+exclusively in the lysosome, thus protecting cell compartments with cytosolic pH from arbitrary
+degradation. It should be mentioned, however, that some lysosomal hydrolases also exhibit
+enzymatic activity at neutral pH [11-13].
+The group of lysosomal hydrolases encompasses nucleases, glucosidases, phosphatases,
+proteases, sulfatases, and lipid or polysaccharide degrading enzymes [10, 14, 15]. Lysosomal
+proteins are transported into the endoplasmic reticulum (ER) and travel through the Golgi
+apparatus where they undergo post-translational modification. To ensure targeting to the
+5
+
+---PAGE BREAK---
+
+lysosome, most lysosomal proteins are tagged with mannose 6-phosphate, which is
+recognized by the mannose-6-phosphate receptor (M6PR). The cytoplasmic tail of the M6PR
+and specific sorting signals then direct the enzyme-M6PR-complex to the lysosome. While
+binding is most effective at pH 6.0-7.0, the acidic pH in lysosomes provokes release of the
+bound enzyme, allowing the M6PR to be recycled for further transport processes [16]. Two
+forms, commonly termed cation-independent [17] and cation-dependent [18] M6PR, are
+essential players in maintenance of proper lysosomal function [19]. Although most lysosomal
+enzymes are transported via the M6PR pathway, exceptions exist where specialized transport
+proteins facilitate M6PR-independent lysosomal trafficking. One of these examples is the
+lysosomal integral membrane protein 2 (LIMP-2), which exclusively transports β-
+glucocerebrosidase (GCase) to the lysosome [20, 21]. In total, more than 50 membrane-
+associated proteins maintain the lysosomal environment, perform metabolic signalling and
+orchestrate import and export of hydrolases, substrates, metabolites and ions [10]. As
+indicated in Figure 1, essential pathways in preserving lysosomal function and homeostasis
+are i) trafficking of lysosomal enzymes/proteins via the secretory pathway, ii) maintenance of
+the acidic pH, iii) efficient turnover of substrates, iv) export of certain substrates and
+metabolites (i.e. via exocytosis), and v) communication with the cell membrane. Further,
+autophagy processes are essential for the functionality of the whole cell, as accumulation of
+toxic substrates, pathogens, cellular debris, and fragmented proteins can influence cellular and
+protein functions, at most even inducing cell death [22]. Macroautophagy is crucial for organelle
+recycling/renewal and to remove aggregated proteins and cell debris from cells. Key players
+in this process are autophagosomes that form in the cytoplasm where they engulf their
+substrates before fusing with lysosomes, thus forming autolysosomes. As an alternative
+pathway to enter lysosomal degradation, substrates can be taken up via chaperone-mediated
+autophagy [23]. For proper autophagic function, a tight regulation is indispensable, including
+up- or downregulation of proteins, and signal cascades for autophagosome or autolysosome
+formation [23, 24]. Important components are lysosome-associated Hsc70 chaperones that
+bind to substrates and transport them to the lysosome-associated membrane protein 2 (LAMP-
+6
+
+---PAGE BREAK---
+
+2) to form a translocation complex that delivers the substrate into the lysosomal compartment
+[25]. Several other proteins, e.g., transcription factor TFEB, and leucine-rich repeat kinase 2
+(LRRK2), affect autophagic function of cells [26-28].
+Failures in the function of lysosomes can lead to various diseases, most notable to those
+referred as lysosomal storage diseases or disorders (LSDs). At least 50 types of LSDs have
+been described to date that are mostly of autosomal-recessive character [29, 30]. They are
+characterized by defects of lysosomal proteins and consequent accumulation of undegraded
+macromolecules and are largely caused by genetic variations in genes coding for lysosomal
+hydrolases. LSDs often manifest with neurological symptoms and neurodegeneration [31] due
+to accumulating substrates causing cellular dysfunction. Neurons are especially sensitive
+towards the accumulation of cellular waste, in part because of their post-mitotic character.
+Consequently, substrate accumulation in the brain often leads to neurotoxicity and irreversible
+cell loss [32, 33]. Furthermore, insufficient lysosomal degradation includes scant removal of
+neurodegeneration-associated proteins like the aggregation-prone aSyn (encoded by SNCA)
+or other harmful molecules [24, 34, 35]. As a result, accumulation of undegraded substrates
+can serve as a trigger in initiating secondary pathogenic cascades, affecting molecules not
+directly related to the defective enzyme. This causes, for example, perturbation in membrane
+composition, impaired intracellular vesicle fusion and trafficking, impaired autophagic function,
+disturbance in calcium homeostasis, mitochondrial abnormalities and excessive accumulation
+of reactive oxygen species [36].
+LSDs often share symptoms with PD and different forms of parkinsonism and a growing
+number of studies showed connections on the genetic and the molecular level between the
+two diseases, as summarized in Table 1. This raises the question whether these disorders
+share common or similar underlying pathomechanisms. In the following chapters, we will
+present examples of lysosomal dysfunctions to illustrate how the understanding of lysosomal
+(dys)functions can lead to a better comprehension of PD pathology and the identification of
+novel biomarkers, diagnostic tools or therapeutic targets.
+7
+
+---PAGE BREAK---
+
+Table 1: Overview lysosomal enzymes and diseases – see end of Review
+α-Synuclein degradation by lysosomal cathepsins
+A direct link between lysosomal function and PD might be the degradation of aSyn within the
+lysosomal system. While the proteasome is also involved in aSyn degradation [37], clearance
+of aSyn aggregates is preferentially mediated through endocytosis, macroautophagy and
+chaperone-mediated autophagy [38-40]. The bulk degradation of protein substrates, including
+aggregated aSyn, within the lysosome is mainly mediated by lysosomal cathepsins. These
+cathepsins do not only degrade proteins, but are also crucial for processing, maturation and
+regulation of other lysosomal proteins and enzymes. Thus, it is unsurprising that deficiency of
+lysosomal cathepsins can disrupt lysosomal function and lead to LSDs. Examples are neuronal
+ceroid lipofuscinosis type 10 (NCL10) and 13 (NCL13), in which lipofuscin is insufficiently
+degraded by cathepsins D (CTSD) and F (CTSF), respectively [41-43]. Another example is
+galactosialidosis, where the lack of cathepsin A causes dysregulation of neuraminidase-1 and
+beta-galactosidase, leading to accumulation of sialylated substrates [44, 45]. CTSD merits
+special attention here, as genetic alterations in the CTSD gene have not only been linked to
+NCL10, but also to neurodegenerative disease, namely Alzheimer disease (AD) [46-49], and
+PD. Not only CTSD, but also cathepsin B (CTSB) emerged as an active player in PD pathology
+as both have been shown to be important for aSyn cleavage and genetic variants have been
+identified as risk factors for PD [50-53]. The link between CTSD and PD is further solidified by
+studies of a CTSD-deficient (Ctsd-/-) NCL10 mouse model, which displays disturbed
+autophagosomal function and aSyn aggregation [54]. Although no genetic variants of
+cathepsins L (CTSL) and K have been associated with PD so far, both enzymes have been
+shown to cleave aSyn, even its aggregated forms [50, 55].
+Accumulation of aSyn aggregates can occur directly within the lysosome, manifesting again
+the organelle’s key role in PD pathology [56]. In line with this, up- or down-regulation of
+lysosomal cathepsins as a potential mechanism or even biomarker of PD has gained interest
+recently. However, data about CTSD levels and activity in the context of PD is ambiguous
+8
+
+---PAGE BREAK---
+
+between studies, most likely due to the analysis of different body fluids and tissue samples.
+For example, in studies analysing blood serum samples of PD, CTSD levels were either
+reduced [57] or unchanged [58]. On the other hand, a study looking at cerebrospinal fluid (CSF)
+reported CTSD activity to be unchanged in PD patients [59], while another publication reported
+unchanged protein levels of CTSD and CTSL but increased levels of CTSB and CTSF in PD-
+derived CSF samples [60]. A study analysing brain tissue showed no significant changes in
+CTSB, D and L activity in PD patients [61]. On the contrary, studies using patient-derived cell
+models reported increased CTSD levels in multiple Gaucher’s disease (GD) and GBA-PD
+fibroblasts harbouring different mutations (p.N370S, p.L444P, c1263del55, 203insC, RecNcil)
+[62] and iPSC-derived neurons of different p.N370S mutation-carrying GBA-PD patients [63].
+Characterization of selected PD-associated CTSD variants (p.V95I, p.G145V, p.A239V,
+p.R266H, p.D97S) reported no significant impact of these mutations on enzyme activity, except
+for p.A239V, which increased activity in an in vitro study [43]. Thus, the exact role and potential
+as biomarker of lysosomal cathepsins in PD remains a topic of discussion. It is important to
+mention that protein levels and activity of lysosomal hydrolases are not equivalent read-outs
+because impairments in cellular transport or maturation may not affect total cell protein levels,
+but will affect lysosomal activity. Nonetheless, modulation of lysosomal cathepsin activity may
+be a powerful tool in the treatment of PD as shown by a recent study which explored
+administration of recombinant CTSD as a therapeutic approach to reduce aSyn burden [64].
+This study showed that an administered recombinant pro-form of CTSD was taken up and
+processed into catalytically active enzyme by iPS-derived neurons. Furthermore, treatment
+with recombinant CTSD reduced aggregated aSyn levels and restored overall lysosomal
+function in PD patient-derived dopaminergic neurons harbouring the SNCA p.A53T mutation
+[64]. Importantly, the positive effects of CTSD treatment on aSyn clearance were reproduced
+in the already mentioned CTSD-deficient (Ctsd-/-) NCL10 mouse model, in which previous
+studies had already shown that intracranial injection of these mice with recombinant CTSD
+improved autophagy, life span, and disease phenotype [65].
+9
+
+---PAGE BREAK---
+
+In summary, lysosomal cathepsins appear to play a central role in the maintenance of
+lysosomal function and the degradation of aSyn. However, due to the heterogenous data on
+dysregulation of different cathepsins in PD along with the complexity of regulatory interactions
+within the protease web of the lysosome, we refrain from providing a general conclusion about
+the exact mechanisms by which different cathepsins modulate PD pathology. Nonetheless,
+therapeutic intervention targeting cathepsin activity, as shown for CTSD, could be a promising
+approach towards tackling neurodegeneration.
+Dysfunctional substrate cleaving enzymes and impaired metabolism
+As the brain is characterized by a high lipid content with dense lipid rafts in the neuronal
+membrane [66], ceramides – fundamental components of all major sphingolipid species – play
+an important role in the regulation of central nervous system (CNS) homeostasis [67].
+Glucosylceramide and galactosylceramide are sphingolipids degraded within the lysosome by
+β-glucocerebrosidase (GCase) and β-galactosylceramidase (GALC), respectively. For both
+enzymes, several hundred mutations have been identified on the genomic level. Loss of
+function mutations in GBA1 (encoding GCase) and GALC genes cause the LSDs GD [68-70]
+and Krabbe disease [71, 72], respectively. For GD, three different types are defined based on
+the severity of symptoms [73]. While patients suffering from type 1 show no neurological
+symptoms, type 2 and 3 patients develop neurological problems. Here, type 2 is most severe
+and patients normally report with symptoms as infants and, if untreated, die around the age of
+9 months [74]. Interestingly, some GBA1 mutations found in GD patients were also identified
+as risk factors for EOPD [75]. While manifestation of GD requires homozygous or compound
+heterozygous GBA1 mutations, specific heterozygous GBA1 genotypes like the p.N370S
+mutation are sufficient for an increased PD risk and not correlated to GD. On the molecular
+level it was demonstrated that the substrate of GCase, glucosylceramide, interacts with and
+stabilizes aSyn oligomers inducing the formation of cell toxic aSyn species [76]. Knockdown
+of GCase in vitro resulted in impaired lysosomal clearance capacity and consequently led to
+aSyn accumulation. Additionally, in vitro findings showed that glucosylceramide stabilizes the
+10
+
+---PAGE BREAK---
+
+soluble high molecular weight intermediate forms of the protein [76]. Accumulation of these
+toxic oligomeric species not only leads to neurodegeneration, but also causes the depletion of
+lysosomal GCase. This bi-directional effect of GCase and aSyn creates a vicious circle, which
+can lead to a self-propagating disease [76]. Furthermore, a feedback loop between aggregated
+aSyn caused reduction of proteinphosphatase 2A activation, leading to a lack of aSyn
+dephosphorylation, has been proposed [77]. As ceramide acts as an activator of
+proteinphosphatase 2A, accumulation of aggregation prone phosphorylated aSyn species can
+occur also due to insufficient proteinphosphatase 2A activity [78]. Additionally, ageing is a
+major risk factor of neurodegenerative diseases (reviewed in [79]), and ceramides have been
+shown to accumulate in relation with ageing [80] while being implicated in processes
+contributing to the pathomechanism of neurodegenerative disorders. These include cellular
+senescence, cell cycle arrest, and apoptosis [81-83], thus it is not surprising that imbalances
+of ceramide metabolism have been implicated in PD and other age-related neurodegenerative
+diseases [84].
+Krabbe disease (also known as globoid cell leukodystrophy; GLD), manifests in 95 % of the
+cases as an early form at ages between one and seven months, leading to death within the
+first two years [85]. Most remaining cases have onset ages between six months and three
+years, also resulting in an early death after two to three more years [86]. Typical hallmarks in
+all cases are stiffness, decreased psychomotor functions, blindness, and hyperirritability. At
+least 60 out of the 260 known variants of GALC cause different variants of Krabbe disease. An
+impaired enzyme activity causes accumulation of galactosylceramide in oligodendrocytes and
+subsequent demyelination [72, 87, 88]. A side effect of the disease is the emergence of
+neuronal inclusions containing ubiquitin and aggregated aSyn. Analysis of post mortem brain
+tissue revealed significantly increased psychosine content in the cortex and a trend towards
+decrease enzyme activity in both grey and white matter of PD patients compared to controls.
+However, also risk variants with increased enzyme activity exist and are associated with PD
+[89]. For some PD-correlated variants, psychosine concentrations were particularly increased
+in cortical samples of PD patients [90]. In an in vitro assay, psychosine was found to promote
+11
+
+---PAGE BREAK---
+
+aSyn fibrillization [91]. These findings support the notion that dysfunctional psychosine
+metabolism could lead to the accumulation of the lipid in the ageing brain, thus contributing to
+the risk of the development of aSyn pathology [90]. Furthermore, genome-wide association
+studies (GWAS) and genome sequencing in cohort studies proposed various GALC variants
+to serve as risk factors of PD [52, 92, 93]. Such variant is the SNP rs8005172, which was found
+to be associated with PD in the Chinese population [94].
+Galactosylceramide can be formed by the cleavage of sulfate groups of sulfatides, catalysed
+by Arylsulfatase A (ARSA), which is then further hydrolysed by GALC. Mutations within the
+ARSA gene cause impaired activity of the enzyme and lead to the accumulation of sulfatides
+in the nervous system and visceral organs, resulting in metachromatic leukodystrophy (MLD),
+a rare autosomal recessive LSD [95-97]. Suzuki et al. [98] reported a possible mechanistic link
+between PD and MLD. They observed diffuse aSyn accumulation among axons and glial cells
+in brain stem and cerebral white matter samples of MLD patients. Partial loss of ARSA
+enzymatic activity was significantly more frequent among patients with parkinsonism and/or
+essential tremor compared to control individuals [99]. Later, partial ARSA deficiency was
+associated with motor symptoms that are also characteristic of PD, such as tremor, muscle
+rigidity, and bradykinesia. Thus, the authors proposed that while decreased enzymatic activity
+is not the primary cause of parkinsonism, it could trigger the development of symptoms when
+combined with other genetic and/or environmental risk factors [100]. With the use of cell- and
+nematode models, ARSA deficiency was shown to increase aggregation, secretion, and cell-
+to-cell propagation of aSyn [101]. On the contrary, in an in vitro aSyn aggregation assay, the
+presence of ARSA inhibited aSyn fibrillization in a dose-dependent manner [101]. Separate
+analysis of cytosolic and vesicular fractions of SH-SY5Y cells revealed that despite ARSA
+being a lysosomal enzyme, it is (although inactive) present in the cytosol as well [101]. Based
+on results of co-immunoprecipitation experiments, cytosolic ARSA was found to interact with
+aSyn. The aSyn binding affinity of the putative protective p.N325S variant of the enzyme was
+high, whereas the p.L300S variant - resulting in total loss of enzymatic function - showed lower
+aSyn binding affinity compared to the wild type protein [101]. Ectopic overexpression of the
+12
+
+---PAGE BREAK---
+
+high, but not the low aSyn binding ARSA protein form rescued locomotor behaviour deficits in
+a fly model of the disease, and was capable of decreasing aSyn aggregation and release from
+ARSA knockout cells [101]. These results suggest that ARSA is not only an important enzyme
+in normal lysosomal function, but also serves as a molecular chaperone of aSyn. Thus,
+deficiency of the enzyme could contribute to the development of PD pathology not only by
+causing lysosomal dysfunction, but also through enhanced aSyn aggregation [101]. Recently,
+the importance of ARSA variants, specifically the protective effect of the p.N325S mutation in
+PD has been challenged [102, 103]. Thus, studies involving large sample size and functional
+analyses are highly warranted to clarify the role of ARSA in PD.
+Another example for mutations in enzymes upstream of the ceramide degradation pathway
+are variants of acid sphingomyelinase (aSMase), an enzyme which catalyses the conversion
+of sphingomyelin to ceramide. It is encoded by the Sphingomyelin Phosphodiesterase 1
+(SMPD1) gene, in which mutations cause the LSD Niemann-Pick disease type A and B,
+characterized by the accumulation of sphingomyelin in the lysosome [104]. A link between
+aSMase and PD was supported when certain SMPD1 gene variants were found in PD and
+control cohorts at different frequencies [51, 105-108]. In their recent study, Alcalay et al.
+assessed the frequencies of SMPD1 variants in three different study cohorts and reported
+association of the p.L302P and 996delC (fsP330) variants with PD among patients of
+Ashkenazi-Jewish origin [109]. Furthermore, reduction in enzyme activity was found to be
+associated with earlier disease onset. In vitro findings demonstrated that knockout or
+knockdown of SMPD1 led to an increase in aSyn levels [109]. Functional analysis of how these
+gene variants could affect aSMase revealed that both the p.L302P and fsP330 variants of the
+enzyme caused impaired transport of the protein to the lysosome. Furthermore, in silico
+structural analysis revealed that the L302P variant is likely to cause the catalytic domain of the
+enzyme to unfold [109].
+However, not all LSDs can be linked to PD pathology. For some, a connection is controversially
+discussed, as seen for example in β-Hexosaminidase (β-HEX) deficiency. It is a member of
+the glycosyl hydrolase 20 protein family and, together with the cofactor GM ganglioside
+2
+13
+
+---PAGE BREAK---
+
+activator protein, catalyses the degradation of terminal N-acetyl hexosamine-containing
+molecules such as the ganglioside GM . Mutations in the two subunits of β-HEX (subunit α
+2
+and β) lead to the accumulation of GM , resulting in GM -gangliosidoses Tay-Sachs (caused
+2 2
+by variants of the HEXA gene, encoding the α subunit of β-HEX) and Sandhoff disease (caused
+by mutations of the HEXB gene, encoding the β subunit). Presence of parkinsonian-like
+symptoms have been described in patients suffering from late/adult-onset GM -gangliosidosis
+2
+[110-113]. Furthermore, accumulation of aSyn in both in vivo models as well as post mortem
+brain samples of GM -gangliosidosis patients have been repeatedly reported [98, 114, 115].
+2
+Elevated β-HEX activity has been reported in CSF and fibroblast samples of PD patients (CSF:
+[116]; fibroblasts: [62, 117]), yet not in leukocytes [118]. More recently, a decrease in β-HEX
+activity was described in substantia nigra samples of sporadic PD patients when compared to
+samples of healthy controls [119]. With this controversy results of β-HEX activity, a clear
+connection between GM -gangliosidoses and PD cannot be drawn.
+2
+Lysosomal integrity and transport equilibrium
+Lysosomal proteins are often not directly linked to one single disease, but impose risk factors
+for PD, dementia with Lewy bodies, and other neurodegenerative dysfunctions as well [31].
+The assembly, structure, and integrity of lysosomes is based on various (membrane) proteins,
+which ensure import and export of substrates, communication between lysosomes and other
+cell organelles or the cell membrane, signal transduction, pH stability, and many others [120].
+Disturbed integrity can influence the entire lysosomal system and provoke aSyn aggregation
+or cell death, e.g., by insufficient export of substrates or degraded products, which causes
+accumulation of toxic elements in the lysosomes [121].
+Lysosome-associated membrane proteins (LAMPs) with their subtypes 1, 2, and 3, are the
+most common membrane proteins correlated to lysosomal integrity and segregation
+processes. LAMP-1 and -2 represent 50 % of all lysosomal membrane proteins [122]. Although
+their functions are not entirely clear to date, mouse models suggested not only a role in
+14
+
+---PAGE BREAK---
+
+maintaining the lysosomal structure, but also autophagic degradation [25]. Especially
+interaction and binding of enzyme-bound substrates is often mediated by LAMP-2 crosslinked
+with the lysosome-associated Hsc70 heat-shock protein, thereby forming large multimers to
+transport substrates into the lysosome. Furthermore, it has high relevance for different
+autophagy processes [25, 123]. LAMP-3 is expressed exclusively in dendritic cells and it takes
+part in processes such as cell differentiation and cancer development [124, 125]. Mutations
+influencing the structure of LAMP-2 lead to the LSD Danon disease, which affects less mental,
+but rather muscle and cardiac functions and is discussed to be a glycogen storage disease
+[126]. In patients with sporadic PD, the level of LAMP-2 was decreased in brain tissue [123]
+and leukocytes [127]. Moreover, PD patients with mutations in leucine-rich repeat kinase 2
+(LRRK2) – a well described risk factor for sporadic PD – showed decreased LAMP-2
+concentrations in CSF [128]. However, the correlation with PD duration and progression, and
+the exact correlations with homo- or heterozygote variants remain unclear [129]. As autophagy
+is an essential step in degradation of aSyn, dysfunctional LAMP-2 might be indirectly causative
+for PD via impaired autophagosomal processes [130, 131].
+Membrane proteins often serve as importers or exporters of specific substrates. A reduced
+number or a lack of functional exporters can cause accumulation of (toxic) molecules. The P -
+5
+type ATPase 13A2 (ATP13A2, also known as PARK9) exports zinc and manganese ions [132,
+133] as well as polyamines [134, 135]. Accumulation of manganese leads to the
+permeabilization of the lysosomal membrane [136] and enhances aSyn aggregation [132].
+Polyamines regulate levels of reactive oxygen species, not only affecting lysosomal but also
+mitochondrial stress response and toxicity, which furthermore leads to cell death and
+neurodegeneration [134, 135]. Mutations of the ATP13A2 gene lead to EOPD and/or Kufor-
+Rabek syndrome (KRS) [137-139]. As KRS has a juvenile onset and shows various
+neurodegenerative symptoms such as pyramidal dysfunction, spasticity, dementia, and
+parkinsonism with fast progression [140, 141], it is often declared as a specific form of EOPD.
+Yeast models, animal models, and neuron cultures initially showed that aSyn aggregation and
+neurodegeneration can be rescued by expression of wild-type ATP13A2 or its homologues, as
+15
+
+---PAGE BREAK---
+
+build-up of toxic manganese levels is inhibited [132]. Mutations in ATP13A2 cause different
+types of dysfunctions in neuronal cells: while homozygous mutations (including KRS
+mutations) often prevent the correct lysosomal localisation of ATP13A2 and/or lead to its
+destabilization, heterozygous mutations are more likely to affect the ATPase activity, thus the
+functionality of the exporter [142]. Fibroblasts and dopaminergic neurons from ATP13A2-
+deficient PD patients showed altered lysosomal function, resulting in early cell death, as
+alteration of the lysosomal pH and permeabilization of the membrane occurred. Maturation and
+function of lysosomal cathepsins was impaired, thus aSyn aggregation increased in parallel
+with decreased depletion of accumulated toxic substrates [137, 143]. Furthermore, the role of
+zinc toxicity is of interest, as an excess of zinc causes glycolytic dysfunctions, which could be
+restored by ATP13A2 overexpression and pyruvate supplementation [144]. This example
+demonstrates the importance of detailed knowledge about a disease’s pathomechanism, as
+possible treatments might depend on the underlying mutations and dysfunctions.
+Unlike other lysosomal membrane proteins, the proton-activated transmembrane protein 175
+(TMEM175) is expressed in most tissues and highly conserved in all domains of life, serving
+as an essential potassium channel. It maintains lysosomal integrity by regulating both pH and
+membrane potential, and membrane interaction or fusion [145]. The essential function as an
+antagonist (i.e. proton efflux pump) towards vacuolar-type ATPases, which provide proton
+influx into the lysosomal cavity, was recently described [146]. By altering the lysosomal pH,
+enzymes can lose their catalytic activity or stability (see introduction). Mutations or co-factors
+enhancing the activity of TMEM175 go along with increased lysosomal pH, while reduced
+activity leads to acidification of the lysosomal lumen [146]. Studies of (neuronal) cell lines with
+TMEM175 deficiency revealed a decrease of 20 to 35 % in activity of the lysosomal cathepsins
+and GCase. Knockout of TMEM175 also reduced fusion of autophagosomes with lysosomes,
+thus accumulation of autophagosomal substrates occurred due to insufficient uptake and
+degradation by lysosomes. Both effects cause accumulation of aSyn, increasing the risk of
+developing PD [147]. In rat primary hippocampus neurons bearing the p.M393T mutation,
+dysregulated pH levels, reduced autophagy, and accumulation of aSyn was observed [148].
+16
+
+---PAGE BREAK---
+
+Impaired localization of TMEM175 remains to be discussed controversially. Apoptosis
+regulators of the Bcl-2 family can directly bind and inhibit TMEM175 function, although the
+mechanism is not fully understood. As Bcl-2 itself can be bound and inhibited, TMEM175
+activity reduction or enhancement can be controlled and might serve as a therapeutic target
+[149].
+Vesicular transport of lysosomal enzymes and lysosomal
+segregation
+Besides full enzymatic activity or functionality, all lysosomal proteins have to be transported at
+the right quantity in order to fulfil their proper function in the lysosome. As described above,
+most lysosomal enzymes utilize the mannose 6-phosphate transport system to reach the
+lysosome. However, for some individual enzymes specialized transport proteins and signals
+developed, of which the lysosomal integral membrane protein type-2 (LIMP-2, coded by the
+SCARB2 gene) is the best-studied example. It forms a complex with the GD- and PD-
+associated enzyme GCase in the ER. This complex is then trafficked through the Golgi
+apparatus and into the lysosome [20, 21]. While GCase transport appears to be the primary
+function of LIMP-2, recent studies have suggested an involvement of LIMP-2 in cholesterol
+transport [150]. A lack or dysfunction of LIMP-2 causes action myoclonus-renal failure
+syndrome. Besides renal failure, patients frequently report tremor and other neurological
+symptoms [151]. Interestingly, SCARB2 is also a risk gene for PD, most likely acting via the
+GCase-aSyn axis [152]. Recent studies suggest that LIMP-2 furthermore acts as an activator
+and/or chaperon for GCase, as enhanced GCase activity could be measured in vitro in the
+presence of LIMP-2 compared to GCase alone [153, 154]. As a side note, LIMP-2 can also be
+expressed at the cell surface and thus also functions as the receptor for coxsackie virus,
+causing hand, foot, and mouth disease [155].
+Another interesting, yet barely understood protein is the lysosomal cobalamin transport escort
+protein (LMBRD1). Beside cobalamin export [156], it forms a complex with the ATP-binding
+17
+
+---PAGE BREAK---
+
+cassette protein ABCD4 [157]. Mutations in ABCD4 cause symptoms affecting different
+organs, developmental delay, and early death. Mutations in LMBRD1 and ABCD4,
+respectively, cause vitamin B deficiency and accumulation of cobalamin in the lysosomes,
+12
+leading to a lack of homocysteine and methionine [157, 158] and causing the Cobalamin F-
+type disease [156]. It was hypothesized that both trafficking from the ER to lysosomes and
+proper functionality is only possible after complex formation of both proteins. In parallel,
+LMBRD1 fulfils a role in endocytosis by co-localization and co-internalization of the insulin
+receptor in the plasma membrane, thus being an essential part of intracellular signalling and
+of maintaining homeostasis of glycolipid metabolism [159]. Although no direct genetic link has
+been drawn to PD so far, symptoms often affect neuronal tissues, resulting in blindness,
+neurological defects, cerebral atrophy, and seizures. Whether or not LMDRB1 is linked to PD
+pathology has to be determined in future research.
+Next to mention in lysosomal trafficking are cyclin-G-associated kinases (GAKs), which do not
+only serve as serine/threonine kinases, but also interact with clathrin adaptors, serving as co-
+chaperones for heat shock protein 70. Clathrin is a coating protein essential for lysosomal
+formation, endocytosis, and exocytosis. A knockdown of GAK can partially inhibit the
+endocytosis of clathrin-coated vesicles, leading to impaired vesicular transport, signal
+transmission, or protein recycling [160, 161]. Furthermore, the C-terminal domain binds a pre-
+form of CTSD (see chapter “α-Synuclein degradation by lysosomal cathepsins”) for direct
+lysosomal sorting [162]. GAK can increase PD risk, as a lack of substrates (kinase activity),
+accumulation of aSyn (binding partner for CTSD), and inhibited autophagy (involvement of
+clathrin uncoating) can lead to PD-associated symptoms in neuronal and non-neuronal cell
+models independently of each other [163].
+Membrane proteins playing important roles in vesicle transport and fusion, neuronal
+maturation, and many other functions, are the Ras-related proteins (Rab family; reviewed in
+[164]). Alteration in almost any member of this family can lead to severe symptoms, e.g., four
+of them are associated to neuronal dysfunctions, and Rab39B has been correlated with
+18
+
+---PAGE BREAK---
+
+intellectual disabilities and is classified as an EOPD risk factor, as certain mutations cause
+destabilization and loss of function in RAB39B proteins [165, 166]. Possible consequences are
+aSyn aggregation and Lewy body formation [164].
+Characterization of lysosomal enzymes – activity vs. protein levels
+Quantification of enzyme activity in patient-derived samples like fibroblasts or blood-derived
+samples (plasma, leukocytes, dry blood spots) is a widely used tool for screening and
+diagnosis of LSDs. Activity measurements often rely on fluorometric or colorimetric activity
+assays using an acidic reaction buffer and a synthetic substrate [167]. For many lysosomal
+enzymes, 4-methylumbelliferyl (4-MU) conjugates have been used successfully as substrates
+(including the following enzymes from Table 1: GCase, GALC, glycosaminoglycan α-L-
+iduronohydrolase, iduronate 2-sulfatase, ARSA/B, N-acetylgalactosamine-6-sulfatase, α-L-
+fucosidase, α-galactosidase A, HEXA/B, neuraminidase 1, sulfamidase, acid
+sphingomyelinase) [168-181]. For lysosomal cathepsins, fluorogenic peptides with enzyme
+specific cleavage sites can be used and fluorometric activity assay kits are commercially
+available. In an alternative approach, turnover on non-fluorogenic enzyme substrates can be
+measured by using tandem mass spectrometry, allowing increased detection range and
+multiplex analyses [182, 183]. For some enzymes (GALC, acid sphingomyelinase, lysosomal
+acid lipase), the missing specificity of the 4-MU substrate forces the use of radiolabelled native
+substrates, which is used in diagnostics for higher specificity [184].
+A downside of activity measurement in whole-cell lysates and peripheral samples is the
+disregard for cellular localisation of the target enzyme. Since maturation and activity of
+lysosomal enzymes is mediated by acidic pH and other lysosomal enzymes [185], lysis of
+whole cells and addition of an acidic reaction buffer in an activity assay might lead to activation
+of enzymes that have not undergone full maturation and lysosomal delivery. Therefore, these
+assays overlook possible changes in lysosomal trafficking, which is regarded as one of the
+major components of PD pathology. This disturbance of lysosomal trafficking and disruption of
+19
+
+---PAGE BREAK---
+
+lysosomal functions in midbrain neurons by aSyn was shown in a study by Mazzulli et al. [186],
+which encompassed a variety of experimental approaches to investigate lysosomal functions
+and trafficking. A pulse-chase experiment using radiolabelled lysine was conducted to
+measure protein degradation, allowing quantification of overall lysosomal function in a
+broadband approach [186]. In addition, lysosome-specific live cell activity assays of human
+midbrain dopamine neurons were performed that showed significantly reduced activity of
+CTSB, GCase, β-galactosidase, hexosaminidase, and sulfatase in PD and/or GD patients (at
+least half of the controls’ activity or less). Noteworthy, while lysosome-specific GCase activity
+was significantly reduced under high aSyn conditions, total cellular GCase activity was
+unaffected, demonstrating the discrepancy between whole-cell and lysosome-specific activity.
+Finally, western blot analyses and immunofluorescence staining confirmed the disturbance in
+lysosomal transport of hydrolases in presence of pathological aSyn conformers [186]. This
+study is a good example on how to assess lysosomal enzyme function while considering the
+crucial trafficking component. A comprehensive methodological guide to studying trafficking
+and activity of lysosomal enzymes in human iPSC-derived neuronal models has also been
+published by Cuddy and Mazzulli and we encourage resorting to this for guidance when
+addressing similar scientific questions [187].
+It is important to note that enzyme activity and protein levels are not interchangeable readouts,
+especially in the context of disease-associated genetic variants that affect an enzyme’s
+expression and/or activity. Thus, both readouts should be considered to obtain a full picture.
+In general, quantification of lysosomal protein levels can be done, for example, via western
+blot analysis [57], or mass spectrometry [60]. In PD/LSD research, quantification of misfolded
+proteins, protein oligomers, and protein aggregates also play key roles, which might require
+more complex immunoassays such as different types of ELISA, fluorescence microscopy or
+spectroscopy, microbeads, radiolabelling, or others [188]. In addition to information on protein
+abundance, these methods can also provide qualitative information on protein processing and
+maturation through analysis of maturation-specific band patterns [186, 189], or by
+characteristic peptide fingerprints [60]. Enrichment or purification of lysosomes from cell
+20
+
+---PAGE BREAK---
+
+homogenate via subcellular fractionation [76] or immunoprecipitation [190] can be utilized prior
+to western blotting to separate lysosomal and non-lysosomal species, allowing more detailed
+analysis of intracellular trafficking. Additional information about maturation state can also be
+obtained by EndoH and PNGaseF digest of western blot samples. These enzymes selectively
+cleave pre-Golgi and post-Golgi N-linked glycans, respectively, providing additional insight into
+the maturation state and subcellular distribution of the target enzyme [187].
+Lysosomal enzymes as biomarkers and diagnostic tools in PD
+To date, a clinical diagnosis of PD is based on the presence of characteristic neurological
+symptoms [191]. While a molecular diagnosis was previously only possible post mortem by
+examination of the brain, recent advances in the understanding of molecular mechanisms have
+sparked the search for diagnostic markers in biosamples of PD patients. So far, most of these
+biomarkers focus on aSyn as the hallmark molecule of PD. However, as touched upon in the
+previous chapter, activity measurements of lysosomal enzymes are well-established
+diagnostic tools for LSDs, and with the increasing evidence of connections between LSDs and
+PD, changes in lysosomal enzymes could potentially function as a biomarker for PD diagnosis
+or prognosis.
+Due to the tight involvement of GCase in PD pathology, studies have explored GCase activity
+in biofluids as a potential biomarker for PD. Several studies analysed CSF and found
+decreased GCase activity in PD patients [116, 192-194]. Importantly, while GCase activity was
+most decreased in GBA-PD patients and correlated with the severity of the GBA1 mutation
+[193], even PD patients without GBA1 mutations exhibited reduced CSF GCase activity [194].
+In addition to GCase activity, a reduced activity of α- and β-mannosidase [192] and CTSD
+[194] was reported. Changes in the activity of β-HEX varied between the studies, with two
+studies showing a slight, statistically non-significant decrease [192, 194] while another study
+reported an increase in activity [116]. There is, however, a conflicting study by van Dijk et al.
+that found no changes in GCase, β-HEX, β-mannosidase and CTSD, but increased β-
+21
+
+---PAGE BREAK---
+
+galactosidase and cathepsin E activity [59]. This study also raises the important point that CSF
+sample are generally obtained for diagnostic purposes from individuals with neurological
+symptoms. So, while the control samples do not stem from patients diagnosed with PD, they
+do not necessarily reflect “healthy” controls. Nonetheless, it appears that there are alterations
+in lysosomal enzymes, namely GCase, in CSF of PD patients. The studies mentioned here
+suggest that while a single lysosomal enzyme might not be a sufficiently accurate biomarker
+for PD in CSF, looking at a set of lysosomal enzymes could improve specificity of a molecular
+PD diagnosis.
+Besides looking at CSF, great efforts have been made in identifying PD biomarkers in biofluids
+that are easier to obtain, as they are less invasive, such as urine samples or peripheral blood.
+A proteomics analysis of urine samples by Virreira Winter et al. found a dysregulation of
+lysosomal proteins (e.g., CTSB, HEXA, HEXB, GALC), but only in PD patients harbouring the
+LRRK2 p.G2019S mutation [195]. In peripheral blood, Alcalay et al. showed that GCase activity
+in dried blood spots of GBA-PD, LRRK2-PD, and sporadic PD patients was decreased
+compared to controls. Furthermore, GCase activity correlated with disease duration,
+suggesting that lower GCase activity led to faster disease progression [196].
+The most exciting advance in recent biomarker research has been the exploitation of
+extracellular vesicles (EVs). These vesicles are secreted by cells for communication, cargo
+transport or to get rid of cellular waste (see [197] for a comprehensive review on EVs). Thus,
+they carry cell type-specific cargo and surface markers. Importantly, EVs can pass the blood-
+brain barrier (BBB), allowing the isolation of brain-derived EVs from peripheral blood. While
+the idea of looking at brain-derived EVs in blood originated in the AD field [198], the immense
+potential of this new approach for PD has been demonstrated by a study of Kluge et al., in
+which brain-derived pathological aSyn was detected in blood samples of PD patients via
+isolation of neuronal exosomes [199]. It remains to be seen whether neuronal exosomes can
+also shed more light on the dysregulation of lysosomal enzymes in the living brains of PD
+patients and whether detecting these changes can serve as a reliable, consistent diagnostic
+or prognostic biomarker standard for PD.
+22
+
+---PAGE BREAK---
+
+Lysosomal dysfunction and aSyn in LSD and PD models
+To study neurodegenerative diseases, animal models often serve as platform to reflect human
+pathology as close as possible. One of the earliest PD models was a 6-Hdydroxydopamine (6-
+OHDA, a dopamine analogue) induced neurotoxin rat model, which leads to PD development
+after metabolization of the 6-ODHA in neurons and mitochondrial dysfunction [200]. Also other
+toxin-induced models are in use, provoking accumulation of reactive oxygen species for
+example by plant or fungi toxins, and further causing aSyn inclusions [201]. 1-methyl-4-phenyl-
+1,2,5,6-tetrahydropyridine (MPTP)-induced models which reflect most of the PD hallmarks
+except Lewy body formation [202] currently serve as a gold standard in (toxin-induced) animal
+models for PD. Instead of toxins, also viral vectors are used, for instance to initiate over-
+expression of aSyn, leading to significant loss of dopaminergic neurons [203-205]. However,
+both systems often fail to reflect the broad spectrum of PD pathology and malfunction-
+consequence-circles caused by impaired protein functionalities. Genetic models can target
+specific proteins and pathways, and many examples and models exist especially for aSyn
+aggregation in the brain, either by altering the levels of aSyn degrading enzymes like
+cathepsins [54] or by the expression of mutated aSyn genes like the variants p.A30P and
+p.A53T [206]. LRRK2 overexpression mouse models could provoke different PD-correlated
+effects, such as altered motor and behavioural performance, decreased proliferation and
+survival rates of cells, or reduced neurotransmission in dopaminergic neurons [207-210], which
+helps in understanding and treating PD forms provoked exclusively by LRRK2 mutations.
+Since LSDs are normally caused by more specific cellular malfunctions, i.e. single proteins, it
+is easier to establish suitable animal models for these than for multifactorial disorders like PD.
+Two prominent examples are the previously mentioned CTSD-deficient NCL10 mouse [54] and
+a mouse model for GD carrying distinct GBA1 mutations [211] or gene deficiency [212].
+To date, no in vivo model can fully recapitulate the complexity of PD. Mechanisms in neuronal
+cell function like the dopamine metabolism [213] as well as aSyn aggregation [214, 215] differ
+between humans and rodents. For instance, murine neurons often lack hallmark symptoms
+23
+
+---PAGE BREAK---
+
+like Lewy body-like fibrils [216] or behaviour and motor phenotypes [217]. Toxin-induced
+models can cause adverse or stronger effects than aimed for as they might affect not only the
+target protein or cellular component. When establishing aSyn induced animal models, the
+promoter has to be chosen carefully and differentiated between human or rodent aSyn
+expression.
+Thus, use of animal models has to be evaluated with caution, yet they still provide a very
+valuable tool to study single, straight defined biochemical or molecular questions about
+mechanisms in LSD or PD pathology and correlations to lysosomal (dys)functions [218, 219].
+To bridge the knowledge gaps of human cellular processes in PD, new methods emerged and
+improved over the last decades. A powerful approach is the use of induced pluripotent stem
+cells (iPSCs), which allows PD patient-derived cells to be re-programmed into dopaminergic
+neurons [220], enabling further characterisation of lysosomal function in living neuronal cells
+instead of patient derived post mortem brain tissue and/or CSF samples. Dopaminergic
+neurons can be maintained in vitro over months and in vivo survival was proven in mice, rats,
+and monkeys [220]. This approach also allows a more detailed analysis of cellular/lysosomal
+function in neuronal cells both in the presence and the absence of aSyn. Notably, a wide variety
+of genetic backgrounds can be analysed, ranging from high impact mutations in the aSyn gene
+SNCA [221] to genetic risk factors such as variants of GBA1 [222] and LRRK2 [223]. Besides
+iPSCs equipped with down- or dysregulated proteins, multiplication of certain (risk) genes is
+another tool for studying the consequences of altered protein levels and function. As an
+example, both the duplication and triplication of the SNCA locus was found to increase activity
+of caspases, promote protein aggregation, oxidative stress, and cell death [221, 224]. The
+analysis of GD or PD patient derived iPSCs heterozygous for GBA1 mutations helped to prove
+the accumulation of glucosylceramide as a consequence of the gene variants, which was then
+linked to aSyn aggregation, impaired lysosomal or autophagosomal function, and dysregulated
+calcium homeostasis [222]. Controlling cell differentiation gets more and more precise and
+robust, e.g. by exposure to neurotoxins like MPP+ [225] or retinoic acid [226], so that symptoms
+24
+
+---PAGE BREAK---
+
+of PD can be provoked in iPSCs. Several iPSCs models have been established as a good
+base for proteomics, transcriptomics, and metabolomics [227].
+Most intriguingly, iPSC technology allows individualized, per-patient characterization of
+neuronal pathology, which is particularly important for the understanding of the molecular
+mechanisms underlying those EOPD cases, which lack common PD risk factors [228]. On one
+hand, this enables the exploration of shared pathomechanisms of patients with different
+genetic background, and also offers the potential of paving the way towards more personalized
+treatment and diagnostic strategies in the future [229, 230]. On the other hand, iPSCs models
+highly depend on the genetic background of each line and need a clear association to a genetic
+risk factor to interpret changes in cell or organelle morphology, expression levels, or
+transduction. Furthermore, for PD studies the use of mature dopaminergic cells is crucial, yet
+functional and cellular properties can drastically change over time [231], and two-dimensional
+cell cultures can neither fully reflect functional three-dimensional brain tissue nor organic
+implements like the BBB [232]. Attempts of using co-cultures with different cell types to mimic
+the physiological conditions in PD progression were done, e.g. demonstrating that astrocytes
+are crucial for regulation and maintenance of neurons, neuronal networks, and
+neurotransmitters [233-235]. Different methods for using iPSC to study LSDs and PD have
+been reviewed in [236].
+Therapeutic potential of lysosomes and lysosomal enzymes
+25
+
+---PAGE BREAK---
+
+Figure 2 The increasing evidence of shared pathomechanisms between LSDs and PD suggest
+that therapeutic interventions established or currently under development for the treatment of
+LSDs hold the potential of being suitable for the treatment of PD as well. These interventions
+can be grouped as methods aiming and replacing/substituting the faulty or missing enzyme
+(enzyme replacement and gene therapy approaches), enhancing residual enzyme activity with
+the use of small molecular active site or allosteric regulators (pharmacological chaperon
+therapy), adjusting the substrate levels of enzymes with reduced activity (substrate reduction
+therapy), and adjuvant therapies. The icons next to the exemplary compound names indicate
+whether the drug has been evaluated in in vitro (tissue culture icon) or in vivo (mouse icon)
+models of PD, or entered clinical trial(s) (hospital icon). The red checkmark icon indicates if a
+compound has been approved for the treatment of an LSD.
+Abbreviations: AVV, adenovirus vector; GBA, β-glucocerebrosidase (gene); GCase, β-
+glucocerebrosidase (protein); CTSD, cathepsin D; TFEB, transcription factor EB; FTI, farnesyl
+transferase inhibitor; aSyn, α-Synuclein.
+26
+
+---PAGE BREAK---
+
+(Figure created with BioRender.com.)
+As a result of intensive research in the field of both LSDs and neurodegenerative diseases,
+increasing number of genetic alterations and changes in the molecular level have been
+identified, which suggest similar pathomechanisms underlying the two disease groups.
+However, important differences between PD and LSDs should not be overlooked: LSDs
+frequently present severe systemic symptoms affecting organs other than the CNS. In light of
+this, therapeutic approaches often target treating and/or alleviating symptoms that are caused
+by the dysfunction of peripheral organs. Another significant difference between LSDs and PD
+is, while the former ones are generally results of gene mutations manifesting frequently early
+in life, the latter has a more diverse aetiology and it is more associated with advanced ages.
+Nonetheless, if a therapeutic approach tackles a molecular mechanism in LSDs which
+decreases ongoing neurodegeneration, it could hold great potential for the treatment of
+neurodegenerative disorders as well, including PD.
+Still, an obstacle that needs to be overcome in the treatment of PD and neurodegenerative
+disorders is the BBB. Worth noting here is that nowadays, a view of PD originating from the
+gut is also gaining attention [237]. Clarification of the involvement of the gastrointestinal track
+and enteral nervous system in PD could give more insight into the origin of the disease and
+lead to the identification and development of new therapies targeting non-brain regions. In the
+following description of possible therapeutic approaches targeting lysosomal
+enzymes/functions, we focus on PD while only mentioning selected types of established LSD
+treatments. For a more detailed view, we call the readers´ attention to recent reviews on the
+topic [238, 239].
+The interventions used or attempted for the treatment of LSDs can be grouped into four
+methods: i) replacing/substituting faulty enzymes with functioning enzymes using enzyme
+replacement therapy (ERT) and gene therapy approaches; ii) modification of enzyme activity
+with the use of small molecules targeting the enzyme’s active site or as allosteric regulators,
+i.e. pharmacological chaperon therapy (PCT); iii) adjustment of substrate levels to reduce an
+enzyme’s activity, i.e. substrate reduction therapy (SRT); and adjuvant therapies (see Figure
+27
+
+---PAGE BREAK---
+
+2). In theory, either of these ways can be a reasonable approach for PD treatment as well. An
+overview of novel as well as potential therapeutic strategies for PD targeting the lysosome can
+be found in the following.
+Enzyme replacement therapies (ERTs)
+The first ERT was approved for the treatment of GD in 1991 [240, 241]. Since that time, ERTs
+for more than ten LSDs have been adopted or are currently under clinical trials [242-244]. This
+therapy type is considered as a standard treatment for multiple LSDs; however, it has certain
+limitations. These are high cost of recombinant enzyme production, risk of infection due to
+repeated application, and the risk of eliciting immune responses [36]. A further limitation of
+such therapies is that enzymes – produced regularly by the use of recombinant DNA
+technology, frequently in modified forms – are large molecules unable to cross the BBB, thus
+their application is often limited for the treatment of non-neurological symptoms [36].
+A possible approach for overcoming the problem of BBB penetrance is to deliver the
+recombinant enzyme directly into the CSF. Possible routes for this are the
+intracerebroventricular and intrathecal enzyme delivery [36, 239]. Direct enzyme delivery has
+been recently approved for the treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) [239].
+CLN2 is a form of Batten’s disease, caused by the deficiency of the lysosomal enzyme
+tripeptidyl peptidase 1. Intraventricular application of a recombinant tripeptidyl peptidase 1
+proenzyme, cerliponase alfa (Brineura®), resulted in diminished decline in motor and language
+skills in children suffering from CLN2 [245]. The approval of cerliponase alfa for the treatment
+of CLN2 in 2017 [239] demonstrates the potential of this therapeutic approach, and gives hope
+for the success of applying direct enzyme delivery into the CNS for the treatment of other
+neurological disorders as well. However, intracerebroventricular and intrathecal enzyme
+delivery is not without risk. Adverse effects can include malfunctioning of the intraventricular
+reservoir and leakage, and even life-threatening infections [245]. Thus, regular medical control
+and high level of patient compliance are essential. As an alternative approach, an ongoing
+28
+
+---PAGE BREAK---
+
+clinical trial [NCT04370665] is exploring deliberate disturbance of the BBB as a way to deliver
+ERT to the brain.
+Gene therapy
+Another method to reconstruct a functional enzyme could be by establishing an endogenous
+source by the delivery of a copy of the gene coding the functional protein. Gene therapy
+methods involve both in vivo and ex vivo approaches: the former utilizes a viral vector to carry
+the transgene into the target cells, while in the case of ex vivo gene therapy patient derived
+cells are genetically modified in vitro, and the altered cells are then re-implanted into the
+patients [36]. Transfer of a transgene/genetic modifier to the CNS poses a great challenge.
+Similar to ERTs, a possible way to overcome the limited access of the BBB, is to conduct gene
+transfer directly to the brain which has been applied in clinical trials for the treatment of various
+LSDs, such as mucopolysaccharidosis, metachromatic leukodystrophy, NCL, and GD (for a
+detailed review see [246]).
+Results of pre-clinical studies suggest that gene therapy targeting restoration of
+impaired/defective lysosomal enzyme function has its potential in the treatment of PD as well.
+Intracerebral adenovirus vector (AVV) mediated GBA1 gene delivery in in vivo murine models
+(aSyn overexpressing mice and a rat model in which selective dopaminergic neuron loss was
+induced by AVV mediated delivery of the p.A53T mutant aSyn) ameliorated aSyn accumulation
+in the striatum and substantia nigra of the animals [247]. In a more recent study using the
+A53T-SCNA transgenic mouse model, Morabito and colleagues demonstrated that
+systematically administered AVV carrying the GBA1 transgene resulted in increased GCase
+expression in the CNS, which was accompanied by reduction of aSyn pathology [248].
+Among the limitations of gene therapy approaches is that the knowledge of genetic background
+of the targeted disease is prerequisite in order to correct it. Since LSDs are usually monogenic
+diseases, they are promising targets for such interventions [249]. In contrast, PD is a
+multifactorial disease and pathogenic/disease causing mutation of a single gene can be
+identified only in a small percentage of the cases. In order for a gene therapy approach to be
+29
+
+---PAGE BREAK---
+
+viable, understanding the exact pathomechanisms and genetic variations on an individual
+basis is essential.
+Pharmacological chaperone therapies (PCTs)
+An innovative approach for correcting enzyme deficiency is to use so-called pharmacological
+chaperones. Endogenous chaperones play a crucial role in stabilizing protein conformation,
+preventing protein misfolding and aggregation, thus maintaining protein function. Incorrectly
+folded and/or unstable proteins are detected by the quality control systems of the cells and are
+marked for degradation. Missense mutations in lysosomal enzymes can impact the structure
+of the protein, resulting in misfolding and consequent impairment in its activity and/or trafficking
+to the lysosome [250, 251]. Application of pharmacological chaperones can enable the
+stabilization of these proteins, thus preventing their premature degradation and facilitating their
+transport to the lysosomes and biological activity [250].
+A great advantage of PCTs is that they can utilize small molecule drugs that are applicable
+orally and are capable of crossing the BBB [36]. However, since this approach targets the
+endogenous enzyme, it can be only applied in patients with clearly defined mutations [252]. A
+further aspect that needs to be considered is the possible interaction of a pharmacological
+chaperone with the active site of a protein, thereby serving as a competitive inhibitor. In order
+to avoid this, development of compounds binding outside of the catalytic domains is favourable
+[36, 253].
+The high prevalence of GBA1 mutations among PD patients puts GCase in the spotlight of PD
+research. Various molecules have emerged as promising candidates for modifying GCase
+activity in PD, however, most of them have only been evaluated in pre-clinical studies so far.
+Among these compounds are new developments, such as NCGC00188758 [254], NCGC607
+[255], and S-181 [256], all small-molecule GCase activators. Studies involving iPSC models
+showed that all three compounds successfully enhanced GCase activity and decreased aSyn
+pathology.
+30
+
+---PAGE BREAK---
+
+Another well-known and commonly used GCase-modulating drug is the expectorant ambroxol.
+Pre-clinical studies have been utilizing various in vitro models, i.e., GBA-mutant PD patients
+derived fibroblasts [257], GD fibroblasts [258], GD and GBA-PD patient derived fibroblasts [62,
+259], and mouse cortical neurons [260]. Additionally, in vivo models, i.e., human aSyn
+overexpressing and heterozygous murine L444P-GBA expressing mice [261], human WT,
+N370S-GBA, and L444P-GBA expressing Drosophila [259], and PD, GD, and GBA-PD patient
+derived human macrophages [262] showed that ambroxol increases both protein expression
+and activity of GCase. These effects were accompanied by a reduction of aSyn and
+phosphorylated aSyn levels and a decrease in the loss of dopaminergic neurons [263]. These
+promising findings led to a phase II clinical trial conducted between January of 2017 and April
+of 2018 (Clinicaltrials.gov identifier: NCT02941822). The findings indicate that ambroxol is
+brain penetrant and results in increased aSyn and GCase protein levels in the CSF.
+Furthermore, the treatment was well tolerated and no serious adverse effects were reported
+[264].
+Substrate reduction therapies (SRTs)
+A further mean by which excess accumulation of toxic metabolites can be prevented is via the
+inhibition of a substrate’s production [36]. This is the goal of substrate reduction therapies
+(SRTs). SRTs have various advantages over ERTs. First, they are more likely to be BBB
+penetrant, enabling better treatment of CNS-related symptoms. Second, oral availability and
+non-immunogenicity oppose only small impact on quality of life and require less patient
+compliance compared to ERTs [36, 265].
+Examples for SRTs are drugs approved for the treatment of GD and Niemann–Pick type C
+disease: the imino sugar miglustat (Zavesca®) and the ceramide analogue eliglustat
+(Cerdelga) [266, 267]. Miglustat and eliglustat are inhibitors of glucosylceramide synthase, an
+enzyme responsible for the formation of glucocerebroside (glucosylceramide) [267]. But even
+though miglustat is capable of crossing the BBB [267, 268], it did not improve the neurological
+symptoms of patients suffering from GD significantly [269].
+31
+
+---PAGE BREAK---
+
+Results of Zunke et al. [270] suggest that decrease of glucosylceramide levels is also a
+promising approach against aSyn pathology. In vitro studies showed that the interaction of
+aSyn and glucosylceramide leads to a structural conversion of the protein into a pathogenic
+conformation. These high-molecular weight aSyn species were found to be capable of
+recruiting and converting soluble forms of the protein into insoluble aggregates, and induced
+cellular degeneration. Decreasing glucosylceramide levels either by the glucosylceramide
+synthase inhibitor eligustat or via a small molecule GCase activator, 758, restored the
+physiological conformers of the protein and decreased aSyn pathology [270].
+Ibiglustat (also named Venglustat or Genz-682452) is another brain-penetrant SRT compound
+developed with the aim of treating CNS-related symptoms of LSDs. It was also evaluated as a
+potential treatment for PD, acting via inhibition of glucosylceramide synthase to lower
+glucosylceramide levels and thus slow aSyn aggregation [267]. In a phase II clinical trial
+involving early-stage GBA-PD patients (MOVES-PD, NCT02906020) ibiglustat treatment
+resulted in diminished plasma and CSF glucosylceramide levels. However, the study had to
+be terminated due to adverse clinical outcomes [263]. Nonetheless, the brain penetrability of
+SRTs gives hope and warrants for being included in further research of PD treatments.
+Although so far it has been only tested in pre-clinical experiments, treatment of
+GbaD409V/D409V and A53T–SNCA transgenic mice (mouse models of GD and
+PD/synucleinopathy, respectively) with GZ667161 resulted in decreased glucosylceramide
+and glucosylsphingosine levels in the CNS, slowed hippocampal aSyn accumulation and
+ameliorated memory and cognitive deficits in the animals [271].
+Adjuvant therapies
+Adjuvant therapies, which target secondary pathways affected in the disease, hold the
+potential of improving life quality and slowing down disease progression of patients with a
+variety of pathomechanisms. Since aSyn accumulation and the consequent cell loss are
+pathological hallmarks of PD, but not necessarily caused by direct SNCA mutations but rather
+side-effects of other dysfunctional proteins, any reduction of aSyn aggregate formation could
+32
+
+---PAGE BREAK---
+
+be a viable therapeutic approach. CTSD is a promising target for preventing aSyn
+accumulation, since findings of studies using mice and Caenorhabditis elegans models
+showed that CTSD plays a pivotal role in its degradation. Deficiency of the enzyme was
+reported to be associated with aSyn accumulation, while increased expression of CTSD was
+found to have a protective effect against aSyn induced toxicity (for a detailed review see [243,
+272]).
+Ykt6, a soluble N-ethylmaleimide-sensitive-factor attachment protein receptor (SNARE)
+protein, has recently emerged as a potential candidate for intercepting aSyn related pathology.
+In their study, Cuddy et al. [273] demonstrated that under metabolic stress, ykt6 moves into
+the membranes from the cytosol, thus promoting hydrolase trafficking and lysosomal activity.
+Blocking its farnesylation with the small molecule farnesyl transferase inhibitor LNK-754
+increased ykt6 activity and enhanced trafficking of lysosomal GCase, and reduced aSyn
+pathology in PD patient iPSC-derived dopaminergic neurons and a DASYN53 mouse model of
+the disease.
+A further promising adjuvant therapeutic approach is the modulation of TFEB. As discussed
+earlier, TFEB is a master regulator of lysosomal function, and controls lysosomal biogenesis
+and autophagy. Up-regulation of TFEB has been shown to have beneficial effects in various in
+vivo and in vitro models of PD. Torra et al. [274] demonstrated that AAV mediated
+overexpression of TFEB in substantia nigra dopaminergic neurons of the MPTP induced
+mouse model of PD activated pro-survival pathways, and prevented cell loss induced by the
+toxin. AVV mediated TFEB overexpression in rats simultaneously overexpressing human aSyn
+protected both dopaminergic neurons and striatal terminals, which was proposed to be due to
+the reduction of aSyn oligomer formation and an increase in processing of autophagosomes
+[28]. In a study using aSyn overexpressing human neuroglioma cells, both genetic
+overexpression and 2-hydroxypropyl-β-cyclodextrin induced pharmacological activation of
+TFEB decreased accumulation of aggregated aSyn via increasing the autophagic clearance
+of the protein [275].
+33
+
+---PAGE BREAK---
+
+Perspective – Challenges in LSD and PD diagnosis and treatment
+The development of (EO)PD linked to mutations leading to the malfunction of a single protein
+occurs only in a small percentage of patients. However, lysosomal transport, sorting, and the
+whole process of substrate recycling is a fragile system with plenty of interaction partners and
+converging mechanisms. The analysis of different LSDs in the last years have taught us
+valuable lessons and revealed mechanistic insight into lysosomal dysfunction in PD [276].
+Nevertheless, there are still some major shortcomings that need to be solved to drive
+lysosomal research not only in the context of PD, but also in other neurodegenerative diseases.
+Currently, PD is diagnosed after the first clinical symptoms have already occurred, however,
+by that time neurodegenerative processes have already led to the loss of about 70 % of
+dopaminergic neurons [277]. Thus, reliable and standardized clinical approaches are needed
+for the recognition of the disease at early stage. One approach could be the detection of
+aggregated aSyn from blood samples as demonstrated recently [199]. Another possibility
+would include the development and use of highly specific substrates against lysosomal
+enzymes for the quantification of altered enzymatic activity, e.g., in human derived fibroblasts
+or leukocytes. As around 75 % of LSDs are due to defects of lysosomal hydrolases [278],
+increasing the number and specificity of substrates to evaluate enzymatic activity would be
+one goal over the next years. However, evaluation of the activity of individual enzymes can
+only give a glimpse into the complex degradation network in the lysosome. Delivery of
+lysosomal proteins as well as substrates to the lysosome is just as crucial for lysosomal
+function as the integrity of the enzymes, however, signals for binding and release of protein-
+protein or protein-substrate interactions are mostly unknown [279]. Moreover, biochemical and
+biomechanical feedback loops within the lysosome can provoke more than one factor to
+increase neurodegeneration (see graphical abstract), e.g. aSyn aggregation can be enhanced
+by many other dysfunctional proteins, even without the SNCA gene being affected [280].
+Development of more complex, yet native-like cell systems and organoids are urgently needed
+to understand lysosomal dysfunction in the PD disease context. These assays will need to
+include genetic modifications of more than one risk factor, with specific read-out tools at the
+34
+
+---PAGE BREAK---
+
+same time. A cross-correlation and -evaluation between genetic analyses (demonstrating the
+cause of a protein dysfunction) and activity assays (demonstrating the output or consequence
+of this dysfunction) or other analysing methods will help to elucidate networks and interactions
+and offer the possibility of identifying the key players in the pathomechanisms of lysosomal
+disorders.
+The final goal should be to establish translational approaches and clinical trials to transfer the
+knowledge from in vitro and in vivo models to patients, since this could help to identify
+lysosomal dysfunction preferentially in the prodromal phase of the diseases. While various
+LSDs present symptoms of neurodegeneration and/or parkinsonism, in some cases the
+genetic and/or molecular background that is common with PD has not been identified up to
+today. However, one might ask the question, should a disease be defined by its symptoms, or
+by the underlying pathomechanisms? As for those cases with a described shared
+pathomechanism of LSDs and PD, the realization of numerous common mechanisms could
+pose the question: could (at least some of) these storage disorders be considered as a
+prodromal phase of PD, or PD with onset at a young age? The Kufor-Rabek syndrome could
+serve as an example in this regard, since it is often considered as a form of EOPD, but also as
+an LSD [141, 281]. Additionally, some genetic variations can either lead to an LSD or PD,
+respectively, depending on their homo- or heterozygous presence as well as the impact of the
+individual mutation on protein function, as shown for GBA1 [62] and GALC [89]. Hence
+identifying clear differentiations or convergences of LSDs and PD is difficult and would go out
+of the scope of this review. We believe, however, that further research focusing on unravelling
+the similarities between LSDs and PD is highly warranted, as it will offer valuable information
+from which both fields of LSDs and neurodegenerative diseases are going to benefit. This
+would not only hold the potential of preventing irreversible neurodegenerative harm, but also
+of identifying the best treatment option for every patient individually.
+35
+
+---PAGE BREAK---
+
+Table 1: Overview of lysosomal and lysosome-associated proteins correlated to LSDs and PD
+Legend: Overview of proteins in lysosomes or lysosomal membranes, correlated to LSDs, PD, or other neurodegenerative disorders. Some proteins
+are known under more names than listed and not all associated diseases, e.g. different types of cancer, are mentioned here. The enzymes are sub-
+divided by their cellular localization and function as mentioned in the text, yet not all proteins of this table are explained in detail in this review. Genes
+are listed by alphabetic order and are highlighted in grey if an association with PD exists.
+α-Synuclein degradation by lysosomal cathepsins
+Gene Protein name(s) Functions Consequences of dysfunction Disease name REF
+name
+CTSB Cathepsin B Cysteine protease; co-factor for Reduced activity of several proteases; AD, PD [52,
+other proteases’ activity (e.g. associated with brain ageing 282]
+Cathepsin D); autophagy
+CTSD Cathepsin D Aspartate protease, degradation Accumulation of toxic protein Congenital neuronal [41,
+of long-lived proteins incl. growth aggregates ceroid lipofuscinosis 51,
+factors and aSyn type 10 (NCL10), AD, 282,
+PD 283]
+CTSL Cathepsin L Cysteine protease; association Upregulated by mitochondrial stress, [284]
+with the activation of NF-kappa B; leading to altered distribution and
+autophagy; protein degradation increased autophagy and
+dopaminergic neuron death;
+increased levels in PD
+LGMN Legumain, asparagine Cysteine protease; cleavage of Upregulated due to ageing and in AD [285,
+endopeptidase (AEP) tau proteins and amyloid 286]
+precursor proteins; part of
+immune system and programmed
+cell death
+Dysfunctional substrate cleaving enzymes and impaired metabolism
+Gene Protein name(s) Functions Consequences of dysfunction Disease name REF
+name
+36
+
+---PAGE BREAK---
+
+ARSA Arylsulfatase A, Degradation of cerebroside 3- Accumulation of sulfatides Metachromatic [287]
+cerebroside-sulfatase sulfate; activated by saposin B leukodystrophy
+ARSB Arylsulfatase B Degradation of dermatan sulfate Accumulation of glycosaminoglycans Maroteaux-Lamy [288,
+and chondroitin sulfate syndrome 289]
+ASAH1 Acid ceramidase Degradation (and build-up) of Accumulation of ceramides causing Farber disease, AD, PD [51,
+(aCDase), N- ceramides curvilinear tubular structures 290]
+acylsphingosine
+amidohydrolase 1
+FUCA1 α-L-fucosidase Hydrolysis of α-L-fucoside Accumulation of fucoside and glycan Fucosidosis, chronic [291,
+structures autoimmune and 292]
+inflammation disorders
+in children
+GALC Galactocerebro- Hydrolysis of galactosylceramide, Accumulation of galactosylceramide; Krabbe disease, PD [51,
+sidase, psychosine and and psychosine, resulting in 52,
+galactosylceramidase monogalactosyldiglycerid demyelination due to apoptosis of 89,
+myelin-forming cells 92,
+293]
+GALNS N- Hydrolysis of chondroitin sulfate Accumulation of glycosaminoglycan Morquio syndrome [294]
+acetylgalactosamine- and keratan sulfate and glycan structures
+6-sulfatase
+GBA1 β-Glucocerebrosidase Hydrolysis of glucosylceramide Accumulation of glucocerebroside GD, PD [70,
+(GCase) 295,
+296]
+GLA α-galactosidase A (α- Hydrolysis of glycolipids and Accumulation of glycosphingolipids Fabry disease [297,
+Gal A) glycoproteins 298]
+GNS N-acetylglucosamine- Hydrolysis of keratan sulfate and Accumulation of heparan and keratan Sanfilippo syndrome [299]
+6-sulfatase heparin/heparan sulfate sulphate (MPS IIID)
+GUSB β-glucuronidase Hydrolysis of chondroitin sulfate, Accumulation of glycosaminoglycans Sly syndrome (MPS [93,
+dermatan sulfate, and heparan VII), PD 300]
+sulfate
+HEXA β-Hexosaminidase Hydrolysis of N-acetly-D- Accumulation of G gangliosides; Tay-Sachs disease [116,
+M2
+subunit α hexosamines and G altered levels in PD 119,
+M2
+gangliosides with subunit β 301]
+37
+
+---PAGE BREAK---
+
+HEXB β-Hexosaminidase Hydrolysis of N-acetly-D- Accumulation of G gangliosides; Sandhoff disease [116,
+M2
+subunit β hexosamines and G altered levels in PD 119,
+M2
+gangliosides with subunit α 302]
+IDS Iduronate 2-sulfatase Degradation of heparan sulfate Accumulation of glycosaminoglycans Hunter syndrome [303,
+and dermatan sulfate 304]
+IDUA Glycosaminoglycan α- Hydroysis of α-L-iduronosidic Accumulation of glycosaminoglycans Hurler syndrome, [305]
+L-iduronohydrolase, linkages in glycosaminoglycans Scheie syndrome
+iduronidase dermatan and heparan sulfate
+NAGA α-N- Glycoside hydrolase; Excretion of glycoproteins Schindler diseases type [306,
+acetylgalactosamini- deglycosylation of Gc proteins I and II, Kanzaki 307]
+dase, nagalase disease
+NAGLU α-N-acetylglucosa- Hydrolysis of N-acetyl-D- Accumulation of glycosaminoglycans Sanfilippo syndrome [308,
+minidase glucosamine and UDP-N- (MPS IIIB), PD 309]
+acetylglucosamine
+NEU1 Neuraminidase 1, Cleavage of sialic acid in Accumulation of glycosaminoglycans Glycoproteinosis, [310]
+sialidase-1 glycoproteins and glycolipids; Sialidosis (ML I)
+heterotrimeric complex with β-
+galactosidase (β-gal) and
+cathepsin A
+SGSH N-sulphoglucosamine Hydrolysis of N-sulfo-D- Accumulation of heparan sulfate Sanfilippo syndrome [308]
+sulphohydrolase, glucosamine (MPS IIIA)
+sulfamidase
+SMPD1 Sphingomyelin Hydrolysis of sphingomyelin Accumulation of sphingomyelin SMPD1-associated [51,
+phosphodiesterase1, causing lipid abnormalities in cell Niemann-Pick disease 107,
+acid membranes types A and B, p.L320P 311]
+sphingomyelinase mutation in PD
+(ASMase)
+Lysosomal integrity and transport equilibrium
+Gene Protein name(s) Functions Consequences of dysfunction Disease name REF
+name
+ATP6V0C C subunit of the V0 Proteolipid subunit in a vacuolar Inhibition of acidification, inhibition of [312]
+domain of V-type proton pump; acidification of autophagy processes, accumulation
+lysosomes and endosomes
+38
+
+---PAGE BREAK---
+
+proton ATPase 16 of aSyn, stress-induced cell death;
+kDa neurodegenerative disorders
+ATP13A2 Probable cation- Export of zinc and manganese for Accumulation of toxic metal ions, Kufor-Rabek syndrome, [140,
+transporting ATPase cell export or lysosomal aSyn aggregation PD 141,
+13A2, PARK9 sequestration 313]
+GRN Progranulin (PGRN) Lysosomal glycoprotein and Reduced autophagosomal processes; Batten disease or [314
+growth factor in close interaction decreased activity of lysosomal neuronal ceroid -
+with cathepsins, GCase, TFEB, enzymes; saposin reduction lipofuscinosis (NCL), 317]
+and many others frontotemporal lobar
+degeneration with
+frontotemporal
+dementia and
+parkinsonism, AD
+LAMP2 Lysosome-associated Integral membrane protein; Altered autophagy and chaperone Danon disease, PD [126,
+membrane protein 2 interactions and imports mediated autophagy; accumulation of 129]
+substrates from other enzymes aSyn
+into the lysosome; essential for
+autophagy processes; requires
+Hsc70 for regeneration
+LRRK2 Leucine-rich repeat Kinase in the cytoplasm, Altered phosphorylation and protein- PD [318
+kinase 2, dardarin, interacting with lysosomal and protein interactions, e.g. causing pH -
+PARK8 mitochondrial membranes dysregulation; enhanced lysosomal 321]
+localization and sorting, e.g. more
+autophagy processes
+MCOLN1 Mucolipin-1, TRPML1 Transient receptor; potential Iron deficiency in cells/lysosomes; Mucolipidosis type IV [322,
+cation channel; iron ion reduces aSyn when activated 323]
+transporter
+NPC1/2 Niemann-Pick C1 LDL-derived cholesterol exporter Reduced expression of myelin gene Niemann-Pick disease, [324
+protein (NPC1), in lysosomal membranes regulatory factor type C -
+epididymal secretory PD-association 326]
+protein E1 (NPC2) controversially
+discussed
+SLC17A5 H(+)/sialic acid Sialic acid transporter in Accumulation of sialic acid in the Salla disease, Infantile [51,
+cotransporter, sialin lysosomal membranes lysosome/cell Sialic Acid Storage 327,
+Disease (ISSD), PD 328]
+39
+
+---PAGE BREAK---
+
+TFEB Transcription factor Expression regulation of Expression of inflammatory cytokines; Huntington, PD, AD [329
+EB lysosomal hydrolases, membrane accumulation of proteins (aggregates) -
+proteins and autophagy-related 331]
+proteins, activated by PGC1-α
+TMEM175 Transmembrane Lysosomal, proton-activated Altered pH in lysosomes; aSyn Rapid eye movement [52,
+protein 175 potassium channel aggregation sleep behaviour 327]
+disorder, PD
+TMEM76 Transmembrane Lysosomal membrane protein Accumulation of heparin or heparan Sanfilippo syndrome [332]
+or protein 76, heparan-α- acetylating heparin and heparan sulfate (MPS IIIC)
+HGSNAT glucosaminide N- sulfate, uses acetyl coenzyme A
+acetyltransferase
+Vesicular transport of lysosomal enzymes and lysosomal segregation
+Gene Protein name(s) Functions Consequences of dysfunction Disease name REF
+name
+GAK Cyclin G-associated Serine/threonine kinase; Impaired interaction with cathepsins PD [333]
+kinase, auxilin 2 uncoating clathrin in neurons and aSyn accumulation; reduced
+autophagy
+M6PR Cation-dependent Transmembrane glycoprotein Insufficient transport of proteins to the [334]
+mannose-6- binding mannose-6-phosphate lysosome leading to inefficient
+phosphate receptor (M6P) tags on acid hydrolase sequestering of (toxic) cell structures
+(CD-MPR) precursors in the Golgi apparatus
+to translocate them to the
+lysosome
+LMBRD1 Limp region 1 Lysosomal membrane protein; Accumulation of cobalamin, lack of Cobalamin F-type [156,
+complex formation and homocysteine and methionine disease 157,
+translocation of ABCD4 159]
+(cobalamin exporter); regulation
+of insulin receptor (endocytosis)
+Rab family Ras-related proteins, Peripheral membrane proteins; Insufficient vesicular transport and Griscelli syndrome type [164,
+members small G-proteins vesicle transport and fusion autophagy, cell stress, protein 2 (Rab27A protein), 165,
+aggregation, hereditary sensory 335]
+neuropathy type 1C
+40
+
+---PAGE BREAK---
+
+(Rab7A protein), EOPD
+(Rab39B protein)
+SCARB2 Lysosomal Integral Type III transmembrane Insufficient GCase translocation Action myoclonus-renal [20,
+Membrane Protein glycoprotein; binding of GCase in and/or activity failure syndrome, GD, 336]
+type-2 (LIMP-2) ER and transport to lysosome; PD
+catalysing GCase activity
+41
+
+---PAGE BREAK---
+
+References
+[1] Lesage S, Brice A. Parkinson's disease: from monogenic forms to genetic susceptibility factors.
+Human Molecular Genetics. 2009;18:R48-R59.
+[2] Deng H, Wang P, Jankovic J. The genetics of Parkinson disease. Ageing Research Reviews.
+2018;42:72-85.
+[3] Sellbach AN, Boyle RS, Silburn PA, Mellick GD. Parkinson's disease and family history. Parkinsonism
+& Related Disorders. 2006;12:399-409.
+[4] Jia F, Fellner A, Kumar KR. Monogenic Parkinson's Disease: Genotype, Phenotype, Pathophysiology,
+and Genetic Testing. Genes2022.
+[5] Warner TT, Schapira AHV. Genetic and environmental factors in the cause of Parkinson's disease.
+Annals of Neurology. 2003;53:S16-S25.
+[6] Spillantini MG, Schmidt ML, Lee VMY, Trojanowski JQ, Jakes R, Goedert M. α-Synuclein in Lewy
+bodies. Nature. 1997;388:839-40.
+[7] Luzio JP, Pryor PR, Bright NA. Lysosomes: fusion and function. Nature Reviews Molecular Cell
+Biology. 2007;8:622-32.
+[8] Mellman I, Fuchs R, Helenius A. Acidification of the endocytic and exocytic pathways. Annual Review
+of Biochemistry. 1986;55:663-700.
+[9] Mellman I. Organelles observed: lysosomes. Science. 1989;244:853-4.
+[10] Xu H, Ren D. Lysosomal physiology. Annu Rev Physiol. 2015;77:57-80.
+[11] Dawson G, Tsay G. Substrate specificity of human α-l-fucosidase. Archives of Biochemistry and
+Biophysics. 1977;184:12-23.
+[12] Barrett AJ, McDonald JK. Mammalian proteases: a glossary and bibliography: Academic Press;
+1980.
+[13] Butor C, Griffiths G, Aronson NN, Varki A. Co-localization of hydrolytic enzymes with widely
+disparate pH optima: implications for the regulation of lysosomal pH. Journal of Cell Science.
+1995;108:2213-9.
+[14] Bainton DF. The discovery of lysosomes. The Journal of cell biology. 1981;91:66s-76s.
+[15] Platt FM, Boland B, van der Spoel AC. Lysosomal storage disorders: The cellular impact of
+lysosomal dysfunction. Journal of Cell Biology. 2012;199:723-34.
+[16] Hille-Rehfeld A. Mannose 6-phosphate receptors in sorting and transport of lysosomal enzymes.
+Biochimica et Biophysica Acta (BBA) - Reviews on Biomembranes. 1995;1241:177-94.
+[17] Sahagian GG. The mannose 6-phosphate receptor: function, biosynthesis and translocation.
+Biology of the Cell. 1984;51:207-14.
+[18] Hoflack B, Kornfeld S. Lysosomal enzyme binding to mouse P388D1 macrophage membranes
+lacking the 215-kDa mannose 6-phosphate receptor: evidence for the existence of a second mannose
+6-phosphate receptor. Proc Natl Acad Sci U S A. 1985;82:4428-32.
+[19] Pohlmann R, Boeker MWC, von Figura K. The Two Mannose 6-Phosphate Receptors Transport
+Distinct Complements of Lysosomal Proteins. Journal of Biological Chemistry. 1995;270:27311-8.
+[20] Reczek D, Schwake M, Schröder J, Hughes H, Blanz J, Jin X, et al. LIMP-2 Is a Receptor for Lysosomal
+Mannose-6-Phosphate-Independent Targeting of β-Glucocerebrosidase. Cell. 2007;131:770-83.
+[21] Blanz J, Groth J, Zachos C, Wehling C, Saftig P, Schwake M. Disease-causing mutations within the
+lysosomal integral membrane protein type 2 (LIMP-2) reveal the nature of binding to its ligand β-
+glucocerebrosidase. Human Molecular Genetics. 2010;19:563-72.
+[22] Schneider JL, Cuervo AM. Autophagy and human disease: emerging themes. Current Opinion in
+Genetics & Development. 2014;26:16-23.
+[23] Mizushima N, Komatsu M. Autophagy: renovation of cells and tissues. Cell. 2011;147:728-41.
+[24] Hou X, Watzlawik JO, Fiesel FC, Springer W. Autophagy in Parkinson's Disease. Journal of Molecular
+Biology. 2020;432:2651-72.
+[25] Eskelinen E-L. Roles of LAMP-1 and LAMP-2 in lysosome biogenesis and autophagy. Molecular
+Aspects of Medicine. 2006;27:495-502.
+42
+
+---PAGE BREAK---
+
+[26] Plowey ED, Cherra Iii SJ, Liu YJ, Chu CT. Role of autophagy in G2019S-LRRK2-associated neurite
+shortening in differentiated SH-SY5Y cells. Journal of neurochemistry. 2008;105:1048-56.
+[27] Alegre-Abarrategui J, Christian H, Lufino MMP, Mutihac R, Venda LL, Ansorge O, et al. LRRK2
+regulates autophagic activity and localizes to specific membrane microdomains in a novel human
+genomic reporter cellular model. Human molecular genetics. 2009;18:4022-34.
+[28] Decressac M, Mattsson B, Weikop P, Lundblad M, Jakobsson J, Björklund A. TFEB-mediated
+autophagy rescues midbrain dopamine neurons from α-synuclein toxicity. Proceedings of the National
+Academy of Sciences. 2013;110:E1817-E26.
+[29] Vitner EB, Platt FM, Futerman AH. Common and Uncommon Pathogenic Cascades in Lysosomal
+Storage Diseases. Journal of Biological Chemistry. 2010;285:20423-7.
+[30] Sun A. Lysosomal storage disease overview. Ann Transl Med. 2018;6:476.
+[31] Fraldi A, Klein AD, Medina DL, Settembre C. Brain disorders due to lysosomal dysfunction. Annu
+Rev Neurosci. 2016;39:277-95.
+[32] Hara T, Nakamura K, Matsui M, Yamamoto A, Nakahara Y, Suzuki-Migishima R, et al. Suppression
+of basal autophagy in neural cells causes neurodegenerative disease in mice. Nature. 2006;441:885-9.
+[33] Komatsu M, Waguri S, Chiba T, Murata S, Iwata J-i, Tanida I, et al. Loss of autophagy in the central
+nervous system causes neurodegeneration in mice. Nature. 2006;441:880-4.
+[34] Nixon RA. The role of autophagy in neurodegenerative disease. Nature Medicine. 2013;19:983-
+97.
+[35] Ghavami S, Shojaei S, Yeganeh B, Ande SR, Jangamreddy JR, Mehrpour M, et al. Autophagy and
+apoptosis dysfunction in neurodegenerative disorders. Progress in Neurobiology. 2014;112:24-49.
+[36] Parenti G, Medina DL, Ballabio A. The rapidly evolving view of lysosomal storage diseases. EMBO
+Mol Med. 2021;13:e12836.
+[37] Bennett MC, Bishop JF, Leng Y, Chock PB, Chase TN, Mouradian MM. Degradation of α-Synuclein
+by Proteasome. Journal of Biological Chemistry. 1999;274:33855-8.
+[38] Webb JL, Ravikumar B, Atkins J, Skepper JN, Rubinsztein DC. α-Synuclein Is Degraded by Both
+Autophagy and the Proteasome. Journal of Biological Chemistry. 2003;278:25009-13.
+[39] Cuervo AM, Stefanis L, Fredenburg R, Lansbury PT, Sulzer D. Impaired degradation of mutant
+alpha-synuclein by chaperone-mediated autophagy. Science. 2004;305:1292-5.
+[40] Vogiatzi T, Xilouri M, Vekrellis K, Stefanis L. Wild type alpha-synuclein is degraded by chaperone-
+mediated autophagy and macroautophagy in neuronal cells. J Biol Chem. 2008;283:23542-56.
+[41] Steinfeld R, Reinhardt K, Schreiber K, Hillebrand M, Kraetzner R, Brück W, et al. Cathepsin D
+deficiency is associated with a human neurodegenerative disorder. The American Journal of Human
+Genetics. 2006;78:988-98.
+[42] Smith KR, Dahl H-HM, Canafoglia L, Andermann E, Damiano J, Morbin M, et al. Cathepsin F
+mutations cause Type B Kufs disease, an adult-onset neuronal ceroid lipofuscinosis. Human molecular
+genetics. 2013;22:1417-23.
+[43] Bunk J, Prieto Huarcaya S, Drobny A, Dobert JP, Walther L, Rose-John S, et al. Cathepsin D variants
+associated with neurodegenerative diseases show dysregulated functionality and modified α-synuclein
+degradation properties. Frontiers in cell and developmental biology. 2021;9:581805.
+[44] Galjart NJ, Morreau H, Willemsen R, Gillemans N, Bonten EJ, d'Azzo A. Human lysosomal protective
+protein has cathepsin A-like activity distinct from its protective function. Journal of Biological
+Chemistry. 1991;266:14754-62.
+[45] Koike M, Nakanishi H, Saftig P, Ezaki J, Isahara K, Ohsawa Y, et al. Cathepsin D deficiency induces
+lysosomal storage with ceroid lipofuscin in mouse CNS neurons. Journal of Neuroscience.
+2000;20:6898-906.
+[46] Papassotiropoulos A, Bagli M, Kurz A, Kornhuber J, Förstl H, Maier W, et al. A genetic variation of
+cathepsin D is a major risk factor for Alzheimer's disease. Ann Neurol. 2000;47:399-403.
+[47] Sayad A, Noruzinia M, Zamani M, Harirchian MH, Kazemnejad A. Association Study of Cathepsin D
+Gene Polymorphism in Iranian Patients with Sporadic Late-Onset Alzheimer's Disease. Dementia and
+Geriatric Cognitive Disorders. 2014;37:257-64.
+43
+
+---PAGE BREAK---
+
+[48] Schuur M, Ikram MA, Van Swieten JC, Isaacs A, Vergeer-Drop JM, Hofman A, et al. Cathepsin D
+gene and the risk of Alzheimer's disease: a population-based study and meta-analysis. Neurobiology
+of aging. 2011;32:1607-14.
+[49] Cermak S, Kosicek M, Mladenovic-Djordjevic A, Smiljanic K, Kanazir S, Hecimovic S. Loss of
+cathepsin B and L leads to lysosomal dysfunction, NPC-like cholesterol sequestration and accumulation
+of the key Alzheimer's proteins. PLoS One. 2016;11:e0167428.
+[50] McGlinchey RP, Lee JC. Cysteine cathepsins are essential in lysosomal degradation of α-synuclein.
+Proceedings of the National Academy of Sciences. 2015;112:9322-7.
+[51] Robak LA, Jansen IE, van Rooij J, Uitterlinden AG, Kraaij R, Jankovic J, et al. Excessive burden of
+lysosomal storage disorder gene variants in Parkinson’s disease. Brain. 2017;140:3191-203.
+[52] Chang D, Nalls MA, Hallgrímsdóttir IB, Hunkapiller J, van der Brug M, Cai F, et al. A meta-analysis
+of genome-wide association studies identifies 17 new Parkinson's disease risk loci. Nature Genetics.
+2017;49:1511-6.
+[53] McGlinchey RP, Lacy SM, Huffer KE, Tayebi N, Sidransky E, Lee JC. C-terminal α-synuclein
+truncations are linked to cysteine cathepsin activity in Parkinson’s disease. Journal of Biological
+Chemistry. 2019;294:9973-84.
+[54] Cullen V, Lindfors M, Ng J, Paetau A, Swinton E, Kolodziej P, et al. Cathepsin D expression level
+affects alpha-synuclein processing, aggregation, and toxicity in vivo. Mol Brain. 2009;2:5.
+[55] McGlinchey RP, Lacy SM, Walker Iii RL, Lee JC. Cathepsin K is a potent disaggregase of α-synuclein
+fibrils. Biochemical and biophysical research communications. 2020;529:1106-11.
+[56] Eymsh B, Drobny A, Heyn TR, Xiang W, Lucius R, Schwarz K, et al. Toxic Metamorphosis—How
+Changes from Lysosomal to Cytosolic pH Modify the Alpha-Synuclein Aggregation Pattern.
+Biomacromolecules. 2020;21:4673-84.
+[57] Kang J, Kim JW, Heo H, Lee J, Park KY, Yoon JH, et al. Identification of BAG2 and cathepsin D as
+plasma biomarkers for Parkinson’s disease. Clinical and translational science. 2021;14:606-16.
+[58] Wu HC, Chang KH, Chiang MC, Chen CM. Alterations of Plasma Galectin-3 and C3 Levels in Patients
+with Parkinson's Disease. Brain Sci. 2021;11.
+[59] van Dijk KD, Persichetti E, Chiasserini D, Eusebi P, Beccari T, Calabresi P, et al. Changes in
+endolysosomal enzyme activities in cerebrospinal fluid of patients with Parkinson's disease. Movement
+Disorders. 2013;28:747-54.
+[60] Sjödin S, Brinkmalm G, Öhrfelt A, Parnetti L, Paciotti S, Hansson O, et al. Endo-lysosomal proteins
+and ubiquitin CSF concentrations in Alzheimer’s and Parkinson’s disease. Alzheimer's Research &
+Therapy. 2019;11:82.
+[61] Mantle D, Falkous G, Ishiura S, Perry RH, Perry EK. Comparison of cathepsin protease activities in
+brain tissue from normal cases and cases with Alzheimer's disease, Lewy body dementia, Parkinson's
+disease and Huntington's disease. Journal of the Neurological Sciences. 1995;131:65-70.
+[62] McNeill A, Magalhaes J, Shen C, Chau K-Y, Hughes D, Mehta A, et al. Ambroxol improves lysosomal
+biochemistry in glucocerebrosidase mutation-linked Parkinson disease cells. Brain. 2014;137:1481-95.
+[63] Fernandes Hugo JR, Hartfield Elizabeth M, Christian Helen C, Emmanoulidou E, Zheng Y, Booth H,
+et al. ER Stress and Autophagic Perturbations Lead to Elevated Extracellular α-Synuclein in GBA-N370S
+Parkinson's iPSC-Derived Dopamine Neurons. Stem Cell Reports. 2016;6:342-56.
+[64] Prieto Huarcaya S, Drobny A, Marques ARA, Di Spiezio A, Dobert JP, Balta D, et al. Recombinant
+pro-CTSD (cathepsin D) enhances SNCA/α-Synuclein degradation in α-Synucleinopathy models.
+Autophagy. 2022;18:1127-51.
+[65] Marques ARA, Di Spiezio A, Thießen N, Schmidt L, Grötzinger J, Lüllmann-Rauch R, et al. Enzyme
+replacement therapy with recombinant pro-CTSD (cathepsin D) corrects defective proteolysis and
+autophagy in neuronal ceroid lipofuscinosis. Autophagy. 2020;16:811-25.
+[66] Plotegher N, Bubacco L, Greggio E, Civiero L. Ceramides in Parkinson’s disease: from recent
+evidence to new hypotheses. Front Neurosci 13: 330. 2019.
+[67] Abbott SK, Li H, Munoz SS, Knoch B, Batterham M, Murphy KE, et al. Altered ceramide acyl chain
+length and ceramide synthase gene expression in Parkinson's disease. Movement Disorders.
+2014;29:518-26.
+44
+
+---PAGE BREAK---
+
+[68] Theophilus B, Latham T, Grabowski GA, Smith FI. Gaucher disease: molecular heterogeneity and
+phenotype-genotype correlations. American journal of human genetics. 1989;45:212.
+[69] Neudorfer O, Giladi N, Elstein D, Abrahamov A, Turezkite T, Aghai E, et al. Occurrence of
+Parkinson's syndrome in type 1 Gaucher disease. QJM: An International Journal of Medicine.
+1996;89:691-4.
+[70] Goker-Alpan O, Schiffmann R, LaMarca ME, Nussbaum RL, McInerney-Leo A, Sidransky E.
+Parkinsonism among Gaucher disease carriers. Journal of medical genetics. 2004;41:937-40.
+[71] Eto Y, Suzuki K. Brain Sphingoglycolipids in Krabbe's Globoid Cell Leucodystrophy 1 Journal of
+Neurochemistry. 1971;18:503-11.
+[72] Graziano ACE, Cardile V. History, genetic, and recent advances on Krabbe disease. Gene.
+2015;555:2-13.
+[73] Stirnemann J, Belmatoug N, Camou F, Serratrice C, Froissart R, Caillaud C, et al. A Review of
+Gaucher Disease Pathophysiology, Clinical Presentation and Treatments. International Journal of
+Molecular Sciences. 2017;18:441.
+[74] Nagral A. Gaucher disease. Journal of clinical and experimental hepatology. 2014;4:37-50.
+[75] Sidransky E, Nalls MA, Aasly JO, Aharon-Peretz J, Annesi G, Barbosa ER, et al. Multicenter analysis
+of glucocerebrosidase mutations in Parkinson's disease. N Engl J Med. 2009;361:1651-61.
+[76] Mazzulli JR, Xu Y-H, Sun Y, Knight AL, McLean PJ, Caldwell GA, et al. Gaucher disease
+glucocerebrosidase and α-synuclein form a bidirectional pathogenic loop in synucleinopathies. Cell.
+2011;146:37-52.
+[77] Wu J, Lou H, Alerte TNM, Stachowski EK, Chen J, Singleton AB, et al. Lewy-like aggregation of α-
+synuclein reduces protein phosphatase 2A activity in vitro and in vivo. Neuroscience. 2012;207:288-
+97.
+[78] Liu G, Chen M, Mi N, Yang W, Li X, Wang P, et al. Increased oligomerization and phosphorylation
+of α-synuclein are associated with decreased activity of glucocerebrosidase and protein phosphatase
+2A in aging monkey brains. Neurobiology of Aging. 2015;36:2649-59.
+[79] Hou Y, Dan X, Babbar M, Wei Y, Hasselbalch SG, Croteau DL, et al. Ageing as a risk factor for
+neurodegenerative disease. Nature Reviews Neurology. 2019;15:565-81.
+[80] Cutler RG, Kelly J, Storie K, Pedersen WA, Tammara A, Hatanpaa K, et al. Involvement of oxidative
+stress-induced abnormalities in ceramide and cholesterol metabolism in brain aging and Alzheimer's
+disease. Proceedings of the National Academy of Sciences. 2004;101:2070-5.
+[81] Kolesnick RN, Krönke M. Regulation of Ceramide Production and Apoptosis. Annual Review of
+Physiology. 1998;60:643-65.
+[82] Gangoiti P, Granado MH, Arana L, Ouro A, Gomez-Muñoz A. Activation of protein kinase C-α is
+essential for stimulation of cell proliferation by ceramide 1-phosphate. FEBS Letters. 2010;584:517-24.
+[83] Venable ME, Lee JY, Smyth MJ, Bielawska A, Obeid LM. Role of Ceramide in Cellular Senescence.
+Journal of Biological Chemistry. 1995;270:30701-8.
+[84] Custodia A, Aramburu-Núñez M, Correa-Paz C, Posado-Fernández A, Gómez-Larrauri A, Castillo J,
+et al. Ceramide Metabolism and Parkinson’s Disease—Therapeutic Targets. Biomolecules2021.
+[85] Hagberg B, Kollberg H, Sourander P, Åkesson HO. Infantile Globoid Cell Leucodystrophy–(Krabbe's
+Disease) A clinical and genetic study of 32 Swedish cases 1953–1967. Neuropaediatrie. 1969;1:74-88.
+[86] Lyon G, Hagberg B, Evrard PH, Allaire C, Pavone L, Vanier M. Symptomatology of late onset
+Krabbe's leukodystrophy: the European experience. Developmental neuroscience. 1991;13:240-4.
+[87] Wenger DA, Rafi MA, Luzi P. Molecular genetics of Krabbe disease (globoid cell leukodystrophy):
+Diagnostic and clinical implications. Human Mutation. 1997;10:268-79.
+[88] Xu C, Sakai N, Taniike M, Inui K, Ozono K. Six novel mutations detected in the GALC gene in 17
+Japanese patients with Krabbe disease, and new genotype–phenotype correlation. Journal of Human
+Genetics. 2006;51:548-54.
+[89] Senkevich K, Zorca CE, Dworkind A, Rudakou U, Somerville E, Yu E, et al. GALC variants affect
+galactosylceramidase enzymatic activity and risk of Parkinson's disease. medRxiv. 2022.
+[90] Marshall MS, Jakubauskas B, Bogue W, Stoskute M, Hauck Z, Rue E, et al. Analysis of age-related
+changes in psychosine metabolism in the human brain. PLOS ONE. 2018;13:e0193438.
+45
+
+---PAGE BREAK---
+
+[91] Smith BR, Santos MB, Marshall MS, Cantuti-Castelvetri L, Lopez-Rosas A, Li G, et al. Neuronal
+inclusions of α-synuclein contribute to the pathogenesis of Krabbe disease. The Journal of pathology.
+2014;232:509-21.
+[92] Do CB, Tung JY, Dorfman E, Kiefer AK, Drabant EM, Francke U, et al. Web-based genome-wide
+association study identifies two novel loci and a substantial genetic component for Parkinson's disease.
+PLoS genetics. 2011;7:e1002141.
+[93] Nalls MA, Blauwendraat C, Vallerga CL, Heilbron K, Bandres-Ciga S, Chang D, et al. Identification
+of novel risk loci, causal insights, and heritable risk for Parkinson's disease: a meta-analysis of genome-
+wide association studies. The Lancet Neurology. 2019;18:1091-102.
+[94] Li G, Cui S, Du J, Liu J, Zhang P, Fu Y, et al. Association of GALC, ZNF184, IL1R2 and ELOVL7 With
+Parkinson’s Disease in Southern Chinese. Frontiers in Aging Neuroscience. 2018;10.
+[95] Gustavson KH, Hagberg B. The incidence and genetics of metachromatic leucodystrophy in
+northern Sweden. Acta Paediatr Scand. 1971;60:585-90.
+[96] Doherty K, Frazier SB, Clark M, Childers A, Pruthi S, Wenger DA, et al. A closer look at ARSA activity
+in a patient with metachromatic leukodystrophy. Molecular genetics and metabolism reports.
+2019;19:100460.
+[97] Paciotti S, Albi E, Parnetti L, Beccari T. Lysosomal ceramide metabolism disorders: implications in
+Parkinson’s disease. Journal of clinical medicine. 2020;9:594.
+[98] Suzuki K, Iseki E, Togo T, Yamaguchi A, Katsuse O, Katsuyama K, et al. Neuronal and glial
+accumulation of α-and β-synucleins in human lipidoses. Acta neuropathologica. 2007;114:481-9.
+[99] Martinelli P, Ippoliti M, Montanari M, Martinelli A, Mochi M, Giuliani S, et al. Arylsulphatase A
+(ASA) activity in parkinsonism and symptomatic essential tremor. Acta neurologica scandinavica.
+1994;89:171-4.
+[100] Antelmi E, Rizzo G, Fabbri M, Capellari S, Scaglione C, Martinelli P. Arylsulphatase A activity in
+familial parkinsonism: a pathogenetic role? Journal of neurology. 2014;261:1803-9.
+[101] Lee JS, Kanai K, Suzuki M, Kim WS, Yoo HS, Fu Y, et al. Arylsulfatase A, a genetic modifier of
+Parkinson’s disease, is an α-synuclein chaperone. Brain. 2019;142:2845-59.
+[102] Fan Y, Mao C-y, Dong Y-l, Shen S, Zhang Q-m, Yao D-b, et al. ARSA gene variants and Parkinson’s
+disease. Brain. 2020;143:e47-e.
+[103] Makarious MB, Diez-Fairen M, Krohn L, Blauwendraat C, Bandres-Ciga S, Ding J, et al. ARSA
+variants in α-synucleinopathies. Brain. 2019;142:e70-e.
+[104] Jenkins RW, Idkowiak-Baldys J, Simbari F, Canals D, Roddy P, Riner CD, et al. A novel mechanism
+of lysosomal acid sphingomyelinase maturation: requirement for carboxyl-terminal proteolytic
+processing. Journal of Biological Chemistry. 2011;286:3777-88.
+[105] Dagan E, Schlesinger I, Ayoub M, Mory A, Nassar M, Kurolap A, et al. The contribution of
+Niemann-Pick SMPD1 mutations to Parkinson disease in Ashkenazi Jews. Parkinsonism & Related
+Disorders. 2015;21:1067-71.
+[106] Foo J-N, Liany H, Bei J-X, Yu X-Q, Liu J, Au W-L, et al. A rare lysosomal enzyme gene SMPD1 variant
+(p. R591C) associates with Parkinson's disease. Neurobiology of aging. 2013;34:2890-e13.
+[107] Gan-Or Z, Ozelius LJ, Bar-Shira A, Saunders-Pullman R, Mirelman A, Kornreich R, et al. The p.L302P
+mutation in the lysosomal enzyme gene SMPD1 is a risk factor for Parkinson disease. Neurology.
+2013;80:1606-10.
+[108] Ylönen S, Siitonen A, Nalls MA, Ylikotila P, Autere J, Eerola-Rautio J, et al. Genetic risk factors in
+Finnish patients with Parkinson's disease. Parkinsonism & related disorders. 2017;45:39-43.
+[109] Alcalay RN, Mallett V, Vanderperre B, Tavassoly O, Dauvilliers Y, Wu RYJ, et al. SMPD1 mutations,
+activity, and α-synuclein accumulation in Parkinson's disease. Movement Disorders. 2019;34:526-35.
+[110] Inzelberg R, Korczyn AD. Parkinsonism in adult-onset GM2 gangliosidosis. Movement disorders:
+official journal of the Movement Disorder Society. 1994;9:375-7.
+[111] Roze E, Ewenczyk C, Sedel F. GM2 Gangliosidosis. 2010.
+[112] Regier DS, Proia RL, D’Azzo A, Tifft CJ. The GM1 and GM2 gangliosidoses: natural history and
+progress toward therapy. Pediatric endocrinology reviews: PER. 2016;13:663.
+46
+
+---PAGE BREAK---
+
+[113] Cachon-Gonzalez MB, Zaccariotto E, Cox TM. Genetics and Therapies for GM2 Gangliosidosis.
+Curr Gene Ther. 2018;18:68-89.
+[114] Brekk OR, Korecka JA, Crapart CC, Huebecker M, MacBain ZK, Rosenthal SA, et al. Upregulating
+β-hexosaminidase activity in rodents prevents α-synuclein lipid associations and protects
+dopaminergic neurons from α-synuclein-mediated neurotoxicity. Acta neuropathologica
+communications. 2020;8:1-14.
+[115] Keilani S, Lun Y, Stevens AC, Williams HN, Sjoberg ER, Khanna R, et al. Lysosomal dysfunction in
+a mouse model of Sandhoff disease leads to accumulation of ganglioside-bound amyloid-β peptide.
+Journal of Neuroscience. 2012;32:5223-36.
+[116] Parnetti L, Chiasserini D, Persichetti E, Eusebi P, Varghese S, Qureshi MM, et al. Cerebrospinal
+fluid lysosomal enzymes and alpha-synuclein in Parkinson's disease. Movement Disorders.
+2014;29:1019-27.
+[117] McNeill A. Is elevated beta-hexosaminidase activity a potential biomarker for Parkinson's
+disease? Movement Disorders. 2014;29:1328-9.
+[118] Kim H-J, Jeon B, Song J, Lee W-W, Park H, Shin C-W. Leukocyte glucocerebrosidase and β-
+hexosaminidase activity in sporadic and genetic Parkinson disease. Parkinsonism & Related Disorders.
+2016;23:99-101.
+[119] Huebecker M, Moloney EB, van der Spoel AC, Priestman DA, Isacson O, Hallett PJ, et al. Reduced
+sphingolipid hydrolase activities, substrate accumulation and ganglioside decline in Parkinson’s
+disease. Molecular neurodegeneration. 2019;14:1-21.
+[120] Eskelinen E-L, Tanaka Y, Saftig P. At the acidic edge: emerging functions for lysosomal membrane
+proteins. Trends in Cell Biology. 2003;13:137-45.
+[121] Dehay B, Martinez-Vicente M, Caldwell GA, Caldwell KA, Yue Z, Cookson MR, et al. Lysosomal
+impairment in Parkinson's disease. Movement Disorders. 2013;28:725-32.
+[122] Hunziker W, Geuze HJ. Intracellular trafficking of lysosomal membrane proteins. BioEssays.
+1996;18:379-89.
+[123] Alvarez-Erviti L, Rodriguez-Oroz MC, Cooper JM, Caballero C, Ferrer I, Obeso JA, et al. Chaperone-
+Mediated Autophagy Markers in Parkinson Disease Brains. Archives of Neurology. 2010;67:1464-72.
+[124] Alessandrini F, Pezzè L, Ciribilli Y. LAMPs: Shedding light on cancer biology. Seminars in Oncology.
+2017;44:239-53.
+[125] Dominguez-Bautista JA, Klinkenberg M, Brehm N, Subramaniam M, Kern B, Roeper J, et al. Loss
+of lysosome-associated membrane protein 3 (LAMP3) enhances cellular vulnerability against
+proteasomal inhibition. European Journal of Cell Biology. 2015;94:148-61.
+[126] Nishino I, Fu J, Tanji K, Yamada T, Shimojo S, Koori T, et al. Primary LAMP-2 deficiency causes X-
+linked vacuolar cardiomyopathy and myopathy (Danon disease). Nature. 2000;406:906-10.
+[127] Wu G, Wang X, Feng X, Zhang A, Li J, Gu K, et al. Altered expression of autophagic genes in the
+peripheral leukocytes of patients with sporadic Parkinson's disease. Brain Research. 2011;1394:105-
+11.
+[128] Klaver AC, Coffey MP, Aasly JO, Loeffler DA. CSF lamp2 concentrations are decreased in female
+Parkinson’s disease patients with LRRK2 mutations. Brain Research. 2018;1683:12-6.
+[129] Pang S, Chen D, Zhang A, Qin X, Yan B. Genetic analysis of the LAMP-2 gene promoter in patients
+with sporadic Parkinson's disease. Neuroscience Letters. 2012;526:63-7.
+[130] Banerjee R, Beal MF, Thomas B. Autophagy in neurodegenerative disorders: pathogenic roles
+and therapeutic implications. Trends in Neurosciences. 2010;33:541-9.
+[131] Mak SK, McCormack AL, Manning-Boğ AB, Cuervo AM, Di Monte DA. Lysosomal Degradation of
+alpha-Synuclein in Vivo. Journal of Biological Chemistry. 2010;285:13621-9.
+[132] Gitler AD, Chesi A, Geddie ML, Strathearn KE, Hamamichi S, Hill KJ, et al. α-Synuclein is part of a
+diverse and highly conserved interaction network that includes PARK9 and manganese toxicity. Nature
+Genetics. 2009;41:308-15.
+[133] Schultheis PJ, Hagen TT, O’Toole KK, Tachibana A, Burke CR, McGill DL, et al. Characterization of
+the P5 subfamily of P-type transport ATPases in mice. Biochemical and Biophysical Research
+Communications. 2004;323:731-8.
+47
+
+---PAGE BREAK---
+
+[134] van Veen S, Martin S, Van den Haute C, Benoy V, Lyons J, Vanhoutte R, et al. ATP13A2 deficiency
+disrupts lysosomal polyamine export. Nature. 2020;578:419-24.
+[135] Vrijsen S, Besora-Casals L, van Veen S, Zielich J, Van den Haute C, Hamouda NN, et al. ATP13A2-
+mediated endo-lysosomal polyamine export counters mitochondrial oxidative stress. Proceedings of
+the National Academy of Sciences. 2020;117:31198-207.
+[136] Rinaldi DE, Corradi GR, Cuesta LM, Adamo HP, de Tezanos Pinto F. The Parkinson-associated
+human P5B-ATPase ATP13A2 protects against the iron-induced cytotoxicity. Biochimica et Biophysica
+Acta (BBA) - Biomembranes. 2015;1848:1646-55.
+[137] Dehay B, Ramirez A, Martinez-Vicente M, Perier C, Canron MH, Doudnikoff E, et al. Loss of P-type
+ATPase ATP13A2/PARK9 function induces general lysosomal deficiency and leads to Parkinson disease
+neurodegeneration. Proc Natl Acad Sci U S A. 2012;109:9611-6.
+[138] Di Fonzo A, Chien HF, Socal M, Giraudo S, Tassorelli C, Iliceto G, et al. ATP13A2 missense
+mutations in juvenile parkinsonism and young onset Parkinson disease. Neurology. 2007;68:1557-62.
+[139] Lees AJ, Singleton AB. Clinical heterogeneity of ATP13A2 linked disease (Kufor-Rakeb) justifies a
+PARK designation. Neurology. 2007;68:1553.
+[140] Najim Al-Din AS, Wriekat A, Mubaidin A, Dasouki M, Hiari M. Pallido-pyramidal degeneration,
+supranuclear upgaze paresis and dementia: Kufor-Rakeb syndrome. Acta Neurologica Scandinavica.
+1994;89:347-52.
+[141] Williams DR, Hadeed A, al-Din ASN, Wreikat A-L, Lees AJ. Kufor Rakeb Disease: Autosomal
+recessive, levodopa-responsive parkinsonism with pyramidal degeneration, supranuclear gaze palsy,
+and dementia. Movement Disorders. 2005;20:1264-71.
+[142] Podhajska A, Musso A, Trancikova A, Stafa K, Moser R, Sonnay S, et al. Common Pathogenic
+Effects of Missense Mutations in the P-Type ATPase ATP13A2 (PARK9) Associated with Early-Onset
+Parkinsonism. PLOS ONE. 2012;7:e39942.
+[143] Usenovic M, Tresse E, Mazzulli JR, Taylor JP, Krainc D. Deficiency of ATP13A2 leads to lysosomal
+dysfunction, α-synuclein accumulation, and neurotoxicity. J Neurosci. 2012;32:4240-6.
+[144] Park J-S, Koentjoro B, Davis RL, Sue CM. Loss of ATP13A2 impairs glycolytic function in Kufor-
+Rakeb syndrome patient-derived cell models. Parkinsonism & Related Disorders. 2016;27:67-73.
+[145] Cang C, Aranda K, Seo Y-j, Gasnier B, Ren D. TMEM175 Is an Organelle K+ Channel Regulating
+Lysosomal Function. Cell. 2015;162:1101-12.
+[146] Hu M, Li P, Wang C, Feng X, Geng Q, Chen W, et al. Parkinson’s disease-risk protein TMEM175 is
+a proton-activated proton channel in lysosomes. Cell. 2022;185:2292-308.e20.
+[147] Jinn S, Drolet RE, Cramer PE, Wong AH-K, Toolan DM, Gretzula CA, et al. TMEM175 deficiency
+impairs lysosomal and mitochondrial function and increases α-synuclein aggregation. Proceedings of
+the National Academy of Sciences. 2017;114:2389-94.
+[148] Jinn S, Blauwendraat C, Toolan D, Gretzula CA, Drolet RE, Smith S, et al. Functionalization of the
+TMEM175 p.M393T variant as a risk factor for Parkinson disease. Human Molecular Genetics.
+2019;28:3244-54.
+[149] Qu L, Lin B, Zeng W, Fan C, Wu H, Ge Y, et al. Lysosomal K+ channel TMEM175 promotes apoptosis
+and aggravates symptoms of Parkinson's disease. EMBO reports. 2022;23:e53234.
+[150] Heybrock S, Kanerva K, Meng Y, Ing C, Liang A, Xiong ZJ, et al. Lysosomal integral membrane
+protein-2 (LIMP-2/SCARB2) is involved in lysosomal cholesterol export. Nat Commun. 2019;10:3521.
+[151] Leanne D, Michael S, Paul S, Guido R. SCARB2/LIMP2 deficiency in action myoclonus-renal failure
+syndrome. Epileptic Disorders. 2016;18:63-72.
+[152] Hopfner F, Schulte EC, Mollenhauer B, Bereznai B, Knauf F, Lichtner P, et al. The role of SCARB2
+as susceptibility factor in Parkinson's disease. Mov Disord. 2013;28:538-40.
+[153] Rothaug M, Zunke F, Mazzulli JR, Schweizer M, Altmeppen H, Lüllmann-Rauch R, et al. LIMP-2
+expression is critical for β-glucocerebrosidase activity and α-synuclein clearance. Proceedings of the
+National Academy of Sciences. 2014;111:15573-8.
+[154] Zunke F, Andresen L, Wesseler S, Groth J, Arnold P, Rothaug M, et al. Characterization of the
+complex formed by β-glucocerebrosidase and the lysosomal integral membrane protein type-2.
+Proceedings of the National Academy of Sciences. 2016;113:3791-6.
+48
+
+---PAGE BREAK---
+
+[155] Yamayoshi S, Iizuka S, Yamashita T, Minagawa H, Mizuta K, Okamoto M, et al. Human SCARB2-
+Dependent Infection by Coxsackievirus A7, A14, and A16 and Enterovirus 71. Journal of Virology.
+2012;86:5686-96.
+[156] Rutsch F, Gailus S, Miousse IR, Suormala T, Sagné C, Toliat MR, et al. Identification of a putative
+lysosomal cobalamin exporter altered in the cblF defect of vitamin B12 metabolism. Nature Genetics.
+2009;41:234-9.
+[157] Kawaguchi K, Okamoto T, Morita M, Imanaka T. Translocation of the ABC transporter ABCD4
+from the endoplasmic reticulum to lysosomes requires the escort protein LMBD1. Scientific Reports.
+2016;6:30183.
+[158] Chanarin I, Deacon R, Lumb M, Muir M, Perry J. Cobalamin-Folate Interrelations: A Critical
+Review. Blood. 1985;66:479-89.
+[159] Tseng LT-L, Lin C-L, Tzen K-Y, Chang SC, Chang M-F. LMBD1 Protein Serves as a Specific Adaptor
+for Insulin Receptor Internalization. Journal of Biological Chemistry. 2013;288:32424-32.
+[160] Greener T, Zhao X, Nojima H, Eisenberg E, Greene LE. Role of Cyclin G-associated Kinase in
+Uncoating Clathrin-coated Vesicles from Non-neuronal Cells *. Journal of Biological Chemistry.
+2000;275:1365-70.
+[161] Umeda A, Meyerholz A, Ungewickell E. Identification of the universal cofactor (auxilin 2) in
+clathrin coat dissociation. European Journal of Cell Biology. 2000;79:336-42.
+[162] Kametaka S, Moriyama K, Burgos PV, Eisenberg E, Greene LE, Mattera R, et al. Canonical
+Interaction of Cyclin G–associated Kinase with Adaptor Protein 1 Regulates Lysosomal Enzyme Sorting.
+Molecular Biology of the Cell. 2007;18:2991-3001.
+[163] Zhang S, Wang L, Yi S, Li S, Wang H, Song L, et al. Cyclin-G-associated kinase GAK/Aux orchestrates
+glial autophagy via Atg9 phosphorylation in Parkinson’s disease. bioRxiv. 2021:2021.08.16.456579.
+[164] Koss DJ, Campesan S, Giorgini F, Outeiro TF. Dysfunction of RAB39B-Mediated Vesicular
+Trafficking in Lewy Body Diseases. Movement Disorders. 2021;36:1744-58.
+[165] Wilson Gabrielle R, Sim Joe CH, McLean C, Giannandrea M, Galea Charles A, Riseley Jessica R, et
+al. Mutations in RAB39B Cause X-Linked Intellectual Disability and Early-Onset Parkinson Disease with
+α-Synuclein Pathology. The American Journal of Human Genetics. 2014;95:729-35.
+[166] Lesage S, Bras J, Cormier-Dequaire F, Condroyer C, Nicolas A, Darwent L, et al. Loss-of-function
+mutations in RAB39B are associated with typical early-onset Parkinson disease. Neurology Genetics.
+2015;1:e9.
+[167] Strovel ET, Cusmano-Ozog K, Wood T, Yu C, Committee ALQA. Measurement of lysosomal
+enzyme activities: A technical standard of the American College of Medical Genetics and Genomics
+(ACMG). Genetics in Medicine. 2022;24:769-83.
+[168] Beratis NG, Turner BM, Labadie G, Hirschhorn K. α-L-fucosidase in cultured skin fibroblasts from
+normal subjects and fucosidosis patients. Pediatric Research. 1977;11:862-6.
+[169] Barrett AJ, Heath MF. Lysosomes: a laboratory handbook. Dingle, JT Amsterdam: North-Holland.
+1977:19-145.
+[170] Christomanou H, Sandhoff K. A sensitive fluorescence assay for the simultaneous and separate
+determination of arylsulphatases A and B. Clinica Chimica Acta. 1977;79:527-31.
+[171] Potier M, Mameli L, Bélisle M, Dallaire L, Melançon SB. Fluorometric assay of neuraminidase with
+a sodium (4-methylumbelliferyl-α-d-N-acetylneuraminate) substrate. Analytical Biochemistry.
+1979;94:287-96.
+[172] Besley GTN, Moss SE. Studies on pyrophosphate diesterase activity in cultured human fibroblasts:
+a deficiency in Niemann-Pick disease. Clinica Chimica Acta. 1981;117:75-84.
+[173] Wiederschain G, Srinivasa R, Kolodny E. Characterization of 6-hexadecanoylamino-4-
+methylumbelliferyl-β-D-galactopyranoside as fluorogenic substrate of galactocerebrosidase for the
+diagnosis of Krabbe disease. Clinica chimica acta. 1992;205:87-96.
+[174] Voznyi YV, Keulemans JLM, van Diggelen OP. A fluorimetric enzyme assay for the diagnosis of
+MPS II (Hunter disease). Journal of Inherited Metabolic Disease. 2001;24:675-80.
+49
+
+---PAGE BREAK---
+
+[175] Andersson SV, Sjögren EC, Magnusson C, Gierow JP. Sequencing, expression, and enzymatic
+characterization of β-hexosaminidase in rabbit lacrimal gland and primary cultured acinar cells.
+Glycobiology. 2005;15:211-20.
+[176] Downing WL, Galpin JD, Clemens S, Lauzon SM, Samuels AL, Pidkowich MS, et al. Synthesis of
+enzymatically active human α-l-iduronidase in Arabidopsis cgl (complex glycan-deficient) seeds. Plant
+Biotechnology Journal. 2006;4:169-81.
+[177] Motabar O, Liu K, Southall N, Marugan JJ, Goldin E, Sidransky E, et al. High throughput screening
+for inhibitors of alpha-galactosidase. Current chemical genomics. 2010;4.
+[178] Herrera Moro Chao D, Kallemeijn WW, Marques ARA, Orre M, Ottenhoff R, van Roomen C, et al.
+Visualization of Active Glucocerebrosidase in Rodent Brain with High Spatial Resolution following In
+Situ Labeling with Fluorescent Activity Based Probes. PLOS ONE. 2015;10:e0138107.
+[179] Annunziata I, Patterson A, Helton D, Hu H, Moshiach S, Gomero E, et al. Lysosomal NEU1
+deficiency affects amyloid precursor protein levels and amyloid-β secretion via deregulated lysosomal
+exocytosis. Nature communications. 2013;4:1-12.
+[180] Kumar AB, Spacil Z, Ghomashchi F, Masi S, Sumida T, Ito M, et al. Fluorimetric assays for N-
+acetylgalactosamine-6-sulfatase and arylsulfatase B based on the natural substrates for confirmation
+of mucopolysaccharidoses types IVA and VI. Clinica Chimica Acta. 2015;451:125-8.
+[181] He X, Schuchman EH, Simonaro CM. A New Fluorescent Method to Detect Sulfamidase Activity
+in Blood, Tissue Extracts and Dried Blood Spots. Journal of Inborn Errors of Metabolism and Screening.
+2021;9.
+[182] Kumar AB, Masi S, Ghomashchi F, Chennamaneni NK, Ito M, Scott CR, et al. Tandem mass
+spectrometry has a larger analytical range than fluorescence assays of lysosomal enzymes: application
+to newborn screening and diagnosis of mucopolysaccharidoses types II, IVA, and VI. Clinical chemistry.
+2015;61:1363-71.
+[183] Ribas GS, De Mari JF, Civallero G, de Souza HM, Burin MG, Vargas CR, et al. Validation of a
+multiplex tandem mass spectrometry method for the detection of selected lysosomal storage diseases
+in dried blood spots. Journal of Inborn Errors of Metabolism and Screening.
+2017;5:2326409817692360.
+[184] Yu C, Sun Q, Zhou H. Enzymatic Screening and Diagnosis of Lysosomal Storage Diseases. N Am J
+Med Sci (Boston). 2013;6:186-93.
+[185] Drobny A, Prieto Huarcaya S, Dobert J, Kluge A, Bunk J, Schlothauer T, et al. The role of lysosomal
+cathepsins in neurodegeneration: Mechanistic insights, diagnostic potential and therapeutic
+approaches. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research. 2022;1869:119243.
+[186] Mazzulli JR, Zunke F, Isacson O, Studer L, Krainc D. α-Synuclein-induced lysosomal dysfunction
+occurs through disruptions in protein trafficking in human midbrain synucleinopathy models. Proc Natl
+Acad Sci U S A. 2016;113:1931-6.
+[187] Cuddy LK, Mazzulli JR. Analysis of lysosomal hydrolase trafficking and activity in human iPSC-
+derived neuronal models. STAR Protocols. 2021;2:100340.
+[188] Kulenkampff K, Wolf Perez A-M, Sormanni P, Habchi J, Vendruscolo M. Quantifying misfolded
+protein oligomers as drug targets and biomarkers in Alzheimer and Parkinson diseases. Nature Reviews
+Chemistry. 2021;5:277-94.
+[189] Bunk J, Prieto Huarcaya S, Drobny A, Dobert JP, Walther L, Rose-John S, et al. Cathepsin D Variants
+Associated With Neurodegenerative Diseases Show Dysregulated Functionality and Modified α-
+Synuclein Degradation Properties. Frontiers in Cell and Developmental Biology. 2021;9.
+[190] Abu-Remaileh M, Wyant GA, Kim C, Laqtom NN, Abbasi M, Chan SH, et al. Lysosomal
+metabolomics reveals V-ATPase- and mTOR-dependent regulation of amino acid efflux from
+lysosomes. Science. 2017;358:807-13.
+[191] Kalia LV, Lang AE. Parkinson's disease. The Lancet. 2015;386:896-912.
+[192] Balducci C, Pierguidi L, Persichetti E, Parnetti L, Sbaragli M, Tassi C, et al. Lysosomal hydrolases
+in cerebrospinal fluid from subjects with Parkinson's disease. Movement Disorders. 2007;22:1481-4.
+50
+
+---PAGE BREAK---
+
+[193] Lerche S, Schulte C, Wurster I, Machetanz G, Roeben B, Zimmermann M, et al. The Mutation
+Matters: CSF Profiles of GCase, Sphingolipids, α-Synuclein in PDGBA. Movement Disorders.
+2021;36:1216-28.
+[194] Parnetti L, Paciotti S, Eusebi P, Dardis A, Zampieri S, Chiasserini D, et al. Cerebrospinal fluid β-
+glucocerebrosidase activity is reduced in parkinson's disease patients. Movement Disorders.
+2017;32:1423-31.
+[195] Virreira Winter S, Karayel O, Strauss MT, Padmanabhan S, Surface M, Merchant K, et al. Urinary
+proteome profiling for stratifying patients with familial Parkinson's disease. EMBO Mol Med.
+2021;13:e13257.
+[196] Alcalay RN, Levy OA, Waters CH, Fahn S, Ford B, Kuo S-H, et al. Glucocerebrosidase activity in
+Parkinson’s disease with and without GBA mutations. Brain. 2015;138:2648-58.
+[197] van Niel G, D'Angelo G, Raposo G. Shedding light on the cell biology of extracellular vesicles.
+Nature Reviews Molecular Cell Biology. 2018;19:213-28.
+[198] Fiandaca MS, Kapogiannis D, Mapstone M, Boxer A, Eitan E, Schwartz JB, et al. Identification of
+preclinical Alzheimer's disease by a profile of pathogenic proteins in neurally derived blood exosomes:
+A case-control study. Alzheimer's & Dementia. 2015;11:600-7.e1.
+[199] Kluge A, Bunk J, Schaeffer E, Drobny A, Xiang W, Knacke H, et al. Detection of neuron-derived
+pathological α-synuclein in blood. Brain. 2022.
+[200] Ungerstedt U, Ljungberg T, Steg G. Behavioral, physiological, and neurochemical changes after
+6-hydroxydopamine-induced degeneration of the nigro-striatal dopamine neurons. Adv Neurol.
+1974;5:421-6.
+[201] Thiruchelvam MJ, Powers JM, Cory-Slechta DA, Richfield EK. Risk factors for dopaminergic neuron
+loss in human α-synuclein transgenic mice. European Journal of Neuroscience. 2004;19:845-54.
+[202] Langston JW, Ballard P, Tetrud JW, Irwin I. Chronic Parkinsonism in Humans Due to a Product of
+Meperidine-Analog Synthesis. Science. 1983;219:979-80.
+[203] Klein RL, King MA, Hamby ME, Meyer EM. Dopaminergic Cell Loss Induced by Human A30P α-
+Synuclein Gene Transfer to the Rat Substantia Nigra. Human Gene Therapy. 2002;13:605-12.
+[204] Kirik D, Rosenblad C, Burger C, Lundberg C, Johansen TE, Muzyczka N, et al. Parkinson-Like
+Neurodegeneration Induced by Targeted Overexpression of α-Synuclein in the Nigrostriatal System.
+The Journal of Neuroscience. 2002;22:2780.
+[205] Lo Bianco C, Ridet JL, Schneider BL, Déglon N, Aebischer P. α-Synucleinopathy and selective
+dopaminergic neuron loss in a rat lentiviral-based model of Parkinson's disease. Proceedings of the
+National Academy of Sciences. 2002;99:10813-8.
+[206] Antony PMA, Diederich NJ, Balling R. Parkinson’s disease mouse models in translational research.
+Mammalian Genome. 2011;22:401-19.
+[207] Li Y, Liu W, Oo TF, Wang L, Tang Y, Jackson-Lewis V, et al. Mutant LRRK2R1441G BAC transgenic
+mice recapitulate cardinal features of Parkinson's disease. Nature Neuroscience. 2009;12:826-8.
+[208] Li X, Patel JC, Wang J, Avshalumov MV, Nicholson C, Buxbaum JD, et al. Enhanced Striatal
+Dopamine Transmission and Motor Performance with LRRK2 Overexpression in Mice Is Eliminated by
+Familial Parkinson's Disease Mutation G2019S. The Journal of Neuroscience. 2010;30:1788.
+[209] Melrose HL, Dächsel JC, Behrouz B, Lincoln SJ, Yue M, Hinkle KM, et al. Impaired dopaminergic
+neurotransmission and microtubule-associated protein tau alterations in human LRRK2 transgenic
+mice. Neurobiology of Disease. 2010;40:503-17.
+[210] Winner B, Melrose HL, Zhao C, Hinkle KM, Yue M, Kent C, et al. Adult neurogenesis and neurite
+outgrowth are impaired in LRRK2 G2019S mice. Neurobiology of Disease. 2011;41:706-16.
+[211] Xu YH, Sun Y, Ran H, Quinn B, Witte D, Grabowski GA. Accumulation and distribution of α-
+synuclein and ubiquitin in the CNS of Gaucher disease mouse models. Mol Genet Metab.
+2011;102:436-47.
+[212] Mistry PK, Liu J, Yang M, Nottoli T, McGrath J, Jain D, et al. Glucocerebrosidase gene-deficient
+mouse recapitulates Gaucher disease displaying cellular and molecular dysregulation beyond the
+macrophage. Proceedings of the National Academy of Sciences. 2010;107:19473-8.
+51
+
+---PAGE BREAK---
+
+[213] Burbulla LF, Song P, Mazzulli JR, Zampese E, Wong YC, Jeon S, et al. Dopamine oxidation mediates
+mitochondrial and lysosomal dysfunction in Parkinson's disease. Science. 2017;357:1255-61.
+[214] Chen L, Xie Z, Turkson S, Zhuang X. A53T human α-synuclein overexpression in transgenic mice
+induces pervasive mitochondria macroautophagy defects preceding dopamine neuron degeneration.
+J Neurosci. 2015;35:890-905.
+[215] Gispert S, Del Turco D, Garrett L, Chen A, Bernard DJ, Hamm-Clement J, et al. Transgenic mice
+expressing mutant A53T human alpha-synuclein show neuronal dysfunction in the absence of
+aggregate formation. Mol Cell Neurosci. 2003;24:419-29.
+[216] Fares M-B, Maco B, Oueslati A, Rockenstein E, Ninkina N, Buchman VL, et al. Induction of de novo
+α-synuclein fibrillization in a neuronal model for Parkinson’s disease. Proceedings of the National
+Academy of Sciences. 2016;113:E912-E21.
+[217] Taylor TN, Greene JG, Miller GW. Behavioral phenotyping of mouse models of Parkinson's
+disease. Behav Brain Res. 2010;211:1-10.
+[218] Chesselet MF, Richter F. Modelling of Parkinson's disease in mice. Lancet Neurol. 2011;10:1108-
+18.
+[219] Dawson TM, Ko HS, Dawson VL. Genetic Animal Models of Parkinson's Disease. Neuron.
+2010;66:646-61.
+[220] Kriks S, Shim J-W, Piao J, Ganat YM, Wakeman DR, Xie Z, et al. Dopamine neurons derived from
+human ES cells efficiently engraft in animal models of Parkinson’s disease. Nature. 2011;480:547-51.
+[221] Byers B, Cord B, Nguyen HN, Schüle B, Fenno L, Lee PC, et al. SNCA triplication Parkinson's
+patient's iPSC-derived DA neurons accumulate α-synuclein and are susceptible to oxidative stress. PLoS
+One. 2011;6:e26159.
+[222] Schöndorf DC, Aureli M, McAllister FE, Hindley CJ, Mayer F, Schmid B, et al. iPSC-derived neurons
+from GBA1-associated Parkinson’s disease patients show autophagic defects and impaired calcium
+homeostasis. Nature Communications. 2014;5:4028.
+[223] Nguyen HN, Byers B, Cord B, Shcheglovitov A, Byrne J, Gujar P, et al. LRRK2 mutant iPSC-derived
+DA neurons demonstrate increased susceptibility to oxidative stress. Cell stem cell. 2011;8:267-80.
+[224] Brazdis R-M, Alecu JE, Marsch D, Dahms A, Simmnacher K, Lörentz S, et al. Demonstration of
+brain region-specific neuronal vulnerability in human iPSC-based model of familial Parkinson’s disease.
+Human Molecular Genetics. 2020;29:1180-91.
+[225] Krauskopf J, Eggermont K, Madeiro Da Costa RF, Bohler S, Hauser D, Caiment F, et al.
+Transcriptomics analysis of human iPSC-derived dopaminergic neurons reveals a novel model for
+sporadic Parkinson’s disease. Molecular Psychiatry. 2022.
+[226] Alekseenko Z, Dias JM, Adler AF, Kozhevnikova M, van Lunteren JA, Nolbrant S, et al. Robust
+derivation of transplantable dopamine neurons from human pluripotent stem cells by timed retinoic
+acid delivery. Nature Communications. 2022;13:3046.
+[227] Krach F, Bogiongko M-E, Winner B. Decoding Parkinson's disease – iPSC-derived models in the
+OMICs era. Molecular and Cellular Neuroscience. 2020;106:103501.
+[228] Laperle AH, Sances S, Yucer N, Dardov VJ, Garcia VJ, Ho R, et al. iPSC modeling of young-onset
+Parkinson’s disease reveals a molecular signature of disease and novel therapeutic candidates. Nature
+Medicine. 2020;26:289-99.
+[229] Kouroupi G, Taoufik E, Vlachos IS, Tsioras K, Antoniou N, Papastefanaki F, et al. Defective synaptic
+connectivity and axonal neuropathology in a human iPSC-based model of familial Parkinson’s disease.
+Proceedings of the National Academy of Sciences. 2017;114:E3679-E88.
+[230] Torrent R, De Angelis Rigotti F, Dell’Era P, Memo M, Raya A, Consiglio A. Using iPS cells toward
+the understanding of Parkinson’s disease. Journal of clinical medicine. 2015;4:548-66.
+[231] Hartfield EM, Yamasaki-Mann M, Ribeiro Fernandes HJ, Vowles J, James WS, Cowley SA, et al.
+Physiological Characterisation of Human iPS-Derived Dopaminergic Neurons. PLOS ONE.
+2014;9:e87388.
+[232] Sasai Y. Next-generation regenerative medicine: organogenesis from stem cells in 3D culture. Cell
+Stem Cell. 2013;12:520-30.
+52
+
+---PAGE BREAK---
+
+[233] Krencik R, Ullian E. A cellular star atlas: using astrocytes from human pluripotent stem cells for
+disease studies. Frontiers in Cellular Neuroscience. 2013;7.
+[234] Nedergaard M, Ransom B, Goldman SA. New roles for astrocytes: Redefining the functional
+architecture of the brain. Trends in Neurosciences. 2003;26:523-30.
+[235] Ricci G, Volpi L, Pasquali L, Petrozzi L, Siciliano G. Astrocyte–neuron interactions in neurological
+disorders. Journal of Biological Physics. 2009;35:317-36.
+[236] Zunke F, Mazzulli JR. Modeling neuronopathic storage diseases with patient-derived culture
+systems. Neurobiology of Disease. 2019;127:147-62.
+[237] Drobny A, Ngo PA, Neurath MF, Zunke F, López-Posadas R. Molecular Communication Between
+Neuronal Networks and Intestinal Epithelial Cells in Gut Inflammation and Parkinson's Disease.
+Frontiers in Medicine. 2021;8.
+[238] Beck M. Treatment strategies for lysosomal storage disorders. Developmental Medicine & Child
+Neurology. 2018;60:13-8.
+[239] Edelmann MJ, Maegawa GHB. CNS-targeting therapies for lysosomal storage diseases: current
+advances and challenges. Frontiers in molecular biosciences. 2020;7:559804.
+[240] Beutler E, Kay A, Saven A, Garver P, Thurston D, Dawson A, et al. Enzyme replacement therapy
+for Gaucher disease. Blood. 1991;78:1183-9.
+[241] Ficicioglu C. Review of miglustat for clinical management in Gaucher disease type 1. Therapeutics
+and clinical risk management. 2008;4:425.
+[242] Li M. Enzyme Replacement Therapy: A Review and Its Role in Treating Lysosomal Storage
+Diseases. Pediatric Annals. 2018;47:e191-e7.
+[243] Bonam SR, Wang F, Muller S. Lysosomes as a therapeutic target. Nature Reviews Drug Discovery.
+2019;18:923-48.
+[244] Sugiman-Marangos SN, Beilhartz GL, Zhao X, Zhou D, Hua R, Kim PK, et al. Exploiting the
+diphtheria toxin internalization receptor enhances delivery of proteins to lysosomes for enzyme
+replacement therapy. Science advances. 2020;6:eabb0385.
+[245] Schulz A, Ajayi T, Specchio N, de Los Reyes E, Gissen P, Ballon D, et al. Study of intraventricular
+cerliponase alfa for CLN2 disease. New England Journal of Medicine. 2018;378:1898-907.
+[246] Massaro G, Geard AF, Liu W, Coombe-Tennant O, Waddington SN, Baruteau J, et al. Gene Therapy
+for Lysosomal Storage Disorders: Ongoing Studies and Clinical Development. Biomolecules2021.
+[247] Rocha EM, Smith GA, Park E, Cao H, Brown E, Hayes MA, et al. Glucocerebrosidase gene therapy
+prevents α-synucleinopathy of midbrain dopamine neurons. Neurobiology of Disease. 2015;82:495-
+503.
+[248] Morabito G, Giannelli SG, Ordazzo G, Bido S, Castoldi V, Indrigo M, et al. AAV-PHP.B-Mediated
+Global-Scale Expression in the Mouse Nervous System Enables GBA1 Gene Therapy for Wide
+Protection from Synucleinopathy. Molecular Therapy. 2017;25:2727-42.
+[249] Leal AF, Espejo-Mojica AJ, Sánchez OF, Ramírez CM, Reyes LH, Cruz JC, et al. Lysosomal storage
+diseases: current therapies and future alternatives. Journal of Molecular Medicine. 2020;98:931-46.
+[250] Parenti G, Andria G, Valenzano KJ. Pharmacological chaperone therapy: preclinical development,
+clinical translation, and prospects for the treatment of lysosomal storage disorders. Molecular
+Therapy. 2015;23:1138-48.
+[251] Valenzano KJ, Khanna R, Powe Jr AC, Boyd R, Lee G, Flanagan JJ, et al. Identification and
+characterization of pharmacological chaperones to correct enzyme deficiencies in lysosomal storage
+disorders. Assay and drug development technologies. 2011;9:213-35.
+[252] Benjamin ER, Della Valle MC, Wu X, Katz E, Pruthi F, Bond S, et al. The validation of
+pharmacogenetics for the identification of Fabry patients to be treated with migalastat. Genetics in
+Medicine. 2017;19:430-8.
+[253] Porto C, Ferrara MC, Meli M, Acampora E, Avolio V, Rosa M, et al. Pharmacological enhancement
+of α-glucosidase by the allosteric chaperone N-acetylcysteine. Molecular Therapy. 2012;20:2201-11.
+[254] Mazzulli JR, Zunke F, Tsunemi T, Toker NJ, Jeon S, Burbulla LF, et al. Activation of β-
+glucocerebrosidase reduces pathological α-synuclein and restores lysosomal function in Parkinson's
+patient midbrain neurons. Journal of Neuroscience. 2016;36:7693-706.
+53
+
+---PAGE BREAK---
+
+[255] Aflaki E, Borger DK, Moaven N, Stubblefield BK, Rogers SA, Patnaik S, et al. A new
+glucocerebrosidase chaperone reduces α-synuclein and glycolipid levels in iPSC-derived dopaminergic
+neurons from patients with Gaucher disease and parkinsonism. Journal of Neuroscience.
+2016;36:7441-52.
+[256] Burbulla LF, Jeon S, Zheng J, Song P, Silverman RB, Krainc D. A modulator of wild-type
+glucocerebrosidase improves pathogenic phenotypes in dopaminergic neuronal models of Parkinson’s
+disease. Science translational medicine. 2019;11:eaau6870.
+[257] Ambrosi G, Ghezzi C, Zangaglia R, Levandis G, Pacchetti C, Blandini F. Ambroxol-induced rescue
+of defective glucocerebrosidase is associated with increased LIMP-2 and saposin C levels in GBA1
+mutant Parkinson's disease cells. Neurobiology of disease. 2015;82:235-42.
+[258] Maegawa GHB, Tropak MB, Buttner JD, Rigat BA, Fuller M, Pandit D, et al. Identification and
+characterization of ambroxol as an enzyme enhancement agent for Gaucher disease. Journal of
+Biological Chemistry. 2009;284:23502-16.
+[259] Sanchez-Martinez A, Beavan M, Gegg ME, Chau K-Y, Whitworth AJ, Schapira AHV. Parkinson
+disease-linked GBA mutation effects reversed by molecular chaperones in human cell and fly models.
+Scientific reports. 2016;6:1-12.
+[260] Magalhaes J, Gegg ME, Migdalska-Richards A, Schapira AH. Effects of ambroxol on the
+autophagy-lysosome pathway and mitochondria in primary cortical neurons. Scientific reports.
+2018;8:1-12.
+[261] Migdalska-Richards A, Daly L, Bezard E, Schapira AHV. Ambroxol effects in glucocerebrosidase
+and α-synuclein transgenic mice. Annals of neurology. 2016;80:766-75.
+[262] Kopytova AE, Rychkov GN, Nikolaev MA, Baydakova GV, Cheblokov AA, Senkevich KA, et al.
+Ambroxol increases glucocerebrosidase (GCase) activity and restores GCase translocation in primary
+patient-derived macrophages in Gaucher disease and Parkinsonism. Parkinsonism & Related Disorders.
+2021;84:112-21.
+[263] Gegg ME, Menozzi E, Schapira AHV. Glucocerebrosidase-associated Parkinson disease:
+Pathogenic mechanisms and potential drug treatments. Neurobiology of Disease. 2022;166:105663.
+[264] Mullin S, Smith L, Lee K, D’Souza G, Woodgate P, Elflein J, et al. Ambroxol for the treatment of
+patients with Parkinson disease with and without glucocerebrosidase gene mutations: a
+nonrandomized, noncontrolled trial. JAMA neurology. 2020;77:427-34.
+[265] Coutinho MF, Santos JI, Alves S. Less is more: substrate reduction therapy for lysosomal storage
+disorders. International journal of molecular sciences. 2016;17:1065.
+[266] Belmatoug N, Di Rocco M, Fraga C, Giraldo P, Hughes D, Lukina E, et al. Management and
+monitoring recommendations for the use of eliglustat in adults with type 1 Gaucher disease in Europe.
+European Journal of Internal Medicine. 2017;37:25-32.
+[267] Platt FM. Emptying the stores: lysosomal diseases and therapeutic strategies. Nature Reviews
+Drug Discovery. 2018;17:133-50.
+[268] Treiber A, Morand O, Clozel M. The pharmacokinetics and tissue distribution of the
+glucosylceramide synthase inhibitor miglustat in the rat. Xenobiotica. 2007;37:298-314.
+[269] Schiffmann R, Fitz Gibbon EJ, Harris C, DeVile C, Davies EH, Abel L, et al. Randomized, controlled
+trial of miglustat in Gaucher's disease type 3. Annals of Neurology: Official Journal of the American
+Neurological Association and the Child Neurology Society. 2008;64:514-22.
+[270] Zunke F, Moise AC, Belur NR, Gelyana E, Stojkovska I, Dzaferbegovic H, et al. Reversible
+Conformational Conversion of α-Synuclein into Toxic Assemblies by Glucosylceramide. Neuron.
+2018;97:92-107.e10.
+[271] Sardi SP, Viel C, Clarke J, Treleaven CM, Richards AM, Park H, et al. Glucosylceramide synthase
+inhibition alleviates aberrations in synucleinopathy models. Proceedings of the National Academy of
+Sciences. 2017;114:2699-704.
+[272] Vidoni C, Follo C, Savino M, Melone MAB, Isidoro C. The role of cathepsin D in the pathogenesis
+of human neurodegenerative disorders. Medicinal research reviews. 2016;36:845-70.
+54
+
+---PAGE BREAK---
+
+[273] Cuddy LK, Wani WY, Morella ML, Pitcairn C, Tsutsumi K, Fredriksen K, et al. Stress-induced cellular
+clearance is mediated by the SNARE protein ykt6 and disrupted by α-Synuclein. Neuron. 2019;104:869-
+84.
+[274] Torra A, Parent A, Cuadros T, Rodríguez-Galván B, Ruiz-Bronchal E, Ballabio A, et al.
+Overexpression of TFEB Drives a Pleiotropic Neurotrophic Effect and Prevents Parkinson's Disease-
+Related Neurodegeneration. Molecular Therapy. 2018;26:1552-67.
+[275] Kilpatrick K, Zeng Y, Hancock T, Segatori L. Genetic and Chemical Activation of TFEB Mediates
+Clearance of Aggregated α-Synuclein. PLOS ONE. 2015;10:e0120819.
+[276] Klein AD, Mazzulli JR. Is Parkinson’s disease a lysosomal disorder? Brain. 2018;141:2255-62.
+[277] Lloyd KG. CNS Compensation to Dopamine Neuron Loss in Parkinson’s Disease. In: Messiha FS,
+Kenny AD, editors. Parkinson’s Disease: Neurophysiological, Clinical, and Related Aspects. New York,
+NY: Springer US; 1977. p. 255-66.
+[278] Filocamo M, Morrone A. Lysosomal storage disorders: Molecular basis and laboratory testing.
+Human Genomics. 2011;5:156.
+[279] Udayar V, Chen Y, Sidransky E, Jagasia R. Lysosomal dysfunction in neurodegeneration: emerging
+concepts and methods. Trends in Neurosciences. 2022;45:184-99.
+[280] Breydo L, Wu JW, Uversky VN. α-Synuclein misfolding and Parkinson's disease. Biochimica et
+Biophysica Acta (BBA) - Molecular Basis of Disease. 2012;1822:261-85.
+[281] Ramirez A, Heimbach A, Gründemann J, Stiller B, Hampshire D, Cid LP, et al. Hereditary
+parkinsonism with dementia is caused by mutations in ATP13A2, encoding a lysosomal type 5 P-type
+ATPase. Nature genetics. 2006;38:1184-91.
+[282] Stoka V, Turk V, Turk B. Lysosomal cathepsins and their regulation in aging and
+neurodegeneration. Ageing Research Reviews. 2016;32:22-37.
+[283] Davidson Y, Gibbons L, Pritchard A, Hardicre J, Wren J, Tian J, et al. Genetic associations between
+cathepsin D exon 2 C→ T polymorphism and Alzheimer’s disease, and pathological correlations with
+genotype. Journal of Neurology, Neurosurgery & Psychiatry. 2006;77:515-7.
+[284] Li L, Wang X, Fei X, Xia L, Qin Z, Liang Z. Parkinson's disease involves autophagy and abnormal
+distribution of cathepsin L. Neuroscience Letters. 2011;489:62-7.
+[285] Zhang Z, Xie M, Ye K. Asparagine endopeptidase is an innovative therapeutic target for
+neurodegenerative diseases. Expert Opin Ther Targets. 2016;20:1237-45.
+[286] Zhang Z, Song M, Liu X, Kang SS, Kwon I-S, Duong DM, et al. Cleavage of tau by asparagine
+endopeptidase mediates the neurofibrillary pathology in Alzheimer's disease. Nature medicine.
+2014;20:1254-62.
+[287] Poeppel P, Habetha M, Marcão A, Büssow H, Berna L, Gieselmann V. Missense mutations as a
+cause of metachromatic leukodystrophy. The FEBS Journal. 2005;272:1179-88.
+[288] Garrido E, Cormand B, Hopwood JJ, Chabás A, Grinberg D, Vilageliu L. Maroteaux–Lamy
+syndrome: Functional characterization of pathogenic mutations and polymorphisms in the
+arylsulfatase B gene. Molecular Genetics and Metabolism. 2008;94:305-12.
+[289] Fluharty AL, Meek WE, Kihara H. Pseudo arylsulfatase a deficiency: Evidence for a structurally
+altered enzyme. Biochemical and Biophysical Research Communications. 1983;112:191-7.
+[290] Park J-H, Schuchman EH. Acid ceramidase and human disease. Biochimica et Biophysica Acta
+(BBA) - Biomembranes. 2006;1758:2133-8.
+[291] Willems PJ, Seo H-C, Coucke P, Tonlorenzi R, O'Brien JS. Spectrum of mutations in fucosidosis.
+European Journal of Human Genetics. 1999;7:60-7.
+[292] Endreffy I, Bjørklund G, Szerafin L, Chirumbolo S, Urbina MA, Endreffy E. Plasma alpha-L-
+fucosidase activity in chronic inflammation and autoimmune disorders in a pediatric cohort of
+hospitalized patients. Immunologic Research. 2017;65:1025-30.
+[293] Suzuki K. Globoid Cell Leukodystrophy (Krabbe's Disease): Update. Journal of Child Neurology.
+2003;18:595-603.
+[294] Tohru Y, Shintaro O, Tomochika K, Koji I, Hyakuji Y. Galactose 6-sulfate sulfatase activity in
+Morquio syndrome. Clinica Chimica Acta. 1982;122:169-80.
+55
+
+---PAGE BREAK---
+
+[295] Blauwendraat C, Reed X, Krohn L, Heilbron K, Bandres-Ciga S, Tan M, et al. Genetic modifiers of
+risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia. Brain.
+2020;143:234-48.
+[296] Sidransky E. Gaucher disease: insights from a rare Mendelian disorder. Discov Med. 2012;14:273-
+81.
+[297] Sweeley CC, Klionsky B. Fabry's Disease: Classification as a Sphingolipidosis and Partial
+Characterization of a Novel Glycolipid. Journal of Biological Chemistry. 1963;238:PC3148-PC50.
+[298] De Brabander I, Yperzeele L, Ceuterick-De Groote C, Brouns R, Baker R, Belachew S, et al.
+Phenotypical characterization of α-galactosidase A gene mutations identified in a large Fabry disease
+screening program in stroke in the young. Clinical Neurology and Neurosurgery. 2013;115:1088-93.
+[299] Mok A, Cao H, Hegele RA. Genomic basis of mucopolysaccharidosis type IIID (MIM 252940)
+revealed by sequencing of GNS encoding N-acetylglucosamine-6-sulfatase. Genomics. 2003;81:1-5.
+[300] Tomatsu S, Montaño AM, Dung VC, Grubb JH, Sly WS. Mutations and polymorphisms in GUSB
+gene in mucopolysaccharidosis VII (Sly Syndrome). Human Mutation. 2009;30:511-9.
+[301] Lemieux MJ, Mark BL, Cherney MM, Withers SG, Mahuran DJ, James MNG. Crystallographic
+Structure of Human β-Hexosaminidase A: Interpretation of Tay-Sachs Mutations and Loss of GM2
+Ganglioside Hydrolysis. Journal of Molecular Biology. 2006;359:913-29.
+[302] Gomez-Lira M, Sangalli A, Mottes M, Perusi C, Pignatti PF, Rizzuto N, et al. A common β
+hexosaminidase gene mutation in adult Sandhoff disease patients. Human Genetics. 1995;96:417-22.
+[303] Bunge S, Steglich C, Beck M, Rosenkranz W, Schwinger E, Hopwood JJ, et al. Mutation analysis of
+the iduronate-2-sulfatase gene in patients with mucopolysaccharidosis type II (Hunter syndrome).
+Human Molecular Genetics. 1992;1:335-9.
+[304] Wraith JE, Scarpa M, Beck M, Bodamer OA, De Meirleir L, Guffon N, et al. Mucopolysaccharidosis
+type II (Hunter syndrome): a clinical review and recommendations for treatment in the era of enzyme
+replacement therapy. European Journal of Pediatrics. 2008;167:267-77.
+[305] Scott HS, Litjens T, Nelson PV, Thompson PR, Brooks DA, Hopwood JJ, et al. Identification of
+mutations in the alpha-L-iduronidase gene (IDUA) that cause Hurler and Scheie syndromes. Am J Hum
+Genet. 1993;53:973-86.
+[306] Desnick RJ, Wang AM. Schindler Disease: an Inherited Neuroaxonal Dystrophy due to α-N-
+Acetylgalactosaminidase Deficiency. In: Harkness RA, Pollitt RJ, Addison GM, editors. Carbohydrate and
+Glycoprotein Metabolism; Maternal Phenylketonuria. Dordrecht: Springer Netherlands; 1990. p. 549-
+59.
+[307] Sakuraba H, Matsuzawa F, Aikawa S-i, Doi H, Kotani M, Nakada H, et al. Structural and
+immunocytochemical studies on α-N-acetylgalactosaminidase deficiency (Schindler/Kanzaki disease).
+Journal of Human Genetics. 2004;49:1-8.
+[308] Kamp JJPVD, Niermeijer MF, Figura KV, Giesberts MAH. Genetic heterogeneity and clinical
+variability in the Sanfilippo syndrome (types A, B, and C). Clinical Genetics. 1981;20:152-60.
+[309] Winder-Rhodes SE, Garcia-Reitböck P, Ban M, Evans JR, Jacques TS, Kemppinen A, et al. Genetic
+and pathological links between Parkinson's disease and the lysosomal disorder Sanfilippo syndrome.
+Movement Disorders. 2012;27:312-5.
+[310] Cantz M, Gehler J, Spranger J. Mucolipidosis I: Increased sialic acid content and deficiency of an
+α-N-acetylneuraminidase in cultured fibroblasts. Biochemical and Biophysical Research
+Communications. 1977;74:732-8.
+[311] Schuchman EH. The pathogenesis and treatment of acid sphingomyelinase-deficient Niemann–
+Pick disease. Journal of Inherited Metabolic Disease. 2007;30:654.
+[312] Mangieri LR, Mader BJ, Thomas CE, Taylor CA, Luker AM, Tse TE, et al. ATP6V0C Knockdown in
+Neuroblastoma Cells Alters Autophagy-Lysosome Pathway Function and Metabolism of Proteins that
+Accumulate in Neurodegenerative Disease. PLOS ONE. 2014;9:e93257.
+[313] Ramonet D, Podhajska A, Stafa K, Sonnay S, Trancikova A, Tsika E, et al. PARK9-associated
+ATP13A2 localizes to intracellular acidic vesicles and regulates cation homeostasis and neuronal
+integrity. Human Molecular Genetics. 2012;21:1725-43.
+56
+
+---PAGE BREAK---
+
+[314] Kämäläinen A, Viswanathan J, Natunen T, Helisalmi S, Kauppinen T, Pikkarainen M, et al. GRN
+variant rs5848 reduces plasma and brain levels of granulin in Alzheimer's disease patients. Journal of
+Alzheimer's Disease. 2013;33:23-7.
+[315] Mackenzie IRA, Baker M, Pickering-Brown S, Hsiung G-YR, Lindholm C, Dwosh E, et al. The
+neuropathology of frontotemporal lobar degeneration caused by mutations in the progranulin gene.
+Brain. 2006;129:3081-90.
+[316] Paushter DH, Du H, Feng T, Hu F. The lysosomal function of progranulin, a guardian against
+neurodegeneration. Acta Neuropathologica. 2018;136:1-17.
+[317] Snowden JS, Pickering-Brown SM, Mackenzie IR, Richardson AMT, Varma A, Neary D, et al.
+Progranulin gene mutations associated with frontotemporal dementia and progressive non-fluent
+aphasia. Brain. 2006;129:3091-102.
+[318] Evans P-RCJS. EW Gilks WP Simon J. van der Brug M. Lopez de Munain A. Aparicio S. Gil AM Khan
+N. Cloning of the gene containing mutations that cause PARK8-linked Parkinson's disease. Neuron.
+2004;44:595-600.
+[319] Schapira AHV. The Importance of LRRK2 Mutations in Parkinson Disease. Archives of Neurology.
+2006;63:1225-8.
+[320] Lu YW, Tan E-K. Molecular biology changes associated with LRRK2 mutations in Parkinson's
+disease. Journal of Neuroscience Research. 2008;86:1895-901.
+[321] Wallings R, Connor-Robson N, Wade-Martins R. LRRK2 interacts with the vacuolar-type H+-
+ATPase pump a1 subunit to regulate lysosomal function. Human Molecular Genetics. 2019;28:2696-
+710.
+[322] Bassi MT, Manzoni M, Monti E, Pizzo MT, Ballabio A, Borsani G. Cloning of the gene encoding a
+novel integral membrane protein, mucolipidin—and identification of the two major founder mutations
+causing mucolipidosis type IV. The American Journal of Human Genetics. 2000;67:1110-20.
+[323] Pollmanns MR, Dinter E, Schulz JB, Falkenburger B. Activated endolysosomal cation channel
+TRPML1 reduces α-synuclein load in a cellular model for Parkinson's Disease. Parkinsonism & Related
+Disorders. 2020;79:e3.
+[324] Brady RO, Kanfer JN, Mock MB, Fredrickson DS. The metabolism of sphingomyelin. II. Evidence
+of an enzymatic deficiency in Niemann-Pick diseae. Proceedings of the National Academy of Sciences.
+1966;55:366-9.
+[325] Kluenemann HH, Nutt JG, Davis MY, Bird TD. Parkinsonism syndrome in heterozygotes for
+Niemann–Pick C1. Journal of the Neurological Sciences. 2013;335:219-20.
+[326] Zech M, Nübling G, Castrop F, Jochim A, Schulte EC, Mollenhauer B, et al. Niemann-Pick C Disease
+Gene Mutations and Age-Related Neurodegenerative Disorders. PLOS ONE. 2014;8:e82879.
+[327] Verheijen FW, Verbeek E, Aula N, Beerens CEMT, Havelaar AC, Joosse M, et al. A new gene,
+encoding an anion transporter, is mutated in sialic acid storage diseases. Nature Genetics.
+1999;23:462-5.
+[328] Strehle EM. Sialic Acid Storage Disease and Related Disorders. Genetic Testing. 2003;7:113-21.
+[329] Cortes CJ, La Spada AR. TFEB dysregulation as a driver of autophagy dysfunction in
+neurodegenerative disease: Molecular mechanisms, cellular processes, and emerging therapeutic
+opportunities. Neurobiology of Disease. 2019;122:83-93.
+[330] Sardiello M, Palmieri M, di Ronza A, Medina DL, Valenza M, Gennarino VA, et al. A Gene Network
+Regulating Lysosomal Biogenesis and Function. Science. 2009;325:473-7.
+[331] Settembre C, Di Malta C, Polito VA, Arencibia MG, Vetrini F, Erdin S, et al. TFEB Links Autophagy
+to Lysosomal Biogenesis. Science. 2011;332:1429-33.
+[332] Fan X, Zhang H, Zhang S, Bagshaw RD, Tropak MB, Callahan JW, et al. Identification of the Gene
+Encoding the Enzyme Deficient in Mucopolysaccharidosis IIIC (Sanfilippo Disease Type C). The
+American Journal of Human Genetics. 2006;79:738-44.
+[333] Dumitriu A, Pacheco CD, Wilk JB, Strathearn KE, Latourelle JC, Goldwurm S, et al. Cyclin-G-
+associated kinase modifies α-synuclein expression levels and toxicity in Parkinson's disease: results
+from the GenePD Study. Human Molecular Genetics. 2011;20:1478-87.
+57
+
+---PAGE BREAK---
+
+[334] Coutinho MF, Prata MJ, Alves S. Mannose-6-phosphate pathway: A review on its role in lysosomal
+function and dysfunction. Molecular Genetics and Metabolism. 2012;105:542-50.
+[335] Seabra MC, Mules EH, Hume AN. Rab GTPases, intracellular traffic and disease. Trends in
+Molecular Medicine. 2002;8:23-30.
+[336] Berkovic SF, Dibbens LM, Oshlack A, Silver JD, Katerelos M, Vears DF, et al. Array-based gene
+discovery with three unrelated subjects shows SCARB2/LIMP-2 deficiency causes myoclonus epilepsy
+and glomerulosclerosis. Am J Hum Genet. 2008;82:673-84.
+58
+
+---PAGE BREAK---
+
+59
+
+---PAGE BREAK---
+
+From lysosomal storage disorders to Parkinson’s Disease –
+Challenges and opportunities
+Rebecca Mächtel1, Fanni Annamaria Boros1, Jan Philipp Dobert1, Philipp Arnold2 and
+Friederike Zunke1
+1Department of Molecular Neurology, University Clinics Erlangen, Erlangen, Germany
+2Institute of Functional and Clinical Anatomy, Friedrich-Alexander-University Erlangen-
+Nürnberg (FAU), Erlangen, Germany
+Research Highlights:
+ Insufficient lysosomal turnover leads to accumulation of substrates and associated
+lysosomal storage disorders (LSDs)
+ Lysosomal (dys)functions correlates to Parkinson’s disease (PD)
+ LSDs and PD share common cellular pathomechanisms
+ Methodical challenges in the determination of lysosomal enzyme function
+ Potential of targeting lysosomal pathways for diagnosis and treatment of LSDs and PD
+60
+
+---PAGE BREAK---
+
+Declaration of interests
+☒ The authors declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this paper.
+☐The authors declare the following financial interests/personal relationships which may be
+considered as potential competing interests:
+61
+
+---PAGE BREAK---
+

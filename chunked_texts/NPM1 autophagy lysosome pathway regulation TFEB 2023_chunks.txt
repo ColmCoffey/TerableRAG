@@ -1,0 +1,2242 @@
+Chunk 1:
+Article
+An atypical GABARAP binding module drives the pro-
+autophagic potential of the AML-associated NPM1c
+variant
+Graphical abstract Authors
+HannahMende,AnshuKhatri,
+CarolinLange,...,VladimirV.Rogov,
+RamachandraM.Bhaskara,StefanMu€ller
+Correspondence
+bhaskara@med.uni-frankfurt.de(R.M.B.),
+ste.mueller@em.uni-frankfurt.de(S.M.)
+In brief
+Mendeandco-workersreportthatNPM1
+andNPM1cinducetheautophagy-
+lysosomepathwaybyactivatingthe
+mastertranscriptionfactorTFEB.They
+identifyanatypicalGABARAPbinding
+moduleintheN-terminalregionofNPM1
+andtheAML-associatedoncogenic
+mutantNPM1candshowthatthepro-
+autophagicactivityofNPM1cdependson
+thismodule.
+Highlights
+d NPM1/NPM1cinducetheautophagy-lysosomepathwayby
+activatingthemasterregulatorTFEB
+d NPM1/NPM1cbindtoGABARAPproteinsviaanatypical
+moduleintheirN-terminalregions
+d Thepro-autophagicactivityofNPM1cdependsonthis
+GABARAPbindingmodule
+Mendeetal.,2023,CellReports42,113484
+December26,2023ª2023TheAuthor(s).
+ll
+https://doi.org/10.1016/j.celrep.2023.113484
+
+---PAGE BREAK---
+
+ll
+OPENACCESS
+Article
+An atypical GABARAP binding module
+drives the pro-autophagic potential
+of the AML-associated NPM1c variant
+HannahMende,1AnshuKhatri,2CarolinLange,1,3SergioAlejandroPoveda-Cuevas,1,3GeorgTascher,1
+AdrianaCovarrubias-Pinto,1FrankLo¨hr,2SebastianE.Koschade,1,6IvanDikic,1ChristianMu€nch,1AnjaBremm,1
+LorenzoBrunetti,7ChristianH.Brandts,6HannahUckelmann,8VolkerDo¨tsch,2VladimirV.Rogov,4,5
+RamachandraM.Bhaskara,1,3,*andStefanMu€ller1,9,*
+1GoetheUniversityFrankfurt,InstituteofBiochemistryII,Theodor-Stern-Kai7,60590Frankfurt,Germany
+2GoetheUniversityFrankfurt,InstituteofBiophysicalChemistryandCenterforBiomolecularMagneticResonance,Max-von-LaueStreet9,
+60438Frankfurt,Germany
+3GoetheUniversityFrankfurt,BuchmannInstituteforMolecularLifeSciences,Max-von-LaueStreet15,60438Frankfurt,Germany
+4GoetheUniversityFrankfurt,InstituteofPharmaceuticalChemistry,Max-von-LaueStreet15,60438Frankfurt,Germany
+5GoetheUniversityFrankfurt,StructuralGenomicsConsortium,BuchmannIns
+
+Chunk 2:
+tituteofBiophysicalChemistryandCenterforBiomolecularMagneticResonance,Max-von-LaueStreet9,
+60438Frankfurt,Germany
+3GoetheUniversityFrankfurt,BuchmannInstituteforMolecularLifeSciences,Max-von-LaueStreet15,60438Frankfurt,Germany
+4GoetheUniversityFrankfurt,InstituteofPharmaceuticalChemistry,Max-von-LaueStreet15,60438Frankfurt,Germany
+5GoetheUniversityFrankfurt,StructuralGenomicsConsortium,BuchmannInstituteforMolecularLifeSciences,Max-von-LaueStreet15,
+60438Frankfurt,Germany
+6GoetheUniversityFrankfurt,UniversityHospital,DepartmentofMedicine,Hematology/Oncology,Theodor-Stern-Kai7,60590Frankfurt,
+Germany
+7MarchePolytechnicUniversity,DepartmentofClinicalandMolecularSciences,ViaTronto10,60020Ancona,Italy
+8GoetheUniversityFrankfurt,UniversityHospital,DepartmentofPediatrics,Theodor-Stern-Kai7,60590Frankfurt,Germany
+9Leadcontact
+*Correspondence:bhaskara@med.uni-frankfurt.de(R.M.B.),ste.mueller@em.uni-frankfurt.de(S.M.)
+https://doi.org/10.1016/j.celrep.2023.113484
+SUMMARY
+ThenucleolarscaffoldproteinNPM1isamultifunctionalregulatorofcellularhomeostasis,genomeintegrity,
+andstressresponse.NPM1mutations,knownasNPM1cvariantspromotingitsaberrantcytoplasmiclocal-
+ization,arethemostfrequentgeneticalterationsinacutemyeloidleukemia(AML).AhallmarkofAMLcellsis
+theirdependencyonelevatedautophagicflux.Here,weshowthatNPM1andNPM1cinducetheautophagy-
+lysosomepathwaybyactivatingthemastertranscriptionfactorTFEB,therebycoordinatingtheexpressionof
+lysosomalproteinsandautophagyregulators.Importantly,bothNPM1andNPM1cbindtoautophagymod-
+ifiers of the GABARAP subfamily through an atypical binding module preserved within its N terminus. The
+propensityofNPM1c toinduceautophagydependson thismodule,likely indicating that NPM1c exertsits
+pro-autophagic activity by direct engagement with GABARAPL1. Our data report a non-canonical binding
+modeofGABARAPfamilymembersthatdrivesthepro-autophagicpotentialofNPM1c,potentiallyenabling
+therapeuticoptions.
+INTRODUCTION requiredtoinitiatephagophoreformation.4,5Theregulat
+
+Chunk 3:
+ed within its N terminus. The
+propensityofNPM1c toinduceautophagydependson thismodule,likely indicating that NPM1c exertsits
+pro-autophagic activity by direct engagement with GABARAPL1. Our data report a non-canonical binding
+modeofGABARAPfamilymembersthatdrivesthepro-autophagicpotentialofNPM1c,potentiallyenabling
+therapeuticoptions.
+INTRODUCTION requiredtoinitiatephagophoreformation.4,5Theregulatedactiv-
+ity of these upstream kinases is necessary to control the syn-
+Autophagyisaprocessbywhichcytoplasmiccontent,suchas chronizedactionofseveralautophagy-related(ATG)proteins.
+proteins,nucleicacids,ororganelles,isengulfedbyautophago- Akeystepinbothautophagosomeformationandautophago-
+somesand delivered forlysosomal degradation.1,2Initiated by some-lysosome fusion is the conjugation of human ATG8
+the formation of phagophores, the closed double-membrane- (hATG8) family proteins to specific lipids in autophagosomal
+coated autophagosomes subsequently fuse with lysosomes, membranesbyaubiquitin-likeconjugationpathway.6Lipidated
+wherethedesignatedcargoisdegraded.Autophagyservesmul- ATG8sactasadaptorstorecruitavarietyofproteins,suchas
+tiplecellularpurposes,includingtheclearanceofdamagedor- cargocomponents,receptors,andfactorsmodulatingthephag-
+ganelles or protein aggregates. By providing building blocks ophore.ThehATG8familyiscomposedoftheLC3(MAP1LC3A,
+andenergy,autophagyplaysavitalroleinsustainingcellsurvival MAP1LC3B, MAP1LC3C) and the GABARAP (GABARAP,
+uponstarvation.1–3Themechanistictargetofrapamycin(mTOR) GABARAPL1,GABARAPL2) subfamilies.7LC3proteinsappear
+kinase complex controls starvation-induced autophagy. In fed to bemore important for recruiting cargoto the phagophores,
+cells,mTORallowscellgrowthandsynthesisofnewproteins, whileGABARAPsplaycriticalrolesinautophagosomeassembly
+actively repressing macroautophagy via phosphorylation of as well as autophagosome-lysosome fusion.8 GABARAPs are
+Unc-51-like autophagy activating kinase (ULK1), which is instrumentalincoordinating
+
+Chunk 4:
+tarvation-induced autophagy. In fed to bemore important for recruiting cargoto the phagophores,
+cells,mTORallowscellgrowthandsynthesisofnewproteins, whileGABARAPsplaycriticalrolesinautophagosomeassembly
+actively repressing macroautophagy via phosphorylation of as well as autophagosome-lysosome fusion.8 GABARAPs are
+Unc-51-like autophagy activating kinase (ULK1), which is instrumentalincoordinatingtheautophagosomalpathwaywith
+CellReports42,113484,December26,2023ª2023TheAuthor(s). 1
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---PAGE BREAK---
+
+A
+ATG4
+GFP-LC3B RFP-LC3BΔG
+cleavage
+GFP-LC3B RFP-LC3BΔG
+conjugation
+PE
+lysosomal
+fusion
+autophagosome autolysosome
+high GFP/RFP shift low GFP/RFP
+C
+D
+4
+3
+2
+1
+0
+- 17 24 48 Dox (h)
+Tet-On-Flag-NPM1wt
+E H
+)dezilamron(
+sllecdetfihsfoegatnecrep
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0 siContr
+siNP
+M1
+siAT
+G5 siContr
+siNP
+M1
+siAT
+G5
+EBSS
+***
+***
+**
+)dezilamron(
+sllecdetfihsfoegatnecrep
+**
+*
+F siContr siNPM1
+*
+* + + + + EBSS
+(kDa) + + BafA
+48
+anti-NPM1wt
+120
+anti-Vinc
+17
+anti-LC3B
+3
+2
+1
+0
+- 17 24 48 Dox (h)
+Tet-On-Flag-NPM1c
+)dezilamron(
+sllecdetfihsfoegatnecrep
+U2-OS
+G
+Tet-OnFlag-NPM1c Tet-On-Flag-NPM1wt
++ + + + + + EBSS
+(kDa) + + + + + + BafA
+20
+anti-LC3B
+48
+anti-Flag
+48
+anti-NPM1(all)
+120
+anti-Vinc
+5
+***
+OCI-AML3 ATG4 4
+***
+** GFP-LC3B RFP 3
+2
+1
+0
+siContr
+siNP
+M1c siContr
+siNP
+M1c
+)dezilamron(
+sllecdetfihsfoegatnecrep
+B siContr siNPM1
+105 13.9/13.9=1 105 7.79/13.9=0.56
+104 104
+103 103
+102 102
+101 APC-A, G 13 F . P 9 -A subset 101 APC-A, G 7. F 7 P 9 -A subset
+101 102 103 104 105 101 102 103 104 105
+siContr +EBSS siNPM1 +EBSS
+105 29.5/13.9=2.12 105 23.5/13.9=1.69
+104 104
+103 103
+102 102
+APC-A, GFP-A subset APC-A, GFP-A subset
+101 29.5 101 23.5
+101 102 103 104 105 101 102 103 104 105
+APC-A
++ + + + + + + + Dox
+I
+***
+***
+cleavage
+GFP-LC3B RFP
+conjugation
+PE
+Torin1
+A-PFG
+ll
+OPENACCESS Article
+(legendonnextpage)
+2 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+lysos
+
+Chunk 5:
+
+siContr +EBSS siNPM1 +EBSS
+105 29.5/13.9=2.12 105 23.5/13.9=1.69
+104 104
+103 103
+102 102
+APC-A, GFP-A subset APC-A, GFP-A subset
+101 29.5 101 23.5
+101 102 103 104 105 101 102 103 104 105
+APC-A
++ + + + + + + + Dox
+I
+***
+***
+cleavage
+GFP-LC3B RFP
+conjugation
+PE
+Torin1
+A-PFG
+ll
+OPENACCESS Article
+(legendonnextpage)
+2 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+lysosomalbiogenesisbycontrollingtheactivityofthetranscrip- proliferation.InAML,NPM1mutationsarefoundinabout50%
+tionfactorEB(TFEB),akeytranscriptionalactivatorofthelyso- ofcaseswithanormalkaryotype.26Inalmostallcases,themu-
+somalsystem.9,10 tations are found in exon 12, and the most frequent mutation
+The function of both ATG8 subfamilies (LC3 and GABARAP (typeA)isatetranucleotideduplication.27Thesemutationsalter
+proteins)primarilyreliesontheirabilitytomediatedistinctpro- the extreme C terminus of NPM1, generating a nuclear export
+tein-protein interactions by binding to specific sequence mo- signal, which is recognized by the chromosomal maintenance
+tifs.11BestdescribedaretheLC3-interactingregions(LIRs),or 1 (CRM1, also known as Exportin1 or XPO1) export factor.
+ATG8interactingmotifs,whichbindtoahydrophobicpatchof Consequently, these NPM1 variants (NPM1c), are delocalized
+hATG8s, the so-called LIR docking site (LDS). LIRs generally from the nucleolus/nucleoplasm to the cytosol. Despite this
+resideinunstructuredregionsofaproteinandbindtotheLDS defined molecular alteration, the role of NPM1c in mediating
+ofATG8proteinsbyaugmentinganinter-molecularbsheet.Ca- tumorigenesisisnotfullyunderstood.
+nonicalLIRsarecharacterizedbyahydrophobiccoresequence Here,weshowthatNPM1andNPM1charboranatypicalLIR
+motif[W/F/Y]-X -X -[L/V/I],inwhichtheconservedaromaticres- (aLIR)attheNterminusthatmediatestheirinteractionwiththe
+1 2
+iduesandtheapolarresiduesfitintothetwosurfacehydropho- GABARAPsubfamilyofhATG8proteins.Wefurtherdemonstrate
+bicpockets(HP1andHP2) oftheLDS.12,13Acidic residuesor that the interac
+
+Chunk 6:
+.
+nonicalLIRsarecharacterizedbyahydrophobiccoresequence Here,weshowthatNPM1andNPM1charboranatypicalLIR
+motif[W/F/Y]-X -X -[L/V/I],inwhichtheconservedaromaticres- (aLIR)attheNterminusthatmediatestheirinteractionwiththe
+1 2
+iduesandtheapolarresiduesfitintothetwosurfacehydropho- GABARAPsubfamilyofhATG8proteins.Wefurtherdemonstrate
+bicpockets(HP1andHP2) oftheLDS.12,13Acidic residuesor that the interaction of NPM1c with GABARAP family proteins
+phosphorylated serine/threonine residues adjacent to the core triggers its pro-autophagic activity through the activation of
+LIRmotiffurtherstabilizethebindingbyinteractingwiththeposi- TFEB,whichinturnfunctionsasthemastertranscriptionregu-
+tivelychargedsurfacesurroundingtheLDS.14,15Non-canonical lator of the autophagy-lysosomal pathway. Our data reveal a
+or atypical LIRs (aLIRs) lack the characteristic aromatic resi- signaling mode that connects the AML-associated NPM1c
+due(s) of a LIR.16,17 In addition to the LIR-LDS interaction, varianttoautolysosomalbiogenesis.
+ATG8scan use other interaction surfaces, suchasthe ubiqui-
+tin-interacting motif docking site (UDS), which resides on the RESULTS
+oppositefaceofATG8proteins.
+Alterationsinautophagicpathwaysarelinkedtohumandis- NPM1controlstheautophagicflux
+eases, including neurodegeneration and cancer.18,19 For TomonitortheimpactofNPM1ontheautophagicflux,weused
+instance,inacutemyeloidleukemia(AML)deregulationofauto- thefluorescence-basedGFP-LC3B-RFP-LC3BDGreportersys-
+phagyinhematopoieticstemcellscontributestoleukemogen- tem(Figure1A).28UponcleavagebyATG4proteases,thisprobe
+esis.20Inaddition, theupregulation ofautophagyrepresents a generates GFP-LC3B and RFP-LC3BDG. During autophago-
+resistancemechanism.21However,theroleofautophagymight some formation, GFP-LC3B is conjugated to autophagosomal
+bedifferentdependingontheleukemiccellpopulations,suchas membranes and gets subsequently degraded, while RFP-
+leukemicstemcellsorprogenitorcells.22Themostfrequentge- LC3BDG serves as a stable internal
+
+Chunk 7:
+upregulation ofautophagyrepresents a generates GFP-LC3B and RFP-LC3BDG. During autophago-
+resistancemechanism.21However,theroleofautophagymight some formation, GFP-LC3B is conjugated to autophagosomal
+bedifferentdependingontheleukemiccellpopulations,suchas membranes and gets subsequently degraded, while RFP-
+leukemicstemcellsorprogenitorcells.22Themostfrequentge- LC3BDG serves as a stable internal control. Thus, the shift of
+netic alterations in AML are mutations of nucleophosmin cells into the autophagy-positive gate with a decreased
+(NPM1).23 GFP/RFP ratio, measured by flow cytometry, is indicative of
+NPM1regulatescriticalcellularprocesses,includingribosome the autophagic flux. As a control, the autophagic regulator
+biogenesis,centrosomeduplication,cellproliferation,andsur- ATG5wasdepletedbysiRNAreducingtheautophagicfluxun-
+vival. It is a predominantly nucleolar protein that shuttles be- der both basal conditions and upon amino acid starvation
+tweenthenucleolus/nucleoplasmandthecytoplasm.24Interest- (Figures 1B and 1C). Importantly, the depletion of NPM1 also
+ingly, NPM1 plays a dosage-dependent dual role as a tumor leadstoasignificantreductionofbasalorstarvation-inducedau-
+suppressorandoncoprotein.25TheoverexpressionofNPM1in tophagic flux, suggesting a pro-autophagic role for NPM1
+solid human tumors correlates with increased cell growth and (Figures1Band1C).Inlinewiththis,overexpressionofNPM1
+Figure1. NPM1andNPM1careinvolvedinautophagicfluxmodulation
+(A)SchemeoftheU-2OSGFP-LC3B-RFP-LC3BDGreportercelllinetomonitorautophagicflux.Greenandredfluorescenceismeasuredbyflowcytometry,and
+autophagy-positivecellsarequantifiedbythepercentageofcellsshiftingintoagatewithalowGFP/RFPratio.
+(B)RepresentativedotblotsfromflowcytometricanalysisoftheU-2OSGFP-LC3B-RFP-LC3BDGreportercellline.CellsweretransfectedwithsiRNAtargetingNPM1
+oranon-humantargetcontrolfor72handstarvedwithEBSStreatmentfor4hbeforeanalysiswhenindicated.ThetrianglegatestheAPC-A,GFP-Asubsetof
+autophagy-positivecells.
+
+Chunk 8:
+etry,and
+autophagy-positivecellsarequantifiedbythepercentageofcellsshiftingintoagatewithalowGFP/RFPratio.
+(B)RepresentativedotblotsfromflowcytometricanalysisoftheU-2OSGFP-LC3B-RFP-LC3BDGreportercellline.CellsweretransfectedwithsiRNAtargetingNPM1
+oranon-humantargetcontrolfor72handstarvedwithEBSStreatmentfor4hbeforeanalysiswhenindicated.ThetrianglegatestheAPC-A,GFP-Asubsetof
+autophagy-positivecells.Calculationsshowthenormalizationofthepercentageofcellsintheautophagy-positivegatetothecontrol.
+(C)QuantificationofflowcytometricanalysisofU-2OSGFP-LC3B-RFP-LC3BDGcellstransfectedwithsiRNAasindicated.Whenindicated,cellswerestarvedwith
+EBSStreatmentfor4hbeforeanalysis.Dataarepresentedasmean±SDofthenormalizedpercentageofcellsintheautophagy-positivegate.n=2,*p<0.05,
+**p<0.01,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+(DandE)QuantificationofflowcytometricanalysisofU-2OSGFP-LC3B-RFP-LC3BDGwithTet-inducibleFlag-NPM1(D)orFlag-NPM1c(E),treatedwithdoxycycline
+(0.1mg/mL)fortheindicatedtimepoints.Dataarepresentedasmean±SDofthenormalizedpercentageofcellsintheautophagy-positivegate,n=3biological
+replicates,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+(F)ImmunoblotofU-2OScellstransfectedwithNPM1siRNAorcontrolsiRNAfor72handtreatedwithEBSSand200nMbafilomycinAfor4hasindicated.
+(G)ImmunoblotofU-2OScellswithTet-inducibleFlag-NPM1orFlag-NPM1ctreatedwithdoxycyclinefor24htoinducetheexpressionofFlag-NPM1andFlag-
+NPM1cincombinationwithEBSSand200nMbafilomycinAfor4hasindicated.
+(H)SchemeoftheOCI-AML3GFP-LC3B-RFPreportercelllinetomonitorautophagicflux,asshownin(A).
+(I)QuantificationofflowcytometricanalysisofOCI-AML3GFP-LC3B-RFPcellstransfectedwithsiRNAtargetingNPM1coranon-humantargetcontrolfor72h.When
+indicated,cellsareadditionallytreatedwith150nMTorin1for4hbeforeanalysis.Dataarepresentedasmean±SDofthenormalizedpercentageofcellsinthe
+autophagy-positivegate.n=3,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+CellReports42,
+
+Chunk 9:
+wnin(A).
+(I)QuantificationofflowcytometricanalysisofOCI-AML3GFP-LC3B-RFPcellstransfectedwithsiRNAtargetingNPM1coranon-humantargetcontrolfor72h.When
+indicated,cellsareadditionallytreatedwith150nMTorin1for4hbeforeanalysis.Dataarepresentedasmean±SDofthenormalizedpercentageofcellsinthe
+autophagy-positivegate.n=3,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+CellReports42,113484,December26,2023 3
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+fromadoxycycline-induciblevectorsystemincreasedtheauto- withGSTorGST-LC3B,allGST-taggedGABARAPfamilymem-
+phagicflux(Figures1DandS1A).Notably,thisincreasecorre- bersstronglyenrichFlag-NPM1fromcellextracts(Figure2A).To
+lates with the duration and the levels of NPM1 expression. explore whether the association of NPM1 and GABARAPL1 is
+Importantly, the autophagic flux is also strongly induced upon due to a direct physical interaction, GST-tagged NPM1 and
+expression of the AML-associated NPM1c mutant (Figures 1E His-taggedGABARAPL1expressedandpurifiedfrombacteria
+andS1A).GiventhatNPM1cgenerallyexhibitslowerexpression wereincubatedintheabsence orpresenceofcelllysate.His-
+levels than wild-type NPM1 due to enhanced proteasomal GABARAPL1 is retained on glutathione Sepharose-bound
+degradation29 (Figures S1Aand S1H), thisstrongly supports a GST-NPM1irrespectiveoftheadditionofcelllysate,indicating
+potent pro-autophagic potential of NPM1c. The findings ob- thatbothproteinsinteractdirectly(Figure2B).
+tainedwiththefluxreporterwereconfirmedbyanti-LC3Bimmu- Notably, GST pull-down experiments with lysates from
+noblottingrevealingareducedlipidationofLC3Bupondepletion HEK293cellsexpressingFlag-taggedNPM1ortheAML-associ-
+ofNPM1andenhancedlipidationuponoverexpressionofeither atedNPM1cvariantshowbindingtoGST-taggedGABARAPL1
+NPM1orNPM1cinU-2OScells(Figures1Fand1G). toasimilarextent(Figure2C).Tovalidatetherelevanceofthese
+Tovalidatethesefindings,weusedtheGFP-mCherry-LC3B interactionsunderendogenousexpressionlevelsinAMLcells,
+reporter 
+
+Chunk 10:
+edlipidationofLC3Bupondepletion HEK293cellsexpressingFlag-taggedNPM1ortheAML-associ-
+ofNPM1andenhancedlipidationuponoverexpressionofeither atedNPM1cvariantshowbindingtoGST-taggedGABARAPL1
+NPM1orNPM1cinU-2OScells(Figures1Fand1G). toasimilarextent(Figure2C).Tovalidatetherelevanceofthese
+Tovalidatethesefindings,weusedtheGFP-mCherry-LC3B interactionsunderendogenousexpressionlevelsinAMLcells,
+reporter for microscopy-based autophagic flux measurement we performed GST pull-down experiments with extracts from
+(FigureS1B).30ThisreportersystemreliesonthereducedGFP OCI-AML2(wild-type NPM1) andOCI-AML3 (heterozygous for
+fluorescence relative to mCherry in the acidic environment of NPM1c). Consistent with results from ectopically expressed
+theautolysosome.Thus,theratioofmCherry-positivedots,rep- NPM1andNPM1c,wild-typeNPM1frombothOCI-AML2and
+resentingautophagosomesandlysosomes,versusmCherryand OCI-AML3 lysates was captured on GST-GABARAPL1 beads,
+GFP co-localizing dots, only representing autophagosomes, while NPM1c was specifically bound from lysates of
+servesasareadoutforautophagicflux.DepletionofNPM1by OCI-AML3cells(Figure2D).
+siRNA reduces this ratio (Figure S1C), whereas expression of To investigate where Flag-NPM1 or Flag-NPM1c associate
+eitherNPM1orNPM1cshiftstheratiotowardmCherry-positive withGABARAPproteinsinsitu,weperformedproximityligation
+dots (Figures S1D–S1F). To investigate whether NPM1 or assays(PLA) (Figures2E, 2F,and S2A–S2D).Wild-type NPM1
+NPM1cmightbetargetedtoautophagosomesfordegradation, co-localized with endogenous GABARAP family members in
+wefollowedtheirproteinlevelsinthepresenceofthetranslation the nucleoplasm and, to a lesser extent, in the cytoplasm. By
+inhibitor cycloheximide. Notably, protein levels of Flag-NPM1 contrast, the largely cytoplasmic NPM1c variant exhibits a
+andFlag-NPM1cduringstarvationremainstableuponaddition moreprominentco-localizationwithGABARAPsinthecytosol.
+ofthelysosomalinhibitorbafilomycinA1,indicatingthatNPM1 Thecomparisonoftotal
+
+Chunk 11:
+elsinthepresenceofthetranslation the nucleoplasm and, to a lesser extent, in the cytoplasm. By
+inhibitor cycloheximide. Notably, protein levels of Flag-NPM1 contrast, the largely cytoplasmic NPM1c variant exhibits a
+andFlag-NPM1cduringstarvationremainstableuponaddition moreprominentco-localizationwithGABARAPsinthecytosol.
+ofthelysosomalinhibitorbafilomycinA1,indicatingthatNPM1 ThecomparisonoftotalPLA-positivesignalspercellrevealsa
+andNPM1careunlikelyautophagiccargoorfunctionasauto- strongerassociationofNPM1cwithGABARAPsthanwild-type
+phagyreceptors(FiguresS1GandS1H). NPM1 despite lower protein levels (Figures 2F and S2B).
+TofurtherexploretheimpactofNPM1conautophagyinAML Notably,theseinteractionsarenotaffectedbytheaccumulation
+cells,weusedanNPM1c-positiveOCI-AML3celllineexpressing ofautolysosomesuponbafilomycinA1treatment.Whilestaining
+GFP-LC3B-RFP,amodifiedversionoftheautophagicfluxreporter of GABARAPs reveals characteristic cytoplasmic foci of auto-
+ofFigure1A(Figure1H).22,28FlowcytometryanalysisuponNPM1c phagosomes, PLA signals with Flag-NPM1 and Flag-NPM1c
+depletion,usingaspecificsiRNAthatdoesnotaffecttheprotein are relatively independent of these structures. This indicates
+levelsofwild-typeNPM1,leadstoareductionofautophagicflux that NPM1 and NPM1c interact primarily with the non-conju-
+under basal conditions and autophagy stimulation upon mTOR gatedpoolofGABARAPproteins.
+inhibitionbyTorin1treatment(Figures1IandS1I).
+Notably, depletion of wild-type NPM1 in NPM1c-negative
+AML cell lines, such as Hel276 and MV4-11, does not impact NPM1andNPM1ccontrolautolysosomebiogenesis
+the autophagic flux indicating a more pronounced role of throughtheactivationofTFEB
+NPM1cinthecontrolofautophagyinAMLcells(FiguresS1J– To investigate how NPM1 affects GABARAP functions, we
+S1L).AstheroleofNPM1asatumorsuppressororoncogene compared the interactome of HA-GABARAPL1 in control cells
+dependsontheexpressionlevelintherespectivecelltype,we andcellsdepletedfromNPM1bysiRNA(Figure3A).Inanti-HA
+
+Chunk 12:
+he autophagic flux indicating a more pronounced role of throughtheactivationofTFEB
+NPM1cinthecontrolofautophagyinAMLcells(FiguresS1J– To investigate how NPM1 affects GABARAP functions, we
+S1L).AstheroleofNPM1asatumorsuppressororoncogene compared the interactome of HA-GABARAPL1 in control cells
+dependsontheexpressionlevelintherespectivecelltype,we andcellsdepletedfromNPM1bysiRNA(Figure3A).Inanti-HA
+anticipate that the autophagic flux is also affected in a cell- immunoprecipitationsfromHA-GABARAPL1-expressingcontrol
+type-specificmanner. cells, around 1,108 proteins were enriched (R1.5-fold) over
+Altogether,thesedatademonstratethatNPM1and,inpartic- mock-transfectedcells(TableS1).Theseincludewell-knownin-
+ular,theAML-associatedNPM1cvariant,actasmodulatorsof teractorsofGABARAPL1,suchascomponentsoftheATGcore
+autophagicflux. machinery (ATG3, ATG4B, ATG7, or ATG13) (Figures S3A–
+S3D).31 Intriguingly, a comparison of GABARAPL1-associated
+NPM1andtheAML-associatedNPM1cvariantbindto proteins from NPM1-depleted cells and control cells reveals a
+GABARAPfamilymembers strong enrichment of lysosomal membrane proteins, including
+Numerous proteins involved in autophagy bind to hATG8 pro- subunits of the vacuolar-type ATPase (V-ATPase) (Figures 3B
+teins to exert their functions. To test whether NPM1 binds to and 3C) upon loss of NPM1. The lysosomal V-ATPase-
+hATG8 family members, GST-tagged LC3B, GABARAP, RagulatorcomplexcontrolsTFEBactivityviamTOR-dependent
+GABARAPL1, and GABARAPL2 were used as affinity baits in phosphorylation, depending on the amino acid content within
+HEK293celllysatesexpressingFlag-taggedNPM1.Compared the lysosomal lumen (Figure 3D).32 Several lines of evidence
+4 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+A B C
+D E
+F
+Figure2. NPM1andNPM1cdirectlyinteractwiththeGABARAPproteinfamily
+(A)ImmunoblotofaGSTpull-downwithimmobilizedGSTempty,GST-LC3B,andGST-GABARAPswithHEKcelllysateexpressingFlag-NPM1.
+(B)Immunoblotofaninvitrointeractionas
+
+Chunk 13:
+essingFlag-taggedNPM1.Compared the lysosomal lumen (Figure 3D).32 Several lines of evidence
+4 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+A B C
+D E
+F
+Figure2. NPM1andNPM1cdirectlyinteractwiththeGABARAPproteinfamily
+(A)ImmunoblotofaGSTpull-downwithimmobilizedGSTempty,GST-LC3B,andGST-GABARAPswithHEKcelllysateexpressingFlag-NPM1.
+(B)ImmunoblotofaninvitrointeractionassaywithimmobilizedemptyGSTandGST-NPM1incubatedwithpurifiedHis-GABARAPL1proteinintheabsenceor
+presenceofcelllysate.
+(C)ImmunoblotofaGSTpull-downwithimmobilizedGST-GABARAPL1withHEKcelllysateexpressingFlag-NPM1andFlag-NPM1c.
+(D)ImmunoblotofaGSTpull-downwithimmobilizedGST-GABARAPL1withNPM1wtOCI-AML2(OCI2)andheterozygousNPM1wt/cOCI-AML3(OCI3)cell
+lysate.*Unspecificband.
+(E)Representativeimagesofaproximityligationassay(PLA)ofU-2OScellsexpressingFlag-NPM1andFlag-NPM1cunderaTet-induciblepromotorusing
+antibodiesforFlagandallendogenousGABARAPs.Ifstated,cellsweretreatedwith200nmbafilomycinA1(BafA)for2h.Nucleiareshownasdottedlines.Scale
+bar,10mm.
+(F)QuantificationofthePLAassayfrom(E).Ifstated,cellsweretreatedwith200nMBafAfor2h.Dataarepresentedasmean±SD,n=4,*p<0.05,asanalyzedby
+atwo-sidedttest.Atleast140cellswerecountedperreplicate.
+indicate that GABARAP family members are necessary for the size,potentiallyduetoautolysosomalfusioneventsorinduced
+V-ATPase-dependentTFEBactivation.9,33 lysosome biogenesis. This effect is strongly limited upon
+GiventheimpactofNPM1ontheassociationofGABARAPL1 NPM1 depletion, pointing to a role of NPM1 in lysosome
+with components of the V-ATPase complex, we tested if homeostasis.
+decreased cellular NPM1 levels affect lysosome morphology TodirectlyexploretheeffectsofNPM1andNPM1conautoly-
+byutilizingLysoTrackerredstaining(Figure3E).Wefoundthat sosomebiology,wecomparedtheproteomesofcellseitherex-
+inhibition of mTOR activity triggers an increase in lysosome pressingwild-typeNPM1orNPM1ctocontrolcells(Figures4A,
+CellReports42,113484,December26,2023 5
+
+---PAGE BREAK-
+
+Chunk 14:
+homeostasis.
+decreased cellular NPM1 levels affect lysosome morphology TodirectlyexploretheeffectsofNPM1andNPM1conautoly-
+byutilizingLysoTrackerredstaining(Figure3E).Wefoundthat sosomebiology,wecomparedtheproteomesofcellseitherex-
+inhibition of mTOR activity triggers an increase in lysosome pressingwild-typeNPM1orNPM1ctocontrolcells(Figures4A,
+CellReports42,113484,December26,2023 5
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+A B C
+D E
+Figure3. NPM1depletionmodulatesGABARAPL1interactionwithlysosomalproteins
+(A)ExperimentalsetupofaquantitativeHA-GABARAPL1immunoprecipitationusingmassspectrometry.HEKcellsweretransfectedwithsiRNAagainstNPM1or
+anon-humantarget(siContr)andtransientlyoverexpressHA-GABARAPL1.
+(B)Geneontology(GO)termenrichmentofHA-GABARAPL1interactorswithNPM1KDcomparedwiththecontrol.Onlyproteinswithasignificantenrichment
+overtheIPcontrol(p<0.05[(cid:1)log10>1.3]andFC>1.5[log2>0.58])inoneoftheconditionswereusedforanalysis.
+(C)VolcanoplotofHA-GABARAPL1immunoprecipitationscomparingenrichedproteinsoftheNPM1withthecontrolknockdown(KD).ProteinsoftheV-ATPase
+complexandthelysosomalmembranewerehighlighted.OnlyproteinswithsignificantenrichmentovertheIPcontrolinoneoftheconditionsaredepictedhere.
+Redlinesindicatesignificanceintervalsofp<0.05((cid:1)log10>1.3)andFC>1.5(log2>0.58).
+(D)ModelofhowTFEBactivityiscontrolledbytheinteractionoftheV-ATPase,Ragulator(LAMTOR1-5),andmTORC1complexesonthelysosomalsurface.
+(E)Quantificationoftheaverage(av)areaoftheLysoTrackerredstainingindicativeofthelysosomalsizeinU-2OScellstransfectedwithsiRNAtargetingNPM1or
+anon-humantargetcontrol.Ifindicated,cellsweretreatedwith100nMBafAor200nMTorin1for17h.Dataarepresentedasmean±SD,n=4biological
+replicates,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+4B, and S4A–S4C; Table S2). Functional clustering of upregu- ment (OCI-AML3NPM1c-FKBP12).34 Degradation of NPM1c leads
+lated proteins upon expression of NPM1 and NPM1c reveals tothelossofproteinsinvolvedintranscription,specifi
+
+Chunk 15:
+llsweretreatedwith100nMBafAor200nMTorin1for17h.Dataarepresentedasmean±SD,n=4biological
+replicates,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiplecomparisontest.
+4B, and S4A–S4C; Table S2). Functional clustering of upregu- ment (OCI-AML3NPM1c-FKBP12).34 Degradation of NPM1c leads
+lated proteins upon expression of NPM1 and NPM1c reveals tothelossofproteinsinvolvedintranscription,specificallyho-
+theenrichmentoflysosomalandautophagosomalproteins(Fig- meobox proteins, which has been extensively studied in the
+ure 4B). Notably, despite its lower expression, NPM1c has a contextofAML.Importantly, wealsoobservedreduced levels
+morepronouncedimpactthanwild-typeNPM1onthenumber of proteins associated with autophagy, underlining the impact
+and extent of enriched/regulated autolysosomal proteins of NPM1c on the expression of the autolysosomal machinery
+(Figures4BandS4C).Strikingly,GABARAPL1wasidentifiedin (Figure4C;TableS3).Notably,thesefindingsarealsoperfectly
+our dataset as one of the most strongly upregulated proteins in line with a recently published RNA-seq dataset generated
+upon expression of NPM1c. While it is tempting to conclude fromamouseHOXB8-ER-immortalizedcellline,whereahetero-
+that NPM1c might stabilize GABARAPL1 on a protein level, zygousknockinofhumanNPM1cinducesmRNAabundanceof
+RT-qPCR demonstrated that the increase in protein levels is lysosomalproteins.35
+accompanied by elevated mRNA levels of GABARAPL1 (Fig- Asautophagosomalandlysosomalproteinsareknowntran-
+ureS4D).Tofollowtheideathatlysosomalandautophagosomal scriptional targets of TFEB, these observations strengthen our
+proteinabundanceisaffectedbyNPM1cinAMLcells,weper- finding that NPM1 modulates the interaction of GABARAPL1
+formed a proteomics experiment in an OCI-AML3 cell engi- withthelysosomalV-ATPasetherebyactivatingthedownstream
+neeredfortargeteddegradationofNPM1cwithdTAG-13treat- regulator TFEB. We monitored whether NPM1 or NPM1c
+6 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+
+Chunk 16:
+ strengthen our
+proteinabundanceisaffectedbyNPM1cinAMLcells,weper- finding that NPM1 modulates the interaction of GABARAPL1
+formed a proteomics experiment in an OCI-AML3 cell engi- withthelysosomalV-ATPasetherebyactivatingthedownstream
+neeredfortargeteddegradationofNPM1cwithdTAG-13treat- regulator TFEB. We monitored whether NPM1 or NPM1c
+6 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+A B
+C D
+E F
+Figure 4. Moderate overexpression of NPM1c and high overexpression of NPM1 leads to transcriptional upregulation of GABARAPL1
+togetherwithTFEBnucleartranslocation
+(A)Experimentalsetupofawhole-cellproteomeofU-2OScellswithTet-inducibleFlag-NPM1orFlag-NPM1cexpressionin(B)andofOCI-AML3cellswith
+endogenouslytaggedNPM1c-FKBP12(F36V)in(C)usingtandemmasstag(TMT)-basedmassspectrometry(MS).Expressionofthetransgeneisinducedfor
+24hwith0.1mg/mLdoxycycline,anddegradationofNPM1c-FKBP12(F36V)isinducedby500nMdTAG-13treatmentfor24h.SPS,synchronousprecursor
+selection.
+(B)Comparisonofselectedgeneontology(GO)termenrichmentsofupregulatedproteins(FC>0.2,p<0.05)inNPM1c(+doxycycline[Dox])-versuscontrol
+((cid:1)Dox)-,NPM1wt(+Dox)-versuscontrol((cid:1)Dox)-,andNPM1c(+Dox)-versusNPM1wt(+Dox)-expressingcells.
+(C)ComparisonofselectedUniProtKeywordenrichmentsofdownregulatedproteins(FC%(cid:1)0.2,p<0.05)ofOCI-AML3cellswithendogenousNPM1c-
+FKBP12(F36V)upon500nMdTAG-13treatment.
+(D)Immunoblotofwhole-cellfraction(WCF)andnuclearfraction(NF)ofU-2OScelllysateswithTet-inducibleFlag-NPM1orFlag-NPM1cexpression.Expression
+asin(A).Histoneandtubulinareusedasloadingcontrols.
+(E)QuantificationofthelysosomecountpercellbyLysoTrackerredstaininginU-2OScellswithTet-inducibleFlag-NPM1orFlag-NPM1cexpressionasin(A).
+Celllinesweremeasuredseparately.Dataarepresentedasmean±SD,n=5biologicalreplicates.
+(F)ImmunoblotofOCI-AML3celllysateafterdepletionofendogenousNPM1cbysiRNAtransfectionafter72h.
+CellReports42,113484,December26,2023 7
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+A B
+C D
+E F
+(legendonnextpag
+
+Chunk 17:
+thelysosomecountpercellbyLysoTrackerredstaininginU-2OScellswithTet-inducibleFlag-NPM1orFlag-NPM1cexpressionasin(A).
+Celllinesweremeasuredseparately.Dataarepresentedasmean±SD,n=5biologicalreplicates.
+(F)ImmunoblotofOCI-AML3celllysateafterdepletionofendogenousNPM1cbysiRNAtransfectionafter72h.
+CellReports42,113484,December26,2023 7
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+A B
+C D
+E F
+(legendonnextpage)
+8 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+expressionmodulatesTFEBphosphorylationstatusanditsacti- (Figure5A).UsingalargerNPM11-186fragment,additionallycon-
+vation-associated translocation to the nucleus. By comparing taining the intrinsically disordered central acidic region (IDR,
+TFEBlevelsindifferentcellularfractions,weobservedadown- 118–186), further strengthens the interaction to GST-
+shift of the TFEB band in whole-cell extracts upon NPM1 or GABARAPL1. However, without the N-terminal core part, the
+NPM1cexpression,indicativeof itsdephosphorylation. Thisis acidic region plus the C-terminal part (NPM1118-294) does not
+accompanied by a strong nuclear enrichment of TFEB that mediatebindingtoGST-GABARAPL1.Thesedataindicatethat
+goes along with increased GABARAPL1 and LAMP1 levels, NPM11-117isnecessaryandsufficienttobindtoGABARAPL1.
+demonstratingthatNPM1impactsTFEBactivationandnuclear This also explains the interaction of GABARAPs with NPM1c,
+localization (Figure 4D).Inline,enhancedexpression of NPM1 whichdiffersfromthewild-typeproteinonlyinitsextremeC-ter-
+orNPM1ctriggersadrasticincreaseinlysosomecountasmoni- minalregion.
+toredbyLysoTracker redstaining (Figure 4E),mostlikely asa To identify the exact binding site and the binding mode, we
+consequenceofTFEBactivation. modeled the 3D structure of the NPM1-GABARAPL1 complex
+To further validate whether endogenous NPM1c regulates usingAlphaFold2(Figure5B).Thetop10modelsshowaconsis-
+TFEB activity in AML cells, we depleted NPM1c from OCI- tentbindingmode,wheretheN-terminalmethionine-richstret
+
+Chunk 18:
+edstaining (Figure 4E),mostlikely asa To identify the exact binding site and the binding mode, we
+consequenceofTFEBactivation. modeled the 3D structure of the NPM1-GABARAPL1 complex
+To further validate whether endogenous NPM1c regulates usingAlphaFold2(Figure5B).Thetop10modelsshowaconsis-
+TFEB activity in AML cells, we depleted NPM1c from OCI- tentbindingmode,wheretheN-terminalmethionine-richstretch
+AML3 cells by siRNA and monitored phosphorylation of TFEB (NPM1 )mediateddirectcontactsandwasanchoredtothe
+1-15
+atS211indicativeofinactiveTFEB(Figure4F).LackofNPM1c LDS of GABARAPL1 (Figures 5B, S5A, and S5B). Further, the
+triggersanincreaseinphospho-TFEB(S211)levelscorrelating bsheet(strandsb1,b3,b8)residuesalsomediateinteractions
+with a reduction of LAMP1 levels. Furthermore, removal of with the a3 helix of GABARAPL1, providing additional stability
+NPM1cfromOCI-AML3cellsbytargeteddegradationisparal- tothebinarycomplex(Figures5Band5C).Atomisticmolecular
+leled by phospho-TFEB induction in a process that can be dynamics(MD)simulationsoftheNPM1-GABARAPL1complex
+blocked by mTOR inhibition (Figure S4E). As S211 is a known initiatedfromthisstructurerevealedthatthebindingmodeand
+mTORtargetsite,weconcludethatNPM1c-dependentregula- theassociatedkeyinteractionsremainedstableunderthesimu-
+tionofTFEBdependsonlocalmTORactivity.Thisfitsourmodel lation timescale (Figures 5D and S5C, top). Furthermore, we
+thatNPM1andNPM1cinteractionwithGABARAPslocallymod- foundthattheIDRofNPM1mediatedadditionaldynamiccon-
+ulates the activity of the V-ATPase-Ragulator complex. Alto- tacts with GABARAPL1. These interaction sites varied in the
+gether, these data indicate that NPM1 and NPM1c control different models and displayed more dynamic contacts in the
+autolysosomebiogenesisthroughtheactivationofTFEB. fourreplicates(Figures5DandS5C,bottom).Totestthesignif-
+icanceoftheNterminusofNPM1inGABARAPL1binding,we
+NPM1andNPM1cbindtoGABARAPfamilymembers performed MD simulations with an N-terminal peptide
+through
+
+Chunk 19:
+interaction sites varied in the
+gether, these data indicate that NPM1 and NPM1c control different models and displayed more dynamic contacts in the
+autolysosomebiogenesisthroughtheactivationofTFEB. fourreplicates(Figures5DandS5C,bottom).Totestthesignif-
+icanceoftheNterminusofNPM1inGABARAPL1binding,we
+NPM1andNPM1cbindtoGABARAPfamilymembers performed MD simulations with an N-terminal peptide
+throughanon-canonicalinteractionmotif NPM11–20andamutantpeptideincomplexwithGABARAPL1.
+TodeterminewhethertheregulatoryfunctionofNPM1inautoly- WhileNPM11–20bindsstablytoGABARAPL1,NPM1 1–20dis-
+5A
+sosome induction directly depends on its ability to bind played fewer contacts across the interface and disassociated
+GABARAPs,wedefinedtheinteractingregionwithinNPM1.As swiftlyundertheMDtimescale(FigureS5D;VideosS1andS2).
+bioinformatic predictions using iLIR (https://ilir.warwick.ac.uk/ To verify this binding model, we performed a peptide array-
+search.php)didnotrevealanycharacteristiccanonicalLIRmo- based screen to map potential GABARAPL1-interacting sites
+tifswithintheNPM1orNPM1csequences,weinitiallyperformed alongNPM1(FigureS5E).Byscreening57overlappingpeptides
+binding experiments to narrow down the region that binds to (20-mers)coveringNPM11-189forbindingwithGABARAPL1,we
+GABARAPL1. GST pull-down experiments using three distinct foundthatthepeptidespanningNPM11–20showedstrongsignal
+fragments of His-tagged NPM1 (NPM11-117, NPM11-186, or intensities. Furthermore, GABARAPL1 also mediated weak
+NPM1118-294) and GST-GABARAPL1 demonstrated that the interactions with peptides covering the central acidic domain
+N-terminal core region (NPM11-117), comprising the N-terminal ofNPM1.
+unstructuredsequence(residues1–14)andtheoligomerization Motivated by these findings, we generated N-terminal dele-
+domain (15–117), is sufficient to bind to GST-GABARAPL1 tion fragments and an alanine variant of NPM1 (NPM111-117,
+Figure5. NPM1NterminusharborsanatypicalLIR
+(A)ImmunoblotofaGSTpull-downwithimmobilizedGST-
+
+Chunk 20:
+ic domain
+N-terminal core region (NPM11-117), comprising the N-terminal ofNPM1.
+unstructuredsequence(residues1–14)andtheoligomerization Motivated by these findings, we generated N-terminal dele-
+domain (15–117), is sufficient to bind to GST-GABARAPL1 tion fragments and an alanine variant of NPM1 (NPM111-117,
+Figure5. NPM1NterminusharborsanatypicalLIR
+(A)ImmunoblotofaGSTpull-downwithimmobilizedGST-GABARAPL1andHEKcelllysatesexpressingfragmentsofFlag-taggedNPM1.
+(B) Top-ranked AlphaFold2 model of the NPM1-GABARAPL1 complex, highlighting the role of the N-terminal domain of NPM1 (green) interacting with
+GABARAPL1(gray).Twointerfaceregionsarehighlighted(boxes).Insetshowsthezoom-upoftheN-terminalmethionine-richaLIRsegment(sidechainsshown
+asorangesticksandlabeled)dockedintothetwohydrophobicpockets(HP1andHP2)oftheLDSwithadditionalelectrostaticinteractions(positive/negative
+chargecoloredasblue/red).Yellowdashesindicateresiduecontactswithin4A˚.
+(C)Contact mapshowingpairwise-residueinteractions ofNPM1and GABARAPL1 averaged over thetop 10models.Interaction sites along NPM1 and
+GABARAPL1arehighlightedwithschematicsofthelocalsecondarystructure.
+(D)Sameas(C),butaveragedoverall43500nsMDrunsinitiatedfromfourdifferentstartingmodels.Non-specificanddynamiccontactsemergealongthe
+centralIDRofNPM1duringtheseMDruns.
+(E)ImmunoblotofaninvitrointeractionassayofimmobilizedGST-GABARAPL1andHis-NPM1fragmentspurifiedfrombacteria.
+(F)Top:comparisonoftheconsensuscoresequenceofthecanonicalGABARAP-interactingmotifs(GIMs)andtheLC3interactingregions(LIRs).X,anyresidue;
+redX,negativelychargedresidue(D/EorphosphoS/T).Bottom:alignmentofGABARAPL1interactingsitesofNPM1andpreviouslyidentifiedatypicalLIRs.
+ResiduesdockingintothehydrophobicpocketsofATG8proteinsareshowninbold.UnderlinedresiduesofNPM1aLIRaremutatedtoalanine(NPM15A).
+Negativelychargedresiduesandpotentialphosphorylationsitesarecoloredinredandgreen,respectively.
+CellReports42,113484,December26,2023 9
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+NPM115-1
+
+Chunk 21:
+S/T).Bottom:alignmentofGABARAPL1interactingsitesofNPM1andpreviouslyidentifiedatypicalLIRs.
+ResiduesdockingintothehydrophobicpocketsofATG8proteinsareshowninbold.UnderlinedresiduesofNPM1aLIRaremutatedtoalanine(NPM15A).
+Negativelychargedresiduesandpotentialphosphorylationsitesarecoloredinredandgreen,respectively.
+CellReports42,113484,December26,2023 9
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+NPM115-117,andNPM1 1-117).Allthreevariantslosetheabilityto Interestingly,theaLIRofNPM1containstwoserineresidues
+5A
+bind to GABARAPL1 (Figure 5E), validating our computational (S4 and S10), which can undergo phosphorylation.36 By intro-
+modelandconfirmingthattheveryN-terminalregionofNPM1is ducing phospho-mimicking mutants at these residues, we
+essential for GABARAPL1 binding. Importantly, this region is observedstrongerbindingofNPM1toGABARAPL1(FigureS6F).
+methioninerichandlacksthecharacteristicaromaticaminoacids Notably,ourcomputationalmodelspredictcloseproximityofS4
+of canonical LIR motifs. A detailed analysis of the interactions andS10tobasicresidues(K24,46,48,R67,andK28)aroundthe
+mediated by the N-terminal stretch in our top-ranked complex LDS,indicatingthatthenegativechargesofphosphoserinesare
+structuresrevealedfouralternateconfigurationsformethionines likelyengagedinelectrostaticinteractions,furtherstabilizingthe
+(M5,M7,andM9)directlydockingintotheLDSofGABARAPL1 aLIR-LDSinteraction(Figure6E).
+(FigureS5B).Accordingly,wedefinethisdistinctGABARAP-bind- Since acetylation of K46 and K48 of hATG8s interferes with
+ingmotifofNPM1asanaLIR(Figure5F). LIR-LDS binding,37 we tested the interaction of acetylation-
+TodissecttheresiduesofGABARAPL1thatbindtothisaLIR, mimickingmutantsofGABARAPL1(K46/48Q)withNPM1.Inter-
+we performed GST pull-down assays of wild-type GST- estingly, GABARAPL1K46,48Q did not bind to NPM11-117 and
+GABARAPL1oritsvariantswithmutationsineithertheLDSor NPM11-189,furthervalidatingourinteractionmodel(FigureS6G).
+the UDS. We observed that alterations of critical residues in
+
+Chunk 22:
+of acetylation-
+TodissecttheresiduesofGABARAPL1thatbindtothisaLIR, mimickingmutantsofGABARAPL1(K46/48Q)withNPM1.Inter-
+we performed GST pull-down assays of wild-type GST- estingly, GABARAPL1K46,48Q did not bind to NPM11-117 and
+GABARAPL1oritsvariantswithmutationsineithertheLDSor NPM11-189,furthervalidatingourinteractionmodel(FigureS6G).
+the UDS. We observed that alterations of critical residues in
+either the LDS (V51, F60) or the UDS (F77) affect binding to NPM1c-inducedTFEBactivationdependsonthe
+NPM1,suggestingthatbothregionscouldbeinvolvedinbinding GABARAPbindingmodule
+(Figure6A).WenextperformedNMR-basedinteractionstudies TotestwhetherbindingofNPM1ctoGABARAPscontributesto
+using15N-labeledGABARAPL1anda20-merpeptidecovering elevatedautophagy ofNPM1c-positiveAML cells,wedepleted
+the N-terminal stretch of NPM1 (NPM11–20) (Figures 6B and the aLIR containing flexible N terminus of NPM1c. GST pull-
+S6A).Chemicalshiftperturbation(CSP)measurementsdemon- down experiments confirmedthat NPM1c11-298 shows reduced
+stratethatresiduesofHP1(Y25andL50)andHP2(F60andL63) binding toGST-GABARAPL1 comparedwithfull-length NPM1c
+of the LDS in GABARAPL1 are strongly involved in binding to ina cellular context (Figure7A). The remaining residualbinding
+NPM11–20 (Figures 6B, 6D, and S6A). In addition, K46 of could either be due to oligomerization with endogenous NPM1
+GABARAPL1 also showed high CSP values, indicating the or result from a second binding site, as described above
+involvement of electrostatic interactions consistent with our (Figure 5A). In line with the GST pull-down data, PLA assays
+models.Importantly,whenusingacorrespondingpeptidewith reveal a reduced association of NPM1c11-298 with GABARAPs
+five residues mutated to alanine (NPM1 1–20), the above- compared with full-length NPM1c (Figure 7B). Importantly, this
+5A
+mentioned CSP values are largely abrogated (Figures 6C reductionisduetothelossoftheN-terminalbindingsiteandnot
+andS6A). due to changes in the subcellular distribution o
+
+Chunk 23:
+els.Importantly,whenusingacorrespondingpeptidewith reveal a reduced association of NPM1c11-298 with GABARAPs
+five residues mutated to alanine (NPM1 1–20), the above- compared with full-length NPM1c (Figure 7B). Importantly, this
+5A
+mentioned CSP values are largely abrogated (Figures 6C reductionisduetothelossoftheN-terminalbindingsiteandnot
+andS6A). due to changes in the subcellular distribution of NPM1c11-298
+To reaffirm the involvement of the LDS on NPM1 binding, whencomparedwithfull-lengthNPM1c(Figure7C).Inaddition,
+we performed NMR measurements of GABARAPL1 with weperformedmassspectrometryanalysisofco-immunoprecipi-
+NPM11-117 and full-length NPM1fl as well as their respective tations of full-length NPM1c, NPM1c11-298, and the respective
+alaninemutants(NPM1 )(FiguresS6B–S6E).Thecontactsites wild-typeproteins.Wedidnotdetecthugevariationintheinterac-
+5A
+onGABARAPL1interactingwithNPM11-117showanalmostper- tomesofNPM1orNPM1ccomparedwiththeirrespectiveN-termi-
+fectoverlapwiththesitesinteractingwiththeNPM11–20peptide, nal truncation by performing a principal-component analysis
+confirmingthedirectinvolvementoftheLDSofGABARAPL1in (FigureS7A).
+binding (Figures 6B, 6D, and S6B). Moreover, NMR data of ToexplorewhethertheGABARAPbindingNterminusaffects
+GABARAPL1 with full-length NPM1 show high CSP values for thepropensityofNPM1corwild-typeNPM1toinduceautopha-
+theGABARAPL1residueswithintheLDS(FigureS6D).However, gicflux,wecomparedfull-lengthNPM1candNPM1c11-298and
+thebroadeningofthecorrespondingpeaksandtheappearance therespectivewild-typeproteinsintheFACS-basedautophagic
+of new peaks indicate the possible involvement of other fluxassaydescribedabove(Figure1A).Consistentwiththedata
+GAPARAPL1residueswithfull-lengthNPM1.Inourbiochemical showninFigure1D,full-lengthNPM1andNPM1ctriggeradose-
+dataandMDsimulations,wefoundthattheinteractionoffull- dependentincreaseinautophagicflux(Figures7DandS7B).By
+lengthNPM1withGABARAPL1isadditionallystabilizedbydy- contrast, the GABARAP binding-defi
+
+Chunk 24:
+ndicate the possible involvement of other fluxassaydescribedabove(Figure1A).Consistentwiththedata
+GAPARAPL1residueswithfull-lengthNPM1.Inourbiochemical showninFigure1D,full-lengthNPM1andNPM1ctriggeradose-
+dataandMDsimulations,wefoundthattheinteractionoffull- dependentincreaseinautophagicflux(Figures7DandS7B).By
+lengthNPM1withGABARAPL1isadditionallystabilizedbydy- contrast, the GABARAP binding-deficient NPM1c11-298 variant
+namicinteractionsoftheIDR(Figures5A,5D,andS5C),explain- failstoinduceautophagicflux,suggestingthattheGABARAP-
+ingtheNMRobservations.Theeffectofthe5Amutationonthe bindingmoduleofNPM1cisrequiredforitspro-autophagicac-
+full-lengthproteinbinding(NPM1 fl)islessprominentincom- tivity(Figure7D).Notably,depletionoftheN-terminalregionof
+5a
+parison with NPM1-derived peptide NPM11–20 and fragment wild-type NPM1 does not reduce its autophagic propensity,
+NPM11-117binding(Figures6B,6C,andS6B–S6E),presumably arguingforastrongerdependencyofNPM1contheN-terminal
+duetoadditionalstabilizinginteractionsoftheIDR. regionforautophagyinduction(FigureS7B).Weanticipatethat
+By integrating data from binding assays, computational theoligomerizationwithendogenousNPM1orincreasedprotein
+modeling,andNMRexperiments,weproposethatthemethio- levelscomparedwithNPM1cmaintainstheautophagicpotential
+nine-rich N-terminal stretch of NPM1 interacts explicitly with ofNPM111-294.
+the LDS in GABARAPL1 (Figure 6E). Furthermore, K46 of ToinvestigatewhethertheactivationofTFEBbyNPM1cde-
+GABARAPL1islikelyengagedinaninter-molecularsaltbridge pendsontheN-terminalbindingmodule,full-lengthNPM1cor
+with D8 of NPM1, further providing additional stability to the NPM1c11-298were expressed in U-2OS cells, and the nuclear
+atypicalLIR-LDSinteraction(Figure6E). distribution of TFEB was detected by immunoblotting. When
+10 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+A B Figure6. TheatypicalLIRofNPM1bindsto
+theLDSofGABARAPL1
+(A)ImmunoblotofaGSTpull-downwithimmobilized
+GST, GST-GABA
+
+Chunk 25:
+1, further providing additional stability to the NPM1c11-298were expressed in U-2OS cells, and the nuclear
+atypicalLIR-LDSinteraction(Figure6E). distribution of TFEB was detected by immunoblotting. When
+10 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+A B Figure6. TheatypicalLIRofNPM1bindsto
+theLDSofGABARAPL1
+(A)ImmunoblotofaGSTpull-downwithimmobilized
+GST, GST-GABARAPL1, and mutants of GST-
+GABARAPL1andHEKcelllysatewithanendoge-
+nousNPM1antibody.
+(B and C) Chemical shift perturbation (CSP) of
+15N-GABARAPL1 titrated with NPM11-20 (B) or
+NPM15A 1-20(C)peptideintheratioof1:10measured
+byNMR.Solidanddashedlinesindicate13SDand
+23SD,respectively.Azerovalueindicateseitherno
+shift or that peaks could not be detected in the
+spectra.GABARAPL1secondarystructureisshown
+below.
+D
+(D) Mapping of residues with high CSP (B) onto
+C the GABARAPL1 structure of the top-ranked
+AlphaFold2 model of NPM1-GABARAPL1 (Fig-
+ure5B).ResidueswithCSPvaluesR23SDandR
+13SDareshownassticksandhighlightedinpinkor
+lightpink,respectively.ThestructureofNPM1isnot
+shownhere.HP,hydrophobicpocket.
+(E)SummaryoftheinteractionbetweentheN-terminal
+atypicalLIRofNPM1andtheLDSofGABARAPL1
+aftermappingkeyresiduesfrombindingassaysand
+NMRexperimentsandtheircontactsfrommodeling
+andsimulations,respectively.Hydrophobiccontacts
+E (yellowresidues)andelectrostaticinteractions(red/
+blue residues) across the LIR-LDS interface are
+shown.
+the imbalance of autophagy observed in
+NPM1c-positive AML is directly linked to
+thecontrolofautolysosomebiogenesis.
+compared with full-length NPM1c, expression of NPM1c11-298 WerevealanunprecedentedinteractionmodeofNPM1and
+resultsinreducedlevelsofnuclearTFEBandlesspronounced NPM1c with GABARAPL1. Our combined computational
+GABARAPL1mRNAinduction(Figures7Eand7F). modeling and NMR studies uncover an atypical interaction of
+PreviousworkhasproposedthatNPM1cstimulatesautophagy theN-terminalregionofNPM1withtheLDSofGABARAPL1.16
+bystabilizingtheULK1kinase.38Therefore,wecomp
+
+Chunk 26:
+98 WerevealanunprecedentedinteractionmodeofNPM1and
+resultsinreducedlevelsofnuclearTFEBandlesspronounced NPM1c with GABARAPL1. Our combined computational
+GABARAPL1mRNAinduction(Figures7Eand7F). modeling and NMR studies uncover an atypical interaction of
+PreviousworkhasproposedthatNPM1cstimulatesautophagy theN-terminalregionofNPM1withtheLDSofGABARAPL1.16
+bystabilizingtheULK1kinase.38Therefore,wecomparedULK1 TheaLIRweidentifiedherelacksthecharacteristicaromaticres-
+protein levels in cells expressing either full-length NPM1c or iduethatisahallmarkofbothcanonicalLIRsaswellasselective
+NPM1c11-298undercontrolconditionsandstarvation(FigureS7C). GABARAPinteractionmotifs(Figure5F).39BindingoftheaLIRof
+Inlinewithpreviouswork,expressionofNPM1cleadstoanin- NPM1 and NPM1c to GABARAPs relies on a so-far unknown
+creaseinULK1correlatingwithenhancedphosphorylationofthe interaction mode that is based on the presence of methionine
+ULK1substrateATG14.Bycontrast,theGABARAP-binding-defi- residues. While the clustering of methionine is a particular
+cientNPM1c11-298variantexhibitsareducedpotentialinstabilizing featureofNPM1’saLIR,theclusteringofacidicorphosphory-
+ULK1;accordingly,its substrate ATG14 phosphorylation isless latedresiduesiscommonwithcanonicalLIRs.Conceptionally,
+pronounced.ThesedataindicatethattheNterminusofNPM1c we demonstrate that AlphaFold2-based modeling provides a
+isalsocriticalforULK1-dependentearlystepsofautophagyinduc- powerfultooltoidentifynotonlycanonicalATG8interactions40
+tion. Altogether, these data demonstrate that the N-terminal butalsomoredistantlyrelatedsequencemotifs.
+GABARAPbindingmoduleofNPM1ciscriticalforthepro-auto- NPM1alsoexhibitsstructuralpolymorphism.Importantly,its
+phagicpotentialofNPM1candtheactivationofTFEB. N-terminaldomainharborsanacidicloopthatexhibitsahighde-
+greeofflexibility,allowingaswitchfromafoldedpentamertoa
+DISCUSSION disorderedmonomericstate.41Furthermore,progressivemulti-
+sitephosphorylationofNPM1withinitsN-terminaldomainmod-
+Membersoft
+
+Chunk 27:
+
+GABARAPbindingmoduleofNPM1ciscriticalforthepro-auto- NPM1alsoexhibitsstructuralpolymorphism.Importantly,its
+phagicpotentialofNPM1candtheactivationofTFEB. N-terminaldomainharborsanacidicloopthatexhibitsahighde-
+greeofflexibility,allowingaswitchfromafoldedpentamertoa
+DISCUSSION disorderedmonomericstate.41Furthermore,progressivemulti-
+sitephosphorylationofNPM1withinitsN-terminaldomainmod-
+MembersofthehATG8familyorchestrateautophagy,ahighly ulatesitsoligomerizationstate,pushingthisequilibriumtoward
+regulated process. However, it is still unclear how distinct monomers.
+hATG8 subfamilies, e.g., members of the LC3 and the ThepotentialinvolvementofPTMs,e.g.,phosphorylationof
+GABARAP branch, regulate the autophagy-lysosome network. NPM1atS4andS10withintheaLIRofNPM1, indicatesthat
+Here, we show that the nucleolar scaffold protein NPM1 and the interaction can be regulated depending on distinct
+its predominantly cytosolic AML-associated variant NMP1c signaling events. Notably, S4 and S10 in NPM1 are targeted
+stimulate the autophagic flux and specifically bind to the by the mitotic kinase PLK1, suggesting a cell-cycle-depen-
+GABARAPsubfamilyofhATG8proteins.Ourdataindicatethat dent control of GABARAP-NPM1 interaction.36 Intriguingly,
+CellReports42,113484,December26,2023 11
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+A B C
+D E F
+Figure7. Pro-autophagicpropertyofNPM1cisGABARAP-bindingdependent
+(A)ImmunoblotofaGSTpull-downwithimmobilizedGST-GABARAPL1andHEKlysatewithFlag-NPM1candFlag-NPM1c11-298expression.
+(B)QuantificationofaPLAusingFlagandendogenousGABARAPantibodiesinU-2OScellsexpressingFlag-NPM1corFlag-NPM1c11-298underaTet-inducible
+promotor.CellsareadditionallydepletedofendogenousNPM1withsiRNA.Dataarepresentedasmean±SEM.Atleast32cellsarecountedpercondition.
+*p<0.05,asanalyzedbyatwo-sidedttest.
+(C)FluorescenceimagesofU-2OScellsexpressingFlag-NPM1corFlag-NPM1c11-298underaTet-induciblepromotorfrom(B)usingaFlag-specificantibody.
+Scalebar,10mm.
+(D)Quantificationofflowcytometricanalysiso
+
+Chunk 28:
+-NPM1corFlag-NPM1c11-298underaTet-inducible
+promotor.CellsareadditionallydepletedofendogenousNPM1withsiRNA.Dataarepresentedasmean±SEM.Atleast32cellsarecountedpercondition.
+*p<0.05,asanalyzedbyatwo-sidedttest.
+(C)FluorescenceimagesofU-2OScellsexpressingFlag-NPM1corFlag-NPM1c11-298underaTet-induciblepromotorfrom(B)usingaFlag-specificantibody.
+Scalebar,10mm.
+(D)QuantificationofflowcytometricanalysisofU-2OSGFP-LC3B-RFP-LC3BDGwithTet-inducibleFlag-NPM1corFlag-NPM1c11-298,treatedwithdoxycycline
+(0.1mg/mL)fortheindicatedtimepoints.Dataarepresentedasmean±SDofthenormalizedpercentageofcellsintheautophagy-positivegate,n=3biological
+replicates,**p<0.01,***p<0.001.Immunoblots(below)servetocontrolexpressionlevels.
+(E)Immunoblotswithwhole-cellfraction(WCF)andnuclearfraction(NF)ofU-2OScelllysateswithTet-inducibleFlag-NPM1corFlag-NPM1c11-298expression
+for24hwith0.1mg/mLdoxycycline.Histoneandtubulinareusedasloadingcontrols.BlotsfromFlag-NPM1cfl-expressingcellsarethesameasinFigure4D.
+(F)qPCRanalysisofGABARAPL1mRNAnormalizedtoGAPDHmRNAlevelsofU-2OScellswithTet-inducibleFlag-NPM1corFlag-NPM1c11-298expressionas
+in(E).Dataarepresentedasmean±SD,n=4biologicalreplicates,**p<0.01,***p<0.001,asanalyzedbyone-wayANOVAfollowedbyTukey’smultiple
+comparisontest.
+thebindingofNPM1isspecificfortheGABARAPsubfamilyof autophagic flux, demonstrating the requirement of NPM1 in
+thehATG8proteins.Theexactmoleculardeterminantsforthis promoting or maintaining the capacity of the autolysosomal
+specificity are currently unknown. Notably, however, most system. In accordance with this idea, enhanced expression
+membersoftheautophagycoremachinerydisplayspecificity of NPM1 drives the autophagic flux and promotes autolyso-
+for the GABARAP family proteins.42 Importantly, it has been some biogenesis. Importantly, the AML-associated NPM1c
+proposed that acidic residues at the C-terminal to a core also shows pro-autophagic activity, which depends on the
+LIR sequence, which are also present in NPM1, determine aLIR-containing 
+
+Chunk 29:
+utophagycoremachinerydisplayspecificity of NPM1 drives the autophagic flux and promotes autolyso-
+for the GABARAP family proteins.42 Importantly, it has been some biogenesis. Importantly, the AML-associated NPM1c
+proposed that acidic residues at the C-terminal to a core also shows pro-autophagic activity, which depends on the
+LIR sequence, which are also present in NPM1, determine aLIR-containing N-terminal domain. It is currently unclear
+theselectivityforGABARAPproteins.43Furthermore,residues why deletion of the N-terminal region from wild-type NPM1
+important for GABARAP-specific subfamily interaction in the (NPM111-294) does not affect its autophagic propensity. We
+LDS, such as Y25, F60, and L63, contribute to the aLIR- anticipate that the higher expression levels of NPM111-294 or
+NPM1 binding.44 its oligomerization with endogenous NPM1 compensate for
+Our functional data reveal a crucial role for NPM1 in the the lack of the N terminus. Noteworthy, in contrast to
+regulation of autophagy. Depletion of NPM1 in U-2 OS cells siRNA-mediated depletion of NPM1c from the NPM1c-posi-
+affects autophagosome formation, lysosome biogenesis, and tive OCI-AML3 cell line, downregulation of wild-type NPM1
+12 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+fromNPM1c-negativeHel276andMV4-11doesnotaffectthe GABARAPL1. Furthermore, we demonstrate that elevated
+autophagicflux,supportingourconclusionthatNPM1chasa expressionofNPM1andNPM1cstimulatethenucleartranslo-
+specific impact on autophagy in AML. cationofTFEBinaprocessthatlargelydependsonthebinding
+NPM1isamultifunctionalproteininvolvedinvariouscellular ofNPM1toGABARAPproteins.
+activitiesandassistsinthenucleo-cytoplasmictransportofpro- Consequently,theexpressionofNPM1orNPM1cleadstothe
+teins.45–47 Since autophagy induction involves the transfer of upregulation of lysosomal and autophagosomal proteins
+hATG8 proteins from the nucleus to the cytosol, NPM1 and controlled by TFEB. As we did not observe NPM1 or 
+
+Chunk 30:
+unctionalproteininvolvedinvariouscellular ofNPM1toGABARAPproteins.
+activitiesandassistsinthenucleo-cytoplasmictransportofpro- Consequently,theexpressionofNPM1orNPM1cleadstothe
+teins.45–47 Since autophagy induction involves the transfer of upregulation of lysosomal and autophagosomal proteins
+hATG8 proteins from the nucleus to the cytosol, NPM1 and controlled by TFEB. As we did not observe NPM1 or NPM1c
+NPM1c could exhibit their pro-autophagic potential by aiding interactionwithGABARAPproteinsonautophagosomesorau-
+thetransferofGABARAPproteinstothecytosolorbystabilizing tolysosomes,weanticipatethatNPM1/NPM1cactsmoreindi-
+itinthecytosol.37NPM1mayhaveadistinctroleinthespatial rectly by controlling the availability of GABARAPs to function
+control of GABARAP proteins at centrosomes.10,48–50 Notably, onautophagosomesandautolysosomes.SinceTFEBcontrols
+wild-typeNPM1shuttlesbetweenthenucleusandthecytosol, the expression of GABARAP proteins themselves, elevated
+likelyexplainingitsimpactonthelargelycytosoliceventsofau- NPM1andNPM1cdriveafeedforwardlooptoamplifytheauto-
+tophagicprocesses.WeproposethatNPM1cfostersthesepro- phagic process. This idea aligns with the strong increase of
+cessesduetoitsconstitutivecytosoliclocalization. GABARAPL1 mRNA and GABARAPL1 protein levels detected
+GABARAP family proteins control both the early and late uponexpressionofNPM1orNPM1c.
+steps of autophagy. At the initiation stage, the binding of HighNPM1expressioninsolidtumorsistypicallyassociated
+GABARAPs to ULK1 and ATG13 is essential for activating with a poor prognosis. So far, this has been correlated with
+ULK1 and the subsequent autophagosome formation.10,42 NPM1’sroleinribosomebiogenesis,butourdatasuggestthat
+Here, we confirm previous work demonstrating that expres- itmayalsobelinkedtotheactivationofautophagy.Expression
+sion of the NPM1c variant leads to increased ULK1 levels ofNPM1ciswidelyacceptedasanoncogenicdriverforAMLfor-
+correlating with enhanced phosphorylation of its substrate mation.
+
+Chunk 31:
+ith
+ULK1 and the subsequent autophagosome formation.10,42 NPM1’sroleinribosomebiogenesis,butourdatasuggestthat
+Here, we confirm previous work demonstrating that expres- itmayalsobelinkedtotheactivationofautophagy.Expression
+sion of the NPM1c variant leads to increased ULK1 levels ofNPM1ciswidelyacceptedasanoncogenicdriverforAMLfor-
+correlating with enhanced phosphorylation of its substrate mation.InNPM1c-positiveAML,autophagyisactivatedleading
+ATG14.51 These effects largely depend on the presence of toleukemiccellsurvival.38Althoughthishasbeenlinkedtothe
+the aLIR containing the N-terminal stretch of NPM1c. There- activationofseveralpro-autophagicsignalingpathways,51,56,57
+fore, we propose that NPM1c directly exerts its effects on ourdataprovideaunifyingandoverarching modelofNPM1c-
+ULK1 by increasing GABARAPL1 protein levels rather than inducedautophagythatreliesontheGABARAPbindingmodule
+indirectly through TRAF6 inactivation. Furthermore, TFEB- andtheactivationofTFEB.Wedemonstratethattargeteddegra-
+mediated transcriptional upregulation of ULK1 by NPM1c dationofNPM1cinOCI-AML3cellstriggersadownregulationof
+likely contributes to the observed increase in ULK1 levels. autophagosome/lysosome regulators, accompanied by the in-
+Despitetheseobservations,weobservedonlymoderateacti- duction of the inhibitory TFEB phosphorylation. We propose
+vation of ULK1 by NPM1c, indicating that its pro-autophagic that, through its constitutive delocalization to the cytosol,
+propensity is not solely dependent on this process. NPM1c greatly exacerbates the physiological role of NPM1 in
+In addition to their role in autophagy initiation, GABARAPs the autophagy-lysosome pathway. Targeting the interaction of
+exert distinct regulatory functions at later stages in the auto- GABARAPs and NPM1c may thus open a future therapeutic
+phagy-lysosome pathway, in particular during autolysosome avenueintreatingNPM1c-positiveAML.
+fusionandV-ATPase-dependentlysosomebiogenesis.11,33,52,53
+GABARAPs, but not LC3 p
+
+Chunk 32:
+ their role in autophagy initiation, GABARAPs the autophagy-lysosome pathway. Targeting the interaction of
+exert distinct regulatory functions at later stages in the auto- GABARAPs and NPM1c may thus open a future therapeutic
+phagy-lysosome pathway, in particular during autolysosome avenueintreatingNPM1c-positiveAML.
+fusionandV-ATPase-dependentlysosomebiogenesis.11,33,52,53
+GABARAPs, but not LC3 proteins, are essential to stimulate Limitationsofthestudy
+autophagy and lysosomal gene expression via activation of We demonstrate that NPM1wt and NPM1c interact with
+TFEB,themastertranscriptionregulatoroftheautophagy-lyso- GABARAP proteins via non-canonical aLIR-LDS interaction.
+somal pathway.54,55 Under nutrient-rich conditions, TFEB is Whilethisinteractionisimportantforthepro-autophagicpoten-
+keptinactivethroughphosphorylation bymTOR.Thisismedi- tialofNPM1c,wecouldnotshowthisforNPM1.Inlinewiththis
+atedbytheV-ATPase-Ragulatorcomplex,whichtriggerslocal observation,weshowedthattheautophagicfluxinNPM1c-pos-
+activationofmTORatthelysosomalmembrane.Duringstarva- itiveAMLcellsdependsonNPM1c,butinNPM1c-negativeAML
+tion,theV-ATPase-Ragulatorcomplexsensesthelackofamino cellsthisseemstobeindependentofNPM1.Atthisstage,we
+acids in the lysosomal lumen, leading to mTOR release and cannot fully explain the mechanistic basis of the cell- and
+causing TFEB dephosphorylation, activation, and nuclear context-specific differences in the pro-autophagic potential of
+translocation.Althoughthemoleculardetailsarenotfullyunder- NPM1andNPM1c.Toconclusivelyaddressthispoint,alarger
+stood,itiswellestablishedthatGABARAPfamilymembersare panelofcelllinesandinvivomousemodelsareneeded.Further-
+necessary for the V-ATPase-dependent TFEB activation.9,33 more,itremainstobedeterminedhowbindingofGABARAPsto
+GABARAP-mediatedTFEBactivationcanbemodulatedbyfac- NPM1andNPM1cmediatesV-ATPase-regulatedTFEBactivity.
+torssuchasNUFIP2ortheFLCN/FNIP1/2complex,whichde- Moreover,futureworkneedstoaddresshowthispathwaycan
+pends o
+
+Chunk 33:
+tGABARAPfamilymembersare panelofcelllinesandinvivomousemodelsareneeded.Further-
+necessary for the V-ATPase-dependent TFEB activation.9,33 more,itremainstobedeterminedhowbindingofGABARAPsto
+GABARAP-mediatedTFEBactivationcanbemodulatedbyfac- NPM1andNPM1cmediatesV-ATPase-regulatedTFEBactivity.
+torssuchasNUFIP2ortheFLCN/FNIP1/2complex,whichde- Moreover,futureworkneedstoaddresshowthispathwaycan
+pends on their interaction with GABARAPs.9 We propose that beexploitedinNPM1c-positiveAMLcomprisingadditionalge-
+NPM1 and NPM1c significantly impact the autolysosome sys- neticalterations.23
+tembyprimarilycontrollingtheactivationofTFEB.Ourproteo-
+mic data suggest that NPM1 controls the association of STAR+METHODS
+GABARAPL1withcomponentsoftheV-ATPase.However,itis
+currently unclear whether the association of the V-ATPase Detailedmethodsareprovidedintheonlineversionofthispaper
+with GABARAPL1 occurs through lipidated or unlipidated andincludethefollowing:
+CellReports42,113484,December26,2023 13
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+d KEYRESOURCESTABLE formedtheNMRexperimentswiththehelpofF.L.undersupervisionofV.D.
+d RESOURCEAVAILABILITY andV.V.R.A.C.-P.providedsupportformicroscopicanalysisandconceptual-
+B Leadcontact izationoftheproject.G.T.ranthemassspectrometersandsupportedH.M.in
+dataanalysis. S.E.K., I.D., C.M.,A.B., L.B.,C.H.B., andH.U. provided re-
+B Materialsavailability
+agents,celllines,andcriticalscientificinput.H.M.,R.M.B.,andS.M.wrote
+B Dataandcodeavailability
+theinitialdraft.Allauthorsreviewedthemanuscriptgivingvaluablecomments.
+d EXPERIMENTALMODELANDSTUDYPARTICPANTDE-
+TAILS DECLARATIONOFINTERESTS
+d METHODDETAILS
+B Transfectionandtreatmentofcelllines Theauthorsdeclarenocompetinginterests.
+B GSTpulldownandinvitrointeraction
+Received:March29,2023
+B Cycloheximidechaseexperiment
+Revised:September22,2023
+B Subcellularfractionation
+Accepted:November8,2023
+B Celllysisandimmunoblotting Published:November22,2023
+B Proteinexpressionandpurification
+B Nuclearmagneticresonance(NMR)spe
+
+Chunk 34:
+ARATIONOFINTERESTS
+d METHODDETAILS
+B Transfectionandtreatmentofcelllines Theauthorsdeclarenocompetinginterests.
+B GSTpulldownandinvitrointeraction
+Received:March29,2023
+B Cycloheximidechaseexperiment
+Revised:September22,2023
+B Subcellularfractionation
+Accepted:November8,2023
+B Celllysisandimmunoblotting Published:November22,2023
+B Proteinexpressionandpurification
+B Nuclearmagneticresonance(NMR)spectroscopy REFERENCES
+B Peptidearray
+1.Lamark,T.,andJohansen,T.(2021).MechanismsofSelectiveAutophagy.
+B qRT-PCR
+Annu.Rev.CellDev.Biol.37,143–169.
+B Immunoprecipitationandsamplepreparation
+2.Yu,L.,Chen,Y.,andTooze,S.A.(2018).Autophagypathway:Cellularand
+B Samplepreparationforthewholecellproteome
+molecularmechanisms.Autophagy14,207–215.
+B Liquidchromatographyandmassspectrometry
+3.Kang,C.,andAvery,L.(2008).Tobeornottobe,thelevelofautophagyis
+B Massspectrometrydataprocessing
+thequestion:dualrolesofautophagyinthesurvivalresponsetostarva-
+B Massspectrometrydataanalyses tion.Autophagy4,82–84.
+B Proximityligationassayandconfocalmicroscopy 4.Hosokawa,N.,Hara,T.,Kaizuka,T.,Kishi,C.,Takamura,A.,Miura,Y.,
+B YokogawaCQ1microscopyimaging Iemura, S.i., Natsume, T., Takehana, K., Yamada, N., et al. (2009).
+B Lysotrackerstainingandlivecellmicroscopy Nutrient-dependent mTORC1 association with the ULK1-Atg13-FIP200
+B Flowcytometryanalysis complexrequiredforautophagy.Mol.Biol.Cell20,1981–1991.
+B Modelingandsimulationsofproteincomplexes 5.Jung,C.H.,Jun,C.B.,Ro,S.H.,Kim,Y.M.,Otto,N.M.,Cao,J.,Kundu,M.,
+and Kim, D.H. (2009). ULK-Atg13-FIP200 complexes mediate mTOR
+B Interfacemapping,contactmaps,andcomparisons
+signalingtotheautophagymachinery.Mol.Biol.Cell20,1992–2003.
+d QUANTIFICATIONANDSTATISTICALANALYSIS
+6.Rogov,V.,Do¨tsch,V.,Johansen,T.,andKirkin,V.(2014).Interactionsbe-
+tweenautophagyreceptorsandubiquitin-likeproteinsformthemolecular
+SUPPLEMENTALINFORMATION basisforselectiveautophagy.Mol.Cell53,167–178.
+7.Wesch, N., Kirkin, V., and Rogov, V.V. (2020). Atg8-Family Proteins-
+Supplemental informat
+
+Chunk 35:
+ons
+signalingtotheautophagymachinery.Mol.Biol.Cell20,1992–2003.
+d QUANTIFICATIONANDSTATISTICALANALYSIS
+6.Rogov,V.,Do¨tsch,V.,Johansen,T.,andKirkin,V.(2014).Interactionsbe-
+tweenautophagyreceptorsandubiquitin-likeproteinsformthemolecular
+SUPPLEMENTALINFORMATION basisforselectiveautophagy.Mol.Cell53,167–178.
+7.Wesch, N., Kirkin, V., and Rogov, V.V. (2020). Atg8-Family Proteins-
+Supplemental information can be found online at https://doi.org/10.1016/j.
+StructuralFeaturesandMolecularInteractionsinAutophagyandBeyond.
+celrep.2023.113484.
+Cells9.
+8.Weidberg,H.,Shvets,E.,Shpilka,T.,Shimron,F.,Shinder,V.,andElazar,
+ACKNOWLEDGMENTS
+Z.(2010).LC3andGATE-16/GABARAPsubfamiliesarebothessentialyet
+actdifferentlyinautophagosomebiogenesis.EMBOJ.29,1792–1802.
+ThisworkwasfundedbytheDeutscheForschungsgemeinschaft(DFG)SFB/
+CRC1177,grant/awardno.Project-ID259130777-SFB1177(toC.L.,R.M.B., 9.Goodwin,J.M.,Walkup,W.G.,4th,Hooper,K.,Li,T.,Kishi-Itakura,C.,Ng,
+H.M.,S.M.,A.C.,I.D.,G.T.,C.M.,A.K.,V.D.,A.B.,andC.H.B.).S.M.issup- A., Lehmberg, T., Jha, A., Kommineni, S., Fletcher, K., et al. (2021).
+ported by DFG grant MU-1764/6, Project-ID 465470262 and DFG grant GABARAP sequesters the FLCN-FNIP tumor suppressor complex to
+MU-1764/7,Project-ID494535244.ThisresearchusedtheGoethe-HLRclus- coupleautophagywithlysosomalbiogenesis.Sci.Adv.7,eabj2485.
+terandcomputationalresourcesfromtheCenterforScientificComputing, 10.Joachim,J.,andTooze,S.A.(2016).GABARAPactivatesULK1andtraf-
+Goethe University Frankfurt. S.A.P.C., R.M.B., and S.M. are supported by fics from the centrosome dependent on Golgi partners WAC and
+theClusterprojectENABLEfundedbytheHessianMinistryforScienceand GOLGA2/GM130.Autophagy12,892–893.
+theArts.V.V.R.issupportedbytheStructuralGenomicsConsortium(SGC). 11.Johansen,T.,andLamark,T.(2020).SelectiveAutophagy:ATG8Family
+WethanktheQuantitativeProteomicsUnitatIBC2(GoetheUniversity,Frank- Proteins,LIRMotifsandCargoReceptors.J.Mol.Biol.432,80–103.
+furt),particularlyMartinAdrian-Allgood,fortechnical
+
+Chunk 36:
+ClusterprojectENABLEfundedbytheHessianMinistryforScienceand GOLGA2/GM130.Autophagy12,892–893.
+theArts.V.V.R.issupportedbytheStructuralGenomicsConsortium(SGC). 11.Johansen,T.,andLamark,T.(2020).SelectiveAutophagy:ATG8Family
+WethanktheQuantitativeProteomicsUnitatIBC2(GoetheUniversity,Frank- Proteins,LIRMotifsandCargoReceptors.J.Mol.Biol.432,80–103.
+furt),particularlyMartinAdrian-Allgood,fortechnicalassistance,KristinaWag- 12.Birgisdottir,A˚.B.,Lamark,T.,andJohansen,T.(2013).TheLIRmotif-
+nerforproducingnano-LCcolumns,andDavidKrauseforhelpin(bio)infor-
+crucialforselectiveautophagy.J.CellSci.126,3237–3247.
+matics.WethankMarcSawatzkiforgeneratinginitialpreliminarydatainthis
+13.Noda,N.N.,Ohsumi,Y.,andInagaki,F.(2010).Atg8-familyinteracting
+project.WethanktheDFGforfundingoftheLC-MSsystems,namelythe
+motifcrucialforselectiveautophagy.FEBSLett.584,1379–1385.
+easynLC1200,QExactiveHF(Project-ID259130777,SFB1177—Selective
+Autophagy),andtheeasynLC1200,OrbitrapFusionLUMOS(FuGGProject- 14.Rogov,V.V.,Suzuki,H.,Fiskin,E.,Wild,P.,Kniss,A.,Rozenknop,A.,Kato,
+ID 403765277), as well as the European Fonds for regional development R.,Kawasaki,M.,McEwan,D.G.,Lo¨hr,F.,etal.(2013).Structuralbasisfor
+(REACT-EU, IWB-EFRE-program Hessen, 20008763) for the VanquishNeo, phosphorylation-triggeredautophagicclearanceofSalmonella.Biochem.
+OrbitrapAscendLC-MSsystems. J.454,459–466.
+15.Wild,P.,Farhan,H.,McEwan,D.G.,Wagner,S.,Rogov,V.V.,Brady,N.R.,
+AUTHORCONTRIBUTIONS Richter,B.,Korac,J.,Waidmann,O.,Choudhary,C.,etal.(2011).Phos-
+phorylation of the autophagy receptor optineurin restricts Salmonella
+S.M.supervisedtheproject.H.M.performedthebiochemicalandcellbiolog- growth.Science333,228–233.
+icalexperiments.C.L.andS.A.P.C.performedstructuralmodeling,MDsimu- 16.Huber,J.,Obata,M.,Gruber,J.,Akutsu,M.,Lo¨hr,F.,Rogova,N.,Gu€ntert,
+lations,andanalysisofallsimulationdatawithsupportfromR.M.B.A.K.per- P.,Dikic,I.,Kirkin,V.,Komatsu,M.,etal.(2020).AnatypicalLIRmotif
+14 CellReports42,113484,December26,2023
+
+---PAGE BR
+
+Chunk 37:
+theproject.H.M.performedthebiochemicalandcellbiolog- growth.Science333,228–233.
+icalexperiments.C.L.andS.A.P.C.performedstructuralmodeling,MDsimu- 16.Huber,J.,Obata,M.,Gruber,J.,Akutsu,M.,Lo¨hr,F.,Rogova,N.,Gu€ntert,
+lations,andanalysisofallsimulationdatawithsupportfromR.M.B.A.K.per- P.,Dikic,I.,Kirkin,V.,Komatsu,M.,etal.(2020).AnatypicalLIRmotif
+14 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+withinUBA5(ubiquitinlikemodifieractivatingenzyme5)interactswith (2018).MutantNPM1MaintainstheLeukemicStatethroughHOXExpres-
+GABARAPproteinsandmediatesmembranelocalizationofUBA5.Auto- sion.CancerCell34,499–512.e9.
+phagy16,256–270. 35.Wang,X.Q.D.,Fan,D.,Han,Q.,Liu,Y.,Miao,H.,Wang,X.,Li,Q.,Chen,D.,
+17.vonMuhlinen,N.,Akutsu,M.,Ravenhill,B.J.,Foeglein,A´.,Bloor,S.,Ruth- Gore,H.,Himadewi,P.,etal.(2023).MutantNPM1HijacksTranscriptional
+erford,T.J.,Freund,S.M.V.,Komander,D.,andRandow,F.(2012).LC3C, HubstoMaintainPathogenicGeneProgramsinAcuteMyeloidLeukemia.
+boundselectivelybyanoncanonicalLIRmotifinNDP52,isrequiredfor CancerDiscov.13,724–745.
+antibacterialautophagy.Mol.Cell48,329–342. 36.Zhang,H.,Shi,X.,Paddon,H.,Hampong,M.,Dai,W.,andPelech,S.
+18.Aman,Y.,Schmauck-Medina,T.,Hansen,M.,Morimoto,R.I.,Simon,A.K., (2004). B23/nucleophosmin serine 4 phosphorylation mediates mitotic
+Bjedov,I.,Palikaras,K.,Simonsen,A.,Johansen,T.,Tavernarakis,N., functionsofpolo-likekinase1.J.Biol.Chem.279,35726–35734.
+et al. (2021). Autophagy in healthy aging and disease. Nat. Aging 1, 37.Huang,R.,Xu,Y.,Wan,W.,Shou,X.,Qian,J.,You,Z.,Liu,B.,Chang,C.,
+634–650. Zhou,T.,Lippincott-Schwartz,J.,andLiu,W.(2015).Deacetylationofnu-
+19.Klionsky,D.J.,Petroni,G.,Amaravadi,R.K.,Baehrecke,E.H.,Ballabio,A., clearLC3drivesautophagyinitiationunderstarvation.Mol.Cell57,456–466.
+Boya,P.,Bravo-SanPedro,J.M.,Cadwell,K.,Cecconi,F.,Choi,A.M.K., 38.Du,W.,Xu,A.,Huang,Y.,Cao,J.,Zhu,H.,Yang,B.,Shao,X.,He,Q.,and
+etal.(2021).Autophagyinmajorhumandiseases.EMBOJ.40,e108863. Ying, M. (2021). The role of autop
+
+Chunk 38:
+,J.,andLiu,W.(2015).Deacetylationofnu-
+19.Klionsky,D.J.,Petroni,G.,Amaravadi,R.K.,Baehrecke,E.H.,Ballabio,A., clearLC3drivesautophagyinitiationunderstarvation.Mol.Cell57,456–466.
+Boya,P.,Bravo-SanPedro,J.M.,Cadwell,K.,Cecconi,F.,Choi,A.M.K., 38.Du,W.,Xu,A.,Huang,Y.,Cao,J.,Zhu,H.,Yang,B.,Shao,X.,He,Q.,and
+etal.(2021).Autophagyinmajorhumandiseases.EMBOJ.40,e108863. Ying, M. (2021). The role of autophagy in targeted therapy for acute
+20.Koschade,S.E.,andBrandts,C.H.(2020).SelectiveAutophagyinNormal myeloidleukemia.Autophagy17,2665–2679.
+andMalignantHematopoiesis.J.Mol.Biol.432,261–282. 39.Rogov,V.V.,Stolz,A.,Ravichandran,A.C.,Rios-Szwed,D.O.,Suzuki,H.,
+21.Koschade,S.E.,Klann,K.,Shaid,S.,Vick,B.,Stratmann,J.A.,Tho¨lken, Kniss,A.,Lo¨hr,F.,Wakatsuki,S.,Do¨tsch,V.,Dikic,I.,etal.(2017).Struc-
+M., Meyer, L.M., Nguyen, T.D., Campe, J., Moser, L.M., et al. (2022). tural and functional analysis of the GABARAP interaction motif (GIM).
+Translatomeproteomicsidentifiesautophagyasaresistancemechanism EMBORep.18,1382–1396.
+to on-target FLT3 inhibitors in acute myeloid leukemia. Leukemia 36, 40.Cristiani,A.,Dutta,A.,Poveda-Cuevas,S.A.,Kern,A.,andBhaskara,R.M.
+2396–2407. (2023).Identificationofpotentialselectiveautophagyreceptorsfrompro-
+22.Qiu,S.,Kumar,H.,Yan,C.,Li,H.,Paterson,A.J.,Anderson,N.R.,He,J., tein-contentprofilingofautophagosomes.J.Cell.Biochem.
+Yang,J.,Xie,M.,Crossman,D.K.,etal.(2022).Autophagyinhibitionim- 41.Mitrea,D.M.,Grace,C.R.,Buljan,M.,Yun,M.K.,Pytel,N.J.,Satumba,J.,
+pairsleukemiastemcellfunctioninFLT3-ITDAMLbuthasantagonisticin- Nourse,A.,Park,C.G.,MadanBabu,M.,White,S.W.,andKriwacki,R.W.
+teractionswithtyrosinekinaseinhibition.Leukemia36,2621–2633. (2014).StructuralpolymorphismintheN-terminaloligomerizationdomain
+23.Ranieri,R.,Pianigiani,G.,Sciabolacci,S.,Perriello,V.M.,Marra,A.,Cardi- ofNPM1.Proc.Natl.Acad.Sci.USA111,4466–4471.
+nali,V.,Pierangeli,S.,Milano,F.,Gionfriddo,I.,Brunetti,L.,etal.(2022). 42.Alemu,E.A.,Lamark,T.,Torgersen,K.M.,Birgisdottir,A.B.,Larsen,K.B.
+
+Chunk 39:
+ndKriwacki,R.W.
+teractionswithtyrosinekinaseinhibition.Leukemia36,2621–2633. (2014).StructuralpolymorphismintheN-terminaloligomerizationdomain
+23.Ranieri,R.,Pianigiani,G.,Sciabolacci,S.,Perriello,V.M.,Marra,A.,Cardi- ofNPM1.Proc.Natl.Acad.Sci.USA111,4466–4471.
+nali,V.,Pierangeli,S.,Milano,F.,Gionfriddo,I.,Brunetti,L.,etal.(2022). 42.Alemu,E.A.,Lamark,T.,Torgersen,K.M.,Birgisdottir,A.B.,Larsen,K.B.,
+Current status and future perspectives in targeted therapy of NPM1- Jain,A.,Olsvik,H.,Øvervatn,A.,Kirkin,V.,andJohansen,T.(2012).ATG8
+mutatedAML.Leukemia36,2351–2367. family proteins act as scaffolds for assembly of the ULK complex:
+24.Shi,Y.,Xue,Y.,Wang,C.,andYu,L.(2022).Nucleophosmin1:fromits sequence requirements for LC3-interacting region (LIR) motifs. J. Biol.
+pathogenicroletoatantalizingtherapeutictargetinacutemyeloidleuke- Chem.287,39275–39290.
+mia.Hematology27,609–619. 43.Birgisdottir,A˚.B.,Mouilleron,S.,Bhujabal,Z.,Wirth,M.,Sjøttem,E.,Evjen,
+25.Grisendi,S.,Mecucci,C.,Falini,B.,andPandolfi,P.P.(2006).Nucleo- G.,Zhang,W.,Lee,R.,O’Reilly,N.,Tooze,S.A.,etal.(2019).Membersof
+phosminandcancer.Nat.Rev.Cancer6,493–505. the autophagy class III phosphatidylinositol 3-kinase complex I interact
+26.Falini,B.,Brunetti,L.,Sportoletti,P.,andMartelli,M.P.(2020).NPM1- withGABARAPandGABARAPL1viaLIRmotifs.Autophagy15,1333–1355.
+mutated acute myeloid leukemia: from bench to bedside. Blood 136, 44.Sora,V.,Kumar,M.,Maiani,E.,Lambrughi,M.,Tiberti,M.,andPapaleo,E.
+1707–1721. (2020).StructureandDynamicsintheATG8FamilyFromExperimentalto
+27.Falini,B.,Mecucci,C.,Tiacci,E.,Alcalay,M.,Rosati,R.,Pasqualucci,L., ComputationalTechniques.Front.CellDev.Biol.8,420.
+LaStarza,R.,Diverio,D.,Colombo,E.,Santucci,A.,etal.(2005).Cyto- 45.Colombo,E.,Alcalay,M.,andPelicci,P.G.(2011).Nucleophosminandits
+plasmicnucleophosmininacutemyelogenousleukemiawithanormalkar- complexnetwork:apossibletherapeutictargetinhematologicaldiseases.
+yotype.N.Engl.J.Med.352,254–266. Oncogene30,2595–2609.
+28.Kaizuka,T.,Morishita,H.
+
+Chunk 40:
+lucci,L., ComputationalTechniques.Front.CellDev.Biol.8,420.
+LaStarza,R.,Diverio,D.,Colombo,E.,Santucci,A.,etal.(2005).Cyto- 45.Colombo,E.,Alcalay,M.,andPelicci,P.G.(2011).Nucleophosminandits
+plasmicnucleophosmininacutemyelogenousleukemiawithanormalkar- complexnetwork:apossibletherapeutictargetinhematologicaldiseases.
+yotype.N.Engl.J.Med.352,254–266. Oncogene30,2595–2609.
+28.Kaizuka,T.,Morishita,H.,Hama,Y.,Tsukamoto,S.,Matsui,T.,Toyota,Y., 46.Lo´pez,D.J.,Rodrı´guez,J.A.,andBan˜uelos,S.(2020).Nucleophosmin,a
+Kodama,A.,Ishihara,T.,Mizushima,T.,andMizushima,N.(2016).AnAu- multifunctionalnucleolarorganizerwitharoleinDNArepair.Biochim.Bio-
+tophagic Flux Probe that Releases an Internal Control. Mol. Cell 64, phys.Acta.ProteinsProteom.1868,140532.
+835–849. 47.Yu,Y.,Maggi,L.B.,Jr.,Brady,S.N.,Apicelli,A.J.,Dai,M.S.,Lu,H.,and
+29.Du, W., Li, J., Sipple, J., Chen, J., and Pang, Q. (2010). Cytoplasmic Weber,J.D.(2006).NucleophosminisessentialforribosomalproteinL5
+FANCA-FANCCcomplexinteractsandstabilizesthecytoplasm-dislocal- nuclearexport.Mol.CellBiol.26,3798–3809.
+izedleukemicnucleophosminprotein(NPMc).J.Biol.Chem.285,37436– 48.Joachim, J., and Tooze, S.A. (2017). Centrosome to autophagosome
+37444. signaling: Specific GABARAP regulation by centriolar satellites. Auto-
+30.Kimura,S.,Noda,T.,andYoshimori,T.(2007).Dissectionoftheautopha- phagy13,2113–2114.
+gosomematurationprocessbyanovelreporterprotein,tandemfluores- 49.Reboutier,D.,Troadec,M.B.,Cremet,J.Y.,Fukasawa,K.,andPrigent,C.
+cent-taggedLC3.Autophagy3,452–460. (2012).Nucleophosmin/B23activatesAuroraAatthecentrosomethrough
+31.Wild,P.,McEwan,D.G.,andDikic,I.(2014).TheLC3interactomeata phosphorylationofserine89.J.CellBiol.197,19–26.
+glance.J.CellSci.127,3–9. 50.Shinmura,K.,Tarapore,P.,Tokuyama,Y.,George,K.R.,andFukasawa,
+32.Jewell,J.L.,Russell,R.C.,andGuan,K.L.(2013).Aminoacidsignallingup- K. (2005). Characterization of centrosomal association of nucleophos-
+streamofmTOR.Nat.Rev.Mol.CellBiol.14,133–139. min/B23linkedtoCrm1activi
+
+Chunk 41:
+McEwan,D.G.,andDikic,I.(2014).TheLC3interactomeata phosphorylationofserine89.J.CellBiol.197,19–26.
+glance.J.CellSci.127,3–9. 50.Shinmura,K.,Tarapore,P.,Tokuyama,Y.,George,K.R.,andFukasawa,
+32.Jewell,J.L.,Russell,R.C.,andGuan,K.L.(2013).Aminoacidsignallingup- K. (2005). Characterization of centrosomal association of nucleophos-
+streamofmTOR.Nat.Rev.Mol.CellBiol.14,133–139. min/B23linkedtoCrm1activity.FEBSLett.579,6621–6634.
+33.Kumar,S.,Jain,A.,Choi,S.W.,daSilva,G.P.D.,Allers,L.,Mudd,M.H.,Pe- 51.Tang,Y.,Tao,Y.,Wang,L.,Yang,L.,Jing,Y.,Jiang,X.,Lei,L.,Yang,Z.,
+ters,R.S.,Anonsen,J.H.,Rusten,T.E.,Lazarou,M.,andDeretic,V.(2020). Wang,X.,Peng,M.,etal.(2021).NPM1mutantmaintainsULK1protein
+MammalianAtg8proteinsandtheautophagyfactorIRGMcontrolmTOR stabilityviaTRAF6-dependentubiquitinationtopromoteautophagiccell
+andTFEBataregulatorynodecriticalforresponsestopathogens.Nat. survivalinleukemia.FASEBJ35,e21192.
+CellBiol.22,973–985. 52.Kumar,S.,Jain,A.,Choi,S.W.,PeixotoDuartedaSilva,G.,Allers,L.,
+34.Brunetti,L.,Gundry,M.C.,Sorcini,D.,Guzman,A.G.,Huang,Y.H.,Ram- Mudd,M.H.,Peters,R.S.,Anonsen,J.H.,Rusten,T.E.,Lazarou,M.,and
+abadran,R.,Gionfriddo,I.,Mezzasoma,F.,Milano,F.,Nabet,B.,etal. Deretic, V. (2020). Mammalian Atg8-family proteins are upstream
+CellReports42,113484,December26,2023 15
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+regulatorsofthelysosomalsystembycontrollingMTORandTFEB.Auto- 71.Michaud-Agrawal,N.,Denning,E.J.,Woolf,T.B.,andBeckstein,O.(2011).
+phagy16,2305–2306. MDAnalysis:atoolkitfortheanalysisofmoleculardynamicssimulations.
+53. Nakamura,S.,Akayama,S.,andYoshimori,T.(2022).Non-canonicalroles J.Comput.Chem.32,2319–2327.
+ofATG8forTFEBactivation.Biochem.Soc.Trans.50,47–54. 72.Gowers,R.J.,Linke,M.,Barnoud,J.,Reddy,T.J.E.,Melo,M.N.,Seyler,
+54. Sardiello,M.,Palmieri,M.,diRonza,A.,Medina,D.L.,Valenza,M.,Gen- S.L.,Dotson,D.L.,Domanski,J.,Buchoux,S.,Kenney,I.M.,andBeck-
+narino,V.A.,DiMalta,C.,Donaudy,F.,Embrione,V.,Polishchuk,R.S., stein,O.(2016).Beckstein.MDAnalysis:APythonpackag
+
+Chunk 42:
+nonicalroles J.Comput.Chem.32,2319–2327.
+ofATG8forTFEBactivation.Biochem.Soc.Trans.50,47–54. 72.Gowers,R.J.,Linke,M.,Barnoud,J.,Reddy,T.J.E.,Melo,M.N.,Seyler,
+54. Sardiello,M.,Palmieri,M.,diRonza,A.,Medina,D.L.,Valenza,M.,Gen- S.L.,Dotson,D.L.,Domanski,J.,Buchoux,S.,Kenney,I.M.,andBeck-
+narino,V.A.,DiMalta,C.,Donaudy,F.,Embrione,V.,Polishchuk,R.S., stein,O.(2016).Beckstein.MDAnalysis:APythonpackagefortherapid
+etal.(2009).Agenenetworkregulatinglysosomalbiogenesisandfunc- analysis of molecular dynamics simulations (Austin, TX: SciPy),
+tion.Science325,473–477. pp.98–105.https://doi.org/10.25080/majora-629e541a-00e.
+55. Settembre,C.,DiMalta,C.,Polito,V.A.,GarciaArencibia,M.,Vetrini,F., 73.Tyanova,S.,Temu,T.,andCox,J.(2016).TheMaxQuantcomputational
+Erdin, S., Erdin, S.U., Huynh, T., Medina, D., Colella, P., et al. (2011). platformformassspectrometry-basedshotgunproteomics.Nat.Protoc.
+TFEBlinksautophagytolysosomalbiogenesis.Science332,1429–1433. 11,2301–2319.
+56. Wang,L.,Yang,L.,Yang,Z.,Tang,Y.,Tao,Y.,Zhan,Q.,Lei,L.,Jing,Y., 74.Harris,C.R.,Millman,K.J.,vanderWalt,S.J.,Gommers,R.,Virtanen,P.,
+Jiang,X.,Jin,H.,etal.(2019).GlycolyticEnzymePKM2MediatesAuto- Cournapeau,D.,Wieser,E.,Taylor,J.,Berg,S.,Smith,N.J.,etal.(2020).
+phagicActivationtoPromoteCellSurvivalinNPM1-MutatedLeukemia. ArrayprogrammingwithNumPy.Nature585,357–362.
+Int.J.Biol.Sci.15,882–894. 75.Virtanen,P.,Gommers,R.,Oliphant,T.E.,Haberland,M.,Reddy,T.,Cour-
+57. Zou,Q.,Tan,S.,Yang,Z.,Zhan,Q.,Jin,H.,Xian,J.,Zhang,S.,Yang,L., napeau,D.,Burovski,E.,Peterson,P.,Weckesser,W.,Bright,J.,etal.
+Wang,L.,andZhang,L.(2017).NPM1MutantMediatedPMLDelocaliza- (2020).SciPy1.0:fundamentalalgorithmsforscientificcomputinginPy-
+tionandStabilizationEnhancesAutophagyandCellSurvivalinLeukemic thon.Nat.Methods17,261–272.
+Cells.Theranostics7,2289–2304.
+76.Lee, W., Tonelli, M., and Markley, J.L. (2015). NMRFAM-SPARKY:
+58. Hertel,A.,Alves,L.M.,Dutz,H.,Tascher,G.,Bonn,F.,Kaulich,M.,Dikic,I., enhancedsoftwareforbiomolecularNMRspectroscopy.Bioinf
+
+Chunk 43:
+diatedPMLDelocaliza- (2020).SciPy1.0:fundamentalalgorithmsforscientificcomputinginPy-
+tionandStabilizationEnhancesAutophagyandCellSurvivalinLeukemic thon.Nat.Methods17,261–272.
+Cells.Theranostics7,2289–2304.
+76.Lee, W., Tonelli, M., and Markley, J.L. (2015). NMRFAM-SPARKY:
+58. Hertel,A.,Alves,L.M.,Dutz,H.,Tascher,G.,Bonn,F.,Kaulich,M.,Dikic,I., enhancedsoftwareforbiomolecularNMRspectroscopy.Bioinformatics
+Eimer, S., Steinberg, F., and Bremm, A. (2022). USP32-regulated 31,1325–1327.
+LAMTOR1ubiquitinationimpactsmTORC1activationandautophagyin-
+77.Baeken,M.W.,Weckmann, K., Diefenthaler, P.,Schulte,J.,Yusifli,K.,
+duction.CellRep.41,111653.
+Moosmann,B.,Behl,C.,andHajieva,P.(2020).NovelInsightsintothe
+59. Haindl, M., Harasim, T., Eick, D., and Muller, S. (2008). The nucleolar Cellular Localization and Regulation of the Autophagosomal Proteins
+SUMO-specificproteaseSENP3reversesSUMOmodificationofnucleo- LC3A,LC3BandLC3C.Cells9.
+phosminandisrequiredforrRNAprocessing.EMBORep.9,273–279.
+78.Farjon, J., Boisbouvier, J., Schanda, P., Pardi, A., Simorre, J.P., and
+60. Kirkin, V., Lamark, T., Sou, Y.S., Bjørkøy, G., Nunn, J.L., Bruun, J.A., Brutscher,B.(2009).Longitudinal-relaxation-enhancedNMRexperiments
+Shvets,E.,McEwan,D.G.,Clausen,T.H.,Wild,P.,etal.(2009).Arole forthestudyofnucleicacidsinsolution.J.Am.Chem.Soc.131,8571–8577.
+for NBR1 in autophagosomal degradation of ubiquitinated substrates.
+79.Williamson,M.P.(2013).Usingchemicalshiftperturbationtocharacterise
+Mol.Cell33,505–516.
+ligandbinding.Prog.Nucl.Magn.Reson.Spectrosc.73,1–16.
+61. Bornkamm,G.W.,Berens,C.,Kuklik-Roos,C.,Bechet,J.M.,Laux,G.,
+80.Harris,R.K.,Becker,E.D.,CabraldeMenezes,S.M.,Goodfellow,R.,and
+Bachl,J.,Korndoerfer,M.,Schlee,M.,Ho¨lzel,M.,Malamoussi,A.,etal.
+Granger,P.(2002).NMRNomenclature:NuclearSpinPropertiesandCon-
+(2005).Stringentdoxycycline-dependentcontrolofgeneactivitiesusing
+ventionsforChemicalShifts.IUPACRecommendations2001.SolidState
+anepisomalone-vectorsystem.NucleicAcidsRes.33,e137.
+Nucl.Magn.Reson.2
+
+Chunk 44:
+,Laux,G.,
+80.Harris,R.K.,Becker,E.D.,CabraldeMenezes,S.M.,Goodfellow,R.,and
+Bachl,J.,Korndoerfer,M.,Schlee,M.,Ho¨lzel,M.,Malamoussi,A.,etal.
+Granger,P.(2002).NMRNomenclature:NuclearSpinPropertiesandCon-
+(2005).Stringentdoxycycline-dependentcontrolofgeneactivitiesusing
+ventionsforChemicalShifts.IUPACRecommendations2001.SolidState
+anepisomalone-vectorsystem.NucleicAcidsRes.33,e137.
+Nucl.Magn.Reson.22,458–483.
+62. Jumper,J.,Evans,R.,Pritzel,A.,Green,T.,Figurnov,M.,Ronneberger,O.,
+Tunyasuvunakool,K.,Bates,R.,Z
+(cid:2)
+ı´dek,A.,Potapenko,A.,etal.(2021).
+81.Rasmussen,M.S.,Birgisdottir,A˚.B.,andJohansen,T.(2019).UseofPep-
+HighlyaccurateproteinstructurepredictionwithAlphaFold.Nature596, tideArraysforIdentificationandCharacterizationofLIRMotifs.Methods
+583–589. Mol.Biol.1880,149–161.
+63. Evans,R.,O’Neill,M.,Pritzel,A.,Antropova,N.,Senior,A.,Green,T., 82.Kulak,N.A.,Pichler,G.,Paron,I.,Nagaraj,N.,andMann,M.(2014).Min-
+Z (cid:2) ı´dek,A.,Bates,R.,Blackwell,S.,Yim,J.,etal.(2022).Proteincomplex imal,encapsulatedproteomic-sampleprocessingappliedtocopy-num-
+predictionwithalphafold-multimer.PreprintatbioRxiv. berestimationineukaryoticcells.Nat.Methods11,319–324.
+64. Huang,D.W.,Sherman,B.T.,andLempicki,R.A.(2009).Systematicand 83.Demel,U.M.,Bo¨ger,M.,Yousefian,S.,Grunert,C.,Zhang,L.,Hotz,P.W.,
+integrative analysis of large gene lists using DAVID bioinformatics re- Gottschlich,A.,Ko¨se,H.,Isaakidis,K.,Vonficht,D.,etal.(2022).Activated
+sources.Nat.Protoc.4,44–57. SUMOylationrestrictsMHCclassIantigenpresentationtoconferimmune
+evasionincancer.J.Clin.Invest.132,e152383.
+65. Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M.,
+Pietzsch,T.,Preibisch,S.,Rueden, C.,Saalfeld,S.,Schmid,B.,etal. 84.McAlister,G.C.,Nusinow,D.P.,Jedrychowski,M.P.,Wu€hr,M.,Huttlin,
+(2012).Fiji:anopen-sourceplatformforbiological-imageanalysis.Nat. E.L.,Erickson,B.K.,Rad,R.,Haas,W.,andGygi,S.P.(2014).MultiNotch
+Methods9,676–682. MS3enablesaccurate,sensitive,andmultiplexeddetectionofdifferen-
+66. H
+
+Chunk 45:
+a-Carreras, I., Frise, E., Kaynig, V., Longair, M.,
+Pietzsch,T.,Preibisch,S.,Rueden, C.,Saalfeld,S.,Schmid,B.,etal. 84.McAlister,G.C.,Nusinow,D.P.,Jedrychowski,M.P.,Wu€hr,M.,Huttlin,
+(2012).Fiji:anopen-sourceplatformforbiological-imageanalysis.Nat. E.L.,Erickson,B.K.,Rad,R.,Haas,W.,andGygi,S.P.(2014).MultiNotch
+Methods9,676–682. MS3enablesaccurate,sensitive,andmultiplexeddetectionofdifferen-
+66. Hess,B.,Kutzner,C.,vanderSpoel,D.,andLindahl,E.(2008).GROMACS tial expression across cancer cell line proteomes. Anal. Chem. 86,
+4:AlgorithmsforHighlyEfficient,Load-Balanced,andScalableMolecular 7150–7158.
+Simulation.J.Chem.TheoryComput.4,435–447. 85.Elias, J.E., and Gygi, S.P. (2007). Target-decoy search strategy for
+67. Lindahl,E.,Hess,B.,andvanderSpoel,D.(2001).GROMACS3.0:apack- increasedconfidenceinlarge-scaleproteinidentificationsbymassspec-
+ageformolecular simulation andtrajectoryanalysis.J.Mol.Model. 7, trometry.Nat.Methods4,207–214.
+306–317. 86.Herhaus,L.,vandenBedem,H.,Tang,S.,Maslennikov,I.,Wakatsuki,S.,
+68. Pronk,S.,Pa´ll,S.,Schulz,R.,Larsson,P.,Bjelkmar,P.,Apostolov,R., Dikic,I.,andRahighi,S.(2019).MolecularRecognitionofM1-LinkedUbiq-
+Shirts,M.R.,Smith,J.C.,Kasson,P.M.,vanderSpoel,D.,etal.(2013). uitinChainsbyNativeandPhosphorylatedUBANDomains.J.Mol.Biol.
+GROMACS4.5:ahigh-throughputandhighlyparallelopensourcemolec- 431,3146–3156.
+ularsimulationtoolkit.Bioinformatics29,845–854. 87.HuangJ.,RauscherS.,NawrockiG.,RanT.,FeigM.,deGrootB.L.,Grub-
+69. Schneider,C.A.,Rasband,W.S.,andEliceiri,K.W.(2012).NIHImageto muellerH.,MacKerellA.D.CHARMM36m:AnImprovedForceFieldfor
+ImageJ:25yearsofimageanalysis.Nat.Methods9,671–675. Folded and Intrinsically Disordered Proteins. Nat. Methods 14, 71–73
+70. Cox,J.,Neuhauser,N.,Michalski,A.,Scheltema,R.A.,Olsen,J.V.,and (2017).doi:10.1038/nmeth.4067.PMID:27819658
+Mann,M.(2011).Andromeda: apeptide search engine integrated into 88.Jo,S.,Kim,T.,Iyer,V.G.,andIm,W.(2008).CHARMM-GUI:aweb-based
+theMaxQuantenvironment.J.ProteomeRes.10,1794–1805. 
+
+Chunk 46:
+earsofimageanalysis.Nat.Methods9,671–675. Folded and Intrinsically Disordered Proteins. Nat. Methods 14, 71–73
+70. Cox,J.,Neuhauser,N.,Michalski,A.,Scheltema,R.A.,Olsen,J.V.,and (2017).doi:10.1038/nmeth.4067.PMID:27819658
+Mann,M.(2011).Andromeda: apeptide search engine integrated into 88.Jo,S.,Kim,T.,Iyer,V.G.,andIm,W.(2008).CHARMM-GUI:aweb-based
+theMaxQuantenvironment.J.ProteomeRes.10,1794–1805. graphicaluserinterfaceforCHARMM.J.Comput.Chem.29,1859–1865.
+16 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+89.Nose´,S.(1984).Amoleculardynamicsmethodforsimulationsintheca- 91.Hoover,W.G.(1985).Canonicaldynamics:Equilibriumphase-spacedis-
+nonical ensemble. Mol. Phys. 52, 255–268. https://doi.org/10.1080/ tributions. Phys. Rev. A 31, 1695–1697. https://doi.org/10.1103/
+00268978400101201. PhysRevA.31.1695.
+90.Nose´,S.(1984).Aunifiedformulationoftheconstanttemperaturemolec- 92.Parrinello,M.,andRahman,A.(1981).Polymorphictransitionsinsingle
+ulardynamicsmethods.J.Chem.Phys.81,511–519.https://doi.org/10. crystals:Anewmoleculardynamicsmethod.J.Appl.Phys.52,7182–
+1063/1.447334. 7190.https://doi.org/10.1063/1.328693.
+CellReports42,113484,December26,2023 17
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+STAR+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+anti-Flag(M2) SigmaAldrich Cat#F1804;RRID:AB_262044
+anti-Vinculin SigmaAldrich Cat#V9131;RRID:AB_477628
+anti-b-Tubulin(E7) DevelopmentalStudies cloneE7
+HybridomaBank
+anti-B23(NA24) SantaCruz Cat#sc-53175;RRID:AB_630048
+anti-NPM1(FC-61991) Invitrogen Cat#32–5200;
+RRID:AB_2533084
+anti-p53(DO-1) SantaCruz Cat#sc-126;
+RRID:AB_628082
+anti-p62 Enzo Cat#BML-PW9860;
+RRID:AB_2196009
+anti-HistoneH3 Abcam Cat#ab1791;
+RRID:AB_302613
+anti-phopho-ATG14(Ser29)(D4B8M) CellSignaling Cat#92340;
+RRID:AB_2800182
+anti-phospho-p70S6Kinase(Thr389)(108D2) CellSignaling Cat#9234;
+RRID:AB_2269803
+anti-Ulk1(D8H5) CellSignaling Cat#8054;
+RRID:AB_11178668
+anti-His-TagAntiko¨rper(AD1.1.10) SantaCruz Cat#sc-5307
+
+Chunk 47:
+-1) SantaCruz Cat#sc-126;
+RRID:AB_628082
+anti-p62 Enzo Cat#BML-PW9860;
+RRID:AB_2196009
+anti-HistoneH3 Abcam Cat#ab1791;
+RRID:AB_302613
+anti-phopho-ATG14(Ser29)(D4B8M) CellSignaling Cat#92340;
+RRID:AB_2800182
+anti-phospho-p70S6Kinase(Thr389)(108D2) CellSignaling Cat#9234;
+RRID:AB_2269803
+anti-Ulk1(D8H5) CellSignaling Cat#8054;
+RRID:AB_11178668
+anti-His-TagAntiko¨rper(AD1.1.10) SantaCruz Cat#sc-53073;
+RRID:AB_783791
+anti-GST(B14) SantaCruz Cat#sc-138;
+RRID:AB_627677
+anti-GABARAPL1-specific Proteintech Cat#11010-1-AP;
+RRID:AB_2294415
+anti-LC3B CellSignaling Cat#2775;
+RRID:AB_915950
+anti-Lamp1 Abcam Cat#Ab24170;
+RRID:AB_775978
+Anti-phosphoTFEB(S211) CellSignaling Cat#37681;
+RRID:AB_2799117
+anti-GABARAP+GABARAPL1+ Abcam Cat#ab109364;
+GABARAPL2(EPR4805) RRID:AB_10861928
+anti-TFEB(D207D) CellSignaling Cat#37785;
+RRID:AB_2799119
+anti-NPM1c ThermoFisherScientific Cat#PA1-46356;
+RRID:AB_2267471
+anti-NPM1(all) SantaCruz Cat#sc-53175;
+RRID:AB_630048
+anti-mouse-HRP Dianova Cat#115-035-146
+anti-rabbit-HRP Dianova Cat#111-035-045
+anti-mouseIgG-IRDye800CW LI-COR Cat#926–32210;
+RRID:AB_621842
+anti-mouseIgG-IRDye800CW LI-COR Cat#926–32211;
+RRID:AB_621843
+anti-mouseIgG(H+L)-AlexaFluorTM647 Invitrogen Cat#A-31571
+(Continuedonnextpage)
+18 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Anti-rabbitIgG(H+L)-AlexaFluorTM488 Invitrogen Cat#A-21206
+Duolink(cid:2)InSituPLA(cid:2)ProbeAnti-MousePLUS Sigma Cat#DUO92001
+Duolink(cid:2)InSituPLA(cid:2)ProbeAnti-RabbitMINUS Sigma Cat#DUO92005
+Bacterialandvirusstrains
+BL21E.coli Stratagene N/A
+NEBT7expresscompetentE.colicells NewEnglandBiolabs N/A
+Chemicals,peptides,andrecombinantproteins
+Acetonitrile SigmaAldrich 34851
+Ampicillin,sodiumsalt Carl-Roth K029.3
+Aprotinin Carl-Roth A162.2
+BafilomycinA1 Tocris S1413
+Benzonase Millipore 70756
+Bromphenolblue CarlRoth A512.1
+BSA CarlRoth 8076.2
+Calciumchloride(CaCl22.H2O) Carl-Roth 5239.2
+Cellculturemicroplatewithmclearflatbottom Gr
+
+Chunk 48:
+atagene N/A
+NEBT7expresscompetentE.colicells NewEnglandBiolabs N/A
+Chemicals,peptides,andrecombinantproteins
+Acetonitrile SigmaAldrich 34851
+Ampicillin,sodiumsalt Carl-Roth K029.3
+Aprotinin Carl-Roth A162.2
+BafilomycinA1 Tocris S1413
+Benzonase Millipore 70756
+Bromphenolblue CarlRoth A512.1
+BSA CarlRoth 8076.2
+Calciumchloride(CaCl22.H2O) Carl-Roth 5239.2
+Cellculturemicroplatewithmclearflatbottom Greiner 655090
+CoomassiebrilliantblueG250 Carl-Roth 9598.2
+Coverslips(0,17±0.005mm) Carl-Roth LH23.1
+Cycloheximide VWR 441892A
+di-Sodiumhydrogenphosphatedihydrate Carl-Roth 4984.3
+(Na2HPO4$2H2O)
+DMEMhighglucose Gibco 41966
+DMP ThermoFisherScientific 21667
+DMSO Applichem A3672
+Doxycyclinehyclate Fluka 44577
+dTAG-13 bio-techne 6605
+DTT Carl-Roth 6908.2
+Duolink(cid:2)InSituWashBuffers,Fluorescence Sigma DUO82049-4L
+EBSS Gibco 24010
+EDTA Honeywell/Fluka 34549
+Fetalbovineserum Sigma F7524
+Formicacid MerckKGaA 33015-M
+Fugene(cid:2)HDTransfectionReagen Promega E2311
+Glycerol99%p.a Carl-Roth 7530.4
+H3BO3BoricAcid Carl-Roth 6943.1
+HighPureRNAisolationkit Roche 11828665001
+Imidazole(BioUltra,R99.5%(GC) SigmaAldrich 56749-1kg
+InstantBlue expedeon ISB1L
+Isopropylb-D-1-thiogalactopyranoside(IPTG) Carl-Roth 2316.5
+KOH CarlRoth 6751.3
+LeupeptinHemisulfate Applichem A2183,0025
+LipofectamineRNAiMAXTransfectionReagent ThermoFisherScientific 13778150
+LysoTrackerredDND99 Invitrogen L7528
+LysyslEndopeptidase(LysC) Wako 129–02541
+Magnesiumchloride SigmaAldrich M8266
+Magnesiumchloride(MgCL26.H2O) Carl-Roth 2189.2
+Magnesiumsulfate(MgSO47.H2O) Carl-Roth P027.2
+Manganese(II)chloridetetrahydrate(MnCl2$4H2O) Carl-Roth T881.1
+MG132 Selleckchem S2619
+(Continuedonnextpage)
+CellReports42,113484,December26,2023 19
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+N-2-Hydroxyethylpiperazine-N0-2-ethanesulphonic Carl-Roth 9105.5
+acid(HEPES)R99.5%p.a.
+NaOH Applichem 1.316.871.211
+Nickel(II)sulfatehexahydrate(NiSO4$6H2O) Carl-Roth T111.2
+NP-40 Applichem A1694.0250
+NPM11–20:ME
+
+Chunk 49:
+rl-Roth T881.1
+MG132 Selleckchem S2619
+(Continuedonnextpage)
+CellReports42,113484,December26,2023 19
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+N-2-Hydroxyethylpiperazine-N0-2-ethanesulphonic Carl-Roth 9105.5
+acid(HEPES)R99.5%p.a.
+NaOH Applichem 1.316.871.211
+Nickel(II)sulfatehexahydrate(NiSO4$6H2O) Carl-Roth T111.2
+NP-40 Applichem A1694.0250
+NPM11–20:MEDSMDMDMSPLRPQNYLFG GenScript N/A
+NPM1 1–20:MEASADAAASPLRPQNYLFG GenScript N/A
+5A
+NucBlueTMLiveReadyProbesTMReagent ThermoFisherScientific R37605
+(Hoechst33342)
+PepstatinA Carl-Roth 2936.2
+Peptonefromcasein,trypticdigest Carl-Roth 8986.4
+PhosSTOPEASYpack Roche 4906845001
+PierceTMAnti-HAMagneticBeads ThermoFisherScientific 88836
+PierceTMmagneticAnti-DYKDDDDK-Agarose ThermoFisherScientific A36797
+PMSF Carl-Roth 6367.1
+PonceauS Carl-Roth 5938.2
+Potassiumdihydrogenphosphate(KH2PO4) Carl-Roth 3904.1
+PrecisionPlusProteinDualColorStandards Bio-RadLaboratoriesGmbH 1610374
+ProLongGoldAntifadeMountant ThermoFisherScientific P36930
+ProtinoGlutathioneAgarose4Bbeads Machery-Nagel 64-17-5
+ProtinoNi-NTAAgarosebeads Machery-Nagel 745400
+Puromycin CarlRoth 0240.3
+QPCRSYBRGreenMasterMix Steinbrenner SL-9902
+Revert700TotalProteinStain LI-COR 926–11011
+RPMI1640 GIBCO 11530586
+SDS CarlRoth CN30.3
+SequencingGradeModifiedTrypsin Promega V511C
+SodiumChloride Carl-RothGmbH 0601.2
+TEVProtease PreparedbyDr.JakobGebel N/A
+Thiaminhydrochloride Sigma T1270-25G
+Thiourea Applichem 1.417.431.210
+TMTproTM16plexreagent Thermo A44520
+Torin1 Tocris 4247
+TranscriptorFirstStrandcDNASynthesisKit Roche 04897030001
+Trichloroaceticacid SigmaAldrich 91228
+Tris-(2-carboxyethyl)-phosphine Carl-RothGmbH HN95.3
+hydrochloride(TCEP)
+Tris-(hydroxymethyl)-aminomethane(TRIS) Carl-RothGmbH 4855.3
+TritonX-100 CarlRoth 3051.2
+TrypsinEDTAsolution PanBiotech P10-023100
+Urea Applichem A1049.1000
+Yeastextract,micro-granulated Carl-RothGmbH 2904.5
+Zincchloride(ZnCl2) Carl-RothGmbH T887.1
+Criticalcommercialassays
+Duolink(cid:2)InSituDe
+
+Chunk 50:
+oaceticacid SigmaAldrich 91228
+Tris-(2-carboxyethyl)-phosphine Carl-RothGmbH HN95.3
+hydrochloride(TCEP)
+Tris-(hydroxymethyl)-aminomethane(TRIS) Carl-RothGmbH 4855.3
+TritonX-100 CarlRoth 3051.2
+TrypsinEDTAsolution PanBiotech P10-023100
+Urea Applichem A1049.1000
+Yeastextract,micro-granulated Carl-RothGmbH 2904.5
+Zincchloride(ZnCl2) Carl-RothGmbH T887.1
+Criticalcommercialassays
+Duolink(cid:2)InSituDetectionReagentsRed Sigma DUO92008
+Depositeddata
+HA-GABARAPL1immunoprecipitationwith PRIDE PRIDE:PXD040220
+siRNA-mediatedNPM1depletion
+WholecellproteomeofOCI-AML3FKBP12(F36V) PRIDE PRIDE:PXD045357
+cellswithdTAG-13treatment
+(Continuedonnextpage)
+20 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+WholecellproteomeofU-2OScellswith PRIDE PRIDE:PXD040193
+NPM1andNPM1coverexpression
+Experimentalmodels:Celllines
+Hel276GFP(cid:1)LC3B(cid:1)mCherry Koschadeetal.22 N/A
+HeLa ATCC(CCL-2) RRID:CVCL_0030
+MV4-11GFP(cid:1)LC3B(cid:1)mCherry Koschadeetal.22 N/A
+OCI-AML2 Leibniz-InstitutDSMZ RRID:CVCL_1619
+OCI-AML3 Leibniz-InstitutDSMZ RRID:CVCL_1844
+OCI-AML3GFP(cid:1)LC3B(cid:1)mCherry Koschadeetal.22 N/A
+OCI-AML3NPM1c(cid:1)FKBP12(F36V)-P2A(cid:1)GFP Brunettietal.34 N/A
+U-2OS ATCC(HTB-96) RRID:CVCL_0042
+U-2OSGFP(cid:1)LC3B(cid:1)RFP-LC3BDG Herteletal.58 N/A
+U-2OSGFP-mCherry-LC3B GiftfromIvanDikic N/A
+Oligonucleotides
+GABARAPL1for50(AGGAGGACCATCCCTTTGAGT)30 Eurofins N/A
+GABARAPL1rev50(TGGCCAACAGTAAGGTCAGA)30 Eurofins N/A
+GAPDHfor50(TCGGAGTCAACGGATTTG)30 Eurofins N/A
+GAPDHrev50(CAACAATATCCACTTTACCAGAG)30 Eurofins N/A
+MISSION(cid:2)siRNAUniversalNegativeControl#2 Merck SIC002
+siATG5:50(GGAAUAUCCUGCAGAAGAA)TT3‘ Eurofins N/A
+sigl2:50(CGUACGCGGAAUACUUCGA)TT3’ Eurofins N/A
+siNPM1_UTR:50(CCTACCGTGTTTGATAAAT)TT30 Eurofins N/A
+siNPM1:50(GGAAGUCUCUUUAAGAAAA)TT30 Eurofins N/A
+siNPM1c:50(CTCTGTCTGGCAGTGGAGGAA)TT30 Eurofins N/A
+RecombinantDNA
+pcDNA3.1-HA-GABARAPL1 ProvidedbyI.Dikic N/A
+pCI Promega E1731
+pCI-Flag-NPM1 Haindletal.59
+
+Chunk 51:
+id:2)siRNAUniversalNegativeControl#2 Merck SIC002
+siATG5:50(GGAAUAUCCUGCAGAAGAA)TT3‘ Eurofins N/A
+sigl2:50(CGUACGCGGAAUACUUCGA)TT3’ Eurofins N/A
+siNPM1_UTR:50(CCTACCGTGTTTGATAAAT)TT30 Eurofins N/A
+siNPM1:50(GGAAGUCUCUUUAAGAAAA)TT30 Eurofins N/A
+siNPM1c:50(CTCTGTCTGGCAGTGGAGGAA)TT30 Eurofins N/A
+RecombinantDNA
+pcDNA3.1-HA-GABARAPL1 ProvidedbyI.Dikic N/A
+pCI Promega E1731
+pCI-Flag-NPM1 Haindletal.59 N/A
+pCI-Flag-NPM11(cid:1)117 ThisStudy N/A
+pCI-Flag-NPM11(cid:1)189 ThisStudy N/A
+pCI-Flag-NPM111(cid:1)294 ThisStudy
+pCI-Flag-NPM1118(cid:1)294 ThisStudy N/A
+pCI-Flag-NPM1c ThisStudy N/A
+pCI-Flag-NPM1c11-298 ThisStudy N/A
+pET28-His-NPM11(cid:1)117 ThisStudy N/A
+pET28-His-NPM111(cid:1)117 ThisStudy N/A
+pET28-His-NPM115(cid:1)117 ThisStudy N/A
+pET28-His-NPM1 1-117 ThisStudy N/A
+5A
+pET53-His-GABARAPL1 ProvidedbyI.Dikic N/A
+pETm60-Ubiquitin3-His-TEV-GABARAPL12(cid:1)117 Rogovetal.39 N/A
+pETm60-Ubiquitin3-His-TEV-NPM11(cid:1)117 Thisstudy N/A
+pETm60-Ubiquitin3-His-TEV-NPM1 1-117 Thisstudy N/A
+5A
+pETm60-Ubiquitin3-His-TEV-NPM1 fl Thisstudy N/A
+5A
+pETm60-Ubiquitin3-His-TEV-TEV-NPM1fl Thisstudy N/A
+pGEX-4T1-NPM1 ThisStudy N/A
+pGEX4T1 GE-Healthcare 28-9545-49
+pGEX4T1-hGABARAP(DG) Kirkinetal.60 N/A
+pGEX4T1-hGABARAPL1(DG) Kirkinetal.60 N/A
+pGEX4T1-hGABARAPL1(DG)F77A Thisstudy N/A
+(Continuedonnextpage)
+CellReports42,113484,December26,2023 21
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+pGEX4T1-hGABARAPL1(DG)V51A Thisstudy N/A
+pGEX4T1-hGABARAPL1(DG)V51A,F60A ThisStudy N/A
+pGEX4T1-hGABARAPL2(GATE-16)(DG) Kirkinetal.60 N/A
+pGEX4T1-hMAP1LC3B(DG) Kirkinetal.60 N/A
+pRTS Bornkammetal.61 N/A
+pRTS-Flag-NPM1 Haindletal.59 N/A
+pRTS-Flag-NPM1c ThisStudy N/A
+pRTS-Flag-NPM1c11-298 ThisStudy N/A
+pRTS-Flag-NPM1wt11-294 ThisStudy N/A
+Softwareandalgorithms
+AlphaFold Jumperetal.62,Evansetal.63 https://github.com/deepmind/alphafold
+BioVoxxel J.Brocher https://github.com/biovoxxel/
+BioVoxxel-Toolbox/tree/v2.5.3
+CellProfiler4.2.1 BroadInstitute,Cambridge, https://
+
+Chunk 52:
+al.60 N/A
+pRTS Bornkammetal.61 N/A
+pRTS-Flag-NPM1 Haindletal.59 N/A
+pRTS-Flag-NPM1c ThisStudy N/A
+pRTS-Flag-NPM1c11-298 ThisStudy N/A
+pRTS-Flag-NPM1wt11-294 ThisStudy N/A
+Softwareandalgorithms
+AlphaFold Jumperetal.62,Evansetal.63 https://github.com/deepmind/alphafold
+BioVoxxel J.Brocher https://github.com/biovoxxel/
+BioVoxxel-Toolbox/tree/v2.5.3
+CellProfiler4.2.1 BroadInstitute,Cambridge, https://cellprofiler.org
+Massachusetts,USA
+CQ1Software Yokogawa https://www.yokogawa.com/de/
+library/documents-downloads/
+software/lsc-cq1-software/
+DAVID Huangetal.64 https://david.ncifcrf.gov
+FijiforImageJ Schindelinetal.65 https://ImageJ.net/Fiji
+FlowJoTMSoftware,Version10.4.2 Becton,DickinsonandCompany https://www.flowjo.com
+GraphPadPrism,version5.0bforMACOSX GraphPadSoftware,LaJolla www.graphpad.com
+CaliforniaUSA
+GROMACS(version2021.5) Hessetal.,Lindahletal., https://www.gromacs.org
+Pronketal.66–68
+ImageJ,version2.0.0-rc-69/1.52n Schneideretal.69 https://ImageJ.net
+Maxquant,version1.6.17.0 Coxetal.70 https://www.biochem.mpg.de/
+5111795/maxquant
+MDAnalysis Michaud-Agrawaletal.71,Gowersetal.72 https://www.mdanalysis.org
+Origin2018 Origin,Version2018.OriginLab www.originlab.com
+Corporation,
+Northampton,MA,USA.
+Perseus,version1.6.15.0 Tyanovaetal.73 https://www.biochem.mpg.de/
+5111810/perseus
+ProteomeDiscoverer2.4 ThermoFisherScientific https://www.thermofisher.com/
+de/de/home/industrial/mass-
+spectrometry/liquid-chromatography-
+mass-spectrometry-lc-ms/
+lc-ms-software/multi-omics-
+data-analysis/proteome-
+discoverer-software.html
+Python3(NumPy,SciPy) Harrisetal.74,Virtanenetal.75 https://www.python.org
+RStudio,version2021.09.2‘‘GhostOrchid’’ RStudio:IntegratedDevelopmentfor https://www.rstudio.com
+R.RStudio,Inc.
+SPARKY Leeetal.76 https://www.cgl.ucsf.edu/home/sparky/
+TopSpin TopSpin www.bruker.com;RRID:SCR_014227
+RESOURCEAVAILABILITY
+Leadcontact
+FurtherinformationandrequestsforresourcesandreagentsshouldbedirectedtoandwillbefulfilledbytheLeadContact,Stefan
+Mu€ller(ste.mueller@em.uni
+
+Chunk 53:
+ww.python.org
+RStudio,version2021.09.2‘‘GhostOrchid’’ RStudio:IntegratedDevelopmentfor https://www.rstudio.com
+R.RStudio,Inc.
+SPARKY Leeetal.76 https://www.cgl.ucsf.edu/home/sparky/
+TopSpin TopSpin www.bruker.com;RRID:SCR_014227
+RESOURCEAVAILABILITY
+Leadcontact
+FurtherinformationandrequestsforresourcesandreagentsshouldbedirectedtoandwillbefulfilledbytheLeadContact,Stefan
+Mu€ller(ste.mueller@em.uni-frankfurt.de).
+22 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+Materialsavailability
+Plasmidsandothermaterialsgeneratedinthisstudyareavailableuponrequest.
+Dataandcodeavailability
+d Dataavailability:MassspectrometryproteomicsdatahavebeendepositedtotheProteomeXchangeConsortiumviathePRIDE
+partnerrepositorywiththedatasetidentifierslistedinthekeyresourcestable.
+d Codeavailability:Thispaperdoesnotreportoriginalcode.
+d Anyadditionalinformationrequiredtoreanalyzethedatareportedinthispaperisavailablefromtheleadcontactuponrequest.
+EXPERIMENTALMODELANDSTUDYPARTICPANTDETAILS
+HEK293TandU-2OScells(ATCC)wereculturedinDulbecco’sModifiedEagleMedium(DMEM)(ThermoFisherScientific)supple-
+mentedwith10%fetalcalfserum(ThermoFisherScientific),100U/mlpenicillin,and100U/mlstreptomycin(ThermoFisherScien-
+tific)at37(cid:3)Cand5%CO .U-2OScellswithstableexpressionofGFP-mCherry-LC3B(U-2OSGFP-mCherry-LC3B)wereprovidedby
+2
+Prof. Ivan Dikic, and GFP-LC3B-RFP-LC3BDG (U-2 OSGFP(cid:1)LC3B(cid:1)RFP-LC3BDG) were provided by Dr. Anja Bremm and have been
+describedbefore.58AMLcelllines(OCI-AML2,OCI-AML3,MV4-11,andHel276)wereculturedinRPMI1640medium(ThermoFisher
+Scientific)supplementedwith10%fetalcalfserum,100U/mlpenicillin,and100U/mlstreptomycinat37(cid:3)Cand5%CO .TheAML
+2
+cell lines with the GFP-LC3B-RFP reporter (Hel276 GFP(cid:1)LC3B(cid:1)mCherry, MV4-11 GFP(cid:1)LC3B(cid:1)mCherry, and OCI-AML3GFP(cid:1)LC3B(cid:1)mCherry)
+were generated and provided by Dr. Sebastion Koschade and the NPM1c-FKBP expressing OCI-AMl3 cells (OCI-
+AML3NPM1c(cid:1)FKBP12(F36V)-P2A(cid:1)GFP)byDr
+
+Chunk 54:
+h10%fetalcalfserum,100U/mlpenicillin,and100U/mlstreptomycinat37(cid:3)Cand5%CO .TheAML
+2
+cell lines with the GFP-LC3B-RFP reporter (Hel276 GFP(cid:1)LC3B(cid:1)mCherry, MV4-11 GFP(cid:1)LC3B(cid:1)mCherry, and OCI-AML3GFP(cid:1)LC3B(cid:1)mCherry)
+were generated and provided by Dr. Sebastion Koschade and the NPM1c-FKBP expressing OCI-AMl3 cells (OCI-
+AML3NPM1c(cid:1)FKBP12(F36V)-P2A(cid:1)GFP)byDr.LorenzoBrunettiasdescribedbefore.22,34
+METHODDETAILS
+Transfectionandtreatmentofcelllines
+For the conditional expression system with the pRTS1 episomal expression plasmid 59 60, U-2 OS cells were transfected with
+FuGene and after 24 h selected with 400 mg/mL hygromycin for 11 days. If not stated differently, expression was induced for
+24hwith0.1mg/mLdoxycycline.Fortransientoverexpression,HEK293TcellsweretransfectedwithplasmidDNAfor48husing
+theCalciumPhosphateTransfectionmethodwithHEPESbufferedsaline.Forgeneknockdownofadherentcells,Lipofectamine
+RNAiMAXtransfectionreagent(ThermoFisherScientific)wasusedtotransfectgene-specificsiRNAsfor72h.AMLcelllineswere
+transfectedwithsiRNAusingthe100mLKitoftheNeonElectroporationsystem(Invitrogen)accordingtothemanufacturer’sin-
+structions.2Millioncellswereusedperelectroporationwiththefollowingconditions:1350V,35ms,and1pulse.Cellswerehar-
+vestedafter72h.
+Whenindicated,cellswereexposedtoaminoacidstarvationbychangingthemediawithextensivewashingtoEBSS(Earle’s
+balancedsaltsolution;Gibco)for30minto4h.TreatmentwithBafilomycinA1,Torin1,Cyclohexemide,andMG132wasdone
+fortheindicatedtimepoints.
+GSTpulldownandinvitrointeraction
+HEKcellswithorwithouttransfectionofNPM1variantsarescrapedinGSTbuffer(50mMTrispH7.5,150mMNaCl,10mM
+EDTA. 5 mM EGTA, 1 mM DTT, 1 mM PMSF, 2 mg/mL Aprotinin, 2 mg/mL Leupeptin, 1 mg/mL Pepstatin A and 1x PhosStop
+(Roche))supplementedwith1%NP-40,rotatedfor1hat4(cid:3)Candhomogenizedwithaninsulinneedle.Debriswasseparated
+bycentrifugationat12000xgfor15min.Foreachpull-down,0.5–1mgofHEKcelllysatewasdilutedwithGSTbufferto0.5%
+NP40andincu
+
+Chunk 55:
+nofNPM1variantsarescrapedinGSTbuffer(50mMTrispH7.5,150mMNaCl,10mM
+EDTA. 5 mM EGTA, 1 mM DTT, 1 mM PMSF, 2 mg/mL Aprotinin, 2 mg/mL Leupeptin, 1 mg/mL Pepstatin A and 1x PhosStop
+(Roche))supplementedwith1%NP-40,rotatedfor1hat4(cid:3)Candhomogenizedwithaninsulinneedle.Debriswasseparated
+bycentrifugationat12000xgfor15min.Foreachpull-down,0.5–1mgofHEKcelllysatewasdilutedwithGSTbufferto0.5%
+NP40andincubatedwithGSTproteinsimmobilizedonGSHbeads.Fortheinvitrointeractionexperiments,His-taggedNPM1
+variantswereincubatedwiththeGSTproteinsimmobilizedonGSHbeadsinGSTbuffercontaining0.2%NP40inthepresence
+orabsenceoffreshHEKcelllysate.Afterrotationfor2hat4(cid:3)C,thebeadswerewashedthreetimeswithGSTbuffercontaining
+0.1% NP-40 and boiled in 2x Laemmli buffer (20.8mM Tris (pH 6.8), 3.3% glycerol, 0.67% SDS, 1.67% b-mercaptoethanol,
+0.0033% bromophenol blue).
+Cycloheximidechaseexperiment
+U-2OScellsexpressingdoxycycline-inducible(Tet-On)Flag-NPM1variantsweretreatedwithCyclohexemidefortheindicatedtime
+pointsinEBSSorfreshculturemedia.Thesampleswerescrapedin50mMTris(pH8.5)with2%SDSandweredirectlyboiledin1x
+Laemmlibuffer.
+Subcellularfractionation
+Subcellular Fractionation of U-2 OS cells expressing doxycycline-inducible Flag-NPM1 variants was performed as previously
+described.77Inbrief,U-2OScellswerewashedinPBSandscrapedinfractionationbuffer(20mMHEPES,pH7.4;250mMsucrose;
+10mMKCl;1.5mMMgCl ;1mMEDTA;1mMEGTA;1mMPMSF,2mg/mLAprotinin,2mg/mLLeupeptin,and1mg/mLPepstatinA),
+2
+passedthrougha25-gaugeneedleandleftonicefor20min.Nucleiwereisolatedthroughcentrifugationat720gfor10minat4(cid:3)Cand
+washed once in fractionation buffer and then resuspended in fractionation buffer. Both whole cell lysate and nuclei were
+CellReports42,113484,December26,2023 23
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+supplementedwithafinalconcentrationof2%SDSandboiledfor5min.ProteinconcentrationsweredeterminedusingtheLowry
+technique,andequalamountswereboiledin1xLaemmlisamplebuffer.
+Celllysisandimmunoblotting
+Unlessdescribeddif
+
+Chunk 56:
+fractionation buffer and then resuspended in fractionation buffer. Both whole cell lysate and nuclei were
+CellReports42,113484,December26,2023 23
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+supplementedwithafinalconcentrationof2%SDSandboiledfor5min.ProteinconcentrationsweredeterminedusingtheLowry
+technique,andequalamountswereboiledin1xLaemmlisamplebuffer.
+Celllysisandimmunoblotting
+Unlessdescribeddifferently,cellswerelysedinRIPAbuffer.Forexpression,controlcellsweredirectlylysedandboiledin2xLaemmli
+buffer.ProteinsampleswereseparatedbySDS-PAGEandtransferredtoNCmembranesinTowbinbuffercontaining20%methanol.
+Membraneswereblockedin5%(w/v)milkpowderinPBSTbeforetheprimaryantibodywasaddedovernightinablockingbuffer
+(4(cid:3)C).AfterextensivewashingwithPBST,membraneswereincubatedwithhorseradishperoxidase(HRP)-coupledorfluorescently
+labeledsecondaryantibodiesfor1hinblockingbufferatRT,followedbyextensivewashing.Thefluorescencesignalformembranes
+incubatedwithfluorescentlylabeledsecondaryantibodieswasdeterminedusingtheLI-CORsystem(OdysseyCLxImager).Mem-
+braneswithHRP-coupledantibodieswereincubatedfor1minwithImmobilonECLUltraWesternHRPSubstrate(Merck-Millipore)
+anddevelopedwithSuperRX-Nfilms(Fujifilm)inaCURIX60developermachine(Agfa).Ifshown,membraneswerestainedand
+imagedwithPonceauSsolutionorRevert700TotalProteinStain(Li-COR)beforeblocking.AlldisplayedWesternBlotsarerepre-
+sentativeexamples.
+Proteinexpressionandpurification
+His-orGST-taggedproteinswereexpressedintransformedBL21E.colicellswith0.5mMIPTGovernight(17(cid:3)C).Aftercentrifugation,
+thebacteriapelletwaslysedinGSTproteinpurificationbuffer(1xPBS,1%(v/v)TritonX-100,1mMDTT,1mMPMSF)orHisprotein
+purificationbuffer(50mMNaH PO 50mMNaCl,1%TritonX-10010mMImidazole,1mMPMSF,pH8).Forcompletelysis,cells
+2 4,
+weresubjectedtorepeatedfreeze-thawcyclesandsonification.Allfurtherstepsareperformedat4(cid:3)C.Thelysateswereclearedfrom
+cell debris by centrifugation (60 min, 25000g), and the supernatant was incubated with Protino Glutathione Agaros
+
+Chunk 57:
+uffer(1xPBS,1%(v/v)TritonX-100,1mMDTT,1mMPMSF)orHisprotein
+purificationbuffer(50mMNaH PO 50mMNaCl,1%TritonX-10010mMImidazole,1mMPMSF,pH8).Forcompletelysis,cells
+2 4,
+weresubjectedtorepeatedfreeze-thawcyclesandsonification.Allfurtherstepsareperformedat4(cid:3)C.Thelysateswereclearedfrom
+cell debris by centrifugation (60 min, 25000g), and the supernatant was incubated with Protino Glutathione Agarose 4B beads
+(Machery-Nagel)incaseofGST-proteinsorProtinoNi-NTAAgarosebeads(Machery-Nagel)incaseofHis-proteins.Afterrotation
+for2h,beadswerewashed4timeswithGST-orHis-proteinpurificationbuffer.Thepurifiedproteinswereeitherstoredonbeadsin
+PBSsupplementedwith10%DMSOat(cid:1)20(cid:3)Corelutedtwotimesfor30minwith10mMGlutathionein50mMTris(pH8)incaseof
+GSTproteinsor250nMImidazoleinHisproteinpurificationbufferincaseofHisproteins.Elutedproteinsweresubjectedtodialysisin
+PBSwitha3kDacutoff.Elutedproteinsweredirectlyusedforasubsequentexperiment.
+Ubiquitin3-His-TEV-NPM1fl, -NPM1 fl, -NPM11(cid:1)117, and -NPM1 1-117 were expressed in transformed BL21 E. coli cells with
+5A 5A
+0.5mMIPTGovernight(17(cid:3)C).Cellswereharvestedbycentrifugation,resuspendedinIMACAbuffer(50mMTris,200mMNaCl,
+25mMImidazole,20mMb-mercaptoethanol,pH7.5)supplementedwithself-madeproteaseinhibitorcocktail,andlysedbysoni-
+fication.Allfurtherstepswereperformedat4(cid:3)C.Thelysatewasclearedbycentrifugation(17,000rpm,45min),andthesupernatant
+wasloadedontoapre-equilibratedimmobilizedmetalaffinitychromatography(IMAC)column(HisTrapIMACSepharoseFF,Cytiva).
+TheloadedcolumnwaswashedwithIMACAbufferto5columnvolume(CV).BoundHis-taggedproteinswereelutedwithIMACA
+buffersupplementedwith400mMimidazole(IMACB).N-terminalHIS-tagoftheelutedproteinwascleavedwith1mgin-housepu-
+rifiedTEVproteaseper50mgofproteinduringdialysisinIMACAbuffer,using3.5kDacutoffdialysismembrane(SpectrumLabs,
+Inc.),overnightat4(cid:3)C.Dialyzed(cleaved)proteinsweresubjectedtoreverseIMAC.Theflow-throughcontainingthecleavedproteins
+ofinterestwascollectedandconcentrat
+
+Chunk 58:
+teinswereelutedwithIMACA
+buffersupplementedwith400mMimidazole(IMACB).N-terminalHIS-tagoftheelutedproteinwascleavedwith1mgin-housepu-
+rifiedTEVproteaseper50mgofproteinduringdialysisinIMACAbuffer,using3.5kDacutoffdialysismembrane(SpectrumLabs,
+Inc.),overnightat4(cid:3)C.Dialyzed(cleaved)proteinsweresubjectedtoreverseIMAC.Theflow-throughcontainingthecleavedproteins
+ofinterestwascollectedandconcentratedusing30kDaand10kDacutoffAmiconUltraCentrifugalFilters(Millipore)forNPM1flor
+NPM1 flandNPM11(cid:1)117orNPM1 1-117,respectively.Theconcentratedproteinswerefurtherpurifiedandsubjectedtoabuffer
+5A 5A
+exchangebysizeexclusionchromatography(SEC)withSECbuffer(25mMHEPES,NaCl100mM,TCEP0.5mM,pH7.5)using
+aHiLoadSuperdex7516/60self-packedcolumn(Cytiva)ontheAKTApurifierFPLCsystem(GEHealthcareEuropeGmbH).Central
+peakfractionswerecollectedandconcentratedtothedesiredconcentrationwiththerespectiveAmiconfilter.Thepurityandmo-
+lecularsizeofthepurifiedproteinsweremonitoredbySDS-PAGEwithCoomassiestaining.Proteinswereflash-frozeninliquidni-
+trogenpriortostorageat(cid:1)80(cid:3)Cuntilfurtheruse.
+Toprepare15N-GABARAPL1,Ubiquitin3-His-TEV-GABARAPL12(cid:1)117wasexpressedintransformedT7E.colicellswith1mMIPTG
+overnight(20(cid:3)C)inM9minimalmedia.ThepurificationwasperformedasdescribedaboveforNPM11(cid:1)117andNPM1 1-117.
+5A
+Nuclearmagneticresonance(NMR)spectroscopy
+ProteinsforNMRwerepurifiedfromE.coliasdescribedbefore,andNPM1peptides(NPM11–20:MEDSMDMDMSPLRPQNYLFGand
+NPM1 1–20:MEASADAAASPLRPQNYLFG)werepurchasedfromGenScript.NMRsamplescontained15N-GABARAPL1at55mM
+5A
+initialconcentrationinSECbuffer,supplementedwith5%D Oand1mMImidazole,forpHcontrol.
+2
+Allspectrawererecordedatthesampletemperatureof25(cid:3)CusingtheBrukerAVIIIHD700MHzspectrometerequippedwith
+cryogenic1H{31P/13C/15N}QCIprobeincaseofNPM11–20andNPM1 1–20,orusingtheBrukerAvanceNeo600MHzspectrometer
+5A
+equippedwithcryogenic1H{13C/15N}TCIprobeincaseofNPM11(cid:1)117andNPM1 1-117,orusingtheBrukerAVIIIHD800MHzspec-
+5A
+trometerequippedwithcryog
+
+Chunk 59:
+tedwith5%D Oand1mMImidazole,forpHcontrol.
+2
+Allspectrawererecordedatthesampletemperatureof25(cid:3)CusingtheBrukerAVIIIHD700MHzspectrometerequippedwith
+cryogenic1H{31P/13C/15N}QCIprobeincaseofNPM11–20andNPM1 1–20,orusingtheBrukerAvanceNeo600MHzspectrometer
+5A
+equippedwithcryogenic1H{13C/15N}TCIprobeincaseofNPM11(cid:1)117andNPM1 1-117,orusingtheBrukerAVIIIHD800MHzspec-
+5A
+trometerequippedwithcryogenic1H{13C/15N}TCIprobeincaseofNPM1flandNPM1 fl.15N-GABARAPL1wastitratedwithpurified
+5A
+NPM1constructstoobtaintheratioof1:5,1:10and1:15forrecordingspectra.Protonnitrogencorrelationspectrawereobtained
+using the BEST-TROSY pulse sequence, and chemical shift perturbation (CSP) was calculated as described before using
+SPARKY.78,79Chemicalshiftsarereferencedtosodiumtrimethylsilylpropanesulfonate(DSS)asaninternalstandard.80
+24 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+Peptidearray
+AmodifiedcelluloseSPOTmembranecontaining20-merpeptidesofNPM11(cid:1)189induplicateswaspurchasedfromIntavisPeptide
+Services.IncubationwithpurifiedGSTorGST-GABARAPL1proteinwasperformedaccordingtoRasmussenetal.81Quantification
+ofthesignalswasdoneinImageJ.TheintensitiesoftheGST-GABARAPL1signalswerenormalizedtotheGSTsignalsinExceland
+visualizedinGraphPadPrism.
+qRT-PCR
+TotalRNAfromU-2OScellsexpressingdoxycycline-inducibleFlag-NPM1variantswasisolatedusingtheHighPureRNAisolationkit
+(Roche).ForcDNAsynthesis,500ngtotalRNAwastranscribedwiththeTranscriptorFirstStrandcDNASynthesisKit(Roche)using
+thePoly-dTPrimer.RT-qPCRwasperformedwiththeQPCRSYBRGreenMasterMix(Steinbrenner)andgene-specificprimersfor
+GABARAPL1orGAPDHusingtheLightCycler480II(Roche).CtvalueswerecalculatedwiththeLightCycler480Software1.5.0SP4
+(Roche)andnormalizedtoGAPDHgeneexpressionwiththedelta-deltaCt(2(cid:1)DDCt)methodinExcel.Statisticalanalysisandvisual-
+izationweredoneinGraphPadPrism.Foreachbiologicalreplicate,atleastthreetechnicalreplicatesweremeasured.
+Immunoprecipitationandsamplepreparation
+ForHA-immunoprecip
+
+Chunk 60:
+cprimersfor
+GABARAPL1orGAPDHusingtheLightCycler480II(Roche).CtvalueswerecalculatedwiththeLightCycler480Software1.5.0SP4
+(Roche)andnormalizedtoGAPDHgeneexpressionwiththedelta-deltaCt(2(cid:1)DDCt)methodinExcel.Statisticalanalysisandvisual-
+izationweredoneinGraphPadPrism.Foreachbiologicalreplicate,atleastthreetechnicalreplicatesweremeasured.
+Immunoprecipitationandsamplepreparation
+ForHA-immunoprecipitation(IP),HEKcellstransientlyexpressingHA-GABARAPL1withNPM1orContrknockdownornon-trans-
+fectedMOCKcontrolcellsweretreatedfor2hwith200nMBafilomycinA1beforescrapinginIPlysisbuffer(20mMTris,150mM
+NaCl,0.5%Triton,10%Glycerol,1xPhosStop(Roche),1mMPMSF,2mg/mLAprotinin,2mg/mLLeupeptin,1mg/mLPepstatinA,
+28U/mL Benzonase (Millipore), and 1x PhosStop (Roche)). For Flag-IP, HEK cells transiently expressing Flag-NPM1, -NPM1c,
+-NPM111(cid:1)294,or-NPM1c11-298andMOCKcontrolcellswerescrapedinIPlysisbuffer.Allthefollowingstepswereperformedat
+4(cid:3)C.Thelysatewasrotatedfor1h,homogenizedwithaninsulinneedleanddebriswasseparatedbycentrifugationat12000xg
+for15min.Foreachsample,1mgofcelllysatewasincubatedovernightwith15mLPierceAnti-HAMagneticBeads(Thermo)or
+PiercemagneticAnti-DYKDDDDK-Agaroseonarotatingwheel.Thenextday,thebeadswerewashedthreetimeswithIPbuffer
+andonetimewith50mMTrisbeforeelutionwith2%sodiumdeoxycholate(SDC)in50mMTris(pH8.5)at95(cid:3)Cfor5min.For
+massspectrometrysamplepreparation,theelutedproteinswerereducedandalkylatedbyadding1mMTCEPand4mMchloroa-
+cetamidefor5minat95(cid:3)C.Afterdilutingthesamplesto1%SDCin50mMTris(pH8.5),500ngTrypsinand500ngLysCwereadded
+overnightat37(cid:3)Ctodigestthesample.Thedigestionwasstoppedwiththeadditionof0.25%trifluoroaceticacid(TFA),andpeptides
+were cleaned up using styrene-divinyl benzene reverse phase sulfonate (SDB-RPS) polymer sorbent Solid phase extraction
+StageTips according to Kulak et al.82 Peptides were dried in a vacuum concentrator and resuspended in 2% acetonitrile (ACN)
+and0.1%TFAforLC-MSanalysis.IPswereperformedintriplicatesandproce
+
+Chunk 61:
+stthesample.Thedigestionwasstoppedwiththeadditionof0.25%trifluoroaceticacid(TFA),andpeptides
+were cleaned up using styrene-divinyl benzene reverse phase sulfonate (SDB-RPS) polymer sorbent Solid phase extraction
+StageTips according to Kulak et al.82 Peptides were dried in a vacuum concentrator and resuspended in 2% acetonitrile (ACN)
+and0.1%TFAforLC-MSanalysis.IPswereperformedintriplicatesandprocessedinparallel.
+Samplepreparationforthewholecellproteome
+U-2OS cells expressing doxycycline-inducible Flag-NPM1wt orc were washed with PBS and scraped in lysis buffer (2% SDS,
+50mMTris/HCl,10mMTCEP,40mMCAA,1mMPMSF,2mg/mLAprotinin,2mg/mLLeupeptin,1mg/mLPepstatinA,pH8.5).
+OCI-AML3FKBP12(F36V)cellswithdTAG-13treatmentwerepelletedbycentrifugation,washedinPBSandsubsequentlyresus-
+pended in lysis buffer (see above). The samples were prepared in four replicates as described previously.83 In brief, 50 mg of
+Methanol-ChloroformprecipitatedproteinsweredigestedwithTrypsinandLysC.Forisobariclabeling,10mgofdesaltedpeptides
+weresupplementedwith25mgoftherespectiveTMTpro16plexreagent(Thermo).Thesamplesweretestedforsufficientlabeling
+efficiencyandpooledbyadjustmenttotheTMTintensitysignalfromthetestshot.ThepooledsamplewasdesaltedbySepPak
+(tC18, 50mg, Waters), and peptides were fractionated using high-pH liquid-chromatography on a micro-flow HPLC (Dionex
+U3000RSLC,ThermoScientific).Forthat,45mgofpooledandpurifiedTMTlabeledpeptidesresuspendedinSolventA(5mMammo-
+nium-bicarbonate,5%ACN)wereseparatedonaC18column(XSelectCSH,1mm3150mm,3.5mmparticlesize;Waters)usinga
+multistepgradientfrom3to60%SolventB(5mMammonium-bicarbonate,90%ACN)over65minataflowrateof30mL/min.Eluting
+peptideswerecollectedevery43sfromminute2for69minintoatotalof96fractions,whichwerecross-concatenatedinto24frac-
+tions.Pooledfractionsweredriedinavacuumconcentratorandresuspendedin2%ACNand0.1%TFAforLC-MSanalysis.
+Liquidchromatographyandmassspectrometry
+TrypticpeptidesoftheimmunoprecipitationswereanalyzedonaQExactiveHFcoupledtoaneasynL
+
+Chunk 62:
+mmonium-bicarbonate,90%ACN)over65minataflowrateof30mL/min.Eluting
+peptideswerecollectedevery43sfromminute2for69minintoatotalof96fractions,whichwerecross-concatenatedinto24frac-
+tions.Pooledfractionsweredriedinavacuumconcentratorandresuspendedin2%ACNand0.1%TFAforLC-MSanalysis.
+Liquidchromatographyandmassspectrometry
+TrypticpeptidesoftheimmunoprecipitationswereanalyzedonaQExactiveHFcoupledtoaneasynLC1200(ThermoFisherSci-
+entific) using a 35 cm long, 75mm ID fused-silica column packed in-house with 1.9 mm C18particles (Reprosil pur, Dr. Maisch),
+andkeptat50(cid:3)Cusinganintegratedcolumnoven(Sonation).Peptideswereelutedbyanon-lineargradientfrom4to28%aceto-
+nitrileover60minanddirectlysprayedintothemass-spectrometerequippedwithananoFlexionsource(ThermoFisherScientific).
+FullscanMSspectra(350–1650m/z)wereacquiredinProfilemodeataresolutionof60,000atm/z200,amaximuminjectiontimeof
+20ms,andanAGCtargetvalueof3x106charges.Upto10mostintensepeptidesperfullscanwereisolatedusinga1.4Thwindow
+andfragmentedusinghigherenergycollisionaldissociation(normalizedcollisionenergyof27).MS/MSspectrawereacquiredin
+centroidmodewitharesolutionof30,000,amaximuminjectiontimeof54ms,andanAGCtargetvalueof1x105.Single-charged
+ions,ionswithachargestateabove5,andionswithunassignedchargestateswerenotconsideredforfragmentation,anddynamic
+exclusionwassetto20s.
+CellReports42,113484,December26,2023 25
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+TrypticpeptidesofthewholecellproteomeofU-2OScellswereanalyzedonanOrbitrapLumoscoupledtoaneasynLC1200
+(ThermoFisher Scientific)usinga35cmlong,75mmIDfused-silicacolumnpackedin-housewith1.9mmC18particles(Reprosil
+pur,Dr.Maisch),andkeptat50(cid:3)Cusinganintegratedcolumnoven(Sonation).HPLCsolventsconsistedof0.1%Formicacidinwater
+(BufferA),and80%acetonitrileinwater(BufferB).Assumingequalamountsineachfraction,400ngofpeptideswereelutedbya
+non-lineargradientfrom7to40%BufferBover90min,followedbyastepwiseincreaseto90%BufferBin6min,whichwasheldfor
+another9min.Asynchronousprecursorsel
+
+Chunk 63:
+with1.9mmC18particles(Reprosil
+pur,Dr.Maisch),andkeptat50(cid:3)Cusinganintegratedcolumnoven(Sonation).HPLCsolventsconsistedof0.1%Formicacidinwater
+(BufferA),and80%acetonitrileinwater(BufferB).Assumingequalamountsineachfraction,400ngofpeptideswereelutedbya
+non-lineargradientfrom7to40%BufferBover90min,followedbyastepwiseincreaseto90%BufferBin6min,whichwasheldfor
+another9min.Asynchronousprecursorselection(SPS)multi-notchMS3methodwasusedtominimizeratiocompression,aspre-
+viouslydescribed(McAlisteretal.,2014).FullscanMSspectra(350–1400m/z)wereacquiredwitharesolutionof120,000atm/z200,
+maximuminjectiontimeof100ms,andAGCtargetvalueof4x105.Themostintenseprecursorswithachargestatebetween2and6
+perfullscanwereselectedforfragmentation(‘‘TopSpeed’’withacycletimeof1.5s)andisolatedwithaquadrupoleisolationwindow
+of0.7Th.MS2scanswereperformedintheIontrap(Turbo)usingamaximuminjectiontimeof50ms,AGCtargetvalueof1.5x104,
+andfragmentedusingCIDwithnormalizedcollisionenergy(NCE)of35%.SPS-MS3scansforquantificationwereperformedonthe
+10mostintenseMS2fragmentionswithanisolationwindowof0.7Th(MS)and2m/z(MS2).IonswerefragmentedusingHCDwithan
+NCEof50%andanalyzedintheOrbitrapwitharesolutionof50,000atm/z200,scanrangeof100–500m/z,AGCtargetvalueof1.5
+x105,andamaximuminjectiontimeof86ms.Repeatedsequencingofalreadyacquiredprecursorswaslimitedbysettingadynamic
+exclusionof60sand7ppmandadvancedpeakdeterminationwasdeactivated.Allspectrawereacquiredincentroidmode.
+TrypticpeptidesofthewholecellproteomeofOCI-AML3NPM1c(cid:1)FKBP12cellswereanalyzedonanOrbitrapAscendcoupledtoa
+VanquishNeo(ThermoFisherScientific)usinga25cmlong,75mmIDfused-silicacolumnpackedinhousewith1.9mmC18particles
+(Reprosilpur,Dr.Maisch),andkeptat50(cid:3)Cusinganintegratedcolumnoven(Sonation).HPLCsolventsconsistedof0.1%Formic
+acidinwater(BufferA)and0.1%Formicacidand80%acetonitrileinwater(BufferB).Assumingequalamountsineachfraction,400
+ngofpeptideswereelutedbyanon-lineargradientfrom7to40%Bover90min,followedbyastepwiseincreaseto90%Bin6min,
+whic
+
+Chunk 64:
+mlong,75mmIDfused-silicacolumnpackedinhousewith1.9mmC18particles
+(Reprosilpur,Dr.Maisch),andkeptat50(cid:3)Cusinganintegratedcolumnoven(Sonation).HPLCsolventsconsistedof0.1%Formic
+acidinwater(BufferA)and0.1%Formicacidand80%acetonitrileinwater(BufferB).Assumingequalamountsineachfraction,400
+ngofpeptideswereelutedbyanon-lineargradientfrom7to40%Bover90min,followedbyastepwiseincreaseto90%Bin6min,
+whichwasheldforanother9min.Asynchronousprecursorselection(SPS)multi-notchMS3methodwasusedtominimizeratio
+compressionaspreviouslydescribed.84FullscanMSspectra(350–1400m/z)wereacquiredwitharesolutionof120,000atm/z
+200,maximuminjectiontimeof100ms,andAGCtargetvalueof4x105.Themostintenseprecursorswithachargestatebetween
+2and6perfullscanwereselectedforfragmentation(‘‘TopSpeed’’withacycletimeof1.5s)andisolatedwithaquadrupoleisolation
+windowof0.7Th.MS2scanswereperformedintheIontrap(Turbo)usingamaximuminjectiontimeof35ms,AGCtargetvalueof
+10000,andfragmentedusingCIDwithanormalizedcollisionenergy(NCE)of35%.SPS-MS3scansforquantificationweretriggered
+onlyafterasuccessfulReal-timesearchagainstthehumancanonicalreferenceproteomefromSwissProtwiththesamesearch
+parameterasstatedbelowfordataprocessinginProteomeDiscoverer.CriteriaforpassingthesearchwereXcorr:2,dCn:0.05,
+andprecursormassaccuracy:10ppm.Maximumsearchtimewas40ms,andpeptideclose-outwassetto3peptidesperprotein.
+MS3acquisitionwasperformedonthe10mostintenseMS2fragmentionswithanisolationwindowof0.7Th(MS)and2m/z(MS2).
+IonswerefragmentedusingHCDwithanNCEof55%andanalyzedintheOrbitrapwitharesolutionof45,000atm/z200scanrange
+of100–500m/z,AGCtargetvalueof150000andamaximuminjectiontimeof91ms.Repeatedsequencingofalreadyacquiredpre-
+cursorswaslimitedbysettingadynamicexclusionof60sand7ppm,andadvancedpeakdeterminationwasdeactivated.Allspectra
+wereacquiredincentroidmode.
+Massspectrometrydataprocessing
+MSrawdataprocessingoftheimmunoprecipitationswasperformedwithMaxQuant(v1.6.17.0)anditsin-buildlabel-freequantifi-
+cationalgorithmMaxLFQapplyingdefaultpara
+
+Chunk 65:
+f150000andamaximuminjectiontimeof91ms.Repeatedsequencingofalreadyacquiredpre-
+cursorswaslimitedbysettingadynamicexclusionof60sand7ppm,andadvancedpeakdeterminationwasdeactivated.Allspectra
+wereacquiredincentroidmode.
+Massspectrometrydataprocessing
+MSrawdataprocessingoftheimmunoprecipitationswasperformedwithMaxQuant(v1.6.17.0)anditsin-buildlabel-freequantifi-
+cationalgorithmMaxLFQapplyingdefaultparameters.73Acquiredspectraweresearchedagainstthehumanreferenceproteome
+(TaxonomyID9606)downloadedfromUniProt(17-April-2022;‘‘OneSequencePerGene’’,20509sequences)andacollectionof
+commoncontaminants(244entries)usingtheAndromedasearchengineintegratedintoMaxQuant.70Identificationswerefiltered
+toobtainfalsediscoveryrates(FDR)below1%forbothpeptidespectrummatches(PSM;minimumlengthof7aminoacids)and
+proteinsusingatarget-decoystrategy.85
+MSrawdataoftheproteomeswereanalyzedwithProteomeDiscoverer2.4(ThermoFisherScientific).AcquiredMS2-spectrawere
+searchedagainstthehumanreferenceproteome(TaxonomyID9606)downloadedfromUniProt(17-April-2022;‘‘OneSequencePer
+Gene’’,20509sequences)andacollectionofcommoncontaminants(244entriesfromMaxQuant’s‘‘contaminants.fasta’’)using
+SequestHT,allowingaprecursormasstoleranceof7ppmandafragmentmasstoleranceof0.5Daafterrecalibrationofmasserrors
+usingtheSpectraRC-nodeapplyingdefaultsettings.Inadditiontostandarddynamic(Oxidationonmethioninesandacetylationof
+proteinN-termini)andstatic(Carbamidomethylationoncysteines)modifications,TMTpro-labellingofN-terminiandlysineswereset
+asstaticmodifications.FalsediscoveryrateswerecontrolledusingPercolator(<1%FDRonPSMlevel).Onlyproteinswithhighand
+mediumconfidence(combinedq-value<0.05)wereusedfordownstreamanalyses.
+Massspectrometrydataanalyses
+ForprocessingandstatisticalanalysisoftheMSdata,thePerseussoftware(v.1.6.15.0)andMicrosoftExcelwereused.Afterthe
+removalofcontaminantsandreverseentries,replicatesweregrouped.Inimmunoprecipitations,proteinsnotidentifiedinatleast
+2 replicates within one group were removed. LFQ intensities (IP
+
+Chunk 66:
+withhighand
+mediumconfidence(combinedq-value<0.05)wereusedfordownstreamanalyses.
+Massspectrometrydataanalyses
+ForprocessingandstatisticalanalysisoftheMSdata,thePerseussoftware(v.1.6.15.0)andMicrosoftExcelwereused.Afterthe
+removalofcontaminantsandreverseentries,replicatesweregrouped.Inimmunoprecipitations,proteinsnotidentifiedinatleast
+2 replicates within one group were removed. LFQ intensities (IP samples) and normalized abundances (proteome) were log2
+transformed,andmissingvaluesinIPsampleswerereplacedbyimputationusingstandarddistribution.Ifnotstatedotherwise,a
+two-tailedStudent’st-testwasperformedapplyingaBenjaminiHochbergFDRof0.05.Aone-tailed(right)Student’st-testwitha
+BenjaminiHochbergFDRof0.05wasusedtocomparetheIPsampleswiththenon-transfectedMOCKcontrol.
+26 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+ll
+Article OPENACCESS
+Geneontology(GO)termenrichmentanalysesversusthehumanproteomeweredoneusingtheDAVIDonlinetool.64Ifnotstated
+otherwiseproteinswerefilteredwithasignificancelevelofp<0.05.ProteinsfromIPsampleswerefirstfilteredforlog2FC>0.58over
+the non-transfected MOCK control in either the Control-KD, NPM1-KD, or both and defined as ‘‘real interactors’’. Then
+log2FC>+/(cid:1)0.58betweentheNPM1-KDandContr-KDwereusedtoidentifyinteractorsenrichedorlostuponNPM1depletion.Pro-
+teinsfromtheproteomeswereconsideredupregulatedordownregulatedwithanFC>+/(cid:1)0.2withasignificancelevelofp<0.05.
+TheprincipalcomponentanalysiswascreatedinPerseus.GO-termenrichmentandvolcanoblotswerecreatedwithRstudio.
+Proximityligationassayandconfocalmicroscopy
+U-2OScellsexpressingdoxycycline-inducibleFlag-NPM1variantsweredepletedofendogenousNPM1withaUTR-specificNPM1
+siRNAandgrownoncoverslips(0.17mmthick,CarlRoth).Ifindicated,cellsweretreatedwith200nMBafilomycinA1and/or150nM
+Torin1for4h.Thecellswerefixedin4%paraformaldehyde(PFA)for15minandpermeabilizedwith0.5%TritonX-100inPBSfor
+10min.TheproximityLigationAssaywasperformedwiththeDuolinksystem(Sigma)accordingtothemanufacturer’sinstructi
+
+Chunk 67:
+-inducibleFlag-NPM1variantsweredepletedofendogenousNPM1withaUTR-specificNPM1
+siRNAandgrownoncoverslips(0.17mmthick,CarlRoth).Ifindicated,cellsweretreatedwith200nMBafilomycinA1and/or150nM
+Torin1for4h.Thecellswerefixedin4%paraformaldehyde(PFA)for15minandpermeabilizedwith0.5%TritonX-100inPBSfor
+10min.TheproximityLigationAssaywasperformedwiththeDuolinksystem(Sigma)accordingtothemanufacturer’sinstructions,if
+notstateddifferently.Toreducethebackgroundsignal,theprimaryantibodiesweredilutedinPLAblockingbufferinsteadofthe
+antibodydilutionbuffer.Inthelastwashingstepoftheprotocol,DAPIandfluorescentlylabeledsecondaryantibodieswereadded
+towashbufferBfor30min.ThecoverslipsweremountedonaglassslidewithProLongGoldAntifadeMountant(ThermoFisher
+Scientific)anddriedbeforeimagingwiththeLeicaSP8confocalmicroscope.Imageprocessingandanalysisweredonewiththe
+BioVoxxeltoolboxinImageJandtheCellProfiler4.2.1software.StatisticswascalculatedinGraphPadPrism5forMacOSX.
+YokogawaCQ1microscopyimaging
+U-2 OSGFP-mCherry-LC3B cells with doxycycline-inducible Flag-NPM1 variants or siRNA-mediated gene depletion were grown on
+confocalmicroscopycompatiblemclearmicroplates(Greiner).Ifstated,cellsweretreatedwith100nMBafilomycinA1overnight,
+priortothefixation.Cellswerefixedwith4%PFAfor15min,permeabilizedwith0.5%TritoninPBS,andstainedwithHoechst
+33342(ThermoScientific) and Alexa Fluor 647Phalloidin for20 min. Imagingwiththe Yokogawa CQ1microscope and analysis
+withtheCQ1softwarewasperformedasdescribedpreviously.86Inbrief,cellswereautomaticallydetectedusingnuclearDAPIstain-
+ingandcytoplasmicbackgroundstaining.Peaksoffluorescentintensitycomparedtothesurroundingwerecountedasdots.To
+quantifythecolocalizingdots,thedotsinthemCherryandGFPchannelswereoverlayedandcounted.
+Lysotrackerstainingandlivecellmicroscopy
+U-2OScells,expressingdoxycycline-inducibleFlag-NPM1variantorsubjectedtosiRNA-mediatedgenedepletionweregrownon
+confocalmicroscopycompatiblemclearmicroplates(Greiner)andstainedwith75nMLysoTrackerredDND99(Invitrogen)a
+
+Chunk 68:
+scentintensitycomparedtothesurroundingwerecountedasdots.To
+quantifythecolocalizingdots,thedotsinthemCherryandGFPchannelswereoverlayedandcounted.
+Lysotrackerstainingandlivecellmicroscopy
+U-2OScells,expressingdoxycycline-inducibleFlag-NPM1variantorsubjectedtosiRNA-mediatedgenedepletionweregrownon
+confocalmicroscopycompatiblemclearmicroplates(Greiner)andstainedwith75nMLysoTrackerredDND99(Invitrogen)andHoechst
+33342(ThermoScientific)for20min.Asdescribedabove,imagingandanalysiswereperformedwiththeYokogawaCQ1microscope
+andCQ1software.Notmorethan10wellswerestainedandimagedsimultaneouslytominimizepotentialcytotoxiceffects.
+Flowcytometryanalysis
+U-2OSGFP(cid:1)LC3B(cid:1)RFP-LC3BDGcellswithdoxycycline-inducibleFlag-NPM1variantsorsiRNA-mediatedgenedepletionwereusedfor
+flowcytometryFACSCantoIIandanalyzedusingBDFACSDiva8.0.1softwareasdescribed.86Ifstated,cellsweretreatedwith
+BafilomycinA1orTorin1.ForstatisticalanalysiswithFlowJo,thepercentageofcellsintheautophagy-positivegatewasusedas
+shownbyHerteletal.58
+Modelingandsimulationsofproteincomplexes
+Wemodeledthe3DstructureofthehumanNPM1-GABARAPl1complexusingAlphaFold,62astate-of-the-artneuralnetwork-based
+structurepredictionmethod.Weusedapolyglycinelinker(40residues)tostitchtheNPM1andtheGABARAPL1sequenceintoa
+singlepolypeptidechaininbothorientations(NPM1-G40-GABARAPL1andGABARAPL1-G40-NPM1)toobtaininitialmodels,which
+werethenprocessedtoremovetheglycinelinkertoconstruct10high-resolutionstructuralmodelsofthebinarycomplex.
+All-atom molecular dynamics simulations of the NPM1-GABARAPL1 complexes were performed using GROMACS (version
+2021.5; https://doi.org/10.5281/zenodo.10017699)66–68 with CHARMM36m forcefield.87 Four initial models were selected from
+thetop-rankedAFmodels(Models1,3,5,&8)andprocessedusingCHARMM-GUI.88Initialmodelswerefirstenergyminimized
+invacuum,theninsertedintoanoctahedronbox(giveboxsize),andsolvatedwithTIP3Pwaterand150mMNaCl.Followingthis,
+another round of energy minimization was executed using the steepest descent a
+
+Chunk 69:
+s://doi.org/10.5281/zenodo.10017699)66–68 with CHARMM36m forcefield.87 Four initial models were selected from
+thetop-rankedAFmodels(Models1,3,5,&8)andprocessedusingCHARMM-GUI.88Initialmodelswerefirstenergyminimized
+invacuum,theninsertedintoanoctahedronbox(giveboxsize),andsolvatedwithTIP3Pwaterand150mMNaCl.Followingthis,
+another round of energy minimization was executed using the steepest descent algorithm, and two separate equilibration runs
+(10 ns each) with positional restraints on the protein backbone atoms. The first equilibration run was performed by maintaining
+thetemperatureat310KusingaNose-Hooverthermostat.89–91Inthesecondequilibrationrun,thepressurewasmaintainedat1
+atmusingtheisotropicParrinello-Rahmanbarostat.92Productionrunswereperformedwith2fstimestepsforatotalof500ns
+forthefourreplicates.
+WTcomplex(GABARAPL1–NPM1 1–20)containingtheN-terminalpeptideofNPM11–20andGABARAPL1(GABARAPL1)was
+WT
+modeledbytruncatingtheNPM1proteinstructurefromthetop-AFcomplexmodel.Modelsformutantcomplexescontainingthe
+alanine mutations (GABARAPL1–NPM1 1–20), phospho-mimics (GABARAPL1–NPM1 1–20), and the acetylation-mimics
+5A 2E
+(GABARAPL1 –NPM1 1–20) were obtained by using mutate module of CHARMM-GUI.88 Three replicates for each complex
+2Q WT
+weresimulatedusingCHARMM36MforcefieldinGROMACSemployingthesameprotocolmentionedabovefor500ns.
+CellReports42,113484,December26,2023 27
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Article
+Interfacemapping,contactmaps,andcomparisons
+The complex interface and the interacting residues were mapped by quantifying residue-wise inter-chain (A and B) contacts
+and averag
+P
+ed ov
+P
+er the(cid:2)co(cid:2)ntact maps. Residue-wise contacts were computed using in-house scripts, using MDAnalysis72
+AB = ½ sð(cid:2) r (cid:2)Þ(cid:4), where the sums extend over heavy atom positions of interacting residues (i, j) and
+(cid:2)cn(cid:2)ts i˛A j˛B ij
+sð(cid:2) r (cid:2)Þ=1(cid:1)ð0:5+0:5tanhðjr j(cid:1)6ÞÞ; a smooth sigmoidal counting function to limit interactions below the c
+
+Chunk 70:
+P
+ed ov
+P
+er the(cid:2)co(cid:2)ntact maps. Residue-wise contacts were computed using in-house scripts, using MDAnalysis72
+AB = ½ sð(cid:2) r (cid:2)Þ(cid:4), where the sums extend over heavy atom positions of interacting residues (i, j) and
+(cid:2)cn(cid:2)ts i˛A j˛B ij
+sð(cid:2) r (cid:2)Þ=1(cid:1)ð0:5+0:5tanhðjr j(cid:1)6ÞÞ; a smooth sigmoidal counting function to limit interactions below the cut-off distance
+ij ij
+(r %6 (cid:3) A).Contactmapswereaveragedoverall10AFmodelstoobtaininteractingsitesonNPM1andATG8proteins.Contacts
+ij
+mapswerealsoaveragPedoverindividualframesofMDtrajectories(1nsintervalsfor500ns)oftheboundstateofthecomplex.
+Onlytheboundstates( AB R5)wereaveragedtoobtainthecontactprobabilitiesandmappedontothe3Dstructure.
+cnts
+QUANTIFICATIONANDSTATISTICALANALYSIS
+Quantificationofthedataisdescribedinthemethodsectionoftherespectiveexperiment.Statisticaltestsofmassspectrometrydata
+wereperformedusingPerseus.StatisticaltestsofotherexperimentaldatawereperformedusingGraphPadPrism,version5.0bfor
+MACOSX.Datawereanalyzedbyttestorone-wayANOVAasindicatedinthefigurelegends.nnumbersrepresentbiologicalrep-
+licates and areindicated in figurelegends.Errorbars indicatethe standarddeviation (SD)orstandard errorofthe mean(SEM).
+pvaluesareindicatedasfollows:*=<0.05,**=<0.01,***=<0.001.
+28 CellReports42,113484,December26,2023
+
+---PAGE BREAK---
+
+
+

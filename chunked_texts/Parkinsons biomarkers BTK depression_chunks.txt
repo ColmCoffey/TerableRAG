@@ -1,0 +1,1363 @@
+Chunk 1:
+NeurobiologyofDisease177(2023)105997
+Contents lists available at ScienceDirect
+Neurobiology of Disease
+journal homepage: www.elsevier.com/locate/ynbdi
+Cross-sectional proteomic expression in Parkinson’s disease-related
+proteins in drug-naïve patients vs healthy controls with longitudinal
+clinical follow-up
+Ilham Yahya Abdia,b,1, Michael Bartlc,1, Mohammed Daknac, Houari Abdesselemb,
+Nour Majbourb, Claudia Trenkwalderd,e, Omar El-Agnafa,b,2,*, Brit Mollenhauerc,d,*,2
+aCollege of Health and Life Sciences, Hamad Bin Khalifa University (HBKU), Education City, Qatar Foundation, Doha, Qatar
+bNeurological Disorders Research Center, Qatar Biomedical Research Institute (QBRI), Hamad Bin Khalifa University (HBKU), Qatar Foundation, Doha, Qatar
+cDepartment of Neurology, University Medical Center Goettingen, Robert-Koch, Goettingen, Germany
+dParacelsus-Elena-Klinik, Klinikstrasse, Kassel, Germany
+eDepartment of Neurosurgery, University Medical Center Goettingen, Robert-Koch, Goettingen, Germany
+A R T I C L E I N F O A B S T R A C T
+Keywords: There is an urgent need to find reliable and accessible blood-based biomarkers for early diagnosis of Parkinson’s
+Parkinson’s disease disease (PD) correlating with clinical symptoms and displaying predictive potential to improve future clinical trials.
+Plasma proteomics This led us to a conduct large-scale proteomics approach using an advanced high-throughput proteomics technology
+Biomarkers to create a proteomic profile for PD. Over 1300 proteins were measured in serum samples from a de novo Parkinson’s
+SOMAscan assay
+(DeNoPa) cohort made up of 85 deep clinically phenotyped drug-naïve de novo PD patients and 93 matched healthy
+controls (HC) with longitudinal clinical follow-up available of up to 8 years. The analysis identified 73 differentially
+expressed proteins (DEPs) of which 14 proteins were confirmed as stable potential diagnostic markers using machine
+learning tools. Among the DEPs identified, eight proteins—ALCAM, contactin 1, CD36
+
+Chunk 2:
+ deep clinically phenotyped drug-naïve de novo PD patients and 93 matched healthy
+controls (HC) with longitudinal clinical follow-up available of up to 8 years. The analysis identified 73 differentially
+expressed proteins (DEPs) of which 14 proteins were confirmed as stable potential diagnostic markers using machine
+learning tools. Among the DEPs identified, eight proteins—ALCAM, contactin 1, CD36, DUS3, NEGR1, Notch1, TrkB,
+and BTK— significantly correlated with longitudinal clinical scores including motor and non-motor symptom scores,
+cognitive function and depression scales, indicating potential predictive values for progression in PD among various
+phenotypes. Known functions of these proteins and their possible relation to the pathophysiology or symptomatology
+of PD were discussed and presented with a particular emphasis on the potential biological mechanisms involved, such
+as cell adhesion, axonal guidance and neuroinflammation, and T-cell activation. In conclusion, with the use of
+advance multiplex proteomic technology, a blood-based protein signature profile was identified from serum samples
+of a well-characterized PD cohort capable of potentially differentiating PD from HC and predicting clinical disease
+progression of related motor and non-motor PD symptoms. We thereby highlight the need to validate and further
+investigate these markers in future prospective cohorts and assess their possible PD-related mechanisms.
+Abbreviations: PD, Parkinson’s disease; CSF, Cerebrospinal fluid; CNS, Central nervous system; GWAS, Genome-wide association studies; GHR, Growth hormone
+receptor; DeNoPa, De Novo Parkinson’s study; HC, Healthy controls; BL, Baseline; FU, Follow-up; H&Y, Hoehn and Yahr stage; MDS UPDRS, Movement Disorder
+Society Unified PD Rating Scale; NMSS, Non-motor Symptom Scale; MoCA, Montreal Cognitive Assessment test; BDI, Beck Depression Inventory; GDS, Geriatric
+Depression Scale; Q1, First quartile; Q3, Third quartile; LIMMA, Linear Models for Microarray 
+
+Chunk 3:
+
+receptor; DeNoPa, De Novo Parkinson’s study; HC, Healthy controls; BL, Baseline; FU, Follow-up; H&Y, Hoehn and Yahr stage; MDS UPDRS, Movement Disorder
+Society Unified PD Rating Scale; NMSS, Non-motor Symptom Scale; MoCA, Montreal Cognitive Assessment test; BDI, Beck Depression Inventory; GDS, Geriatric
+Depression Scale; Q1, First quartile; Q3, Third quartile; LIMMA, Linear Models for Microarray data; DEPs, Differentially expressed proteins; CRAN, Comprehensive R
+Archive Network; LEDD, Levodopa equivalent daily dose; CD209, Cluster of differentiation 209 (C-type lectin domain family 4 member L); FDR, False discovery rate;
+ALCAM, Activated Leukocyte Cell Adhesion Molecule; TrkB, Tropomyosin receptor kinase B; NOTCH1, Neurogenic locus notch homolog protein 1; NEGR1, Neuronal
+Growth Regulator 1; CNTN1, Contactin 1; BTK, Bruton’s tyrosine kinase; DUS3, Dual Specificity Phosphatase 3; CD36, Cluster of differentiation 36 (Platelet
+glycoprotein 4); CSK, C-Terminal Src Kinase; LRRK2, Leucine-rich repeat kinase 2; NCAM-L1, Neural cell adhesion molecule L1; CD166, Cluster of differentiation
+166; GPI, Glycosylphosphatidylinositol; MAPK, Mitogen-activated protein kinase; NLRP3, NOD-, LRR- and pyrin domain-containing protein 3; BSP, Bone sialo-
+protein; C1r, Complement 1 subcomponent r; SRCN1, SRC kinase signaling inhibitor 1.
+* Corresponding authors.
+E-mail addresses: iyahya@hbku.edu.qa (I.Y. Abdi), michael.bartl@med.uni-goettingen.de (M. Bartl), mohammed.dakna@med.uni-goettingen.de (M. Dakna),
+habdesselem@hbku.edu.qa (H. Abdesselem), n.majbour@ucl.ac.uk (N. Majbour), ctrenkwalder@gmx.de (C. Trenkwalder), oelagnaf@hbku.edu.qa (O. El-Agnaf),
+brit.mollenhauer@med.uni-goettingen.de (B. Mollenhauer).
+1 These authors contributed equally to this work.
+2 These authors also contributed equally to this work.
+https://doi.org/10.1016/j.nbd.2023.105997
+Received 25 November 2022; Received in revised form 4 January 2023; Accepted 8 January 2023
+Availableonline10January2023
+0969-9961/©2023Th
+
+Chunk 4:
+.de (C. Trenkwalder), oelagnaf@hbku.edu.qa (O. El-Agnaf),
+brit.mollenhauer@med.uni-goettingen.de (B. Mollenhauer).
+1 These authors contributed equally to this work.
+2 These authors also contributed equally to this work.
+https://doi.org/10.1016/j.nbd.2023.105997
+Received 25 November 2022; Received in revised form 4 January 2023; Accepted 8 January 2023
+Availableonline10January2023
+0969-9961/©2023TheAuthors.PublishedbyElsevierInc.ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+1. Background et.al conducted a multicohort longitudinal study on plasma samples that
+identified four markers that distinguished PD patients from non-PD
+Parkinson’s disease (PD), the second most common neurodegenera- patients one of which, GHR, was capable of predicting a faster rate of
+tive disease, is characterized by progressive motor and non-motor cognitive decline (Posavi et al., 2019). A more recent study by
+symptoms caused by spreading of aggregated α-synuclein pathology Winchester and colleagues (Winchester et al., 2021) was a more
+(Dickson et al., 2009; Braak and Del Tredici, 2008). comprehensive multi-cohort discovery and validation study on blood,
+Current PD diagnosis relies on clinical examination. However, there CSF, and brain tissue that in part validated results found by Posavi et al.
+is strong evidence indicating a long, typically non-motor prodromal Our current study aims to serve as a possible validation of the results
+phase that precedes the manifestation of motor symptoms by several reported by these two studies in a high-quality single-center design. The
+years (Schrag et al., 2015). Symptoms usually arise after the loss of study design and workflow are illustrated in Fig. 1.
+>50% of midbrain dopaminergic neurons (Dickson et al., 2009). The
+lack of robust early diagnostic and progression biomarkers has markedly 2. Methods
+hampered the develop
+
+Chunk 5:
+tion of motor symptoms by several reported by these two studies in a high-quality single-center design. The
+years (Schrag et al., 2015). Symptoms usually arise after the loss of study design and workflow are illustrated in Fig. 1.
+>50% of midbrain dopaminergic neurons (Dickson et al., 2009). The
+lack of robust early diagnostic and progression biomarkers has markedly 2. Methods
+hampered the development of a protective treatment strategy, as
+currently, only symptomatic approaches are available. With the 2.1. Study participants and cohort information
+increasing prevalence of PD, likely to double in the near future, there is a
+growing need for biomarkers that trace the early onset and progression The De Novo Parkinson’s disease (DeNoPa) study is an ongoing
+of the disease pathology. Such biomarkers could also facilitate the prospective longitudinal, single-center cohort study, the demographics,
+assessment of treatment efficacy and possibly help with patient inclusion and exclusion criteria of which have been described in detail
+stratification. previously (Mollenhauer et al., 2013; Mollenhauer et al., 2019b).
+Over the past decade, efforts have been made to discover and vali- Recruitment criteria included patients aged between 40 and 85 years,
+date biomarkers, in particular, several potential biomarkers have been newly diagnosed with PD (de novo) with levodopa exposure for less than
+assessed in cerebrospinal fluid (CSF) as they are the most proximal to the two weeks and a minimum of four weeks prior to recruitment. The
+central nervous system (CNS), as well as in blood. These potential bio- diagnosis was conducted according to the UK Brain Bank Society criteria
+markers are currently under investigation, such as α-synuclein species, (at least two criteria of the following: resting tremor, bradykinesia, and
+neurofilament, and lysosomal enzymes (Parnetti et al., 2014; Parnetti rigidity) (Hughes et al., 1992). Healthy controls (HC) were age-, sex- and
+et al., 2019; Mollenhauer 
+
+Chunk 6:
+tial bio- diagnosis was conducted according to the UK Brain Bank Society criteria
+markers are currently under investigation, such as α-synuclein species, (at least two criteria of the following: resting tremor, bradykinesia, and
+neurofilament, and lysosomal enzymes (Parnetti et al., 2014; Parnetti rigidity) (Hughes et al., 1992). Healthy controls (HC) were age-, sex- and
+et al., 2019; Mollenhauer et al., 2019a; Majbour et al., 2020; Majbour education- matched with no family history of PD and showing no
+et al., 2021; Oosterveld et al., 2020). None of these, mainly hypothesis- pathological condition of the central nervous system. Biannual longi-
+driven markers, have robustly (i.e., validated independently) shown a tudinal clinical data were collected at baseline (BL), biannually till the
+clear biomarker pattern in PD with a correlation to clinical measures and maximum 8 years of follow-up (FU) in 104 PD and 94 HC. In this study,
+clinical progression phenotypes, although a distinct biochemical signa- baseline (BL) samples from 93 PD and 85 HC were analyzed. With reg-
+ture is hypothesized to be present as the disease pathology lasts 20-30 ular biannual clinical FU of the cohort, the 10th year of FU is ongoing
+years (Fayyad et al., 2019; Oliveira et al., 2021). In addition, increasing enabling a better diagnostic accuracy of participants. We excluded in-
+evidence points towards a peripheral initiation of the pathology at least dividuals with another neurological disease during FU as published
+in some cases (Borghammer and Van Den Berge, 2019) allowing the (Mollenhauer et al., 2016).
+detection of a biomarker pattern in peripheral fluids, such as blood.
+Recent technological advances have widened the avenue for multiplex
+2.2. Clinical and other available molecular assessments
+and large-scale -omics profiling approaches to biomarker discovery.
+Given the molecular complexity of PD and the fact that only 5–10% of
+Clinical assessments at baseline (BL) and follow-up (FU) have be
+
+Chunk 7:
+16).
+detection of a biomarker pattern in peripheral fluids, such as blood.
+Recent technological advances have widened the avenue for multiplex
+2.2. Clinical and other available molecular assessments
+and large-scale -omics profiling approaches to biomarker discovery.
+Given the molecular complexity of PD and the fact that only 5–10% of
+Clinical assessments at baseline (BL) and follow-up (FU) have been
+PD cases are caused by monogenic mutations of autosomal dominant
+well-described in previous studies (Mollenhauer et al., 2013; Mollen-
+genes, the multiplex screening for a panel of markers could provide a
+hauer et al., 2016). Assessments included in this study were motor
+more in-depth and valuable insight into the disease pathophysiology and function scores: Hoehn and Yahr stage (H&Y), the Movement Disorder
+possible molecular phenotypes, allowing for an earlier diagnosis and
+Society Unified PD Rating Scale (MDS UPDRS) part III and the total
+specific treatment optimization beyond symptomatic therapy (Cherian
+score; and non-motor functional assessments: Non-Motor Symptom
+and Divya, 2020).
+Scale (NMSS), and Montreal Cognitive Assessment Test (MoCA), and the
+Several studies have investigated -omics of PD, like transcriptomics,
+assessment of depression by the self-reported Beck Depression Inventory
+metabolomics, epigenomics, and proteomics (Lewitt et al., 2017; Posavi
+(BDI), and the Geriatric Depression Scale (GDS) (results are shown in
+et al., 2019; Kia et al., 2021; Hu et al., 2020) with many including
+Table 1).
+genome-wide association studies (GWAS). However, their use leads to
+cohort-specific results, often lacking deep clinical phenotyping due to
+the polygenic causes of sporadic PD and are therefore not always 2.3. Protein quantification and preprocessing
+reproducible and generalizable.
+This study aimed to use a modern aptamer-based platform (Gold The SOMAscan assay platform (SomaLogic, Boulder, USA) was
+et al., 2010) to perform high-quality proteomic profiling (1305 pro
+
+Chunk 8:
+hort-specific results, often lacking deep clinical phenotyping due to
+the polygenic causes of sporadic PD and are therefore not always 2.3. Protein quantification and preprocessing
+reproducible and generalizable.
+This study aimed to use a modern aptamer-based platform (Gold The SOMAscan assay platform (SomaLogic, Boulder, USA) was
+et al., 2010) to perform high-quality proteomic profiling (1305 proteins) applied for the quantification of 1305 proteins (1.3 K assay) in serum
+of cross-sectional serum samples collected at baseline from an estab- samples and the assay was conducted at the proteomics core of Weill
+lished single-center cohort of PD patients and matched healthy controls Cornell Medicine-Qatar. Assay details and step-by-step methodology
+well-characterized by in-depth clinical phenotyping and data from 8 have been described and can be found in the technical white paper by
+years of clinical follow-up. In addition, we correlated the multiplex data SomaLogic (Gold et al., 2010; Kraemer et al., 2011).
+with longitudinal motor and non-motor scores to elucidate their pre- Briefly, serum samples were incubated with chemically modified
+dictive potential. In addition to creating a proteomic PD profile, the nucleotides, SOMAmers, that were labelled with fluorophore, photo
+associations of these proteins to α-synuclein serum levels were also cleavable linker, and biotin used to immobilized formed complexes on
+investigated to assess possible links between them. streptavidin coated beads. Unbound proteins were washed away and the
+To the best of our knowledge, there have been only two studies that SOMAmer bound proteins were biotinylated. All SOMAmer-protein
+complexes were cleaved from the first set of streptavidin coated beads
+have used the same proteomic analysis approach in a PD cohort. Posavi
+using UV and the biotinylated SOMAmer bound proteins were
+2
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+recaptured on a second set o
+
+Chunk 9:
+wo studies that SOMAmer bound proteins were biotinylated. All SOMAmer-protein
+complexes were cleaved from the first set of streptavidin coated beads
+have used the same proteomic analysis approach in a PD cohort. Posavi
+using UV and the biotinylated SOMAmer bound proteins were
+2
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+recaptured on a second set of streptavidin coated beads. Additional replicates per sample. Cut-off for hemolysis was set at 0.25 absorbance
+washing steps were done to remove unbound reagents. The bound and samples that were above were excluded from downstream analyses.
+SOMAmers were released from the beads by the use of denaturing buffer
+and subsequently hybridized to complementary oligonucleotide in
+2.5. Statistical analysis
+microarray chips and quantified by fluorescence. Serum samples were
+tested randomly across four plates, each with a set of calibrators and
+All statistical analyses conducted in this study were performed using
+quality control samples run in duplicates for all plates in a blind study
+the R software package (version 4.1.0).
+format. The hybridization assay data was corrected for systematic biases
+Baseline continuous variables were expressed as mean (standard
+following the optimized data preprocessing, the methods have been
+deviation), median, the interquartile range as given by first and third
+described previously (Candia et al., 2017; SomaLogic, 2015). For data
+quartiles Q1, Q3, and the range as given by the min and max values.
+preprocessing, the samples were normalized across plates to adjust for
+Group comparisons between PD and HC were performed using the non-
+sample-sample variability due to hybridization, using hybridization
+parametric Wilcoxon-Test as some of the parameters had non-normal
+control samples. This was performed independently for each sample distributions. For the binary variable “sex”, the count in each category
+wherein each sample’s Relative Fluorescence Unit (RFU
+
+Chunk 10:
+ust for
+Group comparisons between PD and HC were performed using the non-
+sample-sample variability due to hybridization, using hybridization
+parametric Wilcoxon-Test as some of the parameters had non-normal
+control samples. This was performed independently for each sample distributions. For the binary variable “sex”, the count in each category
+wherein each sample’s Relative Fluorescence Unit (RFU) was multiplied
+is provided and the Fischer exact test was used for comparison.
+by a scale factor. Further, the data was median normalized to correct for
+Despite the normalization and quality control methods employed, a
+intraplate variations due to technical variabilities such as pipetting or
+technical driver of variability was identified that could not be adjusted
+differences in overall protein concentration. The grand median across
+for due to its probable orthogonal nature to the outcome variable. To
+the plates was estimated from the data and each plate-specific median
+overcome this limitation, conservative statistical parameters (p-value
+was subtracted from the grand mean. Scale factors for the described <0.01) were used, and the Boruta algorithm (see below methodology
+normalization processes were expected to be within the accepted range under “Feature selection analysis”) as an additional feature selection
+of 0.4-2.5 and all samples’ scale factors fell within range. Finally, the
+method was included to ensure the most stable and statistically differ-
+data were calibrated to eliminate variations between runs. All calibra-
+ential proteins could be identified.
+tors and quality control coefficients of variation were below the exclu-
+sion criteria of 0.2.
+2.6. Differential expression analysis
+2.4. Quantification of α-synuclein levels Normalized SOMAscan data were read using the R readat package
+(Cotton and Graumann, 2016) and the log2 transformed data were used
+In addition to the clinical assessments, total serum α-synuclein levels for all subsequent analyses. The limma (Lin
+
+Chunk 11:
+trol coefficients of variation were below the exclu-
+sion criteria of 0.2.
+2.6. Differential expression analysis
+2.4. Quantification of α-synuclein levels Normalized SOMAscan data were read using the R readat package
+(Cotton and Graumann, 2016) and the log2 transformed data were used
+In addition to the clinical assessments, total serum α-synuclein levels for all subsequent analyses. The limma (Linear Models for Microarray
+Data) R package, version 3.48 (Posavi et al., 2019; Kia et al., 2021;
+of the samples were quantified for this study. Measurements were con-
+Mollenhauer et al., 2013) was used to compare the expression profiles of
+ducted using an in-house immunoassay, details of which have been
+PD and HC. Proteins with an adjusted p-value <0.01 and a fold change
+previously published (Majbour et al., 2016).
+>1.5 were identified as significantly differentially expressed proteins
+Serum samples were collected by venipuncture in the morning under
+(DEPs) and selected for further analysis.
+fasting conditions and stored in Monovette tubes (Sarstedt, Nümbrecht,
+Germany). Tubes were centrifuged at 2500g at room temperature (20
+◦C) for 10 min and aliquoted and frozen within 30 min after collection at 2.7. Feature selection analysis
+(cid:0) 80 ◦C until analysis (Mollenhauer et al., 2013). Measurement of the
+absorbance of hemoglobin at 414 nm using a NanoDrop™ 2000/2000c The Boruta algorithm from the CRAN package Boruta is a wrapper
+spectrophotometer (Thermo Scientific), averaging two technical built around the random forest classification algorithm. It tries to
+Fig. 1. Overview of study. Serum samples from the De Novo Parkinson’s study cohort were analyzed using the SOMAscan 1.3 K assay kit from SomaLogic. Bio-
+informatic analyses: differential expression analysis, feature selection analysis, and linear mixed model analyses were used to identify a statistically significant panel
+of diagnostic and predictive biomarkers for Parkinson’s disease. (Created with BioRender.com).
+3
+
+--
+
+Chunk 12:
+y. Serum samples from the De Novo Parkinson’s study cohort were analyzed using the SOMAscan 1.3 K assay kit from SomaLogic. Bio-
+informatic analyses: differential expression analysis, feature selection analysis, and linear mixed model analyses were used to identify a statistically significant panel
+of diagnostic and predictive biomarkers for Parkinson’s disease. (Created with BioRender.com).
+3
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Table 1 Rating Scale; SD, standard deviation; Q1, first quartile; Q3, third quartile, MCI:
+Demographic data of participants with PD and healthy controls and clinical data Mild cognitive impairment; MoCA, Montreal Cognitive Assessment; BDI, Beck
+assessments. Depression Inventory; GDS, Geriatric Depression Scale; MADRS, Montgomery-
+Åsberg Depression Rating Scale.
+DEMOGRAPHICS
+HC (N ¼93) PD (N ¼85) p-value
+capture all the important and interesting features in the dataset with
+SEX 0.581 respect to outcome variables of PD versus HC. Firstly, the algorithm adds
+-Female 41 (44.1%) 34 (40.0%)
+randomness to the dataset by creating shuffled copies of all features
+-Male 52 (55.9%) 51 (60.0%)
+which are called Shadow Features. Then, it trains a random forest
+-Missing 0 0
+AGE at Baseline (y) 0.836 classifier on this extended dataset (original attributes plus shadow at-
+- Mean (SD) 64.62 (6.95) 64.48 (9.97) tributes), applies a feature importance measure (The Mean Decrease
+66. (57.00, Accuracy), and evaluates the importance of each feature. At every
+- Median (Q1, Q3) 64 (60, 70) 72.00)
+iteration, the Boruta algorithm checks whether a real feature is more
+- Min - Max 49.00 - 84.00 40.00 - 84.00
+- Missing 0 0 important than the other. It then removes features that are deemed
+BMI 0.03 highly unimportant. As a stopping rule, we used a maximum of 500
+- Mean (SD) 26.46 (4.43) 27.95 (4.93) random forest as indicated by the parameter maxRuns in the Boruta
+25.62 (23.11, 27.34 (24.39,
+function. With actual CRA
+
+Chunk 13:
+algorithm checks whether a real feature is more
+- Min - Max 49.00 - 84.00 40.00 - 84.00
+- Missing 0 0 important than the other. It then removes features that are deemed
+BMI 0.03 highly unimportant. As a stopping rule, we used a maximum of 500
+- Mean (SD) 26.46 (4.43) 27.95 (4.93) random forest as indicated by the parameter maxRuns in the Boruta
+25.62 (23.11, 27.34 (24.39,
+function. With actual CRAN implementation of Boruta, where warm-up
+- Median (Q1, Q3) 28.86) 29.98)
+rounds are removed, and the multiple testing corrections are introduced,
+- Min - Max 19.27 - 42.25 20.03 - 44.79
+- Missing 0 0 it should find all features that are either strongly or weakly relevant to
+CLINICAL DATA ASSESSMENTS the PD diagnosis. In our dataset, where a complex covariance structure
+HC (N ¼93) PD (N ¼85) p-value between the SOMAmers is expected, such an algorithm that takes into
+MOTOR FUNCTION SCORES
+account the multi-variable relationships and the interactions between
+MDS UPDRS part III < 0.001
+- Mean (SD) 0.68 (1.47) 22.05 (11.14) them is much more suitable than the linear models of limma.
+21.00 (13.00,
+- Median (Q1, Q3) 0.00 (0.00, 0.00) 29.00) 2.8. Linear mixed-effects model analysis
+- Min – Max 0.00 - 6.00 3.00 - 54.00
+- Missing 0 0
+MDS UPDRS total score < 0.001 For the continuous clinical scores, longitudinal modeling was un-
+- Mean (SD) 3.57 (3.39) 36.02 (17.74) dertaken via a random slope linear mixed model using the R package
+34.00 (23.00, lme4 for all dependent variables. The distribution of most clinical scores
+- Median (Q1, Q3) 3.00 (1.00, 5.00) 45.00)
+was right-skewed. We, therefore, transformed the dependent variables
+- Min – Max 0.00 - 15.00 7.000 - 84.00
+to the square root scale to achieve normal distributions of the residual
+- Missing 0 0
+Hoehn & Yahr stage < 0.001 errors in the models. For all models, we checked this assumption by
+- Mean (SD) 0.00 (0.00) 1.97 (0.68) checking the q-q plots of the residual errors. All models were adjusted
+- Median (Q1, Q3) 0.00 (0.00, 0.
+
+Chunk 14:
+e, transformed the dependent variables
+- Min – Max 0.00 - 15.00 7.000 - 84.00
+to the square root scale to achieve normal distributions of the residual
+- Missing 0 0
+Hoehn & Yahr stage < 0.001 errors in the models. For all models, we checked this assumption by
+- Mean (SD) 0.00 (0.00) 1.97 (0.68) checking the q-q plots of the residual errors. All models were adjusted
+- Median (Q1, Q3) 0.00 (0.00, 0.00) 2.00 (2.00, 2.00) for age, sex, and levodopa equivalent daily dose (LEDD). The clinical FU
+- Min – Max 0.00 - 0.00 1.00 - 3.00
+period considered was six years. Furthermore, the age was centered
+- Missing 0 0
+COGNITIVE FUNCTION SCORES around the mean to allow simple interpretations of the intercepts in the
+MoCA 0.035 models. The SOMAmers were transformed to log2 and added to the
+- Mean (SD) 26.34 (2.06) 24.98 (3.31) models as a baseline covariate to assess its predictive association with
+26.00 (25.00, 26.00 (23.00, the longitudinal expression of the clinical outcome.
+- Median (Q1, Q3) 28.00) 27.75)
+- Min - Max 22.00 - 30.00 16.00 - 30.00
+- Missing 11 31 2.9. Pathway clustering
+NON-MOTOR FUNCTION SCORES
+Non-Motor Symptoms Scale
+We performed an advanced pathway analysis and built a cluster,
+(NMSS) 0.035
+based on a systematic literature search of MedLine for the detected
+- Mean (SD) 3.91 (2.64) 7.44 (4.15)
+7.00 (4.00, significantly differently expressed markers, correlated markers, and the
+- Median (Q1, Q3) 3.00 (2.00, 5.00) 10.00) search terms “Parkinson’s disease” and “Neurodegeneration”. According
+- Min - Max 0.00 - 12.00 0.00 - 19.00 to this pathway analysis, we performed a clustering into inflammation
+- Missing 0 0
+groups, characterized by direct involvement of immunological pro-
+COGNITIVE FUNCTION SCORES
+MoCA 0.035 cesses, including the innate as well as the adaptive immune systems,
+- Mean (SD) 26.34 (2.06) 24.98 (3.31) suggesting a direct involvement of immunological processes, like CD209
+26.00 (25.00, 26.00 (23.00, antigen and cell biology, including the aspects cel
+
+Chunk 15:
+stering into inflammation
+- Missing 0 0
+groups, characterized by direct involvement of immunological pro-
+COGNITIVE FUNCTION SCORES
+MoCA 0.035 cesses, including the innate as well as the adaptive immune systems,
+- Mean (SD) 26.34 (2.06) 24.98 (3.31) suggesting a direct involvement of immunological processes, like CD209
+26.00 (25.00, 26.00 (23.00, antigen and cell biology, including the aspects cell: signaling/ growth/
+- Median (Q1, Q3) 28.00) 27.75) proliferation/ metabolism/ adhesion/ vesicular transport (Durafourt
+- Min - Max 22.00 - 30.00 16.00 - 30.00
+et al., 2012).
+- Missing 11 31
+DEPRESSION RATING SCORES
+BDI <0.001 3. Results
+- Mean (SD) 3.73 (4.91) 8.19 (6.43)
+7.00 (3.24,
+3.1. Differential expression analysis and feature selection analysis
+- Median (Q1, Q3) 2.00 (1.00, 5.00) 12.00)
+- Min - Max 0.00 - 30.00 0.00 - 28.00
+- Missing 0 1 Of the 1305 measured proteins, 73 were identified to be differen-
+GDS <0.001 tially expressed between PD patients and HC. Of these proteins, 46 were
+- Mean (SD) 1.27 (1.99) 3.32 (2.87)
+downregulated and 27 were upregulated in PD (Fig. 2 a, b, Table 2).
+- Median (Q1, Q3) 1.00 (0.00, 2.00) 3.00 (1.00, 5.00)
+- Min – Max 0.00 - 13.00 0.00 - 12.00 Table 2 reports the top 15 upregulated, and downregulated DEPs
+- Missing 3 4 assessed with limma analysis, including protein name and gene ID as
+well as the adjusted p-value and FDR.
+Abbreviations: HC, healthy control; PD, Parkinson’s disease; BMI, body mass
+index; MDS UPDRS, Movement Disorder Society Unified Parkinson’s Disease To identify the most robust markers, feature selection analysis Boruta
+was conducted on the complete proteomic profile of 1305 markers and
+4
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Fig. 2. Differential expression analysis. a) Volcano plot of differentially expressed proteins between PD and HC (p <0.01); b) Boxplot showing the distribution of
+the 10 proteins’ levels in PD and HC which correlated with PD disease progr
+
+Chunk 16:
+as conducted on the complete proteomic profile of 1305 markers and
+4
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Fig. 2. Differential expression analysis. a) Volcano plot of differentially expressed proteins between PD and HC (p <0.01); b) Boxplot showing the distribution of
+the 10 proteins’ levels in PD and HC which correlated with PD disease progression scores. c) Venn diagram of the overlap of identified DEPs between PD and HC.
+24 differentially expressed markers were identified. Of these identified proteins Notch 1, NEGR1, and CNTN1 (p-values =0.01, 0.02, and 0.01,
+24 markers, 14 overlap with those identified using the limma analysis respectively) all of which were found to be downregulated in PD.
+thereby confirming that they are the most stable markers capable of The proteins BTK and DUS3 were upregulated in PD, and both
+differentiating PD samples from HC samples. (Fig. 1c and Table 3). negatively correlated with the depression rating scale (BDI; p-values =
+0.02 and 0.01, respectively), implicating more depressive symptoms in
+3.2. Quantification of α-synuclein levels those with lower serum levels. ALCAM, along with another down-
+regulated protein, CD36, both correlated positively with the depression
+Serum α-synuclein levels were significantly increased in patients rating scale (GDS; p-values =0.03 and 0.04, respectively).
+with PD compared to controls (Mean values: 21 ng/ml (17.8-25.1) vs Baseline serum total α-synuclein levels were tested for their corre-
+14.5 ng/ml (11.8-17.1); p-values<0.001) (Supplementary Fig. 1). He- lation to the identified 14 DEPs, which were differentially expressed in
+moglobin levels were also measured, and only one sample was above the both methods (limma and Boruta). No overlap in the significantly
+set cut-off for hemolysis and therefore excluded from the analysis. correlated markers was observed between the correlation to serum
+Despite having low hemoglobin levels, two samples (1 PD a
+
+Chunk 17:
+- lation to the identified 14 DEPs, which were differentially expressed in
+moglobin levels were also measured, and only one sample was above the both methods (limma and Boruta). No overlap in the significantly
+set cut-off for hemolysis and therefore excluded from the analysis. correlated markers was observed between the correlation to serum
+Despite having low hemoglobin levels, two samples (1 PD and 1HC) α-synuclein levels. By including all the 73 differently expressed marker
+were measured to be outliers with high levels of α-synuclein. Exclusion proteins in the analysis, the tyrosine protein kinases BTK and CSK
+of these outliers did not affect the significance of the results observed showed a significant correlation to serum t-α-synuclein levels (p-value
+(Mean values: PD- 19.6 ng/ml (17.8-21.3) vs HC- 13.6 ng/ml (12.2- =0.03). Both proteins were significantly upregulated in PD. A summary
+15.1); p-values<0.001) (Supplementary Fig. 1). of the linear mixed-effects model analysis results mentioned above was
+collected in Table 4.
+3.3. Correlations with clinical and molecular assessment scores
+3.4. Pathway clustering
+To identify any associations between longitudinal non-motor and
+Extended pathway analysis revealed that the 14 differentially
+motor functional scores and the identified biomarker levels measured at
+expressed markers that were identified had a direct connection to in-
+BL, a linear mixed-effects model was fitted including age, sex, disease
+flammatory processes and neurodegeneration and PD. Furthermore, we
+duration, PD diagnosis, and log 10 of levodopa equivalented daily dose
+found that Notch 1 belonged to the complex of cell biology “signaling”,
+(LEDD) as fixed effects (Tomlinson et al., 2010).
+NCAM-L1, ALCAM, TrkB, and Siglec-7 connected to cell biology
+Results of the linear mixed-effects model analysis identified eight
+“adhesion”, ASGR1, NCAM-L1 to cell biology “vesicular transport”,
+markers- Notch1, ALCAM, DUS3, CD36, Contactin 1, TrkB, NEGR1, and
+TrkB, CNT
+
+Chunk 18:
+ly dose
+found that Notch 1 belonged to the complex of cell biology “signaling”,
+(LEDD) as fixed effects (Tomlinson et al., 2010).
+NCAM-L1, ALCAM, TrkB, and Siglec-7 connected to cell biology
+Results of the linear mixed-effects model analysis identified eight
+“adhesion”, ASGR1, NCAM-L1 to cell biology “vesicular transport”,
+markers- Notch1, ALCAM, DUS3, CD36, Contactin 1, TrkB, NEGR1, and
+TrkB, CNTN1, and NEGR1 to cell biology “growth” and cell biology
+BTK- that significantly correlated with changes in non-motor and PD
+“proliferation”, and finally DUS3 to the cell biology complex “meta-
+progression scores over 8 years. Four of the eight markers- Notch1,
+bolism”. Alterations in molecules involved in cell adhesion, cell-cell
+ALCAM, DUS3, and CD36- were also identified as potential diagnostic
+interaction, and processes related to the extracellular matrixes were
+markers via limma and Boruta analyses.
+most common (Table 5).
+Motor progression measured by MDS UPDRS total score significantly
+correlated with the proteins ALCAM and TrkB, which were found to be
+downregulated in PD (p-value =0.03). The cognitive decline assessment
+score (MoCA) significantly correlated with the levels of the cell adhesion
+5
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Table 2 4. Discussion
+List of top 15 ranked differentially upregulated and downregulated proteins
+between HC and PD using Limma. Biomarkers are an essential basis for early and reliable diagnosis of
+Top Downregulated Proteins molecular complex PD, including the differentiation from other neuro-
+degenerative diseases, the assessment of disease progression, as well as
+Target Full Name Target logFC adj.P.
+Val for drug development as causative treatment to stop or at least slow
+disease progression. With more than six million affected patients
+Neurogenic locus Notch homolog
+1 protein 1 Notch 1 -0.87 <0.001 worldwide and a fast-rising prevalence, there is an urgent need to assess
+2 Fructose-
+
+Chunk 19:
+-
+degenerative diseases, the assessment of disease progression, as well as
+Target Full Name Target logFC adj.P.
+Val for drug development as causative treatment to stop or at least slow
+disease progression. With more than six million affected patients
+Neurogenic locus Notch homolog
+1 protein 1 Notch 1 -0.87 <0.001 worldwide and a fast-rising prevalence, there is an urgent need to assess
+2 Fructose-bisphosphate aldolase A aldolase A -0.85 <0.001 reliable biomarkers for state, rate, and fate in PD (Feigin et al., 2019).
+3 Neural cell adhesion molecule L1 NCAM-L1 -0.84 <0.001 However, biomarkers must meet various criteria to be broadly appli-
+4 Complement component C1q receptor C1QR1 -0.84 <0.001 cable and reliable. CSF biomarkers, despite their proximity to the dis-
+5 CD166 antigen ALCAM -0.78 <0.001
+6 Prothrombin Prothrombin -0.72 <0.001 ease processes taking place in the CNS, have largely failed in the past and
+7 Lumican Lumican -0.72 <0.001 are not accessible without invasive methods e.g., lumbar puncture
+8 C-type mannose receptor 2 MRC2 -0.72 <0.001 (Fayyad et al., 2019; Oliveira et al., 2021; Poewe et al., 2017). Whereas,
+9 Cadherin-5 Cadherin-5 -0.71 <0.001 Blood-based biomarkers are preferred to CSF biomarkers and with the
+10 BDNF/NT-3 growth factors receptor TrkB -0.7 <0.001 increasing evidence for peripheral PD pathology, there has been a raised
+Cell adhesion molecule-related/
+11 downregulated by oncogenes CDON -0.69 <0.001 opportunity for the discovery of peripheral PD biomarkers. As the most
+12 dCTP pyrophosphatase 1 XTP3A -0.67 <0.001 important effector molecules in the body, proteins can be potentially
+CD36 used as predictors, disease-modifying targets, and surrogate markers of
+13 Platelet glycoprotein 4 ANTIGEN -0.67 <0.001 disease progression in advanced PD research. (Williams-Gray et al.,
+Complement decay-accelerating
+2016).
+14 factor DAF -0.67 <0.001
+15 Contactin-4 Contactin-4 -0.66 <0.001 Based on these considerations, this study used a large-scale pr
+
+Chunk 20:
+n the body, proteins can be potentially
+CD36 used as predictors, disease-modifying targets, and surrogate markers of
+13 Platelet glycoprotein 4 ANTIGEN -0.67 <0.001 disease progression in advanced PD research. (Williams-Gray et al.,
+Complement decay-accelerating
+2016).
+14 factor DAF -0.67 <0.001
+15 Contactin-4 Contactin-4 -0.66 <0.001 Based on these considerations, this study used a large-scale prote-
+omics approach to identify differentially expressed proteins (DEPs) be-
+tween deeply phenotyped de novo PD patients and high-quality matched
+HC cross-sectionally, with the ultimate aim of identifying potential
+Top Upregulated Proteins
+diagnostic markers for PD. All the identified DEPs, were used to conduct
+Target Full Name Target logFC adj.P.
+predictive modeling to test the ability of the marker levels at baseline to
+Val
+predict clinical disease progression and the related motor and non-motor
+Dual-specificity tyrosine-
+1 phosphorylation-regulated kinase 3 DYRK3 0.75 <0.001 symptoms up to 8 years after diagnosis. Results generated from the
+Tumor necrosis factor ligand analyses conducted were divided into; 1) potential diagnostic markers
+2 superfamily member 14 LIGHT 0.73 <0.001 capable of discriminating between PD and HC and constitute fourteen
+3 Ephrin-B1 EFNB1 0.72 <0.001 proteins confirmed by both the Boruta and limma tools; 2) nine poten-
+4 Cathepsin G Cathepsin G 0.7 <0.001
+tially predictive markers for clinical symptoms and progression of PD as
+3-phosphoinositide-dependent
+5 protein kinase 1 PDPK1 0.68 <0.001 these proteins were found to be significantly correlated to established
+6 Asialoglycoprotein receptor 1 ASGR1 0.64 <0.001 clinical scores. Among the proteins identified as potentially diagnostic
+‘Inosine-5”-monophosphate or predictive markers, four proteins overlapped as both potential diag-
+7 dehydrogenase 2’ IMDH2 0.62 <0.001 nostic and predictive markers for PD and its clinical symptoms and
+Dual-specificity protein phosphatase
+progression.
+8 3 DUS3 0.61 <0
+
+Chunk 21:
+ablished
+6 Asialoglycoprotein receptor 1 ASGR1 0.64 <0.001 clinical scores. Among the proteins identified as potentially diagnostic
+‘Inosine-5”-monophosphate or predictive markers, four proteins overlapped as both potential diag-
+7 dehydrogenase 2’ IMDH2 0.62 <0.001 nostic and predictive markers for PD and its clinical symptoms and
+Dual-specificity protein phosphatase
+progression.
+8 3 DUS3 0.61 <0.001
+9 Ephrin type-B receptor 4 EphB4 0.61 <0.001 This study also included a further analysis investigating possible
+Breast cancer anti-estrogen associations between baseline total α-synuclein levels and the identified
+10 resistance protein 3 BCAR3 0.61 <0.001 DEPs levels. Growing evidence has shown α-synuclein to be a key pro-
+11 Cellular tumor antigen p53 p53 0.6 <0.001 tein in PD pathology with several studies showing that despite its
+12 Glutathione S-transferase P GSTP1 0.6 <0.001
+‘cGMP-dependent 3′′,5′′-cyclic cGMP- ubiquitous expression throughout the body, the presence of disease-
+13 phosphodiesterase’ stimulated PDE 0.6 <0.001 associated α-synuclein is not only limited to the brain but is also pre-
+Growth factor receptor-bound GRB2 adapter sent in the periphery, even in early or prodromal stages of PD (Williams-
+14 protein 2 protein 0.6 <0.001 Gray et al., 2016). Several studies have shown higher levels of α-synu-
+15 Abelson tyrosine protein kinase 2 ABL2 0.59 <0.001
+clein in plasma of PD compared to controls which was in agreement with
+results found in our study (Chang et al., 2020; Zubelzu et al., 2022;
+Syafrita and Susanti, 2022). There are studies that have reported
+Table 3
+List of overlapping differentially up-regulated and down-regulated proteins between Limma and Boruta analyses.
+Target full name Target UniProt Entrez gene ID Entrez gene symbol Direction of expression
+1 Lumican Lumican P51884 4060 LUM Down
+2 Complement component C1q receptor C1QR1 Q9NPY3 22,918 CD93 Down
+3 Sialic acid-binding Ig-like lectin 7 Siglec-7 Q9Y286 27,036 SIGLEC7 Down
+4 Midkine Midk
+
+Chunk 22:
+le 3
+List of overlapping differentially up-regulated and down-regulated proteins between Limma and Boruta analyses.
+Target full name Target UniProt Entrez gene ID Entrez gene symbol Direction of expression
+1 Lumican Lumican P51884 4060 LUM Down
+2 Complement component C1q receptor C1QR1 Q9NPY3 22,918 CD93 Down
+3 Sialic acid-binding Ig-like lectin 7 Siglec-7 Q9Y286 27,036 SIGLEC7 Down
+4 Midkine Midkine P21741 4192 MDK Down
+5 Platelet glycoprotein 4 CD36 ANTIGEN P16671 948 CD36 Down
+6 Transforming growth factor beta receptor type 3 TGF-b R III Q03167 7049 TGFBR3 Down
+7 CD209 antigen DC-SIGN Q9NNX6 30,835 CD209 Down
+8 Dual-specificity protein phosphatase 3 DUS3 P51452 1845 DUSP3 Up
+9 Neural cell adhesion molecule L1 NCAM-L1 P32004 3897 L1CAM Down
+10 dCTP pyrophosphatase 1 XTP3A Q9H773 79,077 DCTPP1 Down
+11 Neurogenic locus Notch homolog protein 1 Notch 1 P46531 4851 NOTCH1 Down
+12 CD166 antigen ALCAM Q13740 214 ALCAM Down
+13 Asialoglycoprotein receptor 1 ASGR1 P07306 432 ASGR1 Up
+14 Fructose-bisphosphate aldolase A aldolase A P04075 226 ALDOA Down
+6
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Table 4 Table 4 (continued)
+Results of mixed-effects linear models.
+Estimate Std. p-
+Estimate Std. p- Error value
+Error value
+(Intercept) 5.28 1.28 0.00
+MOVEMENT DISORDER SOCIETY UNIFIED PD RATING SCALE (MDS UPDRS) AGE 0.02 0.01 0.01
+TOTAL SCORE SEX: male -0.32 0.15 0.04
+CD166 antigen (ALCAM) DIAGNOSIS: PD 1.14 0.17 0.00
+(Intercept) -7.79 4.41 0.08 TIME -0.02 0.02 0.35
+AGE 0.05 0.01 0.00 log10 (LEDD) -0.03 0.04 0.53
+SEX: male 0.09 0.16 0.59 Dual-specificity protein phosphatase 3 -0.35 0.13 0.01
+DIAGNOSIS: PD 4.43 0.21 0.00
+TIME 0.16 0.03 0.00
+GERIATRIC DEPRESSION SCALE (GDS)
+log10(LEDD) 0.10 0.07 0.11
+Platelet glycoprotein (CD36)
+CD166 antigen 0.71 0.33 0.03
+(Intercept) -2.94 1.89 0.12
+AGE 0.02 0.01 0.02
+BDNF/NT-3 growth factor receptor (TrkB) SEX: male 0.08 0.13 0.51
+(Intercept) -4.97 2.82 0.08 DIAGNOSIS: PD 0.89 0.14 0.00
+AGE 0.05 
+
+Chunk 23:
+Dual-specificity protein phosphatase 3 -0.35 0.13 0.01
+DIAGNOSIS: PD 4.43 0.21 0.00
+TIME 0.16 0.03 0.00
+GERIATRIC DEPRESSION SCALE (GDS)
+log10(LEDD) 0.10 0.07 0.11
+Platelet glycoprotein (CD36)
+CD166 antigen 0.71 0.33 0.03
+(Intercept) -2.94 1.89 0.12
+AGE 0.02 0.01 0.02
+BDNF/NT-3 growth factor receptor (TrkB) SEX: male 0.08 0.13 0.51
+(Intercept) -4.97 2.82 0.08 DIAGNOSIS: PD 0.89 0.14 0.00
+AGE 0.05 0.01 0.00 TIME -0.02 0.01 0.09
+SEX: male 0.02 0.16 0.90 log10 (LEDD) -0.04 0.03 0.26
+DIAGNOSIS: PD 4.42 0.20 0.00 Platelet glycoprotein 4 0.28 0.14 0.05
+TIME 0.15 0.03 0.00
+log10(LEDD) 0.10 0.07 0.11
+CD166 antigen (ALCAM)
+BDNF/NT-3 growth factors receptor 0.71 0.30 0.02
+(Intercept) -6.26 3.22 0.05
+AGE 0.02 0.01 0.03
+NON-MOTOR SYMPTOM SCORE (NMSS) SEX: male 0.04 0.12 0.74
+Dual-specificity protein phosphatase 3 (DUS3) DIAGNOSIS: PD 0.89 0.14 0.00
+(Intercept) 4.23 0.87 0.00 TIME -0.02 0.01 0.11
+AGE 0.02 0.01 0.01 log10(LEDD) -0.04 0.03 0.26
+SEX: male -0.30 0.10 0.00 CD166 antigen 0.53 0.24 0.03
+DIAGNOSIS: PD 0.80 0.12 0.00
+TIME 0.00 0.01 0.96 SERUM TOTAL-α-SYNUCLEIN
+log10 (LEDD) 0.07 0.03 0.01
+Tyrosine protein kinase (CSK)
+Contactin-1 -0.28 0.09 0.01
+(Intercept) -1.21 2.24 0.59
+AGE 0.00 0.01 0.86
+MONTREAL COGNITIVE ASSESSMENT TEST (MoCA) SEX: male -0.05 0.24 0.82
+Contactin-1 (CNTN1) DIAGNOSIS: PD 0.50 0.28 0.08
+(Intercept) 2.80 0.86 0.00 TIME 0.06 0.07 0.40
+AGE -0.01 0.00 0.00 log10 (LEDD) -0.17 0.13 0.18
+SEX: male -0.02 0.04 0.59 Tyrosine protein kinase CSK 0.55 0.25 0.03
+DIAGNOSIS: PD -0.08 0.05 0.07
+TIME 0.02 0.00 0.00
+Tyrosine protein kinase (BTK)
+log10 (LEDD) -0.04 0.01 0.00
+(Intercept) 0.18 1.69 0.92
+Contactin-1 0.15 0.06 0.01
+AGE 0.00 0.01 0.99
+SEX: male 0.04 0.24 0.88
+Neurogenic locus Notch homolog protein 1 (Notch 1) DIAGNOSIS: PD 0.51 0.28 0.07
+(Intercept) 1.87 1.22 0.13 TIME 0.06 0.07 0.42
+AGE -0.01 0.00 0.00 log10 (LEDD) -0.16 0.13 0.21
+SEX: male -0.03 0.04 0.33 Tyrosine protein kinase BTK 0.41 0.19 0.04
+DIAGNOSIS: PD -0.07 0.05 0.15
+Linear mixed model analysis of 
+
+Chunk 24:
+ercept) 0.18 1.69 0.92
+Contactin-1 0.15 0.06 0.01
+AGE 0.00 0.01 0.99
+SEX: male 0.04 0.24 0.88
+Neurogenic locus Notch homolog protein 1 (Notch 1) DIAGNOSIS: PD 0.51 0.28 0.07
+(Intercept) 1.87 1.22 0.13 TIME 0.06 0.07 0.42
+AGE -0.01 0.00 0.00 log10 (LEDD) -0.16 0.13 0.21
+SEX: male -0.03 0.04 0.33 Tyrosine protein kinase BTK 0.41 0.19 0.04
+DIAGNOSIS: PD -0.07 0.05 0.15
+Linear mixed model analysis of differentially expressed proteins to change in
+TIME 0.02 0.00 0.00
+clinical scores related to motor and non-motor symptoms in Parkinson’s disease
+log10 (LEDD) -0.04 0.01 0.00
+Neurogenic locus Notch homolog protein 1 0.23 0.09 0.01 over a period of 8 years.
+Neuronal growth regulator 1 (NEGR1) discrepant results however these could be attributed to possible blood
+(Intercept) 2.67 0.99 0.01 contamination or hemolysis confounding the quantification of α-synu-
+AGE -0.01 0.00 0.00 clein as red blood cells store high levels of the protein (Barbour et al.,
+SEX: male -0.04 0.04 0.28
+2008; Albillos et al., 2021). Measurements of hemoglobin levels in the
+DIAGNOSIS: PD -0.08 0.05 0.08
+samples tested in this study were taken into consideration to avoid this
+TIME 0.02 0.00 0.00
+log10 (LEDD) -0.05 0.01 0.00 confounding effect.
+Neuronal growth regulator 1 0.21 0.09 0.02 Using extensive literature review, the functions of the different
+proteins identified and possible explanations for their associations to the
+BECK DEPRESSION INVENTORY SCORE (BDI) PD pathology and symptoms were investigated (Table 5). Henceforth
+Tyrosine protein kinase (BTK) discussed are the; 1) four proteins identified as both potential diagnostic
+(Intercept) 4.14 1.05 0 and predictive markers; 2) two proteins that significantly correlated
+AGE 0.02 0.01 0.01 with total-α-synuclein; 3) finally two other proteins that have been re-
+SEX: male -0.31 0.15 0.04
+DIAGNOSIS: PD 1.11 0.17 0 ported to be linked to α-synuclein and PD pathology and in our study
+TIME -0.02 0.02 0.34 was differentially expressed between HC and PD howeve
+
+Chunk 25:
+tential diagnostic
+(Intercept) 4.14 1.05 0 and predictive markers; 2) two proteins that significantly correlated
+AGE 0.02 0.01 0.01 with total-α-synuclein; 3) finally two other proteins that have been re-
+SEX: male -0.31 0.15 0.04
+DIAGNOSIS: PD 1.11 0.17 0 ported to be linked to α-synuclein and PD pathology and in our study
+TIME -0.02 0.02 0.34 was differentially expressed between HC and PD however did not reach
+log10(LEDD) -0.03 0.04 0.53 statistical power to be classified as a diagnostic or predictive marker for
+Tyrosine protein kinase BTK -0.27 0.12 0.02
+PD or its symptoms.
+The four proteins classified as both potential diagnostics and pre-
+Dual-specificity protein phosphatase 3 (DUS3) dictive markers include Notch 1, ALCAM, DUS3, and CD36. Notch 1, a
+transmembrane protein that plays a critical role in neuronal and glial
+7
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Table 5
+Biomarker Information and pathway clustering.
+Protein Uniprot Regulation Correlation to Biological function Evidence in neuronal pathways/Clinical Cluster
+ID in PD longitudinal PD implications
+motor and non-motor
+symptoms
+Cell biology (signaling/
+Notch signaling gets modulated by
+Positive correlation Receptor for membrane-bound growth/proliferation/
+Notch 1 P46531 ↓ LRRK2 through endosomal pathways)(
+with MoCA Score ligands metabolism/adhesion/
+Imai et al., 2015)
+vesicular transport)
+Target for Autoantibodies in
+Aldolase Enzyme in Glycolysis/
+P04075 ↓ No correlation hyperkinetic movement disorders )( Inflammation
+A Gluconeogenesis
+Privitera et al., 2013)
+Increased α-synuclein in NCAM-L1 Cell biology (signaling/
+Cell adhesion, axon development, immunocaptured exosomes, growth/ proliferation/
+NCAM-L1 P32004 ↓ No correlation
+neuron projection differentiation against HC, MSA and CBS metabolism/ adhesion/
+(Jiang et al., 2021) vesicular transport)
+Receptor for C1q, mediation of
+↓ of C1q in exosomes in PD (Jiang et al.,
+C1QR1 Q9NPY3 ↓ No correlation ph
+
+Chunk 26:
+)
+Increased α-synuclein in NCAM-L1 Cell biology (signaling/
+Cell adhesion, axon development, immunocaptured exosomes, growth/ proliferation/
+NCAM-L1 P32004 ↓ No correlation
+neuron projection differentiation against HC, MSA and CBS metabolism/ adhesion/
+(Jiang et al., 2021) vesicular transport)
+Receptor for C1q, mediation of
+↓ of C1q in exosomes in PD (Jiang et al.,
+C1QR1 Q9NPY3 ↓ No correlation phagocytosis, elimination and Inflammation
+2019)
+connection of synapses
+Cell biology (signaling/
+Positive correlation
+Axonal growth of midbrain growth/proliferation/
+ALCAM Q13740 ↓ with MDS UPDRS Cell adhesion molecule
+dopaminergic neurons (Bye et al., 2019) metabolism/adhesion/
+Total Score and GDS
+vesicular transport)
+Proteoglycan in the brain, tumor-cell
+Collagen fibril binding and
+Lumican P51884 ↓ No correlation interaction, inflammation, and Inflammation
+organization, ECM component
+angiogenesis (Nikitovic et al., 2014)
+Various, including response to BDNF-associated activation of NRF2 in Cell biology (signaling/
+Positive correlation
+nerve growth factor/brain-derived astrocytes is neuroprotective for growth/proliferation/
+TrkB Q16620 ↓ with MDS UPDRS
+neurotrophic factor. Maturation of dopaminergic neurons via the transfer of metabolism/adhesion/
+Total Score
+CNS and PNS antioxidants (Ishii et al., 2019) vesicular transport)
+Mediation of amyloid-β and α-synuclein
+CD36 Positive correlation Amyloid-β clearance, apoptotic
+P16671 ↓ driven microglial activation (Su et al., Inflammation
+Antigen with GDS cell clearance, blood coagulation
+2008)
+Cell biology (signaling/
+Association with amyloid-β plaque growth/proliferation/
+Siglec-7 Q9Y286 ↓ No correlation Cell adhesion
+degradation (Tortora et al., 2022) metabolism/adhesion/
+vesicular transport)
+Heparin-binding growth factor or
+Genetic loss of Midkine leads to
+cytokine involved in T-cell
+Midkine P211741 ↓ No correlation dopaminergic cell death in the midbrain Inflammation
+activation/differentiation and
+(Prediger et al., 2011)
+cerebra
+
+Chunk 27:
+id-β plaque growth/proliferation/
+Siglec-7 Q9Y286 ↓ No correlation Cell adhesion
+degradation (Tortora et al., 2022) metabolism/adhesion/
+vesicular transport)
+Heparin-binding growth factor or
+Genetic loss of Midkine leads to
+cytokine involved in T-cell
+Midkine P211741 ↓ No correlation dopaminergic cell death in the midbrain Inflammation
+activation/differentiation and
+(Prediger et al., 2011)
+cerebral cortex development
+TGF deficiency leads to nigrostriatal
+Various including Intracellular
+degeneration, and upregulation protects
+TGFBR3 Q03167 ↓ No correlation signaling in TGF- β pathways, Inflammation
+against MPTP toxicity (Tesseur et al.,
+immune response
+2017)
+Multiple immune functions
+CD209 M2-activation status in brain microglia (
+Q9NNX6 ↓ No correlation including regulation of T-cell Inflammation
+antigen Durafourt et al., 2012)
+differentiation/proliferation
+Cell biology (signaling/
+CNTN1 is reduced in PD CSF and present
+Positive correlation Axon guidance, myelin formation, growth/proliferation/
+CNTN1 Q12860 ↓ in Lewy bodies (Chatterjee et al., 2019,
+with MoCA Score brain development metabolism/adhesion/
+2020)
+vesicular transport)
+Cell biology (signaling/
+Positive correlation Brain development, locomotory Controls hippocampal development (Noh growth/proliferation/
+NEGR1 Q7Z3B1 ↓
+with MoCA Score behavior et al., 2019) metabolism/adhesion/
+vesicular transport)
+Cell biology (signaling/
+Downregulated in intracranial arachnoid growth/proliferation/
+ASGR1 P07306 ↑ No correlation Receptor-mediated endocytosis
+cyst tissue (Aarhus et al., 2010) metabolism/adhesion/
+vesicular transport)
+Cell biology (signaling/
+tRNA-fragments can distinguish between
+Negative correlation growth/proliferation/
+DUS3 Q96G46 ↑ tRNA-synthesis PD and HC in a sex-specific manner (
+with BDI and NMSS metabolism/adhesion/
+Magee et al., 2019)
+vesicular transport)
+Inhibition of BTK can reduce microglial
+Negative correlation Innate immune response, B-cell activation, phagocytosis, and
+BTK Q06187 ↑ Inflammat
+
+Chunk 28:
+t)
+Cell biology (signaling/
+tRNA-fragments can distinguish between
+Negative correlation growth/proliferation/
+DUS3 Q96G46 ↑ tRNA-synthesis PD and HC in a sex-specific manner (
+with BDI and NMSS metabolism/adhesion/
+Magee et al., 2019)
+vesicular transport)
+Inhibition of BTK can reduce microglial
+Negative correlation Innate immune response, B-cell activation, phagocytosis, and
+BTK Q06187 ↑ Inflammation
+with BDI activation neurodegeneration in AD models (
+Keaney et al., 2019)
+Positive correlation Various including T-cell
+Microglial homeostasis with link to PD
+CSK Q06187 ↑ with Serum Total costimulation, adaptive immune Inflammation
+α-synuclein response and AD pathology (Portugal et al., 2021)
+Abbreviations: PD: Parkinson’s Disease, HC: Healthy Control, MSA: Multiple Systems Atrophy, CBS: Corticobasal Syndrome, CNS: Central Nervous System, AD:
+Alzheimer’s disease.
+8
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+proliferation (Lütolf et al., 2002), was most significantly downregulated Src has also been reported to be involved in the cell-to-cell transmission
+in PD serum samples against HC (Costa et al., 2003). The Notch 1 of α-synuclein (Choi et al., 2020) and studies have shown that inhibiting
+signaling pathway not only controls neurogenesis but is further involved c-Src activation attenuated neuroinflammation, α-synuclein propaga-
+ˇ
+in axonal growth and guidance mechanisms (Sestan et al., 1999; Ables tion, and protected dopaminergic neurons (Choi et al., 2020; Yang et al.,
+et al., 2011; Song and Giniger, 2011; Ding et al., 2016). Studies have 2020), thereby supporting the involvement of these kinases in PD
+shown Notch 1 expression to be altered in Alzheimer’s disease and PD pathology.
+with possible links to α-synuclein expression (Cho et al., 2019; Crews BTK is predominantly expressed in B cells and is a known positive
+et al., 2008). Further, cognitive impairment has been associated with regulator of the NLRP3 inflammasome
+
+Chunk 29:
+Studies have 2020), thereby supporting the involvement of these kinases in PD
+shown Notch 1 expression to be altered in Alzheimer’s disease and PD pathology.
+with possible links to α-synuclein expression (Cho et al., 2019; Crews BTK is predominantly expressed in B cells and is a known positive
+et al., 2008). Further, cognitive impairment has been associated with regulator of the NLRP3 inflammasome, which has been shown in studies
+decreased Notch 1 levels (Ding et al., 2016). A study by Imai et al. to be activated in the periphery of PD patients and can be triggered by
+showed links between altered the Notch signaling pathway and PD by α-synuclein (Pal Singh et al., 2018; Weber, 2021; Ito et al., 2015; Fan
+mutated LRRK2, one of the most common PD-associated genes (Imai et al., 2020). In addition to its correlation to α-synuclein levels in PD, the
+et al., 2015). These studies suggest that dysfunctional neurogenesis and results of our study also associated it with depression, a common non-
+axonal guidance mechanisms are involved in the PD-specific pathology motor symptom of PD, that continues to be studied less than other PD
+and support our finding that Notch 1 serum levels in PD correlated with symptoms. BTK correlated with changes in the BDI depression rating
+the MoCA score, frequently used to screen, and rate cognitive functions scale. Given the involvement of BTK in the NLRP3 inflammasome
+in PD. pathway, its link to depression is an interesting finding as the inflam-
+Altered neural circuitry impaired axonal guidance and neurogenesis, masome has been reported to be a key mediator in mechanisms that
+cell growth and proliferation, metabolism and signaling and can regulate psychological stressors including depression. This phenomenon
+potentially cause neurodevelopmental disorders as well as contribute to has more recently been studied and the term “inflammasome hypothesis
+the progression of neurodegenerative diseases including PD (Canter of depression” has been coined (
+
+Chunk 30:
+iator in mechanisms that
+cell growth and proliferation, metabolism and signaling and can regulate psychological stressors including depression. This phenomenon
+potentially cause neurodevelopmental disorders as well as contribute to has more recently been studied and the term “inflammasome hypothesis
+the progression of neurodegenerative diseases including PD (Canter of depression” has been coined (Wong et al., 2016; Sahin and Aricioglu,
+et al., 2016; Busche and Konnerth, 2016). Proteins also assessed in this 2016; Iwata et al., 2013).
+study that are associated with roles in axonal guidance and growth Also worth discussing are two markers that displayed potential
+mechanisms, include the cell adhesion molecules, ALCAM, and NCAM- diagnostic capabilities but did not correlate with clinical scores or total-
+L1 (Pollerberg et al., 2013; Singh et al., 2019). ALCAM, also known as α-synuclein levels. These markers have been reported to be related to
+CD166 antigen, has a PD-specific connection as it guides the axonal α-synuclein and PD-related pathology including inflammation, a specific
+growth of dopaminergic neurons in the midbrain, the main region of PD feature with increasing evidence suggesting its links to PD pathology
+pathology (Bye et al., 2019). In this study, serum levels of ALCAM were (Caggiu et al., 2019). Interestingly, these two markers, Midkine and
+downregulated in PD patients and positively correlated with the MDS CD209 antigen, that were significantly under expressed in PD compared
+UPDRS total score, implicating an association between higher serum to HC in our study, play a role in T-cell regulation and activity (Mur-
+levels and worse motor performance. ALCAM is a cell adhesion molecule amatsul et al., 2011; Jung et al., 2004; Herrado˜n and P´erez-García,
+reported in the literature to function in axonal guidance and synaptic 2014). Studies have shown that Midkine deficiency resulted in dopa-
+plasticity, and impairments in both mechanisms have been found in min
+
+Chunk 31:
+play a role in T-cell regulation and activity (Mur-
+levels and worse motor performance. ALCAM is a cell adhesion molecule amatsul et al., 2011; Jung et al., 2004; Herrado˜n and P´erez-García,
+reported in the literature to function in axonal guidance and synaptic 2014). Studies have shown that Midkine deficiency resulted in dopa-
+plasticity, and impairments in both mechanisms have been found in minergic system dysfunction as well as olfactory and cognitive impair-
+patients with major depression disorder (Pollerberg et al., 2013; Singh ments, both known symptoms of PD and modulates immune responses/
+et al., 2019; Kroenke et al., 2001; Khairova et al., 2009). This is sup- inflammation in neurodegenerative disorders (Prediger et al., 2011;
+ported by the positive correlation with the GDS depression scale in our Ohgake et al., 2009). CD209 antigen gets expressed by brain microglia
+study, and by a previous study that showed altered peripheral levels of and blood-derived macrophages in the M2-activation status, which is
+ALCAM in response to anti-depression treatment (Ma et al., 2019). suggested to include repair processes and regulation of inflammation,
+Dual-specificity phosphatase-3 (DUS3) belongs to a superfamily of further it is involved in T-cell activation and differentiation (Durafourt
+protein tyrosine phosphatases that work on phosphorylating tyrosine, et al., 2012).
+serine, and threonine residues. It was also found to regulate cell differ- Finally, there were markers that did not satisfy statistical tests to be
+entiation and growth by modulating pathways such as negatively considered diagnostic markers for PD however they correlated with
+regulating members of the MAPK signaling pathway (Nunes-Xavier cognitive clinical scores and MDS UPDRS Total score. These markers
+et al., 2019). Dysregulation of the signaling pathways such as MAPK has were cell adhesion molecules, Contactin 1, TrkB and NEGR1 which were
+been shown to occur in PD pathogenesis. However, the exact mech
+
+Chunk 32:
+considered diagnostic markers for PD however they correlated with
+regulating members of the MAPK signaling pathway (Nunes-Xavier cognitive clinical scores and MDS UPDRS Total score. These markers
+et al., 2019). Dysregulation of the signaling pathways such as MAPK has were cell adhesion molecules, Contactin 1, TrkB and NEGR1 which were
+been shown to occur in PD pathogenesis. However, the exact mecha- all downregulated in our study.
+nisms involved are yet to be identified and validated (Bohush et al., We compared our findings with the results of previous studies,
+2018; Kim and Choi, 2010). In addition to being found as significantly applying SOMAmer technology in PD samples. The protein markers
+upregulated in PD, DUS3 correlated with the NMSS score, assessing non- identified by Posavi et al. (Posavi et al., 2019), BSP, C1r, GHR, and
+motor symptoms as well as the depression scores as measured with the SRCN1 were also identified in this study as differentially expressed (p-
+GDS and the BDI. These findings indicate the possible involvement of value<0.05) while using the more stringent feature selection analysis,
+DUS3 in PD pathology with direct connections to the clinical phenotype Boruta, confirmed the differential expression of BSP in PD compared to
+and potentially a therapeutic target, worth evaluating in further control samples in our cohort. Correlating our results with the study by
+investigations. Winchester et al. showed an overlap of the top DEP, Notch 1 which was
+Platelet glycoprotein 4, CD36, is involved in mediating microglial also found to be downregulated in PD (Winchester et al., 2021).
+pro-inflammatory response (Su et al., 2008). Levels of CD36 were Our study includes the following limitations that have to be
+downregulated in PD and also correlated with the GDS depression score. addressed. (I) DeNoPa cohort is a single-center cohort well characterized
+In another study, CD36 deficiency was found to impact depressive-like with stringent standards operating p
+
+Chunk 33:
+chester et al., 2021).
+pro-inflammatory response (Su et al., 2008). Levels of CD36 were Our study includes the following limitations that have to be
+downregulated in PD and also correlated with the GDS depression score. addressed. (I) DeNoPa cohort is a single-center cohort well characterized
+In another study, CD36 deficiency was found to impact depressive-like with stringent standards operating procedures (SOPs) used making it an
+behavior by the inflammasome hypothesis of depression (Bai et al., ideal cohort for an explorative study such as ours, however, our findings
+2021). It has also been reported to work in conjunction with tyrosine need independent and optimally multi-center validation. (II) Despite the
+kinase Fyn, also among the likely upregulated proteins in our dataset, to single-center nature and the strong SOPs used which should allow for
+regulate the uptake of misfolded α-synuclein via the inflammasome less variability compared to multicenter studies, we identified an un-
+pathway (Panicker et al., 2019). identified driver of variability in the dataset that resulted in inflated p-
+The tyrosine kinases BTL and CSK are associated with inflammatory values during differential expression analysis. We, therefore, cautiously
+processes and correlated with total-α-synuclein levels in serum in our selected conservative cut-off parameters in identifying differentially
+study presenting a possible connection to α-synuclein pathology. CSK, expressed proteins that had a p-value <0.01 and fold change >1.5 and
+also known as c-Src, is a non-receptor tyrosine kinase of the Src family conducted further analyses using a machine-learning selection tech-
+and is also capable of phosphorylating α-synuclein (Ellis et al., 2001). c- nique as an additional stringent method of identifying DEPs. (III) Results
+9
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+of this study are purely based on association analyses with an element of Writing –
+
+Chunk 34:
+ly conducted further analyses using a machine-learning selection tech-
+and is also capable of phosphorylating α-synuclein (Ellis et al., 2001). c- nique as an additional stringent method of identifying DEPs. (III) Results
+9
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+of this study are purely based on association analyses with an element of Writing – original draft. Mohammed Dakna: Data curation, Formal
+targeted bias approach as a limited number of carefully selected target analysis, Methodology, Writing – review & editing. Houari Abdesse-
+proteins were tested in a single cohort. The biological functions and PD lem: Funding acquisition, Project administration, Resources, Writing –
+pathology related mechanistic associations inferred from the results review & editing. Nour Majbour: Data curation, Project administration,
+generated warrant further future investigations including validation in Writing – review & editing. Claudia Trenkwalder: Supervision, Writing
+other larger PD cohorts as well as functional studies assessing the roles – review & editing. Omar El-Agnaf: Conceptualization, Supervision,
+and mechanisms of identified proteins. Writing – review & editing. Brit Mollenhauer: Conceptualization, Su-
+pervision, Writing – review & editing.
+5. Conclusion
+Declaration of Competing Interest
+We present a group of 14 stable markers that we identified to be
+differentially expressed between PD and HC. Of these, four markers:
+IA, MD, HA, NM, and OE have no competing interests to report. MB
+NOTCH1, ALCAM, DUS3, CD36 were also determined to be potential
+has received funding from the Deutsche Forschungsgemeinschaft (DFG,
+predictive markers for disease progression and the non-motor symptoms
+German Research Foundation) – 413,501,650. CT has received hono-
+in PD such as cognitive functioning (as measured with the MoCA score),
+raria for consultancy from Roche, and honoraria for educational lectures
+and depression (as rated by the BDI 
+
+Chunk 35:
+ to be potential
+has received funding from the Deutsche Forschungsgemeinschaft (DFG,
+predictive markers for disease progression and the non-motor symptoms
+German Research Foundation) – 413,501,650. CT has received hono-
+in PD such as cognitive functioning (as measured with the MoCA score),
+raria for consultancy from Roche, and honoraria for educational lectures
+and depression (as rated by the BDI and GDS). Both tyrosine kinases CSK
+from UCB. CT has received research funding for the PPMI study from
+and BTK were also found to correlate with baseline levels of total-
+Michael J. Fox Foundation and funding from the EU (Horizon 2020) and
+α-synuclein which in this study were found to be higher in PD cases
+stipends from the (International Parkinson’s and Movement Disorder
+compared to healthy controls. In addition to these markers, four other
+Society) IPMDS. BM has received honoraria for consultancy from Roche,
+markers: Contactin 1, NEGR1, TrkB, and BTK were shown to be capable
+Biogen, AbbVie, UCB, and Sun Pharma Advanced Research Company.
+of predicting a decline in motor abilities as measured by the MDS UPDRS
+BM is a member of the executive steering committee of the Parkinson
+total score, as well as cognitive decline, and depression despite their lack
+Progression Marker Initiative and PI of the Systemic Synuclein Sampling
+of stability for use as diagnostic markers for PD. Multiple functions of the
+Study of the Michael J. Fox Foundation for Parkinson’s Research and has
+identified markers have elucidated their involvement in several mech-
+received research funding from the Deutsche Forschungsgemeinschaft
+anisms that could be linked to PD symptoms such as cell adhesion,
+(DFG), EU (Horizon 2020), Parkinson Fonds Deutschland, Deutsche
+axonal guidance and synaptic plasticity, and neuroinflammation via
+Parkinson Vereinigung, Parkinson’s Foundation and the Michael J. Fox
+inflammasome activation and specific T-cell activity. Our findings
+Foundation for Parkinson’s Research.
+validate
+
+Chunk 36:
+orschungsgemeinschaft
+anisms that could be linked to PD symptoms such as cell adhesion,
+(DFG), EU (Horizon 2020), Parkinson Fonds Deutschland, Deutsche
+axonal guidance and synaptic plasticity, and neuroinflammation via
+Parkinson Vereinigung, Parkinson’s Foundation and the Michael J. Fox
+inflammasome activation and specific T-cell activity. Our findings
+Foundation for Parkinson’s Research.
+validate, in part, previous similar studies, and also provide new candi-
+date markers that warrant further validation as well as advanced clinical
+Data availability
+studies to provide novel insights into the molecular mechanisms
+involved in PD pathology as a basis of future therapy development.
+Data will be made available on request.
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.nbd.2023.105997.
+Acknowledgements
+Ethics approval and consent to participate
+The authors thank all patients, healthy subjects, and funding
+agencies. This work would have not been possible without their valuable
+Approval was received from the ethical standards committee on
+contribution. Open Access funding provided by the Qatar National
+human experimentation for all experiments with human participants
+Library.
+(approval no. FF89/2008). Written informed consent was obtained from
+all study participants (consent for research). The study is registered at
+References
+the German Register for Clinical Trials (DRKS00000540) according to
+the World Health Organization Trial Registration Data Set.
+Aarhus, M., Helland, C.A., Lund-Johansen, M., Wester, K., Knappskog, P.M., 2010 Feb
+26. Microarray-based gene expression profiling and DNA copy number variation
+Consent for publication analysis of temporal fossa arachnoid cysts. Cerebrospinal Fluid Res. 7, 6. Available
+from: /pmc/articles/PMC2841093/.
+Ables, J.L., Breunig, J.J., Eisch, A.J., Rakic, P., 2011 May. Not(ch) just development:
+Not applicable.
+notch signalling in the adult brain. Nat. Rev. Neurosci. 12 (5), 269.
+Albillos, S.M., 
+
+Chunk 37:
+array-based gene expression profiling and DNA copy number variation
+Consent for publication analysis of temporal fossa arachnoid cysts. Cerebrospinal Fluid Res. 7, 6. Available
+from: /pmc/articles/PMC2841093/.
+Ables, J.L., Breunig, J.J., Eisch, A.J., Rakic, P., 2011 May. Not(ch) just development:
+Not applicable.
+notch signalling in the adult brain. Nat. Rev. Neurosci. 12 (5), 269.
+Albillos, S.M., Montero, O., Calvo, S., Solano, B., Trejo, J.M., 2021 May 28. Cubo E. Can
+Availability of data and materials plasma α-synuclein help us to differentiate parkinson’s disease from essential
+tremor? Tremor Other Hyperkinetic Move. [Internet]. 11 (1) [cited 2023 Jan 2].
+Available from: http://tremorjournal.org/articles/10.5334/tohm.600/.
+The datasets used and/or analyzed during the current study are Bai, S., Wang, W., Wang, T., Li, J., Zhang, S., Chen, Z., et al., 2021 Jan 5. CD36 deficiency
+available from the corresponding author on reasonable request. affects depressive-like behaviors possibly by modifying gut microbiota and the
+inflammasome pathway in mice. Transl. Psychiatry 11 (1), 1–13.
+Barbour, R., Kling, K., Anderson, J.P., Banducci, K., Cole, T., Diep, L., et al., 2008 Jan.
+Funding Red blood cells are the major source of alpha-synuclein in blood. Neurodegener. Dis.
+[Internet]. 5 (2), 55–59 [cited 2023 Jan 2]. Available from: https://www.karger.
+com/Article/FullText/112832.
+The work conducted by the OE laboratory was supported by the
+Bohush, A., Niewiadomska, G., Filipek, A., 2018 Oct 1. Role of mitogen activated protein
+Qatar Biomedical Research Institute under Internal Grant VR98. The kinase signaling in Parkinson’s disease. Int. J. Mol. Sci. 19 (10).
+funders had no role in the design and conduct of the study, in the Borghammer, P., Van Den Berge, N., 2019. Brain-first versus gut-first Parkinson’s
+disease: a hypothesis. J. Parkinsons Dis. 9 (Suppl. 2), S281.
+collection, management, analysis, and interpretation of the data, in the
+Braak, H., Del Tredici, K., 2008. Invi
+
+Chunk 38:
+VR98. The kinase signaling in Parkinson’s disease. Int. J. Mol. Sci. 19 (10).
+funders had no role in the design and conduct of the study, in the Borghammer, P., Van Den Berge, N., 2019. Brain-first versus gut-first Parkinson’s
+disease: a hypothesis. J. Parkinsons Dis. 9 (Suppl. 2), S281.
+collection, management, analysis, and interpretation of the data, in the
+Braak, H., Del Tredici, K., 2008. Invited article: nervous system pathology in sporadic
+preparation, review, or approval of the article or in the decision to Parkinson disease. Neurology. 70 (20), 1916–1925.
+submit the article for publication. Busche, M.A., Konnerth, A., 2016 Aug 5. Impairments of neural circuit function in
+Alzheimer’s disease. Philos. Trans. Royal Soc. B: Biol. Sci. 371 (1700).
+Bye, C.R., Rytova, V., Alsanie, W.F., Parish, C.L., Thompson, L.H., 2019 Jul 12. Axonal
+CRediT authorship contribution statement growth of midbrain dopamine neurons is modulated by the cell adhesion molecule
+ALCAM through trans-heterophilic interaction with L1Cam, ChL1 and Semaphorin.
+Ilham Yahya Abdi: Conceptualization, Data curation, Formal J. Neurosci. 39 (34), 6656–6667.
+Caggiu, E., Arru, G., Hosseini, S., Niegowska, M., Pietro, Sechi G., Zarbo, I.R., et al.,
+analysis, Methodology, Writing – original draft. Michael Bartl: 2019. Inflammation, infectious triggers, and Parkinson’s disease. Front. Neurol. 10
+Conceptualization, Data curation, Formal analysis, Methodology, (FEB).
+10
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Candia, J., Cheung, F., Kotliarov, Y., Fantoni, G., Sellers, B., Griesman, T., et al., 2017 neurons from embryonic stem cell-derived nestin-positive cells. FASEB J. 18 (11),
+Dec 1. Assessment of variability in the SOMAscan assay. Sci. Rep. 7 (1), 1–13. 1237–1239.
+Canter, R.G., Penney, J., Tsai, L.H., 2016 Nov 9. The road to restoring neural circuits for Keaney, J., Gasser, J., Gillet, G., Scholz, D., Kadiu, I., 2019. Inhibition of bruton’s
+the treatmen
+
+Chunk 39:
+ers, B., Griesman, T., et al., 2017 neurons from embryonic stem cell-derived nestin-positive cells. FASEB J. 18 (11),
+Dec 1. Assessment of variability in the SOMAscan assay. Sci. Rep. 7 (1), 1–13. 1237–1239.
+Canter, R.G., Penney, J., Tsai, L.H., 2016 Nov 9. The road to restoring neural circuits for Keaney, J., Gasser, J., Gillet, G., Scholz, D., Kadiu, I., 2019. Inhibition of bruton’s
+the treatment of Alzheimer’s disease. Nature 539 (7628), 187–196. tyrosine kinase modulates microglial phagocytosis: therapeutic implications for
+Chang, C.W., Yang, S.Y., Yang, C.C., Chang, C.W., Wu, Y.R., 2020 Jan 21. Plasma and alzheimer’s disease. J. Neuroimmune Pharmacol. 14 (3), 448–461. Available from:
+serum alpha-synuclein as a biomarker of diagnosis in patients with Parkinson’s https://pubmed.ncbi.nlm.nih.gov/30758770/.
+disease. Front. Neurol. 10, 1388. Khairova, R.A., MacHado-Vieira, R., Du, J., Manji, H.K., 2009 May. A potential role for
+Chatterjee, M., Schild, D., Teunissen, C., 2019 Feb 1. Contactins in the central nervous pro-inflammatory cytokines in regulating synaptic plasticity in major depressive
+system: role in health and disease. Neural Regen. Res. 14 (2), 206. disorder. Int. J. Neuropsychopharmacol. 12 (4), 561–578.
+Chatterjee, M., van Steenoven, I., Huisman, E., Oosterveld, L., Berendse, H., van der Kia, D.A., Zhang, D., Guelfi, S., Manzoni, C., Hubbard, L., Reynolds, R.H., et al., 2021 Apr
+Flier, W.M., et al., 2020 Aug 1. Contactin-1 is reduced in cerebrospinal fluid of 1. Identification of candidate Parkinson disease genes by integrating genome-wide
+Parkinson’s disease patients and is present within Lewy bodies. Biomolecules. 10 (8), association study, expression, and epigenetic data sets. JAMA Neurol. 78 (4),
+1–15. 464–472.
+Cherian, A., Divya, K.P., 2020 Dec 1. Genetics of Parkinson’s disease. Acta Neurol. Belg. Kim, E.K., Choi, E.J., 2010 Apr 1. Pathological roles of MAPK signaling pathways in
+120 (6), 1297–1305. human diseases. Biochim. Biophys. Acta (BBA) - 
+
+Chunk 40:
+patients and is present within Lewy bodies. Biomolecules. 10 (8), association study, expression, and epigenetic data sets. JAMA Neurol. 78 (4),
+1–15. 464–472.
+Cherian, A., Divya, K.P., 2020 Dec 1. Genetics of Parkinson’s disease. Acta Neurol. Belg. Kim, E.K., Choi, E.J., 2010 Apr 1. Pathological roles of MAPK signaling pathways in
+120 (6), 1297–1305. human diseases. Biochim. Biophys. Acta (BBA) - Mol. Basis Dis. 1802 (4), 396–405.
+Cho, S.J., Yun, S.M., Jo, C., Jeong, J., Park, M.H., Han, C., et al., 2019 Nov 1. Altered Kraemer, S., Vaught, J.D., Bock, C., Gold, L., Katilius, E., Keeney, T.R., et al., 2011 Oct
+expression of Notch1 in Alzheimer’s disease. PLoS One 14 (11), e0224941. 17. From somamer-based biomarker discovery to diagnostic and clinical
+Choi, Y.R., Kim, J.B., Kang, S.J., Noh, H.R., Jou, I., Joe, E.H., et al., 2020 Jul 3. The dual applications: a SOMAmer-based, streamlined multiplex proteomic assay. Hoheisel
+role of c-src in cell-to-cell transmission of α-synuclein. EMBO Rep. 21 (7), e48950. JD, editor. PLoS One 6 (10), e26332.
+Costa, R.M., Honjo, T., Silva, A.J., 2003 Aug 5. Learning and memory deficits in Notch Kroenke, K., Spitzer, R.L., Williams, J.B.W., 2001 Sep 1. The PHQ-9. J. Gen. Intern. Med.
+mutant mice. Curr. Biol. 13 (15), 1348–1354. 16 (9), 606–613.
+Cotton, R.J., Graumann, J., 2016 May 4. Readat: an R package for reading and working Lewitt, P.A., Li, J., Lu, M., Guo, L., Auinger, P., 2017 Feb 28. Metabolomic biomarkers as
+with SomaLogic ADAT files. BMC Bioinform. 17 (1), 201. strong correlates of Parkinson disease progression. Neurology. 88 (9), 862–869.
+Crews, L., Mizuno, H., Desplats, P., Rockenstein, E., Adame, A., Patrick, C., et al., 2008 Lütolf, S., Radtke, F., Aguet, M., Suter, U., Taylor, V., 2002 Jan 15. Notch1 is required for
+Apr 16. α-synuclein alters notch-1 expression and neurogenesis in mouse embryonic neuronal and glial differentiation in the cerebellum. Development. 129 (2),
+stem cells and in the hippocampus of transgenic mic
+
+Chunk 41:
+–869.
+Crews, L., Mizuno, H., Desplats, P., Rockenstein, E., Adame, A., Patrick, C., et al., 2008 Lütolf, S., Radtke, F., Aguet, M., Suter, U., Taylor, V., 2002 Jan 15. Notch1 is required for
+Apr 16. α-synuclein alters notch-1 expression and neurogenesis in mouse embryonic neuronal and glial differentiation in the cerebellum. Development. 129 (2),
+stem cells and in the hippocampus of transgenic mice. J. Neurosci. 28 (16), 373–385.
+4250–4260. Ma, H., Wang, Y., Xue, Y.L., Huang, D., Kong, Y., Zhao, X., et al., 2019 Apr 1. The effect
+Dickson, D.W., Braak, H., Duda, J.E., Duyckaerts, C., Gasser, T., Halliday, G.M., et al., of Xinkeshu tablets on depression and anxiety symptoms in patients with coronary
+2009. Neuropathological Assessment of Parkinson’s Disease: Refining the Diagnostic artery disease: results from a double-blind, randomized, placebo-controlled study.
+Criteria, vol. 8. The Lancet Neurology. Lancet Publishing Group, pp. 1150–1157. Biomed. Pharmacother. (112), 108639
+Ding, X.F., Gao, X., Ding, X.C., Fan, M., Chen, J., 2016 May 13. Postnatal dysregulation of Magee, R., Londin, E., Rigoutsos, I., 2019. TRNA-derived fragments as sex-dependent
+Notch signal disrupts dendrite development of adult-born neurons in the circulating candidate biomarkers for Parkinson’s disease. Parkinsonism Relat.
+hippocampus and contributes to memory impairment. Sci. Rep. 6 (1), 1–11. Disord. 65, 203–209. Available from: https://pubmed.ncbi.nlm.nih.gov/31402278/.
+Durafourt, B.A., Moore, C.S., Zammit, D.A., Johnson, T.A., Zaguia, F., Guiot, M.C., et al., Majbour, N.K., Vaikath, N.N., van Dijk, K.D., Ardah, M.T., Varghese, S., Vesterager, L.B.,
+2012 May. Comparison of polarization properties of human adult microglia and et al., 2016 Dec 19. Oligomeric and phosphorylated alpha-synuclein as potential CSF
+blood-derived macrophages. Glia. 60 (5), 717–727. biomarkers for Parkinson’s disease. Mol. Neurodegener. 11 (1), 7.
+Ellis, C.E., Schwartzberg, P.L., Grider, T.L., Fink, D.W., Nussbaum, R.L
+
+Chunk 42:
+K.D., Ardah, M.T., Varghese, S., Vesterager, L.B.,
+2012 May. Comparison of polarization properties of human adult microglia and et al., 2016 Dec 19. Oligomeric and phosphorylated alpha-synuclein as potential CSF
+blood-derived macrophages. Glia. 60 (5), 717–727. biomarkers for Parkinson’s disease. Mol. Neurodegener. 11 (1), 7.
+Ellis, C.E., Schwartzberg, P.L., Grider, T.L., Fink, D.W., Nussbaum, R.L., 2001 Feb 9. Majbour, N.K., Aasly, J.O., Hustad, E., Thomas, M.A., Vaikath, N.N., Elkum, N., et al.,
+α-Synuclein is phosphorylated by members of the Src family of protein-tyrosine 2020 Dec 6. CSF total and oligomeric α-Synuclein along with TNF-α as risk
+kinases *. J. Biol. Chem. 276 (6), 3879–3884. biomarkers for Parkinson’s disease: a study in LRRK2 mutation carriers. Transl.
+Fan, Z., Pan, Y.T., Zhang, Z.Y., Yang, H., Yu, S.Y., Zheng, Y., et al., 2020 Jan 8. Systemic Neurodegener. 9 (1), 15.
+activation of NLRP3 inflammasome and plasma α-synuclein levels are correlated Majbour, N.K., Abdi, I.Y., Dakna, M., Wicke, T., Lang, E., Ali Moussa, H.Y., et al., 2021
+with motor severity and progression in Parkinson’s disease. J. Neuroinflammation Sep 1. Cerebrospinal α-synuclein oligomers reflect disease motor severity in DeNoPa
+17 (1). longitudinal cohort. Move. Dis. [Internet]. 36 (9), 2048–2056 [cited 2023 Jan 3].
+Fayyad, M., Salim, S., Majbour, N., Erskine, D., Stoops, E., Mollenhauer, B., et al., 2019 Available from: https://onlinelibrary.wiley.com/doi/full/10.1002/mds.28611.
+Sep 1. Parkinson’s disease biomarkers based on α-synuclein. J. Neurochem. Mollenhauer, B., Trautmann, E., Sixel-Do¨ring, F., Wicke, T., Ebentheuer, J.,
+[Internet]. 150 (5), 626–636 [cited 2023 Jan 3]. Available from: https://onlinelibra Schaumburg, M., et al., 2013 Oct 1. Nonmotor and diagnostic findings in subjects
+ry.wiley.com/doi/full/10.1111/jnc.14809. with de novo Parkinson disease of the DeNoPa cohort. Neurology. 81 (14),
+Feigin, V.L., Nichols, E., Alam, T., Bannick, M.S., Beghi, E., Blake, N., et a
+
+Chunk 43:
+l-Do¨ring, F., Wicke, T., Ebentheuer, J.,
+[Internet]. 150 (5), 626–636 [cited 2023 Jan 3]. Available from: https://onlinelibra Schaumburg, M., et al., 2013 Oct 1. Nonmotor and diagnostic findings in subjects
+ry.wiley.com/doi/full/10.1111/jnc.14809. with de novo Parkinson disease of the DeNoPa cohort. Neurology. 81 (14),
+Feigin, V.L., Nichols, E., Alam, T., Bannick, M.S., Beghi, E., Blake, N., et al., 2019 May 1. 1226–1234.
+Global, regional, and national burden of neurological disorders, 1990–2016: a Mollenhauer, B., Zimmermann, J., Sixel-Do¨ring, F., Focke, N.K., Wicke, T.,
+systematic analysis for the global burden of disease study 2016. Lancet Neurol. 18 Ebentheuer, J., et al., 2016 Jul 12. Monitoring of 30 marker candidates in early
+(5), 459–480. Parkinson disease as progression markers. Neurology. 87 (2), 168–177.
+Gold, L., Ayers, D., Bertino, J., Bock, C., Bock, A., Brody, E.N., et al., 2010 Dec 7. Mollenhauer, B., Dakna, M., Liu, T.Y., Galasko, D., Foroud, T., Zetterberg, H., et al., 2019
+Aptamer-based multiplexed proteomic technology for biomarker discovery. Gelain F, Dec 10. Validation of serum neurofilament light chain as a biomarker of Parkinson’s
+editor. PLoS One 5 (12), e15004. disease progression. bioRxiv. 762237.
+Herrado˜n, G., P´erez-García, C., 2014 Feb 1. Targeting midkine and pleiotrophin Mollenhauer, B., Zimmermann, J., Sixel-Do¨ring, F., Focke, N.K., Wicke, T.,
+signalling pathways in addiction and neurodegenerative disorders: recent progress Ebentheuer, J., et al., 2019 Jan 1. Baseline predictors for progression 4 years after
+and perspectives. Br. J. Pharmacol. 171 (4), 837–848. Parkinson’s disease diagnosis in the De Novo Parkinson cohort (DeNoPa). Mov.
+Hu, L., Dong, M.X., Huang, Y.L., Lu, C.Q., Qian, Q., Zhang, C.C., et al., 2020 Jun 30. Disord. 34 (1), 67–77.
+Integrated metabolomics and proteomics analysis reveals plasma lipid metabolic Muramatsul, H., Yokoi, K., Chen, L., Ichihara-Tanaka, K., Kimura, T., Muramatsu, T.,
+disturbance in patients 
+
+Chunk 44:
+macol. 171 (4), 837–848. Parkinson’s disease diagnosis in the De Novo Parkinson cohort (DeNoPa). Mov.
+Hu, L., Dong, M.X., Huang, Y.L., Lu, C.Q., Qian, Q., Zhang, C.C., et al., 2020 Jun 30. Disord. 34 (1), 67–77.
+Integrated metabolomics and proteomics analysis reveals plasma lipid metabolic Muramatsul, H., Yokoi, K., Chen, L., Ichihara-Tanaka, K., Kimura, T., Muramatsu, T.,
+disturbance in patients with Parkinson’s disease. Front. Mol. Neurosci. 13. 2011. Midkine as a factor to counteract the deposition of amyloid β-peptide plaques:
+Hughes, A.J., Daniel, S.E., Kilford, L., Lees, A.J., 1992. Accuracy of clinical diagnosis of in vitro analysis and examination in knockout mice. Int. Arch. Med. 4 (1).
+idiopathic Parkinson’s disease: a clinico-pathological study of 100 cases. J. Neurol. Nikitovic, D., Papoutsidakis, A., Karamanos, N.K., Tzanakakis, G.N., 2014. Lumican
+Neurosurg. Psychiatry 55 (3), 181–184. affects tumor cell functions, tumor-ECM interactions, angiogenesis and
+Imai, Y., Kobayashi, Y., Inoshita, T., Meng, H., Arano, T., Uemura, K., et al., 2015. The inflammatory response. Matrix Biol. 35, 206–214. Available from: https://pubmed.
+Parkinson’s disease-associated protein kinase LRRK2 modulates notch signaling ncbi.nlm.nih.gov/24060754/.
+through the endosomal pathway. PLoS Genet. 11 (9). Noh, K., Lee, H., Choi, T.Y., Joo, Y., Kim, S.J., Kim, H., et al., 2019 Jan 16. Negr1 controls
+Ishii, T., Warabi, E., Mann, G.E., 2019. Circadian control of BDNF-mediated Nrf2 adult hippocampal neurogenesis and affective behaviors. Mol. Psychiatry 24 (8),
+activation in astrocytes protects dopaminergic neurons from ferroptosis. Free Radic. 1189–1205.
+Biol. Med. 133, 169–178. Available from: https://pubmed.ncbi.nlm.nih.gov/ Nunes-Xavier, C.E., Zaldumbide, L., Aurtenetxe, O., Lo´pez-Almaraz, R., Lo´pez, J.I.,
+30189266/. Pulido, R., 2019 Mar 1. Dual-specificity phosphatases in neuroblastoma cell growth
+Ito, M., Shichita, T., Okada, M., Komine, R., Noguchi, Y., Yoshimura, A., et al., 
+
+Chunk 45:
+s dopaminergic neurons from ferroptosis. Free Radic. 1189–1205.
+Biol. Med. 133, 169–178. Available from: https://pubmed.ncbi.nlm.nih.gov/ Nunes-Xavier, C.E., Zaldumbide, L., Aurtenetxe, O., Lo´pez-Almaraz, R., Lo´pez, J.I.,
+30189266/. Pulido, R., 2019 Mar 1. Dual-specificity phosphatases in neuroblastoma cell growth
+Ito, M., Shichita, T., Okada, M., Komine, R., Noguchi, Y., Yoshimura, A., et al., 2015 Jun and differentiation. Int. J. Mol. Sci. 20 (5).
+10. Bruton’s tyrosine kinase is essential for NLRP3 inflammasome activation and Ohgake, S., Shimizu, E., Hashimoto, K., Okamura, N., Koike, K., Koizumi, H., et al., 2009
+contributes to ischaemic brain injury. Nat. Commun. 6 (1), 1–11. Apr 30. Dopaminergic hypofunctions and prepulse inhibition deficits in mice lacking
+Iwata, M., Ota, K.T., Duman, R.S., 2013 Jul. The inflammasome: pathways linking midkine. Prog. Neuro-Psychopharmacol. Biol. Psychiatry 33 (3), 541–546.
+psychological stress, depression, and systemic illnesses. Brain Behav. Immun. 31, Oliveira, L.M.A., Gasser, T., Edwards, R., Zweckstetter, M., Melki, R., Stefanis, L., et al.,
+105. 2021 Jul 26. Alpha-synuclein research: defining strategic moves in the battle against
+Jiang, R., Rong, C., Ke, R., Meng, S., Yan, X., Ke, H., et al., 2019. Differential proteomic Parkinson’s disease. npj Parkinson’s Dis. [Internet] 7 (1), 1–23 [cited 2023 Jan 3].
+analysis of serum exosomes reveals alterations in progression of Parkinson disease. Available from: https://www.nature.com/articles/s41531-021-00203-9.
+Medicine 98 (41). Available from: https://pubmed.ncbi.nlm.nih.gov/31593110/. Oosterveld, L.P., Verberk, I.M.W., Majbour, N.K., El-Agnaf, O.M., Weinstein, H.C.,
+Jiang, C., Hopfner, F., Berg, D., Hu, M.T., Pilotto, A., Borroni, B., et al., 2021. Validation Berendse, H.W., et al., 2020 Feb 1. CSF or serum neurofilament light added to
+of α-Synuclein in L1CAM-Immunocaptured exosomes as a biomarker for the α-synuclein panel discriminates Parkinson’s from controls. Move. Dis. [I
+
+Chunk 46:
+ Oosterveld, L.P., Verberk, I.M.W., Majbour, N.K., El-Agnaf, O.M., Weinstein, H.C.,
+Jiang, C., Hopfner, F., Berg, D., Hu, M.T., Pilotto, A., Borroni, B., et al., 2021. Validation Berendse, H.W., et al., 2020 Feb 1. CSF or serum neurofilament light added to
+of α-Synuclein in L1CAM-Immunocaptured exosomes as a biomarker for the α-synuclein panel discriminates Parkinson’s from controls. Move. Dis. [Internet]. 35
+stratification of parkinsonian syndromes. Mov. Disord. 36 (11), 2663–2669. (2), 288–295 [cited 2023 Jan 3]. Available from: https://onlinelibrary.wiley.com/
+Available from: https://pubmed.ncbi.nlm.nih.gov/33826157/. doi/full/10.1002/mds.27897.
+Jung, C.G., Hida, H., Nakahira, K., Ikenaka, K., Kim, H.J., Nishino, H., 2004 Aug 1. Pal Singh, S., Dammeijer, F., Hendriks, R.W., 2018 Feb 19. Role of Bruton’s tyrosine
+Pleiotrophin mRNA is highly expressed in neural stem (progenitor) cells of mouse kinase in B cells and malignancies. Mol. Cancer 17 (1), 1–23.
+ventral mesencephalon and the product promotes production of dopaminergic
+11
+
+---PAGE BREAK---
+
+I.Y. Abdi et al. N e u r o b io l o g y o f D i s e a s e 177(2023)105997
+Panicker, N., Sarkar, S., Harischandra, D.S., Neal, M., Kam, T.I., Jin, H., et al., 2019 Jun endophenotypes and behavioral deviations related to psychiatric disorders. Sci. Rep.
+1. Fyn kinase regulates misfolded α-synuclein uptake and NLRP3 inflammasome 9 (1), 1–15.
+activation in microglia. J. Exp. Med. 216 (6), 1411–1430. SomaLogic, 2015. SOMAscanTM Proteomic Assay Technical White Paper.
+Parnetti, L., Chiasserini, D., Persichetti, E., Eusebi, P., Varghese, S., Qureshi, M.M., et al., Song, J.K., Giniger, E., 2011 Feb. Non-canonical notch function in motor axon guidance
+2014. Cerebrospinal fluid lysosomal enzymes and alpha-synuclein in Parkinson’s is mediated by Rac GTPase and the GEF1 domain of trio. Dev. Dyn. 240 (2), 324.
+disease. Mov. Disord. 29 (8), 1019–1027. Su, X., Maguire-Zeiss, K.A., Giuliano, R., Prifti, L., Venkatesh, K., Federoff, H.J.,
+
+Chunk 47:
+, S., Qureshi, M.M., et al., Song, J.K., Giniger, E., 2011 Feb. Non-canonical notch function in motor axon guidance
+2014. Cerebrospinal fluid lysosomal enzymes and alpha-synuclein in Parkinson’s is mediated by Rac GTPase and the GEF1 domain of trio. Dev. Dyn. 240 (2), 324.
+disease. Mov. Disord. 29 (8), 1019–1027. Su, X., Maguire-Zeiss, K.A., Giuliano, R., Prifti, L., Venkatesh, K., Federoff, H.J., 2008
+Parnetti, L., Gaetani, L., Eusebi, P., Paciotti, S., Hansson, O., El-Agnaf, O., et al., 2019. Nov. Synuclein activates microglia in a model of Parkinson’s disease. Neurobiol.
+CSF and Blood Biomarkers for Parkinson’s Disease, vol. 18. The Lancet Neurology. Aging 29 (11), 1690.
+Lancet Publishing Group, pp. 573–586. Syafrita, Y., Susanti, R., 2022 Aug 21. Association between serum alpha-synuclein levels
+Poewe, W., Seppi, K., Tanner, C.M., Halliday, G.M., Brundin, P., Volkmann, J., et al., and Parkinson’s disease stage. Global. Med. Health Commun. [Internet]. 10 (2),
+2017 Mar 23. Parkinson disease. Nat. Rev. Dis. Primers. 3, 1–21. 117–121 [cited 2023 Jan 2]. Available from: https://ejournal.unisba.ac.id/index.ph
+Pollerberg, G.E., Thelen, K., Theiss, M.O., Hochlehnert, B.C., 2013 Jun 1. The role of cell p/gmhc/article/view/9721.
+adhesion molecules for navigating axons: density matters. Mech. Dev. 130 (6–8), Tesseur, I., Nguyen, A., Chang, B., Li, L., Woodling, N.S., Wyss-Coray, T., et al., 2017.
+359–372. Deficiency in neuronal TGF-β signaling leads to nigrostriatal degeneration and
+Posavi, M., Diaz-Ortiz, M., Liu, B., Swanson, C.R., Skrinak, R.T., Hernandez-Con, P., activation of TGF-β signaling protects against MPTP neurotoxicity in mice.
+et al., 2019. Characterization of Parkinson’s disease using blood-based biomarkers: a J. Neurosci. 37 (17), 4584–4592. Available from: https://pubmed.ncbi.nlm.nih.gov/
+multicohort proteomic analysis. PLoS Med. 16 (10). 28363982/.
+Portugal, C.C., Almeida, T.O., Socodato, R., Relvas, J.B, 2021. Src family kinases (SFKs): Tomlinson, C.L., S
+
+Chunk 48:
+TGF-β signaling protects against MPTP neurotoxicity in mice.
+et al., 2019. Characterization of Parkinson’s disease using blood-based biomarkers: a J. Neurosci. 37 (17), 4584–4592. Available from: https://pubmed.ncbi.nlm.nih.gov/
+multicohort proteomic analysis. PLoS Med. 16 (10). 28363982/.
+Portugal, C.C., Almeida, T.O., Socodato, R., Relvas, J.B, 2021. Src family kinases (SFKs): Tomlinson, C.L., Stowe, R., Patel, S., Rick, C., Gray, R., Clarke, C.E., 2010 Nov.
+critical regulators of microglial homeostatic functions and neurodegeneration in Systematic review of levodopa dose equivalency reporting in Parkinson’s disease.
+Parkinson’s and Alzheimer’s diseases. FEBS J. Available from: https://pubmed.ncbi. Mov. Disord. 25 (15), 2649–2653.
+nlm.nih.gov/34510775/. Tortora, F., Rendina, A., Angiolillo, A., Di Costanzo, A., Aniello, F., Donizetti, A., et al.,
+Prediger, R.D.S., Rojas-Mayorquin, A.E., Aguiar, A.S., Chevarin, C., Mongeau, R., 2022. CD33 rs2455069 SNP: correlation with alzheimer’s disease and hypothesis of
+Hamon, M., et al., 2011 Aug. Mice with genetic deletion of the heparin-binding functional role. Int. J. Mol. Sci. 23 (7). Available from: https://pubmed.ncbi.nlm.nih.
+growth factor midkine exhibit early preclinical features of Parkinson’s disease. gov/35408990/.
+J. Neural Transm. (Vienna) 118 (8), 1215–1225. Weber, A.N.R., 2021 Feb 25. Targeting the NLRP3 Inflammasome via BTK. Front. Cell
+Privitera, D., Corti, V., Alessio, M., Volont`e, A., Lampasona, V., Comi, G., et al., 2013. Dev. Biol. 9, 139.
+Proteomic identification of aldolase A as an autoantibody target in patients with Williams-Gray, C.H., Wijeyekoon, R., Yarnall, A.J., Lawson, R.A., Breen, D.P., Evans, J.
+atypical movement disorders. Neurol. Sci. 34 (3), 313–320. Available from: https:// R., et al., 2016. Serum immune markers and disease progression in an incident
+pubmed.ncbi.nlm.nih.gov/22391679/. Parkinson’s disease cohort (ICICLE-PD). Mov. Disord. 31 (7).
+Sahin, C., Aricioglu, F., 2016. Future Direc
+
+Chunk 49:
+nts with Williams-Gray, C.H., Wijeyekoon, R., Yarnall, A.J., Lawson, R.A., Breen, D.P., Evans, J.
+atypical movement disorders. Neurol. Sci. 34 (3), 313–320. Available from: https:// R., et al., 2016. Serum immune markers and disease progression in an incident
+pubmed.ncbi.nlm.nih.gov/22391679/. Parkinson’s disease cohort (ICICLE-PD). Mov. Disord. 31 (7).
+Sahin, C., Aricioglu, F., 2016. Future Directions of Cytokine Hypothesis in Depression: Winchester, L., Lawton, M., Barber, I., Ash, J., Liu, B., Evetts, S., et al., 2021 Dec 27.
+‘NLRP3 inflamazomu.’. http://dx.doi.org/105455/bcp20130927070724, 23 (3), Identification of a novel proteomic biomarker in Parkinson’s disease: discovery and
+280–288. replication in blood, brain and CSF. Brain Commun. 2022. fcac343.
+Schrag, A., Horsfall, L., Walters, K., Noyce, A., Petersen, I., 2015 Jan 1. Prediagnostic Wong, M.L., Inserra, A., Lewis, M.D., Mastronardi, C.A., Leong, L., Choo, J., et al., 2016
+presentations of Parkinson’s disease in primary care: a case-control study. Lancet Apr 19. Inflammasome signaling affects anxiety- and depressive-like behavior and
+Neurol. 14 (1), 57–64. gut microbiome composition. Mol. Psychiatry 21 (6), 797–805.
+ˇ
+Sestan, N., Artavanis-Tsakonas, S., Rakic, P., 1999 Oct 22. Contact-dependent inhibition Yang, H., Wang, L., Zang, C., Wang, Y., Shang, J., Zhang, Z., et al., 2020 Feb 18. Src
+of cortical neurite growth mediated by notch signaling. Science. 286 (5440), inhibition attenuates neuroinflammation and protects dopaminergic neurons in
+741–746. Parkinson’s disease models. Front. Neurosci. 14, 45.
+Singh, K., Jayaram, M., Kaare, M., Leidmaa, E., Jagoma¨e, T., Heinla, I., et al., 2019 Apr 1. Zubelzu, M., Morera-Herreras, T., Irastorza, G., Go´mez-Esteban, J.C., Murueta-
+Neural cell adhesion molecule Negr1 deficiency in mouse results in structural brain Goyena, A., 2022 Jun 1. Plasma and serum alpha-synuclein as a biomarker in
+Parkinson’s disease: a meta-analysis. Parkinsonism Relat. Disord. 99, 107–11
+
+Chunk 50:
+, Jayaram, M., Kaare, M., Leidmaa, E., Jagoma¨e, T., Heinla, I., et al., 2019 Apr 1. Zubelzu, M., Morera-Herreras, T., Irastorza, G., Go´mez-Esteban, J.C., Murueta-
+Neural cell adhesion molecule Negr1 deficiency in mouse results in structural brain Goyena, A., 2022 Jun 1. Plasma and serum alpha-synuclein as a biomarker in
+Parkinson’s disease: a meta-analysis. Parkinsonism Relat. Disord. 99, 107–115.
+12
+
+---PAGE BREAK---
+
+
+

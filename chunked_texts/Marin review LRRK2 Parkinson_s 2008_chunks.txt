@@ -1,0 +1,778 @@
+Chunk 1:
+JMolEvol(2008)67:41–50
+DOI10.1007/s00239-008-9122-4
+Ancient Origin of the Parkinson Disease Gene LRRK2
+Ignacio Mar´ın
+Received:18October2007/Accepted:29April2008/Publishedonline:4June2008
+(cid:1)SpringerScience+BusinessMedia,LLC2008
+Abstract Dominant mutations in the LRRK2 gene, a Introduction
+member of the Roco family, cause both familial and spo-
+radic Parkinson disease. LRRK genes had so far been The discovery of genes involved in the genesis of familial
+detected only in bilaterian animals. In deuterostomes, forms of Parkinson disease (PD) has opened new ways to
+including humans, two LRRK genes (LRRK1 and LRRK2) understandthemolecularbasisofthispathology.LRRK2is
+exist, while in protostomes a single LRRK gene has been the first gene whose mutations have been consistently
+found. Inthisstudy,Icombine structuralandphylogenetic associated with both the familial and the much more fre-
+analyses to show that the cnidarian Nematostella vectensis quentsporadiccasesofPD.DominantmutationsinLRRK2
+hasfourLRRKgenes.Oneofthemisabonafideorthologue may explain 13% of the familial and up to 5% of sporadic
+ofthehumanLRRK2gene,demonstratingthatthisgenehas PD cases (Berg et al. 2005; Mata et al. 2006; Taylor et al.
+anancientorigin.Twoothersare,respectively,orthologues 2006). This general involvement of the LRRK2 gene in
+of the deuterostome LRRK1 and the protostome LRRK both types of PD suggests a central role in dopaminergic
+genes.Thefourthgeneisprobablycnidarian-specific.This cell death and the onset of the disease (Mata et al. 2006;
+precise characterization of the early evolution of LRRK Taylor et al. 2006). In addition, mutations in LRRK2 may
+genes in animals has important implications, because it be involved in other neurodegenerative diseases (Chen-
+indicates that the Drosophila and Caenorhabditis LRRK Plotkin et al. 2008). All these results have led to a great
+genes,whicharestudiedtogainanunderstandingofLRRK2 interest in understanding the biochemical and cellular
+function, are n
+
+Chunk 2:
+ylor et al. 2006). In addition, mutations in LRRK2 may
+genes in animals has important implications, because it be involved in other neurodegenerative diseases (Chen-
+indicates that the Drosophila and Caenorhabditis LRRK Plotkin et al. 2008). All these results have led to a great
+genes,whicharestudiedtogainanunderstandingofLRRK2 interest in understanding the biochemical and cellular
+function, are not true orthologues of the human Parkinson functions of this gene.
+disease gene. Novel functional insights are also gained by LRRK2proteinhasacomplexstructure,whichincludes
+comparison of the structures of LRRK2 genes in distantly severaltypesofrepeatsandthreelargedomains,calledthe
+related species. Roc,COR,andkinasedomains(BosgraafandVanHastert
+2003; Mar´ın 2006; Mata et al. 2006). Proteins with a Roc
+Keywords Parkinson disease (cid:1) Kinase (cid:1) GTPase (cid:1) domain, which is a Ras-like GTPase domain, plus a COR
+Armadillo repeats (cid:1) Comparative genomics (cid:1) domain, a characteristic domain of unknown function,
+Leucine-rich repeats (cid:1) Paralogy belong to the Roco family (Bosgraaf and Van Hastert
+2003). Roco family genes are present in both prokaryotes
+and eukaryotes. Vertebrates typically contain four Roco
+genes: LRRK1, LRRK2, MFHAS1, and DAPK1 (Bosgraaf
+Electronicsupplementarymaterial Theonlineversionofthis andVanHastert2003;Mar´ın2006).Phylogeneticanalyses
+article(doi:10.1007/s00239-008-9122-4)containssupplementary
+showed that LRRK1 is the closest relative of LRRK2. This
+material,whichisavailabletoauthorizedusers.
+is confirmed by structural similarity, because they both
+I.Mar´ın(&) encode a kinase domain of the TKL group that is missing
+InstitutodeBiomedicinadeValencia,ConsejoSuperiorde
+from the other two vertebrate genes. However, LRRK2
+InvestigacionesCient´ıficas(IBV-CSIC),CalleJaimeRoig11,
+proteins have a 650-amino acid-long N-terminal region,
+Valencia46010,Spain
+e-mail:imarin@ibv.csic.es formed by repeats, which is absent in LRRK1 proteins
+123
+
+---PAGE
+
+Chunk 3:
+y both
+I.Mar´ın(&) encode a kinase domain of the TKL group that is missing
+InstitutodeBiomedicinadeValencia,ConsejoSuperiorde
+from the other two vertebrate genes. However, LRRK2
+InvestigacionesCient´ıficas(IBV-CSIC),CalleJaimeRoig11,
+proteins have a 650-amino acid-long N-terminal region,
+Valencia46010,Spain
+e-mail:imarin@ibv.csic.es formed by repeats, which is absent in LRRK1 proteins
+123
+
+---PAGE BREAK---
+
+42 JMolEvol(2008)67:41–50
+(Mar´ın 2006). LRRK1 and LRRK2 genes are present in all databases available at the National Center for Biotechnol-
+deuterostomes for which we have complete genomic data, ogy Information (NCBI). These searches were finished in
+including not only vertebrates, but also echinoderms. September 2007. Many novel sequences, not available at
+However, protostomes like insects and nematodes have a the time of my previous study (Mar´ın 2006) were found.
+single LRRK gene that is structurally very similar to After excluding some primate proteins which were almost
+LRRK1 (Bosgraaf and Van Hastert 2003; Mar´ın 2006). identical to the human ones, I generated a database con-
+This led to the hypothesis that LRRK2 is a deuterostome- taining55CORdomainLRRKsequences.Only26ofthem
+specific gene, emerged by duplication after the proto- were includedinmyprevious analyses.Among them, four
+stome–deuterostome split (Mar´ın 2006). distinct N. vectensis sequences with strong similarity to
+The recent release of the first draft of the genome LRRK1 and LRRK2 were detected. Similar searches were
+sequence of a cnidarian, the sea anemone Nematostella performed to detect the Roco family-specific kinase and
+vectensis, has challenged our views of how complex the Roc GTPase domains. Again, after excluding some very
+genomes of archaic animals were. N. vectensis has a very similar primate sequences, I detected 42 complete kinase
+elaborate genome, more similar to the human one than to sequences, instead of the 17 found in my previous work.
+the genomes of protostome model species (P
+
+Chunk 4:
+ily-specific kinase and
+vectensis, has challenged our views of how complex the Roc GTPase domains. Again, after excluding some very
+genomes of archaic animals were. N. vectensis has a very similar primate sequences, I detected 42 complete kinase
+elaborate genome, more similar to the human one than to sequences, instead of the 17 found in my previous work.
+the genomes of protostome model species (Putnam et al. Three of them derived from the N. vectensis genome. For
+2007). The presence in the anemone of many genes found Roc GTPases, I found 52 instead of the 23 detected in my
+in vertebrates but absent in Drosophila or Caenorhabditis previous work. Again, three of the new sequences came
+suggests that these two model organisms have lost many from N. vectensis.
+genes that existed in the ancestor of all animals. This I then performed searches with the full-length protein
+unexpected finding has important implications. It means sequences derived from human, sea urchin (Strongylocen-
+thatN.vectensisisakeyorganismtotracetheoriginofany trotus purpuratus), and Drosophila melanogaster LRRK
+human gene. Particularly, we can now test whether a gene genestodetectallLRRK-relatedregionsintheN.vectensis
+presentinhumansbutabsentinprotostomemodels(which genome. Combining the results of those searches with
+would thus in principle be considered deuterostome- automaticgenestructurepredictionsusingGenScan(Burge
+specific) is, on the contrary, ancient and it has been sec- and Karlin 1997), I built models of the four N. vectensis
+ondarily lost in protostomes. Moreover, the finding of LRRK genes. Although none of these models can be con-
+cnidarian orthologues of human genes may also contribute sidered definitive, and two are obviously incomplete (see
+to the understanding of the functions of our genes by details below), the structures defined were sufficiently
+showing what is essential and what may change in them. precise as to test for congruence with the results of the
+With all this in mind, I 
+
+Chunk 5:
+gh none of these models can be con-
+cnidarian orthologues of human genes may also contribute sidered definitive, and two are obviously incomplete (see
+to the understanding of the functions of our genes by details below), the structures defined were sufficiently
+showing what is essential and what may change in them. precise as to test for congruence with the results of the
+With all this in mind, I decided to search for LRRK phylogenetic analyses described next.
+genes in N. vectensis. Surprisingly, this organism has the
+most complex set of LRRK genes described so far for any Phylogenetic Analyses
+animal, with four paralogues. Phylogenetic and structural
+analyses show that a bona fide LRRK2 gene is present in Analyses of their COR or kinase domains generate con-
+cnidarians. Moreover, new evidence indicates that the sistent phylogenetic reconstructions of the relationships
+protostome LRRK genes are paralogues of the human among LRRK genes, while the shorter Roc domain is less
+LRRK2 genes. Finally, I show that the comparison of the informative (Mar´ın 2006). I first built phylogenetic trees
+cnidarian and vertebrate LRRK2 genes refines our under- with the 55 animal LRRK COR domains detected plus the
+standing of the structure and function of these genes. I domains of the proteins encoded by three Dictyostelium
+discuss the important implications that these findings have discoideum Roco genes (GbpC, Pats, and Roco10 [see
+for research, relevant to PD, on LRRK2. BosgraafandVanHastert2003;Mar´ın2006]),whichwere
+used as outgroups. These 58 protein sequences were
+aligned using ClustalX 1.83 (Thompson et al. 1997) and
+Methods manuallycorrectedusingGeneDoc(NicholasandNicholas
+1997). A few regions which contained gaps in most
+SequenceRetrievalandReconstructionofNematostella sequences were eliminated to obtain a final alignment of
+LRRK Genes 257 amino acidic sites. Trees were then built using that
+alignment, with three different procedures, namely,
+The protein sequence of the COR dom
+
+Chunk 6:
+.83 (Thompson et al. 1997) and
+Methods manuallycorrectedusingGeneDoc(NicholasandNicholas
+1997). A few regions which contained gaps in most
+SequenceRetrievalandReconstructionofNematostella sequences were eliminated to obtain a final alignment of
+LRRK Genes 257 amino acidic sites. Trees were then built using that
+alignment, with three different procedures, namely,
+The protein sequence of the COR domain, which is neighbor joining (NJ), maximum parsimony (MP), and
+exclusive of the Roco family, may be used to find all maximumlikelihood(ML).TheNJtreewasobtainedusing
+members of this family present in the databases. The pro- the routine in MEGA 4 (Tamura et al. 2007), MP was
+tein sequences of the human LRRK1 and LRRK2 COR performed using PAUP* beta 10 version (Swofford 2003),
+domainswereusedtoperformTblastNsearchesagainstall and ML reconstructions were established using PhyML
+123
+
+---PAGE BREAK---
+
+JMolEvol(2008)67:41–50 43
+(Guindonand Gascuel 2003).ForNJ, sites with gaps were N. vectensis (see next paragraph), lacks a small part of the
+included and Kimura’s correction was implemented. Rocdomain,unavailablesofarinthedatabases,butseems
+Parameters for MP were as follows: (1) all sites included; otherwise complete. The fourth, which I have called Nv
+(2) randomly generated trees used as seeds; (3) maximum LRRK3 for reasons that will soon become clear, lacks its
+numberoftreessavedequalto100;and(4)heuristicsearch C-terminal end, including part of the kinase domain char-
+using the Tree Bisection and Reconnection (TBR) algo- acteristic of LRRK proteins, and may also lack its
+rithm. This method is more exhaustive, and therefore N-terminal end. The structures deduced for these four
+better,thantheonethatIusedinmypreviouswork.Itwas models is compared with representative human, S. purpu-
+possible to use it here because the number of sequences ratus, and D.melanogaster LRRK proteinsin Fig. 1.
+was smaller. Finally, for ML analyses, the BioNJ tree was OneoftheproteinsfoundinN.vectensisshow
+
+Chunk 7:
+thod is more exhaustive, and therefore N-terminal end. The structures deduced for these four
+better,thantheonethatIusedinmypreviouswork.Itwas models is compared with representative human, S. purpu-
+possible to use it here because the number of sequences ratus, and D.melanogaster LRRK proteinsin Fig. 1.
+was smaller. Finally, for ML analyses, the BioNJ tree was OneoftheproteinsfoundinN.vectensisshowedavery
+usedtostarttheiterativesearchesandtheBlosum62matrix high sequence similarity to LRRK2 proteins in TblastN
+was chosen to model amino acidic transitions. Reliability analyses. Structural analyses demonstrated that it also has
+of the topologies was tested in all cases by bootstrap the characteristic domains that I described for deutero-
+analyses. One thousand bootstrap replicates were per- stome LRRK2 proteins (Mar´ın 2006).Particularly, it has a
+formed for the NJ and MP analyses and 500 for the ML set of 11 N-terminal repeats (schematized in Fig. 1) that
+analyses. are very similar to those found in other LRRK2 proteins
+Identical analyses were performed with the kinase and (Fig. 2). Phylogenetic analyses based on COR domain
+Rocdomains.TheLRRKkinaseandRocdomainsequences sequences and kinase sequences, shown in Figs. 3 and 4,
+detected in the searches detailed above plus three D. dis- confirmedthecloserelationshipoftheLRRK2-likeprotein
+coideum outgroups were aligned and dendrograms built in N. vectensis with deuterostome LRRK2 proteins. They
+following the same methods described for the COR appear together in a monophyletic group which is sup-
+domains. In this case, the final length of the sequences portedbythethreemethodsofphylogeneticreconstruction
+alignedwas198aminoacidicsitesforthekinasesand111 in the independent analyses using both domains. Thus,
+fortheRocGTPases.Dendrogramsshowingresultsforthe I consider the gene encoding that protein as the bona fide
+COR, kinase, and Roc domains were drawn using the tree orthologue of LRRK2 in Nematostella vectensis, hence the
+edito
+
+Chunk 8:
+th of the sequences portedbythethreemethodsofphylogeneticreconstruction
+alignedwas198aminoacidicsitesforthekinasesand111 in the independent analyses using both domains. Thus,
+fortheRocGTPases.Dendrogramsshowingresultsforthe I consider the gene encoding that protein as the bona fide
+COR, kinase, and Roc domains were drawn using the tree orthologue of LRRK2 in Nematostella vectensis, hence the
+editor of MEGA 4. name Nv LRRK2 is used for it from now on. The analyses
+of the shorter Roc domain sequences did not provide any
+Structural Analyses additional information (no significant bootstrap support
+was found for the criticalinternal branches of the tree; see
+Domains in LRRK proteins were characterized using In- Supplementary Fig. 1) and were not further considered.
+terProScan (Zbodnov and Apweiler 2001), which includes Thereissomecontroversyintheliteratureregardingthe
+in a single search comparisons with the patterns of several repeats found in the N terminus of LRRK2. I indicated in
+structuredatabases,such asSMARTandPfam.Repeats in my previous study that they are gene specific. I used the
+theN-terminalregionofN.vectensisLRRK2proteinwere patterns deduced from the human and S. purpuratus
+determined by combining two methods: (1) aligning that LRRK2 proteins to search for similarities inotherproteins
+region with the sequences of the other nine LRRK2 pro- but did not detect any significant match. On the contrary,
+teins (from vertebrates and echinoderms), using ClustalX Mata et al. (2006) suggested, without any indication of
+1.83; and (2) automatic detection of repeats with HHrep howtheyobtainedtheevidence,thattheN-terminalregion
+(So¨ding et al. 2006). of human LRRK2 contains a set of armadillo repeats. I
+decided to check for this possibility using the set of 10
+sequences shown in Fig. 2. InterProScan analyses of those
+Results sequences failed to detect any armadillo repeat in nine of
+them. The exception was the S. purpuratus sequence, in
+As already indicated, four Nematostell
+
+Chunk 9:
+heyobtainedtheevidence,thattheN-terminalregion
+(So¨ding et al. 2006). of human LRRK2 contains a set of armadillo repeats. I
+decided to check for this possibility using the set of 10
+sequences shown in Fig. 2. InterProScan analyses of those
+Results sequences failed to detect any armadillo repeat in nine of
+them. The exception was the S. purpuratus sequence, in
+As already indicated, four Nematostella vectensis COR which InterProScan detected, albeit with a low score, two
+domainsequenceswhichhadverystrongsimilaritytothose armadillo repeats, in positions 99–141 and 506–549. This
+encoded by LRRK genes were detected in the databases corresponds approximately to repeats number 3 and 12 in
+(expect values ranged from 1 9 10-16 to 8 9 10-41). I the S. purpuratus protein. Thus, only 2 of the 135 repeats
+built models for the four corresponding proteins using shown in Fig. 2 are detected in the structural analyses
+comparisons of the LRRK genes in vertebrates and inver- performed against multiple databases by the InterProScan
+tebrates and the genomic Nematostella sequences plus toolascanonicalarmadillorepeats.Theseresultsrefutethe
+ab initio analyses of the gene structures using GeneScan. hypothesis of the LRRK2-specific repeats being armadillo
+Two of these models may correspond to full-length pro- repeats. The exceptional detection of those repeats in
+teins. The third, which corresponds to the LRRK2 gene of automatic analyses is explained by the fact that both the
+123
+
+---PAGE BREAK---
+
+44 JMolEvol(2008)67:41–50
+Hs LRRK2
+Sp LRRK2
+Nv LRRK2
+Hs LRRK1
+LRRK2-specific
+SpLRRK1
+LRR
+NvLRRK1
+Roc
+COR
+Dm LRRK
+Kinase
+NvLRRK3
+WD40
+Ankyrin Nv LRRK4
+Fig.1 Structures of selected LRRK proteins. The three main vectensis; Dm, Drosophila melanogaster. Broken lines refer to
+domains (Roc, COR, kinase) plus the repeats characteristic of these domains not fully characterized due to lack of data. The arrows in
+proteins (LRRK2-specific, Leucine-rich repeats [LRR], WD40, Nv LRRK3 indicate that the full-leng
+
+Chunk 10:
+OR
+Dm LRRK
+Kinase
+NvLRRK3
+WD40
+Ankyrin Nv LRRK4
+Fig.1 Structures of selected LRRK proteins. The three main vectensis; Dm, Drosophila melanogaster. Broken lines refer to
+domains (Roc, COR, kinase) plus the repeats characteristic of these domains not fully characterized due to lack of data. The arrows in
+proteins (LRRK2-specific, Leucine-rich repeats [LRR], WD40, Nv LRRK3 indicate that the full-length protein cannot be recon-
+Ankyrin) are indicated. Species abbreviations are as follows: Hs, structed with the available information and both ends of the protein
+Homosapiens;Sp,Strongylocentrotuspurpuratus;Nv,Nematostella aremissing
+LRRK2-specific repeats and the armadillo repeats contain deuterostomeLRRK1genes(hencethenameNvLRRK1)or
+multiple hydrophobic residues in somewhat similar posi- the orthologue of protostome LRRK genes (Nv LRRK3).
+tions. However, armadillo repeats are just one among The fourth gene (Nv LRRK4) appears in an intermediate
+severaldifferenttypesofrepeatswhichareabletogenerate positionbetweenLRRK1andLRRK2(Figs. 3and4).Apart
+long alpha-helical structures known as ‘‘Armadillo-like from these cnidarian genes, the rest of new LRRK
+helicaldomains’’(InterProdomainno.IPR011989[Groves sequencesfoundinmysearchesanddetailedinFigs. 3and
+and Barford 1999]). Most significantly, InterProScan 4 fit very well with the picture of LRRK gene evolution
+detected these domains in 8 of the 10 sequences shown in described in Mar´ın (2006). All new genes in vertebrates,
+Fig. 2.Theexceptionswerethetwofishsequences,whichI from mammals, reptiles and fishes, were obvious ortho-
+reconstructed from genomic data and may be incomplete logues of either LRRK1 or LRRK2 and additional genes in
+(see gaps in Fig. 2). Thus, we may conclude that LRRK2 insect and nematode species were also very similar to the
+proteins contain a peculiar Armadillo-like helical domain, protostome LRRK genes that I described before.
+absent from the rest of LRRK proteins. This kind of The trees inFigs. 3 and 4 can 
+
+Chunk 11:
+ed from genomic data and may be incomplete logues of either LRRK1 or LRRK2 and additional genes in
+(see gaps in Fig. 2). Thus, we may conclude that LRRK2 insect and nematode species were also very similar to the
+proteins contain a peculiar Armadillo-like helical domain, protostome LRRK genes that I described before.
+absent from the rest of LRRK proteins. This kind of The trees inFigs. 3 and 4 can be interpreted asa whole
+structure is considered to be a protein-protein interaction considering the phylogenetic relationships among species.
+surface (Groves and Barford 1999). The simplest hypothesis to explain the topology of those
+The structures predicted for two other N. vectensis trees is that there were at least three genes prior to the
+proteins were very similar to those characteristic of cnidarian-bilateriansplit.Thesethreegenesgaverisetothe
+LRRK1 proteins in deuterostomes or LRRK proteins in branches annotated as LRRK1, LRRK2, and LRRK3 in
+protostomes. Going from the N terminus to the C-terminal Figs. 3 and 4. Thus, two of these genes correspond to the
+region,theyhaveankyrinrepeats,leucine-richrepeats,and LRRK1 and LRRK2 genes in vertebrates, which are found
+the typical Roc, COR, and kinase domains (Fig. 1; Nv also in echinoderms and cnidarians. The third gene would
+LRRK1, Nv LRRK4). The fourth gene was, as already correspond to the one that was hitherto defined only for
+indicated,onlypartiallycharacterized(Fig. 1;NvLRRK3). protostomes and called LRRK (Mar´ın 2006). The results
+The reconstructed region is uninformative with respect to shown in Fig. 3, however, strongly suggest that a gene,
+its possible relationships to other LRRK genes. Phyloge- whichIthinkitisappropriatetocallLRRK3,existedinthe
+netic analyses place two of these genes in positions that ancestor of all eumetazoans. It has been conserved in
+strongly suggest that they are either the orthologue of cnidarians, echinoderms, and protostomes, but lost in
+123
+
+---PAGE BREAK---
+
+JMolEvol(2008)67:41–50 45
+Fi
+
+Chunk 12:
+ggest that a gene,
+its possible relationships to other LRRK genes. Phyloge- whichIthinkitisappropriatetocallLRRK3,existedinthe
+netic analyses place two of these genes in positions that ancestor of all eumetazoans. It has been conserved in
+strongly suggest that they are either the orthologue of cnidarians, echinoderms, and protostomes, but lost in
+123
+
+---PAGE BREAK---
+
+JMolEvol(2008)67:41–50 45
+Fig.2 N-terminalrepeats * 20 * 40 * 60
+specifictoLRRK2proteinsin H_sapiens : MASGSCQGCEE---DEETLKKLIVRLNNVQEGKQIETLVQILEDLLVFTYSEHASKLFQGKNIHV
+fivemammals(Homosapiens, M_musculus : MASGACQGCEEE-EEEEALKKLIVRLNNVQEGKQIETLLQLLEDMLVFTYSDRASKLFEDKNFHV
+Musmusculus,Canisfamiliaris, C_familiaris : MASGSCQGCEE--EDEETLKKLIVRLNNVQRGKQIETLVQILEDMLVFTYADHASKLFQGKKVHV
+B_taurus : MASGSCQGCEE--EDEESLKKLIVRLNNVQEGKQIETLVQILEDMLVFTYADHASKLFQDKNVHV
+Bostaurus,Monodelphis
+M_domestica : MASGSSLEDEE--NEEGILEKLTVRLQYVQEGKQIETVIQILEDMMLLTFTDHAAKLFKGKNVHI
+domestica),abird(Gallus
+G_gallus : MASGCPWERVAATGEEEALRKLLVRLRNVQERKRPETLVQTLSDMLELAARQSAPRLFGGCNAHV
+gallus),twofishes(Daniorerio,
+D_rerio : ------MAEIE--ELSIRLKKLLVRLN-LQDGKQLGTMVQIIEDLLFLSHTEHCVELFADQNVHV
+Tetraodonnigroviridis),an T_nigroviridis : ------MVNGE--ELEEQLRKLLVRLKSQQQERQLGTLIQILQDLLFLAHTDEAAELFEDKDVHV
+echinoderm(Strongylocentrotus S_purpuratus : ---------------------------------------MDFATLSTEIPPGAVASTLQEYHAHA
+purpuratus),andacnidarian N_vectensis : ---------SS--QIIKRQSEILRAIKENHNEEEVESCIDELAEIID-DSSAFDIKVFENESAET
+(Nematostellavectensis).The
+locationsofthe14repeats 1 2
+detectedinhumans(Mar´ın
+2006)areindicated.N.vectensis * 80 * 100 * 120 *
+LRRK2lacksrepeats11–13 H_sapiens : PLLIVLDSYMRVASVQQVGWSLLCKLIEVCPGTMQSLMGPQDVGNDWEVLGVHQLILKMLTVHN-
+M_musculus : PLLIVLDSYMRVASVQQAGWSLLCKLIEVCPGTLQSLIGPQDIGNDWEVLGIHRLILKMLTVHH-
+C_familiaris : PVLIVLDLYMRVASVQQVGWSLLCKLIEICPNTMKSLMGPQDIGHDWEVLGVHQLILKMLTVHN-
+B_taurus : PLLIVLDSYMRVASVQQVGWSLLCKLIEICPNTMQSLMGPHDIGHDWEVLGVHQLILKTLTVHN-
+M_domestica : PLLLVLDSYMRVASVQQAGWSLLCKLTEICPDIMQSLMGPQDVGKDWEVLGV
+
+Chunk 13:
+2lacksrepeats11–13 H_sapiens : PLLIVLDSYMRVASVQQVGWSLLCKLIEVCPGTMQSLMGPQDVGNDWEVLGVHQLILKMLTVHN-
+M_musculus : PLLIVLDSYMRVASVQQAGWSLLCKLIEVCPGTLQSLIGPQDIGNDWEVLGIHRLILKMLTVHH-
+C_familiaris : PVLIVLDLYMRVASVQQVGWSLLCKLIEICPNTMKSLMGPQDIGHDWEVLGVHQLILKMLTVHN-
+B_taurus : PLLIVLDSYMRVASVQQVGWSLLCKLIEICPNTMQSLMGPHDIGHDWEVLGVHQLILKTLTVHN-
+M_domestica : PLLLVLDSYMRVASVQQAGWSLLCKLTEICPDIMQSLMGPQDVGKDWEVLGVHQLILKMFTVHN-
+G_gallus : PLLLVLDLYAGAAGVQQMGWSLLCKLIEICPSTLQN-IALKDVGKDWEVLGVHQQILKMLTVHK-
+D_rerio : PVLLKCSESASIK-VQQVGWSLLCRLMEICPNTLDNLARP----VDYEFIDAHKQILKVLHEYHN
+T_nigroviridis : SLTVALSSYASRRGVQQVGWSLLCRLMEICPGTLERLTAAQPAAEDSQVLPVHKLVLKVLSQHG-
+S_purpuratus : QVLQVMDQHTYNADIQEAGCNALAAMMQVSDKLKDLVHKKN----------IHSQVLEIMDKHK-
+N_vectensis : IVLDAMGLFITNCAIQRNGSFFLSHLIEESSRCREELIKKQ----------VHQFVSNLMLNYS-
+2 3
+140 * 160 * 180 *
+H_sapiens : ASVNLSVIGLKTLDLLLTSGKITLLILDEE-SDIFMLIFDAMHSFPANDEVQKLGCKALHVLFER
+M_musculus : ANVNLSIVGLKALDLLLDSGKLTLLILDEE-CDIFLLIFDAMHRYSANDEVQKLGCKALHVLFER
+C_familiaris : ASVNLLTVGLRALDLLLTSGKITLLILDEE-SDIFLLIFDAMRTFSANDEVQKLGCKALRVLFER
+B_taurus : ASVNLTTVGLKALDLLLTSGKITLLILDEE-NDIFLLIFDAMRTFSASDEVQKLGCKVLHVLFER
+M_domestica : ANITLSVIGLKTLDQLLTSDLMTLRILEEDCSDVFTLIFDAMHTFTTNEEIQKFGCKVLHVLFGK
+G_gallus : GNVNLSVIGLKTLNLLLVSDVIAFLLLEEE-VDVFSLVFNAMHTFPKNEEIQQHGCRALYKLFEK
+D_rerio : KDAKMMMVALRALALMLKSGEIKMQVLDEEEWDVFYSILEAMKSFSDREEVQLQGCTALQPLLQT
+T_nigroviridis : ADCKVTMVGLRALALLLRSDAVPPLLLEDESEDVLGLVVQAMKVFPVNEEVLLHGCGALQVLLET
+S_purpuratus : DDPKVQASAMKTIAFLAMAEDTCIAMLG---EDVMEAILEAMKLFPGNAPVQKNACNALKQLLTD
+N_vectensis : QDYCIQAMCCRIISSIIECSDIRLDLVS---LGLITMIVMAMETFEEHEEFQLPALQLLNDILLE
+3 4
+200 * 220 * 240 * 260
+H_sapiens : VSEEQLTEFVENKDYMILLSASTNFKDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+M_musculus : VSEEQLTEFVENKDYTILLSTFGSFRRDKEIVYHVLCCLHSLAVTCSNVEVLMSGNVRCYNLVVE
+C_familiaris : VSEEQLIEFVENKDYMILLNALKNFKDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+B_taurus : VSEEQLTEFVENKDYMILLSALKNFEDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+M_domestica : VSEEQLTEFIENKDYMFLLN
+
+Chunk 14:
+METFEEHEEFQLPALQLLNDILLE
+3 4
+200 * 220 * 240 * 260
+H_sapiens : VSEEQLTEFVENKDYMILLSASTNFKDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+M_musculus : VSEEQLTEFVENKDYTILLSTFGSFRRDKEIVYHVLCCLHSLAVTCSNVEVLMSGNVRCYNLVVE
+C_familiaris : VSEEQLIEFVENKDYMILLNALKNFKDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+B_taurus : VSEEQLTEFVENKDYMILLSALKNFEDEEEIVLHVLHCLHSLAIPCNNVEVLMSGNVRCYNIVVE
+M_domestica : VSEEQLTEFIENKDYMFLLNALKRFNHEEEVVFHVLHSLHSLALPCSNVEVLMSGNVRCYNIVVE
+G_gallus : VPEEQLTEFVESKDHMIILDVFKEFPEKEEVILPALYSLHSLAGPRNNVEVLMSGNVRCYNVIVE
+D_rerio : VSEYHLAEFIEKKDHEVVLNALGCFMDSENVVLEALKVLIPLADPASNVETLMSKTVKCHSLTCR
+T_nigroviridis : VSEDHLVEFVENQDHVVVLAALQTFLDNPELLLRGLKVLLPLARPGN-------GGVRCYSTVIA
+S_purpuratus : ESDRQ-VEFVDTKRHRFITAAVHYHCKDCAVLEEAFWLLAILAIPEDCYDVLLQETHK---DIIA
+N_vectensis : DSPAQ-DEFVLQGFHAVILNVLKSHKDSGEITEHGILLLVSLLKSQKATTELLHGGIV--IVAME
+4 5 6
+vertebrates. Figure 4 confirms thata monophyletic branch, genesinnematodes.Finally,theNvLRRK4gene,whichis
+including protostome and S. purpuratus LRRK genes, the only one found outside the three main branches which
+exists. In this case, however, the current lack of an alig- define the LRRK1–LRRK3 genes (Figs. 3 and 4), may be a
+nableN.vectensisLRRK3kinasedomainprecludesfurther Nematostella-specific paralogue.
+confirmation that this gene is older than the protostome/ These results mean that protostomes and vertebrates do
+deuterostome split. Note that the only small incongruence notcontainorthologousLRRKgenes.Protostomeshavekept
+in the LRRK3 branch is the atypical position of the Cae- LRRK3, at the same time losing the LRRK1 and LRRK2
+norhabditis proteins. However, it is well known that genes, while vertebrates have kept LRRK1 and LRRK2 but
+Caenorhabditis genes evolve rapidly (Mushegian et al. lostLRRK3.Amongthegroupsforwhichwehavedata,the
+1998; Stein et al. 2003), so this result can be simply threegenesarepresentonlyincnidariansandechinoderms.
+explainedbyaccelerationintherateofevolutionofLRRK3 Therefore, these results demonstrate that 
+
+Chunk 15:
+is proteins. However, it is well known that genes, while vertebrates have kept LRRK1 and LRRK2 but
+Caenorhabditis genes evolve rapidly (Mushegian et al. lostLRRK3.Amongthegroupsforwhichwehavedata,the
+1998; Stein et al. 2003), so this result can be simply threegenesarepresentonlyincnidariansandechinoderms.
+explainedbyaccelerationintherateofevolutionofLRRK3 Therefore, these results demonstrate that LRRK2 is an
+123
+
+---PAGE BREAK---
+
+46 JMolEvol(2008)67:41–50
+Fig.2 continued * 280 * 300 * 320
+H_sapiens : AMKAFPMSERIQEVSCCLLHRLTLGNF-FNILVLNEVHEFVVKAVQQYPENAALQISALSCLALL
+M_musculus : AMKAFPTNENIQEVSCSLFQKLTLGNF-FNILVLNEVHVFVVKAVRQYPENAALQISALSCLALL
+C_familiaris : AMKAFPVHEKIQEVSCCLLHRLTLGNF-FNILVLNEVHEFVVKAVRRYSENATLQIAALSCLALL
+B_taurus : AMKAFPISEKIQEVSCCLLHRLTLGNF-FNILVLNEVHEFVVKAVQQYSENAVLQIAALSCLALL
+M_domestica : AMKMFSNSEKIQEVGCCLLHRLTLDNF-FNILVLNEVHEVIVKAVKKYPMNAPLQIAALSCLALL
+G_gallus : MMKNFPNSETVQEVCCCLLHKLTLGNF-FNILVLHKVPEVIVKAVKTYSENAKLQAAALSCLALL
+D_rerio : AMNTWLDSEAIQEAGCCLLWKFTSKGY-YDMLVLNGVHKVAVKACVSYPDNATLQTAALSCLSAL
+T_nigroviridis : AMDAFPEVEDLQETACRLFRAFTLESY-YNILVRNGVQRVAVRACLAFPGNARLQAAALSCLADL
+S_purpuratus : AIKRFPDNVGLQTACCALIEALAQTEDSQQLFVLNDVSDLLIDALRRFSDNARYLTICLSVMDRL
+N_vectensis : TMKTKQDCGNLQAIICSLLVALANDELGQRVIVDLGVCNEIRTVLRRHRNHADIQKRGLEAFALL
+6 7
+* 340 * 360 * 380 *
+H_sapiens : TETIFLNQDLEEKNENQENDD---------EGEEDKLFWLEACYKALTWHRKNKHVQEAACWALN
+M_musculus : TETIFLNQDLEERSETQEQSE---------EEDSEKLFWLEPCYKALVRHRKDKHVQEAACWALN
+C_familiaris : TETIFLNQDLEEKNENQEND----------DEEEEKLFWLEACYKALTWHRKNKHVQEAACWALN
+B_taurus : TETIFLNQDLEEKNENQEND----------DDEEDKLFWLEACYKALTWHRKNKHVQEAACWALN
+M_domestica : TETIILNRDLEEKNENQE------------DDEDNKLCWLEASYRALTLHRKNTHVQEAACWALN
+G_gallus : TETIFLNRDLEERKE---------------EEEEEKLCWLEACYRALELHRKHTDVLEAACWALK
+D_rerio : AECIVQNGGLDEEWNEEDEEEQKVLVKKEAAQAEEMLIWREACYTAFERHAEDVKVQEAACWALN
+T_nigroviridis : SESRLLVHGAGPRPAEE------------------------------------------------
+S_purpuratus : AEAIFTAPKWLDRMLN--------------------DNWMNET
+
+Chunk 16:
+EACYKALTWHRKNKHVQEAACWALN
+M_domestica : TETIILNRDLEEKNENQE------------DDEDNKLCWLEASYRALTLHRKNTHVQEAACWALN
+G_gallus : TETIFLNRDLEERKE---------------EEEEEKLCWLEACYRALELHRKHTDVLEAACWALK
+D_rerio : AECIVQNGGLDEEWNEEDEEEQKVLVKKEAAQAEEMLIWREACYTAFERHAEDVKVQEAACWALN
+T_nigroviridis : SESRLLVHGAGPRPAEE------------------------------------------------
+S_purpuratus : AEAIFTAPKWLDRMLN--------------------DNWMNETFMALTKHQDSPPCLENALRALT
+N_vectensis : SPMMIKSQDISMCLVNGK------------LTGQSLDHWMNDILVAMATHGDKPDVLCMACFALC
+7 8
+400 * 420 * 440 *
+H_sapiens : NLLMYQN-SLHEKIGDEDGHFPAHREVMLSMLMHSS-SKEVFQASANALSTLLEQNVNFRKILLS
+M_musculus : NLLMYQN-SLHEKIGDEDGQFPAHREVMLSMLMHSS-SKDVFQAAAHALSTLLEQNVNFRKILLA
+C_familiaris : NLLMYQN-SLHEKIGDEDGQFPAHREVMLSMLMHSS-SKEVFQASANALSTLLEQNVNFRKILLS
+B_taurus : NLLMYQN-SLHEKIGDEDGQFPAHREVMLSMLMHSS-SKEVFQASANALSTLLEQNVNFRKILLS
+M_domestica : NLLIYQS-NLHENIGDEDDQYPAHREMVLSMLMHSS-SKEVFQAAANALSTLSEQNVNIRKALLT
+G_gallus : NLFLYQR-SLHEKIGDGDNQFPIDRAVMLSMLMHSS-SKEVFQAAASTLAILSQQNVNIRKTLLA
+D_rerio : SLLLHCN-TS--NNVELEGRPPLHTLIMAAMLLHSS-SVKVFQAASSTLRTLIQRHCEFRSPLLS
+T_nigroviridis : ---------------DQEERTPVHRQLMAALLLHPK-APSVFQAATSAISTLIQQDGETRAPLLS
+S_purpuratus : TLVSNRPGMLVEMLTEESESMAVDSAVLMSLRLHSKNSKIIFEMGCDAIQALAENSDMMQRTLAE
+N_vectensis : KLINSYP-GQAILIGDEAGQIPVHSSIMAALVLHLDNSELCQWACQTLACIMAQSQKVQK-ELTS
+8 9
+460 * 480 * 500 * 520
+H_sapiens : KGIHLNVLELMQKHIHSPEVAESGCKMLNHLFEGSN-TSLDIMAAVVPKILTVMKRHETSLPVQL
+M_musculus : KGVYLNVLELMQKHAHAPEVAESGCKMLSHLFEGSN-PSLDTMAAVVPKILTVMKAHGTSLSVQL
+C_familiaris : KGIYFNVLELMQKHIHSPEVAESGCKLLDHLFEGSD-ATLDIMAAVAPKIITVMKSHEASSLVQL
+B_taurus : KGIYLNVLELMQKHMHSPEVAESGCKMLNHLFEESS-TSLDTMAAVVPKIITVMKSHETSLSVQL
+M_domestica : KGIYWNVLQLMMRHLDFPEVAESGCRMLNHLLEGSN-LNLDVMASVTSHIIEVMKNHKTSSAVQL
+G_gallus : KGIHMNVLDIMRKHPHSPEVAESACRILNHVFEGSF-PHLDIMTVAASEVIKAMRKHEKSPSVQL
+D_rerio : NGIHFNIVELMRKHPNSSAVCESACKLIHFLFQGAR-ASLDDGFLILSQILIALKFHNFLPEYQL
+T_nigroviridis : SGLHVNLVEMMKRHWTSAEVSISACRLLSLLFQGRP-ASLDELNMTMSQILCTIKAHNFNPEVQL
+S_purpuratus : KGALMDIRSGM
+
+Chunk 17:
+ELMQKHMHSPEVAESGCKMLNHLFEESS-TSLDTMAAVVPKIITVMKSHETSLSVQL
+M_domestica : KGIYWNVLQLMMRHLDFPEVAESGCRMLNHLLEGSN-LNLDVMASVTSHIIEVMKNHKTSSAVQL
+G_gallus : KGIHMNVLDIMRKHPHSPEVAESACRILNHVFEGSF-PHLDIMTVAASEVIKAMRKHEKSPSVQL
+D_rerio : NGIHFNIVELMRKHPNSSAVCESACKLIHFLFQGAR-ASLDDGFLILSQILIALKFHNFLPEYQL
+T_nigroviridis : SGLHVNLVEMMKRHWTSAEVSISACRLLSLLFQGRP-ASLDELNMTMSQILCTIKAHNFNPEVQL
+S_purpuratus : KGALMDIRSGMVTYARSPECQAAASRAIRGLCLAIE-YRDDSIHLDNKQAVTEAGIHTLLFEAVR
+N_vectensis : KGVYIYIIASMKKHKRHAQTQQWACRALRILCTNDVDCKMNLIKEEALDRIT-------------
+10 11
+ancient gene, emerging in ancestral animals prior to the Parkinson disease genes such as parkin, DJ-1 and LRRK2
+cnidarian-bilaterian split. They also indicate that no true (Mar´ın and Ferru´s, 2002; Mar´ın et al. 2004; Lucas et al.
+orthologue of LRRK2 exists in model organisms such as 2006; Mar´ın 2006; Lucas and Mar´ın 2007). These studies
+DrosophilamelanogasterandCaenorhabditiselegans. have contributed to delineate the best simple model
+organisms in which to study the functions of the human
+genes.InthecaseofLRRK2,Iwarnedagainstthepotential
+Discussion problems of using Drosophila melanogaster or Caeno-
+rhabditis elegans as models, given that it was unclear that
+Tracingtheoriginofahumangenemaygreatlycontribute those species had true LRRK2 orthologues (Mar´ın 2006).
+to our understanding of its functions. In a series of works, The only LRRK gene present in protostomes encodes for a
+mygrouphasdescribedtheoriginandevolutionofseveral proteinthatnotonlyisverydissimilarinsequencebutalso
+123
+
+---PAGE BREAK---
+
+JMolEvol(2008)67:41–50 47
+Fig.2 continued * 540 * 560 * 580
+H_sapiens : EALRAILHFIVPGMPEESREDTEFHHKLNMVKKQCFKNDIHKLVLAALNRFIGNPGIQKCGLKVI
+M_musculus : EALRAILHFVVPGLLEESREDSQCRP--NVLRKQCFRTDIHKLVLVALNRFIGNPGIQKCGLKVI
+C_familiaris : EALRAILHFIVPGMPEDSREDTEYQHKLNLVKKQCFKNDIHKLVLAALNRFIGIPGIQKSGLKVI
+B_taurus : EALRAMLHFIVPGIPEEYREDTEYQHKLNMIEKQCFRNDIHKLVLAALNRFIGNPGIQKCGLKVI
+M_domestica : EAFRAILHIIVPESKKEHEEDSSLNINLKVIKNSCLLNDIHKLVLGALNKFI
+
+Chunk 18:
+ * 540 * 560 * 580
+H_sapiens : EALRAILHFIVPGMPEESREDTEFHHKLNMVKKQCFKNDIHKLVLAALNRFIGNPGIQKCGLKVI
+M_musculus : EALRAILHFVVPGLLEESREDSQCRP--NVLRKQCFRTDIHKLVLVALNRFIGNPGIQKCGLKVI
+C_familiaris : EALRAILHFIVPGMPEDSREDTEYQHKLNLVKKQCFKNDIHKLVLAALNRFIGIPGIQKSGLKVI
+B_taurus : EALRAMLHFIVPGIPEEYREDTEYQHKLNMIEKQCFRNDIHKLVLAALNRFIGNPGIQKCGLKVI
+M_domestica : EAFRAILHIIVPESKKEHEEDSSLNINLKVIKNSCLLNDIHKLVLGALNKFIGNPGIQICGLKII
+G_gallus : EALRVLLHFMMPGNSSRNMGDAAFTLTVKVIKSQCLLEGTHSLVLGALNRFIGNPSIQRCGLKLL
+D_rerio : EGLRASLVLLNPGEM-----------------------SAHVLVAVKCVKFISSESIQECGLGVL
+T_nigroviridis : EALRASLVLLYPGTP------------LKVLKNQCVLEGAHTLYLEVLNRFISSSAIQKSGLKVL
+S_purpuratus : NFIGDVEVLLDIVNTITCLAD------MDVVKYQCMVEGIHEVILQGMAEYQDDPNIQELFLETM
+N_vectensis : -----------------------------------------------------------------
+11 12
+* 600 * 620 * 640 *
+H_sapiens : SSIVHFPDALEMLSLEGAMDSVLHTLQMYPDDQEIQCLGLSLIGYLITKKN--VFIGTGHLLAKI
+M_musculus : SSLAHLPDATETLSLQGAVDSVLHTLQMYPDDQEIQCLGLHLMGCLMTKKN--FCIGTGHLLAKI
+C_familiaris : SSLAQSPDALEVLSLEGAIDSVLHTLQMYPDDQEIQCLGLSLIGCLITKKN--LCIGTGHLLAKI
+B_taurus : SSIIHFPDALEVLSLEGAIDSVLHTLQMYPDDQEIQCLGLSLIGCLITKKN--LCMGTGNLLAKI
+M_domestica : SSLVNCSGALEMFSQQGALDSVLHTLQMYPDDRGIQCLGLSLLGSLITKKN--LCTETQDLLANI
+G_gallus : TSVAECTGALEILTQQGATDTVLHTLQMYPDEQDIQSLGLSLLLFLITRKS--LCIATMHVLATV
+D_rerio : AALADSSGAVDLMCQQGAIDTVLHTLQMFPQERXIHYWGLSLLFHLISKKK--LSRMMVPVLASV
+T_nigroviridis : SALADCSGAVDLLCQQGAIDTVLHTLQMFPGEREIHYWGFTLLNYLVTKKK--LSPMIVPVLASV
+S_purpuratus : VVLSSAEGMIDILVEAGILSLTVELMEKYSQIEAIQENGTILLQTVVNKKKSICDDRLAEKIARA
+N_vectensis : ---------------------------------------------KALFRF--LNETLCLSVVTA
+12 13 14
+660 * 680
+H_sapiens : LVSSLYRFKDVAEIQTKGFQTILAILKLSASFSKLLVHH
+M_musculus : LASTLQRFKDVAEVQTTGLQTTLSILELSVSFSKLLVHY
+C_familiaris : LASSLQRFKDMAEVQIKGFQTILTILELSMSFGKLLVNH
+B_taurus : LISTLQRFKDIGEVQIKGFQTVLTMLELSVSFSKLLVHY
+M_domestica : LVSSLQRFKDVVEVQISGFQTTLAILELSLCFARLLLNY
+G_gallus : LVSTLRRFKEVTEIQT-GFHAVLSILGFSPCFAKLLIHE
+D_rerio : LVSSVRKHKEDSVMLLKGLQVVWKLL
+
+Chunk 19:
+--------KALFRF--LNETLCLSVVTA
+12 13 14
+660 * 680
+H_sapiens : LVSSLYRFKDVAEIQTKGFQTILAILKLSASFSKLLVHH
+M_musculus : LASTLQRFKDVAEVQTTGLQTTLSILELSVSFSKLLVHY
+C_familiaris : LASSLQRFKDMAEVQIKGFQTILTILELSMSFGKLLVNH
+B_taurus : LISTLQRFKDIGEVQIKGFQTVLTMLELSVSFSKLLVHY
+M_domestica : LVSSLQRFKDVVEVQISGFQTTLAILELSLCFARLLLNY
+G_gallus : LVSTLRRFKEVTEIQT-GFHAVLSILGFSPCFAKLLIHE
+D_rerio : LVSSVRKHKEDSVMLLKGLQVVWKLLDTCSSAAVWLQKE
+T_nigroviridis : LVASLVQYREDSEMTLKCFQVALRMLDASPRSAAELQRE
+S_purpuratus : IISSMKKFRKAPSILAESCVAMQFLADISQEVTKTLVNY
+N_vectensis : ILQAMFEFSLDEAVQEEACVAFHVISQIEPQYSEILVNQ
+14
+is structurally different from LRRK2. Thus, I suggested results obtained for LRRK1 (Korr et al. 2006; Greggio
+concentrating on deuterostome species as models (Mar´ın et al.2007;Tayloret al.2007)andLRRK2(summarizedin
+2006). Recent papers, however, described apparently Mar´ın 2006; Thomas and Beal 2007) in vertebrates are
+promising results using protostome models. Sakaguchi- compatible with all the LRRK gene products in animals
+Nakashima et al. (2007) showed that mutations in the C. being involved in neuronal functions. This is consistent
+elegans LRK-1 gene, the only LRRK gene present in this with their presence only in animals with a developed ner-
+species, generate anomalies in the localization of synaptic voussystem,fromcnidarianstovertebrates.However,that
+vesicle proteins. This result, which involves LRRK gene theseneuronal-specificfunctionsarethesameforallLRRK
+products in the regulation of vesicular transport, agrees genes in different animal species is not supported by the
+withfunctionaldataforhumanLRRK2,whichimplicatesit available data. For example, the Drosophila results indi-
+in synaptic vesicle recycling and neurite outgrowth (Ma- cated above—which are so far the only indication that
+cLeodet al.2006;Hatanoet al.2007).Evenmorestriking LRRK genes in protostomes might be useful models to
+weretheresultsobtainedbyLeeet al.(2007),showingthat understandwhyLRRK2mutationsareinvolvedinPD—are
+loss
+
+Chunk 20:
+nLRRK2,whichimplicatesit available data. For example, the Drosophila results indi-
+in synaptic vesicle recycling and neurite outgrowth (Ma- cated above—which are so far the only indication that
+cLeodet al.2006;Hatanoet al.2007).Evenmorestriking LRRK genes in protostomes might be useful models to
+weretheresultsobtainedbyLeeet al.(2007),showingthat understandwhyLRRK2mutationsareinvolvedinPD—are
+lossoffunctionoftheLRKKgeneofD.melanogasterleads in obvious contradiction with the evidence obtained in our
+to the death of dopaminergic neurons in the fly brain and species. In the fly, overexpression of the LRRK gene does
+anomalies in locomotor activity. not lead to any obvious phenotype, whereas loss of func-
+The results reported here further support the idea that tioncausesdopaminergiccelldeath,amongotherproblems
+LRRKgenesinDrosophilaandCaenorhabditisandLRRK2 (Lee et al. 2007). In humans, however, it is unknown
+genes in humans are paralogous. Therefore, these recent whether loss-of-function mutations in LRRK2 lead to
+results shouldbereevaluated,taking thisfactintoaccount. dopaminergiccelldeath.Onthecontrary,itseemsthatitis
+In my opinion, all the results in invertebrates and the increased/constitutive activity of the LRRK2 protein
+123
+
+---PAGE BREAK---
+
+48 JMolEvol(2008)67:41–50
+Fig.3 Dendrogramobtained
+whenCORdomainsequences
+areanalyzed.Thetopology
+shownistheonededucedusing
+NJ.ThosegeneratedwithMP
+andMLare,however,sosimilar
+tothisonethatallresultscanbe
+showninasingletree.Numbers
+refertothepercentagesof
+bootstrapreplicatesthatsupport
+thecorrespondingbranches.The
+threenumberscorrespond,
+respectively,toNJ/MP/ML
+analyses(seeMethodsfor
+details).Onlybranches
+supportedbythethreemethods
+andinwhichbootstrapsupport
+washigherthan50%inatleast
+twoofthemareshown.
+Significantvaluesforsome
+outerbranches,whichgroup
+vertebratesorinsects,havebeen
+omittedforsimplicity
+(probablythroughincreasedkinasefunction)whatleadsto deuterostome split; second, after that split two of those
+the loss of dopam
+
+Chunk 21:
+nd,
+respectively,toNJ/MP/ML
+analyses(seeMethodsfor
+details).Onlybranches
+supportedbythethreemethods
+andinwhichbootstrapsupport
+washigherthan50%inatleast
+twoofthemareshown.
+Significantvaluesforsome
+outerbranches,whichgroup
+vertebratesorinsects,havebeen
+omittedforsimplicity
+(probablythroughincreasedkinasefunction)whatleadsto deuterostome split; second, after that split two of those
+the loss of dopaminergic cells in patients with PD (West geneswerelostinprotostomesandthethirdonewaslostin
+et al. 2005; Gloeckner et al. 2006; Smith et al. 2006; Guo deuterostomes. This was obviously impossible to foresee,
+et al.2007;Liet al.2007).Insummary,researchersinthis notknowingthecnidariandata.Itisagoodexampleofthe
+field should be very careful before extrapolating results radicalchangeinourinterpretationsthatgenomicanalyses
+obtained for protostome LRRK genes to humans. of basal organisms may provide. As I commented in the
+IsuggestedinmypreviousstudythatLRRK2originated Introduction, so far the scientific community has been
+recently, by a duplication which occurred after the proto- working under the impression that we should expect a
+stome–deuterostomesplit.Thishypothesishasbeenrefuted progressive increase in genome complexity when we get
+by the new findings in Nematostella. I now favor a more closer to humans, perhaps with some anomalies here and
+complex explanation: first, two duplications led to the there caused by particular features in the ways of life of
+presence of three genes before the protostome– somespecies,byspecies-specificgenomeduplications,etc.
+123
+
+---PAGE BREAK---
+
+JMolEvol(2008)67:41–50 49
+Fig.4 Dendrogramobtained
+analyzingkinasedomain
+sequences.Conventionsareas
+inFig.3.Again,some
+significantresultshavebeen
+omittedforsimplicity
+Thus, a typical reasoning was that, whenever single genes candidate for use in experiments aimed at identifying cel-
+are found in invertebrates and multiple genes are detected lular partners specific to LRRK2.
+in vertebrates, the most parsimon
+
+Chunk 22:
+008)67:41–50 49
+Fig.4 Dendrogramobtained
+analyzingkinasedomain
+sequences.Conventionsareas
+inFig.3.Again,some
+significantresultshavebeen
+omittedforsimplicity
+Thus, a typical reasoning was that, whenever single genes candidate for use in experiments aimed at identifying cel-
+are found in invertebrates and multiple genes are detected lular partners specific to LRRK2.
+in vertebrates, the most parsimonious explanation was the
+occurrence of vertebrate-specific duplications. However, Acknowledgments This research was supported by Grant
+SAF2006-08977 (Programa Nacional de Biomedicina. Ministerio de
+the unexpected complexity of the genome of this simple
+Educacio´n y Ciencia, Spain) and Grant 200720I021 (Proyectos
+anemone may lead to a paradigmatic change, in which
+intramuralesespeciales,CSIC,Spain).
+Drosophila or Caenorhabditis are viewed as possessing
+genomes in which many of the genes of their animal
+References
+ancestors were lost. This may lead to a reevaluation of the
+evolution of many gene families in the light of cnidarian
+BergD,SchweitzerK,LeitnerP,ZimprichA,LichtnerP,BelcrediP,
+data, as I have done in this study.
+Brussel T, Schulte C, Maass S, Nagele T (2005) Type and
+The characterization of orthologous genes in very dis- frequency of mutations in the LRRK2 gene in familial and
+tant animals may also significantly contribute to our sporadicParkinson’sdisease.Brain128:3000–3011
+Bosgraaf L, Van Haastert PJ (2003) Roc, a Ras/GTPase domain in
+understanding of the biochemical potential of their prod-
+complexproteins.BiochimBiophysActa1643:5–10
+ucts. Here, by comparing the N-terminal region of the
+Burge C, Karlin S (1997) Prediction of complete gene structures in
+LRRK2 orthologues, I have shown that they contain an humangenomicDNA.JMolBiol268:78–94
+Arm-like surface. Mutations in this surface have been Chen-PlotkinAS,YuanW,AndersonC,WoodEM,HurtigHI,Clark
+CM, Miller BL, Lee VM, Trojanowski JQ, Grossman M, Van
+involved in familial PD (Nichols et al. 2007). Given that
+Deerlin V
+
+Chunk 23:
+al region of the
+Burge C, Karlin S (1997) Prediction of complete gene structures in
+LRRK2 orthologues, I have shown that they contain an humangenomicDNA.JMolBiol268:78–94
+Arm-like surface. Mutations in this surface have been Chen-PlotkinAS,YuanW,AndersonC,WoodEM,HurtigHI,Clark
+CM, Miller BL, Lee VM, Trojanowski JQ, Grossman M, Van
+involved in familial PD (Nichols et al. 2007). Given that
+Deerlin VM (2008) Corticobasal syndrome and primary pro-
+this is considered to be a protein-protein interaction sur-
+gressive aphasia as manifestations of LRRK2 gene mutations.
+face,aswellasitsabsenceinLRRK1proteins,itisagood Neurology70:521–527
+123
+
+---PAGE BREAK---
+
+50 JMolEvol(2008)67:41–50
+Gloeckner CJ, Kinkl N, Schumacher A, Braun RJ, O’Neill E, Nichols WC, Elsaesser VE, Pankratz N, Pauciulo MW, Marek DK,
+Meitinger T, Kolch W, Prokisch H, Ueffing M (2006) The HalterCA,RudolphA,ShultsCW,ForoudT;fortheParkinson
+ParkinsondiseasecausingLRRK2mutationI2020Tisassociated Study Group-PROGENI Investigators (2007) LRRK2 mutation
+withincreasedkinaseactivity.HumMolGenet15:223–232 analysis inParkinsondisease familieswith evidenceoflinkage
+Greggio E, Lewis PA, van derBrug MP, Ahmad R, Kaganovich A, toPARK8.Neurology(inpress)
+DingJ,BeilinaA,BakerAK,CooksonMR(2007)Mutationsin PutnamNH,SrivastavaM,HellstenU,DirksB,ChapmanJ,Salamov
+LRRK2/dardarin associated with Parkinson disease are more A, Terry A, Shapiro H, Lindquist E, Kapitonov VV, Jurka J,
+toxic than equivalent mutations in the homologous kinase Genikhovich G, Grigoriev IV, Lucas SM, Steele RE, Finnerty
+LRRK1.JNeurochem102:93–102 JR, Technau U, Martindale MQ, Rokhsar DS (2007) Sea
+GrovesMR, Barford D(1999)Topologicalcharacteristics ofhelical anemone genome reveals ancestral eumetazoan gene repertoire
+repeatproteins.CurrOpinStructBiol9:383–389 andgenomicorganization.Science317:86–94
+GuindonS,GascuelO(2003)Asimple,fast,andaccuratealgorithm Sakaguchi-NakashimaA,MeirJY,JinY,MatsumotoK,HisamotoN
+toestimatelargephylogeniesbymaximumlikelihood.Sys
+
+Chunk 24:
+rtindale MQ, Rokhsar DS (2007) Sea
+GrovesMR, Barford D(1999)Topologicalcharacteristics ofhelical anemone genome reveals ancestral eumetazoan gene repertoire
+repeatproteins.CurrOpinStructBiol9:383–389 andgenomicorganization.Science317:86–94
+GuindonS,GascuelO(2003)Asimple,fast,andaccuratealgorithm Sakaguchi-NakashimaA,MeirJY,JinY,MatsumotoK,HisamotoN
+toestimatelargephylogeniesbymaximumlikelihood.SystBiol (2007) LRK-1, a C. elegans PARK8-related kinase, regulates
+52:696–704 axonal-dendriticpolarityofSVproteins.CurrBiol17:592–598
+Guo L, Gandhi PN, Wang W, Petersen RB, Wilson-Delfosse AL, Smith WW, Pei Z, Jiang H, Dawson VL, Dawson TM, Ross CA
+Chen SG (2007) The Parkinson’s disease-associated protein, (2006) Kinase activity of mutant LRRK2 mediates neuronal
+leucine-rich repeat kinase 2 (LRRK2), is an authentic GTPase toxicity.NatNeurosci9:1231–1233
+thatstimulateskinaseactivity.ExpCellRes313:3658–3670 So¨ding J, Remmert M, Biegert A (2006) HHrep: de novo protein
+HatanoT,KuboS,ImaiS,MaedaM,IshikawaK,MizunoY,Hattori repeat detection and the origin of TIM barrels. Nucleic Acids
+N(2007)Leucine-richrepeatkinase2associateswithlipidrafts. Res34:W137–W142
+HumMolGenet16:678–690 Stein LD, Bao Z, Blasiar D, Blumenthal T, Brent MR, Chen N,
+KorrD,ToschiL,DonnerP,PohlenzHD,KreftB,WeissB(2006) Chinwalla A, Clarke L, Clee C, Coghlan A, Coulson A,
+LRRK1 protein kinase activity is stimulated upon binding of D’EustachioP,FitchDH,FultonLA,FultonRE,Griffiths-Jones
+GTPtoitsRocdomain.CellSignal18:910–920 S,HarrisTW,HillierLW,KamathR,KuwabaraPE,MardisER,
+Lee SB, Kim W, Lee S, Chung J (2007) Loss of LRRK2/PARK8 MarraMA,MinerTL,MinxP,MullikinJC,PlumbRW,Rogers
+induces degeneration of dopaminergic neurons in Drosophila. J,ScheinJE,SohrmannM,SpiethJ,StajichJE,WeiC,Willey
+BiochemBiophysResCommun358:534–539 D, Wilson RK, Durbin R, Waterston RH (2003) The genome
+Li X, Tan YC, Poulose S, Olanow CW, Huang XY, Yue Z (2007) sequence of Caenorhabditis briggsae: a platform for compara-
+Leucine-rich repeat kin
+
+Chunk 25:
+2/PARK8 MarraMA,MinerTL,MinxP,MullikinJC,PlumbRW,Rogers
+induces degeneration of dopaminergic neurons in Drosophila. J,ScheinJE,SohrmannM,SpiethJ,StajichJE,WeiC,Willey
+BiochemBiophysResCommun358:534–539 D, Wilson RK, Durbin R, Waterston RH (2003) The genome
+Li X, Tan YC, Poulose S, Olanow CW, Huang XY, Yue Z (2007) sequence of Caenorhabditis briggsae: a platform for compara-
+Leucine-rich repeat kinase 2 (LRRK2)/PARK8 possesses tivegenomics.PLoSBiol1:E45
+GTPase activity that is altered in familial Parkinson’s disease SwoffordDL(2003)PAUP*.PhylogeneticAnalysisUsingParsimony
+R1441C/Gmutants.JNeurochem103:238–247 (*and other methods). Version 4. Sinauer Associates, Sunder-
+LucasJI,ArnauV,Mar´ınI(2006)Comparativegenomicsandprotein land,MA
+domaingraphanalyseslinkubiquitinationandRNAmetabolism. Tamura K, Dudley J, Nei M, Kumar S (2007) MEGA4: Molecular
+JMolBiol357:9–17 Evolutionary Genetics Analysis (MEGA) software version 4.0.
+Lucas JI, Mar´ın I (2007) A new evolutionary paradigm for the MolBiolEvol24:1596–1599
+ParkinsondiseasegeneDJ-1.MolBiolEvol24:551–561 TaylorJP,MataIF,FarrerMJ(2006)LRRK2:acommonpathwayfor
+MacLeodD,DowmanJ,HammondR,LeeteT,InoueK,Abeliovich parkinsonism, pathogenesis and prevention? Trends Mol Med
+A (2006) The familial Parkinsonism gene LRRK2 regulates 12:76–82
+neuriteprocessmorphology.Neuron52:587–593 Taylor JP, Hulihan MM, Kachergus JM, Melrose HL, Lincoln SJ,
+Mar´ınI(2006)TheParkinsondiseasegeneLRRK2:evolutionaryand Hinkle KM, Stone JT, Ross OA, Hauser R, Aasly J, Gasser T,
+structuralinsights.MolBiolEvol23:2423–2433 Payami H, Wszolek ZK, Farrer MJ (2007) Leucine-rich repeat
+Mar´ınI,Ferru´sA(2002)ComparativegenomicsoftheRBRfamily, kinase 1: a paralog of LRRK2 and a candidate gene for
+including the Parkinson’s disease-related gene parkin and the Parkinson’sdisease.Neurogenetics8:95–102
+genesoftheariadnesubfamily.MolBiolEvol19:2039–2050 Thomas B, Beal MF (2007) Parkinson’s disease. Hum Mol Genet
+Mar´ınI,LucasJI,GradillaAC,Ferru´sA(2004)Parkinandrelative
+
+Chunk 26:
+cine-rich repeat
+Mar´ınI,Ferru´sA(2002)ComparativegenomicsoftheRBRfamily, kinase 1: a paralog of LRRK2 and a candidate gene for
+including the Parkinson’s disease-related gene parkin and the Parkinson’sdisease.Neurogenetics8:95–102
+genesoftheariadnesubfamily.MolBiolEvol19:2039–2050 Thomas B, Beal MF (2007) Parkinson’s disease. Hum Mol Genet
+Mar´ınI,LucasJI,GradillaAC,Ferru´sA(2004)Parkinandrelatives:the SpecNo2:R183–R194
+RBRfamilyofubiquitinligases.PhysiolGenomics17:253–263 Thompson JD, Gibson TJ, Plewniak F, Jeanmougin F, Higgins DG
+Mata IF, Wedemeyer WJ, Farrer MJ, Taylor JP, Gallo KA (2006) (1997) The ClustalX windows interface: flexible strategies for
+LRRK2 in Parkinson’s disease: protein domains and functional multiple sequence alignment aided by quality analysis tools.
+insights.TrendsNeurosci29:286–293 NucleicAcidsRes24:4876–4882
+Mushegian AR, Garey JR, Martin J, Liu LX (1998) Large-scale WestAB,MooreDJ,BiskupS,BugayenkoA,SmithWW,RossCA,
+taxonomic profiling of eukaryotic model organisms: a compar- DawsonVL,DawsonTM(2005)Parkinson’sdisease-associated
+ison of orthologous proteins encoded by the human, fly, mutations in leucine-rich repeat kinase 2 augment kinase
+nematode,andyeastgenomes.GenomeRes8:590–598 activity.ProcNatlAcadSciUSA102:16842–16847
+NicholasKB,NicholasHBJr(1997)GeneDoc:atoolforeditingand Zdobnov EM, Apweiler R (2001) InterProScan—an integration
+annotating multiple sequence alignments. Distributed by the platform for the signature-recognition methods in InterPro.
+author Bioinformatics17:847–848
+123
+
+---PAGE BREAK---
+
+
+

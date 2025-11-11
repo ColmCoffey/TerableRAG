@@ -1,0 +1,1412 @@
+HHS Public Access
+Author manuscript
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Published in final edited form as:
+Nat Neurosci. 2023 February ; 26(2): 213–225. doi:10.1038/s41593-022-01239-7.
+Post-translational modifications of soluble α-synuclein regulate
+the amplification of pathological α-synuclein
+Shujing Zhang1,15, Ruowei Zhu1,15, Buyan Pan2, Hong Xu3, Modupe F. Olufemi3, Ronald J.
+Gathagan3, Yuanxi Li1,4,5, Luyan Zhang1, Jasmine Zhang1, Wenxuan Xiang1, Eliot Masahiro
+Kagan1, Xingjun Cao6, Chaoxing Yuan7, Soo-Jung Kim3, Christopher K. Williams8, Shino
+Magaki8, Harry V. Vinters9, Hilal A. Lashuel10, Benjamin A. Garcia11, E. James Petersson2,
+John Q. Trojanowski3, Virginia M.-Y. Lee3, Chao Peng1,12,13,14
+1Department of Neurology, David Geffen School of Medicine, University of California—Los
+Angeles, Los Angeles, CA, USA.
+2Department of Chemistry, School of Arts and Sciences, University of Pennsylvania, Philadelphia,
+PA, USA.
+3The Department of Pathology and Laboratory Medicine, Institute on Aging and Center
+for Neurodegenerative Disease Research, the Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+4Institute for Cognitive Neurodynamics, East China University of Science and Technology,
+Shanghai, China.
+5School of Mathematics, East China University of Science and Technology, Shanghai, China.
+6Innovent Biologics, Inc., Suzhou, China.
+7Alexion Pharmaceuticals, Inc., New Haven, CT, USA.
+8Section of Neuropathology, Department of Pathology and Laboratory Medicine, Ronald Reagan
+UCLA Medical Center and David Geffen School of Medicine, University of California—Los
+Angeles, Los Angeles, CA, USA.
+Reprints and permissions information is available at www.nature.com/reprints.
+Correspondence and requests for materials should be addressed to Virginia M.-Y. Lee or Chao Peng. vmylee@upenn.edu;
+cpeng@mednet.ucla.edu.
+Author contributions
+C.P., V.L., S.Z. and R.Z. conceived experiments. C.P., S.Z. and R.Z. performed most of the experiments. B.P. and E.J.P. generate pY39
+and pS87 α-synuclein monomer. H.X., M.F.O., R.J.G., J.Z., W.X. and E.M.K. performed cell culture experiments. L.Z. and H.A.L.
+performed biochemical experiments. S.-J.K. generated PFF. C.K.W., S.M. and H.V. identified and prepared human brain tissue for
+the preparation of pathological α-synuclein. X.C., C.Y. and B.A.G. performed LC–MS/MS experiments. Y.L. analyzed the data. C.P.,
+J.Q.T., V.M.-Y.L., E.J.P. and H.A.L. wrote the manuscript.
+Online content
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information,
+acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code
+availability are available at https://doi.org/10.1038/s41593-022-01239-7.
+Reporting summary
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+Competing interests
+The authors declare no competing interests.
+Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/
+s41593-022-01239-7.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 2
+9Section of Neuropathology, Department of Pathology and Laboratory Medicine, Department of
+Neurology, and Brain Research Institute, Ronald Reagan UCLA Medical Center and David Geffen
+School of Medicine, University of California – Los Angeles, Los Angeles, CA, USA.
+10Laboratory of Molecular and Chemical Biology of Neurodegeneration, Brain Mind Institute,
+Swiss Federal Institute of Technology, Lausanne, Switzerland.
+11Department of Biochemistry and Molecular Biophysics, Washington University St Louis, St
+Louis, MO, USA.
+12Molecular Biology Institute, University of California, Los Angeles, California, Los Angeles 90095,
+USA.
+13Brain Research Institute, University of California, Los Angeles, Los Angeles, California, 90095,
+USA.
+14Mary S. Easton Center for Alzheimer’s Research, University of California, Los Angeles, Los
+Angeles, California 90095, USA.
+15These authors contributed equally: Shujing Zhang, Ruowei Zhu.
+Abstract
+Cell-to-cell transmission and subsequent amplification of pathological proteins promote
+neurodegenerative disease progression. Most research on this has focused on pathological protein
+seeds, but how their normal counterparts, which are converted to pathological forms during
+transmission, regulate transmission is less understood. Here we show in cultured cells that
+phosphorylation of soluble, nonpathological α-synuclein (α-Syn) at previously identified sites
+dramatically affects the amplification of pathological α-Syn, which underlies Parkinson’s disease
+and other α-synucleinopathies, in a conformation- and phosphorylation site-specific manner.
+We performed LC–MS/MS analyses on soluble α-Syn purified from Parkinson’s disease and
+other α-synucleinopathies, identifying many new α-Syn post-translational modifications (PTMs).
+In addition to phosphorylation, acetylation of soluble α-Syn also modified pathological α-Syn
+transmission in a site- and conformation-specific manner. Moreover, phosphorylation of soluble
+α-Syn could modulate the seeding properties of pathological α-Syn. Our study represents the
+first systematic analysis how of soluble α-Syn PTMs affect the spreading and amplification of
+pathological α-Syn, which may affect disease progression.
+α-Synucleinopathies are a group of neurodegenerative diseases characterized by the
+intracellular accumulation of pathological α-Syn. These include Parkinson’s disease,
+dementia with Lewy bodies, multiple system atrophy (MSA) and ~50% of Alzheimer’s
+disease cases1-3. During the past decades, mounting evidence supports cell-to-cell
+transmission and subsequent amplification of pathological α-synuclein (α-Syn) as a key
+process for the onset and progression of α-synucleinopathies4-7. Tremendous efforts have
+been spent exploring the molecular mechanisms that modulate the transmission process.
+Particularly, the release, uptake, transport and degradation of pathological α-Syn seeds have
+been extensively investigated in multiple studies8,9. However, successful amplification of
+the pathological protein involves two components, the formation of pathological α-Syn
+seeds and the transformation of normal, soluble α-Syn, that is, the substrate. The potential
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 3
+regulatory role played by soluble α-Syn in the amplification of pathological α-Syn has not
+yet been investigated.
+Numerous post-translational modifications (PTMs) have been identified in α-Syn10,11 and
+were shown to modulate the aggregation and clearance of monomeric α-Syn in vitro12-18.
+Even though previous studies of α-Syn PTMs have been focused more on pathological
+α-Syn, multiple PTMs, particularly phosphorylation, have also been identified on soluble α-
+Syn prepared from normal brains16,18-20. We hypothesize that PTMs in soluble α-Syn could
+modulate the interaction between pathological α-Syn and soluble α-Syn, which in turn
+could regulate the amplification of pathological α-Syn and modulate the α-Syn aggregate
+transmission process.
+In this Article, we evaluated the effect of soluble α-Syn phosphorylation at known sites
+on the amplification of pathological α-Syn. Phosphorylation of soluble α-Syn dramatically
+affected the amplification of pathological α-Syn. Interestingly, this effect is phosphorylation
+site and conformation dependent. Different phosphorylation sites have distinct effects on
+the same pathological α-Syn strain, and the same phosphorylation sites could have distinct
+effects on different pathological α-Syn strains, highlighting for the first time the complex
+interaction between soluble α-Syn phosphorylation sites and different pathological α-Syn
+conformations. Because previous studies of α-Syn PTMs have focused more on pathological
+α-Syn and fewer studies have been performed to explore PTMs on soluble α-Syn, LC–
+MS/MS was used to systematically identify PTMs in soluble α-Syn purified from various
+α-synucleinopathies. Notably, soluble α-Syn is acetylated and this acetylation of soluble
+α-Syn also modulated the amplification of pathological α-Syn in a strain-dependent way,
+thereby demonstrating that the observed effects are not restricted to phosphorylation. Finally,
+by passaging pathological α-Syn with different phosphorylation mimics, we demonstrated
+that PTMs in soluble α-Syn could also modulate the property of the original seeds
+after passaging. Therefore, soluble α-Syn PTMs represent a critical new mechanism that
+modulates the transmission of pathological α-Syn.
+Results
+Soluble α-Syn phosphorylation modulates the amplification of pathological α-Syn
+To explore whether phosphorylation of soluble α-Syn modulates the amplification of
+pathological seeds and regulates the transmission process, we first confirmed the existence
+of several previously reported α-Syn phosphorylation sites, that is, serine 87 (S87) and
+tyrosine 39 (Y39) on soluble α-Syn16,18. Consistent with previous reports16,18, both
+phosphorylated S87 (pS87) and Y39 (pY39) soluble α-Syn were detected in both diseased
+and normal control brains (Supplementary Figs. 1, 2 and Supplementary Table 1). There
+was a dramatic variation in the amount of soluble pY39 or pS87 α-Syn in individual brains;
+however, no significant differences were observed among different α-synucleinopathies or
+compared to normal brains (Supplementary Figs. 1, 2 and Supplementary Table 1). Taking
+advantage of synthesized pY39 and pS87 α-Syn monomer, we evaluated the percentage
+of soluble α-Syn from diseased and control brains that is phosphorylated at Y39 or S87.
+About 10–40% of α-Syn proteins were phosphorylated at Y39, and 10–20% of α-Syn
+proteins were phosphorylated at S87, suggesting that there is a significant amount of
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 4
+phosphorylated soluble α-Syn in diseased and control brains (Supplementary Fig. 3). To
+explore the nature of pY39 and pS87 α-Syn in diseased and normal brains, we resolved
+soluble α-Syn on native gels and found that a large amount (25–60%) of pY39 α-Syn is
+monomers (Supplementary Fig. 4). A reasonable amount (5–10%) of pS87 α-Syn monomers
+could also be detected (Supplementary Fig. 4).
+To examine the effects of soluble α-Syn phosphorylation on the transmission of pathological
+α-Syn, we mutated Y39, S87, Y125 and Y133 to glutamic acid (E) to mimic the different
+phosphorylated α-Syn and expressed these variants α-Syn in HEK293 cells (Fig. 1a).
+Immunoblot analyses showed that various variant α-Syn had similar expression levels
+compared to the wild-type (WT) control (Fig. 1b,c). After transducing HEK293 cells with
+α-Syn preformed fibrils (PFFs), cells expressing different α-Syn variants were extracted
+with 1% Triton X-100 to remove soluble proteins and immunostained with a monoclonal
+antibody against α-Syn phosphorylated at S129 (81A) to evaluate the induction of α-Syn
+aggregation (Fig. 1d). Interestingly, none of the phosphorylation sites dramatically affected
+the seeding ability of α-Syn PFF (Fig. 1d,e).
+α-Syn PFFs generated in test tubes have distinct conformations compared with
+pathological α-Syn prepared from Lewy body disease (LBD) brains (LB-α-Syn)21,22. To
+evaluate whether phosphorylation of soluble α-Syn could affect the seeding ability of
+pathological α-Syn isolated from diseased brains, HEK293 cells expressing different α-Syn
+phosphorylation variant mimics were transduced with LB-α-Syn prepared from LBD brains.
+Strikingly, Y39 phosphorylation dramatically blocked the seeding of soluble α-Syn by LB-
+α-Syn, in contrast to PFFs. S87 phosphorylation slightly increased, while Y125E and Y133
+phosphorylation slightly reduced the seeding ability of LB-α-Syn, even though the effects
+were not as strong as those seen for Y39 phosphorylation (Fig. 1f,g and Supplementary
+Tables 2, 3). Interestingly, S87 phosphorylation has been shown to block α-Syn aggregation
+before14,17, suggesting that the same phosphorylation site could have distinct roles during
+the initiation versus amplification of pathological α-Syn.
+Due to the limited quantities of LB-α-Syn recovered from diseased brains that we were
+able to add to the HEK293 cells (4 ng per well), the amount of α-Syn pathology induced
+by LB-α-Syn was much lower than that induced by PFFs (40 ng per well) (Fig. 1d,f).
+To rule out any potential confounds resulting from low amounts of pathological α-Syn,
+HEK293 cells expressing α-Syn were transduced with the same amount of PFFs (4 ng per
+well) as LB-α-Syn. To mimic the contaminating proteins in the LB-α-Syn preparations,
+PFFs were mixed with insoluble proteins prepared from normal control brains. Even though
+all phosphorylation sites slightly reduced the seeding activity of low amounts of PFFs, no
+phosphorylation of soluble α-Syn dramatically affected the seeding ability of low amounts
+(4 ng per well) of PFFs (Fig. 1h and Supplementary Fig. 5), which is very different from
+LB-α-Syn. These data demonstrate that the LB-α-Syn and PFFs indeed show distinct
+responses to soluble α-Syn PTMs.
+Previous studies, including ours, demonstrated that pathological α-Syn isolated from MSA
+patients, that is, GCI-α-Syn, has distinct conformations and seeding abilities compared
+with LB-α-Syn and PFFs21-23. To evaluate whether soluble α-Syn phosphorylation
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 5
+would also affect the seeding ability of GCI-α-Syn, HEK293 cells expressing α-Syn
+phosphorylation mimicking variants were transduced with GCI-α-Syn. Interestingly, S87
+phosphorylation dramatically blocked the seeding ability of GCI-α-Syn, which is in
+striking contrast to the increase seen with LB-α-Syn (Fig. 1i,j). Y39 phosphorylation
+also reduced the seeding of GCI-α-Syn. However, the effect was much weaker than
+for S87 phosphorylation. Y125 phosphorylation did not affect the amplification of GCI-
+α-Syn, and Y133 phosphorylation slightly reduced GCI-α-Syn amplification. These data
+again demonstrated that phosphorylation of soluble α-Syn affects the seeding ability of
+pathological α-Syn and this effect is conformation and phosphorylation site dependent.
+Comparing the effect of soluble α-Syn phosphorylation on different α-Syn strains from
+human α-Synucleinopathy brains showed that Y39 phosphorylation blocked the seeding
+ability of both LB-α-Syn and GCI-α-Syn and had no effect on PFFs. However, the effect
+is much stronger on LB-α-Syn than GCI-α-Syn (Fig. 1k). S87 phosphorylation increased
+the seeding ability of LB-α-Syn but dramatically blocked the seeding ability of GCI-α-Syn
+while having no obvious effect on PFFs (Fig. 1k).
+To confirm that the pS129 α-Syn observed in HEK293 cells shown in Fig. 1 was indeed
+insoluble α-Syn, we extracted the transduced cells with 1% hexadecyltrimethylammonium
+bromide (HDTA) to remove all soluble α-Syn and stained the extracted cells with an
+antibody against total α-Syn. There was no signal in cells expressing α-Syn without
+transduction, which demonstrated the successful removal of all soluble α-Syn from the
+cells. Therefore, the stained total α-Syn in the transduced cells was indeed insoluble α-
+Syn (Supplementary Fig. 6a). Using this assay, we confirmed the effect of soluble α-Syn
+phosphorylation on pathological α-Syn amplification (Supplementary Fig. 6b-d). We also
+performed sequential extraction with 1% Triton X-100 and 1% Sarkosyl on HEK293 cells
+expressing different phosphorylation mimetic α-Syn variants and transduced with PFF or
+GCI-α-Syn. The resulting soluble and insoluble fractions were analyzed by western blot
+(WB) with an antibody against total α-Syn. The results further demonstrated the effect
+of soluble α-Syn phosphorylation on pathological α-Syn amplification (Supplementary
+Fig. 6e-h). Nonphosphorylation mimetic α-Syn variants (Y39A and S87A) do not affect
+the amplification of pathological α-Syn, demonstrating that the observed effect for
+phosphorylation mimetic variants is phosphorylation specific (Supplementary Fig. 7).
+Because phosphorylation mimetic α-Syn variants dramatically modulate the amplification
+of LB-α-Syn and GCI-α-Syn, we further evaluated whether bona fide phosphorylation at
+the same residues could also modulate the amplification of pathological α-Syn. We first
+tested the effects of phosphorylation using a cell-free seeding assay. pY39 α-Syn and pS87
+α-Syn monomers were generated using protein semi-synthesis strategies modified from
+previous approaches24,25 and mixed at a ratio of 1:1 (95 ng μl −1 for each monomer). This
+pY39 and pS87 α-Syn monomer mixture was seeded with LB-α-Syn, GCI-α-Syn and
+PFF (10 ng μl −1). After fibrilization, the amount of pY39 and pS87 α-Syn in the fibril
+fraction was analyzed by sedimentation assay and WB with anti-pY39 α-Syn and anti-pS87
+α-Syn antibodies (Fig. 2a). We also confirmed that 95 ng μl −1 pY39 and pS87 α-Syn
+monomer mixture did not aggregate by themselves (Supplementary Fig. 8). Consistent
+with our observation for phosphorylation mimetic α-Syn variants, PFF seeded pY39 and
+pS87 α-Syn monomers equally well (Fig. 2b,e). However, LB-α-Syn preferentially seeded
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 6
+pS87 α-Syn monomer (Fig. 2c,f), while GCI-α-Syn preferentially seeded pY39 monomer
+(Fig. 2d,g). Therefore, using pY39 and pS87 α-Syn monomers, we demonstrated that real
+phosphorylation on soluble α-Syn could also modulate the amplification of pathological
+α-Syn.
+Previously, c-Abl has been shown to phosphorylate α-Syn on Y39 (ref. 16), which provides
+an ideal tool to test the effect of pY39 on pathological α-Syn amplification in cells. We
+coexpressed c-Abl and WT α-Syn in HEK293 cells and demonstrated that c-Abl could
+efficiently phosphorylate α-Syn on Y39 (Fig. 2h,i). Notably, expressing α-Syn alone or
+coexpressing α-Syn with c-Abl showed similar levels of total α-Syn (Fig. 2j). HEK293
+cells that express α-Syn alone or coexpress α-Syn with c-Abl were transduced with LB-α-
+Syn, GCI-α-Syn and PFF. Consistent with our observations for phosphorylation mimetic
+α-Syn variants, pY39 α-Syn generated in situ through c-Abl expression reduced the seeding
+activity of LB-α-Syn (Fig. 2m,n) and GCI-α-Syn (Fig. 2o,p) but did not have an obvious
+effect on the amplification of PFF α-Syn (Fig. 2k,l). Given the dramatic effect of soluble α-
+Syn phosphorylation on pathological α-Syn amplification, we further evaluated the amount
+of pY39 and pS87 α-Syn contained in GCI-α-Syn and LB-α-Syn. Indeed, there is less pY39
+α-syn in LB-α-syn compared with GCI-α-syn, which is consistent with the observation that
+pY39 α-syn reduces the amplification of LB-α-syn more than GCI-α-syn (Supplementary
+Fig. 9a-c). However, we do not observe obvious differences between GCI-α-Syn and LB-α-
+Syn in terms of the amount of pS87 α-Syn (Supplementary Fig. 9d-f). This observation may
+be due to the fact that α-Syn could also be phosphorylated on Y39 and S87 by kinases or
+be dephosphorylated by phosphatases after aggregation. Therefore, the amount of pY39 and
+pS87 on pathological α-Syn might not always reflect the amount of pY39 and pS87 α-Syn
+monomer that is recruited during the amplification process.
+Systematically identify PTMs on soluble α-Syn purified from diseased and control brains
+Because soluble α-Syn phosphorylation could affect the seeding ability of pathological
+α-Syn, we asked if other types of PTMs would have similar effects. However, most previous
+studies of α-Syn PTMs have focused on defining modification sites on pathological α-Syn
+while the PTMs of soluble α-Syn have been less explored. To systematically analyze PTMs
+on soluble α-Syn, purified soluble α-Syn samples were generated from brains of various
+α-synucleinopathies and normal brains by immunoprecipitation (IP) and then analyzed
+by LC–MS/MS (Fig. 3a,b). To facilitate the identification of PTMs, multiple cases from
+each group were used and different LC–MS/MS methods were applied in these studies
+(Supplementary Tables 4 and 5). First, a single band of IP-purified α-Syn was excised
+and used for data-dependent LC–MS/MS analysis. Second, the entire preparation of IP-
+purified soluble α-Syn was used for data-dependent LC–MS/MS analysis. Third, cases
+with large quantities of pathological α-Syn or with particularly low postmortem intervals
+were selected for the study. Fourth, several samples were analyzed by LC–MS/MS for
+two continuous rounds, with the second run excluding the ions that were identified in
+the first run. Fifth, to facilitate the identification of phosphorylation and acetylation sites,
+parallel reaction monitoring was performed on samples enriched for phosphorylated and
+acetylated peptides. Finally, treatments with proteases such as trypsin and AspN were used
+to ensure coverage of the entire length of the α-Syn molecule. A total of 50 LC–MS/MS
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 7
+analyses were performed. These data were analyzed for phosphorylation, acetylation,
+methylation, dimethylation, trimethylation, O-GlcNAc, 4-hydroxynonenal, oxidation of
+tyrosine, carboxymethyl, carboxyethyl, arginylation and ubiquitination. The results are
+summarized in Fig. 3c and Supplementary Tables 6-8. A total of 51 modifications were
+identified, with 44 of them being new modifications. 35 of 52 identified PTMs were
+located in the N-terminal domain. The most abundant modifications of soluble α-Syn were
+carboxymethylation, acetylation and methylation. Several new phosphorylation sites (S42,
+T64, T72, T75 and T81) were also identified. Finally, phosphorylation within the NAC
+domain (for example, T64, T72, T75 and T81) seems to be particularly enriched in soluble
+α-Syn isolated from MSA brains (Fig. 3c and Supplementary Tables 7, 8).
+Soluble α-Syn acetylation also modulates the amplification of pathological α-Syn
+Given the large number of new acetylation sites identified on soluble α-Syn, we asked if
+acetylation of soluble α-Syn could also modulate the transmission of pathological α-Syn.
+Lysine (K) to glutamine (Q) variants were used to mimic lysine acetylation. Different
+K to Q α-Syn variants have similar expression levels compared with WT Syn (Fig.
+4a,b). Similar to phosphorylation, the different acetylation sites do not affect the seeding
+ability of PFFs dramatically, except for K43Q, which reduced the seeding ability of PFFs
+(Fig. 4c,d). K21 acetylation also slightly reduced the amplification of PFF. In contrast,
+different acetylation sites dramatically modulated the seeding of soluble α-Syn by LB-α-
+Syn with acetylation at K21, K43 and K45 dramatically reducing the seeding capacity
+of LB-α-Syn (Fig. 4e,f). K60 acetylation also slightly reduced the seeding capacity of
+LB-α-Syn. Furthermore, acetylation on soluble α-Syn also modulated the seeding ability of
+GCI-α-Syn dramatically, but with a very different pattern compared to LB-α-Syn because
+only K43 and K45 acetylation efficiently reduced the seeding ability of GCI-α-Syn (Fig.
+4g,h). K21Q slightly reduced GCI-α-Syn amplification, but K60Q increased GCI-α-Syn
+amplification. We also compared the effects of soluble α-Syn acetylation on the seeding
+ability of different pathological α-Syn strains and demonstrated that K21, K45, K60 and
+K96 acetylation have differential effects on the transmission of different α-Syn strains (Fig.
+4i), demonstrating that acetylation on soluble α-Syn also modulated the amplification of
+pathological α-Syn in a site and strain-dependent manner. We further confirmed the effect
+of soluble α-Syn acetylation on pathological α-Syn amplification by examining the amount
+of insoluble α-Syn induced by different pathological α-Syn strains in acetylation mimetic
+α-Syn variants (Supplementary Fig. 10). Nonacetylation α-Syn variants (K43A and K45A)
+do not affect the amplification of LB-α-Syn and GCI-α-Syn, demonstrating that observed
+effect is acetylation specific (Supplementary Fig. 11). Interestingly, K43A variant reduced
+the amplification of PFF α-Syn, suggesting that this residue is critical for PFF amplification
+(Supplementary Fig. 11).
+The effect of soluble α-Syn is pathological α-Syn conformation dependent
+Our prior studies showed that passaging GCI-α-Syn in primary neurons maintains its
+seeding ability and conformation23 (Fig. 5a). Even after one round of passaging in primary
+neurons, more than 99% of the passaged GCI-α-Syn (GCI-N) are composed of mouse
+α-Syn23. Therefore, this system allows us to artificially generate an α-Syn strain with
+mouse α-Syn sequence but maintain the GCI-α-Syn conformation. This strain provided
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 8
+us with a unique tool to ask if the effects of soluble α-Syn PTMs on GCI-α-Syn depend
+on the amino acid sequence or on its unique conformation. HEK293 cells expressing WT
+or various variant α-Syn were transduced with GCI-N and the induced α-Syn pathologies
+were analyzed and quantified (Fig. 5b-e). Notably, GCI-N showed a very similar response
+to soluble α-Syn acetylation and phosphorylation as GCI-α-Syn (Fig. 5f,g). These results
+demonstrate that the unique responses to soluble α-Syn PTMs of different pathological
+α-Syn strains are conformation dependent rather than sequence dependent.
+Next, we asked if the effects of soluble α-Syn PTMs could be observed in primary neurons.
+In rat primary neurons, α-Syn is expressed at relatively low levels and it is hard to induce α-
+Syn pathology in these neurons using misfolded α-Syn seeds (Fig. 6c-f). However, infecting
+these cells with Adeno-associated viruses (AAVs) to express α-Syn could dramatically
+facilitate the induction of α-Syn pathology (Fig. 6c-f). Taking advantage of this expression
+system, we infected rat neurons with AAVs expressing WT or S87E variant α-Syn and
+transduced them with GCI-α-Syn, LB-α-Syn or α-Syn PFFs. This enabled us to ask if
+the effects of soluble α-Syn PTMs on transmission could be observed in primary neurons
+(Fig. 6a). WT and S87E variant α-Syn showed similar expression levels in primary neurons
+(Fig. 6b). Interestingly, while the S87E variant α-Syn showed no obvious effect on the
+seeding ability of α-Syn PFFs (Fig. 6c,d), it dramatically reduced the seeding ability of
+GCI-α-Syn (Fig. 6c,e) and increased the seeding ability of LB-α-Syn (Fig. 6c,f) compared
+with WT α-Syn, similar to what was observed in HEK293 cells. Thereby, this observation
+demonstrates that the effects of soluble α-Syn PTMs on pathological α-Syn amplification
+could also be observed in primary neurons.
+Soluble α-Syn PTMs also modulate the seeding properties of pathological α-Syn
+Finally, because we demonstrated that α-Syn PTMs could modulate the recruitment of
+soluble α-Syn by different α-Syn strains, we further asked whether PTMs on soluble
+α-Syn could also modulate the seeding properties of pathological α-Syn. In other words,
+will amplifying pathological α-Syn with α-Syn monomers carrying different PTMs change
+the seeding properties of the amplified pathological α-Syn? To answer this question,
+α-Syn PFFs and GCI-α-Syn were passaged in HEK293 cells expressing various α-
+Syn phosphorylation mimic variants. Then, the seeding ability of passaged PFFs and
+GCI-α-Syn was evaluated by transducing primary neurons (Fig. 7a). Strikingly, while
+phosphorylation on soluble α-Syn showed no obvious effect on PFFs, the Y39 and S87
+phosphorylation variants dramatically reduced the seeding ability of GCI-α-Syn (Fig.
+7b,c and Supplementary Fig. 12). Passaging GCI-α-Syn and PFFs in different α-Syn
+variants for two rounds showed that the expression of phosphorylation mimics Y39E and
+S87E further reduced the seeding ability of GCI-α-Syn (Fig. 7d,f and Supplementary
+Fig. 13). Interestingly, after passaging in different α-Syn variants for two rounds, S87
+phosphorylation also dramatically reduced the seeding ability of PFFs (Fig. 7e and
+Supplementary Fig. 13). These results demonstrated that soluble α-Syn PTMs could not
+only affect the amplification of pathological α-Syn but also affect the seeding properties of
+pathological α-Syn after amplification.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 9
+In summary, our study demonstrates a previously unknown regulatory role of PTMs
+on soluble α-Syn in the transmission of pathological α-Syn. On the one hand, PTMs
+of soluble α-Syn dramatically modulate the interaction between soluble α-Syn and
+pathological α-Syn. Interestingly, this effect was both modification site and pathological
+α-Syn conformation dependent. Thus, the same PTM would have very different effects on
+different α-Syn strains. On the other hand, the amplification of pathological α-Syn with
+soluble α-Syn carrying different PTMs could also modulate the seeding property of the
+amplified pathological α-Syn. Finally, to further explore this regulatory network of PTMs
+on soluble α-Syn, we also systematically identified PTMs in soluble α-Syn of different
+α-Synucleinopathies by LC–MS/MS, which could be a critical resource for further studies.
+Discussion
+Transmission of pathological α-Syn along the central nervous system (CNS) is a shared
+mechanism for the progression of various neurodegenerative diseases. Prior studies of
+this process mainly focused on defining the behavior of pathological α-Syn (the seeds).
+However, successful amplification of the pathological α-Syn involves two components, the
+formation of pathological α-Syn seeds and the transformation of normal, soluble α-Syn, that
+is, the substrate. The potential regulatory role of the normal counterparts (soluble α-Syn)
+has generally been ignored. Here we showed for the first time that phosphorylation in
+soluble α-Syn dramatically modified the spreading of pathological α-Syn. Notably, this
+effect is pathological α-Syn conformation dependent. Using LC–MS/MS, we systematically
+identified the PTMs on soluble α-Syn purified from diseased and control brains. Then,
+we demonstrated that soluble α-Syn acetylation also modulates the amplification of
+pathological α-Syn in a conformation-dependent way. Finally, we found that soluble α-Syn
+could also modulate the seeding properties of pathological α-Syn. In summary, soluble
+α-Syn PTMs modulate the spreading of pathological α-Syn in two different ways. On the
+one hand, PTMs of soluble α-Syn could affect the recruitment of endogenous α-Syn by
+the pathological seeds. On the other hand, PTMs of soluble α-Syn could also modulate the
+seeding properties of pathological α-Syn once incorporated.
+Previous studies by Lashuel and colleagues showed that phosphorylation of α-Syn
+monomers at S87 inhibits its aggregation in vitro and mimicking phosphorylation in
+vivo attenuates α-Syn aggregation and toxicity in rat models of α-synucleionpathies18,26.
+However, the phosphorylation at S87 slightly increased the amplification of LB-α-Syn,
+highlighting the different roles that PTMs have during the different stages of pathology
+development. Interestingly, S87 phosphorylation dramatically blocked the amplification of
+GCI-α-Syn and reduced the seeding capacity of GCI-α-Syn, suggesting that increasing
+phosphorylation at this site could be an attractive new drug target for MSA patients. On the
+other hand, tyrosine phosphorylation at Y39 has been shown to reduce α-Syn fibrilization
+in vitro13 but was suggested to enhance the α-Syn aggregation in vivo27. In our study,
+we found that Y39 phosphorylation on soluble α-Syn could reduce the amplification of
+LB-α-Syn and GCI-α-Syn. Furthermore, Y39 phosphorylation dramatically reduces the
+seeding potency of amplified GCI-α-Syn, again suggesting that the same PTM can have
+different roles in different stages of disease pathogenesis.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 10
+Among the 11 different soluble α-Syn PTMs analyzed in the current study, seven PTMs
+could modulate the amplification of at least one of the pathological α-Syn strains,
+supporting that the regulation of transmission by soluble α-Syn is a very common
+phenomenon that is not restricted to a particular type of modification or specific
+modification site. However, among these seven PTMs, only one PTM (K43 acetylation)
+showed consistent effects on all three α-Syn strains (that is, LB-α-Syn, GCI-α-Syn
+and synthetic α-Syn PFFs), demonstrating that the effects of soluble α-Syn PTMs on
+transmission are highly selective to specific conformations. The fact that GCI-N and GCI-
+α-Syn showed similar responses to soluble α-Syn PTMs further demonstrated that the
+effects of PTMs on pathological α-Syn transmission are conformation rather than amino
+acid sequence dependent. Different pathological α-Syn strains show different spreading
+patterns in the CNS23, but the underlying molecular mechanisms of these processes remain
+unknown. Our study indicates that the very distinct responses of different α-Syn strains
+to the same PTM could contribute to their different spreading patterns in the CNS and
+eventually contribute to the clinical diversity of different α-synucleinopathies.
+To the best of our knowledge, our study represents the first systematic analysis of PTMs
+on soluble α-Syn. Previous studies of α-Syn PTMs were biased toward the PTMs on
+pathological α-Syn while our study identified a large number of new modifications in
+soluble α-Syn prepared from various diseased brains, which could be a critical resource
+for future studies on the biological functions of these modifications. The majority of the
+PTMs (34 of 51) were concentrated at the N-terminal domain. But five of the seven
+phosphorylation sites were found in the NAC domain. Four of these five phosphorylation
+sites have only been identified in soluble α-Syn prepared from MSA brains. Given the fact
+that S87 phosphorylation could only block the amplification of GCI-α-Syn, the enrichment
+of NAC domain phosphorylation such as S87 on soluble α-Syn from MSA patients could be
+a potential defense mechanism to reduce α-Syn transmission in MSA patients.
+Previous studies suggested that acetylation on the N-terminal domain of α-Syn can block
+α-Syn aggregation28. Here we found that acetylation at different α-Syn sites shows differing
+effects on the amplification of LB-α-Syn and GCI-α-Syn. Overall, acetylation reduced the
+amplification of different α-Syn strains, suggesting that increasing the acetylation level on
+α-Syn could be beneficial for different α-Synucleinopathy patients. Previous studies have
+suggested that glycation promotes the aggregation of α-Syn29. We have identified multiple
+glycation sites on soluble α-Syn purified from diseased brains. It would be interesting
+to follow up on these glycation sites and study their role in the regulation of α-Syn
+transmission. O-GlcNAc on α-Syn has been reported to block α-Syn aggregation15,30. We
+have identified two O-GlcNAc sites on soluble α-Syn29. α-Syn arginylation has also been
+shown to block the aggregation of α-Syn25,31,32. We identified one arginylation site in
+soluble α-Syn from diseased brains. Methylation and dimethylation of α-Syn have not been
+studied before. However, we identified multiple new methylation and demethylation sites in
+soluble α-Syn, which could be an attractive new area to study.
+In summary, our study illustrates a previously unknown regulatory role of soluble α-Syn
+on the transmission of pathological α-Syn. Given the high complexity of PTMs on soluble
+α-Syn and the complicated interaction between soluble α-Syn PTMs with pathological
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 11
+α-Syn, this regulatory role of PTMs on soluble α-Syn could contribute substantially to
+the clinical and pathological landscape of diverse α-Synucleinopathies. Looking into the
+future, this effect of soluble α-Syn PTMs on pathological α-Syn spreading is worth further
+verification in animal models and also in patients. Notably, this idea of a regulatory role
+for soluble proteins could be easily expanded to other neurodegenerative diseases, such as
+tauopathies, because numerous PTMs have been identified on soluble tau33 and various tau
+strains have been reported34.
+Methods
+Statistics and reproducibility
+The Investigators were blinded to the conditions of the experiments during data collection
+and quantification. No statistical methods were used to predetermine sample sizes but our
+sample sizes are similar to those reported in previous publications23. The normality and
+equal variances were formally tested for statistical analysis. Image Studio was used to
+collect the WB data. Accompanying software for IN Cell Analyzer 2200 was used to image
+the stained cells. Accompanying software for Molecular Devices Spectramax M5 plate
+reader was used to read the ELISA plates. Excel (Office 2019) was used to analyze the
+ELISA results. Cultured cells were equally assigned to each treatment group. Cell culture
+wells with server unexpected cell death (> 50% cell death compared with other groups) have
+been excluded from the analysis.
+All statistical tests were two-tailed, and significance was assigned at P < 0.05. Normality
+was assessed by Shapiro–Wilk test. Equal variances between group samples were assessed
+by Brown–Forsythe test. One sample t-test (for normally distributed data) or one sample
+Wilcoxon test (for non-normally distributed data) was used for comparing the difference
+between variant groups and the WT group. Because they led to multiple comparisons, the
+false discovery rate (FDR) method was used for correcting the P values. Unpaired or paired
+t-test were used for comparing the differences between two groups, while Welch’s correction
+was necessary if the variances had a significant difference. One-way ANOVA with Tukey’s
+multiple comparison test was used for comparing the differences among multiple groups
+when the data followed normal distributions and no differences among the variances, while
+Kruskal–Wallis test with Dunn’s multiple comparison test was used if the data were non-
+normally distributed. All the statistics were performed in Graphpad 8.0 (GraphPad Prism,
+GraphPad Software, www.graphpad.com) and R (The R Project for Statistical Computing
+(2022), available at https://www.R-project.org/).
+Source of cell lines
+The HEK293 is purchased from ATCC (CRL-1573).
+Generation of α-Syn PFFs
+α-Syn monomers and PFFs were generated as previously described in ref. 35. Briefly, human
+WT or S87N α-Syn was expressed in BL21 (DE3) RIL cells and boiled in high-salt (HS_
+buffer; 750 mM NaCl, 10 mM Tris (pH 7.6) and 1 mM EDTA). Then, α-Syn monomers
+were purified using Superdex 200 column (GE Healthcare Life Sciences) and a Hi-Trap
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 12
+Q HP anion-exchange column (GE Healthcare Life Sciences) sequentially. Fibrillization
+was conducted in sterile Dulbecco’s PBS (Cellgro, Mediatech; pH adjusted to 7.0) at the
+concentration of 5 mg ml−1 of recombinant α-Syn by incubating at 37 °C with constant
+shaking at 1,000 rpm for 7 d. The fibrils are stored at −80 °C until use.
+Preparation of α-Syn from human brains
+Preparation of pathological α-Syn was performed as previously described in ref. 23. Briefly,
+frozen brain tissues were homogenized in HS buffer (50 mM Tris–HCl pH 7.4, 750 mM
+NaCl, 10 mM NaF and 5 mM EDTA) with protease and protein phosphatase inhibitors,
+incubated on ice for 20 min, and centrifuged at 100,000 g for 30 min. The supernatant was
+collected as HS fraction. The pellets were extracted one more time with HS buffer, followed
+by sequential extractions with 1% Triton X-100-containing HS buffer and centrifugation at
+100,000 g for 30 min. The supernatant was collected as Tx fraction. HS and Tx fractions
+were combined together as the soluble α-Syn fraction. The pellets were re-extracted with
+1% Triton X-100-containing HS buffer with 30% sucrose and 1% sarkosyl-containing HS
+buffer. The resulting sarkosyl-insoluble pellets were resuspended in Dulbecco’s PBS by
+brief sonication (QSonica Microson XL-2000; 20 pulses; setting 2; 0.5 s per pulse). The
+amount of α-Syn in each fraction was determined by sandwich ELISAs.
+IP
+For the identification of PTMs, soluble α-Syn was further purified by IP as previously
+described in ref. 23. Briefly, control mouse IgG (Sigma) or Syn9027, an in-house-generated
+antibody against α-Syn (epitope, aa130–140), were coupled to Dynabeads (Invitrogen)
+following the manufacturer’s instructions. Soluble α-Syn from diseased or control brains
+was incubated with control IgG-coupled beads in Dulbecco’s PBS and rotated at 4 °C
+overnight. The resulting supernatant was then incubated with Syn9027-coupled beads in a
+rotator at 4 °C overnight to capture α-Syn. The following day, the Syn9027 beads were
+washed three times with Dulbecco’s PBS and boiled in sampling buffer and the eluted
+samples were stored at −80 °C until use. The single band of α-Syn monomer or the whole
+lane of IP eluted proteins was used for LC–MS/MS analysis.
+Cell cultures and transduction
+All housing and experimental procedures of mice and rats were performed according to the
+NIH Guide for the Care and Use of Experimental Animals and approved by the University
+of Pennsylvania Institutional Animal Care and Use Committee (IACUC) and the UCLA
+IACUC. All animals were housed in IACUC-certified animal quarters that maintain a 12 h
+light/12 h dark cycle at 18–23 °C with 40–60% humidity and food is available ad libitum.
+Primary mouse and rat neurons were prepared as previously described in ref. 35. Misfolded
+α-Syn proteins were diluted in Dulbecco’s PBS (without Mg2+ or Ca2+) and sonicated using
+QSonica Microson XL-2000 for 60 pulses. At 10 d in vitro, primary mouse neurons were
+treated with PBS or sonicated misfolded α-Syn and stained at 14 d post-transduction. Rat
+neurons were infected with AAV expressing WT or S87E variant α-Syn at 2 d in vitro and
+transduced with misfolded α-Syn at 9 d in vitro and stained at 14 d post transduction. The
+transfection and transduction of HEK293 cells were performed as previously described in
+ref. 36.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 13
+To passage PFFs in HEK293 cells, 106 HEK293 cells were plated in a 6 cm dish, transfected
+to express variant α-Syn 1 d later and then transduced with PFFs or GCI-α-Syn 2 d later.
+Cells were collected at 3 d post-transduction with the same protocol as described for the
+human brain, except that 1% Triton-containing HS buffer was used in the initial extraction.
+Mass spectrometry analysis
+Peptides were analyzed on a QExactive HF or OrbitrapElite mass spectrometer (Thermo
+Fisher Scientific) coupled with an Ultimate 3000 nano UPLC system and Easy-Spray
+source or an Eksigent nanoLC Ultra (Sciex) and nanospray Flex ion source. Peptides were
+separated by reverse phase (RP)-HPLC on Easy-Spray RSLC C18 2 μm 75 μm id × 50 cm
+column at 50 C or 75 μm id × 15 cm Reprosil-pur 3 μm, 120 Å (Maisch) in a Nanoflex
+chip system (Sciex). Data were collected using data-dependent acquisition (DDA), parallel
+reaction monitoring (PRM) or a mixed DDA/PRM mode. In several LC–MS/MS analyses, to
+enhance sensitivity for low abundant peptides, the m/z and retention time (RT) for precursor
+ions of all identified peptides were extracted and used to construct an exclude peak list for
+the second runs.
+Database search of the LC–MS/MS results
+Peptide identification for the DDA mode was performed in MaxQuant (1.6.1.0) using
+human reference database from Uniprot (reviewed canonical and isoforms; downloaded
+on 20180104) and the search results were exported into Scaffold 4 (Proteome Software).
+Trypsin or AspN was selected as the digestion enzyme, and a maximum of three labeled
+amino acids and two missed cleavages per peptide were allowed. Fragment ion tolerance
+was set to 0.5 Da. The MS/MS tolerance was set at 20 ppm. The minimum peptide length
+was set at seven amino acids. Carbamidomethyl (+57.02146 Da) of Cys was defined as a
+fixed modification. In multiple search instances, several variable modifications including
+Ser, Thr and Tyr phosphorylation (+79.96633 Da), Glu arginylation (+156.10111 Da), O-
+GlcNAc (+203.07937 Da) of Thr, acetylation (+42.01056 Da)/ubiquitinylation (+114.04292
+Da)/methylation (+14.01565 Da)/dimethylation (+28.03130 Da)/trimethylation (+42.04695
+Da)/carboxymethylation (+58.00548 Da)/carboxyethylation (+72.02113 Da) of Lys were
+implemented in MaxQuant. The FDR for peptide identification was set at 1% in Scaffold
+4. Peptides with scores higher than 90 and location properties higher than 0.8 by Maxquant
+were chosen for manual examination. All integrated peaks were manually inspected to
+ensure correct peak detection and integration.
+Ethics approvals
+All animal breeding, housing and experimental procedures were performed according to the
+NIH Guide for the Care and Use of Experimental Animals and approved by the University
+of Pennsylvania (UPenn) and the University of California, Los Angeles, IACUC. The use of
+postmortem brain tissue in this study has been approved by the Institutional Review Boards
+(IRBs) of the University of Pennsylvania and UCLA and decided as ‘exempt’ from IRB
+review because it is postmortem tissue.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 14
+Phosphorylation of α-Syn in vitro
+WT or S87N variant α-Syn monomers were incubated with Casein Kinase I (New England
+Biolabs) at 37 °C overnight following the manual instructions. The phosphorylated α-Syn
+was analyzed by WB with antibodies against total α-Syn or S87 phosphorylated α-Syn.
+Generation of Y39 phosphorylated α-Syn
+To synthesize phosphorylated α-Syn, a two-piece native chemical ligation (NCL) was
+performed between the fragments α-Syn1-55-pY39 and α-Syn56-140. All fragments
+and intermediate products were purified by reverse-phase high-performance liquid
+chromatography (RP-HPLC) over a C4 column. α-Syn fragments were expressed from
+plasmid containing α-Syn fused to a polyhistidine-tagged GyrA intein from Mycobacterium
+xenopi. Following Ni-NTA affinity column purification, the intein of α-Syn56-140 was
+cleaved with 200 mM β-mercaptoethanol on a rotisserie overnight at room temperature
+to generate α-Syn56-140 with a C-terminal carboxylic acid. Removal of the N-terminal
+thiazolidine was carried out by reacting with 100 mM methoxyamine at pH 4 to deprotect
+the N-terminal cysteine for later use in ligation.
+To generate α-Syn1-55 with C-terminal 2-mercaptoethanesulfonate (MES) thioester,
+the α-Syn1-55-intein fusion was dialyzed to remove excess imidazole before
+transthioesterification by stirring with 200 mM sodium 2-mercaptoethanesulfonate (MESNa)
+at 4 °C overnight. The purified fragment α-Syn1-55 thioester was phosphorylated by
+redissolving in buffer (50 mM Tris, 150 mM NaCl and pH 7.4) and reacting with 0.1 equiv
+c-Abl enzyme, 2 mM Mg-ATP and 5 mM MgCl . The reaction was incubated at 30 °C water
+2
+bath for several hours.
+To carry out NCL, α-Syn56-140 was redissolved in ligation buffer (6 M GdnHCl, 200 mM
+Na
+2
+PO
+4
+, 30 mM TCEP, 50 mM MPAA and pH 7.0). The reacting partner, α-Syn1-55-pY39-
+MES thioester, was added and the reaction was incubated at 37 °C with agitation at 250
+rpm for several hours to overnight. The reaction was monitored by MALDI MS, and the
+product was reduced with 300 mM TCEP and purified by RP-HPLC. Radical desulfurization
+to regenerate the native alanine from the cysteine ligation handle was carried out using 50
+mM radical initiator VA-044 and 10% (vol/vol) t-BuSH in an argon-purged tube at 37 °C
+overnight. The full-length phosphorylated α-Syn product was then purified by RP-HPLC.
+Generation of S87 phosphorylated α-Syn
+To synthesize α-Syn pS87, a three-piece NCL was performed between the fragments
+α-Syn1-84, α-Syn85-90-pS87 and α-Syn91-140. Expression and thioesterification of α-
+Syn1-84 MES thioester were carried out as described for α-Syn1-55. Expression and
+thiazolidine deprotection of α-Syn91-140 were carried out as described for α-Syn56-140.
+The acyl hydrazide peptide α-Syn85-90-pS87 was made via solid phase peptide synthesis
+on 2-chloro-trityl resin following standard procedures. The resin was derivatized by
+coupling Fmoc-hydrazine, and extra sites were capped with methanol. For amino acid
+coupling, five equiv Fmoc-protected amino acid was activated with 4.9 equiv HBTU,
+4.9 equiv HOBt, and ten equiv DIPEA and added to the deprotected peptidyl resin with
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 15
+stirring for 30 min. Fmoc deprotection was done by stirring for 20 min with 20% (vol/
+vol) piperidine in dimethylformamide (DMF). Washes with DMF and dichloromethane
+(DCM) were performed between each coupling and deprotection. α-Syn85-90-pS87 was
+synthesized with pS at position 87 and a cysteine ligation handle at position 85. Coupling
+of (Fmoc-Ser(PO(OBzl)OH)-OH) was achieved by a single coupling overnight. Completion
+of couplings was monitored by Kaiser test. Peptide cleavage from the resin was performed
+by adding a few milliliters of cleavage cocktail (95% trifluoroacetic acid (TFA), 2.5%
+tri-isopropylsilane (TIPS) and 2.5% H O) and agitating for 1.5 h at room temperature. The
+2
+peptide product was obtained in a 92.2% isolated yield.
+To carry out NCL, α-Syn1-84-MES thioester was redissolved to a final concentration of
+2 mM in ligation buffer (6 M GdnHCl, 200 mM NaH PO , 50 mM TCEP, 100 mM
+2 4
+MPAA, pH 7.0) along with three equiv α-Syn85-90-pS87 acyl hydrazide. The reaction was
+incubated at 37 °C with agitation at 500 rpm for 1 h. Peptide bond formation between Gly84
+thioester and Cys85 proceeded to completion within a few minutes, and the product was
+isolated in an 86.5% yield. The intermediate α-Syn1-90-pS87 acyl hydrazide was converted
+to a stable MES thioester for a methyl thioglycolate (MTG)-mediated second NCL and in
+situ desulfurization, following the strategy described in previous publication1. α-Syn1-pS87
+acyl hydrazide was redissolved in low pH NCL buffer (6 M GdnHCl, 200 mM NaH PO
+2 4
+and pH 3.0) to a final concentration of 1 mM and chilled to −15 °C in an ice-salt bath.
+Hydrazide to azide conversion was carried out using ten equiv NaNO and agitating by
+2
+magnetic stirring for 15 min. The sample was supplemented with 100 equiv MESNa as a
+neutral buffered solution, and the mixture was allowed to warm to room temperature and
+adjusted to pH 7.0. The product was supplemented with TCEP to a final concentration of
+~40 mM before purification by RP-HPLC using a C4 column.
+To carry out the second NCL, α-Syn1-pS87 MES thioester was dissolved together with three
+equiv ligation partner α-Syn91-140 in NCL buffer pH 7 to a final concentration of 1.5 mM.
+A hundred equiv MTG was added from a stock dilution in NCL buffer pH 7.0. The reaction
+was supplemented with TCEP to a final concentration of 40 mM, adjusted to pH 7.0 and
+incubated at 37 °C with agitation at 500 rpm for 4h. To regenerate the native Ala85 and
+Ala91 from the cysteine ligation handles, radical desulfurization was carried out without
+intermediary purification. The NCL reaction mixture was diluted with buffer pH 7.0 so that
+the final protein concentration was 0.4 mM. The mixture was incubated with 20 mM radical
+initiator VA-044, 10% (vol/vol) t-BuSH, and 250 mM TCEP in an argon-purged tube at 37
+°C overnight and purified by RP-HPLC. Overall steps, α-Syn pS87 was obtained in 61.6%
+isolated yield.
+Each reaction was monitored by MALDI MS and by analytical HPLC on a 1260 Infinity
+Series HPLC using a Jupiter C4 column (Agilent Technologies). All fragments and
+intermediate products were purified over a C4 column on a Varian preparative HPLC
+equipped with a fraction collector and diode array detector (Agilent Technologies). Water
++ 0.1% TFA (solvent A) and acetonitrile + 0.1% TFA (solvent B) were used as the mobile
+phase in HPLC.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 16
+In vitro seeding assay
+Pathological α-Syn (LB-α-Syn, GCI-α-Syn or PFF) was mixed with phosphorylated α-Syn
+monomers at the following concentration: 10 ng μl −1 pathological α-Syn + 95 ng μl −1 pY39
+α-Syn monomer + 95 ng μl −1 pS87 α-Syn monomer. PFFs were mixed with insoluble
+proteins from normal brains to mimic the contaminating proteins in LB-α-Syn and GCI-α-
+Syn. The pathological α-Syn was sonicated for 30 cycles using the Bioruptor Plus sonicator
+from Diagenode (30 s on and 30 s off in each cycle at high power) before mixing with the
+monomers. The total volume for each reaction was 50 μl. The mixture was shaken at 37 °C
+for 4 weeks at 1,000 rpm for fibrilization.
+Immunocytochemistry
+Cells were fixed with 4% PFA containing 1% Triton X-100 for 15 min to remove soluble
+proteins. Fixed coverslips or plates were blocked with 3% BSA and 3% FBS for 1 h at
+room temperature and incubated with specific primary antibodies at 4 °C overnight followed
+by staining with secondary antibodies and DAPI for 2 h at room temperature. The stained
+cells in plates were scanned with an IN Cell Analyzer 2200. The stained coverslips were
+scanned into digital format with a Lamina scanner (Perkin Elmer). Digitalized plates and
+coverslips were then used for quantification. For HDTA extraction, cells were extracted with
+1% HDTA for 15 min and then fixed in 4% PFA for 15 min before staining.
+Sandwich ELISA
+α-Syn ELISA has been performed as previously described in ref. 2. Syn9027 or HuA have
+been used as capture antibodies and MJF-R1, HuA or Syn211 were used as the reporter
+antibodies. Finally, plates were read at 450 nm on a Molecular Devices Spectramax M5 plate
+reader.
+In solution digestion for mass spectrometry
+Samples were precipitated by the addition of acetone/trichloroacetic acid (8 volumes per
+1 volume). The resulting pellet was solubilized and digested with the iST kit (PreOmics
+GmbH) per manufacturer protocol3. Briefly, the resulting pellet was solubilized, reduced
+and alkylated by addition of sodium deoxycholate buffer containing Tris 2-carboxyethyl
+phosphine hydrochloride (TCEP) and 2-chloroacetamide and heated to 95 °C for 10 min.
+Proteins were enzymatically hydrolyzed for 1.5 h at 37 °C by addition of AspN (Sigma) or
+trypsin (Promega). The resulting peptides were desalted, dried by vacuum centrifugation and
+reconstituted in 0.1% TFA (J.T. Baker) containing iRT peptides (Biognosys).
+In gel digestion for mass spectrometry
+Samples were run into a 10% Bis-Tris 1.0 gel (Invitrogen) and stained with colloidal
+Coomassie. Samples were excised and cut into 1 mm3 cubes44, destained with 50%
+methanol per 1.25% acetic acid, reduced with 5 mM DTT (Dithiothreitol) (Thermo) and
+alkylated with 20 mM iodoacetamide (Sigma). Gel pieces were then washed with 20
+mM ammonium bicarbonate (Sigma) and dehydrated with acetonitrile (Fisher). Trypsin
+(Promega) or AspN (Sigma) (5 ng ml−1 in 20 mM ammonium bicarbonate) was added to
+the gel pieces and proteolysis was allowed to proceed overnight at 37 °C. Proteolysis was
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 17
+stopped by the addition of 0.3% TFA. The supernatant was removed and placed in a 0.5 ml
+tube. Peptides were extracted with 50% acetonitrile. Extracts were combined and the volume
+was reduced by vacuum centrifugation. Samples were subjected to stage tip cleanup5, dried
+by vacuum centrifugation and reconstituted in 0.1% TFA.
+IMAC for phosphopeptide enrichment
+Peptides from each sample were freeze-dried and dissolved in 75% acetonitrile per 0.1%
+TFA. The metal affinity chromatography (IMAC) beads (PHOS-select iron affinity beads;
+Sigma, P9740-5ML) were washed two times 500 μl with buffer W/E (30% acetonitrile per
+250 mM acetic acid) at 8,000 rcf for 1 min6. Peptide mixtures were incubated with 10 μl
+of 25% IMAC beads for 1 h at 1,000 rpm at RT. The enriched phosphopeptides on the
+IMAC beads were loaded onto a prewashed 96-well glass fiber filter plate (Phenomenex,
+AF0-8265). The flow-through of the unbound IMAC peptides was kept for acetylated
+peptide enrichment. The IMAC beads were washed sequentially under vacuum with two
+times 400 μl W/E buffer; 80% acetonitrile per 0.1% TFA; and 30% acetonitrile/water.
+Phosphorylated peptides were eluted two times 400 μl with elution buffer (400 mM
+ammonium hydroxide per 30% acetonitrile) after 1 min incubation each. The eluted peptides
+were collected with a new LoBind Plate 96-well collection plate (Eppendorf, 0030 504.305).
+Immunoaffinity enrichment for acetylated peptides
+To enrich acetylated peptides from the unbound IMAC peptides, the unbound peptides were
+lyophilized and dissolved in IAP buffer (50 mM MOPS, 50 mM NaCl, 10 mM Na2HPO4,
+pH ~7.2) according to the manufacturer’s instruction. The PTMScan Acetyl-Lysine Motif
+(Ac-K) Immunoaffinity Beads were purchased from Cell Signaling (Prod, 13416). The beads
+were washed three times with 1 ml IAP, ~5 μl 100% beads were used for each sample for
+the immunoaffinity enrichment7 under end-end mixing for 1 h at 4 °C. The beads were
+then washed with two times 1 ml IAP, 1× IAP plus 0.05% RapiGest SF (Waters) surfactant,
+followed by three times 1 ml PBS washes; the lysine-acetylated peptides were eluted with
+two times 40 μl 0.15% TFA. The eluted acetylated peptides were desalted via Oasis HLB
+μElution plate 30 μM (Waters). The enriched peptides from both IMAC and acetylated
+immunoaffinity were dried via speedvac for overnight, and they were dissolved in 0.1%
+TFA/water including iRT peptides. Both eluates were combined to a final volume of 8 μl for
+LC–MS analysis.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements
+We thank Quantitative Proteomics Resource Core of School of Medicine at the University of Pennsylvania and
+Proteomics Core at Children’s Hospital of Philadelphia (CHOP) for performing the LC–MS/MS analysis. We
+thank S. Seeholzer, L. Spruce, H. Ding, H. Fazelinia and H. Lee (from CHOP) for helping with LC–MS/MS
+experiments. We thank D. Riddle for providing primary neurons, L. Romero for helping with quantification and all
+the other members of the Center for Neurodegenerative Disease Research for their support. We thank Lucy Ruoxi
+Shi for helping with the cartoon illustration of this work. This work was supported by NIH/NINDS Udall Center
+under grant NS53488 (to V.M.-Y.L.), NIA under grant U19 AG062418 (Center on Alpha-Synuclein Strains in
+Alzheimer’s Disease and Related Dementias) (to V.M.-Y.L.), NIH/NINDS R01-NS103873 to E.J.P. (to V.M.-Y.L.),
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 18
+NIH/NINDS R01-NS128964 (to C.P.), CurePSP grant 672-2020-12 (to C.P.), the Ofer Nimerovsky Family Fund
+(to V.M.-Y.L.), the Jeff and Anne Keefer Fund (to V.M.-Y.L.) and the MSA Coalition Seed Grant (to C.P. and
+V.M.-Y.L.). The funders had no role in study design, data collection and analysis, decision to publish or preparation
+of the manuscript.
+Data availability
+Peptide identification was performed in MaxQuant (1.6.1.0) using human reference database
+from Uniprot (reviewed canonical and isoforms; downloaded on 1 January 2018) and the
+search results were exported into Scaffold 4 (Proteome Software). The mass spectrometry
+proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE37
+partner repository with the dataset identifier PXD037994. Figure 3 and Supplementary
+Tables 4-8 are associated with LC–MS/MS data. Source data are provided with this paper.
+References
+1. Lippa CF et al. Lewy bodies contain altered α-synuclein in brains of many familial Alzheimer’s
+disease patients with mutations in presenilin and amyloid precursor protein genes. Am. J. Pathol
+153, 1365–1370 (1998). [PubMed: 9811326]
+2. Spillantini MG et al. α-Synuclein in Lewy bodies. Nature 388, 839–840 (1997). [PubMed: 9278044]
+3. Tu PH et al. Glial cytoplasmic inclusions in white matter oligodendrocytes of multiple system
+atrophy brains contain insoluble α-synuclein. Ann. Neurol 44, 415–422 (1998). [PubMed: 9749615]
+4. Luk KC et al. Pathological α-synuclein transmission initiates Parkinson-like neurodegeneration in
+nontransgenic mice. Science 338, 949–953 (2012). [PubMed: 23161999]
+5. Kordower JH, Chu Y, Hauser RA, Freeman TB & Olanow CW Lewy body-like pathology in
+long-term embryonic nigral transplants in Parkinson’s disease. Nat. Med 14, 504–506 (2008).
+[PubMed: 18391962]
+6. Li JY et al. Lewy bodies in grafted neurons in subjects with Parkinson’s disease suggest host-to-
+graft disease propagation. Nat. Med 14, 501–503 (2008). [PubMed: 18391963]
+7. Braak H & Tredici KD Neuroanatomy and pathology of sporadic Parkinson’s disease. Adv. Anat.
+Embryol. Cell Biol 201, 1–119 (2009). [PubMed: 19230552]
+8. Jucker M & Walker LC Propagation and spread of pathogenic protein assemblies in
+neurodegenerative diseases. Nat. Neurosci 21, 1341–1349 (2018). [PubMed: 30258241]
+9. Guo JL & Lee VM Cell-to-cell transmission of pathogenic proteins in neurodegenerative diseases.
+Nat. Med 20, 130–138 (2014). [PubMed: 24504409]
+10. Barrett PJ & Timothy Greenamyre J Post-translational modification of α-synuclein in Parkinson’s
+disease. Brain Res. 1628, 247–253 (2015). [PubMed: 26080075]
+11. Schmid AW, Fauvet B, Moniatte M & Lashuel HA α-Synuclein post-translational modifications
+as potential biomarkers for Parkinson disease and other synucleinopathies. Mol. Cell. Proteom 12,
+3543–3558 (2013).
+12. Burai R, Ait-Bouziad N, Chiki A & Lashuel HA Elucidating the role of site-specific nitration of
+α-synuclein in the pathogenesis of Parkinson’s disease via protein semisynthesis and mutagenesis.
+J. Am. Chem. Soc 137, 5041–5052 (2015). [PubMed: 25768729]
+13. Dikiy I et al. Semisynthetic and in vitro phosphorylation of α-synuclein at Y39 promotes
+functional partly helical membrane-bound states resembling those induced by PD mutations. ACS
+Chem. Biol 11, 2428–2437 (2016). [PubMed: 27356045]
+14. Hejjaoui M et al. Elucidating the role of C-terminal post-translational modifications using protein
+semisynthesis strategies: α-synuclein phosphorylation at tyrosine 125. J. Am. Chem. Soc 134,
+5196–5210 (2012). [PubMed: 22339654]
+15. Levine PM et al. α-Synuclein O-GlcNAcylation alters aggregation and toxicity, revealing certain
+residues as potential inhibitors of Parkinson’s disease. Proc. Natl Acad. Sci. USA 116, 1511–1519
+(2019). [PubMed: 30651314]
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 19
+16. Mahul-Mellier AL et al. c-Abl phosphorylates α-synuclein and regulates its degradation:
+implication for α-synuclein clearance and contribution to the pathogenesis of Parkinson’s disease.
+Hum. Mol. Genet 23, 2858–2879 (2014). [PubMed: 24412932]
+17. Oueslati A, Schneider BL, Aebischer P & Lashuel HA Polo-like kinase 2 regulates selective
+autophagic α-synuclein clearance and suppresses its toxicity in vivo. Proc. Natl Acad. Sci. USA
+110, E3945–E3954 (2013). [PubMed: 23983262]
+18. Paleologou KE et al. Phosphorylation at S87 is enhanced in synucleinopathies, inhibits α-synuclein
+oligomerization, and influences synuclein-membrane interactions. J. Neurosci 30, 3184–3198
+(2010). [PubMed: 20203178]
+19. Negro A, Brunati AM, Donella-Deana A, Massimino ML & Pinna LA Multiple phosphorylation
+of α-synuclein by protein tyrosine kinase Syk prevents eosin-induced aggregation. FASEB J. 16,
+210–212 (2002). [PubMed: 11744621]
+20. Chen L et al. Tyrosine and serine phosphorylation of α-synuclein have opposing effects on
+neurotoxicity and soluble oligomer formation. J. Clin. Investig 119, 3257–3265 (2009). [PubMed:
+19855133]
+21. Marotta NP et al. α-Synuclein from patient Lewy bodies exhibits distinct pathological activity that
+can be propagated in vitro. Acta Neuropathol. Commun 9, 188 (2021). [PubMed: 34819159]
+22. Schweighauser M et al. Structures of α-synuclein filaments from multiple system atrophy. Nature
+585, 464–469 (2020). [PubMed: 32461689]
+23. Peng C et al. Cellular milieu imparts distinct pathological α-synuclein strains in α-
+synucleinopathies. Nature 557, 558–563 (2018). [PubMed: 29743672]
+24. Pan B, Rhoades E & Petersson EJ Chemoenzymatic semisynthesis of phosphorylated α-synuclein
+enables identification of a bidirectional effect on fibril formation. ACS Chem. Biol 15, 640–645
+(2020). [PubMed: 32065743]
+25. Pan B et al. Effects of glutamate arginylation on α-synuclein: studying an unusual post-
+translational modification through semisynthesis. J. Am. Chem. Soc 142, 21786–21798 (2020).
+[PubMed: 33337869]
+26. Oueslati A, Paleologou KE, Schneider BL, Aebischer P & Lashuel HA Mimicking
+phosphorylation at serine 87 inhibits the aggregation of human α-synuclein and protects against
+its toxicity in a rat model of Parkinson’s disease. J. Neurosci 32, 1536–1544 (2012). [PubMed:
+22302797]
+27. Brahmachari S et al. Activation of tyrosine kinase c-Abl contributes to α-synuclein-induced
+neurodegeneration. J. Clin. Investig 126, 2970–2988 (2016). [PubMed: 27348587]
+28. de Oliveira RM et al. The mechanism of sirtuin 2-mediated exacerbation of α-synuclein toxicity in
+models of Parkinson’s disease. PLoS Biol. 15, e2000374 (2017). [PubMed: 28257421]
+29. Vicente Miranda H et al. Glycation potentiates α-synuclein-associated neurodegeneration in
+synucleinopathies. Brain 140, 1399–1419 (2017). [PubMed: 28398476]
+30. Marotta NP et al. O-GlcNAc modification blocks the aggregation and toxicity of the protein
+α-synuclein associated with Parkinson’s disease. Nat. Chem 7, 913–920 (2015). [PubMed:
+26492012]
+31. Wang J et al. Protein arginylation targets α-synuclein, facilitates normal brain health and prevents
+neurodegeneration. Sci. Rep 7, 11323 (2017). [PubMed: 28900170]
+32. Zhao J et al. α-Synuclein arginylation in the human brain. Transl. Neurodegener 11, 20 (2022).
+[PubMed: 35395956]
+33. Morris M et al. Tau post-translational modifications in wild-type and human amyloid precursor
+protein transgenic mice. Nat. Neurosci 18, 1183–1189 (2015). [PubMed: 26192747]
+34. Narasimhan S et al. Pathological tau strains from human brains recapitulate the diversity of
+tauopathies in nontransgenic mouse brain. J. Neurosci 37, 11406–11423 (2017). [PubMed:
+29054878]
+35. Volpicelli-Daley LA et al. Exogenous α-synuclein fibrils induce Lewy body pathology leading to
+synaptic dysfunction and neuron death. Neuron 72, 57–71 (2011). [PubMed: 21982369]
+36. Luk KC et al. Exogenous α-synuclein fibrils seed the formation of Lewy body-like intracellular
+inclusions in cultured cells. Proc. Natl Acad. Sci. USA 106, 20051–20056 (2009). [PubMed:
+19892735]
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 20
+37. Perez-Riverol Y et al. The PRIDE database resources in 2022: a hub for mass spectrometry-based
+proteomics evidence. Nucleic Acids Res. 50, D543–D552 (2022). [PubMed: 34723319]
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 21
+Fig. 1 ∣. Soluble α-Syn phosphorylation modulates pathological α-Syn amplification.
+a, Schematic representation of experiment design. b, α-Syn variants show similar expression
+levels. (Repeated three times.) c, Densitometric quantification of α-Syn variants for
+experiments in b. (n = 3 different samples. Y39E, P = 0.9763; S87E, P = 0.724; Y125E, P
+= 0.0512 and Y133E, P = 0.724). d, Cells expressing α-Syn variants were transduced with
+α-Syn PFFs (40 ng per well). The induced α-Syn pathologies were stained with anti-pS129
+α-Syn antibody (81A). (Repeated > 5 times.) e, Quantification of α-Syn pathology for
+experiments in d. (WT, n = 10; Y39E, S87E and Y133E, n = 8; Y125E, n = 7 and PBS,
+n = 4. Three different batches of PFF were tested. Y39E, P = 0.5633; S87E, P = 0.052;
+Y125E, P = 0.0883; Y133E, P = 0.120 and PBS, P < 0.0001). f, Cells expressing α-Syn
+variants were transduced with LB-α-Syn (4 ng per well) and stained with 81A. (Repeated >
+7 times.) g, Quantification of α-Syn pathology for experiments in f. (PBS, n = 7; WT, n =
+33; Y39E, n = 27; S87E, n = 30; Y125E, n = 25 and Y133E, n = 26. LB-α-Syn from eight
+cases were tested. Y39E, P < 0.0001; S87E, P = 0.0018; Y125E, P = 0.0018; Y133E, P =
+0.0015 and PBS, P < 0.0001). h, Cells expressing α-Syn variants were transduced with low
+amount of α-Syn PFFs (4 ng per well) and the induced α-Syn pathology are quantified. (n
+= 3 different PFFs. Y39E, P = 0.0105; S87E, P = 0.0034; Y125E, P = 0.0313 and Y133E,
+P = 0.0034). i, Cells expressing α-Syn variants were transduced with GCI-α-Syn (40 pg per
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 22
+well) and stained with 81A. (Repeated > 7 times.) j, Quantification of α-Syn pathology for
+experiments in i. (WT, n = 14; Y39E and Y133E, n = 10; S87E and Y125E, n = 11 and
+PBS, n = 7. GCI-α-Syn from six cases was tested. Y39E, P = 0.0092; S87E, P < 0.0001;
+Y125E, P = 0.2446; Y133E, P = 0.0113 and PBS, P < 0.0001). k, Combining the data in
+e, g and j. (The n are the same as in e, g and j. Y39E LB versus PFF, P < 0.0001; Y39E
+LB versus GCI, P = 0.0359; S87E LB versus PFF, P = 0.0368; S87E LB versus GCI, P
+< 0.0001; Y125E LB versus GCI, P = 0.0297 and Y133E LB versus PFF, P = 0.0300).
+Results are shown as mean ± s.e.m. Statistics in c, e, g, h and j are one sample t-test (for
+normally distributed data) or one sample Wilcoxon test (for non-normally distributed data)
+against one. Statistics in k are one-way ANOVA with Tukey’s multiple comparison test (for
+normally distributed data) or Kruskal–Wallis test with Dunn’s multiple comparison test (for
+non-normally distributed data) in each variant group. The P values in c, e, g, h and j are FDR
+corrected. *P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001; NS, not significant. Scale
+bar, 100 μm.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 23
+Fig. 2 ∣. Soluble α-Syn phosphorylation modulates GCI-α-Syn and LB-α-Syn amplification.
+a, Schematic diagram showing the seeding assay. Equal amounts of pY39 and pS87 α-Syn
+monomer mixture were seeded with PFF, LB-α-Syn or GCI-α-Syn. After fibrilization, the
+amount of pS87 and pY39 α-Syn in the fibril fraction were analyzed by sedimentation
+assay and WB, to evaluate which monomer is more easily seeded by pathological α-Syn.
+b–d, Representative WB results with antibodies against pY39 or pS87 α-Syn for experiment
+in a. P, pellet; s, supernatant in the sedimentation assay. (Repeated nine times for b and
+c, ten times for d.) e–g, Quantification results for experiments in b–d. e, PFF seed pY39
+or pS87 α-Syn monomer equally (n = 9 different samples, P = 0.9414). f, LB-α-Syn
+preferentially seeds pS87 over pY39 α-Syn (n = 9 different samples, P = 0.0176). g, GCI-α-
+Syn preferentially seeds pY39 over pS87 α-Syn (n = 10 different samples, P = 0.0195).
+h, WT α-Syn was expressed in cells with or without c-Abl. pY39 α-Syn, total α-Syn and
+glyceraldehyde 3-phosphate dehydrogenase (GAPDH) were evaluated by WB (repeated > 5
+times). i, Densitometric quantification of pY39 α-Syn versus total α-Syn for experiments
+in h (n = 7 different samples, P = 0.0038). j, Densitometric quantification of total α-Syn
+versus GAPDH for experiments in h. (n = 5 different samples, P = 0.2366). k,l, α-Syn was
+expressed in cells with or without c-Abl and seeded by PFF. The cells were stained with
+anti-pS129 α-Syn to evaluate α-Syn pathology (k) or extracted with 1%HDTA and stained
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 24
+with anti total α-Syn to evaluate insoluble α-Syn (l). (n = 6, three different PFF were tested;
+k, P = 0.4552; l, P = 0.1891). m,n, Similar to k and l, but seeded with LB-α-Syn. (n = 5,
+LB-α-Syn from three cases were tested; m, P = 0.0034; n, P = 0.0275). o,p, Similar to k and
+l, but seeded with GCI-α-Syn (n = 6 for o, n = 5 for p, GCI-α-Syn from three cases were
+tested; o, P = 0.0193; p, P = 0.0096). Results are shown as mean ± s.e.m. Statistics in e, f
+and g are two-tailed Wilcoxon matched-pairs signed rank test t-test. Statistics in i–p are one
+sample t-test against 1. *P < 0.05; **P < 0.01; ***P < 0.001; NS, not significant.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 25
+Fig. 3 ∣. Systematically identify PTMs on soluble α-Syn from different α-synucleinopathies.
+a, Schematic diagram showing the purification of soluble α-Syn from disease brains. b, IP-
+purified soluble α-Syn from various α-synucleinopathy and control brains and recombinant
+α-Syn monomers were resolved on 12% Bis-Tris gel and stained with Coomassie Blue.
+(Repeated three times.) c, Summary of PTMs identified on soluble α-Syn purified from
+different α-synucleinopathy and control brains. WM, white matter.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 26
+Fig. 4 ∣. Soluble α-Syn acetylation modulates pathological α-Syn amplification.
+a, Acetylation mimetic α-Syn variants showed similar expression levels in cells. (Repeated
+five times.) b, Densitometric quantification of α-Syn for experiment in a. (n = 4 for K96Q, n
+= 5 for the other groups; K6Q, P = 0.0544; K21Q, P = 0.268; K34Q, P = 0.658; K43Q, P =
+0.772; K45Q, P = 0.539; K60Q, P = 0.088; K96Q, P = 0.0544; K102Q, P = 0.0776.) c, Cells
+expressing α-Syn variants were transduced with α-Syn PFFs (40 ng per well) and stained
+with anti-pS129 α-Syn (81A). (Repeated > 7 times.) d, Quantification of α-Syn pathology
+for c. (PBS, n = 7; WT, n = 21; K21Q, K43Q, K60Q, K96Q and K102Q, n = 18; K34Q and
+K45Q, n = 17. Four different PFF were tested. K21Q, P = 0.0029; K34Q, P = 0.1768; K43Q,
+P = 0.0012; K45Q, P = 0.543; K60Q, P = 0.2264; K96Q, P = 0.6397; K102Q, P = 0.543;
+PBS, P < 0.0001). e, Cells expressing α-Syn variants were transduced with LB-α-Syn (4 ng
+per well) and stained with 81A. (Repeated > 7 times.) f, Quantification of α-Syn pathology
+for e (PBS, n = 7; WT, n = 25; K21Q, K43Q and K96Q, n = 19; K34Q and K45Q, n =
+17; K60Q and K102Q, n = 20. LB-α-Syn from eight cases were tested. K21Q, P < 0.0001;
+K34Q, P = 0.0539; K43Q, P < 0.0001; K45Q, P < 0.0001; K60Q, P = 0.0002; K96Q, P
+= 0.0783; K102Q, P = 0.7282; PBS, P < 0.0001). g, Cells expressing α-Syn variants were
+transduced with GCI-α-Syn (40 pg per well) and stained with 81A. (Repeated > 7 times).
+h, Quantification of α-Syn pathology for g. (PBS, n = 6; WT, n = 18; K21Q, K34Q, K43Q,
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 27
+K45Q and K96Q, n = 13; K60Q and K102Q, n = 15. GCI-α-Syn from six cases were tested.
+K21Q, P = 0.0114; K34Q, P = 0.103; K43Q, P = 0.002; K45Q, P = 0.0112; K60Q, P =
+0.0245; K96Q, P = 0.6425; K102Q, P = 0.362; PBS, P < 0.0001). i, Combining the data
+in d, f and h. (The n is the same as d, f and h. K21Q PFF versus LB, P = 0.0184; K21Q
+LB versus GCI, P = 0.0385; K34Q PFF versus LB, P = 0.0234; K34Q LB versus GCI, P
+= 0.0174; K43Q PFF versus GCI, P = 0.0130; K45Q PFF versus LB, P = 0.0248; K45Q
+PFF versus GCI, P = 0.0379; K60Q PFF versus LB, P = 0.0088; K60Q LB versus GCI, P <
+0.0001) Results shown as mean ± s.e.m. N represents biological replicates. Statistics in b, d,
+f and h are one sample t-test (for normally distributed data) or one sample Wilcoxon test (for
+non-normally distributed data) against one. Statistics in i are one-way ANOVA with Tukey’s
+multiple comparison test (for normally distributed data) or Kruskal–Wallis test with Dunn’s
+multiple comparison test (for non-normally distributed data) in each variant group. The P
+values in b, d, f and h are FDR corrected. *P < 0.05; **P < 0.01; ***P < 0.001; ****P <
+0.0001; NS, not significant. Scale bar, 100 μm.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 28
+Fig. 5 ∣. The effect of soluble α-Syn PTMs on pathological α-Syn transmission is conformation
+dependent.
+a, Schematic representation showing the passaging of GCI-α-Syn in primary neurons. b,
+HEK293 cells expressing phosphorylation mimetic α-Syn variants were transduced with
+GCI-α-Syn that was passaged in primary neurons (GCI-N) (40 pg per well) and stained
+with anti-pS129 α-Syn antibody (81A). (Repeated seven times.) c, Quantification of α-Syn
+pathology (pSyn normalized with total DAPI counts) for experiments in b. (n = 11 for WT
+and Y39E, n = 8 for S87E, Y125E and Y133E. Seven different GCI-N were tested. Y39E,
+P = 0.0079; S87E, P = 0.00011; Y125E, P = 0.8138; Y133E, P = 0.0072). d, HEK293 cells
+expressing acetylation mimetic α-Syn variants were transduced with GCI-N and stained
+with 81A. (Repeated ten times.) e, Quantification of α-Syn pathology for experiments in
+d. (n = 10 for K21Q and K34Q, n = 11 for the other groups. Seven different GCI-N were
+tested. K21Q, P < 0.0001; K34Q, P = 0.3223; K43Q, P < 0.0001; K45Q, P = 0.0007;
+K60Q, P = 0.0623; K96Q, P = 0.0638; K102Q, P = 0.0714.) f,g, Both phosphorylation
+and acetylation of soluble α-Syn showed similar effects on the transmission of GCI-N and
+GCI-α-Syn. (For GCI-α-Syn group in f, n = 11 for WT, n = 7 for Y39E, n = 8 for S87E,
+Y125E and Y133E. For GCI-N group in f, n = 10 for WT and Y39E, n = 7 for S87E,
+Y125E and Y133E. For GCI-α-Syn group in g, n = 18 for WT, n = 13 for K21Q, K34Q,
+K43Q, K45Q and K96Q, n = 15 for K60Q and K102Q. For GCI-N group in g, n = 11 for
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 29
+WT, n = 10 for K21Q and K34Q, n = 11 for K43Q, K45Q, K60Q, K96Q and K102Q.)
+Results are shown as mean ± s.e.m. N represents biological replicates. Statistics in c and
+e are one sample t-test (for normally distributed data) or one sample Wilcoxon test (for
+non-normally distributed data) against one. Statistics in f and g are unpaired two-tailed
+t-test (for normally distributed data; if variances are substantially different, perform Welch’s
+correction) or Mann–Whitney test (for non-normally distributed data) in each variant group.
+The P values in c and e are FDR corrected. *P < 0.05; ****P < 0.0001; NS, not significant.
+Scale bar, 100 μm.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 30
+Fig. 6 ∣. PTMs of soluble α-Syn modify the spreading of pathological α-Syn in primary neurons.
+a, Schematic representation: rat primary neurons were infected with AAV to express either
+WT or S87E variant α-Syn and then transduced with GCI-α-Syri (40 pg per well), α-Syn
+PFFs (40 ng per well) or LB-α-Syn (4 ng per well). b, WT and S87E α-Syn show similar
+expression levels in rat primary neurons as measured by ELISA. (n = 3 different samples,
+P = 0.100). c, As described in a, transduced neurons were extracted with 1% Triton X-100
+and stained with antibodies against α-Syn phosphorylated at S129 (pSyn) and MAP2. S87E
+α-Syn dramatically blocked the seeding ability of GCI-α-Syn and increased the seeding
+ability of LB-α-Syn but did not have significant effects on α-Syn PFF. There is very little
+α-Syn pathology in uninfected groups. (Repeated three times) d–f, Quantification of the
+amount of α-Syn pathology (pSyn normalized with total MAP2 signal) for experiments
+described in c. (n = 3, three different PFFs, LB-α-Syn and GCI-α-Syn from different cases
+were tested here. WT versus S87E, P = 0.4355 for d, P = 0.0067 for e, P = 0.0338 for f.
+Results are shown as mean ± s.e.m. Statistics in b are unpaired, two-tailed Mann–Whitney
+test. Statistics in d, e and f are one-way ANOVA with Tukey’s multiple comparison test. *P
+< 0.05; **P < 0.01; NS, not significant. Scale bar, 200 μm.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 31
+Fig. 7 ∣. PTMs on soluble α-Syn modify the seeding properties of pathological α-Syn.
+a, Schematic representation: HEK293 cells expressing α-Syn variants with different
+phosphorylation mimics were transduced with α-Syn PFFs or GCI-α-Syn. The induced
+insoluble pathological α-Syn proteins were enriched by sequential extraction with 1% Triton
+X-100 and 1% sarkosyl-containing buffers. b, Mice primary neurons were transduced with
+α-Syn PFFs (40 ng per well) that had been passaged in cells expressing different α-Syn
+variants. After induction of α-Syn pathology, cells were extracted with buffer containing
+1% Triton X-100 to remove soluble proteins and stained with antibodies against the
+phosphorylated S129 α-Syn and MAP2. The amount of α-Syn pathology was quantified
+as the total amount of pSyn normalized with MAP2. Passaging α-Syn variants with different
+phosphorylation mimics once did not change the seeding properties of α-Syn PFFs. (n = 3
+different batches of passaged PFF for all groups. PFF-Y39E-P1 P = 0.7018, PFF-S87E-P1
+P = 0.2092, PFF-Y125E-P1 P > 0.9999 and PFF-Y133E-P1 P = 0.71.) c, Similar to b,
+mouse primary neurons were transduced with GCI-α-Syn (40 pg per well) that had been
+passaged once in different α-Syn variants. Passaging in cells expressing Y39E and S87E
+variant α-Syn dramatically reduced the seeding ability of the GCI-α-Syn strain. (n = 5
+for GCI-WT-P1, n = 4 for GCI-Y39E-P1, GCI-S87E-P1 and GCI-Y133E-P1, n = 3 for
+GCI-Y125E-P1. n represents biological replicates. Three different batches of passaged GCI-
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Zhang et al. Page 32
+α-Syn were tested here with some batches being tested multiple times. GCI-Y39E-P1 P
+= 0.011, GCI-S87E-P1 P = 0.0072, GCI-Y125E-P1 P = 0.3962 and GCI-Y133E-P1 P =
+0.086.) d, Schematic representation showing passaging of GCI-α-Syn and PFFs in cells
+expressing α-Syn variants with different phosphorylation mimics for a second round of
+amplification (P2). e, Evaluating the seeding ability of α-Syn PFFs (40 ng per well) that
+had been passaged in variant α-Syn for two rounds showed that continuous passaging in
+Y39E and S87E variant α-Syn leads to a dramatic reduction of the seeding ability of these
+PFFs. (n = 4, three different batches of passaged PFF were tested here with one batch being
+tested twice. PFF-Y39E-P2 P = 0.107, PFF-S87E-P2 P = 0.0008, PFF-Y125E-P2 P = 0.4492
+and PFF-Y133E-P2 P = 0.6639.) f, Similar to the experiments described in e, continuous
+passaging of GCI-α-Syn in Y39E and S87E variant α-Syn led to a dramatic reduction of the
+seeding ability of GCI-α-Syn (40 pg per well). (n = 5 for GCI-WT-P2 and GCI-Y125E-P2, n
+= 4 for GCI-Y39E-P2, GCI-S87E-P2 and GCI-Y133E-P2. n represents biological replicates.
+Three different batches of passaged GCI-α-Syn were tested here with some batches being
+tested multiple times. GCI-Y39E-P2 P < 0.0001, GCI-S87E-P2 P < 0.0001, GCI-Y125E-P2
+P = 0.0672 and GCI-Y133E-P2 P = 0.1986.) Results are shown as mean ± s.e.m. Statistics
+are one sample t-test (for normally distributed data) or one sample Wilcoxon test (for
+non-normally distributed data) against one. The P values are FDR corrected. *P < 0.05; **P
+< 0.01; ***P < 0.001; ****P < 0.0001; NS, not significant.
+Nat Neurosci. Author manuscript; available in PMC 2023 April 14.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+

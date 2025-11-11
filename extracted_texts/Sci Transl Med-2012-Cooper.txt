@@ -1,0 +1,817 @@
+RESEARCH ARTICLE
+PARKINSON’S DISEASE
+Pharmacological Rescue of Mitochondrial Deficits
+in iPSC-Derived Neural Cells from Patients with
+’
+Familial Parkinson s Disease
+Oliver Cooper,1* † Hyemyung Seo,1* †‡ Shaida Andrabi,2† Cristina Guardia-Laguarta,3†
+John
+Graziotto,4†
+Maria
+Sundberg,1†
+Jesse R.
+McLean,1†
+Luis
+Carrillo-Reid,5†
+Zhong
+Xie,5†
+Teresia
+Osborn,1†
+Gunnar
+Hargus,1†
+Michela
+Deleidi,1†
+Tristan
+Lawson,1†
+Helle
+Bogetofte,1†
+Eduardo
+Perez-Torres,1†
+Lorraine
+Clark,3†
+Carol
+Moskowitz,3†
+Joseph
+Mazzulli,4†
+Li
+Chen,2†
+Laura Volpicelli-Daley,6† Norma Romero,3† Houbo Jiang,7† Ryan J. Uitti,8† Zhigao Huang,9
+Grzegorz Opala,10 Leslie A. Scarffe,2† Valina L. Dawson,2† Christine Klein,11 Jian Feng,7†
+OwenA.Ross,8† JohnQ.Trojanowski,6† VirginiaM.-Y.Lee,6† KarenMarder,3† D.JamesSurmeier,5†
+Zbigniew K.
+Wszolek,8†
+Serge
+Przedborski,3†
+Dimitri
+Krainc,4†
+Ted M.
+Dawson,2†
+Ole
+Isacson1†§
+Parkinson’sdisease(PD)isacommonneurodegenerativedisordercausedbygeneticandenvironmentalfactors
+thatresultsindegenerationofthenigrostriataldopaminergicpathwayinthebrain.Weanalyzedneuralcells
+generatedfrominducedpluripotentstemcells(iPSCs)derivedfromPDpatientsandpresymptomaticindividuals
+carryingmutationsinthePINK1(PTEN-inducedputativekinase1)andLRRK2(leucine-richrepeatkinase2)genes,and
+comparedthemtothoseofhealthycontrolsubjects.Wemeasuredseveralaspectsofmitochondrialresponsesin
+the iPSC-derived neural cells including production of reactive oxygen species, mitochondrial respiration, proton
+leakage, and intraneuronal movement of mitochondria. Cellular vulnerability associated with mitochondrial
+dysfunctioniniPSC-derivedneuralcellsfromfamilialPDpatientsandat-riskindividualscouldberescuedwith
+coenzymeQ ,rapamycin,ortheLRRK2kinaseinhibitorGW5074.AnalysisofmitochondrialresponsesiniPSC-
+10
+derivedneuralcellsfromPDpatientscarryingdifferentmutationsprovidesinsightintoconvergenceofcellular
+diseasemechanismsbetweendifferentfamilialformsofPDandhighlightstheimportanceofoxidativestress
+andmitochondrial dysfunction in this neurodegenerative disease.
+INTRODUCTION
+past decade, mutations in several genes have been shown to confer
+TheprogressivemotorsymptomsinParkinson’sdisease(PD)involve a significant risk of developing PD (7, 8). From studies of the rare
+the loss of particularly vulnerable dopaminergic (DA) synapses and inherited (familial) form of PD, mutations have been identified in
+neuronsinthenigrostriatalpathwayofthebrain.Thereisalsodamage thegenesleucine-richrepeatkinase2andPTEN-inducedputativeki-
+tootherneuronsinthecentralandperipheralnervoussystemsinPD. nase 1 encoding the LRRK2 and PINK1 kinases, respectively (7).
+Thereasonsforlossoffunctionanddegenerationremainunclear,al- DominantlyinheritedmutationsinLRRK2areassociatedwithfamilial
+thoughthenormalphysiologyofDAneurons(1,2)maybealteredby PD(9,10)thatisclinicallyandpathologicallysimilar,butnotidentical,
+hereditarygeneticriskfactors.Bothgeneticandenvironmentalfactors tothemorecommonlate-onsetidiopathicformofthedisease(11–14).
+contribute to an individual’s risk of developing PD (3–6). Over the LRRK2 pathogenic mutations occur in the catalytic domains of this
+kinase—theG2019S mutationinthe kinase domain andthe R1441C/
+G/H mutation in the guanosine triphosphatase domain—implicating
+1Neuroregeneration Institute, McLean Hospital/Harvard Medical School, Belmont, MA altered LRRK2 kinase activity in PD pathogenesis (15, 16). Muta-
+02478,USA.2NeuroregenerationandStemCellPrograms,InstituteforCellEngineering,
+andDepartmentsofNeurologyandNeuroscience,JohnsHopkinsUniversitySchoolof
+tionsinPINK1,whichencodesamitochondria-targetedkinase,cause
+Medicine,Baltimore,MD21205,USA.3DepartmentsofNeurology,Psychiatry,andPathol- recessively inherited early-onset parkinsonism (17–20) that not only
+ogyandCellBiology,SergievskyCenter,TaubInstituteandtheCenterforMotorNeuron clinicallyresemblesthecommonlate-onsetformofPDbutalsopresents
+BiologyandDisease,ColumbiaUniversity,NewYork,NY10032,USA.4MassGeneralInstitute
+with additional psychiatric symptoms. It is not clear whether PINK1
+forNeurodegenerativeDisease,MassachusettsGeneralHospital,HarvardMedicalSchool,
+Charlestown,MA02129,USA.5DepartmentofPhysiology,FeinbergSchoolofMedicine, mutationscausethecharacteristicLewybodyinclusionsthatarefound
+NorthwesternUniversity,Chicago,IL,60611,USA.6DepartmentofPathologyandLaboratory inmostotherformsofPD(21,22).
+Medicine,InstituteonAgingandCenterforNeurodegenerativeDiseaseResearch,Univer-
+sityofPennsylvaniaSchoolofMedicine,Philadelphia,PA19104,USA.7Departmentof PatientswiththecommonsporadicformofPDmayhavegenetic
+PhysiologyandBiophysics,StateUniversityofNewYorkatBuffalo,Buffalo,NY14214,USA. variations that influence their riskof developing PD. Such variations
+8DepartmentsofNeurologyandNeuroscience,MayoClinic,Jacksonville,FL32224,USA. maybefoundingenesimplicatedinfamilialPD(6,23)oringenesin
+9UniversityofFloridaShands,Jacksonville,FL32209,USA.10DepartmentofNeurology,Medical signaling pathways that have not yet been implicated in PD (3, 24).
+UniversityofSilesia,Katowice40-055,Poland.11SectionofClinicalandMolecularNeurogenetics
+attheDepartmentofNeurology,UniversityofLuebeck,23562Luebeck,Germany. TheaccumulationofgeneticvariantsassociatedwithPDmayalsoex-
+*Theseauthorscontributedequallytothiswork. plainthehighincidenceofsharedclinicalsyndromesinfamilymem-
+†NINDSPDiPSCellResearchConsortium. berswhodo notsharethefamilialgeneticmutation(25).
+‡Present address: Department of Molecular and Life Sciences, Hanyang University,
+Here,wegenerateneuralcellsfrominducedpluripotentstemcells
+Ansan426-791,SouthKorea.
+§Towhomcorrespondenceshouldbeaddressed.E-mail:isacson@hms.harvard.edu (iPSCs) derived from fibroblasts from familial PD patients carrying
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 1
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+the recessive homozygous Q456X mutation in PINK1, the dominant derivedneuralcellsfrompatientswithgeneticallydistinctformsof
+homozygousG2019SmutationinLRRK2,andtheheterozygousR1441C PD or at-risk individuals share common vulnerabilities to valino-
+substitutionin LRRK2.iPSC-derivedneural cells were also generated mycinandconcanamycinA.Furthermore,thedatademonstratethe
+from fibroblasts from presymptomatic individuals and from healthy differentialvulnerabilityofhumanneuralcells,neurons,andDAneu-
+subjectsnotcarryingthesemutations.Inparallelexperimentsperformed rons carrying PD-associated genetic mutations to valinomycin and
+inseveralcollaboratinglaboratories,mitochondrial,proteasomal,and concanamycin A.
+lysosomalfunctionwasanalyzedintheiPSC-derivedneuralcells.The
+resultsoftheseassayswerethenusedtocharacterizeresultingneural Increased mROS in vulnerable PD PINK1 neural cells
+cellphenotypesfromindividualswithgeneticallydistinctformsofPD Given that mitochondrial reactive oxygen species (mROS) are a pri-
+or withoutafamily historyofPD. marysourceofcellularstressthatcanbeinducedbyawidevariety
+ofchemicalstimuli,weexaminedwhetherlowconcentrationsofchem-
+ical stressors such as the potassium ionophore valinomycin could
+RESULTS increasemROSconcentrationsinneuralcellsfromPDpatientscom-
+paredtohealthysubjects.Therewasanincreaseintheproduction
+PINK1 and LRRK2 mutations and vulnerability of mROS by neural cells from PD patients with PINK1 mutations
+to chemical stressors [0.1mMvalinomycin;308.99±101%SEM;P<0.05,analysisofvar-
+Thephenotypicassayswereperformedatthesametimeinseverallab- iance(ANOVA)]comparedtohealthycontrolswhodidnotcarryfa-
+oratoriesusingneuralcellsdistributedfromthesameweeklybatches milialPD-associatedgeneticmutations(0.1mMvalinomycin;122.84±
+ofdifferentiatediPSCcultures.AlliPSCclonesweredifferentiatedand 7.16%SEM)inresponsetoalowconcentrationofvalinomycin(Fig.2,
+analyzedinparallel.TheiPSCsweregeneratedfromfibroblastsfrom AandB).NeuralcellsfromPDpatientsandhealthysubjectsshowed
+threepatients with familial PD, two asymptomatic individuals carry- similar dose-dependent increases in mROS levels in response to low
+ingPD-associatedgeneticmutations,andtwohealthyindividualswho concentrations of hydrogenperoxide(Fig.2C);theremainingchem-
+werenotcarryinggeneticmutationsassociatedwithfamilialPD(figs. ical stressors didnot changemROS levels inneural cells from either
+S1toS3andtableS1).Comparativebatch-batchanalysisofiPSCdif- patientsorhealthysubjects (table S3).
+ferentiation confirmed the reproducibility of the broad neural cell The reduced form of glutathione (GSH) is an antioxidant that is
+typesusedforthephenotypicassays(fig.S4).Thepopulationsofneu- importantforpreventingthedamagecausedbyanincreaseinmROS
+ralcellscontainedDAneurons,non-DAneurons,andimmaturecells concentrations.GiventhecombinedcytotoxicityandincreasedmROS
+oftheselineages.NeuralcellvulnerabilitiestoPD-associatedchemical concentrationsinneuralcellsfromPDpatientswiththePINK1Q456X
+toxinsandstressorstargetingeithermitochondrialfunctionorprotein mutationinresponsetovalinomycin,wenextdeterminedGSHcon-
+degradation(Fig.1)weredeterminedinparallelbymeasuringcellular centrations in neural cells from PINK1 Q456X patients and healthy
+releaseoflactatedehydrogenase(LDH)andintracellularactivityofMTS subjectsafterexposuretolowconcentrationsofvalinomycin,concana-
+[reductase 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)- mycin A, MPP+, and hydrogen peroxide. Neural cells from PINK1
+2-(4-sulfophenyl)-2H-tetrazolium].BecausetheLDHandMTSassays Q456X patients contained reduced GSH after administration of low
+produced similar dose responses, only the data from the LDH assays concentrationsofvalinomycin(1and10mM),concanamycinA(10nM),
+areshown(Table1).Thegenotype-specificcytotoxicityprofilesshowed MPP+(5mM),andhydrogenperoxide(10mM)butnotMG132or
+that neural cells from patients with the
+PINK1Q456Xmutationweremorevulner-
+abletovalinomycin(0.5to100mM),MPP+
+(1-methyl-4-phenylpyridinium) (0.05 and
+5mM),concanamycinA(10 to100nM),
+hydrogenperoxide(1to10mM),andMG132
+(carbobenzoxy-L-leucyl-L-leucyl-L-leucinal)
+(1 mM) than those from healthy subjects
+(fig.S5).Neuralcellsfromindividualscarry-
+ingLRRK2mutationssharedavulnerability
+to valinomycin (0.5 to 100 mM), concana-
+mycin A (10 and 50 nM), and MPP+
+(0.05 mM) (fig. S6). From analyses using
+the same batches of cells as used in the
+LDH and MTS assays, immunocytochem-
+istry and cell counts revealed fewer DA
+neuronsamongtheneuralcellsfromindi-
+vidualscarryingPINK1Q456XandLRRK2 Fig.1. CellularstressorsusedtotreatiPSC-derivedneuralcellsfromPDpatients.Toanalyzecellular
+vulnerabilityanddysfunctionaloxidativephosphorylationrelevanttoPD,weadministered10differ-
+R1441Cmutationscomparedtothosefrom
+entcellularstressorstoiPSC-derivedneuralcellsgeneratedfromfamilialPDpatientsandasymptomatic
+healthy subjects not carrying the genetic
+individualscarryingPINK1orLRRK2geneticmutations,andfromhealthysubjectswhowerenotcarrying
+mutationsafterexposuretolowconcen- thesePD-associatedmutations.The cellularstressorswereknown toaffectpathwaysimplicatedinPD
+trationsofvalinomycinandconcanamycin pathogenesis,suchasoxidativephosphorylation,theautophagy-lysosomalpathway,ortheubiquitin-
+A(tableS4).ThesedatashowthatiPSC- proteasomesystem(UPS).
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 2
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+Table1.SensitivityofiPSC-derivedneuralcellsfromPDpatientsandhealthysubjectsinresponsetochemicalstressors(mean±SEMofLDHrelease
+expressedaspercentofTritonX-100control;n=3).
+Cellularstressor
+Neuralcellgenotype
+Valinomycin MPP+ ConcanamycinA Hydrogenperoxide MG132 CCCP 6-OHDA
+(10mM) (5mM) (10nM) (1mM) (1mM) (10mM) (10mM)
+Healthysubjects 30.1±2.8 34.5±2.2 39.3±3.4 40.3±2.8 35.1±3.1 42.3±4.1 31.4±3.4
+PINK1Q456Xhomozygotes 52.3±3.3* 41.4±2.8* 51.6±4.1* 52.3±4.1* 44.5±4.8* 48.2±4.4 33.1±2.7
+LRRK2G2019Shomozygote 42.8±3.9* 39.5±4.2 48.4±3.9* 49.3±8.2 38.5±4.9 52.4±6.3 34.5±4.1
+LRRK2R1441Cheterozygotes 45.3±3.9* 37.5±5.2 53.7±4.5* 48.2±7.3 40.4±3.9 53.1±5.7 35.7±3.1
+*P<0.05,ANOVA.
+Fig.2. EffectsofcellularstressorsoniPSC-derivedneuralcellswithaPINK1 orescent PINK1 patient-specific neural cells. (C) Parallel incubations of
+mutation.iPSC-derivedneuralcellsfromPDpatientscarryingthePINK1Q456X healthysubjectandpatient-specificneuralcellswith1or10nMhydrogen
+homozygousmutationweretreatedwithlowconcentrationsofvalinomycin, peroxide (HO)showed dose-dependentincreasesin the percentageof
+2 2
+andthenmROSandGSHconcentrationsweremeasured.(AtoC)After fluorescentcellulareventsindependentofgenotype,confirmingthespec-
+24hoursofincubationinvehicleand0.1or1mMvalinomycin,patient-specific ificityoftheassayformROS.(DtoI)Afterexposuretovalinomycin(0.1or
+neuralcellswerelabeledwithafluorescenceindicatorofmROSandanalyzed 1mM)(D),concanamycinA(10nM)(E),MPP+(5mM)(F),orHO (10mM)
+2 2
+byfluorescence-activatedcellsorting.(A)Fewfluorescentcellulareventswere (G),PINK1patientneuralcells(blackbars)showedreducedGSHlevelsrel-
+recordedfromhealthysubjectneuralcellsexposedto0.1mMvalinomycin ativetohealthycontrolneuralcells(whitebars).Incontrast,lowconcen-
+relativetounstainedcultures.Incontrast,manyfluorescentcellularevents trationsof6-OHDA(1or10mM)(H)orMG132(1or10mM)(I)didnotchange
+representingincreasedmROSproductionwererecordedfromPINK1patient GSHlevelsinPINK1patientorhealthysubjectneuralcells.Dataarerepre-
+neuralcellsexposedto0.1mMvalinomycin.(B)Quantificationoffluorescent sentedasmeans±SEM.n=3.*P<0.05,ANOVA,PINK1PDpatientsversus
+eventsrevealedthat0.1mMvalinomycinincreasedthepercentageofflu- healthysubjects;dP<0.05,ANOVA,chemicalstressorversusvehicle.
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 3
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+6-hydroxydopamine(6-OHDA)(Fig.2,DtoI).Together,thecyto- inneuronsfromPDpatientswiththePINK1Q456Xmutationwas
+toxicityprofilesandthechangesinmROSandGSHconcentrations similartomitochondrialmovementinneuronsfromhealthysubjects
+suggest thatiPSC-derivedneuralcellsfromPDpatientscarryingthe (Fig.4A).
+PINK1 mutation show increased vulnerability to cellular oxidative Regarding the direction of movement, mitochondria in the prox-
+stresscomparedtoneuralcells fromhealthyindividuals. imalaxonofneuronsfromPDpatientswiththeLRRK2G2019Smuta-
+tionshowedmorebidirectional(nonmonotonic)movement(percentage
+Mitochondrial respiration in neural cells from individuals ofmitochondriamovinginbothdirections,anterogradeandretrograde,
+carrying PINK1 or LRRK2 mutations 21.7 ± 5.1% SD) than mitochondria in neurons from healthy subjects
+Next,wedeterminedtheratesofoxygenconsumptionbyneuralcells (8.60±1.07%SD;P<0.05,ANOVA;Fig.4,AandD).Anincreasein
+derivedfromindividualscarryingPD-associatedgeneticmutations bidirectionalmobilityofmitochondriainneuronsfromLRRK2G2019S
+inPINK1orLRRK2andhealthysubjectswithoutthesegeneticmu- PDpatientswasalsofound.
+tationsinresponsetotheadenosinetriphosphate(ATP)synthasein- Thelengthofaxons(thatis,long,thinprocesseswithuniformdiam-
+hibitoroligomycin(antibiotic),theprotonionophoreFCCP(carbonyl eters) did not differ between neurons from healthy subjects (30.7 ±
+cyanide p-trifluoromethoxyphenylhydrazone), and the mitochon- 16.2mmSD,n=88,byKolmogorov-Smirnovtest)andneuronsfrom
+drial complex I inhibitor rotenone (pesticide)(Fig. 3).Thebasalox- individuals carrying PD-associated genetic mutations (PINK1 Q456X:
+ygenconsumptionrate(OCR)ofneuralcellsfromPDpatientswith 33.5 ± 17.5 mm SD, n = 81; LRRK2 R1441C: 33 ± 12.1 mm SD, n =
+PINK1mutationswasgreaterthanthatforhealthysubjects;exposure 51;LRRK2G2019S:31.3±10.8mmSD,n=25;Fig.4B).Asforthelength
+tooligomycindidnotreducetheOCR(Fig.3,AandB).Neuralcells ofeachmitochondrionintheaxons,mitochondriaintheproximalaxon
+from both PD patients with PINK1 mutations and healthy subjects ofneuronsfromindividualscarryingtheLRRK2R1441Cmutation(1.8±
+showed similar responses in OCR to FCCP and rotenone. Further- 1.0mmSD,n=283;P=0.041byKolmogorov-Smirnovtest)werefound
+more, neural cells from PINK1 PD patients showed an increased tobe20%shorterthanthoseinaxonsofneuronsderivedfromhealthy
+difference between oligomycin- and rotenone-mediated inhibition subjects(2.25±1.36mmSD,n=430;Fig.4,CandE).Mitochondria
+ofOCRs.Thisrepresentedenergysubstrate(ATP)–independentrespi- in neuronsfromPINK1Q456XPDpatients(2.34±2.81mmSD,n=
+ration and an increase in the passive leak of protons from the inner 463)orLRRK2G2019SPDpatients(1.91±0.86mmSD,n=116)were
+mitochondrialmembrane(Fig.3C).Theresultsfromthefullexperiment similarinlengthtoneuronalmitochondriafromhealthysubjects.These
+(Fig.3,T.M.D.lab)were confirmed in a parallel exploratory experi- findings suggest that the LRRK2 mutations in PD patient–specific
+mentusingthesameneuralcellsbutaddingoligomycin,CCCP(car- neurons are associated with altered mitochondrial dynamics and
+bonyl cyanide 3-chlorophenylhydrazone), and the electron transport morphology.
+chain inhibitor antimycin A to the neural cell culture medium (fig.
+S7,D.K. lab). Pharmacological rescue of PD patient neural
+The basal OCRs of iPSC-derived neural cells from individuals cell vulnerability
+carrying the LRRK2 G2019S and R1441C mutations were reduced CytotoxicityassaysdemonstratedthatiPSC-derivedneuralcellsfrom
+compared to iPSC-derived neural cells from healthy subjects (Fig. individualscarryingPINK1andLRRK2mutationsaremorevulnera-
+3, D, E, G, and H). The neural cells from individuals carrying bletothechemicaltoxinsvalinomycinandconcanamycinAthanthose
+LRRK2 G2019SandR1441Cmutationsandhealthysubjectsshowed from healthy subjects. To examine whether this cellular vulnerability
+similarchangesinOCRsinresponsetooligomycin,FCCP,andro- could be reduced pharmacologically, we treated iPSC-derived neural
+tenone (Fig. 3, D, E, G, and H). Furthermore, the similar levels of cellscarryingPINK1andLRRK2geneticmutationswiththeantioxidant
+oligomycinandrotenoneinhibitionofOCRsindicatedthatproton coenzymeQ orrapamycinortheLRRK2inhibitorGW5074during
+10
+leakagewasnotincreasedinneuralcellsfromindividualscarrying exposuretolowconcentrationsofeithervalinomycinorconcanamycin
+eitherLRRK2G2019SorR1441Cmutations(Fig.3,FandI).Theshared A.MeasurementsofLDHreleasedemonstratedthattreatmentwithco-
+profilesofmitochondrialdysfunctionamongiPSC-derivedneuralcells enzymeQ reducedthevulnerabilityofiPSC-derivedneuralcellswith
+10
+fromindividualscarryingdifferentPD-associatedgeneticmutations PINK1Q456X,LRRK2G2019S,andLRRK2R1441Cmutationstothe
+suggestacommonvulnerabilitytoalteredcellularbioenergetics. lowestconcentrationofvalinomycin(0.1mM;Fig.5,A,C,andE)and
+concanamycinA(1nM;Fig.5,B,D,andF).However,coenzymeQ
+10
+Dysfunctional mitochondrial mobility in PD LRRK2 did not reduce LDH release by the same iPSC-derived neural cells in
+mutant neurons responsetohigherconcentrationsofvalinomycin(1mM)andconcana-
+Mitochondrialtransportallowscellstorespondtoregionalchanges mycin A (10 nM). Although rapamycin reduced LDH release from
+in metabolism and protect their mitochondria from damage. To LRRK2 mutant neural cells exposed to valinomycin but not concana-
+discerntheconsequencesofPD-associatedgeneticmutationsonmito- mycinA,neuralcellsfromPDpatientswithPINK1mutationswereun-
+chondrial biology, we examined mitochondrial dynamics in iPSC- responsivetorapamycin(Fig.5,AandB).TreatmentwiththeLRRK2
+derivedneuronsfromindividualscarryingLRRK2andPINK1genetic inhibitorGW5074reducedLDHreleasefromneuralcellsfromPINK1
+mutationsandhealthysubjectsusinglive-cellimaging.Mitochondria Q456XPDpatientsexposedtovalinomycinbutnottoconcanamycinA
+intheproximalaxonofneuronsfromindividualscarryingtheLRRK2 (Fig.5,AandB).GW5074alsoreducedLDHreleasefromneuralcells
+G2019Smutation(72.4 ±4.6%SD)and R1441Cmutation(61.1± withLRRK2mutationsinresponsetobothvalinomycinandconcana-
+3.8% SD) were more mobile (percentage of mitochondria moving mycinA(Fig.5,CtoF).Next,weexaminedwhethertheinduction
+inanydirectionduringthe5-minrecording)thansimilarlylocated ofmROSproductioninPINK1PDpatientneuralcellsinresponse
+mitochondria in neurons derived from healthy subjects (47.25 ± to a low concentration of valinomycin could be reduced pharma-
+1.6%SD;P<0.05,ANOVA;Fig.4A).Themobilityofmitochondria cologically.NeuralcellsfromPINK1Q456XPDpatientsorhealthy
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 4
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+subjects were administered coenzyme Q , rapamycin, or GW5074 subjects(fig.S8A).Incontrast,bothrapamycinandGW5074reduced
+10
+during exposure to valinomycin. Neither coenzyme Q , rapamycin, mROS production by PINK1 PD patient neural cells exposed to
+10
+norGW5074affectedmROSproductioninneuralcellsfromhealthy 0.1 mM valinomycin (fig. S8B).
+Fig.3. RespirationinPDpatientiPSC-derivedneuralcells.(A)iPSC-derived ralcellsfromaPDpatientcarryingtheLRRK2G2019Smutationexhibiteda
+neuralcellsfromhealthysubjects(black)orPDpatientscarryingthePINK1 reducedbasalrespirationrate andincreasedsensitivitytoFCCP.(F)Sub-
+Q456Xmutation(red)wereadministeredoligomycin(whichinhibitsATP tractionoftherotenone-inducedOCRfromtheoligomycinOCRdemon-
+synthesis),FCCP(whichinducesmaximumrespiratorycapacity),androte- stratedthatthelevelsofprotonleakagefromLRRK2G2019Spatientneural
+none(whichinhibitstotalmitochondrialrespiration)sequentially,andthe cellsweresimilartothoseforhealthysubjectneuralcells.(G)iPSC-derived
+OCR,indicativeofoxidativephosphorylation,wasmeasuredinrealtime. neuralcellsfromhealthysubjects(black)orindividualscarryingtheLRRK2
+(B)Quantification of the OCR for each cellularstressor demonstrated an R1441Cmutation(green)wereadministeredoligomycin,FCCP,androtenone
+increasedbasal respiration rate and reduced sensitivityto oligomycin of sequentially, and the OCR wasmeasured in realtime. (H)LRRK2 R1441C
+PINK1Q456Xpatientneuralcells.(C)Subtractionoftherotenone-induced patientneuralcellsexhibitedareducedbasalrespirationrateandincreased
+OCRfromtheoligomycinOCRdemonstratedanincreaseinprotonleak- sensitivitytobotholigomycinandrotenone.(I)Subtractionoftherotenone-
+agefromPINK1Q456XPDpatientneuralcells.(D)iPSC-derivedneuralcells inducedOCRfromtheoligomycinOCRdemonstratedthatthelevelsofpro-
+from healthy subjects(black) and from a PDpatient carryingtheLRRK2 tonleakagefromLRRK2R1441Cpatientneuralcellsweresimilartothosefor
+G2019Smutation(blue)weretreatedwitholigomycin,FCCP,androtenone healthysubjectneuralcells.Dataarerepresentedasmeans±SEM.n=3.
+sequentially,andtheOCRwasmeasuredinrealtime.(E)iPSC-derivedneu- *P<0.05,ANOVA.
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 5
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+carrying LRRK2 and PINK1 genetic mutations. LDH release in re-
+sponsetoafullrangeofvalinomycinandconcanamycinAconcentra-
+tions was measured for iPSC-derived neural cells and for fibroblasts
+takendirectlyfromfamilialPDpatients(Fig.6).Exposuretovalino-
+mycincausedbothPINK1PDpatientneuralcells(Fig.6A)andfibro-
+blasts(Fig.6B)toreleasemoreLDHthaniPSC-derivedneuralcellsor
+fibroblastsfromhealthysubjects.Greaterconcentrationsofvalino-
+mycinwererequiredtoinducevulnerabilitytooxidativestressinfibro-
+blastscomparedtoneuralcellsfromPINK1PDpatients.Inresponseto
+concanamycin A, PINK1 PD patient neural cells released more LDH
+thanthosefromhealthysubjects(Fig.6C),butPINK1PDpatientand
+healthy control fibroblasts released similar levels of LDH (Fig. 6D).
+Similar results were obtained for iPSC-derived neural cells and fibro-
+blasts from PDpatients with theLRRK2 G2019S and R1441C muta-
+tionsinresponsetovalinomycinandconcanamycinA(Fig.6,EtoH).
+Inresponsetovalinomycin,iPSC-derivedneuralcellscarryingLRRK2
+mutations released more LDH than those from healthy subjects (Fig.
+6E),butLRRK2PDpatientfibroblastsdidnotreleasemoreLDHthan
+thosefromhealthysubjects(Fig.6F).InresponsetoconcanamycinA,
+neural cells (Fig. 6G) and fibroblasts (Fig. 6H) from individuals car-
+ryingeitheroftheLRRK2mutationsreleasedmoreLDHthanneural
+cells and fibroblasts from healthy subjects. LRRK2 PD patient fibro-
+blasts released less LDH than iPSC-derived neural cells with LRRK2
+mutations when treated with either valinomycin or concanamycin A
+(Fig.6,EtoH).
+DISCUSSION
+We firstfocusedondeterminingphenotypesforiPSC-derivedneural
+cells generated from patients with familial forms of PD and at-risk
+individuals.Ourrationalewasbasedonthefactthatpatientswithspo-
+radic forms of PDshare many of the symptoms of patients carrying
+Fig.4. MobilityofmitochondriaintheproximalaxonofiPSC-derivedneu- PINK1 and LRRK2 mutations. The disease in patients with sporadic
+ronsfromPDpatients.(A)Live-cellimagingshowedthatthemitochondria
+formsofPDislesswelldefinedbecauseitmaybecausedbyacom-
+intheproximalaxonsofneuronsfromindividualscarryingLRRK2G2019S
+and R1441C mutations moved more randomly than similarly located binationofcumulativegeneticvariantsandgreaterenvironmentalef-
+mitochondria in healthy control neurons. Further analysis showed that fectsthanisthecasewithfamilialformsofPD.Wethereforedecided
+mitochondrialmovementsintheproximalaxonsofLRRK2G2019Spatient to first examine mitochondrial dysfunction in iPSC-derived neural
+neuronsweremorebidirectional(bothanterogradeandretrogrademove- cellsfrompatientswithrarefamilialformsofPDtoseewhetherthere
+ment)than those inhealthy controlneurons. *P < 0.05, ANOVA.(B)The arecommonalitiesintermsofvulnerabilitiestochemicalstressorsand
+axons of neurons from healthy subjects and individuals carrying PINK1 toxins(26).ItishopedthatfutureexperimentsusingiPSC-derivedneu-
+Q456X,LRRK2G2019S,andLRRK2R1441Cmutationswerethesamelength ral cells from patients with sporadic PD may show some of the same
+(Kolmogorov-Smirnovtest).(C)However,themitochondriainneuronsfrom
+phenotypicfeaturesidentifiediniPSC-derivedneuralcellsfromPDpa-
+individualscarryingtheLRRK2R1441Cmutationwereshorterthanthosein tientswithPINK1andLRRK2mutations.
+healthycontrolneurons.*P<0.05,Kolmogorov-Smirnovtest.(D)Represent-
+Inourexperiments,weobservedanincreaseinsensitivitytochem-
+ativekymographs of mitochondria labeledwith mitoDendra fluorescent
+proteininproximalaxonsofneuronsfromhealthysubjectsandfromin- icalstressorsasthecelltypeanalyzedbecamefunctionallyclosertothe
+dividualscarryingPINK1Q456X,LRRK2G2019S,andLRRK2R1441Cmuta- vulnerablecelltypesinthePDbrain,thatis,anincreaseinsensitivity
+tionsweretakenevery5sfor5min.(E)Representativeimagesareshown iniPSC-derivedneuralcellsandneuronscomparedtofibroblastsfrom
+for mitochondria labeled with mitoDendra fluorescent protein in the thesamepatient.TheiPSC-derivedneuralcellsfromthedifferentPD-
+proximal axons of neurons from healthy subjects and from individuals associated genotypes shared similar vulnerabilities to chemicals such
+carryingPINK1Q456X,LRRK2G2019S,andLRRK2R1441Cmutations.Data as valinomycin that induced mitochondrial depolarization with K+
+arerepresentedasmeans±SD.n=3. ions (27–29). In contrast, the iPSC-derived neural cells from PD pa-
+tientswerenotvulnerabletoCCCP,whichdepolarizesmitochondria
+usingprotons(H+)(30).Comparedtohealthycontrolneuralcells,PD
+PINK1 and LRRK2 PD neural cells are more sensitive to patientneuralcellsalsoshowedincreasedsensitivitytoconcanamycin
+chemical stressors than fibroblasts A, a specific inhibitor of vacuolar-type H+-dependent adenosine tri-
+Finally,weexaminedwhethercellularreprogrammingisrequiredfor phosphatases (V-ATPases) that regulate autophagy and membrane
+thecytotoxicityphenotypes observedinneuralcellsfromindividuals transport(31,32).However,asimilarinhibitorofV-ATPasescanchange
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 6
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+induced mROS and other stressors indi-
+cated that the iPSC-derived neural cells
+fromPINK1Q456Xpatientswerelessable
+to respond to oxidative stress. The find-
+ingssuggestthatiPSC-derivedneuralcells
+from PD patients carrying PINK1 muta-
+tionsmayusemitochondrialprotonleak-
+age to minimize oxidative damage due to
+lossofPINK1activity(27,35,36).Incon-
+trast, the OCRs show that the mitochon-
+drial electron transport chain is intact in
+PD patient neural cells carrying LRRK2
+mutations,butthereducedlevelsofbasal
+respiration in these cells suggest that the
+increased kinase activity caused by the
+LRRK2 mutations reduces the availability
+of substrates for oxidative phosphoryl-
+ation(37).TheLRRK2mutationswerealso
+associated with disrupted mitochondrial
+movementinPDpatient–specificneurons.
+Dysfunctional axonal trafficking has been
+implicatedinPDasanearlyeventthatpre-
+cedes neurodegeneration (38–40). LRRK2
+regulatesthestabilityofneuronalmicrotu-
+bulesthatarerequiredforefficienttraffick-
+ing of mitochondria to energy-dependent
+regionswithinneurons(41,42).Thecom-
+binationofalteredmitochondrialdynamics
+and reduced basal respiration in LRRK2
+PD patient neural cells may contribute to
+thevulnerabilityoftheseneuronsinPD.
+The pharmacological rescue of the
+genotype-specific vulnerabilities to valino-
+mycinandconcanamycinAalsoprovided
+Fig.5. PharmacologicaltreatmentofiPSC-derivedneuralcellsfromPDpatients.iPSC-derivedneuralcells
+somemechanisticinsight.Therescueof
+fromindividualswithPINK1andLRRK2mutationsweretreatedwithcoenzymeQ ,rapamycin,orGW5074
+10 PINK1Q456XPDpatientneuralcellsfrom
+afterexposuretolowdosesofvalinomycinorconcanamycinA,andthenLDHreleasewasmeasured.(Ato
+F)Theadministrationofeithervalinomycin(0.1and1mM)orconcanamycinA(1and10nM)increasedLDH lowconcentrationsofvalinomycinandcon-
+releasefromPINK1Q456X,LRRK2G2019S,andLRRK2R1441CPDpatientneuralcells(whitebars).(A)Treat- canamycinAbytheantioxidantcoenzyme
+mentwith1mMcoenzymeQ
+10
+(CoQ)(blackbars)or1mMGW5074(lightgraybars)butnot1mMrapamycin Q
+10
+andtheLRRK2inhibitorGW5074is
+(darkgraybars)reducedLDHreleasebyPINK1PDpatientneuralcellsinducedbyvalinomycin(control,white consistentwiththehypothesisthatlossof
+bars).(B)TreatmentwithcoenzymeQ 10 butnotrapamycinorGW5074reducedLDHreleasefromPINK1 PINK1leadstoproductionofROSthrough
+Q456XPDpatientneuralcellsinducedbyconcanamycinA(control,whitebars).(C)Treatmentwithco- anLRRK2-associatedmechanism(15,43,44).
+enzymeQ ,rapamycin,orGW5074reducedLDHreleasebyLRRK2G2019SPDpatientneuralcellsinduced
+10 Rapamycininhibitstheactivityofthemam-
+byvalinomycin(control,whitebars).(D)TreatmentwithcoenzymeQ orGW5074butnotrapamycinre-
+10 maliantargetofrapamycin(mTOR)and
+ducedLDHreleasebyLRRK2G2019SPDpatientneuralcellsinducedbyconcanamycinA(control,white
+can improve lysosomal degradation and
+bars).(E)TreatmentwithcoenzymeQ ,rapamycin,orGW5074reducedLDHreleasebyneuralcellsfrom
+10 activatetheprosurvivalsignalingmole-
+individualscarryingtheLRRK2R1441Cmutationinducedbyvalinomycin(control,whitebars).(F)Treatment
+withcoenzymeQ orGW5074butnotrapamycinreducedLDHreleasebyneuralcellsfromindividuals culeAKTinPDcellularandanimalmod-
+carryingtheLRRK2
+10
+R1441CmutationinducedbyconcanamycinA(control,white bars). The relativecell
+els(45–47).Inourexperiments,rapamycin
+dysfunctionwascalculatedfromLDHreleasevaluesasapercentageofuntreatedcellscompletelylysed
+didnotprotectPINK1Q456XPDpatient
+byincubationwithTritonX-100.Dataarerepresentedasmeans±SEM.n=3.*P<0.05,ANOVA. neural cells from either valinomycin or
+concanamycinA.Thiscontrastswiththe
+neuroprotectiveeffectsofrapamycinob-
+mitochondrial respiration and exhibits K+ ionophore activity (33, 34). servedinDrosophilacarryingaPINK1nullmutation(48).Rapamycin
+Given the shared vulnerability of PINK1 and LRRK2 PD patient neural reducedthevulnerabilityofbothLRRK2G2019SandR1441CPDpatient
+cellstovalinomycinandconcanamycinAbutnotCCCP,itispossiblethat neuralcellstovalinomycin,suggestingapotentiallinkbetweenLRRK2,
+thePD-associatedmutationscompromisedtheabilityoftheiPSC-derived mitochondrialdysfunction,lysosomaldegradation,andAKTactivation.The
+neuralcellstoefficientlyrespondtomitochondriadamagedbythein- LRRK2inhibitorGW5074providedsomeprotectionagainstvalinomycin-
+fluxofK+ions.MeasuringcellularvulnerabilitiestodirectROS(HO), andconcanamycinA–inducedtoxicityinbothLRRK2G2019Sand
+2 2
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 7
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+Fig. 6. Cell type–specific vulnerability to cellular stressors and oxidative G2019S(graybars)andLRRK2R1441C(blackbars)mutationsreleasedmore
+stress.iPSC-derivedneuralcellsfromindividualscarryingPINK1andLRRK2 LDH than healthy subject neural cells (white bars). (F) In contrast, LRRK2
+mutationsaremorevulnerabletobothvalinomycinandconcanamycinA G2019SPDpatient(graybars),LRRK2R1441CPDpatient(blackbars),and
+thanprimaryfibroblaststakenfromthesamePDpatients.(A)Inresponse healthy subject (white bars) fibroblasts released similar levels of LDH
+toarangeofvalinomycinconcentrations,PINK1patientneuralcells(white inresponsetovalinomycin.(G)Inresponsetoarangeofconcentrationsof
+bars)releasedmoreLDHthanhealthycontrolneuralcells(blackbars).(B) concanamycinA,neuralcellsfromindividualscarryingtheLRRK2G2019Smu-
+Similarly,PINK1PDpatientfibroblasts(whitebars)releasedmoreLDHthan tation(graybars)andLRRK2R1441Cmutation(blackbars)releasedmore
+fibroblastsfromhealthysubjects(blackbars)inresponsetovalinomycin,al- LDH than healthy subject neural cells (white bars). (H) Similarly, LRRK2
+beitatgreaterconcentrationsofvalinomycinthanPINK1PDpatientneural G2019S PDpatient fibroblasts (gray bars) andLRRK2R1441C PDpatient
+cells.(C)InresponsetoarangeofconcentrationsofconcanamycinA,PINK1 fibroblasts(blackbars)releasedmoreLDHthanhealthysubjectfibroblasts
+PDpatientneuralcells(whitebars)releasedmoreLDHthanhealthysubject (whitebars)inresponsetoconcanamycinA,buttheLDHlevelswerelower
+neuralcells(blackbars).(D)Incontrast,PINK1PDpatient(whitebars)and thanforiPSC-derivedneuralcellsfromthesamePDpatients.Therelative
+healthysubject(blackbars)fibroblastsreleasedsimilaramountsofLDHin celldysfunctionwascalculatedfromLDHreleasevaluesasapercentageof
+responsetoconcanamycinA.(E)Inresponsetoarangeofconcentrations untreatedcellscompletelylysedbyincubationwithTritonX-100.Dataare
+of valinomycin, iPSC-derived neural cells from individuals carrying LRRK2 representedasmeans±SEM.n=3.*P<0.05,ANOVA.
+R1441C PD patient neural cells, consistent with a previous study bothLRRK2G2019SandR1441Cneuralcells,suggeststhatbothmu-
+showingthatGW5074protectedmiceagainstLRRK2-mediatedtox- tationscausesimilar downstream dysfunction.
+icity(15). Second,celltype–specificvulnerability,thatis,preferentialdegen-
+Our findings raise several interesting points. First, the genotype- eration of nigrostriatal DA neurons, is a characteristic of PD. It has
+specific phenotypic profiles suggest possible shared cellular disease notbeenclearwhetherpatient-specificiPSCscanprovidepopulations
+pathways for familial forms of PD. The broader range of neural cell ofneuralcellsthatcanrobustlymodelPDdiseasepathogenesis.Given
+vulnerabilitiesassociatedwiththelossofPINK1expressioncompared that fibroblasts from PD patients carrying PINK1 andLRRK2 muta-
+tothatofneuralcellsfromindividualswithLRRK2mutationsiscon- tionsexhibitphenotypes(49–52),itseemsreasonabletosupposethat
+sistentwithanincreasedgeneticriskandanearlierageofonsetofPD iPSC-derivedneuralcellsareausefulhumancellularmodelfordissect-
+inpatientscarryingthePINK1Q456Xmutationcomparedtoeitherof ing pathogenic events in PD. Our data demonstrate cell type–specific
+theLRRK2mutations.Thesharedvulnerabilitytochemicalstressors, vulnerabilitybecausePDpatient–specificneuralcellsdifferentiatedfrom
+and the similar respiratory and mitochondrial mobility profiles for iPSCsweremoresensitivetocellularstressorsthanfibroblastscarrying
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 8
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+similar mutations. Our data are consistent with the hypothesis of cell S1)(27,62),andthegenotypewasconfirmedforeachiPSCclone.The
+type–specific vulnerability developed for PD patients, where the LRRK2G2019Sgenotypewasconfirmedbypolymerasechainreaction–
+midbrainDAneuronsaremorevulnerablethanneighboringneuronal restrictionfragmentlengthpolymorphism(PCR-RFLP)withSfcIusing
+subtypesthatalsoexpressgenesassociatedwithfamilialPD(1,53,54). LRRK2exon31genomicDNAasatemplate.ThePCRproductfrom
+Third,intermsofusingiPSCstomodelPDpathogenesis,wethink homozygousLRRK2G2019SiPSCswasdigestedtoproduce218–and
+thatthecellstressassayswehaveusedprovideanopportunitytoin- 40–basepair(bp)fragments.ThePCRproductfromhumanembryonic
+vestigate aspects of aging-related pathogenesis and the responses of stem(ES)cellsincubatedwithSfcIproduceda258-bpband,consistent
+individual PD patients to differenttreatments. For example, the age- with nondigested DNA without the mutation. The LRRK2 R1441C
+related accumulation of dysfunctional mitochondria (55, 56) can be genotypewasconfirmedbyPCR-RFLPwithBstUIusingLRRK2exon
+mimickedusinglowdosesofmitochondrialstressors,suchasvalino- 31genomicDNAtemplate.The386-bpPCRproductfromhumanES
+mycin or MPP+, which create controlled, widespread mitochondrial cells, with Arg at amino acid position 1441, was digested to produce
+damagewithinacell population. 316-and70-bpfragments(nomutation).Inparallel,PCRproductsfrom
+Cellular reprogramming technology has been proposed as a plat- LRRK2R1441CiPSCsweredigestedtoproducebandsat386,316,and
+formforpredictingdiseasephenotypesanddrugefficacyortoclassify 70bp,consistentwithaheterozygousmutation.Inparallelgeneticanaly-
+drug-responsivecohortsbasedongenetics(57–59).Evenwithadvances ses,weconfirmedthatthepatients’andat-riskindividuals’iPSClines
+in genomic sequencing and a better understanding of phenotypic- did not carry additional major genetic mutations found in the other
+genotypic correlations performed on kindreds, the biological basis for familiesofthisstudyandthehealthysubjectiPSClinesdidnotcarry
+predictingdrugresponsesinfamilialorsporadicformsofPDisunclear. PINK1Q456X,LRRK2G2019S,orLRRK2R1441Cmutations.
+Our data from the dose responses of PINK1 and LRRK2 PD patient
+neuralcellstocoenzymeQ ,rapamycin,andGW5074suggestthatcel- Cellular reprogramming, validation, and differentiation
+10
+lularreprogrammingtechnologymaybeabletohelpdefinepatientco- AlliPSCsweregeneratedwithstandardretrovirus-basedprotocols
+horts that are responsive to different pharmacological treatments. For [(62,63)andseetableS1].Reversetranscription–PCRwasperformed
+futureclinicalimpact,itwillbeessentialtodeterminecellularresponses as described (for primer sequences, see table S2). GTL banding of
+duringthepresymptomaticphaseofthedisease,whenneuroprotective 20metaphasecellsperiPSClineconfirmednormalkaryotypes(CellLine
+interventionsarepredictedtobemostefficacious. Genetics).Teratomaanalyseswereperformedinnonobesediabetic/severe
+Our findings provide evidence of differences in responses to cellular combinedimmunodeficientmiceasdescribed(64)(AppliedStemCell).
+stressforiPSC-derivedneuralcellsfromPDindividualscarryinggenetic GenomicPCR(forgenotypingprimersequences,seetableS2)and
+mutations associated with different forms of familial disease. These data direct sequencing of the products confirmedthe genotypes of the
+show that iPSC-derived neural cells are sensitive models for measuring iPSClineswithstandardmethodsasdescribed(65).TheiPSCswere
+vulnerabilitytochemicalstressorsandresponsestocandidateneuropro- differentiatedwithstandardprotocols(66)exceptthatrecombinanthu-
+tectivemolecules.TheymayhelptoidentifycausesofPDandpotential manSHH-C24IIproteinwasreplacedbyasmall-moleculeagonistof
+newdrugsandtreatmentsforPD. Smoothened(1mM,Enzo)(67,68).
+Patientfibroblastcelllinesfordeterminingcytotoxicityassays
+MATERIALS AND METHODS For the fibroblast toxicity assays, we used the following PD patients’
+fibroblasts:twopatientscarryingPINK1mutations[PINK1Q456Xhomo-
+Clinical data for patient-specific iPSC lines zygote(SC1028)andPINK1D525N/W577Rcompound(SC1027)],seven
+TheiPSClinesweregeneratedfromsevensubjectsfromthreefamilies patientscarryingLRRK2G2019Smutations(SC1007,SC1012,Coriell
+with PD under informed consent. Subjects 1 (II:5) and 2 (II:7) were IDND30623,ND29492,ND29542,ND29802,andND30244),andtwo
+family members that share homozygous PINK1 Q456X mutations patients carryingLRRK2R1441Cmutations (CoriellIDND32386PD2
+(familyW)(21).Briefly,theageofonsetofthePDpatientswithPINK1 andND32944PD3).Fibroblastsfromtwohealthysubjectswereused
+Q456Xmutationswas61and53yearsandtheyhadscoresof2and as controls (CoriellIDAG06010DandAG06959).
+2.5 on the Hoehn and Yahr scale, respectively, indicating bilateral
+symptoms.Subjects3and4were59-year-oldCaucasiantwins(sister In vitro toxicity assays and pharmacological rescue
+andbrother)fromafamilywithPD(familyD)(9,60).Theyeachhad of vulnerability
+a heterozygous LRRK2 R1441C mutation inherited from their father ToassessthedoserangesforPD-associatedtoxinsbyLDHandMTS
+whohadPD.Neitherofthesesubjectswasclinicallyaffected,butsub- assays,wedifferentiatedneuralcellsfromalliPSClinesinparallelweekly
+ject3(brother)showedsomerestingtremor.Subject5wasa78-year- batches(66).At52to53daysinvitro,cellswereplatedonpoly-L-ornithine
+oldCaucasianman(familyUS1)whoseageatonsetwas55years;he (PLO)/laminin–coated 96-well plates at a density of 40,000 cells per
+hadascoreof3.5ontheHoehnandYahrscale,indicatingmoderateto well. Fibroblasts from PD patients or age-matched healthy subjects
+severe disability. He carried a homozygous LRRK2 G2019S mutation wereplatedon96-wellplatesatadensityof5000cellsperwell.Twodays
+andhisbrother,maternalaunt,andpaternalunclehadbeendiagnosed later,cellswereincubatedwithvalinomycin(0.1to100mM,Sigma),
+withPD[(61)andunpublisheddata].Hissymptomswereresponsiveto concanamycinA(0.1to100nM,Sigma),CCCP(0.1to100mM,Sigma),hy-
+anti-parkinsonism therapy. Subjects 6 and7 were 59and 40 years, re- drogenperoxide(0.01to10mM,Fisher),6-OHDA(0.1to100mM,Sigma),
+spectively,atskinbiopsyandwerefromthesamefamilyassubjects1and MG132(0.1to100mM;Calbiochem),orMPP+(0.1to100mM,Sigma)
+2butdidnothaveaknownPD-associatedmutationandwereclinically for20hours.Eitherwaterordimethylsulfoxide(DMSO)wasusedas
+unaffectedatthetimeofbiopsy.Skinfibroblastsfromeachofthesubjects vehicleandcontrolconditions.TheLDHandMTSassayswereper-
+werereprogrammedwithstandardmethods(figs.S1toS3andtable formed as described (69) (Roche). For the pharmacological rescue
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 9
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+experiments, a range of concentrations of coenzyme Q (Sigma), Flow cytometric detection of mitochondrial ROS in live
+10
+rapamycin (Sigma),orGW5074(Tocris) was screenedtominimize PD iPSC-derived neural cells
+drug-mediatedtoxicitywhilereducingpatientneuralcellvulnerability Forlow-dosetoxicityassays,neuralcellsdifferentiatedfromcontrolorPD
+tocellularstressors.TheoptimaldoseofcoenzymeQ ,rapamycin,and iPSClinesat52to53daysinvitrowereplatedon24-wellPLO/laminin-
+10
+GW5074wasdeterminedtobe1mMandwasadministeredtothe coatedplatesatadensityof250,000cellsperwell.Twodayslater,neural
+neuralcells30minbeforeandduringexposuretothecellularstressors. cellswereincubatedwithtoxinsfor20hours.mROSwereidentifiedby
+MitoSox (Invitrogen). Neural cells were dissociated with 0.05% trypsin,
+Determination of PD iPSC-derived neural cell OCRs rinsedinHanks’balancedsaltsolution(HBSS),andincubatedinMitoSox
+T.M.D. lab. Mitochondrial OCR in iPSC-derived neural cell cul- workingsolution (50mg MitoSoxreconstitutedin 13 mlofDMSO and
+tureswasanalyzedinanXF24-3ExtracellularFluxAnalyzer(Seahorse dilutedin5mlofwarmHBSS)ataconcentrationof250mlperwellof
+Bioscience).TheOCRassayusesprobesloadedonasensorcartridge 24-wellplate.ThecellswereincubatedinMitoSoxworkingsolutionat37°C
+forfluorimetricdetectionofoxygenconcentration.Onday53ofdif- for10mininthedark.ThecellsweretwicewashedinwarmHBSSbefore
+ferentiation, cells were plated on V7 XF 24-well plates (Seahorse fluorescence-activatedcellsortinganalysis(FACSAria,BDBiosciences)at
+Bioscience)for5days.Fourwellswithnocellsweresetasbackground 510/580nmwithalive-cellgateandstandardmethods(70).
+control for temperature-sensitive fluctuations in OCR analysis. For
+OCR measurements, culture medium was replaced with Seahorse Immunocytochemistry and confocal microscopy
+XFmediumsupplementedwith25mMglucose.Theplateswerepre- Forimmunocytochemistry,theprimaryantibodieswereraisedagainst
+incubatedinaCO -freeincubatorat37°Cfor30minforequilibration tyrosinehydroxylase(TH)(Pel-Freez),typeIIIb-tubulin(Covance),and
+2
+and thereafter processed in the XF analyzer for OCR analysis. OCR FOXA2 (Santa Cruz Biotechnology). Indirect immunofluorescence
+analysis was initiated with a 20-min equilibration followed by three andconfocalmicroscopywere performedasdescribed(66).
+timescyclesof2-minmix,2-minwait,and2-minmeasurementtime.
+All measurement cycles were performed at 37°C as described previ- Determination of GSH levels
+ously. Baseline OCR was recorded three times and followed by se- At52to53daysinvitroofdifferentiation,40,000neuralcellswereplated
+quential injections of oligomycin (1 mM final concentration, Sigma), perwellofPLO/laminin-coated96-wellplates.Twodayslater,theneural
+FCCP (3 mM final concentration, Sigma), and rotenone (1 mM final cellswereadministeredcellularstressorsorvehiclefor24hoursandlysed.
+concentration,Sigma)intoeachwell.Themix-wait-measurecycleswere Followingthemanufacturer’sprotocol(GSH-Glo,Promega),thecellly-
+repeatedtwotimesaftereachdruginjection.Afterthecompletemea- satewasincubatedwithluciferinandglutathioneS-transferaseandintra-
+surementsofOCRanalysisfollowingthethirddruginjection(rotenone), cellularGSHlevelsweremeasuredbyluminescencewithaplatereader.
+theexperimentwasstoppedandthedataweretransformedtoshow
+point-pointmodedisplayofOCRwithbackgroundcorrection,using Live-cell imaging of mitochondrial dynamics
+SeahorseXFsoftware.ThedatawereexportedtoExcelandnormal- Liveimagingexperimentswereperformedinfour-wellchamberedslides
+izedtocellnumberineachwell.Todeterminecellnumbers,wecol- (Lab-Tek,Nunc).ApTurbo-mitoDendraexpressionvector(agiftfrom
+lectedthemediumcontainingdetachedcellsineachwellofXFplates J. Magrane, Cornell University, New York) was used to visualize the
+in1.5-mltubes.TrypLE(200ml)(Invitrogen)wasaddedtoeachwellof mitochondria.Greenfluorescentprotein(GFP)wassubstitutedwiththe
+theplate.Afterincubationoftheplateat37°Cfor3min,theremain- DendracodingregionattheAgeIandNotIsitesofthepTurboGFP-
+ingcellsfromeachwellwerepooled.Thecellswerecentrifugedandthe mito(Evrogen).Theconstructwasverifiedbysequencing.Cellswere
+cellpelletwasresuspendedinphosphate-bufferedsalineandmixedwith seeded(75,000cells per chamber) ontoPLO/laminin-coatedsurfaces
+trypan blue (Invitrogen) for cell counting in an automated Countess (3mg/mleach).CellsweremaintainedinNeurobasalcompletemedium,
+Cellcountinganalyzer(Invitrogen). andonlycellswithaneuronal-likemorphology(thatis,multipolarcell
+D.K.lab. MitochondrialOCRwasdeterminedbyXF24Extracellular bodieswithatleasttwoprocesses),whichlikelyencompassedbothneu-
+FluxAnalyzer(SeahorseBioscience).Cells(60,000)wereplatedper ronalprogenitorsandneurons,wereselectedforfurtheranalyses.Cells
+wellofXF24plates.Fourwellswereleftemptyasbackgroundcon- weretransducedafter6to7daysinvitrowithapTurbo-mitoDendra–
+trols. On day 55 of differentiation, the OCR measurements were encoding lentivirus at various multiplicities of infection. Medium was
+carriedoutinN2mediumaddedfreshonthemorningoftheexper- changedafter12hours,andliveimagingwasperformed72hourslater.
+iment. Plates were preincubated in a CO -free incubator at 37°C for Confocal microscopy was performed with a Nikon A1R MP confocal
+2
+30minforequilibrationbeforeprocessingintheXFanalyzer.Forbase- microscope(NikonInstruments).The488-nmlaserwasmaintainedbe-
+linemeasurements,a20-minequilibrationstepwasfollowedbyfive low0.5mWtoavoidphotoconversionofDendra.A63×oilimmersion
+cyclesof2-minmix,2-minwait,and2-minmeasurementtime.For objectiveandapinholemeasurementof~2.5Airyunits(opticalslice
+analysisofdrugresponse,threecyclesof2-minmix,3-minwait,and <2mm)wereused.Imageswerecollectedevery5sfor5min(61frames).
+1.6-minmeasurementwereusedpercondition.Afterthreebaseline Only the proximal segment of the axon was acquired and recorded.
+measurementsweretaken,oligomycin(Sigma,1mM),CCCP(Sigma, Analyses of axonal and mitochondria lengths were performed as de-
+1mM),andantimycin(Sigma,0.1mM)wereaddedsequentially,with scribed (71). The dynamics of mitochondria along the axonal pro-
+threemeasurementspercondition.Aftertheexperiments,cellswere cesses were studied with MetaMorph software (Universal Imaging).
+harvestedandDNAcontentwasmeasuredwithQuant-iTPicoGreen Kymographs were generated from each film (position versus time)
+(Invitrogen)tonormalizeforcellnumber.Datawereplottedasab- and used to examine the fraction of mitochondria that were mobile
+solutevalues(±SEM)tocomparebaselineOCRoraspercentdeviation with respect to those that were static. A mitochondrion was consid-
+frombaseline(±SEM)afterdrugadditiontocomparetheresponseto ered mobile if it changed its position in at least three consecutive
+drugsbetweenlines. frames. Within mobile mitochondria, we differentiated two different
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 10
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+populations:onemonotonic(movementinonedirectiononly)andone SUPPLEMENTARY MATERIALS
+nonmonotonic(movementinvariousdirections).Monotonicmitochon-
+driaareclassifiedasanterogradeandretrograde. www.sciencetranslationalmedicine.org/cgi/content/full/4/141/141ra90/DC1
+Fig.S1.CellularreprogrammingoffibroblastsfromaPDpatientwithahomozygousLRRK2
+G2019Smutation.
+Electrophysiological recordings
+Fig.S2.CellularreprogrammingoffibroblastsfromaPDpatientwithaheterozygousLRRK2
+Differentiatedneuralcellculturesweretransferredtoarecordingcham- R1441Cmutation.
+ber of an upright microscope equipped with a 40× water-immersion Fig.S3.TransgenesilencinginiPSClines.
+Fig.S4.CategoriesofcelltypesdifferentiatedfromiPSClinesusedinphenotypicassays.
+objective(EclipseE600FN;Nikon)andperfusedwithsalinecontaining
+Fig.S5.ThevulnerabilityprofileofPINK1Q456Xhomozygotepatient-specificneuralcells.
+125mMNaCl,2.5mMKCl,25mMNaHCO ,1.25mMNaH PO ,
+3 2 4 Fig.S6.ThevulnerabilityprofileofLRRK2patient-specificneuralcells.
+2mMCaCl 2 ,1mMMgCl 2 ,and25mMglucose(34°C;saturatedwith Fig.S7.IncreasedbasalrespirationandoxygenconsumptionofPINK1patientneuralcells.
+95%O–5%CO;pH7.4;298mosmol/liter).Thesalineflowratewas2 Fig.S8.TreatmentwithrapamycinorGW5074reducesmROSlevelsinPINK1patientneural
+2 2
+to3ml/minrunningthroughanin-lineheater(SH-27BwithTC-324B cellscausedbyalowdoseofvalinomycin.
+TableS1.Patientgenotypesandcellularreprogrammingmethods.
+controller;WarnerInstruments).Neuronswerevisualizedbyvideomi-
+TableS2.PCRprimersequences(5′-3′).
+croscopywithacooledcharge-coupleddevicedigitalcamera(CoolSNAP TableS3.Healthysubjects’andPDpatients’specificneuralcellmROSlevelsinresponseto
+ES2, Photometrics, Roper Scientific). Cells selected for electrophysio- chemicalstressors(mean±SEMof%changeinmitochondrialROSlevels).
+logical recordings had neuron-like shapes showing distinguishable TableS4.Healthysubjects’andPDpatients’specificneuralcellsensitivitytolowconcentra-
+tionsofchemicalstressors(mean±SEMof%changeincellcountsfromvehicle-administered
+neurites.Somaticwhole-cellpatch-clamprecordingsincurrentclamp
+cultures).
+configuration were performed with a MultiClamp 700B amplifier
+(MolecularDevices).Signalswerefilteredat1to4kHzanddigitized
+REFERENCES AND NOTES
+at5to20kHzwithaDigidata1440A(MolecularDevices).Recording
+patchelectrodeshadaresistanceof4to6megohmsandwerefabri-
+1. C.Y.Chung,H.Seo,K.C.Sonntag,A.Brooks,L.Lin,O.Isacson,Celltype-specificgene
+catedfromfilamentedborosilicateglass(SutterInstruments)pulledon expressionofmidbraindopaminergicneuronsrevealsmoleculesinvolvedintheirvulner-
+a Flaming-Brown puller (P-97, Sutter Instruments). Patch electrodes abilityandprotection.Hum.Mol.Genet.14,1709–1725(2005).
+werefilledwithinternalsolutioncontaining135mMK-MeSO,5mM 2. J.N.Guzman,J.Sanchez-Padilla,D.Wokosin,J.Kondapalli,E.Ilijic,P.T.Schumacker,D.J.Surmeier,
+4 OxidantstressevokedbypacemakingindopaminergicneuronsisattenuatedbyDJ-1.Nature
+KCl,5mMHepes,0.25mMEGTA,10mMphosphocreatine-di(tris),
+468,696–700(2010).
+2mMATP-Mg,and0.5mMguanosinetriphosphate(GTP)–Na(pH
+3. T.G.Lesnick,S.Papapetropoulos,D.C.Mash,J.Ffrench-Mullen,L.Shehadeh,M.deAndrade,
+7.3,osmolarityadjustedto290to300mosmol/liter).Forcurrent-clamp J.R.Henley,W.A.Rocca,J.E.Ahlskog,D.M.Maraganore,Agenomicpathwayapproachtoa
+recordings,theamplifierbridgecircuitwasadjustedtocompensatefor complexdisease:AxonguidanceandParkinsondisease.PLoSGenet.3,e98(2007).
+4. J.W.Langston,P.Ballard,J.W.Tetrud,I.Irwin,Chronicparkinsonisminhumansduetoa
+electrode resistance and monitored. Electrode capacitance was also
+productofmeperidine-analogsynthesis.Science219,979–980(1983).
+compensated.Ifseriesresistanceincreased>20%duringtherecording, 5. J.M.Gorell,C.C.Johnson,B.A.Rybicki,E.L.Peterson,R.J.Richardson,TheriskofParkinson’s
+the data were discarded. To study the responsiveness of spontaneous diseasewithexposuretopesticides,farming,wellwater,andruralliving.Neurology50,
+activecellstocurrentcommands,weinjectedaholdingcurrenttohy- 1346–1350(1998).
+perpolarizethemembranepotentialabout−65mV,avoidingthespon- 6. J.Simón-Sánchez,C.Schulte,J.M.Bras,M.Sharma,J.R.Gibbs,D.Berg,C.Paisan-Ruiz,
+P.Lichtner,S.W.Scholz,D.G.Hernandez,R.Krüger,M.Federoff,C.Klein,A.Goate,J.Perlmutter,
+taneous firing. Then, step current commands were injected to elicit
+M.Bonin,M.A.Nalls,T.Illig,C.Gieger,H.Houlden,M.Steffens,M.S.Okun,B.A.Racette,
+action potentials (1 s, 5 to 10pA). Spontaneous activity was also re- M.R.Cookson,K.D.Foote,H.H.Fernandez,B.J.Traynor,S.Schreiber,S.Arepalli,R.Zonozi,
+cordedincurrent-clampconfigurationwithoutholdingcurrent. K.Gwinn,M.vanderBrug,G.Lopez,S.J.Chanock,A.Schatzkin,Y.Park,A.Hollenbeck,J.Gao,
+X.Huang,N.W.Wood,D.Lorenz,G.Deuschl,H.Chen,O.Riess,J.A.Hardy,A.B.Singleton,
+Automated image acquisition and quantitative analysis
+T.Gasser,Genome-wideassociationstudyrevealsgeneticriskunderlyingParkinson’sdis-
+ease.Nat.Genet.41,1308–1312(2009).
+of immunocytochemistry
+7. M.R.Cookson,O.Bandmann,Parkinson’sdisease:Insightsfrompathways.Hum.Mol.Genet.
+Quantitativeanalysisofimmunocytochemistrywasperformedontwo 19,R21–R27(2010).
+coverslips per experimental condition. Each experimental condition 8. J.Hardy,GeneticanalysisofpathwaystoParkinsondisease.Neuron68,201–206(2010).
+was performed at least three times. Nine images per coverslip were 9. A.Zimprich,S.Biskup,P.Leitner,P.Lichtner,M.Farrer,S.Lincoln,J.Kachergus,M.Hulihan,
+R.J.Uitti,D.B.Calne,A.J.Stoessl,R.F.Pfeiffer,N.Patenge,I.C.Carbajal,P.Vieregge,F.Asmus,
+acquiredwithanINCellAnalyzer2000(GEHealthcare)at20×mag-
+B.Müller-Myhsok,D.W.Dickson,T.Meitinger,T.M.Strom,Z.K.Wszolek,T.Gasser,Mutations
+nification with autofocus. The exposure times were in the range of inLRRK2causeautosomal-dominantparkinsonismwithpleomorphicpathology.Neuron44,
+0.02to0.03sforHoechstandb-tubulinand0.07to0.1sforTH(be- 601–607(2004).
+low saturation). Images were analyzed in an automatic, unbiased way 10. C.Paisán-Ruíz,S.Jain,E.W.Evans,W.P.Gilks,J.Simón,M.vanderBrug,A.LópezdeMunain,
+S.Aparicio,A.M.Gil,N.Khan,J.Johnson,J.R.Martinez,D.Nicholl,I.M.Carrera,A.S.Pena,
+withINCellWorkstationSoftware(GEHealthcare).Thenumbersofall
+cells, b-tubulin–expressing neurons, and TH/b-tubulin–coexpressing R ge . n d e e c S o ilv n a ta , i A n . in L g ee m s, u J t . a F t . io M n a s r t t h í-M at a c s a só u , se J. P P A é R re K z 8 - - T li u n r k , e N d .W Pa . r W kin o s o o d n , ’s A d .B is . e S a i s n e g . l N et e o u n ro ,C n lo 4 n 4 i , n 5 g 95 o – f 6 th 00 e
+cells were quantified with a multitarget analysis. Individual cells were (2004).
+identified as having a Hoechst-stained nuclear area larger than 25 mm2 11. J.O.Aasly,M.Toft,I.Fernandez-Mata,J.Kachergus,M.Hulihan,L.R.White,M.Farrer,
+with top-hat segmentation. b-Tubulin– and TH-expressing cells were ClinicalfeaturesofLRRK2-associatedParkinson’sdiseaseincentralNorway.Ann.Neurol.
+57,762–765(2005).
+identifiedonthebasisofrespectivestaininginanareaextendingoutside
+12. D.G.Healy,M.Falchi,S.S.O’Sullivan,V.Bonifati,A.Durr,S.Bressman,A.Brice,J.Aasly,
+ofthenucleuswithasensitivitysettingof50. C.P.Zabetian,S.Goldwurm,J.J.Ferreira,E.Tolosa,D.M.Kay,C.Klein,D.R.Williams,C.Marras,
+A.E.Lang,Z.K.Wszolek,J.Berciano,A.H.Schapira,T.Lynch,K.P.Bhatia,T.Gasser,A.J.Lees,
+Statistical analysis N.W.Wood;InternationalLRRK2Consortium,Phenotype,genotype,andworldwidegenetic
+penetranceofLRRK2-associatedParkinson’sdisease:Acase-controlstudy.LancetNeurol.7,
+One-ortwo-wayANOVAwithposthoctestsorKolmogorov-Smirnov
+583–590(2008).
+testwasusedtoanalyzethedata(InStat,GraphPadSoftwareInc.;JMP,
+13. A.S.Chen-Plotkin,W.Yuan,C.Anderson,E.McCartyWood,H.I.Hurtig,C.M.Clark,B.L.Miller,
+SASInstitute).P<0.05wasconsideredsignificantlydifferent.
+V.M.Lee,J.Q.Trojanowski,M.Grossman,V.M.VanDeerlin,Corticobasalsyndromeand
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 11
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+primaryprogressiveaphasiaasmanifestationsofLRRK2genemutations.Neurology70, 35. A.Grünewald,G.J.Breedveld,K.Lohmann-Hedrich,C.F.Rohé,I.R.König,J.Hagenah,
+521–527(2008). N.Vanacore,G.Meco,A.Antonini,S.Goldwurm,S.Lesage,A.Dürr,F.Binkofski,H.Siebner,
+14. B.I.Giasson,J.P.Covy,N.M.Bonini,H.I.Hurtig,M.J.Farrer,J.Q.Trojanowski,V.M.VanDeerlin, A.Münchau,A.Brice,B.A.Oostra,C.Klein,V.Bonifati,BiologicaleffectsofthePINK1c.1366C>T
+BiochemicalandpathologicalcharacterizationofLrrk2.Ann.Neurol.59,315–322(2006). mutation:ImplicationsinParkinsondiseasepathogenesis.Neurogenetics8,103–109(2007).
+15. B.D.Lee,J.H.Shin,J.VanKampen,L.Petrucelli,A.B.West,H.S.Ko,Y.I.Lee,K.A.Maguire-Zeiss, 36. A.S.Divakaruni,M.D.Brand,Theregulationandphysiologyofmitochondrialprotonleak.
+W.J.Bowers,H.J.Federoff,V.L.Dawson,T.M.Dawson,Inhibitorsofleucine-richrepeatkinase-2 Physiology26,192–205(2011).
+protectagainstmodelsofParkinson’sdisease.Nat.Med.16,998–1000(2010). 37. A.B.West,D.J.Moore,S.Biskup,A.Bugayenko,W.W.Smith,C.A.Ross,V.L.Dawson,T.M.Dawson,
+16. M.R.Cookson,Theroleofleucine-richrepeatkinase2(LRRK2)inParkinson’sdisease.Nat.Rev. Parkinson’sdisease-associatedmutationsinleucine-richrepeatkinase2augmentkinaseac-
+Neurosci.11,791–797(2010). tivity.Proc.Natl.Acad.Sci.U.S.A.102,16842–16847(2005).
+17. E.M.Valente,P.M.Abou-Sleiman,V.Caputo,M.M.Muqit,K.Harvey,S.Gispert,Z.Ali,D.DelTurco, 38. G.Morfini,G.Pigino,K.Opalach,Y.Serulle,J.E.Moreira,M.Sugimori,R.R.Llinás,S.T.Brady,
+A.R.Bentivoglio,D.G.Healy,A.Albanese,R.Nussbaum,R.González-Maldonado,T.Deller, 1-Methyl-4-phenylpyridiniumaffectsfastaxonaltransportbyactivationofcaspaseandpro-
+S.Salvi,P.Cortelli,W.P.Gilks,D.S.Latchman,R.J.Harvey,B.Dallapiccola,G.Auburger, teinkinaseC.Proc.Natl.Acad.Sci.U.S.A.104,2442–2447(2007).
+N.W.Wood,Hereditaryearly-onsetParkinson’sdiseasecausedbymutationsinPINK1.Science 39. A.R.Saha,J.Hill,M.A.Utton,A.A.Asuni,S.Ackerley,A.J.Grierson,C.C.Miller,A.M.Davies,
+304,1158–1160(2004). V.L.Buchman,B.H.Anderton,D.P.Hanger,Parkinson’sdiseasea-synucleinmutationsexhibit
+18. E.M.Valente,A.R.Bentivoglio,P.H.Dixon,A.Ferraris,T.Ialongo,M.Frontali,A.Albanese, defectiveaxonaltransportinculturedneurons.J.CellSci.117,1017–1024(2004).
+N.W.Wood,Localizationofanovellocusforautosomalrecessiveearly-onsetparkinsonism, 40. C.Y.Chung,J.B.Koprich,H.Siddiqi,O.Isacson,Dynamicchangesinpresynapticandaxonal
+PARK6,onhumanchromosome1p35-p36.Am.J.Hum.Genet.68,895–900(2001). transportproteinscombinedwithstriatalneuroinflammationprecededopaminergicneuronal
+19. Y.Hatano,K.Sato,B.Elibol,H.Yoshino,Y.Yamamura,V.Bonifati,H.Shinotoh,M.Asahina, lossinaratmodelofAAVa-synucleinopathy.J.Neurosci.29,3365–3373(2009).
+S.Kobayashi,A.R.Ng,R.L.Rosales,S.Hassin-Baer,Y.Shinar,C.S.Lu,H.C.Chang,Y.H.Wu-Chou, 41. L.S.Goldstein,Z.Yang,Microtubule-basedtransportsystemsinneurons:Therolesofkinesins
+F.B.Ataç,T.Kobayashi,T.Toda,Y.Mizuno,N.Hattori,PARK6-linkedautosomalrecessiveearly- anddyneins.Annu.Rev.Neurosci.23,39–71(2000).
+onsetparkinsonisminAsianpopulations.Neurology63,1482–1485(2004). 42. F.Gillardon,Leucine-richrepeatkinase2phosphorylatesbraintubulin-betaisoformsand
+20. Y.Hatano,Y.Li,K.Sato,S.Asakawa,Y.Yamamura,H.Tomiyama,H.Yoshino,M.Asahina, modulatesmicrotubulestability—Apointofconvergenceinparkinsonianneurodegeneration?
+S.Kobayashi,S.Hassin-Baer,C.S.Lu,A.R.Ng,R.L.Rosales,N.Shimizu,T.Toda,Y.Mizuno, J.Neurochem.110,1514–1522(2009).
+N.Hattori,NovelPINK1mutationsinearly-onsetparkinsonism.Ann.Neurol.56,424–427 43. B.Frei,M.C.Kim,B.N.Ames,Ubiquinol-10isaneffectivelipid-solubleantioxidantatphys-
+(2004). iologicalconcentrations.Proc.Natl.Acad.Sci.U.S.A.87,4879–4883(1990).
+21. K.Hedrich,J.Hagenah,A.Djarmati,A.Hiller,T.Lohnau,K.Lasek,A.Grünewald,R.Hilker, 44. P.C.Chin,L.Liu,B.E.Morrison,A.Siddiq,R.R.Ratan,T.Bottiglieri,S.R.D’Mello,Thec-Raf
+S.Steinlechner,H.Boston,N.Kock,C.Schneider-Gold,W.Kress,H.Siebner,F.Binkofski,R.Lencer, inhibitorGW5074providesneuroprotectioninvitroandinananimalmodelofneurodegen-
+A.Münchau,C.Klein,ClinicalspectrumofhomozygousandheterozygousPINK1mutationsin erationthroughaMEK-ERKandAkt-independentmechanism.J.Neurochem.90,595–608
+alargeGermanfamilywithParkinsondisease:Roleofasinglehit?Arch.Neurol.63,833–838 (2004).
+(2006). 45. B.Dehay,J.Bové,N.Rodríguez-Muela,C.Perier,A.Recasens,P.Boya,M.Vila,Pathogenic
+22. M.Kasten,C.Weichert,K.Lohmann,C.Klein,Clinicalanddemographiccharacteristicsof lysosomaldepletioninParkinson’sdisease.J.Neurosci.30,12535–12544(2010).
+PINK1mutationcarriers—Ameta-analysis.Mov.Disord.25,952–954(2010). 46. C.Malagelada,Z.H.Jin,V.Jackson-Lewis,S.Przedborski,L.A.Greene,Rapamycinprotects
+23. W.Satake,Y.Nakabayashi,I.Mizuta,Y.Hirota,C.Ito,M.Kubo,T.Kawaguchi,T.Tsunoda, againstneurondeathininvitroandinvivomodelsofParkinson’sdisease.J.Neurosci.30,
+M.Watanabe,A.Takeda,H.Tomiyama,K.Nakashima,K.Hasegawa,F.Obata,T.Yoshikawa, 1166–1175(2010).
+H.Kawakami,S.Sakoda,M.Yamamoto,N.Hattori,M.Murata,Y.Nakamura,T.Toda,Genome- 47. C.Malagelada,Z.H.Jin,L.A.Greene,RTP801isinducedinParkinson’sdiseaseandmediates
+wideassociationstudyidentifiescommonvariantsatfourlociasgeneticriskfactorsfor neurondeathbyinhibitingAktphosphorylation/activation.J.Neurosci.28,14363–14371
+Parkinson’sdisease.Nat.Genet.41,1303–1307(2009). (2008).
+24. Y.J.Edwards,G.W.Beecham,W.K.Scott,S.Khuri,G.Bademci,D.Tekin,E.R.Martin,Z.Jiang, 48. L.S.Tain,H.Mortiboys,R.N.Tao,E.Ziviani,O.Bandmann,A.J.Whitworth,Rapamycin
+D.C.Mash,J.ffrench-Mullen,M.A.Pericak-Vance,N.Tsinoremas,J.M.Vance,Identifying activationof4E-BPpreventsparkinsoniandopaminergicneuronloss.Nat.Neurosci.12,
+consensusdiseasepathwaysinParkinson’sdiseaseusinganintegrativesystemsbiology 1129–1135(2009).
+approach.PLoSOne6,e16917(2011). 49. H.Mortiboys,K.K.Johansen,J.O.Aasly,O.Bandmann,Mitochondrialimpairmentinpatients
+25. C.Klein,R.Chuang,C.Marras,A.E.Lang,Thecuriouscaseofphenocopiesinfamilieswith withParkinsondiseasewiththeG2019SmutationinLRRK2.Neurology75,2017–2020(2010).
+geneticParkinson’sdisease.Mov.Disord.26,1793–1802(2011). 50. C.Piccoli,A.Sardanelli,R.Scrima,M.Ripoli,G.Quarato,A.D’Aprile,F.Bellomo,S.Scacco,
+26. M.A.Israel,S.H.Yuan,C.Bardy,S.M.Reyna,Y.Mu,C.Herrera,M.P.Hefferan,S.VanGorp, G.DeMichele,A.Filla,A.Iuso,D.Boffoli,N.Capitanio,S.Papa,Mitochondrialrespiratory
+K.L.Nazor,F.S.Boscolo,C.T.Carson,L.C.Laurent,M.Marsala,F.H.Gage,A.M.Remes, dysfunctioninfamiliarparkinsonismassociatedwithPINK1mutation.Neurochem.Res.
+E.H.Koo,L.S.Goldstein,ProbingsporadicandfamilialAlzheimer’sdiseaseusinginduced 33,2565–2574(2008).
+pluripotentstemcells.Nature482,216–220(2012). 51. A.Rakovic,A.Grünewald,P.Seibler,A.Ramirez,N.Kock,S.Orolicki,K.Lohmann,C.Klein,
+27. P.Seibler,J.Graziotto,H.Jeong,F.Simunovic,C.Klein,D.Krainc,MitochondrialParkin Effectofendogenousmutantandwild-typePINK1onParkininfibroblastsfromParkinson
+recruitmentisimpairedinneuronsderivedfrommutantPINK1inducedpluripotentstem diseasepatients.Hum.Mol.Genet.19,3124–3137(2010).
+cells.J.Neurosci.31,5970–5976(2011). 52. A.Rakovic,A.Grünewald,J.Kottwitz,N.Brüggemann,P.P.Pramstaller,K.Lohmann,C.Klein,
+28. C.Vives-Bauza,C.Zhou,Y.Huang,M.Cui,R.L.deVries,J.Kim,J.May,M.A.Tocilescu,W.Liu, MutationsinPINK1andParkinimpairubiquitinationofMitofusinsinhumanfibroblasts.
+H.S.Ko,J.Magrané,D.J.Moore,V.L.Dawson,R.Grailhe,T.M.Dawson,C.Li,K.Tieu,S.Przedborski, PLoSOne6,e16746(2011).
+PINK1-dependentrecruitmentofParkintomitochondriainmitophagy.Proc.Natl.Acad.Sci.U.S.A. 53. P.Damier,E.C.Hirsch,Y.Agid,A.M.Graybiel,Thesubstantianigraofthehumanbrain.II.
+107,378–383(2010). Patternsoflossofdopamine-containingneuronsinParkinson’sdisease.Brain122,1437–1448
+29. V.S.VanLaar,B.Arnold,S.J.Cassady,C.T.Chu,E.A.Burton,S.B.Berman,Bioenergeticsof (1999).
+neuronsinhibitthetranslocationresponseofParkinfollowingrapidmitochondrialde- 54. D.J.Brooks,ExaminingBraak’shypothesisbyimagingParkinson’sdisease.Mov.Disord.25
+polarization.Hum.Mol.Genet.20,927–940(2011). (Suppl.1),S83–S88(2010).
+30. T.Brustovetsky,V.Li,N.Brustovetsky,Stimulationofglutamatereceptorsinculturedhippo- 55. A.Bender,K.J.Krishnan,C.M.Morris,G.A.Taylor,A.K.Reeve,R.H.Perry,E.Jaros,J.S.Hersheson,
+campalneuronscausesCa2+-dependentmitochondrialcontraction.CellCalcium46,18–29 J.Betts,T.Klopstock,R.W.Taylor,D.M.Turnbull,HighlevelsofmitochondrialDNAdeletions
+(2009). insubstantianigraneuronsinagingandParkinsondisease.Nat.Genet.38,515–517(2006).
+31. T.Nishi,M.Forgac,Thevacuolar(H+)-ATPases—Nature’smostversatileprotonpumps.Nat.Rev. 56. Y.Kraytsberg,E.Kudryavtseva,A.C.McKee,C.Geula,N.W.Kowall,K.Khrapko,Mitochondrial
+Mol.CellBiol.3,94–103(2002). DNAdeletionsareabundantandcausefunctionalimpairmentinagedhumansubstantia
+32. S.Dröse,K.U.Bindseil,E.J.Bowman,A.Siebers,A.Zeeck,K.Altendorf,Inhibitoryeffectof nigraneurons.Nat.Genet.38,518–520(2006).
+modifiedbafilomycinsandconcanamycinsonP-andV-typeadenosinetriphosphatases. 57. A.Colman,O.Dreesen,Pluripotentstemcellsanddiseasemodeling.CellStemCell5,244–247
+Biochemistry32,3902–3906(1993). (2009).
+33. A.V.Zhdanov,R.I.Dmitriev,D.B.Papkovsky,BafilomycinA1activatesrespirationofneuronal 58. K.Saha,R.Jaenisch,Technicalchallengesinusinghumaninducedpluripotentstemcells
+cellsviauncouplingassociatedwithflickeringdepolarizationofmitochondria.Cell.Mol.LifeSci. tomodeldisease.CellStemCell5,584–595(2009).
+68,903–917(2011). 59. L.L.Rubin,Stemcellsanddrugdiscovery:Thebeginningofanewera?Cell132,549–552
+34. V.V.Teplova,A.A.Tonshin,P.A.Grigoriev,N.E.Saris,M.S.Salkinoja-Salonen,Bafilomycin (2008).
+A1isapotassiumionophorethatimpairsmitochondrialfunctions.J.Bioenerg.Biomembr. 60. Z.K.Wszolek,R.F.Pfeiffer,Y.Tsuboi,R.J.Uitti,R.D.McComb,A.J.Stoessl,A.J.Strongosky,
+39,321–329(2007). A.Zimprich,B.Müller-Myhsok,M.J.Farrer,T.Gasser,D.B.Calne,D.W.Dickson,Autosomal
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 12
+
+---PAGE BREAK---
+
+RESEARCH ARTICLE
+dominantparkinsonismassociatedwithvariablesynucleinandtaupathology.Neurology HaroldandRonnaCooperfamily,theConsolidatedAnti-AgingFoundation,andthePoulHansen
+62,1619–1622(2004). family.Z.K.W.waspartiallysupportedbytheNIH/NINDSNS057567,P50NS072187,MayoClinic
+61. L.Ishihara,L.Warren,R.Gibson,R.Amouri,S.Lesage,A.Dürr,M.Tazir,Z.K.Wszolek,R.J.Uitti, Florida(MCF)ResearchCommitteeCRprogram(MCF#90052030),DystoniaMedicalResearch
+W.C.Nichols,A.Griffith,N.Hattori,D.Leppert,R.Watts,C.P.Zabetian,T.M.Foroud,M.J.Farrer, Foundation,andagiftfromCarlEdwardBolchJr.andSusanBassBolch(MCF90052031/PAU
+A.Brice,L.Middleton,F.Hentati,ClinicalfeaturesofParkinsondiseasepatientswithhomozygous 90052).S.A.,L.Chen,L.A.S.,V.L.D.,andT.M.D.weresupportedbyNIH/NINDSNS38377andthe
+leucine-richrepeatkinase2G2019Smutations.Arch.Neurol.63,1250–1254(2006). MarylandStemCellResearchFoundation2007-MSCRFI-0420-00andacknowledgethejoint
+62. E.M.Chan,S.Ratanasirintrawoot,I.H.Park,P.D.Manos,Y.H.Loh,H.Huo,J.D.Miller,O.Hartung, participationbytheAdrienneHelisMalvinMedicalResearchFoundationthroughitsdirect
+J.Rho,T.A.Ince,G.Q.Daley,T.M.Schlaeger,Livecellimagingdistinguishesbonafidehuman engagementinthecontinuousactiveconductofmedicalresearchinconjunctionwithTheJohns
+iPScellsfrompartiallyreprogrammedcells.Nat.Biotechnol.27,1033–1037(2009). HopkinsHospitalandtheJohnsHopkinsUniversitySchoolofMedicineandtheFoundation’s
+63. G.L.Boulting,E.Kiskinis,G.F.Croft,M.W.Amoroso,D.H.Oakley,B.J.Wainger,D.J.Williams, Parkinson’sDiseaseProgramNo.M-1.C.K.wassupportedbyacareerdevelopmentawardfrom
+D.J.Kahler,M.Yamaki,L.Davidow,C.T.Rodolfa,J.T.Dimos,S.Mikkilineni,A.B.Macdermott, theHermannandLillySchillingFoundation.Authorcontributions:O.C.,H.S.,S.A.,C.G.-L.,J.G.,M.S.,
+C.J.Woolf,C.E.Henderson,H.Wichterle,K.Eggan,Afunctionallycharacterizedtestsetof J.R.M.,L.C.-R.,Z.X.,T.O.,G.H.,M.D.,T.L.,H.B.,E.P.-T.,L.Clark,C.M.,J.M.,L.Chen,L.V.-D.,N.R.,H.J.,R.J.U.,
+humaninducedpluripotentstemcells.Nat.Biotechnol.29,279–286(2011). Z.H.,G.O.,L.A.S.,V.L.D.,C.K.,J.F.,O.A.R.,J.Q.T.,V.M.-Y.L.,K.M.,D.J.S.,Z.K.W.,S.P.,D.K.,T.M.D.,andO.I.
+64. M.Deleidi,G.Hargus,P.Hallett,T.Osborn,O.Isacson,Developmentofhistocompatible contributedtotheideasanddesignsoftheexperiments.O.C.,H.S.,andO.I.designedthe
+primate-inducedpluripotentstemcellsforneuraltransplantation.StemCells29,1052–1063 experimentsandwrotethemanuscript.O.C.,H.S.,M.S.,T.O.,G.H.,andM.D.performedcytotoxicity
+(2011). assays.S.A.,L.A.S.,V.L.D.,T.M.D.,J.G.,J.M.,andD.K.designed,performed,andanalyzedtheOCRsof
+65. H.Deng,W.Le,Y.Guo,C.B.Hunter,W.Xie,M.Huang,J.Jankovic,GeneticanalysisofLRRK2 neuralcells.O.C.,H.S.,M.S.,M.D.,T.L.,andE.P.-T.performedtheexperimentsusingflowcytometry.
+mutationsinpatientswithParkinsondisease.J.Neurol.Sci.251,102–106(2006). C.G.-L.,N.R.,andS.P.designed,performed,andanalyzedthemitochondrialdynamicsinneurons.
+66. O.Cooper,G.Hargus,M.Deleidi,A.Blak,T.Osborn,E.Marlow,K.Lee,A.Levy,E.Perez-Torres, O.C.,J.M.,andO.I.performedandanalyzedthegenotypingandtransgenesilencingoftheiPSC
+A.Yow,O.Isacson,DifferentiationofhumanESandParkinson’sdiseaseiPScellsintoventral lines.L.C.-R.,Z.X.,andD.J.S.designed,performed,andanalyzedtheelectrophysiological
+midbraindopaminergicneuronsrequiresahighactivityformofSHH,FGF8aandspecificre- experimentsforPDiPSC-derivedneurons.O.C.,M.S.,T.O.,G.H.,M.D.,T.L.,H.B.,andO.I.performed
+gionalizationbyretinoicacid.Mol.Cell.Neurosci.45,258–266(2010). andanalyzeddifferentiationexperiments.L.C.,C.M.,R.J.U.,Z.H.,G.O.,K.M.,T.M.D.,andZ.K.W.
+67. M.Frank-Kamenetsky,X.M.Zhang,S.Bottega,O.Guicherit,H.Wichterle,H.Dudek,D.Bumcrot, recruitedandgenotypedpatientsandcreatedfibroblastsamples.D.K.andC.K.providedthePINK1
+F.Y.Wang,S.Jones,J.Shulok,L.L.Rubin,J.A.Porter,Small-moleculemodulatorsofHedgehog PDpatientandhealthysubjectiPSClines.Competinginterests:T.M.D.isapaidconsultantto
+signaling:IdentificationandcharacterizationofSmoothenedagonistsandantagonists.J.Biol.1, MerckKGAA,TEVAPharmaceuticals,UptoDateInc.,BoehringerIngelheim,GlaxoResearchand
+10(2002). DevelopmentLTD,PfizerInc.,QRxPharma,andSchering-PloughResearchInstitute.Theterms
+68. J.K.Chen,J.Taipale,K.E.Young,T.Maiti,P.A.Beachy,Smallmoleculemodulationof ofthesearrangementsarebeingmanagedbytheJohnsHopkinsUniversityinaccordancewith
+Smoothenedactivity.Proc.Natl.Acad.Sci.U.S.A.99,14071–14076(2002). itsconflictofinterestpolicies.Z.K.W.hasafinancialinterestinatechnology(LRRK2genetest),
+69. C.Y.Chung,H.Seo,K.C.Sonntag,A.Brooks,L.Lin,O.Isacson,Celltype-specificgeneexpres- whichhasbeenlicensedtoacommercialentity.MayoClinicandZ.K.W.receiveroyaltiesfrom
+sionofmidbraindopaminergicneuronsrevealsmoleculesinvolvedintheirvulnerabilityand thatlicense.Theotherauthorsdeclarethattheyhavenocompetinginterests.Dataand
+protection.Hum.Mol.Genet.14,1709–1725(2005). materialsavailability:Thebiologicalsamples,fibroblasts,andiPSCsusedarestoredatthe
+70. J.Pruszak,W.Ludwig,A.Blak,K.Alavian,O.Isacson,CD15,CD24,andCD29defineasurface participatinginstitutionsandwillalsobestoredattheNINDSHumanGeneticsDNAandCell
+biomarkercodeforneurallineagedifferentiationofstemcells.StemCells27,2928–2940 LineRepositoryatCoriellInstituteforMedicalResearch.
+(2009).
+71. J.Magrané,I.Hervias,M.S.Henning,M.Damiano,H.Kawamata,G.Manfredi,MutantSOD1in Submitted7March2012
+neuronalmitochondriacausestoxicityandmitochondrialdynamicsabnormalities.Hum.Mol. Accepted1June2012
+Genet.18,4552–4564(2009). Published4July2012
+10.1126/scitranslmed.3003985
+Acknowledgments:WethankJ.Lash,astudycoordinatorfromtheMayoClinicFloridawho
+wasinstrumentalinassistinginrecruitmentofpatientsforthisstudyandmakingthetravel Citation:O.Cooper,H.Seo,S.Andrabi,C.Guardia-Laguarta,J.Graziotto,M.Sundberg,J.R.McLean,
+arrangementsforthem.Funding:ThisworkwassupportedbyagrantfromtheAmerican L.Carrillo-Reid,Z.Xie,T.Osborn,G.Hargus,M.Deleidi,T.Lawson,H.Bogetofte,E.Perez-Torres,L.Clark,
+RecoveryandReinvestmentAct–NIH/NationalInstituteofNeurologicalDisordersandStroke C.Moskowitz,J.Mazzulli,L.Chen,L.Volpicelli-Daley,N.Romero,H.Jiang,R.J.Uitti,Z.Huang,G.Opala,
+(NINDS)(1RC2NS070276)andtheNIHU24grant(1U24NS078338-01)awardedtothePDiPS L.A.Scarffe,V.L.Dawson,C.Klein,J.Feng,O.A.Ross,J.Q.Trojanowski,V.M.-Y.Lee,K.Marder,
+CellResearchConsortium.O.I.,O.C.,H.S.,M.S.,J.M.,T.O.,G.H.,M.D.,T.L.,H.B.andE.P.-T.were D.J.Surmeier,Z.K.Wszolek,S.Przedborski,D.Krainc,T.M.Dawson,O.Isacson,Pharmacological
+supportedbytheMichaelJ.FoxFoundation,theHarvardStemCellInstituteandtheMiller rescueofmitochondrialdeficitsiniPSC-derivedneuralcellsfrompatientswithfamilial
+ConsortiumfortheDevelopmentofNervousSystemTherapies,theOrchardFoundation,the Parkinson’sdisease.Sci.Transl.Med.4,141ra90(2012).
+www.ScienceTranslationalMedicine.org 4July2012 Vol4Issue141141ra90 13
+
+---PAGE BREAK---
+

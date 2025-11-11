@@ -1,0 +1,1089 @@
+Chunk 1:
+SCIENCE ADVANCES | RESEARCH ARTICLE
+DISEASES AND DISORDERS
+Copyright © 2020
+The Authors, some
+Single-cell peripheral immunoprofiling of Alzheimer’s rights reserved;
+exclusive licensee
+and Parkinson’s diseases American Association
+for the Advancement
+Thanaphong Phongpreecha1,2,3*, Rosemary Fernandez3*, Dunja Mrdjen3, Anthony Culos1,2,4, of Science. No claim to
+Chandresh R. Gajera3, Adam M. Wawro3, Natalie Stanley1,2,4, Brice Gaudilliere1,4, original U.S. Government
+Works. Distributed
+Kathleen L. Poston5, Nima Aghaeepour1,2,4, Thomas J. Montine3†
+under a Creative
+Commons Attribution
+Peripheral blood mononuclear cells (PBMCs) may provide insight into the pathogenesis of Alzheimer’s disease NonCommercial
+(AD) or Parkinson’s disease (PD). We investigated PBMC samples from 132 well-characterized research participants License 4.0 (CC BY-NC).
+using seven canonical immune stimulants, mass cytometric identification of 35 PBMC subsets, and single-cell
+quantification of 15 intracellular signaling markers, followed by machine learning model development to increase
+predictive power. From these, three main intracellular signaling pathways were identified specifically in PBMC
+subsets from people with AD versus controls: reduced activation of PLC2 across many cell types and stimulations
+and selectively variable activation of STAT1 and STAT5, depending on stimulant and cell type. Our findings func-
+tionally buttress the now multiply-validated observation that a rare coding variant in PLCG2 is associated with a
+decreased risk of AD. Together, these data suggest enhanced PLC2 activity as a potential new therapeutic target
+for AD with a readily accessible pharmacodynamic biomarker.
+INTRODUCTION measured only one or a small number; measuring a larger number
+Many laboratories have tested the hypothesis that peripheral blood mono­ of secreted factors has thus far been irreproducible (11, 12). Last, only
+nuclear cells (PBMCs) can provide a window into the pathogenesis of a few previous st
+
+Chunk 2:
+otential new therapeutic target
+for AD with a readily accessible pharmacodynamic biomarker.
+INTRODUCTION measured only one or a small number; measuring a larger number
+Many laboratories have tested the hypothesis that peripheral blood mono­ of secreted factors has thus far been irreproducible (11, 12). Last, only
+nuclear cells (PBMCs) can provide a window into the pathogenesis of a few previous studies (8) have included multiple neurodegenerative
+neurodegenerative diseases, either because a subset of them, e.g., specific diseases to control for features of being chronically ill.
+T cells or monocytes, traffic into the brain and thus may directly partic­ To address these limitations, we designed a study with a more com­
+ipate in disease mechanisms or because an inherited or acquired trait prehensive (i) cohort, (ii) range of stimuli, (iii) PBMC subtype identifi­
+shared between PBMCs and brain cells might serve as a biomarker of cation, and (iv) response molecule repertoire. We assembled samples
+neuroinflammation (1, 2). PubMed lists more than 1200 citations for from 132 individuals who had undergone extensive research­quality
+human leukocytes and Alzheimer’s disease (AD) and more than 550 clinical assessment with diagnosis performed by a consensus panel of
+citations for human leukocytes and Parkinson’s disease (PD) (3–5). There experts. Our discovery cohort comprised sporadic (lacking mono­
+has been some success using quantitative traits in leukocytes to validate genetic cause) AD dementia, sporadic PD, matched healthy controls
+genetic risk loci for AD or PD (6, 7); however, the outcome of these (HCs), and younger HCs. Our validation cohort comprised AD de­
+studies has not yet been broadly reproduced across research laboratories. mentia and matched HCs. PMBCs were stimulated by one of seven
+This could be because of diagnostic misclassification, lack of a validation canonical activators chosen to provide a range of activation: pro­ and
+cohort, or challenges to cell­spe
+
+Chunk 3:
+the outcome of these (HCs), and younger HCs. Our validation cohort comprised AD de­
+studies has not yet been broadly reproduced across research laboratories. mentia and matched HCs. PMBCs were stimulated by one of seven
+This could be because of diagnostic misclassification, lack of a validation canonical activators chosen to provide a range of activation: pro­ and
+cohort, or challenges to cell­specific resolution. Hence, none has tran­ anti­inflammatory cytokines that act through specific receptors
+sitioned to serve as a blood­based clinical biomarker of AD or PD (8). [interferon­ (IFN­), interleukin­6 (IL­6), IL­7, IL­10, and IL­21];
+Although it is difficult to generalize across such a large number of a powerful stimulant of innate immune response that activates via
+studies, a few themes emerge. Most studies assembled PBMCs from Toll­like receptor 4 (TLR4) [lipopolysaccharide (LPS)]; and non–
+relatively small groups of individuals with variable clinical charac­ receptor­mediated activation (PMA and ionomycin), along with an
+terization. Most used unstimulated PBMCs, which means that they unstimulated control. Using time­of­flight mass cytometry (CyTOF),
+likely were in variable states of activation due to site­specific processes of a proteomics technology that assesses the abundance of cell subsets,
+collection and enrichment. A few studies used ex vivo PBMC stimu­ protein expression, and activation of signaling pathways with single­
+lants to investigate immune responses, but the repertoire of stimulants cell resolution (13–18), we assayed 15 different intracellular signaling
+has been limited thus far to nonspecific stimuli such as propylene responses across 35 PBMC cell types (determined by a combination
+glycol monomethyl ether acetate (PMA)/ionomycin or noncanonical of 12 cell surface markers). Thus, each individual’s PBMC sample
+stimuli such as ­amyloid (A) or ­synuclein, which activate through yielded a total of 4200 (8 stimulant conditions × 35 subtypes ×
+in
+
+Chunk 4:
+ng
+has been limited thus far to nonspecific stimuli such as propylene responses across 35 PBMC cell types (determined by a combination
+glycol monomethyl ether acetate (PMA)/ionomycin or noncanonical of 12 cell surface markers). Thus, each individual’s PBMC sample
+stimuli such as ­amyloid (A) or ­synuclein, which activate through yielded a total of 4200 (8 stimulant conditions × 35 subtypes ×
+incompletely understood mechanisms (9). Relatively few studies have 15 responses) intracellular signaling responses. We then used machine
+used flow cytometry to isolate specific subsets of PBMCs, and even those learning algorithms and statistical analyses to identify patterns of each
+that used conventional flow cytom etry identified only a limited number diagnosis group from these extensive single­cell data and examine
+of cell types (10). Of those that measured secreted molecules, most the generalizability and predictive power of the findings.
+1Department of Anesthesiology, Perioperative and Pain Medicine, Stanford Univer-
+sity, Stanford, CA, USA. 2Department of Biomedical Data Science, Stanford University, RESULTS
+Stanford, CA, USA. 3Department of Pathology, Stanford University, Stanford, CA, USA. Single-cell profiling of PBMC response in patients with AD,
+4Department of Pediatrics, Stanford University, Stanford, CA, USA. 5Department of patients with PD, and HCs
+Neurology, Stanford University, Stanford, CA, USA.
+The goal of our study was to determine which components of the
+*These authors contributed equally to this work.
+†Corresponding author. Email: tmontine@stanford.edu peripheral immune response correlated with diagnoses of AD or PD.
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 1 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+As outlined in Fig. 1, we performed deep single­cell profiling of well­established PBMC subtypes in paired comparison of AD or PD
+PBM
+
+Chunk 5:
+l immune response correlated with diagnoses of AD or PD.
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 1 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+As outlined in Fig. 1, we performed deep single­cell profiling of well­established PBMC subtypes in paired comparison of AD or PD
+PBMCs from our discovery cohort (AD, PD, HC­I, and HC­II; with appropriate HCs. Although less well matched for age and sex,
+Fig. 1A) in response to a panel of ex vivo stimulants (Fig. 1B) that we found significant differences between AD and PD samples (fig. S1).
+activate known cell signaling mechanisms. The results from our dis­ We detected stimulant (IFN­; IL­6, IL­7, IL­10, and IL­21; LPS;
+covery work (Fig. 1C) could then be used to further test the devel­ or PMA/ionomycin) response with additional probes directed at
+oped model, without any retraining, on a separate validation cohort 15 intracellular signaling molecules [pERK­1/2, IB, nuclear factor
+comprising patients with AD (AD­V) and matched HCs (HC­V) B (NF­B), p38, pAKT, pCREB, pLCK, pPLC2, pS6, pSTAT1,
+(Fig. 1A). pSTAT3, pSTAT5, Lamp2, EEA1, and Rab5] (Fig. 2). Signals ob­
+We first assessed the relative abundance of PBMC subsets before tained from AD, PD, and HC­I PBMCs in unstimulated state or in
+stimulation (fig. S1). Using our panel of 15 cell surface markers [CD3, response to IFN­, IL­6, and IL­7 tended to be more strongly cor­
+CD4, CD7, CD8, CD11b and CD11c, CD14, CD16, CD19, CD20, related to each other as indicated by proximity and the communities
+CD24, CD25, CD27, CD38, CD45RA, CD56, CD123, and CD127; formed by these features in the correlation network (Fig. 2A). Similarly,
+immunoglobulin A (IgA) and IgD; and human leukocyte antigen– responses to IL­10, IL­21, LPS, and PMA/ionomycin also tended to
+DR isotype (HLA­DR)], we subtyped them into monocytes, CD8+ group together. Visualizing the pairwise correla
+
+Chunk 6:
+ed by proximity and the communities
+CD24, CD25, CD27, CD38, CD45RA, CD56, CD123, and CD127; formed by these features in the correlation network (Fig. 2A). Similarly,
+immunoglobulin A (IgA) and IgD; and human leukocyte antigen– responses to IL­10, IL­21, LPS, and PMA/ionomycin also tended to
+DR isotype (HLA­DR)], we subtyped them into monocytes, CD8+ group together. Visualizing the pairwise correlation matrix and distri­
+T cells, CD4+ T cells, CD3+ (CD4− CD8−) T cells, B cells, natural killer butions further confirmed this behavior (fig. S2). To obtain a more
+(NK) cells, and dendritic cells (DCs) (fig. S1A). Their relative abundance meaningful description of each community, we performed dimension
+was characterized by a significance analysis of microarrays (19) with reduction (UMAP, uniform manifold approximation and projection)
+equal events sampled (minimal cluster size of 1% and false discovery followed by unsupervised clustering (k­means) to segment the
+rate of 1%). CITRUS (cluster identification, characterization, and regres­ network into 24 annotated communities (Fig. 2B). Annotation was
+sion) was used to compare PBMC subtype abundance for AD/HC­I based on the PBMC subtype, stimulant, and/or intracellular signal
+and for PD/HC­Isub. Unsupervised hierarchical clustering of age­ and that appeared most frequently in each community. Immune features
+sex­matched groups identified no significant differences among these with the same intracellular signals were likely to belong to the
+Fig. 1. Experimental and analytical workflow from obtaining PBMCs to identifying potential immune cell markers. (A) In the discovery cohorts, whole blood was
+collected from 28 individuals with AD and 17 individuals with PD; AD was compared with the samples from 53 older HCs (HC-I), while PD samples were compared with a
+subset of those with age- and sex-matched HCs (HC-Isub). A different set of 10 younger HCs (HC-II) was included for examining age effects. In addition, an independent
+cohort of
+
+Chunk 7:
+ cell markers. (A) In the discovery cohorts, whole blood was
+collected from 28 individuals with AD and 17 individuals with PD; AD was compared with the samples from 53 older HCs (HC-I), while PD samples were compared with a
+subset of those with age- and sex-matched HCs (HC-Isub). A different set of 10 younger HCs (HC-II) was included for examining age effects. In addition, an independent
+cohort of nine individuals with AD (AD-V) and 15 HCs (HC-V) was used for validation of the developed machine learning models without retraining. (B) PBMCs were either
+unstimulated or stimulated with IFN-, IL-6, IL-7, IL-10, IL-21, LPS, or PMA/ionomycin. PBMCs were then bound with 21 metal-conjugated antibodies to surface markers
+and 15 metal-conjugated antibodies to intracellular signaling molecules before analysis by CyTOF. (C) Cell abundance was evaluated on PBMCs from an unstimulated
+condition. The stimulations and antibody probes generated a total of 4200 intracellular signaling responses (35 PMBC subtypes under eight stimulating conditions and
+assayed for 15 intracellular responses), which were used to identify the potential immune features with the aid of cell signaling knowledge, machine learning methods,
+and statistical analysis.
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 2 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig. 2. Responses from the same intracellular signaling proteins are highly correlated to each other. (A) Correlation network (Spearman’s coefficient) of immune
+features obtained from CyTOF data of HC-I, AD, and PD colored by the type of stimulant. The edges of the network represent features with Spearman’s coefficient higher
+than 0.8. (B) An unsupervised algorithm clustered the network into 24 communities, where their annotations are based on commonly shared feature attributes (PBMC
+subtype, stimulation, or signaling property) within the com
+
+Chunk 8:
+t) of immune
+features obtained from CyTOF data of HC-I, AD, and PD colored by the type of stimulant. The edges of the network represent features with Spearman’s coefficient higher
+than 0.8. (B) An unsupervised algorithm clustered the network into 24 communities, where their annotations are based on commonly shared feature attributes (PBMC
+subtype, stimulation, or signaling property) within the community. ERK-1/2, extracellular signal–regulated kinase–1/2.
+same community. In some communities, features could be fur­ and found a ~10% discrepancy compared to canonical features
+ther subdivided by cell type and stimulant. Detailed community an­ (fig. S3), with no significant effect on the model performance.
+notations are presented in table S1. Other conventional algorithms were also attempted but obtained
+less accuracy.
+iEN model developed from immune responses predicted
+AD diagnosis Analyses of the model components revealed broader
+Given these highly correlated immune features, we constructed a cellular differences between AD and HC-I
+multivariate model using immunological Elastic Net (iEN), a recently Coefficients assigned to the immune features by the iEN model
+developed regression algorithm designed for immune signals (20), could be used as a proxy to examine biological plausibility. Figure 3C
+and examined its predictive power on unseen data as an alternative shows these coefficients displayed on a correlation network, with
+to multiple univariate testing (Fig. 3). In the discovery cohort, the red color indicating immune features that increased with the likeli­
+cross­validated results indicated satisfactory classification of AD/ hood of carrying the AD diagnosis and blue indicating features that
+HC­I [P = 1.03 × 10−3, area under receiver operating characteristic decreased. Piecewise regression analysis of the model revealed that
+(ROC) curve (AUC) = 0.72 ± 0.06; Fig. 3, A and B] but poor perform­ only about 14 of the features with the highest coefficient magnitudes
+ance
+
+Chunk 9:
+ results indicated satisfactory classification of AD/ hood of carrying the AD diagnosis and blue indicating features that
+HC­I [P = 1.03 × 10−3, area under receiver operating characteristic decreased. Piecewise regression analysis of the model revealed that
+(ROC) curve (AUC) = 0.72 ± 0.06; Fig. 3, A and B] but poor perform­ only about 14 of the features with the highest coefficient magnitudes
+ance for PD/HC­Isub (P >> 0.05). The model was then tested on were necessary, and 111 components were needed to get a compa­
+separate validation cohorts: HC­V and AD­V. The model achieved rable performance to using the entire set of immune features (4200
+accurate AD­V/HC­V classification (P = 5.42 × 10−3, AUC = 0.84 ± 0.08; components; Fig. 3D). These top 14 and 111 features were depicted
+Fig. 3, A and B). This suggested generalizability of the model; how­ on the correlation networks (Fig. 3E and fig. S4A). We next explored
+ever, it should be noted that because of the low number of samples the four communities that contained the top 14 features, since
+in the validation cohort, the higher AUC in the validation cohorts features within the same community were highly correlated, and
+could be by chance, and this AUC was not significantly differ­ exhibited a high univariate P value of the immune feature to diag­
+ent from the discovery cohort’s AUC (P = 0.27; Fig. 3B). The power nosis: communities 18, 12, 17, and 20 (Fig. 3C).
+of the resulting iEN predicted values were 0.92 and 0.86, at Community 18 comprised features with pPLC2 intracellular
+0.05 significance level, for the discovery and validation cohort, signal. Visualizing the differences in pPLC2 signal between the
+respectively. HC­I and the AD participants by PBMC subtypes and stimulant
+Note that one of the inputs to the iEN model was a list of im­ highlighted strong differences from diverse cell types (with the
+mune features that represent literature­based canonical signaling exception of most CD4+ T cells and DCs) under unst
+
+Chunk 10:
+lidation cohort, signal. Visualizing the differences in pPLC2 signal between the
+respectively. HC­I and the AD participants by PBMC subtypes and stimulant
+Note that one of the inputs to the iEN model was a list of im­ highlighted strong differences from diverse cell types (with the
+mune features that represent literature­based canonical signaling exception of most CD4+ T cells and DCs) under unstimulated and
+pathways to prioritize during model optimization. In addition, we various stimulated conditions (Fig. 4A and fig. S4C), where all of the
+tried using signals that were experimentally present in this study responses tended to be lower in the AD group (fig. S4B), particularly
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 3 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Specificity
+in NKT cells (Fig. 4, D and E). Among these are the most informa­ cohorts and that the iEN method was necessary to help address
+tive components of the iEN model, including “pPLC2 response in variations among cohorts (Fig. 4, J and K).
+unstimulated NKT, CD4+CD8+ T, and CD56bright NK cells” (Fig. 4, Communities 12, 17, and 20 were primarily a mix of pSTAT1
+D and F, and fig. S4C). These findings provide functional data that and pSTAT5 responses, which were highly correlated with each
+buttress the previous association that a variant in the gene that other. Examining the strength of these signal differences between
+encodes phospholipase C–2 (PLC2) lowers the risk of AD (21). HC­I and AD by cell type and stimulant using univariate analysis
+To determine whether any single pPLC2 signal alone could serve revealed that for both pSTAT1 and pSTAT5 intracellular responses,
+as a standalone diagnostic marker without the need of iEN or other the strongest signals were mostly from IFN­–stimulated cells (Fig. 4,
+machine learning models, we performed cross­validation tests on B and C). Ho
+
+Chunk 11:
+AD by cell type and stimulant using univariate analysis
+To determine whether any single pPLC2 signal alone could serve revealed that for both pSTAT1 and pSTAT5 intracellular responses,
+as a standalone diagnostic marker without the need of iEN or other the strongest signals were mostly from IFN­–stimulated cells (Fig. 4,
+machine learning models, we performed cross­validation tests on B and C). However, unlike pPLC2, the trends of both intracellular
+each of them with evaluation by F1­score (Fig. 4I and see Supple­ responses were not monotonic across cell types and stimulations; the
+mentary Methods). We found that no single feature was sufficiently responses tended to be higher in HC­I only in IFN­–stimulated
+robust to yield good accuracy in both discovery and validation cells or certain types of CD4+ T cells, while other conditions mostly
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 4 of 11
+ytivitisneS
+iEN model ROC curve
+AUC=0.84±0.08
+AUC=0.72±0.06
+P=0.28
+Discovery ROC
+Validation ROC
+0.1
+8.0
+6.0
+4.0
+2.0
+0.0
+1.0 0.8 0.6 0.4 0.2 0.0
+L−
+−L −L
+Fig. 3. The iEN model can satisfactorily classify AD/HC-I in both discovery and validation cohorts with the most important model components associated with
+signals from pPLC2 and pSTATs. (A) Box plots showing the predicted values from iEN model with Wilcoxon rank sum test P value for discovery and validation cohorts.
+(B) ROC curves from the iEN model predictions of discovery and validation cohorts with their respective AUC and P values from unpaired t test indicating no significant
+difference between the discovery and validation’s AUCs. (C) Correlation network colored by iEN model components with red and blue colors highlighting the compo-
+nents that are indicative of AD and HC-I, respectively. The size of the nodes represents the Spearman’s coefficient of the immune feature to the respective ground truths.
+(D) A model reduction analysis looking at the effect of the number of included features on iEN perf
+
+Chunk 12:
+y and validation’s AUCs. (C) Correlation network colored by iEN model components with red and blue colors highlighting the compo-
+nents that are indicative of AD and HC-I, respectively. The size of the nodes represents the Spearman’s coefficient of the immune feature to the respective ground truths.
+(D) A model reduction analysis looking at the effect of the number of included features on iEN performance. (E) The correlation network colored and annotated only for
+the top 14 features that were associated with components selected from model reduction.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Mean F1-score of pPLC 2 features (n = 280)
+F1-score
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 5 of 11
+ycneuqerF
+05
+04
+03
+02
+01
+0
+F1-score (validation)
+0.40 0.43 0.46 0.49 0.52 0.55 0.58 0.61
+erocs−1F
+0.1
+8.0
+6.0
+4.0
+2.0
+0.0
+seulav
+detciderp
+NEi
+detavitcAT+8DC
+detalumits-nicymonoi/AMP
+mem
+lartneCT+4DC
+detalumits–12−LI
+T rellik
+larutan
+detalumitsnU
+detavitcAT+4DC
+detalumits–12−LI
+eviaNT+8DC
+detalumits–01−LI
+sCDp
+detalumits–12−LI
+T+8DC+4DC
+detalumits-SPL
+Bootstrapped F1-score (discovery)
+erocs-1F
+0.1
+8.0
+6.0
+4.0
+2.0
+0.0
+seulav
+detciderp
+NEi
+detavitcAT+8DC
+detalumits-nicymonoi/AMP
+mem
+lartneCT+4DC
+detalumits–12−LI
+T rellik
+larutan
+detalumitsnU
+detavitcAT+4DC
+detalumits–12−LI
+eviaNT+8DC
+detalumits–01−LI
+sCDp
+detalumits–12−LI
+T+8DC+4DC
+detalumits-SPL
+Fig. 4. Heatmaps and box plots of the intracellular response in the PBMC of the selected communities highlight immune features for AD/HC-I classification and
+examination of the predictive power by F1-score of pPLC2 as a standalone biomarker. (A to C) Heatmap of the pPLC2, pSTAT1, and pSTAT5 responses by PBMC
+subtypes and stimulations. The color of the heatmap scaled with the Wilcoxon rank sum test P value of the difference in response of the immune feature between HC-I
+and patients with AD. The network communities annotat
+
+Chunk 13:
+r AD/HC-I classification and
+examination of the predictive power by F1-score of pPLC2 as a standalone biomarker. (A to C) Heatmap of the pPLC2, pSTAT1, and pSTAT5 responses by PBMC
+subtypes and stimulations. The color of the heatmap scaled with the Wilcoxon rank sum test P value of the difference in response of the immune feature between HC-I
+and patients with AD. The network communities annotated with these responses (communities 12, 17, 18, and 20) were depicted on the left-hand side of the heatmap.
+The size of the nodes in the community corresponds to the Spearman’s coefficient of the immune feature. The features within the communities that were selected by
+reduced iEN model (14 components) retained their red/blue colors corresponding to the direction of the component. (D to H) Box plots showing the significant difference
+of the selected immune features from the heatmap. These are mostly features associated with the most informing components of the iEN model. (I) The distribution of
+the mean F1-score in the test set from 1000 iterations of leave-group out test for each of the 280 pPLC2 features from different cell types and stimulating conditions in
+the discovery set. (J) The mean F1-score and its SD for the top seven performing pPLC2 features in the discovery cohort compared to the iEN predicted values. (K) The
+F1-score for each of the top seven features and iEN predicted values in the validation set. Tregs, regulatory T cells.
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+led to an opposite response (fig. S4B). All of the pSTAT features among did or did not have the APOE 4 allele (fig. S7, C and D), suggesting
+the top 11 components of the iEN model with a high univariate that pPLC2 response is independent of the APOE status. Others
+P value were IFN­–stimulated cells, including “pSTAT1 response have shown repeatedly that macrophage and microglial innate im­
+of IFN­–s
+
+Chunk 14:
+o an opposite response (fig. S4B). All of the pSTAT features among did or did not have the APOE 4 allele (fig. S7, C and D), suggesting
+the top 11 components of the iEN model with a high univariate that pPLC2 response is independent of the APOE status. Others
+P value were IFN­–stimulated cells, including “pSTAT1 response have shown repeatedly that macrophage and microglial innate im­
+of IFN­–stimulated plasmablast and CD4+CD8+ T cells” and “pSTAT5 mune responses have apolipoprotein E (apoE) isoform–dependent
+response of IFN­–stimulated CD4+ TActivated” (Fig. 4, G and H, and components in experimental settings (24–26); however, we are
+fig. S4, D and E). These reflected differential Janus kinase (JAK)/ aware of only one report from a small number of participants that
+signal transducer and activator of transcription (STAT) signaling after observed a modest apoE isoform–specific effect on human PBMC
+IFN­ stimulation between the two diagnostic groups. In addition, response to PMA/ionomycin stimulation (27). The number of ob­
+other pSTAT signals that were expected such as pSTAT1 and pSTAT5 servations in each of these subanalyses is limited and consequently
+from IL­7–stimulated CD4+ and CD8+ cells also were observed. more susceptible to potential unknown confounding factors.
+Conversely, those that were not expected, such as pSTAT signaling Another possibility is that the pPLC2 and pSTAT differences
+from LPS and PMA/ionomycin­stimulated cells, were not observed observed between AD and HC­I might be due to changes of aging
+(fig. S5) (22, 23). These alignments to the existing signaling knowl­ that are accentuated in the AD group. However, correlation networks
+edge further supported the strength of our experimental approach. between HC­II/HC­I and HC­II/AD (fig. S8, A and B) implied that,
+for both pairs, only a small number of signal differences were con­
+AD/HC-I responses were different between sexes and were tributed by pSTATs, with no significant contribution from pP
+
+Chunk 15:
+signaling knowl­ that are accentuated in the AD group. However, correlation networks
+edge further supported the strength of our experimental approach. between HC­II/HC­I and HC­II/AD (fig. S8, A and B) implied that,
+for both pairs, only a small number of signal differences were con­
+AD/HC-I responses were different between sexes and were tributed by pSTATs, with no significant contribution from pPLC2
+not driven by aging region. In addition, the specific pSTAT regions were different from
+The change in univariate P values depicted on the correlation those highlighted by HC­I/AD comparison. These results further
+network when separated by sex strongly suggested that most of the increase confidence that differential PBMC responses in pPLC2
+differences in pPLC2 responses stemmed from male participants, and some pSTATs are specific to AD.
+whereas pSTATs were mostly contributed by female participants in
+both the discovery and validation cohorts (fig. S6, A and B). The Disease cross-prediction using the AD/HC-I model indicated
+pPLC2 response was very similar even if only patients with AD some similarity between AD and PD
+were separated by sex and compared to the entire HC­I (fig. S6, C The prediction accuracy of the developed iEN models from AD/
+and D), suggesting sex­specific immune responses in patients with HC­I could be used as a proxy to determine the similarities between
+AD. Sex­specific immune responses are not uncommon and are the diagnostic groups (Fig. 5). As expected, the developed models
+being studied actively (23). In addition, for participants with known could perfectly classify the AD diagnostic group on which it was
+APOE genotype, separating patients with AD into those with or trained (P = 2.59 × 10−13, AUC = 1.00 ± 0.00; Fig. 5, A and B). Dis­
+without an APOE 4 allele and then comparing both with HC­I ease cross­prediction to PD, i.e., using an AD/HC­I–trained model
+with no APOE 4 implied relevance of pPLC2 in both APOE sub­ to classify PD/HC­Isub par
+
+Chunk 16:
+ectly classify the AD diagnostic group on which it was
+APOE genotype, separating patients with AD into those with or trained (P = 2.59 × 10−13, AUC = 1.00 ± 0.00; Fig. 5, A and B). Dis­
+without an APOE 4 allele and then comparing both with HC­I ease cross­prediction to PD, i.e., using an AD/HC­I–trained model
+with no APOE 4 implied relevance of pPLC2 in both APOE sub­ to classify PD/HC­Isub participants, resulted in a satisfactory per­
+groups of AD (fig. S7, A and B). In contrast, the significance of formance (P = 1.75 × 10−6, AUC = 0.88 ± 0.06) although not as high
+pSTAT signals was reduced in both APOE subgroups. This was as in the original domain. The correlation network of PD/HC­Isub
+potentially due to fewer female participants in the AD group. The diagnostic groups illustrated potential regions containing features
+results were similar if the entire HC­I cohort was used regardless associated with the developed iEN components from AD/HC­I (strong
+of APOE 4 status. As we earlier associated pPLC2 with male AD colors) that were also significantly different between PD and HC­
+participants, narrowing the APOE analyses only to males revealed that Isub (sizable nodes) such as those in community 20 (Fig. 5C). Accu­
+pPLC2 signals mostly persisted whether the male HC­I or male AD rate PD/HC­Isub prediction may indicate comorbidity, shared risk
+Fig. 5. Disease cross-prediction reveals similarities between AD and PD. (A) Performance of the disease cross-prediction using iEN components developed from AD/
+HC-I diagnosis to classify PD/HC-Isub and AD/PD. (B) The iEN predicted values for each diagnostic group. (C) The correlation network with node size corresponding to the
+Wilcoxon rank sum test P value of each feature for PD/HC-Isub diagnosis, with the color of each node representing the magnitude and direction of the associated iEN
+components developed from AD/HC-I. The network highlighted possible regions, such as in the labeled clusters, where AD and PD signals can ove
+
+Chunk 17:
+ues for each diagnostic group. (C) The correlation network with node size corresponding to the
+Wilcoxon rank sum test P value of each feature for PD/HC-Isub diagnosis, with the color of each node representing the magnitude and direction of the associated iEN
+components developed from AD/HC-I. The network highlighted possible regions, such as in the labeled clusters, where AD and PD signals can overlap.
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 6 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+factors, or shared mechanisms between the two neurodegenerative observed in CD8+ T cells, B cells, and NK cells but not in monocytes
+diseases. However, other communities whose features were import­ (Fig. 4B). These differential immune responses have potential patho­
+ant in the AD/HC­I iEN model—particularly communities 12, 17 genetic relevance to AD. A peptides directly and indirectly activate
+(pSTATs region), and 18 (pPLC2 region)—did not overlap with TLR4, the pattern recognition receptor for LPS (29, 30). STAT1 tis­
+signal differences in PD/HC­Isub. Hence, the model also can sepa­ sue concentration is increased in diseased regions of AD brain (31)
+rate AD and PD patients (P = 3.99 × 10−3, AUC = 0.75 ± 0.06), and can regulate expression of  secretase 1, one of the endoproteases
+although the accuracy decreased when combined with AD­V pre­ that sequentially catalyzes the hydrolysis of amyloid precursor pro­
+dictions (P = 1.70 × 10−2, AUC = 0.70 ± 0.07), suggesting that it did tein to generate A peptides (32). STAT5 activation regulates micro­
+not merely classify between HC and those with an unspecified glial activation and is required for monocyte­mediated synaptic
+neurodegenerative disease. degradation (33). A recent pathway analysis that combined multi­
+ple GWAS (genome­wide association study) data with clinical an­
+notation nominated JAK­STAT signaling ab
+
+Chunk 18:
+at it did tein to generate A peptides (32). STAT5 activation regulates micro­
+not merely classify between HC and those with an unspecified glial activation and is required for monocyte­mediated synaptic
+neurodegenerative disease. degradation (33). A recent pathway analysis that combined multi­
+ple GWAS (genome­wide association study) data with clinical an­
+notation nominated JAK­STAT signaling abnormalities as prominent
+DISCUSSION contributors to AD etiology or pathogenesis (34). Last, both T cells
+Our work joins a range of previous publications that have tested and monocytes can traffic from peripheral blood into the brain, at
+whether PBMCs might provide insight into the pathogenesis of least raising the possibility that the differential responses observed
+neurodegenerative disease, either because some subset of PBMCs in these subsets of PBMCs might access the brain, rather than sim­
+traffic into the brain and directly participate in disease mechanisms ply being peripheral biomarkers of brain immune responses.
+(1, 2) or because of inherited or acquired traits shared between A rare variant in the gene that encodes pPLC2 (PCLG2; rs72824905,
+some PBMCs and some brain­resident immunocompetent cells. P522R) recently has been linked to a decreased risk of AD (21), a
+As outlined in the Introduction, several groups have attempted to finding that was recently validated in three other diverse cohorts
+identify subsets of PBMCs or other peripheral immune markers in (35–37). One of these validation studies also demonstrated that
+unstimulated samples that are characteristic of AD, and none of these rs72824905 is associated with decreased risk of other forms of de­
+have been broadly replicated. More recently, colleagues have high­ mentia but showed no risk modification for PD despite adequate
+lighted an enriched subpopulation of CD8+ T cells in unstimulated sample size (36). None of these four genetic association studies eval­
+samples in roughly equal number of participants dia
+
+Chunk 19:
+ none of these rs72824905 is associated with decreased risk of other forms of de­
+have been broadly replicated. More recently, colleagues have high­ mentia but showed no risk modification for PD despite adequate
+lighted an enriched subpopulation of CD8+ T cells in unstimulated sample size (36). None of these four genetic association studies eval­
+samples in roughly equal number of participants diagnosed with uated the influence of sex or APOE genotype on PLCG2 risk modi­
+AD dementia or mild cognitive impairment compared to matched fication for AD. Three groups have published results from human
+controls (28). Although we were unable to validate this finding in and mouse brain showing that expression of PLCG2 is limited to
+our unstimulated samples from participants with AD dementia microglia among the major cell types in the brain and that the pro­
+compared to matched controls, we hasten to add that, in addition to tective P522R polymorphism modestly increases enzyme activity
+the difference in diagnostic groups studied, our focus was on the (35, 36, 38). These genetic risk findings implicate PLCG2­dependent
+response of peripheral immune cells to well­characterized stimuli, pathways as being important in AD pathogenesis. Our functional
+rather than unstimulated samples, which appear to have greater results from the peripheral immune system are consistent with these
+variability. Our robust study design is distinguished by a large sample earlier findings; however, this rare variant in PLCG2 cannot be the
+set from well­matched participants with research­quality annotation, mechanism underlying the common functional changes we observed
+multiple canonical immune stimulants, flow cytometric identification in AD participants. We speculate that other yet­to­be­clarified epi­
+of 35 PBMC subsets, single­cell quantification of 15 intracellular genetic or environmental mechanisms are affecting activation of
+signaling markers, inclusion of a neurodegenerative disease control PLC2 i
+
+Chunk 20:
+sm underlying the common functional changes we observed
+multiple canonical immune stimulants, flow cytometric identification in AD participants. We speculate that other yet­to­be­clarified epi­
+of 35 PBMC subsets, single­cell quantification of 15 intracellular genetic or environmental mechanisms are affecting activation of
+signaling markers, inclusion of a neurodegenerative disease control PLC2 in AD. Together, these data raise the possibility that increasing
+in addition to matched HC, and validation of major findings with a PLC2 activity may be a new therapeutic target for AD and perhaps
+completely independent cohort. Our data analysis is distinguished other forms of dementia. Moreover, our data suggest that a PBMC
+by the application of machine learning, instead of univariate testing, biomarker may be developed to aid in screening for therapeutics
+to demonstrate the accuracy and generalizability of the findings from that enhances PLC2 activity. Although PLC2 activation alone does
+this complex set of diagnostic phenotypes and single­cell quantita­ not appear to be a diagnostic biomarker in PBMCs, it might have a
+tive molecular data. Our results showed that 3 of the 15 intracellular potential application as a pharmacodynamic biomarker. However,
+signaling pathways were differentially activated in PBMC subsets it should be kept in mind that other PLCG2 variants have been
+from people with AD compared to age­ and sex­matched HC: muted asssociated with immune dysregulation (39), warranting caution in
+activation of PLC2 across many cell types and stimulations and attempting to modulate its activity.
+more selective activation of STAT1 and STAT5 depending on stim­ The role of microglia and the immune response in AD remains
+ulant and cell type. As far as we are aware, none of the previous unclear but is an area of very active investigation highlighted by single­
+studies that focused on PBMCs in AD have highlighted altered cell approaches (40). On the basis of epidemiolog
+
+Chunk 21:
+o modulate its activity.
+more selective activation of STAT1 and STAT5 depending on stim­ The role of microglia and the immune response in AD remains
+ulant and cell type. As far as we are aware, none of the previous unclear but is an area of very active investigation highlighted by single­
+studies that focused on PBMCs in AD have highlighted altered cell approaches (40). On the basis of epidemiologic observations and
+responses by PLC2, STAT1, or STAT5. results from transgenic mouse models, initial hypotheses focused on
+Reduced pPLC2 activation (community 18) was a strong feature increased immune response in AD brain; however, recent observational
+of AD in all major subclasses of cells except DCs and most CD4+ and experimental data support a more nuanced view of both pro­ and
+T cells and under all stimulation conditions except IL­6 (Fig. 4A). anti­inflammatory facets to AD progression (41). Our work fits well
+Although pPLC2 differential response was observed across most within this contemporary construct by revealing reduced and in­
+stimulants, it appeared strongest with LPS. pSTAT1 (community 20) creased peripheral immune responses as characteristic of AD.
+and pSTAT5 (community 17) differential responses were more The iEN algorithm was unable to develop a predictive model
+selective and largely restricted to IFN­ stimulation. pSTAT5 dif­ for PD despite a similarly sized sample set as AD. Although disap­
+ferential response was focused strongly in monocytes (Fig. 4C), pointing, these results enhance our confidence in the predictive
+while pSTAT1 differential response was weaker and more broadly model for AD by controlling for nonspecific features of age­related
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 7 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+neurodegenerative disease, like reduced physical activity. Our
+disease cross­prediction analysis show
+
+Chunk 22:
+ker and more broadly model for AD by controlling for nonspecific features of age­related
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 7 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+neurodegenerative disease, like reduced physical activity. Our
+disease cross­prediction analysis showed that the AD/HC­I model Table 1. Summary of participants in the discovery (n = 108) and
+much more weakly, but significantly, predicted PD/HC­Isub. There validation cohorts (n = 24) diagnosed with AD, PD, or HCs.
+are several possible explanations for this outcome including partially Cohort Group n Age
+shared genetic or environmental risk factors or partially shared
+Discovery HC-I M 29 75 ± 8
+neurodegenerative mechanisms for AD and PD. The latter is sup­
+F 24 68 ± 6
+ported by the now well­established observation that the neuro­
+pathologic hallmark of PD (Lewy body disease) is present in about AD M 14 74 ± 10
+one­third to one­half of people diagnosed clinically with AD despite F 14 67 ± 9
+using the most rigorous research criteria. Alternatively, this disease HC-Isub M 22 73 ± 5
+cross­prediction may indicate partially shared alterations in the
+F 12 71 ± 2
+peripheral immune response between people with AD or PD. In
+PD M 11 70 ± 5
+this respect, disease cross­prediction of PD was driven largely by
+community 20 and not by community 18 (pPLC2 region; Fig. 5C), F 6 71 ± 3
+consonant with the finding that the genetic variant in PLCG2 that HC-II M 4 40 ± 9
+lowers risk for AD does not modulate risk of PD (36). F 6 40 ± 10
+Our extensive and unbiased investigation and robust analysis of
+Validation HC-V M 6 71 ± 10
+the peripheral immune response strongly implicates reduced activa­
+tion of PLC2 as a molecular characteristic of AD but not PD or ad­ F 9 70 ± 6
+vancing age. Our experimental data from patient samples functionally AD-V M 4 74 ± 12
+buttress the now multiply­validated observati
+
+Chunk 23:
+e risk of PD (36). F 6 40 ± 10
+Our extensive and unbiased investigation and robust analysis of
+Validation HC-V M 6 71 ± 10
+the peripheral immune response strongly implicates reduced activa­
+tion of PLC2 as a molecular characteristic of AD but not PD or ad­ F 9 70 ± 6
+vancing age. Our experimental data from patient samples functionally AD-V M 4 74 ± 12
+buttress the now multiply­validated observations that a rare coding F 5 71 ± 10
+variant in PLCG2 is associated with decreased risk of AD (36). Last,
+our analyses suggest that altered PLC2 activity in PBMCs is more
+commonly a feature of men with AD and that it is not strongly in­
+fluenced by APOE genotype or aging. Together, these data point to from Fluidigm. All other antibodies were purchased in carrier pro­
+enhancing PLC2 activity as a potentially new therapeutic target for tein–free phosphate­buffered saline (PBS) and conjugated in­house
+AD that has a readily accessible pharmacodynamic biomarker. with the respective metal isotope using the MaxPar antibody conju­
+gation kit (Fluidigm). Metal­labeled antibodies were diluted to
+0.5 mg/ml in a Candor PBS Antibody Stabilization solution (Candor
+MATERIALS AND METHODS Bioscience GmbH) for storage at 4°C.
+Study design
+The aim of this study was to determine whether differences in pe­ PBMC processing and stimulations
+ripheral immune responses between healthy participants and par­ PBMCs were isolated from freshly drawn whole blood using density
+ticipants with neurodegenerative diseases are detectable by CyTOF gradient centrifugation (Ficoll­Paque PLUS; GE Healthcare) in
+analysis of PBMCs. Participants were research volunteers at Stanford Sepmate tubes (45). The isolated and washed whole­blood PBMCs
+University in the Alzheimer’s Disease Research Center or the Pacific were resuspended in 10% dimethyl sulfoxide and 90% fetal bovine
+Udall Center. All participants provided written informed consent to serum and cryopreserved in liquid nitrogen. Frozen aliquots of
+participate in t
+
+Chunk 24:
+ PBMCs. Participants were research volunteers at Stanford Sepmate tubes (45). The isolated and washed whole­blood PBMCs
+University in the Alzheimer’s Disease Research Center or the Pacific were resuspended in 10% dimethyl sulfoxide and 90% fetal bovine
+Udall Center. All participants provided written informed consent to serum and cryopreserved in liquid nitrogen. Frozen aliquots of
+participate in the study, which followed protocols approved by the PBMCs (batch of ~10 samples and an aliquot of technical control)
+Stanford Institutional Review Board. Clinical diagnosis was made by were washed twice in RPMI at 37°C. The samples were brought up
+consensus criteria (42–44) (see the Supplementary Materials for details). in 1 ml of RPMI, and viability was checked. One hundred micro­
+Blood was collected from volunteers after obtaining informed liters of each sample was aliquoted and rested for 1 hour at 37°C.
+consent. We assembled a discovery cohort (n = 108) and a completely PBMCs were then incubated in RPMI (unstimulated) or one of the
+separate validation cohort (n = 24; summary statistics is shown in seven specific stimulants, either a cytokine (IFN­, IL­6, IL­7, IL­10,
+Table 1, and individual information is shown in tables S2 and S3). and IL­21), LPS, or PMA/ionomycin for 15 min at 37°C as shown in
+The discovery cohort consisted of four groups: AD, PD, and two dif­ table S5 and described previously (46). Following incubation under
+ferent HC groups. The first HCs (HC­I) were older and were matched these eight conditions, PBMCs were fixed for 15 min with 4% para­
+for AD with a subgroup of these people (HC­Isub; ages between 63 formaldehyde (PFA) at room temperature, washed, permeabilized,
+and 80 for male and 67 and 73 for female) matched for PD. The and barcoded exactly according to published methods to facilitate
+second HCs (HC­II) were younger. A separate validation cohort also processing and minimize batch effects (47).
+was assembled: AD­V and HC­V. No validation cohort 
+
+Chunk 25:
+roup of these people (HC­Isub; ages between 63 formaldehyde (PFA) at room temperature, washed, permeabilized,
+and 80 for male and 67 and 73 for female) matched for PD. The and barcoded exactly according to published methods to facilitate
+second HCs (HC­II) were younger. A separate validation cohort also processing and minimize batch effects (47).
+was assembled: AD­V and HC­V. No validation cohort was assembled All eight stimulation conditions from a barcoded sample were
+for PD because there was no generalizable model identified from pooled and incubated with titrated metal­labeled antibodies directed
+the discovery cohort. A separate technical quality control of PBMCs at cell surface markers designed to identify 35 immune cell subsets
+was prepared from a single healthy individual (70­year­old man) (48, 49). Cell types were identified by surface antibody signal for the
+not included in the discovery or validation cohorts and frozen into following lineage markers: CD3, CD4, CD7, CD8, CD11b, CD11c,
+multiple aliquots and included in every CyTOF run. CD14, CD16, CD19, CD20, CD24, CD25, CD27, CD38, CD45RA,
+CD56, CD123, CD127, IgA, IgD, and HLA­Dr. Pooled sample was
+Metal-tagged monoclonal antibodies then permeabilized with methanol and stored at −80°C. Frozen sam­
+A panel of 37 metal­tagged monoclonal antibodies was used to probe ples were washed and incubated with metal­labeled antibodies di­
+PBMCs (table S4). All preconjugated antibodies were purchased rected at 15 intracellular signaling markers, followed by Ir­intercalator
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 8 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+staining and resuspended in 0.1 EQ Four Element Calibration Beads SUPPLEMENTARY MATERIALS
+(50). Intracellular signaling markers were pERK­1/2, IB, NF­B, Supplementary material for this article is available at http://advances.sciencemag.org/cg
+
+Chunk 26:
+vember 2020 8 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+staining and resuspended in 0.1 EQ Four Element Calibration Beads SUPPLEMENTARY MATERIALS
+(50). Intracellular signaling markers were pERK­1/2, IB, NF­B, Supplementary material for this article is available at http://advances.sciencemag.org/cgi/
+p38, pAKT, pCREB, pLCK, pPLC2, pS6, pSTAT1, pSTAT3, pSTAT5, content/full/6/48/eabd5575/DC1
+View/request a protocol for this paper from Bio-protocol.
+endosomal proteins, Lamp2, EEA1, and Rab5 (51–53). Single­cell
+data were acquired by CyTOF (model: Helios, software version 6.5.358,
+REFERENCES AND NOTES
+Fluidigm, South San Francisco, CA) at 300 to 400 events per second.
+Initiation and tuning were performed according to the manufacturer’s 1. O. Butovsky, M. Koronyo-Hamaoui, G. Kunis, E. Ophir, G. Landa, H. Cohen, M. Schwartz,
+Glatiramer acetate fights against Alzheimer’s disease by inducing dendritic-like microglia
+recommendation. Post­acquisition normalization and debarcoding
+expressing insulin-like growth factor 1. Proc. Natl. Acad. Sci. U.S.A. 103, 11784–11789
+were done with CyTOF software version 6.7.1014. From these, (2006).
+about 1.2 million individual cells were collected, unassigned events 2. M. Fiala, Q. N. Liu, J. Sayre, V. Pop, V. Brahmandam, M. C. Graves, H. V. Vinters,
+were then removed, and subsampled at a maximum of 100,000 cells Cyclooxygenase-2-positive macrophages infiltrate the Alzheimer’s disease brain
+and damage the blood-brain barrier. Eur. J. Clin. Invest. 32, 360–371 (2002).
+for subsequent analyses. Counts in each gating stage are shown
+3. T. J. Lewis, C. L. Trempe, The End of Alzheimer’s: The Brain and Beyond (Academic Press,
+in table S6. Gating was performed using FlowJo­10 (fig. S9) and
+2017).
+Cytobank. More details on data processing and gating can be found 4. R. Perneczky, Biomarkers for Alzheimer’s Disease Drug Development (Humana Press, 2018)
+
+Chunk 27:
+2, 360–371 (2002).
+for subsequent analyses. Counts in each gating stage are shown
+3. T. J. Lewis, C. L. Trempe, The End of Alzheimer’s: The Brain and Beyond (Academic Press,
+in table S6. Gating was performed using FlowJo­10 (fig. S9) and
+2017).
+Cytobank. More details on data processing and gating can be found 4. R. Perneczky, Biomarkers for Alzheimer’s Disease Drug Development (Humana Press, 2018).
+in the Supplementary Materials. 5. K. Rezai-Zadeh, D. Gate, C. A. Szekely, T. Town, Can peripheral leukocytes be used
+as Alzheimer’s disease biomarkers? Expert Rev. Neurother. 9, 1623–1633 (2009).
+Statistical analysis 6. T. Raj, K. Rothamel, S. Mostafavi, C. Ye, M. N. Lee, J. M. Replogle, T. Feng, M. Lee,
+N. Asinovski, I. Frohlich, S. Imboywa, A. Von Korff, Y. Okada, N. A. Patsopoulos, S. Davis,
+Application and evaluation of iEN for multivariate modeling C. McCabe, H.-I. Paik, G. P. Srivastava, S. Raychaudhuri, D. A. Hafler, D. Koller, A. Regev,
+of mass cytometry data N. Hacohen, D. Mathis, C. Benoist, B. E. Stranger, P. L. De Jager, Polarization of the effects
+The iEN model was used as a multivariate model to examine gen­ of autoimmune and neurodegenerative risk alleles in leukocytes. Science 344, 519–523
+(2014).
+eralizability and predictive power. The iEN added on to the com­
+7. K. J. Ryan, C. C. White, K. Patel, J. Xu, M. Olah, J. M. Replogle, M. Frangieh, M. Cimpean,
+monly used EN algorithm the capability to incorporate knowledge
+P. Winn, A. McHenry, B. J. Kaskow, G. Chan, N. Cuerdon, D. A. Bennett, J. D. Boyd, J. Imitola,
+of intracellular signal transduction on the generation of the mass W. Elyaman, P. L. De Jager, E. M. Bradshaw, A human microglia-like cellular model
+cytometry data. We have recently reported in detail that this model for assessing the effects of neurodegenerative disease gene variants. Sci. Transl. Med. 9,
+demonstrates increased predictive power relative to multiple tra­ eaai7635 (2017).
+8. E. Delvaux, D. Mastroeni, J. Nolz, N. Chow, M. Sabbagh, R. 
+
+Chunk 28:
+n of the mass W. Elyaman, P. L. De Jager, E. M. Bradshaw, A human microglia-like cellular model
+cytometry data. We have recently reported in detail that this model for assessing the effects of neurodegenerative disease gene variants. Sci. Transl. Med. 9,
+demonstrates increased predictive power relative to multiple tra­ eaai7635 (2017).
+8. E. Delvaux, D. Mastroeni, J. Nolz, N. Chow, M. Sabbagh, R. J. Caselli, E. M. Reiman,
+ditional methods (20). Briefly, the iEN algorithm optimized the
+F. J. Marshall, P. D. Coleman, Multivariate analyses of peripheral blood leukocyte
+coefficient () for each associated feature by minimizing the cost transcripts distinguish Alzheimer’s, Parkinson’s, control, and those at risk for developing
+function Alzheimer’s. Neurobiol. Aging 58, 225–237 (2017).
+9. G. Schmidbauer, W. W. Hancock, B. Wasowska, A. M. Badger, J. W. Kupiec-Weglinski,
+L iEN ( ) = ∣ Y − X∣ 2 +  (  ∣∣ 1 + ─  − 2 1 ∣∣ 2 ) A of b a r l o lo g a a n ti t o ib n o b d y y r r a e p s a p m on y s c e in s o an f a d c s c e e l l e e c r t a i t v e e d s u re p je p c re ti s o s n io i n n s o e f n in s t it r i a z g e r d a f r t a m ts o b n y o in n h u i c b le it a io r n
+and endothelial cell activation, cytokine production, and cell adhesion. Transplantation
+57, 933–941 (1994).
+Here, X is a matrix of size m × n, where m is the number of sam­ 10. R. Davies, P. Vogelsang, R. Jonsson, S. Appel, An optimized multiplex flow cytometry
+ples, n is the number of all immune features (intracellular signals protocol for the analysis of intracellular signaling in peripheral blood mononuclear cells.
+J. Immunol. Methods 436, 58–63 (2016).
+from cells under different stimulating conditions), Y is a vector of
+11. S. Ray, M. Britschgi, C. Herbert, Y. Takeda-Uchimura, A. Boxer, K. Blennow, L. F. Friedman,
+ground truths (diagnostic groups) with length n,  is a vector of the D. R. Galasko, M. Jutel, A. Karydas, J. A. Kaye, J. Leszek, B. L. Miller, L. Minthon, J. F. Quinn,
+model’s
+
+Chunk 29:
+ mononuclear cells.
+J. Immunol. Methods 436, 58–63 (2016).
+from cells under different stimulating conditions), Y is a vector of
+11. S. Ray, M. Britschgi, C. Herbert, Y. Takeda-Uchimura, A. Boxer, K. Blennow, L. F. Friedman,
+ground truths (diagnostic groups) with length n,  is a vector of the D. R. Galasko, M. Jutel, A. Karydas, J. A. Kaye, J. Leszek, B. L. Miller, L. Minthon, J. F. Quinn,
+model’s coefficients with length n, and  and  together control the G. D. Rabinovici, W. H. Robinson, M. N. Sabbagh, Y. T. So, D. L. Sparks, M. Tabaton,
+magnitude of the model regularization. Last,  is a diagonal matrix J. Tinklenberg, J. A. Yesavage, R. Tibshirani, T. Wyss-Coray, Classification and prediction
+of clinical Alzheimer’s diagnosis based on plasma signaling proteins. Nat. Med. 13,
+of size n × n containing a prioritization value of 1 for elements asso­
+ciated with canonical immune feature or e−φ for other lower prior­ 1359–1362 (2007).
+12. H. D. Soares, Y. Chen, M. Sabbagh, A. Rohrer, E. Schrijvers, M. Breteler, Identifying early
+ity (noncanonical) features. The list of canonical signals that were markers of Alzheimer’s disease using quantitative multiplex proteomic immunoassay
+prioritized is tabulated in table S7. panels. Ann. N. Y. Acad. Sci. 1180, 56–67 (2009).
+To determine objectively the value of the hyperparameters and 13. A. Cosma, G. Nolan, B. Gaudilliere, Mass cytometry: The time to settle down. Cytometry A
+91, 12–13 (2017).
+the generalizability of the iEN model from the discovery cohort,
+14. Q. Baca, A. Cosma, G. Nolan, B. Gaudilliere, The road ahead: Implementing mass
+250 iterations of a two­layered cross­validation scheme were used. cytometry in clinical studies, one cell at a time. Cytometry B Clin. Cytom. 92, 10–11 (2017).
+In each iteration, the outer layer randomly held out one­third of the 15. P. Kvistborg, C. Gouttefangeas, N. Aghaeepour, A. Cazaly, P. K. Chattopadhyay, C. Chan,
+samples for performance evaluation on unseen data, and the inner J. Eckl,
+
+Chunk 30:
+ass
+250 iterations of a two­layered cross­validation scheme were used. cytometry in clinical studies, one cell at a time. Cytometry B Clin. Cytom. 92, 10–11 (2017).
+In each iteration, the outer layer randomly held out one­third of the 15. P. Kvistborg, C. Gouttefangeas, N. Aghaeepour, A. Cazaly, P. K. Chattopadhyay, C. Chan,
+samples for performance evaluation on unseen data, and the inner J. Eckl, G. Finak, S. R. Hadrup, H. T. Maecker, D. Maurer, T. Mosmann, P. Qiu,
+R. H. Scheuermann, M. J. P. Welters, G. Ferrari, R. R. Brinkman, C. M. Britten, Thinking
+layer used the rest of the samples for parameter optimization (grid
+search of , , and φ). At the completion of the 250 iterations, the outside the gate: Single-cell assessments in multiple dimensions. Immunity 42, 591–592
+(2015).
+mean values of the predictions were used for model evaluation by 16. S. C. Bendall, G. P. Nolan, M. Roederer, P. K. Chattopadhyay, A deep profiler’s guide
+Wilcoxon rank sum test P value and AUC. The ROC curve’s 95% CI to cytometry. Trends Immunol. 33, 323–332 (2012).
+and AUC’s SD was calculated by bootstrapped replicates as described 17. N. Aghaeepour, P. Chattopadhyay, M. Chikina, T. Dhaene, S. Van Gassen, M. Kursa,
+B. N. Lambrecht, M. Malek, G. J. McLachlan, Y. Qian, P. Qiu, Y. Saeys, R. Stanton, D. Tong,
+in previous studies (54, 55). The statistical tests related to the ROC
+C. Vens, S. Walkowiak, K. Wang, G. Finak, R. Gottardo, T. Mosmann, G. P. Nolan,
+comparison (unpaired t test) was also calculated (54). The power of R. H. Scheuermann, R. R. Brinkman, A benchmark for evaluation of algorithms
+the model’s predicted value was calculated using an established for identification of cellular correlates of clinical outcomes. Cytometry A 89, 16–21 (2016).
+formula (54, 56). The weights and φ determined from all iterations 18. N. Stanley, I. Stelzer, R. Fallahzadeh, E. Ganio, A. Tsai, M. Becker, T. Phongpreecha,
+H. Nassar, S. Ghaemi, A. Culos, X. Han, K. Rumer, L. Peterson, A. Chang, I. Maric,
+w
+
+Chunk 31:
+the model’s predicted value was calculated using an established for identification of cellular correlates of clinical outcomes. Cytometry A 89, 16–21 (2016).
+formula (54, 56). The weights and φ determined from all iterations 18. N. Stanley, I. Stelzer, R. Fallahzadeh, E. Ganio, A. Tsai, M. Becker, T. Phongpreecha,
+H. Nassar, S. Ghaemi, A. Culos, X. Han, K. Rumer, L. Peterson, A. Chang, I. Maric,
+were averaged to obtain a final model. The final model was used for
+D. Gaudilliere, E. Tsai, K. Ando, M. Leipold, G. Bermoser, D. Cross, A. Pollard, H. Maecker,
+feature component analyses, prediction of validation cohort, and
+G. Shaw, D. Stevenson, M. Angst, B. Gaudilliere, N. Aghaeepour, VoPo leverages cellular
+disease cross­prediction. heterogeneity for predictive modeling of single-cell data. Nat. Commun. 11, 3738 (2020).
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 9 of 11
+Downloaded
+from
+https://www.science.org
+at Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+19. V. G. Tusher, R. Tibshirani, G. Chu, Significance analysis of microarrays applied L. A. Farrer, C. Van Broeckhoven, M. A. Ikram, L. Jones, J. L. Haines, C. Tzourio, L. J. Launer,
+to the ionizing radiation response. Proc. Natl. Acad. Sci. U.S.A. 98, 5116–5121 (2001). V. Escott-Price, R. Mayeux, J.-F. Deleuze, N. Amin, P. A. Holmans, M. A. Pericak-Vance,
+20. A. E. Culos, A. S. Tsai, N. Stanley, M. Becker, M. S. Ghaemi, D. R. Mcilwain, R. Fallahzadeh, P. Amouyel, C. M. van Duijn, A. Ramirez, L.-S. Wang, J.-C. Lambert, S. Seshadri, J. Williams,
+A. Tanada, H. Nassar, E. Ganio, L. Peterson, X. Han, I. Stelzer, K. Ando, D. Gaudilliere, G. D. Schellenberg, Rare coding variants in PLCG2, ABI3, and TREM2 implicate
+T. Phongpreecha, I. Marić, A. L. Chang, G. M. Shaw, D. K. Stevenson, S. Bendall, K. L. Davis, microglial-mediated innate immunity in Alzheimer’s disease. Nat. Genet. 49, 1373–1384
+W. Fantl, G. P. Nolan, T. Hastie, R. Tibshirani, M. S. Angst, B.
+
+Chunk 32:
+H. Nassar, E. Ganio, L. Peterson, X. Han, I. Stelzer, K. Ando, D. Gaudilliere, G. D. Schellenberg, Rare coding variants in PLCG2, ABI3, and TREM2 implicate
+T. Phongpreecha, I. Marić, A. L. Chang, G. M. Shaw, D. K. Stevenson, S. Bendall, K. L. Davis, microglial-mediated innate immunity in Alzheimer’s disease. Nat. Genet. 49, 1373–1384
+W. Fantl, G. P. Nolan, T. Hastie, R. Tibshirani, M. S. Angst, B. Gaudilliere, N. Aghaeepour, (2017).
+Integration of mechanistic immunological knowledge into a machine learning pipeline 22. C. Le Saout, M. A. Luckey, A. V. Villarino, M. Smith, R. B. Hasley, T. G. Myers, H. Imamichi,
+improves predictions. Nat. Mach. Intell. 2, 619–628 (2020). J.-H. Park, J. J. O’Shea, H. C. Lane, M. Catalfamo, IL-7-dependent STAT1 activation limits
+21. R. Sims, S. J. van der Lee, A. C. Naj, C. Bellenguez, N. Badarinarayan, J. Jakobsdottir, homeostatic CD4+ T cell expansion. JCI Insight 2, e96228 (2017).
+B. W. Kunkle, A. Boland, R. Raybould, J. C. Bis, E. R. Martin, B. Grenier-Boley, 23. G. K. Fragiadakis, Z. B. Bjornson-Hooper, D. Madhireddy, K. Sachs, M. H. Spitzer,
+S. Heilmann-Heimbach, V. Chouraki, A. B. Kuzma, K. Sleegers, M. Vronskaya, A. Ruiz, S. C. Bendall, G. P. Nolan, Variation of immune cell responses in humans reveals
+R. R. Graham, R. Olaso, P. Hoffmann, M. L. Grove, B. N. Vardarajan, M. Hiltunen, sex-specific coordinated signaling across cell types. bioRxiv, 567784 (2019).
+M. M. Nöthen, C. C. White, K. L. Hamilton-Nelson, J. Epelbaum, W. Maier, S.-H. Choi, 24. J. R. Lynch, W. Tang, H. Wang, M. P. Vitek, E. R. Bennett, P. M. Sullivan, D. S. Warner,
+G. W. Beecham, C. Dulary, S. Herms, A. V. Smith, C. C. Funk, C. Derbois, A. J. Forstner, D. T. Laskowitz, APOE genotype and an ApoE-mimetic peptide modify the systemic
+S. Ahmad, H. Li, D. Bacq, D. Harold, C. L. Satizabal, O. Valladares, A. Squassina, R. Thomas, and central nervous system inflammatory response. J. Biol. Chem. 278, 48529–48533
+J. A. Brody, L. Qu, P. Sánchez-Juan, T. Morgan, F. J. Wolte
+
+Chunk 33:
+W. Beecham, C. Dulary, S. Herms, A. V. Smith, C. C. Funk, C. Derbois, A. J. Forstner, D. T. Laskowitz, APOE genotype and an ApoE-mimetic peptide modify the systemic
+S. Ahmad, H. Li, D. Bacq, D. Harold, C. L. Satizabal, O. Valladares, A. Squassina, R. Thomas, and central nervous system inflammatory response. J. Biol. Chem. 278, 48529–48533
+J. A. Brody, L. Qu, P. Sánchez-Juan, T. Morgan, F. J. Wolters, Y. Zhao, F. S. Garcia, (2003).
+N. Denning, M. Fornage, J. Malamon, M. C. D. Naranjo, E. Majounie, T. H. Mosley, 25. M. P. Vitek, C. M. Brown, C. A. Colton, APOE genotype-specific differences in the innate
+B. Dombroski, D. Wallon, M. K. Lupton, J. Dupuis, P. Whitehead, L. Fratiglioni, C. Medway, immune response. Neurobiol. Aging 30, 1350–1360 (2009).
+X. Jian, S. Mukherjee, L. Keller, K. Brown, H. Lin, L. B. Cantwell, F. Panza, B. McGuinness, 26. R. W. Mahley, S. C. Rall Jr., Apolipoprotein E: Far more than a lipid transport protein.
+S. Moreno-Grau, J. D. Burgess, V. Solfrizzi, P. Proitsi, H. H. Adams, M. Allen, D. Seripa, Annu. Rev. Genomics Hum. Genet. 1, 507–537 (2000).
+P. Pastor, L. A. Cupples, N. D. Price, D. Hannequin, A. Frank-García, D. Levy, P. Chakrabarty, 27. P. Olgiati, A. Politis, P. Malitas, D. Albani, S. Dusi, L. Polito, S. De Mauro, A. Zisaki, C. Piperi,
+P. Caffarra, I. Giegling, A. S. Beiser, V. Giedraitis, H. Hampel, M. E. Garcia, X. Wang, E. Stamouli, A. Mailis, S. Batelli, G. Forloni, D. De Ronchi, A. Kalofoutis, I. Liappas,
+L. Lannfelt, P. Mecocci, G. Eiriksdottir, P. K. Crane, F. Pasquier, V. Boccardi, I. Henández, A. Serretti, APOE epsilon-4 allele and cytokine production in Alzheimer’s disease.
+R. C. Barber, M. Scherer, L. Tarraga, P. M. Adams, M. Leber, Y. Chen, M. S. Albert, Int. J. Geriatr. Psychiatry 25, 338–344 (2010).
+S. Riedel-Heller, V. Emilsson, D. Beekly, A. Braae, R. Schmidt, D. Blacker, C. Masullo, 28. D. Gate, N. Saligrama, O. Leventhal, A. C. Yang, M. S. Unger, J. Middeldorp, K. Chen,
+H. Schmidt, R. S. Doody, G. Spalletta, W. T. Longs
+
+Chunk 34:
+kine production in Alzheimer’s disease.
+R. C. Barber, M. Scherer, L. Tarraga, P. M. Adams, M. Leber, Y. Chen, M. S. Albert, Int. J. Geriatr. Psychiatry 25, 338–344 (2010).
+S. Riedel-Heller, V. Emilsson, D. Beekly, A. Braae, R. Schmidt, D. Blacker, C. Masullo, 28. D. Gate, N. Saligrama, O. Leventhal, A. C. Yang, M. S. Unger, J. Middeldorp, K. Chen,
+H. Schmidt, R. S. Doody, G. Spalletta, W. T. Longstreth Jr., T. J. Fairchild, P. Bossù, B. Lehallier, D. Channappa, M. B. De Los Santos, A. McBride, J. Pluvinage, F. Elahi,
+O. L. Lopez, M. P. Frosch, E. Sacchinelli, B. Ghetti, Q. Yang, R. M. Huebinger, F. Jessen, S. Li, G. K.-Y. Tam, Y. Kim, M. Greicius, A. D. Wagner, L. Aigner, D. R. Galasko, M. M. Davis,
+M. I. Kamboh, J. Morris, O. Sotolongo-Grau, M. J. Katz, C. Corcoran, M. Dunstan, A. Braddel, T. Wyss-Coray, Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer’s
+C. Thomas, A. Meggy, R. Marshall, A. Gerrish, J. Chapman, M. Aguilar, S. Taylor, M. Hill, disease. Nature 577, 399–404 (2020).
+M. D. Fairén, A. Hodges, B. Vellas, H. Soininen, I. Kloszewska, M. Daniilidou, J. Uphill, 29. C. R. Stewart, L. M. Stuart, K. Wilkinson, J. M. van Gils, J. Deng, A. Halle, K. J. Rayner,
+Y. Patel, J. T. Hughes, J. Lord, J. Turton, A. M. Hartmann, R. Cecchetti, C. Fenoglio, L. Boyer, R. Zhong, W. A. Frazier, A. Lacy-Hulbert, J. El Khoury, D. T. Golenbock, K. J. Moore,
+M. Serpente, M. Arcaro, C. Caltagirone, M. D. Orfei, A. Ciaramella, S. Pichler, M. Mayhaus, CD36 ligands promote sterile inflammation through assembly of a Toll-like receptor 4
+W. Gu, A. Lleó, J. Fortea, R. Blesa, I. S. Barber, K. Brookes, C. Cupidi, R. G. Maletta, D. Carrell, and 6 heterodimer. Nat. Immunol. 11, 155–161 (2010).
+S. Sorbi, S. Moebus, M. Urbano, A. Pilotto, J. Kornhuber, P. Bosco, S. Todd, D. Craig, 30. K. Fujita, K. Motoki, K. Tagawa, X. Chen, H. Hama, K. Nakajima, H. Homma, T. Tamura,
+J. Johnston, M. Gill, B. Lawlor, A. Lynch, N. C. Fox, J. Hardy, A. R. U. K. Consortium, H. Watanabe, M. 
+
+Chunk 35:
+a, I. S. Barber, K. Brookes, C. Cupidi, R. G. Maletta, D. Carrell, and 6 heterodimer. Nat. Immunol. 11, 155–161 (2010).
+S. Sorbi, S. Moebus, M. Urbano, A. Pilotto, J. Kornhuber, P. Bosco, S. Todd, D. Craig, 30. K. Fujita, K. Motoki, K. Tagawa, X. Chen, H. Hama, K. Nakajima, H. Homma, T. Tamura,
+J. Johnston, M. Gill, B. Lawlor, A. Lynch, N. C. Fox, J. Hardy, A. R. U. K. Consortium, H. Watanabe, M. Katsuno, C. Matsumi, M. Kajikawa, T. Saito, T. Saido, G. Sobue,
+R. L. Albin, L. G. Apostolova, S. E. Arnold, S. Asthana, C. S. Atwood, C. T. Baldwin, A. Miyawaki, H. Okazawa, HMGB1, a pathogenic molecule that induces neurite
+L. L. Barnes, S. Barral, T. G. Beach, J. T. Becker, E. H. Bigio, T. D. Bird, B. F. Boeve, J. D. Bowen, degeneration via TLR4-MARCKS, is a potential therapeutic target for Alzheimer’s disease.
+A. Boxer, J. R. Burke, J. M. Burns, J. D. Buxbaum, N. J. Cairns, C. Cao, C. S. Carlson, Sci. Rep. 6, 31895 (2016).
+C. M. Carlsson, R. M. Carney, M. M. Carrasquillo, S. L. Carroll, C. C. Diaz, H. C. Chui, 31. Y. Kitamura, S. Shimohama, T. Ota, Y. Matsuoka, Y. Nomura, T. Taniguchi, Alteration
+D. G. Clark, D. H. Cribbs, E. A. Crocco, C. DeCarli, M. Dick, R. Duara, D. A. Evans, K. M. Faber, of transcription factors NF-B and STAT1 in Alzheimer’s disease brains. Neurosci. Lett. 237,
+K. B. Fallon, D. W. Fardo, M. R. Farlow, S. Ferris, T. M. Foroud, D. R. Galasko, M. Gearing, 17–20 (1997).
+D. H. Geschwind, J. R. Gilbert, N. R. Graff-Radford, R. C. Green, J. H. Growdon, 32. W. J. Lee, S. A. Ham, G. H. Lee, M. Choi, H. Yoo, K. S. Paek, D. Lim, K. Hong, J. S. Hwang,
+R. L. Hamilton, L. E. Harrell, L. S. Honig, M. J. Huentelman, C. M. Hulette, B. T. Hyman, H. G. Seo, Activation of peroxisome proliferator-activated receptor delta suppresses BACE
+G. P. Jarvik, E. Abner, L.-W. Jin, G. Jun, A. Karydas, J. A. Kaye, R. Kim, N. W. Kowall, 1 expression by up-regulating SOCS 1 in a JAK2/ STAT1-dependent manner.
+J. H. Kramer, F. M. LaFerla, J. J. Lah, J. B. Leverenz, A. I. Levey, G. Li,
+
+Chunk 36:
+L. E. Harrell, L. S. Honig, M. J. Huentelman, C. M. Hulette, B. T. Hyman, H. G. Seo, Activation of peroxisome proliferator-activated receptor delta suppresses BACE
+G. P. Jarvik, E. Abner, L.-W. Jin, G. Jun, A. Karydas, J. A. Kaye, R. Kim, N. W. Kowall, 1 expression by up-regulating SOCS 1 in a JAK2/ STAT1-dependent manner.
+J. H. Kramer, F. M. LaFerla, J. J. Lah, J. B. Leverenz, A. I. Levey, G. Li, A. P. Lieberman, J. Neurochem. 151, 370–385 (2019).
+K. L. Lunetta, C. G. Lyketsos, D. C. Marson, F. Martiniuk, D. C. Mash, E. Masliah, 33. G. Di Liberto, S. Pantelyushin, M. Kreutzfeldt, N. Page, S. Musardo, R. Coras, K. Steinbach,
+W. C. McCormick, S. M. McCurry, A. N. McDavid, A. C. McKee, M. Mesulam, B. L. Miller, I. Vincenti, B. Klimek, T. Lingner, G. Salinas, N. Lin-Marq, O. Staszewski, M. J. Costa Jordão,
+C. A. Miller, J. W. Miller, J. C. Morris, J. R. Murrell, A. J. Myers, S. O’Bryant, J. M. Olichney, I. Wagner, K. Egervari, M. Mack, C. Bellone, I. Blümcke, M. Prinz, D. D. Pinschewer,
+V. S. Pankratz, J. E. Parisi, H. L. Paulson, W. Perry, E. Peskind, A. Pierce, W. W. Poon, D. Merkler, Neurons under T cell attack coordinate phagocyte-mediated synaptic
+H. Potter, J. F. Quinn, A. Raj, M. Raskind, B. Reisberg, C. Reitz, J. M. Ringman, stripping. Cell 175, 458–471.e19 (2018).
+E. D. Roberson, E. Rogaeva, H. J. Rosen, R. N. Rosenberg, M. A. Sager, A. J. Saykin, 34. A. J. Nevado-Holgado, E. Ribe, L. Thei, L. Furlong, M.-A. Mayer, J. Quan, J. C. Richardson,
+J. A. Schneider, L. S. Schneider, W. W. Seeley, A. G. Smith, J. A. Sonnen, S. Spina, R. A. Stern, J. Cavanagh, N. Consortium, S. Lovestone, Genetic and real-world clinical data, combined
+R. H. Swerdlow, R. E. Tanzi, T. A. Thornton-Wells, J. Q. Trojanowski, J. C. Troncoso, with empirical validation, nominate JAK-STAT signaling as a target for Alzheimer’s disease
+V. M. Van Deerlin, L. J. Van Eldik, H. V. Vinters, J. P. Vonsattel, S. Weintraub, therapeutic development. Cell 8, 425 (2019).
+K. A. Welsh-Bohmer, K. C. Wilhelmsen,
+
+Chunk 37:
+ Lovestone, Genetic and real-world clinical data, combined
+R. H. Swerdlow, R. E. Tanzi, T. A. Thornton-Wells, J. Q. Trojanowski, J. C. Troncoso, with empirical validation, nominate JAK-STAT signaling as a target for Alzheimer’s disease
+V. M. Van Deerlin, L. J. Van Eldik, H. V. Vinters, J. P. Vonsattel, S. Weintraub, therapeutic development. Cell 8, 425 (2019).
+K. A. Welsh-Bohmer, K. C. Wilhelmsen, J. Williamson, T. S. Wingo, R. L. Woltjer, C. B. Wright, 35. O. J. Conway, M. M. Carrasquillo, X. Wang, J. M. Bredenberg, J. S. Reddy, S. L. Strickland,
+C.-E. Yu, L. Yu, F. Garzia, F. Golamaully, G. Septier, S. Engelborghs, R. Vandenberghe, C. S. Younkin, J. D. Burgess, M. Allen, S. J. Lincoln, T. Nguyen, K. G. Malphrus, A. I. Soto,
+P. P. De Deyn, C. M. Fernadez, Y. A. Benito, H. Thonberg, C. Forsell, L. Lilius, R. L. Walton, B. F. Boeve, R. C. Petersen, J. A. Lucas, T. J. Ferman, W. P. Cheshire,
+A. Kinhult-Stählbom, L. Kilander, R. Brundin, L. Concari, S. Helisalmi, A. M. Koivisto, J. A. van Gerpen, R. J. Uitti, Z. K. Wszolek, O. A. Ross, D. W. Dickson, N. R. Graff-Radford,
+A. Haapasalo, V. Dermecourt, N. Fievet, O. Hanon, C. Dufouil, A. Brice, K. Ritchie, B. Dubois, N. Ertekin-Taner, ABI3 and PLCG2 missense variants as risk factors for neurodegenerative
+J. J. Himali, C. D. Keene, J. Tschanz, A. L. Fitzpatrick, W. A. Kukull, M. Norton, T. Aspelund, diseases in Caucasians and African Americans. Mol. Neurodegener. 13, 53 (2018).
+E. B. Larson, R. Munger, J. I. Rotter, R. B. Lipton, M. J. Bullido, A. Hofman, T. J. Montine, 36. S. J. van der Lee, O. J. Conway, I. Jansen, M. M. Carrasquillo, L. Kleineidam,
+E. Coto, E. Boerwinkle, R. C. Petersen, V. Alvarez, F. Rivadeneira, E. M. Reiman, M. Gallo, E. van den Akker, I. Hernández, K. R. van Eijk, N. Stringa, J. A. Chen, A. Zettergren,
+C. J. O’Donnell, J. S. Reisch, A. C. Bruni, D. R. Royall, M. Dichgans, M. Sano, D. Galimberti, T. F. M. Andlauer, M. Diez-Fairen, J. Simon-Sanchez, A. Lleó, H. Zetterberg, M. Nygaard,
+P. S. George-Hy
+
+Chunk 38:
+uillo, L. Kleineidam,
+E. Coto, E. Boerwinkle, R. C. Petersen, V. Alvarez, F. Rivadeneira, E. M. Reiman, M. Gallo, E. van den Akker, I. Hernández, K. R. van Eijk, N. Stringa, J. A. Chen, A. Zettergren,
+C. J. O’Donnell, J. S. Reisch, A. C. Bruni, D. R. Royall, M. Dichgans, M. Sano, D. Galimberti, T. F. M. Andlauer, M. Diez-Fairen, J. Simon-Sanchez, A. Lleó, H. Zetterberg, M. Nygaard,
+P. S. George-Hyslop, E. Scarpini, D. W. Tsuang, M. Mancuso, U. Bonuccelli, A. R. Winslow, C. Blauwendraat, J. E. Savage, J. Mengel-From, S. Moreno-Grau, M. Wagner, J. Fortea,
+A. Daniele, C.-K. Wu; GERAD/PERADES, CHARGE, ADGC, EADI, O. Peters, B. Nacmias, M. J. Keogh, K. Blennow, I. Skoog, M. A. Friese, O. Pletnikova, M. Zulaica, C. Lage,
+M. Riemenschneider, R. Heun, C. Brayne, D. C. Rubinsztein, J. Bras, R. Guerreiro, I. de Rojas, S. Riedel-Heller, I. Illán-Gala, W. Wei, B. Jeune, A. Orellana, F. T. Bergh, X. Wang,
+A. Al-Chalabi, C. E. Shaw, J. Collinge, D. Mann, M. Tsolaki, J. Clarimón, R. Sussams, M. Hulsman, N. Beker, N. Tesi, C. M. Morris, B. Indakoetxea, L. E. Collij, M. Scherer,
+S. Lovestone, M. C. O’Donovan, M. J. Owen, T. W. Behrens, S. Mead, A. M. Goate, E. Morenas-Rodríguez, J. W. Ironside, B. N. M. van Berckel, D. Alcolea, H. Wiendl,
+A. G. Uitterlinden, C. Holmes, C. Cruchaga, M. Ingelsson, D. A. Bennett, J. Powell, S. L. Strickland, P. Pastor, E. Rodríguez Rodríguez; DESGESCO (Dementia Genetics Spanish
+T. E. Golde, C. Graff, P. L. De Jager, K. Morgan, N. Ertekin-Taner, O. Combarros, B. M. Psaty, Consortium), EADB (Alzheimer Disease European DNA biobank); EADB (Alzheimer
+P. Passmore, S. G. Younkin, C. Berr, V. Gudnason, D. Rujescu, D. W. Dickson, J.-F. Dartigues, Disease European DNA biobank); IFGC (International FTD-Genomics Consortium); IPDGC
+A. L. DeStefano, S. Ortega-Cubero, H. Hakonarson, D. Campion, M. Boada, J. K. Kauwe, (The International Parkinson Disease Genomics Consortium); IPDGC (The International
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 1
+
+Chunk 39:
+. G. Younkin, C. Berr, V. Gudnason, D. Rujescu, D. W. Dickson, J.-F. Dartigues, Disease European DNA biobank); IFGC (International FTD-Genomics Consortium); IPDGC
+A. L. DeStefano, S. Ortega-Cubero, H. Hakonarson, D. Campion, M. Boada, J. K. Kauwe, (The International Parkinson Disease Genomics Consortium); IPDGC (The International
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 10 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Parkinson Disease Genomics Consortium); RiMod-FTD (Risk and Modifying factors in 49. S. C. Bendall, E. F. Simonds, P. Qiu, E.-A. D. Amir, P. O. Krutzik, R. Finck, R. V. Bruggner,
+Fronto-Temporal Dementia); Netherlands Brain Bank (NBB), B. F. Boeve, R. C. Petersen, R. Melamed, A. Trejo, O. I. Ornatsky, R. S. Balderas, S. K. Plevritis, K. Sachs, D. Pe’er,
+T. J. Ferman, J. A. van Gerpen, M. J. T. Reinders, R. J. Uitti, L. Tárraga, W. Maier, S. D. Tanner, G. P. Nolan, Single-cell mass cytometry of differential immune and drug
+O. Dols-Icardo, A. Kawalia, M. C. Dalmasso, M. Boada, U. K. Zettl, N. M. van Schoor, responses across a human hematopoietic continuum. Science 332, 687–696 (2011).
+M. Beekman, M. Allen, E. Masliah, A. L. de Munain, A. Pantelyat, Z. K. Wszolek, O. A. Ross, 50. R. Finck, E. F. Simonds, A. Jager, S. Krishnaswamy, K. Sachs, W. Fantl, D. Pe’er, G. P. Nolan,
+D. W. Dickson, N. R. Graff-Radford, D. Knopman, R. Rademakers, A. W. Lemstra, S. C. Bendall, Normalization of mass cytometry data with bead standards. Cytometry A 83,
+Y. A. L. Pijnenburg, P. Scheltens, T. Gasser, P. F. Chinnery, B. Hemmer, M. A. Huisman, 483–494 (2013).
+J. Troncoso, F. Moreno, E. A. Nohr, T. I. A. Sørensen, P. Heutink, P. Sánchez-Juan, 51. W. E. O’Gorman, H. Huang, Y.-L. Wei, K. L. Davis, M. D. Leipold, S. C. Bendall, B. A. Kidd,
+D. Posthuma; GIFT (Genetic Investigation in Frontotemporal Dementia and Alzheimer’s C. L. Dekker, H. T. Maecker, Y.-H. Chie
+
+Chunk 40:
+. Pijnenburg, P. Scheltens, T. Gasser, P. F. Chinnery, B. Hemmer, M. A. Huisman, 483–494 (2013).
+J. Troncoso, F. Moreno, E. A. Nohr, T. I. A. Sørensen, P. Heutink, P. Sánchez-Juan, 51. W. E. O’Gorman, H. Huang, Y.-L. Wei, K. L. Davis, M. D. Leipold, S. C. Bendall, B. A. Kidd,
+D. Posthuma; GIFT (Genetic Investigation in Frontotemporal Dementia and Alzheimer’s C. L. Dekker, H. T. Maecker, Y.-H. Chien, M. M. Davis, The split virus influenza vaccine
+Disease) Study Group, J. Clarimón, K. Christensen, N. Ertekin-Taner, S. W. Scholz, rapidly activates immune cells through Fc receptors. Vaccine 32, 5989–5997 (2014).
+A. Ramirez, A. Ruiz, E. Slagboom, W. M. van der Flier, H. Holstege, A nonsynonymous 52. C. L. Galligan, J. C. Siebert, K. A. Siminovitch, E. C. Keystone, V. Bykerk, O. D. Perez,
+mutation in PLCG2 reduces the risk of Alzheimer’s disease, dementia with Lewy bodies E. N. Fish, Multiparameter phospho-flow analysis of lymphocytes in early rheumatoid
+and frontotemporal dementia, and increases the likelihood of longevity. Acta Neuropathol. arthritis: Implications for diagnosis and monitoring drug therapy. PLOS ONE 4, e6703
+138, 237–250 (2019). (2009).
+37. M. C. Dalmasso, L. I. Brusco, N. Olivar, C. Muchnik, C. Hanses, E. Milz, J. Becker, 53. W. Xu, F. Fang, J. Ding, C. Wu, Dysregulation of Rab5-mediated endocytic pathways
+S. Heilmann-Heimbach, P. Hoffmann, F. A. Prestia, P. Galeano, M. S. S. Avalos, in Alzheimer’s disease. Traffic 19, 253–262 (2018).
+L. E. Martinez, M. E. Carulla, P. J. Azurmendi, C. Liberczuk, C. Fezza, M. Sampaño, 54. R. Xavier, N. Turck, A. Hainard, N. Tiberti, F. Lisacek, J. C. Sanchez, M. Müller,
+M. Fierens, G. Jemar, P. Solis, N. Medel, J. Lisso, Z. Sevillano, P. Bosco, P. Bossù, pROC: An open-source package for R and S+ to analyze and compare ROC curves.
+G. Spalletta, D. Galimberti, M. Mancuso, B. Nacmias, S. Sorbi, P. Mecocci, A. Pilotto, BMC Bioinformatics 12, 77 (2011).
+P. Caffarra, F. Panza, M. Bullido, J. Clarimon, P. Sánchez-Juan, E. Coto
+
+Chunk 41:
+erti, F. Lisacek, J. C. Sanchez, M. Müller,
+M. Fierens, G. Jemar, P. Solis, N. Medel, J. Lisso, Z. Sevillano, P. Bosco, P. Bossù, pROC: An open-source package for R and S+ to analyze and compare ROC curves.
+G. Spalletta, D. Galimberti, M. Mancuso, B. Nacmias, S. Sorbi, P. Mecocci, A. Pilotto, BMC Bioinformatics 12, 77 (2011).
+P. Caffarra, F. Panza, M. Bullido, J. Clarimon, P. Sánchez-Juan, E. Coto, F. Sanchez-Garcia, 55. C. James, J. Bithell, Bootstrap confidence intervals: When, which, what? A practical guide
+C. Graff, M. Ingelsson, C. Bellenguez, E. M. Castaño, C. Kairiyama, D. G. Politis, S. Kochen, for medical statisticians. Stat. Med. 19, 1141–1164 (2000).
+H. Scaro, W. Maier, F. Jessen, C. A. Mangone, J.-C. Lambert, L. Morelli, A. Ramirez, 56. N. A. Obuchowski, M. L. Lieber, F. H. Wians Jr., ROC curves in Clinical Chemistry: Uses,
+Transethnic meta-analysis of rare coding variants in PLCG2, ABI3, and TREM2 supports misuses, and possible solutions. Clin. Chem. 50, 1118–1125 (2004).
+their general contribution to Alzheimer’s disease. Transl. Psychiatry 9, 55 (2019). 57. M. D. Leipold, E. W. Newell, H. T. Maecker, Multiparameter Phenotyping of Human PBMCs
+38. L. Magno, C. B. Lessard, M. Martins, P. Cruz, M. Katan, J. Bilsland, P. Chakrabaty, T. E. Golde, using Mass Cytometry in Immunosenescence (Humana Press, 2015), pp. 81–95.
+P. Whiting, Alzheimer’s disease phospholipase C-gamma-2 (PLCG2) protective variant is 58. W. E. Johnson, C. Li, A. Rabinovic, Adjusting batch effects in microarray expression data
+a functional hypermorph. Alzheimers Res. Ther. 11, 16 (2019). using empirical Bayes methods. Biostatistics 8, 118–127 (2007).
+39. J. D. Milner, PLAID: A syndrome of complex patterns of disease and unique phenotypes. 59. A. Scherer, Batch Effects and Noise in Microarray Experiments: Sources and Solutions (John
+J. Clin. Immunol. 35, 527–530 (2015). Wiley & Sons, 2009).
+40. A. Nott, I. R. Holtman, N. G. Coufal, J. C. M. Schlachetzki, M. Yu, R. Hu, C. Z. Han, M. Pena, 60
+
+Chunk 42:
+irical Bayes methods. Biostatistics 8, 118–127 (2007).
+39. J. D. Milner, PLAID: A syndrome of complex patterns of disease and unique phenotypes. 59. A. Scherer, Batch Effects and Noise in Microarray Experiments: Sources and Solutions (John
+J. Clin. Immunol. 35, 527–530 (2015). Wiley & Sons, 2009).
+40. A. Nott, I. R. Holtman, N. G. Coufal, J. C. M. Schlachetzki, M. Yu, R. Hu, C. Z. Han, M. Pena, 60. D. Di Mitri, R. I. Azevedo, S. M. Henson, V. Libri, N. E. Riddell, R. Macaulay, D. Kipling,
+J. Xiao, Y. Wu, Z. Keulen, M. P. Pasillas, C. O’Connor, C. K. Nickl, S. T. Schafer, Z. Shen, M. V. D. Soares, L. Battistini, A. N. Akbar, Reversible senescence in human CD4+ CD45RA+
+R. A. Rissman, J. B. Brewer, D. Gosselin, D. D. Gonda, M. L. Levy, M. G. Rosenfeld, CD27− memory T cells. J. Immunol. 187, 2093–2100 (2011).
+G. McVicker, F. H. Gage, B. Ren, C. K. Glass, Brain cell type–specific enhancer-promoter 61. V. M. R. Muggeo, Estimating regression models with unknown break-points. Stat. Med.
+interactome maps and disease risk association. Science 366, 1134–1139 (2019). 22, 3055–3071 (2003).
+41. T. E. Golde, Harnessing immunoproteostasis to treat neurodegenerative disorders.
+Neuron 101, 1003–1015 (2019). Acknowledgments: We would like to acknowledge E. J. Fox for putting together the prior
+42. I. Litvan, K. P. Bhatia, D. J. Burn, C. G. Goetz, A. E. Lang, I. McKeith, N. Quinn, K. D. Sethi, matrix for iEN and for help in harmonizing of raw CyTOF data and K. Montine for editorial
+C. Shults, G. K. Wenning; Movement Disorders Society Scientific Issues Committee, assistance. The CyTOF files in this work were generated at the Human Immune Monitoring
+Movement Disorders Society Scientific Issues Committee report: SIC Task Force appraisal Center (HIMC) at Stanford. Funding: This work was supported by grants from the NIH
+of clinical diagnostic criteria for parkinsonian disorders. Mov. Disord. 18, 467–486 (2003). (NS062684, GM138353, and AG047366) and the Scully Initiative Fund. Author contri
+
+Chunk 43:
+this work were generated at the Human Immune Monitoring
+Movement Disorders Society Scientific Issues Committee report: SIC Task Force appraisal Center (HIMC) at Stanford. Funding: This work was supported by grants from the NIH
+of clinical diagnostic criteria for parkinsonian disorders. Mov. Disord. 18, 467–486 (2003). (NS062684, GM138353, and AG047366) and the Scully Initiative Fund. Author contributions:
+43. B. A. Cholerton, C. P. Zabetian, J. F. Quinn, K. A. Chung, A. Peterson, A. J. Espay, F. J. Revilla, T.J.M. and R.F. conceived and supervised the execution of the study. N.A. supervised all
+J. Devoto, G. Watson, S. C. Hu, K. L. Edwards, T. J. Montine, J. B. Leverenz, Pacific statistical analyses and machine learning aspects. N.A., B.G., and A.C. developed the iEN
+Northwest Udall Center of excellence clinical consortium: Study design and baseline analytical approach. K.L.P. was responsible for clinical diagnosis, patient recruitment, and
+cohort characteristics. J. Parkinsons Dis. 3, 205–214 (2013). clinical data collection. R.F. fabricated reagents, processed samples, and performed mass
+44. G. M. McKhann, D. S. Knopman, H. Chertkow, B. T. Hyman, C. R. Jack, C. H. Kawas, cytometry experiments, gatings, and extracted statistical values. T.P. preprocessed data and
+W. E. Klunk, W. J. Koroshetz, J. J. Manly, R. Mayeux, R. C. Mohs, J. C. Morris, M. N. Rossor, executed statistical analyses and machine learning algorithms. D.M. and A.M.W. assisted in
+P. Scheltens, M. C. Carrillo, B. Thies, S. Weintraub, C. H. Phelps, The diagnosis of dementia data preprocessing. R.F. interpreted the mass cytometry data. N.S. assisted with unsupervised
+due to Alzheimer’s disease: Recommendations from the National Institute on Aging- data clustering. T.J.M., R.F., C.R.G., and T.P. wrote the manuscript. Competing interests: The
+Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. authors declare that they have no competing interests. Data and materials availa
+
+Chunk 44:
+ the mass cytometry data. N.S. assisted with unsupervised
+due to Alzheimer’s disease: Recommendations from the National Institute on Aging- data clustering. T.J.M., R.F., C.R.G., and T.P. wrote the manuscript. Competing interests: The
+Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. authors declare that they have no competing interests. Data and materials availability:
+Alzheimers Dement. 7, 263–269 (2011). T.J.M., T.P., R.F., N.A., and B.G. are inventors on a provisional patent related to this work filed by
+45. H. W. Grievink, T. Luisman, C. Kluft, M. Moerland, K. E. Malone, Comparison oft hree isolation Leland Stanford Junior University (no. 63/001,195, filed on 27 March 2020). Data for
+techniques for human peripheral blood mononuclear cells: Cell recovery and viability, reproduction of the results are available at http://flowrepository.org/experiments/3020 and
+population composition, and cell functionality. Biopreserv. Biobank. 14, 410–415 (2016). http://flowrepository.org/experiments/3023
+46. R. Fernandez, H. Maecker, Cytokine-stimulated phosphoflow of PBMC using CyTOF mass
+cytometry. Bio Protoc. 5, e1496 (2015). Submitted 29 June 2020
+47. E. R. Zunder, R. Finck, G. K. Behbehani, E.-A. D. Amir, S. Krishnaswamy, V. D. Gonzalez, Accepted 9 October 2020
+C. G. Lorang, Z. Bjornson, M. H. Spitzer, B. Bodenmiller, W. J. Fantl, D. Pe’er, G. P. Nolan, Published 25 November 2020
+Palladium-based mass tag cell barcoding with a doublet-filtering scheme and single-cell 10.1126/sciadv.abd5575
+deconvolution algorithm. Nat. Protoc. 10, 316–333 (2015).
+48. J. Choi, R. Fernandez, H. T. Maecker, M. J. Butte, Systems approach to uncover signaling Citation: T. Phongpreecha, R. Fernandez, D. Mrdjen, A. Culos, C. R. Gajera, A. M. Wawro, N. Stanley,
+networks in primary immunodeficiency diseases. J. Allergy Clin. Immunol. 140, 881–884.e8 B. Gaudilliere, K. L. Poston, N. Aghaeepour, T. J. Montine, Single-cell peripheral immunoprofiling
+(2017). of Alzheim
+
+Chunk 45:
+48. J. Choi, R. Fernandez, H. T. Maecker, M. J. Butte, Systems approach to uncover signaling Citation: T. Phongpreecha, R. Fernandez, D. Mrdjen, A. Culos, C. R. Gajera, A. M. Wawro, N. Stanley,
+networks in primary immunodeficiency diseases. J. Allergy Clin. Immunol. 140, 881–884.e8 B. Gaudilliere, K. L. Poston, N. Aghaeepour, T. J. Montine, Single-cell peripheral immunoprofiling
+(2017). of Alzheimer’s and Parkinson’s diseases. Sci. Adv. 6, eabd5575 (2020).
+Phongpreecha et al., Sci. Adv. 2020; 6 : eabd5575 25 November 2020 11 of 11
+Downloaded
+from
+https://www.science.org
+at
+Turku
+University
+on
+October
+25,
+2024
+
+---PAGE BREAK---
+
+
+

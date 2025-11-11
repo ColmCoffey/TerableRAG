@@ -1,0 +1,1131 @@
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Trajectories of microbiome-derived bile acids in early life –
+1
+2
+insights into the progression to islet autoimmunity
+3 Santosh Lamichhane1,2,*, Alex M Dickens1,3, Tanja Buchacher1,4, Evita Tianai Lou5,6,
+4 Vincent Charron-Lamoureux7, Roosa Kattelus1,4, Pragya Karmacharya1, Lucas Pinto da
+5 Silva1, Matilda Kråkström1, Omid Rasool1,4, Partho Sen1, Corinn Walker8, Abubaker Patan7,
+6 Emily C. Gentry7, Aron Arzoomand9, Tadepally Lakshmikanth 5,6,9, Jaromir Mikeš 9, Aman
+7 Mebrahtu5,6, Tommi Vatanen10,11,12,13,14, Manuela Raffatellu14,15,16, Karsten Zengler8,15,17,
+8 Tuulia Hyötyläinen18, Ramnik J. Xavier13, Petter Brodin5,6,9, Riitta Lahesmaa1,2,4, Pieter C.
+9 Dorrestein7,15, Mikael Knip10,19,*, Matej Orešič1,20,21,*
+10 1Turku Bioscience Centre, University of Turku and Åbo Akademi University, FI-20520
+11 Turku, Finland
+12 2 Institute of Biomedicine, University of Turku, 20520 Turku, Finland
+13 3Department of Chemistry, University of Turku, Turku, 20500, Finland
+14 4 InFLAMES Research Flagship Center, University of Turku, 20520 Turku, Finland
+15 5 Medical Research Council Laboratory of Medical Sciences (MRC LMS), Imperial College
+16 Hammersmith Campus, London, UK.
+17 6 Department of Immunology and Inflammation, Imperial College London, W12 0NN,
+18 London, UK.
+19 7 Collaborative Mass Spectrometry Innovation Center, Skaggs School of Pharmacy and
+20 Pharmaceutical Sciences, University of California San Diego, San Diego, CA, USA
+21 8 Department of Pediatrics, University of California San Diego, La Jolla, California, USA
+22 9 Department of women’s and children’s health, Karolinska Institutet, Stockholm, Sweden
+23
+NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.
+1
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+24 10 Research Program for Clinical and Molecular Metabolism, Faculty of Medicine, University
+25 of Helsinki, Finland
+26 11 Liggins Institute, University of Auckland, Auckland, New Zealand.
+27 12 Institute of Biotechnology, Helsinki Institute of Life Science, University of Helsinki,
+28 Helsinki, Finland.
+29 13 The Broad Institute of MIT and Harvard, Cambridge, MA, USA
+30 14 Faculty of Agriculture and Forestry, University of Helsinki, Helsinki, Finland.
+31 15 Center for Microbiome Innovation, University of California, San Diego, La Jolla, CA, 39
+32 92093, USA
+33 16 Chiba University-UC San Diego Center for Mucosal Immunology, Allergy, and Vaccines (CU-
+34 UCSD cMAV), La Jolla, CA 92093, USA
+35 17 Department of Bioengineering, University of California, San Diego, La Jolla, CA, 92093,
+36 USA
+37 18 School of Science and Technology, Örebro University, Örebro, Sweden
+38 19 Department of Pediatrics, Center for Child Health Research, Tampere University Hospital, FI-
+39 33520 Tampere, Finland
+40 20 Department of Life Technologies, University of Turku, Turku, FI-20014 Turku, Finland
+41 21 School of Medical Sciences, Faculty of Medicine and Health, Örebro University, 702 81
+42 Örebro, Sweden
+43
+44 *Corresponding authors. E-mail addresses: santosh.lamichhane@utu.fi,
+45 mikael.knip@helsinki.fi, matej.oresic@utu.fi
+2
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Abstract
+46
+47 Recent studies reveal that gut microbes produce diverse bile acid conjugates, termed
+48 microbially conjugated bile acids (MCBAs). However, their regulation and health effects
+49 remain unclear. Here, we analyzed early-life MCBA patterns and their link to islet
+50 autoimmunity. We quantified 110 MCBAs in 303 stool samples collected longitudinally (3–
+51 36 months) from children who developed one or more islet autoantibodies and controls who
+52 remained autoantibody-negative. Stool MCBAs showed distinct age-dependent trajectories
+53 and correlated with gut microbiome composition. Altered levels of ursodeoxycholic and
+54 deoxycholic acid conjugates were linked to islet autoimmunity as well as modulated
+55 monocyte activation in response to immunostimulatory lipopolysaccharide and Th17/Treg
+56 cell balance. These findings suggest MCBAs influence immune development and type 1
+57 diabetes risk.
+58
+3
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Introduction
+59
+60 Bile acids (BAs) are cholesterol-derived surfactants produced from cholesterol in the liver,
+61 stored in the gall bladder, and released into the small intestine upon meal consumption1-3. The
+62 primary BAs produced in the hepatocytes consist of cholic acid (CA), chenodeoxycholic acid
+63 (CDCA), and their amidates (i.e., either glycine or taurine conjugates)4. Gut microbes modify
+64 these host-derived primary BAs to a broad range of secondary BAs via a series of reactions
+65 including deconjugation, dehydroxylation, dehydrogenation, oxidation, and epimerization5.
+66 Almost 95% of these BAs (both primary and secondary) are recirculated to the liver via the
+67 enterohepatic circulation across the distal small intestine6. The remaining 5% still undergo a
+68 wide range of transformations throughout the hind gastrointestinal tract2,3,7,8. Traditionally, it
+69 was believed that BAs undergo amino acid conjugation only in the liver, mediated by a
+70 human enzyme known as bile acid-CoA:amino acid N-acyltransferase9,10. However, recent
+71 studies demonstrate that in addition to the host, gut microbes can reconjugate BAs via bile
+72 salt hydrolase N-acyltransferase activity11,12 . Therefore, hundreds of microbially conjugated
+73 amino acid amidates have been identified and termed as novel ‘microbially conjugated bile
+74 acids’ (MCBAs)2,3,7,8.
+75 BAs are known as emulsifiers, facilitating the absorption of lipids in the gut. They are also
+76 important signaling molecules and antimicrobial compound that influence human health. BAs
+77 act as ligands to activate various receptors such as farnesoid X receptor (FXR), pregnane X
+78 receptor (PXR), Takeda G-protein coupled receptor 5 (TGR5), and sphingosine-1-phosphate
+79 receptors (S1PRs)13-15. These receptors regulate cellular growth and differentiation, host
+80 energy metabolism, and modulate the glucose and lipid homeostasis. BAs also play a crucial
+81 role in the regulation of the immune system by suppressing proinflammatory cytokine
+82 production16-18. Dysregulated BA levels are associated with multiple diseases, including type
+4
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+83 2 diabetes, inflammatory bowel disease, steatotic liver disease, and various immune-mediated
+84 disorders19.
+85 We previously reported that at an early age, systemic BAs including those from the
+86 secondary BA pathways are associated with progression to islet autoimmunity and onset of
+87 type 1 diabetes (T1D)20. Recently, MCBAs, in particular phenylalanine, tyrosine and leucine
+88 conjugated to cholic acid, were also linked with inflammatory bowel disease and cystic
+89 fibrosis7,8. However, the early-life dynamics of these MCBAs and their potential role in
+90 relation to islet autoimmunity and T1D remain unknown.
+91 Herein, in a longitudinal cohort study of young children (ages 3-36 months), we investigate
+92 the trajectories of MCBAs during early life including how these microbial BAs are regulated
+93 in children who later progressed to islet autoimmunity. The study included children who
+94 developed multiple islet autoantibodies (P2Ab) during follow-up and were thus at high risk
+95 for progression to T1D later in life21, the children who developed a single islet autoantibody
+96 (P1Ab) but did not progress to T1D during follow-up, and the controls (CTRs), i.e., children
+97 who remained islet autoantibody (AAb) negative during the follow-up. We also investigate
+98 how the MCBAs modulate the innate and adaptive immune responses, and how they
+99 associate with profiles of gut bacterial communities in a prospective series of samples.
+Results
+100
+101 Presence of MCBAs in early life
+102 We prospectively analyzed MCBAs in a longitudinal series of stool samples (n = 303) from
+103 74 children across three study groups: P1Ab, P2Ab, and CTR. For each participant, stool
+104 samples were collected at up to six time points for the analysis, corresponding to ages 3, 6,
+105 12, 18, 24, or 36 months (Fig. 1). At the time of sample collection, none of the children had
+5
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+106 been diagnosed with T1D. We analyzed a total of 110 MCBAs, including BAs (Cholic Acid
+107 (CA) Chenodeoxycholic Acid (CDCA) Deoxycholic Acid (DCA) Ursodeoxycholic Acid
+108 (UDCA) and Hyodeoxycholic Acid (HDCA)) conjugated to 22 different amino acids (L-
+109 DOPA, Cys, Pro, Met, Asn, Citrulline, Ala, Ser, Arg, Gln, Trp, Val, Tyr, Thr, Lys, His, Phe,
+110 Asp, Leu, Ile, Glu, Ornithine), using a targeted LC-MS/MS assay. Mixed BA standards and a
+111 pooled quality control (QC) sample to match retention times and MS/MS spectra were
+112 analyzed alongside longitudinal stool extracts, to obtain a level 1 annotation.
+113 Among the 110 MCBAs analyzed, 78 were present in at least one of the 303 fecal samples
+114 (Fig. 2). Specifically, MCBAs formed from primary BAs, CA and CDCA, were present in
+115 the highest number of fecal samples, while those formed from secondary BAs, i.e., DCA,
+116 UDCA, and HDCA, were found in fewer samples. BAs conjugated to Pro, Phe, Glu, His,
+117 Ile/Leu, Thr, Trp, Asp, and Tyr were detected in a higher number of samples. In most
+118 samples, BA amidates were detected more than once, except for ornithine conjugated to
+119 UDCA and L-DOPA conjugated to CA, which were detected in only one fecal sample,
+120 respectively. Notably, Ile/Leu isomers were not chromatographically separated. Among all
+121 the MCBAs, HDCA conjugates were observed in the lowest number of samples.
+122 MCBA trajectories in early life
+123 To explore the influences of various factors on early-life MCBA profiles, we conducted
+124 multivariate analyses using linear mixed-effect models in samples where breastfeeding
+125 information was available (n = 242). Age, sex, case status (P1Ab, P2Ab, or CTR), and
+126 duration of breastfeeding were treated as fixed effects, with random effects within individual
+127 samples/subjects were considered. Age emerged as the most significant determinant of
+128 MCBA stool profiles compared to sex, case status, and breastfeeding duration. We identified
+129 48 MCBAs that were influenced by age (p < 0.05; Fig. 3, Supplementary Table S1).
+6
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+130 Additionally, ten MCBAs varied across case groups, nine showed differences between sexes,
+131 and three were associated with breastfeeding duration (Supplementary Tables S2-S4).
+132 Specifically, primary BA amidates (i.e., CA and CDCA amidates) decreased after the first
+133 year of life (Fig. 3a-b). Conversely, MCBAs formed from secondary BAs (DCA and UDCA
+134 amidates) exhibited an opposing trend, gradually increasing during the first 18 months of life
+135 and remaining stable (DCA-conjugated) or slightly decreasing (UDCA conjugates) at the
+136 ages of 24 and 36 months (Fig. 3c-d). Regarding HDCA conjugates, a mixed trend was
+137 observed. HDCA-Asp and HDCA-Tyr decreased, while HDCA-Glu increased with age
+138 (Supplementary Fig. S1). Here, UDCA-Val, HDCA-Citrulline, CDCA-Phe, CA-His,
+139 UDCA-Glu, CA-Ile, CA-Leu, UDCA-Tyr, and UDCA-Phe were affected by sex. Among the
+140 78 detected MCBAs, CDCA-Ala, CA-Pro, and CDCA-Tyr were influenced by breastfeeding
+141 status.
+142 MCBAs in the development of islet autoimmunity
+143 Concentrations of ten MCBAs in stool were found to be different in the children who
+144 developed single or multiple autoantibodies during follow-up (P1Ab or P2Ab) when
+145 compared to the children in the CTR group who were antibody negative (p < 0.05; Fig. 4,
+146 Supplementary Table S2). This included two CA conjugates (CA-Citrulline and CA-Cys),
+147 three CDCA conjugates (CDCA-Ala, CDCA-Ser, CDCA-Tyr), four DCA conjugates (DCA-
+148 Ile, DCA-Leu, DCA-Pro, DCA-Val), and one UDCA conjugate, UDCA-Asn (Fig. 3a-d,
+149 Supplementary Table S2). Fig. 4 shows the beta coefficients from the linear model. We
+150 found that all of the DCA conjugates were lower in the P1Ab group when compared to the
+151 CTR, while CDCA-Tyr showed the opposing trend (Fig. 4a, c, and d). Likewise, the BA
+152 conjugates UDCA-Asn, CDCA-Ser, CA-Citrulline, and CDCA-Ala remained downregulated
+153 in the P2Ab group when compared to the CTR group, with the exception of CA-Cys (Fig. 4b,
+7
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+154 e and f).
+155 We also compared the MCBA stool profiles separately in different age cohorts. There was no
+156 persistent trend with respect to MCBA differences between the study groups (P1Ab, P2Ab, or
+157 CTR) at individual time points. However, we found that 22 conjugates (12 CA-conjugates,
+158 five CDCA-conjugates, four DCA-conjugates, one UDCA-conjugate) remained altered
+159 between the P1Ab and CTR groups at either 6, 12, 18, or 36 months of age. Specifically, the
+160 CA-conjugates were higher in the P1Ab group (18 months of age), while the DCA-conjugates
+161 were generally lower, and other conjugates showed no consistent trend. Additionally, 9
+162 MCBAs were different between the P2Ab and CTR at either 6, 12, or 18 months of age.
+163 Notably, UDCA-Asn remained lower in the P2Ab group compared to the CTR group at 12
+164 months of age.
+165 MBCA concentrations in the stool are associated with the specific gut
+166 microbes
+167 Gut microbes have the ability to conjugate amino acids to BAs. Thus, our next objective was
+168 to determine if the microbial conjugated BA profiles, which differed between the study
+169 groups (Fig. 4), were associated with bacterial relative abundance in the paired longitudinal
+170 metagenomes (n = 110). Using Spearman correlation analysis, we investigated associations
+171 between bacterial composition at stain level and ten MCBA profiles that were persistently
+172 altered in the islet autoantibody group. Our analysis revealed that deoxycholic acid (DCA)
+173 conjugates exhibited the most frequent associations with the paired microbial strains (Fig. 5).
+174 In total, we identified 56 bacteria that were positively or inversely associated with at least one
+175 of the DCA conjugates. Notably, Eubacterium eligens remained strongly associated with
+176 DCA-Val, DCA-Leu, and DCA-Ile, while Roseburia intestinalis showed the strongest
+177 positive association with DCA-Pro. Furthermore, we observed that many strains possessing
+8
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+178 BA-transforming capabilities were associated with DCA-Val, DCA-Leu, and DCA-Ile. These
+179 strains included Alistipes onderdonkii, Alistipes finegoldii, Bacteroides finegoldii, and
+180 Bacteroides xylanisolvens. Thirty-three of the gut bacterial strains were predominantly
+181 positively associated with CDCA conjugates, including Ruminococcus gnavus, Escherichia
+182 coli, Phascolarctobacterium succinatutens, Erysipelotrichaceae bacterium, Bifidobacterium
+183 breve, Veillonella atypica, and Lachnospiraceae bacterium (Fig. 5 and Supplementary
+184 Table S5). Meanwhile, Ruminococcus gnavus, Escherichia coli along with three Veillonella
+185 spp. were inversely associated with DCA conjugates (Supplementary Table S5). We also
+186 found that UDCA-Asn was associated with Prevotella oralis, Actinobaculum schaalii,
+187 Haemophilus parahaemolyticus, and Morganella morganii. Among all conjugates, CA-Cys
+188 exhibited the strongest positive association with Sutterella wadsworthensis (r = 0.71).
+189 In addition, we leveraged microbeMASST (https://masst.gnps2.org/microbemasst/) to
+190 investigate those MCBAs that were persistently altered in the islet autoantibody group and to
+191 identify possible microbial producers22. We found that CDCA-Ala was predominantly found
+192 in cultures of Clostridium scindens ATCC 35704 and Clostridium sordelli AO32, UDCA-Asn
+193 in Ruminococcus gnavus ATCC 29149.CA-Citrulline was found in a diverse number of
+194 microbial cultures, including Enterococcus faecium 513, Bifidobacterium breve HPH0326,
+195 and 21 others microbial strains (Supplementary Table S6). Likewise, DCA-Ile/Leu was
+196 detected in Escherichia coli, Bifidobacterium adolescentis L2-32, Bifidobacterium angulatum
+197 F16_22, and several other strains (Supplementary Table S6). Likewise microbial candidates
+198 for CDCA-Ser and DCA-Val are listed in Supplementary Table S6.
+199 Based on multi-omics analysis and strain availability, we cultured nine predicted BA
+200 metabolizers that were altered in P2Ab group (Alistipes onderdonkii, Ruminococcus bromii,
+201 Clostridium bartlettii, Bacteroides vulgatus, Bacteroides wadsworthia, Coprococcus comes,
+9
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+202 Parabacteroides distasonis, Bacteroides intestinalis and Eggerthella lenta) in brain heart
+203 infusion media supplemented with conjugated UDCA-Asn, UDCA, and Asn, as well as in
+204 control media without supplements (Supplementary Fig. S2). After 72 hours of culturing,
+205 samples were analyzed using LC-MS/MS and compared to the UDCA-Asn reference. In
+206 monocultures of Clostridium bartlettii, Bacteroides vulgatus, Coprococcus comes had
+207 UDCA-Asn deconjugation potential. Clostridium bartlettii, and Coprococcus comes,
+208 Ruminococcus bromii had conjugation potential. In addition, Alistipes onderdonkii and
+209 Eggerthella lenta supplemented with UDCA-Asn, we observed an increase in the UDCA-Asn
+210 signal (Supplementary Fig. S2). These findings confirms that specific human gut
+211 microorganisms are capable of producing these novel conjugated MCBAs.
+212 MBCAs modulate host immune responses
+213 We further explored the potential of MCBAs to modulate the innate immune system,
+214 specifically examining whether the conjugated form of available UDCA and the
+215 unconjugated BAs UDCA and DCA exert immunomodulatory properties in vitro in response
+216 to lipopolysaccharide (LPS) using human whole blood cultures. Whole blood from healthy
+217 donors were diluted 1:1 in WB-STIM buffer (Cytodelics AB, Stockholm) and stimulated with
+218 a Salmonella derived form of immunostimulatory LPS. We then measured three signaling
+219 pathways downstream of the TLR4 receptor in a time-course detecting phosphorylation of
+220 p38 (pp38) and ERK (pERK), as well as degradation of IkBa, at the single-cell level by
+221 intracellular staining and flow cytometry (Fig. 6a). To robustly compare immunomodulatory
+222 effects of different BA conjugates across the entire time course we calculated the area under
+223 the curve (AUC) for each signaling intermediate and compared theses across pretreatment
+224 conditions and used combinations of small molecule inhibitors of ERK and p38
+225 phosphorylation as negative controls. The different UDCA conjugates exerted variable
+10
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+226 effects (Fig. 6b). Unconjugated UDCA, Asn-UDCA, and Cit-UDCA partially inhibited LPS-
+227 induced signaling across all three pathways investigated, while Trp-UDCA, Asp-UDCA, and
+228 Glu-UDCA enhanced the LPS-induced signaling (Fig. 6b), indicating immunomodulatory
+229 potentials of the newly discovered MCBAs. DCA strongly inhibited LPS induced signaling
+230 across all three signaling pathways in human blood monocytes and was even more efficient
+231 than either of the conjugated UDCAs tested (Fig. 6c). Given the abundance of LPS in the
+232 human intestine and the previously reported role of LPS exposure early in life in relation to
+233 T1D development23 it is intriguing that BA modulation of LPS-induced responses offers an
+234 additional, previously unrecognized layer of regulation for the establishment of healthy
+235 immune-microbe interactions early in life.
+236 Next, we sought to investigate whether MCBAs interact with the adaptive immune system.
+237 Specifically, we examined the effects of MCBAs during the early in vitro differentiation
+238 stages of human Th17 and in vitro induced Treg (iTreg) cells. Naive CD4+ CD25- T cells
+239 were isolated from human cord blood and cultured with MCBAs under conditions promoting
+240 Th17 and Treg differentiation (Fig. 7a). We screened three MCBAs—UDCA-Asn, CDCA-
+241 Tyr and CDCA-Ser, as well as unconjugated UDCA, which we identified as altered in the
+242 P2Ab and P1Ab groups compared to the CTR (Fig. 4). Our results showed that UDCA-Asn
+243 and CDCA-Ser enhanced Th17 cell differentiation, leading to increased IL-17a secretion
+244 (Fig. 7b and c). Conversely, these compounds inhibited the differentiation of iTreg cells, as
+245 evidenced by a decrease in Foxp3 expression levels (Fig. 7f-g). However, while neither
+246 unconjugated UDCA nor CDCA-Tyr affected the iTreg population (Fig. 7h-i), both
+247 compounds reduced IL-17a secretion, thereby impeding Th17 differentiation (Fig. 7d-e).
+Discussion
+248
+249 By comprehensive analysis of fecal MCBAs in a longitudinal birth cohort, we demonstrated
+11
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+250 that MCBAs display specific age-dependent profile during the first three years of life. Certain
+251 BA conjugates, specifically primary BA amidates (CA and CDCA), decreased over time,
+252 while the secondary BA amidates (DCA and UDCA) increased during early life, before
+253 stabilizing. Previous metabolomics studies suggest that age has a significant impact on the
+254 longitudinal trajectories of metabolites. Several studies previously found that systemic lipids,
+255 including BAs, show distinct age-related trajectories20,24. However, to our knowledge, this is
+256 the first study to define the trajectories of MCBAs in the human gut during infancy. Bacteria
+257 from the human gut produce bile salt hydrolases (BSHs) that re-amidate BAs to generate
+258 MCBAs11,12. During the first three years of life, gut microbial maturation is a dynamic
+259 process, which can consequently shape the MCBA profiles and thus explain our observations.
+260 The frequencies of MCBA conjugations varied depending on the specific BA type. Notably,
+261 the amidates of HDCA and UDCA were the least frequently observed amino acid
+262 conjugations. The composition of BAs in humans is markedly influenced by the gut
+263 microbiome2,25. Additionally, the human gut microbiome composition differs both within and
+264 between individuals26,27, which can influence the amidate conjugations. Recent in vitro
+265 studies that investigated bacterial species commonly found in the human intestinal tract, have
+266 revealed varying abilities among the gut microbial strains to perform these amidate
+267 conjugations5, thus suggesting a complex interplay between microbial diversity and MCBA
+268 metabolism within the gastrointestinal ecosystem. Our data also suggest that gut bacteria
+269 contribute to the production of these MCBAs.
+270 We found that children at human leukocyte antigen (HLA) - conferred risk for T1D, who
+271 later progressed to single or multiple islet autoantibodies in the follow-up period, have a
+272 distinct MBCA profile compared to those who remained autoantibody negative. Previously,
+273 we demonstrated that at-risk children exhibit persistently altered levels of both host-derived
+12
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+274 systemic BAs (including both glycine and taurine conjugates) and host-microbial BA co-
+275 metabolism, compared to children who develop at least one single islet autoantibody or
+276 remain negative for islet antibodies during follow-up20.
+277 BAs are recognized as immunoregulatory metabolites16 and microbially-derived secondary
+278 BAs are crucial for the maintenance of immune system homeostasis28. Hang et al. identified
+279 that microbially-derived secondary BAs, including 3-oxoLCA and isoallo LCA, affect host
+280 immune responses by directly modulating T-cell differentiation16. Moreover, the levels of
+281 isoallo LCA were reported to be altered in patients with IBD28. Gentry et al. discovered that
+282 some of these newly discovered MCBAs, particularly CA conjugated to Glu, Ile/Leu, Phe,
+283 Thr, Trp, or Tyr, could be associated with IBD. In the latter study, for CDCA-Met, DCA-
+284 Met, CDCA-Phe, CDCA-Trp, and CDCA-Tyr, a notable increase in the levels of interferon-γ
+285 (IFNγ) was reported, with CDCA-Trp showing a sixfold rise8. IFNγ is a cytokine with
+286 essential roles in regulating immune homeostasis and inflammatory responses in humans. In
+287 line with others, our data suggest that MCBAs control host immune responses by directly
+288 influencing in vitro cell differentiation process of Th17 and Treg cells. Given the critical
+289 roles of Th17 and Treg cells in inflammatory diseases and their close association with gut
+290 bacteria29, our study suggests novel molecular pathways linked to emerging microbiota-
+291 derived bioactive compounds that modulate T-cell function.
+292 The sensing of LPS and the degree to which different LPS variants stimulate immune cell
+293 responses early in life has previously been associated with T1D in this cohort23. Here we
+294 show that secondary BAs variably modulate LPS-induced signaling, thus providing an
+295 additional layer of regulation conferred by microbiota members. We demonstrate that
+296 conjugated forms of UDCA display varying effects on the activation of monocytes, following
+297 exposure to immunostimulatory LPS derived from Salmonella in vitro. These results indicate
+13
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+298 that the presence of immunostimulatory vs. immunoregulatory LPS variants in variable
+299 proportions, together with the abundance of immunoregulatory BA conjugates, determine the
+300 overall potential of LPS to trigger inflammatory responses. This complements the actions of
+301 other immunoregulatory metabolites such as indole-3-lactic acid and other tryptophan
+302 metabolites, which are also known to modulate inflammatory responses and T cell
+303 development in human newborns30. Thus, we suggest that disturbances in the gut
+304 microbiome-BA axis during early life alters immunomodulation and potentially contribute to
+305 the initiation and/or progression of islet autoimmunity.
+306 Taken together, our study presents the first known exploration of MCBAs dynamics in early
+307 life, revealing their potential role in shaping islet autoimmunity. Our findings show that
+308 MCBA levels in stool are closely linked with the gut microbiome and influence the
+309 differentiation of Th17 and Treg immune cells, highlighting MCBAs as important modulators
+310 of immune development.
+Methods
+311
+312 Study subjects
+313 The DIABIMMUNE study recruited 832 families in Finland (Espoo), Estonia (Tartu), and
+314 Russia (Petrozavodsk) with infants carrying HLA alleles which confer risk for islet
+315 autoimmunity and T1D. The subjects involved in the current study were chosen from the
+316 subset (n = 74) of available samples (matched serum and stool) in the international
+317 DIABIMMUNE study. This comprises children who progressed to at least a single AAb
+318 (P1Ab, n = 24) or to multiple islet AAb (P2Ab, n = 12), and controls (CTRs, n = 38), i.e., the
+319 children who remained islet AAb-negative during the follow-up. Samples were collected
+320 longitudinally at 3, 6, 12, 18, 24 and 36 months from each child. Here no prior sample-size
+14
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+321 estimation was performed. The study groups were matched for HLA-associated diabetes risk,
+322 gender, country and period of birth.
+323 This study was conducted according to the guidelines in the Declaration of Helsinki. The
+324 Ethics and Research Committee of the participating Universities and Hospitals approved the
+325 study protocol. All families provided written informed consent prior to sample collection.
+326 The EDIA study was approved by the Ethical Committee, Tampere University Hospital
+327 (approval number R11166).
+328 Quantification of bile acids
+329 The BAs were measured in fecal sample as described previously20. All fecal sample were
+330 freeze-dried prior to extraction to account for the inconsistency in the fecal water content and
+331 dry weight in the stool. The fecal homogenate was prepared using fecal samples and ethanol
+332 in 2:1 w/v ratio. The MCBAs were extracted by adding a volume of 10 μL of fecal
+333 homogenate to 200 μL of crash solution containing MeOH and 25ppb of internal standard
+334 mix: CA-d4, CDCA-d4, UDCA-d4, DCAd4, LCA-d4, TCA-d4, GUDCA-d4, GCDCA-d4,
+335 GDCA-d4, GCA-d4, TLCA-d4, TDCA-d4, TCDCA-d4, TUDCA-d4, TCA-d4 and GLCA-
+336 d4. The samples were filtered using a 96-Well protein precipitation filter plate (Supelco). The
+337 filtrate was transferred to a glass vial and dried with N2 flow at 45°C and resuspended in 50
+338 μL of resuspension solution (methanol:water 4:6). For QC samples, a pooled sample was
+339 prepared in the same way.
+340 The analyses were performed on a Sciex 6600 quadrupole time-of-flight mass spectrometer
+341 (Sciex, United States) coupled to a Sciex exion LC system. Separation was performed on a
+342 ACQUITY PREMIERE HSS T3 (2.1 × 100 mm, 1.8 μm) column, Waters using gradient
+343 elution. The eluents were water/methanol (7:3 v/v) with 2mM ammonium acetate (A) and
+15
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+344 methanol with 2mM ammonium acetate (B), the flow rate was 0.4 mL/min, the injection
+345 volume was 5 μL and the column was kept at 45°C. The gradient program was 0–0.5 min:
+346 5% B, 4 min: 60 % B; 11-16 min; 100% B, 16.1-17 min 5% B. The mass spectrometer was
+347 operated in negative mode. Full scan in the range 100-800 m/z was used for all samples,
+348 except QC samples where information dependent analysis was performed. The source
+349 paramters CUR, GS1, GS2, ISFV and TEM were 25, 40, 40, 4500 and 650 respectively. The
+350 accumulation time was 250 ms. The mass was calibrated using sodium formate clusters
+351 between every five samples.
+352 Identification of MCBAs was carried out by comparing retention time and accurate mass
+353 (mass error <10ppm) to authentic standards, which were synthesized as described
+354 previously8. Further, for the QC samples, the fragmentation pattern was compared with the
+355 authentic standards. Data was processed using SciexOS (3.0). Results were reported as the
+356 peak area of the MCBAs normalized with the corresponding internal standard. For quality
+357 control, we randomized the order of samples and injected 1) pooled quality control (QC) 2) a
+358 blank sample and 3) a known standard every 10 samples. In addition to that the samples were
+359 blinded to the person preparing and running the experiments.
+360 Analysis of islet autoantibodies
+361 Four diabetes-associated autoantibodies were analyzed from each serum sample with specific
+362 radiobinding assays: insulin autoantibodies (IAA), glutamic acid decarboxylase antibodies
+363 (GADA), islet antigen-2 antibodies (IA-2A), and zinc transporter 8 antibodies (ZnT8A) as
+364 described previously20. The cut-off values for autoantibody positivity were based on the 99th
+365 percentile in non-diabetic children and were 2.80 relative units (RUs) for IAA, 5.36 RU for
+366 GADA, 0.78 RU for IA-2A and 0.61 RU for ZnT8A.
+16
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+367 Gut microbiome analysis by shotgun metagenomics sequencing
+368 Metagenomic shotgun sequencing and data processing were conducted as previously
+369 described20,23,31-33. Raw metagenomic sequencing data was retrieved from
+370 (https://diabimmune.broadinstitute.org/) (NCBI BioProject ID: PRJNA231909). Stool
+371 samples (n = 110) were common between the published metagenomics data and the stool
+372 BAs measured in the present study. Metagenomic data from the matched samples (n = 110)
+373 were considered for further analysis. As stated earlier20, host genome‒contaminated reads and
+374 low-quality reads are already removed from the raw sequencing data using kneadData v0.4.
+375 Taxonomic microbiome profiles were determined using MetaPhlAn2 using default
+376 parameters as described20.
+377 Bacterial cultures screening
+378 All bacteria cultures were started from glycerol stock and incubated at 37 °C for three days in
+379 an anaerobic chamber (10% CO2, 7.5% H2, 82.5% N2) in a filtered BHI medium at a pH
+380 adjusted to 7.2 using 5 N NaOH. After the cultures were normalized at OD = 0.02, 200 µL
+600
+381 of bacterial suspension was added in triplicates in a 96-well plate with and without 100 µM
+382 of Asn-UDCA and incubated for 72 h at 37 °C. Bacterial cultures were also extracted at the
+383 start of the experiment (0 h) to establish a baseline. Following bacterial growth, 200 µL of
+384 culture was transferred to a new 2 mL deep-well plate, 600 µL of 50% MeOH/H O was
+2
+385 added and incubated overnight at 4°C. Samples were centrifuged at 2000 RPM for 10 min
+386 and 200 µL was transferred into a deep-well plate and dried overnight in a CentriVap and
+387 stored at -80°C until LC-MS/MS analysis.
+388 LC-MS/MS analysis of bacterial culture
+389 The samples were resuspended in 200 µL of 50% MeOH/H 0 with sulfadimethoxine as
+2
+17
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+390 internal standard and incubated overnight at -20 °C. Samples were centrifuged at 2000 RPM
+391 for 10 min and 150 µL was transferred to a shallow 96 well-plate. A pooled sample was
+392 created for quality control. Samples were randomized and analyzed using a Vanquish
+393 UHPLC (ultra-high performance liquid chromatography) system coupled to an Orbitrap
+394 Exploris 240 mass spectrometer (Thermo Fisher Scientific). The chromatographic separation
+395 was achieved by using a Phenomenex polar C18 column (2.6 µm particle size, 100 x 2.1 mm)
+396 and the mobile phase consisted of H O + 0.1% FA (solvent A) and ACN + 0.1% FA (solvent
+2
+397 B). Five microliters of samples were injected and eluted using the following gradient: 0-0.5
+398 min 5% B, 0.5-1.1 min 5% B, 1.1-7.5 min 40% B, 7.5-8.5 min 99% B, 8.5-9.5 min 99% B,
+399 9.5-10 min 5% B, 10-10.5 min 5% B, 10.5-10.75 99%B, 10.75-11.25 99% B, 11.25-12 min
+400 5% B. Data-dependent acquisition (DDA) mode was used to acquire the MS/MS data using
+401 positive electrospray ionization (ESI+). Sheath gas was set to 50 L/min, aux gas flow rate
+402 was set at 10 L/min, and sweep gas set to 1. The spray voltage was 3.5 kV, ion transfer tube
+403 325 °C, and vaporizer temperature 350 °C. AcquireX Deep Scan method was enabled, and an
+404 exclusion list was created by injecting four times the pooled sample. MS/MS scan range was
+405 set to 100 – 1000 m/z, RF lens (%) was 70, a resolution of 60,000 with 1 microscans, a charge
+406 state of 1, the expected peak width was 6 s, and advanced peak determination was enabled.
+407 The automatic gain control (AGC) target was set to standard and with a maximum injection
+408 time set to auto. Dynamic exclusion was set to custom, and the following parameters were
+409 used: Exclude after number of times: 2, if it occurs within 3 s, with a duration of 4 s. Isotope
+410 were excluded. Up to 10 scans per MS1 were collected with a resolution at 200 m/z of 22,500
+411 with 1 microscans. The isolation window was set to 1 m/z. The AGC target was set to custom
+412 with 200% as normalized AGC target with a maximum injection time set to Auto. The scan
+413 range mode was set to Auto. The collision energies were set to a stepwise increase of 25, 40,
+414 and 60 eV.
+18
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+415 LC-MS/MS data processing
+416 Thermo RAW files were converted to .mzML using the ProteoWizard MSconvert software.
+417 Feature detection and extraction was performed using MZmine 4.4.3. The batch file used for
+418 feature extraction (.mzbatch) can be found on the GitHub webpage. The data was imported
+419 using MS1 and MS2 detector using the factor of lowest signal of 3 and 2, respectively. Mass
+420 detection was also performed using the above parameters. For the chromatogram builder,
+421 minimum consecutive scans was set to 4, intensity to 3E4, height to 1.5E5, and 10 ppm for
+422 m/z tolerance. Smoothing was applied using the Savitzky Golay algorithm before applying
+423 the local minimum feature resolver which had the following parameters: chromatographic
+424 threshold set to 90%, minimum search range retention time of 0.05 min, minimum ratio of
+425 peak top/edge of 2, and a minimum scans of 4. Then, the 13C isotope filter and isotope finder
+426 was applied using a m/z tolerance of 3 ppm and retention time tolerance of 0.04 min. Features
+427 were aligned using the join aligner module at a m/z tolerance of 10 ppm and retention time
+428 tolerance set to 0.07 min. Feature list rows filter was applied using two samples or 10%. Peak
+429 finder was set to an intensity tolerance of 20%, a m/z tolerance of 10 ppm, retention time
+430 tolerance of 0.05 min, and three minimum data points before removing duplicate with m/z
+431 tolerance of 1.5 ppm and retention time tolerance of 0.04 min. MetaCorrelate and ion identity
+432 networking were performed before exporting the final files. GNPS, SIRIUS, and feature
+433 information (legacy MZmine 2) modules were used to generate the feature table containing
+434 peak areas, .mgf files, and the content of each feature, respectively, which were necessary for
+435 downstream analysis.
+436 Data analysis
+437 All tables generated using MZmine software were imported into R 4.4.1 for downstream
+438 analysis.
+19
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+439 Synthesis of Asn-UDCA
+440 Solid ursodeoxycholic acid (1.27 mmol, 500 mg, 3 eq.) and 5 mL of DMF were added to a 20
+441 mL glass vial with a stir bar. Next, solid EDC (1.27 mmol, 244 mg, 3 eq.) and neat DIPEA
+442 (4.25 mmol, 740 μL, 10 eq.) were subsequently added, and the solution was stirred at room
+443 temperature. After 15 min, asparagine (845 µmol, 112 mg, 2 eq.), DMAP were added, and
+444 the reaction was stirred overnight. The mixture was then concentrated in vacuo and purified
+445 by CombiFlash NextGen 300+ using reversed phase column C18 15.5 g Gold at a flow rate13
+446 mL per min with H O (Solvent A) and ACN (solvent B) using the following gradient: 0-6
+2
+447 min, 5% B; 6-10 min, 20% B; 10-17 min 20% B; 17-20 min, 30% B; 20-30 min, 30% B; 30-
+448 34 min, 40% B; 34-42 min, 40% B; 42-50 min, 80% B; 50-55 min, 80% B. Asn-UDCA
+449 eluted at 34 min, 40% B.
+450 LPS stimulation experiment
+451 Whole blood pre-treatment and stimulation ex-vivo for phospho-Flow cytometry
+452 analysis
+453 A blood sample was obtained from healthy adult volunteers in BD Vacutainer Heparin
+454 Plasma Tubes. The blood sample was mixed in an equal ratio with WB-STIM buffer
+455 (Cytodelics AB) at room temperature. The sample was then split into groups: i) non-treated,
+456 ii) vehicle control treated with 0.25% dimethylsulfoxide (DMSO; Sigma-Aldrich), iii) treated
+457 with each metabolite (50μM conjugated UDCAs, collaborator, Finland), iv) treated with
+458 kinase inhibitors Losmapimod (1500nM, p38 inhibitor) and Selumetinib (1000nM, ERK
+459 inhibitor), or v) with combinations of both kinase, used as positive control. Metabolite-treated
+460 samples were incubated for 3hs, and kinase inhibitors-treated samples were incubated for
+461 45mins at 37 °C and 5% CO2. After incubation, samples were stimulated ex-vivo with LPS
+20
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+462 (1ng/ml) derived from Salmonella enterica for 5 time points (3,7,15, 30, and 60 mins) at
+463 37 °C and 5% CO2. Whole blood samples were then fixed, red blood cells lysed, and samples
+464 washed using a Whole blood processing kit (Cytodelics AB)34 according to the
+465 manufacturer’s instructions. Completely fixed and processed white blood cells (WBCs) (0.5–
+466 1 × 106 cells per sample) were plated and cryogenically preserved using CRYO#20 buffer
+467 (Cytodelics AB).
+468 Detecting intracellular phosphorylated protein using flow cytometry
+469 Cryopreserved cells were quickly thawed at 37˚C and then kept on ice while counted using
+470 Cellaca MX (Nexcelom). 0.5- 1 x 106 cells were plated to each well in 96 well U bottom plate.
+471 Next, the cells were stained overnight at 4 °C with antibodies targeting intracellular antigens
+472 (Table 1), washed, and acquired using a Symphony A3 analyzer equipped with HTS system.
+473 CD4+CD25- T cell isolation and Th17/iTreg differentiation
+474 Studies with primary human CD4+ T cells were approved by the Finnish Ethics Committee.
+475 Oral informed consent was obtained from all donors prior to the onset of the study. Primary
+476 human mononuclear cells were isolated from the umbilical cord blood of healthy neonates
+477 (Turku University Central Hospital, Turku, Finland) using Ficoll-Paque PLUS (Cytiva, Cat#
+478 17144003) density gradient centrifugation. CD4+ T cells were further enriched using CD4+
+479 Dynal positive selection beads (Invitrogen, Cat# 11331D) followed by CD25+ T cell depletion
+480 using the CD25 Microbeads II kit (Miltenyi Biotec, Cat# 130-092-983), according to the
+481 manufactures’ instructions. Prior to activation, naïve CD4+CD25- T cells from different donors,
+482 which were highly positive for CD45RA (FITC anti-CD45RA, BD Biosciences Cat# 555488,
+483 RRID:AB_395879) and negative for CD45RO (PE anti-CD45RO, BD Biosciences, Cat#
+484 555493, RRID:AB_395884), were characterized by flow cytometry and were pooled.
+21
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+485 Th17 cell differentiation was performed as described previously35,36. In brief, CD4+CD25- T
+486 cells were activated with plate-bound anti-CD3 (3.75 µg/mL; Beckman Coulter, Cat# IM1304;
+487 RRID:AB_131612) and soluble anti-CD28 (1 µg/mL; Beckman Coulter, Cat# IM1376;
+488 RRID:AB_131624) in X-vivo 20 serum-free medium (Lonza), supplemented with L-glutamine
+489 (2 mM, Sigma-Aldrich) and antibiotics (50 U/mL penicillin plus 50 μg/mL streptomycin;
+490 Sigma-Aldrich). Th17 cells were cultured in the presence of IL6 (20 ng/mL; Roche, Cat# 7270-
+491 IL), IL1β (10 ng/mL; R&D Systems, Cat# 201-LB) and TGFβ (10 ng/mL; R&D Systems, Cat#
+492 240-B), in the presence of neutralizing anti-IFNγ (1 μg/mL; R&D Systems, Cat# MAB285;
+493 RRID:AB_2123306) and anti-IL4 (1 μg/mL; R&D Systems, Cat# MAB204;
+494 RRID:AB_2126745) to block Th1 and Th2 differentiation, respectively.
+495 iTreg cells were cultured as described earlier36,37, with minor changes. Briefly, CD4+CD25- T
+496 cells were activated with plate-bound anti-CD3 (2.5 µg/mL, Beckman Coulter, Cat# IM1304;
+497 RRID: AB_131612) and soluble anti-CD28 (0.5 µg/mL, Beckman Coulter, Cat# IM1376;
+498 RRID: AB_131624) in X-vivo 15 serum-free medium (Lonza), supplemented with L-
+499 glutamine (2 mM), penicillin (50 U) and streptomycin (50 μg/ml) (all from Biowest). Treg cell
+500 differentiation was induced in the presence of TGF-β (10 ng/mL; R&D Systems) and IL2 (12
+501 ng/mL; R&D Systems).
+502 To study the effect of MCBAs on human Th17 and iTreg cell differentiation, 100 µM of either
+503 Asn-UDCA, Ser-CDCA, Tyr-CDCA or UDCA (in DMSO), and DMSO as control, were added
+504 to the Th17 and iTreg cell culture media at day 0, and cultured for 72 hours. After
+505 differentiation, secreted IL-17a levels were determined from Th17 cell-culture supernatants at
+506 72 hours using the human IL-17a DuoSet ELISA kit (R&D Systems, Cat# DY317-05, DY008).
+507 For iTreg, intracellular staining of Foxp3 was performed using the eBioscience™
+508 Foxp3/Transcription Factor Staining Buffer Set (Thermo Scientific, Cat# 00-5523-00),
+22
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+509 according to the manufacture’s protocol. Cells were stained with PE-conjugated Foxp3
+510 antibody (Thermo Fisher Scientific, clone PCH101, Cat# 12-4776-42, RRID: _AB151878) or
+511 corresponding isotype control antibody (Thermo Fisher Scientific Cat# 12-4321-42, RRID:
+512 AB_1518773). Cells were incubated with fluorochrome-labelled antibody for 30 min at 4ºC.
+513 After staining, the cells were washed twice, resuspended in flow buffer (2% FBS/0.1% Na-
+514 azide/PBS) and acquired on BD LSRFortessa (BD Biosciences). The data was analyzed with
+515 FlowJo software (FlowJo LLC).
+516 Statistical methods
+517 The metabolites data values were log transformed prior to analysis. The difference in the
+518 lipidome and metabolome between the studies groups were compared using a multivariate
+519 linear model. For longitudinal samples, linear mixed effects models were regressed with fixed
+520 effect (~ sex + case + age + breast feeding duration) and random effect ~ (1 | Subject). For
+521 age wise comparisons the metabolites were regressed with various factors such as sex, and
+522 disease conditions (e.g., P1Ab vs. CTR) using MaAsLin2 package in R (BAs ~ sex + case).
+523 To subsequently visualize metabolite level, forest plots from the ggplot2 R package were
+524 used.
+525 Data and code availability
+526 Metagenomic sequencing data can be downloaded from
+527 https://diabimmune.broadinstitute.org/diabimmune/ (NCBI BioProject ID: PRJNA231909).
+528 The targeted bile acid metabolomics datasets generated in this study is available atMassIVE
+529 Repository (https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp). MassIVE is a
+530 community resource developed by the NIH-funded Center for Computational Mass
+531 Spectrometry. The data can be accessed directly at GNPS/MassIVE under the accession
+23
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+532 number MSV0000XXXX. Any additional information required to reanalyze the data reported
+533 in this work paper is available from the lead contact upon request.
+Acknowledgments
+534
+535 This study was supported by the “Inflammation in human early life: targeting impacts on life-
+536 course health” (INITIALISE) consortium funded by the Horizon Europe Program of the
+537 European Union under Grant Agreement 101094099 (to M.O.), the Research Council of
+538 Finland funding (no. 363417 to S.L.), the Research council of Finland project grant (grant no.
+539 333981 to M.O.), and the Novo Nordisk Foundation (grant no. NNF20OC0063971 to T.H.
+540 and M.O.). Further support was received from the Swedish Research Council (grant no.
+541 2016-05176 to T.H. and M.O.), Formas (grant no. 2019-00869 to T.H. and M.O.), and the
+542 Medical Research Funds, Helsinki University Hospital (to M.K.). Further support was
+543 received by the InFLAMES Flagship Programme of the Academy of Finland (grant no.
+544 337530). We further acknowledge support by NICHD, P50HD106463, and NIDDK
+545 R01DK136117, U24DK133658 (to P.C.D.). RJX funded by NIH (DK 43351, AI172147) and
+546 Center for Microbiome Informatics and Therapeutics. Mass spectrometeric analysis was
+547 performed at the Turku Metabolomics Centre with the support of Biocenter Finland. The
+548 DIABIMMUNE study was supported by the European Union Seventh Framework
+549 Programme FP7/2007-2013 under grant agreement number 202063 (to M.K.), Juvenile
+550 Diabetes Research Foundation grants 17-2011-529 and 17-2014-305 to R.L., and The
+551 Academy of Finland Centre of Excellence in Molecular Systems Immunology and
+552 Physiology Research grant Decision number 250114, 2012–2017 (to M.O. and M.K.).
+553 We thank all voluntary blood donors and personnel of Turku University Hospital,
+554 Department of Obstetrics and Gynecology, Maternity Ward (Hospital District of Southwest
+555 Finland) for the umbilical cord blood collection. We acknowledge Marjo Hakkarainen (Turku
+24
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+556 Bioscience Center, University of Turku) for her excellent technical assistance. We thank to
+557 Denys Mavrynsky and Tuomas Karskela for the synthesis of pure UDCA conjugates. We also
+558 acknowledge Mauricio Caraballo (Skaggs School of Pharmacy and Pharmaceutical Sciences,
+559 UC San Diego) and Nicole Avalon (Scripps Institution of Oceanography) for their assistance
+560 with the experimental setup for metabolomics and compound purification.
+Author contributions
+561
+562 Conceptualization: S.L. and M.O.; Data curation: M.Kr, P.S., and P.K.; Formal analysis: S.L.,
+563 P.K., T.B, S.Z., and V.C.L.; Funding acquisition: S.L., T.H., M.Kn, and M.O.; Investigation:
+564 S.L., P.K., M.Kn., and M.O.; Methodology: L.P., P.K., M.Kr, A.M.D., E.T.L., V.C.L., C.W.,
+565 R.K., O.R., and T.H.; Resources: T.V., R.J.X., P.D., E.G., P.B., A.A., J.M., A.M., T.L., M.R.,
+566 K.Z., R.L., and M.Kn; Supervision: M.Kn and M.O.; Writing – original draft preparation:
+567 S.L.; Writing – review and editing: All authors.
+Ethics declarations
+568
+569 Competing interests: P.C.D. is an advisor and holds equity in Cybele and Sirenas, is a
+570 science advisor and holds equity in bileOmix and is a Scientific co-founder, advisor and
+571 holds equity to Ometa, Enveda, and Arome with prior approval by UC-San Diego. PCD also
+572 consulted for DSM animal health in 2023. The other authors declare no competing interests.
+573
+25
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Supplementary information
+574
+575 Supplementary Figure S1. Trajectory of HDCA-conjugates during early life.
+576 Supplementary Figure S2. Microbial production of UDCA-Asn.
+577 Supplementary Figure S3. Manual gating strategy for identifying the CD14+ monocyte
+578 population among whole blood white blood cells analyzed by flow cytometry.
+579 Supplementary Tables S1-S5. p-values, regression coefficients, linear mixed-effect models.
+580 Supplementary Table S6. Output from the microbeMASST.
+581
+26
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+582 Table 1. Fluorescent marker antibodies (surface and intracellular) used in flow cytometry.
+Fluorophore Marker Catalog Antibody Clone Vendor
+number dilution, times
+BV650 CD14 301835 5000 M5E2 Biolegend
+PE-Cy7 p-p38 25-9078-42 5000 4NIT4KK Invitrogen
+PE- p-ERK 369518 5000 6B8B69 Biolegend
+DAZZLE
+488 IκBα 5743S 200 L35A5 Cell signalling
+Technologies
+583
+27
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+References
+584
+585 1 Chiang, J. Y. Bile acids: regulation of synthesis. J Lipid Res 50, 1955-1966 (2009).
+586 https://doi.org/10.1194/jlr.R900010-JLR200
+587 2 Guzior, D. V. & Quinn, R. A. Review: microbial transformations of human bile acids.
+588 Microbiome 9, 140 (2021). https://doi.org/10.1186/s40168-021-01101-1
+589 3 Mohanty, I. et al. The changing metabolic landscape of bile acids - keys to
+590 metabolism and immune regulation. Nature reviews. Gastroenterology & hepatology
+591 21, 493-516 (2024). https://doi.org/10.1038/s41575-024-00914-3
+592 4 Hofmann, A. F. et al. A proposed nomenclature for bile acids. Journal of lipid
+593 research 33, 599-604 (1992).
+594 5 Lucas, L. N. et al. Dominant Bacterial Phyla from the Human Gut Show Widespread
+595 Ability To Transform and Conjugate Bile Acids. mSystems, e0080521 (2021).
+596 https://doi.org/10.1128/mSystems.00805-21
+597 6 Dawson, P. A. & Karpen, S. J. Intestinal transport and metabolism of bile acids.
+598 Journal of lipid research 56, 1085-1099 (2015). https://doi.org/10.1194/jlr.R054114
+599 7 Quinn, R. A. et al. Global chemical effects of the microbiome include new bile-acid
+600 conjugations. Nature 579, 123-129 (2020). https://doi.org/10.1038/s41586-020-2047-
+601 9
+602 8 Gentry, E. C. et al. Reverse metabolomics for the discovery of chemical structures
+603 from humans. Nature 626, 419-426 (2024). https://doi.org/10.1038/s41586-023-
+604 06906-8
+605 9 Killenberg, P. G. & Jordan, J. T. Purification and characterization of bile acid-
+606 CoA:amino acid N-acyltransferase from rat liver. The Journal of biological chemistry
+607 253, 1005-1010 (1978).
+608 10 O'Byrne, J., Hunt, M. C., Rai, D. K., Saeki, M. & Alexson, S. E. The human bile acid-
+609 CoA:amino acid N-acyltransferase functions in the conjugation of fatty acids to
+610 glycine. The Journal of biological chemistry 278, 34237-34244 (2003).
+611 https://doi.org/10.1074/jbc.M300987200
+612 11 Rimal, B. et al. Bile salt hydrolase catalyses formation of amine-conjugated bile
+613 acids. Nature 626, 859-863 (2024). https://doi.org/10.1038/s41586-023-06990-w
+614 12 Guzior, D. V. et al. Bile salt hydrolase acyltransferase activity expands bile acid
+615 diversity. Nature 626, 852-858 (2024). https://doi.org/10.1038/s41586-024-07017-8
+616 13 Schaap, F. G., Trauner, M. & Jansen, P. L. Bile acid receptors as targets for drug
+617 development. Nature reviews. Gastroenterology & hepatology 11, 55-67 (2014).
+618 https://doi.org/10.1038/nrgastro.2013.151
+619 14 Makishima, M. et al. Identification of a nuclear receptor for bile acids. Science (New
+620 York, N.Y.) 284, 1362-1365 (1999). https://doi.org/10.1126/science.284.5418.1362
+621 15 Wang, H., Chen, J., Hollister, K., Sowers, L. C. & Forman, B. M. Endogenous bile
+622 acids are ligands for the nuclear receptor FXR/BAR. Molecular cell 3, 543-553
+623 (1999). https://doi.org/10.1016/s1097-2765(00)80348-2
+624 16 Hang, S. et al. Bile acid metabolites control T(H)17 and T(reg) cell differentiation.
+625 Nature 576, 143-148 (2019). https://doi.org/10.1038/s41586-019-1785-z
+626 17 Paik, D. et al. Human gut bacteria produce Τ(Η)17-modulating bile acid metabolites.
+627 Nature 603, 907-912 (2022). https://doi.org/10.1038/s41586-022-04480-z
+628 18 Song, X. et al. Microbial bile acid metabolites modulate gut RORγ(+) regulatory T
+629 cell homeostasis. Nature 577, 410-415 (2020). https://doi.org/10.1038/s41586-019-
+630 1865-0
+28
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+631 19 Hofmann, A. F. The continuing importance of bile acids in liver and intestinal
+632 disease. Archives of internal medicine 159, 2647-2658 (1999).
+633 https://doi.org/10.1001/archinte.159.22.2647
+634 20 Lamichhane, S. et al. Dysregulation of secondary bile acid metabolism precedes islet
+635 autoimmunity and type 1 diabetes. Cell reports. Medicine 3, 100762 (2022).
+636 https://doi.org/10.1016/j.xcrm.2022.100762
+637 21 Ziegler, A. G. et al. Seroconversion to multiple islet autoantibodies and risk of
+638 progression to diabetes in children. JAMA 309, 2473-2479 (2013).
+639 https://doi.org/10.1001/jama.2013.6285
+640 22 Zuffa, S. et al. microbeMASST: a taxonomically informed mass spectrometry search
+641 tool for microbial metabolomics data. Nature microbiology 9, 336-345 (2024).
+642 https://doi.org/10.1038/s41564-023-01575-9
+643 23 Vatanen, T. et al. Variation in Microbiome LPS Immunogenicity Contributes to
+644 Autoimmunity in Humans. Cell 165, 842-853 (2016).
+645 https://doi.org/10.1016/j.cell.2016.04.007
+646 24 Lamichhane, S. et al. Dynamics of Plasma Lipidome in Progression to Islet
+647 Autoimmunity and Type 1 Diabetes - Type 1 Diabetes Prediction and Prevention
+648 Study (DIPP). Sci Rep 8, 10635 (2018). https://doi.org/10.1038/s41598-018-28907-8
+649 25 Ridlon, J. M., Kang, D. J., Hylemon, P. B. & Bajaj, J. S. Bile acids and the gut
+650 microbiome. Current opinion in gastroenterology 30, 332-338 (2014).
+651 https://doi.org/10.1097/mog.0000000000000057
+652 26 Olsson, L. M. et al. Dynamics of the normal gut microbiota: A longitudinal one-year
+653 population study in Sweden. Cell host & microbe 30, 726-739.e723 (2022).
+654 https://doi.org/10.1016/j.chom.2022.03.002
+655 27 Zhu, A., Sunagawa, S., Mende, D. R. & Bork, P. Inter-individual differences in the
+656 gene content of human gut bacterial species. Genome biology 16, 82 (2015).
+657 https://doi.org/10.1186/s13059-015-0646-9
+658 28 Li, W. et al. A bacterial bile acid metabolite modulates T(reg) activity through the
+659 nuclear hormone receptor NR4A1. Cell host & microbe 29, 1366-1377.e1369 (2021).
+660 https://doi.org/10.1016/j.chom.2021.07.013
+661 29 Nagashima, K. et al. Mapping the T cell repertoire to a complex gut bacterial
+662 community. Nature 621, 162-170 (2023). https://doi.org/10.1038/s41586-023-06431-
+663 8
+664 30 Henrick, B. M. et al. Bifidobacteria-mediated immune system imprinting early in life.
+665 Cell 184, 3884-3898.e3811 (2021). https://doi.org/10.1016/j.cell.2021.05.030
+666 31 Kostic, A. D. et al. The dynamics of the human infant gut microbiome in development
+667 and in progression toward type 1 diabetes. Cell host & microbe 17, 260-273 (2015).
+668 https://doi.org/10.1016/j.chom.2015.01.001
+669 32 Yassour, M. et al. Natural history of the infant gut microbiome and impact of
+670 antibiotic treatment on bacterial strain diversity and stability. Science translational
+671 medicine 8, 343ra381 (2016). https://doi.org/10.1126/scitranslmed.aad0917
+672 33 Vatanen, T. et al. Genomic variation and strain-specific functional adaptation in the
+673 human gut microbiome during early life. Nat Microbiol 4, 470-479 (2019).
+674 https://doi.org/10.1038/s41564-018-0321-5
+675 34 Brodin, P., Duffy, D. & Quintana-Murci, L. A Call for Blood-In Human Immunology.
+676 Immunity 50, 1335-1336 (2019). https://doi.org/10.1016/j.immuni.2019.05.012
+677 35 Buchacher, T. et al. PIM kinases regulate early human Th17 cell differentiation. Cell
+678 Rep 42, 113469 (2023). https://doi.org/10.1016/j.celrep.2023.113469
+29
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+679 36 Sen, P. et al. Quantitative genome-scale metabolic modeling of human CD4(+) T cell
+680 differentiation reveals subset-specific regulation of glycosphingolipid pathways. Cell
+681 Rep 37, 109973 (2021). https://doi.org/10.1016/j.celrep.2021.109973
+682 37 Andrabi, S. B. A. et al. Long noncoding RNA LIRIL2R modulates FOXP3 levels and
+683 suppressive function of human CD4(+) regulatory T cells by regulating IL2RA. Proc
+684 Natl Acad Sci U S A 121, e2315363121 (2024).
+685 https://doi.org/10.1073/pnas.2315363121
+686
+687
+30
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Figure legends
+688
+689 Figure 1. Outline of the study. We analyzed microbially conjugated bile acids in a
+690 longitudinal series of stool samples collected at 3, 6, 12, 18, 24, and 36 months of age from
+691 children at HLA-conferred risk for TD, who later developed (i) multiple islet autoantibodies
+692 (P2Ab), (ii) single islet autoantibody (P1Ab), or (iii) remained autoantibody negative (CTRs)
+693 during the follow-up.
+694 Figure 2. Presence of microbial conjugated bile acids (MCBAs) in fecal DIABIMMUNE
+695 samples. The bar in the color map corresponds to the number of fecal samples in which
+696 MCBAs were detected.
+697 Figure 3. Trajectories of MCBA in early life. The loess curve plot of MCBAs over time (3,
+698 6, 12, 18, 24 and 36 months) for CA-conjugates, CDCA-conjugates, DCA-conjugates and
+699 UDCA-conjugates.
+700 Figure 4. MCBAs in progression to islet autoimmunity. Forest plot illustrating the
+701 coefficient estimate of a linear mixed-effects model for individual MCBAs species, with
+702 fixed covariates of Case (CTR vs. P1Ab, CTR vs P2AB), Age, Sex, and length of breast-
+703 feeding accounting for random effects within individual samples. Filled circles with
+704 corresponding confidence intervals represent significant MCBA species. Faded circles depict
+705 non-significant species. The loess curve plot of MCBAs over time for significant MCBA
+706 species obtained in the linear mixed-effects model. The p-values shown are nominal; adjusted
+707 p-values (corrected for multiple comparisons using the Benjamini-Hochberg method) are
+708 available in Supplementary Table S2.
+709 Figure 5. Cross-correlation between the microbes and stool levels of selected MCBAs.
+710 Heatmap showing the correlation coefficients of association between microbes and stool
+31
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+711 levels of MCBAs that were found altered in progression to islet autoimmunity, in a subset of
+712 the sample with available metagenomics data (n = 110). Red color represents positive
+713 correlations, while blue represent negative correlations, as determined by spearman rank
+714 correlation.
+715 Figure 6. Effects of secondary bile acids on LPS-induced signaling in human
+716 monocytes. a. Time-course analysis of LPS-stimulated phosphorylation of p38 (pp38) and
+717 ERK (pERK), as well as degradation of IkBa, markers of canonical NF-kB activation, in
+718 human monocytes. Stimulation with LPS induces robust activation of pp38 and pERK and
+719 IkBa degradation at 30 minutes. Geometric Mean Fluorescent Intensity (MFI) is measured by
+720 flow cytometry, and the average between replicates is plotted in time curves. Quantitative
+721 differences among treatments were shown by area under the curve (AUC) analysis.
+722 Geometric MFI values were used for AUC calculations (n=6). "Inhibitors" serve as a positive
+723 control for pathway inhibition, and "No treatment" represents the baseline LPS response. b.
+724 UDCA and its conjugates (Trp-UDCA, Asp-UDCA, Glu-UDCA, Asn-UDCA, Cit-UDCA)
+725 show limited or no inhibition of these pathways. c. DCA markedly inhibits signaling across
+726 all three pathways. DCA demonstrates significant suppression of LPS-induced signaling.
+727 ANOVA and subsequent pairwise comparisons were performed to analyse the impact of
+728 treatments for multiple proteins across time. Statistical significance was determined using
+729 FDR-corrected p-values. Adjusted p-values are denoted as follows: ***p < 0.001, **p< 0.01,
+730 and *p < 0.05.
+731 Figure 7. Microbial conjugated bile acids modulate Th17 and Treg cell differentiation.
+732 a. Schematic of the Th17 and iTreg differentiation protocol for primary human naïve
+733 CD4+CD25- T cells isolated from the umbilical cord blood of healthy neonates. CD4+CD25-
+734 T cells were activated with anti-CD3/anti-CD28 and differentiated into Th17 or iTreg cells in
+32
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+735 the presence of corresponding cytokines for 3 days. DMSO control or conjugated bile acids
+736 (Asn-UDCA, Ser-CDCA, Tyr-CDCA, and unconjugated UDCA) at 100 µM were added on
+737 day 0 of differentiation. b-e. IL-17a secretion in the supernatant of Th17 cultures treated with
+738 Asn-UDCA (b), Ser-CDCA (c), Tyr-CDCA (d), and UDCA (e) was quantified on day 3 of
+739 differentiation from four biological replicates using ELISA. f-i. Intracellular Foxp3 protein
+740 expression in iTregs cultured with Asn-UDCA (f), Ser-CDCA (g), Tyr-CDCA (h), or UDCA
+741 (i) was assessed on day 3 of differentiation by flow cytometry. Geometric mean fluorescence
+742 intensity (MFI) values are shown for four biological replicates. Statistical significance was
+743 determined using paired, two-tailed Student’s t-test.
+744
+33
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Figure 1. Outline of the study.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Figure 2. Presence of MCBAs in fecal DIABIMMUNE samples.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+a b
+c d
+Figure 3. Trajectories of MCBAs in early life.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+a b c D C A - V a l d CDCA-Tyr
+P1Ab P2Ab
+e f
+CDCA-Ser
+UDCA-Asn
+Figure 4. MCBAs in progression to islet autoimmunity.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Figure 5. Cross-correlation between the microbes and stool levels of selected MCBAs.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Figure 6. Effects of secondary bile acids on LPS-induced signaling in human monocytes.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+a
+Figure 7. Microbial conjugated bile acids modulate Th17 and Treg cell differentiation.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Supplementary
+Fig.S1 Trajectories of HDCA conjugated MCBAs in early life.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Fig.S2. Microbial production of UDCA-Asn. a. Nine gut microbial strains were cultured in the
+.
+presence of 200 µM of Asn-UDCA conjugates to assess their deconjugation potential. b. Asn and
+UDCA were added to the culture medium at 200 µM to evaluate the formation of Asn-UDCA. c.
+The retention time (min) was compared between the authentic standard and the biological
+samples. d. Mirror plot displays the MS/MS spectrum similarity between the authentic standard
+and the biological sample.
+
+---PAGE BREAK---
+
+medRxiv preprint doi: https://doi.org/10.1101/2025.02.18.25322275; this version posted February 24, 2025. The copyright holder for this
+preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in
+perpetuity.
+It is made available under a CC-BY-NC 4.0 International license .
+Fig. S3: Manual gating strategy for identifying the CD14+ monocyte population among whole blood
+white blood cells analyzed by flow cytometry.
+
+---PAGE BREAK---
+

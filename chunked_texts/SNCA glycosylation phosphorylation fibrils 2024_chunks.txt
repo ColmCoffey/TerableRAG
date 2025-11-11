@@ -1,0 +1,1158 @@
+Chunk 1:
+Article https://doi.org/10.1038/s41467-024-46898-1
+Phosphorylation and O-GlcNAcylation at the
+α fi
+same -synuclein site generate distinct bril
+structures
+Received:19July2023 JinjianHu1,8,WenchengXia2,8,ShuyiZeng3,4,8,Yeh-JunLim 1,8,YouqiTao3,4,
+YunpengSun 2,LangZhao1,HaosenWang1,WeidongLe 5,6,DanLi 3,4,
+Accepted:12March2024
+ShengnanZhang2,CongLiu 2,7 &Yan-MeiLi 1
+Checkforupdates α-SynucleinformsamyloidfibrilsthatarecriticalintheprogressionofPar-
+kinson’sdiseaseandservesasthepathologicalhallmarkofthiscondition.
+Differentposttranslationalmodificationshavebeenidentifiedatmultiplesites
+ofα-synuclein,influencingitsconformation,aggregationandfunction.Here,
+weinvestigatehowdisease-relatedphosphorylationandO-GlcNAcylationat
+thesameα-synucleinsite(S87)affectfibrilstructureandneuropathology.
+Usingsemi-synthesis,weobtainedhomogenousα-synucleinmonomerwith
+site-specificphosphorylation(pS87)andO-GlcNAcylation(gS87)atS87,
+respectively.Cryo-EMrevealedthatpS87andgS87α-synucleinformtwodis-
+tinctfibrilstructures.TheGlcNAcsituatedatS87establishesinteractionswith
+K80andE61,inducingauniqueiron-likefoldwiththeGlcNAcmoleculeonthe
+ironhandle.PhosphorylationatthesamesitepreventsalengthyC-terminal
+regionincludingresidues73to140fromincorporatingintothefibrilcoredue
+toelectrostaticrepulsion.Instead,theN-terminalhalfofthefibril(1–72)takes
+onanarch-likefibrilstructure.WefurthershowthatbothpS87andgS87α-
+synucleinfibrilsdisplayreducedneurotoxicityandpropagationactivitycom-
+paredwithunmodifiedα-synucleinfibrils.Ourfindingsdemonstratethatdif-
+ferentposttranslationalmodificationsatthesamesitecanproducedistinct
+fibrilstructures,whichemphasizeslinkbetweenposttranslationalmodifica-
+tionsandamyloidfibrilformationandpathology.
+Pathologicalaggregationofamyloidproteinssuchasα-synuclein(α- identified on amyloid proteins, playing diverse roles in regulating
+syn)andTauisstronglylinkedtoneurodegenerativediseases(NDs)1–3. protein conformation, aggregation kinetics, fibril structures and
+Numerousposttranslationalm
+
+Chunk 2:
+t
+fibrilstructures,whichemphasizeslinkbetweenposttranslationalmodifica-
+tionsandamyloidfibrilformationandpathology.
+Pathologicalaggregationofamyloidproteinssuchasα-synuclein(α- identified on amyloid proteins, playing diverse roles in regulating
+syn)andTauisstronglylinkedtoneurodegenerativediseases(NDs)1–3. protein conformation, aggregation kinetics, fibril structures and
+Numerousposttranslationalmodifications(PTMs),suchasphosphor- pathology4–10.α-SynisthekeyplayerinParkinson’sdisease(PD),with
+ylation, O-glycosylation, ubiquitination, and acetylation, have been itsamyloidfibrilbeingthemaincomponentoftheLewybodies(LBs)
+1KeyLaboratoryofBioorganicPhosphorusChemistryandChemicalBiology(MinistryofEducation),DepartmentofChemistry,TsinghuaUniversity,Beijing
+100084,China.2InterdisciplinaryResearchCenteronBiologyandChemistry,ShanghaiInstituteofOrganicChemistry,ChineseAcademyofSciences,
+Shanghai201210,China.3Bio-XInstitutes,KeyLaboratoryfortheGeneticsofDevelopmentalandNeuropsychiatricDisorders(MinistryofEducation),Shanghai
+JiaoTongUniversity,Shanghai200030,China.4ZhangjiangInstituteforAdvancedStudy,ShanghaiJiaoTongUniversity,Shanghai200240,China.5Shanghai
+UniversityofMedicine&HealthSciencesAffiliatedZhoupuHospital,Shanghai201318,China.6CenterforClinicalandTranslationalMedicine,Shanghai
+UniversityofMedicineandHealthSciences,Shanghai201318,China.7StateKeyLaboratoryofChemicalBiology,ShanghaiInstituteofOrganicChemistry,
+ChineseAcademyofSciences,Shanghai200032,China.8Theseauthorscontributedequally:JinjianHu,WenchengXia,ShuyiZeng,Yeh-JunLim.
+e-mail:liulab@sioc.ac.cn;liym@mail.tsinghua.edu.cn
+NatureCommunications|( 2024)1 5:2677 1
+;,:)(0987654321 ;,:)(0987654321
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+and Lewy neurites (LNs), hallmarks of PD11–13. Elevated α-syn phos- modificationatS87.Allsegmentsduringsynthesisandthefinalmod-
+phorylationlevel,includingpY39,pS87,andpS129,hasbeenobserved ifiedproteinproductswerecharacterizedwithanalyticalRP-HPLCand
+inthebr
+
+Chunk 3:
+
+NatureCommunications|( 2024)1 5:2677 1
+;,:)(0987654321 ;,:)(0987654321
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+and Lewy neurites (LNs), hallmarks of PD11–13. Elevated α-syn phos- modificationatS87.Allsegmentsduringsynthesisandthefinalmod-
+phorylationlevel,includingpY39,pS87,andpS129,hasbeenobserved ifiedproteinproductswerecharacterizedwithanalyticalRP-HPLCand
+inthebrainsofPDandmultiplesystematrophy(MSA)patients14–18. ESI-MS(SupplementaryFig.2-4).
+WhilepY39andpS129aredominantPTMsinLBsandLNs,pS87isnot
+enriched14,16,19.Moreover,unlikepY39andpS129whichenhancesα-syn CharacterizationofthegS87andpS87α-synfibrils
+transmissionandpathologyincells7,20,pS87hasbeenfoundtoprevent Wenextinvestigatedtheinfluenceofglycosylationandphosphoryla-
+α-syn aggregation and neurotoxicity15,21. This suggests that phos- tionatS87onα-synfibrillationthroughthioflavinT(ThT)kineticassay
+phorylationatdifferentα-synsitesmayhavedistinctorevenopposing and negative-staining (NS)transmission electron microscopy(TEM).
+rolesinregulatingα-synaggregationandpathology. AsshowninFig.1b,bothgS87andpS87α-synexhibitedsignificantly
+Inadditiontophosphorylation,amyloidproteinssuchasTauand reducedcapabilityforfibrillationcomparedtounmodifiedWTα-syn.
+α-syn arefound to be O-GlcNAcylated22–24,which mayprevent their Inthepresenceofpre-formedfibrils(PFFs)formedbyunmodifiedα-
+amyloidaggregation8,25.Interestingly,thereisanoticeablereductionin syn protein, unmodified monomer rapidly formed fibril without
+the overall O-GlcNAc levels in brains affected by Alzheimer’s nucleation(Fig.1b).Insharpcontrast,gS87α-synstartedtoformfibril
+Disease26,27. Neurodegeneration in mice is also observed when the after20hincubation.TheThTsignalofpS87sampleslowlypickedup
+overall O-GlcNAc level is diminished through the suppression of after40hwithmuchlessfibrilformedasrevealedbyNS-TEM(Fig.1b,
+O-GlcNActransferase28.ThissuggeststhatO-GlcNAcylationcouldhave SupplementaryFig.9a).Moreinterestingly,atomicforcemicroscopy
+a p
+
+Chunk 4:
+7α-synstartedtoformfibril
+Disease26,27. Neurodegeneration in mice is also observed when the after20hincubation.TheThTsignalofpS87sampleslowlypickedup
+overall O-GlcNAc level is diminished through the suppression of after40hwithmuchlessfibrilformedasrevealedbyNS-TEM(Fig.1b,
+O-GlcNActransferase28.ThissuggeststhatO-GlcNAcylationcouldhave SupplementaryFig.9a).Moreinterestingly,atomicforcemicroscopy
+a protective function in NDs. It’s worth mentioning that α-syn was (AFM)revealedthatboththegS87α-synandpS87α-synfibrilsfeature
+observedtobeO-GlcNAcylatedatseveralpointsincludingT72,T75, a right-handed helical twist, which is distinct from the left-handed
+T81, and S8723,29,30, and this consistently demonstrated protection unmodifiedWTα-synfibril(Fig.1c).StatisticalanalysisofAFMdata
+againstα-synaggregation8,25,31–33.Notably,T75andS87aresitesofboth revealedthattheaveragehalf-pitchlengthsofgS87α-synandpS87α-
+phosphorylation and O-GlcNAcylation15,29,30. However, the specific syn fibrils are approximately 156nm and 157nm (Supplementary
+effectsofdifferentPTMsatthesameα-synucleinsitesininfluencing Fig.9c,d).Additionally,weassessedthestabilityofthesefibrilsunder
+amyloidaggregationandneuropathologyarenotyetfullyunderstood. proteinaseK(PK)digestion.TheresultsdemonstratedthatbothgS87
+Inthisstudy,wefocusonα-synS87,whichcanbemodifiedby and pS87 variants were digested more rapidly compared to the
+both phosphorylation and O-GlcNAcylation. Employing a semi- unmodifiedWTPFFs.Notably,pS87fibrilsexhibitedtheloweststabi-
+synthesis approach, we prepared pS87 and gS87 α-syn monomer lity(SupplementaryFig.9b).Together,ourresultsdemonstratethat
+withhighpurity.Remarkably,werevealedbyusingcryo-EMthatpS87 bothglycosylationandphosphorylationatS87severelyimpairα-syn
+α-synandgS87α-synformamyloidfibrilswithdistinctstructures.In fibrillation, and induce α-syn to form distinct morphological fibrils
+gS87α-synfibrilstructure,GlcNAcatS87establishesnewinteractions fromunmodifiedfibril.
+with neighboring residues in 
+
+Chunk 5:
+.Together,ourresultsdemonstratethat
+withhighpurity.Remarkably,werevealedbyusingcryo-EMthatpS87 bothglycosylationandphosphorylationatS87severelyimpairα-syn
+α-synandgS87α-synformamyloidfibrilswithdistinctstructures.In fibrillation, and induce α-syn to form distinct morphological fibrils
+gS87α-synfibrilstructure,GlcNAcatS87establishesnewinteractions fromunmodifiedfibril.
+with neighboring residues in the C-terminal of the non-amyloid-β
+component (NAC) of α-syn, inducing a iron-like structure. While, in Cryo-EMstructuredeterminationofgS87andpS87α-synfibrils
+pS87α-synfibrilstructure,phosphategroupexcludestheC-terminal ToinvestigatewhetherglycosylationandphosphorylationatS87alters
+ofα-synNACfromformingfibrilcore.Moreover,bothpS87α-synand the structures of α-synamyloid fibrils, we set out to determine the
+gS87 α-synfibrilsexhibitreduced neuropathologycomparedtothe atomicstructureofgS87andpS87α-synfibrilbyusingcryo-EM.The
+unmodifiedWild-type(WT)α-synfibrilformedunderthesamecon- cryo-EM data were collected on a Titan Krios G4 cryo-transmission
+dition. Our findings provide structural basis of how different PTMs electron microscope (2134 micrographs for gS87 and 2423 micro-
+lead to the formation of distinct fibril structures with attenuated graphsforpS87).21,328fibrilsfromgS87datasetand27,806fibrils
+neurotoxicity. frompS87datasetwerepickedforthefollowingtwo-dimensional(2D)
+classificationand3Dreconstruction(SupplementaryTable1).
+Results ForgS87sample,2Dclassificationresultsrevealtherearetwofibril
+Semi-synthesisofpS87andgS87α-syn polymorphs in the gS87 α-syn fibril, including the double filament
+Wefirstsoughttoobtainsite-specificpS87andgS87α-synwithhigh polymorph(~56%)andthesinglefilamentpolymorph(~44%)(Supple-
+purityusingnativechemicalligationstrategyusingpeptidehydrazides mentaryFig.5a).Afterperformingthe3Dreconstruction,wemanaged
+developedbyLiuandco-workers34,35.SinceS87isinthemiddleofα- to obtain the density map of the double filament with the overall
+syn, we performed N-to-C
+
+Chunk 6:
+filament
+Wefirstsoughttoobtainsite-specificpS87andgS87α-synwithhigh polymorph(~56%)andthesinglefilamentpolymorph(~44%)(Supple-
+purityusingnativechemicalligationstrategyusingpeptidehydrazides mentaryFig.5a).Afterperformingthe3Dreconstruction,wemanaged
+developedbyLiuandco-workers34,35.SinceS87isinthemiddleofα- to obtain the density map of the double filament with the overall
+syn, we performed N-to-C sequential native chemical ligation using resolutionofdensitymapof3.1Å(SupplementaryFig.5c).Thedouble
+three segments referring to the work of Pratt and co-workers8,32,36, filamentofgS87fibrilfeaturesahalfpitch(awholepitchrepresentsthe
+includingsegmentX(α-syn1-84thioester),segmentY(gS87/pS87α- lengthofa360°helicalturnoftheentirefibril)of~156nm,ahelicalrise
+synA85C-90NHNH ),segmentZ(α-synA91C-140)(Fig.1a). of2.41Å,andahelicaltwistof−179.72°(Fig.2a).gS87α-synadoptsa
+2
+ToobtainsegmentX,α-syn1-84fusedwithinteinwasexpressed, similar architecture in both the double filament and single filament
+then followed bythiolysis.Segment α-syn Y-gS87 and α-syn Y-pS87 polymorphs(SupplementaryFig.5a).ForpS87sample,2Dclassification
+were manually synthesized by Fmoc-based solid phase peptide identifiedtwodifferentfibrilmorphologies,includingthestraightfila-
+synthesis. The glycosylated Fmoc-amino acid, Fmoc-L- ment polymorph (~74%) and the twisted filament polymorph (~26%)
+Ser(GlcNAc(Ac)-β-D)-OH was synthesized referring to the work of (SupplementaryFig.5b).Althoughthestructuralelucidationofstraight
+3
+Pratt37.TherecombinantsegmentZwasexpressedinE.coli.Methyl- fibrils remains challenging due to the current limitations of cryo-EM
+hydroxylamine was then used to reverse N-terminal cysteine mod- helicalreconstructiontechniques41–43,weobservedadistinctdifference
+ificationduringexpression.38SegmentYandZwerefurtherpurified inthe2DclassaveragesbetweenthepS87straightfilamentpolymorph
+andlyophilizedfornextreaction. and the WT polymorph 1a (Supplementary Fig. 7a, b). Besides, we
+Afterobtainingthesesegments,
+
+Chunk 7:
+nt limitations of cryo-EM
+hydroxylamine was then used to reverse N-terminal cysteine mod- helicalreconstructiontechniques41–43,weobservedadistinctdifference
+ificationduringexpression.38SegmentYandZwerefurtherpurified inthe2DclassaveragesbetweenthepS87straightfilamentpolymorph
+andlyophilizedfornextreaction. and the WT polymorph 1a (Supplementary Fig. 7a, b). Besides, we
+Afterobtainingthesesegments,wefirstlyligatedXandYusing managedtoobtainthehigh-qualitydensitymapofthetwistedfilament
+native chemical ligation39, followed by purifying. The resulting seg- withanoverallresolutionof2.6Å(SupplementaryFig.5d).ThepS87
+mentXY-gS87/pS87(gS87/pS87α-syn1-90NHNH ,A85C)waslyophi- twistedfilamentfeaturesahalfpitchof~154nm,ahelicalriseof2.41Å,
+2
+lized and ligated with segment Z through protein hydrazide. After andahelicaltwistof−179.72°(Fig.2b).
+purification and lyophilization, XYZ with gS87/pS87 modification
+(gS87/pS87 α-syn, A85C A91C) was obtained. To remove sulfhydryl StructuralanalysisofgS87andpS87α-synfibrils
+groupsonthecysteineresiduesattheligationsites,radical-catalyzed Utilizing high-quality cryo-EM density maps, we constructed two
+desulfurization40 was performed to obtain α-syn protein only with structural models for the double filament polymorph of gS87
+NatureCommunications|( 2024)1 5:2677 2
+
+---PAGE BREAK---
+
+a
+b
+150
+100
+50
+0
+0 20 40 60
+Time(h)
+c
+(hereafter referred to as gS87 α-syn fibril) and the twisted filament strands(β1-β4)(Fig.2f).Anunassignedislandisobservedontheouter
+polymorph of pS87 (hereafter referred to as pS87 α-syn fibril). surfaceofthefibrilcore,adjacenttoβ2(residues48-57,Supplemen-
+Remarkably,α-synexhibitstwoentirelydistinctstructuralconforma- tary Fig. 6a). This island is located approximately 41Å from the
+tionsinthesetwofibrilstructures(Fig.2c,d).InthegS87α-synfibril,α- C-terminusofresidueA89,whichishypothesizedtorepresentaseg-
+synadoptsaconserved iron-likefoldinthecorestructure withthe ment of the C-terminal of α-syn (Supplementary Fig. 6b). The two
+m
+
+Chunk 8:
+dues48-57,Supplemen-
+Remarkably,α-synexhibitstwoentirelydistinctstructuralconforma- tary Fig. 6a). This island is located approximately 41Å from the
+tionsinthesetwofibrilstructures(Fig.2c,d).InthegS87α-synfibril,α- C-terminusofresidueA89,whichishypothesizedtorepresentaseg-
+synadoptsaconserved iron-likefoldinthecorestructure withthe ment of the C-terminal of α-syn (Supplementary Fig. 6b). The two
+modifiedGlcNAcmoleculeontheironhandle(Fig.2c).Thesuperior identical protofilaments intertwine to form the gS87 fibril (Fig. 2c).
+electrondensityofGlcNAcsuggestsitshighstabilitywithinthecore Intriguingly,unlikethetightandcomplementaryprotofilamentinter-
+structure(Fig.2e).TheGlcNAcmoleculesstackontopofeachother face seen in earlier fibril structures7,44–47, neighboring α-syn chains
+andalignalongthefibrilaxiswithanintermoleculardistanceof4.82Å. fromthetwoprotofilamentsetsremainseparate,withoutanydirect
+The fibril core comprises residues E35 to A89, which fold into 4 β- interaction.Thedistancebetweenthenearestsidechainsofthetwoα-
+)uA(ecnecseroulfThT WT 1500
+gS87
+pS87
+1000
+500
+0
+0 20 40 60
+Time(h)
+)uA(ecnecseroulfThT
+Article https://doi.org/10.1038/s41467-024-46898-1
+OH
+O = HO O O or OPO3 2- at Ser87
+HO
+α-syn 1-84
+SR NHAc
+HS O
+ligation O
+α-syn 1-84 α-syn 86-90 NHNH
+NH 2
+HS
+O O
+α-syn 86-90 NHNH
+H 2 N 2
+O
+HS O O
+α-syn 92-140 α-syn 1-84 NH α-syn 86-90 NH α-syn 92-140
+HN 1)ligation
+2 O O
+O 2)desulfurization
+WT
+gS87 + 1 mol% WT PFFs
+pS87
+30 500
+400
+20 300
+10 200 100
+0 0
+40 45 50 55 60 40 45 50 55 60
+Time(h) Time(h)
+WT gS87 pS87 WT gS87 pS87
+200 nm 200 nm
+gS87 pS87 WT 10 nm
+right-handed right-handed 200 nm left-handed 0 nm
+Fig.1|SynthesisworkflowandfibrilcharacterizationofgS87,pS87and NS-TEMattheendpoint(60h)oftheThTkineticassay.Datacorrespondto
+unmodifiedWTα-syn.aWorkflowofthesemi-synthesisofα-synwithdifferent mean±s.d.,n=3(replicates).Scalebar:200nm.cAFMimagesofgS87α-syn,pS87
+modificationsatS87.bLeft:ThTkineticassay(top)andNS-TEMimages(bottom)of α-syn,andunmodifiedWTα-synfibril.Thear
+
+Chunk 9:
+handed 200 nm left-handed 0 nm
+Fig.1|SynthesisworkflowandfibrilcharacterizationofgS87,pS87and NS-TEMattheendpoint(60h)oftheThTkineticassay.Datacorrespondto
+unmodifiedWTα-syn.aWorkflowofthesemi-synthesisofα-synwithdifferent mean±s.d.,n=3(replicates).Scalebar:200nm.cAFMimagesofgS87α-syn,pS87
+modificationsatS87.bLeft:ThTkineticassay(top)andNS-TEMimages(bottom)of α-syn,andunmodifiedWTα-synfibril.Thearrowsatbothsidesofthefibrilindicate
+unmodifiedWT,gS87,andpS87α-synfibrils.Right:ThTkineticassay(top)andNS- thestartingpointsofthefibrilprotrusionstoclarifythehandedness.Fibrilsformed
+TEMimages(bottom)ofunmodifiedWT,gS87andpS87α-synfibrilsinthepre- bygS87,pS87andWTin>3independentexperimentsprovidereproducibleimages
+senceof1mol%PFFformedbytheunmodifiedWTα-synmonomer.Zoom-inviews andtheirdatawereanalyzedinNanoscopesoftware.Scalebar:200nm.Source
+ofgS87andpS87ThTkineticassaywereshown.Thefibrilswerecharacterizedby dataareprovidedasaSourceDatafile.
+NatureCommunications|( 2024)1 5:2677 3
+
+---PAGE BREAK---
+
+a b
+~12 nm ~10 nm
+mn
+651~
+mn
+451~
+Article https://doi.org/10.1038/s41467-024-46898-1
+y y
+z 4.82 Å z 4.82 Å
+x x
+-179.72° -179.72°
+z+1/2 z+1/2
+90° 90°
+~15 Å
+c d
+E35’
+A89’ T72’
+E57 V48
+GlcNAc’
+M1’
+M1
+GlcNAc
+V48’ E57’
+T72
+A89 E35
+e
+45° 45°
+GlcNAc
+f
+β1 β4
+β3
+45° 45°
+β2
+Fibril axis
+g
+β7
+β6
+β1
+45° β2 45°
+β3 β5
+β4 Fibril axis
+Fig.2|Cryo-EMstructuresofgS87andpS87fibrils.ThedensitymapsofthegS87 viewsoftheGlcNAcmoleculesintheelectrondensityfrom(c)areshown.Viewsof
+(a)andpS87(b)fibrilarecoloredinlight-blueandpink,respectively.Fibrilpara- threelayersofgS87(f)andpS87(g)α-synfibrilsareshowninthecartoon.Theβ-
+metersincludinghalf-pitch,fibrilwidth,twistangle,andhelicalrisearemarked. strandsofthefibrilstructuresarenumberedandlabeledaccordinglywiththefibril
+Cross-sectionviewforthedensitymapswithabuilt-instructuremodelofgS87(c) axisindicated.
+andpS87(d)α-syn.Topologydiagramsareshownatthebottomright.eZoom-in
+NatureCommunications|( 2024)1 5:2677 4
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s4146
+
+Chunk 10:
+heβ-
+metersincludinghalf-pitch,fibrilwidth,twistangle,andhelicalrisearemarked. strandsofthefibrilstructuresarenumberedandlabeledaccordinglywiththefibril
+Cross-sectionviewforthedensitymapswithabuilt-instructuremodelofgS87(c) axisindicated.
+andpS87(d)α-syn.Topologydiagramsareshownatthebottomright.eZoom-in
+NatureCommunications|( 2024)1 5:2677 4
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+syn molecules exceeds ~15Å (Fig. 2a), suggesting a relatively weak (residues 26-29) forms a steric zipper-like hydrophobic interaction
+interaction between the two protofilaments. Two additional, albeit withresidues52-55,connectingthetwoU-shapedstructures(Supple-
+weak,densitieswereidentifiedattheprotofilamentalinterface(Sup- mentaryFig.6f).
+plementary Fig. 6c), which are hypothesized to represent solvent Intriguingly, our prior structural results demonstrated that
+moleculesthatpotentiallybridgetheinterfacetogether. phosphorylationatY39ofα-synenablestheintegrationoftheentire
+InthepS87α-synfibril,α-synadoptsanarch-likefoldinthefibril N-terminal region into the fibril core7 (Fig. 3d). In the pY39 fibril
+core,composedofresiduesM1toT72foldinginto7β-strands(β1-β7) structure,thephosphategroupmodifiedatY39establishesextensive
+(Fig. 2g). Unlike the gS87 and unmodified WT α-syn fibrils formed electrostatic interactions with K21, K32, and K34 (Fig. 3d). These
+underidenticalcondition44,theentireN-terminalregionparticipatesin interactions are vital for incorporating the entire N-terminal region
+fibril core formation in the pS87 fibril (Fig. 2d). While, the phos- into the fibril core, resulting in a large hook-like architecture
+phorylatedS87isexcludedfromthefibrilcore,andremainsflexible (Fig.4a,b).Thisstructuresuggeststhatifaphosphategrouppartici-
+andinvisiblefromcryo-EM.Furthermore,thetwoprotofilamentsof patesinfibrilcoreformation,itneedstobestabilizedbypositively
+pS87 α-syn are zipped together through extensive intermolecular chargedresidues7.However,inthepS87fibrilstructu
+
+Chunk 11:
+e, resulting in a large hook-like architecture
+phorylatedS87isexcludedfromthefibrilcore,andremainsflexible (Fig.4a,b).Thisstructuresuggeststhatifaphosphategrouppartici-
+andinvisiblefromcryo-EM.Furthermore,thetwoprotofilamentsof patesinfibrilcoreformation,itneedstobestabilizedbypositively
+pS87 α-syn are zipped together through extensive intermolecular chargedresidues7.However,inthepS87fibrilstructure,thepositively
+interactionsinvolvingthesidechainsofresiduesV3,M5,L38,andV40 chargedresiduesaremostlylocalizedintheN-terminalregion,which
+(Fig.2d).Insummary,althoughphosphorylationandO-glycosylation eitherformelectrostaticinteractionswithnegativelychargedresidues
+modify the same residue, they lead to substantially distinct con- (K6&E20,K21&D2,K32&E46)oraresituatedonthefibril’souter
+formationoftheα-synsubunitandprotofilamentarrangementinthe surface(Fig.3c).Consequently,theadditionofaphosphategroupto
+fibrilstructures. S87preventstheC-terminalregionofNACfromparticipatinginfibril
+core formation due to electrostatic repulsion, obstructing α-syn’s
+Comparisonofα-synfibrilstructureswithtwodifferent abilitytoformtheGreekkey-likefoldobservedinunmodifiedWTα-
+modifications synfibril.Incontrast,theentireN-terminalregionisincorporatedinto
+InthegS87α-synfibrils,theGlcNAcinstalledatS87participatesinfibril the fibril core, giving rise to a unique arch-like architecture in the
+coreformationandislocatedattheC-terminusofthecorestructure pS87fibril.
+(Fig.2c).GlcNAcformsdirectinteractionswiththeK80,T81,V82,I88
+andA89(Fig.3a).Concurrently,K80establishesasaltbridgewithE61 gS87andpS87α-synfibrilsexhibitreducedneurotoxicityand
+(Fig. 3a), stabilizing the U-shaped structure formed by β3 and β4. propagationactivity
+Additionally,hydrophiliczipper-likeinteractionsformedbyresidues Finally,weinvestigatedwhetherthefibrilstructuresinducedbygly-
+61–65 and 79–80 contribute to the stabilization of the U-shaped cosylationandphosphorylationatS87displayalteredneuropatholo-
+structure(SupplementaryFig.6d).β3connect
+
+Chunk 12:
+ducedneurotoxicityand
+(Fig. 3a), stabilizing the U-shaped structure formed by β3 and β4. propagationactivity
+Additionally,hydrophiliczipper-likeinteractionsformedbyresidues Finally,weinvestigatedwhetherthefibrilstructuresinducedbygly-
+61–65 and 79–80 contribute to the stabilization of the U-shaped cosylationandphosphorylationatS87displayalteredneuropatholo-
+structure(SupplementaryFig.6d).β3connectstothetwoU-shaped gical activities using a well-established neuronal propagation
+structures through hydrophobic zipper-like interactions with β2, model50–53(Fig.5a).WeaddedunmodifiedWT,gS87,andpS87α-syn
+mediated by residues 66-71 (Fig. 3a). β1 further wraps around the PFFsintotheculturemediumofratprimarycorticalneuronstoseed
+U-shapedstructures,formingtheiron-likecoreofS87(Supplementary theaggregationofendogenousα-syn.After14daysofPFFstreatment,
+Fig.6e).Intriguingly,despitethatunmodifiedWTα-synpolymorph1a we detected the formation of the PFF-induced endogenous α-syn
+employsthesameregion(residues37-99)forformingfibrilcore44,it aggregate with an antibody of pathological pS129 α-syn through
+featuresvaryingnumbersofβ-strandformedbydifferentsegments, immunofluorescencestaining.Remarkably,bothgroupstreatedwith
+whichassembleintoauniqueGreekkey-likestructure(Figs.3b,4a,b). gS87andpS87α-synPFFsdisplayedasignificantreductioninpatho-
+IntheWTpolymorph1a,MSAfoldandJuvenile-onsetsynucleinopathy logicalpS129α-synpropagationcomparedtotheunmodifiedWTα-
+(JOS)fold44,48,49,residueS87isnotinvolvedindirectinteractionswith synPFFs-treatedgroup(Fig.5b,c).ThepS87PFFsexhibitedthelowest
+otherresidues(Fig.3b,SupplementaryFig.8c,d).Conversely,inWT propagationactivity(Fig.5c).Moreover,wemeasuredthecytotoxicity
+polymorphs 2a, 2b and Lewy fold41,46, S87 engages in zipper-like ofunmodifiedWT,gS87,andpS87α-synfibrilstoneuronsusingacell
+interactions(SupplementaryFigs.7e,8c,d).While,K80,whichforms countingkit-8(CCK-8)assay.TheresultshowedthatbothgS87and
+aninteractionwithGlcNAcatS87inthegS87fibrilstructure,esta
+
+Chunk 13:
+upplementaryFig.8c,d).Conversely,inWT propagationactivity(Fig.5c).Moreover,wemeasuredthecytotoxicity
+polymorphs 2a, 2b and Lewy fold41,46, S87 engages in zipper-like ofunmodifiedWT,gS87,andpS87α-synfibrilstoneuronsusingacell
+interactions(SupplementaryFigs.7e,8c,d).While,K80,whichforms countingkit-8(CCK-8)assay.TheresultshowedthatbothgS87and
+aninteractionwithGlcNAcatS87inthegS87fibrilstructure,estab- pS87α-synPFFsexhibitedconsiderablydecreasedtoxicitytoprimary
+lishesasaltbridgewithE46attheedgeoftheGreekkeyofunmodified neurons compared to unmodified WT α-syn PFFs, with pS87 PFFs
+WTpolymorph1a(Fig.3b).ThisK80-E46saltbridgeisessentialfor displayingthelowestneurotoxicity(Fig.5d).Inconclusion,ourfind-
+maintainingtheentireGreekkey-likestructure,anditsdisruptionby ingsindicatethatglycosylationandphosphorylationatS87induceα-
+the E46K mutation effectively abolishes the Greek key-like fold45. syn to form two distinct fibril structures with reduced propagation
+Therefore,theGlcNAcmodifiedatS87formednewinteractionswith activityandneurotoxicityinneurons.
+K80andE61,accompaniedbythestructuralrearrangementofα-syn
+andtheformationofadistinctβ-strandpatterntocreateadistinct Discussion
+fibrilcorestructure(Fig.4a,b). VarioustypesofPTMshavebeenidentifiedthatmodifyα-synatdif-
+Remarkably,whenphosphorylated,S87isexcludedfromthefibril ferentsites,playingdiverserolesinregulatingα-synmonomercon-
+core, contrasting sharply with its O-glycosylated counterpart in the formation,membranebinding,amyloidaggregationkineticsandthe
+fibril structure (Fig. 3a). Starting from residue 73, the extended atomic structures and pathology of α-syn fibril7,29. In this study, we
+C-terminalregion(residues73-140)remainshighlyflexibleinthefibril explore whether distinct PTMs at the same residue can lead to the
+structure,withoutelectrondensity.Conversely,theentireN-terminal formation of different fibril structures. Intriguingly, we found that
+region(residues1-35),absentinbothgS87andunmodifiedα-synfibril O-GlcNAcylationatt
+
+Chunk 14:
+s and pathology of α-syn fibril7,29. In this study, we
+C-terminalregion(residues73-140)remainshighlyflexibleinthefibril explore whether distinct PTMs at the same residue can lead to the
+structure,withoutelectrondensity.Conversely,theentireN-terminal formation of different fibril structures. Intriguingly, we found that
+region(residues1-35),absentinbothgS87andunmodifiedα-synfibril O-GlcNAcylationattheS87residuecanintroducenewintra-molecular
+cores,isincorporatedintothepS87fibrilcore(Fig.3c).InthepS87 interactions,resultingintheformationofairon-likefoldinthefibril
+fibril structure, residues 1-29 from the N-terminal form a U-shaped structure(Figs.3a,4a).ThisO-GlcNAcylationgeneratesadistinctfibril
+structurestabilizedbytwopairsofsaltbridges,includingK6&E20and polymorph by directly establishing new interactions. In contrast,
+K21&D2(Fig.3c).Meanwhile,V3andM5onβ1establishhydrophobic phosphorylation at the same site prevents the involvement of the
+interactionswithresiduesL38’andV40’fromtheneighboringchain, C-terminalregionofNACinthefibrilcoreduetoelectrostaticrepul-
+formingintermolecularinteractionsthatbringthetwoprotofilaments sion.Instead,itpromotestheincorporationoftheentireN-terminal
+together(Fig.3c).ThesecondU-shapedstructureisformedbyresi- region to form a unique, enlarged arch-like fibril core structure
+dues 30-49, stabilized by a saltbridge between K32 and E46 and a (Figs.3c,4a).Therefore,thisphosphorylationgeneratesanotherfibril
+hydrogen bond between K34 and Y39 (Supplementary Fig. 6f). β2 polymorphbyexcludingcertainNACregionfromformingfibrilcore.
+NatureCommunications|( 2024)1 5:2677 5
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+a
+gS87 (8JEX)
+1 G86 I88 2
+V82
+V71
+E46 S87 3.6 Å
+4.4 Å G67 V66
+T81 4.8 Å V70
+5.1 Å G68
+GlcNAc
+3.6 Å
+A69
+A89 K80
+3.4 Å 3.7 Å
+E35 K60 H50 V52
+V48
+E61
+b WT (6A6B)
+1 2
+2
+T44
+Q79
+A85
+1
+I88 E46
+2.5 Å V82
+S87
+S87
+Q99 K80
+A90
+E83
+T92
+V48
+T81
+Y39
+V37
+c
+pS87(8JEY)
+1 2
+M1 K6
+L38’ 2.3 Å
+V3
+2
+H50
+E20
+V40’
+1 M1 D2
+K21
+3.2 Å
+M1 5.5 Å
+
+Chunk 15:
+1 5:2677 5
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+a
+gS87 (8JEX)
+1 G86 I88 2
+V82
+V71
+E46 S87 3.6 Å
+4.4 Å G67 V66
+T81 4.8 Å V70
+5.1 Å G68
+GlcNAc
+3.6 Å
+A69
+A89 K80
+3.4 Å 3.7 Å
+E35 K60 H50 V52
+V48
+E61
+b WT (6A6B)
+1 2
+2
+T44
+Q79
+A85
+1
+I88 E46
+2.5 Å V82
+S87
+S87
+Q99 K80
+A90
+E83
+T92
+V48
+T81
+Y39
+V37
+c
+pS87(8JEY)
+1 2
+M1 K6
+L38’ 2.3 Å
+V3
+2
+H50
+E20
+V40’
+1 M1 D2
+K21
+3.2 Å
+M1 5.5 Å
+M5
+K43’
+E35
+T72
+d
+pY39 (6L1T)
+E83 K21
+K43 3.7 Å
+Y39 K32
+L100 4.5 Å
+2.3 Å
+K34
+M1
+H50
+Fig.3|StructuralanalysisofgS87,pS87,unmodifiedWT,andpY39α-synfibril. hydrophobicinteractionsoftheinterfacebetweentwoprotofilaments,andtwo
+aThestructuralmodelofgS87fibril,withthezoom-inviewstheinteractions pairsofsaltbridgesshowninthezoom-inviews.Residuesinvolvedintheinter-
+betweenGlcNAc,K80,E61,T81,V82,I88andA89,andthehydrophobiczipper-like protofilamentalinteractionsareshowninspheres.dThestructureofpY39fibril
+interactionswiththeinvolvedresidueslabeled.bThestructureofunmodifiedWT withtheelectrostaticinteractionsofthephosphategroupboundtoY39andK21,
+α-synfibril,withtheconformationofS87andthesaltbridgebetweenK80and K32andK34showninthezoom-inview.DistancesareshowninÅ.ThePDBcodeof
+E46showninthezoom-inviews.cThestructureofpS87fibril,withthe eachfibrilstructureisindicated.
+NatureCommunications|( 2024)1 5:2677 6
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+a
+E35 T72
+Q99 A89 M1
+M1
+L100
+V37
+WT (6A6B) gS87 (8JEX) pS87 (8JEY) pY39 (6L1T)
+b
+1 Y39 60 S87 95 140
+α-Syn N-terminal NAC C-terminal
+V37 Q99
+WT
+E35 gS87
+gS87
+A89
+M1 T72 pS87
+pS87
+M1 pY39 L100
+pY39
+c
+Unmodify PTM
+gS87
+α-Syn
+Same site
+Gain of new
+Different PTM
+interaction
+pS87
+Exclusion of
+existing interaction
+Same PTM
+Different site
+WT
+Gain of new
+interaction
+pY39
+GlcNAc Phosphate
+Fig.4|Comparisonofα-synfibrilstructureswithdifferentmodifications. structurealignmentoffourα-synfibrilstructuresfrom(a)withdifferentcolorsfor
+aone-layermodelsofunmodifiedWT(PDB:6A6B),gS87(PDB:8JEX),pS87(PDB: threeregions.cSchematicdiagramshowstha
+
+Chunk 16:
+ite
+Gain of new
+Different PTM
+interaction
+pS87
+Exclusion of
+existing interaction
+Same PTM
+Different site
+WT
+Gain of new
+interaction
+pY39
+GlcNAc Phosphate
+Fig.4|Comparisonofα-synfibrilstructureswithdifferentmodifications. structurealignmentoffourα-synfibrilstructuresfrom(a)withdifferentcolorsfor
+aone-layermodelsofunmodifiedWT(PDB:6A6B),gS87(PDB:8JEX),pS87(PDB: threeregions.cSchematicdiagramshowsthatbothsamePTMmodifiedatdif-
+8JEY)andpY39(PDB:6L1T)fibrilswiththeN-terminalregioncoloredinblue,the ferentsitesanddifferentPTMsmodifiedatsamesiteinducedistinctfibrilcore
+NACcoloredinyellowandtheC-terminalregioncoloredinred.bThesecondary structures.
+Both phosphorylation and O-GlcNAcylation at S87 generate fibril O-GlcNAcylationandphosphorylationatS87mitigateα-synaggrega-
+structuresdistinctfromstructuresofinvitroWTfibrils44,46,54(Supple- tion,potentiallyleadingtotheformationoffibrillarspeciesthatdonot
+mentary Fig. 7) and ex vivo fibril41,48,49 (Supplementary Fig. 8). The representtheterminalstateindiseasecontexts.Futureinvestigations
+differentconformationsofgS87andpS87incomparisontoexvivo focusingonmixedPTMsandtheidentificationofintermediatespecies
+fibrilsindicatethatthesemodifiedformsalonedonotreplicatethe duringdiseaseprogressioncouldyieldinsightsintotheimpactofPTM
+conformationsoffibrilsextractedfrompatientbrains.Itisimportant cross-talk on α-syn aggregation in real disease conditions. Conse-
+tonotethatthefibrilsfoundinthebrainareheterogeneous,encom- quently,differentPTMsatthesamesitemayutilizeentirelydistinct
+passingavarietyofPTMs.Currentexvivostructuresmayrepresentthe mechanismstodirectfibrilcoreformation,dependingonthespecific
+endstagespecies,andpotentiallyoverlookcertainminorspecies.Both propertiesofthemodifiedgroups(Fig.4c).
+NatureCommunications|( 2024)1 5:2677 7
+
+---PAGE BREAK---
+
+a
+Days 0 7 21
+Primary neuron PFFs addition Cytotoxicity test Immunofluorescence
+culture staining (pS129/MAP2)
+CCK-8 kit
+PFFs
+b
+DAPI MAP2 pS129 α-syn Merge
+PBS
+WT
+gS87
+pS87
+20 μm
+c
+P<0.0001
+0.8 
+
+Chunk 17:
+rectfibrilcoreformation,dependingonthespecific
+endstagespecies,andpotentiallyoverlookcertainminorspecies.Both propertiesofthemodifiedgroups(Fig.4c).
+NatureCommunications|( 2024)1 5:2677 7
+
+---PAGE BREAK---
+
+a
+Days 0 7 21
+Primary neuron PFFs addition Cytotoxicity test Immunofluorescence
+culture staining (pS129/MAP2)
+CCK-8 kit
+PFFs
+b
+DAPI MAP2 pS129 α-syn Merge
+PBS
+WT
+gS87
+pS87
+20 μm
+c
+P<0.0001
+0.8 P=0.0036
+P=0.0002
+100
+0.6
+80
+60
+0.4
+40
+0.2 20
+0
+0.0 W T S 8 7 S 8 7 W T S 8 7 S 8 7
+g p g p
+1 μM 0.1 μM
+).mron(
+ytisnetni
+nys-α
+921Sp
+P=0.0266
+PFFs
+PBS WT gS87 pS87
+)%(
+ytilibaiv
+lleC
+Article https://doi.org/10.1038/s41467-024-46898-1
+d
+P<0.0001
+P<0.0001 P=0.4046
+P<0.0001 P<0.0001
+P<0.0001P<0.0001 P=0.0014
+Fig.5|Neurotoxicityandpropagationactivitymeasurementoftheunmodified fibrils.TheintensityofpS129α-synwasnormalizedtotheintensityofDAPIforeach
+WT,gS87andpS87α-synfibrils.aWorkflowofcytotoxicitytestandimmuno- sample.One-wayANOVAfollowedbyTukey’spost-hoctest.Datashownare
+fluorescencestaininginratprimaryneurons.TheworkflowiscreatedwithBioR- mean±s.d.,n=20,6–8imageswererandomlytakenforeachsample.3individual
+ender.com.bRepresentativeimmunofluorescenceimagesofratprimaryneurons sampleswereanalyzedforeachgroup.dCytotoxicitymeasurementofthe
+treatedwithPBS,100nMunmodifiedWTPFFs,gS87PFFsandpS87PFFsfor14d, unmodifiedWT,gS87andpS87PFFsusingCCK-8kit.One-wayANOVAfollowedby
+respectively.DAPI(blue),pS129α-syn(red)andmicrotubule-associatedprotein2 Tukey’spost-hoctest.Datashownaremean±s.d.,n=3independentsamples
+(MAP2)(green)werestained.Scalebar:20μm.ImageswereprocessedbyImageJ. (biologicalrepetitions).SourcedataareprovidedasaSourceDatafile.
+cQuantitativeanalysesofpS129α-synaggregationinducedbydifferenttypesof
+NatureCommunications|( 2024)1 5:2677 8
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+Additionally,wecomparedthefibrilstructuresofpS87α-synwith with RP-HPLC, ESI-MS, and NMR (Supplementary Fig. 1). Fmoc-L-
+pY39α-syn,andfoundthatthesamephosphategroupinstallationat S
+
+Chunk 18:
+).SourcedataareprovidedasaSourceDatafile.
+cQuantitativeanalysesofpS129α-synaggregationinducedbydifferenttypesof
+NatureCommunications|( 2024)1 5:2677 8
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+Additionally,wecomparedthefibrilstructuresofpS87α-synwith with RP-HPLC, ESI-MS, and NMR (Supplementary Fig. 1). Fmoc-L-
+pY39α-syn,andfoundthatthesamephosphategroupinstallationat Ser(GlcNAc(Ac)-β-D)-OHwascoupledonpeptideusing1.8eqHATU,
+3
+differentsitescanalsoproducecompletelydifferentfibrilstructures 2eqHOAT,5eqN-methylmorpholine(NMM)inN-Methylpyrrolidone
+(Figs. 3c, d, 4a). In pY39 α-syn, the phosphate group added at Y39 (NMP).AndthedeprotectionofO-acetylgroupsonGlcNAcwascarried
+forms extensive interactions with three lysine residues in the outusing60%hydrazinehydrateinCH OH(v/v)onresinfor15min.
+3
+N-terminalregion, inducing the formation of a large hook-like fibril Reagent K was used in cleavage. The peptides were purified and
+structure(Figs.3d,4a).However,addingthephosphategroupatS87 characterized with RP-HPLC (YMC-Pack ODS-A column) and ESI-MS
+resultsintheexclusionoftheC-terminalregionofNACfromincor- (SupplementaryFig.2b,c).
+porationintothefibrilcoreduetoelectrostaticrepulsion.Thus,the ForsegmentZ,BL21(DE3)E.coliwastransformedwithpET-22b
+localcontextofthemodifiedsitemaydirectlyimpacttheregulation vector containing α-syn A91C-140. After incubation and expression.
+mechanismofagivenmodifiedgroup,addinganadditionallayerof Theproteinwaspurifiedusingosmotic-shockstrategy55.Briefly,after
+complexitytotheregulationoffibrilstructuralpolymorphsbyPTMs centrifuging, the collected cells were treated with osmotic shock
+(Fig.4c).Ofnote,cryo-EMstructurecapturesα-synfibrilsintheirfinal buffer(30mMTris-HCl,40%sucrose(w/v),and2mMEDTA,pH7.4).
+aggregated state. Consequently, it remains unclear whether PTM- Aftercentrifugation(15,700×g,20min),cellsweresuspendedincold
+mediatedinteractionsoccurpriortoorconcurrentwiththeformation water with saturated MgCl added. Then the su
+
+Chunk 19:
+e collected cells were treated with osmotic shock
+(Fig.4c).Ofnote,cryo-EMstructurecapturesα-synfibrilsintheirfinal buffer(30mMTris-HCl,40%sucrose(w/v),and2mMEDTA,pH7.4).
+aggregated state. Consequently, it remains unclear whether PTM- Aftercentrifugation(15,700×g,20min),cellsweresuspendedincold
+mediatedinteractionsoccurpriortoorconcurrentwiththeformation water with saturated MgCl added. Then the supernatant was col-
+2
+of the rest of the fibril cores. To elucidate this, further studies are lected.Extraprecipitation(withHCltopH3.5andNaOHtopH7in
+requiredtocharacterizethekineticintermediatesofproteinfibrillar sequence) was also applied to increase purity. 400 mM
+assemblyattheatomiclevel. O-methylhydroxylamineand20mM Tris(2-carboxyenthyl)phosphine
+Notably, both gS87 and pS87 α-syn fibrils display considerably (TCEP) wasthen added and incubated for 5h to reverseN-terminal
+lowerneurotoxicityandpropagationactivitycomparedtotheunmo- cysteinemodification38.α-synA91C-140wasfurtherpurifiedusingRP-
+dified WT α-syn fibril (Fig. 5b–d). This finding aligns with previous HPLC with proteonavi column (OSAKA SODA), then lyophilized for
+observationsthatbothpS87andgS87modificationsprotectagainstα- nextreaction.
+synaggregationandpathologyincells8,15.Instarkcontrast,thepY39 ThenweligatedXandY.Briefly,Xthioester(2.5mM,1eq.)andY-
+modificationexacerbatesα-synpathologyincellsandproducesafibril pS87/Y-gS87(2eq.)weredissolvedinligationbuffer(6Mguanidine-
+polymorphwithheightenedneurotoxicity7.However,thedirectrela- HCl, 200mM phosphate buffer, pH 7.0). Then, 50 eq. TCEP and
+tionshipbetweenthestructuralpolymorphsandtheirvaryingneuro- 4-mercaptophenylaceticacid (MPAA)(in200mMphosphatebuffer,
+pathology is not yet well-established. Further investigation is pH6.8)wereadded.Thesolutionwasshackedat30°Cfor5h,then
+necessarytounderstandhowgS87andpS87fibrilstructuresleadto purified using RP-HPLC with proteonavi column. The product XY-
+reduced neuropathology. Furthermore, since both PTMs share the pS87/gS87wa
+
+Chunk 20:
+ymorphsandtheirvaryingneuro- 4-mercaptophenylaceticacid (MPAA)(in200mMphosphatebuffer,
+pathology is not yet well-established. Further investigation is pH6.8)wereadded.Thesolutionwasshackedat30°Cfor5h,then
+necessarytounderstandhowgS87andpS87fibrilstructuresleadto purified using RP-HPLC with proteonavi column. The product XY-
+reduced neuropathology. Furthermore, since both PTMs share the pS87/gS87waslyophilizedfornextreaction(SupplementaryFig.2d).
+samemodificationsiteonα-syn,exploringthecross-talkandpotential FortheligationofXYandZ,segmentXY(5mM,1eq.)wasdis-
+competitionbetweenthesetwomodificationsatS87duringvarious solvedin6Mguanidine-HCl,200mMphosphatebufferatpH3.0and
+physiologicalorpathologicalprocesses,anditsimplicationindisease putintoa−15~−20°Cice–saltbath.0.5MNaNO (10eq.)wasaddedin
+2
+progression,isofimportance. thereactionor15min.Afterthat,40eq.MPAAand1.2eq.segmentZin
+buffer (200mM phosphate buffer, 6M guanidine-HCl, pH 6.5) was
+Methods addedandthenthepHwasadjustedto6.8.Thefinalconcentrationof
+Ethicalstatement XYisabout2.5mM.Themixturewasshakenat16°Covernightand
+Embryonicday16–18Sprague-Dawleyratsembryosusedinthispaper then purified using RP-HPLC with proteonavi column. The product
+were purchased from Shanghai SIPPR BK Laboratory Animals Ltd, XYZ-pS87/gS87waslyophilizedfornextreaction.Thesegmentsafter
+China.Allanimalandcellexperimentsinthisstudywereperformed ligation were all characterized with analytical RP-HPLC and ESI-MS
+followingtheprotocolsapprovedbytheAnimalCareCommitteeof (SupplementaryFig.3).
+the Interdisciplinary Research Center on Biology and Chemistry Radicalcatalyzeddesulfurizationwasthenperformedtoobtainα-
+(IRCBC),ChineseAcademyofSciences(CAS). syn protein with different modifications at serine 87. Briefly, about
+2.6mgofXYZ-pS87/gS87wasdissolvein200μlof6Mguanidine-HCl,
+Semi-synthesisofgS87andpS87α-syn 200mMsodiumphosphatebufferatpH7.0andmixedwith200μlof
+ThenativechemicalligationstrategyusingpeptidehydrazidesofLiu 1M TCEP and 40μl of 2-methyl-2-propa
+
+Chunk 21:
+catalyzeddesulfurizationwasthenperformedtoobtainα-
+(IRCBC),ChineseAcademyofSciences(CAS). syn protein with different modifications at serine 87. Briefly, about
+2.6mgofXYZ-pS87/gS87wasdissolvein200μlof6Mguanidine-HCl,
+Semi-synthesisofgS87andpS87α-syn 200mMsodiumphosphatebufferatpH7.0andmixedwith200μlof
+ThenativechemicalligationstrategyusingpeptidehydrazidesofLiu 1M TCEP and 40μl of 2-methyl-2-propanethiol. 20μl of 0.1M 2-2’-
+andco-workers34,35wasusedtosynthesizeα-synwithPTMs.Weper- azobis[2-(2-imidazolin-2-yl)propane] dihydrochloride (VA-044) was
+formed N-to-C sequential native chemical ligation using three seg- finally added to the mixture under argon. The reaction was shaken
+ments referring to the work of Pratt and co-workers8,32,36, including overnight at 37°C. The pS87/gS87 α-syn protein was purified with
+segmentX(α-syn1-84thioester),segmentY(pS87/gS87α-synA85C- proteonavicolumn,lyophilized,andcharacterizedwithanalyticalRP-
+90NHNH ),segmentZ(α-synA91C-140)(Fig.1a). HPLCandESI-MS(SupplementaryFig.4).
+2
+ToobtainsegmentX,α-syn1-84wasintroducedintopTWIN1vector
+(NEB)containinginteinandchitinbindingdomain.BL21(DE3)E.coliwas Massspectrometry
+transformedandthenculturedinLuria-Bertani(LB)brothwith50μg/mL ThemassspectrometrydatawerecollectedusingChameleon7.2.10.
+ampicillinsodiumsalt.Proteinexpressionwasinducedbyadditionof onThermoScientificTMMSQPlusmassdetector.
+1mM isopropyl-β-D-1-thiogalactopyranoside (IPTG) and incubation of The MSQ Plus mass spectrometry settings: Needle (capillary)
+cellsfor20hat16°C.Then,thecellswereharvestedinbuffer(50mM voltage:3.0kV.Conevoltage:15VforY-gS87,45Vforothersamples.
+Hepes,500mMNaCl,pH7.5)andlysedbyultrasonication(twiceonice, Mobile phase: 0.4mL/min50% CH CN/HOwith 0.06% formic acid.
+3 2
+eachfor20min).Thelysatewascentrifuged(21,500×g,90min),and Probetemperature:350°C.Numberofreplicatesforeachpeptideor
+thesupernatantwasloadedonchitincolumn(NEB).Aftercleavagein proteinsampleisn=1.
+250mMmercaptoethanesulfonate(MesNa),theproteinthioesterwas G
+
+Chunk 22:
+7,45Vforothersamples.
+Hepes,500mMNaCl,pH7.5)andlysedbyultrasonication(twiceonice, Mobile phase: 0.4mL/min50% CH CN/HOwith 0.06% formic acid.
+3 2
+eachfor20min).Thelysatewascentrifuged(21,500×g,90min),and Probetemperature:350°C.Numberofreplicatesforeachpeptideor
+thesupernatantwasloadedonchitincolumn(NEB).Aftercleavagein proteinsampleisn=1.
+250mMmercaptoethanesulfonate(MesNa),theproteinthioesterwas GraphPadPrism9wasappliedforgraphing.
+concentratedbyultrafiltration(SupplementaryFig.2a).
+Segmentα-synY-pS87(CG[pS]IAA-NHNH )andSegmentα-synY- Nuclearmagneticresonancespectroscopy
+2
+gS87(CG[gS]IAA-NHNH )weremanuallysynthesizedusing2-Cl-(Trt)- The 1H-NMR and 13C-NMR data of Fmoc-L-Ser(GlcNAc(Ac) -β-D)-OH
+2 3
+NHNH resin as described34. Fmoc-L-Ser (GlcNAc(Ac) -β-D)-OH werebothcollectedusingDeltav4.3.3onJEOLECS400.
+2 3
+was synthesized referring to the work of Pratt37 and characterized Settingsfor1H-NMR:
+NatureCommunications|( 2024)1 5:2677 9
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+Temperature:22.1°C.singlepulse.Pulsewidth:5.2500.Relaxation Imageprocessing
+delay:5.0000.Numberofscans:12.Receivergain:40. MotionCorr256 for motion correction implement was carried out
+Settingsfor13C-NMR: tocorrectbeam-inducedmotionofmovieframeswithdose-weighting.
+Temperature:21.9°C.singlepulse.Pulsewidth:2.5833.Relaxation Then, CTFFIND-4.1.857 was used to estimate the contrast transfer
+delay:2.0000.Numberofscans:1000.Receivergain:54. function of motion-corrected images. Next, fibrils were manually
+Mestnovav9.0.1wasappliedfordataprocessing. pickedbyusingthemanualpickingmethodofRELIONversion3.158.
+PreparationoftheunmodifiedWT,gS87andpS87α-synfibrils Helicalreconstruction
+andPFFs HelicalreconstructionwasperformedinRELIONversion3.158,includ-
+RecombinantunmodifiedWT,syntheticgS87andpS87α-syninbuffer ingparticleextraction,two-dimensional(2D)classification,3Dclassi-
+containing25mMsodiumphosphate(pH7.4)wereincubatedat37°C, fication,3Dauto-refinementandpost-processing.
+900rpminTher
+
+Chunk 23:
+ONversion3.158.
+PreparationoftheunmodifiedWT,gS87andpS87α-synfibrils Helicalreconstruction
+andPFFs HelicalreconstructionwasperformedinRELIONversion3.158,includ-
+RecombinantunmodifiedWT,syntheticgS87andpS87α-syninbuffer ingparticleextraction,two-dimensional(2D)classification,3Dclassi-
+containing25mMsodiumphosphate(pH7.4)wereincubatedat37°C, fication,3Dauto-refinementandpost-processing.
+900rpminThermoMixer(Eppendorf)for4dayswithagitationina ForgS87dataset,21,328manuallyfibrilsfrom2134micrographs
+concentrationof3.0mg/ml,respectively.Thefibrilsampleswerefur- wereextractedintosegmentsinabox-sizeof360pixelswithaninter-
+ther used for negative staining transmission electron microscopy, box distance of 30.0Å. Then, several iterations of 2D classification
+atomicforcemicroscopy,cryo-EMsamplepreparationandratprimary wereappliedtoextractedsegmentswithadecreasingin-planeangular
+neurontreatment.ForincubatedfibrilsofunmodifiedWT,gS87and samplingratefrom12°to0.5°andtheT=2regularizationparameter.
+pS87α-syn,thefibril-containingpelletisseparatedfromthemonomer- FordoublefilamentandsinglefilamentgS87α-synfibrilsseparated
+containingsupernatantbycentrifugation.Then,thefibril-containing after2Dclassification,acylindricalmapmodelgeneratedbyrelion_-
+pelletwasresuspendedanditsconcentrationwasdeterminedasthe helix_toolboxprogramwasusedasaninitial3Dreferencetoperform
+fibrilconcentration.UnmodifiedWT,gS87andpS87α-synPFFswere thefollowing3Dclassification(K=3).Whenthelocalsearchofsym-
+prepared by fibrils sonicationat 20%power on ice for 25 times (1s metryforhelicaltwistandrisewascarriedoutaftertheseparationofβ-
+on,1soff). strands, the clearest class was selected for following 3D auto-
+refinement.Finally,theoverallresolutionofdoublefilamentgS87α-
+ThTkineticassay synfibrilswasreportedat3.1Å,accordingtothegold-standardFourier
+50μM unmodified WT, gS87 and pS87 α-syn monomers were incu- shellcorrelation(FSC)=0.143criteria.
+bated in 25mM sodium phosphate (pH 7.4) buffer with or without For pS87 dataset, 
+
+Chunk 24:
+nofβ-
+on,1soff). strands, the clearest class was selected for following 3D auto-
+refinement.Finally,theoverallresolutionofdoublefilamentgS87α-
+ThTkineticassay synfibrilswasreportedat3.1Å,accordingtothegold-standardFourier
+50μM unmodified WT, gS87 and pS87 α-syn monomers were incu- shellcorrelation(FSC)=0.143criteria.
+bated in 25mM sodium phosphate (pH 7.4) buffer with or without For pS87 dataset, 27,806 fibrils from 2423 micrographs were
+unmodifiedWTα-synPFFsinablack384-wellplate(ThermoScien- extractedintosegmentsinabox-sizeof360pixelswithaninter-box
+tific).ThTwasaddedtothereactionmixtureatafinalconcentrationof distance of 30.0Å. Next, severaliterations of 2D classification were
+30μM. The fluorescence intensity was recorded using a Varioskan applied to extracted segments with a decreasing in-plane angular
+FlashSpectralScanningMultimodeReader(ThermoScientific),mea- samplingratefrom12°to0.5°andtheT=2regularizationparameter.
+suringat440nm(excitation)and485nm(emission)wavelengthswith Similarly,forthetwistedfilamentofpS87α-synfibrilseparatedfrom
+shakingat900rpmat37°C.Threereplicateswereperformedforeach 2D classification, a cylindrical map model generated by relion_he-
+sample.GraphPadPrism9wasappliedforgraphing,withmean±s.d. lix_toolboxprogramwasusedasaninitial3Dreferencetoperformthe
+following3Dclassification(K=3).Whenthelocalsearchofsymmetry
+Negativestainingtransmissionelectronmicroscopy for helical twist and rise was carried out after the separation of β-
+Fivemicrolitersoffibrilsolutionwereincubatedona200-meshglow- strands, the clearest class was selected for following 3D auto-
+dischargedcoppergrid(ZhongjingkeyiTechnologyCo.,Ltd.,Beijing) refinement.Finally,theoverallresolutionoftwistedfilamentgS87α-
+for 45s. Then, the grid was washed with double-distilled water fol- syn fibrils was reported at 2.6Å, according to the gold-standard
+lowedby2%w/vuranylacetateforanother45s,anddriedinair.The FSC=0.143criteria.
+samples were imaged by a Tecnai T12 transmission electron micro-
+
+
+Chunk 25:
+
+dischargedcoppergrid(ZhongjingkeyiTechnologyCo.,Ltd.,Beijing) refinement.Finally,theoverallresolutionoftwistedfilamentgS87α-
+for 45s. Then, the grid was washed with double-distilled water fol- syn fibrils was reported at 2.6Å, according to the gold-standard
+lowedby2%w/vuranylacetateforanother45s,anddriedinair.The FSC=0.143criteria.
+samples were imaged by a Tecnai T12 transmission electron micro-
+scope(FEI)operatedin120kV. Atomicmodelbuildingandrefinement
+Basedonthedensitymapsafterpost-processingprogram,theatomic
+Atomicforcemicroscopy models of doublefilament of gS87α-syn fibril and twisted filament
+Tenmicrolitersoffibrilsolutionwereloadedonacleanmicasurface pS87 α-syn fibril were built de novo in COOT59, respectively. Then,
+for5minatroomtemperatureandwashedbydouble-distilledwater three-layermodelsweregeneratedinsoftwareChimeraandrefinedby
+into remove unbound fibrils. Next, images were captured by Nano- real-spacerefinementprogramofPHENIX60,61.Additionaldetailsabout
+scope V Multimode 8 (Bruker) with SNL-10 probes (a constant of twomodelswereshowninSupplementaryTable1.
+0.35Nm−1)onScanAsystairmodein1Hzscanrate.Thefollowingdata
+processeswerecarriedoutinthesuppliedsoftwareNanoScopeAna- Primaryneuronalcultures
+lysis(version1.5,Bruker). Embryonicday(E)16toE18Sprague-Dawleyrat(ShanghaiSIPPRBK
+LaboratoryAnimalsLtd.)embryosweresacrificedforprimarycortical
+Cryo-EMsamplepreparationanddatacollection neurons culture as previously described62. In brief, papain-digested
+The gS87 and pS87 α-syn fibril samples were applied into glow- cortical neurons were plated onto coverslips, coated with poly-L-
+discharged holey carbon copper grids (R2/1,300 mesh, Quantifoil), lysine,ina24-wellplateatadensityof150,000cellsperwell.After
+andthenplungefrozeninliquidethaneafterblottingwithfilterpaper 7days,neuronsweretreatedwithPBS,100nMWTorgS87orpS87α-
+byusingVitrobotMarkIV(ThermoFisher). synPFFs,withthreebiologicalrepetitionsforeachtreatment.Allani-
+Cryo-EMdataofgS87andpS87wascollectedina300kVTitan
+
+Chunk 26:
+ poly-L-
+discharged holey carbon copper grids (R2/1,300 mesh, Quantifoil), lysine,ina24-wellplateatadensityof150,000cellsperwell.After
+andthenplungefrozeninliquidethaneafterblottingwithfilterpaper 7days,neuronsweretreatedwithPBS,100nMWTorgS87orpS87α-
+byusingVitrobotMarkIV(ThermoFisher). synPFFs,withthreebiologicalrepetitionsforeachtreatment.Allani-
+Cryo-EMdataofgS87andpS87wascollectedina300kVTitan mal experiments were performed according to the protocols
+Krios G4 transmission electron microscope (Thermo Fisher) with a approved by the Animal Care Committee of the Interdisciplinary
+BioContinuumK3directdetector(Gatan),usingaGIFQuantumenergy ResearchCenteronBiologyandChemistry(IRCBC),ChineseAcademy
+filter(Gatan)withaslitwidthof20e-Vtoremoveinelasticallyscattered ofSciences(CAS).
+electrons.Movies with 40 frames per micrograph wererecorded in
+×105,000 magnification with a pixel size 0.83Å pixel−1 at super- Immunofluorescencestainingandconfocalimaging
+resolutionmode.Cryo-EMdatacollectionwasperformedbysoftware After treating for 14 days, neurons were collected for immuno-
+EPU (Thermo Fisher) with 2s exposure time and −1.0 to −2.0μm fluorescenceimaging.Neuronsplatedoncoverslipswerefixedwith4%
+defocusvalueinatotaldoseof55e−Å2. paraformaldehyde (PFA) and 4% sucrose in PBS and then
+NatureCommunications|( 2024)1 5:2677 10
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+permeabilizedwith0.15%TritonX-100dilutedinPBS.Thencoverslips 5. Li,D.&Liu,C.Hierarchicalchemicaldeterminationofamyloid
+wereblockedwith3%goatserum(GS)dilutedinPBSfor30minat polymorphsinneurodegenerativedisease.Nat.Chem.Biol.17,
+roomtemperature.Neuronswereincubatedwithprimaryantibodies 237–245(2021).
+of phospho-α-synuclein (1:1000, Abcam, 51253) and MAP2 (1:2500, 6. Arakhamia,T.etal.Posttranslationalmodificationsmediatethe
+Abcam,5392),dilutedin3%GS,at4°Covernight.Afterwashingwith structuraldiversityoftauopathystrains.Cell180,633–644
+PBST,0.1 %Tween-20 diluted inPBS for three times,neurons were 
+
+Chunk 27:
+vedisease.Nat.Chem.Biol.17,
+roomtemperature.Neuronswereincubatedwithprimaryantibodies 237–245(2021).
+of phospho-α-synuclein (1:1000, Abcam, 51253) and MAP2 (1:2500, 6. Arakhamia,T.etal.Posttranslationalmodificationsmediatethe
+Abcam,5392),dilutedin3%GS,at4°Covernight.Afterwashingwith structuraldiversityoftauopathystrains.Cell180,633–644
+PBST,0.1 %Tween-20 diluted inPBS for three times,neurons were e612(2020).
+incubated with secondary antibodies of Alexa Fluor 488- and Alexa 7. Zhao,K.etal.Parkinson’sdisease-relatedphosphorylationatTyr39
+Fluor568-(1:1000,Invitrogen,2420700,2155282,respectively)for1h rearrangesalpha-synucleinamyloidfibrilstructurerevealedby
+at room temperature. Without rinsing, DAPI stain was applied cryo-EM.Proc.Natl.Acad.Sci.USA117,20305–20315(2020).
+(1:10,000,Yeasen,40728ES03)for10minatroomtemperature.After 8. Levine,P.M.etal.alpha-SynucleinO-GlcNAcylationaltersaggre-
+rinsing, coverslips were mounted onto glass slides with mounting gationandtoxicity,revealingcertainresiduesaspotentialinhibitors
+medium (ProLong Gold antifade reagent, Invitrogen, P36930). Con- ofParkinson’sdisease.Proc.Natl.Acad.Sci.USA116,1511–1519
+focalimageswereacquiredbyalaserscanningconfocalmicroscope (2019).
+(SP8,Leica).A63×waterimmersionobjectivewasusedforimaging. 9. Theillet,F.X.etal.Structuraldisorderofmonomericalpha-
+ImageswerebatchedanalyzedbyImageJ.Allimageswereprojectedin synucleinpersistsinmammaliancells.Nature530,45–50(2016).
+z direction with maxintensity followed bybackground subtraction. 10. Li,D.&Liu,C.Molecularrulesgoverningthestructuralpoly-
+Theimmunofluorescenceresultsofthemeanp-α-synsignalintensity morphismofamyloidfibrilsinneurodegenerativediseases.Struc-
+werenormalizedtoDAPIintensityoftheirowngroup. ture31,1335–1347(2023).
+11. Spillantini,M.G.etal.α-SynucleininLewybodies.Nature388,
+Cellviabilityassay 839–840(1997).
+Primary neurons were treated with different concentrations of 12. Spillantini,M.G.&Goedert,M.Theα-Synucleinopathies:Parkin-
+unmodifiedWT,gS87andpS87
+
+Chunk 28:
+hemeanp-α-synsignalintensity morphismofamyloidfibrilsinneurodegenerativediseases.Struc-
+werenormalizedtoDAPIintensityoftheirowngroup. ture31,1335–1347(2023).
+11. Spillantini,M.G.etal.α-SynucleininLewybodies.Nature388,
+Cellviabilityassay 839–840(1997).
+Primary neurons were treated with different concentrations of 12. Spillantini,M.G.&Goedert,M.Theα-Synucleinopathies:Parkin-
+unmodifiedWT,gS87andpS87α-synPFFsorPBSaftergrowingfor7d. son’sdisease,dementiawithLewybodies,andmultiplesystem
+Three biological replicates were set up for each treatment. After atrophy.Ann.N.Y.Acad.Sci.920,16–27(2000).
+treatingfor14d,theCCK-8assaywasperformedfollowingtheman- 13. Braak,H.,Sandmann-Keil,D.,Gai,W.&Braak,E.Extensiveaxonal
+ufacturer’s instructions. The absorbance at 450nm wavelength was LewyneuritesinParkinson’sdisease:anovelpathologicalfeature
+measuredbyamultimodeplatereader(Ensight,PerkinElmer).Values revealedbyα-synucleinimmunocytochemistry.Neurosci.Lett.265,
+wereanalyzedbyGraphPadPrism9. 67–69(1999).
+14. Brahmachari,S.etal.Activationoftyrosinekinasec-Ablcontributes
+Statistics toalpha-synuclein-inducedneurodegeneration.J.Clin.Invest.126,
+Atleastthreeindependentbiologicalrepeatswereperformedforeach 2970–2988(2016).
+group.Samplesizeswereselectedtoensuresufficientstatisticalpower. 15. Paleologou,K.E.etal.PhosphorylationatS87isenhancedin
+DataofpS129α-synaggregationand cytotoxicitymeasurementwere synucleinopathies,inhibitsalpha-synucleinoligomerization,and
+analyzedusingOne-wayANOVAfollowedbyTukey’spost-hoctest.Data influencessynuclein-membraneinteractions.J.Neurosci.30,
+shownaremean±s.d.Ap<0.05wasconsideredtobestatisticallysig- 3184–3198(2010).
+nificant.Detailedstatisticalinformationisshowninfigurelegends. 16. Fujiwara,H.etal.alpha-Synucleinisphosphorylatedinsynuclei-
+nopathylesions.Nat.CellBiol.4,160–164(2002).
+Reportingsummary 17. Schmid,A.W.,Fauvet,B.,Moniatte,M.&Lashuel,H.A.Alpha-
+Further information on research design is available in the Nature synucleinpost-translationalmodificatio
+
+Chunk 29:
+asconsideredtobestatisticallysig- 3184–3198(2010).
+nificant.Detailedstatisticalinformationisshowninfigurelegends. 16. Fujiwara,H.etal.alpha-Synucleinisphosphorylatedinsynuclei-
+nopathylesions.Nat.CellBiol.4,160–164(2002).
+Reportingsummary 17. Schmid,A.W.,Fauvet,B.,Moniatte,M.&Lashuel,H.A.Alpha-
+Further information on research design is available in the Nature synucleinpost-translationalmodificationsaspotentialbiomarkers
+PortfolioReportingSummarylinkedtothisarticle. forParkinsondiseaseandothersynucleinopathies.Mol.CellPro-
+teom.12,3543–3558(2013).
+Dataavailability 18. Fares,M.B.etal.Inductionofdenovoalpha-synucleinfibrillization
+DensitymapsofdoublefilamentofgS87α-synfibrilandtwistedfila- inaneuronalmodelforParkinson’sdisease.Proc.Natl.Acad.Sci.
+mentpS87 α-syn fibril have been deposited inElectron Microscopy USA113,E912–E921(2016).
+Data Bank (EMDB) under accession codes: EMD-36202 for double 19. Anderson,J.P.etal.PhosphorylationofSer-129isthedominant
+filamentofgS87α-synfibrilandEMD-36203fortwistedfilamentpS87 pathologicalmodificationofalpha-synucleininfamilialandspora-
+α-syn fibril. And, the structure models have been deposited in the dicLewybodydisease.J.Biol.Chem.281,29739–29752(2006).
+ProteinDataBank(PDB)withentrycodes:8JEXfordoublefilamentof 20. Zhang,S.etal.Mechanisticbasisforreceptor-mediatedpatholo-
+gS87α-synfibriland8JEYfortwistedfilamentpS87α-synfibril.The gicalalpha-synucleinfibrilcell-to-celltransmissioninParkinson’s
+PDBcodesforWT ,WT ,WT ,WT ,pY39,Lewyfold,MSAfold,and disease.Proc.Natl.Acad.Sci.USA118,e2011196118(2021).
+1a 2b 2a 2b
+JOSfoldare6A6B,6CU8,6SSX,6SST,6L1T,8A9L,6XYO,and8BQV, 21. Oueslati,A.,Paleologou,K.E.,Schneider,B.L.,Aebischer,P.&
+respectively.Alldataneededtoevaluatethefindingsofthisstudyare Lashuel,H.A.Mimickingphosphorylationatserine87inhibitsthe
+availableinthearticleandSupplementaryfiles.Sourcedataarepro- aggregationofhumanalpha-synucleinandprotectsagainstits
+videdwiththispaper. toxicityinaratmodelofParkinson’sdisease.J.Neurosci.32,
+1536–1
+
+Chunk 30:
+1T,8A9L,6XYO,and8BQV, 21. Oueslati,A.,Paleologou,K.E.,Schneider,B.L.,Aebischer,P.&
+respectively.Alldataneededtoevaluatethefindingsofthisstudyare Lashuel,H.A.Mimickingphosphorylationatserine87inhibitsthe
+availableinthearticleandSupplementaryfiles.Sourcedataarepro- aggregationofhumanalpha-synucleinandprotectsagainstits
+videdwiththispaper. toxicityinaratmodelofParkinson’sdisease.J.Neurosci.32,
+1536–1544(2012).
+References 22. Yuzwa,S.A.&Vocadlo,D.J.O-GlcNAcandneurodegeneration:
+1. Dobson,C.M.,Knowles,T.P.J.&Vendruscolo,M.Theamyloid biochemicalmechanismsandpotentialrolesinAlzheimer’sdisease
+phenomenonanditssignificanceinbiologyandmedicine.Cold andbeyond.Chem.Soc.Rev.43,6839–6858(2014).
+SpringHarb.Perspect.Biol.12,a033878(2020). 23. Wang,Z.etal.EnrichmentandsitemappingofO-linkedN-acet-
+2. Eisenberg,D.&Jucker,M.Theamyloidstateofproteinsinhuman ylglucosaminebyacombinationofchemical/enzymatictagging,
+diseases.Cell148,1188–1203(2012). photochemicalcleavage,andelectrontransferdissociationmass
+3. Peng,C.,Trojanowski,J.Q.&Lee,V.M.Y.Proteintransmissionin spectrometry.Mol.CellProteom.9,153–160(2010).
+neurodegenerativedisease.Nat.Rev.Neurol.16,199–212(2020). 24. Park,J.,Lai,M.K.P.,Arumugam,T.V.&Jo,D.G.O-GlcNAcylationas
+4. Wesseling,H.etal.TauPTMprofilesidentifypatientheterogeneity atherapeutictargetforAlzheimer’sdisease.Neuromol.Med22,
+andstagesofAlzheimer’sdisease.Cell183,1699–1713.e1613(2020). 171–193(2020).
+NatureCommunications|( 2024)1 5:2677 11
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+25. Marotta,N.P.etal.O-GlcNAcmodificationblockstheaggregation 47. Boyer,D.R.etal.Structuresoffibrilsformedbyalpha-synuclein
+andtoxicityoftheproteinalpha-synucleinassociatedwithParkin- hereditarydiseasemutantH50Qrevealnewpolymorphs.Nat.
+son’sdisease.Nat.Chem.7,913–920(2015). Struct.Mol.Biol.26,1044–1052(2019).
+26. Liu,F.etal.ReducedO-GlcNAcylationlinkslowerbrainglucose 48. Yang,Y.etal.NewSNCAmutationandstructuresofα-synuclein
+metabolismandtaupathologyinAlzheimer’sdisea
+
+Chunk 31:
+D.R.etal.Structuresoffibrilsformedbyalpha-synuclein
+andtoxicityoftheproteinalpha-synucleinassociatedwithParkin- hereditarydiseasemutantH50Qrevealnewpolymorphs.Nat.
+son’sdisease.Nat.Chem.7,913–920(2015). Struct.Mol.Biol.26,1044–1052(2019).
+26. Liu,F.etal.ReducedO-GlcNAcylationlinkslowerbrainglucose 48. Yang,Y.etal.NewSNCAmutationandstructuresofα-synuclein
+metabolismandtaupathologyinAlzheimer’sdisease.Brain132, filamentsfromjuvenile-onsetsynucleinopathy.ActaNeuropathol.
+1820–1832(2009). 145,561–572(2023).
+27. Pinho,T.S.,Correia,S.C.,Perry,G.,Ambrosio,A.F.&Moreira,P.I. 49. Schweighauser,M.etal.Structuresofα-synucleinfilamentsfrom
+DiminishedO-GlcNAcylationinAlzheimer’sdiseaseisstrongly multiplesystematrophy.Nature585,464–469(2020).
+correlatedwithmitochondrialanomalies.Biochim.Biophys.Acta 50. Peng,C.etal.Cellularmilieuimpartsdistinctpathologicalalpha-
+Mol.BasisDis.1865,2048–2059(2019). synucleinstrainsinalpha-synucleinopathies.Nature557,558–563
+28. Wang,A.C.,Jensen,E.H.,Rexach,J.E.,Vinters,H.V.&Hsieh- (2018).
+Wilson,L.C.LossofO-GlcNAcglycosylationinforebrainexcitatory 51. Mao,X.etal.Pathologicalalpha-synucleintransmissioninitiated
+neuronsinducesneurodegeneration.Proc.Natl.Acad.Sci.USA113, bybindinglymphocyte-activationgene3.Science353,aah3374
+15120–15125(2016). (2016).
+29. Zhang,S.etal.Post-translationalmodificationsofsolublealpha- 52. Volpicelli-Daley,L.A.,Luk,K.C.&Lee,V.M.Y.Additionofexo-
+synucleinregulatetheamplificationofpathologicalalpha- genousα-synucleinpreformedfibrilstoprimaryneuronalcul-
+synuclein.Nat.Neurosci.26,213–225(2023). turestoseedrecruitmentofendogenousα-synucleintoLewy
+30. Wang,Z.etal.Site-specificGlcNAcylationofhumanerythrocyte bodyandLewyneurite–likeaggregates.Nat.Protoc.9,
+proteins:potentialbiomarker(s)fordiabetes.Diabetes58, 2135–2146(2014).
+309–317(2009). 53. Xu,Q.etal.Proteinamyloidaggregate:Structureandfunction.
+31. Zhang,J.etal.EnzymaticO-GlcNAcylationofalpha-synuclein Aggregate4,e333(2023).
+reducesaggregationandincreasesSDS-resistantsolubleo
+
+Chunk 32:
+cleintoLewy
+30. Wang,Z.etal.Site-specificGlcNAcylationofhumanerythrocyte bodyandLewyneurite–likeaggregates.Nat.Protoc.9,
+proteins:potentialbiomarker(s)fordiabetes.Diabetes58, 2135–2146(2014).
+309–317(2009). 53. Xu,Q.etal.Proteinamyloidaggregate:Structureandfunction.
+31. Zhang,J.etal.EnzymaticO-GlcNAcylationofalpha-synuclein Aggregate4,e333(2023).
+reducesaggregationandincreasesSDS-resistantsolubleoligo- 54. Li,B.etal.Cryo-EMoffull-lengthalpha-synucleinrevealsfibril
+mers.Neurosci.Lett.655,90–94(2017). polymorphswithacommonstructuralkernel.Nat.Commun.9,
+32. Lewis,Y.E.etal.O-GlcNAcylationofalpha-Synucleinatserine87 3609(2018).
+reducesaggregationwithoutaffectingmembranebinding.ACS 55. Huang,C.,Ren,G.,Zhou,H.&Wang,C.C.Anewmethodfor
+Chem.Biol.12,1020–1027(2017). purificationofrecombinanthumanalpha-synucleininEscherichia
+33. Levine,P.M.etal.O-GlcNAcmodificationinhibitsthecalpain- coli.ProteinExpr.Purif.42,173–177(2005).
+mediatedcleavageofalpha-synuclein.Bioorg.Med.Chem.25, 56. Zheng,S.Q.etal.MotionCor2:anisotropiccorrectionofbeam-
+4977–4982(2017). inducedmotionforimprovedcryo-electronmicroscopy.Nat.
+34. Zheng,J.S.,Tang,S.,Qi,Y.K.,Wang,Z.P.&Liu,L.Chemical Methods14,331–332(2017).
+synthesisofproteinsusingpeptidehydrazidesasthioestersurro- 57. Rohou,A.&Grigorieff,N.CTFFIND4:fastandaccuratedefocus
+gates.Nat.Protoc.8,2483–2495(2013). estimationfromelectronmicrographs.J.Struct.Biol.192,216–221
+35. Fang,G.M.etal.Proteinchemicalsynthesisbyligationofpeptide (2015).
+hydrazides.Angew.Chem.Int.Ed.Engl.50,7645–7649(2011). 58. Zivanov,J.etal.Newtoolsforautomatedhigh-resolutioncryo-EM
+36. Galesic,A.&Pratt,M.R.InvestigatingtheeffectsofO-GlcNAc structuredeterminationinRELION-3.eLife7,e42166(2018).
+modificationsinParkinson’sdiseaseusingsemisyntheticalpha- 59. Emsley,P.,Lohkamp,B.,Scott,W.G.&Cowtan,K.Featuresand
+synuclein.MethodsMol.Biol.2133,313–326(2020). developmentofCoot.ActaCrystallogrDBiol.Crystallogr.66,
+37. Marotta,N.P.,Cherwien,C.A.,Abeywardana,T.&Pratt,M.R. 486–501(2010).
+O-GlcNAcmo
+
+Chunk 33:
+,A.&Pratt,M.R.InvestigatingtheeffectsofO-GlcNAc structuredeterminationinRELION-3.eLife7,e42166(2018).
+modificationsinParkinson’sdiseaseusingsemisyntheticalpha- 59. Emsley,P.,Lohkamp,B.,Scott,W.G.&Cowtan,K.Featuresand
+synuclein.MethodsMol.Biol.2133,313–326(2020). developmentofCoot.ActaCrystallogrDBiol.Crystallogr.66,
+37. Marotta,N.P.,Cherwien,C.A.,Abeywardana,T.&Pratt,M.R. 486–501(2010).
+O-GlcNAcmodificationpreventspeptide-dependentaccelerationof 60. Adams,P.D.etal.PHENIX:acomprehensivePython-basedsystem
+alpha-synucleinaggregation.ChemBioChem13,2665–2670(2012). formacromolecularstructuresolution.ActaCrystallogr.DBiol.
+38. Gentle,I.E.,DeSouza,D.P.&Baca,M.Directproductionofproteins Crystallogr.66,213–221(2010).
+withN-terminalcysteineforsite-specificconjugation.Bioconjug. 61. Afonine,P.V.etal.Real-spacerefinementinPHENIXforcryo-EM
+Chem.15,658–663(2004). andcrystallography.ActaCrystallogr.DStruct.Biol.74,531–544
+39. Dawson,P.E.,Muir,T.W.,Clark-Lewis,I.&Kent,S.B.H.Synthesis (2018).
+ofproteinsbynativechemicalligation.Science266,776–779 62. Volpicelli-Daley,L.A.,Luk,K.C.&Lee,V.M.Additionofexogenous
+(1994). alpha-synucleinpreformedfibrilstoprimaryneuronalculturesto
+40. Wan,Q.&Danishefsky,S.J.Free-radical-based,specificdesulfur- seedrecruitmentofendogenousalpha-synucleintoLewybodyand
+izationofcysteine:apowerfuladvanceinthesynthesisofpoly- Lewyneurite-likeaggregates.Nat.Protoc.9,2135–2146(2014).
+peptidesandglycopolypeptides.Angew.Chem.Int.Ed.Engl.46,
+9248–9252(2007). Acknowledgements
+41. Yang,Y.etal.Structuresofα-synucleinfilamentsfromhuman WethanktheCryo-EMMicroscopyCenteratInterdisciplinary
+brainswithLewypathology.Nature610,791–795(2022). ResearchCenteronBiologyandChemistry,ShanghaiInstituteof
+42. Shi,Y.etal.Structure-basedclassificationoftauopathies.Nature OrganicChemistryforhelpwithdatacollection.Thisworkwassup-
+598,359–363(2021). portedbytheNationalNaturalScienceFoundationofChina(Grant
+43. Li,D.&Liu,C.Structuraldiversityofamyloidfibrilsandadvancesin No.92353302toY.-M.L.,9
+
+Chunk 34:
+iplinary
+brainswithLewypathology.Nature610,791–795(2022). ResearchCenteronBiologyandChemistry,ShanghaiInstituteof
+42. Shi,Y.etal.Structure-basedclassificationoftauopathies.Nature OrganicChemistryforhelpwithdatacollection.Thisworkwassup-
+598,359–363(2021). portedbytheNationalNaturalScienceFoundationofChina(Grant
+43. Li,D.&Liu,C.Structuraldiversityofamyloidfibrilsandadvancesin No.92353302toY.-M.L.,92053108toY.-M.L.,82188101toC.L.,
+theirstructuredetermination.Biochemistry59,639–646(2020). 32170683toD.L.and32171236toC.L.,),theNationalKeyR&DPro-
+44. Li,Y.etal.Amyloidfibrilstructureofalpha-synucleindeterminedby gramofChina(2019YFA0904200toY.-M.L.,2018YFA0507600toY.-
+cryo-electronmicroscopy.CellRes.28,897–903(2018). M.L.,2019YFE0120600toC.L.),theScienceandTechnologyCom-
+45. Zhao,K.etal.Parkinson’sdiseaseassociatedmutationE46Kof missionofShanghaiMunicipality(STCSM)(GrantNo.20XD1425000
+alpha-synucleintriggerstheformationofadistinctfibrilstructure. toC.L.,2019SHZDZX02toC.L.and22JC1410400toC.L.),the
+Nat.Commun.11,2643(2020). ShanghaiPilotProgramforBasicResearch–ChineseAcademyof
+46. Guerrero-Ferreira,R.etal.Twonewpolymorphicstructuresof Science,ShanghaiBranch(GrantNo.JCYJ-SHFY-2022-005toC.L.),
+humanfull-lengthalpha-synucleinfibrilssolvedbycryo-electron theCASProjectforYoungScientistsinBasicResearch(Grant
+microscopy.eLife8,e48907(2019). No.YSBR-095toS-N.Z.).
+NatureCommunications|( 2024)1 5:2677 12
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-024-46898-1
+Authorcontributions Reprintsandpermissionsinformationisavailableat
+C.L.andY-M.L.designedtheproject.J-J.H.andY-J.L.synthesizedthe http://www.nature.com/reprints
+modifiedprotein.L.Z.synthesizedtheglycosylatedFmoc-aminoacid.
+H-S.W.isinvolvedinthesynthesisofmodifiedprotein.Y-P.S.,Y-Q.T.and Publisher’snoteSpringerNatureremainsneutralwithregardtojur-
+W-C.X.performedthesampleoptimization.W-C.X.collectedandpro- isdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+cessedthecryo-EMdata.S-Y.Z.andW-D.L.performedtheThTki
+
+Chunk 35:
+zedthe http://www.nature.com/reprints
+modifiedprotein.L.Z.synthesizedtheglycosylatedFmoc-aminoacid.
+H-S.W.isinvolvedinthesynthesisofmodifiedprotein.Y-P.S.,Y-Q.T.and Publisher’snoteSpringerNatureremainsneutralwithregardtojur-
+W-C.X.performedthesampleoptimization.W-C.X.collectedandpro- isdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+cessedthecryo-EMdata.S-Y.Z.andW-D.L.performedtheThTkinetic
+assay,propagationandcytotoxicityassays,andanalyzedthedata.C.L., OpenAccessThisarticleislicensedunderaCreativeCommons
+Y-M.L.,S-N.Z.andD.L.wrotethemanuscript.Alltheauthorsareinvolved Attribution4.0InternationalLicense,whichpermitsuse,sharing,
+inanalyzingthedata,andcontributedtomanuscriptdiscussionand adaptation,distributionandreproductioninanymediumorformat,as
+editing. longasyougiveappropriatecredittotheoriginalauthor(s)andthe
+source,providealinktotheCreativeCommonslicence,andindicateif
+Competinginterests changesweremade.Theimagesorotherthirdpartymaterialinthis
+Theauthorsdeclarenocompetinginterests. articleareincludedinthearticle’sCreativeCommonslicence,unless
+indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+Additionalinformation includedinthearticle’sCreativeCommonslicenceandyourintended
+SupplementaryinformationTheonlineversioncontains useisnotpermittedbystatutoryregulationorexceedsthepermitted
+supplementarymaterialavailableat use,youwillneedtoobtainpermissiondirectlyfromthecopyright
+https://doi.org/10.1038/s41467-024-46898-1. holder.Toviewacopyofthislicence,visithttp://creativecommons.org/
+licenses/by/4.0/.
+Correspondenceandrequestsformaterialsshouldbeaddressedto
+CongLiuorYan-MeiLi. ©TheAuthor(s)2024
+PeerreviewinformationNatureCommunicationsthanksZhefengGuo
+andtheother,anonymous,reviewer(s)fortheircontributiontothepeer
+reviewofthiswork.Apeerreviewfileisavailable.
+NatureCommunications|( 2024)1 5:2677 13
+
+---PAGE BREAK---
+
+
+
+Chunk 36:
+CongLiuorYan-MeiLi. ©TheAuthor(s)2024
+PeerreviewinformationNatureCommunicationsthanksZhefengGuo
+andtheother,anonymous,reviewer(s)fortheircontributiontothepeer
+reviewofthiswork.Apeerreviewfileisavailable.
+NatureCommunications|( 2024)1 5:2677 13
+
+---PAGE BREAK---
+
+
+

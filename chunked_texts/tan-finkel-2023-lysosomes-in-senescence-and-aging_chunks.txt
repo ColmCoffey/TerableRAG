@@ -1,0 +1,1884 @@
+Chunk 1:
+Review
+Lysosomes in senescence and aging
+Jay Xiaojun Tan1,2,* & Toren Finkel1,3
+Abstract
+homeostasis,andimmunity.Lysosomaldegradationisnowviewed
+beyond its narrowly constrainedrole in housekeeping and nutrient
+Dysfunctionoflysosomes,theprimaryhydrolyticorganellesinani- recycling. Increasingly, lysosomes are viewed as central to critical
+malcells,isfrequentlyassociatedwithagingandage-relateddis- cellularqualitycontrolorganellesthatprovideadaptationtoawide
+eases.Atthecellularlevel,lysosomaldysfunctionisstronglylinked range of cellular stresses, including infection, protein aggregation,
+to cellular senescence or the induction of cell death pathways. organelledamage,andoxidativestress.
+However,theprecisemechanismsbywhichlysosomaldysfunction Lysosomal dysfunction is a common factor associated with
+participates in these various cellular or organismal phenotypes many human diseases. Inherited mutations severely compromising
+haveremainedelusive.Theabilityoflysosomestodegradediverse lysosomal activity underlie an array of congenital lysosomal stor-
+macromolecules including damaged proteins and organelles puts age diseases (LSD) often resulting in early mortality (Platt et al,
+lysosomesatthecenterofmultiplecellularstressresponses.Lyso- 2018), whereas mutations that more modestly affect lysosomal
+somal activity is tightly regulated by many coordinated cellular activity appear to contribute to late-onset diseases characterized
+processes including pathways that function inside and outside of by impaired endo-lysosomal function (Carmona-Gutierrez et al,
+the organelle. Here, we collectively classify these coordinated 2016). Lysosomal dysfunction can trigger profound cellular
+pathways as the lysosomal processing and adaptation system changes such as increased oxidative stress, accumulation of dam-
+(LYPAS). We review evidence that the LYPAS is upregulated by aged macromolecules and organelles, and augmented lysosomal
+diversecellularstresses,itsadaptabilityregulatessenescenceand secr
+
+Chunk 2:
+ly classify these coordinated 2016). Lysosomal dysfunction can trigger profound cellular
+pathways as the lysosomal processing and adaptation system changes such as increased oxidative stress, accumulation of dam-
+(LYPAS). We review evidence that the LYPAS is upregulated by aged macromolecules and organelles, and augmented lysosomal
+diversecellularstresses,itsadaptabilityregulatessenescenceand secretion.
+cell death decisions, and it can form the basis for therapeutic Cellular senescence is an evolutionarily conserved process with
+manipulationforawiderangeofage-relateddiseasesandpoten- important physiological roles in tissue remodeling during develop-
+tiallyforagingitself. ment and in wound healing (Mun~oz-Esp(cid:2)ın & Serrano, 2014).
+Senescence is also one of the hallmarks of aging and age-related
+Keywords age-relateddisease;autophagy;LYPAS;lysosomalqualitycontrol; diseases, a unique cellular state characterized by permanent
+senescence cell cycle arrest, increased macromolecule damage, and the
+SubjectCategories Autophagy&CellDeath;MolecularBiologyofDisease; senescence-associated secretory phenotype (SASP), among other
+Organelles features (Chinta et al, 2015; Baker & Petersen, 2018; Sikora
+DOI10.15252/embr.202357265|Received29March2023|Revised8August et al, 2021). Profound lysosomal changes are found in senescent
+2023|Accepted21September2023|Publishedonline9October2023 cells, including dramatic expansion in lysosomal size and number,
+EMBOReports(2023)24:e57265 pH neutralization, lysosomal membrane permeabilization (LMP),
+accumulation of undigested auto-fluorescent material known as
+lipofuscin, and upregulation of lysosomal enzymes such as b-
+Introduction galactosidase (Lee et al, 2006; Ho¨hn & Grune, 2013; Go(cid:2)mez-Sintes
+et al, 2016; Pu et al, 2016; Platt et al, 2018). Indeed, the histologi-
+For many years, the lysosome had a self-esteem problem. While cal stain, senescence-associated b-galactosidase (SA-bgal), perhaps
+mitochondriaandotherorganellesweregivencoo
+
+Chunk 3:
+known as
+lipofuscin, and upregulation of lysosomal enzymes such as b-
+Introduction galactosidase (Lee et al, 2006; Ho¨hn & Grune, 2013; Go(cid:2)mez-Sintes
+et al, 2016; Pu et al, 2016; Platt et al, 2018). Indeed, the histologi-
+For many years, the lysosome had a self-esteem problem. While cal stain, senescence-associated b-galactosidase (SA-bgal), perhaps
+mitochondriaandotherorganellesweregivencoolnicknamessuch the most widely employed marker of the senescent state, largely
+as the “powerhouse of the cell”, the lowly lysosome languished. reflects an increase in lysosomal content (Kurz et al, 2000; Lee
+This emotional distress likely could be traced back to their initial et al, 2006; Debacq-Chainiaux et al, 2009). In neurodegenerative
+discovery,whenChristianDeDuvegavethemtheunfortunatemon- diseases where large-scale neuronal cell death is commonly
+iker,“suicidebags”ofthecell(DeDuveetal,1955;deDuve,1959). observed, affected neurons also exhibit an expansion of dysfunc-
+Lately,however,aconfluenceofeventshasledtolysosomesgetting tional lysosomes (Piras et al, 2016). However, it has been unclear
+amuch-neededmakeover.Throughtheirbroaddegradativeactivity whetherlysosomalalterationsrepresentadriverorconsequenceof
+from dozens of hydrolytic enzymes, lysosomes are increasingly senescence (Gorgoulis et al, 2019). Although directly compromis-
+viewed as being uniquely positioned to be at the center of diverse ing lysosomal activity or integrity can induce senescence or cell
+processes including cellular metabolism, nutrient sensing, ion death, other cellular insults seemingly unrelated to lysosomes also
+1 AgingInstitute,UniversityofPittsburghSchoolofMedicine/UniversityofPittsburghMedicalCenter,Pittsburgh,PA,USA
+2 DepartmentofCellBiology,UniversityofPittsburghSchoolofMedicine,Pittsburgh,PA,USA
+3 DepartmentofMedicine,UniversityofPittsburghSchoolofMedicine,Pittsburgh,PA,USA
+*Correspondingauthor.Tel:+4126242291;E-mail:jay.tan@pitt.edu
+ª2023TheAuthors EMBOreports 24:e57265|2023 1 of 20
+D
+
+Chunk 4:
+ysosomes also
+1 AgingInstitute,UniversityofPittsburghSchoolofMedicine/UniversityofPittsburghMedicalCenter,Pittsburgh,PA,USA
+2 DepartmentofCellBiology,UniversityofPittsburghSchoolofMedicine,Pittsburgh,PA,USA
+3 DepartmentofMedicine,UniversityofPittsburghSchoolofMedicine,Pittsburgh,PA,USA
+*Correspondingauthor.Tel:+4126242291;E-mail:jay.tan@pitt.edu
+ª2023TheAuthors EMBOreports 24:e57265|2023 1 of 20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+trigger senescence or cell death accompanied by subsequent lyso- morethanadozenATP6genesthattransportprotonsintothelyso-
+somalexpansionanddysfunction. somal lumen using the energy from ATP hydrolysis (Ohkuma
+Inthisreview,weintroducetheconceptofthelysosomalproces- et al, 1982). The V-ATPase consists of a soluble ATP-hydrolyzing
+sing and adaptation system (LYPAS) to incorporate both the lyso- V1 subcomplex and a membrane-embedded V0 subcomplex
+someitselfandmultipleinterconnectedcellularprocessesthathelp (Mindell, 2012; Abbas et al, 2020; Vasanthakumar & Rubinstein,
+maintain lysosomal substrate processing capacity for cellular 2020; Wang et al, 2020a, 2020b). The disassembly and reassembly
+homeostasis and stress resolution. We discuss how this system oftheV1/V0subcomplexesaredynamicallyregulatedbylysosomal
+respondstodiversecellularperturbationsandhowoverloadingand pHstatusanddegradationneeds(Kane,1995;Mindell,2012).Lyso-
+exhaustion of this system can impact senescence or cell death. somalpHisfurtherbalancedbytheproton-activatedprotonchannel
+Finally, we discuss how the prevention of LYPAS overload or TMEM175 which releases proton from the lysosome at low pH to
+exhaustion can act as a disease treatment strategy and a means of avoid over acidification (Hu et al, 2022a; Zheng et al, 2022b).
+improvingoverallhealthspan. Lysosomal-associated membrane protein 1 (LAMP1) and LAMP2,
+widely used as lysosomal markers, directly bind to TMEM175 and
+inhib
+
+Chunk 5:
+y, we discuss how the prevention of LYPAS overload or TMEM175 which releases proton from the lysosome at low pH to
+exhaustion can act as a disease treatment strategy and a means of avoid over acidification (Hu et al, 2022a; Zheng et al, 2022b).
+improvingoverallhealthspan. Lysosomal-associated membrane protein 1 (LAMP1) and LAMP2,
+widely used as lysosomal markers, directly bind to TMEM175 and
+inhibititschannelactivity,allowingforefficientlysosomalacidifica-
+Thelysosomalprocessingandadaptationsysteminhealth tion (Zhang et al, 2023). Healthy aging and extended lifespan
+anddisease correlate with more efficient lysosomal acidification (Hughes &
+Gottschling, 2012; Molin & Demir, 2014; Ruckenstuhl et al, 2014;
+Optimal lysosomal function is achieved by many interconnected, Sun et al, 2020). Inherited mutations in V-ATPase are known to
+highlyorganizedcellularprocessesconstitutingtheLYPAS.Defects cause or contribute to a number of human diseases, such as Cutis
+inanyLYPAScomponentscancauseanarrayofpathologicalcondi- laxa(CL),wrinklyskinsyndrome(WSS),distalrenaltubularacido-
+tions including LSD, premature aging, cardiovascular diseases, and sis,Parkinson’sandAlzheimer’sdiseases,aswellasotherneurode-
+neurodegeneration.Therefore,whenassessingtheroleoflysosomes generative disorders (Jin et al, 2012; Lee et al, 2022). Lysosomal
+inhealthanddisease,itisusefultoconsidertheLYPASsystemasa acidificationalso declines in normal aging and age-related diseases
+whole.WeproposethattheLYPASconsistsofmultiplecomponents (Colacurcio&Nixon,2016).
+fallingintofivemajorcategories(Fig1):(i)basallysosomalmainte-
+nance;(ii)lysosomalsubstratedelivery;(iii)lysosomalsmallmole- Lysosomalsubstratedelivery
+cule transport and osmoregulation; (iv) lysosomal membrane Efficientsubstratecaptureanddeliveryaretheprerequisitesoflyso-
+dynamics;and(v)lysosomalqualitycontrol. somal degradation. Based on capturing approaches and delivery
+mechanisms, at least four distinct lysosomal delivery routes are
+Basallysosomalmainte
+
+Chunk 6:
+-
+nance;(ii)lysosomalsubstratedelivery;(iii)lysosomalsmallmole- Lysosomalsubstratedelivery
+cule transport and osmoregulation; (iv) lysosomal membrane Efficientsubstratecaptureanddeliveryaretheprerequisitesoflyso-
+dynamics;and(v)lysosomalqualitycontrol. somal degradation. Based on capturing approaches and delivery
+mechanisms, at least four distinct lysosomal delivery routes are
+Basallysosomalmaintenance available (Fig 1): endocytosis, macroautophagy, microautophagy,
+Thebasalmaintenanceoflysosomalactivityissupportedbycorrect andchaperon-mediatedautophagy(CMA)(Yim&Mizushima,2020).
+lysosomal targeting of active hydrolytic enzymes, co-enzymes, and Here,endocytosisreferstoallformsofinternalizationincludingbut
+resident lysosomal membrane proteins and by V-ATPase-mediated not limited to receptor-mediated endocytosis, pinocytosis, and
+lysosomalacidification(Fig1).Lysosomalmembraneproteinstypi- phagocytosis (Conner & Schmid, 2003). Through complementary
+cally carry lysosomal sorting signals/motifs that are recognized at substrate delivery mechanisms, cells degrade various macromole-
+thetrans-Golginetwork(TGN)byvesicletraffickingadaptorfactors cules in the lysosome for nutrient recycling and cellular
+that target the subsequent protein trafficking to the endolysosomal homeostasis.
+compartment (Bonifacino & Traub, 2003). Most soluble lysosomal Whilethetotalendocytosisratesarereducedinaging,caveolin-
+enzymes undergo mannose 6-phosphate (M6P) modification at the mediated endocytosis appears to be upregulated in senescence
+Golgi complex and are then captured by the M6P receptors at which in neurons appears to drive prion-like propagation of aber-
+theTGNfortheirlysosomaltargeting(Braulke&Bonifacino,2009). rant a-synuclein oligomers (Ha et al, 2021), a key step in the pro-
+Correct synthesis and localization of lysosomal proteins are funda- gression of synucleinopathies such as Parkinson’s disease (Kru€ger
+mental for lysosomal activity. Mutations in genes encoding lyso- et al, 1998; S
+
+Chunk 7:
+n neurons appears to drive prion-like propagation of aber-
+theTGNfortheirlysosomaltargeting(Braulke&Bonifacino,2009). rant a-synuclein oligomers (Ha et al, 2021), a key step in the pro-
+Correct synthesis and localization of lysosomal proteins are funda- gression of synucleinopathies such as Parkinson’s disease (Kru€ger
+mental for lysosomal activity. Mutations in genes encoding lyso- et al, 1998; Stefanis, 2012). Microtubule-associated protein 1A/1B
+somalenzymesormembraneproteinsortheirtraffickingfactorsare light chain 3 (LC3)-associated phagocytosis (LAP) and endocytosis
+theunderlyingcausesofmanyLSDs(Plattetal,2018).Forinstance, (LANDO) are emerging as critical routes for lysosomal substrate
+mutations affecting key factors of the M6P lysosomal enzyme traf- delivery which are impaired in aging and age-related disease
+ficking pathway are known to cause a group of lysosomal storage (Sanjuan et al, 2009; Martinez et al, 2015; Heckmann et al, 2019,
+disorders known as the mucolipidoses (Khan & Tomatsu, 2020). 2020;Inomataetal,2020).Mostotherlysosomaldeliverypathways
+Similarly, the lysosomal enzyme trafficking factor (LYSET, also also exhibit diminished activity in organismal aging, especially
+knownasGCAForTMEM251),bindsto,stabilizesand/oractivates macroautophagy, microautophagy, and CMA (Cuervo & Dice,
+N-acetylglucosaminyl-1-phosphotransferase (GNPT), the first key 2000a,2000b;Kiffinetal,2007;Sunetal,2015;Barbosaetal,2018;
+enzymeinM6Ptagging(Pechinchaetal,2022;Richardsetal,2022; Krauseetal,2022).Asamasterregulatorofmacroautophagy,mam-
+Zhang et al, 2022). Pathogenic mutations in LYSET cause a severe maliantargetofrapamycincomplex1(mTORC1)activatedonlyso-
+typeofLSDresemblingGNPTdeficiency(Richardsetal,2022). somes directly phosphorylates and suppresses autophagy-initiating
+As most lysosomal hydrolytic enzymes require an acidic pH for proteins,mostnotablyULK1,ULK2,andATG13(Chang&Neufeld,
+optimal activity, acidification is an essential component of lyso- 2009; Ganley et al, 2
+
+Chunk 8:
+YSET cause a severe maliantargetofrapamycincomplex1(mTORC1)activatedonlyso-
+typeofLSDresemblingGNPTdeficiency(Richardsetal,2022). somes directly phosphorylates and suppresses autophagy-initiating
+As most lysosomal hydrolytic enzymes require an acidic pH for proteins,mostnotablyULK1,ULK2,andATG13(Chang&Neufeld,
+optimal activity, acidification is an essential component of lyso- 2009; Ganley et al, 2009; Hosokawa et al, 2009; Jung et al, 2009;
+somal integrity. Lysosomal acidification is mediated by the proton Kim et al, 2011). The inactivation of mTORC1-dependent nutrient
+pump V-type ATPase (V-ATPase), a protein complex encoded by signaling is a key mechanism for the upregulation of
+2 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Figure1. Thelysosomalprocessingandadaptationsystem(LYPAS).
+LysosomalfunctionismaintainedbytheentireLYPASdepictedhereas12integratedcomponentswithinfivemajorcategories.AllLYPAScomponentsarecriticalfor
+theproperfunctionoflysosomes.UpregulatinglysosomalactivityinvolvesthecoordinatedmobilizationofvariousLYPAScomponents.Graphicswerecreatedwith
+BioRender.com.
+macroautophagy, as extensively reviewed recently (Kim & etal,2014;Ottetal,2016a;Amanetal,2021),whichlikelyinvolves
+Guan, 2019; Wang & Zhang, 2019; Liu & Sabatini, 2020). Con- age-dependentlossofautophagy-promotingtranscriptionfactors,as
+versely,activationofmTORC1appearstobeamajorfactorcontrib- well as epigenetic modulation of macroautophagy genes (Zheng
+uting to the decreased macroautophagic flux observed with aging etal,2018;Zhangetal,2019;Wongetal,2020;Wangetal,2021).
+(Herranzetal,2015;Johnsonetal,2015;Liu &Sabatini,2020).In TheexpressionofLAMP2A,whichisessentialforsubstratetranslo-
+addition,transcriptionaldownregulationofvariousmacroautophagy cationintolysosomesduringCMA,isalsoreducedwithage(Cuervo
+components is also observed in aging (Lipinski 
+
+Chunk 9:
+ing to the decreased macroautophagic flux observed with aging etal,2018;Zhangetal,2019;Wongetal,2020;Wangetal,2021).
+(Herranzetal,2015;Johnsonetal,2015;Liu &Sabatini,2020).In TheexpressionofLAMP2A,whichisessentialforsubstratetranslo-
+addition,transcriptionaldownregulationofvariousmacroautophagy cationintolysosomesduringCMA,isalsoreducedwithage(Cuervo
+components is also observed in aging (Lipinski et al, 2010; Omata & Dice, 2000a). Genetic or pharmacological restoration of CMA
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 3of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+appears to forestall a host of age-related pathologies (Zhang & by oxysterol-binding protein (OSBP)-related proteins (ORP) for
+Cuervo, 2008; Kaushik & Cuervo, 2018; Bourdenx et al, 2021). In hydrolysis on the endoplasmic reticulum (ER) in exchange for ER-
+general,malfunctionoflysosomalsubstratedeliverycausescellular to-lysosome transfer of cholesterol or phosphatidylserine (PS)
+accumulation of damaged macromolecules and organelles that can (Dong et al, 2016; Lim et al, 2019; Kawasaki et al, 2021; Tan &
+inturntriggersenescenceorcelldeath.Assuch,blockingmacroau- Finkel, 2022). Such ER–lysosome lipid exchanges are essential in
+tophagyorCMAbydeletingessentialautophagyproteinsorLAMP2, the regulation of lysosomal lipid composition and rapid lysosomal
+respectively,inducescellularsenescence(Kangetal,2011). repair. Additional lysosomal signaling phosphoinositides that
+include PI(3)P and PI(4,5)P have been recently reviewed (Ebner
+2
+Lysosomalsmallmoleculetransportandosmoregulation etal,2019).
+Lysosomalsmallmoleculetransportandosmoregulationareintegral Lysosomes are active centers for lipid metabolism. Lysosomal
+parts of lysosomal physiology. Lysosomes have extensive cross- lipid processing and export are critical for lysosomal integrity and
+membranetransportofsmallmoleculespartiallyduetotheirmajor activity.Awell
+
+Chunk 10:
+ewed (Ebner
+2
+Lysosomalsmallmoleculetransportandosmoregulation etal,2019).
+Lysosomalsmallmoleculetransportandosmoregulationareintegral Lysosomes are active centers for lipid metabolism. Lysosomal
+parts of lysosomal physiology. Lysosomes have extensive cross- lipid processing and export are critical for lysosomal integrity and
+membranetransportofsmallmoleculespartiallyduetotheirmajor activity.Awell-knownexampleislysosomalcholesterolegress,the
+roleinhydrolyticbreakdownthatgeneratestremendousamountsof disruption of which causes Niemann-Pick disease type C (NPC).
+metabolites including amino acids, nucleotides, and lipids, all Cholesterol extracted from endocytosed lipoprotein complexes is
+of which need to be transported out of the lysosome for both cell transported by NPC2 and NPC1 from the lysosomal lumen to the
+signalingandnutrientrecyclingpurposes(Fig1).Duringlysosomal limiting membrane(Qianet al, 2020). After this, cholesterolis fur-
+hydrolytic degradation, water is consumed with the generation of ther transported to other subcellular membranes through complex
+organichydrolyticproducts,whichdramaticallyincreaseslysosomal and incompletely understood mechanisms (Thelen & Zoncu, 2017;
+osmolarity(i.e.thetotalnumberofsolutesinagivenvolumeofthe Luoetal,2020).Lysosomalaccumulationofotherlipidscancause
+lysosomal lumen) causing water influx, lysosomal swelling, and a list of lysosomal storage diseases, such as Gaucher disease
+increasedmembranetension(Huetal,2022b).Thetimelyreduction (Pastores&Hughes,1993),Battendisease(Laqtometal,2022),and
+of lysosomal osmotic stress/membrane tension is required for effi- Wolmandisease(Menonetal,2022).Neuronalceroid-lipofuscinosis
+cient lysosomal membrane remodeling such as budding, fission, gene3(CLN3/Battenin),whichismutatedinsomeformsofBatten
+and intraluminal sorting (Saric & Freeman, 2021). The lysosomal disease,wasrecentlyfoundtomediatelysosomalegressofglycero-
+lumencontainsvariousions,includingH+,Na+,K+,Ca2+,Cl(cid:1),Fe2+, phosphodies
+
+Chunk 11:
+n is required for effi- Wolmandisease(Menonetal,2022).Neuronalceroid-lipofuscinosis
+cient lysosomal membrane remodeling such as budding, fission, gene3(CLN3/Battenin),whichismutatedinsomeformsofBatten
+and intraluminal sorting (Saric & Freeman, 2021). The lysosomal disease,wasrecentlyfoundtomediatelysosomalegressofglycero-
+lumencontainsvariousions,includingH+,Na+,K+,Ca2+,Cl(cid:1),Fe2+, phosphodiesters, products produced from lysosomal glyceropho-
+and Zn2+. Lysosomal membrane channels and transporters for spholipidcatabolism(Laqtometal,2022).Suchlipidremodelingby
+organic molecules, ions, and water coordinate in rebalancing lyso- CLN3islikelylinkedtoitsimpactonlysosomalmembranetubula-
+somal osmolarity and adjusting organelle membrane tension (Scott tionandvesicletrafficking(Calcagnietal,2023).
+& Gruenberg, 2011; Saric & Freeman, 2021). Thus, activation of Lysosomalmembranesaresubjecttoadditionaldynamicregula-
+thesesmallmoleculetransportersisexpectedinresponsetocellular tioninvolvingRAB7,asmallGTP-bindingprotein,andamarkerfor
+stresses, such as nutrient starvation, oxidative stress, or protein late endosomes and lysosomes (Friedman et al, 2013). Lysosomes
+damage,whenlysosomalactivityiscorrespondinglyincreased.Fail- appeartoconstantlyassociatewiththeERmembranethroughmul-
+ure to efficiently adjust lysosomal osmolarity may result in lyso- tipleRAB7-driventetheringcomplexes.RAB7isamajorregulatorof
+somal swelling, membrane rupture, or in the extreme case, LSDs. lysosomalfusionandtransportationthroughitsinteractionwithdif-
+Examples of transporters whose mutations cause LSDs include the ferenteffectorproteins,suchasRAB7-interactinglysosomalprotein
+lysine/arginine transporter SLC66A1/PQLC2 (Liu et al, 2012), (RILP) (Jordens et al, 2001), FYVE and coiled-coil domain-
+the cystine transporter SLC66A4/cystinosin (Kalatzis et al, 2001), containingprotein1(FYCO1)(Pankivetal,2010),Pleckstrinhomol-
+and the sialic acid transporter SLC17A5/sialin (Verheijen ogy domain-containing protein 
+
+Chunk 12:
+he ferenteffectorproteins,suchasRAB7-interactinglysosomalprotein
+lysine/arginine transporter SLC66A1/PQLC2 (Liu et al, 2012), (RILP) (Jordens et al, 2001), FYVE and coiled-coil domain-
+the cystine transporter SLC66A4/cystinosin (Kalatzis et al, 2001), containingprotein1(FYCO1)(Pankivetal,2010),Pleckstrinhomol-
+and the sialic acid transporter SLC17A5/sialin (Verheijen ogy domain-containing protein family M member 1 (PLEKHM1)
+et al, 1999). Mutation of the lysosomal Ca2+ channel TRPML1/ (Tabataetal,2010),andprotrudin(Raiborgetal,2015).Parkin,the
+mucolipin-1 results in Mucolipidosis type IV (MLIV), a rare LSD most commonly mutated E3 ubiquitin ligase in early onset Parkin-
+characterized by vision loss and intellectual disability (Khan & son’s disease (PD), can stabilize active RAB7, which in turn pro-
+Tomatsu,2020). motes mitochondria–lysosome contacts for appropriate amino acid
+metabolism(Pengetal,2023).AdditionalRABproteinsparticularly
+Lysosomalmembranedynamics RAB27Amediatetheperipheraltraffickingoflysosomeswhichthen
+Lysosomalactivityisfurthertunedbylysosomalmembranedynam- undergo Ca2+-dependent exocytosis upon fusion with the plasma
+ics including lipid signaling, lipid metabolism, lipid transfer, mem- membrane mediated by SNARE complexes (Blott & Griffiths, 2002;
+brane contacts, membrane remodeling, as well as lysosomal Tolmachovaetal,2004;Tancinietal,2020).
+motility, positioning, and exocytosis (Fig 1). Phosphatidylinositol RAB7 also interacts with multiple lipid transporters such as
+3,5-bisphosphate [PI(3,5)P ], a lipid messenger produced by the ORP1L(Johanssonetal,2005;Boutry&Kim,2021),PDZD8(Guill(cid:2)e-
+2
+FYVEfinger-containingphosphoinositidekinase(PIKfyve),playsan n-Samanderetal,2019;Elbaz-Alonetal,2020;Shiraneetal,2020;
+essentialroleinlysosomalmembranehomeostasisthroughthereg- Khan et al, 2021; Gao et al, 2022), and VPS13C (Hancock-Cerutti
+ulation of lysosomal membrane tubulation, ion channel activation etal,2022)attheER–lysosomecontactsitesandthuscontrolsly
+
+Chunk 13:
+outry&Kim,2021),PDZD8(Guill(cid:2)e-
+2
+FYVEfinger-containingphosphoinositidekinase(PIKfyve),playsan n-Samanderetal,2019;Elbaz-Alonetal,2020;Shiraneetal,2020;
+essentialroleinlysosomalmembranehomeostasisthroughthereg- Khan et al, 2021; Gao et al, 2022), and VPS13C (Hancock-Cerutti
+ulation of lysosomal membrane tubulation, ion channel activation etal,2022)attheER–lysosomecontactsitesandthuscontrolslyso-
+or inhibition, and lysosomal acidification (Li et al, 2014; Chen somallipidremodeling.ORP1Lappearstoregulatecholesteroltrans-
+etal,2017;Hirschietal,2017;Schmiegeetal,2017;Sheetal,2018; fer at ER–lysosome contact sites (Zhao & Ridgway, 2017), whereas
+Rivero-R(cid:2)ıos&Weisman,2022).GeneticmutationsofPIKfyveorits PDZD8 and VPS13C are found to transfer diverse lipids with rela-
+interactingpartnerscausemanyhumandiseases,particularlyneuro- tivelyweakselectivity(Kumaretal,2018;Shiraneetal,2020;Gao
+degenerativediseases(Huangetal,2021).Anotherlipidmessenger et al, 2022). Upon overexpression of a constitutively active RAB7
+PI(4)P is also produced on lysosomes but is dynamically removed mutant, PDZD8 is heavily enriched at ER–lysosome contacts
+4 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+(Guill(cid:2)en-Samander et al, 2019; Elbaz-Alon et al, 2020; Shirane TFEB/TFE3 are activated through dephosphorylation and subse-
+et al, 2020; Khan et al, 2021; Gao et al, 2022). In humans, loss of quent nuclear translocation, leading to transcriptional upregulation
+PDZD8 causes a neurodevelopmental disorder that is accompanied of macroautophagy and lysosomal biogenesis. A key mechanism
+by intellectual disability (Al-Amri et al, 2022). In mice and flies, thatcontrolsTFEB/TFE3subcellularlocalizationisthroughmTORC1-
+homozygous deletion of PDZD8 causes deficits of long-term mem- mediatedTFEB/TFE3phosphorylationthatsequestersthesefactorsin
+ory, bra
+
+Chunk 14:
+l upregulation
+PDZD8 causes a neurodevelopmental disorder that is accompanied of macroautophagy and lysosomal biogenesis. A key mechanism
+by intellectual disability (Al-Amri et al, 2022). In mice and flies, thatcontrolsTFEB/TFE3subcellularlocalizationisthroughmTORC1-
+homozygous deletion of PDZD8 causes deficits of long-term mem- mediatedTFEB/TFE3phosphorylationthatsequestersthesefactorsin
+ory, brain structure, and synaptic plasticity (Al-Amri et al, 2022). the cytosol (Martina et al, 2012, 2014; Roczniak-Ferguson et al,
+VPS13C is proposed as a large-scale lipid transporter (Kumar 2012;Settembreetal,2012).Remarkably,unlikemTORC1canonical
+etal,2018),mutationsofwhichareassociatedwiththeearlyonset anabolic substrates, TFEB/TFE3 phosphorylation by mTORC1
+PD(Lesageetal,2016).VPS13CknockoutinHeLacellscausespro- uniquelyrequiresfolliculin-mediatedactivationofRagC/DGTPases,
+found lysosomal expansion and broad changes in lysosomal lipid whichpromotesTFEB/TFE3recruitmentformTORC1-mediatedphos-
+homeostasis (Hancock-Cerutti et al, 2022). Of note is the marked phorylation (Napolitano et al, 2020, 2022; Jansen et al, 2022; Li
+lysosomal accumulation of di-22:6-BMP, a lipid biomarker that is et al, 2022; Cui et al, 2023). As such, various types of lysosomal
+alsoseentoaccumulateinpatientswiththeG2019Smutationinthe stress activate TFEB via selective inhibition of folliculin complex or
+Parkinson’s disease-related leucine-rich repeat kinase 2 (LRRK2) Rag C/D, without affecting canonical mTORC1 signaling (Kumar
+gene(Hancock-Ceruttietal,2022).LRRK2,anotherParkinson’sdis- etal,2020;Nakamuraetal,2020;Goodwinetal,2021).Thismight
+easeriskgene,isreportedtodriveendolysosomalmembranetabu- explain why both TFEB and mTORC1 are simultaneously hyperacti-
+lation and vesicle budding (Bonet-Ponce et al, 2020), which may vatedinsenescence(seebelow).
+connectwithlysosomalrepair(Herbstetal,2020).Interestingly,the Insummary,theLYPASisdynamicallyregulatedtoachieveopti-
+fissionoflysosomal-derivedtubulesinthis
+
+Chunk 15:
+20;Goodwinetal,2021).Thismight
+easeriskgene,isreportedtodriveendolysosomalmembranetabu- explain why both TFEB and mTORC1 are simultaneously hyperacti-
+lation and vesicle budding (Bonet-Ponce et al, 2020), which may vatedinsenescence(seebelow).
+connectwithlysosomalrepair(Herbstetal,2020).Interestingly,the Insummary,theLYPASisdynamicallyregulatedtoachieveopti-
+fissionoflysosomal-derivedtubulesinthispathwayalsoappearsto malsubstrateprocessingactivityfornormalcellularphysiologyand
+happen at ER–lysosome contact sites (Bonet-Ponce & Cookson, to respond and adapt to various cellular stresses. Different LYPAS
+2022).Thus,lipidremodelingatlysosomalmembranecontactsites componentsappeartocross-talkwitheachother.Forexample,life-
+playsessentialrolesinmaintaininglysosomalactivity. span extension by methionine restriction requires autophagy-
+dependent lysosomal acidification (Ruckenstuhl et al, 2014).
+Lysosomalqualitycontrol Increased lysosomal substrate delivery is expected to trigger lyso-
+Lysosomal quality control provides another, complementary strat- somalstressthatinturnactivatesmultiplelysosomalqualitycontrol
+egytopreserveandmaintainlysosomalactivityinresponsetolyso- pathways, membrane remodeling, and lysosomal exocytosis
+somal stress or damage. At least four distinct lysosomal quality throughCa2+signaling(Dongetal,2009;Samieetal,2013;Medina
+controlpathwaysaredescribedtodatethatcanregenerate,remove, et al, 2015; Skowyra et al, 2018; Goodwin et al, 2021; Tan &
+and repair dysfunctional lysosomes (Fig 1) (Zoncu & Perera, 2022; Finkel,2022).
+Yang & Tan, 2023). The transcription factorEB (TFEB)/TFE3 path-
+way mediates the synthesis of new lysosomes through transcrip-
+tional upregulation of lysosomal genes (Sardiello et al, 2009; ConnectingcellularstresstoLYPASupregulation
+Martinaetal,2014).Inlysophagy,severelydamagedlysosomesare
+capturedbymacroautophagyanddeliveredtohealthylysosomesfor As an essential cellular quality control system, LYPAS is upregu-
+destruction (Hung et al, 2013
+
+Chunk 16:
+ (TFEB)/TFE3 path-
+way mediates the synthesis of new lysosomes through transcrip-
+tional upregulation of lysosomal genes (Sardiello et al, 2009; ConnectingcellularstresstoLYPASupregulation
+Martinaetal,2014).Inlysophagy,severelydamagedlysosomesare
+capturedbymacroautophagyanddeliveredtohealthylysosomesfor As an essential cellular quality control system, LYPAS is upregu-
+destruction (Hung et al, 2013; Maejima et al, 2013). The ESCRT lated by diverse types of cellular insults. Upregulation of the
+complex,whichhasestablishedrolesinmembranesealinginmany LYPAS includes an apparent increase in lysosomal biogenesis and
+subcellular processes, also directly repairs lysosomal membrane substrate delivery pathways such as macroautophagy, CMA, and
+when there is mild damage (Radulovic et al, 2018; Skowyra microautophagy, which would require simultaneous upregulation
+et al, 2018). We recently described an additional direct and rapid of all other LYPAS components that maintain the quality, integ-
+lysosomal membrane repair pathway known as PITT, for rity, and activity of an expanded lysosomal population (Fig 1).
+phosphoinositide-initiated membrane tethering and lipid transport Depending on the level of cellular damages, cellular stresses may
+(Radulovic et al, 2022; Tan & Finkel, 2022). The PITT pathway either be resolved or otherwise trigger senescence and/or cell
+directly repairs lysosomal membrane pores through extensive ER– death. Senescence inducers typically stimulate higher lysosomal
+lysosomemembranecontactswithsubsequentER-to-lysosomelipid degradative activity including substrates delivered by endocytosis,
+transfer(Tan&Finkel,2022).Dysfunctioninlysosomalqualitycon- macroautophagy, and CMA (Ha et al, 2021; Rovira et al, 2022).
+trolpathwaysisknowntoassociatewithprematureagingandage- Senescence induction by telomere shortening stimulates aug-
+related diseases. For example, TFEB expression declines with age, mented expression of LAMP1, the autophagy proteins ATG5 and
+and restoring 
+
+Chunk 17:
+vered by endocytosis,
+transfer(Tan&Finkel,2022).Dysfunctioninlysosomalqualitycon- macroautophagy, and CMA (Ha et al, 2021; Rovira et al, 2022).
+trolpathwaysisknowntoassociatewithprematureagingandage- Senescence induction by telomere shortening stimulates aug-
+related diseases. For example, TFEB expression declines with age, mented expression of LAMP1, the autophagy proteins ATG5 and
+and restoring TFEB levels can delay senescence in various models ATG12, increased LC3 lipidation, and a simultaneous reduction in
+(Wang et al, 2017, 2021; Zhang et al, 2019; Zheng et al, 2019). the level of the autophagy adaptor p62 (Zlotorynski, 2019).
+Genetic deletion of PI4K2A, the master enzyme that initiates the Although overall LAMP2A levels are reduced with age (Cuervo &
+PITT pathway, causes lysosomal lipofuscin accumulation (a hall- Dice, 2000a), in multiple in vitro models, LAMP2A expression is
+mark of senescence), premature aging, and neurodegeneration in dramatically increased after senescence induction (Rovira
+human patients and mouse models (Simons et al, 2009; Alkhater et al, 2022), consistent with higher CMA activity in these senes-
+etal,2018;Dafsarietal,2022). cent cells. Due to their higher lysosomal degradation activity
+Asthefirstdiscoveredlysosomalqualitycontrolmechanism,the (Basisty et al, 2020), senescent cells are also likely more vulnera-
+mechanism and functions of the TFEB/TFE3 pathway have been ble to lysosomal inhibition and therefore more dependent on
+extensively studied (Martini-Stoica et al, 2016; Napolitano & rapid lysosomal repair pathways (e.g. ESCRT/PITT pathway) that
+Ballabio, 2016; Raben & Puertollano, 2016; Yang & Tan, 2023). ensure high lysosomal activity.
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 5of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+Three major mechanisms appear to connect diverse cellular theseconditionscausemTORC1deactivation.Forexam
+
+Chunk 18:
+ that
+Ballabio, 2016; Raben & Puertollano, 2016; Yang & Tan, 2023). ensure high lysosomal activity.
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 5of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+Three major mechanisms appear to connect diverse cellular theseconditionscausemTORC1deactivation.Forexample,cellular
+stresses to LYPAS upregulation: mTORC1 signaling, Ca2+signaling, stresses that trigger ATG8 lipidation (also known as ATG8ylation
+and the cyclic GMP–AMP (cGAMP) synthase (cGAS)/stimulator of (Kumar et al, 2021), conjugation of ATG8 to single membranes or
+interferongenes(STING)pathway(Fig2).InactivationofmTORC1 CASM (Durgan & Florey, 2022)) or cellular energy crisis with
+signaling is a key mechanism in stress-induced LYPAS upregula- AMPK signaling can activate TFEB without affecting conical
+tion (Fig 2). The mTORC1 complex, normally activated on lyso- mTORC1 signaling (Goodwin et al, 2021; Malik et al, 2023). In
+somes,isofteninhibitedby cellstress,such asnutrientstarvation, such contexts, disruption of RagC/D-mediated TFEB loading to
+lysosomal perturbation, DNA damage, hypoxia, oxidative stress, mTORC1is emergingasa majormechanismunderlyingTFEB acti-
+and ER stress (Budanov & Karin, 2008; Qin et al, 2010; Sengupta vation(Goodwinetal,2021;Maliketal,2023).Evenwhencanon-
+et al, 2010; Aramburu et al, 2014; Heberle et al, 2015). Since ical mTORC1 signaling is hyperactivated such as in senescent cells
+mTORC1 is a major regulator of macroautophagy and TFEB, its (Herranzetal,2015;Labergeetal,2015;Carrolletal,2017),TFEB
+deactivation triggers both macroautophagy and lysosomal biogene- can still be highly activated for profound lysosomal expansion
+sis. Recently, mTORC1 inhibition has also been reported to stimu- (Rovira et al, 2022; Curnock et al, 2023). Thus, downstream of
+late V-ATPase assembly, leading to improved lysosomal various cellular stresses, modification of mTOR
+
+Chunk 19:
+5;Labergeetal,2015;Carrolletal,2017),TFEB
+deactivation triggers both macroautophagy and lysosomal biogene- can still be highly activated for profound lysosomal expansion
+sis. Recently, mTORC1 inhibition has also been reported to stimu- (Rovira et al, 2022; Curnock et al, 2023). Thus, downstream of
+late V-ATPase assembly, leading to improved lysosomal various cellular stresses, modification of mTORC1 signaling leads
+acidification and hydrolytic degradation (Ratto et al, 2022). Like to upregulation of multiple aspects of LYPAS including macroauto-
+mTORC1, TFEB is also activated by diverse cellular stresses phagy, lysosomal biogenesis, and V-ATPase-mediated lysosomal
+(Raben & Puertollano, 2016; Yang & Tan, 2023), but not all of acidification.
+Figure2. DiversecellularstressestriggerLYPASupregulation.
+ThecomponentsoftheLYPASareupregulatedinresponsetomanydifferenttypesofcellularstresses.(1)RegulationofmTORC1activitybyvariousstressorsmodulates
+thelevelofsubstratedeliveryandlysosomalcapacitythroughautophagyandTFEBactivation.(2)Ca2+signalingprovidesanothercommonstress-inducedsignalthat
+activatesmanydownstreameffectorsinautophagyinitiation,TFEBactivation,lysosomalacidification,andlysosomalrepairpathwaysincludingESCRTandPITT.(3)
+CytosolicDNAexposureisacommonstressresponsesignalthatactivatesnon-canonicalautophagyaswellasSASPthroughthecGAS/STINGpathwayofDNAsensing.
+CMA,oneofthelysosomalsubstratedeliverymechanisms,isalsoactivatedaspartofastressresponsepotentiallybyproteinmisfolding.Graphicswerecreatedwith
+BioRender.com.
+6 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Ca2+signaling is emergingas a universal mechanismfor LYPAS insults such as DNA damage, oncogene activation, and replicative
+upregulation in response to numerous cellular stresses (Fig 2). In exhaustion (Miller et al, 2021). Telomere shortening, a common
+resting conditio
+
+Chunk 20:
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Ca2+signaling is emergingas a universal mechanismfor LYPAS insults such as DNA damage, oncogene activation, and replicative
+upregulation in response to numerous cellular stresses (Fig 2). In exhaustion (Miller et al, 2021). Telomere shortening, a common
+resting conditions, cytosolic Ca2+ levels are kept below 100 nM, marker of aging, triggers senescence by DNA damage-induced CCF
+whereas almost all cellular insults, through diverse mechanisms, formationandsubsequentcGASactivation(Takaietal,2003;Abdi-
+provoke cytosolic Ca2+ concentration either locally or throughout salaametal,2020;Lvetal,2022).Ofnote,dysfunctionalmitochon-
+the cytoplasm(Hu et al, 2022b). Ca2+signaling is a crucial mecha- dria, which accumulate in senescence, can initiate retrograde
+nism for autophagy initiation, which has been recently found to signalingtopromoteCCFformation,activatingcGAS-mediatedSASP
+induce the phase separation and thus activation of the autophagy (Viziolietal,2020).Cytosolicself-DNAmightalsobederivedfrom
+initiation factor FIP200 (Zheng et al, 2022a). Ca2+ signaling is also dysfunctional mitochondria themselves. For example, telomere
+criticalforTFEB/TFE3activationinlysosomalbiogenesisandtran- stressmightcommunicatewithmitochondriacausingmitochondrial
+scriptional autophagy upregulation (Yang& Tan,2023). Lysosomal DNAleakage,whichactivatescGASforsubsequentSASPinduction
+Ca2+ release by TRPML1 activates TFEB through V-ATPase- (Kang et al, 2018; Lv et al, 2022). More recently, cGAS has been
+dependent, lysosomal ATG8 lipidation, and subsequent sequestra- foundtoalsodetectcytosolicDNAofde-repressedendogenousretro-
+tion of the folliculin complex, an activator of RagC/D required for virus HERVK in senescent human cells, which is not observed in
+mTORC1-mediated TFEB phosphorylation and suppression (Kumar early passage non-senescent cells (Liu et al, 2023). Upon cG
+
+Chunk 21:
+ recently, cGAS has been
+dependent, lysosomal ATG8 lipidation, and subsequent sequestra- foundtoalsodetectcytosolicDNAofde-repressedendogenousretro-
+tion of the folliculin complex, an activator of RagC/D required for virus HERVK in senescent human cells, which is not observed in
+mTORC1-mediated TFEB phosphorylation and suppression (Kumar early passage non-senescent cells (Liu et al, 2023). Upon cGAMP
+et al, 2020; Nakamura et al, 2020; Goodwin et al, 2021). In other binding,STINGtrafficsfromtheERtoperinuclearGolgi-derivedves-
+contexts,Ca2+signalingappearstoactivateTFEBphosphatasessuch icles, where downstream TBK1/IRF3 and NF-jB signaling are acti-
+ascalcineurinorPP2A(Medinaetal,2015;Hasegawaetal,2022). vated for the secretion of type I interferons and pro-inflammatory
+Ca2+ signaling additionally initiates other lysosomal quality control cytokines (Harding et al, 2017; Kang et al, 2018; Tan et al, 2018;
+pathways,suchastheESCRTandthePITTpathwaysforrapidlyso- Nassouretal,2019;Lvetal,2022).
+somal repair (Radulovic et al, 2018; Skowyra et al, 2018; Tan & Senescence-inducing stresses also instigate abnormal mTORC1
+Finkel, 2022). Thus, cellular stressors triggering Ca2+ signaling, signaling on hyperactivated lysosomes as another major mediator
+directlyor indirectly linkedtolysosomalstress,all havethepoten- of SASP (Herranz et al, 2015; Laberge et al, 2015; Carroll
+tial to activate lysosomal biogenesis, quality control, autophagy, et al, 2017), which reinforces cGAS/STING-mediated secretion
+andacidification. (Laberge et al, 2015) (Fig 2). Elevated lysosomal substrate deliv-
+A crucial pathway activated by more severe stressors such as ery and hydrolytic breakdown generate higher levels of intracellu-
+genomic instability is the cyclic GMP–AMP (cGAMP) synthase lar amino acids, which, in turn, supports constant activation of
+(cGAS)/stimulatorofinterferongenes(STING)innateimmunepath- the mTORC1 nutrient-sensing complex (Herranz et al, 2015;
+way (Ishikawa & Barber, 2008; Zhong et 
+
+Chunk 22:
+l pathway activated by more severe stressors such as ery and hydrolytic breakdown generate higher levels of intracellu-
+genomic instability is the cyclic GMP–AMP (cGAMP) synthase lar amino acids, which, in turn, supports constant activation of
+(cGAS)/stimulatorofinterferongenes(STING)innateimmunepath- the mTORC1 nutrient-sensing complex (Herranz et al, 2015;
+way (Ishikawa & Barber, 2008; Zhong et al, 2008; Ishikawa Laberge et al, 2015; Carroll et al, 2017), consistent with increased
+etal,2009;Sunetal,2009)whichhasahighlyconservedfunction lysosomal association of mTORC1 in senescence (Narita
+in autophagy upregulation (Fig 2) (Moretti et al, 2017; Gui et al, 2011; Rovira et al, 2022). Multiple senescence inducers such
+etal,2019;Liuetal,2019).TheinitiatingenzymecGASisactivated as DNA damage, oncogene activation, and replicative exhaustion
+upon the sensing of cytosolic DNA (Sun et al, 2013) which can also trigger abnormal mTORC1 signaling through lysosomal accu-
+occur in response to various cellular stresses (Harding et al, 2017; mulation of cholesterol mediated by a lysosomal cholesterol
+Kang et al, 2018; Nassour et al, 2019; Lv et al, 2022). Upon DNA importer ABCA1 (Roh et al, 2023) and potentially lysosomal
+binding,cGASproducesthesecondmessengercGAMPthatbindsto stress-induced ER-to-lysosome cholesterol transfer by the PITT
+and activates the signaling adaptor STING for autophagy induction pathway (Tan & Finkel, 2022). Thus, increased lysosomal degra-
+(Sun et al, 2013; Wu et al, 2013; Gui et al, 2019). STING-induced dation and constitutive mTORC1 activation (Herranz et al, 2015,
+autophagyappearstoinvolvethedirectrecruitmentofWIPI2inde- Laberge et al, 2015) underlie accelerated protein turnover, synthe-
+pendently of other upstream autophagy initiation factors such as sis, and secretion in senescent cells. Of note, abnormal mTORC1
+ULK1,Beclin1,ATG14,andVPS34(Guietal,2019;Liuetal,2019; signaling in senescent cells might inhibit macroautophagy (Ott
+Wanetal,2023).Whilethepr
+
+Chunk 23:
+5,
+autophagyappearstoinvolvethedirectrecruitmentofWIPI2inde- Laberge et al, 2015) underlie accelerated protein turnover, synthe-
+pendently of other upstream autophagy initiation factors such as sis, and secretion in senescent cells. Of note, abnormal mTORC1
+ULK1,Beclin1,ATG14,andVPS34(Guietal,2019;Liuetal,2019; signaling in senescent cells might inhibit macroautophagy (Ott
+Wanetal,2023).Whiletheproductionofcytosolicself-DNAstimu- et al, 2016b), causing damage accumulation.
+latesthecGAS/STINGpathway(Douetal,2017;Glu€cketal,2017; Lysosomal processing and adaptation system upregulation in
+Yang et al, 2017), these DNA fragments are cleared by LYPAS senescenceincludesenhancedlysosomalexocytosis,whichpartially
+through STING-dependent, non-canonical autophagosome forma- contributestoSASP.ProteinssecretedbySASPincludeamyriadof
+tion. Even after senescence entrance, cytoplasmic chromatin frag- cytokines, chemokines, growth factors, and proteases, altogether
+ments (CCFs) and the nuclear lamina protein lamin B1 are contributingto chronic inflammation and tissue damage in various
+continuouslyprocessedbytheLYPAS,causingprogressivedepletion age-related pathologies (Mun~oz-Esp(cid:2)ın & Serrano, 2014). Upregu-
+ofhistones(Ivanovetal,2013;Douetal,2015). latedage-dependent serumSASPfactorsincludealistoflysosomal
+Besideautophagyinduction,thecGAS/STINGpathwayisacriti- proteins such as cathepsins B, D, Z, metalloproteinase MMP2, and
+cal contributor to SASP, a key feature of cellular senescence, gelsolin (Basisty et al, 2020; Rovira et al, 2022). Consistent with
+through transcriptional upregulation of interferons and pro- increased lysosomal secretion via exocytosis, senescent cells have
+inflammatorycytokinesthroughInterferonregulatoryfactor3(IRF3) much higher levels of the lysosomal transmembrane proteins
+andNF-jB(nuclearfactorofkappalightpolypeptidegeneenhancer LAMP1andLAMP2ontheirplasmamembrane(Roviraetal,2022).
+in B-cells) signaling (Fig 2) (Harding et al, 2017; Kang et al, 2018; Kno
+
+Chunk 24:
+ion of interferons and pro- increased lysosomal secretion via exocytosis, senescent cells have
+inflammatorycytokinesthroughInterferonregulatoryfactor3(IRF3) much higher levels of the lysosomal transmembrane proteins
+andNF-jB(nuclearfactorofkappalightpolypeptidegeneenhancer LAMP1andLAMP2ontheirplasmamembrane(Roviraetal,2022).
+in B-cells) signaling (Fig 2) (Harding et al, 2017; Kang et al, 2018; KnockdownofRAB27A,akeysmallGTPaseinvolvedinexocytosis,
+Nassour et al, 2019; Lv et al, 2022). Common forms of cytosolic dramatically diminished the secretion of lysosomal enzymes from
+cGAS-activatingself-DNAincludemicronucleiresultingfromerrone- senescent cells (Rovira et al, 2022). Given the robust upregulation
+ous chromosome segregation and CCFs formed during cellular ofautophagyinsenescence,itseemslikelythatsecretoryautophagy
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 7of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+(Cadwell & Debnath, 2018; New & Thomas, 2019) might also con- amountsoflysosomal massandlipofuscinstorageovertimemight
+tributetoSASP. reflect a deepening of the senescent state, which could ultimately
+In summary, in response to various forms of cellular stress further compromise lysosomal integrity and activity (Pan
+including those that trigger cellular senescence, the LYPAS is etal,2021).
+expanded for higher substrate processing activity in order to help The current understanding of the relationship between senes-
+resolve the stress. The underlying mechanisms include mTORC1 cence and the LYPAS can be summarized into four aspects: (i)
+regulation, Ca2+ signaling, and cGAS/STING activation, leading to senescent cells exhibit lysosomal expansion and dysfunction; (ii)
+broadLYPASupregulationsuchasmacroautophagyinitiation,lyso- most cellular insults including senescence-inducing stimuli upregu-
+somal biogenesis, acidification, and exocytosis. When the stresses late L
+
+Chunk 25:
+mTORC1 cence and the LYPAS can be summarized into four aspects: (i)
+regulation, Ca2+ signaling, and cGAS/STING activation, leading to senescent cells exhibit lysosomal expansion and dysfunction; (ii)
+broadLYPASupregulationsuchasmacroautophagyinitiation,lyso- most cellular insults including senescence-inducing stimuli upregu-
+somal biogenesis, acidification, and exocytosis. When the stresses late LYPAS activity; (iii) perturbing LYPAS activity triggers senes-
+are more severe, these LYPAS-expanding pathways also contribute cence (accompanied by accumulation of oxidative damage,
+to senescence induction through transcriptional boosting of SASP dysfunctional mitochondria, and genomic instability) or cell death,
+andlysosomalexocytosis. dependingonhowLYPASisperturbed;(iv)boostingLYPAScapac-
+ity suppresses senescence and cell death, thereby maintaining or
+rejuvenatingcellularfunctions.
+LYPASoverloadinsenescenceandcelldeath The interconnected observations above support a lysosomal
+modelofsenescence/celldeath.Thismodelsuggeststhatwithdam-
+Lysosomes are essential for proteostasis, organelle quality control, age, a cell fate decision between senescence and cell death inte-
+andtheresolutionofcellularstresses.Senescence,typicallyinduced grates the substrate processing capacity of a cell’s LYPAS and the
+byunresolvablecellularstress,isacellularstatecharacterizedbya overall cellular stress/damage level (Fig 3A): (i) Senescence is not
+permanentcellcyclearrest,increasedgenomicinstability,decreased initiated when the level of cellular stress and damage remains
+cellular homeostasis, and accumulation of dysfunctional organelles within the handling capacity of the LYPAS; (ii) senescence is
+suchasmitochondria.Asdiscussedabove,senescence-inducingfac- inducedwhenlysosomesarecontinuouslyoverloadedsuchthatan
+torsbroadlyupregulatetheLYPAS.However,despiteelevatedlyso- imbalancebetweensubstrateloadingandsaturatedlysosomaldiges-
+somal biogenesis and accelerated lysosomal substrate delivery, tion i
+
+Chunk 26:
+ation of dysfunctional organelles within the handling capacity of the LYPAS; (ii) senescence is
+suchasmitochondria.Asdiscussedabove,senescence-inducingfac- inducedwhenlysosomesarecontinuouslyoverloadedsuchthatan
+torsbroadlyupregulatetheLYPAS.However,despiteelevatedlyso- imbalancebetweensubstrateloadingandsaturatedlysosomaldiges-
+somal biogenesis and accelerated lysosomal substrate delivery, tion is achieved with, most importantly, gradual accumulation of
+senescent cells paradoxically exhibit lysosomal accumulation of more damaged materials; (iii) senescence maintenance likely
+lipofuscin and senescence-associated b-galactosidase, as well as requires a certain high level of lysosomal activity, which handles
+lysosomal pH neutralization (Hernandez-Segura et al, 2018; Huang continuous and ongoing cellular stress and might also reinforce
+et al, 2022). Indeed, lipofuscin and b-galactosidase are used as senescence by mTORC1-mediated SASP; (iv) the initial phase of
+markers for cellular senescence in many situations (Dimri senescencemightbereversible uponresolutionofthe stress,while
+et al, 1995; Kurz et al, 2000; Debacq-Chainiaux et al, 2009). Lyso- pharmacologically or genetically inhibiting LYPAS activity might
+somal fractions from proliferating and senescent cells in vitro acceleratesenescenceorcelldeath,dependingonthelevelofstress
+showedsimilartotalproteinlevelsandsimilaractivityoflysosomal (Garc(cid:2)ıa-Pratetal,2016;Fujimakietal,2019).
+enzymes (Rovira et al, 2022). Thus, a major reason for lipofuscin Based on this lysosomal model of senescence/cell death, either
+accumulationmightbeincreaseddeliveryofsubstratestolysosomes increased cellular stress or compromised LYPAS activity can cause
+insteadofadeclineinlysosomaldegradationactivity.Theincreased senescence entrance due to insufficient capacity in handling
+Figure3. Alysosomal-centricmodelofsenescenceandcelldeath—LYPASoverloadinsenescenceinduction.
+(A)CellularstresstriggersLYPASupregulationtoprocessanincreaseindamagedmac
+
+Chunk 27:
+ghtbeincreaseddeliveryofsubstratestolysosomes increased cellular stress or compromised LYPAS activity can cause
+insteadofadeclineinlysosomaldegradationactivity.Theincreased senescence entrance due to insufficient capacity in handling
+Figure3. Alysosomal-centricmodelofsenescenceandcelldeath—LYPASoverloadinsenescenceinduction.
+(A)CellularstresstriggersLYPASupregulationtoprocessanincreaseindamagedmacromoleculescausedbystress.(1)Cellularstressesareresolvedwithoutsenescence
+inductionwhenthesubstrateprocessingcapacityoftheupregulatedLYPASisabovethesubstrate-producing(macromolecule-damaging)level.Uponstressclearance,
+theLYPASisreturnedtoitsbasallevel.(2)SenescenceisinducedwhenhigherlevelsofpersistentcellularstresscausesLYPASoverloadwhichcannotberesolvedeffec-
+tively,causingapermanentcellcyclearrestwithpotentialprogressiontoLYPASexhaustion.Persistentdamagecontinuestocausemoremacromoleculedamage,leading
+todamageaccumulationandgradualdysfunctionofexpandedlysosomes.(3)LYPASexhaustionbreakstheequilibrationinsenescenceandcausescelldeath.Insomesit-
+uations,thecellularstressdirectlycausesLYPASexhaustionandthuscausescelldeathwithoutadetectablesenescencestage.(B)DistinctivefeatureofLYPASoverload
+insenescenceversusthelysosomaloverloadobservedinlysosomalstoragedisease(LSD).GraphicswerecreatedwithBioRender.com.
+8 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+damaged cellular components. Besides stress-induced senescence, AugmentingLYPAScapacityfordiseasetreatmentand
+dysfunctional lysosomal activity or autophagy has been shown to healthyaging
+causesenescenceindifferentmodels(Kangetal,2011;Garc(cid:2)ıa-Prat
+et al, 2016; Fujimaki et al, 2019; Dutta et al, 2022). It is not clear Given the broad spectrum of LYPAS substrates, improving LYPAS
+how LYPAS overload exactly triggers senescence entrance, but this capacityrepresentsapromisingapproachf
+
+Chunk 28:
+rdiseasetreatmentand
+dysfunctional lysosomal activity or autophagy has been shown to healthyaging
+causesenescenceindifferentmodels(Kangetal,2011;Garc(cid:2)ıa-Prat
+et al, 2016; Fujimaki et al, 2019; Dutta et al, 2022). It is not clear Given the broad spectrum of LYPAS substrates, improving LYPAS
+how LYPAS overload exactly triggers senescence entrance, but this capacityrepresentsapromisingapproachforhealthyagingandthe
+likelyinvolvesthecellularaccumulationofmultipleabnormalmate- treatment of age-related diseases. The overall substrate processing
+rials, such as misfolded proteins and dysfunctional mitochondria, capacityandthemaintenanceefficiencyoftheLYPASdecreasewith
+which in turn may impair DNA repair mechanisms leading to age, as exemplified by less macroautophagy (Leidal et al, 2018),
+increased DNA damage (Fig 3A). Genomic instability is a key fea- CMA(Cuervo&Dice,2000a),microautophagy(Krauseetal,2022),
+tureofsenescentcells,whichcancontributetocellcyclearrestand andTFEBexpression(Wangetal,2021).Consideringthatincreased
+theactivationofthecGAS/STINGsignalingforSASPupregulation. cellularstressinagingrequireshigherLYPASactivityforstressres-
+Upon senescence induction, the maintenance of the senescent olution,theage-dependentdecreaseinLYPAScapacitymightinevi-
+state requires continuous LYPAS activity. A recent report showed tably trigger senescence and/or cell death in age-related conditions
+thatnuclearlocalizationofTFEB, and the relatedtranscriptionfac- (Fig 4A). Lower than normal LYPAS capacity would trigger earlier
+tor TFE3, was a seeming universal hallmark of the senescent state disease onset with LSDs as an extreme example, whereas milder
+(Curnock et al, 2023). When damaged cells on their way to senes- lysosomal deficits exhibit a slower, age-dependent progression. In
+cence were subjected to knockdown of these transcription factors, contrast,improving the LYPAScapacitywould be expectedto, and
+they failed to undergo the transition to senescence and instead in some cas
+
+Chunk 29:
+ate disease onset with LSDs as an extreme example, whereas milder
+(Curnock et al, 2023). When damaged cells on their way to senes- lysosomal deficits exhibit a slower, age-dependent progression. In
+cence were subjected to knockdown of these transcription factors, contrast,improving the LYPAScapacitywould be expectedto, and
+they failed to undergo the transition to senescence and instead in some cases has been demonstrated to, delay or reverse cellular
+underwent cell death (Curnock et al, 2023). Similarly, in senescence,improveimmuneclearanceofsenescentcells,alleviate
+chemotherapy-inducedsenescentlymphomacells,directlyblocking age-related pathology, and promote healthy aging (Fig 4B). Below
+lysosomaldegradationbytheV-ATPaseinhibitorbafilomycinA1or we discuss strategies to improve the LYPAS capacity by targeting
+concanamycin A can trigger cell death (Do¨rr et al, 2013). Senes- differentLYPAScomponents(Fig4C).
+cence maintenance likely requires the combined engagement of Boostinglysosomalbiogenesis and substrate deliveryis perhaps
+multiplebranchesoftheLYPAS.Thiswouldencompasspre-existing themoststraightforwardstrategytoimproveLYPAScapacity.TFEB
+lysosomes and newly synthesized ones through the TFEB/TFE3 isextensivelystudiedasatherapeutictargetforage-relateddiseases,
+pathway, the help of additional lysosomal quality control mecha- as it can mediate both lysosomal expansion and autophagy-
+nisms (e.g. lysophagy, ESCRT, and PITT), as well as upregulated dependentsubstratedelivery.Besidesautophagy,TFEBalsoappears
+lysosomal delivery through macroautophagy, microautophagy, and to enhance endocytosis-mediated lysosomal substrate delivery
+chaperone-mediatedautophagy(Fig1). which might help clear extracellular protein aggregates (Martini-
+It is important to note that the LYPAS overload in senescence Stoica et al, 2018). Although TFEB is activated upon senescence
+appears to be distinct from lysosome overload in LSD, as their induction by different stressors (Rovira et al, 2022; Curn
+
+Chunk 30:
+e endocytosis-mediated lysosomal substrate delivery
+chaperone-mediatedautophagy(Fig1). which might help clear extracellular protein aggregates (Martini-
+It is important to note that the LYPAS overload in senescence Stoica et al, 2018). Although TFEB is activated upon senescence
+appears to be distinct from lysosome overload in LSD, as their induction by different stressors (Rovira et al, 2022; Curnock et al,
+causes and consequences are rather different (Fig 3B). In senes- 2023),duringagingthelevelsofTFEBinvarioustissuesareindeed
+cence, the overload is due to stress-induced, broad damages of decreased(Zhengetal,2018;Zhangetal,2019;Wangetal,2021).
+many other cellular components outside of the lysosome, which Restoring TFEB expression has been shown to protect cells from
+saturates not only lysosomal digestion but also all other aspects senescence and ameliorate senescence-related pathology in vitro
+of LYPAS including substrate delivery. Under such conditions, and in vivo (Zhang et al, 2019; Zheng et al, 2019, 2018; Wang
+cells will gradually accumulate more and more cellular damage etal,2021).TheParkinson’sdisease-relatedgeneLRRK2isrecently
+over time, a key feature of senescent cells. However, in LSD, typ- found to suppress TFEB activation and lysosomal biogenesis, and
+ically only one type of substrates build up due to the genetic loss thegeneticdeletionorpharmacologicalinhibitionofLRRK2restored
+of function of a specific lysosomal enzyme (Platt et al, 2018), lysosomal abundance and proteolytic activity (Yadavalli &
+which only indirectly affects lysosomal delivery and digestion of Ferguson, 2023). Spermidine, an endogenous metabolite of poly-
+other substrates. Thus, different from LYPAS overload in senes- amine, is reduced in the elderly, whereas its supplementation
+cence, lysosomal overload in LSD often causes substrate-specific restores TFEB expression and reverses immune senescence (Zhang
+metabolic problems without apparent senescent or aging et al, 2019). Mechanistica
+
+Chunk 31:
+f Ferguson, 2023). Spermidine, an endogenous metabolite of poly-
+other substrates. Thus, different from LYPAS overload in senes- amine, is reduced in the elderly, whereas its supplementation
+cence, lysosomal overload in LSD often causes substrate-specific restores TFEB expression and reverses immune senescence (Zhang
+metabolic problems without apparent senescent or aging et al, 2019). Mechanistically, spermidine post-translationally mod-
+phenotypes. ifies eukaryotic translation initiation factor 5A (eIF5A), allowing
+Theremovalofsenescentcellsoccursthroughimmune-mediated more efficient translation of TFEB (Zhang et al, 2019). Additional
+pathwaysandpresumablythroughcell-autonomouscelldeathpath- promisingsmallmoleculeactivatorsoftheTFEBpathwayhavebeen
+ways.Wepositthatthedeathofsenescentcellsislikelyconnected discovered or developed in recent years, some of which are under
+to lysosomal exhaustion, which we refer to as a state of persistent clinical investigation (Wang et al, 2017; Silvestrini et al, 2018;
+lysosomal damage exceeding the reparative capacity of the LYPAS, Liang, 2020; Liu et al, 2021; Yang et al, 2022; preprint: Yoon
+primarily due to continuous overloading and lysosomal accumula- et al, 2022). The mTOR inhibitor rapamycin is well-known for its
+tion of undigested materials (Go(cid:2)mez-Sintes et al, 2016; Wang impactonhealthyagingandlongevitypromotioninmultiplemodel
+et al, 2018) (Fig 3). As such, in aged and diseased tissues, the organisms (Johnson et al, 2015). mTORC1 is a master regulator of
+expansion of dysfunctional lysosomes might reflect different stages autophagy and a driver of SASP (Herranz et al, 2015; Laberge
+of the senescence/cell death continuum. A lack of current markers et al, 2015; Carroll et al, 2017; Liu & Sabatini, 2020). Although it
+toexperimentallydistinguishdifferentstagesoflysosomaldysfunc- doesnot seemtoactivateTFEB (Settembre etal, 2011),rapamycin
+tionrendersitdifficulttodelineatethepreciserelationshipbetween potently stimulates ma
+
+Chunk 32:
+ophagy and a driver of SASP (Herranz et al, 2015; Laberge
+of the senescence/cell death continuum. A lack of current markers et al, 2015; Carroll et al, 2017; Liu & Sabatini, 2020). Although it
+toexperimentallydistinguishdifferentstagesoflysosomaldysfunc- doesnot seemtoactivateTFEB (Settembre etal, 2011),rapamycin
+tionrendersitdifficulttodelineatethepreciserelationshipbetween potently stimulates macroautophagy-mediated lysosomal substrate
+lysosomalactivityanddiseaseprogression. delivery (Carmona-Gutierrez et al, 2016) and strongly suppresses
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 9of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+Figure4. Boostingthecapacityofthelysosomalprocessingandadaptationsystemfordiseasetreatmentandhealthyaging.
+(A)AnillustrationoftherelationshipbetweenLYPAScapacityandageindifferentcontexts.(B)Schematicgraphshowingtherelationshipbetweencellfateandstress-
+relatedLYPASsubstrateloadinginhighorlowLYPAScapacityindividuals.(C)StrategiestopotentiallyboostLYPAScapacityfortreatingdiseaseandpromotinghealthy
+aging.GreenarrowsindicatestrategiesthatcanboosttheLYPAScapacity,therebyshiftingthecurvesin(A)and(B)rightward.GraphicswerecreatedwithBioRender.
+com.
+SASP(Herranzetal,2015).Assuch,rapamycinisknowntoinhibit precursor protein (APP) as a tonic inhibitor of V-ATPase assembly
+senescence or senescence-related pathology in multiple cell types in mouse models of Down syndrome and AD (Im et al, 2023). As
+and tissues including epithelial stem cells (Herranz et al, 2015), such, reducing the levels of the APP fragment triggered V-ATPase
+hematopoietic stem cells (Chen et al, 2009), aging hearts (Dai assembly and increased lysosomal acidification (Im et al, 2023).
+et al, 2014), neurons (Singh et al, 2019), human skin cells (Chung Agonists of the lysosomal Ca2+ channel TRPML1 stimulate lyso-
+et al,2019),and bone cells(An et al,2020,2017). Lysosomalsub- somalacidif
+
+Chunk 33:
+15), such, reducing the levels of the APP fragment triggered V-ATPase
+hematopoietic stem cells (Chen et al, 2009), aging hearts (Dai assembly and increased lysosomal acidification (Im et al, 2023).
+et al, 2014), neurons (Singh et al, 2019), human skin cells (Chung Agonists of the lysosomal Ca2+ channel TRPML1 stimulate lyso-
+et al,2019),and bone cells(An et al,2020,2017). Lysosomalsub- somalacidification(Baeetal,2014)likelythroughdirectV-ATPase
+strate delivery can be alternatively stimulated by CMA activators, activation by Ca2+-bound calmodulin (Peters et al, 2001) or TFEB
+such as geldanamycin (GA), 6-aminomicotinamide (6-AN), and activation (Palmieri et al, 2011; Zhang et al, 2015; Bouch(cid:2)e
+atypicalretinoid7(AR7)(Finnetal,2005;Anguianoetal,2013).A etal,2016),andhavebeenshowntobenefitlysosomal-relateddis-
+recently generated more potent derivative of AR7 (CA77.1) has easemodels(Huietal,2019;Pollmannsetal,2022).Incontrastto
+shown promising in vivo activity in selectively activating CMA, TRPML1, TPCN2-mediated Ca2+ release appears to raise lysosomal
+thereby ameliorating pathology in a mouse model of Alzheimer’s pH(Tongetal,2022).Assuch, a TPCN2 inhibitor tetrandrine has
+disease(Bourdenxetal,2021).SimilartoCMAactivators,inducers been found to provide benefits in an Alzheimer’s disease mouse
+of microautophagy can also boost LYPAS capacity, since this path- model (Tong et al, 2022). As CLC7 is a H+/Cl(cid:1) antiporter that
+way serves as another key substrate delivery route upregulated by promotes lysosomal acidification (Graves et al, 2008), increasing
+cellular stress (Goodwin et al, 2017; Mejlvang et al, 2018; Olsvik the expression or lysosomal targeting of CLC7 has been shown to
+etal,2019;Wangetal,2023). increase lysosomal acidification. For example, macrophage
+Improving lysosomal acidification amplifies the LYPAS capacity colony-stimulating factor (MCSF) or interleukin-6 stabilizes and
+by keeping lysosomal hydrolytic enzymes at their optimal activity. targets CL
+
+Chunk 34:
+dwin et al, 2017; Mejlvang et al, 2018; Olsvik the expression or lysosomal targeting of CLC7 has been shown to
+etal,2019;Wangetal,2023). increase lysosomal acidification. For example, macrophage
+Improving lysosomal acidification amplifies the LYPAS capacity colony-stimulating factor (MCSF) or interleukin-6 stabilizes and
+by keeping lysosomal hydrolytic enzymes at their optimal activity. targets CLC7 tolysosomesinmicroglia,leadingtodecreasedlyso-
+Overexpression of V-ATPase subunits is sufficient to improve lyso- somal pH and accelerated degradation of amyloid fibrils
+somal acidification and provide health benefits, such as motor (Majumdar et al, 2011). The phosphoinositide messenger PI(3,5)
+activity improvements in Parkinson’s disease mouse models (Jin P regulates lysosomal pH by regulating multiple ion channels
+2
+et al, 2012) and lifespan extension in yeasts (Ruckenstuhl et al, including the V-ATPase (Li et al, 2014; Banerjee & Kane, 2020),
+2014).Alternatively,overexpressionoractivationofTFEBcanpro- CLC7 (Leray et al, 2022; Hilton & Mindell, 2023), and TRPML1
+mote lysosomal acidification by transcriptional upregulation of (Fineetal,2018;Ganetal,2022).Inhibition of PIKfyve isknown
+lysosomalgenesincludingV-ATPasesubunits(Palmierietal,2011; to activate V-ATPase through CLC7 activation and thus trigger
+Zhangetal,2015;Bouch(cid:2)eetal,2016).Interestingly,mTORC1inhi- lysosomal hyper-acidification (Leray et al, 2022; Hilton &
+bition has been recently reported to stimulate V-ATPase assembly, Mindell, 2023). Although the loss of function of PIKfyve can
+improving lysosomal acidification and hydrolytic degradation cause neurodegenerative disease, partial inhibition of PIKfyve
+(Ratto et al, 2022), which might also contribute to the benefits of might provide benefits for certain diseases such as amyotrophic
+rapamycin, together with autophagy upregulation and potential lateral sclerosis (ALS) for which there have been few effective
+TFEB activation. A recent study identified a fr
+
+Chunk 35:
+tion and hydrolytic degradation cause neurodegenerative disease, partial inhibition of PIKfyve
+(Ratto et al, 2022), which might also contribute to the benefits of might provide benefits for certain diseases such as amyotrophic
+rapamycin, together with autophagy upregulation and potential lateral sclerosis (ALS) for which there have been few effective
+TFEB activation. A recent study identified a fragment of amyloid therapeuticoptions(seebelow).
+10 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Given that any expanded system requires more extensive moni- exocytosismaybeaneffectiveapproachtomitigatelysosomalsub-
+toring and maintenance, preserving lysosomal integrity through strateoverload,especiallyforLSDsincludinglipidstoragediseases.
+improvedlysosomalqualitycontrolpathwaysmightbeparticularly Recently, inducing mild lysosomal stress is emerging as an
+important, allowing for maximal expansion of LYPAS capacity and encouragingtherapeuticapproachthatexpandstheLYPAScapacity.
+thus inhibiting or delaying senescence (Kirkegaard et al, 2010; Likely similar to the benefits of mild proteasomal or mitochondrial
+Garc(cid:2)ıa-Pratetal,2016;Fujimakietal,2019;Pengetal,2019).TFEB stress(mitohormesis)(Yun&Finkel,2014;Schulz&Haynes,2015),
+activators described above should also promote lysosomal quality. mildlysosomalperturbationshaveprovenbeneficial(lysohormesis)
+Since most lysosomal quality control pathways including TFEB, inmanydiseasemodels.Chemicalscapableoftriggeringlysosomal
+ESCRT, and PITT can be activated by lysosomal Ca2+ signaling hormesisincludemetformin,trehalose,andPIKfyveinhibitors.Met-
+(Fig2),stimulatinglysosomalCa2+releasemightimprovelysosomal formin, widely prescribed for type II diabetes, has been recently
+quality.Forexample,TRPML1agonistsareknowntoactivateboth foundtoinducemildlysosomalstressthatoffersanti-agingbenefits
+
+Chunk 36:
+emicalscapableoftriggeringlysosomal
+ESCRT, and PITT can be activated by lysosomal Ca2+ signaling hormesisincludemetformin,trehalose,andPIKfyveinhibitors.Met-
+(Fig2),stimulatinglysosomalCa2+releasemightimprovelysosomal formin, widely prescribed for type II diabetes, has been recently
+quality.Forexample,TRPML1agonistsareknowntoactivateboth foundtoinducemildlysosomalstressthatoffersanti-agingbenefits
+TFEB (Goodwin et al, 2021) and PITT (Tan & Finkel, 2022) in the through the activation of adenosine monophosphate-activated pro-
+absence of lysosomal membrane damage. Thus, pharmacological tein kinase(AMPK)(Maet al, 2022). Clinicallyrelevantconcentra-
+activationoflysosomalchannelslikeTRPML1mightbeapowerful tionsofmetforminbindstoasubunitofc-secretase,PEN2,whichin
+approachtoimprovebothlysosomalquantityandquality,although turnformsacomplexwithV-ATPasetoinhibitlysosomalacidifica-
+thelong-termconsequencesofdepletingluminallysosomalcalcium tion(Maetal,2022),leadingtoAMPKactivationthroughacomplex
+is not well understood. Additionally, agonists of PI4K2A, the key of V-ATPase and AMPK (Zhang et al, 2017), autophagy induction,
+enzyme initiating the PITT pathway (Tan & Finkel, 2022), are andpotentiallyinductionoflysosomalqualitycontrolpathways.
+expected to provide robust lysosomal protection against potential Trehalose, a natural disaccharide, has been known as a potent
+lysosomal damaging sources such as internalized tau fibril aggre- autophagystimulatorthatpromotesclearanceofmanypathological
+gates(Zhaoetal,2021)commonlyfoundinAlzheimer’sdisease. proteinssuchasmutanthuntingtin(Sarkaretal,2007),a-synuclein
+Insteadofdirecthydrolyticdegradation,thesubstrateprocessing (Sarkar et al, 2007), TDP-43 (Wang et al, 2010), tau aggregates
+capacity of LYPAS might be alternatively enhanced by lysosomal (Wang et al, 2010; Schaeffer & Goedert, 2012), and b amyloid
+exocytosis. This approach directly releases the LYPAS burden of (Perucho et al, 2012) through mTORC1-independent mechanisms
+donorcellssuc
+
+Chunk 37:
+7),a-synuclein
+Insteadofdirecthydrolyticdegradation,thesubstrateprocessing (Sarkar et al, 2007), TDP-43 (Wang et al, 2010), tau aggregates
+capacity of LYPAS might be alternatively enhanced by lysosomal (Wang et al, 2010; Schaeffer & Goedert, 2012), and b amyloid
+exocytosis. This approach directly releases the LYPAS burden of (Perucho et al, 2012) through mTORC1-independent mechanisms
+donorcellssuchasneuronsorcardiomyocytes,allowingthepartici- (Sarkaretal,2007).Trehalosebroadlyalleviatespathologyinmany
+pation of the immune system in substrate clearance. Since it also diseases models (Vessey et al, 2022), such as LSDs (Palmieri
+lowerstheriskoflysosomalstorage/swellingoraggregate-mediated et al, 2017; Lotfi et al, 2018), Parkinson’s disease (Khalifeh et al,
+lysosomalmembranedamage,itisthusareasonablechoiceinsitua- 2019; Pupyshev et al, 2019), atherosclerosis (Sergin et al, 2017;
+tions where the lysosomal hydrolytic capacity is limited or over- Evans et al, 2018), amyotrophic lateral sclerosis (ALS) (Zhang
+whelmed despite the upregulation of LYPAS. Lysosomal exocytosis etal,2014),andfrontotemporaldementia(Holleretal,2016).Early
+involves RAB27A-mediated lysosomal trafficking to the plasma human clinical trials are underway (Mobini et al, 2022). Recently,
+membrane (Blott & Griffiths, 2002) and subsequent SNARE- trehalosehasbeenfoundtoaccumulateinlysosomes,causinglyso-
+mediatedfinalmembranefusion(Raoetal,2004).RAB27Aisdown- somalmembranepermeabilizationand/oramildpHneutralization,
+regulated in cystinosis (Johnson et al, 2013), a lysosomal cystine which activates TFEB for autophagy upregulation and lysosomal
+storage disease due to mutations of cystinosin, the cysteine trans- biogenesis (Evans et al, 2018; Rusmini et al, 2019; Jeong et al,
+porter (Kalatzis et al, 2001). Restoring RAB27A expression in 2021). It is still unclear what exact lysosomal stress is induced by
+cystinosin-knockout cells rescues lysosomal peripheral trafficking trehalose and what immediate effector(s) 
+
+Chunk 38:
+ upregulation and lysosomal
+storage disease due to mutations of cystinosin, the cysteine trans- biogenesis (Evans et al, 2018; Rusmini et al, 2019; Jeong et al,
+porter (Kalatzis et al, 2001). Restoring RAB27A expression in 2021). It is still unclear what exact lysosomal stress is induced by
+cystinosin-knockout cells rescues lysosomal peripheral trafficking trehalose and what immediate effector(s) respond to such stress to
+and exocytosis, relieving lysosomal storage of cysteine (Johnson activateTFEBandotherlysosomalprotectionpathways.
+et al, 2013). TFEB activation or TRPML1-mediated lysosomal Ca2+ Anothergroups ofcompoundsthatappearto benefittheLYPAS
+signaling can promote lysosomal exocytosis as one of their lyso- through mild lysosomal stress are PIKfyve inhibitors. Although
+somal protective activities (LaPlante et al, 2006; Dong et al, 2009; PIKfyve mutations can cause neurodegeneration, partial PIKfyve
+Medinaetal,2011;Samieetal,2013;Martinaetal,2014).TRPML1 inhibition by small molecules, including the clinically available
+not only activates TFEB through Ca2+ signaling but the channel is apilimodandYM201636,appearstoamelioratevariousneurodegen-
+itself a transcription target of TFEB (Palmieri et al, 2011), thus erative diseases (Shi et al, 2018; Soares et al, 2021; Hung et al,
+establishing a positive feedback loop in this lysosomal stress 2023). PIKfyve inhibition promoted neuronal survival and relieved
+response.OverexpressionofTFEBcanpromotelysosomalsubstrate neurodegeneration in diverse models of ALS both in vitro and in
+clearancethroughTRPML1-mediated exocytosis(Wanget al,2015; vivo, which appears to involve, at least in part, exocytosis of
+Xuetal,2021).ChemicalagonistsofTRPML1havebeenshownto aggregation-prone proteins (Shi et al, 2018; Hung et al, 2023). In
+stimulate lysosomal exocytosis, which provides protection from addition, PIKfyve inhibition suppresses the trafficking of endocy-
+NPC disease (Shen et al, 2012) or a-synuclein toxicity (Tsunemi tosedtauseedst
+
+Chunk 39:
+l,2015; vivo, which appears to involve, at least in part, exocytosis of
+Xuetal,2021).ChemicalagonistsofTRPML1havebeenshownto aggregation-prone proteins (Shi et al, 2018; Hung et al, 2023). In
+stimulate lysosomal exocytosis, which provides protection from addition, PIKfyve inhibition suppresses the trafficking of endocy-
+NPC disease (Shen et al, 2012) or a-synuclein toxicity (Tsunemi tosedtauseedstolysosomesandtheirsubsequentcytosolicspread-
+et al, 2019). Similarly, low concentrations of cyclodextrin, which ing, with no impact on their endocytosis (Soares et al, 2021). It
+are cyclic oligosaccharides, can moderate lysosomal cholesterol appears that partial inhibition of PIKfyve is well tolerated
+storageinNPCdiseasemodelsbytriggeringTRPML1-mediatedlyso- (Billich, 2007) and might induce a hormetic-like, mild lysosomal
+somal exocytosis (Chen et al, 2010; Vacca et al, 2019). Chemical stress that can potentially be beneficial to neurodegenerative
+activatorsoftwoporechannel2(TPC2,anotherCa2+channel)also disease patients. Several mechanisms might be underlying the
+stimulates lysosomal exocytosis and increases autophagy, thereby benefitsofPIKfyveinhibitioninneurodegenerativediseasescharac-
+alleviating lysosomal storage in MLIV and Batten disease models terized by protein aggregation: (i) A partial inhibition of PIKfyve
+(Scotto Rosato et al, 2022). Therefore, stimulating lysosomal might increase lysosomal degradation activity by triggering
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 11of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+hyper-acidification of lysosomes (Leray et al, 2022; Hilton & Box1. Inneedofanswers
+Mindell, 2023); (ii) an enlarged endolysosomal lumen can hold
+i Howarethedifferentcomponentsofthelysosomalprocessing
+more protein aggregates than usual with reduced risk of lysosomal andadaptationsystemcoordinatedduringacellularstress
+membrane damage by protein aggr
+
+Chunk 40:
+E BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+hyper-acidification of lysosomes (Leray et al, 2022; Hilton & Box1. Inneedofanswers
+Mindell, 2023); (ii) an enlarged endolysosomal lumen can hold
+i Howarethedifferentcomponentsofthelysosomalprocessing
+more protein aggregates than usual with reduced risk of lysosomal andadaptationsystemcoordinatedduringacellularstress
+membrane damage by protein aggregates, the final step of cytosol response?
+invasionbyinternalizedaggregates;(iii)increasedlysosomalmem- ii HowdodiversecellularstressorsaugmentLYPAScapacity?
+brane tension likely promotes lysosomal exocytosis to expel inter- iii How do overloaded and exhausted lysosomes signal outward
+nalizedproteinaggregates;(iv)PIKfyveinhibitionactivatesTFEB,a andcommunicatewithothercomponentsofthecelltoinitiate
+andmaintainsenescence?
+major regulator of transcriptional lysosomal biogenesis and autop-
+iv Isthereanexactpointofnoreturninsenescenceinductionand
+hagyupregulation(Hasegawaetal,2022).
+whatroledolysosomesplayinthisdecision?
+In summary, the LYPAS capacity can be improved by multi-
+v Whatroledolysosomesplayinthemaintenanceandsurvivalof
+ple approaches, such as lysosomal biogenesis, substrate delivery, senescentcells?Islysosomalcapacityauniquevulnerabilityof
+lysosomal acidification, lysosomal quality control, lysosomal exo- senescentcellsthatcanbeexploitedtherapeutically?
+cytosis, and broader LYPAS enhancement through mild hormetic vi Can manipulation of the LYPAS rejuvenate senescent cells or
+lysosomal stress. Lysosomal Ca2+ signaling likely interconnects theirclearancebytheimmunesystem?
+many therapeutic approaches and various LYPAS components for vii How does mild lysosomal stress benefit the cell, tissue, or
+organism?
+the final augmentation of LYPAS capacity in substrate
+processing.
+Concludingremarks Lysosomal processing and adaptation system-related studies
+have led to the discovery of many lysosomal-targeted therapeutics,
+Lysosomal dysfunction is commonly found in pathological co
+
+Chunk 41:
+y therapeutic approaches and various LYPAS components for vii How does mild lysosomal stress benefit the cell, tissue, or
+organism?
+the final augmentation of LYPAS capacity in substrate
+processing.
+Concludingremarks Lysosomal processing and adaptation system-related studies
+have led to the discovery of many lysosomal-targeted therapeutics,
+Lysosomal dysfunction is commonly found in pathological condi- severalofwhicharebeingtestedinclinicaltrialsforage-relateddis-
+tionsandisreceivingincreasedattentioninthebiologyofagingand eases, previously untreatable LSDs, or rare neurodegenerative con-
+inthepathogenesisofage-relateddiseases.Theexactrolesoflyso- ditions such as ALS or frontotemporal dementia. With more
+somaldysfunctioninsenescence,celldeath,ordiseaseprogression progress in the mechanistic understanding of LYPAS expansion
+havebeenpuzzlingforalongtime,partiallyduetothedifficultyof capacityandLYPASparticipationinagingandage-relateddiseases,
+studyingtheseprocessesinvivo.Consideringthecloserelationship additionaltherapeutictargetswilllikelyberevealed.Withtheexplo-
+between lysosomal activity and disease severity in numerous sive development in drug design through deep learning, we expect
+modelsandfromhumansubjects,furtherinvestigationsdelineating toprofoundlyexpandthelistofsmallmoleculesthatelevateLYPAS
+how lysosomes participate in cellular stress responses, senescence capacity, each potentially useful for treating a wide array of age-
+inductionandmaintenance,andcelldeathdecisionsareneeded.To related diseases. Not bad for an organelle recovering from self-
+facilitatesuchinvestigations,weintroducedheretheconceptofthe esteemissues!
+lysosomal processing and adaptation system or LYPAS. We
+discussed the major components of this system that maintains the Acknowledgements
+substrateprocessingcapacityoflysosomes(Fig 1)andhowLYPAS Weapologizetocolleagueswhoseworkcouldnotbecitedduetospace
+is boosted in response to diverse cellular stresses including those limitations.Thisworkwassup
+
+Chunk 42:
+ations,weintroducedheretheconceptofthe esteemissues!
+lysosomal processing and adaptation system or LYPAS. We
+discussed the major components of this system that maintains the Acknowledgements
+substrateprocessingcapacityoflysosomes(Fig 1)andhowLYPAS Weapologizetocolleagueswhoseworkcouldnotbecitedduetospace
+is boosted in response to diverse cellular stresses including those limitations.ThisworkwassupportedbyCompetitiveMedicalResearchFund
+stimulatingsenescenceorcelldeath(Fig2).Wediscussedthecon- (CMRF)oftheUniversityofPittsburghMedicalCenter(UPMC)HealthSystem
+cept of lysosomal overload as a point of no return in senescence (JXT)andNationalInstitutesofHealth(NIH)grants1K01AG075142(JXT),
+induction and lysosomal exhaustion as a potential decision point 1R35GM150506(JXT),1R01HL142663(TF),1R01HL142589(TF),U54AG075931
+whereby a senescent cell proceeds to cell death (Fig 3). While (TF),andP30AG024827(TF).
+expandingLYPAScapacityhasbeenshowntosuppresssenescence
+or cell death, impaired LYPAS capacity might trigger either senes- Authorcontributions
+cenceorcelldeathbasedonthelevelofcellstressandthecapacity JayXiaojunTan:Conceptualization;writing–originaldraft;writing–review
+of the lysosome. Based on this lysosomal-centric model of senes- andediting.TorenFinkel:Writing–reviewandediting.
+cence/celldeath(Fig3),boostingtheLYPAScapacityisapromising
+strategyfortreatingmanyage-relateddiseases,aswellasLSDsthat Disclosureandcompetinginterestsstatement
+primarilyaffectapediatricpopulation(Fig4). JXTdeclaresnocompetinginterests.TFisaco-founderandstockholderin
+The lysosomal model of senescence/cell death appears to be GenerianPharmaceuticalsandColomaTherapeutics.
+compatible with many studies. However, additional investigations
+are necessary to further test and improve this model (see Box 1).
+References
+Many challenges remain, particularly considering the difficulty in
+identifyinguniversalmarkersforsenescenceinvariouscontexts.To
+strengthentheroleoflysosomaloverloadinginsenescence,itwould AbbasYM
+
+Chunk 43:
+th appears to be GenerianPharmaceuticalsandColomaTherapeutics.
+compatible with many studies. However, additional investigations
+are necessary to further test and improve this model (see Box 1).
+References
+Many challenges remain, particularly considering the difficulty in
+identifyinguniversalmarkersforsenescenceinvariouscontexts.To
+strengthentheroleoflysosomaloverloadinginsenescence,itwould AbbasYM,WuD,BuelerSA,RobinsonCV,RubinsteinJL(2020)StructureofV-
+becriticaltodistinguishcellsinwhatwearecallingearlyversuslate ATPasefromthemammalianbrain.Science367:1240–1246
+senescence. Combining computational approaches and multiple AbdisalaamS,BhattacharyaS,MukherjeeS,SinhaD,SrinivasanK,ZhuM,
+senescence markers might help deconvolute the exact path leading AkbayEA,SadekHA,ShayJW,AsaithambyA(2020)Dysfunctional
+to senescence and where lysosomal dysfunction impacts cell fate telomerestriggercellularsenescencemediatedbycyclicGMP-AMP
+decisions. synthase.JBiolChem295:11144–11160
+12 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Al-AmriAH,ArmstrongP,AmiciM,LigneulC,RouseJ,El-AsragME,PantiruA, BraulkeT,BonifacinoJS(2009)Sortingoflysosomalproteins.BiochimBiophys
+VancollieVE,NgHWY,OgbetaJAetal(2022)PDZD8disruptioncauses Acta1793:605–614
+cognitiveimpairmentinhumans,mice,andfruitflies.BiolPsychiatry92: BudanovAV,KarinM(2008)p53targetgenessestrin1andsestrin2connect
+323–334 genotoxicstressandmTORsignaling.Cell134:451–460
+AlkhaterRA,SchererSW,MinassianBA,WalkerS(2018)PI4K2Adeficiencyin CadwellK,DebnathJ(2018)Beyondself-eating:thecontrolofnonautophagic
+anintellectualdisability,epilepsy,myoclonus,akathisiasyndrome.Ann functionsandsignalingpathwaysbyautophagy-relatedproteins.JCell
+ClinTranslNeurol5:1617–1621 Biol217:813–822
+AmanY,Schmauck-MedinaT,HansenM,MorimotoRI,SimonAK,BjedovI, CalcagniA,StaianoL,ZampelliN,MinopoliN,HerzNJ,DiTullioG,HuynhT,
+Pali
+
+Chunk 44:
+,WalkerS(2018)PI4K2Adeficiencyin CadwellK,DebnathJ(2018)Beyondself-eating:thecontrolofnonautophagic
+anintellectualdisability,epilepsy,myoclonus,akathisiasyndrome.Ann functionsandsignalingpathwaysbyautophagy-relatedproteins.JCell
+ClinTranslNeurol5:1617–1621 Biol217:813–822
+AmanY,Schmauck-MedinaT,HansenM,MorimotoRI,SimonAK,BjedovI, CalcagniA,StaianoL,ZampelliN,MinopoliN,HerzNJ,DiTullioG,HuynhT,
+PalikarasK,SimonsenA,JohansenT,TavernarakisN(2021)Autophagyin MonfregolaJ,EspositoA,CirilloCetal(2023)Lossofthebattendisease
+healthyaginganddisease.NatAging1:634–650 proteinCLN3leadstomis-traffickingofM6PRanddefectiveautophagic-
+AnJY,Quarles EK,Mekvanich S, KangA,Liu A,SantosD, Miller RA, lysosomalreformation.NatCommun14:3911
+Rabinovitch PS,Cox TC,Kaeberlein M(2017) Rapamycin treatment Carmona-GutierrezD,HughesAL,MadeoF,RuckenstuhlC(2016)Thecrucial
+attenuates age-associated periodontitis in mice. Geroscience 39: impactoflysosomesinagingandlongevity.AgeingResRev32:2–12
+457–463 CarrollB,NelsonG,Rabanal-RuizY,KucheryavenkoO,Dunhill-TurnerNA,
+AnJY,KernsKA,OuelletteA,RobinsonL,MorrisHD,KaczorowskiC,ParkS-I, ChestermanCC,ZahariQ,ZhangT,ConduitSE,MitchellCA(2017)
+MekvanichT,KangA,McLeanJS(2020)Rapamycinrejuvenatesoralhealth PersistentmTORC1signalingincellsenescenceresultsfromdefectsin
+inagingmice.Elife9:e54318 aminoacidandgrowthfactorsensing.JCellBiol216:1949–1957
+AnguianoJ,GarnerTP,MahalingamM,DasBC,GavathiotisE,CuervoAM ChangY-Y,NeufeldTP(2009)AnAtg1/Atg13complexwithmultiplerolesin
+(2013)Chemicalmodulationofchaperone-mediatedautophagybyretinoic TOR-mediatedautophagyregulation.MolBiolCell20:2004–2014
+acidderivatives.NatChemBiol9:374–382 ChenC,LiuY,LiuY,ZhengP(2009)mTORregulationandtherapeutic
+AramburuJ,OrtellsMC,TejedorS,Buxad(cid:2)eM,Lo(cid:2)pez-Rodr(cid:2)ıguezC(2014) rejuvenationofaginghematopoieticstemcells.SciSignal2:ra75
+TranscriptionalregulationofthestressresponsebymTOR.SciSignal7:re2 ChenFW,LiC,IoannouYA(2010)Cyclodextrininducescalcium-dependent
+BaeM,PatelN,XuH,LeeM,Tominag
+
+Chunk 45:
+2004–2014
+acidderivatives.NatChemBiol9:374–382 ChenC,LiuY,LiuY,ZhengP(2009)mTORregulationandtherapeutic
+AramburuJ,OrtellsMC,TejedorS,Buxad(cid:2)eM,Lo(cid:2)pez-Rodr(cid:2)ıguezC(2014) rejuvenationofaginghematopoieticstemcells.SciSignal2:ra75
+TranscriptionalregulationofthestressresponsebymTOR.SciSignal7:re2 ChenFW,LiC,IoannouYA(2010)Cyclodextrininducescalcium-dependent
+BaeM,PatelN,XuH,LeeM,Tominaga-YamanakaK,NathA,GeigerJ, lysosomalexocytosis.PLoSOne5:e15054
+GorospeM,MattsonMP,HaugheyNJ(2014)ActivationofTRPML1clears ChenQ,SheJ,ZengW,GuoJ,XuH,BaiX-C,JiangY(2017)Structureof
+intraneuronalAbinpreclinicalmodelsofHIVinfection.JNeurosci34: mammalianendolysosomalTRPML1channelinnanodiscs.Nature550:
+11485–11503 415–418
+BakerDJ,PetersenRC(2018)Cellularsenescenceinbrainagingand ChintaSJ,WoodsG,RaneA,DemariaM,CampisiJ,AndersenJK(2015)
+neurodegenerativediseases:evidenceandperspectives.JClinInvest128: Cellularsenescenceandtheagingbrain.ExpGerontol68:3–7
+1208–1216 ChungCL,LawrenceI,HoffmanM,ElgindiD,NadhanK,PotnisM,JinA,
+BanerjeeS,KanePM(2020)RegulationofV-ATPaseactivityandorganellepH SershonC,BinneboseR,LorenziniAetal(2019)Topicalrapamycin
+byphosphatidylinositolphosphatelipids.FrontCellDevBiol8:510 reducesmarkersofsenescenceandaginginhumanskin:anexploratory,
+BarbosaMC,GrossoRA,FaderCM(2018)Hallmarksofaging:anautophagic prospective,randomizedtrial.Geroscience41:861–869
+perspective.FrontEndocrinol9:790 ColacurcioDJ,NixonRA(2016)Disordersoflysosomalacidification—the
+BasistyN,KaleA,JeonOH,KuehnemannC,PayneT,RaoC,HoltzA,ShahS, emergingroleofv-ATPaseinagingandneurodegenerativedisease.Ageing
+SharmaV,FerrucciL(2020)Aproteomicatlasofsenescence-associated ResRev32:75–88
+secretomesforagingbiomarkerdevelopment.PLoSBiol18:e3000599 ConnerSD,SchmidSL(2003)Regulatedportalsofentryintothecell.Nature
+BillichA(2007)Drugevaluation:apilimod,anoralIL-12/IL-23inhibitorforthe 422:37–44
+treatmentofautoimmunediseasesandcommonvariable CuervoAM,DiceJF(2000a)Age-relateddeclineinchaperone-mediated
+immunodeficie
+
+Chunk 46:
+rmaV,FerrucciL(2020)Aproteomicatlasofsenescence-associated ResRev32:75–88
+secretomesforagingbiomarkerdevelopment.PLoSBiol18:e3000599 ConnerSD,SchmidSL(2003)Regulatedportalsofentryintothecell.Nature
+BillichA(2007)Drugevaluation:apilimod,anoralIL-12/IL-23inhibitorforthe 422:37–44
+treatmentofautoimmunediseasesandcommonvariable CuervoAM,DiceJF(2000a)Age-relateddeclineinchaperone-mediated
+immunodeficiency.IDrugs10:53–59 autophagy.JBiolChem275:31505–31513
+BlottEJ,GriffithsGM(2002)Secretorylysosomes.NatRevMolCellBiol3: CuervoAM,DiceJF(2000b)Whenlysosomesgetold.ExpGerontol35:119–131
+122–131 CuiZ,NapolitanoG,deAraujoMEG,EspositoA,MonfregolaJ,HuberLA,
+Bonet-PonceL,CooksonMR(2022)Theendoplasmicreticulumcontributesto BallabioA,HurleyJH(2023)StructureofthelysosomalmTORC1–TFEB–
+lysosomaltubulation/sortingdrivenbyLRRK2.MolBiolCell33:ar124 Rag–Ragulatormegacomplex.Nature614:572–579
+Bonet-PonceL,BeilinaA,WilliamsonCD,LindbergE,KlussJH,Saez-Atienzar CurnockR,YalciK,PalmfeldtJ,J€a€attel€aM,LiuB,CarrollB(2023)TFEB-
+S,LandeckN,KumaranR,MamaisA,BleckCK(2020)LRRK2mediates dependentlysosomebiogenesisisrequiredforsenescence.EMBOJ42:
+tubulationandvesiclesortingfromlysosomes.SciAdv6:eabb2454 e111241
+BonifacinoJS,TraubLM(2003)Signalsforsortingoftransmembraneproteins DafsariHS,PembertonJG,FerrerEA,YammineT,FarraC,MohammadiMH,
+toendosomesandlysosomes.AnnuRevBiochem72:395–447 GhayoorKarimianiE,HashemiN,SouaidM,SabbaghS(2022)PI4K2A
+Bouch(cid:2)eV,EspinosaAP,LeoneL,SardielloM,BallabioA,BotasJ(2016) deficiencycausesinnateerrorinintracellulartraffickingwith
+DrosophilaMitfregulatestheV-ATPaseandthelysosomal-autophagic developmentalandepileptic-dyskineticencephalopathy.AnnClinTransl
+pathway.Autophagy12:484–498 Neurol9:1345–1358
+BourdenxM,Mart(cid:2)ın-SeguraA,ScrivoA,Rodriguez-NavarroJA,KaushikS, DaiDF,KarunadharmaPP,ChiaoYA,BasistyN,CrispinD,HsiehEJ,ChenT,
+TassetI,DiazA,StormNJ,XinQ,JusteYR(2021)Chaperone-mediated GuH,DjukovicD,RafteryD(2014)Alteredproteometurnoverand
+autophagypreventscollapseoftheneu
+
+Chunk 47:
+utophagic developmentalandepileptic-dyskineticencephalopathy.AnnClinTransl
+pathway.Autophagy12:484–498 Neurol9:1345–1358
+BourdenxM,Mart(cid:2)ın-SeguraA,ScrivoA,Rodriguez-NavarroJA,KaushikS, DaiDF,KarunadharmaPP,ChiaoYA,BasistyN,CrispinD,HsiehEJ,ChenT,
+TassetI,DiazA,StormNJ,XinQ,JusteYR(2021)Chaperone-mediated GuH,DjukovicD,RafteryD(2014)Alteredproteometurnoverand
+autophagypreventscollapseoftheneuronalmetastableproteome.Cell remodelingbyshort-termcaloricrestrictionorrapamycinrejuvenatethe
+184:2696–2714 agingheart.AgingCell13:529–539
+BoutryM,KimPK(2021)ORP1LmediatedPI(4)PsignalingatER-lysosome- deDuveC(1959)Lysosomes,anewgroupofcytoplasmicparticles.In
+mitochondrionthree-waycontactcontributestomitochondrialdivision. SubcellularParticles,HayashiT(ed),Vol.60,pp128–159.NewYork,NY:
+NatCommun12:5354 RonaldPress
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 13of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+DeDuveC,PressmanB,GianettoR,WattiauxR,AppelmansF(1955)Tissue GaoY,XiongJ,ChuQ-Z,JiW-K(2022)PDZD8-mediatedlipidtransferat
+fractionationstudies.6.Intracellulardistributionpatternsofenzymesin contactsbetweentheERandlateendosomes/lysosomesisrequiredfor
+rat-livertissue.BiochemJ60:604–617 neuriteoutgrowth.JCellSci135:jcs255026
+Debacq-ChainiauxF,ErusalimskyJD,CampisiJ,ToussaintO(2009)Protocols Garc(cid:2)ıa-PratL,Mart(cid:2)ınez-VicenteM,PerdigueroE,OrtetL,Rodr(cid:2)ıguez-UbrevaJ,
+todetectsenescence-associatedbeta-galactosidase(SA-bgal)activity,a RebolloE,Ruiz-BonillaV,GutarraS,BallestarE,SerranoAL(2016)Autophagy
+biomarkerofsenescentcellsincultureandinvivo.NatProtoc4: maintainsstemnessbypreventingsenescence.Nature529:37–42
+1798–1806 Glu€ckS,GueyB,GulenMF,WolterK,KangT-W,SchmackeNA,BridgemanA,
+DimriGP,LeeX,BasileG,AcostaM,ScottG,RoskelleyC,MedranoEE, RehwinkelJ,ZenderL,AblasserA(2017)Innateimmunesensingof
+LinskensM,RubeljI,Pereira-SmithO(1995)Abiomarkerthatidentifies cytosolicchr
+
+Chunk 48:
+rE,SerranoAL(2016)Autophagy
+biomarkerofsenescentcellsincultureandinvivo.NatProtoc4: maintainsstemnessbypreventingsenescence.Nature529:37–42
+1798–1806 Glu€ckS,GueyB,GulenMF,WolterK,KangT-W,SchmackeNA,BridgemanA,
+DimriGP,LeeX,BasileG,AcostaM,ScottG,RoskelleyC,MedranoEE, RehwinkelJ,ZenderL,AblasserA(2017)Innateimmunesensingof
+LinskensM,RubeljI,Pereira-SmithO(1995)Abiomarkerthatidentifies cytosolicchromatinfragmentsthroughcGASpromotessenescence.Nat
+senescenthumancellsincultureandinagingskininvivo.ProcNatlAcad CellBiol19:1061–1070
+SciUSA92:9363–9367 Go(cid:2)mez-SintesR,LedesmaMD,BoyaP(2016)Lysosomalcelldeath
+DongX-P,WangX,ShenD,ChenS,LiuM,WangY,MillsE,ChengX,Delling mechanismsinaging.AgeingResRev32:150–168
+M,XuH(2009)ActivatingmutationsoftheTRPML1channelrevealedby GoodwinJM,DowdleWE,DeJesusR,WangZ,BergmanP,KobylarzM,Lindeman
+proline-scanningmutagenesis.JBiolChem284:32040–32052 A,XavierRJ,McAllisterG,NyfelerB(2017)Autophagy-independentlysosomal
+DongR,SahekiY,SwarupS,LucastL,HarperJW,DeCamilliP(2016) targetingregulatedbyULK1/2-FIP200andATG9.CellRep20:2341–2356
+Endosome-ERcontactscontrolactinnucleationandretromerfunction GoodwinJM,WalkupWGIV,HooperK,LiT,Kishi-ItakuraC,NgA,Lehmberg
+throughVAP-dependentregulationofPI4P.Cell166:408–423 T,JhaA,KommineniS,FletcherK(2021)GABARAPsequesterstheFLCN-
+DörrJR,YuY,MilanovicM,BeusterG,ZasadaC,D€abritzJHM,LisecJ,Lenze FNIPtumorsuppressorcomplextocoupleautophagywithlysosomal
+D,GerhardtA,SchleicherK(2013)Syntheticlethalmetabolictargetingof biogenesis.SciAdv7:eabj2485
+cellularsenescenceincancertherapy.Nature501:421–425 GorgoulisV,AdamsPD,AlimontiA,BennettDC,BischofO,BishopC,Campisi
+DouZ,XuC,DonahueG,ShimiT,PanJ-A,ZhuJ,IvanovA,CapellBC,Drake J,ColladoM,EvangelouK,FerbeyreG(2019)Cellularsenescence:defining
+AM,ShahPP(2015)Autophagymediatesdegradationofnuclearlamina. apathforward.Cell179:813–827
+Nature527:105–109 GravesAR,CurranPK,SmithCL,MindellJA(2008)TheCl(cid:1)/H+antiporterClC-
+DouZ,GhoshK,VizioliMG,ZhuJ,SenP,WangensteenKJ,SimithyJ,LanY, 7
+
+Chunk 49:
+BennettDC,BischofO,BishopC,Campisi
+DouZ,XuC,DonahueG,ShimiT,PanJ-A,ZhuJ,IvanovA,CapellBC,Drake J,ColladoM,EvangelouK,FerbeyreG(2019)Cellularsenescence:defining
+AM,ShahPP(2015)Autophagymediatesdegradationofnuclearlamina. apathforward.Cell179:813–827
+Nature527:105–109 GravesAR,CurranPK,SmithCL,MindellJA(2008)TheCl(cid:1)/H+antiporterClC-
+DouZ,GhoshK,VizioliMG,ZhuJ,SenP,WangensteenKJ,SimithyJ,LanY, 7istheprimarychloridepermeationpathwayinlysosomes.Nature453:
+LinY,ZhouZ(2017)Cytoplasmicchromatintriggersinflammationin 788–792
+senescenceandcancer.Nature550:402–406 GuiX,YangH,LiT,TanX,ShiP,LiM,DuF,ChenZJ(2019)Autophagy
+DurganJ,FloreyO(2022)ManyroadsleadtoCASM:diversestimuliof inductionviaSTINGtraffickingisaprimordialfunctionofthecGAS
+noncanonicalautophagyshareaunifyingmolecularmechanism.SciAdv pathway.Nature567:262–266
+8:eabo1274 Guill(cid:2)en-SamanderA,BianX,DeCamilliP(2019)PDZD8mediatesaRab7-
+DuttaRK,LeeJN,MaharjanY,ParkC,ChoeSK,HoYS,KwonHM,ParkR dependentinteractionoftheERwithlateendosomesandlysosomes.Proc
+(2022)Catalase-deficientmiceinduceagingfasterthroughlysosomal NatlAcadSciUSA116:22619–22623
+dysfunction.CellCommunSignal20:192 HaT-Y,ChoiYR,NohHR,ChaS-H,KimJ-B,ParkSM(2021)Age-related
+EbnerM,KochPA,HauckeV(2019)Phosphoinositidesinthecontrolof increaseincaveolin-1expressionfacilitatescell-to-celltransmissionofa-
+lysosomefunctionandhomeostasis.BiochemSocTrans47:1173–1185 synucleininneurons.MolBrain14:122
+Elbaz-AlonY,GuoY,SegevN,HarelM,QuinnellDE,GeigerT,AvinoamO,Li Hancock-CeruttiW,WuZ,XuP,YadavalliN,LeonzinoM,TharkeshwarAK,
+D,NunnariJ(2020)PDZD8interactswithProtrudinandRab7atER-late FergusonSM,ShadelGS,DeCamilliP(2022)ER-lysosomelipidtransfer
+endosomemembranecontactsitesassociatedwithmitochondria.Nat proteinVPS13C/PARK23preventsaberrantmtDNA-dependentSTING
+Commun11:1–14 signaling.JCellBiol221:e202106046
+EvansTD,JeongSJ,ZhangX,SerginI,RazaniB(2018)TFEBandtrehalose HardingSM,BenciJL,IriantoJ,DischerDE,MinnAJ,GreenbergRA(2017)
+drivethemacrophageautophagy-lysosomesystemto
+
+Chunk 50:
+ER-late FergusonSM,ShadelGS,DeCamilliP(2022)ER-lysosomelipidtransfer
+endosomemembranecontactsitesassociatedwithmitochondria.Nat proteinVPS13C/PARK23preventsaberrantmtDNA-dependentSTING
+Commun11:1–14 signaling.JCellBiol221:e202106046
+EvansTD,JeongSJ,ZhangX,SerginI,RazaniB(2018)TFEBandtrehalose HardingSM,BenciJL,IriantoJ,DischerDE,MinnAJ,GreenbergRA(2017)
+drivethemacrophageautophagy-lysosomesystemtoprotectagainst MitoticprogressionfollowingDNAdamageenablespatternrecognition
+atherosclerosis.Autophagy14:724–726 withinmicronuclei.Nature548:466–470
+FineM,SchmiegeP,LiX(2018)StructuralbasisforPtdInsP2-mediated HasegawaJ,TokudaE,YaoY,SasakiT,InokiK,WeismanLS(2022)PP2A-
+humanTRPML1regulation.NatCommun9:4192 dependentTFEBactivationisblockedbyPIKfyve-inducedmTORC1
+FinnPF,MesiresNT,VineM,DiceJF(2005)Effectsofsmallmoleculeson activity.MolBiolCell33:ar26
+chaperone-mediatedautophagy.Autophagy1:141–145 HeberleAM,PrentzellMT,VanEunenK,BakkerBM,GrellscheidSN,Thedieck
+FriedmanJR,DiBenedettoJR,WestM,RowlandAA,VoeltzGK(2013) K(2015)MolecularmechanismsofmTORregulationbystress.MolCell
+Endoplasmicreticulum–endosomecontactincreasesasendosomestraffic Oncol2:e970489
+andmature.MolBiolCell24:1030–1040 HeckmannBL,TeubnerBJ,TummersB,Boada-RomeroE,HarrisL,YangM,
+FujimakiK,LiR,ChenH,DellaCroceK,ZhangHH,XingJ,BaiF,YaoG(2019) GuyCS,ZakharenkoSS,GreenDR(2019)LC3-associatedendocytosis
+Gradedregulationofcellularquiescencedepthbetweenproliferationand facilitatesb-amyloidclearanceandmitigatesneurodegenerationin
+senescencebyalysosomaldimmerswitch.ProcNatlAcadSciUSA116: murineAlzheimer’sdisease.Cell178:536–551
+22624–22634 HeckmannBL,TeubnerBJ,Boada-RomeroE,TummersB,GuyC,FitzgeraldP,
+GanN,HanY,ZengW,WangY,XueJ,JiangY(2022)Structuralmechanism MayerU,CardingS,ZakharenkoSS,WilemanT(2020)Noncanonical
+ofallostericactivationofTRPML1byPI(3,5)P2andrapamycin.ProcNatl functionofanautophagyproteinpreventsspontaneousAlzheimer’s
+AcadSciUSA119:e2120404119 disease.SciAdv6:eabb9036
+GanleyIG,LamDH,WangJ,DingX,ChenS,JiangX(200
+
+Chunk 51:
+–22634 HeckmannBL,TeubnerBJ,Boada-RomeroE,TummersB,GuyC,FitzgeraldP,
+GanN,HanY,ZengW,WangY,XueJ,JiangY(2022)Structuralmechanism MayerU,CardingS,ZakharenkoSS,WilemanT(2020)Noncanonical
+ofallostericactivationofTRPML1byPI(3,5)P2andrapamycin.ProcNatl functionofanautophagyproteinpreventsspontaneousAlzheimer’s
+AcadSciUSA119:e2120404119 disease.SciAdv6:eabb9036
+GanleyIG,LamDH,WangJ,DingX,ChenS,JiangX(2009)ULK1(cid:3)ATG13(cid:3) HerbstS,CampbellP,HarveyJ,BernardEM,PapayannopoulosV,WoodNW,
+FIP200complexmediatesmTORsignalingandisessentialforautophagy.J MorrisHR,GutierrezMG(2020)LRRK2activationcontrolstherepairof
+BiolChem284:12297–12305 damagedendomembranesinmacrophages.EMBOJ39:e104494
+14 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+Hernandez-SeguraA,NehmeJ,DemariaM(2018)Hallmarksofcellular JansenRM,PeruzzoR,FrommSA,YokomAL,ZoncuR,HurleyJH(2022)
+senescence.TrendsCellBiol28:436–453 StructuralbasisforFLCNRagCGAPactivationinMiT-TFEsubstrate-
+HerranzN,GallageS,MelloneM,WuestefeldT,KlotzS,HanleyCJ,RaguzS, selectivemTORC1regulation.SciAdv8:eadd2926
+AcostaJC,InnesAJ,BanitoA(2015)mTORregulatesMAPKAPK2translation JeongS-J,StithamJ,EvansTD,ZhangX,Rodriguez-VelezA,YehY-S,TaoJ,
+tocontrolthesenescence-associatedsecretoryphenotype.NatCellBiol17: TakabatakeK,EpelmanS,LodhiIJetal(2021)Trehalosecauseslow-grade
+1205–1217 lysosomalstresstoactivateTFEBandtheautophagy-lysosomebiogenesis
+HiltonJK,MindellJA(2023)MechanismofClC-7transporterinhibitionbythe response.Autophagy17:3740–3752
+lysosomalphospholipidPI(3,5)P2.BiophysJ122:397a JinD,MuramatsuS-I,ShimizuN,YokoyamaS,HiraiH,YamadaK,LiuH-X,
+HirschiM,HerzikMAJr,WieJ,SuoY,BorschelWF,RenD,LanderGC,LeeS-Y HigashidaC,HashiiM,HigashidaA(2012)Dopaminereleaseviathe
+(2017)Cryo-electronmicroscopystructureofthelysosomalcalcium- vacuolarATPaseV0sectorc-subunit,confirmedinN18neuroblastoma
+permeablechannelTRPML3.N
+
+Chunk 52:
+ponse.Autophagy17:3740–3752
+lysosomalphospholipidPI(3,5)P2.BiophysJ122:397a JinD,MuramatsuS-I,ShimizuN,YokoyamaS,HiraiH,YamadaK,LiuH-X,
+HirschiM,HerzikMAJr,WieJ,SuoY,BorschelWF,RenD,LanderGC,LeeS-Y HigashidaC,HashiiM,HigashidaA(2012)Dopaminereleaseviathe
+(2017)Cryo-electronmicroscopystructureofthelysosomalcalcium- vacuolarATPaseV0sectorc-subunit,confirmedinN18neuroblastoma
+permeablechannelTRPML3.Nature550:411–414 cells,resultsinbehavioralrecoveryinhemiparkinsonianmice.Neurochem
+HöhnA,GruneT(2013)Lipofuscin:formation,effectsandroleof Int61:907–912
+macroautophagy.RedoxBiol1:140–144 JohanssonM,LehtoM,Tanhuanp€a€aK,CoverTL,OlkkonenVM(2005)Theoxysterol-
+HollerCJ,TaylorG,McEachinZT,DengQ,WatkinsWJ,HudsonK,EasleyCA, bindingproteinhomologueORP1LinteractswithRab7andaltersfunctional
+HuWT,HalesCM,RossollWetal(2016)Trehaloseupregulates propertiesoflateendocyticcompartments.MolBiolCell16:5480–5492
+progranulinexpressioninhumanandmousemodelsofGRN JohnsonJL,NapolitanoG,MonfregolaJ,RoccaCJ,CherquiS,CatzSD(2013)
+haploinsufficiency:anoveltherapeuticleadtotreatfrontotemporal UpregulationoftheRab27a-dependenttraffickingandsecretory
+dementia.MolNeurodegener11:46 mechanismsimproveslysosomaltransport,alleviatesendoplasmic
+HosokawaN,HaraT,KaizukaT,KishiC,TakamuraA,MiuraY,IemuraS-I, reticulumstress,andreduceslysosomeoverloadincystinosis.MolCellBiol
+NatsumeT,TakehanaK,YamadaN(2009)Nutrient-dependentmTORC1 33:2950–2962
+associationwiththeULK1–Atg13–FIP200complexrequiredforautophagy. JohnsonSC,SangeslandM,KaeberleinM,RabinovitchPS(2015)Modulating
+MolBiolCell20:1981–1991 mTORinagingandhealth.InAgingandHealth-ASystemsBiology
+HuM,LiP,WangC,FengX,GengQ,ChenW,MarthiM,ZhangW,GaoC, Perspective,YashinAI,JazwinskiSM(eds),Vol.40,pp107–127.Basel:
+ReidW(2022a)Parkinson’sdisease-riskproteinTMEM175isaproton- KargerPublishers
+activatedprotonchannelinlysosomes.Cell185:2292–2308 JordensI,Fernandez-BorjaM,MarsmanM,DusseljeeS,JanssenL,CalafatJ,
+HuM,ZhouN,CaiW,XuH(2022b)Lysosomalsoluteandwatertransport.J JanssenH,W
+
+Chunk 53:
+alth-ASystemsBiology
+HuM,LiP,WangC,FengX,GengQ,ChenW,MarthiM,ZhangW,GaoC, Perspective,YashinAI,JazwinskiSM(eds),Vol.40,pp107–127.Basel:
+ReidW(2022a)Parkinson’sdisease-riskproteinTMEM175isaproton- KargerPublishers
+activatedprotonchannelinlysosomes.Cell185:2292–2308 JordensI,Fernandez-BorjaM,MarsmanM,DusseljeeS,JanssenL,CalafatJ,
+HuM,ZhouN,CaiW,XuH(2022b)Lysosomalsoluteandwatertransport.J JanssenH,WubboltsR,NeefjesJ(2001)TheRab7effectorproteinRILP
+CellBiol221:e202109133 controlslysosomaltransportbyinducingtherecruitmentofdynein-
+HuangP-T,EinavS,AsquithCR(2021)PIKfyve:alipidkinasetargetforCOVID- dynactinmotors.CurrBiol11:1680–1685
+19,cancerandneurodegenerativedisorders.NatRevDrugDiscov20:730 JungCH,JunCB,RoS-H,KimY-M,OttoNM,CaoJ,KunduM,KimD-H(2009)
+HuangW,HicksonLJ,EirinA,KirklandJL,LermanLO(2022)Cellular ULK-Atg13-FIP200complexesmediatemTORsignalingtotheautophagy
+senescence:thegood,thebadandtheunknown.NatRevNephrol18: machinery.MolBiolCell20:1992–2003
+611–627 KalatzisV,CherquiS,AntignacC,GasnierB(2001)Cystinosin,theprotein
+HughesAL,GottschlingDE(2012)AnearlyageincreaseinvacuolarpHlimits defectiveincystinosis,isaH+-drivenlysosomalcystinetransporter.EMBO
+mitochondrialfunctionandlifespaninyeast.Nature492:261–265 J20:5940–5949
+HuiL,SolimanML,GeigerNH,MillerNM,AfghahZ,LakpaKL,ChenX,Geiger KanePM(1995)DisassemblyandreassemblyoftheyeastvacuolarH+-ATPase
+JD(2019)Acidifyingendolysosomespreventedlow-densitylipoprotein- invivo.JBiolChem270:17025–17032
+inducedamyloidogenesis.JAlzheimersDis67:393–410 KangHT,LeeKB,KimSY,ChoiHR,ParkSC(2011)Autophagyimpairment
+HungY-H,ChenLM-W,YangJ-Y,YuanYangW(2013)Spatiotemporally inducesprematuresenescenceinprimaryhumanfibroblasts.PLoSOne6:
+controlledinductionofautophagy-mediatedlysosometurnover.Nat e23367
+Commun4:1–7 KangY,ZhangH,ZhaoY,WangY,WangW,HeY,ZhangW,ZhangW,Zhu
+HungS-T,LinaresGR,ChangW-H,EohY,KrishnanG,MendoncaS,HongS, X,ZhouY(2018)Telomeredysfunctiondisturbsmacrophage
+ShiY,SantanaM,KuethCetal(2023)PIKFYVEinhibitionmitigates mitochondrial
+
+Chunk 54:
+ngW(2013)Spatiotemporally inducesprematuresenescenceinprimaryhumanfibroblasts.PLoSOne6:
+controlledinductionofautophagy-mediatedlysosometurnover.Nat e23367
+Commun4:1–7 KangY,ZhangH,ZhaoY,WangY,WangW,HeY,ZhangW,ZhangW,Zhu
+HungS-T,LinaresGR,ChangW-H,EohY,KrishnanG,MendoncaS,HongS, X,ZhouY(2018)Telomeredysfunctiondisturbsmacrophage
+ShiY,SantanaM,KuethCetal(2023)PIKFYVEinhibitionmitigates mitochondrialmetabolismandtheNLRP3inflammasomethroughthe
+diseaseinmodelsofdiverseformsofALS.Cell186:786–802 PGC-1a/TNFAIP3axis.CellRep22:3493–3506
+ImE,JiangY,StavridesPH,DarjiS,Erdjument-BromageH,NeubertTA,Choi KaushikS,CuervoAM(2018)Thecomingofageofchaperone-mediated
+JY,WegielJ,LeeJ-H,NixonRA(2023)LysosomaldysfunctioninDown autophagy.NatRevMolCellBiol19:365–381
+syndromeandAlzheimermousemodelsiscausedbyv-ATPaseinhibition KawasakiA,SakaiA,NakanishiH,HasegawaJ,TaguchiT,SasakiJ,AraiH,
+byTyr682(cid:1)phosphorylatedAPPbCTF.SciAdv9:eadg1925 SasakiT,IgarashiM,NakatsuF(2021)PI4P/PScountertransportbyORP10
+InomataM,XuS,ChandraP,MeydaniSN,TakemuraG,PhilipsJA,LeongJM atER–endosomemembranecontactsitesregulatesendosomefission.J
+(2020)MacrophageLC3-associatedphagocytosisisanimmunedefense CellBiol221:e202103141
+againstStreptococcuspneumoniaethatdiminisheswithhostaging.Proc KhalifehM,BarretoGE,SahebkarA(2019)Trehaloseasapromising
+NatlAcadSciUSA117:33561–33569 therapeuticcandidateforthetreatmentofParkinson’sdisease.BrJ
+IshikawaH,BarberGN(2008)STINGisanendoplasmicreticulumadaptor Pharmacol176:1173–1189
+thatfacilitatesinnateimmunesignalling.Nature455:674–678 KhanSA,TomatsuSC(2020)Mucolipidosesoverview:past,present,and
+IshikawaH,MaZ,BarberGN(2009)STINGregulatesintracellularDNA-mediated, future.IntJMolSci21:6812
+typeIinterferon-dependentinnateimmunity.Nature461:788–792 KhanH,ChenL,TanL,ImYJ(2021)StructuralbasisofhumanPDZD8–Rab7
+IvanovA,PawlikowskiJ,ManoharanI,vanTuynJ,NelsonDM,RaiTS,Shah interactionfortheER-lateendosometethering.SciRep11:1–9
+PP,HewittG,KorolchukVI,PassosJF(2013)Lysosome-mediated KiffinR,Kaus
+
+Chunk 55:
+,and
+IshikawaH,MaZ,BarberGN(2009)STINGregulatesintracellularDNA-mediated, future.IntJMolSci21:6812
+typeIinterferon-dependentinnateimmunity.Nature461:788–792 KhanH,ChenL,TanL,ImYJ(2021)StructuralbasisofhumanPDZD8–Rab7
+IvanovA,PawlikowskiJ,ManoharanI,vanTuynJ,NelsonDM,RaiTS,Shah interactionfortheER-lateendosometethering.SciRep11:1–9
+PP,HewittG,KorolchukVI,PassosJF(2013)Lysosome-mediated KiffinR,KaushikS,ZengM,BandyopadhyayU,ZhangC,MasseyAC,
+processingofchromatininsenescence.JCellBiol202:129–143 Martinez-VicenteM,CuervoAM(2007)Altereddynamicsofthelysosomal
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 15of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+receptorforchaperone-mediatedautophagywithage.JCellSci120: functioninautosomal-recessiveparkinsonismcausesmitochondrial
+782–791 dysfunctionandincreasesPINK1/Parkin-dependentmitophagy.AmJHum
+KimJ,GuanK-L(2019)mTORasacentralhubofnutrientsignallingandcell Genet98:500–513
+growth.NatCellBiol21:63–71 LiSC,DiakovTT,XuT,TarsioM,ZhuW,Couoh-CardelS,WeismanLS,Kane
+KimJ,KunduM,ViolletB,GuanK-L(2011)AMPKandmTORregulate PM(2014)ThesignalinglipidPI(3,5)P2stabilizesV1–Vosector
+autophagythroughdirectphosphorylationofUlk1.NatCellBiol13: interactionsandactivatestheV-ATPase.MolBiolCell25:1251–1262
+132–141 LiK,WadaS,GosisBS,ThorsheimC,LooseP,AranyZ(2022)Folliculin
+KirkegaardT,RothAG,PetersenNH,MahalkaAK,OlsenOD,MoilanenI,Zylicz promotessubstrate-selectivemTORC1activitybyactivatingRagCto
+A,KnudsenJ,SandhoffK,ArenzC(2010)Hsp70stabilizeslysosomesand recruitTFE3.PLoSBiol20:e3001594
+revertsNiemann–Pickdisease-associatedlysosomalpathology.Nature463: LiangC(2020)PiperazinederivativesasTRPMLmodulators.InGoogle
+549–553 Patents
+KrauseGJ,DiazA,JafariM,KhawajaRR,Agullo-PascualE,Santiago- LimCY,DavisOB,ShinHR,ZhangJ,BerdanCA,JiangX,CounihanJL,OryDS,
+Fern(cid:2)andezO,RichardsAL,ChenKH,DmitrievP,SunYetal(2022) NomuraDK,ZoncuR(2019)ER-lysosomecontactsenablech
+
+Chunk 56:
+itTFE3.PLoSBiol20:e3001594
+revertsNiemann–Pickdisease-associatedlysosomalpathology.Nature463: LiangC(2020)PiperazinederivativesasTRPMLmodulators.InGoogle
+549–553 Patents
+KrauseGJ,DiazA,JafariM,KhawajaRR,Agullo-PascualE,Santiago- LimCY,DavisOB,ShinHR,ZhangJ,BerdanCA,JiangX,CounihanJL,OryDS,
+Fern(cid:2)andezO,RichardsAL,ChenKH,DmitrievP,SunYetal(2022) NomuraDK,ZoncuR(2019)ER-lysosomecontactsenablecholesterol
+Reducedendosomalmicroautophagyactivityinagingassociateswith sensingbymTORC1anddriveaberrantgrowthsignallinginNiemann-Pick
+enhancedexocyst-mediatedproteinsecretion.AgingCell21:e13713 typeC.NatCellBiol21:1206–1218
+Kru€gerR,KuhnW,Mu€llerT,WoitallaD,GraeberM,KöselS,PrzuntekH, LipinskiMM,ZhengB,LuT,YanZ,PyBF,NgA,XavierRJ,LiC,YanknerBA,
+EpplenJT,ScholsL,RiessO(1998)AlaSOPromutationinthegene ScherzerCR(2010)Genome-wideanalysisrevealsmechanisms
+encodinga-synucleininParkinson’sdisease.NatGenet18:106–108 modulatingautophagyinnormalbrainagingandinAlzheimer’sdisease.
+KumarN,LeonzinoM,Hancock-CeruttiW,HorenkampFA,LiP,LeesJA, ProcNatlAcadSciUSA107:14164–14169
+WheelerH,ReinischKM,DeCamilliP(2018)VPS13AandVPS13Carelipid LiuGY,SabatiniDM(2020)mTORatthenexusofnutrition,growth,ageing
+transportproteinsdifferentiallylocalizedatERcontactsites.JCellBiol anddisease.NatRevMolCellBiol21:183–203
+217:3625–3639 LiuB,DuH,RutkowskiR,GartnerA,WangX(2012)LAAT-1isthelysosomal
+KumarS,JainA,ChoiSW,daSilvaGPD,AllersL,MuddMH,PetersRS, lysine/argininetransporterthatmaintainsaminoacidhomeostasis.
+AnonsenJH,RustenT-E,LazarouM(2020)MammalianAtg8proteinsand Science337:351–354
+theautophagyfactorIRGMcontrolmTORandTFEBataregulatorynode LiuD,WuH,WangC,LiY,TianH,SirajS,SehgalSA,WangX,WangJ,Shang
+criticalforresponsestopathogens.NatCellBiol22:973–985 Y(2019)STINGdirectlyactivatesautophagytotunetheinnateimmune
+KumarS,JiaJ,DereticV(2021)Atg8ylationasageneralmembranestressand response.CellDeathDiffer26:1735–1749
+remodelingresponse.CellStress5:128–142 LiuY,LearT,LarsenM,LinB,CaoQ,AlfarasI,KennerdellJ,SalminenL,
+KurzD
+
+Chunk 57:
+EBataregulatorynode LiuD,WuH,WangC,LiY,TianH,SirajS,SehgalSA,WangX,WangJ,Shang
+criticalforresponsestopathogens.NatCellBiol22:973–985 Y(2019)STINGdirectlyactivatesautophagytotunetheinnateimmune
+KumarS,JiaJ,DereticV(2021)Atg8ylationasageneralmembranestressand response.CellDeathDiffer26:1735–1749
+remodelingresponse.CellStress5:128–142 LiuY,LearT,LarsenM,LinB,CaoQ,AlfarasI,KennerdellJ,SalminenL,
+KurzDJ,DecaryS,HongY,ErusalimskyJD(2000)Senescence-associatedb- CamarcoD,LockwoodK(2021)Modulationoflysosomalfunctionasa
+galactosidasereflectsanincreaseinlysosomalmassduringreplicative therapeuticapproachforcoronaviralinfections.ResearchSquarehttps://
+ageingofhumanendothelialcells.JCellSci113:3613–3622 doi.org/10.21203/rs.3.rs-419305/v1
+LabergeR-M,SunY,OrjaloAV,PatilCK,FreundA,ZhouL,CurranSC,Davalos LiuX,LiuZ,WuZ,RenJ,FanY,SunL,CaoG,NiuY,ZhangB,JiQ(2023)
+AR,Wilson-EdellKA,LiuS(2015)MTORregulatesthepro-tumorigenic Resurrectionofendogenousretrovirusesduringagingreinforces
+senescence-associatedsecretoryphenotypebypromotingIL1Atranslation. senescence.Cell186:287–304
+NatCellBiol17:1049–1061 LotfiP,TseDY,DiRonzaA,SeymourML,MartanoG,CooperJD,PereiraFA,
+LaPlanteJM,SunM,FalardeauJ,DaiD,BrownEM,SlaugenhauptSA,Vassilev PassafaroM,WuSM,SardielloM(2018)Trehalosereducesretinal
+PM(2006)LysosomalexocytosisisimpairedinmucolipidosistypeIV.Mol degeneration,neuroinflammationandstorageburdencausedbya
+GenetMetab89:339–348 lysosomalhydrolasedeficiency.Autophagy14:1419–1434
+LaqtomNN,DongW,MedohUN,CangelosiAL,DharamdasaniV,ChanSH, LuoJ,YangH,SongB-L(2020)Mechanismsandregulationofcholesterol
+KunchokT,LewisCA,HeinzeI,TangRetal(2022)CLN3isrequiredforthe homeostasis.NatRevMolCellBiol21:225–245
+clearanceofglycerophosphodiestersfromlysosomes.Nature609: LvN,ZhaoY,LiuX,YeL,LiangZ,KangY,DongY,WangW,KolliputiN,ShiL
+1005–1011 (2022)Dysfunctionaltelomeresthroughmitostress-inducedcGAS/STING
+LeeBY,HanJA,ImJS,MorroneA,JohungK,GoodwinEC,KleijerWJ,DiMaio activationtoaggravateimmunesenescenceandviralpneumonia.Aging
+D,Hwa
+
+Chunk 58:
+nzeI,TangRetal(2022)CLN3isrequiredforthe homeostasis.NatRevMolCellBiol21:225–245
+clearanceofglycerophosphodiestersfromlysosomes.Nature609: LvN,ZhaoY,LiuX,YeL,LiangZ,KangY,DongY,WangW,KolliputiN,ShiL
+1005–1011 (2022)Dysfunctionaltelomeresthroughmitostress-inducedcGAS/STING
+LeeBY,HanJA,ImJS,MorroneA,JohungK,GoodwinEC,KleijerWJ,DiMaio activationtoaggravateimmunesenescenceandviralpneumonia.Aging
+D,HwangES(2006)Senescence-associatedb-galactosidaseislysosomal Cell21:e13594
+b-galactosidase.AgingCell5:187–195 MaT,TianX,ZhangB,LiM,WangY,YangC,WuJ,WeiX,QuQ,YuYetal
+LeeJH,YangDS,GoulbourneCN,ImE,StavridesP,PensalfiniA,ChanH, (2022)Low-dosemetformintargetsthelysosomalAMPKpathwaythrough
+Bouchet-MarquisC,BleiwasC,BergMJetal(2022)Faultyautolysosome PEN2.Nature603:159–165
+acidificationinAlzheimer’sdiseasemousemodelsinducesautophagic MaejimaI,TakahashiA,OmoriH,KimuraT,TakabatakeY,SaitohT,
+build-upofAbinneurons,yieldingsenileplaques.NatNeurosci25: YamamotoA,HamasakiM,NodaT,IsakaY(2013)Autophagysequesters
+688–701 damagedlysosomestocontrollysosomalbiogenesisandkidneyinjury.
+LeidalAM,LevineB,DebnathJ(2018)Autophagyandthecellbiologyofage- EMBOJ32:2336–2347
+relateddisease.NatCellBiol20:1338–1348 MajumdarA,Capetillo-ZarateE,CruzD,GourasGK,MaxfieldFR(2011)
+LerayX,HiltonJK,NwangwuK,BecerrilA,MikusevicV,FitzgeraldG,AminA, DegradationofAlzheimer’samyloidfibrilsbymicrogliarequiresdeliveryof
+WestonMR,MindellJA(2022)Tonicinhibitionofthechloride/proton ClC-7tolysosomes.MolBiolCell22:1664–1676
+antiporterClC-7byPI(3,5)P2iscrucialforlysosomalpHmaintenance. MalikN,FerreiraBI,HollsteinPE,CurtisSD,TreftsE,WeiserNovakS,YuJ,
+Elife11:e74136 GilsonR,HellbergK,FangL(2023)Inductionoflysosomaland
+LesageS,DrouetV,MajounieE,DeramecourtV,JacoupyM,NicolasA, mitochondrialbiogenesisbyAMPKphosphorylationofFNIP1.Science380:
+Cormier-DequaireF,HassounSM,PujolC,CiuraS(2016)LossofVPS13C eabj5559
+16 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.
+
+Chunk 59:
+NovakS,YuJ,
+Elife11:e74136 GilsonR,HellbergK,FangL(2023)Inductionoflysosomaland
+LesageS,DrouetV,MajounieE,DeramecourtV,JacoupyM,NicolasA, mitochondrialbiogenesisbyAMPKphosphorylationofFNIP1.Science380:
+Cormier-DequaireF,HassounSM,PujolC,CiuraS(2016)LossofVPS13C eabj5559
+16 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+MartinaJA,ChenY,GucekM,PuertollanoR(2012)MTORC1functionsasa NapolitanoG,DiMaltaC,BallabioA(2022)Non-canonicalmTORC1signaling
+transcriptionalregulatorofautophagybypreventingnucleartransportof atthelysosome.TrendsCellBiol32:920–931
+TFEB.Autophagy8:903–914 Narita M, Young AR, Arakawa S, Samarajiwa SA, Nakashima T, Yoshida S,
+MartinaJA,DiabHI,LishuL,Jeong-AL,PatangeS,RabenN,PuertollanoR Hong S, Berry LS, Reichelt S, Ferreira M (2011) Spatial coupling of
+(2014)Thenutrient-responsivetranscriptionfactorTFE3promotes mTOR and autophagy augments secretory phenotypes. Science 332:
+autophagy,lysosomalbiogenesis,andclearanceofcellulardebris.SciSignal 966–970
+7:ra9 NassourJ,RadfordR,CorreiaA,Fust(cid:2)eJM,SchoellB,JauchA,ShawRJ,
+MartinezJ,MalireddiRS,LuQ,CunhaLD,PelletierS,GingrasS,OrchardR, KarlsederJ(2019)Autophagiccelldeathrestrictschromosomalinstability
+GuanJ-L,TanH,PengJ(2015)MolecularcharacterizationofLC3- duringreplicativecrisis.Nature565:659–663
+associatedphagocytosisrevealsdistinctrolesforRubicon,NOX2and NewJ,ThomasSM(2019)Autophagy-dependentsecretion:mechanism,
+autophagyproteins.NatCellBiol17:893–906 factorssecreted,anddiseaseimplications.Autophagy15:1682–1693
+Martini-StoicaH,XuY,BallabioA,ZhengH(2016)Theautophagy–lysosomal OhkumaS,MoriyamaY,TakanoT(1982)Identificationandcharacterization
+pathwayinneurodegeneration:aTFEBperspective.TrendsNeurosci39: ofaprotonpumponlysosomesbyfluorescein-isothiocyanate-dextran
+221–234 fluorescence.ProcNatlAcadSciUSA79:2758–2762
+Martini-StoicaH,ColeAL,SwartzlanderDB,ChenF,WanYW
+
+Chunk 60:
+,anddiseaseimplications.Autophagy15:1682–1693
+Martini-StoicaH,XuY,BallabioA,ZhengH(2016)Theautophagy–lysosomal OhkumaS,MoriyamaY,TakanoT(1982)Identificationandcharacterization
+pathwayinneurodegeneration:aTFEBperspective.TrendsNeurosci39: ofaprotonpumponlysosomesbyfluorescein-isothiocyanate-dextran
+221–234 fluorescence.ProcNatlAcadSciUSA79:2758–2762
+Martini-StoicaH,ColeAL,SwartzlanderDB,ChenF,WanYW,BajajL,Bader OlsvikHL,SvenningS,AbuduYP,BrechA,StenmarkH,JohansenT,MejlvangJ
+DA,LeeVMY,TrojanowskiJQ,LiuZetal(2018)TFEBenhancesastroglial (2019)Endosomalmicroautophagyisanintegratedpartoftheautophagic
+uptakeofextracellulartauspeciesandreducestauspreading.JExpMed responsetoaminoacidstarvation.Autophagy15:182–183
+215:2355–2377 OmataY,LimY-M,AkaoY,TsudaL(2014)Age-inducedreductionof
+MedinaDL,FraldiA,BoucheV,AnnunziataF,MansuetoG,SpampanatoC, autophagy-relatedgeneexpressionisassociatedwithonsetofAlzheimer’s
+PuriC,PignataA,MartinaJA,SardielloM(2011)Transcriptionalactivation disease.AmJNeurodegenerDis3:134–142
+oflysosomalexocytosispromotescellularclearance.DevCell21:421–430 OttC,KönigJ,HöhnA,JungT,GruneT(2016a)Macroautophagyisimpaired
+MedinaDL,DiPaolaS,PelusoI,ArmaniA,DeStefaniD,VendittiR, inoldmurinebraintissueaswellasinsenescenthumanfibroblasts.
+MontefuscoS,Scotto-RosatoA,PreziosoC,ForresterA(2015)Lysosomal RedoxBiol10:266–273
+calciumsignallingregulatesautophagythroughcalcineurinandTFEB.Nat OttC,KönigJ,HöhnA,JungT,GruneT(2016b)Reducedautophagyleadsto
+CellBiol17:288–299 animpairedferritinturnoverinsenescentfibroblasts.FreeRadicBiolMed
+MejlvangJ,OlsvikH,SvenningS,BruunJ-A,AbuduYP,LarsenKB,BrechA, 101:325–333
+HansenTE,BrenneH,HansenT(2018)Starvationinducesrapid PalmieriM,ImpeyS,KangH,diRonzaA,PelzC,SardielloM,BallabioA
+degradationofselectiveautophagyreceptorsbyendosomal (2011)CharacterizationoftheCLEARnetworkrevealsanintegrated
+microautophagy.JCellBiol217:3640–3655 controlofcellularclearancepathways.HumMolGenet20:3852–3866
+MenonJ,ShanmugamN,SrinivasS,VijM,JalanA,SrinivasReddyM,Rel
+
+Chunk 61:
+B,BrechA, 101:325–333
+HansenTE,BrenneH,HansenT(2018)Starvationinducesrapid PalmieriM,ImpeyS,KangH,diRonzaA,PelzC,SardielloM,BallabioA
+degradationofselectiveautophagyreceptorsbyendosomal (2011)CharacterizationoftheCLEARnetworkrevealsanintegrated
+microautophagy.JCellBiol217:3640–3655 controlofcellularclearancepathways.HumMolGenet20:3852–3866
+MenonJ,ShanmugamN,SrinivasS,VijM,JalanA,SrinivasReddyM,RelaM PalmieriM,PalR,NelvagalHR,LotfiP,StinnettGR,SeymourML,Chaudhury
+(2022)Wolman’sdisease:ararecauseofinfantilecholestasisand A,BajajL,BondarVV,BremnerLetal(2017)mTORC1-independentTFEB
+cirrhosis.JPediatrGenet11:132–134 activationviaAktinhibitionpromotescellularclearancein
+MillerKN,DasguptaN,LiuT,AdamsPD,VizioliMG(2021)Cytoplasmicchromatin neurodegenerativestoragediseases.NatCommun8:14338
+fragments—frommechanismstotherapeuticpotential.Elife10:e63728 PanC,BanerjeeK,LehmannGL,AlmeidaD,HajjarKA,BenedictoI,JiangZ,
+MindellJA(2012)Lysosomalacidificationmechanisms.AnnuRevPhysiol74: RaduRA,ThompsonDH,Rodriguez-BoulanE(2021)Lipofuscincauses
+69–86 atypicalnecroptosisthroughlysosomalmembranepermeabilization.Proc
+MobiniM,RadbakhshS,KubaskiF,EshraghiP,VakiliS,VakiliR,KhaliliM, NatlAcadSciUSA118:e2100122118
+VaresvazirianM,JamialahmadiT,AlamdaranSAetal(2022)Impactof PankivS,AlemuEA,BrechA,BruunJ-A,LamarkT,ØvervatnA,BjørkøyG,
+intravenoustrehaloseadministrationinpatientswithNiemann-Pick JohansenT(2010)FYCO1isaRab7effectorthatbindstoLC3andPI3Pto
+diseasetypesAandB.JClinMed11:247 mediatemicrotubuleplusend–directedvesicletransport.JCellBiol188:
+MolinM,DemirAB(2014)Linkingperoxiredoxinandvacuolar-ATPase 253–269
+functionsincalorierestriction-mediatedlifespanextension.IntJCellBiol PastoresGM,HughesDA(1993)Gaucherdisease.InGeneReviews®,AdamMP,
+2014:1–12 MirzaaGM,PagonRA,WallaceSE,BeanLJH,GrippKW,AmemiyaA(eds).
+MorettiJ,RoyS,BozecD,MartinezJ,ChapmanJR,UeberheideB,Lamming Seattle,WA:UniversityofWashington,Seattle
+DW,ChenZJ,HorngT,YeretssianG(2017)STINGsensesmicrobialviability PechinchaC,GroesslS,KalisR
+
+Chunk 62:
+53–269
+functionsincalorierestriction-mediatedlifespanextension.IntJCellBiol PastoresGM,HughesDA(1993)Gaucherdisease.InGeneReviews®,AdamMP,
+2014:1–12 MirzaaGM,PagonRA,WallaceSE,BeanLJH,GrippKW,AmemiyaA(eds).
+MorettiJ,RoyS,BozecD,MartinezJ,ChapmanJR,UeberheideB,Lamming Seattle,WA:UniversityofWashington,Seattle
+DW,ChenZJ,HorngT,YeretssianG(2017)STINGsensesmicrobialviability PechinchaC,GroesslS,KalisR,deAlmeidaM,ZanottiA,WittmannM,
+toorchestratestress-mediatedautophagyoftheendoplasmicreticulum. SchneiderM,deCamposRP,RieserS,BrandstetterM(2022)Lysosomal
+Cell171:809–823 enzymetraffickingfactorLYSETenablesnutritionalusageofextracellular
+Mun~oz-Esp(cid:2)ınD,SerranoM(2014)Cellularsenescence:fromphysiologyto proteins.Science378:eabn5637
+pathology.NatRevMolCellBiol15:482–496 PengW,MinakakiG,NguyenM,KraincD(2019)Preservinglysosomal
+NakamuraS,ShigeyamaS,MinamiS,ShimaT,AkayamaS,MatsudaT, functionintheagingbrain:insightsfromneurodegeneration.
+EspositoA,NapolitanoG,KumaA,Namba-HamanoT(2020)LC3lipidation Neurotherapeutics16:611–634
+isessentialforTFEBactivationduringthelysosomaldamageresponseto PengW,SchröderLF,SongP,WongYC,KraincD(2023)Parkinregulates
+kidneyinjury.NatCellBiol22:1252–1263 aminoacidhomeostasisatmitochondria-lysosome(M/L)contactsitesin
+NapolitanoG,BallabioA(2016)TFEBataglance.JCellSci129:2475–2481 Parkinson’sdisease.SciAdv9:eadh3347
+NapolitanoG,DiMaltaC,EspositoA,deAraujoMEG,PeceS,BertalotG, PeruchoJ,CasarejosMJ,GomezA,SolanoRM,deY(cid:2)ebenesJG,MenaMA
+MatareseM,BenedettiV,ZampelliA,StasykTetal(2020)Asubstrate- (2012)Trehaloseprotectsfromaggravationofamyloidpathologyinduced
+specificmTORC1pathwayunderliesBirt–Hogg–Dub(cid:2)esyndrome.Nature byisofluraneanesthesiainAPP(swe)mutantmice.CurrAlzheimerRes9:
+585:597–602 334–343
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 17of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+PetersC,BayerMJ,Bu€hlerS,AndersenJS,MannM,MayerA(2001)
+
+Chunk 63:
+specificmTORC1pathwayunderliesBirt–Hogg–Dub(cid:2)esyndrome.Nature byisofluraneanesthesiainAPP(swe)mutantmice.CurrAlzheimerRes9:
+585:597–602 334–343
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 17of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+PetersC,BayerMJ,Bu€hlerS,AndersenJS,MannM,MayerA(2001)Trans- proteomeofsenescentcellscontributestothesenescencesecretome.
+complexformationbyproteolipidchannelsintheterminalphaseof AgingCell21:e13707
+membranefusion.Nature409:581–588 RuckenstuhlC,NetzbergerC,EntfellnerI,Carmona-GutierrezD,KickenweizT,
+PirasA,CollinL,Gru€ningerF,GraffC,Rönnb€ackA(2016)Autophagicand StekovicS,GleixnerC,SchmidC,KlugL,SorgoAG(2014)Lifespan
+lysosomaldefectsinhumantauopathies:analysisofpost-mortembrain extensionbymethioninerestrictionrequiresautophagy-dependent
+frompatientswithfamilialAlzheimerdisease,corticobasaldegeneration vacuolaracidification.PLoSGenet10:e1004347
+andprogressivesupranuclearpalsy.ActaNeuropatholCommun4:22 RusminiP,CorteseK,CrippaV,CristofaniR,CicardiME,FerrariV,VezzoliG,
+PlattFM,d’AzzoA,DavidsonBL,NeufeldEF,TifftCJ(2018)Lysosomalstorage TedescoB,MeroniM,MessiEetal(2019)Trehaloseinducesautophagy
+diseases.NatRevDisPrimers4:27 vialysosomal-mediatedTFEBactivationinmodelsofmotoneuron
+PollmannsMR,BeerJ,RosignolI,Rodriguez-MuelaN,FalkenburgerBH, degeneration.Autophagy15:631–651
+DinterE(2022)ActivatedendolysosomalcationchannelTRPML1facilitates SamieM,WangX,ZhangX,GoschkaA,LiX,ChengX,GreggE,AzarM,Zhuo
+maturationofa-synuclein-containingautophagosomes.FrontCellNeurosci Y,GarrityAGetal(2013)ATRPchannelinthelysosomeregulateslarge
+16:861202 particlephagocytosisviafocalexocytosis.DevCell26:511–524
+PuJ,GuardiaCM,Keren-KaplanT,BonifacinoJS(2016)Mechanismsand SanjuanMA,MilastaS,GreenDR(2009)Toll-likereceptorsignalinginthe
+functionsoflysosomepositioning.JCellSci129:4329–4339 lysosomalpathways.ImmunolRev227:203–220
+PupyshevAB,TikhonovaMA,AkopyanAA,Ten
+
+Chunk 64:
+s.FrontCellNeurosci Y,GarrityAGetal(2013)ATRPchannelinthelysosomeregulateslarge
+16:861202 particlephagocytosisviafocalexocytosis.DevCell26:511–524
+PuJ,GuardiaCM,Keren-KaplanT,BonifacinoJS(2016)Mechanismsand SanjuanMA,MilastaS,GreenDR(2009)Toll-likereceptorsignalinginthe
+functionsoflysosomepositioning.JCellSci129:4329–4339 lysosomalpathways.ImmunolRev227:203–220
+PupyshevAB,TikhonovaMA,AkopyanAA,TenditnikMV,DubrovinaNI, SardielloM,PalmieriM,DiRonzaA,MedinaDL,ValenzaM,GennarinoVA,Di
+KorolenkoTA(2019)Therapeuticactivationofautophagybycombined MaltaC,DonaudyF,EmbrioneV,PolishchukRS(2009)Agenenetwork
+treatmentwithrapamycinandtrehaloseinamouseMPTP-induced regulatinglysosomalbiogenesisandfunction.Science325:473–477
+modelofParkinson’sdisease.PharmacolBiochemBehav177:1–11 SaricA,FreemanSA(2021)Endomembranetensionandtrafficking.FrontCell
+QianH,WuX,DuX,YaoX,ZhaoX,LeeJ,YangH,YanN(2020)Structural DevBiol8:611326
+basisoflow-pH-dependentlysosomalcholesterolegressbyNPC1and SarkarS,DaviesJE,HuangZ,TunnacliffeA,RubinszteinDC(2007)Trehalose,
+NPC2.Cell182:98–111 anovelmTOR-independentautophagyenhancer,acceleratesthe
+QinL,WangZ,TaoL,WangY(2010)ERstressnegativelyregulatesAKT/TSC/ clearanceofmutanthuntingtinandalpha-synuclein.JBiolChem282:
+mTORpathwaytoenhanceautophagy.Autophagy6:239–247 5641–5652
+RabenN,PuertollanoR(2016)TFEBandTFE3:linkinglysosomestocellular SchaefferV,GoedertM(2012)Stimulationofautophagyisneuroprotectivein
+adaptationtostress.AnnuRevCellDevBiol32:255–278 amousemodelofhumantauopathy.Autophagy8:1686–1687
+RadulovicM,SchinkKO,WenzelEM,N€ahseV,BongiovanniA,LafontF, SchmiegeP,FineM,BlobelG,LiX(2017)HumanTRPML1channelstructures
+StenmarkH(2018)ESCRT-mediatedlysosomerepairprecedeslysophagy inopenandclosedconformations.Nature550:366–370
+andpromotescellsurvival.EMBOJ37:e99753 SchulzAM,HaynesCM(2015)UPRmt-mediatedcytoprotectionand
+RadulovicM,WenzelEM,GilaniS,HollandLK,LystadAH,PhuyalS,Olkkonen organismalaging.BiochimBiophysActaBioenerg1847:1448–1456
+VM,BrechA,J€a€attel€aM,MaedaK(202
+
+Chunk 65:
+obelG,LiX(2017)HumanTRPML1channelstructures
+StenmarkH(2018)ESCRT-mediatedlysosomerepairprecedeslysophagy inopenandclosedconformations.Nature550:366–370
+andpromotescellsurvival.EMBOJ37:e99753 SchulzAM,HaynesCM(2015)UPRmt-mediatedcytoprotectionand
+RadulovicM,WenzelEM,GilaniS,HollandLK,LystadAH,PhuyalS,Olkkonen organismalaging.BiochimBiophysActaBioenerg1847:1448–1456
+VM,BrechA,J€a€attel€aM,MaedaK(2022)Cholesteroltransfervia ScottCC,GruenbergJ(2011)Ionfluxandthefunctionofendosomesand
+endoplasmicreticulumcontactsmediateslysosomedamagerepair.EMBO lysosomes:pHisjustthestart:thefluxofionsacrossendosomal
+J41:e112677 membranesinfluencesendosomefunctionnotonlythroughregulationof
+RaiborgC,WenzelEM,PedersenNM,OlsvikH,SchinkKO,SchultzSW,Vietri theluminalpH.Bioessays33:103–110
+M,NisiV,BucciC,BrechAetal(2015)RepeatedER-endosomecontacts ScottoRosatoA,KrogsaeterEK,Ja(cid:2)slanD,AbrahamianC,MontefuscoS,
+promoteendosometranslocationandneuriteoutgrowth.Nature520: SoldatiC,SpixB,PizzoMT,GriecoG,BöckJetal(2022)TPC2rescues
+234–238 lysosomalstorageinmucolipidosistypeIV,Niemann–PicktypeC1,and
+RaoSK,HuynhC,Proux-GillardeauxV,GalliT,AndrewsNW(2004) Battendisease.EMBOMolMed14:e15377
+IdentificationofSNAREsinvolvedinsynaptotagminVII-regulated SenguptaS,PetersonTR,SabatiniDM(2010)RegulationofthemTORcomplex
+lysosomalexocytosis.JBiolChem279:20471–20479 1pathwaybynutrients,growthfactors,andstress.MolCell40:310–322
+RattoE,ChowdhurySR,SiefertNS,SchneiderM,WittmannM,HelmD,Palm SerginI,EvansTD,ZhangX,BhattacharyaS,StokesCJ,SongE,AliS,
+W(2022)DirectcontroloflysosomalcatabolicactivitybymTORC1 DehestaniB,HollowayKB,MicevychPSetal(2017)Exploiting
+throughregulationofV-ATPaseassembly.NatCommun13:4848 macrophageautophagy-lysosomalbiogenesisasatherapyfor
+RichardsCM,JabsS,QiaoW,VaraneseLD,SchweizerM,MosenPR,RileyNM, atherosclerosis.NatCommun8:15750
+Klu€ssendorfM,ZengelJR,FlynnRA(2022)ThehumandiseasegeneLYSET SettembreC,DiMaltaC,PolitoVA,ArencibiaMG,VetriniF,ErdinS,ErdinSU,
+isessentialforlysosomalenzymetransporta
+
+Chunk 66:
+B,MicevychPSetal(2017)Exploiting
+throughregulationofV-ATPaseassembly.NatCommun13:4848 macrophageautophagy-lysosomalbiogenesisasatherapyfor
+RichardsCM,JabsS,QiaoW,VaraneseLD,SchweizerM,MosenPR,RileyNM, atherosclerosis.NatCommun8:15750
+Klu€ssendorfM,ZengelJR,FlynnRA(2022)ThehumandiseasegeneLYSET SettembreC,DiMaltaC,PolitoVA,ArencibiaMG,VetriniF,ErdinS,ErdinSU,
+isessentialforlysosomalenzymetransportandviralinfection.Science HuynhT,MedinaD,ColellaP(2011)TFEBlinksautophagytolysosomal
+378:eabn5648 biogenesis.Science332:1429–1433
+Rivero-R(cid:2)ıosP,WeismanLS(2022)RolesofPIKfyveinmultiplecellular SettembreC,ZoncuR,MedinaDL,VetriniF,ErdinS,ErdinS,HuynhT,Ferron
+pathways.CurrOpinCellBiol76:102086 M,KarsentyG,VellardMC(2012)Alysosome-to-nucleussignalling
+Roczniak-FergusonA,PetitCS,FroehlichF,QianS,KyJ,AngarolaB,Walther mechanismsensesandregulatesthelysosomeviamTORandTFEB.EMBO
+TC,FergusonSM(2012)ThetranscriptionfactorTFEBlinksmTORC1 J31:1095–1108
+signalingtotranscriptionalcontroloflysosomehomeostasis.SciSignal5: SheJ,GuoJ,ChenQ,ZengW,JiangY,BaiX-C(2018)Structuralinsightsinto
+ra42 thevoltageandphospholipidactivationofthemammalianTPC1channel.
+RohK,NohJ,KimY,JangY,KimJ,ChoiH,LeeY,JiM,KangD,KimM-S Nature556:130–134
+(2023)Lysosomalcontrolofsenescenceandinflammationthrough ShenD,WangX,LiX,ZhangX,YaoZ,DibbleS,DongX-P,YuT,Lieberman
+cholesterolpartitioning.NatMetab5:1–16 AP,ShowalterHD(2012)Lipidstoragedisordersblocklysosomaltrafficking
+RoviraM,SeredaR,Pladevall-MoreraD,RamponiV,MarinI,MausM, byinhibitingaTRPchannelandlysosomalcalciumrelease.NatCommun
+Madrigal-MatuteJ,D(cid:2)ıazA,Garc(cid:2)ıaF,Mun~ozJ(2022)Thelysosomal 3:731
+18 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+ShiY,LinS,StaatsKA,LiY,ChangWH,HungST,HendricksE,LinaresGR, ThelenAM,ZoncuR(2017)Emergingrolesforthelysosomeinlipid
+WangY,SonEYetal(2018)Haploinsufficiencyleadsto meta
+
+Chunk 67:
+F,Mun~ozJ(2022)Thelysosomal 3:731
+18 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+JayXiaojunTan&TorenFinkel EMBOreports
+ShiY,LinS,StaatsKA,LiY,ChangWH,HungST,HendricksE,LinaresGR, ThelenAM,ZoncuR(2017)Emergingrolesforthelysosomeinlipid
+WangY,SonEYetal(2018)Haploinsufficiencyleadsto metabolism.TrendsCellBiol27:833–850
+neurodegenerationinC9ORF72ALS/FTDhumaninducedmotorneurons. TolmachovaT,AndersR,StinchcombeJ,BossiG,GriffithsGM,HuxleyC,
+NatMed24:313–325 SeabraMC(2004)AgeneralroleforRab27ainsecretorycells.MolBiol
+ShiraneM,WadaM,MoritaK,HayashiN,KunimatsuR,MatsumotoY, Cell15:332–344
+MatsuzakiF,NakatsumiH,OhtaK,TamuraY(2020)ProtrudinandPDZD8 TongBC-K,WuAJ,HuangAS,DongR,MalampatiS,IyaswamyA,
+contributetoneuronalintegritybypromotinglipidextractionrequiredfor KrishnamoorthiS,SreenivasmurthySG,ZhuZ,SuCetal(2022)Lysosomal
+endosomematuration.NatCommun11:1–19 TPCN(twoporesegmentchannel)inhibitionamelioratesbeta-amyloid
+SikoraE,Bielak-ZmijewskaA,DudkowskaM,KrzystyniakA,MosieniakG, pathologyandmitigatesmemoryimpairmentinAlzheimerdisease.
+WesierskaM,WlodarczykJ(2021)Cellularsenescenceinbrainaging. Autophagy18:624–642
+FrontAgingNeurosci13:646924 TsunemiT,Perez-RoselloT,IshiguroY,YoroisakaA,JeonS,HamadaK,
+SilvestriniMJ,JohnsonJR,KumarAV,ThakurtaTG,BlaisK,NeillZA,Marion RammonhanM,WongYC,XieZ,AkamatsuWetal(2019)Increased
+SW,StAmandV,ReenanRA,LapierreLR(2018)Nuclearexportinhibition lysosomalexocytosisinducedbylysosomalCa2+channelagonistsprotects
+enhancesHLH-30/TFEBactivity,autophagy,andlifespan.CellRep23: humandopaminergicneuronsfroma-synucleintoxicity.JNeurosci39:
+1915–1921 5760–5772
+SimonsJP,Al-ShawiR,MinogueS,WaughMG,WiedemannC,EvangelouS, VaccaF,VossioS,MercierV,MoreauD,JohnsonS,ScottCC,MontoyaJP,
+LoeschA,SihraTS,KingR,WarnerTT(2009)Lossofphosphatidylinositol MoniatteM,GruenbergJ(2019)CyclodextrintriggersMCOLN1-dependent
+4-kinase2aactivitycauseslateonsetdegenerationofsp
+
+Chunk 68:
+y,andlifespan.CellRep23: humandopaminergicneuronsfroma-synucleintoxicity.JNeurosci39:
+1915–1921 5760–5772
+SimonsJP,Al-ShawiR,MinogueS,WaughMG,WiedemannC,EvangelouS, VaccaF,VossioS,MercierV,MoreauD,JohnsonS,ScottCC,MontoyaJP,
+LoeschA,SihraTS,KingR,WarnerTT(2009)Lossofphosphatidylinositol MoniatteM,GruenbergJ(2019)CyclodextrintriggersMCOLN1-dependent
+4-kinase2aactivitycauseslateonsetdegenerationofspinalcordaxons. endo-lysosomesecretioninNiemann-PicktypeCcells.JLipidRes60:
+ProcNatlAcadSciUSA106:11535–11539 832–843
+SinghAK,SinghS,TripathiVK,BissoyiA,GargG,RizviSI(2019)Rapamycin VasanthakumarT,RubinsteinJL(2020)StructureandrolesofV-typeATPases.
+confersneuroprotectionagainstaging-inducedoxidativestress, TrendsBiochemSci45:295–307
+mitochondrialdysfunction,andneurodegenerationinoldratsthrough VerheijenFW,VerbeekE,AulaN,BeerensCE,HavelaarAC,JoosseM,Peltonen
+activationofautophagy.RejuvenationRes22:60–70 L,AulaP,GaljaardH,vanderSpekPJetal(1999)Anewgene,encoding
+SkowyraML,SchlesingerPH,NaismithTV,HansonPI(2018)Triggered ananiontransporter,ismutatedinsialicacidstoragediseases.NatGenet
+recruitmentofESCRTmachinerypromotesendolysosomalrepair.Science 23:462–465
+360:eaar5078 VesseyKA,JoblingAI,TranMX,WangAY,GreferathU,FletcherEL(2022)
+SoaresAC,FerreiraA,Mari€enJ,DelayC,LeeE,TrojanowskiJQ,MoecharsD, Treatmentstargetingautophagyamelioratetheage-relatedmacular
+AnnaertW,DeMuynckL(2021)PIKfyveactivityisrequiredforlysosomal degenerationphenotypeinmicelackingAPOE(apolipoproteinE).
+traffickingoftauaggregatesandtauseeding.JBiolChem296:100636 Autophagy18:2368–2384
+StefanisL(2012)a-SynucleininParkinson’sdisease.ColdSpringHarbPerspect VizioliMG,LiuT,MillerKN,RobertsonNA,GilroyK,LagnadoAB,Perez-Garcia
+Med2:a009399 A,KiourtisC,DasguptaN,LeiX(2020)Mitochondria-to-nucleusretrograde
+SunW,LiY,ChenL,ChenH,YouF,ZhouX,ZhouY,ZhaiZ,ChenD,JiangZ signalingdrivesformationofcytoplasmicchromatinandinflammationin
+(2009)ERIS,anendoplasmicreticulumIFNstimulator,activatesinnate senescence.GenesDev34:428–445
+immunes
+
+Chunk 69:
+’sdisease.ColdSpringHarbPerspect VizioliMG,LiuT,MillerKN,RobertsonNA,GilroyK,LagnadoAB,Perez-Garcia
+Med2:a009399 A,KiourtisC,DasguptaN,LeiX(2020)Mitochondria-to-nucleusretrograde
+SunW,LiY,ChenL,ChenH,YouF,ZhouX,ZhouY,ZhaiZ,ChenD,JiangZ signalingdrivesformationofcytoplasmicchromatinandinflammationin
+(2009)ERIS,anendoplasmicreticulumIFNstimulator,activatesinnate senescence.GenesDev34:428–445
+immunesignalingthroughdimerization.ProcNatlAcadSciUSA106: WanW,QianC,WangQ,LiJ,ZhangH,WangL,PuM,HuangY,HeZ,Zhou
+8653–8658 T(2023)STINGdirectlyrecruitsWIPI2forautophagosomeformation
+SunL,WuJ,DuF,ChenX,ChenZJ(2013)CyclicGMP-AMPsynthaseisa duringSTING-inducedautophagy.EMBOJ42:e112387
+cytosolicDNAsensorthatactivatesthetypeIinterferonpathway.Science WangY,ZhangH(2019)RegulationofautophagybymTORsignaling
+339:786–791 pathway.InAutophagy:BiologyandDiseases:BasicScience,QinZH(ed),pp
+SunN,YunJ,LiuJ,MalideD,LiuC,RoviraII,HolmströmKM,FergussonMM, 67–83.Singapore:Springer
+YooYH,CombsCAetal(2015)Measuringinvivomitophagy.MolCell60: WangX,FanH,YingZ,LiB,WangH,WangG(2010)DegradationofTDP-43
+685–696 anditspathogenicformbyautophagyandtheubiquitin-proteasome
+SunY,LiM,ZhaoD,LiX,YangC,WangX(2020)Lysosomeactivityis system.NeurosciLett469:112–116
+modulatedbymultiplelongevitypathwaysandisimportantforlifespan WangW,GaoQ,YangM,ZhangX,YuL,LawasM,LiX,Bryant-GenevierM,
+extensioninC.elegans.Elife9:e55745 SouthallNT,MaruganJetal(2015)Up-regulationoflysosomalTRPML1
+TabataK,MatsunagaK,SakaneA,SasakiT,NodaT,YoshimoriT(2010) channelsisessentialforlysosomaladaptationtonutrientstarvation.Proc
+RubiconandPLEKHM1negativelyregulatetheendocytic/autophagic NatlAcadSciUSA112:E1373–E1381
+pathwayviaanovelRab7-bindingdomain.MolBiolCell21:4162–4172 WangC,NiederstrasserH,DouglasPM,LinR,JaramilloJ,LiY,OswaldNW,
+TakaiH,SmogorzewskaA,deLangeT(2003)DNAdamagefociat ZhouA,McMillanEA,MendirattaS(2017)Small-moleculeTFEBpathway
+dysfunctionaltelomeres.CurrBiol13:1549–1556 agoniststhatamelioratemetabolicsyndromeinmiceandextendC.
+TanJX,Finke
+
+Chunk 70:
+tetheendocytic/autophagic NatlAcadSciUSA112:E1373–E1381
+pathwayviaanovelRab7-bindingdomain.MolBiolCell21:4162–4172 WangC,NiederstrasserH,DouglasPM,LinR,JaramilloJ,LiY,OswaldNW,
+TakaiH,SmogorzewskaA,deLangeT(2003)DNAdamagefociat ZhouA,McMillanEA,MendirattaS(2017)Small-moleculeTFEBpathway
+dysfunctionaltelomeres.CurrBiol13:1549–1556 agoniststhatamelioratemetabolicsyndromeinmiceandextendC.
+TanJX,FinkelT(2022)Aphosphoinositidesignallingpathwaymediatesrapid eleganslifespan.NatCommun8:2270
+lysosomalrepair.Nature609:815–821 WangF,Go(cid:2)mez-SintesR,BoyaP(2018)Lysosomalmembrane
+TanX,SunL,ChenJ,ChenZJ(2018)Detectionofmicrobialinfections permeabilizationandcelldeath.Traffic19:918–931
+throughinnateimmunesensingofnucleicacids.AnnuRevMicrobiol72: WangL,WuD,RobinsonCV,WuH,FuT-M(2020a)Structuresofacomplete
+447–478 humanV-ATPaserevealmechanismsofitsassembly.MolCell80:
+TanciniB,BurattaS,DeloF,SaginiK,ChiaradiaE,PellegrinoRM,EmilianiC, 501–511
+UrbanelliL(2020)Lysosomalexocytosis:theextracellularroleofan WangR,LongT,HassanA,WangJ,SunY,XieX-S,LiX(2020b)Cryo-EM
+intracellularorganelle.Membranes10:406 structuresofintactV-ATPasefrombovinebrain.NatCommun11:3921
+(cid:2)2023TheAuthors EMBOreports 24:e57265|2023 19of20
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+EMBOreports JayXiaojunTan&TorenFinkel
+WangH,KaruppanMKM,DevadossD,NairM,ChandHS,LakshmanaMK ofthev-ATPase,formingacontrolmoduleforcellularhomeostasiswith
+(2021)TFEBproteinexpressionisreducedinagedbrainsandits v-ATPaseandTORC1.JCellSci128:2938–2950
+overexpressionmitigatessenescence-associatedbiomarkersandmemory ZhangC-S,HawleySA,ZongY,LiM,WangZ,GrayA,MaT,CuiJ,FengJ-W,
+deficitsinmice.NeurobiolAging106:26–36 ZhuMetal(2017)Fructose-1,6-bisphosphateandaldolasemediate
+WangL,KlionskyDJ,ShenH-M(2023)Theemergingmechanismsand glucosesensingbyAMPK.Nature548:112–116
+functionsofmicroautophagy.NatRevMolCellBiol24:186–203 ZhangH,AlsalehG,FelthamJ,SunY,NapolitanoG,RiffelmacherT,CharlesP,
+Wong
+
+Chunk 71:
+ociatedbiomarkersandmemory ZhangC-S,HawleySA,ZongY,LiM,WangZ,GrayA,MaT,CuiJ,FengJ-W,
+deficitsinmice.NeurobiolAging106:26–36 ZhuMetal(2017)Fructose-1,6-bisphosphateandaldolasemediate
+WangL,KlionskyDJ,ShenH-M(2023)Theemergingmechanismsand glucosesensingbyAMPK.Nature548:112–116
+functionsofmicroautophagy.NatRevMolCellBiol24:186–203 ZhangH,AlsalehG,FelthamJ,SunY,NapolitanoG,RiffelmacherT,CharlesP,
+WongSQ,KumarAV,MillsJ,LapierreLR(2020)Autophagyinagingand FrauL,HublitzP,YuZ(2019)PolyaminescontroleIF5Ahypusination,
+longevity.HumGenet139:277–290 TFEBtranslation,andautophagytoreverseBcellsenescence.MolCell76:
+WuJ,SunL,ChenX,DuF,ShiH,ChenC,ChenZJ(2013)CyclicGMP-AMPis 110–125
+anendogenoussecondmessengerininnateimmunesignalingby ZhangW,YangX,LiY,YuL,ZhangB,ZhangJ,ChoWJ,VenkataranganV,
+cytosolicDNA.Science339:826–830 ChenL,BurugulaBB(2022)GCAF(TMEM251)regulateslysosome
+XuY,DuS,MarshJA,HorieK,SatoC,BallabioA,KarchCM,HoltzmanDM, biogenesisbyactivatingthemannose-6-phosphatepathway.NatCommun
+ZhengH(2021)TFEBregulateslysosomalexocytosisoftauanditslossof 13:5351
+functionexacerbatestaupathologyandspreading.MolPsychiatry26: ZhangJ,ZengW,HanY,LeeW-R,LiouJ,JiangY(2023)LysosomalLAMP
+5925–5939 proteinsregulatelysosomalpHbydirectinhibitionoftheTMEM175
+YadavalliN,FergusonSM(2023)LRRK2suppresseslysosomedegradative channel.MolCell83:2524–2539
+activityinmacrophagesandmicrogliathroughMiT-TFEtranscription ZhaoK,RidgwayND(2017)Oxysterol-bindingprotein-relatedprotein1L
+factorinhibition.ProcNatlAcadSciUSA120:e2303789120 regulatescholesterolegressfromtheendo-lysosomalsystem.CellRep19:
+YangH,TanJX(2023)Lysosomalqualitycontrol:molecularmechanismsand 1807–1818
+therapeuticimplications.TrendsCellBiol33:749–764 ZhaoJ,WuH,TangX-Q(2021)Tauinternalization:acomplexstepintau
+YangH,WangH,RenJ,ChenQ,ChenZJ(2017)cGASisessentialforcellular propagation.AgeingResRev67:101272
+senescence.ProcNatlAcadSciUSA114:E4612–E4620 ZhengG,ZhanY,LiX,PanZ,ZhengF,ZhangZ,ZhouY,WuY,WangX,Gao
+YangC,SuC,IyaswamyA,KrishnamoorthiSK,ZhuZ,Ya
+
+Chunk 72:
+alqualitycontrol:molecularmechanismsand 1807–1818
+therapeuticimplications.TrendsCellBiol33:749–764 ZhaoJ,WuH,TangX-Q(2021)Tauinternalization:acomplexstepintau
+YangH,WangH,RenJ,ChenQ,ChenZJ(2017)cGASisessentialforcellular propagation.AgeingResRev67:101272
+senescence.ProcNatlAcadSciUSA114:E4612–E4620 ZhengG,ZhanY,LiX,PanZ,ZhengF,ZhangZ,ZhouY,WuY,WangX,Gao
+YangC,SuC,IyaswamyA,KrishnamoorthiSK,ZhuZ,YangS,TongBC,LiuJ, W(2018)TFEB,apotentialtherapeutictargetforosteoarthritisvia
+SreenivasmurthySG,GuanXetal(2022)Celastrolenhancestranscription autophagyregulation.CellDeathDis9:858
+factorEB(TFEB)-mediatedautophagyandmitigatesTaupathology: ZhengG,PanZ,ZhanY,TangQ,ZhengF,ZhouY,WuY,ZhouY,ChenD,
+implicationsforAlzheimer’sdiseasetherapy.ActaPharmSinB12:1707–1722 ChenJetal(2019)TFEBprotectsnucleuspulposuscellsagainstapoptosis
+YimWW-Y,MizushimaN(2020)Lysosomebiologyinautophagy.CellDiscov andsenescenceviarestoringautophagicflux.OsteoarthrCartil27:
+6:6 347–357
+YoonL,BothamRC,VerhelleA,Sanz-MartinezP,XuJ,ColeCM,TanEP,Chou ZhengQ,ChenY,ChenD,ZhaoH,FengY,MengQ,ZhaoY,ZhangH(2022a)
+CC,CuocoCA,MasseyLAetal(2022)mTORinhibitor-independent CalciumtransientsontheERsurfacetriggerliquid-liquidphase
+autophagyactivatoramelioratestauopathyandprionopathy separationofFIP200tospecifyautophagosomeinitiationsites.Cell185:
+neurodegenerationphenotypes.bioRxivhttps://doi.org/10.1101/2022.09.29. 4082–4098
+509997[PREPRINT] Zheng W, Shen C, Wang L, Rawson S, Xie WJ, Nist-Lund C, Wu J, Shen Z,
+YunJ,FinkelT(2014)Mitohormesis.CellMetab19:757–766 Xia S, Holt JR (2022b) pH regulates potassium conductance and
+ZhangC,CuervoAM(2008)Restorationofchaperone-mediatedautophagyin drives a constitutive proton current in human TMEM175. Sci Adv 8:
+agingliverimprovescellularmaintenanceandhepaticfunction.NatMed eabm1568
+14:959–965 ZhongB,YangY,LiS,WangY-Y,LiY,DiaoF,LeiC,HeX,ZhangL,TienP
+ZhangX,ChenS,SongL,TangY,ShenY,JiaL,LeW(2014)MTOR- (2008)TheadaptorproteinMITAlinksvirus-sensingreceptorstoIRF3
+independent,autophagicenhancertr
+
+Chunk 73:
+M(2008)Restorationofchaperone-mediatedautophagyin drives a constitutive proton current in human TMEM175. Sci Adv 8:
+agingliverimprovescellularmaintenanceandhepaticfunction.NatMed eabm1568
+14:959–965 ZhongB,YangY,LiS,WangY-Y,LiY,DiaoF,LeiC,HeX,ZhangL,TienP
+ZhangX,ChenS,SongL,TangY,ShenY,JiaL,LeW(2014)MTOR- (2008)TheadaptorproteinMITAlinksvirus-sensingreceptorstoIRF3
+independent,autophagicenhancertrehaloseprolongsmotorneuron transcriptionfactoractivation.Immunity29:538–550
+survivalandamelioratestheautophagicfluxdefectinamousemodelof ZlotorynskiE(2019)Telomerecrisisactivatesautophagicdeath.NatRevMol
+amyotrophiclateralsclerosis.Autophagy10:588–602 CellBiol20:133
+ZhangT,ZhouQ,OgmundsdottirMH,MöllerK,SiddawayR,LarueL,Hsing ZoncuR,PereraRM(2022)Builttolast:lysosomeremodelingandrepairin
+M,KongSW,GodingCR,PalssonAetal(2015)Mitfisamasterregulator healthanddisease.TrendsCellBiol32:597–610
+20 of 20 EMBOreports 24:e57265|2023 (cid:2)2023TheAuthors
+Downloaded
+from
+https://www.embopress.org
+on
+March
+10,
+2025
+from
+IP
+83.146.196.126.
+
+---PAGE BREAK---
+
+
+

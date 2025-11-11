@@ -1,0 +1,2594 @@
+ANRV378-BI78-33 ARI 5May2009 15:3
+Biological and Chemical
+Approaches to Diseases
+of Proteostasis Deficiency
+Evan T. Powers,1 Richard I. Morimoto,3
+Andrew Dillin,4 Jeffery W. Kelly,1
+and William E. Balch2
+1DepartmentsofChemistryandMolecularandExperimentalMedicineandtheSkaggs
+InstituteforChemicalBiology,2DepartmentsofCellBiologyandChemicalPhysiology
+andtheInstituteforChildhoodandNeglectedDiseases,TheScrippsResearchInstitute,
+LaJolla,California92037;email:epowers@scripps.edu,jkelly@scripps.edu,
+webalch@scripps.edu
+3DepartmentofBiochemistry,MolecularBiology,andCellBiology,RiceInstitutefor
+BiomedicalResearch,NorthwesternUniversity,Evanston,Illinois60208–3500;
+email:r-morimoto@northwestern.edu
+4TheHowardHughesMedicalInstituteandMolecularandCellBiologyLaboratory,
+TheSalkInstituteforBiologicalStudies,LaJolla,California92037;email:dillin@salk.edu
+Annu.Rev.Biochem.2009.78:959–91 KeyWords
+FirstpublishedonlineasaReviewinAdvanceon aging,amyloid,chaperones,heatshockresponse,proteinfoldingand
+March19,2009
+misfolding,unfoldedproteinresponse
+TheAnnualReviewofBiochemistryisonlineat
+biochem.annualreviews.org Abstract
+Thisarticle’sdoi: Manydiseasesappeartobecausedbythemisregulationofproteinmain-
+10.1146/annurev.biochem.052308.114844 tenance.Suchdiseasesofproteinhomeostasis,or“proteostasis,”include
+Copyright(cid:2)c 2009byAnnualReviews. loss-of-functiondiseases(cysticfibrosis)andgain-of-toxic-functiondis-
+Allrightsreserved eases(Alzheimer’s,Parkinson’s,andHuntington’sdisease).Proteostasis
+0066-4154/09/0707-0959$20.00 ismaintainedbytheproteostasisnetwork,whichcomprisespathways
+thatcontrolproteinsynthesis,folding,trafficking,aggregation,disag-
+gregation, and degradation. The decreased ability of the proteosta-
+sis network to cope with inherited misfolding-prone proteins, aging,
+and/or metabolic/environmental stress appears to trigger or exacer-
+bateproteostasisdiseases.Herein,wereviewrecentevidencesupport-
+ingtheprinciplethatproteostasisisinfluencedbothbyanadjustable
+proteostasisnetworkcapacityandproteinfoldingenergetics,whichto-
+gether determine the balance between folding efficiency, misfolding,
+proteindegradation,andaggregation.Wereviewhowsmallmolecules
+canenhanceproteostasisbybindingtoandstabilizingspecificproteins
+(pharmacologicchaperones)orbyincreasingtheproteostasisnetwork
+capacity (proteostasis regulators). We propose that such therapeutic
+strategies,includingcombinationtherapies,representanewapproach
+fortreatingarangeofdiversehumanmaladies.
+959
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+maintainedandultimatelyturnedoverisama-
+Contents jorchallenge.Weneedtounderstandhowthe
+cellinterpretsproteinenergeticsandinfluences
+INTRODUCTION.................. 960
+proteinfoldinginbothhumanhealthanddis-
+PROTEINFOLDINGINVITRO... 961
+ease.Unlikeproteinfoldinginthetesttube,a
+BIOLOGICALLYASSISTED
+proteininaeukaryoticcellmustfoldandfunc-
+PROTEINFOLDING............ 963
+tion in a crowded environment, as well as in
+THEPROTEOSTASIS
+a variety of distinct environments defined by
+NETWORK...................... 963
+thecell’scompartmentalizedorganization,e.g.,
+INTEGRATINGFOLDING
+thecytoplasm,exocyticandendocyticcompart-
+ENERGETICSWITHTHE
+ments,themitochondria,thenucleus,andthe
+PROTEOSTASISNETWORK
+extracellularspace.Moreover,proteinsaresub-
+CAPACITY....................... 966
+jecttoextensivechangesinstructureastheycy-
+THEPROTEOSTASIS
+clebetweeninactiveandactiveconformations
+BOUNDARY..................... 967
+inresponsetoposttranslationalmodification(s)
+PROGRAMMINGTHE
+and/or as they engage in the protein-protein
+PROTEOSTASISBOUNDARY... 969
+interactionsthatenabletheirbiology.
+FOLDINGDISEASESANDTHE
+Proteins face many challenges to normal
+PROTEOSTASISBOUNDARY... 971
+folding,refolding,andfunctionowingtoacon-
+THEPROTEOSTASISBOUNDARY
+stantbarrageofphysical,metabolic,andenvi-
+ANDPHARMACOLOGIC
+ronmental stresses. These include changes in
+CHAPERONES................... 973
+the concentration and composition of small-
+MOVINGTHEPROTEOSTASIS
+molecule metabolites that strongly influence
+BOUNDARYWITH
+foldingbybinding-inducedmodulationofpro-
+PROTEOSTASIS
+tein stability, changes in the concentration
+REGULATORS................... 975
+of osmolytes that influence protein stability
+THEPROTEOSTASIS
+throughmodulatingthehydrophobiceffectand
+NETWORKINAGING.......... 979
+hydrogenbonding,changesintemperaturethat
+OBESITYANDTHE
+influence energetics, and changes in the con-
+PROTEOSTASISNETWORK.... 979
+centration of reactive oxygen species (ROS)
+CANCERANDTHE
+or oxidized small molecules that result from
+PROTEOSTASISNETWORK.... 980
+reactions with ROS that alter the structure
+AGE-RELATEDDEGENERATIVE
+and function of proteins by aberrantly mod-
+DISEASESAND
+ifying them. These modifications can dena-
+PROTEOSTASIS................. 982
+ture the folded protein to render it inactive
+THEFUTUREOF
+and/ortriggerfoldedornativelyunstructured
+PHARMACOLOGIC
+proteinstoaggregateandbecometoxictothe
+MODULATIONOF
+cell.
+PROTEOSTASIS................. 983
+We now recognize that the chemical and
+energetic properties specified by the amino
+acidsequenceofeachpolypeptide(theprimary
+structure)encodedbythegenome,whilevery
+INTRODUCTION
+importantinpartiallydeterminingthefolding
+Understanding how the unfolded ensemble energylandscape,areonlypartofhowproteins
+of polypeptides resulting from the process of evolve biological function. Numerous macro-
+translation arrives at their native structure(s) molecular assistants exist in cells to influence
+for function and how these structures are the folding of the proteome. There is also an
+960 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+intrinsicallyunstructuredproteomethat,owing theproteostasisnetwork,thereisabreakdown
+to the sequences of its components, probably inbiology.Loss-of-proteinfunctionorgain-of-
+never adopts a permanent three-dimensional toxicfunction(thelatteroftenbeingassociated
+structure but likely requires macromolecular withaggregation)cantriggerdiseasebyinter-
+assistance to prevent aggregation and pro- fering with cell function (2–4). The multiple
+mote function. In the case of the folded roles of the proteostasis network in maintain-
+proteome, such assistance controls the rate of ingtheproteomeand,therefore,normalphys-
+protein synthesis; influences the rate of fold- iologyinresponsetochallengesduringdevel-
+ing of the proteome; effects membrane traf- opment,aging,andstressareonlybeginningto
+ficking patterns responsible for compartmen- beappreciated(1).
+tallocalization,whichinfluencesstability;and To understand the operation of the pro-
+mitigates aggregation and mediates degrada- teostasis network in health and disease, we
+tion,enablingproteinturnover.Thesecompet- present a hypothesis about biologically as-
+ingbiologicalpathwayscomprisinghundredsof sisted folding that integrates folding energet-
+componentsmakeuptheproteostasis(protein ics.Throughmathematicalmodeling,wherein
+homeostasis)network(1). folding energetics and proteostasis network
+The proteostasis network and its pathways componentcompositionandconcentrationare
+arecontrolledbynumerousintegratedsignal- variables,weproposeaframeworkforhowthe
+ingpathways.Thesesignalingpathways,asub- proteostasisnetworkinterpretsandinfluences
+set of which are stress responsive, including protein folding energetics to control the effi-
+thosethatrespondtomisfoldingproteins,op- ciencyoffolding.Weintroducethenotionof
+timizethecapacityoftheproteostasisnetwork aminimal“proteostasisboundary,”thatis,the
+to maintain protein function. This occurs by folding energetics required to achieve folding
+moreefficientlyfoldingthenativelyfoldedpro- ofaproteinatagivenproteostasisnetworkca-
+teome and maintaining the natively unstruc- pacity. Using modeling approaches, we illus-
+tured proteome in a nonaggregated state in trate that, although the proteostasis network
+responsetochallengesfromtheinheritedpro- can make up for deficiencies in folding ener-
+teome (e.g., mutated misfolding-prone pro- getics and is thus remarkably adaptable, there
+teins), somatic mutations that result in loss of arelimitssetbythefoldingenergetics.Webuild
+functionordisruptionofproteostasiscapacity ontheproteostasisboundaryhypothesistoil-
+(e.g., due to misfolding or aggregation), and lustratewhatcangowronginproteostasisdis-
+the environment (including oxidative stress). eases. We review the demonstrated biological
+The proteostasis network is present in all ex- andchemicalstrategiestoameliorateloss-and
+tant life and is therefore ancient. It necessar- gain-of-functionmisfoldingmaladiesbyadjust-
+ily coevolved with the remarkable diversity of ingthestabilityofthefoldorthecapacityofthe
+polypeptidesequencestoenabletheevolution proteostasisnetwork,orboth,leadingustopro-
+ofawidevarietyoforganisms,byexpandingthe poseaviewofhowenhancedproteomemain-
+capacityofproteinstofunctioninincreasingly tenance can be used to ameliorate numerous
+complexcellularandsubcellularenvironments, diseases of complex etiology facing humanity
+andtoperformincreasinglyspecializedcellular inthetwenty-firstcentury.
+tasks.
+Whenaproteinfailstofoldproperlyowing
+PROTEINFOLDINGINVITRO
+toanalterationinitssequence(e.g.,amutation
+or an aberrant posttranslational modification Thechallengesassociatedwithtransforminga
+causedbyoxidativestress),and/orpossiblyasa largely unordered ensemble of conformations
+consequenceofachangeintheconcentration, resultingfromtranslation(theunfoldedstate)
+and/or the composition of the components of into a few closely related three-dimensional
+www.annualreviews.org • DiseasesofProteostasisDeficiency 961
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+b
+In vitro protein folding In vivo protein folding: the effect of
+the proteostasis network
+Conformational
+coordinate #1
+U
+Conformational
+coordinate
+#2
+Conformational
+coordinate #1
+U
+Conformational
+coordinate
+#2
+M U U
+M
+F F
+M
+U U
+Energy
+High
+Low
+Energy
+a
+Figure1
+Thefoldingenergylandscapeforahypotheticalpolypeptide.ThemajorconformationalensemblesarelabeledU(unfoldedstate),M
+(misfoldedstate),andF(foldedstate).(a)Agivenenergylandscapeinvitro.(b)Thesameenergylandscapeinvivoinfluencedbythe
+proteostasisnetwork,whichisenvisionedtominimizetheaggregated/misfoldedpopulation,therebyimprovingfoldingefficiency.
+structuresthatenablefunction(thefoldedstate) temperature (8). Even largely unordered con-
+isasancientaslifeitself.Initssimplestform,it formerscanhavehydrophobicclustersand/or
+canbedescribedbythefundamentalprinciples groupsofelectrostaticinteractionsthatrestrict
+putforwardbyAnfinsen(5)thatthenativeor theavailablepathwaysagivenproteincanuse
+folded state of a protein is the most thermo- to get to the folded state ensemble (9). Fold-
+dynamically stable structural ensemble—one ing transition states are often associated with
+thatisdeterminedbytheaminoacidsequence theformationofreverseturnsorhydrophobic
+and the solution conditions. A contemporary clustersthatactaskinetic“gatekeepers”inac-
+view of the energetic component of protein quisitionofthefoldedstate(8,10).
+folding is illustrated by folding energy land- We now appreciate that the folded state is
+scapes(Figure1)(6).Here,theunfoldedstate, notsimplythesnapshotobtainedbyX-raycrys-
+represented by the high-entropy state at the tallography;rather,thefoldedstateisadynamic
+top of the funnel, folds by multiple parallel ensembleofcloselyrelatedconformers.Theex-
+pathwaysandsometimesdetectableintermedi- treme extension of this concept is the realiza-
+atestoachieveitsmostthermodynamicallysta- tion that a fraction of the human proteome is
+ble(lowestenergy)ensembleofcloselyrelated intrinsically disordered and that this high de-
+structures,thenativelyfoldedstate. gree of flexibility enables interactions (some-
+Although there are many energetically timesfacilitatedbyposttranslationalmodifica-
+accessible paths down the folding funnel tions)withmultiplepartners(11).Althoughthe
+(Figure 1) (7), some with local energy min- rulesdirectingthephysicalchemistryofprotein
+ima that could trap the protein in partially foldingremaintobefullyelucidated,rapidad-
+folded, misfolded, and/or aggregated states vancesinthisareanowallowustopredictwith
+(Figure 1a), the chemistry and energetics of increasingaccuracythefoldsofsmallproteins
+the polypeptide chain impose constraints that (<100 kDa) based solely on the chemical and
+limitthenumberofpathwaysthatareactually physical properties of the polypeptide chain
+usedinagivenaqueoussolventandatagiven (8,12).
+962 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+BIOLOGICALLYASSISTED Finally,proteinshavedistinctturnoverrates
+PROTEINFOLDING thatareintegratedwithfunction,andthisfine-
+tuning can become defective, contributing to
+Although small, single-domain proteins fold
+disease. Protein turnover rates are generally
+withamazingspeedandefficiencyatlowcon-
+linked to the life span of the cell, suggesting
+centrations in aqueous buffers, achieving and
+thatthisisanadaptablefeatureofbiologically
+maintaining the folds of larger, multidomain
+assistedfolding.
+solubleormembraneproteinsisfarmorechal-
+lenging, if not impossible in vitro. The fold-
+THEPROTEOSTASISNETWORK
+ing of soluble and membrane-associated mul-
+tidomainproteinsisalsochallenginginvivo,as Itisthejobofthecellularproteostasisnetwork
+highlightedbelow. toenablecellularproteinfoldingandfunction
+The rate of folding in a cell is affected by in the face of all of the challenges discussed
+the highly regulated rate of translation and, above.Theproteostasisnetworkconsistsofnu-
+therefore, by several factors including the merousbiologicalpathways.Themacromolec-
+composition of the translation components, ular components of these pathways comprise
+including aminoacyl tRNA pools. Cellular over1000generalandspecializedchaperones,
+folding kinetics are also affected by both foldingenzymes,anddegradationcomponents
+synonymous(singlenucleotidepolymorphisms aswellastraffickingcomponents,thelatterin-
+thatalterthenucleicacidbutnottheaminoacid fluencingcompartmentallocalization.Control
+sequence) and nonsynonymous (nonsense and oftheproteostasisnetworkisaccomplishedby
+missensemutationsthatchangetheaminoacid signaling pathways that directly regulate the
+sequence)substitutionsinthegenomethatalter concentration,distribution,andactivitiesofthe
+therateoftranslationand,inthecaseofthelat- componentsthatmakeuptheproteostasisnet-
+ter,thesequenceofthenascentchain(13,14). work and, therefore, the relative activities of
+Theenvironmentofthecellisverycrowded thebiologicalpathwaysinthenetwork(17,18)
+(15)and,therefore,hashighproteinconcentra- (Figure2).
+tions that promote aggregation. Cellular pro- The folding function of the proteostasis
+teinaggregationisassociatedwithproteotoxi- network is accomplished by smoothing the
+cityandmustbeminimized,especiallyduring energylandscapeofproteins(Figure1b)using
+chemical, physical, and metabolic stress. The chaperonesandfoldingenzymeswhichbindto
+cellularfoldingofmultidomainproteinsisgen- intermediatesandtransitionstates,respectively.
+erallyslowandinvolvessignificantpopulations Chaperonespromotefoldingandmaintenance
+offoldingintermediates.Thisisespeciallytrue within the cell largely by minimizing mis-
+for transmembrane proteins that must fold in folding and aggregation, and chaperones are
+thecontextofmultiplelocalenvironments:the specialized for various compartments of the
+lipid bilayer for the transmembrane domains cell. Different cells have varying proteostasis
+andtheaqueousenvironmentforthelumenal capacitiesreflectedinthecompositionandcon-
+andcytoplasmicdomains(16). centrations of their proteostasis components,
+Proteinfolding,unfolding,andrefoldingare presumblytohandlethedifferentfoldingchal-
+constantlyoccuringthroughoutthelifetimeof lengesthatariseinresponsetodifferentiation
+nearlyallproteins.Thus,thefoldishighlydy- duringdevelopment.Cytosolicchaperonesin-
+namic and must be protected as it proceeds cludetheribosome-associatedchaperones,the
+throughrapidchangesinconformation,simply Hsp40/Hsp70 and Hsp90 chaperone systems,
+asaconsequenceofitsfoldingequilibriumor andthechaperonins,suchasTRiC,thatfacil-
+in response to posttranslational modifications itate folding by encapsulation (19–21). There
+and/or interactions with a variety of protein are analogous Hsp40/Hsp70/Hsp90 cognate
+partnersrequiredforitsfunction(11). chaperonesfoundintheendoplasmicreticulum
+www.annualreviews.org • DiseasesofProteostasisDeficiency 963
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+Figure2
+Managingproteostasis.Illustratedarethelayersofinteractionsthatfacilitatethefunctionoftheproteostasis
+networktogenerateandmaintainfunctionalproteins.Theproteostasisnetworkiscomposedofthe
+componentsoutlinedinthefirstlayer(inredfont),includingtheribosome,chaperones,aggregases,and
+disaggregasesthatdirectfolding,aswellaspathwaysthatselectproteinsfordegradation[e.g.,the
+ubiquitin-proteasomesystem(UPS),endoplasmicreticulum(ER)-associateddegradation(ERAD)systems,
+proteases,autophagicpathways,lysosomal/endosomaltargetingpathways,andphagocyticpathways,the
+latterareresponsiblefortherecognition,uptake,anddegradationofextracellularproteins].Thesecond
+layerincludessignalingpathways(ingreenfont)thatinfluencetheactivityofcomponentsfoundinthefirst
+layer.Thethirdlayer(inbluefont)includesgeneticandepigeneticpathways,physiologicstressors,and
+intracellularmetabolitesthataffecttheactivitiesdefinedbythesecondandfirstlayers.
+(ER), as well as a number of compartment- foldingofagivenproteinoragroupofrelated
+specificfoldingspecialists(22,23).Chaperones proteins exist, including, for example, Hsp47
+collaborate with folding enzymes, including for collagen (25) and microsomal triglyceride
+redoxenzymesthatpromoteoxidativefolding transfer protein (MTP) for apolipoprotein
+(disulfide bond formation) in the ER (24) B-containing chylomicron particles (26). On
+and peptidyl-prolyl isomerases that catalyze the basis of our current understanding, chap-
+cis-transamidebondisomerizationsinprotein eronesarebestthoughtofasmacromolecules
+folding. Many chaperones specializing in the that bind to exposed hydrophobic surfaces in
+964 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+misfolded or aggregated states and, in a nu- tionoftheproteostasisnetworkthroughtran-
+cleotidehydrolysis-dependentfashion,change scriptional,translational,andposttranslational
+conformationsaffordingthepreviouslybound mechanismstobalanceorrebalanceproteosta-
+protein another opportunity to fold (27–29). sisbyreducingdemand,enhancingfoldingand
+Chaperones and folding enzymes facilitate repairprocessessuchasdisaggregation,and/or
+the folding of multidomain proteins, likely by mediating degradation. When proteostasis
+through transient sequestration of folding isseverelycompromised,ascanoccurinsome
+intermediates, enabling putatively well- early-andlate-onsetgeneticdiseasesassociated
+choreographedeventsthatwouldotherwisebe withtheinheritanceofamisfolding-pronepro-
+difficulttoachieveonabiologicaltimescalein tein, unsuccessful signaling attempts to rebal-
+the complex environment of the cell. Strong ance proteostasis can activate cell death path-
+evidenceforanextracellularchaperonesystem ways,targetingthecellfordestruction(34–36).
+iscurrentlylacking,althoughitisconceivable In multicellular organisms, proteostasis path-
+thattheimmunesystemrecognizesandclears wayscanbeundercell-nonautonomousglobal
+misfoldedextracellularproteinsinthecontext controlbyneuronalandpossiblynonneuronal
+oftheproteostasisprogram.Numerousfactors signalingpathways(42,43).
+influence the properties of the proteostasis Theproteostasisnetworkisnotonlyhighly
+network including changes in cellular ATP adaptable, as discussed above (enabled by the
+levels, amino acid pools, metabolites, lipid influence of multiple stress-responsive signal-
+homeostasis, and ion balance. These not only ingpathways),butitalsocanbequitedistinct
+alterfoldingcapacity,butalsomodulatetheac- in each cell type; see Figure 3 and Supple-
+tivityofanumberofotherproteostasisnetwork mental Figure 1 (follow the Supplemental
+pathways such as degradative pathways, in- MateriallinkfromtheAnnualReviewshome
+cluding ubiquitin-based proteasome-mediated pageathttp://www.annualreviews.org)(44).
+pathways, and lysosomal and autophagic traf- Thisisnotsurprisinggiventhecentralroleof
+ficking pathways (Figure 2) that are integral proteinsincellphysiologyandthediversityof
+tomaintenanceofproteostasis(30–33). function(s)indistinctcellsentrainedbydevel-
+Signaling pathways that regulate protein opmental pathways. The response to diversi-
+synthesis,folding,trafficking,aggregation,dis- ficationincludesproteostasisnetworkcompo-
+aggregation, and degradative pathways of the nentsthatareconservedthroughoutevolution
+proteostasisnetworkinclude:theunfoldedpro- (42)andthosethatarespecialized(25,26),re-
+tein response (UPR), which principally influ- flecting the many different proteostasis chal-
+ences ER folding capacity (34–36); the heat lenges.Forexample,hepatocytes,plasmacells,
+shock response (HSR), which balances pro- and β-cells must produce high levels of dis-
+teostasis capacity with demand in the cytosol tinctsecretedproteins,whereasafibroblasthas
+(17, 37); pathways that influence subcellular less secretory activity and, therefore, a less-
+Ca2+ concentrations, such as ER Ca2+ con- specialized ER proteostasis network capacity.
+centrations, which can increase the ability of Indeed, the compositional complexity of the
+thecelltohandlethefoldingofN-linkedgly- proteostasisnetworkscaleswiththecomplexity
+coproteins in the ER (about one third of the oftheorganism,consistentwiththehypothe-
+human proteome) via Ca2+-sensitive folding sisthattheproteostasisnetworkinfluencesthe
+chaperones(calnexin,calreticulin,andBiP)(38, evolutionofproteinsequences.Inotherwords,
+39); inflammatory responses, which regulate aprotein’sabilitytoachieveitsfunctionalstate
+cell defense and death pathways (40, 41); and (which,inpart,directsphenotypicselection)is
+histone deacetylase (HDAC) pathways, which dependentontheproteostasisnetwork.Thus,
+may integrate proteostasis capacity through we suggest that any effort to understand pro-
+epigenetic pathways (Figure 2). Such signal- tein folding, and therefore protein function,
+ingcircuitscontrolthecapacityandcomposi- in vivo will ultimately need to consider the
+www.annualreviews.org • DiseasesofProteostasisDeficiency 965
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+Complete image Expression profiles
+Grouped
+proteostasis
+network
+components
+Zoomed section of image
+Figure3
+Expressionprofilingofhumanproteostasisnetworkcomponentsin80humantissues(44).Hierarchicalclusteringwasusedtogroup
+proteostasisnetworkcomponents(y-axisonright)onbasisofthesimilarityoftheirexpressionprofilesacrossthe80-tissuearray(x-axis
+ontop).Adendrogramisprovidedwherelengthsofthebranchesleadinguptoeachnodedirectlyreflectthedegreeofcorrelation
+betweentheexpressionprofilesasassessedbythepair-wisesimilarityfunctiondescribedpreviously(171).Toseethehigh-resolution
+imagethatcanbezoomedtoidentifytheindividualcomponentsandtissuesseeSupplementalFigure1.Theheatmapillustrates
+abundanceashigher(red)orlower(green)relativetothemean(black)valueacrossalltissues.
+interdependenceoffoldingenergeticsandthe (Figure 1a), it does not directly illustrate the
+proteostasis network (1, 8, 12). The degree criticalinterplaybetweentheenergeticsofthe
+towhichtheproteostasisnetworkbiasesfold- protein(definedbythedynamicsofthepopula-
+abilityandfunctionremainstobedetermined, tionsoftheunfolded,intermediate,andfolded
+but it is clear that many, if not most, pro- states)andthebiologyoffolding.Qualitatively,
+teinscannotfoldwithoutassistancewithinthe weknowthatchaperonesandfoldingenzymes
+cell. bind to folding intermediates and transition
+states,resculptingthefoldingfree-energyland-
+scape(Figure1b).Whileuseful,itdoesnotin-
+INTEGRATINGFOLDING
+formusonhowtheproteostasisnetworkmain-
+ENERGETICSWITHTHE
+tainsproteostasis.
+PROTEOSTASISNETWORK
+One semiquantitative approach toward
+CAPACITY
+understandingtheinterdependenceofprotein
+Althoughtheenergylandscapeviewofprotein folding energetics and biological folding
+folding is a useful framework for interpreting influencedbyproteostasisnetworkcapacityhas
+experimentalfoldingstudiescarriedoutinvitro been developed using mathematical modeling
+966 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+(45,46).Specifically,wehavemodeledaspects network to generate and maintain the folded
+of the proteostasis network to show how dif- state of a protein in the ER for export. Con-
+ferent levels of proteostasis network capacity sequently, whether a protein is exported effi-
+handle the folding and trafficking of proteins ciently enough for it to function depends on
+intheexocyticpathwayasafunctionofkinetic both protein folding energetics and the pro-
+and thermodynamic parameters. The FoldEx teostasisnetworkcapacity.Althoughsimplified,
+model (46) describes how the inherent ener- the Michaelis-Menten treatment of these in-
+geticsofthepolypeptidechainareinterpreted teractions revealed that there is no single pa-
+byandtheninfluencedbytheproteostasisnet- rameter, such as the thermodynamic stabil-
+workwithintheER,acompartmentthatplaysa ity, the folding rate, or the misfolding rate,
+centralroleinthebiogenesisandexportofpro- that determines whether a given protein will
+teinstomultiplecellularcompartmentsandthe fold, traffic, and generate sufficient activity in
+cell surface (Figure 4a). In this model, trans- its destination environment to enable func-
+lation, chaperoning, export, and degradation tion.Thus,theFoldExmodelprovidesauseful
+pathways were each treated as single entities, theoreticalframeworkthatsemi-quantitatively
+using a Michaelis-Menten kinetic formalism recapitulates experimental data to rationalize
+generallyreservedforstudyingenzymekinetics the general operation of the exocytic path-
+(Figure 4a). The mathematical modeling en- way in the context of folding energetics and
+abled us to predict how distinct secretory the adjustable proteostasis network capacity
+protein energetics can be influenced by dif- (46).
+fering proteostasis network activities. The
+FoldEx model revealed that the energetics
+THEPROTEOSTASISBOUNDARY
+of the polypeptide chain and the capacity of
+individualpathwaysoftheproteostasisnetwork Thebasicunderstandingofthefunctionofthe
+togetherdeterminetheextenttowhichadesta- ERrevealedbytheFoldExmodelshouldalsobe
+bilizedproteinwillfoldandbeexportedorbe usefulforunderstandingtheinterplaybetween
+degraded (Figure 4a) (46). Importantly, this thechemistryandthebiologyofproteinfold-
+model can qualitatively fit experimental data, inginothercellularcompartments,eachwith
+suggestingthat,evenwithitssimplifications,it distinctenvironmentsandproteostasisnetwork
+isabletorationalizeandpredictexperimental compositionandcapacity.Othercellularcom-
+observations. The FoldEx model was used to partmentsincludethemanypost-ERexocytic
+definea“minimalexportthreshold,”abound- and endocytic trafficking compartments, the
+ary in the three-dimensional space defined by cytoplasm,themitochondria,andthenucleus.
+protein stability, folding rate, and misfolding The concept of the minimal export threshold
+rate. The location of this boundary depends from the FoldEx model should be extendable
+on the proteostasis network capacity, i.e., the tocoveranysituationinwhichproteinfolding
+concentrationandactivitiesofthetranslation, energetics and the proteostasis network com-
+chaperoning,export,anddegradationpathways binetodeterminewhetheraproteincanachieve
+of the proteostasis network and the protein adequatelevelsoffoldingforfunction.Were-
+folding and misfolding energetics. Proteins fer to this more general mathematical model
+with energetics within the export threshold as Folding for the Function of protein x or
+at a defined proteostasis network capacity are FoldFx (Figure 4b). FoldFx, like FoldEx, en-
+exportedatlevelssufficientforfunction;those ablestheinterdependenceoffoldingenergetics
+withenergeticsoutsidetheboundaryarenot. andtheproteostasisnetworkcapacitytobevi-
+We want to emphasize that the position sualized.AsinFoldEx,wetreatthetranslation
+of the minimal export threshold, defined by machinery(TinFigure4b),chaperones(Cin
+the variables in the FoldEx model, is strongly Figure 4b) and degradation pathways (D in
+influenced by the capacity of the proteostasis Figure4b)assingleentities.Theexportprocess
+www.annualreviews.org • DiseasesofProteostasisDeficiency 967
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+T
+E E
+T
+F EF
+TU Export
+C E
+1
+T C
+1
+TUC CU CU U R R 1 1 2 RU
+ERAF R ERAD
+C 1 C 1 R R
+M RM
+R
+Export
+Degradation
+Minimal export
+threshold
+FoldEx
+T: Sec61 translocon R: Retrotranslocation machinery
+C1: Chaperone in high-affinity state U: Unfolded protein
+C2: Chaperone in low-affinity state F: Folded (export-competent) protein
+E: Export machinery M: Misfolded protein
+T
+T
+F
+TU Function
+C 1
+T Chaperoning C
+1
+D D
+TUC1 C
+1
+U C
+2
+U U
+DU
+D
+C 1 C 1 D D
+M DM
+Degradation
+D
+Function
+Degradation
+a
+Fast
+Folding
+rate
+Slow
+Fast
+Misfolding rate
+Slow
+Unstable
+Stability
+Stable
+b
+Proteostasis
+boundary Fast
+FoldFx Folding
+rate
+Slow
+Fast
+Misfolding
+rate
+Slow
+Unstable
+Stability
+T: Translation machinery D: Degradation machinery Stable
+C1: Chaperone in high-affinity state U: Unfolded protein
+C2: Chaperone in low-affinity state F: Folded, function protein
+M: Misfolded protein
+Figure4
+Modelsforproteostasis.(a)(left)TheFoldExmodelforproteinfoldingandexportfromtheendoplasmicreticulum(ER)(46).The
+modelincludesER-assistedfolding(ERAF),ER-associateddegradation(ERAD),andexport.(right)Aplotshowingtheminimalexport
+thresholdasasurfaceinaspacedefinedbyproteinthermodynamicstability,foldingkinetics,andmisfoldingkinetics.Proteinswith
+foldingenergeticswithintheboundaryareexportedefficientlyenoughtoensureadequatefunctionintheirdestinationenvironment
+(46).(b)(left)TheFoldFxmodelforproteinfoldingandfunction.FoldFxislargelyanalogoustoFoldEx,exceptthattheexportstepis
+replacedsimplybyproteinfunction,anditisnotlimitedtodescribingproteinfoldinginasinglecellularcompartment.(right)Aplot
+similartotheoneinpanela,exceptthatitshowstheproteostasisboundaryinsteadoftheminimalexportthreshold.Proteinswith
+foldingenergeticsthatliewithintheproteostasisboundaryfoldefficientlyenoughtoensureadequatelevelsoffunction.
+in FoldEx (Figure 4a) is replaced in the view, translation, chaperones, and degradative
+FoldFxmodelwithfunction(FinFigure4b), pathways are the factors that determine the
+which now simply reflects the generation of levels of functional protein by interpreting
+a functional protein. Thus, in the FoldFx and influencing folding energetics. Signaling
+968 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+pathways (e.g., UPR, HSR, Ca2+, etc.) that couldbedifferentforproteinsthatutilizeadif-
+control the composition and concentration of ferentsetofproteostasisnetworkcomponents,
+proteostasis components through transcrip- allelsebeingconstant.ExpandingtheFoldFx
+tional and posttranslational modifications are model to encompass the actual complexity of
+accommodatedinthissimplifiedviewbyvirtue distinctgroupsofproteinswouldcertainlyadd
+of the adjustable concentrations of the pro- muchneededdetail.However,webelievethat
+teostasisnetworkcomponents(T,C,andDin itisnotnecessarytocreatemultipleproteosta-
+Figure4b)(46). sisboundariesforindividualorgroupsofpro-
+Like the minimal export threshold used to teinscomprisingtheproteomeofanorganism
+understand the joint role of folding energet- in order to illustrate how the model can help
+ics and the proteostasis network capacity in us understand the role of folding energetics
+the exocytic pathway in the FoldEx model andproteostasisnetworkcapacityinhealthand
+(Figure4a)(46),thecombinedroleofenerget- disease, and the pharmacologic management
+icsandtheproteostasisnetworkinfoldingef- thereof.
+ficiencyinothercompartmentsisbestviewed
+in terms of a minimal proteostasis boundary,
+PROGRAMMINGTHE
+which we refer to simply as the proteostasis
+PROTEOSTASISBOUNDARY
+boundary(Figure4b).Theproteostasisbound-
+arydefinesthefoldingenergeticsthataprotein InFigure5,theutilityoftheFoldFxmodelisil-
+musthavetoachieveadequatelevelsoffunction lustratedwithahypotheticalbiologicalnetwork
+in the context of a given proteostasis network of interacting proteins of a proteome. A bio-
+capacityinagivencell.Liketheminimalexport logicalnetworkisdefinedbynodesorproteins
+threshold in FoldEx, the proteostasis bound- (indicatedbyspheres)andedgesorproteinin-
+ary is best illustrated as a boundary in three- teractionswithinthenetwork(indicatedbythe
+dimensional space, defined by protein folding linesbetweenthespheres).Asetofhypotheti-
+thermodynamics(fromunstabletostable—the calnodesispositionedinFigure5accordingto
+x-axis),foldingkinetics(fromslowtofast—the thecorrespondingproteins’foldingenergetics:
+y-axis) and misfolding kinetics (from slow to their stabilities, folding rates, and misfolding
+fast—the z-axis), a convention used through- rates at a given proteostasis network capac-
+outthisreview(Figure4b).Liketheminimal ity.Theenergeticparametersforthenodesin
+exportthreshold,thelocationandshapeofthe Figure5 were randomly generated with the
+proteostasis boundary is highly dependent on constraintthattheybephysicallyplausible(e.g.,
+boththecompositionandconcentrationofpro- itwasassumedthatfoldingcouldnottakeplace
+teostasisnetworkcomponents. onatimescalefasterthan1μs).Theproteosta-
+FoldFxsimplifies,withratherbroadstrokes, sisboundarywasdeterminedbyarbitrarilyset-
+theinterdependenceoffoldingenergeticsand tingtheconcentrationsoftheproteostasisnet-
+proteostasis network capacity in generating a workcomponentstoreasonablevalues(46)and
+populationofproteinxthatisfoldedandfunc- solvingtheFoldFxmodel(mathematicallyanal-
+tional. Of course, the composition of the var- ogoustotheFoldExmodel).Thissolutionwas
+ious proteostasis networks, dictating the posi- then used to determine which region of the
+tionoftheproteostasisboundary,isexpectedto space, defined by the protein stability, fold-
+bedifferentforeachofthedifferentcompart- ing rate, and misfolding rate, yielded a more
+ments in a cell (e.g., ER, cytosol, mitochon- thanminimalfractionoffunctionalprotein(this
+dria,nucleus,etc.),reflectingtheirspecialized fractionwassetto0.1forFigure5).Thepro-
+functions. Moreover, we envision that a spe- teostasisboundaryisthesurfacethatsurrounds
+cificproteinwouldonlyrequireasubsetofthe thisregion.
+proteostasis network components, which in Inahealthycell,nodesarepositionedwithin
+turn suggests that the proteostasis boundary thelimitsdefinedbytheproteostasisboundary
+www.annualreviews.org • DiseasesofProteostasisDeficiency 969
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+a b Aggregation
+Fast Fast
+Folding
+Folding rate
+rate Loss of function
+Slow Slow
+Fast Fast
+Misfolding Misfolding
+rate rate
+Slow Slow
+Unstable Unstable
+Stability Stability
+Stable Stable
+Figure5
+AhypotheticalnetworkofinteractingproteinsasviewedintheFoldFxmodel.Eachnode(orsphere)inthe
+networkrepresentsacorrespondingprotein’sfoldingenergetics,andeachconnection(line)representsa
+physicalorfunctionalinteraction.Thesurfacerepresentsaproteostasisboundary,which,forthesakeof
+simplicity,isshownasbeingthesameforalloftheproteinsinthenetwork.(a)Allofthenodesarewithinthe
+proteostasisboundaryinahealthycell.(b)Mutationsoraberrantposttranslationalmodificationscanalter
+thefoldingenergeticsofstableproteins,makingtheircorrespondingnodesfalloutsidetheproteostasis
+boundary.Thiscanleadtoeitherlossoffunction(rednode)oraggregation(blacknode).
+(Figure5a,greennodes).Somenodesfallwell that influence the shape of the proteostasis
+within the proteostasis boundary, indicating boundary.
+that they are fast folding and thermodynam- IntheFoldFxview,thepositionandshape
+ically stable proteins. These proteins may not oftheproteostasisboundarysuggeststhatmany
+requiresignificantbiologicalassistanceandwill sequences that are competent to fold in vitro
+likelytoleratemajorchangestothecapacityof (in buffer at low protein concentration) may
+theproteostasisnetwork.Incontrast,lesssta- notbeusefulforfunctioninvivo,ashasbeen
+ble, slowly folding, and/or rapidly misfolding observed for many mutant proteins and pro-
+proteins are closer to the proteostasis bound- tein fragments, especially if a relatively high
+ary,andtheirabilitytoachievebiologicalfunc- concentration of protein is required for func-
+tionisthuslikelytobemuchmoresensitiveto tionasitwouldexacerbateaggregation(45).Al-
+proteostasisnetworkcapacity. thoughtheactualdistributionofnodesdefining
+Whenthefoldingenergeticsofagivenpro- abiologicalnetworkrelativetotheproteosta-
+tein are adversely affected by mutation or by sis boundary is influenced by both the fold-
+oxidative stress (e.g., a lipid aldehyde modi- ingenergeticsandthebiologyofthenetwork,
+fication), it is reasonable to hypothesize that we suggest that proteins that are marginally
+theproteinofinterestwouldmoveoutsidethe stable and lie on or close to the proteostasis
+limitsdefinedbyproteostasisboundary.Inthis boundarymayparticipateinthereversibleas-
+case,theproteincanbepronetoeitherdegra- semblyofdynamicproteincomplexes(11,47).
+dation (Figure 5b, red node) or aggregation Moreover,giventhehighvariabilityofthepro-
+(Figure 5b, black node). Of particular inter- teostasisnetworkcapacityindifferentcelltypes
+est are those proteins lying close to or at the (Figure3),housekeepingenzymesthatarecrit-
+proteostasis boundary. We propose that these icalforallcellsmaybelargelyinsensitivetothe
+proteins will be particularly sensitive to mod- shapeoftheproteostasisboundarybecausethey
+est changes in the capacity and composition areenergeticallystableandfalldeepwithinits
+ofthecomponentsoftheproteostasisnetwork embrace(48).
+970 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+The apparent plasticity of the proteostasis adjustingtheenergeticsoftheproteinfold,the
+boundaryillustrateshowcriticaltheproteosta- capacityoftheproteostasisnetwork,orboth.
+sisnetworkistoproteinfoldingefficiencyand Thefirstquestionweneedtoaskis:When
+alsotothelifeofacell.Thishypothesisiscon- is a protein misfolded from a functional
+sistent with recent evidence that suggests the perspective? Here, we must consider the
+proteostasis network does not possess signifi- stability of the fold and proteostasis network
+cant excess capacity; rather, it is finely tuned capacity in light of the shape and position of
+and offers just enough capacity for the pro- theproteostasisboundarythatwillberequired
+teinfoldingload(17,49,50).Althoughatfirst for activity. Thus, we would suggest that a
+glanceconfounding,thisisconsistentwiththe keyconcerninhumanhealthishowthelocal
+keyroleoftheproteostasisnetworkindefining environment, a mutation, or a posttransla-
+functionalityindiversecellularenvironments. tional modification alters a protein’s ability to
+Thus,bysettingtheproteostasisboundaryasa functioninabiologicalnetworkdefinedbythe
+thresholdforgeneratingfoldedandfunctional proteostasisboundary.
+proteins, the proteostasis network can create Ininheriteddiseasesassociatedwithafold-
+andmaintainfunctionalproteinsinresponseto ingdeficiency,itiswellestablishedthatachange
+thelocalenvironment. in the amino acid sequence of a protein can
+Of course, the chaperone and folding en- significantlyalterfoldingenergeticsand,there-
+zymecomponentsthatcontributetotheloca- fore,thepositionoftheproteinrelativetothe
+tionandshapeoftheproteostasisboundaryare proteostasis boundary. For conservative mis-
+themselvespartofthebiologicalnetwork.We sensemutations,thesubstitutionmaybeneu-
+expectthattheywouldgenerallyliewellwithin tral. In other words, it has little influence on
+theproteostasisboundaryandwouldactashubs folding kinetics or thermodynamics. In this
+(highlyconnectednodesinthebiologicalnet- case,itwouldhavelittleeffectonfunctionun-
+work) that have numerous, but weak, interac- lessiteliminatesacatalysis-criticalorbinding-
+tionswithmultipleproteinsthatcanbealtered critical residue. A less conservative missense
+in response to stress. As such, they have been mutationoranaminoaciddeletionoftenalters
+suggested to promote stability of the biologi- thekineticsorthethermodynamicsoffolding.
+calnetwork,buffernoise,andregulatesignal- Suchamutationcouldmoveaproteinoutside
+ing pathways that would otherwise spuriously theproteostasisboundary,whereitmaybecome
+modifythenetwork(seeReference51forfur- susceptibletosubstantialmisfolding,aggrega-
+therdetails). tion,and/ordegradation.Theeffectofthepro-
+teinbeingexcessivelydegradedcouldleadsim-
+plytolossofthatprotein’sfunction,inwhich
+caseonlyonenodeinthenetworkwouldbeaf-
+FOLDINGDISEASESANDTHE
+fected(Figure6a,rednode).Theeffectcould
+PROTEOSTASISBOUNDARY
+also be more far reaching if, for example, the
+Unlike in vitro assessment(s) of folding and proteinwasinvolvedininteractionsthatstabi-
+function, biology needs to distinguish patho- lizedotherproteins.Inthelattercase,someor
+logical disorder from functional disorder en- alloftheotherproteinswithwhichthemutant
+coded in the polypeptide sequence. It is not proteininteractsmaynowfalloutsidethepro-
+yetunderstoodhowthisisaccomplished.The teostasis boundary in response to destabiliza-
+FoldFx model and the proposed concept of a tion (Figure 6b, multiple red nodes), further
+proteostasisboundaryprovideaframeworkto compromisingcellororganismfunction.
+assess the impact of folding defects on pro- Alterations in the composition or concen-
+teostasis.Theseideasallowustobetterunder- tration of proteostasis network components
+standnewpharmacologicapproachesformain- in disease could have a global effect on the
+taininghealthandcounteringdiseasebyeither folding of the proteome, depending on how
+www.annualreviews.org • DiseasesofProteostasisDeficiency 971
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+Destabilized
+a b
+mutant,
+loss of function
+Folding Folding
+Slow rate Slow rate
+Fast Fast
+Fast Fast
+Interaction
+partners
+destabilized
+Misfolding Misfolding
+rate rate
+Original
+mutant
+Slow Slow
+Stable Unstable Stable Unstable
+Stability Stability
+Figure6
+Plotsillustratingtheeffectofadestabilizingmutationonproteinfunction.(a)Thedestabilizedproteinfallsoutsidetheproteostasis
+boundaryandisdegraded,butthelossoffunctionislimitedtothedestabilizedproteinitself.(b)Asinpanela,degradationofthe
+originalmutantdestabilizestheproteinsitinteractswith,leadingtofurtherlossoffunctionandmultiplenodesbeingrepositioned
+outsidetheproteostasisboundary.
+many proteins are close to the proteostasis normalactivitythatisusedtocontrolavariety
+boundaryinagivencelltype.Wepredictthat of activities, including cell cycle and develop-
+adeclineinthecapacityofacoreproteostasis mental programs, or removal of misfolded or
+networkcomponent,suchasHsp70,Hsp90,or aggregated toxic proteins. Thus, decreasing
+proteasome subunits, could have far-reaching degradation could, in principle, increase the
+and toxic effects. In contrast, we posit the concentration of folded, functional protein;
+sphereofinfluenceofdisruptingmorespecific alternatively,itcouldalsoincreasetheconcen-
+components (e.g., Hsp90 cochaperones, such trationofmisfolded,toxicspecies.Conversely,
+as immunophilin isoforms) will be restricted increasingtheactivityofdegradationpathways
+to those proteins whose folding pathways could promote removal of toxic, pathology-
+depend specifically on the activity of those associated misfolded and aggregated protein,
+components. This interpretation is consistent butitcouldalsoleadtoglobaldestabilizationof
+with the considerable expansion of cochap- thebiologicalnetworkbyoverzealousremoval
+erone complexity with increasing eukaryotic ofoneormoreproteins,whichareclosetothe
+cell complexity. If folding capacity, as defined proteostasisboundaryowingtotheirsequences
+by the proteostasis boundary, is increased butarecriticalfornormalfunctionandsurvival.
+by overexpressing proteostasis network core GiventheFoldFxview,wenowneedtocon-
+or accessory chaperone/cochaperone com- siderthepossibilitythattheclinicalfeaturesof
+ponents (as occurs normally but transiently, manyinheritedandsporadicdiseases,aswellas
+for example, in the UPR and HSR), the new responses to stress encountered during aging,
+proteostasisnetworkislikelytobeprotective, areconsequencesofchangesintheproteosta-
+asisobservedinstressresponses(34–36).We sisnetwork(1).Wesuggestthatsuchchanges
+propose that manipulating degradative activ- in the proteostasis network with aging and
+ities (e.g., ubiquitin-mediated proteasomal, thecorrespondingchangesintheshapeofthe
+lysosomal, and autophagy pathways) is poten- proteostasis boundary, although variable for
+tially a double-edged sword. Degradation is a different compartments and cell types, alter
+972 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+the ability of a cell to handle its proteostasis pharmacologicchaperones(PCs),whichmove
+load.Thus,weproposethatpharmacologicup- thenodebystabilizingthedestabilizedprotein
+or downregulation of the capacity of the pro- of interest, and proteostasis regulators (PRs),
+teostasisnetworkprovidesanavenueforinter- whichexpandtheproteostasisboundarytosur-
+ventionindiseasesofproteostasis,asdiscussed roundtheborderlineproteinbyenhancingthe
+below,wherewesummarizetheincreasingev- capacityoftheproteostasisnetwork.
+idencethatsupportsthishypothesis. Small-moleculePCsfunctionbybindingto
+the destabilized target protein and thus sta-
+bilizing it. PCs, in general, should be effica-
+THEPROTEOSTASISBOUNDARY
+cious within the context of most, but not all,
+ANDPHARMACOLOGIC
+existing proteostasis networks depending on
+CHAPERONES
+howdestabilizedthemetastableproteinis.For
+The primary challenge in ameliorating loss- many misfolding-prone proteins, PCs should
+of-function misfolding diseases is to identify be able to move the protein within the pro-
+small-molecule pharmacologic agents that se- teostasisboundary,therebyincreasingfunction
+lectivelyorspecificallyenhanceproteinstabil- byelevatingtheconcentrationoffoldedfunc-
+ity and function. One could envision moving tionalprotein.Inprinciple,therearethreeways
+a node from outside the proteostasis bound- tocorrectamisfoldingdiseasewithPCs:The
+arytoinsidebystabilizingtheborderlinepro- misfolding-prone protein can be thermody-
+teinorbyexpandingtheproteostasisnetwork namicallystabilized(Figure7a,pointismoved
+capacity and thus expanding the proteostasis alongthestabilityaxis);orthefoldingratecan
+boundary to envelop the destabilized protein, be increased by a PC that stabilizes the fold-
+i.e., the problematic node. Herein, we focus ingtransitionstate(Figure7a,pointismoved
+on two classes of small molecules that are along the folding rate axis); or the misfolding
+becoming increasingly recognized in the lit- rate can be decreased by stabilizing the na-
+erature and that can accomplish these goals: tivestate(Figure7a,pointismovedalongthe
+a b
+Folding
+Slow rate
+Fast
+Increase
+Fast
+folding rate Fast
+Decrease Increase
+misfolding rate stability
+Misfolding
+rate
+Misfolding
+Pharmacologic
+rate
+chaperone
+stabilizes
+Unstable Slow mutant
+Fast
+Stability
+Folding Slow
+Stable Slow rate Stable Unstable
+Stability
+Figure7
+TheeffectofpharmacologicchaperonesonproteinfoldingintheFoldFxmodel.(a)Pharmacologicchaperonesbindtoaprotein,
+directlyaffectingitsfoldingenergetics.Thisbindingcanhelprescueaproteinwithdefectivefoldingenergeticsbyincreasingitsfolding
+rate,decreasingitsmisfoldingrate,increasingitsstability,oranycombinationthereof.(b)Increasingproteinstability,illustratedinthis
+rotatedplot,isthemechanismofactionofmostknownpharmacologicchaperones.
+www.annualreviews.org • DiseasesofProteostasisDeficiency 973
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+misfolding rate axis). To date, only the first The use of PCs is on firm mechanistic
+andthirdmechanismshavebeendemonstrated ground and is particularly promising for the
+experimentally,althoughthepotentialremains treatmentofLSDs,includingFabry’s,Pombe’s,
+forotherclassesofPCstobedeveloped. Tay-Sachs, and Gaucher’s diseases (54, 55,
+Known classes of mutant proteins that can 64). Several PCs that bind to and demonstra-
+becorrectedbyPCsincludeGprotein–coupled bly stabilize the mutant lysosomal enyzmes
+receptors(52),neurotransmitterreceptors(53), susceptible to excessive degradation are in
+glycosidases,andanalogousenzymesassociated various phases of clinical trials for different
+with lysosomal storage diseases (LSDs) (54– LSDs. LSDs are largely loss-of-function dis-
+56), and, potentially, the cystic fibrosis trans- eases caused by the excessive ER-associated
+membraneconductanceregulator(CFTR)(57, degradation of destabilized variant lysosomal
+58). In cystic fibrosis, the (cid:2)F508 deletion in enzymes. The resulting loss of function leads
+CFTRdisruptsitsfoldingandtargetsthepro- tosubstrateaccumulationinthelysosomeand,
+tein for degradation in the ER. Putative PCs hence,pathology.Likethe(cid:2)F508CFTRvari-
+that act on the CFTR include polyaromatic ant,mostmisfolding-proneLSD-relatedvari-
+compounds (59) that have been shown to sta- antproteinsdonottriggertheUPRbecausethe
+bilize the transmembrane helices (60) in or- proteinsareremovedbyER-associateddegra-
+dertostabilizeCFTRforexportfromtheER. dation,leavingtheproteostasisnetworkunper-
+Thisactivitywouldbevisualizedintermsofthe turbed. However, it is now appreciated that
+FoldFxmodelasshowninFigure7b,inwhicha numerous ligands, many of which are in-
+rednode(representingaloss-of-functionmu- hibitors,thatbindtotheactivesitesofspecific
+tant protein) that lies outside the proteostasis destabilized lysosomal enzymes stabilize their
+boundaryismovedinsidethebarrierbyther- foldsintheER(Figure7b).Stabilizationofβ-
+modynamicstabilizationofthe(cid:2)F508CFTR glucocerebrosidase variants leads to enhanced
+fold.AsecondclassofPCs,referredtoaspo- foldingandtraffickingoftheproteintothelyso-
+tentiators,cannotstabilizethefoldsufficiently somewhereitismorestableandfunctional(al-
+forexportfromtheERbut,onceCFTRisat beitwithreducedspecificactivity)owingtothe
+the cell surface, will promote stabilization of lowerpHofthisorganellerelativetotheneu-
+thechannelandtherebyincreaseconductance, tral pH/environment of the ER and the high
+perhapsthroughdecreaseddegradationand/or concentrationofsubstrate(55,65,66).Asmen-
+allostericmechanismsfavoringinteractionwith tioned above, it is expected and observed that
+regulatory kinases and phosphatases (61, 62). not all β-glucocerebrosidase variants respond
+TheVertex770potentiatorhasjustcompleted toPCtherapy.Highlydestabilizedmutantsof
+highly successful phase II clinical trials where theenzymearedegradedsoefficientlythatthe
+amarkedrecoveryinsweatchloride,nasalpo- concentration of folded enzyme available for
+tential,andlungcapacitywasobservedforthe PCbindingissimplytoolowforaPCtohave
+G551ECFTRvariantthatisexportedfromthe anobservableeffectonthefoldingequilibrium
+ERnormallybutisinactiveatthecellsurface constants.Destabilizedglucocerebrosidasemu-
+(http://www.cff.org/). It has been suggested tants require a different approach to improve
+thatacombinationofacorrectorPC,topro- theirexportfromtheERanddownstreamfunc-
+motefoldingandexport,andapotentiatorPC, tion,whichinvolvesincreasingproteostasisnet-
+toenhanceactivityofthepartiallydestabilized workcapacity(seebelow).
+channel,couldbethekeytoeffectivelytreating A special class of PCs has proven to be
+cystic fibrosis patients (63). Similarly, numer- useful for stabilizing proteins against mis-
+ous antagonists and agonists for ion channels folding and amyloid fibril formation in de-
+andneurotransmitterreceptorsthataffecttheir generative diseases by differentially stabiliz-
+functionmaydosopartlybyfunctioningasPCs ing the non-amyloidogenic native state over
+tofavoralteredfoldingandtrafficking. themisfoldingtransitionstate.Theseso-called
+974 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+kineticstabilizersfunctionbysignificantlyde- ing cellular Ca2+ distribution changes (68) or
+creasing the misfolding rate. Two chemical byinducingtheUPRorHSRsignalingpath-
+classes of kinetic stabilizers are currently be- ways (34–36), all of which are known to in-
+ingusedinhumanclinicaltrialstoameliorate crease proteostasis network capacity (see be-
+the transthyretin (TTR) amyloidoses (66, 67; low).Aselectiveexpansionoftheproteostasis
+http://www.clinicaltrials.gov). TTR is syn- boundarycouldalsobeachievedbyPRsthatdi-
+thesized as a monomer and tetramerizes be- rectlytargetoneorafewofthediverseHsp40
+foreERexport.Mutationsthatdestabilizethe isoforms that modulate the folding of specific
+tetramerresultinitsdisassemblytomonomers misfolding-proneproteins.Insteadofinducing
+intheserum.Thesemonomerscanpartiallyun- the UPR or HSR, the Hsp70 or Hsp 90 core
+fold and undergo amyloid formation at a rate systemscouldbemoreselectivelyalteredbytar-
+thatincreaseswithincreasingTTRmonomer getingoneorafewofthemanycochaperones
+concentration.Kineticstabilizers(66,67)bind thatdifferentiallyregulateinteractionswithde-
+toTTRtetramers,preventingdissociationun- sired misfolding-prone proteins. We propose
+derphysiologicalconditions,therebydecreas- thatinthiswayPRscouldfunctionasrheostats
+ing the monomer pool in the serum, substan- tofine-tunetheproteostasisboundaryinapar-
+tiallyslowingand,insomescenarios,prevent- ticularcompartmentinthecellwithrespectto
+ing protein aggregation. Thus, TTR kinetic asubsetofproteins.
+stabilizersshowhowgain-of-toxicfunctioncan PRs could also potentially be used to pre-
+beavoidedbyaspecialclassofPCsthatkinet- conditiontheproteostasisnetworktomoreef-
+ically stabilize the native non-amyloidogenic fectively handle metabolic stress (69) and ag-
+stateofproteins. ingbyincreasingtheprotectivecapacityofthe
+proteostasis network prior to an insult. Gen-
+erallyspeaking,PRscouldbeusedtoupregu-
+MOVINGTHEPROTEOSTASIS
+lateapathwaywithintheproteostasisnetwork
+BOUNDARYWITH
+toincreaseproteostasiscapacity,justasthecell
+PROTEOSTASISREGULATORS
+normally uses transient proteostasis signaling
+Proteostasis regulators (PRs) include small pathwayssuchastheUPRandHSRtorespond
+molecules that offer the advantage that one tostressandreestablishproteostasis.Belowwe
+compoundcanbeusedtoexpandtheproteosta- brieflyhighlightthepotentialutilityofafewof
+sis boundary for numerous misfolding-prone thecompoundsinthegrowingPRtoolbox.
+proteins that use a common set of proteosta- Thedrugsalubrinal(70)usesaspectsofone
+sisnetworkcomponentsassociatedwithapar- armoftheUPRtoprotectcellsagainstprotein
+ticular cell type, compartment, or activity (1). misfolding stress. Phosphorylation of eukary-
+PRs can favor folding by adjusting the com- oticinitiationfactor2(eIF2)isaccomplishedby
+position,concentration,and,thus,thecapacity atleastfourkinases,includingtheUPRkinase
+of the proteostasis network by expanding the PERKinresponsetounfoldedproteinaccumu-
+proteostasis boundary (Figure 8). We specu- lationintheER(35,36).PhosphorylatedeIF2
+latethatPRscouldalsobediscoveredthatcol- protects cells by blocking translation, thereby
+lapsetheproteostasisboundarybyupregulating reducingthefoldingload.Salubrinalactivates
+componentsoftheproteostasisnetworkthatfa- thePERK-ATF4armoftheUPRdownstream
+vorunfoldinganddegradation(Figure 8),al- of PERK by inhibiting dephosphorylation of
+thoughweareunawareofanysuchcompounds. eIF2,therebyeasingthefoldingloadandavoid-
+In general, we hypothesize that the pro- ingtheapoptosisthatistypicallyassociatedwith
+teostasis boundary could be expanded by sustainedactivationofthePERK-AFT4armof
+changing the levels and/or activities of core theUPR(70,71).
+(Hsp70/Hsp90)proteostasisnetworkpathways. PRs that activate the HSR include trip-
+Expansion can occur, for example, by induc- tolide, quercetin, and celastrol, all heat shock
+www.annualreviews.org • DiseasesofProteostasisDeficiency 975
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+a
+PR favoring
+Folding Fast degradation
+rate (constricts PB)
+PR favoring
+Slow folding
+(expands PB)
+Fast
+Misfolding
+rate
+Slow
+Unstable
+Stability
+Stable
+b
+Figure8
+Theeffectofproteostasisregulators(PRs)ontheproteostasisboundary(PB).(a)PRscaneitherexpandthe
+proteostasisboundary,favoringproteinfolding,orconstricttheproteostasisboundary,favoringdegradation.
+Theexpandedandcontractedproteostasisboundariesresultedfromincreasingordecreasing,respectively,
+theconcentrationsofchaperonesordegradationmachinery.(b)InfluenceofselectPRs(outerlayer,inpurple
+font)onmanagingproteostasis.Thelisteddrugsandtheireffectsontheindicatedpathwaysandcomponents
+describedinFigure2arehighlightedinthetext.
+976 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+transcription factor 1 (HSF1) enhancers (72– eitherdiltiazemorverapamilpartiallyrestored
+74). Celastrol was originally identified in a β-glucocerebrosidase folding, trafficking and
+screenforcompoundsthatwereneuroprotec- function in Gaucher’s disease patient-derived
+tive in Huntington’s disease models (75). Ev- fibroblasts(68).Structure-activityrelationship
+idence now suggests that HSF1 production is studies of analogs showed a clear correlation
+increased by reduced insulin growth factor-1 between Ca2+ antagonism and PR function.
+receptor (IGF1-R) signaling, which pro- Thisobservationledtothesuggestionthatthe
+tects against neurodegeneration and improves beneficial effects of diltiazem and verapamil
+longevity (see below) (1). Although celas- are mediated by increased ER Ca2+ concen-
+trol’s mechanism of action is not fully eluci- trations,likelyinfluencingtheactivityofCa2+-
+dated, recent studies suggest it to be a thiol- dependentERchaperoneslikecalnexinandcal-
+reactivemoleculethattriggersstressresponses reticulin, and, indirectly, the function of BiP,
+throughthischemicalactivity(72).Reflecting the major Hsp70-related chaperone, through
+thischemicalactivity,celastrolhasbeenfound Ca2+-linked mechanisms. Because diltiazem
+to inhibit the activity of the HSF1 repressor and verapimil increase the ER proteostasis
+Hsp90 (76), to inhibit NFκB (77), and to in- network capacity and expand the proteostasis
+hibit the proteasome (78) as well as to mod- boundary,thesePRshavetheabilitytoenhance
+ulate Ca2+-signaling pathways (72). Celastrol the folding, trafficking, and function of non-
+also appears to be useful as an adjuvant for homologous mutant lysosomal enzymes asso-
+arthritis(79)andforpreventingcancerthrough ciated with other distinct LSDs, emphasizing
+Hsp90-dependent steps (see below). The dif- thefeasibilityofdiscoveringonePRthatwould
+ferentresponsesofvariouscelltypestocelas- beusefulforthetreatmentofmultiplediseases
+trol could be a consequence of the different (68).Moreover,recentstudieshaveestablished
+demands that cells place on their unique pro- alinkbetweenCa2+signalingandredoxactivity
+teostasisnetworksandthecompositionofthe withintheER,suggestingthatprotectionfrom
+signalingpathwaysthatcontrolproteostasis.A oxidativestressmayalsobeafactor(82).
+similar possibility could apply to nonsteroidal PRs that are known to activate the UPR
+antiinflammatory drugs (NSAIDs), including are also useful in rescuing the folding, traf-
+aspirin and acetaminophen, which inhibit the ficking,andfunctionofunrelated,misfolding-
+cyclooxygenases COX 1 and 2. NSAIDs have pronelysosomalenzymes(83).Co-application
+antioxidantproperties(80)andhavebeensug- ofMG-132(aPRthatfunctionsasaproteasome
+gestedtomodulateHsp70andHsp90chaper- inhibitor and as a UPR activator) or celastrol
+ones,aswellasHSF1signalingpathways(81). (a PR that is both a UPR and a HSR activa-
+Giventheemergingcomplexityoftheirtargets tor)withRNAitoseparatelyinhibiteachofthe
+andthebroadrangeofindicationsexhibitedby threearmsoftheUPRandtheHSRrevealeda
+these compounds, we speculate that NSAIDs, strongdependenceoftheactionofthesePRson
+likeHSF1pathwaymodulators,mayhaveunex- twoormorearmsoftheUPR,butnottheHSR.
+pectedinfluencesonthepositionand/orshape Enhancement of enzyme folding, trafficking,
+oftheproteostasisboundary. andactivitybythesePRswasfurtherincreased
+Ca2+-sensitive signaling pathways control by β-glucocerebrosidase-targeting PCs, even
+cell function at multiple levels (38, 39). Re- for a variant that cannot normally be rescued
+cent evidence suggests that alterations of by PCs (83). In fact, the activities of PCs and
+intracellular Ca2+ levels can regulate pro- PRsexhibitedsynergyinseverallysosomalstor-
+teostasis network capacity in the ER and, agediseasecontexts.Notably,suchresultssug-
+possibly, in other cellular compartments and gest that these PRs improve the proteostasis
+hencealterthepositionandshapeofthepro- networkcapacity,enablingproductionofmore
+teostasis boundary (68). Inhibition of l-type folded β-glucocerebrosidase for PC binding,
+Ca2+ channelsintheplasmamembraneusing therebysignificantlyincreasingfoldedenzyme
+www.annualreviews.org • DiseasesofProteostasisDeficiency 977
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+concentration and subsequent export to the theproteostasisboundary(Figure8).Changes
+lysosome (83). It is likely that this synergistic in the proteostasis boundary in response to
+rescueofproteostasisarisesfromexpandingthe HDACimayalsoprotectorganismsfromaging
+proteostasisboundarywiththePR,whilesimul- and aging-associated neurodegenerative dis-
+taneously stabilizing the increased population eases(seebelow).
+of the folded state by PC binding to the na- Autophagy,aproteostasispathwayenabling
+tivestateofthefolding-compromisedenzyme, proteindegradation,playsanimportantrolein
+moving it even further within the proteosta- cellmaintenancebyremovingintracellularag-
+sisboundary.WeanticipatethatPRsandPCs, gregates and misfolded proteins by delivering
+whichoffermechanisticallydistinctsolutionsto them to lysosomes. The autophagic pathway
+enhancing proteostasis capacity, can be com- hasthreebranchestofacilitatethisprocess,re-
+binedtoaddresschallengestotheproteostasis ferredtoasmacroautophagy,microautophagy,
+networkthatcouldnotbemetaswellbyeither andchaperone-mediatedautophagy(103,104).
+typeofagentalone. Macroautophagy is negatively regulated by
+An emerging category of PRs that pre- the mTOR pathway, which is inhibited by
+sumably function through regulation of tran- rapamycin(105–107).UpregulationofmTOR
+scription are the HDAC inhibitors (HDACi) isprotectiveagainstneurodegenerativedisease
+thatmodulatetheepigenome(84).HDACiap- (see below) (108, 109). Thus, we propose
+pear to modulate transcription, and thereby that PRs, such as rapamycin, that regulate
+proteostasis, by preventing histone deacetyla- the proteostasis boundary via their effects on
+tion(85–88).HDACscompriseagroupof18 autophagypathwaystoremoveunfolded,mis-
+enzymes. They are divided into three major folded, or aggregated protein could be useful
+classes, the Zn2+-dependent classes I and II, for a broad range of diseases involving the
+and the NAD+-dependent class III enzymes accumulationofaggregation-proneproteinsin
+(sirtuins) (89–93), the latter being sensitive thecytosolandtraffickingcompartments.The
+to the natural product, resveratrol (94, 95). latter includes Z-variant α1AT aggregates,
+HDACs function posttranslationally to regu- whichaccumulateintheERandareeliminated
+late the level of acetylation and hence the ac- by macroautophagy (102, 110, 111). Recent
+tivity of transcription factors and other pro- studies reveal that Ca2+-sensitive signaling
+teins, such as the chaperone Hsp90 (85, 96, represents another pathway by which PRs
+97) and HSF1, the latter illustrating the in- couldcontrolautophagy(112).
+tegral role of HDACs in proteostasis (98). Although we have focused on PCs and
+Increasing evidence suggests that HDACis, PRsthatmodifytheproteostasisnetworkina
+suchastubacin,appeartostronglyinfluencethe cell-autonomous fashion, organismal biology
+proteostasisnetwork.TubacintargetsHDAC6. operatesinthecontextofinterconnectedtissue
+HDAC6, through its ability to regulate the and organ systems. Thus, the responses of
+acetylation status and activity of Hsp90, has proteostasisnetworksneedtobegloballycoor-
+beenproposedtocontrolthecellularresponse dinated.Recentworksuggeststhatorganismal
+tostressthroughtheinteractionofHsp90with control of the proteostasis network can be
+HSF1, which in turn controls the cellular re- cell nonautonomous and centrally regulated
+sponsetomultiplecytosolicstressevents.Simi- by neuronal signaling pathways. Exposure of
+larly,4-phenylbutyrate(4-PBA),aputativelow- Caenorhabditis elegans to heat stress revealed
+affinity HDACi, has been shown in mouse that the response of somatic cells required
+models to provide benefit for numerous mis- only one thermosensory neuron, AFD (42,
+foldingdiseasesthatchallengetheproteostasis 113). Thus, we speculate that coordinated
+network, including metabolic syndrome (99), regulationoftheproteostasisboundarywithin
+cystic fibrosis (100, 101) and α-1-antitrypsin andbetweenorgansystemsservestointegrate
+(α1AT)deficiency(102),possiblybyexpanding behavioral, metabolic, and stress-related
+978 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+pathways.PRsthatmimictheactivityofthese RsignalingorupregulateHSF1orFOXOare
+cell-nonautonomous pathways remain to be likelytobeeffectiveforaging-associateddegen-
+developed,althoughincretinanalogsmayhave erative diseases linked to protein aggregation
+PRproperties(seebelow). by maintaining or expanding the proteostasis
+boundary(Figure8)andshould,therefore,be
+ofhighinteresttobiotechnologyandpharma-
+THEPROTEOSTASIS
+ceuticalindustries.
+NETWORKINAGING
+Processes associated with aging have direct
+OBESITYANDTHE
+signaling-mediated connections to the pro-
+PROTEOSTASISNETWORK
+teostasis network and are, therefore, capable
+of moving the proteostasis boundary, poten- Obesity is a major problem in industrialized
+tially explaining why so many loss- and gain- societiesandnegativelyinfluencestheresponse
+of-function diseases are triggered or exacer- of the normally adaptable proteostasis net-
+batedbyaging(Figure8).Substantialprogress work to stress, including that associated with
+has been made in understanding factors con- metabolic disease (99, 119–121). A high-fat
+tributingtoagingthroughtheIGF1-Rsignal- diet, a lack of exercise, and genetic influences
+ingpathways,dietaryrestriction,mitochondrial strongly impact the ability of the proteostasis
+respiration,(114–117)and,morerecently,the networktomaintainthefunctionofβ-cellsin
+Elt3, -5, and -6 signaling pathways, the lat- response to the increased demand for insulin
+ter having genetic links to IGF1-R pathways andinresponsetodysregulationofinsulinsig-
+(118). Longevity is markedly extended by re- naling(36,122,123).Alargebodyofevidence
+ducing the level or activity of IGF1-R signal- now suggests that when the rate of insulin
+inginworm,fly,andmousemodels(114–117). productionintheERexceedsthecell’scapacity
+IGF1-RisanegativeregulatorofbothFOXO tofoldandsecreteit,numeroussignalingpath-
+andHSF1signalingpathwaysthatdirectlyin- ways, including the UPR, attempt to prevent
+fluence the proteostasis network. One of sev- toxicity and cell death. Thus, not only does
+eralcurrentmodelsfortheeffectsofagingon insulin folding fail, but we speculate that the
+organismsisthattheproteostasisnetworkbe- proteostasis boundary eventually collapses in
+comes burdened by the accumulation of pro- responsetotheunmanageablemisfoldingload.
+teinsmodifiedbyreactiveoxygenspeciesorox- Thus,theβ-cellconsequentlylosesitsabilityto
+idativemetabolites,particularlyinnondividing generateandmaintainthestructureandfunc-
+cellssuchastheneuron.Suchmodifiedproteins tionofotherproteinsessentialforsurvival.This
+have a tendency to misfold and/or aggregate, is illustrated in terms of the FoldFx model in
+placingasignificantdemandontheproteostasis Figure9.Thecollapseofproteostasiscapacity
+network.Tomeetthischallenge,ithasrecently in the β-cell is exemplified not only by depo-
+been demonstrated that reduction of IGF1-R sition of aggregates of the peptide hormone,
+signalingresultsinHSF1activationandupreg- amylin(124,125),butalsobyβ-celldeath,pre-
+ulationofprotectivefeaturesoftheproteosta- sumably resulting from a sustained activation
+sis network. Thus, reduction in IGF1-R sig- ofthePERK-ATF4armoftheUPR,whichis
+naling appears to compensate for what would linkedtodeathpathwaysthroughthetranscrip-
+otherwise be a gradual, aging-related collapse tionfactorCHOP(34–36,126).Althoughthe
+ofproteostasisowingtoanincreasedmisfold- most common diabetes drugs provide tempo-
+ing/aggregationload.Intriguingly,areduction raryrelief,theydosobyfurtherincreasingin-
+in IGF1-R signaling could even “precondi- sulinproductioninβ-cellsand,therefore,could
+tion”agingcellsforlaterproteostasischallenges exacerbate the problem in the long term. In
+(1). Thus, we suggest that modulation of the contrast, HDACi, including 4-PBA (99, 127),
+proteostasisnetworkbyPRsthatreduceIGF1- and activators of sirtuins, such as resveratrol
+www.annualreviews.org • DiseasesofProteostasisDeficiency 979
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+Increased
+a insulin load b Insulin load collapses
+proteostasis boundary
+Unstable Unstable
+Stability Stability
+Stable Stable
+Fast Fast
+Loss of function,
+aggregation,
+cell death, and
+Misfolding Misfolding
+type 2 diabetes
+rate rate
+results
+Slow Slow
+Slow Fast Slow Fast
+Folding Folding
+rate rate
+Figure9
+Apotentialmechanismforthepathogenesisoftype2diabetesvisualizedintermsoftheFoldFxmodelusingahypotheticalprotein
+interactionnetwork.(a)Increasedsynthesisofinsulin(representedasalargenode)challengestheproteostasisnetwork.Theinsulinload
+saturatestheproteostasisnetwork,leavinglittlecapacityformaintainingthenormalproteinfoldingload.(b)Theproteostasisboundary
+constricts,leadingtolossofβ-cellfunction,proteinaggregation(ofthepeptidehormoneamylininparticular,blacknode),β-celldeath,
+anddisease.Becauseamylinisanintrinsicallydisorderedpeptide,theassignmentofvaluesforitsfoldingkineticsandthermodynamics
+reflectsitsdynamicequilibriumbetweendegradation-competentand-incompetentstates.
+and its analogs (94, 128–130), restore β-cell CANCERANDTHE
+homeostasis in mouse models of type 2 dia- PROTEOSTASISNETWORK
+betes, perhaps by modulation of the highly
+The unregulated cell division exhibited by
+compromised proteostasis network. Intrigu- cancercellsrequiresexceptionallyhighratesof
+ingly, mimics of the secreted incretin class
+proteinsynthesisandmaintenancethatareout
+of hormones, including the glucagon-like
+of balance relative to the normal, fully differ-
+peptide-1 (GLP-1) receptor agonist exenatide
+entiated state, taxing the proteostasis network
+(131) or inhibitors of dipeptidyl peptidase-IV
+(134–136). Hsp90 is a highly abundant chap-
+that block GLP-1 degradation (132), may erone that has >300 clients, including many
+function by rebalancing the proteostasis net-
+kinases involved in cell proliferation (http://
+work in the β-cell. Moreover, recent studies
+www.picard.ch/downloads/downloads.htm).
+revealedthatcell-nonautonomousinter-organ
+Unlike Hsp70, which is involved in cotrans-
+communication between the liver and the
+lational protein folding, Hsp90 is largely
+pancreasvianeuronalpathwayscontrolsβ-cell
+involved in late events in protein folding
+function and insulin secretion (133). Thus,
+pathways, where it maintains proteins in
+consistentwiththeresponseofwormstoheat
+near-native states for functional purposes.
+stress through neuronal signaling pathways
+Hsp90 is sensitive to a number of inhibitors
+(42), compounds such as exenatide and other
+thatbelongtotheansamycinclassofantibiotics
+polypeptidehormonesmayfallintothebroad
+including geldanamycin and its derivatives,
+category of cell-nonautonomous PRs and
+radicicol, and a series of derivatives based
+present a more global biological solution for
+on purine and pyrazole scaffolds (137–139).
+augmentation of the proteostasis network to
+Interestingly, cancer cells are highly sensitive
+preserveinsulinsynthesis,protectβ-cellsfrom
+to PRs inhibiting Hsp90. Hsp90 inhibitors
+apoptosis,andpromoteβ-cellproliferation.
+are currently the focus of multiple anticancer
+980 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+Cancer cell network; Cancer cell network
+proteostasis boundary expanded with Hsp90 inhibited;
+to handle high protein synthesis load proteostasis boundary collapses
+Fast Fast
+Folding Folding
+rate rate
+Slow Slow
+Hsp 90
+Fast inhibitor Fast
+Cancer
+cell death
+Misfolding Misfolding
+rate rate
+Slow Slow
+Unstable Unstable
+Stability Stability
+Stable Stable
+Figure10
+TreatmentofcancerusingHsp90inhibitorsvisualizedintermsoftheFoldFxmodel.
+clinical trials (136, 140). We suggest that pathwaysthatarelinkedtoredoxpathwaysmay
+disrupting Hsp90 function in a cancer cell representmajoropportunitiestoreduceorpre-
+wouldlikelycontracttheproteostasisboundary ventdisease(143).
+intheFoldFxmodel(Figure10).Thiswould PRs that inhibit degradation are now part
+lead to loss of function for many proteins of an established clinical approach to prevent
+with marginal protein folding energetics, growthofspecificclassesofcancer.Here,PRs
+therebykillingthecancercell,possiblywithout that are proteasome inhibitors illustrate the
+significantlyimpactingnormalcellphysiology. valueofmanipulatingtheproteostasisbound-
+Compounds that modulate oxidative fold- ary to promote cell death (30, 144, 145).
+ingandmetabolicpathways,thelatterbeinga Proteasome-inhibitingPRsdecreasethedegra-
+central feature in proteome maintenance dur- dation rate of misfolded proteins. The result-
+ing stress and aging, are also likely candi- ingincreaseintheconcentrationofmisfolded
+dates as PRs to treat cancer. Arsenicals found proteins likely saturates the proteostasis net-
+in traditional Chinese medicine and used for work,collapsingtheproteostasisboundarybe-
+treatmentofcancer(141)functionasPRspre- lowathresholdthatcansustaincellviability(see
+sumably by compromising the redox poten- Figure10).Forexample,inmultiplemyeloma,
+tial of the cytosolic folding environment. As the proteasome inhibitor bortezomib selec-
+a consequence, we predict that they signifi- tivelykillsthecancerousplasmacellsthatpro-
+cantlychallengethecapacityoftheproteostasis ducelargeamountsofimmunoglobulin,some-
+network to fold proteins with disufide bonds timesresultinginremissionofthecancer(146,
+and, hence, the ability of the cancer cell to 147).IntermsoftheFoldFxmodel,wespecu-
+maintain viability (142). Although modula- latethatthisselectivityarisesbecausemyeloma
+tion of oxidative stress remains a major chal- cellsarealreadychallengedwithahighprotein
+lenge for PR development, compounds influ- foldingload,andproteasomeinhibitionfurther
+encing S-nitrosylation, and/or inflammatory diminishesthecapacityoftheproteostasisnet-
+signalingpathways,includingNF-κBorPERK worktomaintaintheproteostasisboundaryat
+signaling via activation of ATF4 and Nrf2 a functional level. The effect could be similar
+transcription factors (41), and Ca2+-signaling to that of treating other types of cancer cells
+www.annualreviews.org • DiseasesofProteostasisDeficiency 981
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+withHsp90inhibitors,althoughdifferentcom- activitythatappearstoreduceaggregateload.
+ponentsoftheproteostasisnetworkaretargeted A second pathway, also downstream of IGF1-
+(Figure10). R signaling, utilizes the FOXO transcription
+program, apparently to enhance the forma-
+tion of large aggregates, thereby protecting
+AGE-RELATEDDEGENERATIVE
+the cell from smaller, more toxic oligomers
+DISEASESANDPROTEOSTASIS
+by placing these out of reach of the func-
+Although we know little about maintenance tional environment defined by the proteosta-
+of the intrinsically disordered proteome, it is sisboundary(148,149).Theputativeeffectsof
+clearly important as intrinsically disordered these pathways on proteostasis are illustrated
+proteinsformtheaggregatesthattriggerorex- intermsoftheFoldFxmodelinFigure11.It
+acerbatetheclinicallymostimportantneurode- willbeinterestingtodiscernwhetherthepro-
+generative diseases, including the aggregation teostasis network generally uses aggregation-
+of Aβ associated with Alzheimer’s disease, α- promoting activities to mitigate the effect of
+synuclein associated with Parkinson’s disease, acute and/or chronic failures of proteostasis
+and the exon1 fragment of huntingtin associ- whenthecapacityoftheprotectivedisaggrega-
+atedwithHuntington’sdisease.Longevitysig- tion/degradativepathwaysbecomesineffective
+naling pathways that influence cytosolic pro- orsaturated(150).
+teostasishavebeenshowntohavestrongeffects A second example of the proteostasis
+on the progression of gain-of-toxic-function networkprotectingthecellfromaggregation-
+neurodegenerative diseases in animal models associated proteotoxicity is observed in C.
+(1). elegans models harboring huntingtin polyQ
+In a C. elegans model of Aβ proteotoxic- expansions(17,50,151,152).Here,thecyto-
+ity, inhibiting the IGF1-R signaling pathway, toxicity triggered by a polyQ aggregate load
+whichnegativelyregulatesHSF1,revealedtwo isexacerbatedbydecreasedHSF1activityand
+ways in which a cell can use the proteostasis amelioratedbyreducedIGF1-Rsignalingthat
+network to protect itself (148). The first ac- increasesHSF1-mediatedtranscription.More-
+tivity, enabled by upregulation of HSF1 tran- over,introductionofanothermisfolding-prone
+scription factor activity, is a disaggregation protein into C. elegans harboring huntingtin
+FOXO signaling detoxifies HSF1 signaling expands
+aggregates proteostasis boundary
+FOXO HSF1
+Fast pathways Fast pathways Fast
+Mis- Mis- Mis-
+folding folding folding
+rate rate rate
+Unstable Unstable Unstable
+Slow Slow Slow
+Stability Stability Stability
+Fast Fast Fast
+Stable Slow Folding Stable Slow Folding Stable Slow Folding
+rate rate rate
+Figure11
+TheeffectofactivatingHSF1pathwaysonproteinaggregationdiseaseslikeAlzheimer’sandHuntington’sdiseasevisualizedintermsof
+theFoldFxmodel.HSF1signalingexpandstheproteostasisboundary,allowingittorecognizetheaggregation-proneprotein(black
+node)andalleviatingthegainoftoxicfunction.Incontrast,FOXO-basedpathwayspromoteaprotectiveformofaggregationthatyields
+lesstoxicaggregates.Thedetoxifiedaggregateisindicatedintheplotontheleftsideofthefigurebythewhitenode.AsinFigure10,
+theassignedvaluesforfoldingstabilityandkineticsforintrinsicallydisorderedproteinsaremeanttosuggestthepartitioningbetween
+statesthatareeithersusceptibletodegradationornot.
+982 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+polyQexpansionsfurthersensitizestheorgan- positionofanodeortheproteostasisboundary.
+ismtopolyQproteotoxicity(50),presumablyas Asecondpossibilityissuggestedbytheetiology
+aconsequenceofconsumptionofproteostasis of Parkinson’s disease. A mutation in parkin,
+network capacity. This result illustrates the anE3ubiquitinligase(161),isassociatedwith
+point that the proteostasis boundary for any an early-onset form of Parkinson’s disease,
+oneproteinisdependentontheoverallburden suggesting that Parkinson’s disease involves a
+placed on the proteostasis network by other defectintheUPS.Therefore,PRsthatpoten-
+proteins.Italsoleadsustoproposethatanyge- tiate parkin activity could ameliorate Parkin-
+neticpredispositiontowardproteinmisfolding/ son’s disease by repositioning the proteostasis
+aggregation and/or disabling a component(s) boundarytofavordegradationingeneral(162).
+of the proteostasis network could contribute Finally, in ALS (163), mutation of superoxide
+to the sporadic forms of neurodegenera- dismutase 1 leads to accumulation of reactive
+tive diseases like Huntington’s, Alzheimer’s, oxygen species in both cell-autonomous (164)
+Parkinson’s diseases, and amyotrophic lateral andcell-nonautonomous(165)fashionsthatap-
+sclerosis(ALS),simplybyplacinganadditional peartocontributetoproteinmisfolding,mito-
+loadontheproteostasisnetwork(50,153). chondrial dysfunction, and oxidative damage,
+GiventheFoldFxmodel,itisapparentthat thereby challenging the proteostasis network.
+aggregate load in neurodegenerative disease PRs that maintain the proteostasis boundary
+couldbeadjustedusingeitherPCsorPRs.One by dampening the impact of oxidative insult
+approachtoreduceaggregateaccumulationis (163, 166) could be effective therapeutics for
+toutilizekineticstabilizers,asdescribedabove, ALS.
+tostabilizethenativenon-amyloidogenicstate The examples discussed illustrate only a
+of a given aggregation-prone protein, such as fewofthemanywaysinwhichtheincreasing
+transthyretin. Another approach is to utilize evidenceintheliteraturesuggeststhatmanipu-
+small molecules that inhibit the aggregation lationoftheproteostasisnetworkandthepro-
+of proteins at the self-assembly stage, such as teostasisboundaryinacompartment-andcell-
+4,5-dianilinophthalimide (154), phenolsulfon- type-specificfashionwithPRsmaybeauseful
+phthalein(155),andothersthatappeartopre- approachtoexpandproteostasisnetworkcapac-
+venttheformationofmature(fibrillar)aggre- ityandmitigatediseaseprogression.
+gates from nascent aggregates (156, 157). A
+potentiallimitationofaggregationinhibitorsis
+THEFUTUREOF
+thattheymayleadtothegenerationofsmaller,
+PHARMACOLOGIC moretoxicoligomers,challengingtheprotec-
+MODULATIONOF
+tive aggregation-promoting pathways of the
+PROTEOSTASIS
+proteostasisnetwork.
+Other strategies for using PRs to amelio- Thedependenceofthefunctionofdistinctcell
+rateneurodegenerativediseasesbeyondHSF1 typesontheirproteostasisnetworkcapacities,
+or FOXO activation include overexpression andhencethepositionandshapeoftheirpro-
+of HDAC6, which has been shown to rescue teostasis boundaries, is becoming increasingly
+neurodegeneration by way of the ubiquitin- evident. FoldFx describes a way to integrate
+proteasomesystem(UPS)andautophagypath- folding energetics with proteostasis network
+ways(158),anduseofHDACitoprotectagainst capacity and provide a basis to think about
+Parkinson’s (159) and Huntington’s diseases adapting the proteostasis network for disease
+(160). These observations suggest that these intervention. While the simplifications em-
+compounds may have PR activities that are ployedinourmathematicalmodelundoubtedly
+linked to epigenetic features controlling the maskadditionalapproachesthatmayapplytoa
+expressionofdegradativeandaging-associated givencellularcompartmentortissueenviron-
+signaling pathways, thereby regulating the ment,itcanbeexpandedtoaccountformore
+www.annualreviews.org • DiseasesofProteostasisDeficiency 983
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+complexity. It should be evident from this re- interplay between folding energetics and
+viewthatproteostasisisnotasmuchaboutqual- proteostasis network capacity in maintaining
+itycontrolasitisaboutusingthecombination theproteome,itislikelythatnumerousclasses
+ofproteinfoldingenergeticsandtheadjustable of compounds will be found that function as
+proteostasisnetworkcapacitytooptimallysup- either PCs or PRs to ameliorate diseases of
+portfunction(45,46).Becausetheproteostasis proteostasis deficiency. These new classes of
+networkand,hence,theproteostasisboundary pharmacologicagents(1,170)shouldbewidely
+areadjustedbysignalingpathwayssuchasthe applicabletotheameliorationofhumandisease
+UPRortheHSR,thesepathwaysmeshprotein owingtothecentralrolesthatproteinbiogen-
+functionwithchangingcellularandorganismal esis, folding, maintenance, and degradation
+needs (167–169). Given the fundamental pathwaysplayinphysiologyandpathology.
+DISCLOSURESTATEMENT
+R.I.M.,A.D.,andJ.W.K.arecofounders,shareholders,andpaidconsultantsforProteostasisTher-
+apeuticsInc.andFoldRxpharmaceuticals(J.W.K.only),whicharedevelopingdrugsthatcouldbe
+PRsandPCs.W.E.B.isashareholderinProteostasisTherapeuticsInc.andapaidconsultantfor
+ProteostasisTherapeuticsInc.andFoldRxpharmaceuticals.E.T.P.receivesmilestonepayments
+fromFoldRxpharmaceuticals.
+ACKNOWLEDGMENTS
+ThisworkwassupportedbyNIHgrantsGM033301,GM042336,HL079442,AG031097,and
+DK05187toW.E.B.;NIHgrantsDK046335,AG018917,AG031097,andDK07529toJ.W.K.;
+the Lita Annenberg Hazen Foundation, the Bruce Ford and Anne Smith Bundy Foundation
+and the Skaggs Institute for Chemical Biology to J.W.K.; NIH, the McKnight Foundation for
+Neuroscience, and HHMI to A.D.; and NIH grants GM038109, GM081192, AG026647, and
+NS047331toR.I.M.WeacknowledgetheCysticFibrosisFoundationforsupportofW.E.B.We
+thankDr.AndrewSu,GenomicsInstituteoftheNovartisFoundation,LaJolla,CA,forassistance
+ingeneratingFigure3,andColleenFearnsforcriticallyreadingthismanuscript.
+LITERATURECITED
+1. Balch WE, Morimoto RI, Dillin A, Kelly JW. 2008. Adapting proteostasis for disease intervention.
+Science319:916–19
+2. BraunP,RietmanE,VidalM.2008.Networkingmetabolitesanddiseases.Proc.Natl.Acad.Sci.USA
+105:9849–50
+3. GohKI,CusickME,ValleD,ChildsB,VidalM,BarabasiAL.2007.Thehumandiseasenetwork.Proc.
+Natl.Acad.Sci.USA104:8685–90
+4. IdekerT,SharanR.2008.Proteinnetworksindisease.GenomeRes.18:644–52
+5. AnfinsenCB.1973.Principlesthatgovernthefoldingofproteinchains.Science181:223–30
+6. OlivebergM,WolynesPG.2005.Theexperimentalsurveyofprotein-foldingenergylandscapes.Q.Rev.
+Biophys.38:245–88
+7. UdgaonkarJB.2008.Multipleroutesandstructuralheterogeneityinproteinfolding.Annu.Rev.Biophys.
+37:489–510
+8. Dill KA, Ozkan SB, Shell MS, Weikl TR. 2008. The protein folding problem. Annu. Rev. Biophys.
+37:289–316
+9. AuerS,MillerMA,KrivovSV,DobsonCM,KarplusM,VendruscoloM.2007.Importanceofmetastable
+statesinthefreeenergylandscapesofpolypeptidechains.Phys.Rev.Lett.99:178104
+984 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+10. LuheshiLM,CrowtherDC,DobsonCM.2008.Proteinmisfoldinganddisease:fromthetesttubeto
+theorganism.Curr.Opin.Chem.Biol.12:25–31
+11. UverskyVN,OldfieldCJ,DunkerAK.2008.Intrinsicallydisorderedproteinsinhumandiseases:intro-
+ducingtheD2concept.Annu.Rev.Biophys.37:215–46
+12. DasR,BakerD.2008.Macromolecularmodelingwithrosetta.Annu.Rev.Biochem.77:363–82
+13. Powers ET, Balch WE. 2008. Costly mistakes: translational infidelity and protein homeostasis.
+Cell134:204–6
+14. DrummondDA,WilkeCO.2008.Mistranslation-inducedproteinmisfoldingasadominantconstraint
+oncoding-sequenceevolution.Cell134:341–52
+15. ZhouHX,RivasG,MintonAP.2008.Macromolecularcrowdingandconfinement:biochemical,bio-
+physical,andpotentialphysiologicalconsequences.Annu.Rev.Biophys.37:375–97
+16. KellyJW,BalchWE.2006.Theintegrationofcellandchemicalbiologyinproteinfolding.Nat.Chem.
+Biol.2:224–27
+17. MorimotoRI.2008.Proteotoxicstressandinduciblechaperonenetworksinneurodegenerativedisease
+andaging.GenesDev.22:1427–38
+18. YoungJC,AgasheVR,SiegersK,HartlFU.2004.Pathwaysofchaperone-mediatedproteinfoldingin
+thecytosol.Nat.Rev.Mol.CellBiol.5:781–91
+19. SaibilHR.2008.Chaperonemachinesinaction.Curr.Opin.Struct.Biol.18:35–42
+20. BukauB,WeissmanJ,HorwichA.2006.Molecularchaperonesandproteinqualitycontrol.Cell125:443–
+51
+21. BrodskyJL,ChiosisG.2006.Hsp70molecularchaperones:emergingrolesinhumandiseaseandiden-
+tificationofsmallmoleculemodulators.Curr.Top.Med.Chem.6:1215–25
+22. Ni M, Lee AS. 2007. ER chaperones in mammalian development and human diseases. FEBS Lett.
+581:3641–51
+23. ShimizuY,HendershotLM.2007.Organizationofthefunctionsandcomponentsoftheendoplasmic
+reticulum.Adv.Exp.Med.Biol.594:37–46
+24. Appenzeller-HerzogC,EllgaardL.2008.ThehumanPDIfamily:versatilitypackedintoasinglefold.
+Biochim.Biophys.Acta1783:535–48
+25. NagataK.2003.HSP47asacollagen-specificmolecularchaperone:functionandexpressioninnormal
+mousedevelopment.Semin.CellDev.Biol.14:275–82
+26. HussainMM,RavaP,PanX,DaiK,DouganSK,etal.2008.Microsomaltriglyceridetransferprotein
+inplasmaandcellularlipidmetabolism.Curr.Opin.Lipidol.19:277–84
+27. HorwichAL,FentonWA,ChapmanE,FarrGW.2007.Twofamiliesofchaperonin:physiologyand
+mechanism.Annu.Rev.CellDev.Biol.23:115–45
+28. TangYC,ChangHC,ChakrabortyK,HartlFU,Hayer-HartlM.2008.Essentialroleofthechaperonin
+foldingcompartmentinvivo.EMBOJ.27:1458–68
+29. SharmaS,ChakrabortyK,MullerBK,AstolaN,TangYC,etal.2008.Monitoringproteinconformation
+alongthepathwayofchaperonin-assistedfolding.Cell133:142–53
+30. KonstantinovaIM,TsimokhaAS,MittenbergAG.2008.Roleofproteasomesincellularregulation.
+Int.Rev.CellMol.Biol.267:59–124
+31. TasakiT,KwonYT.2007.ThemammalianN-endrulepathway:newinsightsintoitscomponentsand
+physiologicalroles.TrendsBiochem.Sci.32:520–28
+32. LevineB,KroemerG.2008.Autophagyinthepathogenesisofdisease.Cell132:27–42
+33. KunduM,ThompsonCB.2008.Autophagy:basicprinciplesandrelevancetodisease.Annu.Rev.Pathol.
+3:427–55
+34. MalhotraJD,KaufmanRJ.2007.Theendoplasmicreticulumandtheunfoldedproteinresponse.Semin.
+CellDev.Biol.18:716–31
+35. RonD,WalterP.2007.Signalintegrationintheendoplasmicreticulumunfoldedproteinresponse.
+Nat.Rev.Mol.CellBiol.8:519–29
+36. LinJH,WalterP,YenTS.2008.Endoplasmicreticulumstressindiseasepathogenesis.Annu.Rev.Pathol.
+3:399–425
+37. Shamovsky I, Nudler E. 2008. New insights into the mechanism of heat shock response activation.
+CellMol.LifeSci.65:855–61
+www.annualreviews.org • DiseasesofProteostasisDeficiency 985
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+38. PetersenOH,MichalakM,VerkhratskyA.2005.Calciumsignalling:past,presentandfuture.CellCalcium
+38:161–69
+39. BurdakovD,PetersenOH,VerkhratskyA.2005.Intraluminalcalciumasaprimaryregulatorofendo-
+plasmicreticulumfunction.CellCalcium38:303–10
+40. MedzhitovR.2008.Originandphysiologicalrolesofinflammation.Nature454:428–35
+41. ZhangK,KaufmanRJ.2008.Fromendoplasmic-reticulumstresstotheinflammatoryresponse.Nature
+454:455–62
+42. PrahladV,CorneliusT,MorimotoRI.2008.RegulationofthecellularheatshockresponseinCaenorhab-
+ditiselegansbythermosensoryneurons.Science320:811–14
+43. MurphyKG,BloomSR.2006.Guthormonesandtheregulationofenergyhomeostasis.Nature444:854–
+59
+44. SuAI,WiltshireT,BatalovS,LappH,ChingKA,etal.2004.Ageneatlasofthemouseandhuman
+protein-encodingtranscriptomes.Proc.Natl.Acad.Sci.USA101:6062–67
+45. Sekijima Y, Wiseman RL, Matteson J, Hammarstrom P, Miller SR, et al. 2005. The biological and
+chemicalbasisfortissue-selectiveamyloiddisease.Cell121:73–85
+46. WisemanRL,PowersET,BuxbaumJN,KellyJW,BalchWE.2007.Anadaptablestandardforprotein
+exportfromtheendoplasmicreticulum.Cell131:809–21
+47. HaynesC,OldfieldCJ,JiF,KlitgordN,CusickME,etal.2006.Intrinsicdisorderisacommonfeature
+ofhubproteinsfromfoureukaryoticinteractomes.PLoSComput.Biol.2:e100
+48. HillenmeyerME,FungE,WildenhainJ,PierceSE,HoonS,etal.2008.Thechemicalgenomicportrait
+ofyeast:uncoveringaphenotypeforallgenes.Science320:362–65
+49. BrignullHR,MorleyJF,MorimotoRI.2007.Thestressofmisfoldedproteins:C.elegansmodelsfor
+neurodegenerativediseaseandaging.Adv.Exp.Med.Biol.594:167–89
+50. GidalevitzT,Ben-ZviA,HoKH,BrignullHR,MorimotoRI.2006.Progressivedisruptionofcellular
+proteinfoldinginmodelsofpolyglutaminediseases.Science311:1471–74
+51. PalotaiR,SzalayMS,CsermelyP.2008.Chaperonesasintegratorsofcellularnetworks:changesof
+cellularintegrityinstressanddiseases.IUBMBLife60:10–18
+52. ConnPM,Ulloa-AguirreA,ItoJ,JanovickJA.2007.Gprotein–coupledreceptortraffickinginhealth
+anddisease:lessonslearnedtopreparefortherapeuticmutantrescueinvivo.Pharmacol.Rev.59:225–50
+53. MillarNS,HarknessPC.2008.Assemblyandtraffickingofnicotinicacetylcholinereceptors(Review).
+Mol.Membr.Biol.25:279–92
+54. GrabowskiGA.2008.Treatmentperspectivesforthelysosomalstoragediseases.ExpertOpin.Emerg.
+Drugs13:197–211
+55. SawkarAR,ChengW-C,BeutlerE,WongC-H,BalchWE,KellyJW.2002.Chemicalchaperones
+increasethecellularactivityofN370Sbeta-glucosidase:atherapeuticstrategyforGaucherdisease.Proc.
+Natl.Acad.Sci.USA99:15428–33
+56. FanJ-Q,IshiiS,AsanoN,SuzukiY.1999.Acceleratedtransportandmaturationoflysosomalalpha-
+galactosidaseAinFabrylymphoblastsbyanenzymeinhibitor.Nat.Med.5:112–15
+57. Yoo CL, Yu GJ, Yang B, Robins LI, Verkman AS, Kurth MJ. 2008. 4(cid:2)-Methyl-4,5(cid:2)-bithiazole-based
+correctorsofdefective(cid:2)F508-CFTRcellularprocessing.Bioorg.Med.Chem.Lett.18:2610–14
+58. AmaralMD,KunzelmannK.2007.MoleculartargetingofCFTRasatherapeuticapproachtocystic
+fibrosis.TrendsPharmacol.Sci.28:334–41
+59. PedemonteN,LukacsGL,DuK,CaciE,Zegarra-MoranO,etal.2005.Small-moleculecorrectorsof
+defective(cid:2)F508-CFTRcellularprocessingidentifiedbyhigh-throughputscreening.J.Clin.Investig.
+115:2564–71
+60. LooTW,BartlettMC,ClarkeDM.2008.CorrectorspromotefoldingoftheCFTRintheendoplasmic
+reticulum.Biochem.J.413:29–36
+61. NoelS,StralePO,DannhofferL,WilkeM,DeJongeH,etal.2008.Stimulationofsalivarysecretionin
+vivobyCFTRpotentiatorsinCftr+/+andCftr−/−mice.J.Cyst.Fibros.7:128–33
+62. WangY,BartlettMC,LooTW,ClarkeDM.2006.Specificrescueofcysticfibrosistransmembrane
+conductanceregulatorprocessingmutantsusingpharmacologicalchaperones.Mol.Pharmacol.70:297–
+302
+986 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+63. WangY,LooTW,BartlettMC,ClarkeDM.2007.Additiveeffectofmultiplepharmacologicalchap-
+eronesonmaturationofCFTRprocessingmutants.Biochem.J.406:257–63
+64. YuZ,SawkarAR,KellyJW.2007.PharmacologicchaperoningasastrategytotreatGaucherdisease.
+FEBSJ.274:4944–50
+65. YuZ,SawkarAR,WhalenLJ,WongCH,KellyJW.2007.Isofagomine-and2,5-anhydro-2,5-imino-
+d-glucitol-basedglucocerebrosidasepharmacologicalchaperonesforGaucherdiseaseintervention.J.
+Med.Chem.50:94–100
+66. HammarstromP,WisemanRL,PowersET,KellyJW.2003.Preventionoftransthyretinamyloiddisease
+bychangingproteinmisfoldingenergetics.Science299:713–16
+67. JohnsonSM,WisemanRL,SekijimaY,GreenNS,Adamski-WernerSL,KellyJW.2005.Nativestate
+kineticstabilizationasastrategytoameliorateproteinmisfoldingdiseases:afocusonthetransthyretin
+amyloidoses.Acc.Chem.Res.38:911–21
+68. Mu T-W, Fowler DM, Kelly JW. 2008. Partial restoration of mutant enzyme homeostasis in three
+distinctlysosomalstoragediseasecelllinesbyalteringcalciumhomeostasis.PLoSBiol.6:e26
+69. ObrenovitchTP.2008.Molecularphysiologyofpreconditioning-inducedbraintolerancetoischemia.
+Physiol.Rev.88:211–47
+70. BoyceM,BryantKF,JousseC,LongK,HardingHP,etal.2005.AselectiveinhibitorofeIF2αdephos-
+phorylationprotectscellsfromERstress.Science307:935–39
+71. Boyce M, Py BF, Ryazanov AG, Minden JS, Long K, et al. 2008. A pharmacoproteomic approach
+implicateseukaryoticelongationfactor2kinaseinERstress-inducedcelldeath.CellDeathDiffer.15:589–
+99
+72. TrottA,WestJD,KlaicL,WesterheideSD,SilvermanRB,etal.2008.Activationofheatshockand
+antioxidant responses by the natural product celastrol: transcriptional signatures of a thiol-targeted
+molecule.Mol.Biol.Cell19:1104–12
+73. Corson TW, Crews CM. 2007. Molecular understanding and modern application of traditional
+medicines:triumphsandtrials.Cell130:769–74
+74. WesterheideSD,MorimotoRI.2005.Heatshockresponsemodulatorsastherapeutictoolsfordiseases
+ofproteinconformation.J.Biol.Chem.280:33097–100
+75. Wang J, Gines S, MacDonald ME, Gusella JF. 2005. Reversal of a full-length mutant huntingtin
+neuronalcellphenotypebychemicalinhibitorsofpolyglutamine-mediatedaggregation.BMCNeurosci.
+6:1
+76. ZhangT,HamzaA,CaoX,WangB,YuS,etal.2008.AnovelHsp90inhibitortodisruptHsp90/Cdc37
+complexagainstpancreaticcancercells.Mol.CancerTher.7:162–70
+77. JungHW,ChungYS,KimYS,ParkYK.2007.Celastrolinhibitsproductionofnitricoxideandproin-
+flammatorycytokinesthroughMAPKsignaltransductionandNF-κBinLPS-stimulatedBV-2microglial
+cells.Exp.Mol.Med.39:715–21
+78. YangH,ShiG,DouQP.2007.Thetumorproteasomeisaprimarytargetforthenaturalanticancer
+compoundWithaferinAisolatedfrom“Indianwintercherry”.Mol.Pharmacol.71:426–37
+79. LiH,ZhangYY,TanHW,JiaYF,LiD.2008.Therapeuticeffectoftripterineonadjuvantarthritisin
+rats.J.Ethnopharmacol.118:479–84
+80. MerrillGF,GoldbergE.2001.Antioxidantpropertiesofacetaminophenandcardioprotection.BasicRes.
+Cardiol.96:423–30
+81. ShertzerHG,SchneiderSN,KendigEL,CleggDJ,D’AlessioDA,GenterMB.2008.Acetaminophen
+normalizesglucosehomeostasisinmousemodelsfordiabetes.Biochem.Pharmacol.75:1402–10
+82. GorlachA,KlappaP,KietzmannT.2006.Theendoplasmicreticulum:folding,calciumhomeostasis,
+signaling,andredoxcontrol.Antioxid.RedoxSignal.8:1391–418
+83. MuT-W,OngDST,WangY-J,BalchWE,YatesJR,etal.2008.Chemicalandbiologicalapproaches
+synergizetoameliorateprotein-foldingdiseases.Cell134:769–81
+84. LeeKK,WorkmanJL.2007.Histoneacetyltransferasecomplexes:Onesizedoesn’tfitall.Nat.Rev.Mol.
+CellBiol.8:284–95
+85. SadoulK,BoyaultC,PabionM,KhochbinS.2008.Regulationofproteinturnoverbyacetyltransferases
+anddeacetylases.Biochimie90:306–12
+www.annualreviews.org • DiseasesofProteostasisDeficiency 987
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+86. Echaniz-LagunaA,BousigesO,LoefflerJP,BoutillierAL.2008.Histonedeacetylaseinhibitors:thera-
+peuticagentsandresearchtoolsfordecipheringmotorneurondiseases.Curr.Med.Chem.15:1263–73
+87. Xu WS, Parmigiani RB, Marks PA. 2007. Histone deacetylase inhibitors: molecular mechanisms of
+action.Oncogene26:5541–52
+88. MartinM,KettmannR,DequiedtF.2007.ClassIIahistonedeacetylases:regulatingtheregulators.
+Oncogene26:5450–67
+89. GuarenteL.2007.Sirtuinsinaginganddisease.ColdSpringHarb.Symp.Quant.Biol.72:483–88
+90. FeigeJN,JohanA.2008.Transcriptionaltargetsofsirtuinsinthecoordinationofmammalianphysiology.
+Curr.Opin.CellBiol.20:303–9
+91. ChenD,GuarenteL.2007.SIR2:apotentialtargetforcalorierestrictionmimetics.TrendsMol.Med.
+13:64–71
+92. FragaMF,EstellerM.2007.Epigeneticsandaging:thetargetsandthemarks.TrendsGenet.23:413–18
+93. WestphalCH,DippMA,GuarenteL.2007.Atherapeuticroleforsirtuinsindiseasesofaging?Trends
+Biochem.Sci.32:555–60
+94. MilneJC,LambertPD,SchenkS,CarneyDP,SmithJJ,etal.2007.SmallmoleculeactivatorsofSIRT1
+astherapeuticsforthetreatmentoftype2diabetes.Nature450:712–16
+95. MilneJC,DenuJM.2008.TheSirtuinfamily:therapeutictargetstotreatdiseasesofaging.Curr.Opin.
+Chem.Biol.12:11–17
+96. Valenzuela-FernandezA,CabreroJR,SerradorJM,Sanchez-MadridF.2008.HDAC6:akeyregulator
+ofcytoskeleton,cellmigrationandcell-cellinteractions.TrendsCellBiol.18:291–97
+97. MatthiasP,YoshidaM,KhochbinS.2008.HDAC6anewcellularstresssurveillancefactor.CellCycle
+7:7–10
+98. WesterheideSD,AnckarJ,StevensSM,SistonenL,MorimotoRI.2009.Stress-inducibleregulationof
+heatshockfactor1bythedeacetylaseSIRT1.Science323:1063–66
+99. OzcanU,YilmazE,OzcanL,FuruhashiM,VaillancourtE,etal.2006.Chemicalchaperonesreduce
+ERstressandrestoreglucosehomeostasisinamousemodeloftype2diabetes.Science313:1137–40
+100. SinghOV,PollardHB,ZeitlinPL.2008.Chemicalrescueof(cid:2)F508-CFTRmimicsgeneticrepairin
+cysticfibrosisbronchialepithelialcells.Mol.CellProteomics7:1099–110
+101. Pruliere-EscabasseV,PlanesC,EscudierE,FanenP,CosteA,ClericiC.2007.Modulationofepithelial
+sodiumchanneltraffickingandfunctionbysodium4-phenylbutyrateinhumannasalepithelialcells.
+J.Biol.Chem.282:34048–57
+102. PerlmutterDH.2006.Theroleofautophagyinα-1-antitrypsindeficiency:aspecificcellularresponse
+ingeneticdiseasesassociatedwithaggregation-proneproteins.Autophagy2:258–63
+103. Ding WX, Yin XM. 2008. Sorting, recognition and activation of the misfolded protein degradation
+pathwaysthroughmacroautophagyandtheproteasome.Autophagy4:141–50
+104. DiceJF.2007.Chaperone-mediatedautophagy.Autophagy3:295–99
+105. PattingreS,EspertL,Biard-PiechaczykM,CodognoP.2008.RegulationofmacroautophagybymTOR
+andBeclin1complexes.Biochimie90:313–23
+106. Sarkar S, Ravikumar B, Floto RA, Rubinsztein DC. 2009. Rapamycin and mTOR-independent au-
+tophagyinducersamelioratetoxicityofpolyglutamine-expandedhuntingtinandrelatedproteinopathies.
+CellDeathDiffer.16:46–56
+107. ZemkeD,AzharS,MajidA.2007.ThemTORpathwayasapotentialtargetforthedevelopmentof
+therapiesagainstneurologicaldisease.DrugNewsPerspect.20:495–99
+108. ReilingJH,SabatiniDM.2008.IncreasedmTORC1signalingUPRegulatesstress.Mol.Cell29:533–35
+109. OzcanU,OzcanL,YilmazE,DuvelK,SahinM,etal.2008.Lossofthetuberoussclerosiscomplex
+tumorsuppressorstriggerstheunfoldedproteinresponsetoregulateinsulinsignalingandapoptosis.
+Mol.Cell29:541–51
+110. PerlmutterDH.2009.Autophagicdisposaloftheaggregation-proneproteinthatcausesliverinflamma-
+tionandcarcinogenesisinα-1-antitrypsindeficiency.CellDeathDiffer.16:39–45
+111. GranellS,BaldiniG.2008.Inclusionbodiesandautophagosomes:AreER-derivedprotectiveorganelles
+differentthanclassicalautophagosomes?Autophagy4:375–77
+112. Hetz C, Glimcher L. 2008. The daily job of night killers: alternative roles of the BCL-2 family in
+organellephysiology.TrendsCellBiol.18:38–44
+988 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+113. GarciaSM,CasanuevaMO,SilvaMC,AmaralMD,MorimotoRI.2007.Neuronalsignalingmodulates
+proteinhomeostasisinCaenorhabditiseleganspostsynapticmusclecells.GenesDev.21:3006–16
+114. GiannakouME,PartridgeL.2007.Roleofinsulin-likesignallinginDrosophilalifespan.TrendsBiochem.
+Sci.32:180–88
+115. MairW,DillinA.2008.Agingandsurvival:thegeneticsoflifespanextensionbydietaryrestriction.
+Annu.Rev.Biochem.77:727–54
+116. HansenM,HsuAL,DillinA,KenyonC.2005.Newgenestiedtoendocrine,metabolic,anddietary
+regulationoflifespanfromaCaenorhabditiselegansgenomicRNAiscreen.PLoSGenet.1:119–28
+117. TulletJM,HertweckM,AnJH,BakerJ,HwangJY,etal.2008.Directinhibitionofthelongevity-
+promotingfactorSKN-1byinsulin-likesignalinginC.elegans.Cell132:1025–38
+118. BudovskayaYV,WuK,SouthworthLK,JiangM,TedescoP,etal.2008.Anelt-3/elt-5/elt-6GATA
+transcriptioncircuitguidesaginginC.elegans.Cell134:291–303
+119. KahnSE,HullRL,UtzschneiderKM.2006.Mechanismslinkingobesitytoinsulinresistanceandtype
+2diabetes.Nature444:840–46
+120. GregorMG,HotamisligilGS.2007.Adipocytestress:theendoplasmicreticulumandmetabolicdisease.
+J.LipidRes.48:1905–14
+121. ScheunerD,KaufmanRJ.2008.Theunfoldedproteinresponse:apathwaythatlinksinsulindemand
+withβ-cellfailureanddiabetes.Endocr.Rev.29:317–33
+122. GregorMF,HotamisligilGS.2007.Thematicreviewseries:AdipocyteBiology.Adipocytestress:the
+endoplasmicreticulumandmetabolicdisease.J.LipidRes.48:1905–14
+123. EizirikDL,CardozoAK,CnopM.2008.Theroleforendoplasmicreticulumstressindiabetesmellitus.
+Endocr.Rev.29:42–61
+124. HaatajaL,GurloT,HuangCJ,ButlerPC.2008.Isletamyloidintype2diabetes,andthetoxicoligomer
+hypothesis.Endocr.Rev.29:303–16
+125. HullRL,WestermarkGT,WestermarkP,KahnSE.2004.Isletamyloid:acriticalentityinthepatho-
+genesisoftype2diabetes.J.Clin.Endocrinol.Metab.89:3629–43
+126. SongB,ScheunerD,RonD,PennathurS,KaufmanRJ.2008.CHOPdeletionreducesoxidativestress,
+improves β-cell function, and promotes cell survival in multiple mouse models of diabetes. J. Clin.
+Investig.118:3378–89
+127. DashwoodRH,HoE.2007.Dietaryhistonedeacetylaseinhibitors:fromcellstomicetoman.Semin.
+CancerBiol.17:363–69
+128. MetoyerCF,PruittK.2008.Theroleofsirtuinproteinsinobesity.Pathophysiology15:103–8
+129. ElliottPJ,JirousekM.2008.Sirtuins:noveltargetsformetabolicdisease.Curr.Opin.Investig.Drugs
+9:371–78
+130. BordoneL,GuarenteL.2007.Sirtuinsandβ-cellfunction.DiabetesObes.Metab.9(Suppl.2):23–27
+131. Salehi M, Aulinger BA, D’Alessio DA. 2008. Targeting β-cell mass in type 2 diabetes: promise and
+limitationsofnewdrugsbasedonincretins.Endocr.Rev.29:367–79
+132. HalimiS.2008.DPP-4inhibitorsandGLP-1analogues:forwhom?Whichplaceforincretinsinthe
+managementoftype2diabeticpatients?DiabetesMetab.34(Suppl.2):S91–95
+133. ImaiJ,KatagiriH,YamadaT,IshigakiY,SuzukiT,etal.2008.Regulationofpancreaticβ-cellmassby
+neuronalsignalsfromtheliver.Science322:1250–54
+134. NeckersL.2007.Heatshockprotein90:thecancerchaperone.J.Biosci.32:517–30
+135. BrownMA,ZhuL,SchmidtC,TuckerPW.2007.Hsp90—fromsignaltransductiontocelltransforma-
+tion.Biochem.Biophys.Res.Commun.363:241–46
+136. PearlLH,ProdromouC,WorkmanP.2008.TheHsp90molecularchaperone:anopenandshutcase
+fortreatment.Biochem.J.410:439–53
+137. ChiosisG.2006.Discoveryanddevelopmentofpurine-scaffoldHsp90inhibitors.Curr.Top.Med.Chem.
+6:1183–91
+138. SolitDB,ChiosisG.2008.DevelopmentandapplicationofHsp90inhibitors.DrugDiscov.Today13:38–
+43
+139. TaldoneT,GozmanA,MaharajR,ChiosisG.2008.TargetingHsp90:small-moleculeinhibitorsand
+theirclinicaldevelopment.Curr.Opin.Pharmacol.8:370–74
+www.annualreviews.org • DiseasesofProteostasisDeficiency 989
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+140. PowersMV,WorkmanP.2007.Inhibitorsoftheheatshockresponse:biologyandpharmacology.FEBS
+Lett.581:3758–69
+141. WangL,ZhouGB,LiuP,SongJH,LiangY,etal.2008.DissectionofmechanismsofChinesemedicinal
+formulaRealgar-Indigonaturalisasaneffectivetreatmentforpromyelocyticleukemia.Proc.Natl.Acad.
+Sci.USA105:4826–31
+142. DildaPJ,HoggPJ.2007.Arsenical-basedcancerdrugs.CancerTreat.Rev.33:542–64
+143. NakamuraT,LiptonSA.2008.EmergingrolesofS-nitrosylationinproteinmisfoldingandneurode-
+generativediseases.Antioxid.RedoxSignal.10:87–101
+144. YangH,Landis-PiwowarKR,ChenD,MilacicV,DouQP.2008.Naturalcompoundswithproteasome
+inhibitoryactivityforcancerpreventionandtreatment.Curr.ProteinPept.Sci.9:227–39
+145. BossiG,SacchiA.2007.Restorationofwild-typep53functioninhumancancer:relevancefortumor
+therapy.HeadNeck29:272–84
+146. ChauhanD,HideshimaT,AndersonKC.2008.Targetingproteasomesastherapyinmultiplemyeloma.
+Adv.Exp.Med.Biol.615:251–60
+147. MateosMV,SanMiguelJF.2007.Bortezomibinmultiplemyeloma.BestPract.Res.Clin.Haematol.
+20:701–15
+148. CohenE,BieschkeJ,PerciavalleRM,KellyJW,DillinA.2006.Opposingactivitiesprotectagainst
+age-onsetproteotoxicity.Science313:1604–10
+149. HaassC,SelkoeDJ.2007.Solubleproteinoligomersinneurodegeneration:lessonsfromtheAlzheimer’s
+amyloidβ-peptide.Nat.Rev.Mol.CellBiol.8:101–12
+150. KaganovichD,KopitoR,FrydmanJ.2008.Misfoldedproteinspartitionbetweentwodistinctquality
+controlcompartments.Nature454:1088–95
+151. MorimotoRI.2006.Stress,aging,andneurodegenerativedisease.N.Engl.J.Med.355:2254–55
+152. BrignullHR,MooreFE,TangSJ,MorimotoRI.2006.Polyglutamineproteinsatthepathogenicthresh-
+old display neuron-specific aggregation in a pan-neuronal Caenorhabditis elegans model. J. Neurosci.
+26:7597–606
+153. ShaoJ,DiamondMI.2007.Polyglutaminediseases:emergingconceptsinpathogenesisandtherapy.
+Hum.Mol.Genet.16(Spec.2):R115–23
+154. WangH,DuennwaldML,RobertsBE,RozeboomLM,ZhangYL,etal.2008.Directandselective
+eliminationofspecificprionsandamyloidsby4,5-dianilinophthalimideandanalogs.Proc.Natl.Acad.
+Sci.USA105:7159–64
+155. LevyM,PoratY,BacharachE,ShalevDE,GazitE.2008.Phenolsulfonphthalein,butnotphenolph-
+thalein, inhibits amyloid fibril formation: implications for the modulation of amyloid self-assembly.
+Biochemistry47:5896–904
+156. GanL.2007.Therapeuticpotentialofsirtuin-activatingcompoundsinAlzheimer’sdisease.DrugNews
+Perspect.20:233–39
+157. SelkoeDJ.2007.Developingpreventivetherapiesforchronicdiseases:lessonslearnedfromAlzheimer’s
+disease.Nutr.Rev.65:S239–43
+158. PandeyUB,NieZ,BatleviY,McCrayBA,RitsonGP,etal.2007.HDAC6rescuesneurodegeneration
+andprovidesanessentiallinkbetweenautophagyandtheUPS.Nature447:859–63
+159. OuteiroTF,MarquesO,KazantsevA.2008.Therapeuticroleofsirtuinsinneurodegenerativedisease.
+Biochim.Biophys.Acta1782:363–69
+160. ThomasEA,CoppolaG,DesplatsPA,TangB,SoragniE,etal.2008.TheHDACinhibitor4bamelio-
+ratesthediseasephenotypeandtranscriptionalabnormalitiesinHuntington’sdiseasetransgenicmice.
+Proc.Natl.Acad.Sci.USA105:15564–69
+161. WinklhoferKF.2007.TheparkinproteinasatherapeutictargetinParkinson’sdisease.ExpertOpin.
+Ther.Targets11:1543–52
+162. LimKL,TanJM.2007.RoleoftheubiquitinproteasomesysteminParkinson’sdisease.BMCBiochem.
+8(Suppl.1):S13
+163. ValdmanisPN,RouleauGA.2008.Geneticsoffamilialamyotrophiclateralsclerosis.Neurology70:144–
+52
+990 Powersetal.
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+ANRV378-BI78-33 ARI 5May2009 15:3
+164. GruzmanA,WoodWL,AlpertE,PrasadMD,MillerRG,etal.2007.Commonmolecularsignaturein
+SOD1forbothsporadicandfamilialamyotrophiclateralsclerosis.Proc.Natl.Acad.Sci.USA104:12524–
+29
+165. YamanakaK,ChunSJ,BoilleeS,Fujimori-TonouN,YamashitaH,etal.2008.Astrocytesasdeterminants
+ofdiseaseprogressionininheritedamyotrophiclateralsclerosis.Nat.Neurosci.11:251–53
+166. WinyardPG,MoodyCJ,JacobC.2005.Oxidativeactivationofantioxidantdefence.TrendsBiochem.Sci.
+30:453–61
+167. SangsterTA,SalathiaN,UndurragaS,MiloR,SchellenbergK,etal.2008.HSP90affectstheexpression
+ofgeneticvariationanddevelopmentalstabilityinquantitativetraits.Proc.Natl.Acad.Sci.USA105:2963–
+68
+168. RutherfordS,HirateY,SwallaBJ.2007.TheHsp90capacitor,developmentalremodeling,andevolution:
+therobustnessofgenenetworksandthecuriousevolvabilityofmetamorphosis.Crit.Rev.Biochem.Mol.
+Biol.42:355–72
+169. CowenLE,LindquistS.2005.Hsp90potentiatestherapidevolutionofnewtraits:drugresistancein
+diversefungi.Science309:2185–89
+170. HopkinsAL.2008.Networkpharmacology:thenextparadigmindrugdiscovery.Nat.Chem.Biol.4:682–
+90
+171. Gurkan C, Lapp H, Alory C, Su AI, Hogenesch JB, Balch WE. 2005. Large-scale profiling of Rab
+GTPasetraffickingnetworks:themembrane.Mol.Biol.Cell16:3847–64
+www.annualreviews.org • DiseasesofProteostasisDeficiency 991
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+AR378-FM ARI 7May2009 15:43
+AnnualReviewof Contents
+Biochemistry
+Preface (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)v
+Volume78,2009
+PrefatoryArticles
+Frontispiece
+E.PeterGeiduschek
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)xii
+WithoutaLicense,orAccidentsWaitingtoHappen
+E.PeterGeiduschek
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)1
+Frontispiece
+JamesC.Wang
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)30
+AJourneyintheWorldofDNARingsandBeyond
+JamesC.Wang
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)31
+BiochemistryandDiseaseTheme
+TheBiochemistryofDisease:DesperatelySeekingSyzygy
+JohnW.Kozarich
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)55
+BiosynthesisofPhosphonicandPhosphinicAcidNaturalProducts
+WilliamW.MetcalfandWilfredA.vanderDonk
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)65
+NewAntiviralsandDrugResistance
+PeterM.Colman (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)95
+MultidrugResistanceinBacteria
+HiroshiNikaido
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)119
+ConformationalPathologyoftheSerpins:Themes,Variations,
+andTherapeuticStrategies
+BibekGooptuandDavidA.Lomas
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)147
+GettingaGriponPrions:Oligomers,Amyloids,andPathological
+MembraneInteractions
+ByronCaughey,GeraldS.Baron,BruceChesebro,andMartinJeffrey
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)177
+Ubiquitin-MediatedProteinRegulation
+RINGDomainE3UbiquitinLigases
+RaymondJ.DeshaiesandClaudioA.P.Joazeiro
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)399
+RegulationandCellularRolesofUbiquitin-Specific
+DeubiquitinatingEnzymes
+FranciscaE.Reyes-Turcu,KarenH.Ventii,andKeithD.Wilkinson
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)363
+vi
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+AR378-FM ARI 7May2009 15:43
+RecognitionandProcessingofUbiquitin-ProteinConjugates
+bytheProteasome
+DanielFinley
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)477
+DegradationofActivatedProteinKinasesbyUbiquitination
+ZhiminLuandTonyHunter
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)435
+TheRoleofUbiquitininNF-κBRegulatoryPathways
+BrianSkaug,XiaomoJiang,andZhijianJ.Chen
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)769
+BiologicalandChemicalApproachestoDiseasesofProteostasis
+Deficiency
+EvanT.Powers,RichardI.Morimoto,AndrewDillin,JefferyW.Kelly,
+andWilliamE.Balch
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)959
+GeneExpression
+RNAPolymeraseActiveCenter:TheMolecularEngine
+ofTranscription
+EvgenyNudler
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)335
+Genome-WideViewsofChromatinStructure
+OliverJ.RandoandHowardY.Chang
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)245
+TheBiologyofChromatinRemodelingComplexes
+CedricR.ClapierandBradleyR.Cairns
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)273
+TheStructuralandFunctionalDiversityofMetabolite-Binding
+Riboswitches
+AdamRothandRonaldR.Breaker
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)305
+LipidandMembraneBiogenesis
+GeneticandBiochemicalAnalysisofNon-VesicularLipidTraffic
+DennisR.Voelker
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)827
+Cholesterol24-Hydroxylase:AnEnzymeofCholesterolTurnover
+intheBrain
+DavidW.Russell,RebekkahW.Halford,DeniseM.O.Ramirez,RahulShah,
+andTiinaKotti
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)1017
+Lipid-DependentMembraneProteinTopogenesis
+WilliamDowhanandMikhailBogdanov
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)515
+Single-MoleculeStudiesoftheNeuronalSNAREFusionMachinery
+AxelT.Brunger,KeithWeninger,MarkBowen,andStevenChu
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)903
+MechanismsofEndocytosis
+GaryJ.DohertyandHarveyT.McMahon
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)857
+Contents vii
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+
+AR378-FM ARI 7May2009 15:43
+RecentAdvancesinBiochemistry
+Motors,Switches,andContactsintheReplisome
+SamirM.HamdanandCharlesC.Richardson
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)205
+Large-ScaleStructuralBiologyoftheHumanProteome
+AledEdwards
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)541
+CollagenStructureandStability
+MatthewD.ShouldersandRonaldT.Raines
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)929
+TheStructuralandBiochemicalFoundationsofThiaminBiosynthesis
+ChristopherT.Jurgenson,TadhgP.Begley,andStevenE.Ealick
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)569
+Proton-CoupledElectronTransferinBiology:Resultsfrom
+SynergisticStudiesinNaturalandModelSystems
+StevenY.ReeceandDanielG.Nocera
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)673
+MechanismofMo-DependentNitrogenase
+LanceC.Seefeldt,BrianM.Hoffman,andDennisR.Dean
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)701
+InorganicPolyphosphate:EssentialforGrowthandSurvival
+NarayanaN.Rao,Mar´ıaR.Go´mez-Garc´ıa,andArthurKornberg
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)605
+EssentialsforATPSynthesisbyF F ATPSynthases
+1 0
+ChristophvonBallmoos,AlexanderWiedenmann,andPeterDimroth
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)649
+TheChemicalBiologyofProteinPhosphorylation
+MaryKatherineTarrantandPhilipA.Cole
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)797
+Sphingosine1-PhosphateReceptorSignaling
+HughRosen,PedroJ.Gonzalez-Cabrera,M.GermanaSanna,andStevenBrown
+(cid:2)(cid:2)(cid:2)(cid:2)743
+TheAdventofNear-AtomicResolutioninSingle-ParticleElectron
+Microscopy
+YifanChengandThomasWalz
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)723
+Super-ResolutionFluorescenceMicroscopy
+BoHuang,MarkBates,andXiaoweiZhuang
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)993
+Indexes
+CumulativeIndexofContributingAuthors,Volumes74–78 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)1041
+CumulativeIndexofChapterTitles,Volumes74–78 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)1045
+Errata
+AnonlinelogofcorrectionstoAnnual Review of Biochemistry articlesmaybefoundat
+http://biochem.annualreviews.org/errata.shtml
+viii Contents
+gro.sweiverlaunna.www
+morf
+dedaolnwoD
+.199-959:87.9002
+.mehcoiB
+.veR
+.unnA
+.ylno
+esu
+lanosrep
+roF
+.22/02/10
+no
+ytisrevinU
+ukruT
+yb
+dedivorp
+sseccA
+
+---PAGE BREAK---
+

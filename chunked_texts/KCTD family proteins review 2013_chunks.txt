@@ -1,0 +1,534 @@
+Chunk 1:
+Liuetal.Cell&Bioscience2013,3:45
+http://www.cellandbioscience.com/content/3/1/45 Cell & Bioscience
+REVIEW Open Access
+The KCTD family of proteins: structure, function,
+disease relevance
+Zhepeng Liu1† , Yaqian Xiang2† and Guihong Sun1*
+Abstract
+The family of potassium channeltetramerizationdomain (KCTD) proteins consists of 26 members with mostly
+unknown functions. The name ofthe protein family is due to thesequencesimilarity between theconserved
+N-terminal region ofKCTD proteins and the tetramerization domain insome voltage-gated potassium channels.
+Dozens of publications suggest that KCTD proteins have roles invarious biological processes and diseases. Inthis
+review, we summarize thecharacter ofBric-a-brack,Tram-track, Broad complex(BTB) ofKCTD proteins, their roles in
+theubiquitinationpathway,andtherolesofKCTDmutantsindiseases.Furthermore,wereviewpotentialdownstream
+signalingpathwaysanddiscussfuturestudiesthatshouldbeperformed.
+Keywords:KCTD,BTBdomain,Adaptor
+Introduction BTBdomainandhomologybetweenKCTDfamilymembers
+The human potassium (K+) channel tetramerization The human genome includes approximately 400 BTB
+domain (KCTD)family of proteins consists of 26 mem- domain-containing proteins. The BTB domain is a highly
+bers that share sequence similarity with the cytoplasmic conserved motif of about 100 amino acids and can be
+domain of voltage-gated K+channels(Kv channels) [1-3]. found at the N-terminusof C H -type zinc-finger tran-
+2 2
+The KCTD proteins have relatively conserved N-terminal scription factors and in some actin-binding proteins [11].
+domains and variable C-termini. Comparative analyses of BTB domain-containing proteins include transcription
+the conserved N-terminal sequence suggest the presence factors, oncogenic proteins, ion channel proteins, and
+of a common Bric-a-brack,Tram-track, Broad complex KCTD proteins [2,12-14]. Many BTB domain-containing
+(BTB) domain, which is also known as the POZ domain. proteins contain one or two additional domains, suc
+
+Chunk 2:
+mini. Comparative analyses of BTB domain-containing proteins include transcription
+the conserved N-terminal sequence suggest the presence factors, oncogenic proteins, ion channel proteins, and
+of a common Bric-a-brack,Tram-track, Broad complex KCTD proteins [2,12-14]. Many BTB domain-containing
+(BTB) domain, which is also known as the POZ domain. proteins contain one or two additional domains, such as
+The BTB domain is aversatile protein-protein interaction kelch repeats, zinc-finger domains, FYVE (Fab1, YOTB,
+motifthatfacilitateshomodimerizationorheterodimeriza- Vac1, and EEA1) fingers which is a novel zinc finger-like
+tion. A variety of functions have been identified for the domain found in several proteins involved in membrane
+BTB domain-containing KCTD proteins. These functions trafficking, orankyrinrepeats[15].Thesespecialdomains
+includetranscriptionalrepression[4,5],cytoskeletonregu- provide unique characteristics and functions to the BTB
+lation[6],tetramerizationandgatingofionchannels[7,8], proteins. The BTB domain facilitates protein-protein
+and interaction with the cullin E3 (Cul3) ubiquitin ligase interactions between KCTD proteins to allow self-
+complex [9,10]. In this review, we will summarize the assembly or with non-BTB-domain-containing proteins
+homology between KCTD family members and some of to promote oligomerization [15]. The X-ray crystal
+the key features of KCTD proteins. We will also discuss structure of KCTD5 also revealed assemblies of five
+therolesofmutantKCTDsindisease. subunitswhiletetramerswereanticipated[16].Avariety
+offunctionalrolesofKCTDproteinshavebeenidentified
+by different signal pathways, including sonic hedgehog
+(Shh)[17-19],Wnt/beta-catenin[20],FGF[1],andGABA
+signaling[21-24].Alignmentoftheaminoacidsinthepo-
+*Correspondence:ghsunlab@whu.edu.cn tassiumtetramerizationdomainsofallknownKCTDpro-
+†Equalcontributors
+1SchoolofBasicMedicalSciences,WuhanUniversity,Wuhan430072, teins demonstrates that most KCTD proteins can be
+People’sRepu
+
+Chunk 3:
+inshavebeenidentified
+by different signal pathways, including sonic hedgehog
+(Shh)[17-19],Wnt/beta-catenin[20],FGF[1],andGABA
+signaling[21-24].Alignmentoftheaminoacidsinthepo-
+*Correspondence:ghsunlab@whu.edu.cn tassiumtetramerizationdomainsofallknownKCTDpro-
+†Equalcontributors
+1SchoolofBasicMedicalSciences,WuhanUniversity,Wuhan430072, teins demonstrates that most KCTD proteins can be
+People’sRepublicofChina divided into seven groups by amino acid sequences.
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2013Liuetal.;licenseeBioMedCentralLtd.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/2.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycited.TheCreativeCommonsPublicDomainDedication
+waiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,unlessotherwise
+stated.
+
+---PAGE BREAK---
+
+Liuetal.Cell&Bioscience2013,3:45 Page2of5
+http://www.cellandbioscience.com/content/3/1/45
+The A-group contains KCTD9, KCTD17, KCTD 5, and successful ubiquitination of substrate proteins [26]. Cul3
+KCTD 2. The B-group contains KCTD10, KCTD13, and is one of seven human cullin proteins (Cul1,Cul2,Cul3,
+TNFAIP1. The C-group contains KCTD7 and KCTD14. Cul4A,Cul4B,Cul5, and Cul7). Most cullins form com-
+The D-group contains KCTD8, KCTD12, and KCTD16. plexeswithsubstrateproteinsbyinteractingwiththeBTB
+The E-group contains KCTD11, KCTD21, and KCTD6. domainsofadaptorproteins[3].Thus,theBTBdomainis
+Members of the F-group include KCTD1 and KCTD15. important for the process of ubiquitination and protein
+And the final group is the G-group, which contains degradation. Ubiquitination involves a three-step enzy-
+KCTD3 and SHKBP1 and BTB10. KCTD20, KCTD18, matic cascade, which is initially activated by ubiquitin-
+KCTD19, and KCTD4 do not belong to these seven activatingenzyme(E1).Thesubstrateisthentransferredto
+grou
+
+Chunk 4:
+roup include KCTD1 and KCTD15. important for the process of ubiquitination and protein
+And the final group is the G-group, which contains degradation. Ubiquitination involves a three-step enzy-
+KCTD3 and SHKBP1 and BTB10. KCTD20, KCTD18, matic cascade, which is initially activated by ubiquitin-
+KCTD19, and KCTD4 do not belong to these seven activatingenzyme(E1).Thesubstrateisthentransferredto
+groups (Figure 1). The evolutionary tree of the KCTD ubiquitin-conjugating enzyme(E2) and is finally linked
+family proteins is similar to the group that Skoblov M with ubiquitin ligase(E3) [27]. Various cellular functions,
+et al. built [25]. We also suggest that homologous KCTD including cell proliferation, differentiation, apoptosis, and
+members may share similar functional roles in prolifera- protein transport, involve protein ubiquitination and de-
+tion, transcription, protein degradation, regulation of G- ubiquitination [28]. Bioinformatics and mutagenesis ana-
+protein coupled receptors and other molecular or bio- lyseshavedemonstratedthatthebest-characterizedmem-
+logicalprocesses. ber of the KCTD family, KCTD11/REN, is expressed as
+twoalternativevariants,sKCTD11andlKCTD11.Despite
+KCTDproteinsasadaptormolecules the fact that both variants possess a BTB domain in the
+BTB-domain-containingKCTDproteinsmayactasadap- N-terminus, only the lKCTD11 form has a complete
+torsforinteractionsbetweentheCul3ubiquitinligaseand BTB domain. Intriguingly, this has not disturbed the
+its substrates. Thus, BTB KCTD proteins may facilitate cul3-binding activity of sKCTD11. KCTD11/REN also
+Figure1AparaloguestreeoftheKCTDfamilyproteinsascullinligaseadaptorandtheirsubstrate.Left:Aparaloguestreebuiltusing
+entireaminoacidsequencesoftheKCTDfamilyproteins;Right:thefamilyofKCTDproteinscorrespondingtocullinandtheirsubstrate.
+
+---PAGE BREAK---
+
+Liuetal.Cell&Bioscience2013,3:45 Page3of5
+http://www.cellandbioscience.com/content/3/1/45
+mediateshistonedeacetylase(HDAC1)ubiquitinationand diseases. For example, 
+
+Chunk 5:
+uestreeoftheKCTDfamilyproteinsascullinligaseadaptorandtheirsubstrate.Left:Aparaloguestreebuiltusing
+entireaminoacidsequencesoftheKCTDfamilyproteins;Right:thefamilyofKCTDproteinscorrespondingtocullinandtheirsubstrate.
+
+---PAGE BREAK---
+
+Liuetal.Cell&Bioscience2013,3:45 Page3of5
+http://www.cellandbioscience.com/content/3/1/45
+mediateshistonedeacetylase(HDAC1)ubiquitinationand diseases. For example, a homozygous mutation (R99X) in
+degradation via cullin binding, resulting in reduced Hh/ exon2ofKCTD7hasbeendescribedinprogressivemyo-
+Gli signaling [18]. The KCTD21 and KCTD6 have also clonic epilepsy (PME) [37]. A second homozygous mis-
+been found to have the same features as KCTD11 [29]. sense mutation (R94W) in exon 2 of KCTD7 has also
+Thus, KCTD21 and KCTD6 may also facilitate protein beenfound inPME[38].Inaddition,aheterozygousmis-
+degradation and reduced cellular signaling due to asso- sensemutation(R84W)andalargeheterozygousdeletion
+ciations with ubiquitin ligases. KCTD5 and KCTD7 have ofexons3and4ofKCTD7havealsobeenreportedinpa-
+alsobeenshowntofunctionassubstrate-specificadaptors tients with PME [30,31]. Allelic deletion of human KCTD11
+for cullin3-based E3ligases [3,30,31].Inaddition, KCTD7 at chromosomal location 17p13.2 has been found in me-
+has been shown to increase potassium conductance due dulloblastoma [19,39]. In addition, gene copy number
+to increased proteasome degradation of an unidentified variants(CNVs)ofKCTD13mappingtochromosomallo-
+substrate[30].Thus,severalmembersoftheKCTDfamily cation 16p11.2 are considered to be major genetic causes
+function as critical adaptor molecules for ubiquitin- of macrocephaly and microcephaly. Overexpression of
+mediated protein degradation. This function ultimately KCTD13 induces microcephaly, whereas suppression of
+results in the modulation of important downstream sig- thesamelocusresultsinamacrocephalicphenotype[40].
+naling pathways and biological processes. As can be seen Missense mutations in KCTD1occur in Scalp-ear-
+
+Chunk 6:
+adaptor molecules for ubiquitin- of macrocephaly and microcephaly. Overexpression of
+mediated protein degradation. This function ultimately KCTD13 induces microcephaly, whereas suppression of
+results in the modulation of important downstream sig- thesamelocusresultsinamacrocephalicphenotype[40].
+naling pathways and biological processes. As can be seen Missense mutations in KCTD1occur in Scalp-ear-nipple
+from Figure 1, cullin is fairly widely interaction with the (SEN) syndrome [41]. Single nucleotide polymorphisms
+family of KCTD proteins. In the future, this novel sub- (SNPs) of KCTD10 (i5642G->C and V206VT->C) are
+strate of KCTD will help to understand the function of associatedwithalteredconcentrationsofHDLcholesterol,
+thecomplexofCUL3–BTB. particularlyinsubjectswithhighlevelsofcarbohydratein-
+take [42]. KCTD mutants affect proliferation, differenti-
+KCTDsanddisease ation, apoptosis, and metabolism in different tissues. For
+KCTDproteinshaveessentialrolesinproliferation,differ- example, the CNVs of KCTD13 affect the balance of pro-
+entiation,apoptosis,andmetabolism.Improperregulation liferation and apoptosis in neuronal progenitor cells. In
+ofKCTDgeneshasbeenassociatedwithvariousdiseases, addition, deletions in KCTD11 abrogateinhibition of Shh
+including medulloblastoma [32], breast carcinoma [33], signaling at the outer to inner external granule layer-
+obesity [34,35], and pulmonary inflammation [36]. Many granulecellprogenitor(EGLGCP)transitionsbyaffecting
+studiesshowassociationsbetweenmutationsinindividual expression of Gli1 and Gli2 [19]. Deletions in KCASH,
+KCTD genes or allelic loss of KCTDs with specific KCTD21,orKCTD6blockinteractionswithubiquitination
+Table1KCTDproteinsandrelateddiseases
+Disease KCTD- FunctionofKCTDproteinsindisease Reference
+related
+Cancer Gastrointestinal KCTD12 biomarker Ref.[43]
+stromaltumor
+KCTD10 prognosticbiomarker
+Medulloblastoma KCTD11 SuppressHistoneDeacetylaseandHedgehogactivityinmedulloblastoma Ref.[17];Ref.[19];Ref.
+[39];
+KCTD2
+
+Chunk 7:
+or allelic loss of KCTDs with specific KCTD21,orKCTD6blockinteractionswithubiquitination
+Table1KCTDproteinsandrelateddiseases
+Disease KCTD- FunctionofKCTDproteinsindisease Reference
+related
+Cancer Gastrointestinal KCTD12 biomarker Ref.[43]
+stromaltumor
+KCTD10 prognosticbiomarker
+Medulloblastoma KCTD11 SuppressHistoneDeacetylaseandHedgehogactivityinmedulloblastoma Ref.[17];Ref.[19];Ref.
+[39];
+KCTD21
+KCTD6
+Neurological ProgressiveMyoclonic KCTD7 KCTD7mutationsmightbearecurrentcauseofPME Ref.[30];Ref.[31];Ref.
+disease Epilepsy(PME) [37];Ref.[38]
+AbnormalHeadSize KCTD13 overexpressionmicrocephalyphenotype Ref.[40]
+underexpressionmacrocephalyphenotype
+Metabolic HDLcholesterol KCTD10 KCTD10(V206VT->Candi5642G->C)maycontributetothevariationin Ref.[42]
+disorder concentration HDL-cholesterolconcentrations,particularlyinsubjectswithhighcarbohydrate
+intakes.
+Others InfluenceEPO KCTD2 Productionoferythropoietin(EPO)wassignificantlyinhibitedwhen Ref.[44]
+production CEBPG,KCTD2,andTMEM183Awereknockeddown
+Liveinjuryof KCTD9 TheoverexpressedKCTD9activatesNKcellinperipheralbloodandliverin Ref.[45];Ref.[46]
+HBV-ACLF HBV-ACLF,whichcontributestoliverinjury
+ChronicTinnitus KCTD12 Riskmodifier Ref.[22]
+Scalp-ear-nipple(SEN) KCTD1 missensemutationinKCTD1causesSENsyndrome Ref.[41]
+syndrome
+
+---PAGE BREAK---
+
+Liuetal.Cell&Bioscience2013,3:45 Page4of5
+http://www.cellandbioscience.com/content/3/1/45
+enzymes, preventing degradation of HDAC1. This leads Authors’contributions
+to increased acetylation of Gli1 and increased Hh/Gli ZP,YX,andGSco-wrotethisreview.Allauthorsreadandapprovedthefinal
+manuscript.
+signaling,whichdrivesuncontrolledproliferationandde-
+velopment and progression of medulloblastoma [17,39].
+Acknowledgements
+Not only mutant KCTD could cause diseases, but also ThisworkwassupportedbytheNationalNaturalScienceFoundationof
+thechangeofKCTDexpressioninvolvedindifferentdis- China(No.30870113and31370187).
+eases [22,43-46]. All of the diseases related with KCTD
+Authordetails
+proteins have
+
+Chunk 8:
+
+signaling,whichdrivesuncontrolledproliferationandde-
+velopment and progression of medulloblastoma [17,39].
+Acknowledgements
+Not only mutant KCTD could cause diseases, but also ThisworkwassupportedbytheNationalNaturalScienceFoundationof
+thechangeofKCTDexpressioninvolvedindifferentdis- China(No.30870113and31370187).
+eases [22,43-46]. All of the diseases related with KCTD
+Authordetails
+proteins have been list in a Table 1 to make the family 1SchoolofBasicMedicalSciences,WuhanUniversity,Wuhan430072,
+moreconvenientforfurtherstudy.
+People’sRepublicofChina.2JinchuUniversityofTechnology,No.33
+xiangshanavenue,Jingmen448000,People’sRepublicofChina.
+Received:7October2013Accepted:4November2013
+Conclusion Published:24November2013
+There are some features of KCTDs that have not been
+reviewed in this article. For example, KCTD8, -12, -12b, References
+1. TakahashiC,SuzukiT,NishidaE,KusakabeM:Identificationand
+and-16 form functional oligomers with the GABAB recep-
+characterizationofXenopuskctd15,anectodermalgenerepressedby
+tor, resulting in the modulation of important signaling theFGFpathway.IntJDevBiol2012,56(5):393–402.
+pathways [21-24,47]. In addition, the PDIP1 family mem- 2. MeiF,XiangJ,HanS,HeY,LuY,XuJ,GuoD,XiaoG,TienP,SunG:
+Expression,purification,andsecondarystructurecharacterizationof
+bers(KCTD10,KCTD13,andTNFAIP1)aretumornecro- recombinantKCTD1.Biochemistry(Mosc)2012,77(8):941–945.
+sis factor-a-inducible proteins that can stimulate the 3. BayonY,TrinidadAG,DelaPuertaML,DelCarmenRM,BogetzJ,RojasA,
+activity of DNA polymerase in DNA replication and repair DePeredaJM,RahmouniS,WilliamsS,MatsuzawaS,etal:KCTD5,a
+putativesubstrateadaptorforcullin3ubiquitinligases.FEBSJ2008,
+pathways [48]. Furthermore, interactions between KCTD1, 275(15):3900–3910.
+KCTD15,andAP-2repressesthetranscriptionalactivityof 4. MelnickA,AhmadKF,AraiS,PolingerA,BallH,BordenKL,CarlileGW,PriveGG,
+AP-2a [13], Finally, KCTD1 has been shown to interact LichtJD:In-depthmutationalanalysisofthepromyelocyticleukemia
+
+Chunk 9:
+sS,MatsuzawaS,etal:KCTD5,a
+putativesubstrateadaptorforcullin3ubiquitinligases.FEBSJ2008,
+pathways [48]. Furthermore, interactions between KCTD1, 275(15):3900–3910.
+KCTD15,andAP-2repressesthetranscriptionalactivityof 4. MelnickA,AhmadKF,AraiS,PolingerA,BallH,BordenKL,CarlileGW,PriveGG,
+AP-2a [13], Finally, KCTD1 has been shown to interact LichtJD:In-depthmutationalanalysisofthepromyelocyticleukemiazinc
+withPrPC[49].Inthereview,wesummarizetheBTBchar- f
+a
+i
+n
+n
+d
+ge
+t
+r
+ra
+B
+n
+T
+s
+B
+c
+/
+r
+P
+ip
+O
+ti
+Z
+on
+d
+a
+o
+l
+m
+fu
+a
+n
+in
+ct
+r
+io
+ev
+n
+e
+s
+a
+.
+l
+M
+s
+o
+m
+lC
+o
+e
+ti
+l
+f
+l
+s
+B
+a
+io
+n
+l
+d
+20
+r
+0
+e
+0
+si
+,
+d
+2
+u
+0
+e
+(1
+s
+7
+r
+)
+e
+:6
+q
+5
+u
+5
+i
+0
+re
+–
+d
+65
+f
+6
+o
+7
+r
+.
+biological
+acteristicsoftheKCTDproteins,theirrolesintheubiquiti- 5. AhmadKF,MelnickA,LaxS,BouchardD,LiuJ,KiangCL,MayerS,Takahashi
+nation pathway, and the relevance of KCTD mutations in S,LichtJD,PriveGG:MechanismofSMRTcorepressorrecruitmentbythe
+BCL6BTBdomain.MolCell2003,12(6):1551–1564.
+various diseases. The review highlight the extraordinary
+6. KangMIKA,WakabayashiN,KimSG,YamamotoM:ScaffoldingofKeap1to
+possibilityoftheinteractionofcullin-KCTDstotargetsub- theactincytoskeletoncontrolsthefunctionofNrf2askeyregulatorof
+strates for ubiquitin-dependent degradation. If BTB-
+cytoprotectivephase2genes.ProcNatlAcadSciUSA2004,101:2046–2051.
+7. KreuschA,PfaffingerPJ,StevensCF,ChoeS:Crystalstructureofthe
+containing KCTD proteins can assemble into Cul3-based
+tetramerizationdomainoftheShakerpotassiumchannel.Nature1998,
+complexes, we estimate KCTD proteins can recruit sub- 392(6679):945–948.
+strates into ubiquitin system. We specifically discuss the 8. MinorDL,LinYF,MobleyBC,AvelarA,JanYN,JanLY,BergerJM:Thepolar
+T1interfaceislinkedtoconformationalchangesthatopenthevoltage-
+role of KCTD1 in the ubiquitination pathway via inter- gatedpotassiumchannel.Cell2000,102(5):657–670.
+actionwithcul3.WealsohypothesizethatKCTD1mediate 9. PintardL,WillemsA,PeterM:Cullin-basedubiquitinligases:Cul3-BTB
+prion protein into ubiquitination signal p
+
+Chunk 10:
+ly discuss the 8. MinorDL,LinYF,MobleyBC,AvelarA,JanYN,JanLY,BergerJM:Thepolar
+T1interfaceislinkedtoconformationalchangesthatopenthevoltage-
+role of KCTD1 in the ubiquitination pathway via inter- gatedpotassiumchannel.Cell2000,102(5):657–670.
+actionwithcul3.WealsohypothesizethatKCTD1mediate 9. PintardL,WillemsA,PeterM:Cullin-basedubiquitinligases:Cul3-BTB
+prion protein into ubiquitination signal pathway, and de-
+complexesjointhefamily.EMBOJ2004,23(8):1681–1687.
+10. KrekW:BTBproteinsashenchmenofCul3-basedubiquitinligases.
+regulation of the KCTD1 mediated prion protein ubiquiti- NatCellBiol2003,5(11):950–951.
+nation might be both a cause and result of prion disease. 11. BardwellVJ,TreismanR:ThePOZdomain:aconservedprotein-protein
+Furthermore, we speculate that members of the same sub-
+interactionmotif.GenesDev1994,8(14):1664–1677.
+12. CorrealeS,PironeL,DiMarcotullioL,DeSmaeleE,GrecoA,MazzaD,
+groups may have similar roles in biological processes or
+MorettiM,AlterioV,VitaglianoL,DiGaetanoS,etal:Molecularorganization
+molecular signaling pathways. We believe that further in- ofthecullinE3ligaseadaptorKCTD11.Biochimie2011,93(4):715–724.
+vestigations into the functions of individual KCTD family 13. DingX,LuoC,ZhouJ,ZhongY,HuX,ZhouF,RenK,GanL,HeA,ZhuJ,
+etal:TheinteractionofKCTD1withtranscriptionfactorAP-2alpha
+members are warranted, particularly within the context of inhibitsitstransactivation.JCellBiochem2009,106(2):285–295.
+specificdiseasesasdescribedhere. 14. DingXF,LuoC,RenKQ,ZhangJ,ZhouJL,HuX,LiuRS,WangY,GaoX:
+CharacterizationandexpressionofahumanKCTD1genecontainingthe
+BTBdomain,whichmediatestranscriptionalrepressionandhomomeric
+Abbreviations interactions.DNACellBiol2008,27(5):257–265.
+KCTD:Potassiumchanneltetramerizationdomain;BTB:Bric-a-brack, 15. StogiosPJ,DownsGS,JauhalJJ,NandraSK,PriveGG:Sequenceand
+Tram-track,Broadcomplex;Cul3:CullinE3ubiquitinligase;Shh:Sonic structuralanalysisofBTBdomainproteins.GenomeBiol2005,6(10):R82.
+hedgehog;E1:Ubiquitin-activatingenzyme;E2:
+
+Chunk 11:
+,whichmediatestranscriptionalrepressionandhomomeric
+Abbreviations interactions.DNACellBiol2008,27(5):257–265.
+KCTD:Potassiumchanneltetramerizationdomain;BTB:Bric-a-brack, 15. StogiosPJ,DownsGS,JauhalJJ,NandraSK,PriveGG:Sequenceand
+Tram-track,Broadcomplex;Cul3:CullinE3ubiquitinligase;Shh:Sonic structuralanalysisofBTBdomainproteins.GenomeBiol2005,6(10):R82.
+hedgehog;E1:Ubiquitin-activatingenzyme;E2:Ubiquitin-conjugating 16. DementievaIS,TereshkoV,McCrossanZA,SolomahaE,ArakiD,XuC,Grigorieff
+enzyme;E3:Ubiquitinligase;HDAC:Histonedeacetylase;PME:Progressive N,GoldsteinSA:Pentamericassemblyofpotassiumchanneltetramerization
+myoclonicepilepsy;CNV:Copynumbervariant;SEN:Scalp-ear- domain-containingprotein5.JMolBiol2009,387(1):175–191.
+nipplesyndrome;SNP:Singlenucleotidepolymorphism;EGLGCP:External 17. DeSmaeleE,DiMarcotullioL,MorettiM,PelloniM,OcchioneMA,InfanteP,
+granulelayer-granulecellprogenitor;KCASH:KCTDcontaining,Cullin3adaptor, CucchiD,GrecoA,PietrosantiL,TodorovicJ,etal:Identificationand
+suppressorofHedgehog;TNFAIP1:Tumornecrosisfactor,alpha-inducedprotein1. characterizationofKCASH2andKCASH3,2novelCullin3adaptors
+suppressinghistonedeacetylaseandHedgehogactivityin
+medulloblastoma.Neoplasia2011,13(4):374–385.
+Competinginterests 18. CanettieriLDMG,GrecoA,ConiS,AntonucciL,InfanteP,PietrosantiEDSL,
+Theauthorsdeclarethattheyhavenocompetinginterests. FerrettiE,MieleE,PelloniM,DeSimoneG,PedonePGEM,GiorgiA,
+
+---PAGE BREAK---
+
+Liuetal.Cell&Bioscience2013,3:45 Page5of5
+http://www.cellandbioscience.com/content/3/1/45
+SteinkühlerC,VitaglianoL,PedoneC,SchininISME,GulinoA:Histone suppressorofHedgehogsignalingandisdeletedinhuman
+deacetylaseandCullin3-REN(KCTD11)ubiquitinligaseinterplayregulates medulloblastoma.ProcNatlAcadSciUSA2004,101(29):10833–10838.
+hedgehogsignallingthroughGliacetylation.NatCellBiol2010,12:132–142. 40. GolzioC,WillerJ,TalkowskiME,OhEC,TaniguchiY,JacquemontS,
+19. DeSmaeleE,DiMarcotullioL,FerrettiE,ScrepantiI,AlesseE,GulinoA: ReymondA,SunM,SawaA,GusellaJF,etal:KCT
+
+Chunk 12:
+ofHedgehogsignalingandisdeletedinhuman
+deacetylaseandCullin3-REN(KCTD11)ubiquitinligaseinterplayregulates medulloblastoma.ProcNatlAcadSciUSA2004,101(29):10833–10838.
+hedgehogsignallingthroughGliacetylation.NatCellBiol2010,12:132–142. 40. GolzioC,WillerJ,TalkowskiME,OhEC,TaniguchiY,JacquemontS,
+19. DeSmaeleE,DiMarcotullioL,FerrettiE,ScrepantiI,AlesseE,GulinoA: ReymondA,SunM,SawaA,GusellaJF,etal:KCTD13isamajordriverof
+Chromosome17pdeletioninhumanmedulloblastoma:amissing mirroredneuroanatomicalphenotypesofthe16p11.2copynumber
+checkpointintheHedgehogpathway.CellCycle2004,3(10):1263–1266. variant.Nature2012,485(7398):363–367.
+20. DuttaS,DawidIB:Kctd15inhibitsneuralcrestformationbyattenuating 41. MarnerosAG,BeckAE,TurnerEH,McMillinMJ,EdwardsMJ,FieldM,De
+Wnt/beta-cateninsignalingoutput.Development2010,137(18):3013–3018. MacenaSobreiraNL,PerezAB,FortesJA,LampeAK,etal:MutationsinKCTD1
+21. SeddikR,JungblutSP,SilanderOK,RajaluM,FritziusT,BesseyriasV, causescalp-ear-nipplesyndrome.AmJHumGenet2013,92(4):621–626.
+JacquierV,FaklerB,GassmannM,BettlerB:OppositeeffectsofKCTD 42. JunyentM,ParnellLD,LaiCQ,LeeYC,SmithCE,ArnettDK,TsaiMY,
+subunitdomainsonGABA(B)receptor-mediateddesensitization.JBiol KabagambeEK,StrakaRJ,ProvinceM,etal:NovelvariantsatKCTD10,
+Chem2012,287(47):39869–39877. MVK,andMMABgenesinteractwithdietarycarbohydratestomodulate
+22. SandPG,LangguthB,ItzhackiJ,BauerA,GeisS,Cardenas-ConejoZE, HDL-cholesterolconcentrationsinthegeneticsoflipidloweringdrugs
+PimentelV,KleinjungT:ResequencingoftheauxiliaryGABA(B)receptor anddietnetworkstudy.AmJClinNutr2009,90(3):686–694.
+subunitgeneKCTD12inchronictinnitus.FrontSystNeurosci2012,6:41. 43. HasegawaT,AsanumaH,OginoJ,HirohashiY,ShinomuraY,IwakiH,
+23. MetzM,GassmannM,FaklerB,Schaeren-WiemersN,BettlerB:Distribution KikuchiH,KondoT:Useofpotassiumchanneltetramerizationdomain-
+oftheauxiliaryGABABreceptorsubunitsKCTD8,12,12b,and16inthe containing12asabiomarkerfordiagnosisandprognosisofgastrointestinal
+mousebrain.JCompNeurol2011,519(8):1435–
+
+Chunk 13:
+2inchronictinnitus.FrontSystNeurosci2012,6:41. 43. HasegawaT,AsanumaH,OginoJ,HirohashiY,ShinomuraY,IwakiH,
+23. MetzM,GassmannM,FaklerB,Schaeren-WiemersN,BettlerB:Distribution KikuchiH,KondoT:Useofpotassiumchanneltetramerizationdomain-
+oftheauxiliaryGABABreceptorsubunitsKCTD8,12,12b,and16inthe containing12asabiomarkerfordiagnosisandprognosisofgastrointestinal
+mousebrain.JCompNeurol2011,519(8):1435–1454. stromaltumor.HumPathol2013,44(7):1271–1277.
+24. SchwenkJ,MetzM,ZollesG,TurecekR,FritziusT,BildlW,TarusawaE, 44. LwaTR,TanCH,LewQJ,ChuKL,TanJ,LeeYY,ChaoSH:Identificationof
+KulikA,UngerA,IvankovaK,etal:NativeGABA(B)receptorsare cellulargenescriticaltorecombinantproteinproductionusingaGaussia
+heteromultimerswithafamilyofauxiliarysubunits.Nature2010,
+luciferase-basedsiRNAscreeningsystem.JBiotechnol2010,146(4):160–168.
+465(7295):231–235. 45. ChenT,ZhuL,ZhouY,PiB,LiuX,DengG,ZhangR,WangY,WuZ,HanM,
+25. SkoblovM,MarakhonovA,MarakasovaE,GuskovaA,ChandhokeV, etal:KCTD9contributestoliverinjurythroughNKcellactivationduring
+BirerdincA,BaranovaA:ProteinpartnersofKCTDproteinsprovide hepatitisBvirus-inducedacute-on-chronicliverfailure.ClinImmunol
+insightsabouttheirfunctionalrolesincelldifferentiationandvertebrate
+2013,146(3):207–216.
+development.Bioessays2013,35(7):586–596. 46. ZhouYY,ZouY,ChenT,WangHW,HanMF,PiB,YanWM,XiD,HuangJQ,
+26. FurukawaYJHM,BorchersC,XiongY:Targetingofproteinubiquitination LuoXP,etal:KCTD9,anovelpotassiumchannelrelatedgene,washighly
+byBTB-Cullin3-Roc1ubiquitinligases.NatCellBiol2005,5:1001–1007. expressedinhepaticNKcellsandTcellsoffulminanthepatitismice
+27. HochstrasserM:Ubiquitin-dependentproteindegradation.AnnuRev
+inducedbyMHV-3.ZhonghuaGanZangBingZaZhi2011,19(11):833–837.
+Genet1996,30:405–439. 47. HayasakiH,SohmaY,KanbaraK,OtsukiY:HeterogenousGABA(B)
+28. HershkoA,CiechanoverA:Theubiquitinsystem.AnnuRevBiochem1998, receptor-mediatedpathwaysareinvolvedinthelocalGABAergicsystem
+67:425–479. oftherattrigeminalganglion:possibleinvolvementofKCTDproteins.
+Neuroscien
+
+Chunk 14:
+rM:Ubiquitin-dependentproteindegradation.AnnuRev
+inducedbyMHV-3.ZhonghuaGanZangBingZaZhi2011,19(11):833–837.
+Genet1996,30:405–439. 47. HayasakiH,SohmaY,KanbaraK,OtsukiY:HeterogenousGABA(B)
+28. HershkoA,CiechanoverA:Theubiquitinsystem.AnnuRevBiochem1998, receptor-mediatedpathwaysareinvolvedinthelocalGABAergicsystem
+67:425–479. oftherattrigeminalganglion:possibleinvolvementofKCTDproteins.
+Neuroscience2012,218:344–358.
+29. DeSmaeleLDME,MorettiM,PelloniM,OcchioneMA,InfanteP,CucchiD,Greco
+48. ZhouJ,RenK,LiuX,XiongX,HuX,ZhangJ:AnovelPDIP1-relatedpro-
+A,PietrosantiL,TodorovicJ,ConiS,CanettieriG,FerrettiE,BeiR,MaroderM,
+tein,KCTD10,thatinteractswithproliferatingcellnuclearantigenand
+ScrepantiI,GulinoA:IdentificationandcharacterizationofKCASH2and
+DNApolymerasedelta.BiochimBiophysActa2005,1729(3):200–203.
+KCASH3,2novelCullin3adaptorssuppressinghistonedeacetylaseand
+Hedgehogactivityinmedulloblastoma.Neoplasia2010,13:374–385. 49. HuangT,XuJ,XiangJ,LuY,ChenR,HuangL,XiaoG,SunG:PrPC
+interactswithpotassiumchanneltetramerizationdomaincontaining1
+30. AziziehR,OrduzD,VanBogaertP,BouschetT,RodriguezW,SchiffmannSN,
+(KCTD1)proteinthroughthePrP(51–136)regioncontainingoctapeptide
+PirsonI,AbramowiczMJ:Progressivemyoclonicepilepsy-associatedgene
+repeats.BiochemBiophysResCommun2012,417(1):182–186.
+KCTD7isaregulatorofpotassiumconductanceinneurons.Mol
+Neurobiol2011,44(1):111–121.
+31. StaropoliJF,KaraaA,LimET,KirbyA,ElbalalesyN,RomanskySG,Leydiker doi:10.1186/2045-3701-3-45
+KB,CoppelSH,BaroneR,XinW,etal:AhomozygousmutationinKCTD7 Citethisarticleas:Liuetal.:TheKCTDfamilyofproteins:structure,
+function,diseaserelevance.Cell&Bioscience20133:45.
+linksneuronalceroidlipofuscinosistotheubiquitin-proteasomesystem.
+AmJHumGenet2012,91(1):202–208.
+32. MancarelliMM,ZazzeroniF,CiccocioppoL,CapeceD,PoA,MurgoS,Di
+CamilloR,RinaldiC,FerrettiE,GulinoA,etal:Thetumorsuppressorgene
+KCTD11RENisregulatedbySp1andmethylationanditsexpressionis
+reducedintumors.MolCancer2010,9:172.
+33. FarynaMF,KonermannC,AulmannS,BermejoJL
+
+Chunk 15:
+easerelevance.Cell&Bioscience20133:45.
+linksneuronalceroidlipofuscinosistotheubiquitin-proteasomesystem.
+AmJHumGenet2012,91(1):202–208.
+32. MancarelliMM,ZazzeroniF,CiccocioppoL,CapeceD,PoA,MurgoS,Di
+CamilloR,RinaldiC,FerrettiE,GulinoA,etal:Thetumorsuppressorgene
+KCTD11RENisregulatedbySp1andmethylationanditsexpressionis
+reducedintumors.MolCancer2010,9:172.
+33. FarynaMF,KonermannC,AulmannS,BermejoJL,BruggerM,DiederichsS,
+RomJ,WeichenhanD,ClausR,RehliM,SchirmacherP,SinnHP,PlassC,
+GerhauserC:Genome-widemethylationscreeninlow-gradebreastcan-
+ceridentifiesnovelepigeneticallyalteredgenesaspotentialbiomarkers
+fortumordiagnosis.FASEBJ2012,26:4937–4950.
+34. YoganathanP,KarunakaranS,HoMM,CleeSM:Nutritionalregulationof
+genome-wideassociationobesitygenesinatissue-dependentmanner.
+NutrMetab(Lond)2012,9(1):65.
+35. PaternosterL,EvansDM,NohrEA,HolstC,GaborieauV,BrennanP,Gjesing Submit your next manuscript to BioMed Central
+AP,GrarupN,WitteDR,JorgensenT,etal:Genome-widepopulation- and take full advantage of:
+basedassociationstudyofextremelyoverweightyoungadults–the
+GOYAstudy.PLoSOne2011,6(9):e24303.
+• Convenient online submission
+36. KoehlerGPDDR,SweezeyNB,TanswellAK,HuJ:Lunginflammationasa
+therapeutictargetincysticfibrosis.CellMolBiol2004,31:377–381. • Thorough peer review
+37. VanBogaertP,AziziehR,DesirJ,AebyA,DeMeirleirL,LaesJF,Christiaens
+• No space constraints or color figure charges
+F,AbramowiczMJ:Mutationofapotassiumchannel-relatedgenein
+progressivemyoclonicepilepsy.AnnNeurol2007,61(6):579–586. • Immediate publication on acceptance
+38. KousiM,AnttilaV,SchulzA,CalafatoS,JakkulaE,RieschE,MyllykangasL, • Inclusion in PubMed, CAS, Scopus and Google Scholar
+KalimoH,TopcuM,GokbenS,etal:NovelmutationsconsolidateKCTD7asa
+• Research which is freely available for redistribution
+progressivemyoclonusepilepsygene.JMedGenet2012,49(6):391–399.
+39. DiMarcotullioL,FerrettiE,DeSmaeleE,ArgentiB,MincioneC,ZazzeroniF,
+GalloR,MasuelliL,NapolitanoM,MaroderM,etal:REN(KCTD11)isa Submit your manuscript 
+
+Chunk 16:
+,MyllykangasL, • Inclusion in PubMed, CAS, Scopus and Google Scholar
+KalimoH,TopcuM,GokbenS,etal:NovelmutationsconsolidateKCTD7asa
+• Research which is freely available for redistribution
+progressivemyoclonusepilepsygene.JMedGenet2012,49(6):391–399.
+39. DiMarcotullioL,FerrettiE,DeSmaeleE,ArgentiB,MincioneC,ZazzeroniF,
+GalloR,MasuelliL,NapolitanoM,MaroderM,etal:REN(KCTD11)isa Submit your manuscript at
+www.biomedcentral.com/submit
+
+---PAGE BREAK---
+
+
+

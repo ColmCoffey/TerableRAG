@@ -1,0 +1,600 @@
+RESEARCHARTICLE
+Parkinson’s disease-associated genetic
+variation is linked to quantitative expression
+of inflammatory genes
+StevenPierce,GerhardA.Coetzee*
+CenterforNeurodegenerativeScience,VanAndelResearchInstitute,GrandRapids,MI,UnitedStates
+*gerry.coetzee@vai.org
+Abstract
+Genome-wideassociationstudies(GWAS)havelinkeddozensofsinglenucleotidepoly-
+a1111111111
+a1111111111 morphisms(SNPs)withParkinson’sdisease(PD)risk.Ascertainingthefunctionaland
+a1111111111 eventualcausalmechanismsunderlyingtheserelationshipshasprovendifficult.Themajor-
+a1111111111
+ityofriskSNPs,andnearbySNPsinlinkagedisequilibrium(LD),arefoundinintergenicor
+a1111111111
+intronicregionsandconferriskthroughallele-dependentexpressionofmultipleunknown
+targetgenes.CombiningGWASresultswithpubliclyavailableGTExdata,generated
+througheQTL(expressionquantitativetraitloci)identificationstudies,enablesadirectasso-
+ciationofSNPstogeneexpressionlevelsandaidsinnarrowingthelargepopulationof
+OPENACCESS potentialgenetictargetsforhypothesis-drivenexperimentalcellbiology.Separately,over-
+Citation:PierceS,CoetzeeGA(2017)Parkinson’s lappingofSNPswithputativeenhancersegmentationscanstrengthentargetfiltering.We
+disease-associatedgeneticvariationislinkedto
+reportheretheresultsofanalyzing7,607PDriskSNPsalongwithanadditional23,759high
+quantitativeexpressionofinflammatorygenes.
+linkagedisequilibrium-associatedvariantspairedwitheQTLgeneexpression.Wefound
+PLoSONE12(4):e0175882.https://doi.org/
+10.1371/journal.pone.0175882 thatenrichmentanalysisonthesetofgenesfollowingtargetfilteringpointedtoasingle
+largeLDblockat6p21thatcontainedmultipleHLA-MHC-IIgenes.TheseMHC-IIgenes
+Editor:QingyangHuang,HuazhongNormal
+University,CHINA remainassociatedwithPDwhenthegeneswerefilteredforcorrelationbetweenGWASsig-
+nificanceandeQTLlevels,stronglyindicatingadirecteffectonPDetiology.
+Received:December30,2016
+Accepted:March31,2017
+Published:April13,2017
+Copyright:©2017Pierce,Coetzee.Thisisanopen
+accessarticledistributedunderthetermsofthe Introduction
+CreativeCommonsAttributionLicense,which
+permitsunrestricteduse,distribution,and Parkinson’sdisease[MIM168600]isanage-associated,incurableneurodegenerativedisorder
+reproductioninanymedium,providedtheoriginal withacumulativelifetimeriskofcloseto10%[1].Mostcasesaregeneticallycomplexandspo-
+authorandsourcearecredited. radic,thoughtwinstudiesindicateheritabilityisaround34–60%[2].Inadditionto7autoso-
+DataAvailabilityStatement:Allrelevantdataare malandrecessivemonogeniccausalgenes,atleast24locihavebeenassociatedbyGWASwith
+withinthepaperanditsSupportingInformation anincreasedriskofdevelopingParkinson’s[3,4].Dependingonthemethodofassociation,
+files. theselocilinkParkinson’sdiseaseetiologywithasetofbetween24and800geneshavingspe-
+Funding:ThisworkwassupportedbyVanAndel cificactivityinamultitudeoftissues.
+Instituteinternalfunds. Recently,someprogresshasbeenmadeinexperimentallylinkingspecificriskpolymorphisms
+withallele-specificregulatoryactivityandcorrespondingneighboringgeneactivity[5].However,
+Competinginterests:Theauthorshavedeclared
+thattheyhavenocompetinginterests. eveninthisbest-studiedcase,theexactimpactofalteredexpressiontotheneighboringgene,
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 1/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+SNCA[MIM163890],onPDremainsunclear.Forthemajorityofriskloci,thespecificdis-
+rupted-regulatoryelementandrelatedgeneexpressionchangesareunknown,preventingexperi-
+mentalmanipulationofthesortseenin[5].
+Previously,weexaminedthenonrandomdistributionofPDriskSNPsoverlappingtissue-
+specificputativeregulatoryelements(REs)[6].Thatanalysisindicatedthetissueortissuesin
+whichanallele-specificeffectwasmostlikelytobecausal.Surprisingly,mostREenrichment
+wasnotseeninbraintissue,indicatingthattheselocimayconferapredispositiontoPD
+throughbiologicaleffectsthatareremotefromtheeventualsymptomatictissues.Onedraw-
+backofthismethod,however,isthatitdidnotlinkrisktospecificgenesetsbutonlytotissue-
+specificactiveregionsgenerally.Furthermore,thespecificsoftheenrichmentexcludedseveral
+majorlocifromanalysis.Inthepresentstudy,weexaminedifferentsetsofgenespotentially
+associatedwithPDrisklociinordertoidentifycommonfunctionalpathways.Inordertofind
+experimentalgenetictargets,welinkedgenestonearbysuper-enhancersbySNPsinacompre-
+hensivegenome-widescreen.
+Materialsandmethods
+PDriskvariants
+Geneticpolymorphisms,whichhavebeenassociateddirectlyorbyimputationwithPD,were
+obtainedfrompdgene.org(p.value<0.0001),PheGenI,andGWAScatalogon7/2016provid-
+ing7,607significantriskindexsites.Findingfurtherproxyvariantsinlinkagedisequilibrium
+(LD),r2>0.8inusingrAggraddedanadditional23,759variants(themajorityofwhichwere
+singlenucleotidepolymorphisms(SNPs).Forconvenience,wereferredtoallasriskSNPs.Off-
+springLD-SNPswererisk-annotatedaccordingtothemostsignificantparentGWASp-value
+whenmultiplelinkedSNPswerepresent.
+Analysis
+SignificanteQTLsweredownloadedfromGTExJuly2016,version6.Intersectionwithrisk
+SNPswasdeterminedusingcustomPerlscriptstogeneratematchedgene/SNPeQTLsaccord-
+ingtorsID.TissuesourceforeQTLvalueswereannotated.Cleanedtxtfileswerethenana-
+lyzedusingthestatisticalpackage,R.CorrelationbetweenGWASsignificanceandeQTL
+expressionwascalculatedandsubsetaccordingly.CustomPerlscriptswereusedtofindover-
+lapbetweendbSUPERdefinedenhancerregionsandriskSNPs.Genesetenrichmentanalysis
+onegenesassociatedwithriskSNPswasperformedusingavarietyofGSEAsoftware,includ-
+ingDAVID,MetacorefromThomsonReuters,Gorilla,PANTHER,whichallgavebroadly
+similarresults.Querysetswerecomparedagainstabackgroundofallsignificantegenesin
+GTExwhenpossibleduringGSEA.TFbindingmotif-disruptionwasfoundviatheRpackage
+MotifBreakR,forFactorbookmotifs,searchedagainstthedbSNPbuild142anddbSNPbuild
+144.Directionalassociationsforpdgene.orgriskSNPsandeQTLsattheHLAlocuswereori-
+entedaccordingtotheGTExmeasuredminorallelefrequency,correlatedaccordingtogene
+byGWASORvs.eQTLbetavalue,andaveragedacrosstissues.
+Results
+Weobtained7,607PDriskSNPsalongwithanadditional23,759surrogatepolymorphismsat
+r2>0.8occupyingatleast26loci(Fig1A–1C,Methods).Itisobviousthattheresulting31,366
+SNPsneededtobereducedtoamoremanageablenumberforhypothesesgeneration,aswell
+astoassociateriskwithspecificgenesandregulatoryelements.
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 2/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+A B C
+NHGRI-EBI
+5,649 7,607 SNPs
+26+ loci
+NHGRI-EBI
+144 LD SNPs
+NCBI intersection 31,366 SNPs
+Pdgene
+349 4,210 26+ loci
+7,267 NCBI
+Pdgene
+D 25,127 10,049 GGTTEx eQTLs
+17,110099 SSNNPs
+23+ loci
+e c
+n
+SNCA
+MAPT 795 genes
+a
+c
+fi
+in
+LRRK2
+CCoorrelation
+g
+iS
+S
+A
+HLA-DQB1
+11,776600 SSNNPs
+W 18+ loci
+G
+189 genes
+SSuuperenhancers
+Chromosome
+E
+3,668855 SSNNPs
+n
+o is
+s
+e
+SNCA HLA-DQB1
+LRRK2
+MAPT
+0-2
+1
+5
+6
+S
++
+E /
+lo
+ti
+c
+s
+i
+s ue
+rp 100 genes
+x
+e
+tn MMotifBreakR
+e
+d
+n
+e p DD 2,444411 SSNNPs
+e
+d 16+ loci
+e
+le 0-25 SE/tissue
+llA
+95 genes
+Chromosome
+Fig1.StudyDesign.(A)Eulerdiagramof7,607riskSNPslinkedtoPDobtainedfromthreesources.Numbersrepresentthe
+numberofvariantsnumberintheentireset.(B)SurrogatevariantsinLD(r2>0.8)withriskSNPswereaddedtoobtain31,366unique
+SNPs.(C)Flowchartofstudydesign,(detailfoundinS1–S3Files).(D)Manhattanplotofassociatedrisksignificancefor31,366
+SNPS.(E)Manhattanplotof17,109SNPswhichhaveanassociatedsignificanteQTLmeasurementinanyof53tissuesfromGTEx.
+https://doi.org/10.1371/journal.pone.0175882.g001
+WefirstreducedthesetofpotentialPDriskSNPsbyremovingthosewhichwerenotasso-
+ciatedwithknowngeneexpressionchanges.ThemostdirectwaytolinkSNPswithgene
+expressionisthroughvariant-RNAexpressionassociationknownasexpressionquantitative
+traitloci(eQTL)screens[7].ThisisachievedbyassociatingsignificantriskSNPsplussurro-
+gatestogenesbysearchingacrossGTEx-significanteQTLsandcombiningtheresultsfrom
+eachof53tissues;thisgeneratedatotalof795genes(Fig1D).Somerisklociqueries(chromo-
+somes8,18,19)resultedinnoeQTLsintheGTExdatabase,whileotherlocishowassociation
+withalargenumberofgenes.Largesignalswereseenatseveralregions,includingchromo-
+some6and17.ThelargestnumberofeQTLgenes(egenes)aswellasthestrongestchangein
+expressionwereseenatchromosome17q21.Thislocus,aswellasthatatchromosome6p21,is
+locatedinaregionwithagreatmanypolymorphismsinhighLD.
+Wecomparedthesetof795SNP/geneassociationsbasedonGTExeQTLswithotherasso-
+ciationsbasedonthenearesttranscriptionstartsite(TSS);onallTSSlocatedwithin1Mbat
+thegenelocusgivenbythedatabase(typicallybutnotalwaystheclosestgenebody).Weused
+genesetenrichmenttocomparethesetsproducedbythedifferentmethods.Inordertoexam-
+inewhetheranyfunctionalpathwayswereover-representedinthesegenesets,weused
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 3/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+pathwayenrichmentandfoundthatnearlyallgenesetsshowedasimilarfunctional
+enrichmentofantigen-relatedprocesses(datanotshown).Uponfurtherexamination,it
+becameobviousthatthe6p21.32locuswhichcontainalargelinkagedisequilibrium(LD)
+blockthatincludesmanyoftheHLA-MHCclassIandclassIIproteincodinggenes—over-
+whelmedotherenrichmentsignals.Althoughsomenon-HLA-relatedprocesseswere
+enriched,innearlyeveryPDrisk-SNP/genesetweexamined,antigenpresentationpath-
+wayspredominated.
+Although,neuorinflammationgenerally,andtheHLAMHCgenesspecifically,havebeen
+relatedtoParkinson’sdisease[8–11],itisstillpossiblethatthefunctionalenrichmentisspuri-
+ous.TheHLAlocusisahighlypolymorphicsitehavingalargenumberofvariantsinhighLD
+andcontaininggeneswithrelatedfunction,anyPDriskvariantswithinwillbeindirectlyasso-
+ciatedwithHLAgenesduetolinkagewithsurrogatepolymorphisms.Inordertotestwhether
+themeasuredeQTLassociations,includingthoseat6p21,directlyimpactPDriskwemeasured
+andfoundstrongcorrelationbetweenassociatedeQTLexpressionchangesandPDGWASsig-
+nificanceofvariantsforindividualgenes(Fig2).Filteringbythesecorrelationsreducedthe
+PDriskassociatedgenesto189.Again,GSEAimplicatedMHCIIgenes,andtoalesserdegree,
+MHCIgenes.
+BecausemostriskvariantslieinnoncodingDNAregions,wehavereasonableconfidence
+thatvariantsaffectphenotypebyalteringgenetranscription,mostlikelybydisruptingregula-
+toryelements(REs).AparticularlyactivesubsetofREsissituatedinsuper-enhancers(SEs).
+SEsarelargeclustersofenhancerelementswhichshowhighassociationforMediatoroccu-
+pancyandhistoneH3K27Acmodifications,andtheyshowmoretissuespecificactivitythan
+enhancersingeneral[12–14].Asweandothershavereported,wefoundthatcandidaterisk
+SNPsoftenoverlapSEs,andmayespeciallyaffectdiseasepredisposition.Byfurthersub-classi-
+ficationoftheriskSNPsaccordingtooverlapwithdbSUPERdefinedsuperenhancers,we
+reducedthenumberofriskvariantsto3685andofriskgenesto100,withchromosome6and
+chromosome17having1063and1322variants,respectively.
+Finally,wehavepreviouslyshownthatlocatingputativetranscriptionfactor(TF)binding
+motifdisruptionisaneffectivewaytoidentifypossiblefunctionalriskSNPs[15].Wefiltered
+theSESNPsetforTFmotifdisruptionandfoundthattheassociatedgenesetschangedlittle,
+fallingto95genes(S3File),andindicatingthattheprevioussubsettingbysuper-enhancer
+overlaphadenrichedforTFbindingmotifs.CorrespondinglythesignificantGSEAsignals
+relatedtothelocusatchromosome6p21.32.Themostsignificantgeneontologycategories
+werebyPanther,“MHCclassIIreceptoractivity”(p=5.8e-4),MetaCorefromThomsonReu-
+ters:“peptideantigenbinding”(p=4.906e-112),andDavid,“interferon-gamma-mediatedsig-
+nalingpathway”(p=1.97E-7)[16,17].
+Discussion
+PdgenecurrentlycuratesthemostcomprehensiveGWASofPDrisk,havingimputedassocia-
+tionscoresfor7.9millionvariants[18].Tomaximizethepossiblenetworkofassociatedrisk
+genesweusedalow(0.001)p-valuetoobtain7267SNPsfrompdgene.organdaddedtothat
+riskSNPsfromtheNIHGWASCatalogandNCBIPheGenIdatabases.AssociatingriskSNPs
+andLDSNPstogenesfromtheGTExeQTLdatagaveatotalof795genes(527proteincoding
+genes)acrossall53tissues.Themediannumberofsignificantegenespervariantwas4genes
+pertissue(max18).BrainspecificeQTLsconsistedof175genes.Thismuchsmallergeneset
+maybetterpredictinfluentialgenes,butnon-braintissuesmayhavealsoaroleinPDdevelop-
+mentandprogression[6].Thesmallersubsetofbrain-tissueegenesincluded20genesatthe
+HLAlocus(chromsome6)and28genesattheMAPTlocus(chromosome17).Thisagrees
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 4/11
+
+---PAGE BREAK---
+
+withresultsfromasimilarstudythatexamined67PDSNPsinasmallnumberofPDandcon-
+trolbraincorticalsamplesandfoundciseQTLsatthesametworegions[19].
+GTExgeneexpressiondatacanbeorientedbyallelefrequencyanditisworthnotingthat
+somesignalsaredirectionalinthispresentation,indicatingthatthevariantswhichshowapos-
+itiveexpressionchangesareprimarilythemajororminorpopulationalleles,andthatLDvari-
+antsallaffectthesamegeneorgenes.Forinstance,thesignalonchromosome12forLRRK2
+3C1SROSP 71.31F992GPB−cabXX
+72GCH
+6.32F452GPB−cabXX 1BQD−ALH
+A4C
+BOD−ALH P1A12PYC 9BRD−ALH
+2SRAV B−ALH 91FCT 2HADD 2PAT 1TRRP
+C5G6YL 2A12PYC
+C−ALH
+31.81A003GPB−cabXX 21.42L842GPB−cabXX 1BRD−ALH 1SA−1BQD−ALH 1AQD−ALH 6BRD−ALH 2BQD−ALH 2AQD−ALH 5BRD−ALH
+Parkinson’sdiseaseeQTL
+A HLA-DQB1-AS1 in Cerebellar Hemisphere LRRC37A in Anterior Cingulate Cortex LRRK2 in Subcutaneous Adipose
+e
+c
+n
+a
+c
+fi
+ni
+g
+si
+S
+A
+W
+G
+D
+P
+eQTL expression (absolute value)
+B
+−0.5 0 0.5
+Value BBrraaiinn__HHiippppooccaammppuuss
+LLiivveerr
+UUtteerruuss
+VVVVaaggiinnaa
+BBrraaiinn__NNuucclleeuuss__aaccccuummbbeennss__bbaassaall__ggaanngglliiaa
+OOvvaarryy
+BBrraaiinn__CCeerreebbeellllaarr__HHeemmiisspphheerree
+BBrraaiinn__FFrroonnttaall__CCoorrtteexx__BBAA99
+BBrraaiinn__CCaauuddaattee__bbaassaall__ggaanngglliiaa
+BBrraaiinn__AAnntteerriioorr__cciinngguullaattee__ccoorrtteexx__BBAA2244
+PPiittuuiittaarryy
+BBrraaiinn__CCoorrtteexx
+BBrraaiinn___PPuuttaammeenn___bbaassaall___gggaannggglliiaa
+Artery_Coronary
+Spleen
+Cells_EBV−transformed_lymphocytes
+Testis
+Colon_Transverse
+Heart_Left_Ventricle
+Artery_Aorta
+Skin_Not_Sun_Exposed_Suprapubic
+Thyroid
+Muscle_Skeletal
+Brain_Cerebellum
+Whole_Blood
+Breast_Mammary_Tissue
+Colon_Sigmoid
+Heart_Atrial_Appendage
+Adrenal_Gland
+Esophagus_Gastroesophageal_Junction
+Stomach
+Pancreas
+Skin_Sun_Exposed_Lower_leg
+Artery_Tibial
+Cells_Transformed_fibroblasts
+Lung
+Esophagus_Muscularis
+Esophagus_Mucosa
+Brain_Hypothalamus
+Adipose_Visceral_Omentum
+Prostate
+Small_Intestine_Terminal_Ileum
+Nerve_Tibial
+Adipose_Subcutaneous
+}
+MHC-II genes
+Fig2.CorrelationbetweenGWASsignificanceandeQTLexpressionlevel.(A)Sampleplotsoftherelationshipbetween
+GWASsignificanceandeQTLexpressionforgenesattheHLA,LRRK2,andMAPTloci.(B)Heatmapofpositivecorrelation
+(green)coefficientsfor27genesattheHLAlocus.
+https://doi.org/10.1371/journal.pone.0175882.g002
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 5/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+[MIM609007]isprimarilyinthepositivedirection,indicatingallsignificantnearbyallelesare
+thelow-frequency,minoralleles(inthiscasetheminorallelesaretheriskalleles)andthese
+correlatewithhigherLRRK2expressionrelativetothemajorallele.Thisismademoreobvious
+bymultiplyingtheGWAS–log(p.value)byeQTLexpression(S1Fig).Theminorriskalleles
+areassociatedwithincreasedLRRK2,whichmayindicatethataslightlyelevatedLRRK2level
+leadstoasmallbutcumulativerelativePDrisk.Thisisconsistentwithfindingsthatoverex-
+pressionofwild-typeormutantLRRK2inducesneuraltoxicityandelevatedproteinlevelsor
+activitythatpossiblycontributetoParkinson’sdisease[20–22].Inotherregions,thesignalis
+morecomplex,andinthesecases,asingleallelemaybeassociatedwithanincreaseinone
+genetranscriptbutadecreaseinanother.
+BecauseeQTLstudiesproduceaquantitativeassociationbetweengeneexpressionandmul-
+tiplepolymorphismsitmaybepossibletoprioritizeSNPsbycomparingtheexpressionlevel
+changes.Alargechangeingeneexpressionmaybemoretractableexperimentallyandsocan
+beusedtoprioritizetargets.AcorollaryandproofofprincipleisthatSNPswhichalterthe
+samegenesbydifferentamountsshouldshowacorrespondingdifferenceinGWASsignifi-
+cance.Indeed,weseemorepositivecorrelationandlessnegativecorrelationthanexpectedby
+chanceinpairwiseSNPcomparisonsofthedifferenceineQTLeffectsizesandGWASmea-
+suredsignificance(S2Fig).Thisprincipleisnoisier(duetofewervalues)butmoredirectby
+searchingforgenesthatshowapositivecorrelationbetweenGWASsignificanceandeQTL
+expression.GWASsignificancehasbeenpreviouslypositivelycorrelatedwitheQTLeffectsize
+[23].WeusedthismethodtoreducethePD-associatedgenesfrom795to189.However,for
+manygenesthenumberofSNPswithrelevantmeasurementislowandsocorrelationisinac-
+curate.Furthermore,weonlyconsidersignificantp-valuesandsignificanteQTLsfurther
+increasingtheaccuracyofcorrelation.Forthesereasons,wechoseacorrelationcutoffof0.4to
+increasethesensitivity.Webelievethissetofgenesincludesthoseforwhichthereisthegreat-
+estevidenceforinvolvementwithPDetiology,althoughsomeimportantgenes,including
+SNCA,wereremoved.
+WehypothesizethatsomeGWASsignalsareduetocomplexhaplotypescontainingmulti-
+plelinkedSNPs,whichconferriskthroughsynergisticdisruptionofmultipleTFbindingsites
+simultaneously.Tomaximizetheidentificationofthesecasesandtoidentifyspecificregula-
+toryelementswesub-classifiedthesetofriskSNPsbyoverlapwithsuper-enhancers,thelarge
+enhancerregionsshowingunusuallyhighactivehistonesignals.Inthisway,wereducedthe
+numberofriskgenecandidatesto100.AfterfurtherfilteringSNPsforthosethatdisruptTF-
+bindingproteinmotifs,themediannumberofegenesperSNPpertissuewas2(max14).This
+setof95genesisfunctionallyenrichedforantigenpresentationprocesses.
+Ingeneral,genesetenrichmentforfunctionallyrelatedgenesfollowingourfilteringofPD
+riskassociations,pointedtofewerunderlyingprocessesthanexpected.Forinstance,thesetof
+genescuratedbytheParkinson’sDiseaseGeneOntologyAnnotationInitiativedisplays
+broaderbiologicalfunctions[24].Thisdisparitymayreflectinadequatepowerorunsuccessful
+subgroupingintheunderlyingGWASstudies.Thefunctionalenrichmentseenhereisduetoa
+singlelocuscontainingmultipleHLAgenes.However,onemustbecarefulover-interpreting
+GSEAforlocationswherecloselyspacedgenessharesimilarfunctions.GSEAtypically
+assumesmultipleindependentrandomvariables.However,thisassumptionisnotvalidwhen
+asinglevariantcanaffectmultiplerelatedgenessuchasattheHLAregion,whichhasprevi-
+ouslyshownstrongcorrelationinMHCgeneexpression[25].Furthermore,thedensityofvar-
+iantsneartheHLAgenesishigh,makingitmorelikelythatnoisealonewillprovidesignalsin
+theseregions.Never-the-less,thestrongGSEAforMHC-IIgenes(andsignificantenrichment
+forMHC-Igenes)doesindicatethatvariantsintheseregionscanstronglyaffectmultiple
+genesinasinglepathway.Furthermore,inapreviousstudythatlinkedgenestoriskSNPsby
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 6/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+proximityratherthanbyeQTLs,anenrichmentforimmunologicalgenecategoriesremained
+evenwhentheHLAlocuswastreatedasasinglesignal[26].
+The6p21.32risklocuscontainsapproximately3300riskSNPsinLD(r2>0.8)andspans
+closeto2Mband121genes.CiseQTLanalysesindicatethatallelespecificexpressionmaybe
+alteredinupto60genesinthisregion,providingassociatedallele-specificdifferencesinmany
+traitsanddisorders.Indeed,theGWAScataloglinksthislocuswithsome175traits,approxi-
+mately10%ofstudiedparameters[4].RemovingassociationswithgenesthatshowlowerPD
+correlationcoefficientsthanoverlappingvariantsassociatedwithaneQTLinanytissuewith
+dbSUPERsuper-enhancers,reducedthenumberofvariantsto1063withassociatedexpression
+changesin15genes.WeanalyzedthesewithMotifbreakR[15]tofindvariantswhichalter
+putativeTF-bindingmotifs;595riskpolymorphismsstronglydisrupted79Factorbookbind-
+ingmotifs(chromosome6summarizedasatractinFig3anddisruptedTFslistedinS1File).
+Werealizethatthisshorterlistofvariant/geneassociationsisbynomeanscomprehensive,but
+itdoesrepresentthestrongestindicationofPDetiology.
+AhighGWASsignificancemayindicateoneofthreethings.Firstly,theexpressionofa
+verycentralproteincanbeaffected,perhapsonlyslightly.SNCAisalikelycandidateforthis
+typeofrisk.Secondly,aperipheralprocessmaybeaffected,buttoaveryhighdegree.The
+largeeQTLsignalsattheHLAandMAPTlocipointtosuchrelationships.Lastly,multiple
+peripheralprocessesmaybeaffectedsimultaneously.ThisisparticularlylikelyinlargeLD
+blockswheremultiplecorrelatedvariantscanhavedistincteffects.Again,boththeMAPTand
+HLAmayfallinthiscategory.
+WeexpectthatmultiplevariantsneartheMHC-IIgenesandwhichoverlaponeofseveral
+super-enhancerregions(Fig3),independentlyaffecttissue-specificMHC-IIgeneexpression
+levelsandlikelyacttosynergisticallyalteradaptiveimmunity-relatedprocesses.Bycomparing
+Fig3.UCSCbrowserviewofMHC-IIHLAlocus.GWASpvaluesarefromNallset.al[3].Atotalof595PDriskSNPsthatoverlap
+dbSUPERdefinedsuper-enhancers,showeQTLs,anddisruptaTFbindingmotif(labeleddisrupteQTLSNPs,S1File)areshown.
+https://doi.org/10.1371/journal.pone.0175882.g003
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 7/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+theassociatedeQTLsignalsacrosstissueswefoundthatPDriskallelesatthislocusareassoci-
+atedwithincreasedexpressionof7HLA-genes(HLA-B,HLA-C,HLA-DQA1,HLA-DQB1,
+HLA-DQB1-AS1,HLA-DRB1,HLA-DRB5)anddecreasedexpressionof4genes(HLA-DOB,
+HLA-DQA2,HLA-DQB2,HLA-DRB6).MHC-IIgenesareexpressedbyantigenpresenting
+cells,includingmicroglia.ThenumberofMHC-II-expressingcellsincreaseswithneuroin-
+flammationandPDpatientsshowmoreactivatedmicrogliathencontrols[27–29].Activated
+microgliahelpcleardebris,bothforeignandnative(includingdyingneurons),andproduce
+pro-inflammatoryfactors.Inaddition,itwasshownthatmicroglialMHC-IIplaysacentral
+roleintheactivationofboththeinnateandadaptiveimmuneresponsestoalpha-synuclein
+expression,ahallmarkinPDprogression[30].Alteredantigenpresentationpathwaysassoci-
+atedwithriskallelesmaycontributetoprolongedneuro-inflammationorotherwiseincrease
+thelossofdopaminergicneuronsinPDandassuchberelatedtothemicrobiomeinthegut
+[31].Thelargenumberofvariantsinthisregionmayrelatetoahighlycomplexregulation
+coupledwithselectivepressureonthesegenesandimplyanimportanceoftheMHC-IIpro-
+cessesformanydisordersincludingParkinson’sdisease.However,wecannotruleoutasignif-
+icantroleforMHC-IpathwaysinPD.InterestinglythedensityofoverallGWAScatalogrisk
+SNPsalignswellwithsuper-enhancer-locatedPDSNPs(Fig3)suggestingthatarelatively
+smallnumberofSNPsmayhavediverseandcomplexeffectsonavarietyofdisordersandthat
+examiningasingleindexSNPisnotagoodmodelforcausality.
+Supportinginformation
+S1Fig.LRRK2eQTLassociatedvariants.GWASsignificancemultipliedby100+eQTLbeta
+andplottedbychromosomepositionforeachvariant.
+(EPS)
+S2Fig.GreaterpositivecorrelationexistsbetweenGWASsignificanceandeQTLin
+SNP-SNPpairwisecomparisonsthenexpectedbychance.(A)Plotofcorrelationpertissue
+pergeneforallSNP-SNPpairwisecomparisons.(B)Q-Qplotforcorrelationscoresfortissue-
+genesetswithgreaterthan100SNP-SNPcomparisons.
+(EPS)
+S1File.GWASPDSNPs.2,441SNPswhichdisruptputativebindingmotifs.
+(TXT)
+S2File.SNPlocations.ChromosomallocationsofSNPswhichdisruptbindingmotifs.
+(BED)
+S3File.IntegratedGWASandeQTLPDdata.795egenesassociatedwithPDriskwithanno-
+tationsindicatingeachadditionalfilteringstep.
+(TXT)
+Acknowledgments
+WeacknowledgetheCenterforNeurodegenerativeScienceattheVanAndelResearchInsti-
+tuteforfinancialsupportandDrs.PatrikBrundenandDarrelMooreforhelpfuldiscussion.
+SimonCoetzee(Cedar-Sinai,LosAngeles)providedhelpwithmotifbreakRanalyses.We
+acknowledgeeditsbyDr.DavidNadziejka(VARI).
+AuthorContributions
+Conceptualization:SPGAC.
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 8/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+Datacuration:SP.
+Formalanalysis:SP.
+Fundingacquisition:GAC.
+Investigation:SP.
+Methodology:SP.
+Projectadministration:GAC.
+Resources:SPGAC.
+Software:SP.
+Supervision:GAC.
+Validation:SP.
+Visualization:SP.
+Writing–originaldraft:SP.
+Writing–review&editing:SPGAC.
+References
+1. DriverJA,LogroscinoG,GazianoJM,KurthT.IncidenceandremaininglifetimeriskofParkinsondis-
+easeinadvancedage.Neurology.2009;72(5):432–8.PubMedCentralPMCID:PMCPMC2676726.
+https://doi.org/10.1212/01.wnl.0000341769.50075.bbPMID:19188574
+2. LabbeC,Lorenzo-BetancorO,RossOA.EpigeneticregulationinParkinson’sdisease.ActaNeuro-
+pathol.2016;132(4):515–30.PubMedCentralPMCID:PMCPMC5026906.https://doi.org/10.1007/
+s00401-016-1590-9PMID:27358065
+3. NallsMA,PankratzN,LillCM,DoCB,HernandezDG,SaadM,etal.Large-scalemeta-analysisof
+genome-wideassociationdataidentifiessixnewrisklociforParkinson’sdisease.NatGenet.2014;46
+(9):989–93.PubMedCentralPMCID:PMCPMC4146673.https://doi.org/10.1038/ng.3043PMID:
+25064009
+4. WelterD,MacArthurJ,MoralesJ,BurdettT,HallP,JunkinsH,etal.TheNHGRIGWASCatalog,a
+curatedresourceofSNP-traitassociations.NucleicAcidsRes.2014;42(Databaseissue):D1001–6.
+PubMedCentralPMCID:PMCPMC3965119.https://doi.org/10.1093/nar/gkt1229PMID:24316577
+5. SoldnerF,StelzerY,ShivalilaCS,AbrahamBJ,LatourelleJC,BarrasaMI,etal.Parkinson-associated
+riskvariantindistalenhancerofalpha-synucleinmodulatestargetgeneexpression.Nature.2016;533
+(7601):95–9.PubMedCentralPMCID:PMCPMC5042324.https://doi.org/10.1038/nature17939PMID:
+27096366
+6. CoetzeeSG,PierceS,BrundinP,BrundinL,HazelettDJ,CoetzeeGA.EnrichmentofriskSNPsinreg-
+ulatoryregionsimplicatediversetissuesinParkinson’sdiseaseetiology.SciRep.2016;6:30509.
+PubMedCentralPMCID:PMCPMC4962314.https://doi.org/10.1038/srep30509PMID:27461410
+7. ConsortiumGT.TheGenotype-TissueExpression(GTEx)project.NatGenet.2013;45(6):580–5.
+PubMedCentralPMCID:PMCPMC4010069.https://doi.org/10.1038/ng.2653PMID:23715323
+8. HamzaTH,ZabetianCP,TenesaA,LaederachA,MontimurroJ,YearoutD,etal.Commongeneticvar-
+iationintheHLAregionisassociatedwithlate-onsetsporadicParkinson’sdisease.NatGenet.2010;
+42(9):781–5.PubMedCentralPMCID:PMCPMC2930111.https://doi.org/10.1038/ng.642PMID:
+20711177
+9. InternationalParkinsonDiseaseGenomicsC,NallsMA,PlagnolV,HernandezDG,SharmaM,Sheerin
+UM,etal.ImputationofsequencevariantsforidentificationofgeneticrisksforParkinson’sdisease:a
+meta-analysisofgenome-wideassociationstudies.Lancet.2011;377(9766):641–9.PubMedCentral
+PMCID:PMCPMC3696507.https://doi.org/10.1016/S0140-6736(10)62345-8PMID:21292315
+10. KannarkatGT,CookDA,LeeJK,ChangJ,ChungJ,SandyE,etal.CommonGeneticVariantAssocia-
+tionwithAlteredHLAExpression,SynergywithPyrethroidExposure,andRiskforParkinson’sDisease:
+AnObservationalandCase-ControlStudy.NPJParkinsonsDis.2015;1.PubMedCentralPMCID:
+PMCPMC4853162.
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 9/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+11. WangQ,LiuY,ZhouJ.NeuroinflammationinParkinson’sdiseaseanditspotentialastherapeutictar-
+get.TranslNeurodegener.2015;4:19.PubMedCentralPMCID:PMCPMC4603346.https://doi.org/10.
+1186/s40035-015-0042-0PMID:26464797
+12. KhanA,ZhangX.dbSUPER:adatabaseofsuper-enhancersinmouseandhumangenome.Nucleic
+AcidsRes.2016;44(D1):D164–71.PubMedCentralPMCID:PMCPMC4702767.https://doi.org/10.
+1093/nar/gkv1002PMID:26438538
+13. NiederriterAR,VarshneyA,ParkerSC,MartinDM.SuperEnhancersinCancers,ComplexDisease,
+andDevelopmentalDisorders.Genes(Basel).2015;6(4):1183–200.PubMedCentralPMCID:
+PMCPMC4690034.
+14. QuangDX,ErdosMR,ParkerSC,CollinsFS.Motifsignaturesinstretchenhancersareenrichedfordis-
+ease-associatedgeneticvariants.EpigeneticsChromatin.2015;8:23.PubMedCentralPMCID:
+PMCPMC4502539.https://doi.org/10.1186/s13072-015-0015-7PMID:26180553
+15. CoetzeeSG,CoetzeeGA,HazelettDJ.motifbreakR:anR/Bioconductorpackageforpredictingvariant
+effectsattranscriptionfactorbindingsites.Bioinformatics.2015;31(23):3847–9.PubMedCentral
+PMCID:PMCPMC4653394.https://doi.org/10.1093/bioinformatics/btv470PMID:26272984
+16. HuangdaW,ShermanBT,LempickiRA.Systematicandintegrativeanalysisoflargegenelistsusing
+DAVIDbioinformaticsresources.NatProtoc.2009;4(1):44–57.https://doi.org/10.1038/nprot.2008.211
+PMID:19131956
+17. MiH,PoudelS,MuruganujanA,CasagrandeJT,ThomasPD.PANTHERversion10:expandedprotein
+familiesandfunctions,andanalysistools.NucleicAcidsRes.2016;44(D1):D336–42.PubMedCentral
+PMCID:PMCPMC4702852.https://doi.org/10.1093/nar/gkv1194PMID:26578592
+18. LillCM,RoehrJT,McQueenMB,KavvouraFK,BagadeS,SchjeideBM,etal.Comprehensive
+researchsynopsisandsystematicmeta-analysesinParkinson’sdiseasegenetics:ThePDGenedata-
+base.PLoSGenet.2012;8(3):e1002548.PubMedCentralPMCID:PMCPMC3305333.https://doi.org/
+10.1371/journal.pgen.1002548PMID:22438815
+19. LatourelleJC,DumitriuA,HadziTC,BeachTG,MyersRH.EvaluationofParkinsondiseaseriskvari-
+antsasexpression-QTLs.PLoSOne.2012;7(10):e46199.PubMedCentralPMCID:
+PMCPMC3465315.https://doi.org/10.1371/journal.pone.0046199PMID:23071545
+20. LiJQ,TanL,YuJT.TheroleoftheLRRK2geneinParkinsonism.MolNeurodegener.2014;9:47.
+PubMedCentralPMCID:PMCPMC4246469.https://doi.org/10.1186/1750-1326-9-47PMID:25391693
+21. SkibinskiG,NakamuraK,CooksonMR,FinkbeinerS.MutantLRRK2toxicityinneuronsdependson
+LRRK2levelsandsynucleinbutnotkinaseactivityorinclusionbodies.JNeurosci.2014;34(2):418–33.
+PubMedCentralPMCID:PMCPMC3870929.https://doi.org/10.1523/JNEUROSCI.2712-13.2014
+PMID:24403142
+22. TsikaE,MooreDJ.MechanismsofLRRK2-mediatedneurodegeneration.CurrNeurolNeurosciRep.
+2012;12(3):251–60.https://doi.org/10.1007/s11910-012-0265-8PMID:22441981
+23. ZhuZ,ZhangF,HuH,BakshiA,RobinsonMR,PowellJE,etal.Integrationofsummarydatafrom
+GWASandeQTLstudiespredictscomplextraitgenetargets.NatGenet.2016;48(5):481–7.https://
+doi.org/10.1038/ng.3538PMID:27019110
+24. FoulgerRE,DennyP,HardyJ,MartinMJ,SawfordT,LoveringRC.UsingtheGeneOntologytoAnno-
+tateKeyPlayersinParkinson’sDisease.Neuroinformatics.2016;14(3):297–304.PubMedCentral
+PMCID:PMCPMC4896971.https://doi.org/10.1007/s12021-015-9293-2PMID:26825309
+25. MichalopoulosI,PavlopoulosGA,MalatrasA,KarelasA,KostadimaMA,SchneiderR,etal.Human
+genecorrelationanalysis(HGCA):atoolfortheidentificationoftranscriptionallyco-expressedgenes.
+BMCResNotes.2012;5:265.PubMedCentralPMCID:PMCPMC3441226.https://doi.org/10.1186/
+1756-0500-5-265PMID:22672625
+26. HolmansP,MoskvinaV,JonesL,SharmaM,InternationalParkinson’sDiseaseGenomicsC,Vederni-
+kovA,etal.Apathway-basedanalysisprovidesadditionalsupportforanimmune-relatedgeneticsus-
+ceptibilitytoParkinson’sdisease.HumMolGenet.2013;22(5):1039–49.PubMedCentralPMCID:
+PMCPMC3561909.https://doi.org/10.1093/hmg/dds492PMID:23223016
+27. ZhaoY,ForstCV,SayeghCE,WangIM,YangX,ZhangB.Molecularandgeneticinflammationnet-
+worksinmajorhumandiseases.MolBiosyst.2016;12(8):2318–41.PubMedCentralPMCID:
+PMCPMC4955784.https://doi.org/10.1039/c6mb00240dPMID:27303926
+28. RochaNP,deMirandaAS,TeixeiraAL.InsightsintoNeuroinflammationinParkinson’sDisease:From
+BiomarkerstoAnti-InflammatoryBasedTherapies.BiomedResInt.2015;2015:628192.PubMedCen-
+tralPMCID:PMCPMC4532803.https://doi.org/10.1155/2015/628192PMID:26295044
+29. HirschEC,VyasS,HunotS.NeuroinflammationinParkinson’sdisease.ParkinsonismRelatDisord.
+2012;18Suppl1:S210–2.
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 10/11
+
+---PAGE BREAK---
+
+Parkinson’sdiseaseeQTL
+30. HarmsAS,CaoS,RowseAL,ThomeAD,LiX,MangieriLR,etal.MHCIIisrequiredforalpha-synu-
+clein-inducedactivationofmicroglia,CD4Tcellproliferation,anddopaminergicneurodegeneration.J
+Neurosci.2013;33(23):9592–600.PubMedCentralPMCID:PMCPMC3903980.https://doi.org/10.
+1523/JNEUROSCI.5610-12.2013PMID:23739956
+31. SharonG,SampsonTR,GeschwindDH,MazmanianSK.TheCentralNervousSystemandtheGut
+Microbiome.Cell.2016;167(4):915–32.PubMedCentralPMCID:PMCPMC5127403.https://doi.org/
+10.1016/j.cell.2016.10.027PMID:27814521
+PLOSONE|https://doi.org/10.1371/journal.pone.0175882 April13,2017 11/11
+
+---PAGE BREAK---
+

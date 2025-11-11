@@ -1,0 +1,931 @@
+Russo et al.
+Acta Neuropathologica Communications
+https://doi.org/10.1186/s40478-021-01282-8
+RESEARCH Open Access
+High diagnostic performance
+of independent alpha-synuclein seed
+amplification assays for detection of early
+Parkinson’s disease
+Marco J. Russo1† , Christina D. Orru2†, Luis Concha‑Marambio3*†, Simone Giaisi4†, Bradley R. Groveman2,
+Carly M. Farris3, Bret Holguin3, Andrew G. Hughson2, David‑Erick LaFontant5, Chelsea Caspell‑Garcia5,
+Christopher S. Coffey5, Jennifer Mollon4, Samantha J. Hutten6, Kalpana Merchant7, Roland G. Heym4*,
+Claudio Soto3,8*, Byron Caughey2* and Un Jung Kang1*
+Abstract
+Alpha‑synuclein seed amplification assays (αSyn‑SAAs) are promising diagnostic tools for Parkinson’s disease (PD) and
+related synucleinopathies. They enable detection of seeding‑competent alpha‑synuclein aggregates in living patients
+and have shown high diagnostic accuracy in several PD and other synucleinopathy patient cohorts. However, there has
+been confusion about αSyn‑SAAs for their methodology, nomenclature, and relative accuracies when performed by
+various laboratories. We compared αSyn‑SAA results obtained from three independent laboratories to evaluate repro‑
+ducibility across methodological variations. We utilized the Parkinson’s Progression Markers Initiative (PPMI) cohort, with
+DATSCAN data available for comparison, since clinical diagnosis of early de novo PD is critical for neuroprotective trials,
+which often use dopamine transporter imaging to enrich their cohorts. Blinded cerebrospinal fluid (CSF) samples for
+a randomly selected subset of PPMI subjects (30 PD, 30 HC, and 20 SWEDD), from both baseline and year 3 collections
+for the PD and HC groups (140 total CSF samples) were analyzed in parallel by each lab according to their own estab‑
+lished and optimized αSyn‑SAA protocols. The αSyn‑SAA results were remarkably similar across laboratories, displaying
+high diagnostic performance (sensitivity ranging from 86 to 96% and specificity from 93 to 100%). The assays were also
+concordant for samples with results that differed from clinical diagnosis, including 2 PD patients determined to be clini‑
+cally inconsistent with PD at later time points. All three assays also detected 2 SWEDD subjects as αSyn‑SAA positive
+who later developed PD with abnormal DAT‑SPECT. These multi‑laboratory results confirm the reproducibility and value
+of αSyn‑SAA as diagnostic tools, illustrate reproducibility of the assay in expert hands, and suggest that αSyn‑SAA has
+potential to provide earlier diagnosis with comparable or superior accuracy to existing methods.
+Keywords: Seed amplification assay, Alpha‑synuclein, Parkinson’s disease, RT‑QuIC, PMCA, Synucleinopathy
+*Correspondence: luis@amprionme.com; roland.heym@abbvie.com; claudio. 2 Laboratory of Persistent Viral Diseases, Rocky Mountain Laboratories,
+soto@uth.tmc.edu; bcaughey@nih.gov; un.kang@nyulangone.org National Institute of Allergy and Infectious Diseases, National Institutes
+†Marco J. Russo, Christina D. Orru, Luis Concha‑Marambio and Simone of Health, Hamilton, MT, USA
+Giaisi have contributed equally to this work 3 R&D Unit, Amprion Inc., San Diego, CA, USA
+1 The Marlene and Paolo Fresco Institute for Parkinson’s & Movement 4 AbbVie Deutschland GmbH & Co. KG, Ludwigshafen, Germany
+Disorders, Department of Neurology, Department of Neuroscience Full list of author information is available at the end of the article
+and Physiology, Neuroscience Institute, The Parekh Center This article has been updated to correct the missing corresponding
+for Interdisciplinary Neurology, NYU Grossman School of Medicine, New authors.
+York, NY, USA
+© The Author(s) 2021, corrected publication 2021. This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to
+the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat ivec o
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 2 of 13
+Introduction skin [17–19], olfactory mucosa [20, 21], submandibu-
+The pathologic signature of Parkinson disease (PD) lar gland [22], and gut [23]. Moreover, they have dem-
+is accumulation of misfolded, aggregated forms of onstrated accurate detection of αSyn seeds in clinically
+α-synuclein (αSyn) throughout the nervous system. Dep- and pathologically validated cohorts of PD patients [6, 7,
+osition of αSyn and neuronal injury occur many years 9, 10, 13, 17, 18, 24]. Interestingly, αSyn-SAAs have also
+before the canonical motor signs emerge [1, 2]. PD is been shown to distinguish αSyn aggregates from different
+diagnosed primarily through clinical assessment, which synucleinopathies, such as PD and MSA [25, 26]. How-
+can be supported by striatal dopamine-transporter imag- ever, performing SAAs is not trivial, and differences in
+ing (e.g. DAT-SPECT). Both clinical and radiologic diag- methodologies under various names applied in different
+nostic accuracy improve with progression of disease, and cohorts have generated confusion as to their nature and
+require that some degree of nigrostriatal dysfunction relative accuracies.
+is already manifest [3]. During early stages of disease, We performed a blind comparative study of αSyn-SAA
+these assessments can fail to distinguish classic PD from by three laboratories, two of whom have pioneered these
+other synucleinopathies such as multiple system atrophy assays and a third industry lab with their own newly insti-
+(MSA), and from non-αSyn-driven forms of parkinson- tuted version. Each lab performed αSyn-SAA according
+ism, such as progressive supranuclear palsy (PSP) or cor- to their preferred methods, without coordination of pro-
+ticobasal degeneration (CBD). Ultrasensitive diagnostic cedures, reagents, or results. We utilized CSF from the
+assays are now available that enable detection and clas- PPMI cohort of PD and HC since diagnosis of early de
+sification of synucleinopathies based on the presence novo PD can be challenging, and yet critical for clinical
+of misfolded αSyn forms in CSF that ‘seed’, or induce, trials of neuroprotective agents. DAT imaging is often
+aggregation of native αSyn. These seed amplification used to enrich the study population. We also included a
+assays (SAAs) provide more direct etiologic diagnosis and subset of subjects designated as scans without evidence
+can reveal αSyn pathology that is independent of nigros- of dopaminergic deficit (SWEDD), with parkinsonian
+triatal injury. motor signs, but ostensibly normal DAT-SPECT imag-
+SAAs were originally developed for antemortem detec- ing. Many of these subjects are likely to have alternative
+tion of prions (PrPSc), the pathologic form of the nor- diagnoses (e.g. essential tremor), but it is suspected that a
+mally occurring prion protein (PrPC), and the pathogenic subset has bona fide PD in an early form without appre-
+agent in diseases such as Creutzfeldt-Jakob disease and ciable deficit with dopamine transporter imaging [27,
+kuru [4]. SAAs are based on the tendency of PrPSc seeds 28]. We report the reproducibility of αSyn-SAAs across
+to induce native proteins to shift to conformations that practitioners and differences in methods or analysis, and
+favor polymerization. They have been adapted to detect further validate the diagnostic potential of SAA for well-
+αSyn seeds and have been reported under the names characterized early de novo PD.
+real-time quaking-induced conversion (RT-QuIC) [5–7],
+Materials and methods
+protein misfolding cyclic amplification (PMCA) [8, 9],
+CSF sample collection
+seeding aggregation assay (SAA) [7], or seed amplifica-
+tion assay (SAA) [10]. The operational principles of these All CSF samples and clinical data were collected accord-
+are very similar, and so we propose to unify the nomen- ing to the Parkinson’s Progression Markers Initiative
+clature for RT-QuIC and PMCA under one name—seed (PPMI) study protocol. Per PPMI inclusion criteria,
+amplification assay (SAA)—to better capture the nature PD subjects were enrolled within 2 years of diagnosis,
+of the technology and avoid confusion with the previous not treated with PD medications at time of enrollment,
+prion-based amplification assays. Hoehn and Yahr stage 1–2, had abnormal DAT-SPECT
+For αSyn-SAA, biospecimens are added to a reac- demonstrating striatal dopaminergic denervation, and
+tion chamber containing excess of recombinant αSyn had two of the following: resting tremor, bradykin-
+(rec-αSyn). Any αSyn seeds in the specimen will convert esia, rigidity (required to have either resting tremor or
+rec-αSyn to misfolded forms and promote fibrillization. bradykinesia); or either asymmetric resting tremor or
+Mechanical disruption of nascent aggregates generates asymmetric bradykinesia. Subjects with scans without
+fragments to seed further polymerization, which effec- evidence of dopamine deficit (SWEDD) were enrolled
+tively amplifies the biomarker to detectable levels. The with PD inclusion criteria, with major exception that
+in vitro generated αSyn fibrils are rich in β-sheets, ena- initial DAT-SPECT did not show evidence of decreased
+bling detection by the amyloid-specific dye Thioflavin T striatal radioligand uptake. Healthy controls (HC) were
+(ThT). αSyn-SAAs are capable of detecting and ampli- age- and gender-matched healthy persons without
+fying αSyn seeds from multiple biospecimens, including known neurologic signs or symptoms.
+brain [11–13], cerebrospinal fluid (CSF) [6–10, 13–16],
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 3 of 13
+From the total pool of PPMI subjects (423 PD, 196 file 1: Table S1). CSF samples at baseline and at year 3
+HC, 64 SWEDD) with available CSF, 30 PD subjects, 30 (Y3, corresponding to PPMI Visit 08) were included for
+HC subjects, and 20 SWEDD subjects were randomly PD and HC subjects.
+selected for this study (Fig. 1). αSyn-SAAs were per- Detailed information about inclusion criteria, informed
+formed by three labs according to methods described consent, demographic data, and study design can be
+below. After samples were analyzed, ongoing review by found at www. ppmi- info. org/ study- design/ resea rch-
+PPMI led to revision of diagnoses of 4 patients through docum ents- and- sops/ archi ve- of- study- proto cols. Assay
+the consensus decision of a clinical review commit- data from all three groups are available in the PPMI
+tee. These subjects were removed from final analysis of LONI database (AbbVie: project #173; Amprion: project
+assay performance. Complete demographic data for #155; Caughey: project #172).
+the tested cohort within context of the complete PPMI Additional clinical and biomarker data from PPMI
+cohort is provided in Additional file 1: Table S1. Aver- were used for further analysis with αSyn-SAA kinetic
+age age of the PD αSyn-SAA cohort was 62.1 9.3 years parameters. These include the MDS Unified Parkin-
+±
+old, with average H&Y stage 1.5 0.5, and average base- son’s Disease Rating Scale (UPDRS, only ‘off’ scores were
+±
+line UPDRS Part 3 / total score 20.5 8.6 / 33.9 13.9; included), Montreal Cognitive Assessment (MoCA),
+± ±
+with 19 males and 9 females. Healthy controls were aged rapid eye movement (REM)-sleep behavior disorder
+63.8 10.6 years, with 18 males and 12 females. The questionnaire (RBDQ), University of Pennsylvania Smell
+±
+demographic, clinical, and biomarker features of selected Identification Test (UPSIT), Scales for Outcomes in Par-
+cohort were representative of the entire PPMI cohort. kinson’s-Autonomic Dysfunction (SCOPA-AUT), DAT-
+Age and gender were not significantly different between SPECT specific binding ratio (SBR), amyloid-β (Aβ), tau,
+HC and PD selected cohorts. The SWEDD αSyn-SAA and neurofilament light chain (NfL).
+cohort average age is 59.6 10.6, with baseline UPDRS
+±
+Part 3 / total scores of 12.1 9.4 / 28.1 16.1 and H&Y αSyn seed amplification assays
+± ±
+1.3 0.5, with 12 males and 6 females. Age, gender, dis- Performance of all assays and initial analyses were
+±
+ease duration, and ages of disease onset and diagnosis blinded to patient indicators and diagnostic categories.
+were similar for PD and SWEDD groups (Additional Use of FLUOstar Omega (BMG) fluorometers, and use
+Total PPMI PD HC SWEDD
+subjects n = 423 n = 196 n = 64
+30 PD 30 HC 20 SWEDD
+Random
+BL & Y3 BL & Y3 BL Only
+selection
+(60 samples) (60 samples) (20 samples)
+AbbVie Amprion Caughey
+αSyn-SAA αSyn-SAA αSyn-SAA
+2 subjects
+2 subjects
+Not PD #3027
+#3050 SWEDD to PD
+#3101 Later DATSCAN (+)
+MSA #3212
+Final 28 PD 30 HC 18 SWEDD
+Analysis BL & Y3 BL & Y3 BL Only
+Fig. 1 Experimental design. PD, HC, and SWEDD samples were randomly selected from available PPMI subjects as a pilot study. Aliquots from each
+subject were distributed to three independent laboratories for αSyn‑SAA according to proprietary methods without procedural coordination or
+communication. αSyn‑SAA was performed and initially analyzed in blinded manner with respect to diagnosis. After completion of assays, 2 PD and
+2 SWEDD subjects were removed from further analysis due to interval changes in consensus diagnosis
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 4 of 13
+of ThT (10 μM) as fluorescent amyloid indicator with 5 h from all data points of the curve. A threshold of
+450 10 nm excitation and 480 10 nm emission, were 3500 RFU was used to determine the time to threshold
+± ±
+common to all three assays. Each laboratory performed (TTT), i.e. time when the curve reaches this threshold.
+αSyn-SAA according to methods outlined below, with If threshold was not reached during the 70 h runtime of
+side-by-side method summary in Table 1. the assay, the TTT was set to 70 h. Curves that reached
+threshold were defined as positive replicates. A sample
+AbbVie αSyn‑SAA method was defined as αSyn-SAA positive if 50% or more of the
+Human recombinant full-length (1–140 aa) αSyn (rec- replicates were positive (4 to 8 replicates) and as negative
+αSyn) without tag was expressed in E. coli and purified if less than 50% of the replicates were positive (0 to 3 rep-
+using standard purification methods. αSyn from one sin- licates). Maximum fluorescence (F ) was determined as
+max
+gle purification batch was used throughout this study. highest RFU value recorded during the 70 h assay runt-
+αSyn-SAA reaction buffer was composed of 100 mM ime. Area under curve (AUC) was calculated between 0
+monosodium phosphate buffer (pH 8.2, adjusted with and 70 h.
+NaOH), 10 µM ThT and 0.1 mg/ml rec-αSyn. Each well
+of a black 96-well plate (Greiner Bio-One, Germany) Amprion αSyn‑SAA method
+contained 95 µl reaction buffer and 25 3 mg of 0.1 mm The Amprion αSyn-SAA is based on the protein misfold-
+±
+zirconia/silica beads (Roth, Karlsruhe, Germany). Reac- ing cyclic amplification (PMCA) platform developed by
+tions were seeded with 5 µl of undiluted CSF samples Soto and colleagues [8, 9] and has been described previ-
+yielding final reaction volume of 100 µl per well. Plates ously [10]. The 200-μl reaction mixture included 0.3 mg/
+were sealed with a plate sealer film (Fisher Scientific Ltd, mL rec-αSyn, 0.5 M NaCl, 100 mM PIPES (pH adjusted
+UK) and incubated in the plate reader at 33 °C for 70 h to 6.5 with NaOH), and 20% v/v CSF. Rec-αSyn was
+with shake/rest cycles: 1 min double orbital shaking at expressed with C-terminal His-tag in E. coli BL21(DE3)
+200 rpm, 14 min rest. ThT fluorescence measurements and purified using immobilized metal affinity chroma-
+were taken every 15 min. Each CSF sample was measured tography (IMAC). All samples were analyzed with a sin-
+in two independent assay runs with 4 technical replicates gle batch of substrate. One 3/32″ Si N bead (Tsubaki
+3 4
+each. In total, 16 plates were measured. Nakashima) was added per well using a house-made bead
+Before further analysis, each aggregation curve was dispenser. Beads were blocked with 1% BSA in 100 mM
+baseline corrected by subtracting the mean of the rela- PIPES pH 6.5 for 1 h and washed twice with 100 mM
+tive fluorescence units (RFU) measured between 2 and PIPES pH 6.5. Samples were run in 3 technical replicates
+Table 1 Summary of αSyn‑SAA reagents and protocols for each laboratory
+AbbVie Amprion Caughey
+Monomeric αSyn 0.1 mg/ml recombinant human αSyn 0.3 mg/ml recombinant αSyn (C‑term His) 0.1 mg/ml recombinant K23Q αSyn (N‑term
+(w/o tag) His)
+CSF 5% v/v 20% v/v 15% v/v
+Reaction volume 100 μl 200 μl 100 μl
+Reaction duration 70 h 150 h 48 h
+Reaction mixture 100 mM NaHPO 500 mM NaCl 170 mM NaCl
+2 4
+(pH to 8.2 w/ NaOH) 100 mM PIPES 40 mM NaHPO/ NaHPO
+2 4 2 4
+(pH to 6.5 w/ NaOH) (pH to 8.0 w/ NaHPO)
+2 4
+0.0015% SDS
+Temperature 33 °C 37 °C 42 °C
+Beads 25 3 mg of 0.10‑mm zirconia/silica Single 3/32‑inch SiN bead 0.8‑mm silica beads (6)
+± 3 4
+beads
+Shaking protocol 200 rpm shaking for 60 s and 14 min rest 700 rpm shaking for 60 s every 30 min 400 rpm shaking for 60 s every 60 s
+No. Replicates 8 3 4
+Threshold (RFU) 3500 Probabilistic algorithm based on assay 10% plate maximum fluorescence
+kinetic parameters
+Positive 50% positive replicates (4–8) All 3 replicates positive by algorithm > 25% replicates positive
+≥
+Negative < 50% positive replicates (0–3) 0–1 positive replicates 0 positive replicates
+Inconclusive n/a 2 positive replicates if 25% replicates positive, retested
+Abbreviations: RFU, relative fluorescence units; rpm, rotations per minute; PIPES, piperazine-N,N’-bis(2-ethanesulfonic acid); SDS, sodium dodecyl sulfate; ThT,
+thioflavin T
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 5 of 13
+within 96-well plates, using plate reader coupled to a replicates. If upon repeat they had 25% wells positive
+≤
+robotic arm inside an incubator set to 37 °C. Each plate they were considered negative and marked as “negative
+was shaken for 1 min every 29 min, and fluorescence was (inconclusive)”. Samples with no positive wells were con-
+measured after each cycle for 150 h. In these assay condi- sidered negative. TTT was calculated as the amount of
+tions, CSF samples containing αSyn aggregates typically time needed for a well to cross that 10% threshold. T
+50
+show a classic amyloid aggregation curve within 100 h. was calculated by dividing the maximum fluorescence
+Kinetic values obtained from aggregation curves include value for a well by 2 and then finding the time value clos-
+F max (highest raw fluorescence from each well), T 50 (time est to when that fluorescence value was reached. AUC,
+to reach 50% of the F max ), and TTT (time to reach a 5,000 along with each of the other described parameters above
+RFU threshold). Using data from a training set of ~ 1,000 (except for T which was calculated using Microsoft
+50
+samples, a proprietary probabilistic algorithm was devel- excel), was calculated using the OMEGA MARS soft-
+oped to determine whether each well was positive or ware V3.32 Build 5. The same baseline subtracted, scaled
+negative. Based on these results, if all 3 replicates from a curves were used to calculate area under the curve. All
+given sample were positive, the sample is positive. If only ThT negative wells were reported as “NA”.
+0–1 replicates are positive by the algorithm, the sample
+is negative. If 2 of 3 replicates are positive, the sample Inconclusive results
+was labeled inconclusive. A second-level criterion within Among the data sets, there are differences in handling of
+the algorithm compared average F max of all 3 wells from inconclusive results. The algorithm developed by Amp-
+inconclusive samples, and samples with highly variable or rion is based on 3 technical replicates and has ternary
+low F max were called negative. output (positive, negative, and inconclusive). Within the
+original MJFF research plan, Amprion allocated some
+Caughey αSyn‑SAA method
+volume of the sample to be tested by an earlier version of
+αSyn-SAA performed by the Caughey lab is also referred their αSyn-SAA [10], and there was not sufficient mate-
+to as real-time quaking induced conversion (RT-QuIC) rial to run repeated replicates of this assay in order to
+assay and methods are similar to those described pre- retest inconclusive results. We therefore report calcula-
+viously [13, 29]. CSF samples were thawed and 15 μl tions for Amprion data both with inconclusive results
+immediately added to the seed reaction mixture (85 μl). excluded, and with inconclusive samples included as neg-
+Reaction mixture contained (final concentration in ative results (2 of 3 replicates positive) as a hypothetical
+100 μl): 40 mM phosphate buffer (prepared by mixing worst-case scenario for calculating sensitivity—with both
+monosodium and disodium phosphates and finalizing pH calculations reported in Fig. 2. Amprion’s experience
+to 8.0 using disodium phosphate), 170 mM NaCl, 0.1 mg/ with inconclusive results is that most become conclu-
+ml K23Q rec-αSyn, 10 μM ThT, and 0.0015% sodium sive upon re-testing. The Caughey group ran 4 replicates
+dodecyl sulfate (SDS). All solutions and recombinant initially, with 2 positive replicates indicating posi-
+≥
+K23Q αSyn substrate batches were tested for adequate tive result. Any sets with only 1 positive replicate (25%)
+performance prior to use. Assay was performed with were repeated, again as 4 replicates, and this invariably
+cycles of 1 min shaking (400 rpm double orbital) and produced unequivocally negative results (zero positive).
+1 min rest throughout the indicated incubation time. ThT Higher numbers of replicates probably facilitates the
+fluorescence was measured every 45 min. Each experi- generation of conclusive results. AbbVie ran 8 replicates
+mental plate was analyzed separately to account for dif- from each initial CSF sample, with 4 positive replicates
+≥
+ferences between runs and between plate readers. indicating positive sample, and resulting in unambiguous
+A 5-h baseline, consisting of the window from ~ 2–7 h results across samples.
+was subtracted from each curve. Maximum ThT value
+on the plate within 48-h was then used to normalize all End‑Point dilution analysis
+curves from 0 (lowest value for an individual curve) to End-point dilution analysis was performed on a subset of
+100% (maximum value on the plate). A 10% threshold PD cohort samples with 75% positive αSyn-SAA rep-
+≥
+was set as criterion for a well to be considered positive. licates. All end-point dilution assays were performed by
+The maximum value for each well was recorded as a per- the Caughey laboratory similarly to protocols previously
+centage and then given a positive/negative determina- described [13, 30]. CSF was serially diluted 1:2 in pooled
+tion based on the 10% threshold. Samples were analyzed CSF from healthy samples with negative SAA, purchased
+in 4 technical replicates. For a sample to be considered from Innovative Research, Inc. (Michigan, USA). These
+positive, > 25% of the replicate wells needed to be posi- dilutions underwent aggregation and shaking as per the
+tive. Samples with 25% of the replicate wells positive protocol described above. The Spearman-Kärber method
+were considered inconclusive and re-tested in 4 technical was used to calculate the sample dilution containing the
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 6 of 13
+a AbbVie b
+Amprion ‡
+Caughey
+Sensitivity Specificity
+‡
+100
+‡
+90
+80
+‡
+70
+BL Y3
+amount of seed giving 50% positive replicate reactions, met, due to a small number of samples, the linear regres-
+i.e. the 50% seeding dose or SD50 [30]. This dilution was sion results should be interpreted with caution.
+then used to calculate the SD50 per volume of neat CSF
+Results
+(in this case, 15 µL of the original sample).
+Diagnostic performance for PD
+Statistics and additional data analysis 120 CSF samples were analyzed, from 30 PD and 30 HC
+Python 3.8, Pandas 1.2.4/Seaborn 0.11.1, Prism 9.1, and subjects (Fig. 1). PD and HC samples were collected at
+SAS 9.4 were used for statistical analysis and data pres- BL and Y3. αSyn-SAA by all three groups demonstrated
+entation. Sensitivity and specificity were calculated from considerable accuracy in distinguishing PDs from HCs,
+a non-parameterized receiver operator characteristic and results were highly concordant. Performance data
+(ROC) calculation for each group with 95% confidence are summarized in Fig. 2. Sensitivity and specificity are
+intervals. Correlation coefficients for all pairings were expressed as percentages, with 95%-confidence inter-
+calculated using non-parametric rank-order methods val in parentheses. For samples obtained at baseline/
+(Spearman), producing a correlation coefficient (Spear- enrollment, the AbbVie αSyn-SAA was 89 (78, 100)%
+man r) and p-values for null hypothesis that no mono- sensitive and 100 (100, 100)% specific. The Amprion
+tonic relationship in the ranks exists. These p-values for αSyn-SAA was 96 (89, 100)% sensitive (when 2 incon-
+ranks should be interpreted with caution, as we did not clusive results—with only 2 of 3 replicates positive—
+apply correction for multiple comparisons (i.e. Bonfer- were excluded from the calculation, and 89 [78, 100]%
+roni correction). We employed linear regression to assess sensitive when these samples were considered negative)
+the association between SD50 and CSF NfL at baseline, and 97 (90, 100)% specific. The Caughey αSyn-SAA was
+adjusting for age. Although the model assumptions were 86 (73, 99)% sensitive and 97 (90, 100)% specific. There
+was trend toward slightly improved sensitivity from BL
+%
+100
+90
+80
+70
+BL Y3
+%
+PPV
+100
+90
+80
+70
+BL Y3
+%
+100
+90
+80
+70
+NPV
+%
+AUC
+Se AbbVie Amprion Caughey Sp AbbVie Amprion Caughey
+BL 89% 96%‡ 89% 86% BL 100% 97% 97%
+(78,100) (89,100)(78,100) (73,99) (100,100) (90,100) (90,100)
+Y3 93% 96% 89% Y3 93% 93% 97%
+(83, 100) (89,100) (78,100) (84,100) (84,100) (90,100)
+Fig. 2 Seed amplification assay diagnostic performance for early PD. a Plots of sensitivity (left) and specificity (right) for SAA by each of the three
+laboratories (AbbVie, Amprion, and Caughey) at BL and Y3. Values (percentages) are provided for sensitivity and specificity in the tables below the
+respective plots. Calculations for Amprion αSyn‑SAA are reported when 2 inconclusive results are excluded (filled circles), or when they are included
+as negative results (open circles). Amprion αSyn‑SAA sensitivity is 96% if two inconclusive results (only 2/3 positive replicates) are excluded from
+analysis (filled circles), but 89% if these are treated as negative (not meeting 3/3 criterion for positive result). Specificity calculation and year 3 results
+were not affected. b Plots for area under the curve (AUC), positive predictive value (PPV), and negative predictive value (NPV). ‡ Inconclusive results
+(2 samples at baseline) not included in calculation
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 7 of 13
+to Y3 in results from two groups (AbbVie 89% 93% There were 2 SWEDD subjects that were detected as
+→
+and Caughey 86% 89%). Raw numbers of positive/ positive by all three groups (Additional file 1: Table S4).
+→
+negative/inconclusive samples for each group are pro- Both had negative DAT-SPECT imaging at baseline and
+vided in Additional file 1: Fig. S1. therefore were initially classified as SWEDD. However,
+During this study, there were 2 subjects whose diag- subsequent DAT imaging (after > 3 years) showed clear
+noses were revised from the original PD designa- deficit of radioligand uptake, consistent with dopamine
+tion applied at baseline (Fig. 1). These subjects were denervation and PD [10]. The diagnostic status of these
+removed from calculations of sensitivity and specific- subjects was changed to PD post αSyn-SAA analysis.
+ity, as the intent was to validate these assays against the Only one other SWEDD subject was detected as positive
+best available clinical diagnosis. One of these subjects by all three groups (#3082); this subject may have RBD
+(#3212) rapidly progressed and died during the PPMI based on questionnaire.
+study. Autopsy revealed widespread glial cytoplasmic
+inclusions, brainstem Lewy body disease, and bilateral Comparison of assay kinetic parameters
+gliosis of the lateral putamen, consistent with multiple αSyn-SAA produces a time-evolving fluorescence sig-
+system atrophy-parkinsonian type (MSA-P). The other nal with a characteristic sigmoid shape as aggregation
+subject was determined to have an uncertain diagnosis occurs. There is a well-defined lag-phase, exponential
+but not PD through consensus review by an independ- phase, and plateau phase. Several kinetic parameters are
+ent PPMI committee. Interestingly, αSyn-SAA results derived from this time-series data, including F , AUC,
+max
+by all three groups were negative for both of these sub- TTT, and T . Two of these measures, F and TTT
+50 max
+jects, at both BL and Y3. were available for all three groups. We examined the vari-
+There were 7 PD subjects with negative αSyn-SAA ability of these parameters for PD patients with positive
+results by at least one of the groups, at least at one time αSyn-SAA results. For each lab, the mean and range of
+point. We examined clinical and biomarker data for these F or TTT of replicates for each sample were deter-
+max
+negative PD subjects (Additional file 1: Table S2). One mined (Additional file 1: Fig. S2), and we see high vari-
+subject (#3020) was unanimously detected as negative ability in F or TTT across technical replicates within a
+max
+αSyn-SAA by all three groups, and demonstrated rapid given assay. Furthermore, there are differences across the
+motor progression (UPDRS Part 3 increased by 25 three assays, indicating significant variability for identical
++
+from BL to Y3), elevated SCOPA-AUT score of 17, and samples/patients (Additional file 1: Fig. S2). We explored
+elevated baseline CSF NfL (166.4 pg/ml), suggesting pos- whether kinetic parameters correlated across the three
+sible MSA or alternative diagnosis to PD. laboratories, which could imply that they are influenced
+There were 4 HC subject samples with positive αSyn- by the seeding αSyn or the sample milieu. Using kinetic
+SAA results by at least one group at either time point parameters derived from αSyn-SAA-positive PD samples,
+(Additional file 1: Table S3). For instance, AbbVie, Amp- we evaluated for correlations among F , AUC, T , or
+max 50
+rion, and the Caughey lab each detected a different HC as TTT both within and among the three lab assays (Fig. 3).
+positive at a single time point. All three assays detected There were notable correlations among kinetic parame-
+HC #3264 as positive (AbbVie at Y3, Amprion at BL and ters within assays. For instance, the onset of the reaction
+Y3, and Caughey at BL). We reviewed available clinical ( T or TTT) correlates inversely with F —aggregation
+50 max
+data for these healthy control subjects for signs of poten- producing higher F was achieved in reactions that
+max
+tial neurologic disease or other confounds. HC #3264 had had more rapid onset (shorter lag phase). This has been
+possible rapid eye movement (REM)-sleep behavior dis- observed for αSyn and earlier PrP assays, and is influ-
+order (RBD) based on RBD questionnaire score of 5 (with enced by seed concentration, by other molecules [31], or
+question 6 also positive) and an elevated SCOPA-AUT by incomplete recording of curves with a long lag phase.
+score of 8. This is a possible synucleinopathy prodromal Caughey αSyn-SAA F had modest inverse correlation
+max
+state in this subject, which could explain the highly con- to Amprion TTT. We did not otherwise observe signifi-
+cordant positive result, but this could not be verified. cant correlations of kinetic parameters across the three
+There were no notable clinical features in the other posi- assays. There were also no significant correlations when
+tive HC subjects (Additional file 1: Table S3). comparing the absolute change (Y3–BL) in assay kinetic
+parameters from BL to Y3 (Fig. 3c).
+SWEDD results
+Baseline CSF samples from 20 SWEDD subjects were Comparison of assay kinetics with clinical and other
+tested by all three laboratories. AbbVie αSyn-SAA biomarker data
+resulted in 3/20 positive (15%), Amprion 4/20 (20%, plus A secondary question is whether these assays can pro-
+1 inconclusive result), and Caughey with 4/20 (20%). vide information about the severity of disease, clinical
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 8 of 13
+phenotype, or even prognosis. We utilized the available
+AbbVie Amprion Caughey PPMI clinical and biomarker data to explore correlations
+BL
+F
+MAX
+A
+U C TTT
+F
+MAX T50 TTT
+F
+MAX
+A
+U C TTT to assay kinetic parameters across all three sets of results.
+FMAX Using data from PD subjects with positive αSyn-SAA, we
+calculated correlation coefficients of kinetic parameters
+AUC
+(F , AUC, T , TTT) versus multiple clinical motor
+max 50
+TTT (UPDRS), non-motor (RBDQ, SCOPA-AUT, MoCA,
+FMAX UPSIT), imaging (DAT-SPECT SBR), and biomarkers
+(CSF Aβ, tau, and NfL) (Additional file 1: Fig. S3, online
+T50
+resource). There were some notable correlations between
+TTT
+assay parameters and clinical metrics. For instance, dis-
+FMAX ease duration positively correlated to Caughey αSyn-SAA
+AUC F max (r = + 0.53, p = 0.007, n = 24), and negatively to
+Caughey TTT (r 0.46, p 0.025, n 24), and AbbVie
+TTT =− = =
+αSyn-SAA TTT (r 0.42, p 0.039, n 25). The only
+=− = =
+significant correlations to motor scores were between
+Caughey BL F and BL AUC and Y3 UPDRS Part 3 Off max
+Score (r 0.51, p 0.025 and r 0.51, p 0.025, =+ = =+ =
+respectively; n 19). Interestingly, there was strong
+=
+negative correlation between Amprion αSyn-SAA F
+max
+and contralateral putamen SBR (r 0.64, p 0.0006,
+=− =
+n 27) at baseline. Among the additional CSF bio-
+=
+marker data available, there were no consensus associa-
+tions across the assays. There was positive correlation of
+CSF total αSyn to Amprion αSyn-SAA TTT (r 0.68,
+=+
+p 0.0005, n 27), but only at Y3. There were no consist-
+= =
+ent trends across assays, across time-points, or within
+categories of clinical/biomarker data (Additional file 1:
+Fig. S3).
+End‑point dilution αSyn‑SAA
+As an alternative method to derive quantitative informa-
+tion, the Caughey lab performed end-point dilution of
+positive PD samples. End-point dilution provides an esti-
+mate of the seed concentration within a biosample, and
+has been previously reported for prions [30] and αSyn
+[13] in a variety of tissues. Samples were serially diluted
+twofold and αSyn-SAA performed, and the dilution pro-
+ducing 50% positive replicates in a series was estimated
+and used to calculate the concentration of 50% seeding
+units or ‘doses’ (SD50) in the original CSF. This provides
+a quantitative measure that should linearly correspond
+to the concentration of αSyn seeds. End-point dilution
+was achieved for 19 of the αSyn-SAA positive samples
+from the Caughey group. SD50 positively correlates to
+normalized F (r 0.49, p 0.033, n 19), but not
+max =+ = =
+to other kinetic parameters (Additional file 1: Fig. S5).
+We evaluated correlations between SD50 and baseline
+clinical features, including age, disease duration, motor
+(UDPRS Part 3) scores, non-motor scores, and additional
+biomarkers (CSF αSyn and NfL). We observed positive
+correlation between SD50 and NfL (r 0.51, p 0.05,
+=+ =
+eiVbbA
+noirpmA
+yehguaC
+a
+r > 0
+r ≤ 0
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+*p ≤ 0.05
+**p ≤ 0.01
+b
+Y3 F MAX A U C TTT F MAX T50 TTT F MAX A U C TTT
+FMAX
+AUC
+TTT
+FMAX
+T50
+TTT
+FMAX
+AUC
+TTT
+c
+Δ:Y3-BL ΔF MAX ΔAUC ΔTTT ΔF MAX ΔT50 ΔTTT ΔF MAX ΔAUC ΔTTT
+ΔFMAX
+ΔAUC
+ΔTTT
+ΔFMAX
+ΔT50
+ΔTTT
+ΔFMAX
+ΔAUC
+ΔTTT
+eiVbbA
+noirpmA
+yehguaC
+AbbVie Amprion Caughey
+AbbVie Amprion Caughey
+eiVbbA
+noirpmA
+yehguaC
+Fig. 3 Correlations among αSyn‑SAA kinetic parameters across the
+three assays. a Correlations among maximum fluorescence (F ),
+max
+area under the curve (AUC), time to 50% maximum (T ), or time to
+50
+threshold (TTT) among the three assays for baseline (BL) samples.
+Diameter of each circle is proportional to strength of correlation
+(Spearman r), and the color indicates positive (orange) and negative
+(blue) correlations (**p 0.01, *p 0.05). b Similar analysis of
+≤ ≤
+correlation for year 3 (Y3) samples. c Correlations of changes in
+assay kinetic parameters from baseline (BL) to year 3 (Y3). Absolute
+change (Δ, Y3—BL) was calculated and rank order correlations were
+determined for each pairing of parameters
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 9 of 13
+Additional file 1: Fig. S4a), but age accounts for part of and year 3 determined by all three assays. One of these
+this relationship (multiple linear regression with age and patients (#3212) had rapid progression and early demise.
+SD50 as independent variables: β 3.9, p 0.0013 and Postmortem pathology confirmed a diagnosis of multi-
+age= =
+β 9.1, p 0.057). One hypothesis is that SD50 might ple system atrophy (MSA), with oligodendroglia αSyn
+SD50= =
+increase with duration or progression of disease, but we inclusions. Another patient (#3027) was determined to
+did not observe consistent pairwise differences in SD50 have diagnosis of atypical parkinsonism not consistent
+between BL and Y3 (Additional file 1: Fig. S4b). We also with idiopathic PD after independent review. These cases
+examined change in NfL with time from BL to Y3, as illustrate the ability of αSyn-SAA to distinguish early PD
+this biomarker is associated with longitudinal progres- from other forms of parkinsonism.
+sion of disease in another de novo cohort [32, 33]. Simi- The negative result observed for the confirmed MSA
+larly to SD50, there was no change of NfL from BL to Y3 patient forces the question as to why a known synucle-
+(Additional file 1: Fig. S4c) in this PPMI subset. Moreo- inopathy does not produce detectable aggregation. MSA
+ver, we did not see a relationship between baseline SD50 is associated with αSyn forms known to aggregate and
+and change in motor scores from BL to Y3, or between propagate in the CNS, though with overwhelming ten-
+change in SD50 from BL to Y3 and change in UPDRS dency to form oligodendroglial intracellular inclusions.
+Part 3 or total scores (Additional file 1: Fig. S4d). These One hypothesis is that the major differences between PD
+subjects have relatively early disease, and SD50 may and MSA are due to structural strain differences in the
+correlate to a wider range of the disease from early to essential αSyn forms underlying each disease [34–36].
+advanced stages. We therefore included end-point dilu- We do know that MSA-derived CSF behaves differently
+tion data for subjects from the BioFIND study, which than PD-derived CSF in the αSyn-SAA. Depending on
+enrolled and collected CSF from PD subjects with more assay protocol, MSA-derived samples either do not show
+advanced disease (Additional file 1: Fig. S6). Here, SD50 aggregation [24] or aggregation occurs with kinetic pro-
+has positive correlation to age (r 0.36, p 0.006) and file distinct from that of PD [26]. Aggregation of MSA
+=+ =
+disease duration (r = + 0.31, p = 0.02), but not meaning- samples begins earlier (lower T 50 or TTT), and achieves a
+ful associations with other clinical measures. lower steady-state fluorescence (F max ) than for PD. More-
+over, this has only been observed under a specific set of
+Discussion reaction conditions [26]. This MSA sample was detected
+αSyn-SAAs performed in parallel by three groups demon- as negative in all three of these assays, which had been
+strate high diagnostic performance for PD, with 86–96% optimized for generating and detecting a typical PD pro-
+sensitivity and 97–100% specificity at baseline. Despite file, consistent with a previous study that also noted neg-
+differences in methods and laboratories, all three assays ative αSyn-SAA in 29 of 31 MSA cases [24]. With further
+achieved diagnostic accuracy that could provide practi- optimization and validation, these assays have potential
+cal clinical benefit for detecting early αSyn disease. While to distinguish MSA from PD [24] as well as controls [26].
+there were slight differences in sensitivity and specificity There were 7 other PD subjects with αSyn-SAA results
+calculated for each group, this does not likely represent discordant from diagnosis and one of these (#3020) by
+any systematic advantage or shortcoming of any single all three labs, which could be considered false negatives.
+assay, but is more likely attributable to reasonable vari- There were also 4 HCs that were variously detected as
+ability within this small sample size. Beyond diagnostic positive αSyn-SAA, and one of these (#3264) was unani-
+performance against clinically validated subjects, there mously detected as positive. These are considered false
+was a remarkable unanimous concordance across all positive results. When reviewing their clinical data,
+three assays for subjects whose initial diagnostic desig- there was nothing to indicate neurologic abnormality,
+nation had changed. This highlights the high negative with exception of #3264 who might be considered to
+predictive value of the assays, and illustrates practical have REM-sleep-behavior disorder (RBD) with a RBD
+scenarios where an early negative αSyn-SAA result might questionnaire score of 5 (with positive question #6). Out
+prompt the clinician or investigator to consider alterna- of 6 HC subjects with probable RBD based on the RBD
+tive diagnoses, even when clinical or imaging data do not questionnaire total ( ≥ 5) or positive response to dream-
+necessarily deviate from classical PD. enactment (positive question #6) from the tested cohort,
+Initial diagnostic designations for each PPMI cohort 2 (#3074 and #3264) showed positive αSyn-SAA (33%).
+are based upon clinical and imaging assessments rela- Likewise, out of 12 HC subjects in the tested cohort with
+tively early in the disease course, but with time and dis- SCOPA-AUT score ≥ 7, 2 (17%) showed positive αSyn-
+ease progression, the clinical diagnosis may change. SAA (#3112 in Amprion Y3, and #3264 by all groups).
+Diagnoses changed for 2 subjects within the PD group, Several studies have now noted much higher positivity
+both of whom had negative αSyn-SAA at both baseline rates of αSyn-SAA in prodromal cases [24, 37, 38]. Up
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 10 of 13
+to 59% of patients with RBD confirmed by polysomnog- Quantitative information from αSyn‑SAA
+raphy can have DAT deficit at baseline [39], vs. none in Kinetic parameters of each αSyn-SAA set were compared
+the PPMI control subjects with RBD symptoms. The rela- to clinical, imaging, and biomarker data available for each
+tively lower rate of αSyn-SAA positivity in these control patient. With the development of prion SAAs to deter-
+subjects with incidental RBD symptoms or dysautonomia mine presence of prions seeds in prion disease, there is
+is likely to be due to selection bias of published studies evidence that the kinetics of the aggregation reaction
+focused on prodromal cohort vs. those with incidentally and evolution of the corresponding fluorescence signal
+noted symptoms, and the fact that we do not have objec- is related to the number of seeds initially added to the
+tive autonomic testing or polysomnography (PSG) in reaction, or the aggregation propensity of the seeds [9,
+these subjects for confirmed diagnosis, although ques- 13, 30]. Aggregation occurs earlier and produces higher
+tionnaires have been shown to have at least moderate maximum fluorescence with more initial seeds, result-
+correlation with objective testing results [40–43]. ing in shorter T , shorter TTT or higher F . We asked
+50 max
+All three assays generated positive αSyn-SAA results whether assay kinetic parameters, namely F , T , TTT,
+max 50
+for 2 SWEDD subjects with clinical features of parkin- or AUC, correlated to any particular clinical features,
+sonism, but borderline baseline DAT-SPECT imaging. with the broad assumption that these could indicate
+Both subjects had later DAT-SPECT at 3 years that une- variations in seeding potential that would also correlate
+quivocally demonstrated significant striatal denervation to clinical severity or other markers of disease progres-
+[10]. Again, this emphasizes the power of αSyn-SAA to sion. However, we observe substantial variability that
+detect PD early during the disease course, potentially likely limits the quantitative utility of αSyn-SAA for CSF
+even before substantia nigra degeneration occurs. These as they are performed now. For instance, there is sig-
+SWEDD subjects did have early motor signs of parkin- nificant variability of fluorescence amplitude and time
+sonism, indicating manifest nigrostriatal dysfunction, course in aggregation reactions run from the same sam-
+but the relative preservation of dopaminergic terminals ple (replicates). There is also significant variability across
+by imaging suggests that diagnosis by αSyn-SAA may be the three labs. This could be due to inherent variability
+possible before significant neuron loss. αSyn-SAA has of the aggregation process, differences in reagents or pro-
+already been tested in several cohorts of prodromal synu- cedures, heterogeneous analyte related to the extremely
+cleinopathies, including RBD or pure autonomic failure, low concentrations of the biomarkers, and relatively low
+detecting seeding-competent αSyn forms before definite numbers of samples analyzed. In addition, each labora-
+motor or cognitive phenotypes emerge [24, 37, 38, 44]. tory has different reaction conditions, as summarized in
+Decreased binding of radioligand can indicate disrup- Table 1.
+tion of the nigrostriatal pathway, but this is not specific to We nonetheless examined possible relationships of
+PD or to αSyn-dependent degenerative processes, as this αSyn-SAA parameters to multiple clinical measures,
+can be seen in other forms of parkinsonism, such as PSP including UPDRS sub-scores and total score, UPSIT,
+or CBD. It also cannot provide evidence of abnormali- RBD, SCOPA, and MoCA scores, DATSCAN specific
+ties of other brain areas or changes that precede nigros- binding ratios, and CSF αSyn and NfL. Despite exten-
+triatal dysfunction. αSyn-SAAs can distinguish these sive analyses of assay parameters from all three labora-
+subjects based on the principle that αSyn pathology is tories, across these multiple clinical variables, and across
+infixed before motor signs emerge and detect PD among baseline and year 3 data, we cannot draw any substantial
+SWEDD subjects. conclusions as to the quantitative value of assay kinet-
+A limitation of this study was lack of available autopsy ics. There were some potentially meaningful correlations
+data to provide a definitive pathologic diagnosis for vali- that suggest a link to underlying severity, such as Amp-
+dation of baseline αSyn-SAA results. Neuropathology rion F inversely correlating to contralateral putamen
+max
+was available for only two patients, one with MSA as signal, or Amprion and AbbVie F inversely correlat-
+max
+described above, and another (#3076) who had mixed ing to UPSIT (i.e. more impaired olfaction correlates to
+Lewy body and Alzheimer pathology and that was higher F ). However, results were not consistent across
+max
+detected as αSyn-SAA-positive by all three groups. There all three assays.
+have been several important studies by other groups The Caughey lab extended this quantitative analysis
+of αSyn-SAA of CSF [6, 24, 45] or skin [12, 17, 45] of by performing end-point dilution on positive PD sam-
+autopsy-confirmed patient cohorts, with comparable ples. SD50 may provide direct measure of the initial
+diagnostic performance. We had sought to validate SAAs seed concentration or seeding potential of the bioma-
+within an early PD cohort, which has correspondingly trix [13]. Here, we observed modest positive correlation
+limited neuropathologic data from autopsy. (r 0.51, p 0.05, n 16) between SD50 and NfL at
+=+ = =
+baseline, which is a biologically plausible association
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 11 of 13
+between higher seeding activity and a biomarker known obvious limitation of this correlation analysis is the low
+to faithfully indicate neural and particularly axonal sample size. Quantitation may only be possible from
+injury, but this should be considered within the context multivariate analysis of a much larger data set of PD
+of relationships of SD50 and NfL to age [46]. This could patients.
+not be confirmed with the extended BioFIND data set, The diagnostic value of seed amplification assays for
+for which NfL measurements are unavailable. Apart from PD and related synucleinopathies has now been dem-
+SD50 correlating to age and disease duration, we did not onstrated in many independent studies of PD subjects.
+see additional clinical correlations among the pooled We have established that the assay is robust to meth-
+PPMI and BioFIND end-point dilutions. odological differences when performed by experienced
+There are multiple potential explanations for the dif- hands, validating the diagnostic interpretations of the
+ficulty in drawing robust clinical correlations from assay and further illustrating the maturation of αSyn-
+these assays. Seed amplification assays are inherently SAA as a clinical diagnostic tool even in early de novo
+non-linear processes, and slight variations in the initial PD when diagnosis is often more difficult. αSyn-SAA
+conditions, which include experimental factors, seed will augment current clinical diagnosis, provide impor-
+concentration, seed conformation, additional proteins tant adjunctive support to equivocal cases of parkin-
+or small molecules within the reaction milieu, can have sonism beyond what is possible with current imaging,
+large effects on the kinetics of the aggregation reaction and promises to provide early etiologic identification
+or even prevent successful aggregation. Even under iden- of patients who may most benefit from αSyn-targeted
+tical assay conditions, two identical samples may not neuroprotective strategies.
+precisely reproduce the aggregation kinetics due to vari-
+Supplementary Information
+ability between technical replicates. Unlike polymerase
+chain reaction (PCR), for instance, the recurrent cycles of The online version contains supplementary material available at https:// doi.
+org/ 10. 1186/ s40478‑ 021‑ 01282‑8.
+aggregation and disruption do not obey a ratiometric and
+predictable templating, but are subject to significant vari-
+Additional file 1. Tables S1‑S4 and Figures S1‑S6.
+ability in the fracturing and formation of new seeds and
+new seeding surfaces with each cycle. Considering these
+sources of intrinsic assay variability, it is remarkable that Acknowledgements
+We thank the participants of PPMI for their donations and selfless contribu‑
+the binary diagnostic performance was so consistently
+tions to Parkinson’s disease research. We acknowledge the PPMI steering com‑
+high across all three laboratories. mittee and PPMI Biologics/Genetics Task Force for their helpful discussion. We
+The biology of the seeds may be also responsible for the would like to thank Kachi Isiofia for her valuable help in supporting the testing
+done by the Caughey lab. We would like to thank Keenan Taylor and Nathan
+lack of quantitative differences over time and across the
+Brown at AbbVie for their support of alpha‑synuclein protein purification.
+severity of the diseases in PD cohorts. Emerging evidence
+that αSyn-SAA is positive in prodromal cases including Authors’ contributions
+MJR analyzed data, created figures, drafted and revised the manuscript. CDO
+in our few example cases may indicate that pathologi-
+conceptualized, designed, and performed RT‑QuIC for Caughey lab, analyzed
+cal seeds are present very early in the course of synucle- and interpreted data and critically revised the manuscript. LCM contributed
+inopathies and plateau by the time detectable symptoms to the overall experimental design, performed αSyn‑SAA, and analyzed and
+interpreted Amprion results. SG contributed to the acquisition, analysis and
+emerge. Further studies are essential to explore quantita-
+interpretation of AbbVie’s data, drafted and critically revised the manuscript.
+tive assays in early prodromal stages. Another interesting BRG analyzed and interpreted data for Caughey Lab and critically revised the
+and important question that has not yet been addressed manuscript. CMF purified protein and performed Amprion’s αSyn‑SAA. BH
+purified protein and characterized substrate. AGH purified K23Q α‑synuclein
+is whether therapies targeted to αSyn change the αSyn-
+protein for Caughey lab’s αSyn RT‑QuIC. DEL analyzed and interpreted data
+SAA assay results. and drafted and revised the manuscript, CCG and CSC interpreted data and
+It remains undetermined whether assay kinetic revised the manuscript. SJH and KM contributed to the overall design of the
+project, provided study oversight, and critically revised the manuscript. JM
+parameters or end-point dilution data can provide
+contributed to design of the project, analyzed AbbVie’s data, and critically
+information about disease severity, clinical features, revised the manuscript. RGH contributed to the conception, design of the pro‑
+or clinical subtypes, but our results suggest that the ject, analysis and interpretation of AbbVie’s data, drafted and critically revised
+the manuscript. CS contributed to experimental design and data analysis of
+quantitation will require additional statistical power
+the experiments performed at Amprion Inc. BC contributed to the conception,
+and careful normalization. There have been efforts to design of the work, interpretation of the data and critically revised the manu‑
+standardize the assay, and one approach relies on sta- script. UJK contributed to the conception, design of the work, interpretation of
+the data and critically revised the manuscript.
+bilized ultra-short fibrils to act as a reference standard
+of known concentration and kinetics to guide inter- Funding
+pretation of biologic samples [47]. We provide pre- Work by CDO, BRG, AGH and BC was supported by the Intramural Research
+Program of the NIAID. CS is supported by a grant from the Michael J. Fox Foun‑
+liminary data that there may be clinical information to
+dation and a grant from NIH (R01 AG055053). LCM, CMF, and BH are Amprion
+glean from αSyn-SAA beyond the diagnostic result. An employees; work at Amprion was supported by MJFF Grant #16712. SG, RGH,
+
+---PAGE BREAK---
+
+Russo et al. Acta Neuropathologica Communications 2021, 9(1): Page 12 of 13
+and JM are supported by AbbVie. MJR is supported by Grant T32AG052909 5. Garrido A, Fairfoul G, Tolosa ES et al (2019) α‑synuclein RT‑QuIC in
+(Wisniewski, Scharfman). UJK is supported by the Marlene and Paolo Fresco cerebrospinal fluid of LRRK2‑linked Parkinson’s disease. Ann Clin Transl
+Institute for Parkinson’s and Movement Disorders, Jain Foundation, and the Neurol 6:1024–1032. https:// doi. org/ 10. 1002/ acn3. 772
+Parekh Center for Interdisciplinary Neurology at NYU. DEL, CCG, and CSC 6. Fairfoul G, McGuire LI, Pal S et al (2016) Alpha‑synuclein RT‑QuIC in the
+received funding from the Michael J. Fox Foundation for Parkinson’s Research. CSF of patients with alpha‑synucleinopathies. Ann Clin Transl Neurol
+3:812–818. https:// doi. org/ 10. 1002/ acn3. 338
+Availability of data and materials 7. Kang UJ, Boehme AK, Fairfoul G et al (2019) Comparative study of cer‑
+Assay data from all three groups are available in the PPMI LONI database: ebrospinal fluid α‑synuclein seeding aggregation assays for diagnosis of
+https:// www. ppmi‑ info. org/ access‑ data‑ speci mens/ downl oad‑ data (AbbVie: Parkinson’s disease. Mov Disord 34:536–544. https:// doi. org/ 10. 1002/ mds.
+project #173; Amprion: project #155; Caughey: project #172). 27646
+8. Concha‑Marambio L, Shahnawaz M, Soto C (2019) Detection of misfolded
+α‑synuclein aggregates in cerebrospinal fluid by the protein misfolding
+Declarations
+cyclic amplification platform. Methods Mol Biol 1948:35–44. https:// doi.
+org/ 10. 1007/ 978‑1‑ 4939‑ 9124‑2_4
+Ethics approval and consent to participate
+9. Shahnawaz M, Tokuda T, Waragai M et al (2017) Development of a
+All cerebrospinal fluid (CSF) samples and clinical data were collected accord‑
+biochemical diagnosis of parkinson disease by detection of α‑synuclein
+ing to the Parkinson’s Progression Markers Initiative (PPMI) study protocol. The
+misfolded aggregates in cerebrospinal fluid. JAMA Neurol 74:163–172.
+PPMI research protocol and study documents are openly available at https://
+https:// doi. org/ 10. 1001/ jaman eurol. 2016. 4547
+www. ppmi‑ info. org.
+10. Concha‑Marambio L, Farris CM, Holguin B et al (2021) Seed amplification
+assay to diagnose early parkinson’s and predict dopaminergic deficit
+Consent for publication
+progression. Mov Disord. https:// doi. org/ 10. 1002/ mds. 28715
+Not applicable.
+11. Bargar C, Wang W, Gunzler SA et al (2021) Streamlined alpha‑synuclein
+RT‑QuIC assay for various biospecimens in Parkinson’s disease and
+Competing Interests
+dementia with Lewy bodies. Acta Neuropathol Commun 9:62. https://
+MJR declares no competing interests. CS is Founder, Chief Scientific Officer,
+doi. org/ 10. 1186/ s40478‑ 021‑ 01175‑w
+Consultant, shareholder and member of the Board of Directors of Amprion
+12. Manne S, Kondru N, Hepker M et al (2019) Ultrasensitive detection of
+Inc, a biotech company focusing on the commercialization of SAA technology
+aggregated α‑synuclein in glial cells, human cerebrospinal fluid, and
+for diagnosis of Parkinson’s disease and related synucleinopathies. UJK is on
+brain tissue using the RT‑QuIC assay: new high‑throughput neuroim‑
+the Scientific Advisory Board of Amprion, Inc. CS, LCM, CMF, BH are inventors
+mune biomarker assay for PARKINSONIAN disorders. J Neuroimmune
+on several patents related to the SAA (PMCA) technology and are affili‑
+Pharmacol 14:423–435. https:// doi. org/ 10. 1007/ s11481‑ 019‑ 09835‑4
+ated to Amprion Inc. CDO, AGH, BRG and BC have a patent Provisional (US):
+13. Groveman BR, Orrù CD, Hughson AG et al (2018) Rapid and ultra‑sensitive
+62/567,079 pending, a patent PCT: PCT/US2018/052968 pending, a patent
+quantitation of disease‑associated α‑synuclein seeds in brain and
+Canada: 3074914 pending, a patent Europe: 18786583.7 pending, and a pat‑
+cerebrospinal fluid by αSyn RT‑QuIC. Acta Neuropathol Commun 6:7.
+ent U.S.: 16/652,804 pending. SG, RGH, and JM are employees of AbbVie. DEL
+https:// doi. org/ 10. 1186/ s40478‑ 018‑ 0508‑2
+declares no competing interests. CCG declares no competing interests.
+14. Bongianni M, Ladogana A, Capaldi S et al (2019) α‑Synuclein RT‑QuIC
+assay in cerebrospinal fluid of patients with dementia with Lewy bodies.
+Author details
+Ann Clin Transl Neurol 6:2120–2126. https:// doi. org/ 10. 1002/ acn3. 50897
+1 The Marlene and Paolo Fresco Institute for Parkinson’s & Movement Disorders,
+15. Kakuda K, Ikenaka K, Araki K et al (2019) Ultrasonication‑based rapid
+Department of Neurology, Department of Neuroscience and Physiology,
+amplification of α‑synuclein aggregates in cerebrospinal fluid. Sci Rep
+Neuroscience Institute, The Parekh Center for Interdisciplinary Neurology, NYU
+9:6001. https:// doi. org/ 10. 1038/ s41598‑ 019‑ 42399‑0
+Grossman School of Medicine, New York, NY, USA. 2 Laboratory of Persistent
+16. van Rumund A, Green AJE, Fairfoul G et al (2019) α‑Synuclein real‑time
+Viral Diseases, Rocky Mountain Laboratories, National Institute of Allergy
+quaking‑induced conversion in the cerebrospinal fluid of uncertain cases
+and Infectious Diseases, National Institutes of Health, Hamilton, MT, USA.
+of parkinsonism. Ann Neurol 85:777–781. https:// doi. org/ 10. 1002/ ana.
+3 R&D Unit, Amprion Inc., San Diego, CA, USA. 4 AbbVie Deutschland GmbH
+25447
+& Co. KG, Ludwigshafen, Germany. 5 Department of Biostatistics, College
+17. Wang Z, Becker K, Donadio V et al (2020) Skin α‑synuclein aggregation
+of Public Health, University of Iowa, Iowa City, IA, USA. 6 Michael J. Fox Founda‑
+seeding activity as a novel biomarker for Parkinson disease. JAMA Neurol.
+tion for Parkinson’s Research, New York, NY, USA. 7 Northwestern University
+https:// doi. org/ 10. 1001/ jaman eurol. 2020. 3311
+Feinberg School of Medicine, Chicago, IL, USA. 8 Mitchell Center for Alzheimer’s
+18. Manne S, Kondru N, Jin H et al (2020) Blinded RT‑QuIC analysis of
+Disease and Related Brain Disorders, Department of Neurology, University
+α‑synuclein biomarker in skin tissue from Parkinson’s disease patients.
+of Texas Houston Medical School, Houston, TX, USA.
+Mov Disord 35:2230–2239. https:// doi. org/ 10. 1002/ mds. 28242
+19. Donadio V, Wang Z, Incensi A et al (2021) In vivo diagnosis of synucle‑
+Received: 9 August 2021 Accepted: 22 October 2021
+inopathies: a comparative study of skin biopsy and RT‑QuIC. Neurology.
+https:// doi. org/ 10. 1212/ WNL. 00000 00000 011935
+20. Perra D, Bongianni M, Novi G et al (2021) Alpha‑synuclein seeds in olfac‑
+tory mucosa and cerebrospinal fluid of patients with dementia with Lewy
+bodies. Brain Commun. https:// doi. org/ 10. 1093/ brain comms/ fcab0 45
+References 21. De Luca CMG, Elia AE, Portaleone SM et al (2019) Efficient RT‑QuIC seed‑
+1. Adler CH, Beach TG (2016) Neuropathological basis of nonmotor mani‑ ing activity for α‑synuclein in olfactory mucosa samples of patients with
+festations of Parkinson’s disease. Mov Disord 31:1114–1119. https://d oi. Parkinson’s disease and multiple system atrophy. Transl Neurodegener
+org/1 0.1 002/m ds.2 6605 8:24. https:// doi. org/ 10. 1186/ s40035‑ 019‑ 0164‑x
+2. Braak H, Del Tredici K, Rüb U et al (2003) Staging of brain pathology 22. Manne S, Kondru N, Jin H et al (2020) α‑Synuclein real‑time quaking‑
+related to sporadic Parkinson’s disease. Neurobiol Aging 24:197–211. induced conversion in the submandibular glands of Parkinson’s disease
+https://d oi.o rg/1 0.1 016/s 0197‑4 580(02)0 0065‑9 patients. Mov Disord 35:268–278. https:// doi. org/ 10. 1002/ mds. 27907
+3. de la Fuente‑Fernández R (2012) Role of DaTSCAN and clinical diagnosis 23. Fenyi A, Leclair‑Visonneau L, Clairembault T et al (2019) Detection of
+in Parkinson disease. Neurology 78:696–701. https:// doi. org/ 10. 1212/ alpha‑synuclein aggregates in gastrointestinal biopsies by protein mis‑
+WNL. 0b013 e3182 48e520 folding cyclic amplification. Neurobiol Dis 129:38–43. https:// doi. org/ 10.
+4. Saborio GP, Permanne B, Soto C (2001) Sensitive detection of pathologi‑ 1016/j. nbd. 2019. 05. 002
+cal prion protein by cyclic amplification of protein misfolding. Nature 24. Rossi M, Candelise N, Baiardi S et al (2020) Ultrasensitive RT‑QuIC
+411:810–813. https:// doi. org/ 10. 1038/ 35081 095 assay with high sensitivity and specificity for Lewy body‑associated
+
+---PAGE BREAK---
+
+R usso et al. Acta Neuropathologica Communications 2021, 9(1): Page 13 of 13
+synucleinopathies. Acta Neuropathol 140:49–62. https:// doi. org/ 10. 1007/ 37. Singer W, Schmeichel AM, Shahnawaz M et al (2021) Alpha‑synuclein
+s00401‑ 020‑ 02160‑8 oligomers and neurofilament light chain predict phenoconversion of
+25. Singer W, Schmeichel AM, Shahnawaz M et al (2020) Alpha‑synuclein pure autonomic failure. Ann Neurol. https:// doi. org/ 10. 1002/ ana. 26089
+oligomers and neurofilament light chain in spinal fluid differentiate 38. Iranzo A, Fairfoul G, Ayudhaya ACN et al (2021) Detection of α‑synuclein
+multiple system atrophy from lewy body synucleinopathies. Ann Neurol in CSF by RT‑QuIC in patients with isolated rapid‑eye‑movement sleep
+88:503–512. https:// doi. org/ 10. 1002/ ana. 25824 behaviour disorder: a longitudinal observational study. Lancet Neurol
+26. Shahnawaz M, Mukherjee A, Pritzkow S et al (2020) Discriminating 20:203–212. https:// doi. org/ 10. 1016/ S1474‑ 4422(20) 30449‑X
+α‑synuclein strains in Parkinson’s disease and multiple system atrophy. 39. Iranzo A, Santamaría J, Valldeoriola F et al (2017) Dopamine transporter
+Nature 578:273–277. https:// doi. org/ 10. 1038/ s41586‑ 020‑ 1984‑7 imaging deficit predicts early transition to synucleinopathy in idiopathic
+27. Batla A, Erro R, Stamelou M et al (2014) Patients with scans without evi‑ rapid eye movement sleep behavior disorder. Ann Neurol 82:419–428.
+dence of dopaminergic deficit: a long‑term follow‑up study. Mov Disord https:// doi. org/ 10. 1002/ ana. 25026
+29:1820–1825. https:// doi. org/ 10. 1002/ mds. 26018 40. Skorvanek M, Feketeova E, Kurtis MM et al (2018) Accuracy of rating
+28. Lee JW, Song YS, Kim H et al (2021) Patients with scans without evidence scales and clinical measures for screening of rapid eye movement sleep
+of dopaminergic deficit (SWEDD) do not have early Parkinson’s disease: behavior disorder and for predicting conversion to parkinson’s disease
+Analysis of the PPMI data. PLoS ONE 16:e0246881. https:// doi. org/ 10. and other synucleinopathies. Front Neurol 9:376. https:// doi. org/ 10. 3389/
+1371/ journ al. pone. 02468 81 fneur. 2018. 00376
+29. Orrù CD, Ma TC, Hughson AG et al (2021) A rapid α‑synuclein seed assay 41. Halsband C, Zapf A, Sixel‑Döring F et al (2018) The REM sleep behavior
+of Parkinson’s disease CSF panel shows high diagnostic accuracy. Ann disorder screening questionnaire is not valid in de novo parkinson’s
+Clin Transl Neurol 8:374–384. https:// doi. org/ 10. 1002/ acn3. 51280 disease. Mov Disord Clin Pract (Hoboken) 5:171–176. https:// doi. org/ 10.
+30. Wilham JM, Orrú CD, Bessen RA et al (2010) Rapid end‑point quantitation 1002/ mdc3. 12591
+of prion seeding activity with sensitivity comparable to bioassays. PLoS 42. Postuma RB, Arnulf I, Hogl B et al (2012) A single‑question screen for
+Pathog 6:e1001217. https:// doi. org/ 10. 1371/ journ al. ppat. 10012 17 rapid eye movement sleep behavior disorder: a multicenter validation
+31. Srivastava T, Raj R, Dubey A et al (2020) Fast kinetics of environmentally study. Mov Disord 27:913–916. https:// doi. org/ 10. 1002/ mds. 25037
+induced α‑synuclein aggregation mediated by structural alteration 43. Chahine LM, Daley J, Horn S et al (2013) Questionnaire‑based diagno‑
+in NAC region and result in structure dependent cytotoxicity. Sci Rep sis of REM sleep behavior disorder in Parkinson’s disease. Mov Disord
+10:18412. https:// doi. org/ 10. 1038/ s41598‑ 020‑ 75361‑6 28:1146–1149. https:// doi. org/ 10. 1002/ mds. 25438
+32. Mollenhauer B, Dakna M, Kruse N et al (2020) Validation of serum neurofil‑ 44. Stefani A, Iranzo A, Holzknecht E et al (2021) Alpha‑synuclein seeds in
+ament light chain as a biomarker of parkinson’s disease progression. Mov olfactory mucosa of patients with isolated REM sleep behaviour disorder.
+Disord. https:// doi. org/ 10. 1002/ mds. 28206 Brain. https:// doi. org/ 10. 1093/ brain/ awab0 05
+33. Mollenhauer B, Zimmermann J, Sixel‑Döring F et al (2019) Baseline pre‑ 45. Mammana A, Baiardi S, Quadalti C et al (2021) RT‑QuIC Detection of
+dictors for progression 4 years after Parkinson’s disease diagnosis in the Pathological α‑Synuclein in Skin Punches of Patients with Lewy Body
+De Novo Parkinson Cohort (DeNoPa). Mov Disord 34:67–77. https:// doi. Disease. Mov Disord. https:// doi. org/ 10. 1002/ mds. 28651
+org/ 10. 1002/ mds. 27492 46. Khalil M, Pirpamer L, Hofer E et al (2020) Serum neurofilament light levels
+34. Van der Perren A, Gelders G, Fenyi A et al (2020) The structural differences in normal aging and their association with morphologic brain changes.
+between patient‑derived α‑synuclein strains dictate characteristics of Nat Commun 11:812. https:// doi. org/ 10. 1038/ s41467‑ 020‑ 14612‑6
+Parkinson’s disease, multiple system atrophy and dementia with Lewy 47. Sokratian A, Ziaee J, Kelly K et al (2021) Heterogeneity in α‑synuclein fibril
+bodies. Acta Neuropathol 139:977–1000. https:// doi. org/ 10. 1007/ activity correlates to disease phenotypes in Lewy body dementia. Acta
+s00401‑ 020‑ 02157‑3 Neuropathol 141:547–564. https:// doi. org/ 10. 1007/ s00401‑ 021‑ 02288‑1
+35. Peelaerts W, Bousset L, Van der Perren A et al (2015) α‑Synuclein strains
+cause distinct synucleinopathies after local and systemic administration.
+Publisher’s Note
+Nature 522:340–344. https:// doi. org/ 10. 1038/ natur e14547
+36. Peng C, Gathagan RJ, Covell DJ et al (2018) Cellular milieu imparts Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+distinct pathological α‑synuclein strains in α‑synucleinopathies. Nature lished maps and institutional affiliations.
+557:558–563. https:// doi. org/ 10. 1038/ s41586‑ 018‑ 0104‑4
+
+---PAGE BREAK---
+

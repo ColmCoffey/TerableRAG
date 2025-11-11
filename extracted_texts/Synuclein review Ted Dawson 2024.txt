@@ -1,0 +1,1120 @@
+nature reviews neurology https://doi.org/10.1038/s41582-024-01043-w
+Review article Check for updates
+α-Synuclein pathology as a target
+in neurodegenerative diseases
+Hyejin Park 1,2,3,4,9, Tae-In Kam 1,2,3,5,9, Valina L. Dawson 1,2,3,6,7,10 & Ted M. Dawson 1,2,3,6,8,10
+Abstract Sections
+α-Synuclein misfolds into pathological forms that lead to various Introduction
+neurodegenerative diseases known collectively as α-synucleinopathies.
+Early characterization
+In this Review, we provide a comprehensive overview of pivotal of α-synuclein pathology
+advances in α-synuclein research. We examine structural features The α-synuclein protein
+and physiological functions of α-synuclein and summarize current
+α-Synuclein detection
+insights into key post-translational modifications, such as nitration, methods
+phosphorylation, ubiquitination, sumoylation and truncation, Targeting pathological
+considering their contributions to neurodegeneration. We also mechanisms in
+α-synucleinopathies
+highlight the existence of disease-specific α-synuclein strains and their
+Conclusions and perspectives
+mechanisms of pathological spread, and discuss seed amplification
+assays and PET tracers as emerging diagnostic tools for detecting
+pathological α-synuclein in clinical settings. We also discuss α-synuclein
+aggregation and clearance mechanisms, and review cell-autonomous
+and non-cell-autonomous processes that contribute to neuronal
+death, including the roles of adaptive and innate immunity in
+α-synuclein-driven neurodegeneration. Finally, we highlight promising
+therapeutic approaches that target pathological α-synuclein and
+provide insights into emerging areas of research.
+1Neuroregeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of
+Medicine, Baltimore, MD, USA. 2Department of Neurology, Johns Hopkins University School of Medicine, Baltimore,
+MD, USA. 3Adrienne Helis Malvin and Diana Helis Henry Medical Research Foundation, New Orleans, LA, USA.
+4Graduate School of Medical Science and Engineering, Korea Advanced Institute of Science and Technology
+(KAIST), Daejeon, Republic of Korea. 5Department of Brain and Cognitive Sciences, Korea Advanced Institute of
+Science and Technology (KAIST), Daejeon, Republic of Korea. 6Solomon H. Snyder Department of Neuroscience,
+Johns Hopkins University School of Medicine, Baltimore, MD, USA. 7Department of Physiology, Johns Hopkins
+University School of Medicine, Baltimore, MD, USA. 8Department of Pharmacology and Molecular Sciences, Johns
+Hopkins University School of Medicine, Baltimore, MD, USA. 9These authors contributed equally: Hyejin Park, Tae-In
+Kam. 10These authors jointly supervised this work: Valina L. Dawson, Ted M. Dawson. e-mail: tdawson@jhmi.edu
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 32
+
+---PAGE BREAK---
+
+Review article
+Key points 1993, α-synuclein was identified as the non-amyloid-β component of
+amyloid plaques in AD11 (Fig. 1), and several reports have confirmed
+the presence of pathological α-synuclein in AD and its contribution
+• α-Synuclein can self-aggregate, oligomerize and fibrillize into to the pathogenesis of AD12.
+different pathological strains that are associated with various α-Synuclein was first associated with PD in a study published in
+α-synucleinopathies. 1997, in which a mutation in SNCA that led to an amino acid substitu-
+tion in the α-synuclein protein13 was identified in autosomal dominant
+• Parkinson disease and related α-synucleinopathies are widely PD13 (Fig. 1). Several further disease-associated mutations that result in
+thought to be prion-like disorders, in which α-synuclein pathology amino acid substitutions in α-synuclein were subsequently reported14–22
+spreads via a templating mechanism. (Fig. 2). Moreover, duplication and triplication of the SNCA locus has
+been associated with familial PD, and the effects of these mutations
+• Neurodegeneration that results from pathological α-synuclein is indicate a direct relationship between SNCA gene dosage and disease
+mediated by cell-autonomous and non-cell-autonomous mechanisms. progression23,24. The evidence that SNCA mutations are associated with
+autosomal dominant PD and that similar α-synuclein accumulation
+• Parthanatos is the main cell death pathway by which pathological is observed in both familial and sporadic PD25,26 cemented the role of
+α-synuclein induces neurodegeneration. pathological forms of α-synuclein in neurodegeneration.
+In the same year that a mutation in α-synuclein was identified as a
+• Pathological α-synuclein molecular pathway analysis has created cause of autosomal dominant PD, α-synuclein was also identified as a
+new therapeutic opportunities for Parkinson disease and related major component of Lewy bodies and Lewy neurites in idiopathic PD
+α-synucleinopathies. and DLB5,27 (Fig. 1). α-Synuclein immunoreactivity was also detected
+in glial cytoplasmic inclusions in MSA28 and, shortly afterwards, in
+• PET imaging and α-synuclein seed amplification assays will guide neurodegeneration with brain iron accumulation29. Subsequent
+future clinical studies by enabling the monitoring of α-synuclein work showed that phosphorylation of α-synuclein at Ser129 is a major
+pathology and responses to therapy. post-translational modification of α-synuclein that was enriched in
+Lewy bodies and Lewy neurites30 (Fig. 1), and this modification has
+served as a marker of pathological α-synuclein31. Microscopy studies
+Introduction have revealed that α-synuclein-immunopositive Lewy pathology is
+The protein α-synuclein is predominantly expressed in the brain, and associated with crowding of organelle components and cellular mem-
+the accumulation of pathological forms of this protein characterizes the branes, and cryo-electron tomography has revealed that pathological
+group of neurodegenerative disorders known as α-synucleinopathies1. α-synuclein inclusions are composed of α-synuclein fibrils interwoven
+The most prominent of these diseases is Parkinson disease (PD), but with cellular organelles32,33.
+others include dementia with Lewy bodies (DLB)2 and multiple system
+atrophy (MSA)3. α-Synuclein pathology can also occur in Alzheimer The α-synuclein protein
+disease (AD)4. The pathology results from aggregation of α-synuclein, Structure
+leading to the formation of insoluble fibrils that are deposited in neu- α-Synuclein accounts for approximately 1% of the total cytosolic
+rons, glia and nerve fibres, resulting in the formation of Lewy bodies proteins in the CNS34. The protein is made up of 140 highly charged
+and Lewy neurites2,5. This aggregation of α-synuclein disrupts cellular amino acid residues that remain unstructured in aqueous solution11
+function, leading to neuronal death and progressive loss of motor and and has three distinct domains: the N-terminal, central and C-terminal
+cognitive functions. domains (Fig. 2). The N terminus (residues 1–60) contains four imper-
+Genetic mutations and environmental factors are thought to con- fect KTKEGV repeats that have a crucial role in modulating interactions
+tribute to the misfolding and aggregation of α-synuclein. The underly- of α-synuclein with membranes. The central hydrophobic domain
+ing molecular mechanisms by which α-synuclein aggregation causes (residues 61–95), which is also called the NAC domain, confers a β-sheet
+neurodegeneration are not fully understood, but several pathways structure to α-synuclein and is crucial for its aggregation. The C termi-
+have been proposed, including cell-to-cell transmission of pathologi- nus (residues 96–140) is enriched in acidic residues, is unstructured and
+cal α-synuclein, defects in proteostasis, mitochondrial dysfunction, is thought to be essential for maintaining α-synuclein solubility. The C
+and oxidative and nitrosative stress leading to cell-autonomous and terminus is also the target of diverse post-translational modifications
+non-cell-autonomous neuronal death6–9. and metal binding10,11,35,36.
+In this Review, we provide an overview of the pivotal discover- Early studies of α-synuclein purified from Escherichia coli or mouse
+ies regarding the role of pathological α-synuclein in PD and related tissue under native or denaturing conditions indicated that the protein
+α-synucleinopathies. In addition, we review the current understand- exists as natively unfolded monomers that adopt an α-helical second-
+ing of the molecular mechanisms of neurodegeneration induced by ary structure only when they bind to lipid vesicles37,38. A study in which
+pathological α-synuclein and the current and potential therapeutic endogenous α-synuclein was purified from human erythrocytes under
+approaches that target these mechanisms. non-denaturing conditions, however, has indicated that it forms a folded
+tetramer of approximately 58%kDa that resists aggregation39,40. Use of
+Early characterization of α-synuclein pathology similar methods in further studies of the mouse brain has suggested that
+The SNCA gene, which encodes α-synuclein, and the protein itself the predominant native conformation of α-synuclein is a large, unstruc-
+were initially identified in a study published in 1988 (ref. 10), which tured monomer with a tendency to aggregate41. Additional evidence has
+demonstrated localization of the protein to the nucleus and synapses, suggested that α-synuclein exists as an equilibrium mixture of unstruc-
+hence the name synuclein10 (Fig. 1). Initially, in a study published in tured monomers and multimers and that modifications and interactions
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 33
+
+---PAGE BREAK---
+
+Review article
+Fig. 1 | Timeline of key advances in the field of α-synuclein biology and
+α-Synuclein is discovered in 1988
+synaptic vesicles of Torpedo pathobiology. Timeline of key discoveries since the initial purification
+and cloning of α-synuclein. Aβ, amyloid-β; AD, Alzheimer disease; cGAS, cyclic
+GMP–AMP synthase; HSPG, heparan sulfate proteoglycan; LAG3, lymphocyte-
+1993 α-Synuclein is identified as
+the non-Aβ component of activation gene 3 protein; NLRP3, nucleotide-binding domain leucine-rich
+amyloid plaques in AD repeat-containing family pyrin domain-containing 3; PD, Parkinson disease;
+STING, stimulator of interferon genes.
+α-Synuclein is found in Lewy 1997 Missense mutation in the
+bodies and neurites SNCA gene is found to cause
+autosomal dominant PD
+α-Synuclein in Lewy bodies and 2002 with lipids, other proteins and small molecules transiently stabilize
+neurites is found to be
+phosphorylated at Ser129 the different species42–44. Collectively, the evidence has suggested that
+α-synuclein has conformational plasticity and structural flexibility that
+2003 First proposal of the
+hypothesis that pathological is likely to contribute to its different physiological functions45,46.
+α-synuclein spreads to the
+brain from the olfactory and
+Physiological function
+Pathological α-synuclein shown 2005 gastrointestinal systems
+to induce microglial activation The precise physiological function of α-synuclein remains unclear, but
+its predominant expression at presynaptic terminals implies a regula-
+2008 Demonstration that tory role within the synapse47. Indeed, β-synuclein, another member
+transplanted dopaminergic of the vertebrate-specific synuclein family48, has a similar presynaptic
+neurons develop Lewy
+bodies in people with PD localization and, although γ-synuclein — the third member of the family —
+Demonstration that external 2009 years after transplantation is expressed by glia and only specific neuronal populations49, all three
+α-synuclein fibrils are internalized
+synucleins seem to support the soluble N-ethylmaleimide-sensitive
+and induce inclusions in neurons
+factor attachment protein receptor (SNARE) proteins in their role of
+2011 Glucocerebrosidase activity mediating synaptic vesicle fusion and neurotransmitter release50.
+Intrastriatal injections of recombinant and α-synuclein are shown
+α-synuclein preformed fibrils cause to form a bidirectional In mice, triple knockout of the synucleins caused an age-dependent
+degeneration of dopaminergic pathogenic loop decrease in SNARE complex assembly, suggesting that these proteins
+neurons and behavioural deficits 2012
+are essential for maintaining normal SNARE complex assembly50.
+In line with these observations, evidence has suggested that
+α-synuclein has a direct role as a chaperone, similar to cysteine string
+Demonstration that HSPGs mediate 2013 Pathological α-synuclein
+uptake of pathological α-synuclein strains are shown to have protein-α (CSPα), a synaptic vesicle protein that is recruited to the outer
+through micropinocytosis distinct structures, membrane of presynaptic vesicles and contributes to neurotransmitter
+neurotoxicity, seeding and
+Shown that α-synuclein is tyrosine 2014 transmission properties release51. Deletion of the gene encoding CSPα in mice resulted in a reduc-
+phosphorylated by Abelson kinase tion of SNARE complexes and lethal neurodegeneration, but transgenic
+expression of α-synuclein restored the levels of the SNARE complex
+2015 Pathological α-synuclein and abolished the degenerative phenotype52. In mice that lacked both
+strains shown to cause
+α-synuclein and CSPα, neurodegeneration was exacerbated52. These
+distinct α-synucleinopathies
+observations revealed that α-synuclein can complement the function
+LAG3 identified as a receptor that 2016 Demonstration that of CSPα as a molecular chaperone. The complex role of α-synuclein in
+mediates uptake of pathological phosphorylation of α-synuclein
+α-synuclein at Tyr39 generates a exocytosis has been reviewed in detail elsewhere53.
+pathogenic form of α-synuclein
+Shown that α-synuclein-derived 2017
+Involvement in neurodegeneration
+peptides act as antigenic epitopes
+and drive T cell responses Studies in numerous transgenic mice that express wild-type and
+mutant human α-synuclein54 have provided evidence that α-synuclein
+Demonstration that pathological 2018 Pathological α-synuclein
+α-synuclein induces neuro- shown to activate the NLRP3 is involved in neurodegeneration. Neuronal expression of wild-type
+degeneration through parthanatos inflammasome in microglia
+α-synuclein results in a relatively modest phenotype with motor impair-
+Demonstration that parkin is Demonstration that ment; in some, but not all, cases, inclusions and age-dependent loss
+activated by pathological α-synuclein pathological α-synuclein seed of dopaminergic terminals are also observed54. In cultured neurons,
+2019 amplification assays can be
+modest overexpression of human α-synuclein led to impairments
+Anatomical connectivity shown used to detect aggregated
+to predict the spread of α-synuclein in biosamples in neurotransmitter release and synaptic vesicle exocytosis55,56, and
+pathological α-synuclein similar effects were observed in mouse models that express human
+Gut-seeded pathological
+α-synuclein shown to spread to α-synuclein, demonstrating that α-synuclein overexpression alters
+Pathological α-synuclein shown to 2022 the brain and cause PD-like synaptic physiology57,58. Expression of mutant human α-synuclein
+activate the cGAS–STING pathway symptoms
+in multiple transgenic mouse models has demonstrated that patho-
+logical accumulation of α-synuclein leads to substantial neurode-
+The first PET tracer for detection of 2023 Demonstration that seed
+pathological α-synuclein is developed amplification assays can generation throughout the nervous system54,59. However, in most of
+be used to diagnostically these models, dopaminergic neurons were relatively spared from
+distinguish between
+A biological definition of neuronal 2024 parkinsonian syndromes neurodegeneration54,59, suggesting that mouse dopaminergic neu-
+α-synuclein disease is proposed for caused by pathological rons are resilient to the toxic effects of transgenic overexpression of
+parkinsonian disorders α-synuclein α-synuclein.
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 34
+
+---PAGE BREAK---
+
+Review article
+N-terminal domain NAC domain C-terminal domain
+Tyr39 Lys96 Tyr125 Tyr133 Tyr136
+Lys12,21,23,32,34 N Lys43,45 Ser87 S Lys102 N Ser129 N N
+U U U P U U P U S P P P P
+1 61 95 140
+Ac
+Val15Ala Ala29Ser Glu46Lys Ala53Trp/Glu/Val
+Asn103 Asn115,119 Asn12 Tyr133 Tyr135
+Gly51Asp
+Ala18Thr Ala30Pro
+His50Gln
+Lys-Thr-Lys-Glu-Gly-Val motif Ac Acetylation U Ubiquitination N Nitration S Sumoylation P Phosphorylation Cleavage
+Fig. 2 | Structure of α-synuclein with alterations associated with Parkinson associated with α-synuclein pathology. NAC, non-amyloid-β component of
+disease. The schematic shows the primary structure of α-synuclein and sites amyloid plaques.
+of point mutations, post-translational modifications and truncations that are
+Post-translational modifications with α-synuclein around the Tyr39 residue prevents α-synuclein
+α-Synuclein undergoes a number of post-translational modifications. aggregation79, and phosphorylation at Tyr39 impairs these interactions,
+These modifications include phosphorylation, nitration, sumoylation, thereby promoting aggregation of α-synuclein and its relocalization to
+truncation and ubiquitination60,61 (Fig. 2), all of which are thought to have the mitochondria79. Cryo-electron microscopy has shown that phos-
+crucial roles in disruption of the native state of the protein that leads to phorylation at Tyr39 promotes formation of the pY39 α-synuclein fibril
+altered binding affinity for itself and/or other proteins, thereby contrib- core, which is associated with PD, supporting the hypothesis that phos-
+uting to its aggregation and toxicity60,61. Other post-translational modi- phorylation at Tyr39 has a pathological role72. Furthermore, in mod-
+fications of α-synuclein have been described, but their physiological els of α-synuclein-induced neurodegeneration, prevention of Tyr39
+and pathophysiological roles have yet to be determined60–62. phosphorylation by deletion of the gene encoding Abelson kinase67,80
+or pharmacological inhibition of Abelson kinase is protective81–85, and
+Phosphorylation. Phosphorylation is the most common post- increasing the activity of Abelson kinase promotes formation of toxic
+translational modification of α-synuclein. Under physiological condi- α-synuclein species and potentiates neurodegeneration67.
+tions, phosphorylation of α-synuclein occurs at very low levels (approx-
+imately 4% of soluble, monomeric α-synuclein), but phosphorylation at Ubiquitination and sumoylation. Ubiquitinated α-synuclein is
+serine residues 87 and 129 (refs. 30,31,63–66) and at tyrosine residues often seen in the Lewy bodies and Lewy neurite inclusions; mono-
+39, 125, 133 and 136 (refs. 67–72) is associated with pathological aggrega- ubiquitinated, di-ubiquitinated and tri-ubiquitinated α-synuclein
+tion of α-synuclein, suggesting that one or more of these modifications are present in both86,87. Depending on the type of ubiquitin modifica-
+are involved in the development of α-synuclein pathology. tion of α-synuclein, it can protect against pathological α-synuclein or
+Several lines of evidence indicate that phosphorylation of promote its aggregation. The E3 ubiquitin ligases SIAH-1 and SIAH-2
+α-synuclein at Ser129 is important in the development of α-synuclein mono-ubiquitinate α-synuclein at lysine residues 12, 21 and 23, which
+pathology. First, phosphorylation of α-synuclein is prominent promotes α-synuclein aggregation88,89. The C-terminal U-box domain
+in α-synucleinopathies: more than 90% of α-synuclein aggregates of co-chaperone HSP70-interacting protein (CHIP), which is also an E3
+are phosphorylated at Ser129 (refs. 30,31). Moreover, the extent of ubiquitin ligase, also mediates mono-ubiquitination and polyubiquit-
+phosphorylation at this site correlates with the likelihood of disease ination of α-synuclein90 to regulate its degradation via the proteasomal
+progression30,31,73,74. More directly, phosphorylation of α-synuclein and lysosomal pathways91. Immunoreactivity to CHIP is seen in Lewy
+at Ser129 promoted fibril formation30, and in a Drosophila model of bodies, and CHIP overexpression reduces α-synuclein aggregation
+PD, phosphorylation at Ser129 led to formation of α-synuclein oli- and increases its degradation91. Polyubiquitination of α-synuclein at
+gomers and accelerated neuronal loss75. On the basis of this evidence, lysine residue 63 is mediated by neuronal precursor cell-expressed
+phosphorylation of α-synuclein at Ser129 has emerged as a marker developmentally downregulated protein 4 (NEDD4) and promotes
+of pathological α-synuclein in PD, although its exact role in driving α-synuclein degradation via the endosomal–lysosomal pathway92.
+α-synucleinopathy and neurodegeneration remains unclear76. In addi- Ubiquitination by NEDD4 protects against pathological α-synuclein92.
+tion, phosphorylation of Ser129 also has a physiological role in medi- α-Synuclein can also be conjugated to small ubiquitin-like modi-
+ating synaptic function through protein–protein interactions77,78, fier (SUMO). The E3 SUMO-protein ligase protein inhibitor of acti-
+although only a small fraction of α-synuclein is phosphorylated at vated STATS (PIAS2) sumoylates α-synuclein, causing aggregation of
+Ser129 under physiological conditions77,78. α-synuclein that precedes formation of inclusions93.
+Evidence also indicates that phosphorylation of α-synuclein at
+Tyr39, which is mediated by Abelson kinase, also known as c-Abl67,69, Nitration. α-Synuclein can be nitrated at tyrosine residues 125, 133 and
+contributes to PD pathogenesis. The interaction of chaperones 136 in the C terminus and at tyrosine residue 39 in the N terminus94.
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 35
+
+---PAGE BREAK---
+
+Review article
+Nitration of α-synuclein contributes to its aggregation under con- α-Synuclein is widely thought to spread through the nervous
+ditions of oxidative and nitrative stress95,96. Nitrated α-synuclein is system via cell-to-cell transmission. According to this hypothesis, mis-
+present in brain regions that are affected in α-synucleinopathies95,96 folded α-synuclein can act as a template for conversion of endogenous,
+and in α-synuclein transgenic models of PD97. Nitration of α-synuclein monomeric α-synuclein to an abnormal conformation, thereby propa-
+accelerates degeneration of dopaminergic neurons by generating gating the pathology intercellularly. The concept initially emerged
+robust T cell proliferative and neuroinflammatory responses98,99. Nitra- following observations that grafted fetal mesencephalic dopaminergic
+tion (and oxidation) also impairs autophagy-mediated degradation, neurons develop Lewy bodies in the brains of people with PD several
+thereby increasing cellular vulnerability to stressors and contributing years after transplantation128–131. Evidence to support the hypothesis
+to neuronal degeneration100,101. came from studies that showed that α-synuclein fibrils are internal-
+ized and induce formation of α-synuclein inclusions in cell lines and
+Truncation. α-Synuclein that is truncated at the C terminus is present primary mouse neurons132–134. Transmission of pathological α-synuclein
+in Lewy bodies in people with PD2,102. The C terminus has highly charged pathology in vivo was, to our knowledge, first demonstrated in a study
+amino acids that promote disordered protein structure and thereby in which mouse neuronal precursor cells were transplanted into trans-
+maintains solubility of the protein103,104. Consequently, C-terminal genic mice that expressed human α-synuclein; the transplanted cells
+truncation of α-synuclein promotes its aggregation and drives for- acquired misfolded α-synuclein and α-synuclein inclusions subse-
+mation of pathological α-synuclein103,105–108. In transgenic Drosophila quently formed in them132. In subsequent studies, direct injection
+and mice that express C-terminally truncated human α-synuclein, the of recombinant α-synuclein preformed fibrils135,136 or pathological
+α-synuclein aggregates and causes neurotoxicity109,110. Several enzymes α-synuclein from people with PD into the brains of wild-type mice137
+have been implicated in truncation of α-synuclein, including asparagine caused widespread formation of α-synuclein inclusions, resulting in
+endopeptidase, calpain-1, caspase-1, neurosin, cathepsin D and matrix neurodegeneration and parkinsonian deficits. Further supporting the
+metalloproteinase 3 (refs. 111–117). notion that a prion-like mechanism is involved was the observation
+that endogenous α-synuclein is required for cell-to-cell transmission —
+Spreading of pathological α-synuclein mice that were deficient for α-synuclein and received injections of
+In 2003, Braak et al.118 proposed that pathological α-synuclein spreads α-synuclein preformed fibrils did not develop α-synuclein inclusions
+in a stereotypical manner from either the olfactory system or the gastro- or neurobehavioural abnormalities and neurodegeneration did not
+intestinal tract (Fig. 1). This hypothesis was based on post-mortem occur123,135. Anatomical connectivity accurately predicts the pattern
+examination and localization of Lewy pathology by use of α-synuclein of α-synuclein pathology spreading138–140, but some neuronal popula-
+immunostaining118. The findings indicated that deposition of pathologi- tions are spared from α-synuclein toxicity and instead serve as cellular
+cal α-synuclein tends to begin in either the anterior olfactory nucleus or conduits for spread along the neural network141.
+in the dorsal motor nucleus of the vagus before spreading into the brain, Initially, α-synuclein was thought to be an intracellular protein,
+with Lewy pathology developing in the substantia nigra only in the later but it is now known that monomeric and pathological α-synuclein are
+mid-stage of PD pathogenesis118. The observation that Lewy pathology is secreted from cells via unconventional exocytosis142,143. Extracellular
+present in the enteric nervous system (ENS) and the PNS in people with α-synuclein is present in cerebrospinal fluid (CSF), plasma, saliva, tears,
+presymptomatic, incidental Lewy body pathology and subsequently skin and urine in healthy individuals as well as in people with PD144–149.
+develops in the midbrain and other regions during disease progression Extracellular pathological α-synuclein can be transferred into cells
+of PD led to the suggestion that pathological α-synuclein is transported through various mechanisms. For example, pathological α-synuclein
+from the ENS to the CNS via the vagus nerve119,120. In support of this binds to heparan sulfate proteoglycans (HSPGs), which mediate its
+hypothesis, vagotomy in people with peptic ulcer disease markedly uptake via micropinocytosis150. Similarly, lymphocyte-activation gene
+reduces the incidence of PD121,122. Similarly, PD-associated behavioural 3 protein (LAG3) acts as a receptor for pathological α-synuclein151,152
+and neuropathological findings that develop in mice after injection and works with amyloid-β precursor-like protein 1 (APLP1) to medi-
+of preformed fibrils of pathological α-synuclein into the pylorus and ate most neuronal endocytosis of pathological α-synuclein151. LAG3
+duodenum are attenuated by vagotomy123. and APLP1 are expressed on other cell types and neurons, suggesting
+Evidence in the past 5 years, however, has given rise to the notion that they could mediate uptake of pathological α-synuclein beyond
+that PD can be categorized as either body-first PD, in which the pathol- neurons151. Toll-like receptor 2 is known to have a role in the uptake
+ogy first develops in the gastrointestinal tract and spreads to the CNS as of pathological α-synuclein into microglia153,154. Various other trans-
+described above, or brain-first PD, in which the pathology first develops membrane proteins, including the Na+–K+ ATPase155, neurexins152,155,156,
+in the brain and spreads down the neural axis (Fig. 3). Rapid eye move- cellular prion protein157–161, FcγRIIB receptor162, LRP1 (ref. 163) and
+ment (REM) sleep behaviour disorder (RBD) is considered a prodromal GPNMB164, also bind to fibrillar and/or oligomeric forms of α-synuclein,
+symptom of body-first PD, as it strongly predicts development of PD suggesting that they could be involved in its cellular uptake. How-
+but precedes motor symptoms124, and use of multimodal imaging has ever, future studies are needed to determine their roles and whether
+shown that deficits in sympathetic and parasympathetic imaging pre- they mediate uptake into specific cell types and of specific strains of
+cede dopaminergic deficits in RBD-positive (body-first) PD, whereas pathological α-synuclein (see the section ‘Disease-specific α-synuclein
+dopaminergic deficits preceded the sympathetic and parasympathetic strains’).
+imaging abnormalities in RBD-negative (brain-first) PD125 (Fig. 3). This The mechanisms that follow cellular uptake of pathologi-
+observation demonstrates that the pattern of pathological spreading cal α-synuclein and lead to misfolding of endogenous, unfolded
+differs between the two subtypes, and neuropathological evidence fur- α-synuclein are poorly understood. Some preliminary evidence indi-
+ther supports the notion of body-first and brain-first PD126. Exposure, cates that fibrils exit endosomes via endolysosomal perforation165.
+and routes of exposure, to various environmental toxicants could drive The mechanism by which pathological α-synuclein is released
+the development of body-first or brain-first PD127. from cells is also not well understood, although exosomal release166,167,
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 36
+
+---PAGE BREAK---
+
+Review article
+Body-first PD Brain-first PD
+Substantia nigra Substantia nigra
+FDOPA ↓↓ FDOPA ↓↓
+Parkinsonism Parkinsonism
+Limbic system
+4 5 2 1 Amygdala
+and amygdala
+Locus coeruleus Locus coeruleus
+Neuromelanin ↓↓ 3 Neuromelanin ↓ 3
+RBD No RBD
+2 4
+Dorsal motor nucleus Dorsal motor nucleus
+Donepezil PET ↓↓ Donepezil PET normal
+Heart Heart
+Stellate ganglion 2 2 Stellate ganglion 5 5
+MIBG ↓↓ MIBG normal
+Coeliac ganglion 2 Coeliac ganglion 5
+Vagal pathway Vagal pathway
+Sympathetic pathway Sympathetic pathway
+Intestine
+1 4
+Fig. 3 | Characteristics of body-first and brain-first Parkinson disease. The (right), α-synuclein pathology begins in susceptible brain structures, such as the
+arrows and numbers illustrate the progression of α-synuclein pathology. The boxes limbic system, or enters through the olfactory pathway before spreading down
+highlight the expected imaging findings and symptoms at the onset of motor the brainstem. RBD and dysautonomia typically manifest after onset of
+symptoms. In the body-first subtype (left), α-synuclein initially aggregates in the parkinsonism. As the disease progresses, widespread pathology develops across
+gut before spreading through the autonomic nervous system to the spinal cord these systems in nearly all individuals, leading to converging symptoms. FDOPA,
+and brainstem. Prodromal signs include autonomic dysfunction and rapid eye fluorodopa; MIBG, meta-iodobenzylguanidine scan; PD, Parkinson disease. Figure
+movement sleep behaviour disorder (RBD). Conversely, in the brain-first subtype adapted with permission from ref. 125, Oxford University Press.
+direct cellular membrane penetration168 and tunnelling nanotubes169,170 it from the α-synuclein strains found in other α-synucleinopathies179.
+all contribute to the transfer of pathological α-synuclein between cells. Distinct strains may even be present in brain-first and body-first PD180.
+The biophysical and biological features of the different pathologi-
+Disease-specific α-synuclein strains cal α-synuclein conformations could be driving the different clinical
+Different conformations of pathological α-synuclein aggregates, manifestations and neuropathologies of the α-synucleinopathies.
+referred to as strains, seem to drive the pathogenesis and clinical mani-
+festations of the different α-synucleinopathies. The concept of strains α-Synuclein detection methods
+derives from prion disease, in which distinct pathology, seeding and Development of new methods to detect pathological α-synuclein spe-
+transmission of prions and distinct clinical symptoms are attributed cies in biospecimens from people with α-synucleinopathies using seed
+to conformational differences between prion strains171. Pathological amplification assays (SAAs) and to detect α-synuclein aggregation via
+α-synuclein strains generated in vitro by repetitive seeded fibrillization brain imaging will improve the diagnosis of these diseases and monitor-
+under different conditions have distinct structures, neurotoxicity, and ing of their progression. These methods are still in the early stages of
+seeding and transmission properties172,173. Furthermore, pathological development and validation, but hold great promise not only for diag-
+α-synuclein strains derived from people with PD, MSA and DLB have nosis and monitoring but also for providing a deeper understanding
+different biophysical and biological properties, including seeding pro- of the pathophysiology of α-synucleinopathies.
+pensity, resulting α-synuclein pathology and neurotoxicity174–176. These
+strains also have distinct structures as determined by nuclear magnetic Seed amplification assays
+resonance and cryo-electron microscopy177,178. In MSA, the cellular milieu SAAs — protein misfolding cyclic amplification and real-time
+of oligodendrocytes drives the formation of pathological α-synuclein quaking-induced conversion — exploit the ability of pathological
+with distinct conformational and biological properties, differentiating α-synuclein species to propagate to multiply them in vitro, thereby
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 37
+
+---PAGE BREAK---
+
+Review article
+Immune system Inhibition
+activation
+Non-cell-autonomous pathogenic mechanisms
+Cell-autonomous pathogenic mechanisms
+GLP-1 receptor Inhibitors of
+agonists microglia activation
+α-Synuclein
+reduction
+Pathological
+α-synuclein ↑ TNF
+Microglia Neurotoxic reactive
+immunotherapy ↑ IL-1α
+activation astrocytes
+↑ C1q
+α-Synuclein
+aggregation
+inhibitors
+cGAS inhibitors
+α-Synuclein
+mutations
+↑ cGAS ↑ STING ↑ Interferon response
+Autosomal
+dominant
+Parkinson
+disease
+NLRP3 inhibitors
+LAG3
+inhibitors
+Cell-to-cell Inflammasome
+transmission ↑ NLRP3 activation ↑ ASC ↑ Caspase-1 ↑ IL-1β
+LAG3
+• Parkinson
+disease
+(sporadic) Pathological mTORC1 inhibitors Irisin
+• Age α-Synuclein α-synuclein TSC1
+• Nitrative
+aggregation
+oxidative TSC1
+stress TSC2 TSC2 ↑ mTORC1 Endolysosomal dysfunction
+• GBA
+mutations
+Abnormal protein translation
+α-Synuclein
+Mitochondrial
+dysfunction
+MIF nuclease
+GBA
+PARP inhibitors inhibitors
+modulators
+c-Abl ↑ AIMP2 ↑ PARP1 PAR AIF MIF
+inhibitors
+Nitrative
+oxidative Cell death
+↑ c-Abl ↑ Parkin ↓ Parkin
+stress
+pY143
+↑ PARIS ↓ PGC-1α ↓ NRF-1
+Phosphorylated
+α-synuclein Parkin or PINK1 PARIS
+activators inhibitors
+Mitochondrial
+dysfunction
+NLRP3
+inhibitors
+Inflammasome
+↑ NLRP3 activation ↑ ASC ↑ Caspase-1
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 38
+
+---PAGE BREAK---
+
+Review article
+Fig. 4 | Pathways of α-synuclein-related neurodegeneration and possible synthase; C1q, complement component 1q; GBA, glucosylceramidase β1; GLP-1,
+interventions. Multiple factors contribute to the generation of pathological glucagon-like peptide 1; LAG3, lymphocyte-activation gene 3 protein; MIF,
+α-synuclein aggregates (left). Formation of these aggregates leads to activation macrophage migration inhibitory factor; mTORC1, mTOR complex 1;
+of non-cell-autonomous pathogenic mechanisms, which involve innate NLRP3, nucleotide-binding domain leucine-rich repeat-containing family pyrin
+and adaptive immunity, and cell-autonomous pathogenic mechanisms of domain-containing 3; NRF1, nuclear respiratory factor 1; PAR, poly(ADP-ribose);
+neurodegeneration. Therapeutic interventions are represented by grey boxes. PARIS, parkin-interacting substrate; PARP, poly(ADP-ribose) polymerase;
+AIF, apoptosis-inducing factor; AIMP2, aminoacyl tRNA synthetase complex- PGC-1α, peroxisome proliferator-activated receptor-γ coactivator 1α; STING,
+interacting multifunctional protein 2; ASC, apoptosis-associated speck-like stimulator of interferon genes; TNF, tumour necrosis factor; TSC, tuberous
+protein containing a CARD; c-Abl, Abelson kinase; cGAS, cyclic GMP–AMP sclerosis protein.
+enabling detection of small amounts in biological samples181,182. Pro- and DLB, and the signal density correlates with the severity of motor
+tein misfolding cyclic amplification enables detection of aggregated symptoms in PD. Future research needs to focus on their clinical utility.
+α-synuclein in biosamples174,183 and can discriminate PD from MSA with In addition, the differences in conformation and biophysical properties
+high sensitivity184. The real-time quaking-induced conversion assay of different α-synuclein strains raise the possibility that radioligands
+enables real-time monitoring of the kinetics of pathological α-synuclein could be developed to differentiate between the α-synucleinopathies.
+aggregation and can also be used to study the biophysical properties
+of pathological α-synuclein strains181. Targeting pathological mechanisms
+Use of SAAs will facilitate development of biological definitions of in α-synucleinopathies
+α-synucleinopathies and will facilitate observational and interventional Many points in the cascade of pathological α-synuclein-induced
+disease-modifying trials in parkinsonian disorders185. However, these neurodegeneration could be targeted to treat PD and other
+assays also have great diagnostic potential, and the ability to detect α-synucleinopathies (Fig. 4), from preventing its misfolding and aggre-
+pathological α-synuclein in the serum provides the opportunity to gation to enhancing clearance mechanisms and inhibiting downstream
+develop powerful blood-based diagnostic assays186. SAAs can distin- toxic effects. In this section, we highlight potential intervention points
+guish parkinsonian syndromes that involve α-synuclein pathology that could reshape treatment strategies for PD and related disorders.
+from those with other causes with sensitivities and specificities of
+more than 90%187–189. Among people with newly diagnosed PD, SAA α-Synuclein aggregation
+analysis of the CSF has a diagnostic sensitivity of 82.6% and a specific- The most fundamental target in α-synucleinopathies is α-synuclein
+ity of 88.2%186. In the prodromal phase of PD, use of SAAs identifies itself. One possible strategy is to reduce the expression of α-synuclein by
+pathological α-synuclein in the CSF189 and in extracellular vesicles in use of small hairpin RNA, small interfering RNA or antisense oligonucle-
+the blood190. Indeed, SAAs have detected pathological α-synuclein otides (ASOs) to reduce the expression of SCNA mRNA200–202. Consistent
+in the CSF191, serum192, olfactory mucosa, skin, saliva193 and other with this strategy, use of ASOs to target α-synuclein in a mouse model of
+biospecimens194, providing multiple opportunities to study strains of PD in which mice express human α-synuclein reduced neuropathology
+pathological α-synuclein and to develop diagnostic platforms. To date, and early behavioural deficits203,204. Other approaches to reducing levels
+use of skin and CSF samples with SAAs results in the greatest diagnostic of α-synuclein should be considered, such as viral vector delivery of
+accuracy195. Kinetic analysis of SAA profiles, such as determining thi- α-synuclein CRISPR–Cas9 or RNAi205. However, the effects of knocking
+oflavin maximal fluorescence intensity, lag time and the time at which down α-synuclein after development are not known, so caution is war-
+aggregation is 50% complete, has the potential to enable differentia- ranted as reducing levels of α-synuclein could be associated with unin-
+tion of PD, DLB, MSA188 and cognitive decline in PD16,196. Determining tended toxicity. Beyond reducing expression of α-synuclein, inhibiting
+whether SAAs can be used in clinical practice to reliably differentiate its aggregation could be an alternative approach to stopping the devel-
+PD, DLB and MSA and to monitor disease progression and response to opment of pathology (Fig. 4). In models of α-synucleinopathies, includ-
+therapeutic disease-modifying therapies will be important. ing transgenic human A30P α-synucleinopathy and a transgenic mouse
+model of MSA, administration of anle138b (3-(1,3-benzodioxol-5-yl)-
+PET imaging 5-(3bromophenyl)-1H-pyrazole) prevents formation of pathological
+The development of radiopharmaceuticals for PET imaging of α-synuclein aggregates and protects against motor deficits206–210. Simi-
+pathological α-synuclein could transform the diagnosis and treat- larly, administration of NPT100-18a to α-synuclein–GFP transgenic mice
+ment of α-synucleinopathies by enabling earlier and more accurate interferes with interactions of α-synuclein with membranes, reduces
+diagnoses, monitoring of disease progression. PET imaging find- α-synuclein aggregation and protects against neurodegeneration211.
+ings could also serve as an outcome measure in clinical trials. PET Some agents that block α-synuclein aggregation are in preclinical
+ligands that are currently in development for imaging of pathological or clinical trials for the treatment of PD212,213. The current status of
+α-synuclein seem to have good selectivity for α-synuclein aggregates α-synuclein-based therapies and other disease-modifying treatments
+in models of α-synucleinopathies and in people with PD and related for PD has been reviewed in full elsewhere214.
+α-synucleinopathies197–199. For example, the F0502B PET tracer binds to An alternative strategy for targeting pathological α-synuclein is
+α-synuclein with high affinity and recognizes aggregated α-synuclein immunization to remove aggregates that are already present215,216 (Fig. 4).
+in brain tissue from mice, non-human primates and humans with PD199. In transgenic mouse models of α-synucleinopathies, active immun-
+The ACI-12589 PET tracer shows specificity for pathological α-synuclein ization (which stimulates the immune system) and passive immuniza-
+in tissue from people with PD and MSA, and binding in the brains of liv- tion (direct antibody administration) have reduced neuropathology
+ing people with MSA has been demonstrated198. The C05-05 PET tracer and neurobehavioural deficits217–220. Immunization could also pre-
+enables visualization of α-synuclein aggregates in living people with PD vent cell-to-cell transfer of pathological α-synuclein (Fig. 4), and the
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 39
+
+---PAGE BREAK---
+
+Review article
+same principle could be used to prevent pathological α-synuclein from its immunosuppressive effects and its off-target effects243, but develop-
+binding to its transmembrane receptors (Fig. 4). Indeed, in the striatal ment of brain-penetrant mTORC1 inhibitors could have potential for
+pathological α-synuclein preformed fibril model of PD, passive immun- the treatment of PD and related α-synucleinopathies.
+ization with LAG3 antibodies reduced neuropathology and neuro- Impairment of α-synuclein degradation is a key mechanism in
+behavioural deficits151,152. Further studies are needed to explore the PD associated with mutations in GBA, which encodes the lysosomal
+potential of interfering with cell-to-cell transmission of pathological enzyme glucocerebrosidase244,245. Mutations in GBA account for 5–15%
+α-synuclein in this way. of PD cases, making it one of the most important risk factors246. The
+Despite success with passive and active immunization in animal reduction of glucocerebrosidase activity that results from the muta-
+models, passive immunization failed to alter the disease course in tion leads to accumulation of pathological α-synuclein247. In animal
+people with PD in the first two clinical trials221,222. However, post-hoc models of α-synuclein-induced neurodegeneration, treatment with
+analysis of results from one of these trials has suggested that the mono- GBA gene therapy, glucocerebrosidase enzyme replacement therapy,
+clonal antibody prasinezumab, which targets aggregated α-synuclein, glucocerebrosidase substrate reduction therapy and glucocerebro-
+slows motor progression in people with rapidly progressing PD223. sidase chaperones has been beneficial246 (Fig. 4). Several studies of
+Confirmation of this observation requires additional randomized therapies that target GBA and/or glucocerebrosidase are ongoing248 to
+clinical trials. In addition, the immunization approach might need to determine the best treatment strategy for this form of PD246.
+be optimized; for example, monoclonal antibodies that are specific
+to defined pathological α-synuclein strains might be needed to realize Cell-autonomous neuronal death
+the potential of this approach. Emerging evidence indicates that poly(ADP-ribose) polymerase 1
+Another approach to removing α-synuclein pathology that (PARP1)-dependent cell death — also known as parthanatos — is the
+has already formed is to promote its degradation. Degradation of main cell death pathway by which pathological α-synuclein induces
+α-synuclein occurs via the ubiquitin–proteasome system and the neurodegeneration249 (Fig. 4). First, genetic depletion or pharmacologi-
+autophagy–lysosome pathway224; the ubiquitin–proteasome sys- cal inhibition of PARP1 prevents pathological α-synuclein-induced cell
+tem seems to be the main degradation pathway for non-pathological death in primary neuronal cultures, and prevents neurodegenera-
+α-synuclein, whereas the autophagy–lysosome pathway seems to be tion and behavioural deficits in mouse models of sporadic and genetic
+the major pathway of degradation of pathological α-synuclein225–227. α-synucleinopathies250,251 (Fig. 4). Second, apoptosis-inducing factor
+Impairment of these clearance mechanisms can lead to increased intra- (AIF), which is a key mediator of parthanatos, is translocated to the
+cellular pathological α-synuclein aggregates228. Therefore, strategies nucleus in the ventral mesencephalon of people with PD252. Finally,
+that increase degradation of α-synuclein aggregates, such as tagging genetic knockout or selective inhibition of macrophage migration
+aggregates for degradation229, or promoting macroautophagy230 and inhibitory factor (MIF) nuclease, which is crucial for parthanatos253,
+chaperone-mediated autophagy231,232, offer opportunities to reduce prevented neurodegeneration and behavioural deficits in two orthogo-
+the burden of pathological α-synuclein (Fig. 4). nal pathological α-synuclein models of dopaminergic cell loss and in
+Promotion of α-synuclein degradation seems to be one mecha- the MPTP intoxication model of PD254 (Fig. 4).
+nism that contributes to the benefits of physical exercise, and parti- Initiation of the parthanatic death cascade involves nitrative
+cularly endurance exercise and training, in PD. Endurance exercise and oxidative stress that is triggered by pathological α-synuclein
+and training have been shown to reduce the risk of developing PD, aggregates250 and exacerbated by disruption to mitochondrial func-
+improve the efficacy of symptomatic medication and improve qual- tion by pathological α-synuclein aggregates255. This nitrative and oxida-
+ity of life233–235. Administration of the myokine irisin, which is released tive stress leads to DNA damage that activates the DNA sensor PARP1,
+from the muscles during exercise, has been shown to be beneficial in which increases the levels of poly(ADP-ribose) (PAR), thereby setting
+the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) intoxication the cascade in motion256 (Fig. 4). PAR binds to hexokinase 1 on the mito-
+model of PD236,237 and the intrastriatal α-synuclein preformed fibril chondria, driving mitochondrial dysfunction through impairment of
+mouse model of sporadic PD238, suggesting that the benefits of exercise glycolysis257–259 (Fig. 4). The nitrative and oxidative stress also activates
+could be mediated, at least in part, by irisin. In mice, the benefits of irisin the non-receptor tyrosine kinase Abelson kinase, which phosphorylates
+seemed to result from increased autophagy–lysosome degradation of α-synuclein at the Tyr39 residue, thereby generating a pathogenic form
+pathological α-synuclein238 (Fig. 4). of α-synuclein that further contributes to pathological α-synuclein
+One possible drug target to promote macroautophagy of aggregation67 (Fig. 4). The E3-ubiquitin ligase parkin is also phospho-
+α-synuclein aggregates is mechanistic target of rapamycin (mTOR), rylated by Abelson kinase, and its ubiquitination activity is conse-
+which is a key regulator of cellular metabolism, autophagy and protein quently inhibited260, leading to the accumulation of aminoacyl tRNA
+translation239. Pathological α-synuclein binds to tuberous sclerosis synthetase complex-interacting multifunctional protein 2 (AIMP2),
+protein 2 (TSC2), which destabilizes the TSC1–TSC2 complex and parkin-interacting substrate (PARIS) and nucleotide-binding domain
+activates mTOR complex 1 (mTORC1). Activation of mTORC1 increases leucine-rich repeat-containing family pyrin domain-containing 3
+mRNA translation and contributes to neurodegeneration induced (NLRP3)80,261, all of which lead to increased cell death by parthanatos or
+by pathological α-synuclein240 (Fig. 4). Thus, selective inhibitors of inflammasone activation (Fig. 4).
+mTORC1 could be used both to increase macroautophagy-mediated The impairment of parkin activity in sporadic PD suggests that
+clearance of α-synuclein aggregates and to rectify the mRNA dys- activators of parkin or PINK1, which itself activates parkin, could be
+regulation that occurs in PD. Indeed, in an α-synuclein preformed used to treat PD262 (Fig. 4). In multiple models of PD, inhibitors of Abel-
+fibril mouse model of PD, the mTOR inhibitor rapamycin has been son kinase prevent neurodegeneration67,80,81,83,85,263–265 (Fig. 4), although
+shown to promote clearance of pathological α-synuclein aggregates two clinical trials of the Abelson kinase inhibitor nilonitib failed owing
+and reduce mRNA dysregulation225,240–242. Rapamycin itself is unlikely to poor brain penetrance266,267. Trials of Abelson kinase inhibitors with
+to be a good drug candidate in PD owing to its poor brain penetration, better brain penetration are in progress268, but their CNS penetration
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 40
+
+---PAGE BREAK---
+
+Review article
+is still limited and off-target effects could limit their clinical utility. decreases the clearance of pathological α-synuclein in culture and
+Allosteric inhibitors of Abelson kinase, for example, neurotinib, hold in A53T α-synuclein transgenic mice310. The response of microglia
+particular promise because off-target effects are minimized and brain to pathological α-synuclein is regulated by Fyn kinase activity and
+penetrance is superior269. the class B scavenger receptor CD36 (ref. 311). Ultimately, activation
+Targeting the downstream effects of parkin impairment could of NF-κB pathways in microglia seems to be central to the inflam-
+be an alternative therapeutic strategy to reduce parthanatos. AIMP2 matory response300,306,311, but other transmembrane receptors
+directly activates PARP1 (refs. 270,271) (Fig. 4). Accumulation of that bind to pathological α-synuclein also have roles in microglial
+PARIS leads to mitochondrial dysfunction272–274, and AIMP2 levels are activation281.
+increased downstream of PARIS accumulation — AIMP2 levels do not Pathological α-synuclein induces release of IL-1β from microglia
+increase in response to pathological α-synuclein in mice with a knock- via priming and activation of the NLRP3 inflammasome311 (Fig. 4).
+out of the gene encoding PARIS, indicating that the increase in AIMP2 NLRP3 and downstream ACS and IL-1β are all elevated in people with
+levels is downstream in the PARIS pathogenesis cascade80 (Fig. 4). In PD312, providing support for the need to evaluate NLRP3 inhibition
+multiple models of PD, genetically reducing levels of PARIS or pharma- as a disease-modifying therapy in PD. Pathological α-synuclein also
+cological inhibition of PARIS is protective80,273,275–277 (Fig. 4). Similarly, activates the cyclic GMP–AMP synthase–stimulator of interferon
+accumulation of NLRP3 leads to activation of the NLRP3 inflammasome genes (cGAS–STING)-dependent interferon response, leading to
+activation, and downstream accumulation of apoptosis-associated neurodegeneration313,314 (Fig. 4); this mechanism raises the prospect
+speck-like protein containing a CARD (ASC) accumulation and acti- of cGAS inhibitors as a disease-modifying therapeutic approach
+vation of caspase-1 (ref. 278). This pathway is also dependent on in PD315 (Fig. 4). IL-6 released from α-synuclein-activated microglia
+PARIS-induced mitochondrial dysfunction261 (Fig. 4). In models of PD, induces dysregulation of neuronal iron uptake, leading to toxic
+NLRP3 inflammasome inhibitors are also neuroprotective279,280. neuronal iron accumulation316. Some evidence has suggested that
+pathological α-synuclein also stimulates microglial cytokine secre-
+Non-cell-autonomous neuronal death tion and reactive oxygen species production, leading to activation of
+Adaptive immunity. Adaptive immunity is known to have a role in mitogen-activated protein (MAP) kinase pathways that contribute to
+PD99,281, and some evidence has suggested that α-synuclein-derived neurodegeneration303,317–319. Microglia also play a part in the spread of
+peptides act as antigens that are recognized by T cells282 (Fig. 4). pathological α-synuclein281.
+Furthermore, CD8+ and CD4+ T cells have been observed in the Astrocytes also have a role in the innate immune response to
+substantia nigra of post-mortem brains of people with PD283,284. pathological α-synuclein. Pathological α-synuclein can be transmit-
+Genome-wide association studies have indicated that the major ted from neurons to astrocytes320, and inclusions of α-synuclein are
+histocompatibility complex (MHC) class II alleles HLA-DRB5*01 and present in astrocytes in post-mortem brains of people with PD321,322.
+HLA-DRB1*15:01 are associated with PD285,286, and that the non-HLA Astrocytes produce multiple pro-inflammatory cytokines, includ-
+genes in the MHC class III region are also associated with an increased ing IL-1α, IL-1β, IL-6, IL-18, tumour necrosis factor (TNF), chemotactic
+risk of PD287. In mouse models of PD, targeted overexpression of cytokines, and CC, CXC and CXCL chemokines320,323. In addition, the
+human α-synuclein leads to microglial activation and an adaptive profile of growth factors that astrocytes produce and secrete changes
+immune response288, and CD4+ T cells mediate brain inflammation in response to pathological α-synuclein324. These pro-inflammatory
+and neurodegeneration289. Expression of MHC class I molecules in cat- responses in astrocytes are dependent on TLR4, whereas this receptor
+echolaminergic neurons also makes them vulnerable to T cell-induced does not seem to be required for uptake of pathological α-synuclein
+degeneration290. Some evidence has also suggested that the adaptive into astrocytes325,326.
+immune system is involved in other α-synucleinopathies291,292. This Besides neuroinflammation induced by astrocytic accumula-
+evidence has suggested that modulation of adaptive immunity could, tion of pathological α-synuclein, reactive astrogliosis contributes
+therefore, form the basis of disease-modifying therapy for PD and to neurodegeneration and neurotoxicity. In cultures, treatment
+related α-synucleinopathies. of astrocytes with pathological α-synuclein or its overexpression
+in astrocytes leads to neuronal and astrocytic Ca2+ flux, oxidative stress
+Innate immunity. Pathological α-synuclein induces microglial and astrocytic reductions in cholesterol327,328, presumably leading
+activation293,294 (Fig. 4) — microgliosis is widely observed in rodent to neurotoxicity. Selective expression of A53T α-synuclein in mouse
+and non-human primate models of pathological α-synuclein-induced astrocytes led to astrocytic dysfunction in glutamate uptake and
+degeneration295–300 and in the substantia nigra in post-mortem brains alterations in the blood–brain barrier, and induced microglial acti-
+from people with PD301,302. Pathological α-synuclein can also activate vation in the midbrain, brainstem and spinal cord, suggesting that
+myeloid cells in the periphery303,304. inflammatory responses elicited by reactive astrocytes contribute
+Microglial activation and pro-inflammatory responses to patho- to non-cell-autonomous neurodegeneration329. Furthermore, IL-1α,
+logical α-synuclein are initiated, in part, by uptake of extracellular TNF and complement component 1q (C1q) released from activated
+pathological α-synuclein305. Toll-like receptors (TLRs) are activated microglia in response to α-synuclein drive the formation of neurotoxic
+by pathological α-synuclein and contribute to neuroinflammation306. reactive astrocytes300,330 (Fig. 4), which induce cell death, in part, via
+Expression of TLR2 and TLR4 is higher among people with PD saturated lipids331. Glucagon-like peptide 1 (GLP-1) receptor agonists
+than among healthy individuals306. However, activation of TLRs in inhibit the release of IL-1α, TNF and C1q from activated microglia,
+α-synucleinopathies can have protective and deleterious effects306; thereby reducing numbers of neurotoxic reactive astrocytes300 (Fig. 4).
+antagonism of TLR2 attenuates pathological α-synuclein-induced Consequently, GLP-1 receptor agonists are neuroprotective because
+neurodegeneration307,308, whereas activation of TLR4 clears α-synuclein (among other mechanisms332) they prevent microglial reactivity and
+aggregates309. Pathological α-synuclein also binds to microglial Fcγ formation of neurotoxic reactive astrocytes300 (Fig. 4). Epidemiological
+receptor IIb, which in turn inhibits microglial phagocytosis and studies have indicated that GLP-1 receptor agonists, which are used for
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 41
+
+---PAGE BREAK---
+
+Review article
+the treatment of obesity and diabetes mellitus type 2, lower the inci- 12. Twohig, D. & Nielsen, H. M. α-Synuclein in the pathophysiology of Alzheimer’s disease.
+dence of PD333. In clinical studies, the GLP-1 receptor agonist exenatide Mol. Neurodegener. 14, 23 (2019).
+13. Polymeropoulos, M. H. et al. Mutation in the α-synuclein gene identified in families with
+slowed the progression of PD334,335, and lixisenatide slowed the progres- Parkinson’s disease. Science 276, 2045–2047 (1997).
+sion of early-stage PD in people receiving stable anti-symptomatic 14. Appel-Cresswell, S. et al. α-Synuclein p.H50Q, a novel pathogenic mutation for
+treatment for PD336. A 36-week clinical trial of the brain-penetrant GLP-1 Parkinson’s disease. Mov. Disord. 28, 811–813 (2013).
+15. Daida, K. et al. α-Synuclein V15A variant in familial Parkinson’s disease exhibits a weaker
+receptor agonist NLY01 failed to meet its global trial end points, but lipid-binding property. Mov. Disord. 37, 2075–2085 (2022).
+pre-specified analysis has shown that PD progression was slowed sub- 16. Gadhave, K. et al. α-Synuclein strain dynamics correlate with cognitive shifts in
+stantially in people under 60 years of age337. The benefits of exenatide338 Parkinson’s disease. Preprint at bioRxiv https://doi.org/10.1101/2024.10.22.619694
+(2024).
+and lixisenatide were also greatest in people under 60 years of age336. 17. Hoffman-Zacharska, D. et al. Novel A18T and pA29S substitutions in α-synuclein may be
+Together, these studies support future clinical trials of GLP-1 receptor associated with sporadic Parkinson’s disease. Parkinsonism Relat. Disord. 19, 1057–1060
+(2013).
+agonists in PD; trials in people under 60 years of age that last for more
+18. Kruger, R. et al. Ala30Pro mutation in the gene encoding α-synuclein in Parkinson’s
+than 12 months are most likely to demonstrate benefits338,339. disease. Nat. Genet. 18, 106–108 (1998).
+19. Lesage, S. et al. G51D α-synuclein mutation causes a novel parkinsonian-pyramidal
+Conclusions and perspectives syndrome. Ann. Neurol. 73, 459–471 (2013).
+20. Pasanen, P. et al. Novel α-synuclein mutation A53E associated with atypical multiple
+Extensive studies to understand the physiological and pathological role system atrophy and Parkinson’s disease-type pathology. Neurobiol. Aging 35, 2180.
+of α-synuclein started in 1997, when a mutation in SNCA was discovered e1–2180.e5 (2014).
+21. Yoshino, H. et al. Homozygous α-synuclein p.A53V in familial Parkinson’s disease.
+as a genetic cause of PD. Distinct pathological mechanisms of degenera-
+Neurobiol. Aging 57, 248.e7–248.e12 (2017).
+tion induced by pathological α-synuclein, including cell-autonomous 22. Zarranz, J. J. et al. The new mutation, E46K, of α-synuclein causes Parkinson and Lewy
+and non-cell-autonomous mechanisms, are giving rise to a spectrum body dementia. Ann. Neurol. 55, 164–173 (2004).
+23. Chartier-Harlin, M. C. et al. α-Synuclein locus duplication as a cause of familial
+of preclinical validation studies and disease-modifying clinical tri-
+Parkinson’s disease. Lancet 364, 1167–1169 (2004).
+als in humans with PD. Insights into the role of innate and adaptive 24. Singleton, A. B. et al. α-Synuclein locus triplication causes Parkinson’s disease. Science
+immunity have opened up new therapeutic opportunities for dis- 302, 841 (2003).
+25. Lee, V. M. & Trojanowski, J. Q. Mechanisms of Parkinson’s disease linked to pathological
+ease modification in PD. Understanding of cell-to-cell transmission α-synuclein: new targets for drug discovery. Neuron 52, 33–38 (2006).
+mechanisms, disease-specific strains of pathological α-synuclein 26. McNaught, K. S. & Olanow, C. W. Protein aggregation in the pathogenesis of familial and
+and the development of biomarkers based on SSAs and PET imaging sporadic Parkinson’s disease. Neurobiol. Aging 27, 530–545 (2006).
+27. Spillantini, M. G., Crowther, R. A., Jakes, R., Hasegawa, M. & Goedert, M. α-Synuclein in
+are changing the landscape of basic research and clinical practice in filamentous inclusions of Lewy bodies from Parkinson’s disease and dementia with lewy
+this area. Further studies are required to identify the origins of dif- bodies. Proc. Natl Acad. Sci. USA 95, 6469–6473 (1998).
+28. Mezey, E. et al. α-Synuclein in neurodegenerative disorders: murderer or accomplice?
+ferent pathological α-synuclein strains and how they lead to distinct
+Nat. Med. 4, 755–757 (1998).
+α-synucleinopathies. Methods that enable reliable distinction between 29. Galvin, J. E., Giasson, B., Hurtig, H. I., Lee, V. M. & Trojanowski, J. Q. Neurodegeneration
+the α-synucleinopathies will guide future clinical studies, and neuro- with brain iron accumulation, type 1 is characterized by α-, β-, and &-synuclein
+neuropathology. Am. J. Pathol. 157, 361–368 (2000).
+imaging agents that enable monitoring of α-synuclein pathology and
+30. Fujiwara, H. et al. α-Synuclein is phosphorylated in synucleinopathy lesions. Nat. Cell.
+responses to therapy will be crucial to validate disease-modifying thera- Biol. 4, 160–164 (2002).
+pies. Furthermore, PET imaging and SAAs could enable identification 31. Anderson, J. P. et al. Phosphorylation of Ser-129 is the dominant pathological
+modification of α-synuclein in familial and sporadic Lewy body disease. J. Biol. Chem.
+of individuals who are asymptomatic but at risk of α-synucleinopathies
+281, 29739–29752 (2006).
+early in the disease course, when disease-modifying therapies could be 32. Shahmoradian, S. H. et al. Lewy pathology in Parkinson’s disease consists of crowded
+implemented before disease manifestation340. PET imaging and SAAs organelles and lipid membranes. Nat. Neurosci. 22, 1099–1109 (2019).
+33. Trinkaus, V. A. et al. In situ architecture of neuronal α-Synuclein inclusions. Nat. Commun.
+could also be used to biologically stage α-synucleinopathies, thereby
+12, 2110 (2021).
+further facilitating drug intervention trials. 34. Kahle, P. J. α-Synucleinopathy models and human neuropathology: similarities and
+differences. Acta Neuropathol. 115, 87–95 (2008).
+35. Giasson, B. I., Murray, I. V., Trojanowski, J. Q. & Lee, V. M. A hydrophobic stretch of
+Published online: 28 November 2024
+12 amino acid residues in the middle of α-synuclein is essential for filament assembly.
+J. Biol. Chem. 276, 2380–2386 (2001).
+References
+36. Maroteaux, L. & Scheller, R. H. The rat brain synucleins; family of proteins transiently
+1. Goedert, M. & Spillantini, M. G. Lewy body diseases and multiple system atrophy as associated with neuronal membrane. Brain Res. Mol. Brain Res. 11, 335–343 (1991).
+α-synucleinopathies. Mol. Psychiatry 3, 462–465 (1998). 37. Davidson, W. S., Jonas, A., Clayton, D. F. & George, J. M. Stabilization of α-synuclein
+2. Baba, M. et al. Aggregation of α-synuclein in Lewy bodies of sporadic Parkinson’s disease secondary structure upon binding to synthetic membranes. J. Biol. Chem. 273,
+and dementia with Lewy bodies. Am. J. Pathol. 152, 879–884 (1998). 9443–9449 (1998).
+3. Wakabayashi, K., Yoshimoto, M., Tsuji, S. & Takahashi, H. α-Synuclein immunoreactivity 38. Weinreb, P. H., Zhen, W., Poon, A. W., Conway, K. A. & Lansbury, P. T. Jr. NACP, a protein
+in glial cytoplasmic inclusions in multiple system atrophy. Neurosci. Lett. 249, 180–182 implicated in Alzheimer’s disease and learning, is natively unfolded. Biochemistry 35,
+(1998). 13709–13715 (1996).
+4. Hamilton, R. L. Lewy bodies in Alzheimer’s disease: a neuropathological review of 39. Bartels, T., Choi, J. G. & Selkoe, D. J. α-Synuclein occurs physiologically as a helically
+145 cases using α-synuclein immunohistochemistry. Brain Pathol. 10, 378–384 (2000). folded tetramer that resists aggregation. Nature 477, 107–110 (2011).
+5. Spillantini, M. G. et al. α-Synuclein in Lewy bodies. Nature 388, 839–840 (1997). 40. Wang, W. et al. A soluble α-synuclein construct forms a dynamic tetramer. Proc. Natl
+6. Bi, M., Du, X., Jiao, Q., Chen, X. & Jiang, H. Expanding the role of proteasome homeostasis Acad. Sci. USA 108, 17797–17802 (2011).
+in Parkinson’s disease: beyond protein breakdown. Cell Death Dis. 12, 154 (2021). 41. Burre, J. et al. Properties of native brain α-synuclein. Nature 498, E4–E6 (2013).
+7. Peng, C., Trojanowski, J. Q. & Lee, V. M. Protein transmission in neurodegenerative 42. Buell, A. K. et al. Solution conditions determine the relative importance of nucleation and
+disease. Nat. Rev. Neurol. 16, 199–212 (2020). growth processes in α-synuclein aggregation. Proc. Natl Acad. Sci. USA 111, 7671–7676
+8. Sohrabi, T. et al. Common mechanisms underlying α-synuclein-induced mitochondrial (2014).
+dysfunction in Parkinson’s disease. J. Mol. Biol. 435, 167992 (2023). 43. Gould, N. et al. Evidence of native α-synuclein conformers in the human brain.
+9. Stykel, M. G. & Ryan, S. D. Nitrosative stress in Parkinson’s disease. NPJ Parkinsons Dis. 8, J. Biol. Chem. 289, 7929–7934 (2014).
+104 (2022). 44. Theillet, F. X. et al. Structural disorder of monomeric α-synuclein persists in
+10. Maroteaux, L., Campanelli, J. T. & Scheller, R. H. Synuclein: a neuron-specific protein mammalian cells. Nature 530, 45–50 (2016).
+localized to the nucleus and presynaptic nerve terminal. J. Neurosci. 8, 2804–2815 45. Meade, R. M., Fairlie, D. P. & Mason, J. M. α-Synuclein structure and Parkinson’s disease —
+(1988). lessons and emerging principles. Mol. Neurodegener. 14, 29 (2019).
+11. Ueda, K. et al. Molecular cloning of cDNA encoding an unrecognized component of 46. Mor, D. E., Ugras, S. E., Daniels, M. J. & Ischiropoulos, H. Dynamic structural flexibility of
+amyloid in Alzheimer disease. Proc. Natl Acad. Sci. USA 90, 11282–11286 (1993). α-synuclein. Neurobiol. Dis. 88, 66–74 (2016).
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 42
+
+---PAGE BREAK---
+
+Review article
+47. Adamczyk, A., Solecka, J. & Strosznajder, J. B. Expression of α-synuclein in different brain 80. Brahmachari, S. et al. Parkin interacting substrate zinc finger protein 746 is a pathological
+parts of adult and aged rats. J. Physiol. Pharmacol. 56, 29–37 (2005). mediator in Parkinson’s disease. Brain 142, 2380–2401 (2019).
+48. Lavedan, C. The synuclein family. Genome Res. 8, 871–880 (1998). 81. Imam, S. Z. et al. Neuroprotective efficacy of a new brain-penetrating C-Abl inhibitor in a
+49. Brenz Verca, M. S., Bahi, A., Boyer, F., Wagner, G. C. & Dreyer, J. L. Distribution of α- and murine Parkinson’s disease model. PLoS ONE 8, e65129 (2013).
+&-synucleins in the adult rat brain and their modification by high-dose cocaine treatment. 82. Karim, M. R. et al. α-Synucleinopathy associated c-Abl activation causes p53-dependent
+Eur. J. Neurosci. 18, 1923–1938 (2003). autophagy impairment. Mol. Neurodegener. 15, 27 (2020).
+50. Burre, J. et al. α-Synuclein promotes SNARE-complex assembly in vivo and in vitro. 83. Karuppagounder, S. S. et al. The c-Abl inhibitor, nilotinib, protects dopaminergic neurons
+Science 329, 1663–1667 (2010). in a preclinical animal model of Parkinson’s disease. Sci. Rep. 4, 4874 (2014).
+51. Lopez-Ortega, E., Ruiz, R. & Tabares, L. CSPα, a molecular co-chaperone essential for 84. Karuppagounder, S. S. et al. The c-Abl inhibitor IkT-148009 suppresses
+short and long-term synaptic maintenance. Front. Neurosci. 11, 39 (2017). neurodegeneration in mouse models of heritable and sporadic Parkinson’s disease.
+52. Chandra, S., Gallardo, G., Fernandez-Chacon, R., Schluter, O. M. & Sudhof, T. C. Sci. Transl. Med. 15, eabp9352 (2023).
+α-Synuclein cooperates with CSPα in preventing neurodegeneration. Cell 123, 383–396 85. Lee, S. et al. The c-Abl inhibitor, radotinib HCl, is neuroprotective in a preclinical
+(2005). Parkinson’s disease mouse model. Hum. Mol. Genet. 27, 2344–2356 (2018).
+53. Runwal, G. M. & Edwards, R. H. The role of α-synuclein in exocytosis. Exp. Neurol. 373, 86. Hasegawa, M. et al. Phosphorylated α-synuclein is ubiquitinated in α-synucleinopathy
+114668 (2024). lesions. J. Biol. Chem. 277, 49071–49076 (2002).
+54. Fernagut, P. O. & Chesselet, M. F. α-Synuclein and transgenic mouse models. Neurobiol. 87. Tofaris, G. K., Razzaq, A., Ghetti, B., Lilley, K. S. & Spillantini, M. G. Ubiquitination of
+Dis. 17, 123–130 (2004). α-synuclein in Lewy bodies is a pathological event not associated with impairment
+55. Nemani, V. M. et al. Increased expression of α-synuclein reduces neurotransmitter of proteasome function. J. Biol. Chem. 278, 44405–44411 (2003).
+release by inhibiting synaptic vesicle reclustering after endocytosis. Neuron 65, 66–79 88. Liani, E. et al. Ubiquitylation of synphilin-1 and α-synuclein by SIAH and its presence
+(2010). in cellular inclusions and Lewy bodies imply a role in Parkinson’s disease. Proc. Natl Acad.
+56. Scott, D. A. et al. A pathologic cascade leading to synaptic dysfunction in Sci. USA 101, 5500–5505 (2004).
+α-synuclein-induced neurodegeneration. J. Neurosci. 30, 8083–8095 (2010). 89. Rott, R. et al. Monoubiquitylation of α-synuclein by seven in absentia homolog (SIAH)
+57. Gaugler, M. N. et al. Nigrostriatal overabundance of α-synuclein leads to decreased promotes its aggregation in dopaminergic cells. J. Biol. Chem. 283, 3316–3328 (2008).
+vesicle density and deficits in dopamine release that correlate with reduced motor 90. Kalia, L. V. et al. Ubiquitinylation of α-synuclein by carboxyl terminus Hsp70-interacting
+activity. Acta Neuropathol. 123, 653–669 (2012). protein (CHIP) is regulated by Bcl-2-associated athanogene 5 (BAG5). PLoS ONE 6,
+58. Lundblad, M., Decressac, M., Mattsson, B. & Bjorklund, A. Impaired neurotransmission e14695 (2011).
+caused by overexpression of α-synuclein in nigral dopamine neurons. Proc. Natl Acad. 91. Shin, Y., Klucken, J., Patterson, C., Hyman, B. T. & McLean, P. J. The co-chaperone
+Sci. USA 109, 3213–3219 (2012). carboxyl terminus of Hsp70-interacting protein (CHIP) mediates α-synuclein
+59. Aniszewska, A., Bergstrom, J., Ingelsson, M. & Ekmark-Lewen, S. Modeling Parkinson’s degradation decisions between proteasomal and lysosomal pathways. J. Biol. Chem.
+disease-related symptoms in α-synuclein overexpressing mice. Brain Behav. 12, e2628 280, 23727–23734 (2005).
+(2022). 92. Tofaris, G. K. et al. Ubiquitin ligase Nedd4 promotes α-synuclein degradation by the
+60. Manzanza, N. O., Sedlackova, L. & Kalaria, R. N. α-Synuclein post-translational endosomal–lysosomal pathway. Proc. Natl Acad. Sci. USA 108, 17004–17009 (2011).
+modifications: implications for pathogenesis of Lewy body disorders. Front. Aging 93. Rott, R. et al. SUMOylation and ubiquitination reciprocally regulate α-synuclein
+Neurosci. 13, 690293 (2021). degradation and pathological aggregation. Proc. Natl Acad. Sci. USA 114, 13176–13181
+61. Zhang, J., Li, X. & Li, J. D. The roles of post-translational modifications on α-synuclein in (2017).
+the pathogenesis of Parkinson’s diseases. Front. Neurosci. 13, 381 (2019). 94. Burai, R., Ait-Bouziad, N., Chiki, A. & Lashuel, H. A. Elucidating the role of site-specific
+62. Zhang, S. et al. Post-translational modifications of soluble α-synuclein regulate the nitration of α-synuclein in the pathogenesis of Parkinson’s disease via protein
+amplification of pathological α-synuclein. Nat. Neurosci. 26, 213–225 (2023). semisynthesis and mutagenesis. J. Am. Chem. Soc. 137, 5041–5052 (2015).
+63. Arawaka, S. et al. The role of G-protein-coupled receptor kinase 5 in pathogenesis of 95. Giasson, B. I. et al. Oxidative damage linked to neurodegeneration by selective
+sporadic Parkinson’s disease. J. Neurosci. 26, 9227–9238 (2006). α-synuclein nitration in synucleinopathy lesions. Science 290, 985–989 (2000).
+64. Okochi, M. et al. Constitutive phosphorylation of the Parkinson’s disease associated 96. Souza, J. M., Giasson, B. I., Chen, Q., Lee, V. M. & Ischiropoulos, H. Dityrosine cross-linking
+α-synuclein. J. Biol. Chem. 275, 390–397 (2000). promotes formation of stable α-synuclein polymers. Implication of nitrative and oxidative
+65. Paleologou, K. E. et al. Phosphorylation at S87 is enhanced in synucleinopathies, stress in the pathogenesis of neurodegenerative synucleinopathies. J. Biol. Chem. 275,
+inhibits α-synuclein oligomerization, and influences synuclein-membrane interactions. 18344–18349 (2000).
+J. Neurosci. 30, 3184–3198 (2010). 97. Gao, H. M. et al. Neuroinflammation and oxidation/nitration of α-synuclein linked to
+66. Waxman, E. A. & Giasson, B. I. Specificity and regulation of casein kinase-mediated dopaminergic neurodegeneration. J. Neurosci. 28, 7687–7698 (2008).
+phosphorylation of α-synuclein. J. Neuropathol. Exp. Neurol. 67, 402–416 (2008). 98. Benner, E. J. et al. Nitrated α-synuclein immunity accelerates degeneration of nigral
+67. Brahmachari, S. et al. Activation of tyrosine kinase c-Abl contributes to dopaminergic neurons. PLoS ONE 3, e1376 (2008).
+α-synuclein-induced neurodegeneration. J. Clin. Invest. 126, 2970–2988 (2016). 99. Tansey, M. G. et al. Inflammation and immune dysfunction in Parkinson disease. Nat. Rev.
+68. Ellis, C. E., Schwartzberg, P. L., Grider, T. L., Fink, D. W. & Nussbaum, R. L. α-Synuclein is Immunol. 22, 657–673 (2022).
+phosphorylated by members of the Src family of protein-tyrosine kinases. J. Biol. Chem. 100. Chavarria, C. & Souza, J. M. Oxidation and nitration of α-synuclein and their implications
+276, 3879–3884 (2001). in neurodegenerative diseases. Arch. Biochem. Biophys. 533, 25–32 (2013).
+69. Mahul-Mellier, A. L. et al. c-Abl phosphorylates α-synuclein and regulates its 101. Martinez-Vicente, M. et al. Dopamine-modified α-synuclein blocks chaperone-mediated
+degradation: implication for α-synuclein clearance and contribution to the pathogenesis autophagy. J. Clin. Invest. 118, 777–788 (2008).
+of Parkinson’s disease. Hum. Mol. Genet. 23, 2858–2879 (2014). 102. Campbell, B. C. et al. The solubility of α-synuclein in multiple system atrophy differs from
+70. Nakamura, T., Yamashita, H., Takahashi, T. & Nakamura, S. Activated Fyn phosphorylates that of dementia with Lewy bodies and Parkinson’s disease. J. Neurochem. 76, 87–96
+α-synuclein at tyrosine residue 125. Biochem. Biophys. Res. Commun. 280, 1085–1092 (2001).
+(2001). 103. Farzadfard, A. et al. The C-terminal tail of α-synuclein protects against aggregate
+71. Sano, K. et al. Tyrosine 136 phosphorylation of α-synuclein aggregates in the Lewy body replication but is critical for oligomerization. Commun. Biol. 5, 123 (2022).
+dementia brain: involvement of serine 129 phosphorylation by casein kinase 2. Acta 104. Izawa, Y. et al. Role of C-terminal negative charges and tyrosine residues in fibril
+Neuropathol. Commun. 9, 182 (2021). formation of α-synuclein. Brain Behav. 2, 595–605 (2012).
+72. Zhao, K. et al. Parkinson’s disease-related phosphorylation at Tyr39 rearranges 105. Li, W. et al. Aggregation promoting C-terminal truncation of α-synuclein is a
+α-synuclein amyloid fibril structure revealed by cryo-EM. Proc. Natl Acad. Sci. USA 117, normal cellular process and is enhanced by the familial Parkinson’s disease-linked
+20305–20315 (2020). mutations. Proc. Natl Acad. Sci. USA 102, 2162–2167 (2005).
+73. Ramalingam, N. & Dettmer, U. α-Synuclein serine129 phosphorylation — the physiology 106. Prasad, K., Beach, T. G., Hedreen, J. & Richfield, E. K. Critical role of truncated α-synuclein
+of pathology. Mol. Neurodegener. 18, 84 (2023). and aggregates in Parkinson’s disease and incidental Lewy body disease. Brain Pathol.
+74. Stewart, T. et al. Phosphorylated α-synuclein in Parkinson’s disease: correlation depends 22, 811–825 (2012).
+on disease severity. Acta Neuropathol. Commun. 3, 7 (2015). 107. van der Wateren, I. M., Knowles, T. P. J., Buell, A. K., Dobson, C. M. & Galvagnion, C.
+75. Feany, M. B. & Bender, W. W. A Drosophila model of Parkinson’s disease. Nature 404, C-terminal truncation of α-synuclein promotes amyloid fibril amplification at
+394–398 (2000). physiological pH. Chem. Sci. 9, 5506–5516 (2018).
+76. Kontaxi, C. & Edwards, R. H. Synuclein phosphorylation: pathogenic or physiologic. 108. Zhang, C. et al. C-terminal truncation modulates α-synuclein’s cytotoxicity and
+NPJ Parkinsons Dis. 9, 47 (2023). aggregation by promoting the interactions with membrane and chaperone. Commun.
+77. Ramalingam, N. et al. Dynamic physiological α-synuclein S129 phosphorylation is driven Biol. 5, 798 (2022).
+by neuronal activity. NPJ Parkinsons Dis. 9, 4 (2023). 109. Periquet, M., Fulga, T., Myllykangas, L., Schlossmacher, M. G. & Feany, M. B. Aggregated
+78. Parra-Rivas, L. A. et al. Serine-129 phosphorylation of α-synuclein is an α-synuclein mediates dopaminergic neurotoxicity in vivo. J. Neurosci. 27, 3338–3346
+activity-dependent trigger for physiologic protein–protein interactions and synaptic (2007).
+function. Neuron 111, 4006–4023.e10 (2023). 110. Tofaris, G. K. et al. Pathological changes in dopaminergic nerve cells of the substantia
+79. Burmann, B. M. et al. Regulation of α-synuclein by chaperones in mammalian cells. nigra and olfactory bulb in mice transgenic for truncated human α-synuclein(1–120):
+Nature 577, 127–132 (2020). implications for Lewy body disorders. J. Neurosci. 26, 3942–3950 (2006).
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 43
+
+---PAGE BREAK---
+
+Review article
+111. Choi, D. H. et al. Role of matrix metalloproteinase 3-mediated α-synuclein cleavage in 146. Kim, J. Y., Illigens, B. M., McCormick, M. P., Wang, N. & Gibbons, C. H. α-Synuclein in skin
+dopaminergic cell death. J. Biol. Chem. 286, 14168–14177 (2011). nerve fibers as a biomarker for α-synucleinopathies. J. Clin. Neurol. 15, 135–142 (2019).
+112. Dufty, B. M. et al. Calpain-cleavage of α-synuclein: connecting proteolytic processing to 147. Konopleva, L. F., Shostka, I. P., Gromova, I. I. & Rogova, L. D. Primary familial pulmonary
+disease-linked aggregation. Am. J. Pathol. 170, 1725–1738 (2007). hypertension. Vrach. Delo 1, 53–56 (1977).
+113. Iwata, A. et al. α-Synuclein degradation by serine protease neurosin: implication for 148. Maass, F. et al. Increased α-synuclein tear fluid levels in patients with Parkinson’s disease.
+pathogenesis of synucleinopathies. Hum. Mol. Genet. 12, 2625–2635 (2003). Sci. Rep. 10, 8507 (2020).
+114. Mishizen-Eberz, A. J. et al. Distinct cleavage patterns of normal and pathologic forms of 149. Nam, D. et al. Detection and assessment of α-synuclein oligomers in the urine of
+α-synuclein by calpain I in vitro. J. Neurochem. 86, 836–847 (2003). Parkinson’s disease patients. J. Parkinsons Dis. 10, 981–991 (2020).
+115. Sung, J. Y. et al. Proteolytic cleavage of extracellular secreted α-synuclein via matrix 150. Holmes, B. B. et al. Heparan sulfate proteoglycans mediate internalization and
+metalloproteinases. J. Biol. Chem. 280, 25216–25224 (2005). propagation of specific proteopathic seeds. Proc. Natl Acad. Sci. USA 110, E3138–E3147
+116. Wang, W. et al. Caspase-1 causes truncation and aggregation of the Parkinson’s (2013).
+disease-associated protein α-synuclein. Proc. Natl Acad. Sci. USA 113, 9587–9592 (2016). 151. Mao, X. et al. Aplp1 interacts with Lag3 to facilitate transmission of pathologic
+117. Zhang, Z. et al. Asparagine endopeptidase cleaves α-synuclein and mediates pathologic α-synuclein. Nat. Commun. 15, 4663 (2024).
+activities in Parkinson’s disease. Nat. Struct. Mol. Biol. 24, 632–642 (2017). 152. Mao, X. et al. Pathological α-synuclein transmission initiated by binding
+118. Braak, H. et al. Staging of brain pathology related to sporadic Parkinson’s disease. lymphocyte-activation gene 3. Science 353, eaah3374 (2016).
+Neurobiol. Aging 24, 197–211 (2003). 153. George, S. et al. Microglia affect α-synuclein cell-to-cell transfer in a mouse model of
+119. Braak, H., de Vos, R. A., Bohl, J. & Del Tredici, K. Gastric α-synuclein immunoreactive Parkinson’s disease. Mol. Neurodegener. 14, 34 (2019).
+inclusions in Meissner’s and Auerbach’s plexuses in cases staged for Parkinson’s 154. Kim, C. et al. Neuron-released oligomeric α-synuclein is an endogenous agonist of TLR2
+disease-related brain pathology. Neurosci. Lett. 396, 67–72 (2006). for paracrine activation of microglia. Nat. Commun. 4, 1562 (2013).
+120. Braak, H., Rub, U., Gai, W. P. & Del Tredici, K. Idiopathic Parkinson’s disease: possible 155. Shrivastava, A. N. et al. α-Synuclein assemblies sequester neuronal α3-Na+/K+-ATPase
+routes by which vulnerable neuronal types may be subject to neuroinvasion by an and impair Na+ gradient. EMBO J. 34, 2408–2423 (2015).
+unknown pathogen. J. Neural Transm. 110, 517–536 (2003). 156. Birol, M., Wojcik, S. P., Miranker, A. D. & Rhoades, E. Identification of N-linked glycans as
+121. Liu, B. et al. Vagotomy and Parkinson disease: a Swedish register-based matched-cohort specific mediators of neuronal uptake of acetylated α-synuclein. PLoS Biol. 17, e3000318
+study. Neurology 88, 1996–2002 (2017). (2019).
+122. Svensson, E. et al. Vagotomy and subsequent risk of Parkinson’s disease. Ann. Neurol. 78, 157. Aulic, S. et al. α-Synuclein amyloids hijack prion protein to gain cell entry,
+522–529 (2015). facilitate cell-to-cell spreading and block prion replication. Sci. Rep. 7, 10050
+123. Kim, S. et al. Transneuronal propagation of pathologic α-synuclein from the gut to the (2017).
+brain models Parkinson’s disease. Neuron 103, 627–641.e7 (2019). 158. De Cecco, E. & Legname, G. The role of the prion protein in the internalization of
+124. Roguski, A., Rayment, D., Whone, A. L., Jones, M. W. & Rolinski, M. A neurologist’s guide to α-synuclein amyloids. Prion 12, 23–27 (2018).
+REM sleep behavior disorder. Front. Neurol. 11, 610 (2020). 159. Thom, T. et al. Cellular prion protein mediates α-synuclein uptake, localization, and
+125. Horsager, J. et al. Brain-first versus body-first Parkinson’s disease: a multimodal imaging toxicity in vitro and in vivo. Mov. Disord. 37, 39–51 (2022).
+case-control study. Brain 143, 3077–3088 (2020). 160. Urrea, L., Ferrer, I., Gavin, R. & Del Rio, J. A. The cellular prion protein (PrPC) as neuronal
+126. Borghammer, P. et al. Neuropathological evidence of body-first vs. brain-first Lewy body receptor for α-synuclein. Prion 11, 226–233 (2017).
+disease. Neurobiol. Dis. 161, 105557 (2021). 161. Urrea, L. et al. Involvement of cellular prion protein in α-synuclein transport in neurons.
+127. Dorsey, E. R., De Miranda, B. R., Horsager, J. & Borghammer, P. The body, the brain, the Mol. Neurobiol. 55, 1847–1860 (2018).
+environment, and Parkinson’s disease. J. Parkinsons Dis. 14, 363–381 (2024). 162. Choi, Y. R. et al. Prion-like propagation of α-synuclein is regulated by the Fc&RIIB-SHP-1/2
+128. Brundin, P., Li, J. Y., Holton, J. L., Lindvall, O. & Revesz, T. Research in motion: the enigma signaling pathway in neurons. Cell Rep. 22, 136–148 (2018).
+of Parkinson’s disease pathology spread. Nat. Rev. Neurosci. 9, 741–745 (2008). 163. Chen, K. et al. LRP1 is a neuronal receptor for α-synuclein uptake and spread. Mol.
+129. Kordower, J. H., Chu, Y., Hauser, R. A., Freeman, T. B. & Olanow, C. W. Lewy body-like Neurodegener. 17, 57 (2022).
+pathology in long-term embryonic nigral transplants in Parkinson’s disease. Nat. Med. 14, 164. Diaz-Ortiz, M. E. et al. GPNMB confers risk for Parkinson’s disease through interaction
+504–506 (2008). with α-synuclein. Science 377, eabk0637 (2022).
+130. Kordower, J. H., Chu, Y., Hauser, R. A., Olanow, C. W. & Freeman, T. B. Transplanted 165. Sanyal, A. et al. Constitutive endolysosomal perforation in neurons allows induction
+dopaminergic neurons develop PD pathologic changes: a second case report. Mov. of α-synuclein aggregation by internalized pre-formed fibrils. Preprint at bioRxiv
+Disord. 23, 2303–2306 (2008). https://doi.org/10.1101/2023.12.30.573738 (2024).
+131. Li, J. Y. et al. Lewy bodies in grafted neurons in subjects with Parkinson’s disease suggest 166. Danzer, K. M. et al. Heat-shock protein 70 modulates toxic extracellular α-synuclein
+host-to-graft disease propagation. Nat. Med. 14, 501–503 (2008). oligomers and rescues trans-synaptic toxicity. FASEB J. 25, 326–336 (2011).
+132. Desplats, P. et al. Inclusion formation and neuronal cell death through neuron-to-neuron 167. Emmanouilidou, E. et al. Cell-produced α-synuclein is secreted in a calcium-dependent
+transmission of α-synuclein. Proc. Natl Acad. Sci. USA 106, 13010–13015 (2009). manner by exosomes and impacts neuronal survival. J. Neurosci. 30, 6838–6851
+133. Luk, K. C. et al. Exogenous α-synuclein fibrils seed the formation of Lewy body-like (2010).
+intracellular inclusions in cultured cells. Proc. Natl Acad. Sci. USA 106, 20051–20056 168. Tsigelny, I. F. et al. Role of α-synuclein penetration into the membrane in the mechanisms
+(2009). of oligomer pore formation. FEBS J. 279, 1000–1013 (2012).
+134. Volpicelli-Daley, L. A. et al. Exogenous α-synuclein fibrils induce Lewy body pathology 169. Abounit, S. et al. Tunneling nanotubes spread fibrillar α-synuclein by intercellular
+leading to synaptic dysfunction and neuron death. Neuron 72, 57–71 (2011). trafficking of lysosomes. EMBO J. 35, 2120–2138 (2016).
+135. Luk, K. C. et al. Pathological α-synuclein transmission initiates Parkinson-like 170. Loria, F. et al. α-Synuclein transfer between neurons and astrocytes indicates that
+neurodegeneration in nontransgenic mice. Science 338, 949–953 (2012). astrocytes play a role in degradation rather than in spreading. Acta Neuropathol. 134,
+136. Luk, K. C. et al. Intracerebral inoculation of pathological α-synuclein initiates a rapidly 789–808 (2017).
+progressive neurodegenerative α-synucleinopathy in mice. J. Exp. Med. 209, 975–986 171. Fraser, H. & Dickinson, A. G. Scrapie in mice. Agent-strain differences in the distribution
+(2012). and intensity of grey matter vacuolation. J. Comp. Pathol. 83, 29–40 (1973).
+137. Masuda-Suzukake, M. et al. Prion-like spreading of pathological α-synuclein in brain. 172. Bousset, L. et al. Structural and functional characterization of two α-synuclein strains.
+Brain 136, 1128–1138 (2013). Nat. Commun. 4, 2575 (2013).
+138. Henderson, M. X. et al. Spread of α-synuclein pathology through the brain connectome 173. Guo, J. L. et al. Distinct α-synuclein strains differentially promote tau inclusions in
+is modulated by selective vulnerability and predicted by network analysis. Nat. Neurosci. neurons. Cell 154, 103–117 (2013).
+22, 1248–1257 (2019). 174. Lau, A. et al. α-Synuclein strains target distinct brain regions and cell types.
+139. Mezias, C., Rey, N., Brundin, P. & Raj, A. Neural connectivity predicts spreading of Nat. Neurosci. 23, 21–31 (2020).
+α-synuclein pathology in fibril-injected mouse models: involvement of retrograde and 175. Peelaerts, W. et al. α-Synuclein strains cause distinct synucleinopathies after local and
+anterograde axonal propagation. Neurobiol. Dis. 134, 104623 (2020). systemic administration. Nature 522, 340–344 (2015).
+140. Pandya, S. et al. Predictive model of spread of Parkinson’s pathology using network 176. Van der Perren, A. et al. The structural differences between patient-derived α-synuclein
+diffusion. NeuroImage 192, 178–194 (2019). strains dictate characteristics of Parkinson’s disease, multiple system atrophy and
+141. Henrich, M. T. et al. Determinants of seeding and spreading of α-synuclein pathology in dementia with Lewy bodies. Acta Neuropathol. 139, 977–1000 (2020).
+the brain. Sci. Adv. 6, eabc2487 (2020). 177. Dhavale, D. D. et al. Structure of α-synuclein fibrils derived from human Lewy body
+142. Lee, S. J. Origins and effects of extracellular α-synuclein: implications in Parkinson’s dementia tissue. Nat. Commun. 15, 2750 (2024).
+disease. J. Mol. Neurosci. 34, 17–22 (2008). 178. Yang, Y. et al. Structures of α-synuclein filaments from human brains with Lewy
+143. Lee, H. J., Bae, E. J. & Lee, S. J. Extracellular α-synuclein — a novel and crucial factor in pathology. Nature 610, 791–795 (2022).
+Lewy body diseases. Nat. Rev. Neurol. 10, 92–98 (2014). 179. Peng, C. et al. Cellular milieu imparts distinct pathological α-synuclein strains in
+144. El-Agnaf, O. M. et al. α-Synuclein implicated in Parkinson’s disease is present in α-synucleinopathies. Nature 557, 558–563 (2018).
+extracellular biological fluids, including human plasma. FASEB J. 17, 1945–1947 180. Just, M. K. et al. α-Synuclein strain variability in body-first and brain-first
+(2003). synucleinopathies. Front. Aging Neurosci. 14, 907293 (2022).
+145. El-Agnaf, O. M. et al. Detection of oligomeric forms of α-synuclein protein in human 181. Okuzumi, A. et al. α-Synuclein seeding assay using RT-QuIC. Methods Mol. Biol. 2322,
+plasma as a potential biomarker for Parkinson’s disease. FASEB J. 20, 419–425 (2006). 3–16 (2021).
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 44
+
+---PAGE BREAK---
+
+Review article
+182. Shahnawaz, M. et al. Development of a biochemical diagnosis of Parkinson disease by 213. Teil, M. et al. Targeting α-synuclein for PD therapeutics: a pursuit on all fronts.
+detection of α-synuclein misfolded aggregates in cerebrospinal fluid. JAMA Neurol. 74, Biomolecules https://doi.org/10.3390/biom10030391 (2020).
+163–172 (2017). 214. McFarthing, K. et al. Parkinson’s disease drug therapies in the clinical trial pipeline:
+183. Kang, U. J. et al. Comparative study of cerebrospinal fluid α-synuclein seeding 2024 update. J. Parkinsons Dis. 14, 899–912 (2024).
+aggregation assays for diagnosis of Parkinson’s disease. Mov. Disord. 34, 536–544 215. Messer, A. & Butler, D. C. Optimizing intracellular antibodies (intrabodies/nanobodies) to
+(2019). treat neurodegenerative disorders. Neurobiol. Dis. 134, 104619 (2020).
+184. Shahnawaz, M. et al. Discriminating α-synuclein strains in Parkinson’s disease and 216. Spencer, B. et al. α-Synuclein conformational antibodies fused to penetratin are effective
+multiple system atrophy. Nature 578, 273–277 (2020). in models of Lewy body disease. Ann. Clin. Transl. Neurol. 3, 588–606 (2016).
+185. Simuni, T. et al. A biological definition of neuronal α-synuclein disease: towards an 217. Bae, E. J. et al. Antibody-aided clearance of extracellular α-synuclein prevents cell-to-cell
+integrated staging system for research. Lancet Neurol. 23, 178–190 (2024). aggregate transmission. J. Neurosci. 32, 13454–13469 (2012).
+186. Oftedal, L., Maple-Grodem, J., Tysnes, O. B., Alves, G. & Lange, J. Seed amplification 218. Brundin, P., Dave, K. D. & Kordower, J. H. Therapeutic approaches to target α-synuclein
+assay as a diagnostic tool in newly-diagnosed Parkinson’s disease. J. Parkinsons Dis. 13, pathology. Exp. Neurol. 298, 225–235 (2017).
+841–844 (2023). 219. Sanchez-Guajardo, V., Annibali, A., Jensen, P. H. & Romero-Ramos, M. α-Synuclein
+187. Concha-Marambio, L., Pritzkow, S., Shahnawaz, M., Farris, C. M. & Soto, C. Seed vaccination prevents the accumulation of Parkinson disease-like pathologic inclusions in
+amplification assay for the detection of pathologic α-synuclein aggregates in striatum in association with regulatory T cell recruitment in a rat model. J. Neuropathol.
+cerebrospinal fluid. Nat. Protoc. 18, 1179–1196 (2023). Exp. Neurol. 72, 624–645 (2013).
+188. Fernandes Gomes, B. et al. α-Synuclein seed amplification assay as a diagnostic tool for 220. Spencer, B. et al. Anti-α-synuclein immunotherapy reduces α-synuclein propagation
+parkinsonian disorders. Parkinsonism Relat. Disord. 117, 105807 (2023). in the axon and degeneration in a combined viral vector and transgenic model of
+189. Siderowf, A. et al. Assessment of heterogeneity among participants in the Parkinson’s synucleinopathy. Acta Neuropathol. Commun. 5, 7 (2017).
+Progression Markers Initiative cohort using α-synuclein seed amplification: a cross- 221. Lang, A. E. et al. Trial of cinpanemab in early Parkinson’s disease. N. Engl. J. Med. 387,
+sectional study. Lancet Neurol. 22, 407–417 (2023). 408–420 (2022).
+190. Kluge, A. et al. Detecting misfolded α-synuclein in blood years before the diagnosis of 222. Pagano, G. et al. Trial of prasinezumab in early-stage Parkinson’s disease. N. Engl. J. Med.
+Parkinson’s disease. Mov. Disord. 39, 1289–1299 (2024). 387, 421–432 (2022).
+191. Grossauer, A. et al. α-Synuclein seed amplification assays in the diagnosis of 223. Pagano, G. et al. Prasinezumab slows motor progression in rapidly progressing
+synucleinopathies using cerebrospinal fluid — a systematic review and meta-analysis. early-stage Parkinson’s disease. Nat. Med. 30, 1096–1103 (2024).
+Mov. Disord. Clin. Pract. 10, 737–747 (2023). 224. Webb, J. L., Ravikumar, B., Atkins, J., Skepper, J. N. & Rubinsztein, D. C. α-Synuclein is
+192. Okuzumi, A. et al. Propagative α-synuclein seeds as serum biomarkers for degraded by both autophagy and the proteasome. J. Biol. Chem. 278, 25009–25013
+synucleinopathies. Nat. Med. 29, 1448–1455 (2023). (2003).
+193. Bellomo, G. et al. α-Synuclein seed amplification assays for diagnosing 225. Decressac, M. et al. TFEB-mediated autophagy rescues midbrain dopamine neurons from
+synucleinopathies: the way forward. Neurology 99, 195–205 (2022). α-synuclein toxicity. Proc. Natl Acad. Sci. USA 110, E1817–E1826 (2013).
+194. Chahine, L. M. et al. Central and peripheral α-synuclein in Parkinson disease detected by 226. Ebrahimi-Fakhari, D. et al. Distinct roles in vivo for the ubiquitin–proteasome system and
+seed amplification assay. Ann. Clin. Transl. Neurol. 10, 696–705 (2023). the autophagy–lysosomal pathway in the degradation of α-synuclein. J. Neurosci. 31,
+195. Yoo, D. et al. Diagnostic value of α-synuclein seeding amplification assays in 14508–14520 (2011).
+α-synucleinopathies: a systematic review and meta-analysis. Parkinsonism Relat. Disord. 227. Spencer, B. et al. Beclin 1 gene transfer activates autophagy and ameliorates the
+104, 99–109 (2022). neurodegenerative pathology in α-synuclein models of Parkinson’s and Lewy body
+196. Brockmann, K. et al. CSF α-synuclein seed amplification kinetic profiles are associated diseases. J. Neurosci. 29, 13578–13588 (2009).
+with cognitive decline in Parkinson’s disease. NPJ Parkinsons Dis. 10, 24 (2024). 228. Lopes da Fonseca, T., Villar-Pique, A. & Outeiro, T. F. The interplay between α-synuclein
+197. Endo, H. et al. Imaging α-synuclein pathologies in animal models and patients with clearance and spreading. Biomolecules 5, 435–471 (2015).
+Parkinson’s and related diseases. Neuron 112, 2540–2557.e8 (2024). 229. Lee, J. et al. Targeted degradation of α-synuclein aggregates in Parkinson’s disease using
+198. Smith, R. et al. The α-synuclein PET tracer [18F] ACI-12589 distinguishes multiple system the AUTOTAC technology. Mol. Neurodegener. 18, 41 (2023).
+atrophy from other neurodegenerative diseases. Nat. Commun. 14, 6750 (2023). 230. Gao, J., Perera, G., Bhadbhade, M., Halliday, G. M. & Dzamko, N. Autophagy activation
+199. Xiang, J. et al. Development of an α-synuclein positron emission tomography tracer for promotes clearance of α-synuclein inclusions in fibril-seeded human neural cells. J. Biol.
+imaging synucleinopathies. Cell 186, 3350–3367.e19 (2023). Chem. 294, 14241–14256 (2019).
+200. Alarcon-Aris, D. et al. Selective α-synuclein knockdown in monoamine neurons by 231. Cuervo, A. M., Stefanis, L., Fredenburg, R., Lansbury, P. T. & Sulzer, D. Impaired
+intranasal oligonucleotide delivery: potential therapy for Parkinson’s disease. Mol. Ther. degradation of mutant α-synuclein by chaperone-mediated autophagy. Science 305,
+26, 550–567 (2018). 1292–1295 (2004).
+201. Cole, T. A. et al. α-Synuclein antisense oligonucleotides as a disease-modifying therapy 232. Wang, Y. T. & Lu, J. H. Targeting chaperone-mediated autophagy for Parkinson’s disease
+for Parkinson’s disease. JCI Insight 6, e135633 (2021). therapy. Neural Regen. Res. 18, 1723–1724 (2023).
+202. Uehara, T. et al. Amido-bridged nucleic acid (AmNA)-modified antisense 233. Frazzitta, G. et al. The beneficial role of intensive exercise on Parkinson disease
+oligonucleotides targeting α-synuclein as a novel therapy for Parkinson’s disease. progression. Am. J. Phys. Med. Rehabil. 92, 523–532 (2013).
+Sci. Rep. 9, 7567 (2019). 234. Malczynska-Sims, P., Chalimoniuk, M. & Sulek, A. The effect of endurance training on
+203. Alarcon-Aris, D. et al. Anti-α-synuclein ASO delivered to monoamine neurons prevents brain-derived neurotrophic factor and inflammatory markers in healthy people and
+α-synuclein accumulation in a Parkinson’s disease-like mouse model and in monkeys. Parkinson’s disease. A narrative review. Front. Physiol. 11, 578981 (2020).
+EBioMedicine 59, 102944 (2020). 235. Schenkman, M. et al. Effect of high-intensity treadmill exercise on motor symptoms
+204. Yang, J. et al. Exosome-mediated delivery of antisense oligonucleotides targeting in patients with de novo Parkinson disease: a phase 2 randomized clinical trial. JAMA
+α-synuclein ameliorates the pathology in a mouse model of Parkinson’s disease. Neurol. 75, 219–226 (2018).
+Neurobiol. Dis. 148, 105218 (2021). 236. Zarbakhsh, S. et al. Irisin protects the substantia nigra dopaminergic neurons in the rat
+205. Shalaby, K. E., Aouida, M., Gupta, V., Abdesselem, H. & El-Agnaf, O. M. A. Development model of Parkinson’s disease. Iran. J. Basic Med. Sci. 22, 722–728 (2019).
+of non-viral vectors for neuronal-targeted delivery of CRISPR-Cas9 RNA-proteins as a 237. Zhang, X. et al. Irisin exhibits neuroprotection by preventing mitochondrial damage in
+therapeutic strategy for neurological disorders. Biomater. Sci. 10, 4959–4977 (2022). Parkinson’s disease. NPJ Parkinsons Dis. 9, 13 (2023).
+206. Fellner, L. et al. Anle138b partly ameliorates motor deficits despite failure of 238. Kam, T. I. et al. Amelioration of pathologic α-synuclein-induced Parkinson’s disease by
+neuroprotection in a model of advanced multiple system atrophy. Front. Neurosci. 10, 99 irisin. Proc. Natl Acad. Sci. USA 119, e2204835119 (2022).
+(2016). 239. Panwar, V. et al. Multifaceted role of mTOR (mammalian target of rapamycin)
+207. Lemos, M. et al. Targeting α-synuclein by PD03 AFFITOPE® and anle138b rescues signaling pathway in human health and disease. Signal Transduct. Target Ther. 8, 375
+neurodegenerative pathology in a model of multiple system atrophy: clinical relevance. (2023).
+Transl. Neurodegener. 9, 38 (2020). 240. Khan, M. R. et al. Enhanced mTORC1 signaling and protein synthesis in pathologic
+208. Levin, J. et al. The oligomer modulator anle138b inhibits disease progression in α-synuclein cellular and animal models of Parkinson’s disease. Sci. Transl. Med. 15,
+a Parkinson mouse model even with treatment started after disease onset. Acta eadd0499 (2023).
+Neuropathol. 127, 779–780 (2014). 241. Bove, J., Martinez-Vicente, M. & Vila, M. Fighting neurodegeneration with rapamycin:
+209. Wagner, J. et al. Anle138b: a novel oligomer modulator for disease-modifying therapy of mechanistic insights. Nat. Rev. Neurosci. 12, 437–452 (2011).
+neurodegenerative diseases such as prion and Parkinson’s disease. Acta Neuropathol. 242. Moors, T. E. et al. Therapeutic potential of autophagy-enhancing agents in Parkinson’s
+125, 795–813 (2013). disease. Mol. Neurodegener. 12, 11 (2017).
+210. Wegrzynowicz, M. et al. Depopulation of dense α-synuclein aggregates is associated 243. Jahrling, J. B. & Laberge, R. M. Age-related neurodegeneration prevention through mTOR
+with rescue of dopamine neuron dysfunction and death in a new Parkinson’s disease inhibition: potential mechanisms and remaining questions. Curr. Top. Med. Chem. 15,
+model. Acta Neuropathol. 138, 575–595 (2019). 2139–2151 (2015).
+211. Wrasidlo, W. et al. A de novo compound targeting α-synuclein improves deficits in 244. Sidransky, E. & Lopez, G. The link between the GBA gene and parkinsonism. Lancet
+models of Parkinson’s disease. Brain 139, 3217–3236 (2016). Neurol. 11, 986–998 (2012).
+212. Grosso Jasutkar, H., Oh, S. E. & Mouradian, M. M. Therapeutics in the pipeline targeting 245. Sidransky, E. et al. Multicenter analysis of glucocerebrosidase mutations in Parkinson’s
+α-synuclein for Parkinson’s disease. Pharm. Rev. 74, 207–237 (2022). disease. N. Engl. J. Med. 361, 1651–1661 (2009).
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 45
+
+---PAGE BREAK---
+
+Review article
+246. Smith, L. & Schapira, A. H. V. GBA variants and Parkinson disease: mechanisms and 280. Nguyen, L. T. N. et al. Role of NLRP3 inflammasome in Parkinson’s disease and
+treatments. Cells https://doi.org/10.3390/cells11081261 (2022). therapeutic considerations. J. Parkinsons Dis. 12, 2117–2133 (2022).
+247. Mazzulli, J. R. et al. Gaucher disease glucocerebrosidase and α-synuclein form a 281. Harms, A. S., Ferreira, S. A. & Romero-Ramos, M. Periphery and brain, innate and adaptive
+bidirectional pathogenic loop in synucleinopathies. Cell 146, 37–52 (2011). immunity in Parkinson’s disease. Acta Neuropathol. 141, 527–545 (2021).
+248. Menozzi, E., Toffoli, M. & Schapira, A. H. V. Targeting the GBA1 pathway to slow Parkinson 282. Sulzer, D. et al. T cells from patients with Parkinson’s disease recognize α-synuclein
+disease: insights into clinical aspects, pathogenic mechanisms and new therapeutic peptides. Nature 546, 656–661 (2017).
+avenues. Pharmacol. Ther. 246, 108419 (2023). 283. Brochard, V. et al. Infiltration of CD4+ lymphocytes into the brain contributes to
+249. Park, H., Kam, T. I., Dawson, T. M. & Dawson, V. L. Poly (ADP-ribose) (PAR)-dependent cell neurodegeneration in a mouse model of Parkinson disease. J. Clin. Invest. 119, 182–192
+death in neurodegenerative diseases. Int. Rev. Cell Mol. Biol. 353, 1–29 (2020). (2009).
+250. Kam, T. I. et al. Poly(ADP-ribose) drives pathologic α-synuclein neurodegeneration in 284. Galiano-Landeira, J., Torra, A., Vila, M. & Bove, J. CD8 T cell nigral infiltration precedes
+Parkinson’s disease. Science 362, eaat8407 (2018). synucleinopathy in early stages of Parkinson’s disease. Brain 143, 3717–3733 (2020).
+251. Mao, K. et al. Poly (ADP-ribose) polymerase 1 inhibition prevents neurodegeneration and 285. Hamza, T. H. et al. Common genetic variation in the HLA region is associated with
+promotes α-synuclein degradation via transcription factor EB-dependent autophagy in late-onset sporadic Parkinson’s disease. Nat. Genet. 42, 781–785 (2010).
+mutant α-synuclein A53T model of Parkinson’s disease. Aging Cell 19, e13163 (2020). 286. Wissemann, W. T. et al. Association of Parkinson disease with structural and regulatory
+252. Burguillos, M. A. et al. Apoptosis-inducing factor mediates dopaminergic cell death variants in the HLA region. Am. J. Hum. Genet. 93, 984–993 (2013).
+in response to LPS-induced inflammatory stimulus: evidence in Parkinson’s disease 287. Naito, T. et al. Trans-ethnic fine-mapping of the major histocompatibility complex region
+patients. Neurobiol. Dis. 41, 177–188 (2011). linked to Parkinson’s disease. Mov. Disord. 36, 1805–1814 (2021).
+253. Wang, Y. et al. A nuclease that mediates cell death induced by DNA damage and 288. Theodore, S., Cao, S., McLean, P. J. & Standaert, D. G. Targeted overexpression of human
+poly(ADP-ribose) polymerase-1. Science 354, eaad6872 (2016). α-synuclein triggers microglial activation and an adaptive immune response in a mouse
+254. Park, H. et al. PAAN/MIF nuclease inhibition prevents neurodegeneration in Parkinson’s model of Parkinson disease. J. Neuropathol. Exp. Neurol. 67, 1149–1158 (2008).
+disease. Cell 185, 1943–1959.e21 (2022). 289. Williams, G. P. et al. CD4 T cells mediate brain inflammation and neurodegeneration in a
+255. Geibl, F. F. et al. α-Synuclein pathology disrupts mitochondrial function in dopaminergic mouse model of Parkinson’s disease. Brain 144, 2047–2059 (2021).
+and cholinergic neurons at-risk in Parkinson’s disease. Mol. Neurodegener. https://doi.org/ 290. Cebrian, C. et al. MHC-I expression renders catecholaminergic neurons susceptible to
+10.1186/s13024-024-00756-2 (2024). T-cell-mediated degeneration. Nat. Commun. 5, 3633 (2014).
+256. Andrabi, S. A. et al. Poly(ADP-ribose) (PAR) polymer is a death signal. Proc. Natl Acad. Sci. 291. Gate, D. et al. CD4+ T cells contribute to neurodegeneration in Lewy body dementia.
+USA 103, 18308–18313 (2006). Science 374, 868–874 (2021).
+257. Andrabi, S. A. et al. Poly(ADP-ribose) polymerase-dependent energy depletion occurs 292. Iba, M. et al. Neuroinflammation is associated with infiltration of T cells in Lewy
+through inhibition of glycolysis. Proc. Natl Acad. Sci. USA 111, 10209–10214 (2014). body disease and α-synuclein transgenic models. J. Neuroinflammation 17, 214
+258. Fouquerel, E. et al. ARTD1/PARP1 negatively regulates glycolysis by inhibiting hexokinase (2020).
+1 independent of NAD+ depletion. Cell Rep. 8, 1819–1831 (2014). 293. Su, X. et al. Synuclein activates microglia in a model of Parkinson’s disease. Neurobiol.
+259. Hossain, M. I. et al. Poly(ADP-ribose) mediates bioenergetic defects and redox imbalance Aging 29, 1690–1701 (2008).
+in neurons following oxygen and glucose deprivation. FASEB J. 38, e23556 (2024). 294. Zhang, W. et al. Aggregated α-synuclein activates microglia: a process leading to disease
+260. Ko, H. S. et al. Phosphorylation by the c-Abl protein tyrosine kinase inhibits parkin’s progression in Parkinson’s disease. FASEB J. 19, 533–542 (2005).
+ubiquitination and protective function. Proc. Natl Acad. Sci. USA 107, 16691–16696 295. Barkholt, P., Sanchez-Guajardo, V., Kirik, D. & Romero-Ramos, M. Long-term polarization
+(2010). of microglia upon α-synuclein overexpression in nonhuman primates. Neuroscience 208,
+261. Panicker, N. et al. Neuronal NLRP3 is a parkin substrate that drives neurodegeneration in 85–96 (2012).
+Parkinson’s disease. Neuron 110, 2422–2437.e9 (2022). 296. Bido, S. et al. Microglia-specific overexpression of α-synuclein leads to severe
+262. Blagov, A. V. et al. Prospects for the development of pink1 and parkin activators dopaminergic neurodegeneration by phagocytic exhaustion and oxidative toxicity. Nat.
+for the treatment of Parkinson’s disease. Pharmaceutics https://doi.org/10.3390/ Commun. 12, 6237 (2021).
+pharmaceutics14112514 (2022). 297. Castro-Sanchez, S. et al. Cx3cr1-deficiency exacerbates α-synuclein-A53T induced
+263. Brahmachari, S. et al. c-Abl and Parkinson’s disease: mechanisms and therapeutic neuroinflammation and neurodegeneration in a mouse model of Parkinson’s disease.
+potential. J. Parkinsons Dis. 7, 589–601 (2017). Glia 66, 1752–1762 (2018).
+264. Hebron, M. L., Lonskaya, I. & Moussa, C. E. Nilotinib reverses loss of dopamine neurons 298. Duffy, M. F. et al. Lewy body-like α-synuclein inclusions trigger reactive microgliosis prior
+and improves motor behavior via autophagic degradation of α-synuclein in Parkinson’s to nigral degeneration. J. Neuroinflammation 15, 129 (2018).
+disease models. Hum. Mol. Genet. 22, 3315–3328 (2013). 299. Rauschenberger, L. et al. Age-dependent neurodegeneration and neuroinflammation in
+265. Imam, S. Z. et al. Novel regulation of parkin function through c-Abl-mediated tyrosine a genetic A30P/A53T double-mutated α-synuclein mouse model of Parkinson’s disease.
+phosphorylation: implications for Parkinson’s disease. J. Neurosci. 31, 157–163 (2011). Neurobiol. Dis. 171, 105798 (2022).
+266. Pagan, F. L. et al. Nilotinib effects on safety, tolerability, and potential biomarkers in 300. Yun, S. P. et al. Block of A1 astrocyte conversion by microglia is neuroprotective in
+parkinson disease: a phase 2 randomized clinical trial. JAMA Neurol. 77, 309–317 models of Parkinson’s disease. Nat. Med. 24, 931–938 (2018).
+(2020). 301. McGeer, P. L., Itagaki, S., Boyes, B. E. & McGeer, E. G. Reactive microglia are positive for
+267. Simuni, T. et al. Efficacy of nilotinib in patients with moderately advanced parkinson HLA-DR in the substantia nigra of Parkinson’s and Alzheimer’s disease brains. Neurology
+disease: a randomized clinical trial. JAMA Neurol. 78, 312–320 (2021). 38, 1285–1291 (1988).
+268. Werner, M. H. & Olanow, C. W. Parkinson’s disease modification through Abl kinase 302. McGeer, P. L. & McGeer, E. G. Inflammation and neurodegeneration in Parkinson’s
+inhibition: an opportunity. Mov. Disord. 37, 6–15 (2022). disease. Parkinsonism Relat. Disord. 10, S3–S7 (2004).
+269. Chandia-Cristi, A. et al. Prophylactic treatment with the c-Abl inhibitor, neurotinib, 303. Klegeris, A. et al. α-Synuclein activates stress signaling protein kinases in THP-1 cells and
+diminishes neuronal damage and the convulsive state in pilocarpine-induced mice. Cell microglia. Neurobiol. Aging 29, 739–752 (2008).
+Rep. 43, 114144 (2024). 304. Lee, S. B. et al. Identification of the amino acid sequence motif of α-synuclein responsible
+270. Lee, M. H. et al. Bi-directional regulation of AIMP2 and its splice variant on PARP-1- for macrophage activation. Biochem. Biophys. Res. Commun. 381, 39–43 (2009).
+dependent neuronal cell death; therapeutic implication for Parkinson’s disease. Acta 305. Grozdanov, V. et al. Increased immune activation by pathologic α-synuclein in
+Neuropathol. Commun. 12, 5 (2024). Parkinson’s disease. Ann. Neurol. 86, 593–606 (2019).
+271. Lee, Y. et al. Parthanatos mediates AIMP2-activated age-dependent dopaminergic 306. Heidari, A., Yazdanpanah, N. & Rezaei, N. The role of Toll-like receptors and
+neuronal loss. Nat. Neurosci. 16, 1392–1400 (2013). neuroinflammation in Parkinson’s disease. J. Neuroinflammation 19, 135 (2022).
+272. Kumar, M. et al. Defects in mitochondrial biogenesis drive mitochondrial alterations in 307. Kim, C. et al. Antagonizing neuronal toll-like receptor 2 prevents synucleinopathy by
+PARKIN-deficient human dopamine neurons. Stem Cell Rep. 15, 629–645 (2020). activating autophagy. Cell Rep. 13, 771–782 (2015).
+273. Shin, J. H. et al. PARIS (ZNF746) repression of PGC-1α contributes to neurodegeneration 308. Kim, C. et al. Immunotherapy targeting Toll-like receptor 2 alleviates neurodegeneration
+in Parkinson’s disease. Cell 144, 689–702 (2011). in models of synucleinopathy by modulating α-synuclein transmission and
+274. Stevens, D. A. et al. Parkin loss leads to PARIS-dependent declines in mitochondrial mass neuroinflammation. Mol. Neurodegener. 13, 43 (2018).
+and respiration. Proc. Natl Acad. Sci. USA 112, 11696–11701 (2015). 309. Stefanova, N. et al. Toll-like receptor 4 promotes α-synuclein clearance and survival of
+275. Jo, A. et al. PARIS farnesylation prevents neurodegeneration in models of Parkinson’s nigral dopaminergic neurons. Am. J. Pathol. 179, 954–963 (2011).
+disease. Sci. Transl. Med. 13, eaax8891 (2021). 310. Choi, Y. R. et al. Fc&RIIB mediates the inhibitory effect of aggregated α-synuclein on
+276. Kim, H. et al. S-nitrosylated PARIS leads to the sequestration of PGC-1α into insoluble microglial phagocytosis. Neurobiol. Dis. 83, 90–99 (2015).
+deposits in Parkinson’s disease model. Cells https://doi.org/10.3390/cells11223682 311. Panicker, N. et al. Fyn kinase regulates misfolded α-synuclein uptake and NLRP3
+(2022). inflammasome activation in microglia. J. Exp. Med. 216, 1411–1430 (2019).
+277. Lee, Y. et al. PINK1 primes parkin-mediated ubiquitination of PARIS in dopaminergic 312. Fan, Z. et al. Systemic activation of NLRP3 inflammasome and plasma α-synuclein levels
+neuronal survival. Cell Rep. 18, 918–932 (2017). are correlated with motor severity and progression in Parkinson’s disease.
+278. Yan, Y. Q. et al. Parkin regulates microglial NLRP3 and represses neurodegeneration in J. Neuroinflammation 17, 11 (2020).
+Parkinson’s disease. Aging Cell 22, e13834 (2023). 313. Hinkle, J. T. et al. STING mediates neurodegeneration and neuroinflammation in
+279. Gordon, R. et al. Inflammasome inhibition prevents α-synuclein pathology and nigrostriatal α-synucleinopathy. Proc. Natl Acad. Sci. USA 119, e2118819119
+dopaminergic neurodegeneration in mice. Sci. Transl. Med. 10, eaah4066 (2018). (2022).
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 46
+
+---PAGE BREAK---
+
+Review article
+314. Jiang, S. Y. et al. The cGAS–STING–YY1 axis accelerates progression of 337. McGarry, A. et al. Safety, tolerability, and efficacy of NLY01 in early untreated Parkinson’s
+neurodegeneration in a mouse model of Parkinson’s disease via LCN2-dependent disease: a randomised, double-blind, placebo-controlled trial. Lancet Neurol. 23, 37–45
+astrocyte senescence. Cell Death Differ. 30, 2280–2292 (2023). (2024).
+315. Standaert, D. G. & Childers, G. M. α-Synuclein-mediated DNA damage, STING 338. Athauda, D. et al. Post hoc analysis of the exenatide-PD trial — factors that predict
+activation, and neuroinflammation in Parkinson’s disease. Proc. Natl Acad. Sci. USA 119, response. Eur. J. Neurosci. 49, 410–421 (2019).
+e2204058119 (2022). 339. Vijiaratnam, N. et al. Exenatide once weekly over 2 years as a potential disease-modifying
+316. Sterling, J. K. et al. Interleukin-6 triggers toxic neuronal iron sequestration in response to treatment for Parkinson’s disease: protocol for a multicentre, randomised, double blind,
+pathological α-synuclein. Cell Rep. 38, 110358 (2022). parallel group, placebo controlled, phase 3 trial: the ‘Exenatide-PD3’ study. BMJ Open 11,
+317. Hoenen, C. et al. α-Synuclein proteins promote pro-inflammatory cascades in microglia: e047993 (2021).
+stronger effects of the A53T mutant. PLoS ONE 11, e0162717 (2016). 340. Berg, D. et al. Prodromal Parkinson disease subtypes — key to understanding
+318. Jiang, T. et al. P2X7 receptor is critical in α-synuclein-mediated microglial NADPH oxidase heterogeneity. Nat. Rev. Neurol. 17, 349–361 (2021).
+activation. Neurobiol. Aging 36, 2304–2318 (2015).
+319. Zhang, W. et al. Microglial PHOX and Mac-1 are essential to the enhanced dopaminergic Acknowledgements
+neurodegeneration elicited by A30P and A53T mutant α-synuclein. Glia 55, 1178–1188 This work was supported by grants from the US National Institutes of Health/National Institute
+(2007). on Aging AG085688, the JPB Foundation, Aligning Science Across Parkinson’s (020608)
+320. Lee, H. J. et al. Direct transfer of α-synuclein from neuron to astroglia causes through the Michael J. Fox Foundation for Parkinson’s Research, Farmer Family Foundation
+inflammatory responses in synucleinopathies. J. Biol. Chem. 285, 9262–9272 (2010). Parkinson’s Research Initiative, Robert J. and Claire Pasarow Foundation, Parkinson’s
+321. Braak, H., Sastre, M. & Del Tredici, K. Development of α-synuclein immunoreactive Foundation and the National Research Foundation of Korea (RS-2023-00278580). The
+astrocytes in the forebrain parallels stages of intraneuronal pathology in sporadic authors acknowledge the joint participation by the Adrienne Helis Malvin Medical Research
+Parkinson’s disease. Acta Neuropathol. 114, 231–241 (2007). Foundation and the Diana Helis Henry Research Foundation through its direct engagement
+322. Wakabayashi, K., Hayashi, S., Yoshimoto, M., Kudo, H. & Takahashi, H. NACP/α-synuclein- in the continuous active conduct of medical research in conjunction with the Johns Hopkins
+positive filamentous inclusions in astrocytes and oligodendrocytes of Parkinson’s Hospital and the Johns Hopkins University School of Medicine and the Foundation’s
+disease brains. Acta Neuropathol. 99, 14–20 (2000). Parkinson’s Disease Program M-2019 and H-2021, respectively. T.M.D. is the Leonard and
+323. Klegeris, A. et al. α-Synuclein and its disease-causing mutants induce ICAM-1 and IL-6 in Madlyn Abramson Professor in Neurodegenerative Diseases.
+human astrocytes and astrocytoma cells. FASEB J. 20, 2000–2008 (2006).
+324. Sengul, B., Dursun, E., Verkhratsky, A. & Gezen-Ak, D. Overexpression of α-synuclein Author contributions
+reorganises growth factor profile of human astrocytes. Mol. Neurobiol. 58, 184–203 H.P., T.-I.K. and T.M.D. researched data for the article and wrote the article. V.L.D. and T.M.D.
+(2021). reviewed and edited the manuscript before submission. All authors made substantial
+325. Fellner, L. et al. Toll-like receptor 4 is required for α-synuclein dependent activation of contributions to discussion of the content.
+microglia and astroglia. Glia 61, 349–360 (2013).
+326. Rannikko, E. H., Weber, S. S. & Kahle, P. J. Exogenous α-synuclein induces Toll-like Competing interests
+receptor 4 dependent inflammatory responses in astrocytes. BMC Neurosci. 16, 57 T.M.D. owns stock in Aevum Therapeutics and stock options in D&D Pharmatech, Inhibikase
+(2015). Therapeutics and Ventyx Biosciences; holds equity in D&D Pharmatech; is compensated for
+327. Angelova, P. R. et al. Ca2+ is a key factor in α-synuclein-induced neurotoxicity. J. Cell Sci. his role on the scientific advisory boards of Aevum and Ventyx; is entitled to royalties from
+129, 1792–1801 (2016). AbbVie; and is a founder and inventor of technology for Neuraly, which is now a subsidiary of
+328. Stefanova, N., Klimaschewski, L., Poewe, W., Wenning, G. K. & Reindl, M. Glial cell death D&D Pharmatech. V.L.D. owns stock options in D&D Pharmatech and Inhibikase Therapeutics;
+induced by overexpression of α-synuclein. J. Neurosci. Res. 65, 432–438 (2001). holds equity in D&D Pharmatech; and is a founder and inventor of technology for Neuraly,
+329. Gu, X. L. et al. Astrocytic expression of Parkinson’s disease-related A53T α-synuclein which is now a subsidiary of D&D Pharmatech. The other authors declare no competing
+causes neurodegeneration in mice. Mol. Brain 3, 12 (2010). interests.
+330. Liddelow, S. A. et al. Neurotoxic reactive astrocytes are induced by activated microglia.
+Nature 541, 481–487 (2017). Additional information
+331. Guttenplan, K. A. et al. Neurotoxic reactive astrocytes induce cell death via saturated Peer review information Nature Reviews Neurology thanks R. Takahashi and the other,
+lipids. Nature 599, 102–107 (2021). anonymous, reviewer(s) for their contribution to the peer review of this work.
+332. Erbil, D. et al. GLP-1’s role in neuroprotection: a systematic review. Brain Inj. 33, 734–819
+(2019). Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+333. Brauer, R. et al. Diabetes medications and risk of Parkinson’s disease: a cohort study of published maps and institutional affiliations.
+patients with diabetes. Brain 143, 3067–3076 (2020).
+334. Athauda, D. et al. Exenatide once weekly versus placebo in Parkinson’s disease: a Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this
+randomised, double-blind, placebo-controlled trial. Lancet 390, 1664–1675 (2017). article under a publishing agreement with the author(s) or other rightsholder(s); author
+335. Aviles-Olmos, I. et al. Exenatide and the treatment of patients with Parkinson’s disease. self-archiving of the accepted manuscript version of this article is solely governed by the
+J. Clin. Invest. 123, 2730–2736 (2013). terms of such publishing agreement and applicable law.
+336. Meissner, W. G. et al. Trial of lixisenatide in early Parkinson’s disease. N. Engl. J. Med. 390,
+1176–1185 (2024). © Springer Nature Limited 2024
+Nature Reviews Neurology | Volume 21 | January 2025 | 32–47 47
+
+---PAGE BREAK---
+

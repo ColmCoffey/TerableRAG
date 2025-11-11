@@ -1,0 +1,665 @@
+Chunk 1:
+VirusResearch342(2024)199336
+Contents lists available at ScienceDirect
+Virus Research
+journal homepage: www.elsevier.com/locate/virusres
+Inhibition of EV71 replication by an interferon-stimulated gene
+product L3HYPDH
+Jian Liua,b,1, Logen Liua,b,1, Shinuan Zenga,b,1, Xiaobin Mengc, Nanfeng Leic, Hai Yangc,
+Runcai Lia,b, Xin Mud,e,**, Xuemin Guoa,b,c,f,*
+aInstitute of Human Virology, Zhongshan School of Medicine, Sun Yat-Sen University, Guangzhou 510080, China
+bKey Laboratory of Tropical Disease Control (Sun Yat-Sen University), Ministry of Education, Guangzhou, Guangdong, China
+cMeizhou People’s Hospital, Meizhou 514031, China
+dSchool of Pharmaceutical Science and Technology, Tianjin University, Tianjin 300072, China
+eTianjin University and Health-Biotech United Group Joint Laboratory of Innovative Drug Development and Translational Medicine, Tianjin University, Tianjin 300072,
+China
+fGuangdong Engineering Technological Research Center of Clinical Molecular Diagnosis and Antibody Drugs, Meizhou 514031, China
+A R T I C L E I N F O A B S T R A C T
+Keywords: Enterovirus 71 (EV71) is the common causative agent of hand-foot-mouth disease (HFMD). Despite evidence in
+Interferon-stimulated gene mice model suggested that the interferon (IFN) signaling pathways play a role in defending against this virus,
+Enterovirus 71 knowledge on the IFN-mediated antiviral response is still limited. Here we identified an IFN-stimulated gene
+L3HYPDH
+(ISG) called L3HYPDH, whose expression inhibits EV71 replication. Mapping assay indicated that amino acids
+Antiviral activity
+61–120 and 295–354 are critical for its optimal antiviral activity. Mechanismly, L3HYPDH specifically inhibits
+protein translation mediated by EV71 internal ribosome entry site (IRES). Our data thus uncovered a new
+mechanism utilized by the host cell to restrict EV71 replication.
+1. Introduction the cytoplasm (Dang et al., 2014). The identified receptors for EV71
+infection include the widely expressed intracellular recepto
+
+Chunk 2:
+tical for its optimal antiviral activity. Mechanismly, L3HYPDH specifically inhibits
+protein translation mediated by EV71 internal ribosome entry site (IRES). Our data thus uncovered a new
+mechanism utilized by the host cell to restrict EV71 replication.
+1. Introduction the cytoplasm (Dang et al., 2014). The identified receptors for EV71
+infection include the widely expressed intracellular receptor SCARB2
+Hand-foot-mouth disease (HFMD) affects infants and children across (Scavenger Receptor Class B Member 2).Then, EV71 IRES initiates viral
+the Asian-Pacific region, characterized by fever, rash, and occasionally protein translation by recruiting translation machineries. The poly-
+severe neurological symptoms (Esposito and Principi, 2018). Its major proteins are processed into structural and non-structural proteins by the
+causative agent is enterovirus 71 (EV71), an enterovirus belonging to protease 2A and 3C embedded. When viral proteins accumulate, viral
+the Picornaviridae family. RNA is used as the genomic material, single protein 3CD binds to the cloverleaf structure of 5′-UTR to initiate viral
+and positive-stranded, with a length of about 7400 nt. The genomic RNA RNA replication. The newly synthesized plus-stranded RNAs in turn
+encodes only one open reading frame (ORF) flanked with a 5′-untrans- direct viral protein synthesis in large quantities. With the assembly of
+lated region (5′-UTR) and a 3′-UTR (Brown et al., 1999; Swain et al., viral RNAs and proteins into virions, the host cell lyses and progeny
+2022). The 5′-UTR contains a cloverleaf structure and an internal ribo- viruses are released for a new round of infection (Lai et al., 2020).
+some entry site (IRES), responsible for viral RNA replication and protein EV71 is capable to suppress type I interferon (IFN-I) production and
+translation, respectively (Martínez-Salas et al., 2015). The life cycle of its signaling activation (Sarry et al., 2022; Lei et al., 2010; Lei et al.,
+EV71 starts with attachment to 
+
+Chunk 3:
+ibo- viruses are released for a new round of infection (Lai et al., 2020).
+some entry site (IRES), responsible for viral RNA replication and protein EV71 is capable to suppress type I interferon (IFN-I) production and
+translation, respectively (Martínez-Salas et al., 2015). The life cycle of its signaling activation (Sarry et al., 2022; Lei et al., 2010; Lei et al.,
+EV71 starts with attachment to the host cell surface by recognition of 2011; Lu et al., 2012). Nonetheless, cells infected with EV71 can still
+specific receptors, followed by endocytosis and release of viral RNA into respond to type I IFN treatment and display an enhanced antiviral state.
+Abbreviations: EV71, enterovirus 71; HFMD, hand-foot-mouth disease; IFN, interferon; ISG, IFN-stimulated gene; IRES, internal ribosome entry site; ORF, open
+reading frame; UTR, untranslated region; CPE, cytopathic effect; MOI, multiplicity of infection; pAb, polyclonal antibody; mAb, monoclonal antibody; PRR, pattern
+recognition receptor; WT, wild type.
+* Corresponding author at: Meizhou People’s Hospital, Meizhou 514031, China.
+** Corresponding author.
+E-mail addresses: xin_mu@tju.edu.cn (X. Mu), guoxuemin@mzrmyy.com (X. Guo).
+1 These authors contributed equally to this study.
+https://doi.org/10.1016/j.virusres.2024.199336
+Received 5 December 2023; Received in revised form 7 February 2024; Accepted 9 February 2024
+Availableonline13February2024
+0168-1702/©2024TheAuthors. PublishedbyElsevierB.V.ThisisanopenaccessarticleundertheCCBY-NClicense(http://creativecommons.org/licenses/by-
+nc/4.0/).
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+For example, in vitro studies showed that some type I IFNs, including from pWSK-EV71-GFP and pNL4-3RL-HCV-FL (Zhu et al., 2012) by PCR,
+IFN-α4, IFN-α6, IFN-α14 and IFN-α16, significantly reduced cytopathic respectively. After digestion with SalI and NotI, the PCR products were
+effect (CPE) induced by EV71 infection (Yi et al., 2011). An IFN-α2b linked into the 
+
+Chunk 4:
+ u s R e s e a r c h 342(2024)199336
+For example, in vitro studies showed that some type I IFNs, including from pWSK-EV71-GFP and pNL4-3RL-HCV-FL (Zhu et al., 2012) by PCR,
+IFN-α4, IFN-α6, IFN-α14 and IFN-α16, significantly reduced cytopathic respectively. After digestion with SalI and NotI, the PCR products were
+effect (CPE) induced by EV71 infection (Yi et al., 2011). An IFN-α2b linked into the similarly digested psiCHECK2-M and resulted in psi-
+aerosol therapy has been used topically to treat HFMD (Lin et al., 2016). CHECK2-M-EV71-5′UTR and psiCHECK2-M-HCV-5′UTR. All primers
+We recently reported an IFN-induced gene TMEM106A encodes proteins used are listed in Table S1.
+to inhibit EV71 infection through restricting viral binding onto host cells
+(Guo et al., 2022). However, how IFNs suppress EV71 infection is still 2.2. Cell culture and virus preparation
+largely unknown.
+Many new interferon-stimulated genes (ISGs) were identified from 293A, 293A-SCARB2, RD, Vero, HeLa, and A549 cells were cultured
+human immune cell lines after treatment with interferon (Zhang et al., in DMEM (Gibco) supplemented with 10 % fetal bovine serum (FBS,
+2018), but many of them are unclear of the antiviral activities. Gibco). 293A-SCARB2 (Kindly provided by Dr. Liguo Zhang at IBP,
+C14orf149 was one of the newly identified ISGs (Zhang et al., 2018). CAS), originated from a 293A cell line and constitutively expresses the
+Using a fluorescent activated cell sorting-based strategy for screening, main EV71 receptor scavenger receptor class B member 2 (SCARB2). To
+we identified several ISGs with anti-EV71 efficacy (data not shown). generate the cell line constitutively expressing tagged L3HYPDH, 293A-
+C14orf149 was one of them, this gene was first identified as a gene SCARB2 cells were transfected with pcDNA4-L3HYPDH as described
+encoding a trans-3-hydroxy-L-proline dehydratase and then renamed below and selected with Zeocin (200 μg/ml). Resistant colonies were
+L3HYPDH (Visser et al., 2012). This
+
+Chunk 5:
+1 efficacy (data not shown). generate the cell line constitutively expressing tagged L3HYPDH, 293A-
+C14orf149 was one of them, this gene was first identified as a gene SCARB2 cells were transfected with pcDNA4-L3HYPDH as described
+encoding a trans-3-hydroxy-L-proline dehydratase and then renamed below and selected with Zeocin (200 μg/ml). Resistant colonies were
+L3HYPDH (Visser et al., 2012). This enzyme may function to degrade individually expanded and detected by Western blot. One positive clone
+dietary proteins that contain trans-3-hydroxy-L-proline as well as other was chosen and named 293A-SCARB2-L3HYPDH. This process was
+proteins such as collagen IV. The encoded protein can be converted to an applied to the empty vector and resulted in control cell 293A-SCARB2-
+epimerase by changing a threonine to a cysteine at a catalytic site (Visser Ctrl.
+et al., 2012). Little is known about its antiviral activity. We found that EV71-MZ (GenBank accession no. KY582572), isolated from the
+L3HYPDH possesses antiviral activity against EV71, and its mechanism throat swab of an ICU patient at Meizhou People’s Hospital in 2014
+of action was investigated with a series of biochemical and genetic (Zeng et al., 2019), was amplified by successive passages in RD cells
+assays. until apparent CPE appeared. EV71-GFP was generated by
+co-transfecting pWSK-EV71-GFP and pcDNA3.1-T7RNAP into
+2. Materials and methods 293A-SCARB2 cells as described previously (Zhang et al., 2017). Viral
+supernatants were titrated using a plague assay, aliquoted, and then
+2.1. Plasmids construction used for infection.
+pCAG-DsRed, a red fluorescent protein-expressing plasmid, has been 2.3. Transfection and infection
+described previously (Matsuda and Cepko, 2004). pWSK-EV71-GFP is an
+infectious EV71-GFP cDNA clone, with a GFP-coding sequence inserted Depending on the experiments, cells were seeded into a 24-well or 6-
+downstream of EV71 5′UTR and in frame fusion with the downstream well plate or 10 cm dish and were
+
+Chunk 6:
+AG-DsRed, a red fluorescent protein-expressing plasmid, has been 2.3. Transfection and infection
+described previously (Matsuda and Cepko, 2004). pWSK-EV71-GFP is an
+infectious EV71-GFP cDNA clone, with a GFP-coding sequence inserted Depending on the experiments, cells were seeded into a 24-well or 6-
+downstream of EV71 5′UTR and in frame fusion with the downstream well plate or 10 cm dish and were grown to approximately 80 %
+VP4, and expression of EV71-GFP is driven by a T7 promoter (Zhang confluence prior to transfection or infection. All plasmid and RNA
+et al., 2017). pcDNA3.1-T7RNP expresses T7 RNA polymerase. These transfections were carried out by using Lipofectamine TM 2000 (Life
+plasmids were kindly provided by Dr. Liguo Zhang at the Institute of Technology) according to the manufacturer’s instructions. After incu-
+Biophysics, Chinese Academy of Sciences (IBP, CAS). A siRNA targeting bation for the indicated time, cells were treated as required.
+the coding sequence of L3HYPDH from position 791 to 811 was designed Viral infection was performed by incubating cells with EV71-GFP or
+according to the recommendation of Sigma-Aldrich (https://www. EV71-MZ at a different multiplicity of infection (MOI) for 1 h, with
+sigmaaldrich.com/catalog/genes) and named shRNA-L3HYPDH. A pair shaking every 15 min, and then the unbound viruses were aspirated.
+of complementary oligonucleotides 5′-GATCCCCCAGATGAACAG Cells were washed with PBS, added fresh medium, and incubated for
+GTTGACAGAATTCAAGAGATTCTGTCAACCTGTTCATCTGTTTTTA-3′ specific time, followed by FACS assay, RT-qPCR measurement, or su-
+(sense) and 5′-AGCTTAAAAACAGATGAA CAGGTTGACAGAATCTCTT pernatant titration.
+GAATTCTGTCAACCTGTTCATCTGGGG-3′ (antisense) were synthesized
+with 5′ ends being BglII and HindIII restriction site overhangs. For each 2.4. Plaque assay
+oligonucleotide, the target sequence was sense followed by antisense
+orientations separated by a nine-nucleotide spacer. Oligonucleotides The plaque assay was performed
+
+Chunk 7:
+ su-
+(sense) and 5′-AGCTTAAAAACAGATGAA CAGGTTGACAGAATCTCTT pernatant titration.
+GAATTCTGTCAACCTGTTCATCTGGGG-3′ (antisense) were synthesized
+with 5′ ends being BglII and HindIII restriction site overhangs. For each 2.4. Plaque assay
+oligonucleotide, the target sequence was sense followed by antisense
+orientations separated by a nine-nucleotide spacer. Oligonucleotides The plaque assay was performed as described previously (Tang et al.,
+were annealed and then cloned into the BglII and HindIII sites of pSUPER. 2016). Briefly, RD cells were incubated with viral supernatants undi-
+retro.neo+gfp (Oligoengine, herein abbreviated for pSUPER-GFP) to luted or diluted in 10-fold series for 1 h. Subsequently, the supernatants
+generate pSUPER-GFP-shRNA-L3HYPDH. L3HYPDH wild type (WT) and were aspirated, and cells were covered with DMEM containing 1 %
+deletion mutants as indicated in Fig. 3 were amplified with PCR using methylcellulose (Sigma-Aldrich) and 2 % FBS. After incubation for 4
+pLPCX-C14orf149 (L3HYPDH) (Zhang et al., 2018), kindly provided by days, cells were fixed with 4 % paraformaldehyde (Sigma-Aldrich) and
+Dr. Guangxia Gao at IBP, CAS, as the template. PCR products of stained with 0.1 % crystal violet. Plaques were then quantified via visual
+L3HYPDH WT and deleted mutants were digested with BamHI & NotI scoring.
+and KpnI & XbaI, respectively, and inserted into similarly digested
+pcDNA4-To/myc-His B (Invitrogen), resulting in pcDNA4-L3HYPDH, 2.5. Fluorescent-activated cell sorting (FACS) assay
+pcDNA4-L3HYPDHΔN1, pcDNA4-L3HYPDHΔN2, pcDNA4-L3HYPD
+HΔN3, pcDNA4-L3HYPDHΔC1, pcDNA4-L3HYPDHΔC2, and To measure GFP production from EV71-GFP, 1 ×106 infected cells
+pcDNA4-L3HYPDHΔC3. psiCHECK2-M was a modified form of were collected and fixed in 4 % paraformaldehyde for 15 min. After
+psiCHECK-2 (Promega) with deletion of the HSV-TK promoter (Fig. 5 washing three times with PBS, cells were resuspended in 0.5 ml of PBS
+(A)). Inverse PCR was performed with high-fidelity DNA polymer
+
+Chunk 8:
+4-L3HYPDHΔC2, and To measure GFP production from EV71-GFP, 1 ×106 infected cells
+pcDNA4-L3HYPDHΔC3. psiCHECK2-M was a modified form of were collected and fixed in 4 % paraformaldehyde for 15 min. After
+psiCHECK-2 (Promega) with deletion of the HSV-TK promoter (Fig. 5 washing three times with PBS, cells were resuspended in 0.5 ml of PBS
+(A)). Inverse PCR was performed with high-fidelity DNA polymerase for flow cytometry (LSRFortessa, BD). To assess effects of L3HYPDH
+Phusion (ThermoFisher) and a pair of back-to-back primers to amplify knockdown by RNAi, the cells were transfected with pSUPER-GFP-
+the whole plasmid except the HSV-TK promoter sequence. PCR products shRNA-L3HYPDH or pSUPER-GFP. After incubation for the indicated
+were self-ligated and resulted in psiCHECK2-M; meanwhile, a SalI and a time, the cells were harvested and washed with PBS. GFP-positive cells
+NotI sites within the back-to-back primers were introduced into the were obtained through FACS, and then lysed for Western blot or seeded
+plasmid. EV71-5′UTR and HCV (Hepatitis C virus)-5′UTR were amplified into a 24-well plate for EV71-GFP infection or reporter plasmid
+2
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+transfection as required. manufacturer’s instructions.
+2.6. IFN stimulation 2.12. Statistical analysis
+Cells were treated with 1000 IU/ml of recombinant human IFN-α2b All the experiments involving counting or calculation were per-
+(Prospec) at different time, and then total RNAs were isolated and used formed independently at least three times and data are means ±stan-
+to measure specific mRNA abundance by RT-qPCR. dard deviation (SD). A Student’s two-tailed t-test was used for statistical
+analysis by using GraphPad Prism 6.1 (GraphPad 6 Software, San Diego,
+2.7. In vitro transcription of EV71-GFP and microscope assay of GFP CA). P <0.05 was considered statistically significant.
+pWSK-EV71-GFP was linearized XbaI and EV71-GFP RNAs were 3. Results
+transcribed using th
+
+Chunk 9:
+easure specific mRNA abundance by RT-qPCR. dard deviation (SD). A Student’s two-tailed t-test was used for statistical
+analysis by using GraphPad Prism 6.1 (GraphPad 6 Software, San Diego,
+2.7. In vitro transcription of EV71-GFP and microscope assay of GFP CA). P <0.05 was considered statistically significant.
+pWSK-EV71-GFP was linearized XbaI and EV71-GFP RNAs were 3. Results
+transcribed using the T7 RiboMax kit (Promega). After transfection into
+293A-SCARB2-L3HYPDH and 293A-SCARB2-Ctrl cells, the GFP signal 3.1. Expression of L3HYPDH inhibits EV71-GFP replication
+was observed under a fluorescence microscope (System Microscope
+BX63, Olympus) at the indicated times; total RNAs were isolated for RT- To study the activity of L3HYPDH, the recipient cell line is best to
+qPCR assay. have little or no IFN signaling in response to EV71 infection. We thus
+used HEK293A cell line as it lacks the expression of many pattern
+2.8. RNA isolation and RT-qPCR recognition receptors (PRRs) (Hornung et al., 2002). To support the
+infection, the predominant receptor SCARB2 was stably introduced into
+Total RNAs were isolated from cells using TRI Reagent (Sigma- the cells (293A-SCARB2) (Jiao et al., 2014). To check the transfection
+Aldrich) according to the manufacturer’s instructions. RT-qPCR was efficiency, we co-transfected pCAG-DsRed with L3HYPDH-expressing
+carried out as described previously (Zhou et al., 2015). Briefly, RNAs plasmids in a mass ratio of 1:3. Under this biased ratio, we assumed
+were treated with DNase using an RQ1 RNase-Free DNase Kit (Promega); that cells bearing fluorescent signals would also have L3HYPDH
+cDNAs were synthesized using PrimeScript RT reagent Kit (Takara, expressed. The transfected cells were then infected with EV71-eGFP 30 h
+Dalian) and then diluted and subjected to quantitative PCR using later. Viral replication in the DsRed-positive populations was quantified
+TransStart Green qPCR SuperMix (TransGen Biotch) in a CFX96 Touch by FACS assay of GFP at 18
+
+Chunk 10:
+signals would also have L3HYPDH
+cDNAs were synthesized using PrimeScript RT reagent Kit (Takara, expressed. The transfected cells were then infected with EV71-eGFP 30 h
+Dalian) and then diluted and subjected to quantitative PCR using later. Viral replication in the DsRed-positive populations was quantified
+TransStart Green qPCR SuperMix (TransGen Biotch) in a CFX96 Touch by FACS assay of GFP at 18 h post infection (Fig. 1(A)). Data showed that
+Real-Time PCR Detection System (Bio-Rad). Primers were shown in the GFP-positive population from empty vector-transfected cells was
+Table S1. much larger than that from L3HYPDH-expressing cells (Fig. 1(B) and
+(C)), suggesting L3HYPDH acts as an inhibitory host factor against EV71.
+2.9. Immunofluorescence assay (IFA)
+3.2. Expression of endogenous L3HYPDH suppresses EV71 replication
+Subcellular localization of L3HYPDH proteins and the attachment
+and endocytosis of EV71 virions were detected using IFA as described Next, we asked whether the endogenous L3HYPDH also inhibits
+previously (Li et al., 2017) with some modifications. Briefly, EV71 infection. We set to test its expression pattern in commonly used
+293A-SCARB2-L3HYPDH and 293A-SCARB2-Crtl were individually cell lines. The RNA levels were measured by RT-qPCR. Data showed that
+seeded onto a coverslip. Polyclonal antibody (pAb) specific to c-myc HeLa cells express the least amount of L3HPDH while other tested cells
+(Sigma-Aldrich, 1:100) and Alexa Fluor 555-labeled anti-rabbit IgG have similar expression levels (Fig. 2(A)). As is mentioned previously,
+(ThermoFisher, 1:100) were used as primary and secondary antibody, this gene was identified as an ISG in immune cell lines, we then set to test
+respectively, to localize the subcellular distribution of the tagged if its expression is also responsive to IFN treatment here. Upon exposure
+L3HYPDH proteins. Similarly, 293A-SCARB2-L3HYPDH and to IFN-α2b, the level of L3HYPDH mRNA was up-regulated and peaked
+293A-SCARB2-Crtl cells were
+
+Chunk 11:
+s primary and secondary antibody, this gene was identified as an ISG in immune cell lines, we then set to test
+respectively, to localize the subcellular distribution of the tagged if its expression is also responsive to IFN treatment here. Upon exposure
+L3HYPDH proteins. Similarly, 293A-SCARB2-L3HYPDH and to IFN-α2b, the level of L3HYPDH mRNA was up-regulated and peaked
+293A-SCARB2-Crtl cells were infected with EV71-MZ (MOI, 100) at 4 ◦C at about 18 h in 293A, 293A-SCARB2 and A549 and at about 12 h in
+for 1 h to allow viral attachment or incubated for an additional 30 min at Vero cells (Fig. 2(B)). In contrast, the mRNA level changed little in HeLa
+37 ◦C to allow viral endocytosis. The Anti-EV71 VP2 monoclonal anti- cells and even decreased a little in RD cells (Fig. 2(B)). The data also
+body (mAb) (Millipore, 1:50) and Alex flour 555-labeled anti-mouse IgG showed that SCARB2 expression in 293A cells (293A-SCARB2) does not
+(ThermoFisher, 1:100) were used as primary and secondary antibody, change L3HYPDH expression either in unstimulated state or IFN-
+respectively, to visualize EV71 virions. Nuclei were stained with DAPI stimulated state.
+(Roche). Fluorescent images of cells were captured using a Zeiss LSM780 We then tested the function of L3HYPDH using shRNA-mediated
+META confocal imaging system. gene knockdown. An shRNA specific to L3HYPDH was designed and
+transcribed from pSuper-GFP-shRNA-L3HYPDH. Its knocking down ef-
+2.10. Western blot ficiency was detected in 293A-SCARB2 cells by co-transfecting pcDNA4-
+L3HYPDH together with pSUPER-GFP-shRNA-L3HYPDH or with
+Western blot was performed as described previously (Li et al., 2017) pSUPER-GFP as a control. Western blot analysis showed that the myc-
+with some modifications. Briefly, 48 h after transfection, the cells were tagged L3HYPDH protein level decreased dramatically in the presence
+lysed with SDS-lysis buffer (30 mM SDS, 50 mM pH 6.8 Tris–HCL, 100 of shRNA-L3HYPDH (Fig. 2(C)), suggesting this shRNA is potent in
+
+
+Chunk 12:
+t was performed as described previously (Li et al., 2017) pSUPER-GFP as a control. Western blot analysis showed that the myc-
+with some modifications. Briefly, 48 h after transfection, the cells were tagged L3HYPDH protein level decreased dramatically in the presence
+lysed with SDS-lysis buffer (30 mM SDS, 50 mM pH 6.8 Tris–HCL, 100 of shRNA-L3HYPDH (Fig. 2(C)), suggesting this shRNA is potent in
+mM DTT and 20 mg/L bromophenol blue) directly and proteins were down-regulating the expression level of L3HYPDH. To determine if the
+isolated with 10 % SDS-PAGE. The membrane was probed with anti-6 × endogenous L3HYPDH could suppress EV71 replication, 293A-SCARB2
+His mAb (Abcam), anti-GAPDH pAb (Sangon), and anti-VP2 mAb cells were transfected with pSUPER-GFP-shRNA-L3HYPDH, and the
+(Millipore) followed by incubation with HRP-conjugated anti-mouse IgG GFP-positive cells were sorted by FACS, followed by a clinical isolate of
+and anti-rabbit IgG (Santa Cruz Biotechnology), respectively. Proteins EV71, EV71-MZ infection at MOI of 0.1 according to established pro-
+were visualized with ECL. tocols (Guo et al., 2022; Tan et al., 2021). RT-qPCR assay revealed that
+L3HYPDH-shRNA reduced L3HYPDH mRNA level by more than 80 %
+2.11. Luciferase activity assay (Fig. 2(D)) and increased EV71-transcribed 2C mRNA level from 1 to 1.7
+(Fig. 2(E)), indicating that the expression of endogenous L3HYPDH
+Cell lysate was prepared by using passive lysis buffer (Promega). impaired EV71 replication. Importantly, the L3HYPDH knockdown
+Firefly and renilla luciferase activities (Fluc and Rluc) were measured (Fig. 2(F)) relieved IFN-mediated EV71 replication impairment (Fig. 2
+using a Dual Luciferase Assay kit (Promega) according to the (G)), suggesting both the basal level and IFN-stimulated expression of
+3
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 1. FACS-based assay for antiviral activity of L3HYPDH against EV71-GFP replication. (A) Overview of the procedures detect
+
+Chunk 13:
+ 2(F)) relieved IFN-mediated EV71 replication impairment (Fig. 2
+using a Dual Luciferase Assay kit (Promega) according to the (G)), suggesting both the basal level and IFN-stimulated expression of
+3
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 1. FACS-based assay for antiviral activity of L3HYPDH against EV71-GFP replication. (A) Overview of the procedures detecting anti-EV71 activity of over-
+expressed L3HYPDH using FACS. (B) FACS plots of L3HYPDH inhibition of EV71-GFP in 293A-SCARB2 cells. Numerals represent percent of total cell counts. (C)
+GFP production, which was calculated by multiplying GFP and DsRed co-positive cell number by the mean value of GPF intensity. The value of the control cells
+transfected with empty vector was set as 100 %. Results are represented as means ±SD of three independent experiments. *, P <0.05.
+L3HYPDH encode antiviral activity against EV71. amino acids from position 1 to 60 only slightly weakened the antiviral
+activity. L3HYPDH ΔC1 lacking the C-terminal 60 amino acids from 295
+to 354 also weakened the antiviral activity, while further deletion did
+3.3. Determination of the amino acid sequences essential for anti-EV71 not change this impairment. These results indicate that the amino acid
+activity of L3HYPDH sequences from position 61 to 120 and those from position 295 to 354
+are both required for optimal anti-EV71 activity, and the N-terminus
+Next, we asked which domain is important for L3HYPDH antiviral plays a more important role.
+activity. We mapped its regions using the FACS-based functional assay.
+Three N-terminal and three C-terminal serial deletions of L3HYPDH are
+schematically shown in Fig. 3 according to UniProt (middle panel), 3.4. EV71 replication is suppressed in the cell line 293A-SCARB2-
+designated as ΔN1, ΔN2, ΔN3, ΔC1, ΔC2, and ΔC3. Their coding se- L3HYPDH expressing L3HYPDH constitutively
+quences were cloned in fusion with a myc-6 ×His tag at the C-terminus
+as with the wild type (
+
+Chunk 14:
+ee N-terminal and three C-terminal serial deletions of L3HYPDH are
+schematically shown in Fig. 3 according to UniProt (middle panel), 3.4. EV71 replication is suppressed in the cell line 293A-SCARB2-
+designated as ΔN1, ΔN2, ΔN3, ΔC1, ΔC2, and ΔC3. Their coding se- L3HYPDH expressing L3HYPDH constitutively
+quences were cloned in fusion with a myc-6 ×His tag at the C-terminus
+as with the wild type (WT) L3HYPDH. The resulting plasmids were A cell line stably expressing L3HYPDH (293A-SCARB2-L3HYPDH)
+individually transfected into 293A-SCARB2 cells together with pCAG- was generated to facilitate the study of its mechanism of action. They
+DsRed followed by EV71-eGFP infection as described in Fig. 1(A). were infected with EV71-eGFP at an MOI of 0.1 (Guo et al., 2022; Tan
+L3HYPDH protein expression was validated by western blotting (Fig. 3, et al., 2021). FACS assay showed that the eGFP production in
+lower panel) and virus infection was detected by eGFP measurement 293A-SCARB2-L3HYPDH decreased significantly (Fig. 4(A) and (B)).
+(Fig. 3, upper panel). FACS assay showed that L3HYPDH ΔN2 lacking Upon infection with EV71-MZ, there was significantly less viral multi-
+the amino acids from position 1 to 120 significantly impaired the anti- plication in 293A-SCARB2- L3HYPDH than in the control cells (Fig. 4
+viral activity in comparison with WT, while L3HYPDH ΔN1 lacking the (C)). VP protein expression was consistent with viral titer (Fig. 4(D)).
+4
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 2. Anti-EV71 activity of the endogenous L3HYPDH. (A) RT-qPCR assay of the endogenous L3HYPDH mRNA level in different cell lines, which was normalized to
+GAPDH mRNA level. (B) RT-qPCR assay of L3HYPDH expression with IFN-α2b (1000 IU/ml) treatment for indicated time in different cell lines. L3HYPDH mRNA
+level was normalized to that of GAPDH. The relative mRNA level from untreated cells (marked as 0 h) was set as 1. (C) Western blot of knockdown efficiency of
+sh
+
+Chunk 15:
+ay of the endogenous L3HYPDH mRNA level in different cell lines, which was normalized to
+GAPDH mRNA level. (B) RT-qPCR assay of L3HYPDH expression with IFN-α2b (1000 IU/ml) treatment for indicated time in different cell lines. L3HYPDH mRNA
+level was normalized to that of GAPDH. The relative mRNA level from untreated cells (marked as 0 h) was set as 1. (C) Western blot of knockdown efficiency of
+shRNA-L3HYPDH. 293A-SCARB2 cells were transfected with pcDNA4-L3HYPDH together with shRNA-expressing plasmid or control plasmid (Ctrl) at a ratio of 1:3.
+The GFP-positive cells were sorted and then infected with EV71, followed by RT-qPCR analyses of L3HYPDH mRNA (D) and EV71 2C mRNA (E) after depression of
+L3HYPDH expression. RT-qPCR analyses of the L3HYPDH (F) and EV71-2C (G) mRNA in 293A-SCARB2 upon depression of L3HYPDH expression by shRNA in the
+presence of IFN-α2b. 293A-SCARB2 cells were seeded into a 10 cm dish and then transfected with 5 μg of pSUPER-GFP-shRNA-L3HYPDH or pSUPER-GFP. After
+incubation for 24 h, the GFP-positive cells were isolated using FACS and divided into two parts, one treated with 1000 IU/ml of IFN-α2b, the other mock-treated with
+water as control, followed by EV71-MZ infection (MOI, 0.1). Eighteen hours post-infection, total RNAs were isolated and used for RT-qPCR measurement. The target
+mRNA level was normalized to that of GAPDH, and the relative value from the control cells was set as 1. The results are represented as mean ±SD of three in-
+dependent experiments. *, P <0.05.
+IFA showed that L3HYPDH proteins were mainly located in the cyto- endocytosis at 4 ℃, 293A-SCARB2-L3HYPDH and the control cells were
+plasm (Fig. 4(E)), consistent with its anti-EV71 action. Therefore, the incubated with EV71-MZ at MOI of 100 (Guo et al., 2022; Yang et al.,
+cell 293A-SCARB2-L3HYPDH displays remarkable anti-EV71 activity 2022) for 1 h at 4 ℃ followed by IFA with the antibody specific to EV71
+due to the ectopic expression of L3HYPDH, and thus can be exploited to 
+
+Chunk 16:
+4 ℃, 293A-SCARB2-L3HYPDH and the control cells were
+plasm (Fig. 4(E)), consistent with its anti-EV71 action. Therefore, the incubated with EV71-MZ at MOI of 100 (Guo et al., 2022; Yang et al.,
+cell 293A-SCARB2-L3HYPDH displays remarkable anti-EV71 activity 2022) for 1 h at 4 ℃ followed by IFA with the antibody specific to EV71
+due to the ectopic expression of L3HYPDH, and thus can be exploited to VP2. As shown in Fig. 5(A), a massive number of virions distributed on
+uncover the underlying antiviral mechanism. the outer surfaces of both cell lines, showing no difference in numbers,
+indicating that L3HYPDH does not interfere with EV71 attachment.
+3.5. L3HYPDH interferes with the synthesis of viral RNA and proteins After attachment at 4 ℃, the viruses were further incubated with the
+cells for an additional 30 min at 37 ℃ to complete endocytosis. IFA
+The effects of L3HYPDH on different life stages of EV71 replication showed that viruses entered both cell lines with little difference (Fig. 5
+were examined in 293A-SCARB2-L3HYPDH cells. Based on the knowl- (B)), indicating that L3HYPDH has no effect on EV71 endocytosis. In this
+edge that EV71 is only adsorbed on the cell surface and could not finish way, these results demonstrate that L3HYPDH does not impede the viral
+5
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 3. Mapping amino acid sequence required for anti-EV71 activity of L3HYPDH. Deletion mutants of L3HYPDH were schematically shown in the middle panel.
+Numbers indicate starting and ending amino acid. The plasmids expressing L3HYPDH WT or truncated mutants were individually transfected into 293A-SCARB2 cells
+together with pCAG-DsREd at a ratio of 3:1, followed by EV71-GFP infection. Same performance was done the empty vector used as a control (Ctrl). L3HYPDH WT
+proteins or deletion mutants were analyzed by Western blot with anti-6 ×His mAb (lower panel). GFP production from EV71-GFP was detected using FACS and
+calculated as describ
+
+Chunk 17:
+truncated mutants were individually transfected into 293A-SCARB2 cells
+together with pCAG-DsREd at a ratio of 3:1, followed by EV71-GFP infection. Same performance was done the empty vector used as a control (Ctrl). L3HYPDH WT
+proteins or deletion mutants were analyzed by Western blot with anti-6 ×His mAb (lower panel). GFP production from EV71-GFP was detected using FACS and
+calculated as described in Fig. 1(C). The value from control was set as 100 %. Data are represented as mean ±SD of three independent experiments. *, P <0.05.
+attachment and endocytosis. 3.6. L3HYPDH impairs the translation mediated by EV71-5′UTR
+The effects of L3HYPDH on the synthesis of viral RNA and proteins
+were investigated by monitoring changes in their levels over time. 293A- The repression of L3HYPDH on viral protein synthesis was investi-
+SCARB2-L3HYPDH and 293A-SCARB2-Ctrl cells were infected with gated using a bicistronic reporter system. As shown in Fig. 6(A),
+EV71-MZ. Total RNAs were isolated at different times post-infection and psiCHECK-2-based reporter plasmids were constructed with the HSV-TK
+the viral RNA abundance was measured by RT-qPCR. The increase in promoter deleted to generate the control (psiCHECK2-M) or replaced
+EV71 RNA levels over time in 293A-SCARB2-L3HYPDH cells was much with EV71-5′UTR or HCV-5′UTR, which contains EV71 IRES or HCV
+lower than that in the control cells (Fig. 5(C)). Due to the tight crosstalk IRES, respectively. pcDNA4-L3HYPDH or the empty vector was trans-
+between viral translation and viral RNA synthesis, we hypothesized that fected into 293A cells together with one of the three reporter plasmids at
+L3HYPDH might inhibit the synthesis of viral RNA, proteins, or both. To a ratio of 3:1, and then the luciferase activity and mRNA level were
+further confirm this assumption, EV71-GFP RNAs were transfected into measured after incubation for 48 h. For these reporters, the mRNA level
+293A-SCARB2-L3HYPDH and the control cell, and then the viral RNA ratio of
+
+Chunk 18:
+r with one of the three reporter plasmids at
+L3HYPDH might inhibit the synthesis of viral RNA, proteins, or both. To a ratio of 3:1, and then the luciferase activity and mRNA level were
+further confirm this assumption, EV71-GFP RNAs were transfected into measured after incubation for 48 h. For these reporters, the mRNA level
+293A-SCARB2-L3HYPDH and the control cell, and then the viral RNA ratio of Fluc/Rluc in L3HYPDH-overexpressed cells was equal to that in
+and GFP proteins were measured and compared at different times after the empty vector-transfected cells as revealed by RT-qPCR (Fig. 6(B)).
+transfection. Microscope and RT-qPCR analyses showed that both the However, the luciferase activity ratio (Fluc/Rluc) showed variability
+number of GFP-positive cells and the viral RNA level were much lower in (Fig. 6(C)). Whether L3HYPDH was over-expressed or not, the Fluc/Rluc
+293A-SCARB2-L3HYPDH cells than in the control cells (Fig. 5(D), (E)). ratio of the control reporter was extremely low due to the absence of
+These results suggested that L3HYPDH suppresses either EV71 RNA IRES; the ratio of the EV71-5′UTR-containing reporter reduced by 29 %
+replication, viral protein synthesis, or both. upon overexpression of L3HYPDH; while the ratio of the HCV-5′UTR-
+containing reporter changed little. We here proposed that L3HYPDH
+could specifically inhibit the reporter translation mediated by EV71
+IRES. The knockdown assay further provided evidence for this
+6
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 4. Evaluating antiviral activity of 293A-SCARB2- L3HYPDH cells. 293A-SCARB2-L3HYPDH and the control cell 293A-SCARB2-Ctrl were infected with EV71-
+GFP (MOI, 0.1). GFP production was detected using FACS (A) and calculated (B). Data are represented as mean ±SD of three independent experiments. *, P <
+0.05. (C) Time-viral yield assay. 293A-SCARB2-L3HYPDH and the control cell were individually infected with EV71-MZ (MOI at 2 based on established protoco
+
+Chunk 19:
+PDH cells. 293A-SCARB2-L3HYPDH and the control cell 293A-SCARB2-Ctrl were infected with EV71-
+GFP (MOI, 0.1). GFP production was detected using FACS (A) and calculated (B). Data are represented as mean ±SD of three independent experiments. *, P <
+0.05. (C) Time-viral yield assay. 293A-SCARB2-L3HYPDH and the control cell were individually infected with EV71-MZ (MOI at 2 based on established protocols Lin
+and Huang, 2020). The culture supernatants were harvested at different time points as indicated and titrated by plaque assay. Data for each time point are means ±
+SD of three independent experiments, *, P <0.05. (D) Detection of viral proteins by Western blotting. (E) Subcellular localization of tagged L3HYPDH proteins using
+IFA. Nuclear DNA was stained with DAPI.
+speculation. 293A-SCARB2-L3HYPDH cells were transfected with the 4. Discussion
+GFP-encoded L3HYPDH-shRNA-expressing plasmid or the empty vector.
+Then the GFP-positive cells were isolated and transfected with the re- In this work, we report that the ISG product L3HYPDH has antiviral
+porter plasmids. Compared to the control cells, the Fluc/Rluc ratio of the activity against EV71 according to knockdown and over-expression ex-
+EV71-5′UTR-containing reporter in 293A-SCARB2-L3HYPDH cells periments. Over-expression of L3HYPDH repressed eGFP production of
+increased upon L3HYPDH knockdown (Fig. 6(D)). Altogether, these EV71-eGFP (Fig. 1(B)) and caused significant inhibition of propagation
+results indicate that L3HYPDH can specifically impair the translation of the clinical isolate EV71-MZ (Fig. 4(B)). Importantly, endogenous
+initiated by EV71-5′UTR. L3HYPDH is active in down-regulating EV71 mRNA in 293A-SCARB2
+cells (Fig. 2(E)). Additionally, our data showed that IFN-α2b treatment
+7
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 5. Stage assays for unveiling the mechanism of L3HYPDH against EV71. Effect of L3HYPDH on attachment (A) and endocytosis (B) of EV71 was examined using
+IFA. 
+
+Chunk 20:
+s
+initiated by EV71-5′UTR. L3HYPDH is active in down-regulating EV71 mRNA in 293A-SCARB2
+cells (Fig. 2(E)). Additionally, our data showed that IFN-α2b treatment
+7
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 5. Stage assays for unveiling the mechanism of L3HYPDH against EV71. Effect of L3HYPDH on attachment (A) and endocytosis (B) of EV71 was examined using
+IFA. 293A-SCRB2-L3HYPDH and 293A-SCARB2-Ctrl cells were infected with EV71-MZ (MOI, 100). Nuclei were stained with DAPI. (C) Effect of L3HYPDH on viral
+RNA measured with RT-qPCR. 293A-SCARB2-L3HYPDH and control cell (Ctrl) were infected with EV71-MZ (MOI at 2 Lin and Huang, 2020). EV71 2C mRNA level
+was measured at indicated times and normalized to that of GAPDH, with the relative level in control cell at 2 h post infection set as 1. EV71-GFP RNAs were
+transfected into 293A-SCARB2-L3HYPDH and control cell (Ctrl). GFP signal and EV71 2C RNA level at different times post transfection were examined by fluorescent
+microscope (D) and RT-qPCR (E), respectively. Quantitative analysis of three independent imaging tests was shown on the right. All the RT-qPCR data are represented
+as means ±SD of three independent experiments. ns, not significant. *, P <0.05. ****, P <0.0001.
+8
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Fig. 6. Bicistronic reporter assay to measure the effect of L3HYPDH on EV71 IRES mediated translation. (A) Schematic of bicistronic reporters. Rluc is translated in a
+cap-dependent manner and Fluc in an IRES-dependent manner. pcDNA4-L3HYPDH or empty vector was transfected into 293A cells together with psiCHECK2-M,
+psiCHECK2-EV71-5′UTR, or psiCHECK2-HCV-5′UTR. Effects of L3HYPDH on the reporter expression were estimated by RT-qPCR (B) and luciferase activity assay
+(C). Fluc/Rluc ratio was calculated, with the relative value from the cells transfected with empty vectors was set as 1. (D) RNAi assay of effect of L3HYPDH on
+reporter expression m
+
+Chunk 21:
+ vector was transfected into 293A cells together with psiCHECK2-M,
+psiCHECK2-EV71-5′UTR, or psiCHECK2-HCV-5′UTR. Effects of L3HYPDH on the reporter expression were estimated by RT-qPCR (B) and luciferase activity assay
+(C). Fluc/Rluc ratio was calculated, with the relative value from the cells transfected with empty vectors was set as 1. (D) RNAi assay of effect of L3HYPDH on
+reporter expression mediated by IRES. pSUPER-GFP-shRNA-L3HYPDH or pSUPER-GFP was transfected into 293A-SCARB2-L3HYPDH cell. The GFP positive cells
+were transfected with psiCHECK2-M or psiCHECK2-M-EV71-5′UTR. Luciferase activity was measured, with Fluc/Rluc ratio from cells co-transfected with psiCHECK2-
+M and pSUPER-GFP set as 1. Transfection with pcDNA4 was used as a control (Ctrl). Luciferase activities were measured. Fluc/Rluc ratio was calculated, with the
+relative value from the cells transfected with the empty vector set as 1. Data are means ±SD of three independent experiments. *, P <0.05.
+was less effective against EV71 in cell culture when expression of Neither viral nor host proteins were identified (data not shown). These
+L3HYPDH was depressed by shRNA (Fig. 2(F), (G)). Therefore, results suggest that the association of L3HYPDH proteins with other
+L3HYPDH contributes to the antiviral activity of IFN-α2b against EV71. proteins should be transient or weak. L3HYPDH might also function by
+The potential activity of L3HYPDH against other viruses is not known. binding to the viral RNA directly; however, no known RNA-binding
+Given that different viruses are usually targeted by unique sets of ISGs domains were predicted with online software (data not shown).
+(Schoggins and Rice, 2011), an extensive investigation on L3HYPDH Viral translation is in most cases host cell dependent. To maximize
+will help to further elucidate the mechanism of IFN-mediated innate efficiency, different viruses evolved many strategies to facilitate selec-
+immunity against invading viruses. tive translation of viral mR
+
+Chunk 22:
+mains were predicted with online software (data not shown).
+(Schoggins and Rice, 2011), an extensive investigation on L3HYPDH Viral translation is in most cases host cell dependent. To maximize
+will help to further elucidate the mechanism of IFN-mediated innate efficiency, different viruses evolved many strategies to facilitate selec-
+immunity against invading viruses. tive translation of viral mRNAs over host transcripts (Swain et al., 2022;
+Our data show that L3HYPDH may interfere with EV71 replication at Lin et al., 2009). Among these, the IRES-mediated translation initiation
+post-entry stage (Fig. 4). Bicistronic reporter assays confirmed that is necessary for picornavirus and hepacivirus to replicate (Martí-
+expression of L3HYPDH inhibited translation initiated by EV71 IRES nez-Salas et al., 2015; Honda et al., 1996). Reporter assays showed that
+(Fig. 6(B)), however, the reporter protein was less reduced than EV71 expression of L3HYPDH impaired initiation of translation mediated by
+RNA and virus-carrying eGFP production during the first round of EV71 IRES but not HCV IRES (Fig. 6(B), (C)). These two tested IRES
+infection (Figs. 1(B), 4(A), 5(C)–(E)). These inconsistences suggest that differ in nucleotide length and structure as well as in host factors
+L3HYPDH hampers EV71 replication at other steps as well. Although required for translation initiation and regulation (Martinez-Salas et al.,
+inhibition of viral RNA replication is likely, other potential effects on 2018). A potential target of L3HYPDH should be involved in
+viral RNA stability, viral assembly and viral release cannot be excluded. EV71-5′UTR-mediated translation. Meanwhile, despite being present in
+Therefore, L3HYPDH inhibits EV71 replication at least at two levels, and all picornaviruses, IRES is also diverse in length and structure and re-
+these data agree with previous studies indicating that many ISGs block quires different host factors to function (Andreev et al., 2007; Francis-
+viral replicati
+
+Chunk 23:
+ease cannot be excluded. EV71-5′UTR-mediated translation. Meanwhile, despite being present in
+Therefore, L3HYPDH inhibits EV71 replication at least at two levels, and all picornaviruses, IRES is also diverse in length and structure and re-
+these data agree with previous studies indicating that many ISGs block quires different host factors to function (Andreev et al., 2007; Francis-
+viral replication at multiple stages of the viral life cycle (Schoggins, co-Velilla et al., 2022). Whether L3HYPDH can inhibit other genera of
+2019). Considering that a range of proteins are involved in the viral RNA picornavirus by interfering with IRES-mediated translation is not clear is
+replication and translation process, we performed not clear, but this is worthy of study in the future.
+co-immunoprecipitation and tandem affinity purification combination L3HYPDH is a trans-3-hydroxy-L-proline dehydratase, and specif-
+mass spectrometry to screen for proteins interacting with L3HYPDH. ically catalyzes the dehydration of dietary trans-3-hydroxy-L-proline
+9
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+and from degradation of proteins such as collagen IV that contain it. This the online version, at doi:10.1016/j.virusres.2024.199336.
+dehydratase contains two active sites, a Cys residue at the 104 position
+and a Thr residue at the 273 position (Visser et al., 2012). Interestingly, References
+the region required for anti-EV71 activity was mainly mapped to the
+amino acid sequence from position 61 to 120 of L3HYPDH protein Andreev, D.E., Fernandez-Miragall, O., Ramajo, J., Dmitriev, S.E., Terenin, I.M.,
+Martinez-Salas, E., Shatsky, I.N., 2007. Differential factor requirement to assemble
+(Fig. 3), which contains the Cys104 active site. Whether this proline
+translation initiation complexes at the alternative start codons of foot-and-mouth
+dehydratase activity is involved in the anti-EV71 activity is not known disease virus RNA. RNA 13, 1366–1374.
+yet, but at least 
+
+Chunk 24:
+., Dmitriev, S.E., Terenin, I.M.,
+Martinez-Salas, E., Shatsky, I.N., 2007. Differential factor requirement to assemble
+(Fig. 3), which contains the Cys104 active site. Whether this proline
+translation initiation complexes at the alternative start codons of foot-and-mouth
+dehydratase activity is involved in the anti-EV71 activity is not known disease virus RNA. RNA 13, 1366–1374.
+yet, but at least an extra region from the C-terminus is required for Brown, B.A., Oberste, M.S., Alexander, J.P., Kennett, M.L., Pallansch, M.A., 1999.
+Molecular epidemiology and evolution of enterovirus 71 strains isolated from 1970
+L3HYPDH antiviral activity. As virus often develops strategies to evade
+to 1998. J. Virol. 73, 9969–9975.
+the antiviral defense, it would be very interesting to investigate whether Dang, M., Wang, X., Wang, Q., Wang, Y., Lin, J., Sun, Y., Li, X., Zhang, L., Lou, Z.,
+EV-A71 evolved to antagonize L3HYPDH in the future work. The low Wang, J., Rao, Z., 2014. Molecular mechanism of SCARB2-mediated attachment and
+uncoating of EV71. Protein Cell 5, 692–703.
+expression of L3HYPDH in 293A-SCARB2 cells through the course of
+Esposito, S., Principi, N., 2018. Hand, foot and mouth disease: current knowledge on
+infection (data not shown) could be explained by the inability of IFN clinical manifestations, epidemiology, aetiology and prevention. Eur. J. Clin.
+induction. The fact that L3HYPDH was not induced by IFN treatment in Microbiol. Infect. Dis. 37, 391–398.
+RD cells (Fig. 2(B)) suggested the expression pattern of L3HYPDH Francisco-Velilla, R., Embarc-Buh, A., Abellan, S., Martinez-Salas, E., 2022. Picornavirus
+translation strategies. FEBS Open Bio 12, 1125–1141.
+against EV-A71 is cell line-specific. Guo, X., Zeng, S., Ji, X., Meng, X., Lei, N., Yang, H., Mu, X, 2022. Type I interferon-
+In sum, our current work uncovered a new anti-EV71 host factor induced TMEM106A blocks attachment of EV-A71 virus by interacting with the
+whose expression is up-regulated by IFN-I treatmen
+
+Chunk 25:
+ez-Salas, E., 2022. Picornavirus
+translation strategies. FEBS Open Bio 12, 1125–1141.
+against EV-A71 is cell line-specific. Guo, X., Zeng, S., Ji, X., Meng, X., Lei, N., Yang, H., Mu, X, 2022. Type I interferon-
+In sum, our current work uncovered a new anti-EV71 host factor induced TMEM106A blocks attachment of EV-A71 virus by interacting with the
+whose expression is up-regulated by IFN-I treatment in certain cell lines, membrane protein SCARB2. Front. Immunol. 13, 817835.
+Honda, M., Ping, L.-H, Rijnbrand, R.C.A., Amphlett, E., Clarke, B., Rowlands, D.,
+highlighting the protective role of IFN-I and ISGs upon viral infection.
+Lemon, S.M., 1996. Structural Requirements for initiation of translation by internal
+Understanding ISG products and antiviral spectra, as well as their ribosome entry within genome-length hepatitis C virus RNA. Virology 222, 31–42.
+mechanisms of action and biological function will help create novel Hornung, V., Rothenfusser, S., Britsch, S., Krug, A., Jahrsdo¨rfer, B., Giese, T., Endres, S.,
+Hartmann, G., 2002. Quantitative expression of toll-like receptor 1–10 mRNA in
+therapeutics for HFMD in the future.
+cellular subsets of human peripheral blood mononuclear cells and sensitivity to CpG
+oligodeoxynucleotides. J. Immunol. 168, 4531–4537.
+Funding Jiao, X.-Y., Guo, L., Huang, D.-Y, Chang, X.-L., Qiu, Q.-C., 2014. Distribution of EV71
+receptors SCARB2 and PSGL-1 in human tissues. Virus Res. 190, 40–52.
+Lai, M.-C., Chen, H.-H., Xu, P., Wang, R.Y.L., 2020. Translation control of enterovirus
+This work was supported by the grants to X.G from the Natural A71 gene expression. J. Biomed. Sci. 27, 22.
+Science Foundation of Guangdong Province (2019A1515012133), the Lei, X., Liu, X., Ma, Y., Sun, Z., Yang, Y., Jin, Q., He, B., Wang, J, 2010. The 3C protein of
+enterovirus 71 inhibits retinoid acid-inducible gene I-mediated interferon regulatory
+Science and Technology Program of Meizhou (2019B0202001,
+factor 3 activation and type I interferon responses. J. Vir
+
+Chunk 26:
+ne expression. J. Biomed. Sci. 27, 22.
+Science Foundation of Guangdong Province (2019A1515012133), the Lei, X., Liu, X., Ma, Y., Sun, Z., Yang, Y., Jin, Q., He, B., Wang, J, 2010. The 3C protein of
+enterovirus 71 inhibits retinoid acid-inducible gene I-mediated interferon regulatory
+Science and Technology Program of Meizhou (2019B0202001,
+factor 3 activation and type I interferon responses. J. Virol. 84, 8051–8061.
+2019B001), Key Scientific and Technological Project of Meizhou Peo- Lei, X., Sun, Z., Liu, X., Jin, Q., He, B., Wang, J, 2011. Cleavage of the adaptor protein
+ple’s Hospital (PY-A2019003), Guangzhou Municipal Science and TRIF by enterovirus 71 3C inhibits antiviral responses mediated by toll-like receptor
+Technology Program (202206010114). 3. J. Virol. 85, 8811–8818.
+Li, K., Zhou, S., Guo, Q., Chen, X., Lai, D., Lun, Z., Guo, X., 2017. The eIF3 complex of
+Trypanosoma brucei : composition conservation does not imply the conservation of
+CRediT authorship contribution statement structural assembly and subunits function. RNA 23, 333–345.
+Lin, H., Huang, L., Zhou, J., Lin, K., Wang, H., Xue, X., Xia, C., 2016. Efficacy and safety
+of interferon-α2b spray in the treatment of hand, foot, and mouth disease: a
+Jian Liu: Conceptualization, Methodology, Formal analysis, Writing multicenter, randomized, double-blind trial. Arch. Virol. 161, 3073–3080.
+– review & editing. Logen Liu: Conceptualization, Methodology, Formal Lin, J.-Y., Chen, T.-C., Weng, K.-F., Chang, S.-C., Chen, L.-L, Shih, S.-R., 2009. Viral and
+analysis, Writing – review & editing. Shinuan Zeng: Conceptualization, host proteins involved in picornavirus life cycle. J. Biomed. Sci. 16, 103.
+Methodology, Formal analysis, Writing – review & editing. Xiaobin Lin, J.Y., Huang, H.I., 2020. Autophagy is induced and supports virus replication in
+enterovirus A71-infected human primary neuronal cells. Sci. Rep. 10 (1), 15234.
+Meng: Conceptualization, Methodology, Formal analysis. Nanfeng Lei: Lu, J., Yi, L., Zha
+
+Chunk 27:
+tion, host proteins involved in picornavirus life cycle. J. Biomed. Sci. 16, 103.
+Methodology, Formal analysis, Writing – review & editing. Xiaobin Lin, J.Y., Huang, H.I., 2020. Autophagy is induced and supports virus replication in
+enterovirus A71-infected human primary neuronal cells. Sci. Rep. 10 (1), 15234.
+Meng: Conceptualization, Methodology, Formal analysis. Nanfeng Lei: Lu, J., Yi, L., Zhao, J., Yu, J., Chen, Y., Lin, M.C., Kung, H.-F., He, M.-L., 2012.
+Conceptualization, Methodology, Formal analysis. Hai Yang: Concep- Enterovirus 71 disrupts interferon signaling by reducing the level of interferon
+receptor 1. J. Virol. 86, 3767–3776.
+tualization, Methodology, Formal analysis. Runcai Li: Conceptualiza-
+Martinez-Salas, E., Francisco-Velilla, R., Fernandez-Chamorro, J., Embarek, A.M., 2018.
+tion, Methodology, Formal analysis. Xin Mu: Conceptualization, Formal Insights into structural and mechanistic features of viral IRES elements. Front.
+analysis, Writing – review & editing. Xuemin Guo: Conceptualization, Microbiol. 8, 2629.
+Formal analysis, Writing – review & editing. Martínez-Salas, E., Francisco-Velilla, R., Fernandez-Chamorro, J., Lozano, G., Diaz-
+Toledano, R., 2015. Picornavirus IRES elements: RNA structure and host protein
+interactions. Virus Res. 206, 62–73.
+Declaration of competing interest Matsuda, T., Cepko, C.L., 2004. Electroporation and RNA interference in the rodent
+retina in vivo and in vitro. Proc. Natl. Acad. Sci. USA 101, 16–22.
+Sarry, M., Vitour, D., Zientara, S., Bakkali Kassimi, L., Blaise-Boisseau, S, 2022. Foot-and-
+The authors declare that they have no known competing financial mouth disease virus: molecular interplays with IFN response and the importance of
+interests or personal relationships that could have appeared to influence the model. Viruses 14, 2129.
+the work reported in this paper. Schoggins, J.W., 2019. Interferon-stimulated genes: what do they all do? Annu. Rev.
+Virol. 6, 567–584.
+Schoggins, J.W., Rice, C.M., 2011. Interfe
+
+Chunk 28:
+ey have no known competing financial mouth disease virus: molecular interplays with IFN response and the importance of
+interests or personal relationships that could have appeared to influence the model. Viruses 14, 2129.
+the work reported in this paper. Schoggins, J.W., 2019. Interferon-stimulated genes: what do they all do? Annu. Rev.
+Virol. 6, 567–584.
+Schoggins, J.W., Rice, C.M., 2011. Interferon-stimulated genes and their antiviral
+Data availability effector functions. Curr. Opin. Virol. 1, 519–525.
+Swain, S.K., Panda, S., Sahu, B.P., Sarangi, R., 2022. Activation of host cellular signaling
+and mechanism of enterovirus 71 viral proteins associated with hand, foot and
+Data will be made available on request.
+mouth disease. Viruses 14, 2190.
+Tan, Y.W., Yam, W.K., Kooi, R.J.W., Westman, J., Arbrandt, G., Chu, J.J.H., 2021. Novel
+capsid binder and PI4KIIIbeta inhibitors for EV-A71 replication inhibition. Sci. Rep.
+11 (1), 9719.
+Acknowledgments
+Tang, W.-F., Huang, R.-T., Chien, K.-Y., Huang, J.-Y., Lau, K.-S., Jheng, J.-R., Chiu, C.-H.,
+Wu, T.-Y., Chen, C.-Y., Horng, J.-T., 2016. Host MicroRNA miR-197 plays a negative
+We thank Dr. Liguo Zhang for providing the plasmids pCAG-DsRed, regulatory role in the enterovirus 71 infectious cycle by targeting the RAN protein.
+J. Virol. 90, 1424–1438.
+pWSK-EV71-GFP, pcDNA3.1-T7RNP and the cell line 293A-SCARB2. We
+Visser, W.F., Verhoeven-Duif, N.M., de Koning, T.J., 2012. Identification of a human
+also thank Dr. Guangxia Gao for providing the plasmids pLPCX- trans-3-hydroxy-l-proline dehydratase, the first characterized member of a novel
+C14orf149 and pNL4-3RL-HCV-FL. family of proline racemase-like enzymes. J. Biol. Chem. 287, 21654–21662.
+Yang, X., Chen, J., Lu, Z., Huang, S., Zhang, S., Cai, J., Zhou, Y., Cao, G., Yu, J., Qin, Z.,
+Zhao, W., Zhang, B., Zhu, L., 2022. Enterovirus A71 utilizes host cell lipid
+Supplementary materials β-oxidation to promote its replication. Front. Microbiol. 13, 961942.
+Yi, L., He, Y., Chen, Y., Ku
+
+Chunk 29:
+
+C14orf149 and pNL4-3RL-HCV-FL. family of proline racemase-like enzymes. J. Biol. Chem. 287, 21654–21662.
+Yang, X., Chen, J., Lu, Z., Huang, S., Zhang, S., Cai, J., Zhou, Y., Cao, G., Yu, J., Qin, Z.,
+Zhao, W., Zhang, B., Zhu, L., 2022. Enterovirus A71 utilizes host cell lipid
+Supplementary materials β-oxidation to promote its replication. Front. Microbiol. 13, 961942.
+Yi, L., He, Y., Chen, Y., Kung, H.-F., He, M.-L., 2011. Potent inhibition of human
+Supplementary material associated with this article can be found, in enterovirus 71 replication by type I interferon subtypes. Antivir. Ther. 16, 51–58.
+10
+
+---PAGE BREAK---
+
+J. Liu et al. V i r u s R e s e a r c h 342(2024)199336
+Zeng, S., Meng, X., Huang, Q., Lei, N., Zeng, L., Jiang, X., Guo, X., 2019. Spiramycin and Zhou, S., Chen, X., Meng, X., Zhang, G., Wang, J., Zhou, D., Guo, X., 2015. ``Roar” of
+azithromycin, safe for administration to children, exert antiviral activity against blaNDM-1 and “silence” of blaOXA-58 co-exist in Acinetobacter pittii. Sci. Rep. 5,
+enterovirus A71 in vitro and in vivo. Int. J. Antimicrob. Agents 53, 362–369. 8976.
+Zhang, X., Yang, P., Wang, N., Zhang, J., Li, J., Guo, H., Yin, X., Rao, Z., Wang, X., Zhu, Y., Wang, X., Goff, S.P., Gao, G., 2012. Translational repression precedes and is
+Zhang, L., 2017. The binding of a monoclonal antibody to the apical region of required for ZAP-mediated mRNA decay: ZAP-mediated translational repression
+SCARB2 blocks EV71 infection. Protein Cell 8, 590–600. versus mRNA decay. EMBO J. 31, 4236–4246.
+Zhang, X., Yang, W., Wang, X., Zhang, X., Tian, H., Deng, H., Zhang, L., Gao, G., 2018.
+Identification of new type I interferon-stimulated genes and investigation of their
+involvement in IFN-β activation. Protein Cell 9, 799–807.
+11
+
+---PAGE BREAK---
+
+
+
+Chunk 30:
+, Zhang, L., Gao, G., 2018.
+Identification of new type I interferon-stimulated genes and investigation of their
+involvement in IFN-β activation. Protein Cell 9, 799–807.
+11
+
+---PAGE BREAK---
+
+
+

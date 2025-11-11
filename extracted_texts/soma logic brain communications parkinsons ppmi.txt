@@ -1,0 +1,634 @@
+https://doi.org/10.1093/braincomms/fcac343 BRAIN COMMUNICATIONS 2023: Page 1 of 13 | 1
+BRAIN COMMUNICATIONS
+Identification of a possible proteomic
+biomarker in Parkinson’s disease: discovery
+and replication in blood, brain
+and cerebrospinal fluid
+Laura Winchester,1 Imelda Barber,1 Michael Lawton,2 Jessica Ash,1,† Benjamine Liu,1,‡
+Samuel Evetts,3 Lucinda Hopkins-Jones,4 Suppalak Lewis,4 Catherine Bresner,4
+Ana Belen Malpartida,5 Nigel Williams,4 Steve Gentlemen,6 Richard Wade-Martins,5
+Brent Ryan,5 Alejo Holgado-Nevado,1 Michele Hu,3 Yoav Ben-Shlomo,2 Donald Grosset7
+and Simon Lovestone1,§
+† Currently at Biogen Pharmaceuticals Inc., Cambridge, MA, USA.
+‡ Currently at TrialSpark, New York, USA.
+§ Currently at Janssen Medical UK, High Wycombe, UK.
+Biomarkers to aid diagnosis and delineate the progression of Parkinson’s disease are vital for targeting treatment in the early phases of the
+disease. Here, we aim to discover a multi-protein panel representative of Parkinson’s and make mechanistic inferences from protein ex-
+pression profiles within the broader objective of finding novel biomarkers. We used aptamer-based technology (SomaLogic®) to measure
+proteins in 1599 serum samples, 85 cerebrospinal fluid samples and 37 brain tissue samples collected from two observational longitu-
+dinal cohorts (the Oxford Parkinson’s Disease Centre and Tracking Parkinson’s) and the Parkinson’s Disease Brain Bank, respectively.
+Random forest machine learning was performed to discover new proteins related to disease status and generate multi-protein expression
+signatures with potential novel biomarkers. Differential regulation analysis and pathway analysis were performed to identify functional
+and mechanistic disease associations. The most consistent diagnostic classifier signature was tested across modalities [cerebrospinal fluid
+(area under curve)=0.74, P=0.0009; brain area under curve=0.75, P=0.006; serum area under curve=0.66, P=0.0002]. Focusing
+on serum samples and using only those with severe disease compared with controls increased the area under curve to 0.72 (P=1.0×
+10−4). In the validation data set, we showed that the same classifiers were significantly related to disease status (P<0.001).
+Differential expression analysis and weighted gene correlation network analysis highlighted key proteins and pathways with known re-
+lationships to Parkinson’s. Proteins from the complement and coagulation cascades suggest a disease relationship to immune response.
+The combined analytical approaches in a relatively large number of samples, across tissue types, with replication and validation, provide
+mechanistic insights into the disease as well as nominate a protein signature classifier that deserves further biomarker evaluation.
+1 Department of Psychiatry, University of Oxford, Oxford OX3 7JX, UK
+2 Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK
+3 Oxford Parkinson’s Disease Centre and Division of Neurology, Nuffield Department of Clinical Neurosciences, University of
+Oxford, Oxford, UK
+4 Division of Psychological Medicine and Clinical Neurosciences, MRC Centre for Neuropsychiatric Genetics and Genomics,
+Cardiff University, Cardiff, Wales, UK
+5 Oxford Parkinson’s Disease Centre, Kavli Institute for Nanoscience Discovery, Department of Physiology, Anatomy and Genetics,
+University of Oxford, Oxford, UK
+Received May 20, 2022. Revised September 27, 2022. Accepted December 27, 2022. Advance access publication December 28, 2022
+© The Author(s) 2022. Published by Oxford University Press on behalf of the Guarantors of Brain.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+
+---PAGE BREAK---
+
+2 | BRAIN COMMUNICATIONS 2023: Page 2 of 13 L. Winchester et al.
+6 Department of Brain Sciences, Imperial College London, London, UK
+7 Institute of Neuroscience and Psychology, University of Glasgow, Glasgow, UK
+Correspondence to: Laura Winchester
+Department of Psychiatry
+University of Oxford, Oxford OX3 7JX, UK
+E-mail: laura.winchester@psych.ox.ac.uk
+Keywords: Parkinson’s disease; proteomics; biomarker
+Abbreviations: AUC=area under curve; KEGG = Kyoto Encyclopedia of Genes and Genomes; LEDD=levodopa equivalent daily
+dose; MDS-UPDRS=Movement Disorder Society-unified Parkinson’s disease rating scale; ML=machine learning; MoCA=
+montreal cognitive assessment; OPDC= Oxford Parkinson’s Disease Centre; ORA=over-representation analysis; PRoBaND=
+Parkinson’s repository of biosamples and networked data sets; PUKBB=Parkinson’s United Kingdom Brain Bank; TP=Tracking
+Parkinson’s; WGCNA=weighted gene correlation network analysis
+Graphical Abstract
+Introduction candidate protein markers more urgent.6 Basso et al.7 de-
+scribed 44 proteins that supported the role of oxidative stress.
+Parkinson’s disease is a complex neurological disorder result- Subsequently, Chen-Plotkin et al.8used immunoassays of 151
+ing in disabling motor and non-motor deficits, often accom- proteins in plasma and found epidermal growth factor to be as-
+panied by cognitive impairment, as a consequence of the loss sociated with cognitive decline in Parkinson’s disease. In add-
+of dopaminergic neurons within the substantia nigra pars com- ition to targeted biomarker testing, biomarker identification
+pacta and ventral tegmental area.1Given the prevalence of over has been broadened to include unsupervised discovery ap-
+350 per 100000 people globally which increases with age,2 proaches. Chen-Plotkin used the SomaLogic® aptamer capture
+Parkinson’s disease represents a heavy burden not only to pa- technology to identify a putative Parkinson’s disease-related
+tients but to families, careers and society. It has become increas- signature, finding four new markers of Parkinson’s disease
+ingly apparent that there is a prolonged prodromal phase of that were able to differentiate Parkinson’s disease from amyo-
+Parkinson’s disease,3similar to other neurodegenerative condi- trophic lateral sclerosis patients.9 Serum neurofilament light
+tions such as Alzheimer’s disease.4A biomarker(s) for use in se- chain levels have been shown to be raised in Parkinson’s disease
+lection and stratification in clinical trials and early therapeutic compared with controls, with longitudinal data showing posi-
+intervention has become an increasingly pressing objective for tive associations with motor scores.10These results and those
+research as we seek disease-modifying therapies. In Alzheimer’s from other studies suggest that there might be a signature of
+disease, fluid biomarkers of pathological processes have been disease in peripheral fluids such as blood, with the potential
+identified in both cerebrospinal fluid (CSF) and blood and for use as a biomarker.6,11
+are increasingly used in clinical trials.5In Parkinson’s disease, We sought to build on past studies and learn from similar
+reliable biomarkers for use in clinical settings that recapitulate approaches in other neurodegenerative diseases12–14to iden-
+underlying pathophysiology are rare, making the search for tify protein-based biomarkers from peripheral fluids in
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 3 of 13 | 3
+Parkinson’s disease in larger cohorts. We used high dimen- Parkinson’s Disease Rating Scale (MDS-UPDRS) scores]
+sionality proteomics technology and slow-off-rate modified and by cognitive impairment [measured using montreal cog-
+aptamers (SOMAmer® assay, SomaLogic®) based on apta- nitive assessment (MoCA)]. Individuals with an alternative
+mer capture assays of between 1000 and 4000 proteins. diagnosis or with a clinical impression of Parkinson’s disease
+Here, we describe a dual approach to the study analysis; a probability <90% at their latest visit were excluded.
+machine-learning (ML) approach to discover a reproducible Levodopa equivalent daily dose (LEDD) was recorded at
+multi-protein signature representative of Parkinson’s disease the time of sampling. All individuals with a baseline disease
+and an in-depth analysis of proteomic function to provide duration of >3.5 years were excluded. For the initial sam-
+mechanistic disease insights. pling, using the OPDC-Serum-1K, disease-free controls
+were matched by sex and age, where age matching was with-
+in ±2.5 years. Individuals with common LRRK2 or GBA mu-
+Materials and methods
+tations were excluded. The OPDC-Serum-1K set contained
+144 samples, including 65 controls. CSF proteins were mea-
+Study design and participants sured in 85 samples. The OPDC-Serum-4K set contained
+400 cases and 172 controls, here the larger sample set incor-
+Parkinson’s disease cases and control samples for this study
+porated all available controls and mutation exclusion filters
+were obtained from three cohorts: the Oxford Parkinson’s
+were not required.
+Disease Centre (OPDC) discovery cohort,15 the tracking
+Parkinson’s (TP) cohort (Parkinson’s Repository of
+Tracking Parkinson’s cohort
+Biosamples and Networked Data sets—PRoBaND)16 and
+the Parkinson’s UK Brain Bank (PUKBB).17Samples were or- The TP or PRoBaND cohort is a prospective study spanning
+ganized and tested by the Mapping Proteomics to 72 UK locations. The two sets of samples were selected from
+Parkinson’s disease-UK collaboration with a multi-stage de- this cohort. An initial set (TP-Serum-1K) and a furthermore
+sign including blood, brain and CSF samples (Fig. 1). comprehensive set (TP-Serum-4K). The TP-Serum-1K set
+contained 80 cases and was combined with the
+Oxford Parkinson’s Disease Centre OPDC-serum-1K for analysis. Age matching was within
+cohort 2.5 years. The TP-Serum-4K sample set (n=1020) includes
+a broader range of endophenotypes from the clinical mea-
+The OPDC discovery cohort was collected from 11 hospitals sures. All individuals with a baseline disease duration of
+covering a UK Thames Valley population of 2.1 M. Cases >3.5 years were excluded. Individuals with an alternative
+were selected using clinical data permitting endophenotype diagnosis or with a clinical impression of Parkinson’s disease
+analysis by the severity of the motor phenotype [both mea- probability <90% at their latest visit were excluded. In both
+sured using the Movement Disorder Society—Unified sample sets, LEDD was recorded at the time of sampling.
+Parkinson’s UK Brain Bank
+The PUKBB is part of the Multiple Sclerosis Society and the
+Parkinson’s Tissue Bank based at the Imperial College
+London. About 37 brain (anterior cingulate cortex) samples
+were used for the brain test set, all originating from the
+PUKBB cohort. Twenty-four brain samples were from
+Parkinson’s disease donors and 13 brain samples were
+from control donors. Samples were selected, which had a
+post-mortem interval of <26 h and RNA integrity of >6.0.
+Ethics/patient consent
+The OPDC study was undertaken with the understanding
+and written consent of each subject, with the approval of
+the National Research Ethics Service Committee South
+Central—Oxford A (Ref: 16/SC/0108); Oxford C (Ref: 15/
+Figure 1 The MAP2PD—multiple cohort study design. The SC/0117) and the Berkshire Research Ethics Committee
+two approaches were used to analyse the samples from the (Ref: 10/H0505/71). This was in compliance with national
+MAP2PD. To define a classifier, sample sets from all three cohorts
+legislation and the Declaration of Helsinki. The TP study is
+were used. Differential regulation and enrichment analysis
+carried out in accordance with the Declaration of Helsinki.
+(exploring mechanisms) were performed on serum samples only.
+Patient consent was obtained and ethics approval was
+Brain, post-mortem brain tissue; Serum, blood-derived serum
+made by the West of Scotland Ethics Committee. The
+sample.
+PUKBB is part of the Multiple Sclerosis Society and
+
+---PAGE BREAK---
+
+4 | BRAIN COMMUNICATIONS 2023: Page 4 of 13 L. Winchester et al.
+Parkinson’s Tissue Bank at the Imperial College, London. It objective was biomarker discovery, protein concentrations
+has been approved as a research tissue bank by the Wales were normalized per data subset. When the final objective
+Research Ethics Committee (Ref: 08/mre09/31+5). was differential expression analysis, protein concentrations
+were normalized using a bulk strategy.
+Classifying disease severity in the
+cohorts Targeted protein analysis
+Case samples were split into ‘mild’ and ‘severe’ phenotypes, A narrative review of Parkinson’s disease biomarker studies
+defined by cognitive and motor symptoms, in order to make was conducted to select a range of diagnostic and prognostic
+inferences about changes in disease pathology during disease proteins. This resulted in a list of 50 proteins, although not
+progression. Initially, for the OPDC-Serum-1K subset, sam- all were represented in our SomaLogic® platform. Protein
+ples were selected using the bottom 15% (mild) and the top expression was log 2 transformed. Finally, a list of 25 unique
+10% (severe), with a few intermediate cases in between. For proteins (30 assays total) was taken forward for univariate
+the final phase of the analysis, an equivalent approach was de- analysis using a simple logistic regression (disease status)
+veloped to generate a severity score per patient (Supplementary or linear regression (MoCA and MDS-UPDRS III) on each
+Methods). This score was used to sort samples by being above sample subset. As this method focused on selected proteins
+or below the median. The severity score was used as a continu- to test known biomarkers, P-values are presented as inde-
+ous measure in the larger validation set. pendent results without adjustment.
+Protein measurements Classification of a biomarker
+All samples analysed in this study had protein levels mea- Biomarker method quality control
+sured using a SOMAmer®–based capture array in five The classification pipeline incorporated all the samples mea-
+batches using this evolving array (‘SOMAscan®’ assay sured during the project, using only those proteins common
+from SomaLogic®, Inc. Boulder, CO).18Over the course of to Versions 2 and 3 of the SomaLogic® platform (n=1047).
+the study, this platform was upgraded—namely, OPDC To allow the unbiased inclusion of all sample type modal-
+and brain samples were run on the Version 2 panel, which in- ities, we limited the selection to the 1047 proteins found
+cludes 1129 proteins, TP and CSF samples were run on an on the Version 2 SomaScan® array. Sample sets were split
+updated panel (Version 3), with a total of 4006 proteins in- by batch and cohort for initial quality checks before assign-
+cluding those on Version 2. Protein concentration measure- ment into testing and training groups as described in Fig. 1.
+ments were derived from relative fluorescent units, which Each data set was corrected for unwanted variation due to
+had undergone Somalogic® proprietary experimental nor- demographics by building a generalized linear model per
+malization to standardize noise between sample plates. protein and then retaining the residuals calculated by the
+model. In this case, these generalized linear models used
+Quality control and data the to-be-corrected protein level as the outcome, while the
+predictor variables were the covariates. The covariates
+pre-processing
+were cohort (Serum-1K only), participants’ LEDD at time
+Samples not meeting quality control standards defined by of sampling, date samples were tested on the SOMAscan®
+SomaLogic® (acceptance criteria concentration range 0.4– assay (OPDC-CSF only) and the date the samples were pre-
+2.5 based on experimental controls) were removed from fur- pared (Brain only). Following this correction, each data set
+ther analysis. For classifier discovery, 1129 protein assays was Z-score standardized.
+were used, which included multiple isoforms for a single pro-
+tein in some cases. For differential regulation and enrichment Discovery and classification
+analysis, 3381 assays were used, with each protein repre- We first performed a multi-stage ML discovery analysis—
+sented once. The per-cohort sample and assay pass rate sum- training and testing—to identify a multi-protein signature
+mary is included in Supplementary Table 1. Potential of disease using a case–control design. In the OPDC-serum
+experimental confounders for these cohorts were checked data set (training), we ranked all proteins using simulated an-
+for significant effects (e.g. assay plate, location, submission nealing as implemented in the R package ‘caret’ (version
+box, cohort and submission batch year). Principal compo- 6.0.77).19This iterative algorithm starts with a random se-
+nent analysis was used to understand underlying variation lection of proteins, then randomly perturbs the selection
+and where confounders were related to principal compo- and keeps the new list of proteins only if it is better at dis-
+nents, a further step was introduced. Visual inspection was criminating cases from controls with a generalized linear
+used to assess whether any of the recorded experimental vari- model. Random perturbation is repeated iteratively until
+ables were associated with any of the first principal compo- the algorithm converges on a final list of proteins (1000 itera-
+nents, highlighting cohort and array type as confounders. tions). Proteins are then ranked according to how often they
+After this step, two different pre-processing strategies were are selected for their discriminative power. In the following
+used depending on the final objective. When the final step, using the resulting ‘N’ top-ranked proteins, a random
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 5 of 13 | 5
+forest classifier was built (R package ‘caret’) to discriminate with a matched case–control structure from the two
+between cases and controls. This was repeated with increas- longitudinal cohorts. An additional quality control step was
+ing values of N, from 1 to 200, creating a total of 200 ran- undertaken to reduce between-cohort effects. ComBat nor-
+dom forest classifiers and recording in each case the malization20 was employed to remove this structure, while
+accuracy that the classifier achieved. measuring data set structure was checked using uniform mani-
+For the testing stage, the identified protein classifiers were fold approximation and projection clustering. We performed
+assessed in three independent data sets, each representing differential regulation analysis on log transformed data using
+2
+three different tissue types, serum (Serum-1K), CSF linear models corrected for age (continuous), sex and cohort.
+(OPDC-CSF) and post-mortem brain (Brain). The classifier All generalized linear models were created using the R function
+output from the replication stage was taken as a refined pro- ‘glm’ with a linkage function of binomial for disease status
+tein panel set. and Gaussian for continuous phenotypes (e.g. MoCA and
+Classifiers were compared using the area under the re- MDS-UPDRS). For pathway enrichment analysis over-
+ceiver operator characteristic (ROC) curve, which was calcu- representation analysis (ORA) was implemented in the R li-
+lated using the function ‘predict’ as implemented in the R brary clusterProfiler21using the KEGG (Kyoto Encyclopedia
+base package ‘stats’, the ‘prediction’ and ‘performance’ func- of Genes and Genomes) and Gene Ontology databases where-
+tions as implemented in the R package ‘ROCR’ (version by proteins signatures are tested (hypergeometric) to under-
+1.0.7). The P-value associated with this area under curve stand whether a function or pathway is enriched more than
+(AUC) was calculated using 10000 random permutations would be expected by chance.
+of disease status to create a distribution of the statistic. Comprehensive co-expression analysis was performed
+Optimizing biomarker discovery methodology in a multi- using weighted gene correlation network analysis
+modal cohort is a key to finding the set of proteins that (WGCNA).22 The standard pipeline was adapted for use
+most robustly predict the outcome. Our biomarker was re- with the proteins as described by Seyfried et al.23 Briefly,
+quired to perform well in all modalities and therefore, selec- modules were capped at a minimum protein number=30,
+tion of the correct sample set for optimization was power at 2 and the block-wise adjustment step was incorpo-
+important. The three sample sets were used for a basic train- rated to reduce module noise and increase the robustness of
+ing analysis, OPDC-serum, TP-serum and CSF (OPDC). The protein selection. ORA was implemented on each module to
+strongest AUCs after training were for CSF and brain understand functionality and relevance to disease mechan-
+(Supplementary Table 2). However, the priority for this ana- ism. The eigengene value for each module was compared
+lysis was a good prediction AUC in a serum sample set. The with clinical measures using logistic regression (Parkinson’s
+serum training set selected was from a single cohort (OPDC) disease case status) and a general linear model (MoCA and
+and contained similar case–control proportions to the testing MDS-UPDRS III) to understand the relationship to disease.
+data sets (70–30%).
+Statistical analysis
+Replication of the novel multi-protein
+All data pre-processing and analysis was performed using the
+signature
+statistical coding language R (version 4.0.2), with specific
+The best multi-protein classifier, or signature, was then ex- library choices described with each method. For targeted
+plored further in the replication data set, which consisted regression analysis, a P<0.05 was applied to assess signifi-
+of serum samples from TP. Protein expression data was cance. For pathway analysis, a more conservative level was
+log transformed as a standard experimental normalization required and adjusted P-values were calculated according
+2
+strategy. The two approaches were used to convert the signa- to Benjamini–Hochberg. A 95% confidence interval (CI) is
+tures from the protein classifier to a single indicator. First, a reported for each analysis in addition to P-values.
+mean expression per sample with a Z-score transformation
+was used. Secondly, singular value decomposition was used
+to generate an eigengene representation of the signature in Results
+an approach to reduce dimensionality. The performance of
+these classifiers or signatures in CSF (total protein=142), Using an aptamer capture assay measuring over 1000 pro-
+brain (total protein=89) and serum (n=31) were assessed teins, we sought to find signatures of disease that might func-
+using association with disease status as an outcome. tion as biomarkers and provide insights into disease
+mechanisms. To do this, we utilized serum samples from
+Protein differential regulation and two cohorts, the OPDC and TP, together with CSF samples
+from the OPDC and brain samples from the PUKBB. The
+enrichment analysis
+participant characteristics from these data sets are described
+In order to explore disease mechanisms, we focused on the in Table 1. The ratio of cases to controls across samples var-
+data generated from the Version 3 SomaLogic® assay, which ied from 82 to 65%, with cases predominating. As expected,
+included 4006 protein assays. Protein expression values were there was a male predominance and the mean age for the
+log transformed. This analysis used 1599 serum samples PUKBB was from 9 to 13 years older.
+2
+
+---PAGE BREAK---
+
+6 | BRAIN COMMUNICATIONS 2023: Page 6 of 13 L. Winchester et al.
+Table 1 Demographics for a three cohort study of proteomic expression
+OPDC-Serum OPDC/TP-1K PUKBB-Brain OPDC-CSF TP-Serum
+Total samples 572 224 37 85 932
+Disease status Case (%) 400 (69.9) 159 (71) 24 (64.9) 70 (82.4) 671 (81.9)
+Control 172 (30.1) 65 (29) 13 (35.1) 15 (17.6) 148 (18.1)
+Sex (%) 326 (57) 161 (71.9) 29 (78.4) 53 (62.4) 567 (60.8)
+Male 246 (43) 63 (28.1) 8 (21.6) 32 (37.6) 365 (39.2)
+Female
+Cohort (%) OPDC (100) TP (35.7) PUKBB (100) OPDC (100) TP (100)
+OPDC (64.3)
+Mean age at sampling [SD] All 66.8 [10.4] (28.5– All 70.4 [6.5] All 78.9 [8.2] (58–91) All 65.9 [8.6] (39.7–85.1) All 66.4 [9.3] (33.5–
+(range) 90.9) (53.6–83.5) Cases 79.2 [6] (63– Cases 65.8 [8.8] (39.7–83.6) 87.4)
+Cases 68.6 [9.6] (32.2– Cases 70.4 [6.4] 90) Controls 66.1 [7.9] (55.3–85.1) Cases 66.9 [8.8]
+90.9) (53.6–83.5) Controls 78.2 [11.4] (37–85.6)
+Controls 62.4 [10.9] Controls 70.6 (58–91) Controls 62.1 [9.7]
+(28.5–88.9) [6.7] (54.7–83.4) (36.9–87.4)
+Mean LEDD dosage at time 352.9 [263.9] (0– 302.1 [197.5] (0– 403.5 [324.2] (0– 326.3 [258.3] (0–1120) 283.3 [200.6] (0–
+of sampling* [SD] 1450) 1310) 1100) 1380)
+(range)
+Mean MoCA score at All 25 [3.5] (10–30) All 24.3 [4.7] (10– - All 25.7 [3.1] (17–30) All 25.1 [4.1] (0–
+sampling [SD] (range) Cases 24.2 [3.5] (10– 30) Cases 25.3 [3.1] (17–30) 30)
+30) Cases 23.8 [5.1] Controls 27.5 [2.1] (23–30) Cases 25.3 [3.2]
+Controls 26.8 [2.7] (10–30) (13–30)
+(15–30) Controls 25.7 Controls 24.4 [7.1]
+[3.1] (16–30) (0–30)
+Mean UPDRS3 score at All 20 [15.3] (0–78) All 19.8 [18.2] (0– - All 22.9 [14.4] (0–74) All 19.7 [13.3] (0–
+sampling [SD] (range) Cases 27.8 [11.3] (4– 74) Cases 27.4 [11.6] (10–74) 70)
+78) Cases 26.8 [16.9] Controls 2.3 [2.9] (0–9) Cases 22.5 [12] (1–
+Controls 1.8 [2.9] (0– (1–74) 70)
+19) Controls 2.3 [2.9] Controls 3.6 [5.4]
+(0–13) (0–38)
+MoCA and UPDRS III score not available for brain bank samples. CSF, cerebrospinal fluid; LEDD, levodopa equivalent daily dose; OPDC, Oxford Parkinson’s Disease Centre; TP,
+tracking Parkinson’s; PUKBB, Parkinson’s UK Brain Bank; SD, standard deviation. *LEDD values for cases only.
+Comparing biomarker predictions in Defining a robust proteomic
+different sample modalities biomarker using multi-modal cohorts
+We first wanted to assess whether putative biomarkers, pre- Given the limited replication of previously identified biomar-
+viously suggested by a range of published studies, could be kers, which suggested that a known biomarker signal is de-
+replicated using our proteomic data. From a list of 50 tectable but perhaps not fully transferable between
+Parkinson’s disease-specific, neurodegenerative and cell-type modalities, we went on to generate a de novo signature of
+markers, 25 were included in assays on the SomaLogic® pa- disease from all 1004 proteins captured by the
+nel. Apolipoprotein A1 and growth hormone receptor pro- SomaLogic® data common to all three sample sources in
+tein expression were related to at least one disease this study. We applied ML approaches to first prioritize pro-
+phenotype in all the serum sample sets tested (Fig. 2). tein selection from a training set in serum (n=572) and then
+Furthermore, bone sialoprotein (IBSP) was associated with carry out testing in serum (n=227), CSF (n=45) and brain
+the MoCA phenotype in all the serum data sets. In the CSF (n=37) samples. Briefly, we used simulated annealing and
+sample set, five suggested biomarker proteins showed an as- random forest for protein selection in the training serum
+sociation with disease status (P>0.05). These included glial set (OPDC—serum), which produced 200 potential classi-
+fibrillary acidic protein (GFAP), IBSP and DJ-1. None of the fiers, each using 1–200 of the top-ranked proteins. In the
+proteins tested in brain tissue was related to the disease. next stage, we tested each classifier in all three modalities
+Interestingly, no proteins tested were significantly related to understand their performance in other tissue types: post-
+to the Parkinson’s disease phenotypes in every modality. mortem brain (PUKBB—brain), CSF tissue (OPDC—CSF)
+These results suggest that there is scope for improvement and the serum (OPDC/TP-1K). Figure 3Ashows a compari-
+of single protein biomarkers, perhaps instead as part of a son between classifiers generated on different modality test
+multi-protein panel. Therefore, the next objective was to dis- sets. The brain sample proteins had an AUC of 0.75 (P=
+cover new multi-protein combinations that could be utilized 0.006), CSF AUC was 0.74 (P=0.0009) and serum AUC
+as biomarkers. was 0.66 (P=0.0002). These classifiers used the top 31, 86
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 7 of 13 | 7
+Figure 2 Targeted biomarker protein results. A significance matrix representing the association between protein expression of known
+biomarkers and Parkinson’s disease phenotypes across the project data sets. Univariant logistic regression was used for diagnosis (disease status).
+Univariant linear regression was used for MoCA (cognition) and MDS-UPDRS (movement) scores. The direction of effect is shown by up (positive)
+and down (negative) triangles.
+and 142 ranked proteins, respectively (Table 2). Although protein list, only a single KEGG pathway was found; cyto-
+similar in AUC values, the CSF had a reduced 95% CI com- kine–cytokine receptor interaction (adjusted P=0.0002).
+pared with the brain classifier (Supplementary Fig. 1).
+Despite selecting from the same 200 proteins the serum sam- Replication of the novel protein panel
+ple set was optimal at 31 proteins. The best classifier out-
+in an independent cohort
+comes, optimized in the CSF samples, included APOE and
+GFAP (Supplementary Table 3). Enrichment analysis of the Finally, we sought to replicate the best of the classifiers using
+CSF classifier proteins detected four KEGG pathways, in- a set of serum samples (n=932) from the TP cohort that had
+cluding cytokine–cytokine receptor interaction (adjusted not been included in the prior training and testing process.
+P=0.004) as well as complement and coagulation cascades Given the similarity between the AUC (0.74 and 0.75) of
+(adjusted P=0.041). Using the smaller brain classifier the CSF and brain classifiers, we took both forward for
+
+---PAGE BREAK---
+
+8 | BRAIN COMMUNICATIONS 2023: Page 8 of 13 L. Winchester et al.
+Figure 3 Protein classifier testing showed strong potential biomarkers in both CSF and brain sample sets. (A) ROC curve for each
+of the best classifiers when testing in the sample sets (CSF AUC=0.74, P=0.0009; brain AUC=0.75, P=0.006; serum AUC=0.66, P=0.0002).
+The black line defines what to expect by chance from a classifier. From left to right, an ideal classifier would follow a line up the y-axis and then
+along the x-axis, which would have an AUC of 1. (B) Derived classifier eigengenes are significantly associated with disease status in an independent
+serum data set (CSF: β=−0.44, P=7.06×10−6; Brain: β=−0.42, P=2.61×10−5; logistic regression).
+Table 2 Filtering results of top-ranked proteins using outcomes (Fig. 3B). Both the CSF and brain classifiers
+three modalities showed higher values and were significantly associated
+with diagnosis status using both signature methods (P<
+Number of 0.001, Supplementary Tables 4 and 5), providing further
+proteins
+confirmation.
+Data set (classifiers) AUC (95% CI) P-value
+Testing classifier on three modalities to select best predictive
+proteins Understanding the effects of disease
+Serum 31 0.66 (0.59–0.74) 2.00×10−04
+Brain 86 0.75 (0.57–0.93) 0.0063 severity on biomarker discovery
+CSF 142 0.74 (0.61–0.87) 9.00×10−04
+To understand the effects of disease severity, we then com-
+Testing classifier on different disease outcomes to identify proteins
+predictive of disease severity pared the effects of the protein signature in a defined sub-
+Severe 31 0.72 (0.63–0.81) 1.0×10−4 group of patients with relatively severe and mild disease
+Intermediate 18 0.72 (0.61–0.83) 2.0×10−4 phenotypes. We tested our 200 protein classifier (as defined
+Mild 12 0.63 (0.53–0.72) 0.0063
+previously) in three serum sample subsets (severe, intermedi-
+ate and mild). These independent serum classifiers demon-
+strated good predictive performance in finding the
+further analysis. Initially, we used exploratory methods to difference between the outcome samples set as compared
+understand how the classifier proteins related to each other. with the control group (P<0.01, Table 2). The severe out-
+Focusing first on the larger protein signature, protein expres- come subgroup had an AUC of 0.72 with a selection of 31
+sion was tested between protein correlations to understand proteins. This is an improvement compared with the AUC
+the range and representation. Supplementary Fig. 2 shows of 0.66 for the complete serum disease cohort. These 31 pro-
+the clustering of the correlation values to both illustrate the teins were enriched only for the cytokine–cytokine receptor
+similarities between subgroups of proteins in the signature interaction; 12 of the proteins were in this KEGG pathway
+and to demonstrate the range of protein concentration se- (adjusted P=0.0018).
+lected to differentiate between cases and controls. In order As the strongest classifier, the severe outcome signature
+to replicate the complex signature of the disease, we con- was explored further in the independent serum replication
+verted the classifiers to a single indicator or eigengene. This set (TP). We compared both the severe signature (22 proteins
+single-value expression signature was calculated from a passing cohort-level quality control) and the mild signature
+mean per sample as well as a dimensional reduction ap- (nine proteins only) to the Parkinson’s disease phenotypes
+proach to produce an eigengene per sample. These single- to understand whether these proteins reflected disease
+value expression signatures were compared with clinical severity in an alternative data set. The MDS-UPDRS III
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 9 of 13 | 9
+and severity scores were significantly associated with both pathways, including complement, coagulation cascades
+severe (beta=−1.31, P=0.003 and beta=0.14, P=0.025) and axon guidance (Fig. 5B). Interestingly, the red module
+and mild phenotype protein signatures (beta=−1.49, P> was enriched for immune pathways in both the GO and
+0.001 and beta=−0.20, P>0.001). There were no signifi- KEGG databases (Supplementary Table 2). The green mod-
+cant associations between MoCA and either severity pheno- ule had little apparent functional relevance. Table 3 shows
+type signature (Supplementary Table 6). Although the nine details for the three significant disease-related modules.
+proteins in the mild signature did not show any pathway en- Each module has a hub protein, which has the strongest as-
+richment, they were more strongly related to the disease phe- sociation with the rest of the module. The MEturquoise
+notypes tested. module is represented by the neurogenic locus notch homo-
+logue protein 1 precursor (NOTCH1) protein, part of the
+notch signalling pathway, which is involved in vascular de-
+Differential expression of key
+velopment and angiogenesis. The 15-hydroxyprostaglandin
+proteins demonstrates a relationship
+dehydrogenase (HPDG), the hub protein for the red module
+to both known and novel Parkinson’s is part of the prostaglandin signalling pathway.
+disease mechanisms
+Having identified a possible biomarker signature from the Discussion
+1004 proteins common across the samples we used, we
+then went on to explore protein differences using the full
+Key results
+4001 proteins in samples analysed with Version 4 of the
+SomaLogic® panel. A total of 1599 serum samples were ana- We report here on a large biomarker discovery programme,
+lysed with the Version 4 array, of which 3378 proteins including both unsupervised and confirmatory analyses
+passed QC in all samples. using three different modalities (serum, CSF and brain tissue)
+We performed univariable regression to ascertain the sig- and three different cohorts with a panel of aptamer capture
+nificance of each protein individually. This was implemented protein assays, including over 1000 and 4000 proteins in dif-
+for each of the outcome variables; disease status (case versus ferent phases of the study.
+control), cognitive decline (MoCA score) and motor symp- The first analysis generated a novel signature of proteins
+toms (MDS-UPDRS III score). The greatest changes in pro- associated with Parkinson’s disease. We used an ML ap-
+tein expression were found when comparing the disease proach to identify a protein signature differentiating case
+status of the samples and this resulted in 261 differentially samples from control subjects. The resulting classifier was
+expressed proteins used for pathway analysis (Fig. 4A). In tested on two different cohorts to produce a more robust sig-
+addition, 89 proteins were associated with a motor function nature. Testing was also performed across tissue modalities
+(MDS-UPDRS III) and 13 with cognition (MoCA). Three to produce a more representative signature of disease
+proteins were associated with all phenotypes: oncostatin-M (AUC=0.66–0.75). Reproducibility was a priority for study
+(OSM); complement component 9 (C9) and carnosine dipep- design hence the inclusion of a comprehensive serum replica-
+tidase 1. tion set where the protein signature had a significant associ-
+To understand whether the changes in protein could po- ation to Parkinson’s disease status and movement
+tentially show changes in function, we performed an enrich- phenotypes (P<0.001). This final signature contained pro-
+ment analysis. Pathway analysis showed that the main teins from the cytokine–cytokine receptor interaction path-
+significantly dysregulated protein pathways of case status way as well as the complement pathway. Differential
+were the complement and coagulation cascades (P=0.009) regulation and clustering of protein expression provided fur-
+and protein digestion and absorption (P=0.015). The fat di- ther evidence for the enrichment for the complement path-
+gestion and protein absorption pathway were enriched for way in Parkinson’s disease; a key element of the innate
+dysregulated proteins associated with motor symptoms as immune response that appears to be a common feature of
+measured using the MDS-UPDRS III (P=0.001). multiple neurodegenerative diseases.24Findings are consist-
+We then used co-expression analysis with WGCNA to ent with previous work from the OPDC cohort showing
+identify modules of differential protein expression associated that the most severely affected baseline Parkinson’s disease
+with disease status within each case and a protein eigengene subtype was associated with a proinflammatory profile, com-
+to represent that module expression. The four module eigen- prising raised C-reactive protein and reduced APOEA1.25
+genes were significantly correlated to all Parkinson’s disease The AUC values reported here are modest and lower than
+phenotypes (Fig. 4B, P<0.05). The yellow module would be hoped for a simple blood-based biomarker to be
+eigengene (MEyellow) was negatively correlated with the used in clinical practice, albeit the CSF values were reason-
+tested traits. It contained only 98 proteins and had a relation- able. However, the fact that we show robust replication
+ship directly to Parkinson’s disease, oxidative phosphoryl- and replication across multiple tissue types and cohort
+ation and apoptosis pathways (P<0.05, Fig. 5A). The sources demonstrates that a blood-based signature of
+largest module (MEturquoise) was positively correlated to Parkinson’s disease is an achievable objective. Moreover,
+the traits and had 704 proteins and three key disease the fact that we identify pathways and processes known to
+
+---PAGE BREAK---
+
+10 | BRAIN COMMUNICATIONS 2023: Page 10 of 13 L. Winchester et al.
+Figure 4 Differential regulation and WGCNA summary from serum protein expression. (A) Fold change plot showing genes with
+differential regulation between Parkinson’s disease cases versus control. (B) WGCNA module eigengenes correlation comparison with
+Parkinson’s disease traits.
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 11 of 13 | 11
+Figure 5 Pathway enrichment from serum protein expression. (A) MEyellow module protein network with known Parkinson’s disease
+protein pathway focus. (B) The MEturquoise protein network includes pathways with immune function and axon guidance.
+be involved in neurodegeneration, including Parkinson’s dis- associated with both severity and motor phenotypes in the
+ease, strongly supports the contention that this signature is replication analysis. Although we do not have a clear bio-
+biologically relevant. Further work will be needed to identify marker for preclinical changes, we have been able to use
+the optimal components of this signature for use in practice this approach to understand more about the involvement
+and clinical research and technological enhancements of fu- of key proteins in disease progression. Further studies to
+ture arrays may have better predictive value. examine this signature and its constituent proteins in early
+A biomarker would have the most clinical utility if it could disease and in preclinical and prodromal Parkinson’s disease
+be used for early, ideally preclinical, identification of disease cases from longitudinal studies are warranted and will con-
+or if it could be used as a surrogate for more specific markers firm if they can be used to predict the rate of conversion to
+of disease pathology. In the related field of Alzheimer’s dis- a Parkinson’s disease clinical diagnosis.
+ease biomarkers, the availability of definitive markers of dis- There are several novel proteins described in these ana-
+ease pathology such as Positron emission tomography lyses, which are common to more than one approach.
+(PET) scans and CSF markers of both amyloid and tau path- OSM was found in the CSF classifier and also detected in
+ology have enabled such studies, e.g. PET Amyloid can be the analyses of differential regulation in relation to disease
+used as an endpoint or outcome variable for biomarker dis- status, cognitive and movement scores. The known biomar-
+covery.13,14 However, such designs are not yet possible in kers APO1A26and GFAP were present in the CSF classifier,
+Parkinson’s disease—there is no PET radioligand or CSF as- which could act as positive controls for the signature. Using
+say of alpha-synuclein to act as the equivalent anchor point. pathway enrichment approaches, we identified many
+In the absence of such in vivo markers of disease pathology, Parkinson’s disease relevant pathways. The axon guidance
+we used a design where we compared different stages of dis- pathway contains proteins related to synaptic dysfunction27
+ease using measures of motor and cognitive progression in and the complement and coagulation cascades are an im-
+the hope that a change in biomarker across people with portant pathway in innate immune responses previously
+symptomatic disease could be extrapolated to very early or identified in neurodegenerative diseases.24,28 Using co-
+prodromal disease and potentially to truly preclinical dis- expression clustering, we detected a module (MEturquoise)
+ease. Using this approach to describe the phenotypes and represented by the NOTCH1 protein, which has a reported
+building on the ML methods, we generated a serum protein Parkinson’s disease relationship as it is modulated by the
+signature tested in severe, mild and intermediate patient sub- LRRK2 protein.29HPDG, the hub protein for the red mod-
+sets. The classifiers had an increased AUC (0.72) compared ule, is part of the prostaglandin signalling pathway with a
+with the ungrouped serum samples (0.66), suggesting a stric- role in neurodegeneration.
+ter disease phenotype is better for disease prediction and
+therefore refining the proteins included in the signature.
+Limitations
+The signature for ‘severe’ disease included particular pro-
+teins related to cytokine receptor enrichment, which consti- As in any observational cohort study, there are limitations to
+tuted nearly half of the signature. These proteins were this work. We used two cohorts, one brain bank and three
+
+---PAGE BREAK---
+
+12 | BRAIN COMMUNICATIONS 2023: Page 12 of 13 L. Winchester et al.
+Table 3 WGCNA protein modules with endophenotype relationships
+Parkinson’s Severity
+disease Status UPDRS MOCA score Total Enriched KEGG
+(P-value) (P-value) (P-value) (P-value) proteins Hub proteins pathways
+MEred 0.034 0.001 0.004 0.0003 142 APEX1 DNA−(apurinic Spliceosome
+or apyrimidinic site)
+lyase (APEX1)
+MEturquoise 4.09×10−7 4.63×10−5 0.007 6.79 ×10−7 704 Neurogenic locus Complement and
+(NOTCH1) coagulation cascades, axon
+guidance
+MEyellow 0.012 0.011 0.008 0.0005 98 HPGD 15-HPDG Parkinson’s disease,
+[NAD(+)] oxidative phosphorylation,
+apoptosis
+Modules with significant correlation with all disease phenotype were selected for further analysis. The three modules described passed P-value thresholds (adjusted P<0.05) and had
+functional relevance.
+sample modalities, which, although they gave great power to associated proteins in this study and Alzheimer’s disease–as-
+detect associations, also introduced cohort and tissue noise. sociated proteins in similar studies in that disease again
+Without pathological confirmation, there is likely to be some points to commonalities and overlaps between neurodegen-
+misclassification due to cases of multiple system atrophy or eration suggesting that a precision medicine approach might
+progressive supranuclear palsy being wrongly included. This not be possible but might be a necessary route to effective
+is likely to be a low rate as clinicians were all movement dis- treatments for these devastating disorders.
+order specialists,30red flags were used to exclude participants,
+we excluded those with a probability of Parkinson’s disease<
+90% and follow-up allowed us to check for revised patient Conclusion
+diagnoses. Additionally, we use here only neurologically
+healthy controls, making the task of disease diagnosis relatively Using the largest and most comprehensive proteomics
+simple compared with the clinically diverse data sets that we Parkinson’s disease data sets, we have described a range of
+would hope a biomarker could perform in. However, despite approaches for biomarker discovery and confirmed the po-
+the spectrum bias, we were still able to distinguish disease se- tential of large-scale data analysis. We have demonstrated
+verity, which will aid in the end goal of prognostic signatures. the potential value of a multi-protein signature of novel mar-
+Using a data set, which has been built up over years has led kers for further analysis and replication in new large data sets
+to some data loss from batch control but particular restric- as these become available.
+tion came from the use of the older, lower protein number
+SomaScan® array for some samples. However, the strength Acknowledgements
+of validating a signature on a different array should not be
+overlooked and this gives a more robust final result. The authors thank the OPDC, PUKBB and Tracking
+Parkinson’s cohort participants.
+Interpretation
+Funding
+Here, we report a proteomic signature of Parkinson’s disease
+in the blood that replicates across cohorts and validates This work was supported by the Monument Trust Discovery
+across tissue types. Although of modest predictive power, Awards (J-0901 and J-1403) Awards and Tracking
+the significance and replicability of the result is encouraging Parkinson’s (J-1101 and J-1301) from Parkinson’s UK.
+in the search for biomarkers that could be used to enhance Additional funds were provided by Dementias Platform
+clinical research, specifically trials, to identify and recruit UK funded by UK Research and Innovation Medical
+well-characterized participants to clinical trials. Deep prote- Research Council [MR/L023784/1 and MR/L023784/2]
+omic analyses of over 4000 proteins identified disease path- and by funds awarded by Rosetrees Trust (M937) and
+ways, including those of neuroimmunity and other known John Black Charitable Foundation (ID A2926).
+neurodegeneration-associated functions, suggesting that tar-
+geting some of these biological processes might be of value in
+disease modification therapeutics. Indeed, these results raise Competing interests
+the possibility of selecting subgroups of people for clinical
+trials using a precision medicine approach. Interestingly, A.N.-H. reports funding support from Johnson & Johnson,
+the overlap in disease process between Parkinson’s disease– as well as salary support from Akrivia Health. S.L. is
+
+---PAGE BREAK---
+
+Identifying proteomic biomarkers in Parkinson’s disease BRAIN COMMUNICATIONS 2023: Page 13 of 13 | 13
+currently employed by Janssen Medical UK. D.G. reports 13.Simrén J, Ashton NJ, Blennow K, Zetterberg H. An update on fluid
+funding support from Parkinson’s UK, honoraria from biomarkers for neurodegenerative diseases: Recent success and chal-
+lenges ahead. Curr Opin Neurobiol. 2020;61:29-39.
+AbbVie, Bial Pharma, GE Healthcare, and Vectura plc, and
+14.Shi L, Westwood S, Baird AL, et al. Discovery and validation of
+consultancy fees from the Glasgow Memory Clinic. Other
+plasma proteomic biomarkers relating to brain amyloid burden
+authors report no conflict of interest. by SOMAscan assay. Alzheimers Dement. 2019;15(11):
+1478-1488.
+15.Szewczyk-Krolikowski K, Tomlinson P, Nithi K, et al. The influence
+of age and gender on motor and non-motor features of early
+Supplementary material
+Parkinson’s disease: Initial findings from the Oxford Parkinson
+Disease Center (OPDC) discovery cohort. Parkinsonism Relat
+Supplementary materialis available at Brain Communications Disord. 2014;20(1):99-105.
+online. 16.Malek N, Swallow DMA, Grosset KA, et al. Tracking Parkinson’s:
+Study design and baseline patient data. J Park Dis. 2015;5(4):
+947-959.
+17.Nicholas R, Nicholas E, Hannides M, Gautam V, Friede T, Koffman J.
+Data availability Influence of individual, illness and environmental factors on place of
+death among people with neurodegenerative diseases: A retrospective,
+Data are available on application to cohort owners. observational, comparative cohort study. BMJ Support Palliat Care.
+2021:bmjspcare-2021-003105. https://spcare.bmj.com/content/ear-
+ly/2022/05/06/bmjspcare-2021-003105.info
+18.Gold L, Ayers D, Bertino J, et al. Aptamer-based multiplexed prote-
+References omic technology for biomarker discovery. PLoS One. 2010;5(12):
+e15004.
+1. Bloem BR, Okun MS, Klein C. Parkinson’s disease. Lancet. 2021; 19.Kuhn M. Building predictive models in R using the caret package.
+397(10291):2284-2303. J Stat Softw. 2008;28(1):1-26.
+2. Pringsheim T, Jette N, Frolkis A, Steeves TDL. The prevalence of 20.Johnson WE, Li C, Rabinovic A. Adjusting batch effects in micro-
+Parkinson’s disease: A systematic review and meta-analysis. Mov array expression data using empirical Bayes methods.
+Disord. 2014;29(13):1583-1590. Biostatistics. 2007;8(1):118-127.
+3. Marini K, Seppi K, Tschiderer L, et al. Application of the updated 21.Yu G, Wang LG, Han Y, He QY. Clusterprofiler: An R package for
+movement disorder society criteria for prodromal Parkinson’s dis- comparing biological themes among gene clusters. OMICS J Integr
+ease to a population-based 10-year study. Mov Disord. 2021; Biol. 2012;16(5):284-287.
+36(6):1464-1466. 22.Langfelder P, Horvath S. WGCNA: An R package for weighted
+4. Scheltens P, De Strooper B, Kivipelto M, et al. Alzheimer’s disease. correlation network analysis. BMC Bioinformatics. 2008;9(1):
+Lancet. 2021;397:1577-1590. 559.
+5. Zetterberg H, Blennow K. Moving fluid biomarkers for Alzheimer’s 23. Seyfried NT, Dammer EB, Swarup V, et al. A multi-network ap-
+disease from research tools to routine clinical diagnostics. Mol proach identifies protein-specific co-expression in asymptomatic
+Neurodegener. 2021;16(1):10. and symptomatic Alzheimer’s disease. Cell Syst. 2017;4(1):
+6. Parnetti L, Gaetani L, Eusebi P, et al. CSF and blood biomarkers for 60-72.e4.
+Parkinson’s disease. Lancet Neurol. 2019;18(6):573-586. 24.Schartz ND, Tenner AJ. The good, the bad, and the opportunities of
+7. Basso M, Giraudo S, Corpillo D, Bergamasco B, Lopiano L, Fasano the complement system in neurodegenerative disease. J
+M. Proteome analysis of human substantia nigra in Parkinson’s dis- Neuroinflammation. 2020;17(1):354.
+ease. Proteomics. 2004;4(12):3943-3952. 25.Lawton M, Baig F, Toulson G, et al. Blood biomarkers with
+8. Chen-Plotkin AS, Hu WT, Siderowf A, et al. Plasma epidermal Parkinson’s disease clusters and prognosis: The Oxford discovery
+growth factor levels predict cognitive decline in Parkinson disease. cohort. Mov Disord. 2020;35(2):279-287.
+Ann Neurol. 2011;69(4):655-663. 26.Qiang JK, Wong YC, Siderowf A, et al. Plasma apolipoprotein A1 as
+9. Posavi M, Diaz-Ortiz M, Liu B, et al. Characterization of a biomarker for Parkinson disease. Ann Neurol. 2013;74(1):
+Parkinson’s disease using blood-based biomarkers: A multicohort 119-127.
+proteomic analysis. PLoS Med. 2019;16(10):e1002931. 27.Burke RE, O’Malley K. Axon degeneration in Parkinson’s disease.
+10. Mollenhauer B, Dakna M, Kruse N, et al. Validation of serum neu- Exp Neurol. 2013;246:72-83.
+rofilament light chain as a biomarker of Parkinson’s disease progres- 28. Morgan BP. Complement in the pathogenesis of Alzheimer’s dis-
+sion. Mov Disord. 2020;35(11):1999-2008. ease. Semin Immunopathol. 2018;40(1):113-124.
+11.Schulz I, Kruse N, Gera RG, et al. Systematic assessment of 10 bio- 29.Imai Y, Kobayashi Y, Inoshita T, et al. The Parkinson’s
+marker candidates focusing on α-synuclein-related disorders. Mov disease-associated protein kinase LRRK2 modulates notch signaling
+Disord. 2021;36:2874-2887. through the endosomal pathway. PLoS Genet. 2015;11(9):
+12.Ashton NJ, Leuzy A, Karikari TK, et al. The validation status of e1005503.
+blood biomarkers of amyloid and phospho-tau assessed with the 30.Hughes AJ, Daniel SE, Ben-Shlomo Y, Lees AJ. The accuracy of
+5-phase development framework for AD biomarkers. Eur J Nucl diagnosis of parkinsonian syndromes in a specialist movement dis-
+Med Mol Imaging. 2021;48:2140-2156. order service. Brain. 2002;125(4):861-870.
+
+---PAGE BREAK---
+

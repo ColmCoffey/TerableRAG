@@ -1,0 +1,531 @@
+JNK-mediated induction of cyclooxygenase 2 is
+required for neurodegeneration in a mouse model of
+Parkinson’s disease
+Ste´phaneHunot*†,MiquelVila‡,PeterTeismann‡,RogerJ.Davis§¶,EtienneC.Hirsch†,SergePrzedborski‡(cid:1),
+PaskoRakic**,andRichardA.Flavell*¶††
+*SectionofImmunobiology,¶HowardHughesMedicalInstitute,and**DepartmentofNeurobiology,YaleUniversitySchoolofMedicine,NewHaven,CT
+06520;†InstitutNationaldelaSante´etdelaRechercheMe´dicaleU289,HoˆpitaldelaSalpeˆtrie`re,75013Paris,France;Departmentsof‡Neurologyand
+(cid:1)PathologyandtheCenterforNeurobiologyandBehavior,ColumbiaUniversity,NewYork,NY10032;and§DepartmentofBiochemistryandMolecular
+Biology,UniversityofMassachusettsMedicalSchool,Worcester,MA01605
+ContributedbyRichardA.Flavell,November10,2003
+Parkinson’s disease (PD) is a neurodegenerative disorder charac- AP-1 transcription factor complex (6). A similar defect is
+terizedbylossofdopamine-containingneurons,butthemolecular observedinmicewithagerm-linemutationofthec-jungenethat
+pathwaysunderlyingitspathogenesisremainuncertain.Here,we replacedtheJNKphosphorylationsites(9).Thesedatasuggest
+showthatbyeliminatingc-JunN-terminalkinases(JNKs)wecan that efficient transcription of JNK-dependent target genes is a
+prevent neurodegeneration and improve motor function in an necessary step in progression of neuronal cell death and
+animal model of PD. First, we found that c-Jun is activated in prompted us to investigate JNK-mediated induction of delete-
+dopaminergic neurons from PD patients and in the 1-methyl-4- rious gene(s) as a part of the cascade of events leading to
+phenyl-1,2,4,6-tetrahydropyridine(MPTP)mousemodelofPD.Ex- neurodegeneration in parkinsonian syndromes.
+aminationofvariousJNK-deficientmiceshowsthatbothJNK2and
+JNK3,butnotJNK1,arerequiredforMPTP-inducedc-Junactivation MaterialsandMethods
+and dopaminergic cell demise. Furthermore, we have identified Chemicals and Antibodies. MPTP(cid:1)HCl (Sigma) was dissolved in
+cyclooxygenase(COX)2asamoleculartargetofJNKactivationand 0.9%NaCl.Thefollowingantibodieswereused:anti-phospho-
+demonstrated that COX-2 is indispensable for MPTP-induced do- c-Jun(Ser-73)(CellSignalingTechnology,Beverly,MA),c-Jun(cid:2)
+paminergic cell death. Our data revealed that JNK2- and JNK3- AP-1 (N) and inhibitor of transcription factor NF-(cid:1)B (I(cid:1)B(cid:2);
+induced COX-2 may be a principle pathway responsible for neu- SantaCruzBiotechnology),cyclooxygenase(COX)2(BDBio-
+rodegenerationinPD. sciences,SanJose,CA),COX-1(CaymanChemical,AnnArbor,
+MI), (cid:3)-tubulin (Sigma), tyrosine hydroxylase (TH; Pel-Freez
+P arkinson’s disease (PD) is a common neurodegenerative Biologicals),glialfibrillaryacidicprotein(GFAP;DAKO),and
+disordercharacterizedbyselectiveandprogressivedemiseof macrophageantigencomplex1(MAC-1;Serotec).TheNeuro-
+dopamine-containing neurons in the midbrain (1). Although Trace 500(cid:2)525 green-fluorescent Nissl stain solution was pur-
+mutated genes have been identified in some cases of inherited chased from Molecular Probes.
+PD(2),geneticorigincouldnotbefoundinmostcases,which
+occursporadically.Despiteextensiveinvestigations,thecauseof AnimalsandTreatment.Two-to3-month-oldmalemicewereused.
+PDremainsunknown(3).Undoubtedly,thedesignofeffective JNK1-, JNK2-, and JNK3-deficient mice were generated as de-
+treatmentsforPDdependslargelyonourunderstandingofthe scribed (8). C57BL(cid:2)6J, COX-2(cid:1)/(cid:1) (Ptgs2Tm1Jed), and p50(cid:1)/(cid:1)
+molecular mechanisms leading to neurodegeneration, which is (Nfkb1tm1Bal)micewerepurchasedfromTheJacksonLaboratory.
+stillincomplete.Yet,significanthintsintoPDpathogenesishave All strains were backcrossed at least six times to the C57BL(cid:2)6
+been yielded by the use of 1-methyl-4-phenyl-1,2,4,6- background.Forstudiesusingknockoutmice,WTlittermateswere
+tetrahydropyridine(MPTP),aneurotoxinthatreplicatesmostof usedascontrols.Micewereinjectedi.p.fourtimes(2-hintervals
+the neuropathological hallmarks of PD in humans, nonhuman over1day)witheither20mg(cid:2)kgMPTP(cid:1)HCloracorresponding
+primates, and other mammalian species, including mice (4). volumeofsalinealone.Attheindicatedtimepoints,animalswere
+Although the MPTP mouse model departs from human PD in killed and their brains were processed for further analysis. This
+afewimportantways,itoffersauniquemeanstoinvestigate,in protocolwasinaccordancewiththeNationalInstitutesofHealth
+vivo,moleculareventsunderlyingthedemiseofmidbraindopa- guidelines for the care and use of laboratory animals and was
+minergic neurons (4). approvedbytheYaleAnimalCareandUseCommittee.
+Severallinesofevidenceindicatethatexcitotoxicmechanisms
+couldplayaroleindopaminergicneurodegenerationinPD(5), Human Brain Postmortem Study. Autopsy brainstem tissue from
+although the molecular pathway that leads to excitotoxic- control subjects and PD patients (n (cid:2) 3 and 4, respectively),
+mediated cell death remains elusive. We found previously that whichwerewellcharacterizedclinicallyandneuropathologically,
+mice lacking the neuron-specific isoform of c-Jun N-terminal wereobtainedfromthebrainbankattheInstitutNationaldela
+kinase (JNK), JNK3, display remarkable resistance to kainic Sant´e et de la Recherche M´edicale U289. PD patients and
+acid-induced excitotoxicity (6). The JNK group of protein ki- controlsubjectsdidnotdiffersignificantlyintheirmeanageat
+nases phosphorylates the N-terminal activation domain of the
+transcription factor c-Jun, thereby regulating AP-1 complex
+transcriptional activity (7). Three genes (Jnk1, Jnk2, and Jnk3) Abbreviations:COX,cyclooxygenase;GFAP,glialfibrillaryacidicprotein;JNK,c-JunN-
+withdistinctexpressionpatternsencodetheJNKproteinkinases
+terminalkinase;MAC-1,macrophageantigencomplex1;MPP(cid:3),1-methyl-4-phenylpyri-
+diniumion;MPTP,1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine;PD,Parkinson’sdisease;
+(7). In contrast to JNK1 and JNK2, which are ubiquitously
+SN,substantianigra;SNpc,SNparscompacta;TH,tyrosinehydroxylase.
+expressed, JNK3 is largely restricted to the brain (8). In the
+††Towhomcorrespondenceshouldbeaddressedat:YaleUniversitySchoolofMedicine,
+kainicacid-inducedexcitotoxicitymodel,theprotectiveeffectof TheAnlyanCenterS-569,300CedarStreet,NewHaven,CT06520.E-mail:richard.
+JNK3 ablation in mutant animals is associated with marked flavell@yale.edu.
+reductionofc-Junphosphorylationanddecreasedactivityofthe ©2004byTheNationalAcademyofSciencesoftheUSA
+www.pnas.org(cid:2)cgi(cid:2)doi(cid:2)10.1073(cid:2)pnas.0307453101 PNAS (cid:3) January13,2004 (cid:3) vol.101 (cid:3) no.2 (cid:3) 665–670
+ECNEICSORUEN
+
+---PAGE BREAK---
+
+death(controls,78(cid:4)7years;PDpatients,75(cid:4)5years)ortheir COX-2RT-PCR.TotalRNA(2(cid:4)g),isolatedfromhippocampusby
+meanintervalfromdeathtofreezingoftissue(controls,21.4(cid:4) using TRIzol reagent, was reverse-transcribed by using Super-
+5.6h;PDpatients,18.8(cid:4)6.2h).Brainstemtissuewasfixedand Scriptreversetranscriptase(GIBCO(cid:2)BRL)inatotalvolumeof
+processed for immunohistochemistry as described (10). 25(cid:4)l.Fromthisreaction,2(cid:4)lwasusedasatemplateforPCR
+amplification with Tsg DNA polymerase (Lamda Biotech, St.
+WesternBlotAnalysis.Ventralmidbrainandstriatumwerequickly Louis).TheCOX-2cDNAwasamplifiedbyusingthefollowing
+dissectedandlysedinwhole-celllysisbuffer(0.4MNaCl(cid:2)25mM primers: 5(cid:5)-AAAACCGTGGGGAATGTATGAGC-3(cid:5) and 5(cid:5)-
+Tris(cid:1)HCl, pH 7.5(cid:2)1% SDS(cid:2)50 mM NaF(cid:2)1 mM Na VO ), plus GATGGGTGAAGTGCTGGGCAAAG-3(cid:5).ThePCRprogram
+3 4
+proteaseinhibitors(RocheDiagnostics).Proteinlysates(30(cid:4)g) consistedof25cyclesat94°Cfor20sec,60°Cfor40sec,and72°C
+were resolved on SDS(cid:2)10% PAGE gels, electrotransferred to for 40 sec.
+Immobilon-P(Millipore)membranes,andprobedwithantibod-
+iestophospho-c-Jun(1:1,000dilution),c-Jun(1:1,000dilution), ResultsandDiscussion
+(cid:3)-tubulin(1:50,000dilution),COX-2(1:250dilution),COX-1(1 c-Jun Is Activated in Dopaminergic Neurons in both PD Brains and
+(cid:4)g(cid:2)ml), or I(cid:1)B(cid:2)(1:250 dilution), followed by the appropriate MPTP-Intoxicated Mice. JNK mediates activation of c-Jun by
+horseradish peroxidase-conjugated secondary antibodies. Blots meansofthephosphorylationoftwoserineresidues(Ser-63and
+were visualized by chemiluminescence (SuperSignal; Pierce). Ser-73) located in the N-terminal domain. To test whether
+MPTP-induceddopaminergiccelldeathisassociatedwithJNK-
+Immunohistochemistry. At the indicated time points, mice were inducedc-Junactivation,wefirstevaluatedexpressionofphos-
+fixedbytranscardialperfusionof4%paraformaldehyde(cid:2)50mM phorylated c-Jun by Western blot analysis using an antibody
+NaF(cid:2)2 mM Na VO . Free-floating sections encompassing the raisedagainstc-JunphosphorylatedatSer-73.MPTPintoxica-
+3 4
+entiremidbrainandstriatumwerepreparedbyusingacryostat. tioncausesasignificantincreaseofphosphorylatedc-Juninthe
+For TH, GFAP, and MAC-1 immunostaining, tissue sections ventralmidbrain,whichcanbeobservedasearlyas5hafterthe
+wereincubatedwithprimaryantibodiesovernightat4°C.Biotin- first intoxication (Fig. 1A). It remains elevated for 1 day and
+conjugated secondary antibody incubation, avidin–biotin- returnstoitsbasallevelat7days.Inthestriatum,anincreased
+conjugated peroxidase, and 3,3(cid:5)-diaminobenzidine reactions level of phosphorylated c-Jun was observed also, albeit it ap-
+were performed as described (11). Nissl counterstaining was peared earlier (3 h postinjection) and was less sustained (data
+performedbyusingstandardprocedures.TotalnumbersofTH- notshown).ThesedataindicatethatJNK-mediatedc-Junacti-
+andNissl-positivecellswerecountedinonehemi-brainstemby vation in dopaminergic nerve terminals precedes that in sub-
+using stereological methods. For double immunofluorescent stantianigraparscompacta(SNpc)cellbodies.Relevanttothis
+staining, sections were first incubated overnight with primary interpretationisthefindingthatMPP(cid:3)(thetoxicmetaboliteof
+antibodies against phospho-c-Jun, followed by Cy3-conjugated MPTP) accumulates first in striatal dopaminergic terminals
+secondaryantibodies,andthenwitheitherNeuroTracefluores- rather than in dopaminergic soma (14). To get further insights
+cent Nissl stain for 20 min or primary antibodies against TH, intothecellularlocalizationofphosphorylatedc-Jun,weexam-
+GFAP, and MAC-1. ined its distribution by double immunofluorescent staining
+performed on mesencephalic brain sections. In saline-injected
+MeasurementofStriatalMonoamineLevels.Micewerekilled7days animals,nophospho-c-Jun-specificlabelingcouldbedetectedin
+after MPTP or saline injections, and their striata were quickly nigralneuronsidentifiedbyNisslstaining(Fig.1B,G,andL).
+dissected.StriataltissuewasthenprocessedforHPLCmeasure- In contrast, by 12 h after MPTP treatment, there was a strong
+ment of dopamine and homovanillic acid content by means of phospho-c-Junimmunoreactivityinsomenigralneurons(Fig.1
+electrochemical detection as described (11). C, H, and M). These neurons were dopaminergic, as demon-
+stratedbydoublelabelingwithanti-THantibodies(Fig.1D,I,
+Measurement of Striatal 1-Methyl-4-phenylpyridinium Ion (MPP(cid:1)) andN).Doublestainingusingantibodiesraisedagainstglialcell
+Levels.Micewerekilledat90and180minafterthelastMPTP markers(GFAPandMAC-1forastrocytesandmicroglialcells,
+injection, and their striata were recovered and processed for respectively)showedthatc-Junwasphosphorylatedexclusively
+HPLC using UV detection (295-nm wavelengh) to measure indopaminergicneurons(Fig.1E,J,andOforGFAPandF,K,
+MPP(cid:3), as described elsewhere (11). and P for MAC-1). Interestingly, there was also a dynamic
+change in the subcellular distribution of phosphorylated c-Jun.
+Rotarod Trial. TheRotarodapparatus(UgoBasile,Trieste,Italy) By 8 h, phospho-c-Jun labeling was observed exclusively in the
+consists of five rotating drums (3 cm in diameter) separated by cytosol(Fig.1HInset),whereasitwasnuclearby12h(Fig.1M
+flangesthatenablefivemicetoberecordedsimultaneously.Mice Inset and N). These data indicate that phosphorylation of
+(atleast10animalspergroup)werefirstpretrainedthreetimes(1h cytosolicc-Junindopaminergicneuronstriggersitstranslocation
+apart) at 6–7 days after MPTP or saline injections by using an from the cytoplasm to the nucleus possibly by means of the
+acceleratingmode.Afterthisconditioningperiod,thetimeonthe stabilization of the protein (15). Hence, phospho-c-Jun accu-
+rod(withamaximumrecordingtimeof240sec)wasrecordedfor mulation in the nucleus is consistent with its role in AP-1-
+successive rotational speeds, and the overall rod performance of dependent transcriptional activity.
+eachanimalwascalculatedbythetrapezoidalmethod(12). To investigate whether dopaminergic cell death in PD might
+beassociatedwithsimilarsubcellularredistributionofc-Jun,we
+Gene Expression Analysis. WT and Jnk3(cid:1)/(cid:1) mice (three animals next surveyed the expression pattern of c-Jun(cid:2)AP-1 transcrip-
+pergroup)receivedasingleinjectionofkainicacid(30mg(cid:2)kg), tion factor in the mesencephalon of postmortem human brain
+and their hippocampi were dissected by 6 h after intoxication. frompatientswithidiopathicPDandmatchedcontrolsubjects.
+Hippocampal tissue was then placed into TRIzol reagent Midbrain sections were subjected to immunohistochemistry
+(GIBCO(cid:2)BRL)andhomogenized,andtotalRNAwasprepared usingapolyclonalantibodyraisedagainsttheN-terminaldomain
+according to the manufacturer’s instructions. Probe synthesis of c-Jun. At the cellular level, c-Jun(cid:2)Ap-1 staining (Fig. 2A,
+and labeling, hybridization, and scanning were performed as arrows) was observed throughout the mesencephalon in dopa-
+reported (13). In this study, we used two different microarrays minergicneuronsidentifiedbytheirneuromelanincontent(Fig.
+(Mu11KsubAandsubB)representing(cid:6)10,000mousegenesand 2A,arrowheads).Incontrolsubjects,c-Jun(cid:2)AP-1immunoreac-
+expressedsequencetags.ResultswereanalyzedbyusingGENE- tivitywasdetectedexclusivelyintheperikaryaandprocessesof
+CHIP software (Version 3.1, Affymetrix, Santa Clara, CA). dopaminergicneurons(Fig.2A),whereasnuclearstainingcould
+666 (cid:3) www.pnas.org(cid:2)cgi(cid:2)doi(cid:2)10.1073(cid:2)pnas.0307453101 Hunotetal.
+
+---PAGE BREAK---
+
+Fig.1. c-JunisactivatedindopaminergicneuronsafterMPTPintoxication.(A)Westernblotanalysisforphospho-c-JuninthemousemesencephalonafterMPTP
+injections(arrow).Comparedwithsaline-injectedmice(S),thephospho-c-Junexpressionlevelincreasesinatime-dependentmannerafterMPTPintoxication.
+Datarepresentmean(cid:4)SEM.(n(cid:2)3–5).*,P(cid:7)0.01,comparedwithsaline-injectedmice(two-tailedttest).(B–P)Doubleimmunofluorescentstainingfor
+phospho-c-Jun(G–K),Nissl(BandC),TH(D),GFAP(E),orMAC-1(F)onventralmidbraintissuesections.Theexpressionofphospho-c-JunintheSN(arrowheads
+inB)wasvirtuallyabsentinsaline-injectedmice(G)butincreasedgreatlyby8hafterMPTPtreatment(HInset).At12h,phospho-c-Junexpression(H)wasstill
+elevatedinneuronalcells(M)andtranslocatedtothenucleus(MInsetisahighermagnificationoftheareainthedottedrectangle).Neuronsdisplaying
+phospho-c-Junimmunoreactivitywerepositiveforthedopaminergiccell-specificmarkerTH(N).Phospho-c-Junstainingnevercolocalizedwiththeastrocytic
+markerGFAP(O)orthemicroglialcellmarkerMAC-1(P).[Scalebarrepresents60(cid:4)m(B,C,G,H,L,andM),10(cid:4)m(D,I,andN),and20(cid:4)m(HandMInsets).]
+be observed occasionally in pigmented dopaminergic neurons contentbetweenWTandindividualJNKknockoutmice(Fig.3
+fromPDbrains(Fig.2BandC,arrows).Specificityoflabeling AandB,histologicaldatanotshownforJnk1(cid:1)/(cid:1)).Thisfinding
+wasconfirmedbyabsorptionoftheantiserumwiththecontrol suggeststhatablationofasingleJNKisoformhasnoimpacton
+peptide.Intheseconditions,nostainingwasobserved(datanot the normal development of the nigrostriatal pathway, a result
+shown).Becausethephosphorylationofc-Juninducesitstrans- consistentwithsomeofourinvestigationsonotherbrainregions
+location into the nucleus, our postmortem data suggest that
+c-Jun(cid:2)AP-1 is activated in some dopaminergic neurons in the
+pathology. Quantitative analysis of c-Jun-positive pigmented
+neurons in the SNpc demonstrated that the proportion of
+melanized neurons with nuclear c-Jun staining was increased
+significantly(Mann–WhitneyUtest,P(cid:7)0.005)inthePDpatient
+group compared with control subjects (mean proportion in
+percentage(cid:4)SEM:1.5(cid:4)0.08and0.02(cid:4)0.01forPDpatients
+andcontrolsubjects,respectively),suggestingthatc-Junactiva-
+tion may be related to PD physiopathology.
+JNK-Deficient Mice Are More Resistant to MPTP. Data from post-
+mortem material and the MPTP mouse model suggest that
+JNK-mediated c-Jun activation might be implicated in PD-
+associatedneurodegeneration.Totestthishypothesis,wecom-
+paredMPTPtoxicityinmutantmicedeficientinJNK1,JNK2,
+or JNK3 (Jnk(cid:1)/(cid:1)) with that of their WT littermates. In saline-
+injectedanimals,therewerenodifferencesindopaminergiccell
+Fig.3. ComparisonofMPTP-inducednigrostriatalpathwayinjuryinWTand
+Jnk(cid:1)/(cid:1)mice.(A)PeroxidaseimmunohistochemistryforTHonmidbrainsec-
+tionsfromsaline-andMPTP-injectedWTandJNK-deficientmice.(Scalebar
+represents200(cid:4)m.)(B)StereologicalcountsofTH-positivecellsintheSNpcat
+7 days after MPTP intoxication. JNK2 or JNK3 ablation elicits sparing of
+TH-positiveneuronsafterMPTPtreatment,ascomparedwithWTmice.Dual
+deletionofJNK2andJNK3increasestheprotectiveeffectfurther.*,P(cid:7)0.01,
+Fig.2. Immunohistochemicaldetectionofc-Jun(cid:2)AP-1intransversesections comparedwithMPTP-injectedWTmice(Mann–WhitneyUtest).(CandD)
+of control (A) and parkinsonian (B and C) SNpc. c-Jun immunoreactivity Motorperformanceofsaline-orMPTP-treatedWTandJNK-deficientmice
+(arrows)wasobservedinperikaryaandprocessesofdopaminergicneurons, measuredonaRotarod.Themeantimesontherodrecordedforincreasing
+identified by their neuromelamin content (arrowheads). (B and C) Note rod-rotation speeds (8–15 mice per group; C) and the mean overall rod
+examples of melanized dopaminergic neuron displaying strong immuno- performance(ORP,seeMaterialsandMethods)foreachgroupofmice(D)
+reactivity in the nucleus (arrow), which can be distinguished clearly from show that MPTP-intoxicated JNK-deficient animals display significant im-
+neuromelaninpigments(arrowheads).[Scalebarrepresents40(cid:4)m(AandB), provementofmotorfunctionscomparedwithMPTP-treatedWTmice.*,P(cid:7)
+15(cid:4)m(BInset),and10(cid:4)m(C).] 0.05,byMann–WhitneyUtest.
+Hunotetal. PNAS (cid:3) January13,2004 (cid:3) vol.101 (cid:3) no.2 (cid:3) 667
+ECNEICSORUEN
+
+---PAGE BREAK---
+
+(6, 8). However, whereas MPTP induced an 80% loss of TH-
+positivenigralcellsinWTanimals,thenumberofdopaminergic
+neuronswasreducedbyonly50%inbothJnk2(cid:1)/(cid:1)andJnk3(cid:1)/(cid:1)
+intoxicated animals (Fig. 3B). Nissl staining and counting of
+neurons indicate that TH-positive cell loss after MPTP treat-
+ment is due not to MPTP-induced down-regulation of the TH
+markerbutrathertodopaminergiccelldestruction(seeTable1,
+whichispublishedassupportinginformationonthePNASweb
+site).Incontrast,despitethefactthatJNK1isexpressedinthe
+mesencephalon (8), MPTP-treated Jnk1(cid:1)/(cid:1) mice displayed as
+muchdopaminergiccelldeathastheirWTlittermates(Fig.3B).
+TheseobservationsindicatethatJNK2andJNK3arethemain
+JNK isoforms implicated in stress-induced dopaminergic cell
+death in the MPTP mouse model.
+ThepartialeffectofJnk2orJnk3ablationopensthequestion Fig.4. Comparisonofglialreactionandc-JunactivationinMPTP-intoxicated
+whether these two JNK isoforms could compensate for each WT and JNK-knockout (KO) mice. (A) Immunohistochemical analysis for
+other.Toinvestigatethisissue,wegeneratedcompoundmutants MAC-1andGFAPindicatesthatMPTP-inducedglialreactionisnotalteredin
+of JNK2(cid:2)JNK3 knockouts. Unlike compound mutants JNK1(cid:2) JNK-nullmiceascomparedwithWTanimals.(Scalebarrepresents300(cid:4)m.)(B)
+JNK2(8),theJNK2(cid:2)JNK3-nullmicedevelopnormallywithno Westernblotanalysisforphospho-c-Junexpressioninthemesencephalon
+afterMPTPtreatmentshowsthatJNK2andJNK3arerequiredforMPTP-
+apparent nigrostriatal pathway abnormalities. Yet, the protec- inducedc-Junphosphorylation.Datarepresentmean(cid:4)SEMforthreeorfour
+tive effect afforded by the dual deletion of the Jnk2 and Jnk3 micepergroup.*,P(cid:7)0.05;**,P(cid:7)0.01,comparedwithMPTP-treatedWT
+geneswasmorepronouncedthanthatfoundinmicecarryinga mice(two-tailedttest).
+deletion of either one of these JNK isoforms (only 15% of
+TH-positive cells were lost in Jnk2(cid:2)Jnk3(cid:1)/(cid:1) mice; Fig. 3 A and
+B).Itappears,therefore,thatbothJNK2andJNK3arerequired MPTPMetabolism,MicroglialCellActivation,andc-JunPhosphoryla-
+forMPTP-induceddopaminergiccelldeathinvivo.Inaddition tion in JNK-Deficient Mice. Oneofthefirstrate-limitingfactorsin
+to the sparing of nigral dopaminergic cell bodies, we observed
+MPTPtoxicityistheconversionofMPTPintoMPP(cid:3)bymeansof
+thatstriataldopaminergicnerveterminalsinJNK-deficientmice themonoamineoxidaseBenzymaticactivity(3).Toconfirmthat
+were also more preserved than in their WT counterparts. resistanceofJNK-deficientmicewasduetoablationofJnkgenes
+Indeed, whereas MPTP induced a 94% reduction in striatal andnottoalterationofMPTPmetabolism,wemeasuredstriatal
+dopaminecontentinWTanimals,itreachedonly55%indouble
+levelsofMPP(cid:3)aftersystemicinjectionofthetoxin.JNK-deficient
+JNK2(cid:2)JNK3 null mice (see Table 2, which is published as andWTmiceexhibitsimilarstriatalMPP(cid:3)content(seeTable3,
+supporting information on the PNAS web site). In JNK2- or which is published as supporting information on the PNAS web
+JNK3-deficientmice,thelevelsofdopaminewerealsomarkedly site). Thus, poor drug delivery or metabolism was not likely to
+attenuated after MPTP treatment, albeit less than in WT account for the lower susceptibility of Jnk(cid:1)/(cid:1) mice to MPTP
+animalsbutmorethaninJNK2(cid:2)JNK3compoundmutants(90% toxicity.Microglialcellactivationassociatedwithneurodegenera-
+and80%reductioninJnk2(cid:1)/(cid:1)andJnk3(cid:1)/(cid:1),respectively).Con- tiveprocessesrepresentsanotherimportantcomponentofMPTP
+sistentwiththedopaminergiccell-countresults,MPTP-treated toxicity(11,16).Thesecellscanexertdeleteriouseffectsbymeans
+JNK1-deficientmiceshowedstriataldopaminedepletionsimilar ofmultiplepathways,includingproductionofnitricoxide(17).It
+to that of WT animals, and therefore, there is no protective hasbeenreportedthatthemicroglialresponsetoMPTParisesas
+effect of JNK1 ablation in this model of PD (data not shown). earlyas12hpostinjection,atimepointthatissignificantlyearlier
+The symptomatic manifestations in PD (motor dysfunction) thantheactivephaseofdopaminergicneurondegeneration(18).
+are due to a profound reduction in striatal dopamine content Moreover,recentevidencehassuggestedthattheJNKpathwayis
+causedbythelossofdopaminergicnervefibersinthestriatum crucialformicroglialcellactivation(19).Itis,therefore,conceiv-
+(1).BecauseJNKdeficiencyisassociatedwithaprotectiveeffect able that targeted deletion of Jnk may protect dopaminergic
+onthenigrostriatalpathwayafterMPTPintoxication,wesought neuronsfromMPTPtoxicityindirectlybymeansoftheinhibition
+to determine whether JNK mutant animals have attenuated of microglial cell activation. To test this hypothesis, we surveyed
+motordeficits.Thelocomotoryabilityofmicewasevaluated6–7 midbrainexpressionofMAC-1.Jnk(cid:1)/(cid:1)andWTmiceexhibiteda
+days after saline or MPTP treatment by using a Rotarod (12). comparablelevelofactivatedmicroglialcellsdistributedthrough-
+We found that MPTP induces a profound reduction of motor outtheSN(Fig.4A).ThisfindingsuggestsnotonlythatJnk(cid:1)/(cid:1)and
+performanceinWTanimalsevenatlowspeeds(15–25rpm;Fig. WTmiceweresubjectedtoanequalnoxiousstressbutalsothat
+3C).Thisdefectcouldbereversedwhentheanimalsweregiven JNK ablation does not interfere with microglial cell activation.
+L-dopa(levodopa)andbenserazide(50and2.5mg(cid:2)kg,respec- Similar results were obtained regarding astrocytosis (Fig. 4A).
+tively,twiceadayfor3days),suggestingthattheobservedmotor ThesefindingsareconsistentalsowiththeobservationthatMPTP-
+dysfunction is a direct consequence of nigrostriatal pathway induced JNK(cid:2)c-Jun activation is confined strictly to neurons
+injury (data not shown). Yet, MPTP-treated Jnk2(cid:1)/(cid:1) and (Fig.1).Thus,itisunlikelythatJNKdeficiencyconfersprotection
+Jnk3(cid:1)/(cid:1)miceshowamuchbetterabilitytoperformthetestbut by means of the inhibition of glial cell-associated deleterious
+only at low speeds, as evidenced by the fact that their perfor- mechanisms.Yet,early(8h)andlate(24h)MPTP-inducedc-Jun
+mancedramaticallydroppedatrodrotations(cid:6)30rpm(Fig.3C). phosphorylationinthemesencephalonwasdecreasedmarkedlyin
+Consequently, the overall rod performance score was not sta- JNK2-andJNK3-deficientmiceandinhibitedcompletelyincom-
+tistically different between MPTP-treated WT and JNK2 or pound JNK2(cid:2)JNK3 mutants (Fig. 4B). Thus, these data demon-
+JNK3 knockout animals (Fig. 3D). In sharp contrast, MPTP- strate that disruption of the Jnk2 and Jnk3 genes suppressed
+intoxicated double JNK mutants perform as well as saline- MPTP-induced phosphorylation of c-Jun and presumably AP-1
+injectedmiceregardlessofthespeedoftherod(Fig.3CandD). transcriptionalactivityinnigraldopaminergicneuronsinvivo.
+Thus, these results show that ablation of JNK2 and JNK3 not
+only protects dopaminergic neurons against MPTP-induced COX-2IsaTargetGeneofJNKActivation.Ithasbeensuggestedthat,
+neurodegenerationbutalsoimprovesthemotorfunctioninthis atleastincertainconditions,JNK-inducedneuronalcelldeath
+animal model of PD. is mediated by sustained levels of AP-1 transcriptional activity
+668 (cid:3) www.pnas.org(cid:2)cgi(cid:2)doi(cid:2)10.1073(cid:2)pnas.0307453101 Hunotetal.
+
+---PAGE BREAK---
+
+two main isoforms: COX-1 and COX-2. COX-1 is expressed
+constitutively in many cell types, whereas COX-2 expression is
+generallyinducedbycytokinesandotherstress-inducedstimuli
+(20). In brain, COX-2 is present in selected neurons and its
+expressionisup-regulatedinnumerouspathologicalconditions,
+includingAlzheimer’sdisease(21).Relevanttothepresentstudy
+are the findings that Cox-2(cid:1)/(cid:1) mice are strongly resistant to
+excitotoxicity-inducedneuronalcelldeath(22)andthatCOX-2
+expressionisup-regulatedinPDbrains(23).Thesedatasuggest
+thatJNK-mediatedCOX-2inductionmightrepresentanimpor-
+tant step in the cascade of molecular events leading to neuro-
+degenerationinparkinsoniansyndromes.Totestthishypothesis
+wefirstexaminedwhetherMPTPinducesCOX-2expressionin
+mousebrain.WesternblotanalysisrevealedthatCOX-2isbarely
+expressed in the mesencephalon of saline-injected animals but
+strongly induced after MPTP challenge (Fig. 5B). In contrast,
+change in COX-2 expression was at no time detected in the
+striatum(datanotshown).Inthemesencephalon,inductionof
+COX-2expressionbecamenoticeableby1day,peakedat2to4
+days,andpersistedforatleast6days.Thesedataindicatethat
+JNK(cid:2)c-Jun activation after MPTP injection precedes COX-2
+inductionbyatleast20h,aresultconsistentwiththehypothesis
+that COX-2 expression depends on JNK-induced AP-1 tran-
+scriptional activity. If this hypothesis is true, COX-2 up-
+regulation should be attenuated in MPTP-injected JNK-
+deficient mice. We tested this possibility by comparing the
+expressionlevelofCOX-2inWTandJnk(cid:1)/(cid:1)micekilledat2or
+4 days after MPTP treatment. COX-2 expression was moder-
+Fig.5. JNKsignalingpathwayisrequiredforCOX-2inductionafterneuronal
+noxiousstress.(A)ExpressionofCox-2mRNAinthehippocampusofkainic ately attenuated in single JNK knockout mice and almost
+acid-treatedmice,asassayedbyRT-PCR,isabolishedinJnk3-nullmice.(B) abolished in compound JNK mutants (Fig. 5C). These data
+WesternblotanalysisforCOX-2expressioninthemesencephalonafterMPTP further support the assertion that MPTP-induced COX-2 ex-
+treatmentinWTmicefortheindicatedtimes.*,P(cid:7)0.01,comparedwith pression requires a JNK2(cid:2)JNK3-mediated signaling pathway.
+saline-injectedmice.(C)MPTP-inducedCOX-2expressioninthemesenceph- Furthermore, the recent finding that MPTP-induced COX-2
+alonisattenuatedinJNK-deficientmice.*,P(cid:7)0.05;**,P(cid:7)0.01,compared
+expression is confined strictly to dopaminergic neurons is in
+withMPTP-treatedWTmice(two-tailedttest).InBandC,datarepresent
+agreement with the present results (23). Interestingly, JNK-
+mean(cid:4)SEMforthreeorfourmicepergroup.(D)UnlikeCOX-2expression,
+induced COX expression was specific to the COX-2 isoform
+COX-1expressionisnotalteredafterMPTPtreatment.
+becausebrainCOX-1expressionwasnotchangedafterMPTP
+treatment and was not altered in JNK-deficient mice, as com-
+rather than by JNK effects on nontranscriptional targets. This pared with WT mice (Fig. 5D).
+contentionissupportedbythefindingthatkainicacid-induced The regulation of COX-2 expression by the JNK signaling
+neuronalcelldeathinvivorequiredfunctionalc-Junphosphor- pathway described here is consistent with several reports de-
+ylation sites (9). Efficient transcription of target genes seems, scribing the presence of putative AP-1 sites in the Cox-2 gene
+therefore,toberequiredforJNK-inducedneuronalcelldeath. promoter region (24, 25). However, other transcriptional regu-
+latory elements also have been characterized and shown to be
+To identify such genes and evaluate whether they might be
+essential for the transcriptional induction of Cox-2 in different
+implicatedinJNK-mediatedneurodegenerationinvivo,wetook
+cell types and experimental conditions. Among these other
+advantage of the kainic acid-induced excitotoxicity model that
+transcriptionalregulatoryelements,NF-(cid:1)Bsitesarethoughtto
+we used previously to study and characterize the phenotype of
+the Jnk3(cid:1)/(cid:1) mice (6). We compared gene expression profiles play a central role (20, 26). To investigate whether the NF-(cid:1)B
+between kainic acid-treated WT and Jnk3(cid:1)/(cid:1) mice by using signalingpathwaymightbeinvolvedinMPTP-inducedCOX-2
+GeneChipmicroarrays.Wefound(cid:8)50genestobedifferentially e
+in
+xp
+W
+re
+T
+ssi
+m
+on
+ic
+,
+e
+w
+a
+e
+ft
+f
+e
+ir
+r
+st
+M
+an
+P
+a
+T
+ly
+P
+ze
+tr
+d
+e
+a
+a
+c
+tm
+tiv
+e
+a
+n
+t
+t
+i
+.
+on
+Th
+o
+e
+ft
+d
+h
+e
+is
+gr
+s
+a
+ig
+d
+n
+a
+a
+ti
+l
+o
+in
+n
+g
+o
+p
+f
+at
+I
+h
+(cid:1)
+w
+B
+a
+(cid:2)
+y
+,
+expressed with higher expression levels in WT mice than in taken as an index of NF-(cid:1)B activation, was analyzed by using
+JNK3-deficient animals (fold increase ranging from 2.2 to 22;
+thetimepointsusedpreviouslytostudythephosphorylationof
+data not shown). Importantly, expression of the Jnk3 gene was c-Jun(Fig.1A).I(cid:1)B(cid:2)degradationwasseenby12hafterMPTP
+found to be missing in Jnk3(cid:1)/(cid:1) mice but was present in WT
+treatment, became maximal by 2 days, and was not observed
+animals,thusattestingthattheexperimenthadbeenconducted
+furtherby7days(seeFig.6A,whichispublishedassupporting
+successfully. Focusing on genes that have been implicated pre-
+information on the PNAS web site). Thus, activation of the
+viously in neuronal cell death processes, we found that expres- JNK(cid:2)c-Jun signaling pathway slightly precedes that of NF-(cid:1)B.
+sionofCox-2wasup-regulatedinWTbutnotinJnk3(cid:1)/(cid:1)mice. Importantly,I(cid:1)B(cid:2)degradationinMPTP-treatedJNK-deficient
+To confirm this finding, we monitored hippocampal Cox-2 mice was similar to that in WT mice, suggesting that JNK
+mRNAexpressionbyRT-PCR.Asexpected,kainicacid-treated ablation does not interfere with the NF-(cid:1)B signaling pathway.
+WTmiceexhibitedastronginductionofCox-2mRNA,whereas WenexttestedwhetherMPTP-inducedCOX-2expressionwas
+Jnk3(cid:1)/(cid:1)showedvirtuallynoinduction(Fig.5A),suggestingthat altered in mice with a defective NF-(cid:1)B signaling pathway. The
+JNK3 is essential for Cox-2 induction during excitotoxicity. NF-(cid:1)B transcription factor is constituted, for the most part, of
+the p50 (NF-(cid:1)B1) and p65 (RelA) polypeptides. Because dis-
+MPTP-Induced COX-2 Expression Requires Functional JNK but Not ruptionofthemouseRelAlocusleadstoembryoniclethality,we
+NF-(cid:2)BPathway.COX,alsoknownasprostaglandinHsynthase,is used p50(cid:1)/(cid:1) mice that develop normally but display functional
+arate-limitingenzymeforprostanoidsynthesisthatispresentin defectsinimmuneresponses(27).IncontrasttoJNK-deficient
+Hunotetal. PNAS (cid:3) January13,2004 (cid:3) vol.101 (cid:3) no.2 (cid:3) 669
+ECNEICSORUEN
+
+---PAGE BREAK---
+
+mice (Fig. 5C), COX-2 expression in p50(cid:1)/(cid:1) mice after MPTP importance; mounting evidence indicates that different JNK
+wassimilartothatofWTmice(Fig.6B).Importantly,analysis isoformshavedistinctbiologicalfunctionsandmightnotallbe
+ofhistologicalandneurochemicalparametersinMPTP-lesioned implicated in stress-induced neuronal cell death (7). Thus, our
+p50(cid:1)/(cid:1) mice showed that the magnitude of the nigrostriatal study demonstrates also that not all JNK isoforms contribute
+pathwayinjuryisidenticaltothatofWTmice(datanotshown). equally to stress-induced dopaminergic cell death. Indeed, al-
+Thus, these results indicate that COX-2 induction occurs inde- though JNK2 and JNK3 mediate MPTP-associated stress re-
+pendently of the NF-(cid:1)B transcriptional pathway and that this sponse in dopaminergic neurons, JNK1 does not. Yet, this
+transcriptionfactorhasnosignificantroleintheMPTP-induced finding is consistent with recent in vitro investigations using
+culturedcerebellarneuronsinwhichbothJNK2andJNK3,but
+neurodegenerative process.
+not JNK1, were found to be activated selectively by stress and
+responsible for c-Jun activation (30). Thus, our data further
+COX-2IsInstrumentalinMPTP-InducedNeurodegeneration.Toeval-
+support the idea that various JNK isoforms are likely to exert
+uate the impact of COX-2 up-regulation on dopaminergic cell
+differentfunctions.Forinstance,acuteactivationofJNKsafter
+death, we then compared the neurotoxic effect of MPTP in
+Cox-2(cid:1)/(cid:1)miceandtheirWTlittermates.TH-positivecellcounts noninvasive environmental stimuli (such as physical restraint)
+does not result in neurodegeneration, suggesting that the JNK
+in the SN revealed that Cox-2(cid:1)/(cid:1) mice were more resistant
+signaling pathway may play important physiological roles in
+(2.6-fold increase in TH-positive neuron survival) to MPTP-
+normalneuronalfunction(31).Thesedataunderline,therefore,
+induceddopaminergiccelldeaththanWTmice(seeFig.7,which
+the importance of developing specific JNK inhibitors for ther-
+ispublishedassupportinginformationonthePNASwebsite), apeutic applications because long-term pan-JNK inhibition in
+suggesting the importance of this JNK-dependent target mole- thenervoussystemmightnotbedesirable.Finally,postmortem
+cule in neuronal cell death. examination of parkinsonian brain tissue suggests that the
+deleterious signaling pathway described here may be activated
+Conclusion
+andmayinducedopaminergiccelldeathinthehumandisease;
+OurstudyprovidesgeneticevidencefortheregulationofCOX-2 evidence of c-Jun activation and up-regulated expression of
+bytheJNKsignalingpathwayinmammalsinvivo.Moreover,we COX-2indopaminergicneuronswasfoundinPDpatients(23).
+have shown here that JNK-mediated COX-2 transcriptional Altogether,ourdataindicatethatJNK2(cid:2)JNK3and(cid:2)orCOX-2
+induction is essential for MPTP-induced dopaminergic cell represent promising molecular targets for the development of
+death.AlthoughJNK-mediatedCOX-2inductionappearstobe future therapeutic intervention in PD.
+necessary for MPTP-induced neurodegeneration, it remains
+uncertainwhetheritissufficient.Indeed,wecannotruleoutthe We thank J. Stein and Drs. Vernice Jackson-Lewis and Ali Naini for
+possibility that other JNK deleterious molecular targets may technicalassistance;T.S.Zheng,C.Dong,andC.-Y.Kuanforhelpful
+discussions; and F. Manzo for manuscript preparation. This work was
+participate in this mechanism also. Yet, we believe that this
+supported by grants from the National Institutes of Health National
+possibilitymightnotbethecasebecausepharmacologicalinhi-
+Institute on Aging (to P.R.), the National Institute of Neurological
+bition of JNK activation in MPTP-treated Cox-2(cid:1)/(cid:1) mice does DisordersandStroke(toS.P.),theU.S.DepartmentofDefense(toS.P.
+not mitigate the neurodegenerative processes further (23). Im- andM.V.),theLowensteinFoundation(toS.P.andM.V.),theLillian
+portantly,ourresultsareconsistentwithpreviousstudies.How- GoldmanCharitableTrust(toS.P.),theParkinson’sDiseaseFoundation
+ever, one major advantage to our gene targeting approach, as (toR.A.F.andS.P.),theAmericanParkinson’sDiseaseAssociation(to
+M.V.),andtheNationalParkinsonFoundation(toE.C.H.andM.V.).
+comparedwithpharmacologicalinhibition(28)orgenetransfer
+S.H. was a recipient of the French Foreign Office Lavoisier Program
+of the JIP1-derived JNK binding domain inhibitor (29), is the
+Fellowship. M.V. was a recipient of a fellowship from the Human
+abilitytoinvestigatetheroleofasingleJNKisoformindepen- FrontierScienceProgramOrganization.P.T.wasarecipientofSchol-
+dently of inhibition of its counterparts. This aspect is of major arshipDFGTE343/1-1fromtheGermanResearchFoundation.
+1. Fahn,S.&Przedborski,S.(2000).inMerritt’sNeurology,ed.Rowland,L.P. 18.Jackson-Lewis, V., Jakowec, M., Burke, R. E. & Przedborski, S. (1995)
+(LippincottWilliams&Wilkins,NewYork),pp.679–693. Neurodegeneration4,257–269.
+2. Lansbury,P.T.,Jr.,&Brice,A.(2002)Curr.Opin.CellBiol.14,653–660. 19.Hidding,U.,Mielke,K.,Waetzig,V.,Brecht,S.,Hanisch,U.,Behrens,A.,
+3. Olanow,C.W.&Tatton,W.G.(1999)Annu.Rev.Neurosci.22,123–144. Wagner,E.&Herdegen,T.(2002)Biochem.Pharmacol.64,781–788.
+4. Dauer,W.&Przedborski,S.(2003)Neuron39,889–909. 20.Smith,W.L.,DeWitt,D.L.&Garavito,R.M.(2000)Annu.Rev.Biochem.69,
+5. Beal,M.F.(1992)FASEBJ.6,3338–3344. 145–182.
+6. Yang,D.D.,Kuan,C.Y.,Whitmarsh,A.J.,Rincon,M.,Zheng,T.S.,Davis, 21.Pasinetti,G.M.(1998)J.Neurosci.Res.54,1–6.
+R.J.,Rakic,P.&Flavell,R.A.(1997)Nature389,865–870. 22. Iadecola, C., Niwa, K., Nogawa, S., Zhao, X., Nagayama, M., Araki, E.,
+7. Davis,R.J.(2000)Cell103,239–252. Morham, S. & Ross, M. E. (2001) Proc. Natl. Acad. Sci. USA 98, 1294–
+8. Kuan,C.Y.,Yang,D.D.,SamantaRoy,D.R.,Davis,R.J.,Rakic,P.&Flavell, 1299.
+R.A.(1999)Neuron22,667–676.
+23. Teismann,P.,Tieu,K.,Choi,D.-K.,Wu,D.-C.,Naini,A.,Hunot,S.,Vila,M.,
+9. Behrens,A.,Sibilia,M.&Wagner,E.F.(1999)Nat.Genet.21,326–329.
+Jackson-Lewis,V.&Przedborski,S.(2003)Proc.Natl.Acad.Sci.USA100,
+10.Hunot,S.,Brugg,B.,Ricard,D.,Michel,P.P.,Muriel,M.P.,Ruberg,M.,
+5473–5478.
+Faucheux,B.A.,Agid,Y.&Hirsch,E.C.(1997)Proc.Natl.Acad.Sci.USA
+24. Okada,Y.,Voznesensky,O.,Herschman,H.,Harrison,J.&Pilbeam,C.(2000)
+94,7531–7536.
+J.Cell.Biochem.78,197–209.
+11.Liberatore, G., Jackson-Lewis, V., Vukosavic, S., Mandir, A. S., Vila, M.,
+25. Ogasawara,A.,Arakawa,T.,Kaneda,T.,Takuma,T.,Sato,T.,Kaneko,H.,
+McAuliffe,W.J.,Dawson,V.L.,Dawson,T.M.&Przedborski,S.(1999)Nat.
+Kumegawa,M.&Hakeda,Y.(2001)J.Biol.Chem.276,7048–7054.
+Med.5,1403–1409.
+26. Mestre,J.R.,Mackrell,P.J.,Rivadeneira,D.E.,Stapleton,P.P.,Tanabe,T.
+12.Rozas,G.,Lo´pez-Mart´ın,E.,Guerra,M.J.&Labandeira-Garc´ıa,J.L.(1998)
+&Daly,J.M.(2001)J.Biol.Chem.276,3977–3982.
+J.Neurosci.Methods83,165–175.
+13.Sandberg, R., Yasuda, R., Pankratz, D. G., Carter, T. A., del Rio, J. A., 27. Sha, W. C., Liou, H. C., Tuomanen, E. I. & Baltimore, D. (1995) Cell 80,
+Wodicka,L.,Mayford,M.,Lockhart,D.J.&Barlow,C.(2000)Proc.Natl. 321–330.
+Acad.Sci.USA97,11038–11043. 28. Saporito,M.S.,Brown,E.M.,Miller,M.S.&Carswell,S.(1999)J.Pharmacol.
+14.Herkenham,M.,Little,M.D.,Bankiewicz,K.,Yang,S.C.,Markey,S.P.& Exp.Ther.288,421–427.
+Johannessen,J.N.(1991)Neuroscience40,133–158. 29. Xia,X.G.,Harding,T.,Weller,M.,Bieneman,A.,Uney,J.B.&Schulz,J.B.
+15.Musti,A.M.,Treier,M.&Bohmann,D.(1997)Science275,400–402. (2001)Proc.Natl.Acad.Sci.USA98,10433–10438.
+16.Kurkowska-Jastrzebska, I., Babiuch, M., Joniec, I., Przybylkowski, A., 30. Coffey,E.T.,Smiciene,G.,Hongisto,V.,Cao,J.,Brecht,S.,Herdegen,T.&
+Czlonkowski,A.&Czlonkowska,A.(2002)Int.Immunopharmacol.2,1213–1218. Courtney,M.J.(2002)J.Neurosci.22,4335–4345.
+17.Vila,M.,JacksonLewis,V.,Gu´egan,C.,Wu,D.C.,Teismann,P.,Choi,D.-K., 31. Xu,X.,Raber,J.,Yang,D.,Su,B.&Mucke,L.(1997)Proc.Natl.Acad.Sci.
+Tieu,K.&Przedborski,S.(2001)Curr.Opin.Neurol.14,483–489. USA94,12655–12660.
+670 (cid:3) www.pnas.org(cid:2)cgi(cid:2)doi(cid:2)10.1073(cid:2)pnas.0307453101 Hunotetal.
+
+---PAGE BREAK---
+

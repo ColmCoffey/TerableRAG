@@ -1,0 +1,1519 @@
+Chunk 1:
+Article
+A Glycoengineered Enzyme with Multiple Mannose-
+6-Phosphates Is Internalized into Diseased Cells to
+Restore Its Activity in Lysosomes
+Graphical Abstract Authors
+JiYoungHyun,SanggilKim,
+HyunSooLee,InjaeShin
+Correspondence
+hslee76@sogang.ac.kr(H.S.L.),
+injae@yonsei.ac.kr(I.S.)
+In Brief
+Aglycoengineeredlysosomalenzyme
+containingmultiplemannose-6-
+phosphateswaspreparedbycombining
+geneticcodeexpansionwith
+bioorthogonalligationtechniques.The
+glycoengineeredenzymewasefficiently
+internalizedintodiseasedcellsand
+accumulatedintolysosomes.Inaddition,
+theenzymesuccessfullyremovedGM2-
+gangliosidestoredinlysosomesof
+diseasedcells.
+Highlights
+d Themulti-M6P-containinglysosomalenzymeispreparedby
+usingtwotechniques
+d Aglycoengineeredenzymeisefficientlyinternalizedinto
+diseasedcells
+d AglycoengineeredenzymeremovesGM2-gangliosidestored
+inlysosomesofcells
+d Alysosome-targetingfluorogenicsubstrateispreparedto
+monitorenzymeactivity
+Hyunetal.,2018,CellChemicalBiology25,1255–1267
+October18,2018ª2018ElsevierLtd.
+https://doi.org/10.1016/j.chembiol.2018.07.011
+
+---PAGE BREAK---
+
+Cell Chemical Biology
+Article
+A Glycoengineered Enzyme with Multiple
+Mannose-6-Phosphates Is Internalized into Diseased
+Cells to Restore Its Activity in Lysosomes
+JiYoungHyun,1SanggilKim,2HyunSooLee,2,*andInjaeShin1,3,*
+1CenterforBiofunctionalMolecules,DepartmentofChemistry,YonseiUniversity,Seoul03722,RepublicofKorea
+2DepartmentofChemistry,SogangUniversity,Seoul04107,RepublicofKorea
+3LeadContact
+*Correspondence:hslee76@sogang.ac.kr(H.S.L.),injae@yonsei.ac.kr(I.S.)
+https://doi.org/10.1016/j.chembiol.2018.07.011
+SUMMARY fickingandaresubjectedtothesecretorypathwayforsecretion
+fromthecell.Thesecretedenzymescanbeinternalizedintothe
+In this study we developed an efficient method cellbybindingtothecell-surfaceM6PRviareceptor-mediated
+to prepare glycoengineered b-N-acetylhexosamini- endocytosisandagainenterthelysosome(BraulkeandBonifa-
+dase containing multiple mannose-6-phosphates cino,2009;Ghoshetal.,2003).
+(M6Ps) by
+
+Chunk 2:
+ fickingandaresubjectedtothesecretorypathwayforsecretion
+fromthecell.Thesecretedenzymescanbeinternalizedintothe
+In this study we developed an efficient method cellbybindingtothecell-surfaceM6PRviareceptor-mediated
+to prepare glycoengineered b-N-acetylhexosamini- endocytosisandagainenterthelysosome(BraulkeandBonifa-
+dase containing multiple mannose-6-phosphates cino,2009;Ghoshetal.,2003).
+(M6Ps) by combining genetic code expansion with The two M6PRs, a smaller cation-dependent M6PR (CD-
+bioorthogonal ligation techniques. We found that M6PR) anda largercation-independent M6PR(CI-M6PR,also
+knownasaninsulin-likegrowthfactor-II[IGF-II]receptor),have
+multiple M6P-conjugated enzymes were produced
+been identified (Ghosh et al., 2003; Dahms et al., 2008). They
+withahighefficiencybyusingcombinedtechniques.
+play a critical role in transporting synthesized lysosomal en-
+Importantly,glycoengineeredenzymesenteredlyso-
+zymes from the Golgi apparatus to lysosomes by binding to
+somes of patient-derived primary cells, which lack
+M6P moieties linked to the enzymes. The CI-M6PR is also
+endogenous lysosomal b-N-acetylhexosaminidase,
+presentonthecellsurfaceandactsasareceptortore-capture
+morereadilythancommercializedhumanb-hexosa-
+lysosomal enzymes that are secreted from the cell. Thus, the
+minidase. Moreover, glycoengineered enzymes CI-M6PRisamajorreceptorthatisassociatedwiththecellular
+successfullyremovedGM2-gangliosidestoredinly- uptake ofextracellular lysosomalenzymesappendedbyM6P.
+sosomesofdiseasedcells,indicatingthatitsactivity The extracytoplasmic domain of CI-M6PR possesses two
+is restored in diseased cells. We also synthesized M6P-binding sites (also a single IGF-II-binding site), and the
+and applied a lysosome-targeting fluorogenic sub- CD-M6PRcontains asingleM6P-bindingsite.Itisknownthat
+whilethetwoM6PRsbindtomonomericM6Pwithsimilaraffin-
+stratetomonitorendogenousandsupplementalgly-
+coengineered b-N-acetylhexosaminidase activities ities,theCI-M6PRinteractswiththehigh-mannoseoli
+
+Chunk 3:
+d in diseased cells. We also synthesized M6P-binding sites (also a single IGF-II-binding site), and the
+and applied a lysosome-targeting fluorogenic sub- CD-M6PRcontains asingleM6P-bindingsite.Itisknownthat
+whilethetwoM6PRsbindtomonomericM6Pwithsimilaraffin-
+stratetomonitorendogenousandsupplementalgly-
+coengineered b-N-acetylhexosaminidase activities ities,theCI-M6PRinteractswiththehigh-mannoseoligosaccha-
+ride containing two phosphate groups more strongly than the
+in lysosomes. The results of this study indicate that
+CD-M6PR (Tong and Kornfeld, 1989). This indicates that the
+the present strategy, which relies on genetic code
+CI-M6PR binds with more avidity to multimeric M6Ps than
+expansion and bioorthogonal ligation techniques, is
+doestheCD-M6PR.
+highly attractive to generate multi-M6P-containing Geneticdeficienciesoflysosomalenzymesleadtotheinability
+lysosomal enzymes that can be used to study lyso- of the lysosome to digest biomolecular substances. The defi-
+somal storage disorders associated with lysosomal ciencies result in the progressive accumulation of undigested
+enzymedeficiencies. substances in lysosomes and promote the onset of lysosomal
+storage disorders (LSDs) (Futerman and van Meer, 2004). For
+example, defects in the digestion of glycosphingolipids cause
+INTRODUCTION GM1-gangliosidosis, GM2-gangliosidosis (Tay-Sachs and
+Sandhoff diseases), Gaucher and Fabry diseases, and other
+Lysosomalacidhydrolasesarecrucialfordegradationandrecy- maladies(Jeyakumaretal.,2002;Wennekesetal.,2009;Platt,
+cling of various biomolecules, including (glyco)proteins, glyco- 2014).TheclinicalmethodfortreatmentofLSDsincludesexog-
+sphingolipids, and nucleic acids (Luzio et al., 2007). These enous supplementation of active enzymes, known as enzyme
+enzymesareproducedintheformofglycoproteinsconjugated replacement therapy (ERT) (Solomon and Muro, 2017). In this
+with oligosaccharides containing terminal mannose-6-phos- therapy,M6P-oligosaccharide-containingenzymesareneeded
+phate (M6P)
+
+Chunk 4:
+linicalmethodfortreatmentofLSDsincludesexog-
+sphingolipids, and nucleic acids (Luzio et al., 2007). These enous supplementation of active enzymes, known as enzyme
+enzymesareproducedintheformofglycoproteinsconjugated replacement therapy (ERT) (Solomon and Muro, 2017). In this
+with oligosaccharides containing terminal mannose-6-phos- therapy,M6P-oligosaccharide-containingenzymesareneeded
+phate (M6P) (Kornfeld, 1987; Braulke and Bonifacino, 2009). to efficiently enter cells via M6PR-mediated endocytosis and
+The hydrolases are then translocated to lysosomes by initially toaccumulateinlysosomes.
+enteringtheprelysosomalcompartment,calledtheendosome, TheactiveenzymesusedinERTaretypicallyobtainedfrom
+throughtheinteractionwiththemembrane-boundM6Preceptor mammalian cells (Solomon and Muro, 2017; Crawley et al.,
+(M6PR)andsubsequentfusionoftheendosomewiththelyso- 1997;Heetal.,2012).However,theenzymesproducedincells
+some. However, some of the enzymes evade lysosomal traf- containrelativelylowlevelsofM6Pandheterogeneousglycans
+CellChemicalBiology25,1255–1267,October18,2018ª2018ElsevierLtd. 1255
+
+---PAGE BREAK---
+
+(Parketal.,2008;Akeboshietal.,2009).Asanalternativestrat- glycoproteins containing multiple M6P residues strongly (K =
+d
+egy to overcome this limitation, chemical or chemoenzymatic 2–20 nM) through multivalent interactions (Tong et al., 1989).
+methods have been developed to link M6P-oligosaccharides Guided by these findings, we prepared multi-M6P-appended
+to theenzymes(Priyankaetal.,2016;Yamaguchietal.,2016; b-N-acetylhexosaminidases by click chemistry between
+Zhuetal.,2004,2009;Zhouetal.,2011;Liuetal.,2011,2013). N -peptidescontainingbothmultipleM6Pandrhodamine(Rh)
+3
+Despite recent advances made in methods for preparation of dyeandalkyne-bearingenzymes,obtainedbyusingthegenetic
+glycoproteins (Unverzagt and Kajihara, 2013; Wangand Amin, codeexpansiontechnique.ThefluorescentRhdyewasincluded
+2014; van Kasteren et al., 2007; Fairbanks, 2017), production inthesesubstancessot
+
+Chunk 5:
+;Zhouetal.,2011;Liuetal.,2011,2013). N -peptidescontainingbothmultipleM6Pandrhodamine(Rh)
+3
+Despite recent advances made in methods for preparation of dyeandalkyne-bearingenzymes,obtainedbyusingthegenetic
+glycoproteins (Unverzagt and Kajihara, 2013; Wangand Amin, codeexpansiontechnique.ThefluorescentRhdyewasincluded
+2014; van Kasteren et al., 2007; Fairbanks, 2017), production inthesesubstancessothatentryofthederivedglycopeptides
+of multiple M6P-appended lysosomal enzymes still remains a and their conjugated enzymes into cells could be readily
+herculean task. Although they are in great demand in studies monitored.
+and ultimate treatment of LSDs, the availability of efficient For this purpose, the multiple M6P-appended N -peptides
+3
+methodsforpreparationofmulti-M6P-containinglysosomalen- (N -(M6P) -Rh, N -(M6P) -Rh, N -(M6P) -Rh and N -(M6P) -
+3 1 3 2 3 3 3 6
+zymesislimited. Rh), containing varied numbers (one, two, three, and six) of
+ThegeneticcodeexpansiontechniquedevelopedbySchultz M6PresiduesandanN-terminalazidemoiety,weresynthesized
+andcoworkersenablessite-specificincorporationofunnatural by using the general pathway delineated in Figure 1B. Briefly,
+amino acids (UAAs) into proteins in vitro and in vivo (Noren peptides containing different numbers (one, two, three, and
+et al., 1989; Wang et al., 2001). This technology is a powerful six) of alkyne units were assembled on a solid support, using
+toolinproteinengineeringowingtoitstechnicalsimplicityand HCTUasacouplingreagent,followedbysubsequentcoupling
+applicabilitytomanyproteins.Todate,byusingthismethoda oftherhodaminederivative,Rh-Pip-CO H,tothesidechainof
+2
+variety of UAAs have been successfully incorporated into pro- thelysineresidue(Hoodetal.,2008;Tianetal.,2011).Thet-butyl
+teins with high efficiencies and specificities (Liu and Schultz, protectedM6Pderivative,N -M6P(t-Bu) ,wasthenconjugated
+3 2
+2010;LangandChin,2014;Zhangetal.,2015).Inaneffortto to alkyne-containing peptides on the solid support by click
+prep
+
+Chunk 6:
+ivative,Rh-Pip-CO H,tothesidechainof
+2
+variety of UAAs have been successfully incorporated into pro- thelysineresidue(Hoodetal.,2008;Tianetal.,2011).Thet-butyl
+teins with high efficiencies and specificities (Liu and Schultz, protectedM6Pderivative,N -M6P(t-Bu) ,wasthenconjugated
+3 2
+2010;LangandChin,2014;Zhangetal.,2015).Inaneffortto to alkyne-containing peptides on the solid support by click
+preparemulti-M6P-containingenzymes,weemployedagenetic chemistry (Hoogendoorn et al., 2014). N -CO H linker was
+3 2
+code expansion technique together with click chemistry (cop- coupledtotheNterminusofM6P-appendedpeptides.Finally,
+per(I)-catalyzedcycloadditionreaction). N -(M6P) -Rh peptides (n = 1, 2, 3, and 6) were obtained by
+3 n
+Asdescribedbelow,multipleM6P-appendedb-N-acetylhex- removaloft-butylgroupsforphosphateprotectionandcleavage
+osaminidases were generated with a high efficiency by click fromtheresinunderacidicconditions.Thesynthesizedmultiple
+chemistry between multiple M6P-appended N -peptides and M6P-appendedN -peptideswereanalyzedbyusingreversed-
+3 3
+enzymes possessing an alkynylated UAA. We also developed phase high-pressure liquid chromatography (HPLC) and mass
+cell-permeable, lysosome-targeting, near-infrared (NIR)-based spectrometry(MS).
+fluorogenic substrates for (real-time) monitoring of b-N-acetyl-
+hexosaminidase activity in lysosomes of live cells. The results InternalizationofM6P-AppendedN -Peptidesinto
+3
+ofstudiesconductedinthiseffortshowedthattheb-N-acetyl- Lysosomes
+hexosaminidase bearing three M6P residues was efficiently Prior to conjugation of the M6P-appended N -peptides to the
+3
+internalizedintopatient-derivedprimarycellsandwasthentraf- alkyne-containingenzyme,theeffectofthenumberofM6Pres-
+ficked to lysosomes. Very intriguingly, the glycoengineered iduesattachedtopeptidesoninternalizationintocellswasexam-
+enzyme removed the GM2-ganglioside accumulated in lyso- ined. In this study, time-dependent internalization of peptides
+somesofdiseasedcellsinwhich
+
+Chunk 7:
+ N -peptides to the
+3
+internalizedintopatient-derivedprimarycellsandwasthentraf- alkyne-containingenzyme,theeffectofthenumberofM6Pres-
+ficked to lysosomes. Very intriguingly, the glycoengineered iduesattachedtopeptidesoninternalizationintocellswasexam-
+enzyme removed the GM2-ganglioside accumulated in lyso- ined. In this study, time-dependent internalization of peptides
+somesofdiseasedcellsinwhichlysosomalb-N-acetylhexosa- into C2C12myoblasts, whichexpress M6PRontheirsurfaces
+minidaseisdeficient.ThefindingindicatesthattheM6P-enzyme (Gundryetal.,2009),wasinitiallyinvestigatedbyincubatingthe
+conjugatecanbeusedtorestoreb-N-acetylhexosaminidaseac- cellswithN -(M6P) -Rhpeptides(n=1,2,3,6)forvarioustime
+3 n
+tivityindiseasedcells. intervals(1–4hr).ThecellswerethentreatedwithLysoTracker
+Greentodeterminewhetherthepeptidesenterlysosomes.The
+RESULTS resultsofcellimageanalysisusingconfocalfluorescencemicro-
+scopyshowedthatN -(M6P) -RhandN -(M6P) -Rh,containing
+3 3 3 6
+DesignandSynthesisofMultipleM6P-Appended threeandsixM6Presidues,enteredcellsmoreefficientlythan
+N -Peptides peptides bearing less than three M6P residues (N -(M6P) -Rh
+3 3 1
+Tay-Sachs(TS)diseaseandSandhoffdisease(SD)areaclassof andN -(M6P) -Rh)(Figure2A).Thefindingssuggestthatatleast
+3 2
+LSDsthatresultfromdeficientactivityofb-N-acetylhexosamini- threeM6Presiduesarenecessaryforefficientinternalizationof
+dase,whichmainlycatalyzescleavageofGM2-gangliosideinly- thepeptidesintocells.ItwasalsofoundthatentryofM6P-ap-
+sosomestoformGM3-gangliosideandGalNAc(Figure1A)(Tsuji pendedpeptidesintocellsreachednearlysaturationafter2hr.
+et al., 2011). Inherited deficiencies of these enzymes lead to Importantly,thepeptidesmigratedexclusivelytolysosomes,as
+abnormal accumulation of GM2-ganglioside in lysosomes. In judgedbytheobservationofastrongco-localizationofrhoda-
+an investigation aimed at developing a strategy to remove mineattachedtopeptideswithLysoTrackerGreen.
+GM2-gangliosidestoredinlysosomesofdiseasedcells,glyco- Next, we eval
+
+Chunk 8:
+al., 2011). Inherited deficiencies of these enzymes lead to Importantly,thepeptidesmigratedexclusivelytolysosomes,as
+abnormal accumulation of GM2-ganglioside in lysosomes. In judgedbytheobservationofastrongco-localizationofrhoda-
+an investigation aimed at developing a strategy to remove mineattachedtopeptideswithLysoTrackerGreen.
+GM2-gangliosidestoredinlysosomesofdiseasedcells,glyco- Next, we evaluated whether M6P-appended peptides are
+engineered N-acetylhexosaminidases were produced byusing trafficked to lysosomes of diseased cells. In this study, TS
+a combination of the genetic code expansion technique with and SD patient-derived primary fibroblasts (TS and SD fibro-
+clickchemistry. blasts)thatlackendogenouslysosomalb-N-acetylhexosamini-
+Previous studies showed that the CI-M6PR interacts dase, along with C2C12 and NIH3T3 cell lines as a control,
+with monovalent M6P relatively weakly (K = 7 mM) but with were treated with N -(M6P) -Rh for 4 hr in the absence and
+d 3 3
+1256 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+Figure1. SchematicRepresentationofCleavageofGM2-GangliosideinLysosomesbyGlycoengineeredb-N-Acetylhexosaminidaseand
+SynthesisofMultipleM6P-ContainingN -Peptides
+3
+(A)Alkyne-containingb-N-acetylhexosaminidasegeneratedbyageneticcodeexpansiontechniqueiscoupledtoN3-peptidescontainingmultipleM6Presidues
+byclickchemistry.TheglycoengineeredenzymeisinternalizedintodiseasedcellsviaM6PR-mediatedendocytosisandisthentranslocatedtothelysosome
+whereitcatalyzescleavageofGM2-gangliosideintoGM3-gangliosideandGalNAc.
+(B)SynthesisofN3-peptidescontainingvariednumbersofM6Presidues.Reagentsandconditions:(a)Fmoc-Lys(Mtt)-OH,HCTU,DIEA,DMF;(b)20%piperidine
+inDMF;(c)Fmoc-b-Ala,HCTU,DIEA,DMF;(d)10%TFAinCH2Cl2;(e)Rh-Pip-CO2H,HCTU,DIEA,DMF;(f)N3-M6P(t-Bu)2,sodiumascorbate,CuSO4,DMF,H2O;
+(g) N3-CO2H linker, HCTU, DIEA, DMF; (h) TFA, TIS, H2O. Mtt, 4-methyltrityl; HCTU, O-(6-chlorobenzotriazol-1-yl)-N,N,N0,N0-tetramethyluronium hexa-
+fluorophosphate;DIEA,diisoprop
+
+Chunk 9:
+umbersofM6Presidues.Reagentsandconditions:(a)Fmoc-Lys(Mtt)-OH,HCTU,DIEA,DMF;(b)20%piperidine
+inDMF;(c)Fmoc-b-Ala,HCTU,DIEA,DMF;(d)10%TFAinCH2Cl2;(e)Rh-Pip-CO2H,HCTU,DIEA,DMF;(f)N3-M6P(t-Bu)2,sodiumascorbate,CuSO4,DMF,H2O;
+(g) N3-CO2H linker, HCTU, DIEA, DMF; (h) TFA, TIS, H2O. Mtt, 4-methyltrityl; HCTU, O-(6-chlorobenzotriazol-1-yl)-N,N,N0,N0-tetramethyluronium hexa-
+fluorophosphate;DIEA,diisopropylethylamine;DMF,N,N-dimethylformamide;TFA,trifluoroaceticacid;TIS,triisopropylsilane.
+presence of either free M6P as a competitor or NaN as an lines (Figures 2B and S1). However, when either free M6P or
+3
+endocytosisinhibitor(Parketal.,2015;Paietal.,2016).There- NaN was present in cells, the internalization efficiency of the
+3
+sultsshowedthatN -(M6P) -Rhentereddiseasedcells(TSand peptide into lysosomes was greatly attenuated (Figure S1),
+3 3
+SDfibroblasts)andwastranslocatedexclusivelytolysosomes, indicating that the peptide enters cells via M6PR-mediated
+phenomena which were also seen in C2C12 and NIH3T3 cell endocytosis.
+CellChemicalBiology25,1255–1267,October18,2018 1257
+
+---PAGE BREAK---
+
+Figure2. InternalizationofM6P-AppendedPeptidesintoCells
+(A)C2C12cellswereincubatedwith10mMofanindicatedpeptide(N3-(M6P)n-Rh,n=1,2,3,6)duringvarioustimeintervals(1–4hr).Afterwashing,cellswere
+treatedwithLysoTrackerGreenandthenHoechst33342.Cellimageswereobtainedbyusingconfocalfluorescencemicroscopy(scalebar,10mm).Mergedcell
+imagesofrhodamine(scarlet),LysoTracker(green)andHoechst33342(blue)areshown.l ex=405nmforHoechst33342,488nmforLysoTrackerGreenand
+543nmforrhodamine.Graphsshowfluorescenceintensity(FI)ofrhodamineofN3-(M6P)n-Rhincells,whichwasanalyzedbyusingtheZENsoftware.Un,
+untreated.Mean±SD,n=3.
+(legendcontinuedonnextpage)
+1258 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+Figure3. SynthesisofNIR-BasedFluorogenicSubstratesandtheirTime-DependentResponsestob-N-Acetylhexosaminidase
+(A)Thealkyne-bearingNIRprobe6wasglycosylatedwitha-GalNAc(OAc)-CltoaffordGalNAc-NIR-AYaf
+
+Chunk 10:
+sity(FI)ofrhodamineofN3-(M6P)n-Rhincells,whichwasanalyzedbyusingtheZENsoftware.Un,
+untreated.Mean±SD,n=3.
+(legendcontinuedonnextpage)
+1258 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+Figure3. SynthesisofNIR-BasedFluorogenicSubstratesandtheirTime-DependentResponsestob-N-Acetylhexosaminidase
+(A)Thealkyne-bearingNIRprobe6wasglycosylatedwitha-GalNAc(OAc)-CltoaffordGalNAc-NIR-AYafterremovalofO-acetylgroups.Theresultingproduct
+3
+wascoupledto an azide-containing morpholine derivativeto giveGalNAc-NIR-MP byclick chemistry. In addition, GalNAc-NIR-AY was conjugated with
+N-(M6P)-RhandN-(M6P)-RhunderclickchemistryconditionstogenerateGalNAc-NIR-(M6P)-RhandGalNAc-NIR-(M6P)-Rh,respectively.
+3 3 3 6 3 6
+(B)Eachfluorogenicsubstrate(10mM,50mMphosphatebuffercontaining1%DMSO,pH5.0)wasincubatedwithb-N-acetylhexosaminidase(50nM)at37(cid:2)C.
+Changesinfluorescenceintensityofeachsubstrateweredeterminedasafunctionoftimebyusingafluorometer(l ex=670nm).
+Detectionofb-N-AcetylhexosaminidaseActivityin (MP)andmultipleM6Presidueswereattachedtotheprobesto
+LysosomesUsingFluorogenicSubstrates targetlysosomes.
+Cell-permeable,lysosome-targeting,fluorogenicsubstratesfor The spectral properties of NIR fluorogenic substrates were
+detecting b-N-acetylhexosaminidase activity in live cells have initiallyexamined.Themaximumabsorbanceofthenon-glyco-
+notbeendevelopedtodate.Owingtotheneedtomeasureac- sylatedprobeNIR-MPinaqueousbufferatpH5.0,atwhichlyso-
+tivityofthesupplementalglycoengineeredenzymeinlysosomes somalenzymecatalysisoccursoptimally,washigherthanthatof
+of diseased cells, NIR-based fluorogenic substrates (GalNAc- itsglycosylatedform(GalNAc-NIR-MP),likelyaresultofpartial
+NIR-MP, GalNAc-NIR-(M6P) -Rh, and GalNAc-NIR-(M6P) -Rh) deprotonation of the OH group (pK = approximately 4.5) of
+3 6 a
+for b-N-acetylhexosaminidase were synthesized according to NIR-MP(FigureS2A)(Yuanetal.,2012;Zhangetal.,2017).How-
+thepathwayshowninFigure3A(Hyunetal.,2018).Morpholine ever, GalNAc-NIR-MP showed a
+
+Chunk 11:
+ogenic substrates (GalNAc- itsglycosylatedform(GalNAc-NIR-MP),likelyaresultofpartial
+NIR-MP, GalNAc-NIR-(M6P) -Rh, and GalNAc-NIR-(M6P) -Rh) deprotonation of the OH group (pK = approximately 4.5) of
+3 6 a
+for b-N-acetylhexosaminidase were synthesized according to NIR-MP(FigureS2A)(Yuanetal.,2012;Zhangetal.,2017).How-
+thepathwayshowninFigure3A(Hyunetal.,2018).Morpholine ever, GalNAc-NIR-MP showed almost no fluorescence, while
+(B)TSfibroblasts,SDfibroblasts,C2C12cells,andNIH3T3cellswereseparatelyincubatedwith10mMN-(M6P)-Rhfor4hr.Afterwashing,cellsweretreatedwith
+3 3
+LysoTrackerGreenandthenHoechst33342.Cellimageswereobtainedusingconfocalfluorescencemicroscopy(scalebar,10mm).Shownaremergedcell
+imagesofrhodamine(scarlet),LysoTracker(green),andHoechst33342(blue).Graphsshowfluorescenceintensity(FI)ofrhodamine(scarlet)ofN3-(M6P)3-Rhand
+LysoTracker(green)atpositionsalongtheredlineacrossthecell.Experimentswererepeatedthreetimes,givingsimilarresults(seeFigureS1formorecellimages).
+CellChemicalBiology25,1255–1267,October18,2018 1259
+
+---PAGE BREAK---
+
+Figure4. Detectionofb-N-AcetylhexosaminidaseActivityinCellsUsingGalNAc-NIR-MP
+(AandB)(A)C2C12and(B)NIH3T3cellswereincubatedfor4hrwith20mMGalNAc-NIR-MPinthe(left)absenceand(right)presenceof50mMPUGNAc.After
+washing,cellsweretreatedwithLysoTrackerGreenandthenHoechst33342.Cellimageswereobtainedusingconfocalfluorescencemicroscopy(scalebar,
+10mm).Fluorescenceintensity(FI)oftheNIRprobeincellswasanalyzedbyusingtheZENsoftware.Bottomimages:mergedcellimagesofanNIRprobe(red),
+LysoTracker(green),andHoechst33342(blue).l ex=405nmforHoechst33342,488nmforLysoTracker,and640nmforanNIRprobe.Graphsin(A)and(B)are
+fluorescenceintensitiesofanNIRprobe(red)arisingfromGalNAc-NIR-MPandLysoTracker(green)atpositionsalongtheredlineacrosseachcell.Experiments
+wererepeatedthreetimes,givingsimilarresults.
+(CandD)(C)TSand(D)SDfibroblastswereincubatedwith20mMGalNAc-NIR-MPfor4hr.Afterwashing,cellsweretreatedwithLysoTrackerGreenandthen
+Hoechst33342.Cellimageswereobtaine
+
+Chunk 12:
+ysoTracker,and640nmforanNIRprobe.Graphsin(A)and(B)are
+fluorescenceintensitiesofanNIRprobe(red)arisingfromGalNAc-NIR-MPandLysoTracker(green)atpositionsalongtheredlineacrosseachcell.Experiments
+wererepeatedthreetimes,givingsimilarresults.
+(CandD)(C)TSand(D)SDfibroblastswereincubatedwith20mMGalNAc-NIR-MPfor4hr.Afterwashing,cellsweretreatedwithLysoTrackerGreenandthen
+Hoechst33342.Cellimageswereobtainedusingconfocalfluorescencemicroscopy(scalebar,10mm).
+(E)GraphsshowfluorescenceintensityoftheNIRprobein(A)–(D)intheabsenceandpresenceofPUGNAc(mean±SD,n=3).
+NIR-MP was highly emissive upon excitation at 670 nm (Fig- fluorescence of cells treated with GalNAc-NIR-MP greatly
+ure S2B). The greatly different fluorescence properties of the increased after incubation for 2 hr, and the signal overlapped
+non-glycosylated and glycosylated NIR probes suggest that with the fluorescence of LysoTracker Green (Figures S2D and
+NIRfluorogenicsubstrateswouldbeusefulforsensitivelymoni- S2E). Contrary to observations made using GalNAc-NIR-MP,
+toringb-N-acetylhexosaminidaseactivity. NIR fluorescence in cells treated with GalNAc-NIR-(M6P) -Rh
+6
+Indeed,treatmentofGalNAc-NIR-MPwithb-N-acetylhexosa- wasweak,eventhoughrhodaminefluorescencewasrelatively
+minidaseresultedinalarge,rapid,andtime-dependentincrease strong (Figure S2D). The findings indicated that GalNAc-NIR-
+influorescenceintensity(Figure3B).However,theglycopeptide- (M6P) -Rhwasefficientlytranslocatedtothelysosomebutwas
+6
+based NIR probes, GalNAc-NIR-(M6P) -Rh and GalNAc-NIR- apoorsubstrateforthelysosomalb-N-acetylhexosaminidase.
+3
+(M6P) -Rh,generatedslightlyincreasedfluorescencesignalsin ToexaminetheselectiveresponseofGalNAc-NIR-MPtolyso-
+6
+response to treatment of b-N-acetylhexosaminidase, presum- somalb-N-acetylhexosaminidase,C2C12andNIH3T3cellswere
+ably owing to their unfavorably large size. We also observed incubatedwiththeprobefor4hrintheabsenceandpresenceof
+that O-(2-acetamido-2-deoxy-D-glucopyranosylidene)amino- PUGNAcwhilemonitoring
+
+Chunk 13:
+edslightlyincreasedfluorescencesignalsin ToexaminetheselectiveresponseofGalNAc-NIR-MPtolyso-
+6
+response to treatment of b-N-acetylhexosaminidase, presum- somalb-N-acetylhexosaminidase,C2C12andNIH3T3cellswere
+ably owing to their unfavorably large size. We also observed incubatedwiththeprobefor4hrintheabsenceandpresenceof
+that O-(2-acetamido-2-deoxy-D-glucopyranosylidene)amino- PUGNAcwhilemonitoringlysosomalb-N-acetylhexosaminidase
+N-phenylcarbamate(PUGNAc)actedasaninhibitorofb-N-ace- activities.AsshowninFigures4Aand4B,bothcellsdisplayed
+tylhexosaminidase(FigureS2C)(Kimetal.,2006). strongfluorescenceofanNIRprobeatlocationsthatoverlapped
+Theabilityoffluorogenicsubstratestodetectb-N-acetylhexo- with the fluorescence of LysoTracker Green. However, the
+saminidaseactivityinlysosomeswasinvestigatednext.C2C12 NIR fluorescence signals emanating from the treated cells
+cells were incubated with GalNAc-NIR-MP and GalNAc-NIR- were greatly reduced when PUGNAc was present. The
+(M6P) -Rh.TheresultsofcellimageanalysisshowedthatNIR finding indicates that GalNAc-NIR-MP responds to lysosomal
+6
+1260 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+b-N-acetylhexosaminidaseselectively.Asexpected,SDandTS also expressed and purified for use in control experiments
+fibroblasts did not exhibit fluorescence of an NIR probe when (17.3mg/L).TheincorporationofLys(PA)attheselectedposi-
+incubatedwithGalNAc-NIR-MP(Figures4Cand4D). tions in both mutants was confirmed by MS analysis (Figures
+Experiments were also carried out to determine if GalNAc- 5C and 5D). No incorporation of any natural amino acid was
+NIR-MP can be utilized for real-time monitoring of b-N-acetyl- observedinthemutantenzymes.
+hexosaminidase activity in live cells. To attain this objective, To ligate the alkyne-containing b-N-acetylhexosaminidases
+C2C12cellspre-treatedwithLysoTrackerGreenwereincubated with multiple M6P-appended N -peptides, Hex-K432Lys(PA)
+3
+withGalNAc-NIR-MPintheabsenceandpresenceofPUGNAc. and Hex-K5
+
+Chunk 14:
+ino acid was
+NIR-MP can be utilized for real-time monitoring of b-N-acetyl- observedinthemutantenzymes.
+hexosaminidase activity in live cells. To attain this objective, To ligate the alkyne-containing b-N-acetylhexosaminidases
+C2C12cellspre-treatedwithLysoTrackerGreenwereincubated with multiple M6P-appended N -peptides, Hex-K432Lys(PA)
+3
+withGalNAc-NIR-MPintheabsenceandpresenceofPUGNAc. and Hex-K561Lys(PA), along with WT-Hex as a control, were
+Cellimageswereobtainedusingconfocalfluorescencemicro- coupled with N -(M6P) -Rh by click chemistry for 1–3 hr at
+3 3
+scopyevery5minfora2hrincubationperiodwithoutwashing. 25(cid:2)C(Besanceney-Webleretal.,2011).Afterquenchingthere-
+Theresultsof cell imageanalysisshowed thatanNIRfluores- actions by addition of EDTA, the mixtures were analyzed by
+cence signal arising from GalNAc-NIR-MP, which overlapped SDS-PAGE. It was found that no ligated enzyme was formed
+with the fluorescence of LysoTracker Green, was enhanced whenWT-HexandN -(M6P) -Rhweresubjectedtoclickchem-
+3 3
+followinga60minincubationtimeandreachedmaximumafter istry,indicatingthattheLys(PA)unitisrequiredforligation(Fig-
+100min(FiguresS3AandS3C).However,theNIRfluorescence ureS4A).However,theligatedenzymeHex-K561Lys-(M6P) -Rh
+3
+signal arising from GalNAc-NIR-MP was almost completely was successfully generated with a very high efficiency (more
+abrogatedinthepresenceofPUGNAc(FiguresS3BandS3C). than 95%) after a coupling reaction of Hex-K561Lys(PA) with
+Collectively, the findings support the conclusion that GalNAc- N -(M6P) -Rh for 1 hr (Figures S4A and S4C). In marked
+3 3
+NIR-MPhastheabilitytodetectlysosomalb-N-acetylhexosami- contrast,theligatedenzymeHex-K432Lys-(M6P) -Rhwaspro-
+3
+nidase activity in lysosomes of live cells in a selective and ducedonlywithaverylowefficiencyevenaftera3hrcoupling
+sensitivemanner. reaction of Hex-K561Lys(PA) with N -(M6P) -Rh (Figure S4B).
+3 3
+Because K432 is located in a loop region relatively close to
+PreparationofM6P-AppendedEnzymes twoheli
+
+Chunk 15:
+theabilitytodetectlysosomalb-N-acetylhexosami- contrast,theligatedenzymeHex-K432Lys-(M6P) -Rhwaspro-
+3
+nidase activity in lysosomes of live cells in a selective and ducedonlywithaverylowefficiencyevenaftera3hrcoupling
+sensitivemanner. reaction of Hex-K561Lys(PA) with N -(M6P) -Rh (Figure S4B).
+3 3
+Because K432 is located in a loop region relatively close to
+PreparationofM6P-AppendedEnzymes twohelicalstructuresoftheenzyme(Figure5A),thissitemight
+Inthenextphaseofthisinvestigation,wepreparedmulti-M6P- notbeeasilyaccessedbyN -(M6P) -Rhforconjugation.How-
+3 3
+conjugated b-N-acetylhexosaminidases by coupling enzymes ever,K561islocatedinaloopregionrelativelyremotefromhe-
+containing an alkyne-linked lysine (Lys(PA)) (Nguyen et al., licalstructuresoftheenzymeand,asaresult,theligatedenzyme
+2009) with N -(M6P) -Rh under click chemistry conditions. Hex-K561Lys-(M6P) -Rh was successfully produced by click
+3 3 3
+Because N -(M6P) -Rh and N -(M6P) -Rh were internalized chemistry.
+3 3 3 6
+intolysosomestoasimilardegree,theformerwasselectedfor Kineticstudieswereconductedtoassesswhetherintroduc-
+ligation reactions with the UAA-incorporated enzyme. Among tion of the multiple M6P-appended peptide into the enzyme
+UAAsthathavebeenutilizedforsite-specificproteinconjugation affects its catalytic activity. The rates of increases in the NIR
+(LangandChin,2014),Lys(PA)waschosenbecauseotherUAAs fluorescence intensity of GalNAc-NIR-MP were determined
+containingstrainedalkynes/alkenesandtetrazinesaresyntheti- at various concentrations after treatment of WT-Hex, Hex-
+cally challenging and unstable under certain conditions, and K561Lys(PA), and Hex-K561Lys-(M6P) -Rh. The results
+3
+Cu(I)-catalyzedclickreactionisefficientenoughforthisstudy. showed that WT-Hex and Hex-K561Lys(PA) had very similar
+The required alkyne-containing b-N-acetylhexosaminidases k andK values(Figures5EandS4D),indicatingthatmuta-
+cat m
+were expressed in Escherichia coli by using the genetic code tionofLystoLys(PA)doesnotaffectcata
+
+Chunk 16:
+tain conditions, and K561Lys(PA), and Hex-K561Lys-(M6P) -Rh. The results
+3
+Cu(I)-catalyzedclickreactionisefficientenoughforthisstudy. showed that WT-Hex and Hex-K561Lys(PA) had very similar
+The required alkyne-containing b-N-acetylhexosaminidases k andK values(Figures5EandS4D),indicatingthatmuta-
+cat m
+were expressed in Escherichia coli by using the genetic code tionofLystoLys(PA)doesnotaffectcatalyticactivity.Inaddi-
+expansiontechnique.ResiduesLys432andLys561ofb-N-ace- tion, the ligated enzyme Hex-K561Lys-(M6P) -Rh had similar
+3
+tylhexosaminidasewerechosenassitesforgeneticincorpora- catalytic activity to WT-Hex, showing that the enzyme
+tionofLys(PA)sincetheyareexposedtosolventandarelocated activityisnotaffectedbythepresenceofthemultipleM6P-ap-
+in loop regions remote from the active site (Figure 5A) (Jiang pendedpeptide.Wealsoevaluatedtheactivityoftheglycoen-
+etal.,2011). gineered enzyme toward cleavage of GM2-oligosaccharide to
+With this in mind, an amber (TAG) mutation was introduced form GM3-oligosaccharide. The results of thin-layer chroma-
+intocodonsforLys432andLys561intheb-N-acetylhexosamini- tography analysis of enzymatic reaction mixtures showed that
+dasegene.BecauseaHis -tagwidelyusedforaffinitypurifica- GM2-oligosaccharide was degraded by Hex-K561Lys-(M6P) -
+6 3
+tion is known to negatively affect click chemistry (Presolski Rh with a similar efficiency to those of WT-Hex and Hex-
+et al., 2011), the C terminus of the enzyme was designed to K561Lys(PA) (FigureS4E).
+contain a Strep-tag for purification. The two mutants, Hex-
+K432Lys(PA)andHex-K561Lys(PA),possessingLys(PA)atposi- DegradationofGM2-GangliosideStoredinLysosomes
+tions432and561,wereexpressedintheE.coliDH10bstrain, ofDiseasedCellsbySupplementalHex-K561Lys-
+which was transformed with a plasmid containing pyrrolysyl- (M6P) -Rh
+3
+tRNA(PylT)andpyrrolysyl-tRNAsynthetase(PylRS)fromMetha- The ability of the glycoengineered b-N-acetylhexosaminidase
+nosarcina mazei (Lee et al., 2013) in culture media containi
+
+Chunk 17:
+(PA)atposi- DegradationofGM2-GangliosideStoredinLysosomes
+tions432and561,wereexpressedintheE.coliDH10bstrain, ofDiseasedCellsbySupplementalHex-K561Lys-
+which was transformed with a plasmid containing pyrrolysyl- (M6P) -Rh
+3
+tRNA(PylT)andpyrrolysyl-tRNAsynthetase(PylRS)fromMetha- The ability of the glycoengineered b-N-acetylhexosaminidase
+nosarcina mazei (Lee et al., 2013) in culture media containing to enter cells was evaluated by incubating SD and TS
+3 mM Lys(PA). The produced mutants were subjected to fibroblasts with Hex-K561Lys-(M6P) -Rh for various times
+3
+Strep-Tactin affinity chromatography to give pure proteins (0–14hr).Forcomparisonpurposes,thecellswerealsotreated
+(Hex-K432Lys(PA),7.2mg/L;Hex-K561Lys(PA),9.4mg/L).The under the same conditions with rhodamine-labeled, commer-
+resultsofSDS-PAGEanalysisshowedthatthefull-lengthmutant cialized human b-hexosaminidase B (Rh-HEXB), which was
+enzymeswereexpressedinthepresenceofLys(PA)butnotinits producedinmammaliancells.Inaddition,cellswereincubated
+absence (Figure 5B). A wild-type (WT) enzyme (WT-Hex) was for 14 hr with a Cy3-labeled WT-Hex (Cy3-WT-Hex), which
+CellChemicalBiology25,1255–1267,October18,2018 1261
+
+---PAGE BREAK---
+
+Figure5. GeneticIncorporationofLys(PA)intob-N-AcetylhexosaminidaseandEnzymeKinetics
+(A)Thetwomutationsites,Lys432andLys561,forincorporationofLys(PA)intob-N-acetylhexosaminidaseareshownintheX-raycrystalstructure(PDB:3RPM).
+Rotatedstructuresareshownintheboxtomoreclearlyvisualizethemutatedsites.
+(B)SDS-PAGEanalysisofWT-Hexandtwomutants,Hex-K432Lys(PA)andHex-K561Lys(PA),expressedintheabsenceandpresenceofLys(PA).
+(C)ElectrosprayionizationMS(ESI-MS)ofWT-Hex,Hex-K432Lys(PA),andHex-K561Lys(PA).Boxesshowthedeconvolutedspectra.WT-Hex:expectedmass,
+50,391Da,50,260Da(-Met);observedmass,50,391Da,50,261Da(-Met).Hex-K432Lys(PA):expectedmass,50,473Da,50,342Da(-Met);observedmass,
+50,474Da,50,342Da(-Met).Hex-K561Lys(PA):expectedmass,50,473Da,50,342Da(-Met);observedmass,50,473Da,50,341Da(-Met).
+(D)MALDI-TOFMS
+
+Chunk 18:
+ofLys(PA).
+(C)ElectrosprayionizationMS(ESI-MS)ofWT-Hex,Hex-K432Lys(PA),andHex-K561Lys(PA).Boxesshowthedeconvolutedspectra.WT-Hex:expectedmass,
+50,391Da,50,260Da(-Met);observedmass,50,391Da,50,261Da(-Met).Hex-K432Lys(PA):expectedmass,50,473Da,50,342Da(-Met);observedmass,
+50,474Da,50,342Da(-Met).Hex-K561Lys(PA):expectedmass,50,473Da,50,342Da(-Met);observedmass,50,473Da,50,341Da(-Met).
+(D)MALDI-TOFMSofpeptidefragmentsafterGlu-CdigestionofWT,Hex-K432Lys(PA),andHex-K561Lys(PA).PeptideK432(residues425–433;TSFGSFDKD)
+andpeptideK561(residues559–569;VPKDLNRYTAE)representtheGlu-Cdigestedpeptidefragmentscontainingresidues432and561,respectively.Peptide
+K432Lys(PA)andpeptideK561Lys(PA)representthepeptidescontainingLys(PA)atpositions432and561,respectively.
+(E)KineticparametersofWT-Hex,Hex-K561Lys(PA),andHex-561Lys-(M6P)3-Rh.Theparameterswereobtainedfromtheresultsofenzymekineticsshownin
+FigureS4D(mean±SD,n=3).
+lacksM6Presidues,asacontrol.Theinternalizationefficiency ring in cells overlapped with the fluorescence of LysoTracker
+oftheenzymeintocellswasdeterminedbymeasuringfluores- Green showed that Hex-K561Lys-(M6P) -Rh and Rh-HEXB
+3
+cence signals arising from the rhodamine dye linked to the were internalized into cells and then migrated to lysosomes
+enzyme. The observation that rhodamine fluorescence occur- (Figures S5A and S5B). In marked contrast, the cells treated
+1262 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+Figure6. InternalizationofHex-K561Lys-(M6P) -RhintoDiseasedCellsandDetectionofItsActivityUsinganNIRProbe
+3
+(A)TSandSDfibroblastswereincubatedforvarioustimeperiodswith50nMHex-K561Lys-(M6P)3-Rhor50nMrhodamine-labeledcommercializedhuman
+HEXBwhichwasproducedinmammaliancells.Cellimageswereobtainedbyusingconfocalfluorescencemicroscopy(FigureS5).Fluorescenceintensitiesof
+rhodaminelinkedtoenzymesincellswereanalyzedbyusingtheZENsoftware.
+(B)TSfibroblastsweretreatedfor10hrwith100nMHex-K561Lys-(M6P)-RhintheabsenceandpresenceofeitherPUGNAc(50mM)orHCQ(10mM).Afte
+
+Chunk 19:
+periodswith50nMHex-K561Lys-(M6P)3-Rhor50nMrhodamine-labeledcommercializedhuman
+HEXBwhichwasproducedinmammaliancells.Cellimageswereobtainedbyusingconfocalfluorescencemicroscopy(FigureS5).Fluorescenceintensitiesof
+rhodaminelinkedtoenzymesincellswereanalyzedbyusingtheZENsoftware.
+(B)TSfibroblastsweretreatedfor10hrwith100nMHex-K561Lys-(M6P)-RhintheabsenceandpresenceofeitherPUGNAc(50mM)orHCQ(10mM).After
+3
+washing,cellswereincubatedwith20mMGalNAc-NIR-MPfor4hr,followedbytreatmentwithLysoTrackerGreenandHoechst33342.Cellimageswereob-
+tainedusingconfocalfluorescencemicroscopy(scalebar,10mm).FluorescenceintensitiesofNIRandrhodamineprobesincellswereanalyzedbyusingtheZEN
+software.l =405nmforHoechst33342(blue),488nmforLysoTracker(green),543nmforrhodamine(yellow),and640nmforanNIRprobe(red).Graphsshow
+ex
+fluorescenceintensitiesof(upper)NIRand(lower)rhodamineprobesincells.FI,fluorescenceintensity;Un,untreated.
+CellChemicalBiology25,1255–1267,October18,2018 1263
+
+---PAGE BREAK---
+
+Figure7. DegradationofGM2-gangliosideStoredinLysosomesofDiseasedCellsbySupplementalHex-K561Lys-(M6P) -Rh
+3
+(AandB)(A)TSand(B)SDfibroblastswereincubatedwith200nMHex-K561Lys-(M6P)-Rhfordifferenttimeintervals.Inaddition,SDfibroblastswereincubated
+3
+for5dayswith200nMHex-K561Lys-(M6P)-Rhinthepresenceof50mMPUGNAc.ThetreatedcellswerefixedattheindicatedtimeandGM2-gangliosidewas
+3
+detectedaftertreatmentwithGM2-gangliosideantibodyfollowedbytreatmentwithfluoresceinisothiocyanate(FITC)-labeledsecondaryantibody.Cellimages
+wereobtainedusingconfocalmicroscopy(scalebar,10mm).FluorescenceintensityofFITCincellswasanalyzedbyusingtheZENsoftware.l =488nmfor
+ex
+GM2antibody(green)and543nmforrhodamine(red).Un,untreated
+(C)Fluorescenceintensity(FI)ofFITCofantibodyshownin(A)and(B).
+with Cy3-WT-Hex exhibited very weak fluorescence of Cy3 Next,todetermineifHex-K561Lys-(M6P) -Rhiscatalytically
+3
+(FiguresS5AandS5B),indicatingthatM6Presiduesareessen- active in lysosomes, SD and TS fibroblasts were incubated
+tialforinternalizationoftheenz
+
+Chunk 20:
+ENsoftware.l =488nmfor
+ex
+GM2antibody(green)and543nmforrhodamine(red).Un,untreated
+(C)Fluorescenceintensity(FI)ofFITCofantibodyshownin(A)and(B).
+with Cy3-WT-Hex exhibited very weak fluorescence of Cy3 Next,todetermineifHex-K561Lys-(M6P) -Rhiscatalytically
+3
+(FiguresS5AandS5B),indicatingthatM6Presiduesareessen- active in lysosomes, SD and TS fibroblasts were incubated
+tialforinternalizationoftheenzymeintocells.Importantly,Hex- withtheenzymeintheabsenceandpresenceofeitherPUGNAc
+K561Lys-(M6P) -Rh entered cells more rapidly than did orhydroxychloroquine(HCQ).ItisknownthatHCQelevatesthe
+3
+Rh-HEXB(FiguresS5and6A),showingthatthehomogeneous lysosomal pH, causing disruption of lysosomal enzyme activ-
+multi-M6P-containingenzyme,generatedbycombininggenetic ities, which are optimal at low pH (pH % 5) (Xie and Klionsky,
+code expansion with bioorthogonal ligation techniques, has a 2007; Homewood et al., 1972). The treated cells were then
+betterabilitytoentercellsthanRh-HEXB,whichwasproduced incubatedwithGalNAc-NIR-MPtodetectenzymeactivityinly-
+inmammaliancellsandthusmightcontaintheincompleteM6P sosomes. The cells treated with Hex-K561Lys-(M6P) -Rh dis-
+3
+glycosylation. played fluorescence signals arising from both rhodamine and
+1264 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+the NIR probe, which co-localized with LysoTracker fluores- inanimalsorhumans;theE.colisystemmightbeineffectiveto
+cence (Figures 6B and S6). However, when either PUGNAc or express stable, properly folded human lysosomal enzymes;
+HCQwaspresent,averylowfluorescencesignalofanNIRprobe and,thus,morestudiesareneededforpracticalapplications.
+was produced but an intense emission from rhodamine was
+observed in cells (Figures 6B and S6). This finding indicates SIGNIFICANCE
+thatalthoughtheenzymemigratestothelysosome(highrhoda-
+minefluorescenceinlysosomes),itsactivityisgreatlyattenuated A genetic code expansion technique together with bio-
+in the presence of PUGNAc or HCQ (low fluorescence of an or
+
+Chunk 21:
+studiesareneededforpracticalapplications.
+was produced but an intense emission from rhodamine was
+observed in cells (Figures 6B and S6). This finding indicates SIGNIFICANCE
+thatalthoughtheenzymemigratestothelysosome(highrhoda-
+minefluorescenceinlysosomes),itsactivityisgreatlyattenuated A genetic code expansion technique together with bio-
+in the presence of PUGNAc or HCQ (low fluorescence of an orthogonalligationwasutilizedtopreparetheglycosidase
+NIRprobeinlysosomes).Theoverallfindingsserveasevidence conjugatedwithmultipleM6Ps,whicharecriticalfortarget-
+to support the conclusion that the catalytically active M6P- ing lysosomes. The multiple M6P-conjugated glycosidase
+appendedenzymeisdeliveredtolysosomesofdiseasedcells. was generated with a high efficiency by using these com-
+Finally,weinvestigatedtheeffectofHex-K561Lys-(M6P) 3 -Rh bined techniques. Very intriguingly, the glycoengineered
+on the degradation of GM2-ganglioside accumulated in enzyme is translocated into lysosomes of patient-derived
+diseased cells by employing an immunocytochemistry-based primary cells and removed substances accumulated in
+assaywithGM2-gangliosideantibody(Ohsawaetal.,2005;Ita- lysosomes.Inaddition,acell-permeable,lysosome-target-
+kura et al., 2006). In this study, SD and TS fibroblasts were ing, NIR-based fluorogenic probe was employed to detect
+treated with Hex-K561Lys-(M6P) 3 -Rh for various times and activitiesofendogenousandsupplementalglycoengineered
+then immunostained with GM2-ganglioside antibody. Analysis enzymesinlysosomesoflivecells.Becausemulti-M6P-con-
+of cell images of the untreated SD and TS fibroblasts showed taining lysosomal enzymes can be efficiently produced by
+thatGM2-gangliosideaccumulatesinthediseasedcells(Figures using the present coupled strategy, it is anticipated that
+7andS7).Importantly,astheincubationtimeincreased,thelevel this study aids the generation of other types of lysosomal
+ofGM2-gangliosidegraduallydecreasedandthenalmostdisap- enzymescontainingmultiple
+
+Chunk 22:
+ SD and TS fibroblasts showed taining lysosomal enzymes can be efficiently produced by
+thatGM2-gangliosideaccumulatesinthediseasedcells(Figures using the present coupled strategy, it is anticipated that
+7andS7).Importantly,astheincubationtimeincreased,thelevel this study aids the generation of other types of lysosomal
+ofGM2-gangliosidegraduallydecreasedandthenalmostdisap- enzymescontainingmultipleM6Ps.
+peared after 4 days. In addition, fluorescence signals arising
+fromrhodaminelinkedtotheenzymeinlysosomesco-localized STAR+METHODS
+wellwiththoseoftheantibody.ThisindicatesthatGM2-antibody
+recognizes lysosomal GM2-ganglioside and gradual degrada-
+Detailedmethodsareprovidedintheonlineversionofthispaper
+tion of GM2-ganglioside by the internalized enzyme occurs.
+andincludethefollowing:
+However, GM2-ganglioside in cells treated with the enzyme
+wasnotdegradedwhenPUGNAcwaspresent.Takentogether, d KEYRESOURCESTABLE
+thefindingsindicatethattheglycoengineeredenzyme,prepared d CONTACTFORREAGENTANDRESOURCESHARING
+by combining genetic code expansion and bioorthogonal liga- d EXPERIMENTALMODELANDSUBJECTDETAILS
+tion techniques, enter diseased cells and that it degrades d METHODDETAILS
+GM2-gangliosidestoredinlysosomes. B ExpressionandPurificationofMutantb-N-acetylhexo-
+saminidaseContainingLys(PA)
+DISCUSSION B Analysis of Incorporation of Lys(PA) into Proteins
+byMS
+Lysosomal enzymes produced in mammalian cells, which are B Ligation of M6P-appended N -peptides to Lys(PA)-
+3
+used to treat LSDs, possess heterogeneous glycans and Incorporated b-N-acetylhexosaminidase by Click
+relativelylowlevelsofM6Pmodification.Therefore,itishighly Chemistry
+desirable to create an efficient method to generate lysosomal B EnzymeKinetics
+enzymescontainingmultipleM6Presidues.Inthecurrentstudy B Cleavage of GM2-oligosaccharide to GM3-oligosac-
+wehavedemonstratedthatacombinationofthegeneticcode charidebyb-N-Acetylhexosaminidase
+expansiontechniqueandclickchemistryispowerfultoproduce B General Method to Quantitat
+
+Chunk 23:
+6Pmodification.Therefore,itishighly Chemistry
+desirable to create an efficient method to generate lysosomal B EnzymeKinetics
+enzymescontainingmultipleM6Presidues.Inthecurrentstudy B Cleavage of GM2-oligosaccharide to GM3-oligosac-
+wehavedemonstratedthatacombinationofthegeneticcode charidebyb-N-Acetylhexosaminidase
+expansiontechniqueandclickchemistryispowerfultoproduce B General Method to Quantitate Fluorescence Intensity
+catalyticallyactive,multipleM6P-appendedb-N-acetylhexosa- ofFluorescentDyesinCells
+minidase.Wehavealsoshownthattheglycoengineeredenzyme B InternalizationofM6P-appendedPeptidesintoCells
+isefficientlyinternalizedintocellsviaM6PR-mediatedendocy- B InternalizationofHex-K561Lys-(M6P) -RhintoCells
+3
+tosisandistransportedtolysosomes.Importantly,theglycoen- B EfficiencyofFluorogenicSubstratestoDetectIntracel-
+gineered enzyme enters lysosomes of patient-derived primary lularb-N-acetylhexosaminidaseActivity
+cellsmorerapidlythancommercializedhumanhexosaminidase, B Detection of b-N-acetylhexosaminidase Activity in
+whichisproducedinmammaliancells.Moreimportantly,thegly- CellsUsingGalNAc-NIR-MP
+coengineeredenzymedegradedGM2-gangliosideaccumulated B DetectionofHex-K561Lys-(M6P) -RhActivityInternal-
+3
+inlysosomesofdiseasedcells.Wealsopreparedandemployed izedintoDiseasedCellsUsingGalNAc-NIR-MP
+acell-permeable,lysosome-targeting,NIRfluorogenicprobefor B Degradation of GM2-ganglioside Accumulated in
+monitoringactivitiesofendogenousandsupplementalglycoen- DiseasedCellsbyHex-K561Lys-(M6P) -Rh
+3
+gineeredb-N-acetylhexosaminidasesinlysosomesoflivecells. B GeneralforSynthesis
+Inthisstudy,wehaveprovidedanefficientmethodtogenerate B 2-Azidoethyl 2,3,4-tri-O-acetyl-6-O-(tert-butyldime-
+catalytically active lysosomal enzymes containing multiple thylsilyl)-a-D-mannopyranoside(2)
+M6Ps.However,itshouldbenotedthattheglycoengineereden- B 2-Azidoethyl 2,3,4-tri-O-acetyl-a-D-mannopyrano-
+zymesproducedbythepresentmethodmightbeimmunogenic side(3)
+CellChemicalBiology25,1255–1267,October1
+
+Chunk 24:
+sstudy,wehaveprovidedanefficientmethodtogenerate B 2-Azidoethyl 2,3,4-tri-O-acetyl-6-O-(tert-butyldime-
+catalytically active lysosomal enzymes containing multiple thylsilyl)-a-D-mannopyranoside(2)
+M6Ps.However,itshouldbenotedthattheglycoengineereden- B 2-Azidoethyl 2,3,4-tri-O-acetyl-a-D-mannopyrano-
+zymesproducedbythepresentmethodmightbeimmunogenic side(3)
+CellChemicalBiology25,1255–1267,October18,2018 1265
+
+---PAGE BREAK---
+
+B 2-Azidoethyl2,3,4-tri-O-acetyl-6-O-(di-tert-butylphos- Galibert,M.,Dumy,P.,andBoturyn,D.(2009).One-potapproachtowell-
+phoryl)-a-D-mannopyranoside(4) defined biomolecular assemblies by orthogonal chemoselective ligations.
+B 2-Azidoethyl 6-O-(di-tert-butylphosphoryl)-a-D-man- Angew.Chem.Int.Ed.48,2576–2579.
+nopyranoside(N -M6P(t-Bu) ) Ghosh, P., Dahms, N.M., and Kornfeld, S. (2003). Mannose 6-phosphate
+3 2
+B Solid-phaseSynthesisofM6P-appendedN -peptides receptors:newtwistsinthetale.Nat.Rev.Mol.CellBiol.4,202–212.
+3
+B Compound6 Gundry,R.L.,Raginski,K.,Tarasova,Y.,Tchernyshyov,I.,Bausch-Fluck,D.,
+B GalNAc(OAc) -NIR-AY Elliott,S.T.,Boheler,K.R.,VanEyk,J.E.,andWollscheid,B.(2009).Themouse
+3
+C2C12myoblastcellsurfaceN-Linkedglycoproteome.Mol.Cell.Proteomics
+B GalNAc-NIR-AY
+8,2555–2569.
+B GalNAc-NIR-MP
+He,X.,Galpin,J.D.,Tropak,M.B.,Mahuran,D.,Haselhorst,T.,vonItzstein,M.,
+B GalNAc-NIR-(M6P) -Rh
+3or6 Kolarich,D.,Packer,N.H.,Miao,Y.,Jiang,L.,etal.(2012).Productionofactive
+d QUANTITATIONANDSTATSTICALANALYSIS humanglucocerebrosidaseinseedsofArabidopsisthalianacomplex-glycan-
+B Statistics deficient(cgl)plants.Glycobiology22,492–503.
+d DATAANDSOFTWAREAVAILABILITY Homewood, C.A., Warhurst, D.C., Peters, W., and Baggaley, V.C. (1972).
+Lysosomes,pHandtheanti-malarialactionofchloroquine.Nature235,50–52.
+SUPPLEMENTALINFORMATION Hood,C.A.,Fuentes,G.,Patel,H.,Page,K.,Menakuru,M.,andPark,J.H.
+(2008).Fast conventional Fmoc solid-phase peptide synthesis with HCTU.
+SupplementalInformationincludessevenfiguresandcanbefoundwiththis J.Pept.Sci.14,97–101.
+articleonlineath
+
+Chunk 25:
+Homewood, C.A., Warhurst, D.C., Peters, W., and Baggaley, V.C. (1972).
+Lysosomes,pHandtheanti-malarialactionofchloroquine.Nature235,50–52.
+SUPPLEMENTALINFORMATION Hood,C.A.,Fuentes,G.,Patel,H.,Page,K.,Menakuru,M.,andPark,J.H.
+(2008).Fast conventional Fmoc solid-phase peptide synthesis with HCTU.
+SupplementalInformationincludessevenfiguresandcanbefoundwiththis J.Pept.Sci.14,97–101.
+articleonlineathttps://doi.org/10.1016/j.chembiol.2018.07.011.
+Hoogendoorn,S.,vanPuijvelde,G.H.M.,Kuiper,J.,vanderMarel,G.A.,and
+Overkleeft,H.S.(2014).Amultivalentligandforthemannose-6-phosphatere-
+ACKNOWLEDGMENTS ceptorforendolysosomaltargetingofanactivity-basedprobe.Angew.Chem.
+Int.Ed.53,10975–10978.
+ThisstudywassupportedfinanciallybytheNationalCreativeResearchInitia-
+Hyun,J.Y.,Kang,N.R.,andShin,I.(2018).Carbohydratemicroarrayscontain-
+tive(grantnumber2010-0018272toI.S.)andtheGlobalFrontierResearch
+ingglycosylatedfluorescentprobesforassessmentofglycosidaseactivities.
+Program(NRF-2015M3A6A8065833toH.S.L.)inKorea.
+Org.Lett.20,1240–1243.
+AUTHORCONTRIBUTIONS Itakura,T.,Kuroki,A.,Ishibashi,Y.,Tsuji,D.,Kawashita,E.,Higashine,Y.,
+Sakuraba,H.,Yamanaka,S.,andItoh,K.(2006).InefficiencyinGM2ganglio-
+I.S.designedthestudyandwrotethemanuscript.H.S.Lhelpedwithwriting sideeliminationbyhumanlysosomalbeta-hexosaminidasebeta-subunitgene
+the manuscript. I.S. and H.S.L also provided supervision of the project. transfertofibroblasticcelllinederivedfromSandhoffdiseasemodelmice.
+J.Y.H. designed, synthesized, and characterized the compounds and per- Biol.Pharm.Bull.29,1564–1569.
+formedbiochemical/biologicalstudies.S.K.conductedisolationandcharac- Jeyakumar, M., Butters, T.D., Dwek, R.A., and Platt, F.M. (2002).
+terizationofUAA-incorporatedenzymes. Glycosphingolipid lysosomal storage diseases: therapy and pathogenesis.
+Neuropathol.Appl.Neurobiol.28,343–357.
+DECLARATIONOFINTERESTS
+Jiang,Y.L.,Yu,W.L.,Zhang,J.W.,Frolet, C.,DiGuilmi,A.M.,Zhou,C.Z.,
+Theauthorsdeclarenocompetingfinancialinterests. Vernet,T.,andChen,Y.(
+
+Chunk 26:
+onductedisolationandcharac- Jeyakumar, M., Butters, T.D., Dwek, R.A., and Platt, F.M. (2002).
+terizationofUAA-incorporatedenzymes. Glycosphingolipid lysosomal storage diseases: therapy and pathogenesis.
+Neuropathol.Appl.Neurobiol.28,343–357.
+DECLARATIONOFINTERESTS
+Jiang,Y.L.,Yu,W.L.,Zhang,J.W.,Frolet, C.,DiGuilmi,A.M.,Zhou,C.Z.,
+Theauthorsdeclarenocompetingfinancialinterests. Vernet,T.,andChen,Y.(2011).Structuralbasisforthesubstratespecificity
+of a novel beta-N-acetylhexosaminidase StrH protein from Streptococcus
+Received:February21,2018 pneumoniaeR6.J.Biol.Chem.286,43004–43012.
+Revised:May20,2018 Khiar,N.,Leal,M.P.,Baati,R.,Ruhlmann,C.,Mioskwski,C.,Schultz,P.,and
+Accepted:July25,2018 Fernandez,I.(2009).Tailoringcarbonnanotubesurfaceswithglyconanorings:
+Published:August23,2018 newbionanomaterialswithspecificlectinaffinity.Chem.Commun.(Camb)21,
+4121–4123.
+REFERENCES Kim, E.J., Perreira, M., Thomas, C.J., and Hanover, J.A. (2006). An
+O-GlcNAcase-specific inhibitor andsubstrate engineered bythe extension
+Akeboshi,H.,Kasahara,Y.,Tsuji,D.,Itoh,K.,Sakuraba,H.,Chiba,Y.,and oftheN-acetylmoiety.J.Am.Chem.Soc.128,4234–4235.
+Jigami,Y.(2009).Productionofhumanbeta-hexosaminidaseawithhighly
+Kornfeld,S.(1987).Traffickingoflysosomal-enzymes.FASEBJ.1,462–468.
+phosphorylated N-glycans by the overexpression of the Ogataea minuta
+MNN4gene.Glycobiology19,1002–1009. Lang,K.,andChin,J.W.(2014).Cellularincorporationofunnaturalaminoacids
+andbioorthogonallabelingofproteins.Chem.Rev.114,4764–4806.
+Besanceney-Webler,C.,Jiang,H.,Zheng,T.,Feng,L.,SorianodelAmo,D.,
+Wang, W., Klivansky, L.M., Marlow, F.L., Liu, Y., and Wu, P. (2011). Lee,Y.J.,Wu,B.,Raymond,J.E.,Zeng,Y.,Fang,X.Q.,Wooley,K.L.,andLiu,
+Increasingtheefficacyofbioorthogonalclickreactionsforbioconjugation:a W.R.S.(2013).Ageneticallyencodedacrylamidefunctionality.ACSChem.
+comparativestudy.Angew.Chem.Int.Ed.50,8051–8056. Biol.8,1664–1670.
+Braulke, T., and Bonifacino, J.S. (2009). Sorting of lysosomal proteins. Liu,C.C.,andSchultz,P.G.(2010
+
+Chunk 27:
+, Liu, Y., and Wu, P. (2011). Lee,Y.J.,Wu,B.,Raymond,J.E.,Zeng,Y.,Fang,X.Q.,Wooley,K.L.,andLiu,
+Increasingtheefficacyofbioorthogonalclickreactionsforbioconjugation:a W.R.S.(2013).Ageneticallyencodedacrylamidefunctionality.ACSChem.
+comparativestudy.Angew.Chem.Int.Ed.50,8051–8056. Biol.8,1664–1670.
+Braulke, T., and Bonifacino, J.S. (2009). Sorting of lysosomal proteins. Liu,C.C.,andSchultz,P.G.(2010).Addingnewchemistriestothegenetic
+Biochim.Biophys.Acta1793,605–614. code.Annu.Rev.Biochem.79,413–444.
+Crawley, A.C., Niedzielski, K.H., Isaac, E.L., Davey, R.C., Byers, S., and Liu,Y.,Chan,Y.M.,Wu,J.,Chen,C.,Benesi,A.,Hu,J.,Wang,Y.,andChen,G.
+Hopwood, J.J. (1997). Enzyme replacement therapy from birth in a feline (2011). Chemical synthesis of a bisphosphorylated mannose-6-phosphate
+modelofmucopolysaccharidosistypeVI.J.Clin.Invest.99,651–662. N-glycananditsfacilemonoconjugationwithhumancarbonicanhydraseii
+forinvivofluorescenceimaging.ChemBioChem12,685–690.
+Dahms,N.M.,Olson,L.J.,andKim,J.J.(2008).Strategiesforcarbohydrate
+recognition by the mannose 6-phosphate receptors. Glycobiology 18, Liu,Y.,Marshall,J.,Li,Q.,Edwards,N.,andChen,G.(2013).Synthesisof
+664–678. novelbivalentmimeticligandsformannose-6-phosphatereceptors.Bioorg.
+Fairbanks,A.J.(2017).TheENGases:versatilebiocatalystsfortheproduction Med.Chem.Lett.23,2328–2331.
+ofhomogeneousN-linkedglycopeptidesandglycoproteins.Chem.Soc.Rev. Luzio,J.P.,Pryor,P.R.,andBright,N.A.(2007).Lysosomes:fusionandfunc-
+46,5128–5146. tion.Nat.Rev.Mol.CellBiol.8,622–632.
+Futerman,A.H.,andvanMeer,G.(2004).Thecellbiologyoflysosomalstorage Nguyen,D.P.,Lusic,H.,Neumann,H.,Kapadnis,P.B.,Deiters,A.,andChin,
+disorders.Nat.Rev.Mol.CellBiol.5,554–565. J.W.(2009).Geneticencodingandlabelingofaliphaticazidesandalkynesin
+1266 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+recombinantproteinsviaapyrrolysyl-tRNAsynthetase/tRNA(CUA)pairand vanKasteren,S.I.,Kramer,H.B.,Jensen,H.H.,Campbell,S.J.,Kirkpatrick,J.,
+clickchemistry.J.Am.Chem.Soc.13
+
+Chunk 28:
+sic,H.,Neumann,H.,Kapadnis,P.B.,Deiters,A.,andChin,
+disorders.Nat.Rev.Mol.CellBiol.5,554–565. J.W.(2009).Geneticencodingandlabelingofaliphaticazidesandalkynesin
+1266 CellChemicalBiology25,1255–1267,October18,2018
+
+---PAGE BREAK---
+
+recombinantproteinsviaapyrrolysyl-tRNAsynthetase/tRNA(CUA)pairand vanKasteren,S.I.,Kramer,H.B.,Jensen,H.H.,Campbell,S.J.,Kirkpatrick,J.,
+clickchemistry.J.Am.Chem.Soc.131,8720–8721. Oldham,N.J.,Anthony,D.C.,andDavis,B.G.(2007).Expandingthediversity
+Noren,C.J.,Anthony-Cahill,S.J.,Griffith,M.C.,andSchultz,P.G.(1989).A of chemical protein modification allows post-translational mimicry. Nature
+generalmethodforsite-specificincorporationofunnaturalaminoacidsinto 446,1105–1109.
+proteins.Science244,182–188. Wang,L.,Brock,A.,Herberich,B.,andSchultz,P.G.(2001).Expandingthe
+Ohsawa,M.,Kotani,M.,Tajima,Y.,Tsuji,D.,Ishibashi,Y.,Kuroki,A.,Itoh,K., geneticcodeofEscherichiacoli.Science292,498–500.
+Watabe,K.,Sango,K.,Yamanaka,S.,etal.(2005).Establishmentofimmortal- Wang,L.X.,andAmin,M.N.(2014).Chemicalandchemoenzymaticsynthesis
+izedSchwanncellsfromSandhoffmiceandcorrectiveeffectofrecombinant ofglycoproteinsfordecipheringfunctions.Chem.Biol.21,51–66.
+human beta-hexosaminidase A on the accumulated GM2 ganglioside.
+Wang,W.,Hong,S.,Tran,A.,Jiang,H.,Triano,R.,Liu,Y.,Chen,X.,andWu,P.
+J.Hum.Genet.50,460–467.
+(2011).Sulfatedligandsforthecopper(I)-catalyzedazide-alkynecycloaddi-
+Pai,J.,Hyun,J.Y.,Jeong,J.,Loh,S.,Cho,E.H.,Kang,Y.S.,andShin,I.(2016).
+tion.Chem.AsianJ.6,2796–2802.
+Carbohydrate microarrays for screening functional glycans. Chem. Sci. 7,
+Wennekes,T.,vandenBerg,R.J.B.H.N.,Boot,R.G.,vanderMarel,G.A.,
+2084–2093.
+Overkleeft,H.S.,andAerts,J.M.F.G.(2009).Glycosphingolipids-nature,func-
+Park,S.,andShin,I.(2007).Carbohydratemicroarraysforassayinggalacto-
+tion,andpharmacologicalmodulation.Angew.Chem.Int.Ed.48,8848–8869.
+syltransferaseactivity.Org.Lett.9,1675–1678.
+Xie,Y.,Ge,J.,Lei,H.,Peng,B.,Zhang,H.,Wang,D.,Pan,S.,Chen,G.,Chen,
+Park,S.,Lee,M.R.,andShin,I.(2008).C
+
+Chunk 29:
+J.B.H.N.,Boot,R.G.,vanderMarel,G.A.,
+2084–2093.
+Overkleeft,H.S.,andAerts,J.M.F.G.(2009).Glycosphingolipids-nature,func-
+Park,S.,andShin,I.(2007).Carbohydratemicroarraysforassayinggalacto-
+tion,andpharmacologicalmodulation.Angew.Chem.Int.Ed.48,8848–8869.
+syltransferaseactivity.Org.Lett.9,1675–1678.
+Xie,Y.,Ge,J.,Lei,H.,Peng,B.,Zhang,H.,Wang,D.,Pan,S.,Chen,G.,Chen,
+Park,S.,Lee,M.R.,andShin,I.(2008).Chemicaltoolsforfunctionalstudiesof
+L., Wang, Y., et al. (2016). Fluorescent probes for single-step detection
+glycans.Chem.Soc.Rev.37,1579–1591.
+and proteomic profiling of histone deacetylases. J. Am. Chem. Soc. 138,
+Park,S.,Kim,G.H.,Park,S.H.,Pai,J.,Rathwell,D.,Park,J.Y.,Kang,Y.S.,and
+15596–15604.
+Shin,I.(2015).Probingcell-surfacecarbohydratebindingproteinswithdual-
+Xie,Z.,andKlionsky,D.J.(2007).Autophagosomeformation:coremachinery
+modalglycan-conjugatednanoparticles.J.Am.Chem.Soc.137,5961–5968.
+andadaptations.Nat.CellBiol.9,1102–1109.
+Platt, F.M. (2014). Sphingolipid lysosomal storage disorders. Nature
+510,68–75. Yamaguchi, T., Amin, M.N., Toonstra, C., and Wang, L.X. (2016).
+Chemoenzymaticsynthesisandreceptorbindingofmannose-6-phosphate
+Priyanka,P.,Parsons,T.B.,Miller,A.,Platt,F.M.,andFairbanks,A.J.(2016).
+(M6P)-containingglycoproteinligandsrevealunusualstructuralrequirements
+Chemoenzymatic synthesis of a phosphorylated glycoprotein. Angew.
+form6preceptorrecognition.J.Am.Chem.Soc.138,12472–12485.
+Chem.Int.Ed.55,5058–5061.
+Yuan,L.,Lin,W.Y.,Zhao,S.,Gao,W.S.,Chen,B.,He,L.W.,andZhu,S.S.
+Presolski,S.I.,Hong,V.P.,andFinn,M.G.(2011).Copper-catalyzedazide-
+(2012).Auniqueapproachtodevelopmentofnear-infraredfluorescentsen-
+alkyne click chemistry for bioconjugation. Curr. Protoc. Chem. Biol. 3,
+sorsforinvivoimaging.J.Am.Chem.Soc.134,13510–13523.
+153–162.
+Solomon,M.,andMuro,S.(2017).Lysosomalenzymereplacementtherapies: Zhang,G.,Zheng,S.Q.,Liu,H.P.,andChen,P.R.(2015).Illuminatingbiological
+historicaldevelopment,clinicaloutcomes,andfutureperspectives.Adv.Drug processes through site-spe
+
+Chunk 30:
+mentofnear-infraredfluorescentsen-
+alkyne click chemistry for bioconjugation. Curr. Protoc. Chem. Biol. 3,
+sorsforinvivoimaging.J.Am.Chem.Soc.134,13510–13523.
+153–162.
+Solomon,M.,andMuro,S.(2017).Lysosomalenzymereplacementtherapies: Zhang,G.,Zheng,S.Q.,Liu,H.P.,andChen,P.R.(2015).Illuminatingbiological
+historicaldevelopment,clinicaloutcomes,andfutureperspectives.Adv.Drug processes through site-specific protein labeling. Chem. Soc. Rev. 44,
+Deliv.Rev.118,109–134. 3405–3417.
+Tian,X.,Pai,J.,Baek,K.H.,Ko,S.K.,andShin,I.(2011).Fluorophore-labeled, Zhang,J.T.,Li,C.,Dutta,C.,Fang,M.X.,Zhang,S.W.,Tiwari,A.,Werner,T.,
+Peptide-based glycoclusters: synthesis, binding properties for lectins, and Luo,F.T.,andLiu,H.Y.(2017).Anovelnear-infraredfluorescentprobeforsen-
+detection of carbohydrate-binding proteins in cells. Chem. Asian J. 6, sitive detection of beta-galactosidase in living cells. Anal. Chim. Acta
+2106–2112. 968,97–104.
+Tong,P.Y.,Gregory,W.,andKornfeld,S.(1989).Ligandinteractionsofthe Zhou,Q.,Stefano,J.E.,Harrahy,J.,Finn,P.,Avila,L.,Kyazike,J.,Wei,R.,Van
+cation-independent mannose 6-phosphate receptor - the stoichiometry of Patten,S.M.,Gotschall,R.,Zheng,X.,etal.(2011).Strategiesforneoglycan
+mannose6-phosphatebinding.J.Biol.Chem.264,7962–7969. conjugationtohumanacida-glucosidase.Bioconjug.Chem.22,741–751.
+Tong,P.Y.,andKornfeld,S.(1989).Ligandinteractionsofthecation-depen- Zhu,Y.,Li,X.,Kyazike,J.,Zhou,Q.,Thurberg,B.L.,Raben,N.,Mattaliano,
+dentmannose6-phosphatereceptor.J.Biol.Chem.264,7970–7975. R.J.,andCheng,S.H.(2004).Conjugationofmannose6-phosphate-contain-
+Tsuji,D.,Akeboshi,H.,Matsuoka,K.,Yasuoka,H.,Miyasaki,E.,Kasahara,Y., ing oligosaccharides to acid a-glucosidase improves the clearance of
+Kawashima,I.,Chiba,Y.,Jigami,Y.,Taki,T.,etal.(2011).Highlyphosphoman- glycogeninPompemice.J.Biol.Chem.279,50336–50341.
+nosylatedenzymereplacementtherapyforGM2gangliosidosis.Ann.Neurol. Zhu,Y.,Jiang,J.L.,Gumlaw,N.K.,Zhang,J.,Bercury,S.D.,Ziegler,R.J.,Lee,
+69,691–701. K.,Kudo,M.,Ca
+
+Chunk 31:
+H.,Matsuoka,K.,Yasuoka,H.,Miyasaki,E.,Kasahara,Y., ing oligosaccharides to acid a-glucosidase improves the clearance of
+Kawashima,I.,Chiba,Y.,Jigami,Y.,Taki,T.,etal.(2011).Highlyphosphoman- glycogeninPompemice.J.Biol.Chem.279,50336–50341.
+nosylatedenzymereplacementtherapyforGM2gangliosidosis.Ann.Neurol. Zhu,Y.,Jiang,J.L.,Gumlaw,N.K.,Zhang,J.,Bercury,S.D.,Ziegler,R.J.,Lee,
+69,691–701. K.,Kudo,M.,Canfield,W.M.,Edmunds,T.,etal.(2009).Glycoengineeredacid
+Unverzagt,C.,andKajihara,Y.(2013).ChemicalassemblyofN-glycoproteins: alpha-glucosidasewithimprovedefficacyatcorrectingthemetabolicaberra-
+a refined toolbox to address a ubiquitous posttranslational modification. tionsandmotorfunctiondeficitsinamousemodelofPompedisease.Mol.
+Chem.Soc.Rev.42,4408–4420. Ther.17,954–963.
+CellChemicalBiology25,1255–1267,October18,2018 1267
+
+---PAGE BREAK---
+
+STAR+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+Mousemonoclonalanti-GM2-ganglioside TOKYOCHEMICAL Cat#A2576
+INDUSTRYCO.,LTD.
+Goatanti-mouseIgG-FITC SantaCruzBiotechnology,Inc. Cat#SC-2010;RRID:AB_631735
+BacterialandVirusStrains
+E.coliDH10B Invitrogen Cat#C6400-03
+Chemicals,Peptides,andRecombinantProteins
+2-azidoethyla-D-mannopyranoside ParkandShin,2007 N/A
+Imidazole Sigma-Aldrich Cat#I2399;CAS:288-32-4
+tert-Butyldimethylsilylchloride Sigma-Aldrich Cat#190500;CAS:18162-48-6
+Aceticanhydride SAMCHUN Cat#A0069;CAS:108-24-7
+Pyridine Burdick&Jackson Cat#UN1282;CAS:110-86-1
+Aceticacidglacial Sigma-Aldrich Cat#537020;CAS:64-19-7
+Tetrabutylammoniumfluoridesolution1.0MinTHF Sigma-Aldrich Cat#216143;CAS:429-41-4
+Molecularsieves,4A˚ Sigma-Aldrich Cat#688363;CAS:70955-01-0
+5-Phenyl-1H-tetrazole Sigma-Aldrich Cat#347744;CAS:18039-42-4
+Di-t-butylN,N-diisopropylphosphoramidite Sigma-Aldrich Cat#419362;CAS:137348-86-8
+Triethylamine DAEJUNG Cat#8556-4400;CAS:121-44-8
+Hydrogenperoxidesolution Sigma-Aldrich Cat#95321;CAS:7722-84-1
+0.5MSodiummethoxideinmethanol Sigma-Aldrich Cat#403067;CAS:124-41-4
+AmberiteIR-120hydrogenform Sigm
+
+Chunk 32:
+,4A˚ Sigma-Aldrich Cat#688363;CAS:70955-01-0
+5-Phenyl-1H-tetrazole Sigma-Aldrich Cat#347744;CAS:18039-42-4
+Di-t-butylN,N-diisopropylphosphoramidite Sigma-Aldrich Cat#419362;CAS:137348-86-8
+Triethylamine DAEJUNG Cat#8556-4400;CAS:121-44-8
+Hydrogenperoxidesolution Sigma-Aldrich Cat#95321;CAS:7722-84-1
+0.5MSodiummethoxideinmethanol Sigma-Aldrich Cat#403067;CAS:124-41-4
+AmberiteIR-120hydrogenform Sigma-Aldrich Cat#10322;CAS:39389-20-3
+TentaGelSRAMFmocresin AdvancedChemTech Cat#SJ5030
+Fmoc-Lys(AY) Galibertetal.,2009 N/A
+N -CO Hlinker Khiaretal.,2009 N/A
+3 2
+Rh-Pip-COOH Xieetal.,2016 N/A
+Fmoc-b-alanine TOKYOCHEMICAL Cat#F0882;CAS:35737-10-1
+INDUSTRYCO.,LTD.
+Fmoc-Lys(Mtt)-OH GLBiochem Cat#GLS180114-36813;CAS:
+167393-62-6
+O-(6-Chlorobenzotriazol-1-yl)-N,N,N’,N’- Fluorochem Cat#024914;CAS:330645-87-9
+tetramethyluroniumhexafluorophosphate(HCTU)
+N,N-Diisopropylethylamine DAEJUNG Cat#3078-4400;CAS:7087-68-5
+Piperidine DAEJUNG Cat#6646-4400;CAS:110-89-4
+SodiumL-ascorbate Sigma-Aldrich Cat#11140;CAS:134-03-2
+Copper(II)sulfate Sigma-Aldrich Cat#451657;CAS:7758-98-7
+3-[4-({Bis[(1-tert-butyl-1H-1,2,3-triazol-4-yl)methyl] Wangetal.,2011 N/A
+amino}methyl)-1H-1,2,3-triazol-1-yl]propanol(BTTP)
+Trifluoroaceticacid(TFA) Sigma-Aldrich Cat#T6508;CAS:76-05-1
+Triethylsilane TOKYOCHEMICAL Cat#T0662;CAS:617-86-7
+INDUSTRYCO.,LTD.
+Compound5 Hyunetal.,2018 N/A
+4-Chlororesorcinol Sigma-Aldrich Cat#C70606;CAS:95-88-5
+n-Tetrabutylammoniumhydrogensulfate Sigma-Aldrich Cat#155837;CAS:32503-27-8
+Potassiumcarbonate ACROSorganics Cat#98040010;CAS:584-08-7
+2-Azido-N-(2-morpholinoethyl)acetamide AuroraFineChemicalsLtd CAS:1554618-67-5
+Aminoguanidinehydrochloride Sigma-Aldrich Cat#396494;CAS:1937-19-5
+(Continuedonnextpage)
+e1 CellChemicalBiology25,1255–1267.e1–e8,October18,2018
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Formaldehydesolution Sigma-Aldrich Cat#47608;CAS:50-00-0
+Triton(cid:3)X-100 Sigma-Aldrich Cat#T9284;CAS:9002-93-1
+GM2oligosaccharide Carbosynth Cat#OO46228
+GM3oligosacch
+
+Chunk 33:
+Ltd CAS:1554618-67-5
+Aminoguanidinehydrochloride Sigma-Aldrich Cat#396494;CAS:1937-19-5
+(Continuedonnextpage)
+e1 CellChemicalBiology25,1255–1267.e1–e8,October18,2018
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Formaldehydesolution Sigma-Aldrich Cat#47608;CAS:50-00-0
+Triton(cid:3)X-100 Sigma-Aldrich Cat#T9284;CAS:9002-93-1
+GM2oligosaccharide Carbosynth Cat#OO46228
+GM3oligosaccharide Carbosynth Cat#OS04397;CAS:128596-80-5
+LysoTrackerTMGreenDND-26 ThermoFisherScientific Cat#L7526
+D-Mannose6-phosphatedisodiumsalt Sigma-Aldrich Cat#M6876;CAS:33068-18-7
+Sodiumazide Sigma-Aldrich Cat#S8032;Cas:26628-22-8
+O-(2-Acetamido-2-deoxy-D-glucopyranosylidenamino) Carbosynth Cat#EA06838;Cas:132489-69-1
+N-phenylcarbamate(PUGNAc)
+Lys(PA) Nguyenetal.,2009 N/A
+Sulfo-Cy5-NHS Lumiprobe Cat#13320
+Sulfo-Cy3-NHS Lumiprobe Cat#11020
+HumanhexosaminidaseB(HEXB) SinoBiologicalInc. Cat#13169
+EndoproteinaseGlu-CfromStaphylococcusaureusV8 Worthington Cat#LS003605;CAS:66676-43-5
+ExperimentalModels:CellLines
+C2C12myoblasts AmericanTypeCulture Cat#ATCC(cid:2)CRL-1772
+Collection
+NIH3T3fibroblasts AmericanTypeCulture Cat#ATCC(cid:2)CRL-1658
+Collection
+PrimaryTay-Sach(TS)fibroblasts CorielInstitute Cat#GM00527
+PrimarySandhoff(SD)fibroblasts CorielInstitute Cat#GM11098
+Oligonucleotides
+b-N-Acetylhexosaminidase_K432TAG(forward): Thispaper N/A
+CTTTGGCAGTTTCGATTAGGACATCATTGTTTCTATG
+b-N-Acetylhexosaminidase_K432TAG(reverse): Thispaper N/A
+CATAGAAACAATGATGTCCTAATCGAAACTGCCAAAG
+b-N-Acetylhexosaminidase_K561TAG(forward): Thispaper N/A
+GCACTTAATGAGGTGCCATAGGACCTGAATAGATATAC
+b-N-Acetylhexosaminidase_K561TAG(reverse): Thispaper N/A
+GTATATCTATTCAGGTCCTATGGCACCTCATTAAGTGC
+b-N-Acetylhexosaminidase_strep-tag(reverse): Thispaper N/A
+CGAATTGCGGATGCGACCATCCCGAGCCGCCTGA
+ATTACTCTGAAAGTACAGATTCTCGC
+b-N-Acetylhexosaminidase_(forward): Thispaper N/A
+ATATCATGAATGAAAAACTGGCTAAAAAGAAGA
+TCGTTTCG
+RecombinantDNA
+Plasmid:b-N-Acetylhexosaminidase Thispaper N/A
+SoftwareandAlgorithms
+FlexAnalysis3.4Software Bruker N/
+
+Chunk 34:
+61TAG(reverse): Thispaper N/A
+GTATATCTATTCAGGTCCTATGGCACCTCATTAAGTGC
+b-N-Acetylhexosaminidase_strep-tag(reverse): Thispaper N/A
+CGAATTGCGGATGCGACCATCCCGAGCCGCCTGA
+ATTACTCTGAAAGTACAGATTCTCGC
+b-N-Acetylhexosaminidase_(forward): Thispaper N/A
+ATATCATGAATGAAAAACTGGCTAAAAAGAAGA
+TCGTTTCG
+RecombinantDNA
+Plasmid:b-N-Acetylhexosaminidase Thispaper N/A
+SoftwareandAlgorithms
+FlexAnalysis3.4Software Bruker N/A
+Xcalibur(cid:3)3.0Software ThermoFisherScientific N/A
+ZEN2.3 CarlZeiss N/A
+CONTACTFORREAGENTANDRESOURCESHARING
+FurtherinformationandrequestsforresourcesandreagentsshouldbedirectedtoandwillbefulfilledbytheLeadContact,Professor
+InjaeShin(injae@yonsei.ac.kr).
+EXPERIMENTALMODELANDSUBJECTDETAILS
+MouseC2C12myoblastcells(AmericanTypeCultureCollection,Cat#ATCC(cid:2)CRL-1772)andmouseNIH3T3fibroblastcells(Amer-
+icanTypeCultureCollection,Cat#ATCC(cid:2)CRL-1658)wereculturedinDulbeccomodifiedEaglemedium(DMEM)supplemented
+CellChemicalBiology25,1255–1267.e1–e8,October18,2018 e2
+
+---PAGE BREAK---
+
+with10%fetalbovineserum(FBS)at37(cid:2)Cwith5%CO Thesexofthesetwocelllinesisunknown.Primaryhumanfibroblastsorig-
+2.
+inatedfromtheTay-Sachsdiseasepatient(CoriellInstitute,Cat#GM00527,male)andprimaryhumanfibroblastsoriginatedfromthe
+Sandhoffdiseasepatient(CoriellInstitute,Cat#GM11098,female)wereculturedinEagle’sMinimumEssentialMedium(EMEM)with
+Earle’ssaltsandnon-essentialaminoacidssupplementedwith15%FBSat37(cid:2)Cwith5%CO .Cellsweremaintainedat37(cid:2)Cunder
+2
+ahumidifiedatmospherecontaining5%CO .
+2
+METHODDETAILS
+ExpressionandPurificationofMutantb-N-acetylhexosaminidaseContainingLys(PA)
+Theb-N-acetylhexosaminidasegenewasamplifiedbyPCRandtheninsertedbetweenBspHIandKpnIsitesofpBAD/Myc-Histo
+generatepBAD-b-N-acetylhexosaminidase.Anambercodon(TAG)wasintroducedatapositionof432or561ofb-N-acetylhexo-
+saminidase by site-directed mutagenesis according to the manufacturer’s protocol (Invitrogen, California, USA). The plasmid
+containingeachambermutationwasco-transformedwithpEvol-BuKRSintoE.coliDH10b.Cel
+
+Chunk 35:
+hexosaminidasegenewasamplifiedbyPCRandtheninsertedbetweenBspHIandKpnIsitesofpBAD/Myc-Histo
+generatepBAD-b-N-acetylhexosaminidase.Anambercodon(TAG)wasintroducedatapositionof432or561ofb-N-acetylhexo-
+saminidase by site-directed mutagenesis according to the manufacturer’s protocol (Invitrogen, California, USA). The plasmid
+containingeachambermutationwasco-transformedwithpEvol-BuKRSintoE.coliDH10b.Cellsweregrowninlysogenybroth
+(LB) supplemented with ampicillin (100 mg/mL) and chloramphenicol (35 mg/mL). The starter culture (2 mL) was transferred to a
+definedmedium(100mL,50mMNa HPO ,50mMKH PO ,25mM(NH ) SO ,2mMMgSO ,0.1%tracemetals,0.5%glycerol,
+2 4 2 4 42 4 4
+0.05%glucoseand5%aminoacids)supplementedwithampicillin(100mg/mL),chloramphenicol(35mg/mL)and3mMLys(PA)
+at20(cid:2)C.Proteinexpressionwasinducedbyadding0.2%L-arabinosewhenopticaldensityreached0.8,andtheculturewasgrown
+overnightat20(cid:2)C.Cellswereharvestedbycentrifugationat10,000rpmfor5minat4(cid:2)C,andstoredat(cid:3)80(cid:2)Cuntilfurtherprocessing.
+Cellpelletswereresuspendedinalysisbuffer(100mMTris-HCl,150mMNaCland1mMEDTA,pH8.0)andsonicated.Target
+proteinswerepurifiedbyStrep-Tactinaffinitychromatographyundernativeconditionsaccordingtothemanufacturer’sprotocol
+(Novagen).Purifiedproteinsweredialyzedagainstaphosphatebuffer(100mMKH PO ,pH7.0)threetimestoremoveEDTA.Con-
+2 4
+centrationsofproteins(WT-Hex,Hex-K432Lys(PA)andHex-K561Lys(PA))weredeterminedbymeasuringabsorbanceat280nm
+usingthemolarextinctioncoefficient(7.3233104cm(cid:3)1M(cid:3)1)ofb-N-acetylhexosaminidase.
+AnalysisofIncorporationofLys(PA)intoProteinsbyMS
+Lys(PA)incorporatedenzymes(5mg/mL)in50mMphosphatebuffer(pH8.0)containing300mMNaClweredigestedwithGlu-C
+(20 mM) for 2 hr at 37(cid:2)C. The digested peptides were desalted by using a C-18 spin column (Bio-Rad). The digested peptides
+weremixedwitha-cyano-4-hydroxycinnamicacid(CHCA)matrix(10mg/mLinwatercontaining50%acetonitrileand1%trifluoro-
+aceticacid)andsubjectedtoMSanalysis(BrukerAutoflex,BrukerDaltonic
+
+Chunk 36:
+incorporatedenzymes(5mg/mL)in50mMphosphatebuffer(pH8.0)containing300mMNaClweredigestedwithGlu-C
+(20 mM) for 2 hr at 37(cid:2)C. The digested peptides were desalted by using a C-18 spin column (Bio-Rad). The digested peptides
+weremixedwitha-cyano-4-hydroxycinnamicacid(CHCA)matrix(10mg/mLinwatercontaining50%acetonitrileand1%trifluoro-
+aceticacid)andsubjectedtoMSanalysis(BrukerAutoflex,BrukerDaltonics).Full-lengthofLys(PA)incorporatedenzymeswere
+analyzed by using the hybrid ultrahigh resolution linear ion-trap orbitrap mass spectrometer (LTQ Orbitrap XL, Thermo Fisher
+Scientific).
+LigationofM6P-appendedN -peptidestoLys(PA)-Incorporatedb-N-acetylhexosaminidasebyClickChemistry
+3
+Toasolutionof20mMofHex-K432Lys(PA)orHex-K561Lys(PA)in100mMKH PO (pH7.0)weresequentiallyaddedN -(M6P) -Rh
+2 4 3 3
+(1mM),apremixedBTTP-CuSO complex([BTTP]=3mM,[CuSO ]=1mM),freshlypreparedsodiumascorbate(2mM),andamino-
+4 4
+guanidine(2mM)atroomtemperature.Aftershakingfor1hr,theligatedenzymewasisolatedbyusingaMicroBio-Spincolumn
+(Bio-Rad,USA)accordingtothemanufacturer’sprotocol.TheisolatedenzymewasstoredinPBSbuffer(pH7.4)at4(cid:2)C.Theligation
+efficiencywasdeterminedbyusing8%SDS-PAGE.WT-Hex(20mM)wasreactedwithsulfo-Cy3NHS(30mM)for30minatroom
+temperatureandtheresultingCy3-WT-Hexwasusedasacontrol.
+Fordeterminationoftheefficiencyofclickligation,thereactionmixtureobtainedafterclickchemistrywasreactedwithsulfo-Cy5
+NHS(30mM)for30minatroomtemperature.Asacontrol,20mMofHex-K561Lys(PA)wasalsoreactedwithsulfo-Cy5NHS(30mM)
+for30minatroomtemperature.ThelabeledmixturewassubjectedtoSDS-PAGE.FluorescenceintensityofCy5linkedtoenzymesin
+aproteingelwasanalyzedbyusingGelDocumentationandAnalysissystem(Syngene).
+EnzymeKinetics
+A standard 120 mL assay was conducted at 37(cid:2)C in 50 mM sodium phosphate buffer (pH 5.0) containing various
+concentrations(2.5–500mM)ofGalNAc-NIR-MP.Thereactionwasinitiatedbytheadditionof50nMofWT-Hex,Hex-K432Lys(PA),
+Hex-K561Lys(PA)orHex-K561Lys-(M6P) -Rhtotheaboveassaysolution.Changesinfluores
+
+Chunk 37:
+toenzymesin
+aproteingelwasanalyzedbyusingGelDocumentationandAnalysissystem(Syngene).
+EnzymeKinetics
+A standard 120 mL assay was conducted at 37(cid:2)C in 50 mM sodium phosphate buffer (pH 5.0) containing various
+concentrations(2.5–500mM)ofGalNAc-NIR-MP.Thereactionwasinitiatedbytheadditionof50nMofWT-Hex,Hex-K432Lys(PA),
+Hex-K561Lys(PA)orHex-K561Lys-(M6P) -Rhtotheaboveassaysolution.ChangesinfluorescenceintensityofanNIRdyewasde-
+3
+tectedusinganLS55fluorometer(Perkin–ElmerTMLifeSciences)(l =690nm,l =710nm).Assayswereperformedintriplicate.
+ex em
+ByplottingtheinitialreactionvelocityasthefunctionofaconcentrationofGalNAc-NIR-MP,atypicalMichaelis-Mentencurvewas
+obtained.Thekineticparameters(k andK )weredeterminedbynon-linearfittingofthisplotusingtheMichaelis-Mentenequation.
+cat m
+CleavageofGM2-oligosaccharidetoGM3-oligosaccharidebyb-N-Acetylhexosaminidase
+WT-Hex, Hex-K561Lys(PA) and Hex-K561Lys-(M6P) -Rh (10 nM) were individually added to a solution of GM2 oligosaccharide
+3
+(300 nM) in 50 mM sodium phosphate buffer (pH 5.0) in a final volume of 20 mL at 37(cid:2)C. The progress of enzymatic hydrolysis
+was monitored bythin layer chromatography (ethyl acetate: ethanol: water =4:2:1). The reaction was terminated byaddition of
+MeOH(20mL).
+e3 CellChemicalBiology25,1255–1267.e1–e8,October18,2018
+
+---PAGE BREAK---
+
+GeneralMethodtoQuantitateFluorescenceIntensityofFluorescentDyesinCells
+FluorescenceintensitiesoffluorescentdyesincellsaftertreatmentwithM6P-appendedpeptides,Hex-K561Lys-(M6P) -Rh,fluoro-
+3
+genicsubstratesandantibodywerequantifiedforeachimageusingthemeanregionofinterest(ROI)toolwiththeZENsoftware.
+Specifically,aconstantcircularROIwaschosentoencompassthecellofinterestandthesameROIareasizewasusedforback-
+groundsubtraction.Allconfocalmicroscopyimageswererepresentativeofatleastthreeindependentexperiments.
+InternalizationofM6P-appendedPeptidesintoCells
+C2C12cells,NIH3T3cells,TSfibroblastsandSDfibroblastsinculturemediaweretreatedwith10mMofeachM6P-appendedpep-
+tide(N -(M6P) -Rh
+
+Chunk 38:
+withtheZENsoftware.
+Specifically,aconstantcircularROIwaschosentoencompassthecellofinterestandthesameROIareasizewasusedforback-
+groundsubtraction.Allconfocalmicroscopyimageswererepresentativeofatleastthreeindependentexperiments.
+InternalizationofM6P-appendedPeptidesintoCells
+C2C12cells,NIH3T3cells,TSfibroblastsandSDfibroblastsinculturemediaweretreatedwith10mMofeachM6P-appendedpep-
+tide(N -(M6P) -Rh,n=1,2,3,6)at37(cid:2)Cforindicatetimes.AfterwashingtwicewithDPBStoremoveremainingpeptides,cellsin
+3 n
+DPBSweretreatedwith200nMLysoTrackerGreenfor15minat37(cid:2)Candthenwith1mg/mLofHoechst33342for5minat37(cid:2)C.
+AfterwashingtwicewithDPBStoremovedyes,internalizationofpeptidesintocellswasdetectedbyimagingcellswithconfocal
+fluorescencemicroscopy(LMS800,Zeiss,Germany).
+Forthemannose-6-phosphatecompetitionstudy,cellsintheculturemediawerepre-treatedwith2mMmannose-6-phosphateat
+37(cid:2)C.Afterincubationfor1h,cellsintheculturemediaweretreatedwith10mMofN -(M6P) -Rhfor4h.Afterwashingtwicewith
+3 3
+DPBStoremoveremainingpeptides,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15min,andthenwith1mg/mLof
+Hoechst33342for5min.Cellswereimagedbyusingconfocalfluorescencemicroscopy.
+Fortheendocytosisinhibitionstudy,cellsintheculturemediawerepre-treatedwith0.1%w/vNaN for1handthenincubatedwith
+3
+10mMofN -(M6P) -Rhfor4h.AfterwashingtwicewithDPBStoremoveremainingpeptides,cellsinDPBSweretreatedwith200nM
+3 3
+LysoTrackerGreenfor15min,andthentreatedwith1mg/mLofHoechst33342for5min.Cellswereimagedbyusingconfocalfluo-
+rescencemicroscopy.Fluorescenceintensitiesofrhodaminelinkedtopeptidesincellswerequantitatedaccordingtothegeneral
+methoddescribedabove.
+InternalizationofHex-K561Lys-(M6P) -RhintoCells
+3
+PrimaryTSandSDfibroblastsinculturemediawereindividuallytreatedforindicatedtimesat37(cid:2)Cwith50nMHex-K561Lys-(M6P) -
+3
+Rhor50nMofrhodamine-labeled,commercializedhumanHEXBwhichwasproducedinHEK293cells.Afterwashingtwicewith
+DPBStoremoveremainingenzyme,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15mi
+
+Chunk 39:
+accordingtothegeneral
+methoddescribedabove.
+InternalizationofHex-K561Lys-(M6P) -RhintoCells
+3
+PrimaryTSandSDfibroblastsinculturemediawereindividuallytreatedforindicatedtimesat37(cid:2)Cwith50nMHex-K561Lys-(M6P) -
+3
+Rhor50nMofrhodamine-labeled,commercializedhumanHEXBwhichwasproducedinHEK293cells.Afterwashingtwicewith
+DPBStoremoveremainingenzyme,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15min,andthentreatedwith
+1mg/mLofHoechst33342for5min.Cellimageswereobtainedbyusingconfocalfluorescencemicroscopy.
+FortheM6Pcompetitionstudy,cellsintheculturemediawerepre-treatedwith2mMM6Pfor1hat37(cid:2)Candthenincubatedwith
+100nMHex-K561Lys-(M6P) -Rhfor10h.Fortheendocytosisinhibitionstudy,cellsinculturemediawerepre-treatedwithNaN
+3 3
+(0.1%w/v)for1hat37(cid:2)Candthenincubatedwith100nMHex-K561Lys-(M6P) -Rhfor10h.AfterwashingtwicewithDPBStore-
+3
+move remaining enzyme, cells were imaged by using confocal fluorescence microscopy. Fluorescence intensities of rhodamine
+linkedtoenzymesincellswerequantitatedaccordingtothegeneralmethoddescribedabove.
+EfficiencyofFluorogenicSubstratestoDetectIntracellularb-N-acetylhexosaminidaseActivity
+C2C12cellsinculturemediaweretreatedwith20mMofGalNAc-NIR-MPorGalNAc-NIR-(M6P) -Rhat37(cid:2)Cfor4h.Afterwashing
+6
+twicewithDPBStoremoveremainingprobe,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15min,andthentreated
+with1mg/mLofHoechst33342for5min.Thecellswereimagedbyusingconfocalfluorescencemicroscopy.Fluorescenceinten-
+sitiesofanNIRdyecleavedfromeitherGalNAc-NIR-MPorGalNAc-NIR-(M6P) -Rhincellswerequantitatedaccordingtothegeneral
+6
+methoddescribedabove.
+Detectionofb-N-acetylhexosaminidaseActivityinCellsUsingGalNAc-NIR-MP
+C2C12cells,NIH3T3cells,TSfibroblastsandSDfibroblastsinculturemediaweretreatedwith20mMofGalNAc-NIR-MPforindi-
+catedtimesat37(cid:2)C.AfterwashingtwicewithDPBStoremoveremainingprobe,cellsinDPBSweretreatedwith200nMLysoTracker
+Greenfor15min,andthentreatedwith1mg/mLofHoechst33342for5min.Cellswereimagedbyusingconfocalfluorescence
+microsco
+
+Chunk 40:
+ectionofb-N-acetylhexosaminidaseActivityinCellsUsingGalNAc-NIR-MP
+C2C12cells,NIH3T3cells,TSfibroblastsandSDfibroblastsinculturemediaweretreatedwith20mMofGalNAc-NIR-MPforindi-
+catedtimesat37(cid:2)C.AfterwashingtwicewithDPBStoremoveremainingprobe,cellsinDPBSweretreatedwith200nMLysoTracker
+Greenfor15min,andthentreatedwith1mg/mLofHoechst33342for5min.Cellswereimagedbyusingconfocalfluorescence
+microscopy.
+Fortheinhibitionstudy,cellsinculturemediawerepre-treatedwith50mMPUGNAcfor12hat37(cid:2)Candthentreatedwith20mMof
+GalNAc-NIR-MP for 4 h. After washing twice with DPBS to remove remaining probe, cells in DPBS were treated with 200 nM
+LysoTrackerGreenfor15min,andthentreatedwith1mg/mLofHoechst33342for5min.Cellswereimagedbyusingconfocalfluo-
+rescencemicroscopy.
+Fortime-dependentdetectionofb-N-acetylhexosaminidaseactivityincellsusingGalNAc-NIR-MP,C2C12cellsinculturemedia
+weretreatedwith200nMLysoTrackerGreenfor15minat37(cid:2)Candthentreatedwith20mMGalNAc-NIR-MP.Every5minduringa
+2hperiod,livecellimageswereobtainedbyusingconfocalfluorescencemicroscopyat37(cid:2)C.FluorescenceintensitiesofanNIRdye
+cleavedfromGalNAc-NIR-MPincellswerequantitatedaccordingtothegeneralmethoddescribedabove.
+CellChemicalBiology25,1255–1267.e1–e8,October18,2018 e4
+
+---PAGE BREAK---
+
+DetectionofHex-K561Lys-(M6P) -RhActivityInternalizedintoDiseasedCellsUsingGalNAc-NIR-MP
+3
+PrimaryTSandSDfibroblastsinculturemediawereincubatedwith100nMHex-K561Lys-(M6P) -Rhfor10hat37(cid:2)C.Afterwashing
+3
+twicewithDPBStoremoveremainingenzyme,cellsinculturemediaweretreatedwith20mMGalNAc-NIR-MPfor4h.Afterwashing
+twicewithDPBStoremoveremainingprobe,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15minandthenwith
+1mg/mLofHoechst33342for5min.Thecellswereimagedbyusingconfocalfluorescencemicroscopy.
+Fortheinhibitionstudy,primaryTSandSDfibroblastsinculturemediawerepretreatedwitheither50mMPUGNAcor10mMhy-
+droxychloroquine(HCQ)for12hat37(cid:2)C.AfterwashingtwicewithDPBStoremoveremainingsubstances,cellsinculturemediawere
+incubatedwi
+
+Chunk 41:
+remainingprobe,cellsinDPBSweretreatedwith200nMLysoTrackerGreenfor15minandthenwith
+1mg/mLofHoechst33342for5min.Thecellswereimagedbyusingconfocalfluorescencemicroscopy.
+Fortheinhibitionstudy,primaryTSandSDfibroblastsinculturemediawerepretreatedwitheither50mMPUGNAcor10mMhy-
+droxychloroquine(HCQ)for12hat37(cid:2)C.AfterwashingtwicewithDPBStoremoveremainingsubstances,cellsinculturemediawere
+incubatedwith100nMHex-K561Lys-(M6P) -Rhfor10hat37(cid:2)C.AfterwashingtwicewithDPBStoremoveremainingenzyme,cells
+3
+inculturemediaweretreatedwith20mMofGalNAc-NIR-MPfor4h.AfterwashingtwicewithDPBStoremoveremainingprobe,cells
+inDPBSwereimagedbyusingconfocalfluorescencemicroscopy.Fluorescenceintensitiesoffluorescentdyesincellswerequan-
+titatedaccordingtothegeneralmethoddescribedabove.
+DegradationofGM2-gangliosideAccumulatedinDiseasedCellsbyHex-K561Lys-(M6P) -Rh
+3
+PrimaryTSandSDfibroblastsinculturemediawereincubatedwith200nMHex-K561Lys-(M6P) -Rhfortheindicatedtimesat37(cid:2)C.
+3
+Afterevery24h,culturemediawereexchangedwithfreshmediacontaining200nMHex-K561Lys-(M6P) -Rh.Thetreatedcellswere
+3
+fixedwith4%paraformaldehyde,permeabilizedwith0.25%(v/v)TritonX-100,andimmunostainedwithmouseGM2-ganglioside
+antibody(1:250)followedbytheFITC-labeledsecondaryantibody(1:1000).Cellswereimagedbyusingconfocalfluorescencemi-
+croscopy.Fluorescenceintensitiesoffluorescentdyesincellswerequantitatedaccordingtothegeneralmethoddescribedabove.
+GeneralforSynthesis
+Analyticalthin-layerchromatography(TLC)wasconductedonsilicagel60F254glassplates.CompoundspotswerevisualizedbyUV
+light(254nm)and/orbystainingwith10wt%phosphomolybdicacidinethanol.Flashcolumnchromatographywasperformedusing
+silicagel60(230–400Mesh).NMRspectrawererecordedonaBrukerDRX-400instrument.Massspectrawereobtainedbyusinga
+BrukermicroflexMALDI-TOFmassspectrometerorWaters3100LC/MSSystem.UVandfluorescencespectrawererecordedon
+JASCOV-650andPerkinElmerLS55,respectively.
+Synthesis
+2-Azidoethyl2,3,4-tri-O-acetyl-6-O-(tert-butyldimethylsilyl)-a-D-mannopyranoside
+
+Chunk 42:
+cacidinethanol.Flashcolumnchromatographywasperformedusing
+silicagel60(230–400Mesh).NMRspectrawererecordedonaBrukerDRX-400instrument.Massspectrawereobtainedbyusinga
+BrukermicroflexMALDI-TOFmassspectrometerorWaters3100LC/MSSystem.UVandfluorescencespectrawererecordedon
+JASCOV-650andPerkinElmerLS55,respectively.
+Synthesis
+2-Azidoethyl2,3,4-tri-O-acetyl-6-O-(tert-butyldimethylsilyl)-a-D-mannopyranoside(2)
+Toastirredsolutionof2-azidoethyla-D-mannopyranoside(1,0.23g,0.96mmol)andimidazole(0.13g,2mmol)inanhydrousDMF
+(5mL)wasslowlyaddedtert-butyldimethylsilylchloride(TBSCl,0.16g,1.05mmol)withnitrogengasflushingatroomtemperature.
+Afterstirringfor1h,pyridine(10mL)wasaddedtothereactionmixtureandaceticanhydride(0.6g,9.6mmol)wasthendropwise
+addedtothemixtureat0(cid:2)C.Afterstirringfor2hatroomtemperature,thereactionwasquenchedbyadditionofsaturatedaqueous
+NaHCO .TheaqueouslayerwasextractedwithEtOActhreetimes.Thecombinedorganiclayerswerewashedwithwater,driedover
+3
+anhydrousNa SO ,filteredandconcentratedunderreducedpressure.Theresiduewaspurifiedbyflashcolumnchromatography
+2 4
+(hexane: EtOAc = 5:1 to 4:1) to give a product. Yield: 0.28 g (60%); 1H NMR (400 MHz, CDCl ): d 5.38 (dd, 1 H, J = 10.7, 2.3),
+3
+5.32 (t, 1 H, J = 3.7 Hz), 5.27–5.25 (m, 1 H), 4.86 (d, 1 H, J = 1.8 Hz), 3.93–3.84 (m, 2 H), 3.73 (t, 2 H, J = 3.8 Hz), 3.69–3.62
+(m, 1 H), 3.49–3.42 (m, 2 H), 2.14 (s, 3 H), 2.05 (s, 3 H), 2.00 (s, 3 H), 0.92 (s, 9 H), 0.08 (d, 6 H, J = 5.3 Hz); 13C NMR
+(100MHz,CDCl ):d170.2,169.9,169.4,97.4,71.7,69.6,69.2,66.3,50.3,25.8,20.8,20.7,20.6,18.2,-5.3,-5.4;ESI-MScalcd
+3
+forC H N O Si[M+H]+490.2,found490.1.
+20 36 3 9
+2-Azidoethyl2,3,4-tri-O-acetyl-a-D-mannopyranoside(3)
+Toastirredsolutionofcompound2(0.36g,0.74mmol)inTHF(10mL)wasaddedaceticacid(0.21mL,3.7mmol)andn-Bu NF(1Min
+4
+THF,1.11mL,1.11mmol).Afterstirringfor12h,thereactionwasquenchedbyadditionofbrine(100mL).Themixturewasextracted
+withEtOActhreetimes.Thecombinedorganiclayerswerewashedwithwater,driedoveranhydrousNa SO ,filteredandconcen-
+
+Chunk 43:
+und490.1.
+20 36 3 9
+2-Azidoethyl2,3,4-tri-O-acetyl-a-D-mannopyranoside(3)
+Toastirredsolutionofcompound2(0.36g,0.74mmol)inTHF(10mL)wasaddedaceticacid(0.21mL,3.7mmol)andn-Bu NF(1Min
+4
+THF,1.11mL,1.11mmol).Afterstirringfor12h,thereactionwasquenchedbyadditionofbrine(100mL).Themixturewasextracted
+withEtOActhreetimes.Thecombinedorganiclayerswerewashedwithwater,driedoveranhydrousNa SO ,filteredandconcen-
+2 4
+tratedunderreducedpressure.Theresiduewaspurifiedbyflashcolumnchromatography(hexane:EtOAc=2:1to1:1)togiveaprod-
+uct.Yield:0.21g(75%);1HNMR(400MHz,CDCl ):d5.21–5.15(m,2H),4.81(d,1H,J=2.0Hz),4.44(dd,1H,J=11.4,5.3Hz),
+3
+4.33 (dd, 1 H, J = 10.9, 1.4 Hz), 3.90–3.80 (m, 3 H), 3.64–3.39 (m, 2 H), 2.10 (s, 3 H), 2.09 (s, 3 H), 2.03 (s, 3 H); 13C NMR
+e5 CellChemicalBiology25,1255–1267.e1–e8,October18,2018
+
+---PAGE BREAK---
+
+(100 MHz, CDCl ): d 171.2, 170.7, 170.0, 97.7, 71.2, 71.0, 69.5, 66.8, 65.4, 63.3, 50.2, 24.2, 20.8, 20.7, 20.6; ESI-MS calcd
+3
+forC H N O [M+H]+376.1,found376.2.
+14 22 3 9
+2-Azidoethyl2,3,4-tri-O-acetyl-6-O-(di-tert-butylphosphoryl)-a-D-mannopyranoside(4)
+Compound3(0.37g,0.98mmol),whichwasco-evaporatedwithanhydrousdioxanetwicetoremoveresidualwater,wasdissolvedin
+anhydrousCH Cl (10mL).Themixturewasaddedtoaflame-driedflaskwithactivatedmolecularsieves(4A˚).Toastirredmixture
+2 2
+wereaddedphenyltetrazole(287mg,2mmol)anddi-t-butylN,N-diisopropylphosphoramidite(0.49mL,1.5mmol).Afterstirringfor
+30min,themixturewascooledto0(cid:2)CandTEA(1mL)andH O (30%inwater,0.35mL)werethenaddedtothemixture.Afterstirring
+2 2
+for1hatroomtemperature,thereactionmixturewasdilutedwithCH Cl .Theorganiclayerwaswashedwithwaterandsaturated
+2 2
+aqueousNaHCO ,driedoveranhydrousNa SO ,filteredandconcentratedunderreducedpressure.Theresiduewaspurifiedby
+3 2 4
+flash column chromatography (hexane: EtOAc = 1:1 to 1:2) to give a product. Yield: 0.37 g (67%); 1H NMR (400 MHz, CDCl ):
+3
+d5.40(dd,1H,J=10.0,3.6),5.29–5.27(m,2H),4.87(d,1H,J=2.3),4.06–4.00(m,3H),3.96–3.90(m,1H),3.67–3.62(m,1H),
+3.51–3.42(
+
+Chunk 44:
+organiclayerwaswashedwithwaterandsaturated
+2 2
+aqueousNaHCO ,driedoveranhydrousNa SO ,filteredandconcentratedunderreducedpressure.Theresiduewaspurifiedby
+3 2 4
+flash column chromatography (hexane: EtOAc = 1:1 to 1:2) to give a product. Yield: 0.37 g (67%); 1H NMR (400 MHz, CDCl ):
+3
+d5.40(dd,1H,J=10.0,3.6),5.29–5.27(m,2H),4.87(d,1H,J=2.3),4.06–4.00(m,3H),3.96–3.90(m,1H),3.67–3.62(m,1H),
+3.51–3.42(m,2H),2.15(s,3H),2.07(s,3H),2.01(s,3H),1.51(s,9H),1.50(s,9H);13CNMR(100MHz,CDCl ):d171.2,170.7,
+3
+170.0,97.4,82.8,71.0,69.4,68.9,66.9,66.2,65.2,63.3,50.2,29.8,20.8,20.7,20.6;ESI-MScalcdfor C H N O P[M+H]+
+22 38 3 12
+568.2,found568.1.
+2-Azidoethyl6-O-(di-tert-butylphosphoryl)-a-D-mannopyranoside(N -M6P(t-Bu) )
+3 2
+To a stirred solution of compound 4 (200 mg, 0.35 mmol) in methanol (0.5 mL) was added NaOMe (0.5 M in methanol, 70 mL,
+0.035mmol).Thereactionmixturewasstirredfor3h.AfterneutralizationwithAmberiteIR-120(H+)ionexchangeresin,thereaction
+mixturewasfilteredandwashedwithMeOHthoroughly.Thesolventwasremovedunderreducedpressuretogiveaproduct.Yield:
+0.15g(98%);1HNMR(400MHz,CDCl ):d4.81(d,1H,J=2.0),4.31–4.28(m,1H),4.09–4.06(m,1H),3.93–3.84(m,1H),3.86–3.85
+3
+(m,1H),3.75(dd,2H,J=9.5,3.5Hz),3.65–3.60(m,2H),3.43–3.41(m,2H),1.51(s,19H);13CNMR(100MHz,CDCl ):d100.4,83.1,
+3
+83.0,72.0,71.9,70.9,70.4,66.7,66.6,66.4,50.2,28.7;ESI-MScalcdforC H N O P[M+H]+442.2,found442.3.
+16 33 3 9
+Solid-phaseSynthesisofM6P-appendedN -peptides
+3
+PeptidesweresynthesizedbyusingtheFmoc/tBustrategyonTentaGelRinkamideresins(0.3mmol/g).Fmocaminoacid(3equiv)
+wasmanuallycoupledonresins(5.0mmol)inthepresenceofO-(6-chlorobenzotriazol-1-yl)-N,N,N’,N’-tetramethyluroniumhexa-
+fluorophosphate(HCTU,2.8equiv)andN,N-diisopropylethylamine(DIEA,6equiv).Aftereachcouplingreaction,theFmocgroup
+wasremovedbytreatmentwith20%piperidineinDMFandtheresinwaswashedwithDMFandCH Cl severaltimes.Forclick
+2 2
+chemistry,compound5(2.0equivperonealkynegroup)dissolvedinDMF(400mL)wereaddedtopeptideresinsfollowedbyaddition
+ofasolutionofsodium
+
+Chunk 45:
+robenzotriazol-1-yl)-N,N,N’,N’-tetramethyluroniumhexa-
+fluorophosphate(HCTU,2.8equiv)andN,N-diisopropylethylamine(DIEA,6equiv).Aftereachcouplingreaction,theFmocgroup
+wasremovedbytreatmentwith20%piperidineinDMFandtheresinwaswashedwithDMFandCH Cl severaltimes.Forclick
+2 2
+chemistry,compound5(2.0equivperonealkynegroup)dissolvedinDMF(400mL)wereaddedtopeptideresinsfollowedbyaddition
+ofasolutionofsodiumascorbate(1.0equivperonealkynegroup)andCuSO (1.0equivperonealkynegroup)inwater(50mL).After
+4
+shaking for 24 h, the M6P-appended peptides were cleaved from the solid support by treatment with TFA/triethylsilane/H O
+2
+(95:2.5:2.5,v/v/v)for2h.TheM6P-appendedpeptideswerepurifiedbysemi-preparativeRP-HPLC(10x250mm)usingagradient
+of5–100%CH CN(0.1%TFA)inwater(0.1%TFA)over60min,andthepurifiedproductswerecharacterizedbyMALDI-TOFMS.
+3
+N -(M6P) -Rh
+3 1
+MALDI-MScalcdforC H N O P[M+Na]+1726,found1726.
+78 116 18 23
+N -(M6P) -Rh
+3 2
+MALDI-MScalcdforC H N O P [M]+2312,found2312.
+100 153 24 35 2
+N -(M6P) -Rh
+3 3
+MALDI-MScalcdforC H N O P [M]+2920,found2920.
+122 190 30 47 3
+CellChemicalBiology25,1255–1267.e1–e8,October18,2018 e6
+
+---PAGE BREAK---
+
+N -(M6P) -Rh
+3 6
+MALDI-MScalcdforC H N O P [M–H]-4744,found4744.
+188 301 48 83 6
+Compound6
+Toastirredsolutionofcompound5(2.27g,3.17mmol)and4-chlororesorcinol(1.38g,9.52mmol)inDMF(30mL)wasaddedTEA
+(0.81g,8mmol).Afterstirringfor6hat50(cid:2)C,thereactionmixturewascooledtoroomtemperatureandthendilutedwithethylacetate
+andwashedwithbrineandwater.TheorganiclayerwasdriedoveranhydrousNa SO ,filteredandconcentratedunderreduced
+2 4
+pressure. The residue was purified by flash column chromatography (CH Cl : MeOH = 50:1) to give a bluish green solid. Yield:
+2 2
+0.83g(56%);1HNMR(400MHz,CDCl ):d8.09(d,2H,J=13.3),7.42(s,1H),7.31–7.25(m,4H),7.08(t,1H,J=8.1Hz),6.89
+3
+(d,1H,J=8.8),6.68(s,1H),5.75(d,1H,J=13.5),3.96(t,2H,J=7.0Hz),2.69(t,2H,J=5.6Hz),2.64(t,2H,J=6.4Hz),
+2.35(td,2H,J=6.1,1.5Hz),2.13(t,1H,J=2.4Hz),1.99(t,2H,J=6.8Hz),1.91(t,2H,J=6.8Hz),1.67(s,6H);13CNMR
+(10
+
+Chunk 46:
+ by flash column chromatography (CH Cl : MeOH = 50:1) to give a bluish green solid. Yield:
+2 2
+0.83g(56%);1HNMR(400MHz,CDCl ):d8.09(d,2H,J=13.3),7.42(s,1H),7.31–7.25(m,4H),7.08(t,1H,J=8.1Hz),6.89
+3
+(d,1H,J=8.8),6.68(s,1H),5.75(d,1H,J=13.5),3.96(t,2H,J=7.0Hz),2.69(t,2H,J=5.6Hz),2.64(t,2H,J=6.4Hz),
+2.35(td,2H,J=6.1,1.5Hz),2.13(t,1H,J=2.4Hz),1.99(t,2H,J=6.8Hz),1.91(t,2H,J=6.8Hz),1.67(s,6H);13CNMR
+(100 MHz, CDCl ): d 160.1, 158.0, 143.3, 139.7, 132.7, 128.2, 127.3, 122.5, 122.3, 116.4, 115.8, 107.9, 103.9, 94.4, 83.1, 70.0,
+3
+47.6,41.7,29.8,28.8,28.0,25.4,24.6,21.4,16.3;ESI-MScalcdforC H ClNO [M]+470.2,found470.1.
+30 29 2
+GalNAc(OAc) -NIR-AY
+3
+Asolutionofcompound6(100mg,0.167mmol),2-acetamido-3,4,6-tri-O-acetyl-2-deoxy-a-D-galactopyranosylchloride(91.7mg,
+0.25mmol),TBAHS(57mg,0.167mmol)andK CO (46mg,0.334mmol)in1mLofCHCl and1mLofH Owasvigorouslystirredfor
+2 3 3 2
+3hatroomtemperature.ThereactionmixturewasdilutedwithCH Cl andwashedwithH O.Theorganiclayerwasdriedoveranhy-
+2 2 2
+drous Na SO , filtered and concentrated under reduced pressure. The residue was purified by flash column chromatography
+2 4
+(CH Cl : MeOH = 20:1) to afford a product as a blue solid. Yield: 42 mg (32%); 1H NMR (400 MHz, CDCl ): d 8.79 (d, 1 H,
+2 2 3
+J=15.3),8.75(d,1H,J=10.0Hz),7.80(s,1H),7.63(d,1H,J=9.1Hz),7.51–7.39(m,3H),7.34(s,1H),7.17(s,1H),6.52
+(d,1H,J=15.3),6.19(d,1H,J=8.4Hz),5.63(dd, 1H,J=11.2,4.4Hz),5.55(d,1H,J=3.5Hz),4.78(q,1H,J=8.7Hz),
+4.52–4.45 (m, 3 H), 4.37 (dd, 1 H, J = 11.2, 6.4 Hz), 4.08 (dd, 1 H, J = 9.9, 7.4 Hz), 2.74 (t, 2 H, J = 6.9 Hz), 2.69 (t, 2 H,
+J = 6.4 Hz), 2.48 (td, 2 H, J = 6.4, 2.6 Hz), 2.20 (t, 1 H, J = 2.8 Hz), 2.19 (s, 3 H), 2.16 (t, 2 H, J = 6.9 Hz), 2.04 1(s, 3 H), 2.01
+(s,3H),1.98(s,3H),1.91(s,6H),1.89(s.3H);13CNMR(100MHz,CDCl ):d178.4,171.2,170.4,170.3,170.0,161.5,156.2,
+3
+152.4, 146.7, 142.3, 141.0, 132.7, 129.1, 128.6, 127.6, 127.5, 123.0, 122.2, 17.1, 114.9, 112.2, 105.6, 103.6, 100.5, 82.4, 71.0,
+70.7,70.4,66.5,61.0,51.2,49.5,44.0,29.6,29.1,28.6,28.0,26.3,24.2
+
+Chunk 47:
+2.6 Hz), 2.20 (t, 1 H, J = 2.8 Hz), 2.19 (s, 3 H), 2.16 (t, 2 H, J = 6.9 Hz), 2.04 1(s, 3 H), 2.01
+(s,3H),1.98(s,3H),1.91(s,6H),1.89(s.3H);13CNMR(100MHz,CDCl ):d178.4,171.2,170.4,170.3,170.0,161.5,156.2,
+3
+152.4, 146.7, 142.3, 141.0, 132.7, 129.1, 128.6, 127.6, 127.5, 123.0, 122.2, 17.1, 114.9, 112.2, 105.6, 103.6, 100.5, 82.4, 71.0,
+70.7,70.4,66.5,61.0,51.2,49.5,44.0,29.6,29.1,28.6,28.0,26.3,24.2,23.5,20.8,20.1,16.0;ESI-MScalcdforC H ClN O
+44 48 2 10
+[M]+799.3,found799.2.
+e7 CellChemicalBiology25,1255–1267.e1–e8,October18,2018
+
+---PAGE BREAK---
+
+GalNAc-NIR-AY
+ToastirredsolutionofGalNAc(OAc) -NIR-AY(35mg,42mmol)inMeOH(500mL)wasaddedNaOMe(0.5Minmethanol,10mL,
+3
+4.5mmol).Thereactionmixturewasstirredfor3hatroomtemperature.AfterneutralizationwithAmberiteIR-120(H+)ionexchange
+resin,thereactionmixturewasfilteredandwashedwithMeOHthoroughly.Thesolventwasremovedunderthereducedpressure
+to give a product. Yield: 28 mg (97%); 1H NMR (400 MHz, CD OD): d 8.83 (d, 1 H, J = 14.3), 7.72 (d, 1 H, J = 10.0 Hz), 7.76
+3
+(d, 1 H, J = 8.0 Hz), 7.59–7.55 (m, 2 H), 7.52 (d, 1 H, J = 6.7), 7.47 (s, 1 H), 7.28 (s, 1 H), 6.70 (d, 1 H, J = 14.3), 5.22 (d, 1 H,
+J=8.0Hz),4.55(t,2H,J=6.7),4.38(t,1H,J=9.3),3.99–3.83(m,6H),2.78(t,2H,J=6.9Hz),2.71(t,2H,J=6.4Hz),2.58
+(t, 1 H, J = 2.3), 2.47 (td, 2 H, J = 6.4, 2.6 Hz), 2.15 (t, 2 H, J = 6.9 Hz), 2.05 (s, 3 H), 1.87 (s, 3 H), 1.85 (s. 3 H); 13C NMR
+(100 MHz, CD OD): d 178.9, 172.7, 160.4, 155.5, 152.2, 146.2, 142.5, 141.3, 129.2, 127.5, 122.6, 120.6, 117.5, 114.7, 113.1,
+3
+101.4,82.2,76.8,70.4,68.3,61.5,51.0,43.9,27.0,26.8,26.2,23.7,21.7,15.1;ESI-MScalcdforC H N O [M]+674.2,found
+25 31 2 11
+674.1.
+GalNAc-NIR-MP
+ToastirredsolutionofGalNAc-NIR-AY(20mg,28mmol)inDMF(0.5mL)wasadded2-azido-N-(2-morpholinoethyl)acetamide(6mg,
+28mmol).AsolutionofCuSO (7mg,28mmol)andsodiumascorbate(5.5mg,28mmol)inH O(0.1mL)wasaddedtothereaction
+4 2
+mixture. After stirring for 10 min, the mixture was directly purified by preparative reversed-phase HPLC (22 x 250 mm) using a
+gradi
+
+Chunk 48:
+N O [M]+674.2,found
+25 31 2 11
+674.1.
+GalNAc-NIR-MP
+ToastirredsolutionofGalNAc-NIR-AY(20mg,28mmol)inDMF(0.5mL)wasadded2-azido-N-(2-morpholinoethyl)acetamide(6mg,
+28mmol).AsolutionofCuSO (7mg,28mmol)andsodiumascorbate(5.5mg,28mmol)inH O(0.1mL)wasaddedtothereaction
+4 2
+mixture. After stirring for 10 min, the mixture was directly purified by preparative reversed-phase HPLC (22 x 250 mm) using a
+gradientof5–100%CH CN(0.1%TFA)inwater(0.1%TFA)over80min.Yield:11mg(45%);1HNMR(400MHz,CD OD):d8.74
+3 3
+(d,1H,J=14.3),7.92,(s,1H),7.70(d,1H,J=6.9Hz),7.60–7.41(m,5H),7.23(s,1H),6.59(d,1H,J=14.3),5.17(d,1H,
+J=8.0Hz),4.51(t,2H,J=6.7),4.41(t,1H,J=9.3),4.01–3.80(m,8H),3.71(t,2H,J=5.9Hz),2.98(t,2H,J=6.9Hz),2.76
+(t,2H,J=6.4Hz),2.67(t,1H,J=2.3),2.34(t,2H,J=6.4Hz),2.02(s,3H),1.95(t,2H,J=6.9Hz),1.84(s,3H),1.80(s,3H);
+13C NMR (100 MHz, CD OD): d 178.7, 172.7, 167.8,161.5, 161.1, 160.2, 155.4, 152.2, 146.1, 145.9, 142.5, 141.2, 130.9, 129.3,
+3
+128.9,127.5,124.2,122.4,120.5,117.5,114.8,112.8,104.8,101.4,76.7,71.2,68.3,63.5,61.5,56.3,52.1,52.0,51.5,51.0,44.3,
+33.5,28.8,27.0,26.8,26.5,23.6,21.7,20.0;ESI-MScalcdforC H ClN O [M]+886.4,found886.4.
+46 57 7 9
+GalNAc-NIR-(M6P) -Rh
+3or6
+ToastirredsolutionofN -(M6P) -Rhpeptide(1mmol)inH O(200mL)wassequentiallyaddedGalNAc-NIR-AY(0.9mg,2mmol)in
+3 3or6 2
+DMF(0.5mL),sodiumascorbate(100mMinH O,35mL,3.5mmol)andCuSO (100mMinH O,35mL,3.5mmol).Theresultingmixture
+2 4 2
+wasstirredfor1hatroomtemperature.Thecrudeproductwasdirectlypurifiedbysemi-preparativereversed-phaseHPLC(10x
+250mm)usingagradientof5–100%CH CN(0.1%TFA)inwater(0.1%TFA)over60min,andthepurifiedproductswerecharac-
+3
+terizedbyMALDI-TOFMS.
+GalNAc-NIR-(M6P) -Rh
+3
+MALDI-MScalcdforC H ClN O P [M]+3593,found3593.
+160 232 32 54 3
+GalNAc-NIR-(M6P) -Rh
+6
+MALDI-MScalcdforC H ClN O P [M]+5418,found5418.
+226 343 50 90 6
+QUANTITATIONANDSTATSTICALANALYSIS
+Statistics
+Dataarepresentedasmean±s.d.fromatleastthreeindependentexperiments.
+DATAANDSOFTWAREAVAILABILITY
+DataareavailableuponrequesttotheLeadcontact.
+CellChemica
+
+Chunk 49:
+arac-
+3
+terizedbyMALDI-TOFMS.
+GalNAc-NIR-(M6P) -Rh
+3
+MALDI-MScalcdforC H ClN O P [M]+3593,found3593.
+160 232 32 54 3
+GalNAc-NIR-(M6P) -Rh
+6
+MALDI-MScalcdforC H ClN O P [M]+5418,found5418.
+226 343 50 90 6
+QUANTITATIONANDSTATSTICALANALYSIS
+Statistics
+Dataarepresentedasmean±s.d.fromatleastthreeindependentexperiments.
+DATAANDSOFTWAREAVAILABILITY
+DataareavailableuponrequesttotheLeadcontact.
+CellChemicalBiology25,1255–1267.e1–e8,October18,2018 e8
+
+---PAGE BREAK---
+
+
+

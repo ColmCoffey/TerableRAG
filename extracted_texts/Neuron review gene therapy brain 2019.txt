@@ -1,0 +1,1700 @@
+i An update to this article is included at the end
+Neuron
+Review
+Therapeutic AAV Gene Transfer
+to the Nervous System: A Clinical Reality
+EloiseHudry1,*andLukH.Vandenberghe2,3,4,5,6,*
+1DepartmentofNeurology,TheMassachusettsGeneralHospitalandNeuroDiscoveryCenter,HarvardMedicalSchool,Boston,MA,USA
+2GrousbeckGeneTherapyCenter,SchepensEyeResearchInstituteandMassachusettsEyeandEarInfirmary,Boston,MA,USA
+3OcularGenomicsInstitute,DepartmentofOphthalmology,HarvardMedicalSchool,Boston,MA,USA
+4HarvardPrograminTherapeuticScience,HarvardUniversity,Cambridge,MA,USA
+5HarvardStemCellInstitute,HarvardUniversity,Cambridge,MA,USA
+6TheBroadInstituteofHarvardandMIT,Cambridge,MA,USA
+*Correspondence:ehudry@mgh.harvard.edu(E.H.),luk_vandenberghe@meei.harvard.edu(L.H.V.)
+https://doi.org/10.1016/j.neuron.2019.02.017
+Genetransferhaslongbeenacompellingyetelusivetherapeuticmodality.Firstmainlyconsideredforrare
+inheriteddisorders,genetherapymayopentreatmentopportunitiesformorechallengingandcomplexdis-
+easessuchasAlzheimer’sorParkinson’sdisease.Today,examplesofstrikingclinicalproofofconcept,the
+firstgenetherapydrugscomingontothemarket,andtheemergenceofpowerfulnewmoleculartoolshave
+broadenedthenumberofavenuestotargetneurologicaldisordersbuthavealsohighlightedsafetyconcerns
+andtechnologygaps.Thevectorofchoiceformanynervoussystemtargetscurrentlyistheadeno-associ-
+atedviral(AAV)vectorduetoitsdesirablesafetyprofileandstrongneuronaltropism.Inaggregate,theclin-
+ical success, the preclinical potential, and the technological innovation have made therapeutic AAV drug
+development a reality, particularly for nervous system disorders. Here, we discuss the rationale, opportu-
+nities,limitations,andprogressinclinicalAAVgenetherapy.
+Introduction Theprogressingenetherapywasinlockstepwiththeincreasing
+The concept of gene therapy was—to our knowledge—first sophistication in recombinant techniques, human disease ge-
+explicitly articulated in 1947 (Keeler, 1947). What compelled netics, disease modeling, and molecular virology. These have
+the author Clyde Keeler mostly at the time were two aspects now culminated in several powerful examples of clinical proof
+thatdifferentiatedgenetictherapeuticparadigmfromothertreat- of concept such as inherited retinal disorders (IRDs) (Maguire
+mentstrategies:theabilitytoaddresstheetiologyofdiseaseand et al., 2008) and spinal muscular atrophy (SMA) (Mendell
+thepotentialtoinducea‘‘permanentcorrection.’’Todate,these etal.,2017).
+arguments remain the primary justification for pursuing gene Thefieldofexvivogenetherapy,inwhichtissuesorcellsare
+therapy. Neurological diseases, even more than other classes genetically modified in a clean room setting before they are
+of disorders, can benefit greatly from the unique advantages administered to the patient, has advanced somewhat faster
+thatgenetherapyaimstoprovide.Targetingtherootcauseof due to lessened safety concerns, at least in an autologous
+diseaseisobviousforsingle-genedisordersbutextendstocom- setting.Inneurologicaldisease,exvivogenetherapyhasprevi-
+moncomplexdiseasethroughavarietyofgeneticinterventions. ouslyledtodemonstrableclinicalbenefit,e.g.,inhematopoietic
+The permanency, or at least long-lived therapeutic effect, of a stemcellmodification in severalforms ofleukodystrophy (Biffi
+gene therapy is particularly attractive for organ systems such etal.,2013;Cartieretal.,2009;Eichleretal.,2017).However,
+asperipheral and sensory organs, spinal cord,orbrain, which the generalizability of these approaches is limited, particularly
+are hard to access due to the inability of most drugs to cross fordiseasestatesduetocell-autonomousdefects,byourcur-
+physiological barriers such as the blood-brain barrier (BBB). rentinabilitytotransplantandfunctionallygraftmanycelltypes
+Indeed, routes of administration (e.g., injections into the brain, andtissuesofthenervoussystem.Thepresentreviewfocuses
+cerebrospinal fluid [CSF], retina, or cochlea) that are clinically ontheclinicalprogressanddevelopmentofinvivotherapeutic
+prohibitive for frequent injections of a traditional drug product genetransfer.
+withshortactinghalf-lifecanbenowconsideredmoreeasilyif Deliveryisthekeypropertythatmakesatherapyagenether-
+onlyasingle,long-lastinginterventionisrequired. apy.Thesuccessfuldevelopmentofadrugrelieson(1)atarget,
+In the 1970s, efforts in the field to develop genetic forms of (2)adisease-modifying intervention,and(3)adeliverymecha-
+medicine became more articulated; however, we had to wait nismofsaidinterventiontosaidtarget.Whilevarioustypesofin-
+for success in clinical gene therapy for many decades to terventions canbegenetargeted,itisthedeliverycomponent
+come, particularly for in vivo gene therapy (Friedmann, 1992). that defines it as a gene therapy namely in that the drug sub-
+Bydefinition,invivogenetherapyreliesonthedirectadministra- stance itself is wholly or partly composed of genetic material.
+tionofthegeneticdrugtothepatientasopposedtoexvivoap- FormulatingDNAorRNAtoaccomplishfunctionaldeliverytoa
+proaches of therapeutic gene transfer that provide a more cell, to a tissue, or into a complex physiological environment
+controlled laboratory environment for the gene transfer step. suchastheCSForbloodstreamalmostalwaysrequiresavector
+Neuron101,March6,2019ª2019PublishedbyElsevierInc. 839
+
+---PAGE BREAK---
+
+Neuron
+Review
+Figure1. AAVVirusandVector
+(A) Genomic structure of the wild-type adeno-
+associatedvirus(AAV),indicatingtheAAV2genes
+encodingthereplication(Rep),capsid(Cap),and
+assembly-associated protein (APP) products,
+flankedbyinvertedterminalrepeat(ITR)second-
+aryDNAhairpinstructure.
+(B)ArecombinantAAV2-basedvectorisgenerated
+fromthewild-typeAAV2genomebyeliminatingthe
+openreadingframes,solelyretainingtheflanking
+ITRsequencesandreplacingitwithatransgeneof
+interestuptoacombinedmaximalsequencelength
+of4.7kb.TheseAAV2-basedvectorgenomes(v.g.)
+arepackagedintheprotectivecapsidshellbyco-
+expressingintrans theAAVgeneproductsRep,
+Cap,andAAP(inadditiontoessentialgeneprod-
+uctsfromhelpervirussuchashumanadenovirus
+type5).AnyAAV2-basedvectorgenomecanbe
+packagedintovariousdifferenttypesofAAVvariant
+capsid (CapX) by cross-packaging in which the
+CapXgeneisco-expressedwithRepfromAAV2.
+(C)Thegenomicstructureofself-complementary
+(sc)AAVhaswithinthesametotalpackagingsize
+of4.7kbtwocomplementarycopiesofthesame
+transgenelinkedbyathirdITRsequencethatwas
+modifiednottoberesolvedduringviralamplifi-
+cation(blackdot).
+(D)TheAAVvirionisamultimericproteincomposedof60subunitsina20-facettedstructurewithanouterdiameterofapproximately25nm.Allsubunitsare
+symmetricallyintegratedintheparticleasdimers(red),trimers(blue),andpentamers(green)accordingtoicosahedralsymmetries.
+system.Indeed,unprotected(ornaked)DNAorRNAinjections co-factorrequiredforassemblycalledassembly-activatingpro-
+havegenerallybeenlimitedinefficiencyoractivelyrejectedby tein(AAP)(Figure1A)(KnipeandHowley,2013).
+the host. DNA and RNA degrading enzymatic activity, intrinsic AAVsareconsideredendemicinhumansandhavebeeniso-
+stability,theinabilitytotraverselipidbilayersnecessarytoenter lated from several other species including the non-human pri-
+thecelland/orcellularnucleus,andthesensingmechanismsof mate (NHP), cow, goat, mouse, and even birds (Gao et al.,
+theinnateimmunesystemareonlysomeofthehostileelements 2005). The route of infection remains speculative; however, in
+thatmakeinvivogenedeliverysochallenging.Whilechemical humans and non-human primates, proviral AAV DNA was
+modification, particularly of smaller polynucleotide chains,can detectedinliverandspleen,aswellasahostofothertissues,
+provide some relief or protection to these attacks (Yin et al., suggestive of a stage of systemic viremia and indicative of its
+2014), formulation into a vector is most often needed to effi- promiscuoustropism(Gaoetal.,2003).Intheabsenceofhelp,
+cientlytargetatissueatmeaningfullevels.Historically,non-viral AAVgenomescanresideinalatentstateinthehostcell.How
+andviralsystemshavebeen,andcontinuetobe,explored.While thislatencyismaintainedremainspoorlyunderstood;however,
+eachofthesystemsconsideredhaveuniquebenefits,forinvivo observationally, some of the genomes reside in an episomal
+approachesthataimtoprovidelong-livedtopermanentthera- state as concatamers (Duan et al., 1998). In careful in vitro
+peutic relief, adeno-associated virus (AAV) has emerged as a studies, infection of a wild-type virus could lead to integration
+platform of increasing validation (Hastie and Samulski, 2015). into the human 19q3 locus called AAVS1 (Kotin et al., 1990;
+Here,wediscussindetailthegrowingfieldofAAVgenetransfer Linden et al., 1996). This relative specificity is due to the
+forneurologicaldisorders. sequence homology in the ITR region and integration in the
+hostgenomedependentonthepresenceofRepgeneproducts
+AAV:VirusandVector (Lindenetal.,1996).Interestingly,anaturalinfectionwithAAVis
+AAVgenetransferisleveragingthepropertiesoftheAAVinthe notknowntoleadtodisease,althoughsomereportsdescribean
+contextofareplication-defectivevector.Asawild-typevirus,it association with hepatocellular carcinoma, which remains
+is a member of the Parvoviridae family, characterized by its controversial (Nault et al., 2015, 2016; Srivastava and
+non-envelopedicosahedralcapsidthatcarriesa4.7kbsingle- Carter,2017).
+stranded (ss) genome (Figure 1). AAVs were first identified as Recombinant AAVs are generated by elimination of all open
+contaminants of laboratory adenovirus preparations. AAVs readingframes(ORFs)fromtheviralgenometorenderitintoa
+require‘‘help’’tocompleteareplicationcycle,whichcanbepro- replication-defective virus or vector (Figure 1B). The minimal
+videdbyaco-infectionwithadenovirus,aswellasaherpesvirus codingthatneedstoberetainedincistoallowforanAAV-like
+andcellularstress.WhileadenovirusescanplayaroleinAAV’s genome to be packaged is restricted to the 145 bp within the
+life cycle, they are structurally and functionally highly distinct, ITRs that flank the transgene within AAV vectors (Hastie and
+bothasavirusandintheirutilityasagenetransfervector.The Samulski, 2015). The absence of viral genes in the vector
+genome of AAV is flanked by inverted terminal repeats (ITRs), dramaticallyreducessafetyconcernsandfreesupgeneticcargo
+and three gene families are encoded: replication genes (Rep), capacity for the insertion of a therapeutic transgene cassette.
+structuralcapsidgenes(CaporVP1,-2,and-3),andasmallviral Indeed,theoverallcapacityofAAVtopackageanITR-flanked
+840 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+genome productively is the approximate size of the wild-type ortointroducenovelfunctions(e.g.,allowtransductionofapre-
+AAVgenome(i.e.,4.7kb)(Figure1B).Attemptstopackagelarger viouslynon-permissivecelltype)(GrimmandBu€ning,2017).
+genomesconsistentlyleadtolowtitersandgenomefragmenta- Methodologically,thesediscoveryapproachescanbebroadly
+tion(Dongetal.,2010;Laietal.,2010;Wuetal.,2010).Duetoits categorized in three different categories: (1) bio-mining, (2)
+deficiencyinautonomousreplication,anAAVvectorisproduced rationaldesign,and(3)bio-panning(alsoreferredtoasdirected
+insystemsthatcomplementthenecessarycomponentsandco- evolution).Thesemethodshavebeenreviewedextensivelypre-
+factors for virion assembly, packaging, and amplification. viously, however briefly: biomining seeks to rely on nature for
+Varioussystemshavebeendevelopedtoachievethis,particu- novelcapsiddiversity,rationaldesignaimstoleveragestructural
+larly to support viral vector production at scale. The most andfunctionaldataoncapsiddomainstomanipulateitsutility,
+common vector production is done through HEK293 transient and in bio-panning, a laboratory-based library of AAV variants
+transfection with multiple plasmids, namely one including the is subjected to a selective pressure to then be down-selected
+ITR-flankedcistransgeneandothersthatencodetheAAVrep often in an iterative sequence (not unlike phage-display
+and cap genes as well as a minimal set of adenoviral genes methods)(Devermanetal.,2018;GrimmandBu€ning,2017;Van-
+thatprovidehelpforthehelper-dependentAAVtoundergoviral denberghe et al., 2009). Importantly, these methods can be
+replication(Figure1B). combined, e.g., in recent efforts to limit the complexity of a
+ThedesirablesafetyfeaturesofAAVasavirusandevenmore bio-panning library within particular functional domains, e.g.,
+so as a replication-defective vector brought the system to the based on structural or evolutionary data (Deverman et al.,
+forefront. Decades in development, to date, AAV has been 2018; Grimm and Bu€ning, 2017; Grimm and Zolotukhin, 2015;
+used in more than 200 human studies in which it was overall Tseetal.,2017;Vandenbergheetal.,2009).
+well tolerated in thousands of patients, further validating the
+favorableclinicalprofileoftheplatform(Ginnetal.,2018).The TheVectorGenomeasanEngineforOptimalTransgene
+longdevelopmentpathofAAV,however,requiredtechnological Expression
+advancestoattainclinicalsuccess. Withallattentionontheviralcapsid,thecriticalcontributionofthe
+vectorgenomecannotbeforgotten.Theminimalcomponentthat
+AAVSerotypesandtheRaceforSuperiorCapsids isrequiredinanAAVvectorgenomearetwoITRsthatflankthe
+Anygenedeliveryvector,whenadministeredtothehost,facesa transgene.MinimalITRshaveadockingsitefortheviralReppro-
+hostileenvironment.TheAAVcapsidshellservesasaprotection teinthatdrivethevectorgenomeintoapreformedcapsidparticle.
+fromnucleasesandinnateimmunesensinginsideandoutsideof ITRsarenotknowntohavestrongintrinsicpromoteractivity;how-
+thecellbutalsodirectsthetropismofthevirion.Dataindicatea ever, recent work has identified functional transcription factor
+determining role for the AAV capsid in its host response, cell bindingsitesthatcouldactasenhancerelements,atleastinliver
+attachment,cellentry,escapefromtheendosome,nucleartraf- (Logan et al., 2017). The genomic cargo of a vector transgene
+ficking, release from the genome in the nucleus, and even its can be designed to carry any DNA, including a cDNA (gene
+transcriptionalstate.Combined,thesummationofthesesteps augmentationoraddition),asilencingRNA(genesilencing)(Borel
+ultimatelydeterminesthesafetyandefficiencyofanAAVadmin- etal.,2014),otherRNAspecies(e.g.,guideRNA,longnon-coding
+istrationfollowingaparticularrouteofadministration(Pillayand RNA,ormicroRNA[miRNA]-bindingsites)(Hanetal.,2018;Karali
+Carette,2017). etal.,2011;Plattetal.,2014),anti-senseoligonucleotides(Garanto
+VariationintheprimarysequenceoftheAAVcapsidprotein et al., 2016), a DNA- or RNA-editing enzyme (gene editing)
+can alter its transduction efficiency dramatically. The first of (Sen´ıs et al., 2014), a donor template for homologous repair
+thoseobservationsweremadewhenexploringnatural-occurring (Wang et al., 2015), or docking sites for DNA-binding proteins
+AAVserotypes.AAV1toAAV6werediscoveredinthe1960sand suchastranscriptionfactors(Bottaetal.,2016).Whenexpression
+1970s as contaminants of adenoviral preparations or viral cul- isdesired,additionalregulatorysequences,suchasenhancerel-
+turesfromtissuesamples(Gaoetal.,2005).TheseAAVsdistin- ementsandpromoters(includingRNAPolIIandPolIIIpromoters),
+guished themselves serologically, hence the name serotype. possibleintronicsequence,andterminatorssuchaspolyadenyla-
+AAV2,thefirstAAVtobemolecularlyclonedandrenderedinto tionsignals,arerequired(Boreletal.,2014;Devermanetal.,2018).
+areplication-defectivevector,hasbeenmostextensivelychar- As noted before, all these elements should ideally not exceed
+acterized for gene transfer applications. Other AAV serotypes 4.7kb,thegenomesizeofthewild-typeAAV(Figure1B).
+were developed later as vectors, most often using a system ForAAV,assDNAvirus,tobecometranscriptionallyactive,its
+called cross-packaging, which refers to the ability to package genome needs to undergo second-strand conversion, a key
+genomes flanked by AAV2 ITRs in any (non-AAV2) capsid by rate-limiting step in the transduction pathway (Fisher et al.,
+co-expressingitwiththeRepgenesfromAAV2duringproduc- 1996).Thisbottleneckwasovercomebycleverlymutatingone
+tion(Figure1B). of the ITRs in which flanking genomes in the replication cycle
+Early studies indicated that different AAV serotypes had a areresolvedintotwocomplementaryseparateviralorvectorge-
+vastlydistinctsetofbiologicalproperties,includingcellandtis- nomes.Theneteffectofthismanipulationisthatasinglecapsid
+suetropism(Auricchioetal.,2001).Theseobservationssparked isabletopackageasingle-strandedgenomewithtwocomple-
+andcontinuedtofeedabuoyingfieldofAAVcapsiddiscovery menting transgene sequences, connected by a (mutated) ITR
+and engineering. The goals of these efforts are to optimize hinge. These double-stranded (ds) or self-complementary (sc)
+AAV’s gene transfer functionality for particular uses (e.g., AAVscanonlycarryalittlelessthan50%ofthenormalAAVca-
+improvetheabilitytocrosstheBBBorminimizeimmunogenicity) pacity(Figure1C)(McCarty,2008);however,inreturn,scAAVs
+Neuron101,March6,2019 841
+
+---PAGE BREAK---
+
+Neuron
+Review
+Figure2. InVivoRoutesofAAVDeliveryto
+theNervousSystem
+Localinjectionsofvectortotheeyeortotheco-
+chleaarepreferablychosenforthetreatmentof
+neurosensorydisorders,asarelativelysmallarea
+needstobetargeted.Intraparenchymalinfusionof
+AAVremainsthemostcommonlyusedapproach
+to deliver a therapeutic gene to the brain, even
+thoughotherdeliverystrategiestotheCSF(intra-
+cerebroventricular, intracisternal, and intrathecal
+routes)ortothebloodstreamcouldbeadvanta-
+geous for the treatment of multifocal diseases.
+Intranasaldeliveryisanalternativeandnon-inva-
+siveoptionpotentiallysuitabletorestorethelevels
+of therapeutic lysosomal enzymes, which are
+secretedandcandiffusethroughtheCNS.Finally,
+a few motor neuron diseases can be improved
+afterintramuscularorintra-spinalAAVinjection.
+able safety profile balanced with the
+appropriate level of cellular efficiency is
+highly dependent on the right combina-
+tion of vector and route of delivery
+(Figure 2). The brain, eye, cochlea, and
+spinal cord, for example, are compart-
+mentalizedorganswithphysiologicalhur-
+dlesliketheBBBgreatlylimitingaccess.
+Figure 2 provides an overview of the
+various routes of administration that are
+consideredtotargetnervoussystemdis-
+ordersingenetherapy.Asubsetofclin-
+icalstudiesusingthesevariousinjection
+routesreferredtointhissectionaresum-
+marizedinTable1.
+LocalRoutesofAdministration:
+IntraparenchymalCNS,Ocular,and
+Cochlear
+Local routes of vector administration
+have clear advantages over injections
+intothevenoussystemorotherfluid-filled
+compartments. It maximizes concentra-
+tionandresidencetimeofthegenetrans-
+feragentincloseproximitytothetarget
+cells, avoids wide biodistribution, and
+thuslimits the risk of immunogenicity or
+have been shown in multiple tissue targets to lead to a faster toxicitiesduetoAAVcomponentsorectopicexpressionofthe
+onset of expression and overall significantly higher sustained transgene.
+levelsofexpression(McCarty,2008).Particularlyforhard-to-ac- NeurosensoryorgansareparticularlysuitedforlocalAAVde-
+cesstissuessuchas,forexample,thecentralnervoussystem livery. Local injection to target ophthalmic disorders has pro-
+(CNS)bysystemicinjection,theadvantageofscAAVcanbecrit- gressed clinically the furthest, mainly driven by the fact that
+icalinovercomingwhatappearsathreshold-likeeffectforregu- surgical access is relatively feasible, therapeutic interventions
+larssAAVs.ItisgenerallythoughtthatthesuccessofthescAAV9 and their outcome can be monitored non-invasively, and the
+in clinical trials for SMA, as discussed later, is due to AAV9 compartmentalizednatureoftheeyelimitsthedoseandrestricts
+enablingBBBcrossingwithscAAVtechnologyproviding itthe systemic spread of the vector. Moreover, the retina and other
+localactivityuponarrival(Mendelletal.,2017). targetsintheeyehavewell-establishedmechanismsthatpro-
+moteimmuneprivilegeandtherebyreducetheriskforinflamma-
+TheRouteofAdministration:AMajorVariable toryresponsestotheviralvectorandtransgeneproduct.Various
+DeterminingtheSafetyandEfficacy injectionroutestoadministertotheeyeareavailableanddepend
+GenetransfertotheCNSorcompartmentalizedsensoryorgans, on the target cell type (Figure 2). Least invasive would be a
+suchastheeyeandtheear,ischallenging.Attaininganaccept- topicaladministrationonthecornea;however,AAVisonlyable
+842 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+topenetratethetightcornealbarriersinefficiently.Intracameral in the skull (Figure 2). For direct AAV injection in small animal
+injectionsprovideaccesstotheanteriorchamberandmaybe models (mice and rats), stereotaxic coordinates are generally
+ofinteresttotargetthetrabecularmeshworkortheinnervated calculatedfromareferencepointontheskull(bregma)accord-
+cornea(Wangetal.,2017).Clinically,AAVprogramshavelargely inglytoabrainatlas,whilereal-timeMRIguidancesystemsare
+focusedondegenerativeretinaldisorders,whicharemosteffi- used for increased accuracy in larger species such as NHPs
+ciently targeted to the outer retina via subretinal injection and andhumans(Eberlingetal.,2008;Fiandacaetal.,2009;Hadac-
+theinnerretinaandothercelltypesflankingthevitreousviaintra- zeketal.,2006).MostAAVserotypesgenerallyshowexcellent
+vitrealinjection(Figure2).Inasubretinalinjection,thevectoris neuronaltropism(CearleyandWolfe,2007),whileAAV5alsoeffi-
+depositedbetweentheouterretinalpigmentedepithelial(RPE) ciently targets astrocytes (Davidson et al., 2000). By contrast,
+cellsandtheneuralretina.Theinjectionofthevectorbolusgen- transductionofmicroglialcellsappearsmuchmorechallenging,
+erates an iatrogenic retinal detachment referred to as a bleb, withonlyonereportsofarachievingthis‘‘tourdeforce’’usinga
+whichresolvesinanimalsandhumansinamatterofhours.Via capsid-modifiedAAV6(Rosarioetal.,2016).AAVintraparenchy-
+thisroute,mostAAVs,withintheblebarea,transducetheRPE mal injections have been successful in numerous pre-clinical
+andphotoreceptorcells,aprimarytargetforIRDs.Serotypedif- studies using mouse models of lysosomal storage diseases
+ference influences the relative levels of transduction between (LSDs), Alzheimer’s (AD), Parkinson’s (PD), and Huntington’s
+RPEsandrodandconephotoreceptors,aswellaslimitstrans- (HD) diseases (detailed in two excellent reviews, Hocquemiller
+ductionofotherretinaltargetcellssuchasbipolarcells(Vanden- et al., 2016; Choudhury et al., 2017). In those small animal
+berghe and Auricchio, 2012). AAV2 predominantly targets the models,broadtransductionisachievedwithonlyafewmicroli-
+RPE, a reason for its use, in Luxterna, the first FDA-approved tersofvectorlocallyinjected(generally1–231010vgpersite).
+AAV-baseddrugforanIRDwithanenzymedysfunctioninthe Safeandwidespreadcorrectionhasalsobeenreportedinlarger
+RPE (Russell et al., 2017). The efficiency of gene transfer species,includingfelinemodelsofGM1andGM2gangliosido-
+followingsubretinalinfusionisunparalleled;however,theinjec- ses(usingAAV1orAAVrh.8;McCurdyetal.,2015),dogmodels
+tion procedure remains fairly complex and not routinely done of Mucopolysaccharidoses types I and IIIB (using AAV5; Ellin-
+clinicallyoutsideofcellandgenetherapy.Somegroupspropose wood etal.,2011),and NHPsafterinduction of alesion inthe
+asuprachoroidalinjectiontoprovideaccesstotheouterretinain putamenwithMPTP(1-methyl-4-phenyl-1,2,3,6-tetrahydropyri-
+anarguablylessinvasivemanner(Pedenetal.,2011)(Figure2). dine)tomimicParkinsonianneurodegeneration(withsustained
+Theintravitrealinjectionisanattractiveroutethathasclinically clinical improvement observed over 8 years after delivery of
+beenpursuedfortargetingouterretinalcells,suchasretinalgan- AAV2-hAADC; Hadaczeketal.,2010).For other conditionsfor
+glioncells,orthedeliveryofsecretedtherapeuticproteins(such whichnolargeanimalmodelsareavailabletoreproducetheclin-
+asanti-VEGFagents)(Lukasonetal.,2011;TrapaniandAuric- icalsymptomsofhumandiseases,safetyandtransductioneffi-
+chio, 2018). The intravitreal injection procedure is clinically cacystudiesafterAAVintracerebralinjectionhavebeencarried
+routine,isnon-invasive,andhasthepotentialtodistributeacross on in healthy NHPs and generally well tolerated (Colle et al.,
+thewholeretinaratherthantherestrictedareawithinasubretinal 2010; McBride et al., 2011; Zerah et al., 2015, Ciron et al.,
+bleb.However,particularlyinlargeanimalmodelsandhumans, 2009;Sondhietal.,2012).Thismodalityofvectordeliveryhas
+AAV gene transfer following intravitreal injection is limited, re- also been the first in humans for a CNS application (Janson
+quireshighvectordoses,andhasasignificantlyincreasedrisk etal.,2002)andremainsthenorminmostclinicalprogramsso
+of inflammation compared to subretinal injections (Miller and far (see Table 1). For motor neuron disorders, multilevel injec-
+Vandenberghe,2018).TheappealofintravitrealAAVgenetrans- tions in the spinal cord parenchyma have been successful to
+ferhasledtoacontinuedsearchforapproachesandtechnolo- deliver therapeutic agents in amyotrophic lateral sclerosis
+giesthatcanincreaseitspotency,reachboththeinnerandouter (ALS) mouse models (Azzouz et al., 2000; Franz et al., 2009;
+retina,andovercometheimmunityobstacletobroadenitsclin- Hardcastleetal.,2018).Translationtolargermammalsandhu-
+icaluse(Dalkaraetal.,2013;Takahashietal.,2017;Wassmer manshasbeenchallengingduetotheriskysurgicalintervention
+etal.,2017). andthefocalnatureoftheresultingtransgeneexpression.
+Liketheeye,theearpresentsanopportunitytodeliveravector Besides the risk of viral or bacterial infection, hemorrhage,
+bolusintheproximityoftheneuraltargettissueinthecochleaat and edema inherent to any neurosurgical intervention, the
+highconcentrationandminimalbiodistribution.NoclinicalAAV main limitation associated with AAV stereotaxic injection is
+programshavebeenpursuedtodate,inpartduetothelackof the restricted spread of the vector in the parenchyma, espe-
+precedentforintra-cochleardrugdelivery;however,experimen- cially for therapeutic applications to diseases affecting large
+tally, Figure 2 describes the various routes that have been areas of the CNS or peripheral nervous system (PNS). Long-
+exploredforAAVgenetransferpreclinicalstudies(HoltandVan- distance anterograde and retrograde axonal transport of
+denberghe,2012;Taoetal.,2018;Yoshimuraetal.,2018).Inthe certainAAVserotypes(AAV1,-6,-8,and-9)hasbeenreported
+only cochlear gene transfer study to date that has been per- and could promote dissemination of the viral particles across
+formed in humans (NCT02132130), human adenoviral vector anatomically connected areas of the brain (Castle et al.,
+wasinjectedviaanovalwindowprocedure. 2014; Lo¨w et al., 2013; San Sebastian et al., 2013; Zingg
+LocaldeliverytotheCNSinvolvesasurgicalprocedureduring etal.,2017).Convection-enhanced delivery(CED), whichcon-
+whichasubjectisbeinganesthetizedandrestrainedwithinaste- sistsof theapplication of acertain pressure duringinfusionto
+reotaxicframewhileaneedletiporaflexiblefusedsilicacatheter enhance the vector diffusion, is another option (Bankiewicz
+isdirectlyinsertedintheparenchymathroughburrholesdrilled et al., 2000; Hadaczek et al., 2006). Other attempts to
+Neuron101,March6,2019 843
+
+---PAGE BREAK---
+
+Table1. OngoingClinicalTrialsUsingAAVfortheTreatmentofCNSDiseases
+CurrentClinicalProgramsofAAVGeneTherapyintheCNS(asofOctober2018)
+Disease Clinical Serotype Transgene Dose Routeof IDClinicalTrials.gov Sponsor References
+Trialphase administration
+Lysosomalstoragediseases
+MPSI PhaseI AAV6 ZFNfor 531012vg/kg Intravenous NCT02702115 SangamoTherapeutics Harmatzetal.,
+(recruiting) safeinsertion 131013vg/kg 2018
+ofhIDUA 531013vg/kg
+MPSII PhaseI AAV6 ZFNforsafe 531012vg/kg Intravenous NTC03041324 SangamoTherapeutics Laoharaweeetal.,
+(recruiting) insertion 131013vg/kg 2018
+ofhIDS 531013vg/kg
+MPSIIIA PhaseI/II AAV9 hSGSH 0.531013vg/kg Intravenous NCT02716246 AbeonaTherapeutics N/A
+(recruiting) 131013vg/kg
+331013vg/kg
+PhaseII/III AAVrh.10 hSGSH 7.231012vg Intracerebral NCT03612869 LYSOGENE Tardieuetal.,2014
+(recruiting) totalover6sites
+MPSIIIB PhaseI/II AAV5 hNAGLU 431012vgtotal Intracerebral NCT03300453 UniQureBiopharmaB.V. Ellinwoodetal.,2011
+(active,not over16sites
+recruiting)
+PhaseI/II AAV9 hNAGLU 231013vg/kg Intravenous NCT03315182 NationwideChildren’s N/A
+(recruiting) 531013vg/kg Hospital
+LINCL PhaseI AAV2 hCLN2 331012vgtotal Intraparenchymal NCT00151216 WeillMedicalCollegeof Worgalletal.,2008
+(Batten (active,not over12sites CornellUniversity
+disease) recruiting)
+PhaseI/II AAVrh.10 hCLN2 9.031011vgtotal Intraparenchymal NCT01161576and WeillMedicalCollegeof N/A
+(active,not 2.8531011vgtotal NCT01414985 CornellUniversity
+recruiting) over12sites
+PhaseI/II AAV9 hCLN3 Notdisclosed(‘‘low’’ Intrathecal NCT03770572 NationwideChildren’s N/A
+(recruiting) and‘‘high’’doses) Hospital
+PhaseI/II AAV9 hCLN6 1.531013vg Intrathecal NCT02725580 NationwideChildren’s N/A
+(recruiting) Hospital
+MLD PhaseI/II AAVrh.10 hARSA 131012vgtotal Intraparenchymal NCT01801709 InstitutNationaldela Colleetal.,2010;
+(active,not 431012vgtotal Sante´ etdelaRecherche Zerahetal.,2015
+recruiting) over12sites Me´dicale,France
+Hereditaryleukodystrophy
+Canavan Phase1 AAV2 hASPA 931011vgover Intraparenchymal NA NationalInstituteof Leoneetal.,2012
+disease recruiting sixsites NeurologicalDisorders
+andStroke
+(Continuedonnextpage)
+844
+Neuron101,March6,2019
+Review
+Neuron
+
+---PAGE BREAK---
+
+Table1. Continued
+CurrentClinicalProgramsofAAVGeneTherapyintheCNS(asofOctober2018)
+Neurotransmitterdisorder
+AADC PhaseI/II AAV2 hAADC Notdisclosed Intraparenchymal NCT01395641 NationalTaiwanUniversity Hwuetal.,2012;
+deficiency (active,not (Putamen) Hospital Chienetal.,2017
+recruiting)
+PhaseII AAV2 hAADC 2.3731011vgtotal Intraparenchymal NCT02926066 NationalTaiwanUniversity
+(recruiting)- (putamen) Hospital
+expansionof
+NCT01395641
+PhaseI AAV2 hAADC 1.331011vgtotal Intraparenchymal NCT02852213 UniversityofCalifornia,
+(recruiting) (SNcandVTA) SanFrancisco
+Idiopathicage-relatedneurodegenerativediseases
+Parkinson’s PhaseI/II AAV2 NTN 2.431012vgtotal Intraparenchymal NCT00985517 SangamoTherapeutics Marksetal.,2010
+disease (active,not over4sitessham (putamenandSNc)
+recruiting) surgery
+PhaseI AAV2 hGDNF 931010vgtotal Intraparenchymal+ NCT01621581 NationalInstituteof Johnstonetal.,2009;
+(active,not 331011vgtotal CED(putamen) NeurologicalDisorders Suetal.,2009
+recruiting) 931011vgtotal andStroke(NINDS)
+331012vgtotal
+PhaseI AAV2 hAADC 7.531011vgtotal Intraparenchymal NCT01973543 VoyagerTherapeutics Bankiewiczetal.,2006
+(active,not 1.531012vgtotal (striatum)
+recruiting) 4.731012vgtotal
+PhaseII AAV2 hAADC 2.531012vgtotal Intraparenchymal NCT03562494 VoyagerTherapeutics
+(recruiting) versussham (striatum)
+PhaseI AAV2 hAADC 9.431012vgtotal Intraparenchymal NCT03065192 VoyagerTherapeutics
+(active,not (striatum)
+recruiting)
+PhaseI/II AAV2 hAADC 331011vgtotal Intraparenchymal NCT02418598 JichiMedicalUniversity Christineetal.,2009
+(recruiting) 931011vgtotal (putamen)
+over4sites
+Alzheimer’s PhaseI AAV2 hNGF 2.031010vgtotal Intraparenchymal NCT00087789 Ceregene Rafiietal.,2014,2018
+disease 1.031011vgtotal (basalforebrain
+2.031011vgtotal region)
+PhaseI(not AAVrh.10 hAPOE2 8.031010gc/kg Intracisternal NCT03634007 WeillMedicalCollegeof Rosenbergetal.,2018
+yetrecruiting) 2.531011gc/kg CornellUniversity
+8.0310-gc/kg
+(Continuedonnextpage)
+Neuron101,March6,2019
+845
+Review Neuron
+
+---PAGE BREAK---
+
+potentiate AAV transduction after local delivery in the brain
+include co-infusion of factors such as heparin (Mastakov
+et al., 2002) or mannitol (Mastakov et al., 2001), in possible
+combination with CED (Carty et al., 2010). Finally, in specific
+neurological contexts such as neuropathic LSDs, the release
+of therapeutic lysosomal enzymes from transduced neurons
+and their uptake by distal cells leads to an expansion of the
+correctiveeffectofthegenetherapytolargerareasthanwhere
+AAV particles diffuse. This cross-correction process depends
+uponthepresenceofmannose6-phophatereceptorsonrecip-
+ientcellsandisconservedamongmammals.Consideringthat
+relatively low residual enzymatic activity can be clinically rele-
+vant(Leinekugeletal.,1992),intracerebraldeliveryoftherapeu-
+tic genes for the treatment of infantile LSDs remains the main
+application forAAV-based genetherapy intheclinic (Table1).
+DeliverytotheCSFviaIntracerebroventricular,
+IntracisternalDelivery,orIntrathecalRoutes
+Delivery to the CSF allows for more widespread gene transfer
+throughout the brain and spinal cord (Hardcastle et al., 2018)
+while limiting systemic biodistribution (Figure 2). However, the
+presence of tight junctions between ependymal cells restricts
+such application to certain AAV serotypes (such as AAV1, -2,
+-4,-5,-8,-9,rh10,andPHP.B)abletoextravagatethroughthis
+protective cell layer (Hinderer et al., 2018a). Importantly, the
+ageoftheanimalsatthetimeofinterventioninfluencesthetrans-
+ductionprofilefollowingAAVinfusionintheCSF:forexample,a
+comparative study demonstrated that intracerebroventricular
+(i.c.v.)injectionofAAV8andAAV9resultedinwidespreadbio-
+distribution in the brain as compared with other serotypes
+(AAV1, -2, -5, and -7) when administered on postnatal day
+0(P0)andthatthetransductionprofiletendedtoshiftfromneu-
+rons to glial cells between P0 and P1–P2 (Chakrabarty
+etal.,2013).
+Inpre-clinicalstudiesusingrodents,i.c.v.orintracisternal(IC)
+infusionsofAAVinneonatesandadultmiceleadtowidespread
+expressionoftransgenesacrossthecerebraltissueandthespi-
+nalcord,astrategythathasbeensuccessfulincorrectingsymp-
+tomsof MPSI (AAV8-hIDUA; Wolf etal.,2011), II(AAV9.hIDS;
+Hinderer et al., 2016), IIIA (AAV9.CAG; Haurigot et al., 2013),
+VII (AAV1-GUSB; Passini et al., 2003), GM1 gangliosidosis
+(Broekman et al., 2007), SMA (AAV9.SMN1; Armbruster et al.,
+2016), MDL (AAV1-hARSA; Hironaka et al., 2015), ALS
+(AAV.miRNA-SOD1; Dirren et al., 2015), and even AD (Levites
+etal.,2006).Similarstrategyhasbeenattemptedinlargerspe-
+ciessuchasdogsforthetreatmentofceroidlipofuscinosis(Biferi
+etal.,2017)andMPSIIIA(Haurigotetal.,2013)andcatmodelsof
+Sandhoffdisease(Rockwelletal.,2015).Interestingly,transduc-
+tion of the ependymal cell layer and/or the choroid plexus by
+AAV2 or AAV4 also improved disease symptoms without
+requiringthetransportofviralparticlesacrossthisbiologicalbar-
+rier(Liuetal.,2005,Hudryetal.,2013,Benraissetal.,2013).In
+those cases, it is assumed that the ependymal and choroid
+plexuscellsactastherapeuticreservoirsforthesecretionofsol-
+uble enzymes or neurotrophic factors throughout the cerebral
+tissue. Whether or not long-term gene expression can be
+achievedremainsunknown,especiallybecauseoftherelatively
+fast turnover rate of the ependymal cells (Chauhan and
+Lewis,1979).
+deunitnoC
+.1elbaT
+)8102rebotcOfosa(SNCehtniyparehTeneGVAAfosmargorPlacinilCtnerruC
+sredrosiddroclanipS
+A/N
+siXevA
+92718330TCN
+lacehtartnI
+latotgv310130.6
+NMS
+9VAA
+IesahP
+1AMS
+latotgv410132.1
+)gnitiurcer(
+7102,.latelledneM
+siXevA
+99050530TCN
+suonevartnI
+gk/gv410131.1
+NMS
+9VAA
+IIIesahP )gnitiurcer(
+siXevA
+77260330TCN
+suonevartnI
+desolcsidtoN
+NMS
+9VAA
+IIIesahP ton,evitca( )gnitiurcer
+siXevA
+98216430TCN
+suonevartnI
+desolcsidtoN
+NMS
+9VAA
+IIIesahP )gnitiurcer(
+-errocsecnereferdetaicossA.detsiltoneraseidutsdetanimretrodetelpmocelihwdedulcniera8102rebotcOfosavog.slairtlacinilc//:sptthnodetsilseidutsVAAlanoitnevretnilacinilcevitcA
+.dehsilbupydaerlastneitapnistluserlacinilcotroecimnahtrehtosledomlaminaniygetartsafotpecnocfofoorpehtgnitartsnomedseidutsotrehtiednops
+;esataflus-2etanorudi,SDI;esadinorudi-L-ahpla,AUDI;yhportsydokuelcitamorhcatem,DLM;sisonicsufopildioreclanoruenelitnafnietal,LCNIL;sisodirahccasylopocuM,SPM:snoitaiverbbA -yxobraceddica-onima-Lcitamora,CDAA;I-esaditpeplyditpepirtnietorp,2NLC;Besatafluslyra,BSRA;esadinimasoculglyteca-N-ahpla,ULGAN;esalordyhoflusenimasoculgoflus-N,HSGS ;1noruenrotomlavivrus,1NMS;1epytyhportaralucsumlanips,1AMS;2nietorpopilopa,2EOPA;rotcafhtworgevren,FGN;rotcafcihportoruendevired-llec-lailg,FNDG;nirutruen,NTN;esal
+.aeralatnemgetlartnev,ATV;atcapmocsraparginaitnatsbus,cNS
+Neuron
+Review
+846 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+Bycomparison,intrathecal(IT)deliveryofAAVvectorsatthe such as ALS, SMA, or pain (Benkhelifa-Ziyyat et al., 2013;
+levelofthelumbarcordiseasilytranslatabletotheclinicconsid- Wangetal.,2002).Unfortunately,scalingupthedoseofvector
+eringthatthisspaceisroutinelyaccessedintovialumbarpunc- to treat larger animals has proven challenging, the spread of
+ture.Additionally, theinsertion of acatheter through thelower thevectorremaininglimitedandlocalizedinthelumbarsegment
+sectionofthespinalcordcaneventuallybeadvancedrostrally ofthespinalcord.Additionally,earlydysfunctionoftheaxonal
+tothecisternamagnawithlimitedrisks.Suchanapproachhas transport machinery in those diseases may prevent efficient
+been used for the preclinical evaluation of therapeutic candi- AAVtransduction(Bilslandetal.,2010;Fischeretal.,2004).
+dates(serinehistogranin,endomorphin1)forthereliefofneuro- IntravenousDeliveryforNon-invasiveandBroad
+pathic chronic pain symptoms (using an AAV8; Jergova et al., TransductionoftheCNS
+2017) and to correct ALS neurodegenerative processes in The BBB efficiently isolates the CNS from the peripheral
+SOD1mice(usinganAAVrh.10;Lietal.,2017).AsingleITinjec- compartment and is a complex biological barrier constituted
+tion ofAAV.hGAA alsoled to neurologic and cardiacimprove- by successive layers of brain endothelial cells coherently con-
+ments in Pompe disease (Hordeaux et al., 2017), while similar nected by tight junctions, pericytes, and astrocytic endfeet
+centralandperipheralbenefitscouldbedemonstratedafterinfu- (Figure 2). Numerous efforts have been made to try to disrupt
+sionofAAV9,AAVrh.10,andAAV.Olig001inyoungKrabbedis- theBBBinordertoallowthetransferoftherapeuticagents.Infu-
+ease mice (10–11 days old; Karumuthil-Melethil et al., 2016). sionofmannitol,forexample,hasbeenusedtopotentiatethe
+Overall,thetransductionefficacyappearstoberatherequivalent transduction of neural tissue after intravenous delivery of AAV
+inadultmicewhencomparingdifferentroutesofadministration (Mastakovetal.,2001;McCartyetal.,2009),anapproachsome-
+intheCSF(Beyetal.,2017),butinfusionofAAV9inthecisterna whatsuccessfulbutassociatedwithsignificantadverseeffects.
+magnaorinthelateralventriclehasbeenshowntobefarmore Because of those challenges, the characterization by Foust
+potentattransducingthebrainandspinalcordofcynomolgus and colleagues of anAAV (AAV9) able to naturally bypass this
+macaques or dogs as compared with IT injection by lumbar ‘‘impermeable’’ biological barrier constitutes a definite break-
+puncture(Hindereretal.,2018a).Whetherornotplacingthesub- throughinthefield(Foustetal.,2009).Forthefirsttime,large-
+jectintheTrendelenburgpositionrightafterinfusioncanpoten- scaletransductionoftheentirebrainandwidespreadexpression
+tiatetheefficacyofbraintransductionbythisprocedureremains oftherapeuticgenesintheCNSbecameachievableafterasin-
+debated(Meyeretal.,2015). gleintravenousinjectionofvector,afeatureespeciallyadvanta-
+IntranasalDeliveryforBrainTransduction geousforthetreatmentofmultifocaldiseases(Foustetal.,2010;
+WhiletheprimaryindicationforintranasalAAVdeliveryhasbeen Mattar et al., 2013; Murrey et al., 2014). Indeed, illustrated in
+to target the respiratory tract, this non-invasive gene transfer Figure3,thecombinationofscAAVandAAV9athighdosecan
+strategy has also been recently applied for the treatment of result in widespread transduction of spinal cord and the CNS
+MPSI(Beluretal.,2017)(Figure2).AdultIDUA-deficientmice followinganIVinjection(Hudryetal.,2018).Thisfindingserved
+were instilled intranasally with an AAV9.IDUA, and a complete asthebasisofmanypreclinicalandclinicalprogramsdescribed
+restoration of enzyme activity to normal levels was noticed inmoredetailbelow.Italsospurredfurthertechnologyexplora-
+5 months post treatment in all parts of the brain, even though tion. Indeed, other AAV serotypes appear to have qualitatively
+theareaofAAVtransductionremainedlocalizedtotheolfactory similar transduction abilities (Yang et al., 2014; Zhang et al.,
+bulb.ThisapproachmaybesuitableforotherLSDsconsidering 2011),eventhoughthoseremainlesswellcharacterizedacross
+thepossibletraffickingoftherapeuticlysosomalenzymestothe variousdiseaseandanimalmodelsthanAAV9.Capsidengineer-
+CNSviatheolfactoryandtrigeminaltracksinnervatingthenasal ing studies have further led to AAV variants that quantitatively
+passages(Wolfetal.,2012).IntranasaldeliveryofanAAVvector appear superior to AAV9 such as AAV.PHP.B and AAV-B1
+driving expression ofthe neurotrophic factor BDNF fused with (Choudhury et al., 2016a; Deverman et al., 2016) and AAV-AS
+cell-penetrating peptides (TAT and HA2) was also associated (Choudhuryetal.,2016b),atleastintheanimalmodeltestedin
+withanti-depressanteffectsinmiceandisconsideredaprom- thestudies(AAV.PHP.Bappearstonotsustainthatsuperiorabil-
+isingtherapyformajordepressivedisorder(Maetal.,2016). ityinotherspecies;Challisetal.,2019;Hordeauxetal.,2018).Of
+IntramuscularInjectionandNerveDeliverytothe note,mostofthesuccessfulattemptsofsystemicAAV9delivery
+SpinalCord havebeendoneafterpackagingself-complementarygenomes
+Targetingthespinalcordcanbeachievedviaremotedeliveryin (Figure 1C). Anc80L65, a fully rationally designed AAV, has
+themuscleandreliesontheabilityofcertainAAVserotypesto been shown to—at least in part—overcome the need for a
+hijacktheaxonaltransportmachineryandtravelalongthenerve self-complementary genome to accomplish substantial CNS
+following a centripetal way (Boulis et al., 2003; Towne et al., transduction following systemic injection (Deverman et al.,
+2010) (Figure 2). AAV1, AAV6, and, more recently, AAV9 have 2016;Hudryetal.,2018;Zinnetal.,2015).
+led to efficient targeting of motor neurons after intramuscular Duetoitsextensivevalidationstudiesacrossmodelsandby
+infusioninrodents(Benkhelifa-Ziyyatetal.,2013;HollisIietal., multiple groups, AAV9 remains the gold standard serotype for
+2008;Towneetal.,2010).InfusionofassAAV6inthegastrocne- CNStargetingaftersystemicdeliveryandhasbeenextensively
+miusmuscleofAfricangreenmonkeyshasbeenattemptedand usedwithminimalsignsofperipheralorcentraltoxicity(Murrey
+transducedabout50%ofmotorneuronsintheventralhornof etal.,2014;Plegeretal.,2011;Saraivaetal.,2016).Interestingly,
+theipsilateral-injectedsideofthespinalcord(1.331012vgin- notwithstanding some discrepancies between the reported
+jected;Towneetal.,2010).AAVintramuscularinjectionsappear studies, the transduction profile in the brain in animals has
+especially suited for the treatment of motor neuron diseases beenreportedtoshiftaccordinglytotheageoftreatment:while
+Neuron101,March6,2019 847
+
+---PAGE BREAK---
+
+Neuron
+Review
+tentlytargetedregardlessoftheageofthesubject.Preclinical
+resultshavebeenratherpositivesofar(forGM1gangliosidosis
+[Weismann et al., 2015], Sandhoff disease [Walia et al., 2015],
+MPSIIIB[Fuetal.,2011;Murreyetal.,2014],AD[Iwataetal.,
+2013], HD [Dufour et al., 2014], SMA [Benkhelifa-Ziyyat et al.,
+2013],orALS[Yamashitaetal.,2013]).Importantly,thefirstclin-
+ical report of gene-replacement therapy for SMA type I has
+recentlybeenpublishedandshowedremarkablesafetyandef-
+ficacyofthisapproach(Mendelletal.,2017).
+Even though AAV peripheral delivery is technically easy and
+non-invasive, important challenges complicating clinical appli-
+cationremain:(1)largedosesofvectorarerequiredtoachieve
+relevant transduction in the CNS and improve disease symp-
+toms;(2)intravenousadministrationexposesthevectortoanti-
+AAV antibodies in those individuals that were previously
+exposed to AAV; (3) as most AAVs are hepatotropic, most of
+thevectorwilldistributetotheliver,increasingtheriskforhepa-
+totoxicity;and(4)ectopicexpressionofthetransgeneinperiph-
+eraltissuesmayfurtherposesafetyrisks.
+Insummary,thechoiceoftherouteofadministrationisacrit-
+icaloneyetrequiresabalancingofmultipleparametersalonga
+risk-benefitequation.Historically,localroutesofinjectionhave
+beenpreferredastheyminimizethesafetyconsiderationswhile
+maximizingdelivery.Drivenbythedesiretoovercometheinva-
+sivenessofthelocaladministrationprocedureand/ortheclinical
+needtotargetmorebroadlythanwhatalocalinjectionroutecan
+deliver,noveltechnologieswere,andoftenstillare,neededthat
+enablemeaningfullevelsofgenetransferviatheseroutes.These
+approaches,atthecurrentstage,almostalwaysrequirehigher
+levelsofdosing,increasingthesafetyriskandputtingsignificant
+burdenonAAVmanufacturing.Incertaincases,variousroutesof
+administration are combined when either technologies are too
+limitingorthediseasepresentation(e.g.,insyndromiccases)re-
+quiresmultipleorganstobetargeted(Biferietal.,2017;Gurda
+etal.,2016).
+SafetyConsiderationinAAVGeneTherapy
+AprimarydriverforAAV’sadoptioningenetherapyapproaches
+hasbeenitsremarkablesafetyrecordinpreclinicalandclinical
+Figure3. AAV9BrainTransductionafterIntravenousDeliveryin
+C57BL/6 studies.Evenathighdoses,traditionaltoxicology assessment
+RepresentativeimagesofeGFPfluorescencesignal(andDAPI)acrossthree isrelativelyuneventful.However,onecannotbecomplacentas
+differentcoronalsectionsacrossthebrainafterintravenousinjectionofAAV9 the first reports of dose-limiting toxicities using AAV emerge.
+harboring a self-complementary genome (4 3 1013 vg/kg) expressing
+Indeed, in a recent study in piglets and NHPs, an AAV variant
+CMV.eGFP(Hudryetal.,2018)atthelevelofthestriatum(upperpanel),hip-
+pocampus (middle panel), or cerebellum (bottom panel). C57BL/6 animals administeredi.v.athighdoseledtoseveretoxicitythatresulted
+wereinjectedviatailveinat6–8weeksofage.Scalebar,1,000mm.
+indeathornecessitatedeuthanasiadaysaftervectoradministra-
+tion.Observationsincludedelevatedtransaminases,degenera-
+neuronsarepreferentiallytargetedafterdeliveryinneonates,as- tionofdorsalrootganglia,impairedambulation,proprioceptive
+trogliamostlyexpressthetransgeneafterinfusioninadultmice deficits,andataxia(Hindereretal.,2018b).AAVgenetherapies
+(Deverman et al., 2016; Foust et al., 2009; Hudry et al., 2016). arecomplexbiologicalagentsforwhichtheclinicalexperience
+SystemicinjectionofAAV9innewbornoradultmicetransduced oftheplatformremainsinitsinfancy.Moreover,hostresponses
+motorneurons(MNs)inthespinalcord,upto78%inlowerspinal canbeunpredictableanddependentondiseasestate,routeand
+MNsaccordingtoWangandcolleaguesinnewbornmice(Wang compartmentofadministration,geneticpredispositions,orother
+et al., 2010) but with declining efficiencies later in life (Duque idiosyncraticvariables.
+etal.,2009;Grayetal.,2011).AAV9studiesinNHPsconfirmed
+thoseinitialfindings,showingefficienttransductionofneurons HostResponse
+after intravenous infusion in neonatal rhesus macaques, while Immunological responses to a gene therapy can significantly
+glialtargetingwasprominentafteradministrationinjuvenilesub- impact the safety and longevity of any gene therapy. Possible
+jects(Grayetal.,2011;Mattaretal.,2013).MNswereconsis- sources of antigenicity are the vector components, the
+848 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+expressedtransgene,andcontaminantsofthevectorprepara- tolerability of theseapproaches (detailed in Table 1and in the
+tion. The immunogenicity can be innate and/or adaptive in section‘‘ClinicalProgress:IllustrativeCaseStudies’’),withlittle
+nature. signs of inflammation reported and only a small subset of pa-
+Genetherapies,likewithotherbiologics,canbecomplicated tients eventually developing a mild immune reaction against
+bypre-existingimmunity(PEI).PEIisduetopriorexposureofthe thevectorcapsid.Similarly,intheeye,programsusingasubre-
+hosttooneofcomponentsinthegenetherapyandthelasting tinalrouteofinjectionhaveoverallsafelyprogressedintheclin-
+memory immune responses to which the initial exposure may icalstudies,presumablyduetothelocalimmuneprivilegeofthe
+lead. Since AAV is endemic in humans, PEI complicates the retina,thesmalldose,andthecontainmentofthevectorinthe
+development of gene therapies at various levels as most ele- subretinalbleb(TrapaniandAuricchio,2018).Nonetheless,im-
+mentsthatmakeupthegenetherapyarenaturallyderivedand muneprivilegeisarelativeconcept,asinhigheranimalstudies
+therebypossibletohavepre-exposedtherecipient.Individuals inflammatory responses have been noted particularly when
+with memory B cell responses have circulating levels of anti- higherdosesareadministered,possiblyduetoinnateimmune
+AAVneutralizingantibodies(NABs)thatcan,evenatlowlevels, sensingintheretinaorleakageofvirusintothevitreousdueto
+prevent the AAV particle from reaching its intended tissue or thesubretinalinjectionprocedure(Khabouetal.,2018;Reichel
+celltarget.ThemostimmediateimpactofAAVNABsistherefore etal.,2017;Vandenbergheetal.,2011).Directintravitreal,which
+on (the lack of) efficacy, not safety. Sequential AAV injections conceptuallyhasnotedadvantagesoversubretinalinjection,il-
+may suffer from NABs elicited by a prior administration, and lustratesthelimitsofimmuneprivilegeevenmore.Contraryto
+re-administrationisthereforecurrentlynotconsideredafeasible manyothercommonlyusedprotein-baseddrugs,AAVinjected
+option(Amadoetal.,2010).PEItoAAVcanalsomanifestitself inthevitreouswasfoundtobeinflammatory,evenatmoderate
+through a memory T cell response; indeed, the reactivation of doses (Miller and Vandenberghe, 2018). These responses
+memoryTcellresponseshasbeenhypothesizedtoplayarole remain poorly understood, mainly because they are only
+inhepatotoxicityandthelossoftransgeneexpressionthathas evident in larger animal models and human studies (Cukras
+been observed in several AAV clinical trials. The prevalence et al., 2018; Maclachlan et al., 2011), and while responsive to
+and impact of PEI to AAV are significant but difficult to gauge pharmacological immune suppression, further research is
+quantitatively due to differences in the detection assays and neededtoadequatelyavoidormitigatetheseresponses.
+thevectorserotypestestedbetweenpopulations(e.g.,age,clin- Systemic AAV administration with the goal to broadly trans-
+icalhistory,geographicallocation).Generalconceptsonimmu- ducetheneuraltissueisevidentlymorechallengingthanlocalin-
+nological and other safety considerations for AAVs have been jectionroutes.Moststudiesareforcedtoexcludepatientswith
+reviewedextensivelyelsewhere(MingozziandHigh,2013;Van- detectable levels of NABs to AAV, as it is expected they will
+dammeetal.,2017;VandenbergheandWilson,2007). not benefit from the gene therapy. Even then, AAV clinical
+PEIisnotsolelyanissueofvectorcapsid,asitcanalsobe studiesforhemophiliashowedthatseronegativesubjectsdevel-
+directed to the expressed transgene. An example of this in a opedtransaminaseelevationsweeksafterAAVadministration,
+traditionalgeneaugmentationcontextisLSDforwhichenzyme which in some patients was concomitant with a rise in AAV
+replacementtherapiesareavailable(Wangetal.,2008).During capsid-specificCD8+cellsandthelossoftransgeneexpression
+these treatments, some patients develop antibody responses (Mannoetal.,2006;Mingozzietal.,2007;Nathwanietal.,2011).
+to the injected enzyme. If these patients later are receiving a In the SMA study in which AAV9 was given IV at high dose,
+genetherapyexpressingthesameenzyme,theseNABsconsti- asymptomatic elevation of transaminases was observed in
+tute (drug-induced) PEI in the context of the gene therapy. some of the newborn subjects, who fortunately responded to
+AnotherexamplerelatestotheuseofCRISPRgenomeediting, prednisolonetreatment(Mendelletal.,2017).
+asthebacterialCRISPRenzymeitselfisanantigenthathumans Cellularimmuneresponsetowardheterologousorevenautol-
+are exposed to throughout life (via a common bacterial infec- ogous gene products poses another concern to take into ac-
+tions)(Charlesworthetal.,2018). count when considering AAV gene transfer. Even after direct
+Fortunately,AAVgenetherapiesforneurologicaldiseasehave intraparenchymal or intra-CSF injection, a few pre-clinical
+beensomewhatsparedfrommajorinflammatoryadversity,likely studiesindogmodelsofMPSIIIAdisease,Sanfilippo,andHurler
+duetotheimmuneprivilegethatmanyofthecompartmentsin syndromes have actually showed that a robust inflammatory
+thenervoussystembenefitfrom(Carsonetal.,2006;Forrester responsecanarisefromAAV-drivenexpressionofhumantrans-
+et al., 2018). Brain, spinal cord, eye, and cochlea have limited genes,whilenosuchresponsewastriggeredwhenthecanine
+access to circulating antibodies or infiltrating immune cells cDNAs were cloned in the vector backbone (Ellinwood et al.,
+and,incertaincases,mechanismstoactivelydampenimmune 2011;Haurigotetal.,2013).
+response (Forrester et al., 2018; Stein-Streilein, 2013). NABs Ectopicexpressionofthetransgeneproductcanbeasource
+duetoPEI,forexample,aresignificantlyreducedintheocular ofantigenicityortoxicity,anissuethatwarrantsthedevelopment
+vitreousorCSF.IntraparenchymalCNSorsubretinalinjections ofstrategiestorestrictexpressionofthetherapeuticproteinto
+even have less exposure to NABs and likely are not affected, targetedtissues.Capsidmodificationscanbemadetoreduce
+evenifthehostishighlyserologicallypositiveorhaspreviously liver targeting and promote transduction of the neural tissue
+received an AAV injection (e.g., when administering a retinal (Castle et al., 2016; Kanaan et al., 2017). Another successful
+gene therapy in both eyes) (Amado et al., 2010; Gray et al., strategyhasbeentotailortheAAVgenomeandinsertcell-spe-
+2013).Indeed,clinicalprogramsthatreliedondirectintraparen- cificpromotersallowingspecificexpressionindefinedcellpop-
+chymalorintra-CSFinjectionsoverallconfirmedthesafetyand ulations such as neurons (synapsin or CamKII promoters;
+Neuron101,March6,2019 849
+
+---PAGE BREAK---
+
+Neuron
+Review
+Jacksonetal.,2016;McLeanetal.,2014;Watakabeetal.,2015), Mir341 (within the Rian locus), which only exists in rodents
+astrocytes(GFAPorALDH1/1promoters;Dashkoffetal.,2016; (Chandler et al., 2015). In a select number of subjects with
+Kohetal.,2017),oroligodendrocytes(usingamyelinbasicpro- HCCthatwerenotAAVgenetherapyrecipients,genomicanal-
+tein promoter; Georgiou et al., 2017; Kennedy and Rinholm, ysisofHCCbiopsiesidentifiedAAV2genomestobeintegrated
+2017).miRNA-specifictargetsequenceshavealsobeencloned in oncogenic driver genes (Nault et al., 2015). Whether or not
+intheviralgenome(30 UTR)toabolishoff-targetexpressionin thereportedpathogenicity ofwild-typeAAV2isrelevanttore-
+undesirablecelltypes(Taschenbergeretal.,2017). combinant AAV use in the clinics is unclear (Gil-Farina et al.,
+Currentlyutilizedclinicalstrategiestosidesteporovercome 2016).Inthespecificcaseofgenetransferappliedtoneurolog-
+immune concerns brought on by AAV gene therapies include ical disorders, insertional mutagenesis may only be a concern
+the exclusion of patients with elevated anti-AAV antibodies whenhighdosesofvectorareinjectedsystemically.Italsoim-
+from enrolling in clinical trials, administering in compartments pliesthatlocalinjectionsofsmallamountsofAAVintheparen-
+thatarethoughttobeimmuneprivileged,includingshort-term chymaorCSFwillbesafe,eventhoughonepaperreporteda
+immunosuppression regimens (e.g., oral prednisone; Mendell possibleintegrationofAAVinnon-dividingcellssuchasneurons
+et al., 2017; Nathwani et al., 2011), or limiting the vector dose (Wuetal.,1998).
+(Mendelletal.,2017).Whilethesestrategieshaveoverallproven
+tobeadequateintheongoingclinicalstudies,itiscleartheydo ClinicalProgress:IllustrativeCaseStudies
+notprovideasolutionformanyoftheoutstandingconcernsin Clinical gene therapy has come a long way to overcome
+thefield.HowcanweeffectivelyadministeranAAVtoaseropos- perceived and real concerns about safety and its potential to
+itive patient? Can we do repeat administrations of AAV over markedlyinterveneindiseaseinhumans,andtodaythedemon-
+time?HowdowesafelyperformAAVgenetransferwithananti- stratedproofofconceptoftheclinicalutilityofgenetherapyis
+genthatisforeigntopatient,suchaswhenapatienthasnullmu- clear.Remarkably,twoofthosepioneeringprogramsareinner-
+tations in an autosomal recessive disease gene? These and voussystemdisordersandbothleanonAAV.TheFDAin2017
+otherquestionsremainthetopicofinvestigationandtechnology and the European Medicines Agency (EMA) in 2018 approved
+development in the laboratory (reviewed in Mingozzi and forthemarketLuxturna(voretigeneneparvovec-rzyl),asubreti-
+High,2013). nallyinjectedAAVencodingthecDNAforRPE65fortreatment
+GenotoxicityandInsertionalMutagenesis ofpatientswithconfirmedbiallelicRPE65mutation-associated
+Contrarytoretroviralvectors,recombinantAAVisnotknownto retinaldystrophythatleadstovisionlossandmaycausecom-
+actively integrate into the host genome but rather resides in a pleteblindness in certain patients (Russellet al.,2017). Inlate
+non-replicating episomal state upon transduction in the target 2018, an application was submitted to the FDA, the EMA, as
+cell(Schneppetal.,2005).Indeed,sincenomechanismactively well as Japanese regulators for the market approval of AVXS-
+duplicatesthetransgeneduringmitosis,itsexpressioniseventu- 101orZolgensma(onasemnogeneabeparvovec),theNovartis/
+allylostinadividingcellpopulation.However,infrequentintegra- AveXis AAV gene therapy for SMA (Mendell et al., 2017). If
+tionoftheAAVtransgeneintothehostgenomecanoccur,witha approved—at the earliest in the first half of 2019—it would
+biastowardactivegenomicregions(Nakaietal.,2003).Therisk becomethesecondAAVproductcurrentlyonthemarket.
+forgeneratinginsertionalmutagenesisthereforedoesexistand Here,wepresentseveralcasestudiesofprogresstowardorin
+was recently reviewed in detail (Chandler et al., 2017). While theclinicofAAVgenetherapiestargetingthenervoussystem,
+this safety issuehas not yetbeenreported in human patients, withaspecificemphasisondiseasesoftheCNS(summarized
+increased incidence of hepatocellular carcinoma (HCC) has inTable1).Foranin-depthoverviewoftheprogressandclinical
+been observed after systemic delivery of AAV2 and AAV9 in studies in the field of ophthalmology, specifically for inherited
+newborn MPSVII mice (AAV2) and Sandhoff disease model as retinaldisorders,werefertoanumberofrecentreviewsonthe
+theanimalsgetolder(between43and52weekspostinjection) subject (DiCarlo et al., 2018; Trapani and Auricchio, 2018).
+(Donsante et al., 2007; Walia et al., 2015; Zhong et al., 2013). Only a few clinical studies have explored AAV gene transfer
+Theincidenceofthoseeventsreaches30%–60%afterinjection appliedtoinheritedperipheralneuropathies,withonlyonephase
+ofAAV2atadoseof1.531011vgand80%withAAV9atthe I/IIaclinicaltrialregisteredsofarforthetreatmentofCharcot-
+muchhigherdoseof2.531014vgwithsimilarobservationsin Marie-Tooth disease (NCT03520751) and of giant axonal neu-
+non-transgenic littermates. Further investigation of the genetic ropathy (that affects both PNS and CNS, NCT02362438), yet
+material of the tumors revealed the presence of recombinant withoutanyreportedresults.
+AAVgenomeintegratedinaspecificlocusofthemurinechromo- NeurosensoryDisorders
+some12(Rianlocus),leadingtodysregulationofexpressionof Insomeways,itisremarkablethatthefirstconvincingdemon-
+the surrounding genes (Donsante et al., 2007; Wang et al., stration of the clinical impact of in vivo gene therapy was one
+2012).Whilethosefindingshaverecentlybeenreproducedina inaneurosensorydisorder;in2008,thenowFDA-approvedLux-
+large study using various different serotypes and longer time terna was shown to benefit patients suffering from a type of
+points(upto24months)(Chandleretal.,2015),twoadditional Leber congenital amaurosis due to mutations in the gene
+reports eventually could not reproduce those findings (Bell RPE65(Maguireetal.,2008).Thiswasremarkable,because,his-
+etal.,2005;Lietal.,2011),butthedevelopmentaltimingofinjec- torically, gene therapy was primarily considered for disorders
+tions was different, suggesting age-difference susceptibility to withsignificantmortality,suchasmusculardystrophyorgenetic
+rAAV genotoxicity. Additionally, a detailed genomic analysis formsofimmunodeficiency(Miller,1992).Inhindsight,theratio-
+demonstratedthatthevectorintegrationsitesweremappedin naleforthepursuitfortherapeuticgenetransferinneurosensory
+850 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+disordersappearsobvious:thetissuetargetiscompartmental- attractiveforseveralreasons:(1)LSDsaremonogenicdiseases
+ized,warrantingalocalinjectionthatcanbepositionedinclose (recessiveorX-linked),(2)thenaturalhistoryofthosedisordersis
+proximity to the target cells and thereby limits systemic expo- wellestablished,(3)thereisatherapeuticwindowduringwhich
+sure,asmallerdoserequirement,andlessenedsafetyconcerns. aninterventioncantakeplacebeforeovertneurodegeneration,
+Approachesintheretinahavebeenontheforefrontforthepast (4)mutationcarrierscaneasilybeenidentifiedfromfamilies,(5)
+twodecades,resultinginLuxternaandmultipleothergenether- evenlowlevelsofresidualenzymaticactivitycanresultinsignif-
+apy programs for blinding disorders currently in the clinic (re- icantclinicalimprovement,and(6)thosediseasesareoftenchar-
+viewed by DiCarlo et al., 2018; Trapani and Auricchio, 2018). acterizedbyaseverephenotypeandnoalternativetherapeutic
+ThemajorityoftheclinicalprogramshavebeenbasedonAAV options areavailabletocorrect the neurologicaldeficits inpa-
+duetoitshighgenetransferefficiencytoretinalpigmentepithe- tients.Inaddition,crosscorrectionismadepossibleduetothe
+lialcellsandphotoreceptorsfollowingasubretinalinjectionand factthatthelysosomalenzymescanbesecretedintheextracel-
+the availability of many AAV variants that demonstrate altered lular space and taken up by surrounding cells, amplifying the
+specificityforthevariousretinalcelltypes(Vandenbergheand correctiveeffectofthetherapeuticgene.
+Auricchio, 2012). The success and growing level of comfort Mucopolysaccharidoses (MPSs) encompass a group of rare
+aroundtheuseofAAVintheretinacontinuestopushboundaries metabolic diseases thatarise froma deficit in thedegradation
+with the first in vivo experimental clinical trials using optoge- ofmucopolysaccharidesandtheresultingaccumulationofgly-
+neticsandgene-editingtechniques,suchasCRISPR,tobetar- cosaminoglycans in the lysosome. The age of clinical onset
+getingtheretinaandbuildingonthesafetyandpotencyofAAV directly correlates with the residual enzyme activity, which is
+(DiCarloetal.,2018). why symptoms can be detected from the prenatal period
+An emerging field that draws on analogies with retinal gene throughadulthood.CNSinvolvementencompassesdifficultyof
+therapyisfocusedontherapeuticgenetransferforhearingand speech,ataxia,weakness,anddyskinesiainadults,whileneuro-
+balancedisorders(Ge´le´ocandHolt,2014).Indeed,thecochlea logical impairment, developmental delay, and regression are
+isalsoawell-confinedspaceallowingforlocalizedinfusionsat observedinchildrenwhoselifeexpectancyissignificantlyshort-
+lowdoses.Severalimportantdistinctions,however,mayexplain ened(Plattetal.,2018).Severalgenetherapyclinicaltrialsare
+thefactthathearinggenetherapyhasnotseentodatetheclin- currentlyinprogressforthetreatmentofMPSI(Hurlerinfantile
+icaladvancesseeninophthalmology:onlyrecentlyhavenovel syndromeorHurler-ScheieandScheieforthejuvenileandadult
+AAV technologies emerged that improve targeting efficiencies forms),MPSII(Huntersyndrome),MPSIIIAandMPSIIIB(Sanfi-
+(Gyo¨rgyetal.,2017,2018;Landeggeretal.,2017);drugdelivery lippo syndromes A and B), and MPS VI (Maroteaux-Lamy
+into theinner ear isnotroutine; hearing aids andcochlear im- syndrome, which will not be discussed here as the central
+plantsareastandardofcarethatcanprovidetherapeuticrelief involvementisnotaprimaryclinicalsymptom).
+to patients; and lastly, many inherited, particularly autosomal TheMPSI(NCT02702115)andII(NCT03041324)phaseI/IItri-
+recessiveforms,hearinglossdisorderslikelyhaveeithernoor alsareofparticularinterestastheywillbothevaluatethesafety
+only a very short therapeutic window of intervention, thus andtolerabilityofascendingdosesofrAAV2/6-basedZFNther-
+complicating the translation of gene therapies for these disor- apeutic agents to insert a correct functional copy of alpha-L-
+ders. Nonetheless, the large remaining unmet need and the iduronidase(IDUA)oriduronate2-sulfatase(IDS),respectively,
+increasing comfort around AAV gene therapy development is intothealbuminlocusofpatienthepatocytesafterintravenous
+makingthisfieldchartahead,withsomenotablepreclinicalad- delivery. For those studies, adult MPS I and MPS II patients
+vancesingeneticformsofhearinglossthroughgeneaugmenta- arebeingrecruited,anditisexpectedthatthebenefitwillmostly
+tion(Akiletal.,2012;Dulonetal.,2018;Isgrigetal.,2017;Pan be on the peripheral symptoms of these diseases. Whether or
+etal.,2017),genesilencing(Shibataetal.,2016),andoptoge- notasimilarapproachcanbeproposedforyoungerpatientsre-
+neticapproachestooptimizetheresolutionofcochlearimplants mainstobeseen.ThiswouldbeofinterestconsideringthatZFN-
+(Keppeleretal.,2018;Wrobeletal.,2018). mediated genome editing also prevented the development of
+Genetherapyresearchinpromisingareas,suchasolfaction neurocognitivedeficitsinyoungMPSIImice,evenaftersystemic
+andpain,isgrowingandinmanycasesalsoexplorestheutility administration(Laoharaweeetal.,2018).
+ofAAV,mostoftenusinglocalroutesofadministration(Guedon BecauseMPSIIIAispredominantlyaCNSdisorder,thephase
+etal.,2015;Williamsetal.,2017). II/III gene therapy proposed for this disease (‘‘AAVance’’) will
+LysosomalStorageDiseases directly target the CNS via stereotaxic infusion of AAVrh10-
+Biochemically,LSDsarecharacterizedbytheabnormaldegra- h.SGSH.Themaingoalistodeliverafunctionalcopyofthehu-
+dationofthelysosomalcontentandthepathologicalaccumula- manN-sulfoglucosaminesulfohydrolase(h.SGSH)cDNAinboth
+tion ofundigested materialsthat leadsto cellular damage and hemispheres of the brain through MRI-guided neurosurgery.
+multi-systemic clinical manifestations. Most LSDs have a pro- Thisstudywillenroll20patientsof6monthsandolder.Aphase
+gressive neurodegenerative course that cannot be improved I/IIclinicaltrial(NCT01474343)bythesameteamhadbeenpre-
+byenzymereplacementtherapyasmostenzymesdonotcross viouslydoneonfouryoungpatients(6monthsto2years)withthe
+theBBB(Plattetal.,2018),eventhoughallogenichematopoietic aimofexpressingaltogetherthehumanSGSHandSUMF1(sul-
+stemcelltransplantationcanprovidesometherapeuticbenefit fatase-modifyingfactor,acatalyticactivatorifSGSH)cDNAafter
+for patients. While those disorders taken individually are rare, intracerebraladministrationofAAVrh.10.Overallsafe,therewas
+the incidence of LSDs as a group is estimated as 1 in 5,000. onlyan indication of cognitive benefit in the youngest subject,
+Gene therapy applied to the treatment of LSDs is especially suggesting that the disease may have been too advanced in
+Neuron101,March6,2019 851
+
+---PAGE BREAK---
+
+Neuron
+Review
+other patients for a measurable improvement (Tardieu et al., PreclinicalstudiesinASPAknockoutrodentmodelsdemon-
+2014). A parallel approach by intravenous delivery of strated the remarkable efficacy of AAV expressing ASPA to
+AAV9.hSGSH is being developed by Abenoa Therapeutics resolve most of the biochemical and neuropathological hall-
+(phase I/II ABO-102 trial, NCT02716246). Early-phase clinical marks of the disease (Matalon et al., 2003; McPhee et al.,
+trials for the treatment of MPS IIIB (NCT03300453 and 2005).ThestrongrationaleforASPAgenetherapyhaslogically
+NCT03315182)proposetorestoreexpressionofN-sulfoglucos- led to a first phase I/II dose-escalating clinical trial for CD in
+aminesulfohydrolase(NAGLU)inpatientsafterintracerebralor 2012(Leoneetal.,2012).Threegroupsofpatients(of3months
+intravenousdeliveryofAAV5andAAV9,respectively.Bothstra- oldto8yearsold)underwentAAV2.ASPAstereotaxicinjection
+tegieshaveshowedpositiveimpactontheclinicalsymptomsin intotheparenchymaatsixsites.Acontrolgroupdidnotreceive
+rodentanddogmodels(Ellinwoodetal.,2011;Fuetal.,2011). any intervention. Adverse events within the first 90 days after
+NeuralceroidlipofuscinosesorBattendiseaseareagroupof treatment were related to the neurosurgery procedure and
+neurodegenerativestoragedisorders.OnetypeofBatten—late generally transient. Immune responses to AAV2 appeared
+infantileneuronalceroidlipofuscinosis(LINCL)—isafatalchild- limited. NAA concentrations were measured longitudinally by
+hoodneurodegenerativeLSDcausedbymutationintheCLN2 single-voxel 1H-MRS and showed a monotonic increase of
+gene encoding for the tripeptidyl peptidase-I (TPP-I) protein. NAAinallregionsofinterestinthebrainofcontrolsubjects.By
+The CNS involvement forthisdisease issignificant (myoclonic contrast,thepathologicalaccumulationofNAAwasdecreased
+epilepsy,lossofcognitiveandmotorfunction,degenerationof inAAV.ASPA-treatedpatients,whichwassignificantintheperi-
+theretinaleadingtoblindness,andearlydeath;Donsanteand ventricularandfrontalregions(primarytargetsforthetherapy).
+Boulis,2018).Currently,fourAAV-basedclinicaltrialsforBatten Even more interestingly, some patients enrolled in this study
+diseaseareunderway(threeareactiveandnotrecruitingwhile showed an arrest or even reversal of brain atrophy assessed
+oneisrecruiting).Pre-clinicalsafetyandefficacyofAAV-based by MRI. This was not the case for other subjects who already
+genetherapyforBattendiseasehasbeendemonstratedinrats hadasignificantdegreeofatrophybeforegenetherapy,which
+andAfricangreenmonkeys(Sondhietal.,2012).Thefirstphase makesthecaseforinterveningasearlyaspossibleforthisdis-
+Itrial(NCT00151216)startedin2005withaprotocolofintracere- ease.Finally,modestbutsignificantimprovementinthemotor
+bral injection of AAV2CUhCLN2. Ten CLN2 disease patients, functions(forexample,rollingability)andotherclinicaloutcomes
+with the severe (group A) or moderate (group B) form of the (inparticularthelevelofalertness)wasobservedinAAV.ASPA-
+disease,wereenrolledinthestudy.Unfortunately,oneofthepa- treatedpatientsat18months,whichwasagainlesspronounced
+tientsdeceased49daysaftertreatmentfromuncontrollablesta- intheoldersubjects.Decreasedclinicalseizurefrequencywas
+tusepilepticus.Whileimagingstudiesdidnotdetectasignificant observedin11of13patients.Overall,theCDclinicaltrialcon-
+change in disease progression, neuropsychological evaluation firms the long-term safety of intracerebral stereotaxic infusion
+demonstratedsomeretardationofdiseaseprogressionrelative ofAAVandshowsevidenceofpositiveradiographicandclinical
+to historic controls. It is possible that the use of AAV2, which changes,whichisnot10yearsoutforsomepatients.
+spreadslessthanmanynewlycharacterizedserotypes,didnot NeurotransmitterDisorder:AromaticL-aminoAcid
+leadtoenoughproductionofTPP-Iinsitu,thereforeleadingto DecarboxylaseDeficiency
+littletherapeuticimpact(Worgalletal.,2008).Afollow-upphase AromaticL-aminoaciddecarboxylase(AADC)isakeyenzyme
+IstudyconductedbyWeillCornell(NCT01161576)administered involvedinthemetabolicbiosynthesisofdopamineandseroto-
+an AAVRh.10CUhCLN2 bydirectintraparenchymalstereotaxic nin,two monoamineneurotransmitters. Theclinical manifesta-
+injection. In this study, abnormal T2 hyperintensities detected tion of AADC deficiency includes hypotonia, hypokinesia,
+by MRI around the sites of injection led to lowering the dose dystonia, oculogyric crisis, and autonomic dysfunction (Hwu
+for the remaining subjects to be enrolled in protocol. Another et al., 2013). In the most severe form of the disease, children
+parallelstudywithenlargedinclusioncriteria(broadergenotypes never reached developmental milestones and are unable to
+arebeingincluded)isbeingconductedbythesameinstitutionon holdtheirhead,sit,orstand.Lifeexpectancyforthosepatients
+asmallernumberofpatients(NCT01414985). doesnotgoabove5–6yearsofage,asnocureisavailable.The
+HereditaryLeukodystrophy:CanavanDisease firstgenetherapytrialforAADCdeficiency(Hwuetal.,2012)was
+Canavan disease (CD) is an autosomal recessive leukodystro- inspiredbyotherclinicalstudiesusingAAV-basedgenetransfer
+phiescausedbyloss-of-functionmutationsinthegeneaspar- inPDdeliveredintotheputamen,whichalsoaimedatrestoring
+toacylase(ASPA).ASPAisbroadlyexpressedinvarioustissues AADCexpressionandwaswelltolerated(Christineetal.,2009;
+butplaysanessentialroleinthedegradationofN-acetylaspar- Muramatsu et al., 2010). This first trial included four pediatric
+tate (NAA), one of the most abundant metabolites in the brain patients who received CT-guided stereotaxic injection of
+(Rigotti etal.,2011;Tallan, 1957).Ifdeficient,NAA abnormally AAV2.CMV.hAADC in the putamen and whose motor perfor-
+buildsupintheCNS,leadingtoNAAacidemiaandaciduriaas mances were compared with untreated patients in the natural
+wellasabroadrangeofdeleteriouseffectssuchasdysmyeli- historycontrolgroup.Impressively,thetreatedsubjectsgained
+nation and spongiform degeneration in the CNS (Appu et al., weight,andtheirmotorscoresandcognitivefunctionsgradually
+2017; Janson et al., 2006). During life, patients commonly improved after gene transfer, even though all of them already
+presentwithheadlag,macrocephaly,hypotonia,ataxia,inade- had substantial impairment before intervention. All of them
+quate visual tracking, epilepsy, and intellectual disabilities achievedheadcontrolandcouldsitwithsupport.Resultsfrom
+(Hoshino and Kubota, 2014), and many patients die before afollow-upstudyincludingtenmoresubjectshavebeenrecently
+adolescence. published, confirming the earlier findings (Chien et al., 2017)
+852 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+(NCT01395641).Currently,threeclinicaltrialsfollowingasimilar (GDNF)thathadbeenshowntoimprovedopaminergicactivity
+protocol(intra-putameninjectionofAAV2.hAADC)areongoing in aged monkeys and be beneficial to animal models of PD
+(NCT01395641, NCT02852213, and NCT02926066), with two (Gasmietal.,2007;Herzogetal.,2007;Kordoweretal.,2006;
+ofthemactivelyrecruitingnewpatients. Kotzbauer et al., 1996). In this case, the therapeutic agent
+IdiopathicAge-RelatedNeurodegenerativeDiseases does not directly target a causative pathological molecular
+Genetherapy,conceptuallystraightforwardformonogenicdis- pathway but offers neurotrophic support to the vulnerable
+orders, is more challenging for sporadic age-related neurode- neuronal population degenerating in the disease. After having
+generativediseases.Becausethosediseasesoftenresultfrom demonstratedthesafetyofneurturingenetransferinaphaseI
+the influence of many different pathogenic alleles with small study(NCT00252850)(Marksetal.,2008),resultsofthefirstdou-
+individualimpact,findingagoodtherapeutictargetcanbechal- ble-blind,randomized,andsham-surgery-controlledgenether-
+lenging despite the well-characterized neuropathological hall- apy trial has been published in 2010 (NCT00400634) (Marks
+marks.Inaddition,thelackofacleargeneticmarkertoidentify etal.,2010).PatientswithidiopathicPDwererandomlyassigned
+patients and the relative frequency of mixed pathology often (2:1) to receive bilateral stereotactic intraputaminal injection of
+hindered the recruitment of a homogeneous set of patients in AAV2.neurturinorshamprocedure.Exceptfortheneurosurgical
+clinicaltrials.Ontheotherhand,thehighincidenceofthoseidio- team,patientsandmedicalpersonnelwereblindtothenatureof
+pathicdiseasesfacilitatesthedesignofdouble-blind,random- thetreatment.Assessmentofmotorfunctionsat18,butnotat
+ized,andplacebo-controlledstudiesincludinglargergroupsof 12,months(UPDRSscale)didshowsomebenefitoftheAAV.
+patients (up to 60 for NCT00985517, a gene therapy trial for neurturinoverthesham-treatedgroup.Post-mortemexamina-
+PD).Ofnote,inthesetypesofstudies,subjectsintheplacebo tionofthebrainsoftwoAAV.neurturin-treatedindividuals(Bartus
+grouparesubjectedtoashaminjectionprotocolthatdoesnot et al., 2011) revealed that NRTN immunostaining covered, on
+include a brain cannula, injection, or vector infusion in average,15%oftheputamen,withsparsetyrosinehydroxylase
+order not to subject the individual to the risks associated with inductioninthestriatum(noimpactontheSNcwasobserved).
+theprocedure. Follow-up clinical trials include an open-labeled, one-arm
+PDisacommonneurodegenerativedisordercharacterizedby study using convection-enhanced delivery of AAV2.GDNF
+bradykinesia, rigidity, tremor, and gait dysfunction. The main (NCT01621581)(Johnstonetal.,2009;Suetal.,2009)andasec-
+neuropathologicalhallmarkofthisdiseaseisalossofdopami- ond trial double-blind, randomized, placebo-controlled trial at
+nergic neurons in the substantia nigra pars compacta (SNc). higherdose(NCT00985517).
+Thefirstlineofdefensetocompensateforthelossofdopamine Late-onsetADistheleadcauseofage-relateddementiaand
+fromtheSNcisforpatientstotakeL-dopa,whichwillbeactively affectsmorethan40%ofindividuals85yearsandolderinEu-
+convertedtodopaminebyAADC.However,asthedopaminergic rope and the USA (Brookmeyer et al., 2007; Burns and Iliffe,
+neuronscontinuedegenerating,theeffectofL-dopaweansoff 2009),andnolessthan112therapeuticagentsarecurrentlybe-
+withtime.Logically,oneofthemoststraightforwardapplication ingtestedinclinicaltrials(Cummingsetal.,2018).Afterafirst
+ofgenetherapyforPDistorestoreexpressionofAADCbyAAV asymptomatic phase (during which amyloid accumulation is
+transductionofnon-degeneratingstriatalneurons(thesiteofac- already detectable), cognitive complaints are reported by pa-
+tionofdopamine).Pre-clinicalresultshaveproventhatthisstrat- tients, followed by progressive loss of short-term memory,
+egycouldincreasethelevelofdopamineoveralongperiodof gradualdeteriorationofcognition,andlossofautonomy.From
+time(upto7yearsinNHPs)(Bankiewiczetal.,2000;Bankiewicz a neuropathological point of view, amyloid beta peptides
+etal.,2006;Sa´nchez-Pernaute etal.,2001),andtheresultsof aggregateandformextracellularneuriticplaqueswhiletheaccu-
+onephaseIsafetystudyhavebeenpublished(NCT00229736) mulationofabnormallyphosphorylatedtauproteintriggersthe
+(Christineetal.,2009;Eberlingetal.,2008).Atotaloftenpatients development of intraneuronal neurofibrillary tangles. So far,
+were initially injected in two dose cohorts with AAV2.CMV. noneoftheclinicaltrialshaveproventosignificantlyaffectthe
+hAADCvectortargetingfoursitesintheputamen.Theinterven- course of the disease (with the exception of the phase II
+tion appeared to be well tolerated, even though postoperative BAN2401immunotherapytrial,NCT01767311,whichmayhave
+MRI scan revealed the presence of hemorrhagic events along amodestpositiveimpactontheprogressionofcognitivedeficits
+thecanulatrajectory.Nevertheless,improvementoftheUnified inADpatients),andonlyoneattemptatgenetherapyhasbeen
+Parkinson’sDiseaseRatingScale(UPDRS)scoreswasreported translatedinpatients.
+at6months,whichpersistedforatleast2years.Thoseremark- ThisphaseItrial,completedin2014,wasaimedatincreasing
+ableresultslogicallypromptedthelaunchofothersimilartrials thelevelsof nervegrowthfactor(NGF) inthebrainof patients
+(eitheractiveorcurrentlyrecruiting)withhigherdosesofvector (NCT00087789) (Rafii et al., 2014). Similar to the neurturin
+(NCT02418598, NCT01973543, and NCT03065192) and larger approachforPD,thistherapeuticagentessentiallyprovidesneu-
+cohorts of patients (up to 42 individuals for NCT03562494). rotrophicsupport.TherationaleforchoosingNGFwastopre-
+The first randomized, placebo surgery controlled and double- ventdysfunctionalchangesofbasalcholinergicneurons,which
+blinded phase 2 clinical trial for AAV.hAADC (VY-AADC02, are especially vulnerable to AD-associated stressors (Bartus
+Voyager Therapeutics) in advanced PD started in June 2018 etal.,1982;Hampeletal.,2018;Whitehouseetal.,1982).This
+(NCT03562494)(Table1). approach by AAV-driven gene transfer (AAV2.NGF or CERE-
+Alternatively,AAV-drivenexpressionofneurturinisthefocus 110) also proposed an alternative to using cholinesterase
+ofthreeothergenetherapytrialsforPD.Neurturinisaneurotro- inhibitors,whichareassociatedwithmarginalimprovementbut
+phic factor analog of glial-cell-derived neurotrophic factor non-negligiblesideeffects.AAV.NGFwasinjectedtothenucleus
+Neuron101,March6,2019 853
+
+---PAGE BREAK---
+
+Neuron
+Review
+basalis ofMeynert,themainsourceofcholinergic inputofthe creases in serum aminotransferase, a sign of liver toxicity, in
+neocortex, in ten patients with mild to moderate AD. With the thefirsttreatedpatient,whichwasmanagedbyoralpredniso-
+exceptionofaneventofpostsurgicalhygroma,thesurgicalpro- lone. Subsequent subjects all received prophylactic predniso-
+cedurewaswelltolerated.Atthe24-monthtimepoint,therateof lone 24 h before surgery and continued for a month after the
+clinicaldeteriorationofAAV-treatedpatientsdidnotappearto vectorinfusion.AsofAugust2017,allthechildrenhadsurvived
+be exacerbated as compared to the expected rate of decline and reached 20 months without the need for permanent me-
+determinedfromobservationalstudies.However,potentialeffi- chanical ventilation. All subjects presented increased motor
+cacycouldnotbetestedbecauseofthesmallsizeofthecohort functionsfrombaseline(basedontheChildren’sHospitalofPhil-
+andtheprobablemoderateimpactofthetreatment,eventhough adelphia Infant Test of Neuromuscular Disorders, or CHOP
+a marginal stabilization in brain glucose metabolism was INTEND, scale), with greater improvements observed in the
+observed.Eventually,fivepatientsdiedfromthedisease3.3to high-dosecohortwhoalsohadbeentreated atyounger ages.
+6 years after treatment, and the post-mortem analysis of their Mostofthechildrenofthisgroupachievedheadcontrol,sitting,
+brainsshowedevidenceofNGFexpressionlimitedtothearea rollingover,orspeaking,milestonesthatotherwisewouldhave
+incloseproximitytotheneedletract.Thegoodsafetyandtoler- neverbeenreachedaccordingtothewell-documentednatural
+abilityofthistherapeuticagenthasledtothedesignofamulti- historyforthisdisease(Finkeletal.,2014).Thisprogramsubse-
+center, double-blind, sham-surgery-controlled phase 2 clinical quentlywastakentophase3studiesforSMAtypeIandfollow
+trialofAAV2.NGFinpatientswithmildtomoderateADstarted on clinical studies for other types of SMA (NCT03306277,
+in2009(NCT00876863).AsofJuly2018(24monthspostAAVin- NCT03505099, NCT03461289, and NCT03381729), results of
+jection), no significant difference was detected between the whicharepending(Table1).OriginallydevelopedbyAveXisfor
+treatment and placebo groups on clinical outcome measures SMAtypeI,aBiologicalLicenseApplicationwassubmittedto
+or on selected AD biomarkers (Rafii et al., 2018). Ways for the US FDA in November 2018 by Novartis, which acquired
+improvement include the recruitment of patients at an earlier AveXis.
+stageofthedisease(anMMSEbetween17to26isconsidered
+as‘‘milddementia’’)andtheuseofamoreefficientvectorsero- Conclusions
+typeabletospreadinlargerareaofthebrain. Alleviatingsymptomslongtermoraddressingtheunderlyingeti-
+InJuly2018,anotherpendingphaseIAAV-basedclinicaltrial ologyofdiseaseisthegoalinanyareaofmedicine;however,for
+forADseekstoassessthesafetyandtoxicityofintracisternalde- disordersofthenervoussystem,thisoftenbecomesanecessity.
+livery of AAVrh.10hAPOE2 in 15 patients homozygous for the The limited access to therapeutic tissues like the brain, spinal
+epsilon-4 allele of the apolipoprotein E gene (APOE4/APOE4) cord,retina,orcochlea,eitherpharmacologically orsurgically,
+(Rosenbergetal.,2018).APOE4isbyfarthemostsignificantge- begs for a lasting, if not permanent, approach to intervene in
+neticriskfactorofsporadicAD(Corderetal.,1993;Strittmatter the disease process. Conceptually, gene therapy can achieve
+andRoses,1996),whiletheepsilon-2alleleofAPOElowersthis this,byeitheraddingoreliminatingamajorgeneticdeterminant
+riskbyhalfandevenalleviatestheseverityoffamilialcasesofAD ingeneticallydefineddisordersor,incommoncomplexdisease,
+(Corder et al., 1994; West et al., 1994). Because APOE is a byintroducingadiseasemodifierinalastingmannerwithinthe
+secretedprotein,significantamountswerealsodetectedinthe difficult-to-reachcell,tissue,orcompartment.Overthepastde-
+CSF,thereforepossiblyaffectingalargerportionofthecerebral cades,increasedinsightsinthechallengestoclinicalgenether-
+tissue than the areas primarily targeted by the injections. apy,technologicalimprovementsthatsurmountthesehurdles,
+WhetherornotthoseresultswillpanoutinhumanADpatients and the advances in disease genetics, mechanism, diagnosis,
+andwhetherexpressionofAPOE2inneuronalcellsmaycause and management have led to a series of milestones in clinical
+unexpected adverse events will be addressed in the phase genetherapy.Agrowingbodyofdatanowsupportsthesafety
+Istudy. and,inanincreasingnumberofcases,theefficacyofgenether-
+SpinalMuscularAtrophy apies across various modalities of genetic cargo, routes of
+SMAisamonogenicdisordercausedbythelossoffunctionof administration, and target tissues. A common denominator in
+thegeneencodingthesurvivalmotorneuron1(SMN1)protein, manyofthesestudiesistheuseofAAV,asmallviralgenetrans-
+whichleadstotheprogressivelossoflowerMNs.SMA1isthe fervectorsystemwithstrongneuronaltropismandadesirable
+mostsevereformofthediseaseandacommongeneticcause safety profile. The utility of AAV has been proven in dozens of
+of death among infants, with a median age at symptom onset clinical studies ranging from small-dose administrations for
+of 1.2 months and a very low rate of survival passed above neurosensory disorders to large-dose systemic injections that
+20 months (Finkel et al., 2014). Gene therapy application for achievebroadtransductionofMNsinthespinalcordresulting
+typeISMAhasrecentlyreceivedmuchattentionfromthescien- in demonstrable and—at times—remarkable clinical benefit to
+tificcommunityforseveralreasons:first,itwasthefirsttimethat patients.
+atherapeuticgenewasdeliveredviaintravenousinjectionofan Whiletheopportunityisgreatforbringinggenetherapytoin-
+AAV9 harboring a scAAV vector genome (Figure 1C); second, heritedrarediseasesandbeyond,emergingfromtheclinicre-
+the clinical benefit observed in patients was remarkable mains a challenge even after the compelling proof-of-concept
+(NCT02122952) (Mendell et al., 2017). In the SMN1 gene studies.Fromthescientificperspective,particularlyforcommon
+augmentation approach, 15 infants received a high dose of complexdisorders,genetherapy,likeanyotherdrugmodality,
+scAAV9.CB.hSMN(AVX-101)intravenously(Figure3).Thestudy requires more viable molecular disease targets and modifiers.
+design included two dose cohorts. The high dose led to in- Oneprospect isthatnon-AAV biologics, which in theircurrent
+854 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+formrequirerepeatadministration(e.g.,antisenseoligonucleo- Amado,D.,Mingozzi,F.,Hui,D.,Bennicelli,J.L.,Wei,Z.,Chen,Y.,Bote,E.,
+tides or antibody-based treatments in IRD or AD), are ‘‘de- Grant,R.L.,Golden,J.A.,Narfstrom,K.,etal.(2010).Safetyandefficacyof
+subretinalreadministrationofaviralvectorinlargeanimalstotreatcongenital
+risked’’ independently to then be incorporated for sustained blindness.Sci.Transl.Med.2,21ra16.
+deliveryinanAAVformulation.Fromthetechnologicalperspec-
+Appu,A.P.,Moffett,J.R.,Arun,P.,Moran,S.,Nambiar,V.,Krishnan,J.K.S.,
+tive, notwithstanding the progress made, there is a need for
+Puthillathu,N.,andNamboodiri,A.M.A.(2017).IncreasingN-acetylaspartate
+furtheradvancessuchasimprovedcontroloverthespecificity, inthebrainduringpostnatalmyelinationdoesnotcausetheCNSpathologies
+kinetics,andpotencyofgenetransferandexpressionthatlimit ofCanavandisease.Front.Mol.Neurosci.10,161.
+toxicities,unlocknewtherapeutictargetcellssuchasmicroglia, Armbruster,N.,Lattanzi,A.,Jeavons,M.,VanWittenberghe,L.,Gjata,B.,Mar-
+and improve on the efficacies already noted. The efficiency of ais,T.,Martin,S.,Vignaud,A.,Voit,T.,Mavilio,F.,etal.(2016).Efficacyand
+biodistribution analysisofintracerebroventricular administration ofan opti-
+AAV9forCNStargeting,forexample,evenwithscAAVtechnol-
+mizedscAAV9-SMN1vectorinamousemodelofspinalmuscularatrophy.
+ogy,remainsfarfromsaturatingandwithlimitedneuronaltarget- Mol.Ther.MethodsClin.Dev.3,16060.
+ing.VectorengineeringeffortshighlightthepotentialofAAVto
+Auricchio,A.,Kobinger,G.,Anand,V.,Hildinger,M.,O’Connor,E.,Maguire,
+dobetterintheseandotherrespects.Particularlyforthehigh-
+A.M.,Wilson,J.M.,andBennett,J.(2001).Exchangeofsurfaceproteinsim-
+dosesystemicAAVapplications,improvementsareneededto pactsonviralvectorcellularspecificityandtransductioncharacteristics:the
+maintainahealthymarginonatherapeuticwindow.Whilethat retinaasamodel.Hum.Mol.Genet.10,3075–3081.
+window is primarily determined by a toxicity ceiling, in the Azzouz,M.,Hottinger,A.,Paterna,J.C.,Zurn,A.D.,Aebischer,P.,andBu€eler,
+context of gene therapy currently, manufacturability and cost H.(2000).Increasedmotoneuronsurvivalandimprovedneuromuscularfunc-
+tionintransgenicALSmiceafterintraspinalinjectionofanadeno-associated
+canalsobedeterminants.Thecostassociatedwiththeproduc-
+virusencodingBcl-2.Hum.Mol.Genet.9,803–811.
+tion at scale of the doses needed to treat a single subject,
+let alone a broader patient population, can be staggering and Bankiewicz, K.S., Eberling, J.L., Kohutnicka, M., Jagust, W., Pivirotto, P.,
+Bringas,J.,Cunningham,J.,Budinger,T.F.,andHarvey-White,J.(2000).Con-
+in some scenario’s cost prohibitive for an otherwise viable vection-enhanced delivery ofAAVvectorinparkinsonian monkeys;in vivo
+gene therapy to move to clinical studies. Lastly, the ability to detectionofgeneexpressionandrestorationofdopaminergicfunctionusing
+pro-drugapproach.Exp.Neurol.164,2–14.
+addresstheetiologyofdiseaseandthepotentialtoinduceadu-
+rable correction—the properties that make gene therapy so Bankiewicz,K.S.,Forsayeth,J.,Eberling,J.L.,Sanchez-Pernaute,R.,Pivir-
+compelling,asKeelernotedin1947(Keeler,1947)—aredisrup- otto,P.,Bringas,J.,Herscovitch,P.,Carson,R.E.,Eckelman,W.,Reutter,
+B., and Cunningham, J. (2006). Long-term clinical improvement in MPTP-
+tivetotraditionalmodelsinthepharmaceuticalindustry,creating
+lesioned primates after gene therapy with AAV-hAADC. Mol. Ther. 14,
+uncertaintytoabroaderadoptionofAAVgenetherapybyclini- 564–570.
+cians,drugmakers,andinsurers.
+Bartus,R.T.,Dean,R.L.,3rd,Beer,B.,andLippa,A.S.(1982).Thecholinergic
+Nonetheless, the clinical success in genetically defined dis- hypothesisofgeriatricmemorydysfunction.Science217,408–414.
+eases,suchasIRDandSMA,hascatalyzedanincreasingactiv-
+Bartus,R.T.,Herzog,C.D.,Chu,Y.,Wilson,A.,Brown,L.,Siffert,J.,Johnson,
+ityand creativity to think through thesehurdles. Thefuture for
+E.M.,Jr.,Olanow,C.W.,Mufson,E.J.,andKordower,J.H.(2011).Bioactivityof
+AAV gene therapy to make a marked impact for patients AAV2-neurturingenetherapy(CERE-120):differencesbetweenParkinson’s
+suffering from disorders of the nervous system is therefore diseaseandnonhumanprimatebrains.Mov.Disord.26,27–36.
+bright. Bell,P.,Wang,L.,Lebherz,C.,Flieder,D.B.,Bove,M.S.,Wu,D.,Gao,G.P.,
+Wilson,J.M.,andWivel,N.A.(2005).NoevidencefortumorigenesisofAAV
+vectorsinalarge-scalestudyinmice.Mol.Ther.12,299–306.
+ACKNOWLEDGMENTS
+Belur,L.R.,Temme,A.,Podetz-Pedersen,K.M.,Riedl,M.,Vulchanova,L.,
+TheauthorswouldliketothankAnnaMaurerandEricZinnfortheAAVcapsid Robinson,N.,Hanson,L.R.,Kozarsky,K.F.,Orchard,P.J.,Frey,W.H.,2nd,
+renderingsinFigure1andCaseyMaguireforvaluableadditionalinputabout etal.(2017).Intranasaladeno-associatedvirusmediatedgenedeliveryand
+thebiologyofAAVsandtheirclinicalapplication.Thisworkwassupported expressionofhumaniduronidaseinthecentralnervoussystem:anoninvasive
+bygrantsfromtheFoundationFightingBlindness,ResearchtoPreventBlind- andeffectiveapproachforpreventionofneurologicdiseaseinmucopolysac-
+ness, Lonza Houston, Oxford Biomedica, gifts from Giving/Grousbeck, charidosistypeI.Hum.GeneTher.28,576–587.
+the Butler Family Foundation, the Candyce Henwood Fund, the Ush2a
+Benkhelifa-Ziyyat,S.,Besse,A.,Roda,M.,Duque,S.,Astord,S.,Carcenac,
+Consortium(L.H.V.),andfundingfromtheNationalInstitutesofHealthNIA
+R.,Marais,T.,andBarkats,M.(2013).IntramuscularscAAV9-SMNinjection
+(1R56AG057454-01and1R00AG047336-01A1)(E.H.).
+mediateswidespreadgenedeliverytothespinalcordanddecreasesdisease
+severityinSMAmice.Mol.Ther.21,282–290.
+DECLARATIONOFINTERESTS
+Benraiss,A.,Toner,M.J.,Xu,Q.,Bruel-Jungerman,E.,Rogers,E.H.,Wang,F.,
+Economides,A.N.,Davidson,B.L.,Kageyama,R.,Nedergaard,M.,andGold-
+E.H.isaconsultanttoAZTherapies.L.H.V.holdsequityinandchairstheSci-
+man,S.A.(2013).Sustainedmobilizationofendogenousneuralprogenitors
+entificAdvisoryBoardofAkouos,agenetherapycompanyfocusedonhearing
+delaysdiseaseprogressioninatransgenicmodelofHuntington’sdisease.
+disorders.L.H.V.isalsoinventorandhasaroyaltyinterestinvariousAAVtech-
+CellStemCell12,787–799.
+nologies,includingAAV9andAncAAVs,whichhavebeenlicensedtoseveralof
+thecompaniesdiscussedinthisReview.L.H.V.isaconsultanttoNightstar Bey,K.,Ciron,C.,Dubreil,L.,Deniaud,J.,Ledevin,M.,Cristini,J.,Blouin,V.,
+Therapeutics, Cobalt, Lonza Houston, Exonics, and Selecta Biosciences Aubourg,P.,andColle,M.A.(2017).EfficientCNStargetinginadultmiceby
+andhasreceivedtravelreimbursementfromAveXis(nowNovartis).L.H.V.re- intrathecalinfusionofsingle-strandedAAV9-GFPforgenetherapyofneuro-
+ceivesresearchfundingfromLonzaHouston,OxfordBiomedica,SelectaBio- logicaldisorders.GeneTher.24,325–332.
+sciences,andSolidBiosciences.
+Biferi,M.G.,Cohen-Tannoudji,M.,Cappelletto,A.,Giroux,B.,Roda,M.,As-
+tord,S.,Marais,T.,Bos,C.,Voit,T.,Ferry,A.,andBarkats,M.(2017).Anew
+REFERENCES
+AAV10-U7-mediatedgenetherapyprolongssurvivalandrestoresfunctionin
+anALSmousemodel.Mol.Ther.25,2038–2052.
+Akil,O.,Seal,R.P.,Burke,K.,Wang,C.,Alemi,A.,During,M.,Edwards,R.H.,
+andLustig,L.R.(2012).RestorationofhearingintheVGLUT3knockoutmouse Biffi,A.,Montini,E.,Lorioli,L.,Cesani,M.,Fumagalli,F.,Plati,T.,Baldoli,C.,
+usingvirallymediatedgenetherapy.Neuron75,283–293. Martino, S.,Calabria,A., Canale, S.,et al. (2013).Lentiviralhematopoietic
+Neuron101,March6,2019 855
+
+---PAGE BREAK---
+
+Neuron
+Review
+stemcellgenetherapybenefitsmetachromaticleukodystrophy.Science341, (2018).Identificationofpre-existingadaptiveimmunitytoCas9proteinsinhu-
+1233158. mans.bioRxiv.https://doi.org/10.1101/243345.
+Bilsland,L.G.,Sahai,E.,Kelly,G.,Golding,M.,Greensmith,L.,andSchiavo,G. Chauhan,A.N.,andLewis,P.D.(1979).Aquantitativestudyofcellproliferation
+(2010).DeficitsinaxonaltransportprecedeALSsymptomsinvivo.Proc.Natl. inependymaandchoroidplexusinthepostnatalratbrain.Neuropathol.Appl.
+Acad.Sci.USA107,20523–20528. Neurobiol.5,303–309.
+Borel,F.,Kay,M.A.,andMueller,C.(2014).RecombinantAAVasaplatformfor Chien,Y.H.,Lee,N.C.,Tseng,S.H.,Tai,C.H.,Muramatsu,S.I.,Byrne,B.J.,
+translating the therapeutic potential of RNA interference. Mol. Ther. 22, andHwu,W.L.(2017).EfficacyandsafetyofAAV2genetherapyinchildren
+692–701. witharomaticL-aminoaciddecarboxylasedeficiency:anopen-label,phase
+1/2trial.LancetChildAdolescHealth1,265–273.
+Botta,S.,Marrocco,E.,dePrisco,N.,Curion,F.,Renda,M.,Sofia,M.,Lupo,
+M.,Carissimo,A.,Bacci,M.L.,Gesualdo,C.,etal.(2016).Rhodopsintargeted Choudhury,S.R.,Fitzpatrick, Z.,Harris,A.F.,Maitland,S.A.,Ferreira,J.S.,
+transcriptionalsilencingbyDNA-binding.eLife5,e12242. Zhang,Y.,Ma,S.,Sharma,R.B.,Gray-Edwards,H.L.,Johnson,J.A.,etal.
+(2016a).InvivoselectionyieldsAAV-B1capsidforcentralnervoussystem
+Boulis,N.M.,Noordmans,A.J.,Song,D.K.,Imperiale,M.J.,Rubin,A.,Leone, andmusclegenetherapy.Mol.Ther.24,1247–1257.
+P.,During,M.,andFeldman,E.L.(2003).Adeno-associatedviralvectorgene
+expressionintheadultratspinalcordfollowingremotevectordelivery.Neuro- Choudhury,S.R.,Harris,A.F.,Cabral,D.J.,Keeler,A.M.,Sapp,E.,Ferreira,
+biol.Dis.14,535–541. J.S., Gray-Edwards, H.L., Johnson, J.A., Johnson, A.K., Su, Q., et al.
+(2016b).Widespreadcentralnervoussystemgenetransferandsilencingafter
+Broekman,M.L.,Baek,R.C.,Comer,L.A.,Fernandez,J.L.,Seyfried,T.N.,and systemicdeliveryofnovelAAV-ASvector.Mol.Ther.24,726–735.
+Sena-Esteves,M.(2007).Completecorrectionofenzymaticdeficiencyand
+neurochemistryintheGM1-gangliosidosismousebrainbyneonataladeno- Choudhury,S.R.,Hudry,E.,Maguire,C.A.,Sena-Esteves, M.,Breakefield,
+associatedvirus-mediatedgenedelivery.Mol.Ther.15,30–37. X.O.,andGrandi,P.(2017).Viralvectorsfortherapyofneurologicdiseases.
+Neuropharmacology120,63–80.
+Brookmeyer,R.,Johnson,E.,Ziegler-Graham,K.,andArrighi,H.M.(2007).
+ForecastingtheglobalburdenofAlzheimer’sdisease.AlzheimersDement. Christine,C.W.,Starr,P.A.,Larson,P.S.,Eberling,J.L.,Jagust,W.J.,Hawkins,
+3,186–191. R.A., VanBrocklin, H.F., Wright, J.F., Bankiewicz, K.S., and Aminoff, M.J.
+(2009).SafetyandtolerabilityofputaminalAADCgenetherapyforParkinson
+Burns,A.,andIliffe,S.(2009).Alzheimer’sdisease.BMJ338,b158. disease.Neurology73,1662–1669.
+Carson,M.J.,Doose,J.M.,Melchior,B.,Schmid,C.D.,andPloix,C.C.(2006). Ciron,C.,Cressant,A.,Roux,F.,Raoul,S.,Cherel,Y.,Hantraye,P.,De´glon,
+CNSimmuneprivilege:hidinginplainsight.Immunol.Rev.213,48–65. N.,Schwartz,B.,Barkats,M.,Heard,J.M.,etal.(2009).Humanalpha-iduroni-
+dasegenetransfermediatedbyadeno-associatedvirustypes1,2,and5inthe
+Cartier,N.,Hacein-Bey-Abina,S.,Bartholomae,C.C.,Veres,G.,Schmidt,M., brainofnonhumanprimates:vectordiffusionandbiodistribution.Hum.Gene
+Kutschera,I.,Vidaud,M.,Abel,U.,Dal-Cortivo,L.,Caccavelli,L.,etal.(2009). Ther.20,350–360.
+HematopoieticstemcellgenetherapywithalentiviralvectorinX-linkedadre-
+noleukodystrophy.Science326,818–823. Colle,M.A.,Piguet,F.,Bertrand,L.,Raoul,S.,Bieche,I.,Dubreil,L.,Sloothaak,
+D.,Bouquet,C.,Moullier,P.,Aubourg,P.,etal.(2010).Efficientintracerebral
+Carty,N.,Lee,D.,Dickey,C.,Ceballos-Diaz,C.,Jansen-West,K.,Golde,T.E., deliveryofAAV5vectorencodinghumanARSAinnon-humanprimate.Hum.
+Gordon,M.N.,Morgan,D.,andNash,K.(2010).Convection-enhanceddeliv- Mol.Genet.19,147–158.
+eryandsystemicmannitolincreasegeneproductdistributionofAAVvectors
+5,8,and9andincreasegeneproductintheadultmousebrain.J.Neurosci. Corder,E.H.,Saunders,A.M.,Strittmatter,W.J.,Schmechel,D.E.,Gaskell,
+Methods194,144–153. P.C., Small, G.W., Roses, A.D., Haines, J.L., and Pericak-Vance, M.A.
+(1993).GenedoseofapolipoproteinEtype4alleleandtheriskofAlzheimer’s
+Castle,M.J.,Gershenson,Z.T.,Giles,A.R.,Holzbaur,E.L.,andWolfe,J.H. diseaseinlateonsetfamilies.Science261,921–923.
+(2014).Adeno-associatedvirusserotypes1,8,and9shareconservedmech-
+anismsforanterogradeandretrogradeaxonaltransport.Hum.GeneTher.25, Corder,E.H.,Saunders,A.M.,Risch,N.J.,Strittmatter,W.J.,Schmechel,D.E.,
+705–720. Gaskell, P.C., Jr., Rimmler, J.B., Locke, P.A., Conneally, P.M., Schmader,
+K.E.,etal.(1994).ProtectiveeffectofapolipoproteinEtype2alleleforlate
+Castle,M.J.,Turunen,H.T.,Vandenberghe,L.H.,andWolfe,J.H.(2016).Con- onsetAlzheimerdisease.Nat.Genet.7,180–184.
+trolling AAV Tropism in the Nervous System with Natural and Engineered
+Capsids.MethodsMol.Biol.1382,133–149. Cukras,C.,Wiley,H.E.,Jeffrey,B.G.,Sen,H.N.,Turriff,A.,Zeng,Y.,Vijaya-
+sarathy,C.,Marangoni,D.,Ziccardi,L.,Kjellstrom,S.,etal.(2018).Retinal
+Cearley,C.N.,andWolfe,J.H.(2007).Asingleinjectionofanadeno-associ- AAV8-RS1genetherapyforX-linkedretinoschisis:initialfindingsfromaphase
+atedvirusvectorintonucleiwithdivergentconnectionsresultsinwidespread I/IIatrialbyintravitrealdelivery.Mol.Ther.26,2282–2294.
+vectordistributioninthebrainandglobalcorrectionofaneurogeneticdisease.
+J.Neurosci.27,9928–9940. Cummings,J.,Lee,G.,Ritter,A.,andZhong,K.(2018).Alzheimer’sdisease
+drugdevelopmentpipeline:2018.AlzheimersDement(NY)4,195–214.
+Chakrabarty, P., Rosario, A., Cruz, P., Siemienski, Z., Ceballos-Diaz, C.,
+Crosby, K., Jansen, K., Borchelt, D.R., Kim, J.Y., Jankowsky, J.L., et al. Dalkara,D.,Byrne,L.C.,Klimczak,R.R.,Visel,M.,Yin,L.,Merigan,W.H.,Flan-
+(2013).CapsidserotypeandtimingofinjectiondeterminesAAVtransduction nery, J.G., and Schaffer, D.V. (2013). In vivo-directed evolution of a new
+intheneonatalmicebrain.PLoSONE8,e67680. adeno-associatedvirusfortherapeuticouterretinalgenedeliveryfromthevit-
+reous.Sci.Transl.Med.5,189ra76.
+Challis,R.C.,RavindraKumar,S.,Chan,K.Y.,Challis,C.,Beadle,K.,Jang,
+M.J., Kim, H.M., Rajendran, P.S., Tompkins, J.D., Shivkumar, K., et al. Dashkoff,J.,Lerner,E.P.,Truong,N.,Klickstein,J.A.,Fan,Z.,Mu,D.,Maguire,
+(2019).SystemicAAVvectorsforwidespreadandtargetedgenedeliveryinro- C.A.,Hyman,B.T.,andHudry,E.(2016).Tailoredtransgeneexpressiontospe-
+dents.Nat.Protoc.14,379–414. cificcelltypesinthecentralnervoussystemafterperipheralinjectionwith
+AAV9.Mol.Ther.MethodsClin.Dev.3,16081.
+Chandler,R.J.,LaFave,M.C.,Varshney,G.K.,Trivedi,N.S.,Carrillo-Carrasco,
+N.,Senac,J.S.,Wu,W.,Hoffmann,V.,Elkahloun,A.G.,Burgess,S.M.,and Davidson,B.L.,Stein,C.S.,Heth,J.A.,Martins,I.,Kotin,R.M.,Derksen,T.A.,
+Venditti,C.P.(2015).Vectordesigninfluenceshepaticgenotoxicityafterad- Zabner,J.,Ghodsi,A.,andChiorini,J.A.(2000).Recombinantadeno-associ-
+eno-associatedvirusgenetherapy.J.Clin.Invest.125,870–880. atedvirustype2,4,and5vectors:transductionofvariantcelltypesandre-
+gionsinthemammaliancentralnervoussystem.Proc.Natl.Acad.Sci.USA
+Chandler,R.J.,Sands,M.S.,andVenditti,C.P.(2017).Recombinantadeno- 97,3428–3432.
+associated viral integration and genotoxicity: insights from animal models.
+Hum.GeneTher.28,314–322. Deverman,B.E.,Pravdo,P.L.,Simpson,B.P.,Kumar,S.R.,Chan,K.Y.,Bane-
+rjee,A.,Wu,W.L.,Yang,B.,Huber,N.,Pasca,S.P.,andGradinaru,V.(2016).
+Charlesworth,C.T.,Deshpande,P.S.,Dever,D.P.,Dejene,B.,Gomez-Ospina, Cre-dependentselectionyieldsAAVvariantsforwidespreadgenetransferto
+N.,Mantri,S.,Pavel-Dinu,M.,Camarena,J.,Weinberg,K.I.,andPorteus,M.H. theadultbrain.Nat.Biotechnol.34,204–209.
+856 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+Deverman,B.E.,Ravina,B.M.,Bankiewicz,K.S.,Paul,S.M.,andSah,D.W.Y. Foust,K.D.,Wang,X.,McGovern,V.L.,Braun,L.,Bevan,A.K.,Haidet,A.M.,
+(2018).Genetherapyforneurologicaldisorders:progressandprospects.Nat. Le,T.T.,Morales,P.R.,Rich,M.M.,Burghes,A.H.,andKaspar,B.K.(2010).
+Rev.DrugDiscov.17,641–659. Rescueofthespinalmuscularatrophyphenotypeinamousemodelbyearly
+postnataldeliveryofSMN.Nat.Biotechnol.28,271–274.
+DiCarlo, J.E., Mahajan, V.B., and Tsang, S.H. (2018). Gene therapy and
+genomesurgeryintheretina.J.Clin.Invest.128,2177–2188. Franz,C.K.,Federici,T.,Yang,J.,Backus,C.,Oh,S.S.,Teng,Q.,Carlton,E.,
+Bishop,K.M.,Gasmi,M.,Bartus,R.T.,etal.(2009).Intraspinalcorddeliveryof
+Dirren, E., Aebischer, J., Rochat, C., Towne, C., Schneider, B.L., and Ae- IGF-Imediatedbyadeno-associatedvirus2isneuroprotectiveinaratmodel
+bischer,P.(2015).SOD1silencinginmotoneuronsorgliarescuesneuromus- offamilialALS.Neurobiol.Dis.33,473–481.
+cularfunctioninALSmice.Ann.Clin.Transl.Neurol.2,167–184.
+Friedmann,T.(1992).Abriefhistoryofgenetherapy.Nat.Genet.2,93–98.
+Dong,B.,Nakai,H.,andXiao,W.(2010).Characterizationofgenomeintegrity
+foroversizedrecombinantAAVvector.Mol.Ther.18,87–92. Fu, H., Dirosario, J., Killedar, S., Zaraspe, K., and McCarty, D.M. (2011).
+Correction of neurological disease of mucopolysaccharidosis IIIB in adult
+Donsante,A.,andBoulis,N.M.(2018).Progressingeneandcelltherapiesfor mice by rAAV9 trans-blood-brain barrier gene delivery. Mol. Ther. 19,
+theneuronalceroidlipofuscinoses.ExpertOpin.Biol.Ther.18,755–764. 1025–1033.
+Donsante,A.,Miller,D.G.,Li,Y.,Vogler,C.,Brunt,E.M.,Russell,D.W.,and Gao,G.,Alvira,M.R.,Somanathan,S.,Lu,Y.,Vandenberghe,L.H.,Rux,J.J.,
+Sands,M.S.(2007).AAVvectorintegrationsitesinmousehepatocellularcar- Calcedo,R.,Sanmiguel,J.,Abbas,Z.,andWilson,J.M.(2003).Adeno-asso-
+cinoma.Science317,477. ciatedvirusesundergosubstantialevolutioninprimatesduringnaturalinfec-
+tions.Proc.Natl.Acad.Sci.USA100,6081–6086.
+Duan,D.,Sharma,P.,Yang,J.,Yue,Y.,Dudus,L.,Zhang,Y.,Fisher,K.J.,and
+Engelhardt,J.F.(1998).Circularintermediatesofrecombinantadeno-associ- Gao,G.,Vandenberghe,L.H.,andWilson,J.M.(2005).Newrecombinantse-
+atedvirushavedefinedstructuralcharacteristicsresponsibleforlong-term rotypesofAAVvectors.Curr.GeneTher.5,285–297.
+episomalpersistenceinmuscletissue.J.Virol.72,8568–8577.
+Garanto,A.,Chung,D.C.,Duijkers,L.,Corral-Serrano,J.C.,Messchaert,M.,
+Dufour,B.D.,Smith,C.A.,Clark,R.L.,Walker,T.R.,andMcBride,J.L.(2014). Xiao,R.,Bennett,J.,Vandenberghe,L.H.,andCollin,R.W.(2016).Invitro
+IntrajugularveindeliveryofAAV9-RNAipreventsneuropathologicalchanges andinvivorescueofaberrantsplicinginCEP290-associatedLCAbyantisense
+andweightlossinHuntington’sdiseasemice.Mol.Ther.22,797–810. oligonucleotidedelivery.Hum.Mol.Genet.25,2552–2563.
+Dulon,D.,Papal,S.,Patni,P.,Cortese,M.,Vincent,P.F.,Tertrais,M.,Emptoz, Gasmi,M.,Brandon,E.P.,Herzog,C.D.,Wilson,A.,Bishop,K.M.,Hofer,E.K.,
+A.,Tlili,A.,Bouleau,Y.,Michel,V.,etal.(2018).Clarin-1genetransferrescues Cunningham,J.J.,Printz,M.A.,Kordower,J.H.,andBartus,R.T.(2007).AAV2-
+auditory synaptopathy in model of Usher syndrome. J. Clin. Invest. 128, mediateddeliveryofhumanneurturintotheratnigrostriatalsystem:long-term
+3382–3401. efficacyandtolerabilityofCERE-120forParkinson’sdisease.Neurobiol.Dis.
+27,67–76.
+Duque,S.,Joussemet,B.,Riviere,C.,Marais,T.,Dubreil,L.,Douar,A.M.,Fyfe,
+J.,Moullier,P.,Colle,M.A.,andBarkats,M.(2009).Intravenousadministration Ge´le´oc,G.S.,andHolt,J.R.(2014).Soundstrategiesforhearingrestoration.
+ofself-complementaryAAV9enablestransgenedeliverytoadultmotorneu- Science344,1241062.
+rons.Mol.Ther.17,1187–1196.
+Georgiou,E.,Sidiropoulou,K.,Richter,J.,Papaneophytou,C.,Sargiannidou,
+Eberling,J.L.,Jagust,W.J.,Christine,C.W.,Starr,P.,Larson,P.,Bankiewicz, I., Kagiava, A., von Jonquieres, G., Christodoulou, C., Klugmann, M., and
+K.S.,andAminoff,M.J.(2008).ResultsfromaphaseIsafetytrialofhAADC Kleopa,K.A.(2017).Genetherapytargetingoligodendrocytesprovidesthera-
+genetherapyforParkinsondisease.Neurology70,1980–1983. peuticbenefitinaleukodystrophymodel.Brain140,599–616.
+Eichler,F.,Duncan,C.,Musolino,P.L.,Orchard,P.J.,DeOliveira,S.,Thrasher, Gil-Farina,I.,Fronza,R.,Kaeppel,C.,Lopez-Franco,E.,Ferreira,V.,D’Avola,
+A.J.,Armant,M.,Dansereau,C.,Lund,T.C.,Miller,W.P.,etal.(2017).Hemato- D.,Benito,A.,Prieto,J.,Petry,H.,Gonzalez-Aseguinolaza,G.,andSchmidt,
+poieticstem-cellgenetherapyforcerebraladrenoleukodystrophy.N.Engl.J. M.(2016).RecombinantAAVintegrationisnotassociatedwithhepaticgeno-
+Med.377,1630–1638. toxicityinnonhumanprimatesandpatients.Mol.Ther.24,1100–1105.
+Ellinwood,N.M.,Ausseil,J.,Desmaris,N.,Bigou,S.,Liu,S.,Jens,J.K.,Snella, Ginn,S.L.,Amaya,A.K.,Alexander,I.E.,Edelstein,M.,andAbedi,M.R.(2018).
+E.M.,Mohammed,E.E.,Thomson,C.B.,Raoul,S.,etal.(2011).Safe,efficient, Gene therapy clinical trials worldwide to 2017: an update. J. Gene Med.
+andreproduciblegenetherapyofthebraininthedogmodelsofSanfilippoand 20,e3015.
+Hurlersyndromes.Mol.Ther.19,251–259.
+Gray,S.J.,Matagne,V.,Bachaboina,L.,Yadav,S.,Ojeda,S.R.,andSamulski,
+Fiandaca,M.S.,Varenika,V.,Eberling,J.,McKnight,T.,Bringas,J.,Pivirotto, R.J.(2011).PreclinicaldifferencesofintravascularAAV9deliverytoneurons
+P.,Beyer,J.,Hadaczek,P.,Bowers,W.,Park,J.,etal.(2009).Real-timeMR andglia:acomparativestudyofadultmiceandnonhumanprimates.Mol.
+imagingofadeno-associatedviralvectordeliverytotheprimatebrain.Neuro- Ther.19,1058–1069.
+image47(Suppl2),T27–T35.
+Gray,S.J.,NagabhushanKalburgi,S.,McCown,T.J.,andJudeSamulski,R.
+Finkel, R.S., McDermott, M.P., Kaufmann, P., Darras, B.T., Chung, W.K., (2013).GlobalCNSgenedeliveryandevasionofanti-AAV-neutralizinganti-
+Sproule, D.M., Kang, P.B., Foley, A.R., Yang, M.L., Martens, W.B., et al. bodies by intrathecal AAV administration in non-human primates. Gene
+(2014).ObservationalstudyofspinalmuscularatrophytypeIandimplications Ther.20,450–459.
+forclinicaltrials.Neurology83,810–817.
+Grimm,D.,andBu€ning,H.(2017).Smallbutincreasinglymighty:latestad-
+Fischer,L.R.,Culver,D.G.,Tennant,P.,Davis,A.A.,Wang,M.,Castellano- vancesinAAVvectorresearch,design,andevolution.Hum.GeneTher.28,
+Sanchez,A.,Khan,J.,Polak,M.A.,andGlass,J.D.(2004).Amyotrophiclateral 1075–1086.
+sclerosisisadistalaxonopathy:evidenceinmiceandman.Exp.Neurol.185,
+232–240. Grimm,D.,andZolotukhin,S.(2015).Epluribusunum:50yearsofresearch,
+millionsofviruses,andonegoal–tailoredaccelerationofAAVevolution.Mol.
+Fisher,K.J.,Gao,G.P.,Weitzman,M.D.,DeMatteo,R.,Burda,J.F.,andWil- Ther.23,1819–1831.
+son,J.M.(1996).Transductionwithrecombinantadeno-associatedvirusfor
+genetherapyislimitedbyleading-strandsynthesis.J.Virol.70,520–532. Guedon,J.M.,Wu,S.,Zheng,X.,Churchill,C.C.,Glorioso,J.C.,Liu,C.H.,Liu,
+S.,Vulchanova,L.,Bekker,A.,Tao,Y.X.,etal.(2015).Currentgenetherapyus-
+Forrester,J.V.,McMenamin,P.G.,andDando,S.J.(2018).CNSinfectionand ingviralvectorsforchronicpain.Mol.Pain11,27.
+immuneprivilege.Nat.Rev.Neurosci.19,655–671.
+Gurda,B.L.,DeGuilhemDeLataillade,A.,Bell,P.,Zhu,Y.,Yu,H.,Wang,P.,
+Foust,K.D.,Nurre,E.,Montgomery,C.L.,Hernandez,A.,Chan,C.M.,andKas- Bagel,J.,Vite,C.H.,Sikora,T.,Hinderer,C.,etal.(2016).EvaluationofAAV--
+par,B.K.(2009).IntravascularAAV9preferentiallytargetsneonatalneurons mediatedgenetherapyforcentralnervoussystemdiseaseincaninemucopo-
+andadultastrocytes.Nat.Biotechnol.27,59–65. lysaccharidosisVII.Mol.Ther.24,206–216.
+Neuron101,March6,2019 857
+
+---PAGE BREAK---
+
+Neuron
+Review
+Gyo¨rgy,B.,Sage,C.,Indzhykulian,A.A.,Scheffer,D.I.,Brisson,A.R.,Tan,S., Holt,J.R.,andVandenberghe,L.H.(2012).Genetherapyfordeafmicegoes
+Wu,X.,Volak,A.,Mu,D.,Tamvakologos,P.I.,etal.(2017).Rescueofhearing viral.Mol.Ther.20,1836–1837.
+bygenedeliverytoinner-earhaircellsusingexosome-associatedAAV.Mol.
+Ther.25,379–391. Hordeaux,J.,Dubreil,L.,Robveille,C.,Deniaud,J.,Pascal,Q.,Deque´ant,B.,
+Pailloux, J.,Lagalice,L., Ledevin, M.,Babarit,C.,etal. (2017).Long-term
+Gyo¨rgy,B.,Meijer,E.J.,Ivanchenko,M.V.,Tenneson,K.,Emond,F.,Hanlon, neurologicandcardiaccorrectionbyintrathecalgenetherapyinPompedis-
+K.S.,Indzhykulian,A.A.,Volak,A.,Karavitaki,K.D.,Tamvakologos,P.I.,etal. ease.ActaNeuropathol.Commun.5,66.
+(2018).GenetransferwithAAV9-PHP.Brescueshearinginamousemodelof
+ushersyndrome3Aandtransduceshaircellsinanon-humanprimate.Mol. Hordeaux,J.,Wang,Q.,Katz,N.,Buza,E.L.,Bell,P.,andWilson,J.M.(2018).
+Ther.MethodsClin.Dev.13,1–13. TheneurotropicpropertiesofAAV-PHP.BarelimitedtoC57BL/6Jmice.Mol.
+Ther.26,664–668.
+Hadaczek,P.,Kohutnicka,M.,Krauze,M.T.,Bringas,J.,Pivirotto,P.,Cun-
+ningham,J.,andBankiewicz,K.(2006).Convection-enhanceddeliveryofad- Hoshino,H.,andKubota,M.(2014).Canavandisease:clinicalfeaturesand
+eno-associatedvirustype2(AAV2)intothestriatumandtransportofAAV2 recentadvancesinresearch.Pediatr.Int.56,477–483.
+withinmonkeybrain.Hum.GeneTher.17,291–302.
+Hudry,E.,Dashkoff,J.,Roe,A.D.,Takeda,S.,Koffie,R.M.,Hashimoto,T.,
+Hadaczek,P.,Eberling,J.L.,Pivirotto,P.,Bringas,J.,Forsayeth,J.,andBank- Scheel,M.,Spires-Jones,T.,Arbel-Ornath,M.,Betensky,R.,etal.(2013).
+iewicz,K.S.(2010).EightyearsofclinicalimprovementinMPTP-lesionedpri- GenetransferofhumanApoeisoformsresultsindifferentialmodulationofam-
+matesaftergenetherapywithAAV2-hAADC.Mol.Ther.18,1458–1461. yloid deposition and neurotoxicity in mouse brain. Sci. Transl. Med. 5,
+212ra161.
+Hampel,H.,Mesulam,M.M.,Cuello,A.C.,Farlow,M.R.,Giacobini,E.,Gross-
+berg,G.T.,Khachaturian,A.S.,Vergallo,A.,Cavedo,E.,Snyder,P.J.,andKha- Hudry,E.,Martin,C.,Gandhi,S.,Gyo¨rgy,B.,Scheffer,D.I.,Mu,D.,Merkel,
+chaturian, Z.S. (2018). The cholinergic system in the pathophysiology and S.F.,Mingozzi,F.,Fitzpatrick,Z.,Dimant,H.,etal.(2016).Exosome-associ-
+treatmentofAlzheimer’sdisease.Brain141,1917–1933. atedAAVvectorasarobustandconvenientneurosciencetool.GeneTher.
+23,380–392.
+Han,C.L.,Ge,M.,Liu,Y.P.,Zhao,X.M.,Wang,K.L.,Chen,N.,Meng,W.J.,Hu,
+W.,Zhang,J.G.,Li,L.,andMeng,F.G.(2018).LncRNAH19contributestohip- Hudry,E.,Andres-Mateos,E.,Lerner,E.P.,Volak,A.,Cohen,O.,Hyman,B.T.,
+pocampalglialcellactivationviaJAK/STATsignalinginaratmodeloftemporal Maguire,C.A.,andVandenberghe,L.H.(2018).Efficientgenetransfertothe
+lobeepilepsy.J.Neuroinflammation15,103. central nervous systemby single-stranded Anc80L65. Mol. Ther. Methods
+Clin.Dev.10,197–209.
+Hardcastle,N.,Boulis,N.M.,andFederici,T.(2018).AAVgenedeliverytothe
+spinalcord:serotypes,methods,candidatediseases,andclinicaltrials.Expert Hwu,W.L.,Muramatsu,S.,Tseng,S.H.,Tzen,K.Y.,Lee,N.C.,Chien,Y.H.,
+Opin.Biol.Ther.18,293–307. Snyder,R.O.,Byrne,B.J.,Tai,C.H.,andWu,R.M.(2012).Genetherapyforar-
+omaticL-aminoaciddecarboxylasedeficiency.Sci.Transl.Med.4,134ra61.
+Harmatz,P.,Muenzer,J.,Burton,B.K.,Ficicioglu,C.,Lau,H.A.,Leslie,N.D.,
+Conner,E.,WongPoFoo,C.,Vaidya,S.A.,Wechsler,T.,andWhitley,C.B.
+Hwu,W.L.,Lee,N.C.,Chien,Y.H.,Muramatsu,S.,andIchinose,H.(2013).
+(2018).Updateonphase1/2clinicaltrialsforMPSIandMPSIIusingZFN-
+AADCdeficiency:occurringinhumans,modeledinrodents.Adv.Pharmacol.
+mediatedinvivogenomeediting.Mol.Genet.Metab123,S59–S60.
+68,273–284.
+Hastie,E.,andSamulski,R.J.(2015).Adeno-associatedvirusat50:agolden
+Isgrig, K., Shteamer, J.W., Belyantseva, I.A., Drummond, M.C., Fitzgerald,
+anniversary of discovery, research, and gene therapy success–a personal
+T.S.,Vijayakumar,S.,Jones,S.M.,Griffith,A.J.,Friedman,T.B.,Cunningham,
+perspective.Hum.GeneTher.26,257–265.
+L.L.,andChien,W.W.(2017).Genetherapyrestoresbalanceandauditory
+functionsinamousemodelofushersyndrome.Mol.Ther.25,780–791.
+Haurigot,V.,Marco´,S.,Ribera,A.,Garcia,M.,Ruzo,A.,Villacampa,P.,Ayuso,
+E.,An˜or,S.,Andaluz,A.,Pineda,M.,etal.(2013).Wholebodycorrectionof
+Iwata,N.,Sekiguchi,M.,Hattori,Y.,Takahashi,A.,Asai,M.,Ji,B.,Higuchi,M.,
+mucopolysaccharidosisIIIAbyintracerebrospinalfluidgenetherapy.J.Clin.
+Staufenbiel,M.,Muramatsu,S.,andSaido,T.C.(2013).Globalbraindeliveryof
+Invest. PublishedonlineJuly1,2013.https://doi.org/10.1172/JCI66778.
+neprilysingenebyintravascularadministrationofAAVvectorinmice.Sci.Rep.
+Herzog,C.D.,Dass,B.,Holden,J.E.,Stansell,J.,3rd,Gasmi,M.,Tuszynski, 3,1472.
+M.H.,Bartus,R.T.,andKordower,J.H.(2007).StriataldeliveryofCERE-120,
+Jackson,K.L.,Dayton,R.D.,Deverman,B.E.,andKlein,R.L.(2016).Bettertar-
+anAAV2vectorencodinghumanneurturin,enhancesactivityofthedopami-
+geting,betterefficiencyforwide-scaleneuronaltransductionwiththesynap-
+nergicnigrostriatalsysteminagedmonkeys.Mov.Disord.22,1124–1132.
+sinpromoterandAAV-PHP.B.Front.Mol.Neurosci.9,116.
+Hinderer,C.,Katz,N.,Louboutin,J.P.,Bell,P.,Yu,H.,Nayal,M.,Kozarsky,K.,
+O’Brien,W.T.,Goode,T.,andWilson,J.M.(2016).Deliveryofanadeno-asso- Janson,C.,McPhee,S.,Bilaniuk,L.,Haselgrove,J.,Testaiuti,M.,Freese,A.,
+ciatedvirusvectorintocerebrospinalfluidattenuatescentralnervoussystem Wang,D.J.,Shera,D.,Hurh,P.,Rupin,J.,etal.(2002).Clinicalprotocol.Gene
+diseaseinmucopolysaccharidosistypeIImice.Hum.GeneTher.27,906–915. therapyofCanavandisease:AAV-2vectorforneurosurgicaldeliveryofaspar-
+toacylasegene(ASPA)tothehumanbrain.Hum.GeneTher.13,1391–1412.
+Hinderer,C.,Bell,P.,Katz,N.,Vite,C.H.,Louboutin,J.P.,Bote,E.,Yu,H.,Zhu,
+Y.,Casal,M.L.,Bagel,J.,etal.(2018a).Evaluationofintrathecalroutesof Janson,C.G.,McPhee,S.W.,Francis,J.,Shera,D.,Assadi,M.,Freese,A.,
+administration for adeno-associated viral vectors in large animals. Hum. Hurh,P.,Haselgrove,J.,Wang,D.J.,Bilaniuk,L.,andLeone,P.(2006).Natural
+GeneTher.29,15–24. historyofCanavandiseaserevealedbyprotonmagneticresonancespectros-
+copy(1H-MRS)anddiffusion-weightedMRI.Neuropediatrics37,209–221.
+Hinderer,C.,Katz,N.,Buza,E.L.,Dyer,C.,Goode,T.,Bell,P.,Richman,L.K.,
+andWilson,J.M.(2018b).Severetoxicityinnonhumanprimatesandpiglets Jergova,S.,Gordon,C.E.,Gajavelli,S.,andSagen,J.(2017).Experimental
+followinghigh-doseintravenousadministrationofanadeno-associatedvirus genetherapywithserine-histograninandendomorphin1forthetreatmentof
+vectorexpressinghumanSMN.Hum.GeneTher.29,285–298. chronicneuropathicpain.Front.Mol.Neurosci.10,406.
+Hironaka,K.,Yamazaki,Y.,Hirai,Y.,Yamamoto,M.,Miyake,N.,Miyake,K., Johnston,L.C.,Eberling,J.,Pivirotto,P.,Hadaczek,P.,Federoff,H.J.,For-
+Okada,T.,Morita,A.,andShimada,T.(2015).Enzymereplacementinthe sayeth,J.,andBankiewicz,K.S.(2009).Clinicallyrelevanteffectsofconvec-
+CSFtotreatmetachromaticleukodystrophyinmousemodelusingsingleintra- tion-enhanced delivery of AAV2-GDNF on the dopaminergic nigrostriatal
+cerebroventricular injection of self-complementary AAV1 vector. Sci. Rep. pathwayinagedrhesusmonkeys.Hum.GeneTher.20,497–510.
+5,13104.
+Kanaan,N.M.,Sellnow,R.C.,Boye,S.L.,Coberly,B.,Bennett,A.,Agbandje-
+Hocquemiller,M.,Giersch,L.,Audrain,M.,Parker,S.,andCartier,N.(2016). McKenna,M.,Sortwell,C.E.,Hauswirth,W.W.,Boye,S.E.,andManfredsson,
+Adeno-associatedvirus-basedgenetherapyforCNSdiseases.Hum.Gene F.P. (2017). Rationally engineered AAV capsids improve transduction and
+Ther.27,478–496. volumetricspreadintheCNS.Mol.Ther.NucleicAcids8,184–197.
+HollisIi,E.R.,Kadoya,K.,Hirsch,M.,Samulski,R.J.,andTuszynski,M.H. Karali,M.,Manfredi,A.,Puppo,A.,Marrocco,E.,Gargiulo,A.,Allocca,M.,
+(2008).Efficientretrogradeneuronaltransductionutilizingself-complementary Corte, M.D., Rossi, S., Giunti, M., Bacci, M.L., et al. (2011). MicroRNA-
+AAV1.Mol.Ther.16,296–301. restrictedtransgeneexpressionintheretina.PLoSONE6,e22166.
+858 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+Karumuthil-Melethil,S.,Marshall,M.S.,Heindel,C.,Jakubauskas,B.,Bongar- Linden,R.M.,Ward,P.,Giraud,C.,Winocour,E.,andBerns,K.I.(1996).Site-
+zone,E.R.,andGray,S.J.(2016).IntrathecaladministrationofAAV/GALCvec- specificintegrationbyadeno-associatedvirus.Proc.Natl.Acad.Sci.USA93,
+torsin10-11-day-old twitchermiceimprovessurvivalandisenhanced by 11288–11294.
+bonemarrowtransplant.J.Neurosci.Res.94,1138–1151.
+Liu,G.,Martins,I.,Wemmie,J.A.,Chiorini,J.A.,andDavidson,B.L.(2005).
+Keeler,C.E.(1947).Genetherapy.J.Hered.38,294–298. Functional correction of CNS phenotypes in a lysosomal storage disease
+model using adeno-associated virus type 4 vectors. J. Neurosci. 25,
+Kennedy, L.H., and Rinholm, J.E. (2017). Visualization and live imaging of 9321–9327.
+oligodendrocyteorganellesinorganotypicbrainslicesusingadeno-associ-
+atedvirusandconfocalmicroscopy.J.Vis.Exp. PublishedonlineOctober Logan,G.J.,Dane,A.P.,Hallwirth,C.V.,Smyth,C.M.,Wilkie,E.E.,Amaya,
+23,2017.https://doi.org/10.3791/56237. A.K.,Zhu,E.,Khandekar,N.,Ginn,S.L.,Liao,S.H.Y.,etal.(2017).Identifica-
+tionofliver-specificenhancer-promoteractivityinthe30untranslatedregion
+Keppeler,D.,Merino,R.M.,LopezdelaMorena,D.,Bali,B.,Huet,A.T.,Gehrt, ofthewild-typeAAV2genome.Nat.Genet.49,1267–1273.
+A.,Wrobel,C.,Subramanian,S.,Dombrowski,T.,Wolf,F.,etal.(2018).Ultra-
+fastoptogeneticstimulationoftheauditorypathwaybytargeting-optimized Lo¨w, K., Aebischer, P., and Schneider, B.L. (2013). Direct and retrograde
+Chronos.EMBOJ.37,37. transductionofnigralneuronswithAAV6,8,and9andintraneuronalpersis-
+tenceofviralparticles.Hum.GeneTher.24,613–629.
+Khabou,H.,Cordeau,C.,Pacot,L.,Fisson,S.,andDalkara,D.(2018).Dosage
+thresholds andinfluence oftransgene cassette inadeno-associated virus- Lukason,M.,DuFresne,E.,Rubin,H.,Pechan,P.,Li,Q.,Kim,I.,Kiss,S.,
+relatedtoxicity.Hum.GeneTher.29,1235–1241. Flaxel,C.,Collins,M.,Miller,J.,etal.(2011).Inhibitionofchoroidalneovascu-
+larizationinanonhumanprimatemodelbyintravitrealadministrationofan
+Knipe,D.M.,andHowley,P.M.(2013).FieldsVirology,SixthEdition(Wolters AAV2vectorexpressinganovelanti-VEGFmolecule.Mol.Ther.19,260–265.
+Kluwer/LippincottWilliams&WilkinsHealth).
+Ma,X.C.,Liu,P.,Zhang,X.L.,Jiang,W.H.,Jia,M.,Wang,C.X.,Dong,Y.Y.,
+Koh,W.,Park,Y.M.,Lee,S.E.,andLee,C.J.(2017).AAV-mediatedastrocyte-
+Dang,Y.H.,andGao,C.G.(2016).IntranasaldeliveryofrecombinantAAVcon-
+specific gene expressionunderhuman ALDH1L1 promoter in mousethal- tainingBDNFfusedwithHA2TAT:apotentialpromisingtherapystrategyfor
+amus.Exp.Neurobiol.26,350–361.
+majordepressivedisorder.Sci.Rep.6,22404.
+Kordower,J.H.,Herzog,C.D.,Dass,B.,Bakay,R.A.,Stansell,J.,3rd,Gasmi,
+Maclachlan,T.K.,Lukason,M.,Collins,M.,Munger,R.,Isenberger,E.,Rogers,
+M.,andBartus,R.T.(2006).DeliveryofneurturinbyAAV2(CERE-120)-medi-
+C.,Malatos,S.,Dufresne,E.,Morris,J.,Calcedo,R.,etal.(2011).Preclinical
+atedgenetransferprovidesstructuralandfunctionalneuroprotectionandneu-
+safetyevaluationofAAV2-sFLT01-agenetherapyforage-relatedmacular
+rorestorationinMPTP-treatedmonkeys.Ann.Neurol.60,706–715.
+degeneration.Mol.Ther.19,326–334.
+Kotin,R.M.,Siniscalco,M.,Samulski,R.J.,Zhu,X.D.,Hunter,L.,Laughlin,
+Maguire,A.M.,Simonelli,F.,Pierce,E.A.,Pugh,E.N.,Jr.,Mingozzi,F.,Benni-
+C.A.,McLaughlin,S.,Muzyczka,N.,Rocchi,M.,andBerns,K.I.(1990).Site-
+celli,J.,Banfi,S.,Marshall,K.A.,Testa,F.,Surace,E.M.,etal.(2008).Safety
+specificintegrationbyadeno-associatedvirus.Proc.Natl.Acad.Sci.USA
+andefficacyofgenetransferforLeber’scongenitalamaurosis.N.Engl.J.
+87,2211–2215.
+Med.358,2240–2248.
+Kotzbauer,P.T.,Lampe,P.A.,Heuckeroth,R.O.,Golden,J.P.,Creedon,D.J.,
+Manno,C.S.,Pierce,G.F.,Arruda,V.R.,Glader,B.,Ragni,M.,Rasko,J.J.,
+Johnson,E.M.,Jr.,andMilbrandt,J.(1996).Neurturin,arelativeofglial-cell-
+Ozelo,M.C.,Hoots,K.,Blatt,P.,Konkle,B.,etal.(2006).Successfultransduc-
+line-derivedneurotrophicfactor.Nature384,467–470.
+tionofliverinhemophiliabyAAV-FactorIXandlimitationsimposedbythehost
+Lai,Y.,Yue,Y.,andDuan,D.(2010).Evidenceforthefailureofadeno-associ- immuneresponse.Nat.Med.12,342–347.
+atedvirusserotype5topackageaviralgenome>or=8.2kb.Mol.Ther.
+Marks,W.J.,Jr.,Ostrem,J.L.,Verhagen,L.,Starr,P.A.,Larson,P.S.,Bakay,
+18,75–79.
+R.A.,Taylor,R.,Cahn-Weiner,D.A.,Stoessl,A.J.,Olanow,C.W.,andBartus,
+Landegger,L.D.,Pan,B.,Askew,C.,Wassmer,S.J.,Gluck,S.D.,Galvin,A., R.T. (2008). Safety and tolerability of intraputaminal delivery of CERE-120
+Taylor, R., Forge, A., Stankovic, K.M., Holt, J.R., and Vandenberghe, L.H. (adeno-associatedvirusserotype2-neurturin)topatientswithidiopathicPar-
+(2017).AsyntheticAAVvectorenablessafeandefficientgenetransfertothe kinson’sdisease:anopen-label,phaseItrial.LancetNeurol.7,400–408.
+mammalianinnerear.Nat.Biotechnol.35,280–284.
+Marks,W.J.,Jr.,Bartus,R.T.,Siffert,J.,Davis,C.S.,Lozano,A.,Boulis,N.,Vi-
+Laoharawee,K.,DeKelver,R.C.,Podetz-Pedersen,K.M.,Rohde,M.,Sproul, tek,J.,Stacy,M.,Turner,D.,Verhagen,L.,etal.(2010).GenedeliveryofAAV2-
+S.,Nguyen,H.O.,Nguyen,T.,StMartin,S.J.,Ou,L.,Tom,S.,etal.(2018). neurturinforParkinson’sdisease:adouble-blind,randomised,controlledtrial.
+Dose-dependentpreventionofmetabolicandneurologicdiseaseinmurine LancetNeurol.9,1164–1172.
+MPSIIbyZFN-mediatedinvivogenomeediting.Mol.Ther.26,1127–1136.
+Mastakov,M.Y.,Baer,K.,Xu,R.,Fitzsimons,H.,andDuring,M.J.(2001).Com-
+Leinekugel,P.,Michel,S.,Conzelmann,E.,andSandhoff,K.(1992).Quantita- binedinjectionofrAAVwithmannitolenhancesgeneexpressionintherat
+tivecorrelationbetweentheresidualactivityofbeta-hexosaminidaseAandar- brain.Mol.Ther.3,225–232.
+ylsulfataseAandtheseverityoftheresultinglysosomalstoragedisease.Hum.
+Genet.88,513–523. Mastakov,M.Y.,Baer,K.,Kotin,R.M.,andDuring,M.J.(2002).Recombinant
+adeno-associated virus serotypes 2- and 5-mediated gene transfer in the
+Leone,P.,Shera,D.,McPhee,S.W.,Francis,J.S.,Kolodny,E.H.,Bilaniuk, mammalianbrain:quantitativeanalysisofheparinco-infusion.Mol.Ther.5,
+L.T., Wang, D.J., Assadi, M., Goldfarb, O., Goldman, H.W., et al. (2012). 371–380.
+Long-term follow-up after gene therapy for canavan disease. Sci. Transl.
+Med.4,165ra163. Matalon,R.,Surendran,S.,Rady,P.L.,Quast,M.J.,Campbell,G.A.,Matalon,
+K.M.,Tyring,S.K.,Wei,J.,Peden,C.S.,Ezell,E.L.,etal.(2003).Adeno-asso-
+Levites,Y.,Jansen,K.,Smithson,L.A.,Dakin,R.,Holloway,V.M.,Das,P.,and ciatedvirus-mediatedaspartoacylasegenetransfertothebrainofknockout
+Golde,T.E.(2006).Intracranialadeno-associatedvirus-mediateddeliveryof mouseforcanavandisease.Mol.Ther.7,580–587.
+anti-panamyloidbeta,amyloidbeta40,andamyloidbeta42single-chainvar-
+iable fragments attenuates plaque pathology in amyloid precursor protein Mattar,C.N.,Waddington,S.N.,Biswas,A.,Johana,N.,Ng,X.W.,Fisk,A.S.,
+mice.J.Neurosci.26,11923–11928. Fisk,N.M.,Tan,L.G.,Rahim,A.A.,Buckley,S.M.,etal.(2013).Systemicdeliv-
+eryofscAAV9infetalmacaquesfacilitatesneuronaltransductionofthecentral
+Li,H.,Malani,N.,Hamilton,S.R.,Schlachterman,A.,Bussadori,G.,Edmon- andperipheralnervoussystems.GeneTher.20,69–83.
+son,S.E.,Shah,R.,Arruda,V.R.,Mingozzi,F.,Wright,J.F.,etal.(2011).As-
+sessingthepotentialforAAVvectorgenotoxicityinamurinemodel.Blood McBride,J.L.,Pitzer,M.R.,Boudreau,R.L.,Dufour,B.,Hobbs,T.,Ojeda,S.R.,
+117,3311–3319. andDavidson,B.L.(2011).PreclinicalsafetyofRNAi-mediatedHTTsuppres-
+sionintherhesusmacaqueasapotentialtherapyforHuntington’sdisease.
+Li,D.,Liu,C.,Yang,C.,Wang,D.,Wu,D.,Qi,Y.,Su,Q.,Gao,G.,Xu,Z.,and Mol.Ther.19,2152–2162.
+Guo,Y.(2017).SlowintrathecalinjectionofrAAVrh10enhancesitstransduc-
+tionofspinalcordandtherapeuticefficacyinamutantSOD1modelofALS. McCarty,D.M.(2008).Self-complementaryAAVvectors;advancesandappli-
+Neuroscience365,192–205. cations.Mol.Ther.16,1648–1656.
+Neuron101,March6,2019 859
+
+---PAGE BREAK---
+
+Neuron
+Review
+McCarty, D.M., DiRosario, J., Gulaid, K., Muenzer, J., and Fu, H. (2009). sions in the brains of beta-glucuronidase-deficient mice. J. Virol. 77,
+Mannitol-facilitatedCNSentryofrAAV2vectorsignificantlydelayedtheneuro- 7034–7040.
+logicaldiseaseprogressioninMPSIIIBmice.GeneTher.16,1340–1352.
+Peden,M.C.,Min,J.,Meyers,C.,Lukowski,Z.,Li,Q.,Boye,S.L.,Levine,M.,
+McCurdy,V.J.,Rockwell,H.E.,Arthur,J.R.,Bradbury,A.M.,Johnson,A.K., Hauswirth,W.W.,Ratnakaram,R.,Dawson,W.,etal.(2011).Ab-externoAAV-
+Randle, A.N., Brunson, B.L., Hwang, M., Gray-Edwards, H.L., Morrison, mediatedgenedeliverytothesuprachoroidalspaceusinga250micronflex-
+N.E.,etal.(2015).Widespreadcorrectionofcentralnervoussystemdisease iblemicrocatheter.PLoSONE6,e17140.
+afterintracranialgenetherapyinafelinemodelofSandhoffdisease.Gene
+Ther.22,181–189. Pillay,S.,andCarette,J.E.(2017).Hostdeterminantsofadeno-associated
+viralvectorentry.Curr.Opin.Virol.24,124–131.
+McLean,J.R.,Smith,G.A.,Rocha,E.M.,Hayes,M.A.,Beagan,J.A.,Hallett,
+P.J.,andIsacson,O.(2014).Widespreadneuron-specifictransgeneexpres- Platt,R.J.,Chen,S.,Zhou,Y.,Yim,M.J.,Swiech,L.,Kempton,H.R.,Dahlman,
+sion in brain and spinal cord following synapsin promoter-driven AAV9 J.E.,Parnas,O.,Eisenhaure,T.M.,Jovanovic,M.,etal.(2014).CRISPR-Cas9
+neonatalintracerebroventricularinjection.Neurosci.Lett.576,73–78. knockinmiceforgenomeeditingandcancermodeling.Cell159,440–455.
+McPhee,S.W.,Francis,J.,Janson,C.G.,Serikawa,T.,Hyland,K.,Ong,E.O., Platt,F.M.,d’Azzo,A.,Davidson,B.L.,Neufeld,E.F.,andTifft,C.J.(2018).
+Raghavan,S.S.,Freese,A.,andLeone,P.(2005).EffectsofAAV-2-mediated Lysosomalstoragediseases.Nat.Rev.Dis.Primers4,27.
+aspartoacylase genetransferinthetremorratmodel ofCanavandisease.
+BrainRes.Mol.BrainRes.135,112–121. Pleger,S.T.,Shan,C.,Ksienzyk,J.,Bekeredjian,R.,Boekstegers,P.,Hinkel,
+R.,Schinkel,S.,Leuchs,B.,Ludwig,J.,Qiu,G.,etal.(2011).CardiacAAV9-
+Mendell,J.R.,Al-Zaidy,S.,Shell,R.,Arnold,W.D.,Rodino-Klapac,L.R.,Prior, S100A1genetherapyrescuespost-ischemicheartfailureinapreclinicallarge
+T.W.,Lowes,L.,Alfano,L.,Berry,K.,Church,K.,etal.(2017).Single-dose animalmodel.Sci.Transl.Med.3,92ra64.
+gene-replacementtherapyforspinalmuscularatrophy.N.Engl.J.Med.377,
+1713–1722. Rafii,M.S.,Baumann,T.L.,Bakay,R.A.,Ostrove,J.M.,Siffert,J.,Fleisher,
+A.S.,Herzog,C.D.,Barba,D.,Pay,M.,Salmon,D.P.,etal.(2014).Aphase1
+Meyer,K.,Ferraiuolo,L.,Schmelzer,L.,Braun,L.,McGovern,V.,Likhite,S., studyofstereotacticgenedeliveryofAAV2-NGFforAlzheimer’sdisease.Alz-
+Michels,O.,Govoni,A.,Fitzgerald,J.,Morales,P.,etal.(2015).Improvingsin- heimersDement.10,571–581.
+gleinjectionCSFdeliveryofAAV9-mediatedgenetherapyforSMA:adose-
+responsestudyinmiceandnonhumanprimates.Mol.Ther.23,477–487. Rafii,M.S.,Tuszynski,M.H.,Thomas,R.G.,Barba,D.,Brewer,J.B.,Rissman,
+R.A.,Siffert,J.,andAisen,P.S.;AAV2-NGFStudyTeam(2018).Adeno-asso-
+Miller,A.D.(1992).Humangenetherapycomesofage.Nature357,455–460. ciatedviralvector(serotype2)-nervegrowthfactorforpatientswithAlzheimer
+disease:arandomizedclinicaltrial.JAMANeurol.75,834–841.
+Miller,J.W.,andVandenberghe,L.H.(2018).Breakingandsealingbarriersin
+retinalgenetherapy.Mol.Ther.26,2081–2082. Reichel,F.F.,Dauletbekov,D.L.,Klein,R.,Peters,T.,Ochakovski,G.A.,Seitz,
+I.P.,Wilhelm,B.,Ueffing,M.,Biel,M.,Wissinger,B.,etal.;RD-CURECon-
+Mingozzi,F.,andHigh,K.A.(2013).ImmuneresponsestoAAVvectors:over- sortium(2017).AAV8caninduceinnateandadaptiveimmuneresponsein
+comingbarrierstosuccessfulgenetherapy.Blood122,23–36. theprimateeye.Mol.Ther.25,2648–2660.
+Mingozzi,F.,Maus,M.V.,Hui,D.J.,Sabatino,D.E.,Murphy,S.L.,Rasko,J.E., Rigotti,D.J.,Kirov,I.I.,Djavadi,B.,Perry,N.,Babb,J.S.,andGonen,O.(2011).
+Ragni,M.V.,Manno,C.S.,Sommer,J.,Jiang,H.,etal.(2007).CD8(+)T-cellre- Longitudinalwhole-brainN-acetylaspartateconcentrationinhealthyadults.
+sponsestoadeno-associatedviruscapsidinhumans.Nat.Med.13,419–422. AJNRAm.J.Neuroradiol.32,1011–1015.
+Muramatsu,S.,Fujimoto,K.,Kato,S.,Mizukami,H.,Asari,S.,Ikeguchi,K.,Ka- Rockwell,H.E.,McCurdy,V.J.,Eaton,S.C.,Wilson,D.U.,Johnson,A.K.,Ran-
+wakami,T.,Urabe,M.,Kume,A.,Sato,T.,etal.(2010).AphaseIstudyofar- dle,A.N.,Bradbury,A.M.,Gray-Edwards,H.L.,Baker,H.J.,Hudson,J.A.,etal.
+omatic L-aminoacid decarboxylasegenetherapy forParkinson’sdisease. (2015).AAV-mediatedgenedeliveryinafelinemodelofSandhoffdiseasecor-
+Mol.Ther.18,1731–1735. rectslysosomalstorageinthecentralnervoussystem.ASNNeuro7,7.
+Murrey, D.A., Naughton, B.J., Duncan, F.J., Meadows, A.S., Ware, T.A., Rosario,A.M.,Cruz,P.E.,Ceballos-Diaz,C.,Strickland,M.R.,Siemienski,Z.,
+Campbell,K.J.,Bremer,W.G.,Walker,C.M.,Goodchild,L.,Bolon,B.,etal. Pardo,M.,Schob,K.L.,Li,A.,Aslanidi,G.V.,Srivastava,A.,etal.(2016).Micro-
+(2014).FeasibilityandsafetyofsystemicrAAV9-hNAGLUdeliveryfortreating glia-specific targeting by novel capsid-modified AAV6 vectors. Mol. Ther.
+mucopolysaccharidosis IIIB: toxicology, biodistribution, and immunological MethodsClin.Dev.3,16026.
+assessmentsinprimates.Hum.GeneTher.Clin.Dev.25,72–84.
+Rosenberg,J.B.,Kaplitt,M.G.,De,B.P.,Chen,A.,Flagiello,T.,Salami,C.,Pey,
+Nakai,H.,Montini,E.,Fuess,S.,Storm, T.A.,Grompe,M.,andKay,M.A. E.,Zhao,L.,RicartArbona,R.J.,Monette,S.,etal.(2018).AAVrh.10-mediated
+(2003).AAVserotype2vectorspreferentiallyintegrateintoactivegenesin APOE2 central nervous system gene therapy for APOE4-associated Alz-
+mice.Nat.Genet.34,297–302. heimer’sdisease.Hum.GeneTher.Clin.Dev.29,24–47.
+Nathwani,A.C.,Tuddenham,E.G.,Rangarajan,S.,Rosales,C.,McIntosh,J., Russell, S., Bennett, J., Wellman, J.A., Chung, D.C., Yu, Z.F., Tillman, A.,
+Linch,D.C.,Chowdary,P.,Riddell,A.,Pie,A.J.,Harrington,C.,etal.(2011). Wittes,J.,Pappas,J.,Elci,O.,McCague,S.,etal.(2017).Efficacyandsafety
+Adenovirus-associatedvirusvector-mediatedgenetransferinhemophiliaB. ofvoretigeneneparvovec(AAV2-hRPE65v2)inpatientswithRPE65-mediated
+N.Engl.J.Med.365,2357–2365. inheritedretinaldystrophy:arandomised,controlled,open-label,phase3trial.
+Lancet390,849–860.
+Nault,J.C.,Datta,S.,Imbeaud,S.,Franconi,A.,Mallet,M.,Couchy,G.,Le-
+touze´,E.,Pilati,C.,Verret,B.,Blanc,J.F.,etal.(2015).RecurrentAAV2-related SanSebastian,W.,Samaranch,L.,Heller,G.,Kells,A.P.,Bringas,J.,Pivirotto,
+insertionalmutagenesisinhumanhepatocellularcarcinomas.Nat.Genet.47, P.,Forsayeth,J.,andBankiewicz,K.S.(2013).Adeno-associatedvirustype6
+1187–1193. isretrogradelytransportedinthenon-humanprimatebrain.GeneTher.20,
+1178–1183.
+Nault,J.C.,Datta,S.,Imbeaud,S.,Franconi,A.,andZucman-Rossi,J.(2016).
+Adeno-associatedvirustype2asanoncogenicvirusinhumanhepatocellular Sa´nchez-Pernaute,R.,Harvey-White,J.,Cunningham,J.,andBankiewicz,
+carcinoma.Mol.Cell.Oncol.3,e1095271. K.S.(2001).Functionaleffectofadeno-associatedvirusmediatedgenetrans-
+fer of aromatic L-amino acid decarboxylase into the striatum of 6-OHDA-
+Pan,B.,Askew,C.,Galvin,A.,Heman-Ackah,S.,Asai,Y.,Indzhykulian,A.A., lesionedrats.Mol.Ther.4,324–330.
+Jodelka,F.M.,Hastings,M.L.,Lentz,J.J.,Vandenberghe,L.H.,etal.(2017).
+Genetherapyrestoresauditoryandvestibularfunctioninamousemodelof Saraiva,J.,Nobre,R.J.,andPereiradeAlmeida,L.(2016).Genetherapyforthe
+Ushersyndrometype1c.Nat.Biotechnol.35,264–272. CNSusingAAVs:theimpactofsystemicdeliverybyAAV9.J.Control.Release
+241,94–109.
+Passini,M.A.,Watson,D.J.,Vite,C.H.,Landsburg,D.J.,Feigenbaum,A.L.,
+andWolfe,J.H.(2003).Intraventricularbraininjectionofadeno-associatedvi- Schnepp, B.C., Jensen, R.L., Chen, C.L., Johnson, P.R., and Clark, K.R.
+rus type 1 (AAV1) in neonatal mice results in complementary patterns of (2005).Characterizationofadeno-associatedvirusgenomesisolatedfromhu-
+neuronaltransductiontoAAV2andtotallong-termcorrectionofstoragele- mantissues.J.Virol.79,14793–14803.
+860 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Neuron
+Review
+Senı´s, E., Fatouros, C., Große, S., Wiedtke, E., Niopek, D., Mueller, A.K., thresholdsforAAV2andAAV8photoreceptorgenetherapyinmonkey.Sci.
+Bo¨rner,K.,andGrimm,D.(2014).CRISPR/Cas9-mediatedgenomeengineer- Transl.Med.3,88ra54.
+ing: an adeno-associated viral (AAV) vector toolbox. Biotechnol. J. 9,
+1402–1412. Walia,J.S.,Altaleb,N.,Bello,A.,Kruck,C.,LaFave,M.C.,Varshney,G.K.,
+Burgess, S.M., Chowdhury, B., Hurlbut, D., Hemming, R., et al. (2015).
+Shibata,S.B.,Ranum,P.T.,Moteki,H.,Pan,B.,Goodwin,A.T.,Goodman, Long-termcorrectionofSandhoffdiseasefollowingintravenousdeliveryof
+S.S.,Abbas,P.J.,Holt,J.R.,andSmith,R.J.H.(2016).RNAinterferencepre- rAAV9tomouseneonates.Mol.Ther.23,414–422.
+ventsautosomal-dominanthearingloss.Am.J.Hum.Genet.98,1101–1113.
+Wang,L.J.,Lu,Y.Y.,Muramatsu,S.,Ikeguchi,K.,Fujimoto,K.,Okada,T.,Miz-
+Sondhi,D.,Johnson,L.,Purpura,K.,Monette,S.,Souweidane,M.M.,Kaplitt, ukami,H.,Matsushita,T.,Hanazono,Y.,Kume,A.,etal.(2002).Neuroprotec-
+M.G.,Kosofsky,B.,Yohay,K.,Ballon,D.,Dyke,J.,etal.(2012).Long-term tive effects of glial cell line-derived neurotrophic factor mediated by an
+expression andsafety ofadministrationofAAVrh.10hCLN2 tothe brainof adeno-associatedvirusvectorinatransgenicanimalmodelofamyotrophic
+ratsandnonhumanprimatesforthetreatmentoflateinfantileneuronalceroid lateralsclerosis.J.Neurosci.22,6920–6928.
+lipofuscinosis.Hum.GeneTher.Methods23,324–335.
+Wang,J.,Lozier,J.,Johnson,G.,Kirshner,S.,Verthelyi,D.,Pariser,A.,Shores,
+Srivastava,A.,andCarter,B.J.(2017).AAVinfection:protectionfromcancer. E.,andRosenberg,A.(2008).Neutralizingantibodiestotherapeuticenzymes:
+Hum.GeneTher.28,323–327. considerations for testing, prevention and treatment. Nat. Biotechnol. 26,
+901–908.
+Stein-Streilein,J.(2013).Mechanismsofimmuneprivilegeintheposterioreye.
+Int.Rev.Immunol.32,42–56. Wang,D.B.,Dayton,R.D.,Henning,P.P.,Cain,C.D.,Zhao,L.R.,Schrott,L.M.,
+Orchard,E.A.,Knight,D.S.,andKlein,R.L.(2010).Expansivegenetransferin
+Strittmatter,W.J.,andRoses,A.D.(1996).ApolipoproteinEandAlzheimer’s theratCNSrapidlyproducesamyotrophiclateralsclerosisrelevantsequelae
+disease.Annu.Rev.Neurosci.19,53–77. whenTDP-43isoverexpressed.Mol.Ther.18,2064–2074.
+Su,X.,Kells,A.P.,Huang,E.J.,Lee,H.S.,Hadaczek,P.,Beyer,J.,Bringas,J., Wang,P.R.,Xu,M.,Toffanin,S.,Li,Y.,Llovet,J.M.,andRussell,D.W.(2012).
+Pivirotto,P.,Penticuff,J.,Eberling,J.,etal.(2009).SafetyevaluationofAAV2- Inductionofhepatocellularcarcinomabyinvivogenetargeting.Proc.Natl.
+GDNFgenetransferintothedopaminergicnigrostriatalpathwayinagedand Acad.Sci.USA109,11264–11269.
+parkinsonianrhesusmonkeys.Hum.GeneTher.20,1627–1640.
+Wang, J., Exline, C.M., DeClercq, J.J., Llewellyn, G.N., Hayward,S.B., Li,
+Takahashi,K.,Igarashi,T.,Miyake,K.,Kobayashi,M.,Yaguchi,C.,Iijima,O., P.W.,Shivak,D.A.,Surosky,R.T.,Gregory,P.D.,Holmes,M.C.,andCannon,
+Yamazaki,Y.,Katakai,Y.,Miyake,N.,Kameya,S.,etal.(2017).Improvedintra- P.M.(2015).Homology-drivengenomeeditinginhematopoieticstemandpro-
+vitreal AAV-mediated inner retinal gene transduction after surgical internal genitor cells using ZFN mRNA and AAV6 donors. Nat. Biotechnol. 33,
+limitingmembranepeelingincynomolgusmonkeys.Mol.Ther.25,296–302. 1256–1263.
+Tallan,H.H.(1957).StudiesonthedistributionofN-acetyl-L-asparticacidin Wang,L.,Xiao,R.,Andres-Mateos,E.,andVandenberghe,L.H.(2017).Single
+brain.J.Biol.Chem.224,41–45. strandedadeno-associatedvirusachievesefficientgenetransfertoanterior
+segmentinthemouseeye.PLoSONE12,e0182473.
+Tao,Y.,Huang,M.,Shu,Y.,Ruprecht,A.,Wang,H.,Tang,Y.,Vandenberghe,
+L.H.,Wang,Q.,Gao,G.,Kong,W.J.,andChen,Z.Y.(2018).Deliveryofadeno- Wassmer,S.J.,Carvalho,L.S.,Gyo¨rgy,B.,Vandenberghe,L.H.,andMaguire,
+associatedvirusvectorsinadultmammalianinner-earcellsubtypeswithout C.A.(2017).Exosome-associatedAAV2vectormediatesrobustgenedelivery
+auditorydysfunction.Hum.GeneTher.29,492–506. intothemurineretinauponintravitrealinjection.Sci.Rep.7,45329.
+Tardieu,M.,Ze´rah,M.,Husson,B.,deBournonville,S.,Deiva,K.,Adams- Watakabe,A.,Ohtsuka,M.,Kinoshita,M.,Takaji,M.,Isa,K.,Mizukami,H.,
+baum, C., Vincent, F., Hocquemiller, M., Broissand, C., Furlan, V., et al. Ozawa,K.,Isa,T.,andYamamori,T.(2015).Comparativeanalysesofad-
+(2014).Intracerebraladministrationofadeno-associatedviralvectorserotype eno-associatedviralvectorserotypes1,2,5,8and9inmarmoset,mouse
+rh.10carryinghumanSGSHandSUMF1cDNAsinchildrenwithmucopolysac- andmacaquecerebralcortex.Neurosci.Res.93,144–157.
+charidosistypeIIIAdisease:resultsofaphaseI/IItrial.Hum.GeneTher.25,
+506–516. Weismann,C.M.,Ferreira,J.,Keeler,A.M.,Su,Q.,Qui,L.,Shaffer,S.A.,Xu,Z.,
+Gao,G.,andSena-Esteves,M.(2015).SystemicAAV9genetransferinadult
+Taschenberger,G.,Tereshchenko,J.,andKu€gler,S.(2017).AMicroRNA124 GM1gangliosidosismicereduceslysosomalstorageinCNSandextendslife-
+targetsequencerestoresastrocytespecificityofgfaABC1D-driventransgene span.Hum.Mol.Genet.24,4353–4364.
+expressioninAAV-mediatedgenetransfer.Mol.Ther.NucleicAcids8,13–25.
+West,H.L.,Rebeck,G.W.,andHyman,B.T.(1994).Frequencyoftheapolipo-
+Towne,C.,Schneider,B.L.,Kieran,D.,Redmond,D.E.,Jr.,andAebischer,P. proteinEepsilon2alleleisdiminishedinsporadicAlzheimerdisease.Neuro-
+(2010).Efficienttransductionofnon-humanprimatemotorneuronsafterintra- sci.Lett.175,46–48.
+musculardeliveryofrecombinantAAVserotype6.GeneTher.17,141–146.
+Whitehouse,P.J.,Price,D.L.,Struble,R.G.,Clark,A.W.,Coyle,J.T.,andDe-
+Trapani,I.,andAuricchio,A.(2018).Seeingthelightafter25yearsofretinal lon,M.R.(1982).Alzheimer’sdiseaseandseniledementia:lossofneuronsin
+genetherapy.TrendsMol.Med.24,669–681. thebasalforebrain.Science215,1237–1239.
+Tse,L.V.,Klinc,K.A.,Madigan,V.J.,CastellanosRivera,R.M.,Wells,L.F.,Hav- Williams,C.L.,Uytingco,C.R.,Green,W.W.,McIntyre,J.C.,Ukhanov,K.,Zim-
+lik,L.P.,Smith,J.K.,Agbandje-McKenna,M.,andAsokan,A.(2017).Struc- merman,A.D.,Shively,D.T.,Zhang,L.,Nishimura,D.Y.,Sheffield,V.C.,and
+ture-guidedevolutionofantigenicallydistinctadeno-associatedvirusvariants Martens,J.R.(2017).Genetherapeuticreversalofperipheralolfactoryimpair-
+forimmuneevasion.Proc.Natl.Acad.Sci.USA114,E4812–E4821. mentinBardet-Biedlsyndrome.Mol.Ther.25,904–916.
+Vandamme,C.,Adjali,O.,andMingozzi,F.(2017).Unravelingthecomplex Wolf,D.A.,Lenander,A.W.,Nan,Z.,Belur,L.R.,Whitley,C.B.,Gupta,P.,Low,
+storyofimmuneresponsestoAAVvectorstrialaftertrial.Hum.GeneTher. W.C.,andMcIvor,R.S.(2011).DirectgenetransfertotheCNSpreventsemer-
+28,1061–1074. genceofneurologicdiseaseinamurinemodelofmucopolysaccharidosistype
+I.Neurobiol.Dis.43,123–133.
+Vandenberghe,L.H.,andAuricchio,A.(2012).Noveladeno-associatedviral
+vectorsforretinalgenetherapy.GeneTher.19,162–168. Wolf,D.A.,Hanson,L.R.,Aronovich,E.L.,Nan,Z.,Low,W.C.,Frey,W.H.,2nd,
+andMcIvor,R.S.(2012).Lysosomalenzymecanbypasstheblood-brainbar-
+Vandenberghe,L.H.,andWilson,J.M.(2007).AAVasanimmunogen.Curr. rierandreachtheCNSfollowingintranasaladministration.Mol.Genet.Metab.
+GeneTher.7,325–333. 106,131–134.
+Vandenberghe,L.H.,Wilson,J.M.,andGao,G.(2009).TailoringtheAAVvector Worgall,S.,Sondhi,D.,Hackett,N.R.,Kosofsky,B.,Kekatpure,M.V.,Neyzi,
+capsidforgenetherapy.GeneTher.16,311–319. N.,Dyke,J.P.,Ballon,D.,Heier,L.,Greenwald,B.M.,etal.(2008).Treatment
+oflateinfantileneuronalceroidlipofuscinosisbyCNSadministrationofasero-
+Vandenberghe,L.H.,Bell,P.,Maguire,A.M.,Cearley,C.N.,Xiao,R.,Calcedo, type2adeno-associatedvirusexpressingCLN2cDNA.Hum.GeneTher.19,
+R.,Wang, L., Castle, M.J., Maguire, A.C., Grant, R., et al. (2011). Dosage 463–474.
+Neuron101,March6,2019 861
+
+---PAGE BREAK---
+
+Neuron
+Review
+Wrobel,C.,Dieter,A.,Huet,A.,Keppeler,D.,Duque-Afonso,C.J.,Vogl,C., Zerah,M.,Piguet,F.,Colle,M.A.,Raoul,S.,Deschamps,J.Y.,Deniaud,J.,
+Hoch, G., Jeschke, M., and Moser, T. (2018). Optogenetic stimulation of Gautier,B.,Toulgoat,F.,Bieche,I.,Laurendeau,I.,etal.(2015).Intracerebral
+cochlearneuronsactivatestheauditorypathwayandrestoresauditory-driven genetherapyusingAAVrh.10-hARSArecombinantvectortotreatpatientswith
+behaviorindeafadultgerbils.Sci.Transl.Med.10,10. early-onsetformsofmetachromaticleukodystrophy:preclinicalfeasibilityand
+safetyassessmentsinnonhumanprimates.Hum.GeneTher.Clin.Dev.26,
+Wu,P.,Phillips,M.I.,Bui,J.,andTerwilliger,E.F.(1998).Adeno-associatedvi- 113–124.
+rusvector-mediatedtransgeneintegrationintoneuronsandothernondividing
+celltargets.J.Virol.72,5919–5926.
+Zhang,H.,Yang,B.,Mu,X.,Ahmed,S.S.,Su,Q.,He,R.,Wang,H.,Mueller,C.,
+Wu,Z.,Yang,H.,andColosi,P.(2010).EffectofgenomesizeonAAVvector Sena-Esteves,M.,Brown,R.,etal.(2011).SeveralrAAVvectorsefficiently
+packaging.Mol.Ther.18,80–86. crosstheblood-brainbarrierandtransduceneuronsandastrocytesinthe
+neonatalmousecentralnervoussystem.Mol.Ther.19,1440–1448.
+Yamashita,T.,Chai,H.L.,Teramoto,S.,Tsuji,S.,Shimazaki,K.,Muramatsu,
+S.,andKwak,S.(2013).Rescueofamyotrophiclateralsclerosisphenotype
+inamousemodelbyintravenousAAV9-ADAR2deliverytomotorneurons. Zhong,L.,Malani,N.,Li,M.,Brady,T.,Xie,J.,Bell,P.,Li,S.,Jones,H.,Wilson,
+EMBOMol.Med.5,1710–1719. J.M.,Flotte,T.R.,etal.(2013).Recombinantadeno-associatedvirusintegra-
+tion sites in murine liver after ornithine transcarbamylase gene correction.
+Yang,B.,Li,S.,Wang,H.,Guo,Y.,Gessler,D.J.,Cao,C.,Su,Q.,Kramer,J., Hum.GeneTher.24,520–525.
+Zhong,L.,Ahmed,S.S.,etal.(2014).GlobalCNStransductionofadultmiceby
+intravenouslydeliveredrAAVrh.8andrAAVrh.10andnonhumanprimatesby
+rAAVrh.10.Mol.Ther.22,1299–1309. Zingg,B.,Chou,X.L.,Zhang,Z.G.,Mesik,L.,Liang,F.,Tao,H.W.,andZhang,
+L.I.(2017).AAV-mediatedanterogradetranssynaptictagging:mappingcorti-
+Yin,H.,Kanasty,R.L.,Eltoukhy,A.A.,Vegas,A.J.,Dorkin,J.R.,andAnderson, cocollicular input-defined neural pathways for defense behaviors. Neuron
+D.G.(2014).Non-viralvectorsforgene-basedtherapy.Nat.Rev.Genet.15, 93,33–47.
+541–555.
+Yoshimura, H., Shibata, S.B., Ranum, P.T., and Smith, R.J.H. (2018). Zinn,E.,Pacouret,S.,Khaychuk,V.,Turunen,H.T.,Carvalho,L.S.,Andres-
+Enhancedviral-mediatedcochleargenedeliveryinadultmicebycombining Mateos,E.,Shah,S.,Shelke,R.,Maurer,A.C.,Plovie,E.,etal.(2015).Insilico
+canal fenestration with round window membrane inoculation. Sci. Rep. reconstructionoftheviralevolutionarylineageyieldsapotentgenetherapy
+8,2980. vector.CellRep.12,1056–1068.
+862 Neuron101,March6,2019
+
+---PAGE BREAK---
+
+Update
+Neuron
+Volume 102, Issue 1, 3 April 2019, Page 263
+DOI: https://doi.org/10.1016/j.neuron.2019.03.020
+
+---PAGE BREAK---
+
+Neuron
+Correction
+Therapeutic AAV Gene Transfer
+to the Nervous System: A Clinical Reality
+EloiseHudry*andLukH.Vandenberghe*
+*Correspondence:ehudry@mgh.harvard.edu(E.H.),luk_vandenberghe@meei.harvard.edu(L.H.V.)
+https://doi.org/10.1016/j.neuron.2019.03.020
+(Neuron101,839–862;March6,2019)
+Intheoriginalpublicationofthisreview,oneofthevectordoseslistedinTable1containedanerror.IntheLysogeneclinicaltrialwith
+AAVrh10-hSGSH(LYS-SAF302)forMPSIIIA,adoseof7.231012vgwasadministeredintracraniallyvia6injectionsitesandnota
+doseof7.231011over12sites,asinitiallystatedinthereview.Thishassincebeencorrectedonline.Theauthorsapologizefor
+theerror.
+Neuron102,263,April3,2019ª2019PublishedbyElsevierInc. 263
+
+---PAGE BREAK---
+

@@ -1,0 +1,1862 @@
+Leading Edge
+Review
+Biological Functions of Autophagy Genes:
+A Disease Perspective
+BethLevine1,2,3,*andGuidoKroemer4,5,6,7,8,9,10,*
+1CenterforAutophagyResearch,DepartmentofInternalMedicine,UniversityofTexasSouthwesternMedicalCenter,Dallas,TX75390,USA
+2HowardHughesMedicalInstitute,UniversityofTexasSouthwesternMedicalCenter,Dallas,TX75390,USA
+3DepartmentofMicrobiology,UniversityofTexasSouthwesternMedicalCenter,Dallas,TX75390,USA
+4Equipe11labellise´eparlaLiguecontreleCancer,CentredeRecherchedesCordeliers,75006Paris,France
+5CellBiologyandMetabolomicsplatforms,GustaveRoussyCancerCampus,94805Villejuif,France
+6INSERM,U1138,75006Paris,France
+7Universite´ ParisDescartes,SorbonneParisCite´,75006Paris,France
+8Universite´ PierreetMarieCurie,SorbonneUniversite´,75006Paris,France
+9PoˆledeBiologie,HoˆpitalEurope´enGeorgesPompidou,AP-HP,75015Paris,France
+10KarolinskaInstitute,DepartmentofWomen’sandChildren’sHealth,KarolinskaUniversityHospital,17176Stockholm,Sweden
+*Correspondence:beth.levine@utsouthwestern.edu(B.L.),kroemer@orange.fr(G.K.)
+https://doi.org/10.1016/j.cell.2018.09.048
+Thelysosomaldegradationpathwayofautophagyplaysafundamentalroleincellular,tissue,and
+organismal homeostasis and is mediated by evolutionarily conserved autophagy-related (ATG)
+genes. Definitive etiological links exist between mutations in genes that control autophagy and
+human disease, especially neurodegenerative, inflammatory disorders and cancer. Autophagy
+selectively targets dysfunctional organelles, intracellular microbes, and pathogenic proteins, and
+deficienciesintheseprocessesmayleadtodisease.Moreover,ATGgeneshavediversephysiolog-
+icallyimportantrolesinothermembrane-traffickingandsignalingpathways.ThisReviewdiscusses
+the biological functions of autophagy genes from the perspective of understanding—and poten-
+tially reversing—the pathophysiology of human disease and aging.
+Introduction ology and pathophysiology (Dikic and Elazar, 2018; Galluzzi
+Adecadehaselapsedsinceour2008ReviewinCell,‘‘Autoph- etal.,2014;Mizushima,2018).Newmajorconceptualadvances
+agy in the Pathogenesis of Disease’’ (Levine and Kroemer, underscorethepluralityoffunctionsoftheautophagiccorema-
+2008).Duringthisperiod,morethan33,000newarticlesrelated chinery in various membrane-trafficking and signaling events
+toautophagywerepublished,aNobelprizewasawardedforthe (Cadwell and Debnath, 2018) and delineate the exquisite
+discovery of the molecular mechanisms of autophagy (Levine specificity with which autophagy targets selected cargo for
+andKlionsky,2017;Mizushima,2018),andconsiderableinterest degradation (Gatica et al., 2018). These advances, together
+has emerged in autophagy modulation as a potential target in with discoveries in human genetics linking autophagy-related
+clinicalmedicine(Galluzzietal.,2017a). (ATG) gene mutations to specific diseases (Jiang and Mizush-
+The fundamental concepts discussed in our 2008 Review ima, 2014; van Beek et al., 2018), provide a multidimensional
+(LevineandKroemer,2008)remainunchanged.Thelysosomal perspective of mechanisms by which ATG gene-dependent
+degradationpathwayofmacroautophagy(hereinreferredtoas pathwaysprotectagainstmammaliandisease.
+autophagy)playsacrucialroleincellularphysiology,including Herein, we review selected highlights of the past decade of
+adaptation to metabolic stress, removal of dangerous cargo researchonthebiologicalfunctionsofautophagygenes,primar-
+(e.g., protein aggregates, damaged organelles, intracellular ily from a perspective of understanding and treating human
+pathogens),renovationduringdifferentiationanddevelopment, disease.
+andpreventionofgenomicdamage.Generally,theseandother
+functions protect against numerous diseases, including infec- AutophagyandOtherAutophagyGene-Dependent
+tions, cancer, neurodegeneration, cardiovascular disorders, Pathways
+and aging (Mizushima and Komatsu, 2011). Under certain cir- The original scientific definition of autophagy (Greek, ‘‘self-
+cumstances, autophagy may be detrimental either via its pro- eating’’) is the delivery of cytoplasmic cargo to the lysosome
+survival effects (such as in cancer progression [Amaravadi fordegradation.Thereareatleastthreedistinctformsofauto-
+etal.,2016])orviapossiblecell-death-promotingeffects(Marin˜o phagy—chaperone-mediatedautophagy,microautophagy,and
+etal.,2014a). macroautophagy—thatdifferintermsofmodeofcargodelivery
+Overthepast10years,significantprogresshasbeenmadein to the lysosome. Macroautophagy is the major catabolic
+understanding the molecular mechanisms of autophagy, the mechanismusedbyeukaryoticcellstomaintainnutrienthomeo-
+regulationofautophagy,andtheeffectsofautophagyonphysi- stasis and organellar qualitycontrol. Itismediated byasetof
+Cell176,January10,2019ª2018ElsevierInc. 11
+
+---PAGE BREAK---
+
+evolutionarilyconservedgenes,theATGgenes(Klionskyetal., ThisclassificationoftheATGproteinshasprovidedauseful
+2003),originallydiscoveredinyeastgeneticscreens(Mizushima, frameworkforstudyingandunderstandingautophagy.However,
+2018).Withafewexceptions,allATGgenesarerequiredforthe its apparent simplicity is at variance with extensive data indi-
+efficient formation of sealed autophagosomes that proceed to cating a highly complex level of interconnectivity among the
+fusewithlysosomes. ATG proteins and newly described functions of ATG proteins
+Inhighereukaryotes,manyATGgenesfunctionallydiversified atdifferentstagesofautophagy.Basedonunbiasedproteomic
+to facilitate delivery of extracellular cargo to the lysosome, to analyses, most ATG proteins interact with other ATG proteins
+promote the plasma membrane localization or extracellular that reside outside of their ‘‘classic’’ functional complex (Beh-
+release of intracellular cargo, and to coordinate intracellular rends et al., 2010). Experimentally, some of these interactions
+communicationwithvariouscell-signalingpathways(Figure1). are known to be important for autophagosome formation. For
+These other functions are not, sensu stricto, autophagy and, example,FIP200(amemberoftheULK1kinasecomplex)inter-
+accordingly, will be referred to as ATG gene-dependent path- acts with ATG16L1 to properly target it to the isolation
+ways. There are broad implications of ATG gene functions in membrane(alsoknownasthephagophore)ofthenascentauto-
+different membrane-trafficking and signaling pathways for phagosome(Nishimuraetal.,2013).ATG14(acomponentofthe
+mammaliancellbiology,physiology,anddisease. autophagy-specific PI3KC3-C1 complex) also functions in
+DegradativeAutophagy:The‘‘Raisond’Eˆtre’’of SNARE-driven membrane fusion (Diao et al., 2015). Similarly,
+AutophagyGenes Atg13(acomponentoftheyeastAtg1/mammalianULK1kinase
+TheoriginallydiscoveredfunctionofATGgenesistoorchestrate complex)interactswithAtg9torecruitAtg9vesiclestothepre-
+andmediatetheformationofdouble-membranedstructuresthat autophagosomal structure (Suzuki et al., 2015). The broader
+deliverintracytoplasmiccontentstothelysosomefordegrada- interconnectivity and functional multiplicity of core autophagy
+tion.Thisprocessisconservedinalleukaryoticorganisms,oc- proteinsinautophagosomalbiogenesisrequiresfurtherelucida-
+cursatbasallevelsinnearlyallcelltypes,andisincreasedby tion.Moreover,asindicatedbyarecentconditionalgeneticin-
+diverse intracellular and extracellular cues. It is essential for teractions study using diverse yeast –omics datasets (Kramer
+cellularhomeostasis,cellularproteinandorganellequalitycon- etal.,2017),newsystemsbiologyapproacheswilllikelyidentify
+trol,andorganismaladaptationtoenvironmentalstress.These additional genes required for autophagy, especially those that
+principles are firmly supported by nearly 2decades of studies mayfunctioninastimulus-dependent,cell-type-dependent,or
+involvinggeneticablationoftheautophagymachineryindiverse species-specificmanner.
+eukaryoticspecies(LevineandKroemer,2008;Mizushimaand ThecoreATGproteins,conservedfromyeasttohumans,are
+Komatsu,2011). necessary but not sufficient for degradative autophagy. The
+Thislysosomaldegradation pathwayisusuallydescribedas degradationofautophagosomalcargocannotproceedwithout
+involving a set of (cid:1)16–20 core conserved ATG genes. The successful fusion to an available and functional lysosome.
+ATGproteinsencodedbythesegenesaretraditionallyclassified Researchinthepastdecadehasunmaskedsomeofthekeyfac-
+into distinct biochemical and functional groups that act at torsrequiredforlysosomalbiogenesis(Settembreetal.,2013b),
+specific stages of autophagosome initiation or formation. In autophagolysosomalfusion(Yuetal.,2018),lysosomalfunction
+this scheme (see other recent reviews for details [Dikic and duringautophagy(ShenandMizushima,2014),andautophagic
+Elazar, 2018; Yu et al., 2018]), the ULK1 serine threonine lysosome reformation (Chen and Yu, 2017). Adenoviral-medi-
+kinasecomplex(involvingULK1,FIP200,ATG13,andATG101) ated gene delivery of TFEB, a master transcriptional regulator
+plays a major role in autophagy initiation, phosphorylating oflysosomalbiogenesis,improvesoutcomesinvariousrodent
+multiple downstream factors. Two distinct Beclin 1/class III diseasemodels,includingParkinson’sdisease,lysosomalstor-
+phosphatidylinositol 3-kinase (PI3KC3) complexes generate age disorders, tauopathies, a1-antitrypsin deficiency, and he-
+phosphatidylinositol 3-phosphate (PI3P) to act in autophago- patic hyperammonemia (Napolitano and Ballabio 2016; Soria
+some nucleation (PI3KC3-C1 involving Beclin 1, VPS34, et al., 2018). Autophagolysosomal fusion requires changes in
+VPS15,andATG14)orendolysosomalandautophagolysosomal lysosomalpH,certaincytoskeletonmotorproteins(dynein),teth-
+maturation(PI3KC3-C2involvingBeclin1,VPS34,VPS15,and ering factors (the HOPS complex, the Rab GTPase, RAB7),
+UVRAG). Vesicles containing ATG9A, the only transmembrane SNARE proteins (the Q-SNARE, syntaxin 17 on autophago-
+core ATG protein, supply membrane to autophagosomes. somes that interacts with R-SNARE proteins, SNAP29, and
+WIPI(WDrepeatdomainphosphoinositide-interacting)proteins VAMP8 on endosomes/lysosomes), phospholipids, and mem-
+and their binding partners, ATG2A or ATG2B, function in early bers of the LC3/GABARAP family (Kriegenburg et al., 2018)
+stagesofmembraneelongationatthesiteofPI3Pgeneration. thatarebridgedtotetheringfactorsorSNARESbyadaptorpro-
+Autophagosomemembraneexpansionandcompletioninvolves teins.ScreensinC.elegansidentifiednovelmetazoan-specific
+two ubiquitin-like protein conjugation systems: the Ub-like genesrequiredforfusionstepsindegradativeautophagy(Tian
+ATG12 conjugates with ATG5 and ATL16L1 and the Ub-like etal.,2010).OneexamplerelevanttohumandiseaseisEPG5,
+LC3subfamily(ATG8inyeast)conjugateswithmembrane-resi- whichencodesaRAB7effector.Autosomalrecessivemutation
+dent phosphatidylethanoloamine (PE). Unlike in yeast, the of EPG5 results in Vici syndrome, a neurodevelopmental and
+ubiquitin-like protein conjugation systems are not essential for multisystemdisorder(Table1).Mutationsingenesthatregulate
+autophagosomal membrane completion in mammalian cells, lysosomal acidification such as ATP6AP2 and presenilin 1 are
+although they determine the efficiency of the process (Tsu- associatedwithX-linkedParkinsonismandAlzheimer’sdisease
+boyamaetal.,2016). (Table 1). Thus, we must consider regulators of lysosomal
+12 Cell176,January10,2019
+
+---PAGE BREAK---
+
+Figure1. AutophagyGene-DependentMembrane-TraffickingPathways
+Shownareschematicillustrationsofdifferentmembrane-traffickingpathwaysthatinvolveautophagy(ATG)proteins(greenovals).Seetextforexplanationsof
+eachpathwayandadiscussionoftheirphysiologicalfunctions.SeeTable1forexamplesofgeneticmutationsthatimpairautophagy-relatedpathwaysthatare
+associatedwithhumandisease.Themajortypeofautophagy,macroautophagy,islabeledas‘‘classicaldegradativeautophagy’’todistinguishitfromother
+traffickingpathwaysthatutilizeoverlappingATGproteins.Duetospacelimitations,notallATGproteins,proteinsinvolvedinvesiclefusion,orsecretarycargoare
+depicted.PM,plasmamembrane.LC3-II(greencircle)isthephosphatidylethanolamine-conjugatedformoftheautophagyproteinLC3.
+Cell176,January10,2019 13
+
+---PAGE BREAK---
+
+Table1. ExamplesofGeneticMutationsinHumanDiseasethatImpairAutophagy
+Gene Disease Mechanism References
+MutationsinGenesRequiredforAutophagyandLysosomalFunction
+ATG16L1 Crohn’sDisease(CD) ATGL16L1T300AisamajorriskalleleforCD.TheT300A (Beletal.,2017;Chuetal.,2016;
+polymorphismhasacaspase3cleavagesitethatdecreases JiangandMizushima,2014;Lassen
+proteinlevels.T300Aknockinorhypomorphicorintestinal etal.,2014;Murthyetal.,2014;
+knockoutmiceshowdecreasedintestinalbacterialclearance, Matsuzawa-Ishimotoetal.,2017;
+increasedcytokineresponses,reducedPanethcelllysozyme Tschurtschenthaleretal.,2017)
+secretionandclearanceofIRE1aproteinaggregatesduring
+ERstress,enhancedenterocyteTNFa-inducednecroptosis,
+dendriticcelldefectsinregulatoryTcellinductionand
+suppressionofmucosalinflammation
+ATG16L2 Systemiclupuserythematosus ATG16L2R114Walleleisadiseasesusceptibilitygene (Molinerosetal.,2017)
+(SLE)
+ATG5 Childhoodataxia,systemic Loss-of-functionmutationreducesautophagyandcausesataxia. (Kimetal.,2016;Martinezetal.,2016)
+sclerosis,SLE Intronicvariantsareassociatedwithsusceptibilitytosystemic
+sclerosis.PolymorphismsassociatedwithSLEsusceptibility;
+mousestudiessuggestmechanismmayinvolvedeficientLC3-
+associatedphagocytosis
+ATP6AP2 X-linkedParkinsonismwith ExonskippingmutationslinkedtoParkinsonism.Missense (Korvatskaetal.,2013;Rujanoetal.,
+spasticity;multisystemdisorder mutationsassociatedwithimmunodeficiency,liverdisease,and 2017)
+psychomotorimpairmentleadtodefectivelysosomalacidification
+duetoimpairedv-ATPaseassembly,resultingindefectsin
+autophagy
+BECN1 Breastandovariancancer Monoallelicdeletionassociatedwithriskandpoorprognosisof (Quetal.,2003;Tangetal.,2015;
+sporadicbreastandovariancancer;monoallelicdeletioninmice Valenteetal.,2014;Yueetal.,2003)
+leadstodecreasedautophagyandincreasedtumors,including
+basal-likebreastcancer
+CLEC16A Diabetes;multiplesclerosis CLEC16Avariantsassociatedwithmultipleautoimmune (Bronsonetal.,2016;Redmannetal.,
+diseases.MicedeficientinClec16ahaveautophagydefects 2016;Schusteretal.,2015;
+associatedwithPurkinjedegenerationandataxia,impairedbcell Soleimanpouretal.,2014)
+mitophagy,andautoimmunity
+CTNS Cystinosis Recessiveloss-of-functionmutationsinCTNS,ageneencodinga (Festaetal.,2018)
+protontransporterthatexportscysteinefromlysosomes,
+associatedwithrenallysosomalstoragedisease;genedeletionin
+miceresultsindeficientautophagy,alteredlysosomaldynamics,
+andaccumulationofdysfunctionalROSoverproducing
+mitochondria
+EPG5 Vicisyndrome RecessivemutationsinEPG5,agenerequiredfor (Cullupetal.,2013;Horietal.,2017)
+autophagolysosomalfusion,resultsinaneurodevelopmental
+disorderwithmultisysteminvolvement
+(Continuedonnextpage)
+14
+Cell176,January10,2019
+
+---PAGE BREAK---
+
+Table1. Continued
+Gene Disease Mechanism References
+GBA1 Gaucher’sdisease;Parkinson’s GBA1encodesthelysosomalenzymeglucocerebrosidase. (Aflakietal.,2017;Schapira,2015)
+disease(PD) HomozygousGBAdefectscauseGaucher’sdisease,and
+heterozygousdefectspredisposetoPD.MutationsinGBA1
+decreaseglucocerebrosidaseactivity,leadingtodefectsin
+autophagic-lysosomalfunctionanda-synucleinaggregate
+accumulation
+GRN Frontotemporaldementia Loss-of-functionmutationscompromiselysosomalfunctionand (Changetal.,2017)
+(heterozygous)orneuronalceroid autophagicflux
+lipofuscinosis(homozygous)
+LAMP2 Danon’scardiomyopathy X-linkeddeletionresultsinvacuolarcardiomyopathyand (Nishinoetal.,2000;Tanakaetal.,2000)
+myopathy;Lamp2deletioninmiceresultsinautophagosome
+accumulationandcardiomyopathy
+PIK3R4(VPS15) Corticalatrophyandepilepsy MutationsinPIK3R4,acomponentoftheBeclin1complex (Gstreinetal.,2018)
+requiredforendosomal-lysosomaltraffickingandautophagy,
+associatedwithhumanneurodevelopmentaldisease
+SNX14 Autosomalrecessive SNX14bindslysosomalphosphatidylinositol(3,5)-bisphosphate (Akizuetal.,2015)
+spinocerebellarataxia andisrequiredforautophagosomalclearance
+SPG11,SPG15 Hereditaryspasticparaplegia SPG15bindsphosphatidylinositol3-phosphate,andSPG49 (Ebrahimi-Fakharietal.,2016)
+(ZFYVE26),SPG49 bindsLC3tofunctioninautophagolysosomaltrafficking
+(TECPR2)
+WDR45(WIPI4) Beta-propellerprotein-associated WDR45(WIPI4)bindstophosphoinositide3-phosphateand (Ebrahimi-Fakharietal.,2016;
+neurodegeneration interactswithATG2andATG9;disease-associatedmutations Haacketal.,2012;Saitsuetal.,2013)
+impairautophagy
+MutationsinGenesthatRegulateAutophagyandLysosomalFunction
+APP Alzheimer’sdisease Mutantamyloidprecursorproteinexpressedinmouse (Reddyetal.,2018)
+hippocampalneuronsinhibitsmitophagyandautophagy
+AT-1(SLC33A1) Spasticparaplegia,developmental AT-1translocatescytosolicacetylcoAintoERlumen;mutations (Pengetal.,2018)
+delay;autismspectrumdisorders andduplicationsassociatedwithavarietyofCNSphenotypesin
+humans;inmice,overexpressionblocksAtg9a-Fam134b-LC3
+interactions,leadingtodefectiveER-phagyandprogeria
+C9orf72 Amyotrophiclateralsclerosis(ALS); HexanucleotiderepeatexpansioninC9orf72geneismost (CorrioneroandHorvitz,2018;
+frontotemporaldementia(FTD) commongeneticcauseofALSandFTD;regulatesautophagyand Nassifetal.,2017)
+lysosomalhomeostasisthroughinteractionswithSMCR8,ULK1
+andRab-GTPases
+ERBB2 Breastcancer AmplificationofERBB2andconsequentoverexpressionof (Vega-Rubı´n-de-Celisetal.,2018)
+ERBB2(HER2)interactswithBeclin1andinhibitsautophagy
+GPR65 Inflammatoryboweldisease(IBD) GPR65I231Lriskvariantofthisproton-sensingGprotein- (Lassenetal.,2016)
+coupledreceptorimpairslysosomalacidification,decreases
+intracellularbacterialclearance,andalterslipiddropletturnover
+(Continuedonnextpage)
+Cell176,January10,2019
+15
+
+---PAGE BREAK---
+
+Table1. Continued
+Gene Disease Mechanism References
+HTT(Huntingtin) Huntington’sdisease PolyQextensioninHTTcompetitivelydisruptsinteraction (Ashkenazietal.,2017)
+betweenthedeubiquitinaseataxin3andBeclin1,leadingto
+enhancedBeclin1proteasomaldegradationandreduced
+autophagy
+IRGM Non-alcoholicfattyliverdisease IRGMfunctionsinassemblyandactivationofautophagy (Chauhanetal.,2016b;Jiangand
+(NAFLD);CD;tuberculosis machinery;asynonymousvariantreducesproteinexpression, Mizushima,2014;Linetal.,2016)
+leadingtoreducedautophagyandlipophagyinNAFLD;
+polymorphismsareassociatedwithriskofCDandtuberculosis
+LRRK2 CD;PD RiskallelesforCDandPDincreasekinaseactivityofleucine-rich (Cooperetal.,2012;Huietal.,2018)
+repeatkinase2andreduceautophagicflux;aprotectiveallele
+increasesflux
+MeCP2 Rettsyndrome(X-linkedneuro- Deficiencyofmethyl-CpG-bindingprotein-2(MeCP2),a (Sbardellaetal.,2017)
+developmentaldisorder) transcriptionalregulator,resultsindefectiveautophagyinpatient
+fibroblastsandknockoutmousecerebellumandmitochondrial
+retentioninerythrocytes
+MTMR3 IBD MMTRisaPI3Pphosphatasethatdecreasesautophagy. (Lahirietal.,2015)
+Macrophagesfromcarriersoftheriskalleleexpresshigher
+MTMR3proteinlevelsandhaveincreasedpathogenrecognition
+receptor-inducedcaspase-1activationandIL-1bsecretion
+PLEKHM1 Osteopetrosis Disease-associatedmutantsimpairbindingtoRAB7Aand (StenbeckandCoxon,2014)
+secretorylysosometraffickinginosteoclasts
+RAB7A Charcot-Marie-Toothtype2B Disease-associatedRAB7Amutantsreduceautophagicfluxin (Colecchiaetal.,2018)
+disease HeLacellsandpatient-derivedfibroblastsareautophagydeficient
+PS1 Alzheimer’sdisease Mutationsinpresenilin1thatdisruptv-ATPaseassembly, (Leeetal.,2010)
+lysosomalacidification,andautophagycauseearly-onset
+Alzheimer’sdisease
+PTPN2 IBD;type1diabetes;juvenile Disease-associatedSNPinPTPN2,ageneencodingprotein (Scharletal.,2012)
+arthritis tyrosinephosphatasenon-receptortype2causesimpaired
+autophagosomeformationanddefectivebacterialhandlingin
+macrophagesandintestinalepithelialcells
+SMS Snyder-Robinsonsyndrome(SRS) Loss-of-functionmutationsinsperminesynthase(SMS)cause (Lietal.,2017a)
+SRS,anX-linkedintellectualdisabilitysyndrome;deficiencyin
+SMSgeneratestoxicmetabolitesthatimpairlysosomalfunction
+andautophagicflux
+TMEM230 Parkinson’sdisease Transmembraneproteininvolvedinretromerfunction;loss (Kimetal.,2017)
+reducesautophagiccargodegradationandsecretoryautophagy
+v-ATPase Autosomalrecessiveosteoporosis Mutationsinthea3subunitencodedbyTCIRG1impairlysosomal (Ochotnyetal.,2013)
+acidificationattheruffledborderofosteoclasts,leadingtodefects
+inboneresorption
+WASP Wiskott-Aldrichsyndrome Deficiencyoftheactincytoskeleton-regulatoryWASPprotein (Leeetal.,2017b)
+impairsformationofautophagosomes,resultingindeficient
+xenophagyandexcessiveinflammasomeactivationand
+pyroptosis
+(Continuedonnextpage)
+16
+Cell176,January10,2019
+
+---PAGE BREAK---
+
+Table1. Continued
+Gene Disease Mechanism References
+MutationsinGenesRequiredforCargoDeliveryinSelectiveAutophagy
+ALFY Primarymicrocephaly Dominantmutationinthisautophagyscaffoldproteincauses (Kadiretal.,2016)
+humanmicrocephaly
+CALCOCO2(NDP52) CD Missensemutationofthisautophagyadaptorreducesitsfunction (Ellinghausetal.,2013)
+andenhancesNF-kBactivationofinflammatorygenes
+FAM134B Hereditarysensoryandautonomic MutationsdisrupttheinteractionofthisERproteinwithLC3and (Khaminetsetal.,2015)
+neuropathytypeII GABARPtoimpairER-phagy
+FANCgenes Fanconianemia(FA)congenital FApathwaygenesrequiredforclearingdamagedmitochondria (Sumpteretal.,2016)
+syndrome;hereditarybreastand (mitophagy)andpreventingaberrantinflammasomeactivation
+ovariancancer;sporadiccancers
+OPTN1 Amyotrophiclateralsclerosis(ALS); MutationsinALSreduceinteractionofthisautophagyadaptor (Lietal.,2016;Shimetal.,2016;
+primaryopenangleglaucoma withTBK1andreduceParkin-dependentmitophagy;mutationsin Silvaetal.,2018;(Wongand
+(POAG);Paget’sdiseaseofthe POAGincreaseinteractionwithTBK1,activateBax-dependent Holzbaur,2014)
+bone(PGD) apoptosis,andareassociatedwithmitochondrialdysfunction.
+TruncatedproteinmutationassociatedwithPGD
+PARK2/Parkin Autosomalrecessiveandsporadic ParkinisanE3ligasethatfunctionsinmitophagyandxenophagy; (Kitadaetal.,1998;Miraetal.,
+early-onsetPD;colon,lung,and mutationsareassociatedwithPDandcancerrisk; 2004;Xuetal.,2014)
+braincancer polymorphismsassociatedwithincreasedsusceptibilityto
+intracellularbacterialinfections
+PARK6/PINK1 Autosomalrecessiveandsporadic PINK1isaserine-threoninekinasethattranslocatestotheouter (JiangandMizushima,2014)
+early-onsetPD mitochondrialmembraneupondamage,mediatingParkin
+recruitmentandmitophagy
+PEX13 Zellwegersyndromespectrum Disease-associatedmutationsimpairmitophagy,andpatients (Leeetal.,2017a)
+disorders withmutationshaveaccumulationofabnormalmitochondria
+SQSTM1(p62) ALS;FTD;PGD;distalmyopathy SQSTM1isanautophagyadaptorthatbindsubiquitinandLC3; (Goodeetal.,2014;Leeetal.,
+mutationsintheubiquitin-bindingassociationdomainresultin 2018)
+aspectrumofmultisystemproteinopathies
+SMURF1 Ulcerativecolitis SMURF1,asusceptibilitygeneforulcerativecolitis,encodesan (Francoetal.,2017)
+E3ligasethatfunctionsinmitophagy,virophagy,andxenophagy
+ofintracellularbacteria
+TBK1 ALS;frontotemporaldementia; TBK1kinasephosphorylatestheautophagyreceptorOPTN1, (Cirullietal.,2015;vanBeeketal.,
+otherneurodegenerativephenotypes; increasingitsinteractionwithATG8proteinsand 2018)
+POAG polyubiquitinatedproteins
+TRIM20 FamilialMediterraneanfever Disease-associatedTRIM20mutantsfailtointeractwith (Kimuraetal.,2015)
+inflammasomecomponentsandtargetthemforautophagic
+destruction
+VPS13D Ataxiawithspasticity Recessivelyinheriteddefectsinthisubiquitin-bindingprotein (Seongetal.,2018)
+causefailureinmitophagyandmitochondrialdysfunction
+Cell176,January10,2019
+17
+
+---PAGE BREAK---
+
+biogenesis, the fusion machinery, and determinants of lyso- thetwopathwaysutilizeoverlappinggeneticmachinery,acrit-
+somalfunctioninoureffortstodecipherhowdeficientautophagy icaldistinctionrendersthemantagonistic.Specifically,Rubicon
+leadstodiseaseandhowautophagycanberegulatedtoprevent is required for LAP but suppresses autophagy, and recent
+ortreatdisease. studiesconfirmamutuallyinhibitory relationshipbetweenLAP
+BeyondSelf-Eating:AutophagyGenesFunctionin andautophagyinphotoreceptordegradationinRPEcells(Mu-
+Phagocytosis niz-Felicianoetal.,2017).Itisnotclearwhythesetwopathways
+Several core ATG genes function in a process that shares arecounter-regulated;possibly,cellsmayneedtoshutoffthe
+some similarities with autophagy but involves digestion of un- alternativepathwayduringstresstoavoidcompetitionforover-
+wanted extracellular (rather than intracellular) material. During lapping resources (Muniz-Feliciano et al., 2017). At a mecha-
+this process, termed LC3-associated phagocytosis (LAP), sin- nistic level, it is uncertain how Rubicon functions to promote
+gle-membraned macroendocytic vacuoles (macropinosomes, Beclin 1/VPS34 kinase activity at the phagosome (Martinez
+phagosomes, and entotic vacuoles) engulf extracellular cargo et al., 2015) but inhibit it at other organellar sites (Matsunaga
+(suchasbacteria,dead cells,orlivecells),become decorated etal.,2009).Interestingly,theWDrepeat-containingC-terminal
+bylipidatedLC3,andaredirectedtothelysosomefordegrada- domainofATG16L1isessentialforLC3recruitmenttoendolyso-
+tion(CadwellandDebnath,2018;Heckmannetal.,2017).LAPis somal membranes in LAP but dispensable for canonical auto-
+distinguishedfromautophagybyfourmainfeatures:(1)theorigin phagy (Fletcher et al., 2018), illustrating another difference in
+ofthevacuolarcontents(extracellularversusintracellular),(2)the themolecularrolesofanATGproteininautophagyandLAP.
+requirementofcargoengagementofanextracellularreceptorfor ThegeneticoverlapandmutualantagonismofLAPandauto-
+activation,(3)thetypeofmembranethatfuseswiththelysosome phagyhavepracticalimplicationsforautophagy-targetedthera-
+(singlemembraneversusdoublemembrane),and(4)theutiliza- pies.Theoretically,specificityinautophagyinductionmightbe
+tionofasubsetversusallthecoreATGproteins.LAPrequires enhanced by activating the ULK1 complex rather than down-
+NADPH-oxidase (NOX2) to generate reactive oxygen species stream shared nodes in autophagy and LAP (although the
+(ROS), certain components of the Beclin 1/VPS34 complexes, ULK1kinasecomplexmayhavesubstratesoutsideofautoph-
+PI3P generation, LC3-conjugation to the single membrane of agy).TheappealoftargetingRubicon—anegativeregulatorof
+the phagosome, and all components of the LC3 conjugation autophagywhoseknockoutinmicehasbeneficialeffects(e.g.,
+machinery (Martinez et al., 2011, 2015; Sanjuan et al., 2007). improved high-fat-diet-induced hepatic steatosis [Tanaka
+However,itdoesnotrequireothercoreATGproteins,suchas et al., 2016] and increased cardiac protection during lipopoly-
+components of the ULK1 complex or the autophagy-specific saccharide-inducedsepsis[Zietal.,2015])—maybetempered
+Beclin1/VPS34complexcomponent,ATG14.Somewhatenig- bypotentialadverseeffectsofLAPinhibition,suchasincreased
+matically, LAP requires Rubicon, an inhibitory component of susceptibility to fungal diseases and autoimmunity. Further-
+theautophagy-specificBeclin1/VPS34complex.Thepreciseef- more,treatmentsthattargetsharedATGproteinsmayresultin
+fectsofLC3decorationofphagosomesontheirfusionwithlyso- unpredictable effects on each pathway, assuming that these
+somesandonlysosomalfunctionareunknown.Thepresenceof proteins are rate-limiting and that the two pathways compete
+LC3onphagosomesmayenhanceefficiencyofphagolysosomal foraccesstothesesharedcoreATGproteins.
+maturation,perhapsthroughamechanismsimilartothatofLC3/ TheidentificationofLAPasalysosomaldegradationpathway
+GABARAPfamilymembersinautophagolysosomalmaturation. that utilizes certain core ATG genes requires us to adopt a
+LAPwasoriginallydescribedinmurinemacrophagesduring wider interpretative lens for studies of mice with deletions of
+phagocytosisofparticlesthatengageToll-likereceptors(TLRs) these genes. Does deficient LAP versus deficient autophagy
+(Sanjuan et al., 2007) and is involved in type I interferon (IFN) contributetopathologicalphenotypesinmicewithwhole-body
+secretion in response to DNA immune complexes and other ortissue-specific deficiency of genes such asbeclin 1, ATG5,
+TLR9ligands(Hayashietal.,2018;Henaultetal.,2012).Physio- ATG7,orATG16L1?Towhatextentdoesincreasedautophagy
+logically important functions of LAP have been identified by versusdecreasedLAPcontributetoRubiconknockoutpheno-
+comparing phenotypes of mice with myeloid-specific deletion types? Do the genome-wide association study links between
+ofLAP-specificgenes(e.g.,RubiconorNOX2)andautophagy- polymorphismsinsomeofthesegenesanddiseasesthatinvolve
+specificATGgenes(e.g.,FIP200orAtg14).LAPisrequiredfor disorderedimmuneregulation(suchasasthma,SLE,andinflam-
+degradationofphotoreceptoroutersegmentsbyretinalpigment matory bowel disease) (see Table 1) suggest a role for altered
+epithelium (RPE), a process necessary for intact vision (Kim LAPintheirpathogenesis?Theobservationthatadeficiencyof
+et al., 2013b). LAP is induced by the fungus A. fumigatus and LAP-associated(butnotofnon-LAP-associated)ATGgenesre-
+the intracellular bacterium L. monocytogenes and enhances sultsinaSLE-likesyndromeinmice(Martinezetal.,2016)under-
+host defense against these pathogens (Gluschko et al., 2018; scores the importance of this question. Specific molecular
+Martinezetal.,2015).Micelackingseveralcomponentsofthe markers to distinguish LAP from autophagy in both animal
+LAPpathwaydevelopanautoimmunesystemiclupuserythema- modelsandhumandiseaseareneeded.
+tosus (SLE)-like disease, perhaps due to adefectin the clear- BeyondLysosomalDegradation:AutophagyGenes
+ance of dying cells that triggers enhanced proinflammatory FunctioninSecretionandExocytosis
+signalingandautoantibodyproduction(Martinezetal.,2016). ATGgenesareusednotonlyfortargetingintracellularcargoto
+Giventhecrucialrolesofreceptor-activatedphagocytosisin thelysosomefordegradationbutalsoforpathwaysthatinvolve
+humanphysiology,itislikelythatLAP,likeclassicalautophagy, the targeting of intracellular cargo to either the plasma mem-
+will emerge as animportant pathway in human disease. While brane or extracellular environment (Figure 1). Generally, these
+18 Cell176,January10,2019
+
+---PAGE BREAK---
+
+pathwayshavebeengroupedundertheumbrellaterm‘‘secre- chineryinsecretorygranuleexocytosis(Cadwelletal.,2008).In
+toryautophagy’’;however,asthe‘‘phagy’’partismissingfrom mice,hypomorphicexpressionofAtg16l1,Atg16l1T300Aknockin
+the process, we prefer the more linguistically precise term of mutation;Panethcell-specificdeletionofAtg16l1,Atg5,orAtg7;
+ATGgene-dependentsecretion.Therearemanydifferenttypes or whole-body deletion of Atg4b results in abnormal granule
+ofATGgene-dependentsecretion (reviewedelsewherefroma morphology and a defect in granule exocytosis and lysozyme
+cellbiologyperspective[CadwellandDebnath,2018]),butthe secretionbyPanethcells(Beletal.,2017;Cabreraetal.,2013;
+mechanismsgoverningmostoftheseprocessesarenotwellun- Cadwell et al., 2008; Lassen et al., 2014), a specialized ileal
+derstood.Here,wefocusonthesepathwaysastheymayrelate epithelial cell type that controls the intestinal microbiota by
+tomammalianphysiologyanddisease. secretinglysozymeandantimicrobialpeptides.Similardefects
+Unconventionalsecretioninvolvestheextracellularreleaseof in Paneth cell morphology are observed in patients with (but
+proteins that lack amino-terminal signal peptide leader se- notthosewithout)theATG16L1T300ACrohn’sdiseaseriskallele
+quences and bypass ‘‘conventional’’ transit through the endo- (Cadwelletal.,2008).Theprecisemembrane-traffickingmecha-
+plasmic-reticulum (ER)-Golgi apparatus to reach the plasma nismsbywhichATGproteinsfacilitatesecretorygranuleexocy-
+membrane. A role for ATG proteins (Atg1/5/6/7/8/9/12/17) in tosisinPanethcellsorothercelltypesremainunknown.Howev-
+thisprocesswasfirstdiscoveredinyeastsecretionoftheacyl- er, a recent study indicates that lysozyme is localized in large
+CoA-binding protein, Acb1 (Duran et al., 2010; Manjithaya LC3-positive vesicles in Paneth cells from wild-type but not
+et al., 2010). In mammalian cells, unconventional secretion of Atg16l1T300A mice (Bel et al., 2017). Thus, in a manner similar
+leaderlessproteins,suchasthepro-inflammatorycytokinespro- toautophagosome-likevesiclesinvolvedinunconventionalpro-
+cessedbytheinflammasome,IL-1bandIL-18,alsorequirethe teinsecretion,secretorygranulesmaybeearmarkedforexocy-
+autophagy protein, ATG5 (Dupont et al., 2011). The precise tosisbythepresenceofLC3ontheirsurface.
+mechanisms underlying ATG gene-dependent unconventional A related, but topologically distinct, linkbetween autophagy
+secretion remain unclear. It is not certain whether targets are and secretory lysosome exocytosis was uncovered in another
+captured in an autophagosomal lumen (Dupont et al., 2011) specialized type of secretory cell, the osteoclast. Osteoclasts
+and/ortheintermembranespacebetweenthedoublemembrane resorbbonebyamechanismthatinvolvessecretorylysosome
+oftheautophagosome(Zhangetal.,2015b),norisitcertainhow fusion with bone-apposed plasma membrane composed of
+targets are delivered to and released from the plasma mem- ruffled borders, with the discharge of matrix-degrading mole-
+brane. Autophagosome-like vesicles containing IL-1b bypass culesintothesiteofostealdegradation.Inmice,theATGprotein
+syntaxin17-dependentfusionwithlysosomesandinsteaduse conjugationmachineryandtheRabGTPase,Rab7,areessential
+specific SNAREs and syntaxins involved in vesicle fusion with for generating an LC3-labeled ruffled border, cathepsin K
+theplasmamembraneforcargosecretion(Kimuraetal.,2017). release,andnormalboneresorption(DeSelmetal.,2011),thus
+AfunctionofATGgenesinsecretionofpro-inflammatoryme- indicatingaroleforATGgenesinmediatingpolarizedsecretion
+diators(andmorebroadly,otherleaderlessproteins)couldhave oflysosomalcontentstotheextracellularspace.Inthisscenario,
+vastimportanceforinflammatorydisordersandawiderangeof theplasmamembrane,notthesecretorylysosome,islabeledby
+other diseases. However, it is currently difficult to assess the LC3. Thus, during secretion, the ATG protein conjugation ma-
+physiologicalimportance ofATGgene-dependent secretion of chineryandresultinglipidatedLC3canfunctioneitherinthefor-
+IL-1bandIL-18invivo,asmacrophage(orhematopoieticcell)- mationofnormalsecretorygranulesthatproperlyfusewiththe
+specificdeletionofAtg5,Atg16l1,andAtg7inmiceisassociated plasma membrane or in the creation of a specialized plasma
+withincreased,ratherthandecreased,levelsofIL-1bandIL-18 membranethatfuseswithsecretorylysosomes.
+production (Kimmey et al., 2015; Martinez et al., 2016; Saitoh ThepredictedclinicaloutcomeofdefectsinATGgene-depen-
+etal.,2008).ThesefindingsmayreflectbasalfunctionsofATG dent osteoclast functions would be osteopetrosis, a disease
+genes in the negative control of inflammasome activation markedbyabnormallydensebone.Consistentwiththispredic-
+(Zhouetal.,2011),whereastheATGgene-dependentsecretion tion,mutationsinPLEKHM1,aRab7effector,andthev-ATPase
+ofpro-inflammatorymediatorsmaybeunmaskedduringcertain a3subunitinvolvedinlysosomalacidificationareeachassoci-
+stressconditions,suchasinflammasomeactivationtriggeredby ated with osteopetrosis in patients (Stenbeck and Coxon,
+lysosomalmembranedamage(Kimuraetal.,2017).Thepossibil- 2014). In contrast, aging, which is associated with reduced
+ity of an autophagy-dependent secretome in vivo warrants autophagyinmostcelltypes(Hansenetal.,2018),isaccompa-
+furtherinvestigationandmayleadtotheidentificationofproteo- niedbyosteopeniaandosteoporosisinmiceandhumans.This
+micsignaturesofautophagyactivationasclinicallyusefulserum mayreflecttherolesofATGgenesinothercelltypesinthebone
+biomarkers. Theoretically, autophagy-inducing therapies might thatfavorbonegrowthandnormalbonedensity,includingpro-
+lead to untoward effects via the unconventional secretion of tectionagainstERandoxidativestressinosteoblastsandoste-
+pro-inflammatorymediatorsorotherpathogenicproteins. ocytes(Lietal.,2018b;Liuetal.,2013a;Onaletal.,2013)and
+Perhapsthebest-establishedlinkbetweenATGgene-depen- maintenance of the proper function of bone mesenchymal
+dentsecretionandmammalianphysiologyanddiseaserelatesto stemcells(Maetal.,2018).Thus,studiesinbonerepresentan
+the exocytosis of secretory granules and lysosomes. Notably, elegant example of how the autophagic machinery can exert
+humangenome-wideassociationstudiesthatrevealedapoly- differentspecializedfunctionsindistinctcelltypeswithinagiven
+morphisminacoreATGgene,ATG16L1T300A,asamajorrisk organ—functionsthatmayhaveoppositeeffects(suchasbone
+alleleforCrohn’sdisease(Barrettetal.,2008)spurredthedis- resorption and bone formation)—to orchestrate overall tis-
+coveryofafundamentalrolefortheATGproteinconjugationma- sue homeostasis. As osteopenia/osteoporosis and associated
+Cell176,January10,2019 19
+
+---PAGE BREAK---
+
+skeletalfracturesareamajorcauseofmorbidityandmortalityin addition,affectthecell-surfacelocalizationofotheras-yet-un-
+aginghumans,thisareawarrantsfurtherinvestigationasapo- identifiedreceptors.
+tentialclinicaltargetforautophagyupregulation. AutophagyGenesinOtherDynamicMembraneEvents
+Numerous other defects in protein secretion in ATG gene Non-autophagic functions of ATG genes in membrane traf-
+knockout mice have been described, although it is unclear fickingmodulatetheinfectionofhostcellsbyviruses,bacteria,
+whethertheyreflectadirectroleforATGgenesinautophagy-in- and other pathogens. These include processes described
+dependent trafficking or more indirect consequences of auto- abovesuchasLAP(whichmaybepartiallyantagonizedbyviru-
+phagydeficiencyonsecretoryprocesses.Theseincludedefects lent micro-organisms that enter professional phagocytes) and
+in the assembly and secretion of octogonial core proteins, LC3-regulated exocytosis (which is involved in the egress of
+which lead to abnormalities in vestibular development (Marin˜o viruses that either reside inside autophagosomes or whose
+et al., 2010) and defects in pancreatic b cell insulin granule envelopes become decorated with LC3) (reviewed in Cadwell
+morphologyandsecretion(WatadaandFujitani,2015),melano- and Debnath [2018]). Many additional ATG gene-dependent
+genesis and pigmentation (Ganesan et al., 2008), and mucus membrane reorganization events—or interference with such
+secretion of airway epithelial cells and intestinal goblet cells events—also regulate infection. For example, several ATG
+(Pateletal.,2013). genesarerequiredfortheformationofintracytoplasmicmem-
+AccumulatingevidencesuggeststhatATGproteinsalsohave brane-associated replication factories of certain medically
+pleiotropiceffectsonthecellularreleaseofexosomes,aprocess important RNA viruses, such as hepatitis C virus (Dreux etal.,
+thatismediatedbyfusionofthemultivesicularbody(MVB)with 2009). Similarly, the formation of multi-membranous vacuoles
+theplasmamembrane(Baixaulietal.,2014;HessvikandLlor- that support replication of the bacterium Brucella abortus in-
+ente, 2018). Autophagy induction can prevent—whereas ATG volves ATG genes required for class III PI3K activity but not
+gene silencing or pharmacological inhibition can increase— those required for LC3 conjugation (Starr et al., 2012). In
+extracellular release of exosomes, including those containing contrast,IFN-ginhibitsToxoplasmagondiireplicationbyapro-
+pathogenic protein cargoes, such as a-synuclein (Fussi et al., cessinvolvingLC3/GABARAPlipidationandrecruitmentofIFN-
+2018),prions(Abdulrahmanetal.,2018),andamyloidprecursor g-inducible GTPases to the parasitophorous vacuole, where
+protein(Mirandaetal.,2018).Thisregulatorymechanismispre- theydisruptthe membraneand destroy theparasite’s replica-
+sumedtoinvolveMVBfusionwithautophagosomes,therebydi- tiveniche(Choietal.,2014).Similarly,IFN-gmediatedcontrol
+verting MVB transport away from the plasma membrane. ofmurinenorovirus(amodelforhumanepidemicsofgastroen-
+Increasedexosomereleaseinthesettingofimpairedautophagy teritis) involves labeling membrane-associated viral-replication
+mayfunctionasanalternativequality-controlpathwaytomain- complexes withlipidatedLC3andrecruitment ofIFN-g-induc-
+taincellularhomeostasisandpreventcelldeathduetoproteotox- ible GTPases (Biering et al., 2017). Thus, marking replication-
+icity.However,therearealsoexamplesinwhichATGgenesstim- associated membrane structures by LC3 conjugation may
+ulateexosomeproduction.Atg5,butnotAtg7,hasbeenshown represent a conserved mechanism underlying IFN-g-mediated
+to decrease late endosome acidification by disrupting the controlofintracellularpathogenreplication.Furtherunderstand-
+v-ATPase,therebypromotingtheproductionofexosomesthat ingofthepreciseprocessesbywhichdifferentsubsetsofATG
+enhance tumor metastasis (Guo et al., 2017). Similarly, the proteins provide or destroy host membranes necessary for
+ATG3-ATG12conjugate,whichisrequiredforLC3lipidationdur- differentstagesofpathogenreplicationmayleadtothedevel-
+ingbasal(butnotstarvation)conditions,interactswiththeESCRT opmentofnewanti-infectivestrategies.
+protein Alix and positively controls Alix-dependent exosome BeyondMembraneTrafficking:AutophagyProteins
+biogenesis(Murrowetal.,2015).Giventheexpandingrepertoire HaveOtherFunctions
+of exosome-dependent processes (including neurodegenera- Theautophagyproteinsnotonlyhelporchestratethecrosstalk
+tion,immunesignaling,metabolism,tumormetastasis,andviral ofdiversevesiculartraffickingpathwaysbutalsointerfacewith
+infection), the effects of the autophagic machinery on the fate multiple other cellular pathways, including (but not limited to)
+oftheMVB—lysosomaldegradationorexocytosis—maypartly cell-death pathways, cell-cycle regulation, and innate immune
+underliethepathophysiologicaleffectsofATGgenemutation. signaling. The interaction of FIP200 with Atg13 is essential for
+TheATGmachinerymodulatesretromerfunctiontocontrolthe autophagy in vivo and neonatal survival in mice, but the non-
+endosome-to-cell-surfacerecyclingpathway(Royetal.,2017). autophagic function is sufficient to maintain embryogenesis
+During metabolic stress (e.g., glucose withdrawal, hypoxia, through a mechanism involving protection against TNFa-in-
+Rastransformation),LC3onautophagicstructuresbindstothe ducedapoptosis(Chenetal.,2016).Atg7,independentlyofits
+RabGAPproteinTBC1D5tosequesteritawayfromaninhibitory E1-likeenzymaticactivityandfunctioninautophagy,regulates
+interactionwiththeretromercomplex.Thissequestrationallows p53-dependent cell-cycle arrest and apoptosis, and the
+retromerstoassociatewithendosomalmembranesandmediate neonatallethalityofAtg7knockoutmiceispartiallyrescuedby
+plasma membrane translocation of the glucose transporter, inhibitionoftheDNAdamageresponsethroughdeletionofthe
+GLUT1, a facilitator of glucose uptake. GLUT1 is required for protein kinase Chk2 (Lee et al., 2012). In mice, deletion of
+thelowlevelsofbasalglucoseuptakerequiredtosustaincellular Atg9a,butnotAtg5,resultsinadefectinnecrosisatthebone
+respiration, and its plasma membrane localization normally in- surfaceduring developmental morphogenesis (Imagawaet al.,
+creaseswhencellsareexposedtolowglucose.Perturbationin 2016). The precise mechanisms underlying these (and addi-
+ATGproteinconjugationmaysignificantlycripplethismetabolic tional) functions of individual ATG proteins in cell death and
+homeostatic mechanism involving GLUT1 trafficking and, in cell-cycleregulationarenotwellunderstood.
+20 Cell176,January10,2019
+
+---PAGE BREAK---
+
+ATG proteins regulate inflammatory and immune signaling signalingmolecules.Moreover,selectiveautophagycantarget
+both through autophagy-dependent mechanisms (such as by pathogens that reside inside vacuoles or directly inside the
+theautophagicremovalofdamagedmitochondriathatproduce cytosolforlysosomaldegradation.Oncecaptured,cargodegra-
+ROSandactivateRIG-IsignalingandtheNLRP3inflammasome) dationproceedsthrougharoutethatinvolvesthesamemolecu-
+andautophagy-independentmechanismsthatgenerallyinvolve lar machinery as bulk autophagy. Different forms of selective
+ATGproteininteractionswithimmune-signalingmolecules.For autophagy are often named by a term comprising a prefix
+example,theATG5-ATG12conjugateinhibitstypeIIFNsignaling derived fromthe cargo(e.g.,mito-, ER-,ribo-, nucleo-, pexo-,
+inresponsetoviralinfectionbybindingtotheCARDs(caspase lipo-)andthesuffix‘‘phagy.’’Forselectiveautophagyofmicro-
+activation and recruitment domains) of RNA-recognition mole- bialinvaders,thetermxenophagyiscommonlyused.
+cules such as RIG-I and MAVs (Jounai et al., 2007). Similarly, Majoradvanceshavebeenmadeinunderstandingcertainas-
+the cytosolic DNA-sensing innate immunity pathway mediated pectsofselectiveautophagy,particularlyhowcargobindstothe
+bycGAS(cyclicGMP-AMP[cGAMP]synthase)andSTING(stim- forming phagophore (Figure 2). In most known instances, the
+ulator of interferon genes) is regulated by autophagy proteins. cargo either contains an identifiable LC3-interacting region or
+ThegenerationofcGAMPbycGASactivatesULK1,whichphos- LIR motif(W/F/Y x x L/I/V )thatdirectly binds LC3,oritmust
+1 2 3 4
+phorylates and inhibits STING-dependent cytokine production belabeledwithatagsuchasubiquitin,whichthenbindsadaptor
+(Konno et al., 2013). As unrestrained STING signaling (either proteinsthatcontainbothaubiquitin-bindingdomainandaLIR
+via inherited mutations in the ADAR (adenosine deaminase, motif,thusservingasabridgebetweenthecargoandtheLC3(or
+RNAspecific)andribonucleaseH2complexorgain-of-function GABARAPs)conjugatedtothephagophoremembrane.Alterna-
+mutationsinSTING)causeshumanautoinflammatorydiseases, tively,specificproteins(particularlythoseinvolvedintheinflam-
+ULK1activatingagentshavebeenproposedaspotentialtreat- masome or IFN signaling) can bind to TRIM (tripartite motif)
+ments for such disorders (Konno et al., 2018). Beclin 1 binds family members, which serve as adaptors that interact with
+cGAStosuppresscGAMPsynthesisandhaltinterferonproduc- GABARAPstotargetsuchproteinsforautophagicdegradation
+tion(Liangetal.,2014).Atg9amayalsofunctionasanegative (Kimuraetal.,2017).Ofnote,theproteinswerefertoas‘‘adap-
+regulatorofinnateimmunesignalingbydecreasingtheassembly tors’’areoftencalledautophagy‘‘receptors’’;however,asthese
+of STING and TBK1 in the presence of double-stranded DNA arebridgingmoleculesthatarenotintegralpartsofcellularmem-
+(Saitohetal.,2009).Ofnote,thesesameRNA-sensingandcyto- branesthatundergoligand-dependentactivation,thedesigna-
+solic DNA-sensing signaling pathways are activators of auto- tionas‘‘receptors’’canbeconfusing.
+phagy, which is itself an important innate immune effector Severallayersofcontrolareneededtoproperlydictatethetar-
+pathway(DereticandLevine,2018).Thus,ATGproteinsplaya geting of cargo for autophagy. In theory, cargo should be
+crucialroleinbothmediatinginnateimmunityandinproviding disposed of when it is constitutively harmful (e.g., intracellular
+feedbackinhibitiontofine-tuneinflammatorysignalingsoasto pathogens),potentiallydangeroustothecell(e.g.,mitochondrial
+avoiddeleteriousconsequences. damage),orobsoleteasaresultofcellulardifferentiation(e.g.,
+organellesduringerythrocytematuration).Inthescenariowhere
+TheSelectivityofAutophagy:AGuardianofCellular LC3directlybindstoaproteinonanorganellecontainingaLIR
+Homeostasis motif,theremustexistwaystohideorexposetheLIRmotifin
+Fornearlyhalfacentury,theprocessofmacroautophagywas aregulatedfashion.Twomechanismsidentifiedthusfarinclude
+believedtolackcargospecificity.Infact,themorphologicaliden- (1)stimulatoryandinhibitoryphosphorylationsofresiduesnear
+tificationofanautophagosomerequiredvisualizingthesimulta- orin the LIR motif (such asoccurs for the mitochondrial outer
+neous presence of diverse cytoplasmic contents, such as ER, membraneprotein,FUNDC1,thatmediateshypoxia-stimulated
+ribosomes,andmitochondriainsideadouble-membranedvacu- mitophagy[Lvetal.,2017])and(2)theexposureofanormally
+ole. However, a transformative body of work over the past hiddenLIRmotif(suchasoccurswhenproteasomal-dependent
+decadehasfullydispelledthisnotion.Wenowknowthatthere ruptureoftheoutermitochondrialmembraneexposestheinner
+canbeextremespecificityingoverningthechoiceofcargothat mitochondrialmembraneLC3-bindingprotein,prohibitin2[Wei
+isdegradedbytheautophagosomeandanintricatesystemfor et al., 2017]). Under circumstances where LC3 binds to an
+earmarkingandcapturingsuchcargo.Thisprocess,termedse- adaptorprotein,theremustexistwaystorecruittheadaptorto
+lective autophagy, may be more crucial in protection against the cargo destined for degradation. This process generally in-
+mostmammaliandiseasesthan‘‘bulkautophagy,’’whichispri- volvestheconcertedactionofE3ligasesthatubiquitinate tar-
+marilyahomeostaticmechanismduringnutrientstress. gets (e.g., Parkin, SMURF1), kinases that recruit E3 ligases
+Manypartsofthecellcanbe‘‘selected’’fordegradation by (e.g., PINK1) or that phosphorylate LIR domains of adaptors
+autophagy(Figure2;Table2).Numerousstudieshavereported (e.g., TBK1),deubiquitinating enzymes(DUBs) thatcounterE3
+the selective autophagy of various organelles, including mito- ligase activity (e.g., USP30, USP15) (Gatica et al., 2018), and
+chondria,ER,peroxisomes,lipiddroplets,ribosomes,midbody acetylation/deacetylation of mitochondrial and ER target pro-
+rings,andthenucleus.Autophagyselectivelydegradesaggre- teins(Pengetal.,2018;Websteretal.,2013).
+gation-prone misfolded proteins such as those involved in the Allmechanismsforearmarkingcargomustbetightlycoordi-
+pathogenesisofcertainneurodegenerative,skeletalandcardiac nated with the formation of autophagosomes to ensure final
+muscle,andliverdiseases.Inaddition,itdegradestheindividual cargo disposal. Some potential nodes of coordination have
+proteinsthatserveasadaptorstobridgecargowiththenascent recently been described. Certain autophagy adaptors, most
+phagophore as well as specific inflammatory and immune notably the TRIM family proteins, bind not only substrate
+Cell176,January10,2019 21
+
+---PAGE BREAK---
+
+Figure2. ConceptualOverviewofSelectiveAutophagy
+ShownarethediversecargoesthataredegradedbyautophagyandthemajorknownmechanismsbywhichcargoareattachedtoLC3orGABARAPfamily
+membersonthephagophoremembrane.Alsolistedarecurrentlyknownorganelle-specificLC3/GABARAP-bindingproteins,tagsthatlabelcargodestinedfor
+selectiveautophagicdegradation,LC3/GABRAP-bindingadaptorproteins,andfactorsthatregulatetherecognitionofcargobyadaptorsorLC3/GABARAP.
+Organelle-specificLC3/GABARAP-bindingproteinsandLC3/GABARAP-bindingadaptorproteinsinteractwithLC3/GABARAPviaconservedW/F/YxxL/I/V
+motifs.SeeTable2forinformationaboutdifferenttypesofselectiveautophagyandtheirpossiblerolesinphysiologyanddisease.
+proteinsandLC3/GABARAPfamilymembersbutalsoassemble substrate recognition may play an active role in autophagy
+the ULK1 and class III PI3K complexes to initiate autophago- initiation.
+someformation(Kimuraetal.,2017).ULK1,a‘‘masterkinase’’ For selective autophagy targeting events that involve sub-
+that phosphorylates multiple sites on downstream core auto- strate ubiquitination, the precise mechanisms that dictate the
+phagy proteins, is recruited to and phosphorylates proteins choice between autophagic versus proteasomal degradation
+involved in selective autophagy, such as the LIR domain of areuncertain.Inyeast,substrateaggregationandoligmerization
+the mitochondrial membrane protein, FUNDC1 (Wu et al., oftheubiquitin-bindingproteinsmayfavorautophagicdegrada-
+2014). An organelle-specific LC3/GABARAP-binding protein, tion(Luetal.,2017).Thelysineresiduesusedforlinkageandthe
+theERmembraneproteinCCPG1,interactswithakeycompo- length and nature of the ubiquitin chains have also been pro-
+nent of the autophagy-initiating ULK1 complex, FIP200 (Smith posed to contribute to pathway selection (Gatica et al., 2018),
+etal.,2018).Thus,themachineryinvolvedinselectiveautophagy but definitive evidence is lacking. Moreover, despite elegant
+22 Cell176,January10,2019
+
+---PAGE BREAK---
+
+Table2. TypesofSelectiveAutophagyandPossibleRolesinPhysiologyandDisease
+Process(Cargo) PhysiologicalFunction PossiblePathologicalConsequencesofDefects References
+Proteins Proteostasis Aberrantsignaling/cellularfunctionsrelatedtoeffectsof (Kimuraetal.,2015;Latunde-Dada,
+increasedprotein(e.g.,p62/SQSTM1inflammatoryandpro- 2017;Liuetal.,2016;Moscatetal.,
+tumorigenicsignaling;autoinflammatorydisorderswithdefectsin 2016)
+TRIM-mediatedautophagyofinflammasomecomponents;
+abnormalironaccumulationandferroptosisintissueswith
+defectsinferritindegradation)
+Aggrephagy(protein Removalofmisfoldedaggregate-prone Enhancedaccumulationanddetrimentalconsequencesof (Gaticaetal.,2018;Uenoand
+aggregates) proteinslabeledbyubiquitin pathogenicproteinstargetedbythismechanism(e.g.,b-amyloid, Komatsu,2017)
+mutanthuntingtin,a-synuclein,mutanta1-antitrypsin)
+Mitophagy(mitochondria) Mitochondrialqualitycontroland Defectivemitophagymaycontributetoneurodegenerative (Drakeetal.,2017;Rojanskyetal.,
+homeostasis.Removalofdamaged diseases,aging,cancer,increasedROS-dependent 2016)
+mitochondria,paternalmitochondria inflammasomeactivation,andgenotoxicstress
+duringembryogenesis,andmitochondria
+duringerythrocytedifferentiation;
+piecemealdegradationforrespiratory
+chainturnover
+ER-phagy(endoplasmic ControlofERmorphology,turnover, Pathologicalconsequencesofdefectsnotdefined,but (Grumatietal.,2017;Khaminets
+reticulum) ERluminalproteostasis,andrecovery hypotheticalroleinpathologiesassociatedwithabnormalUPR etal.,2015;Pengetal.,2018;
+fromstress andERintraluminalproteostasis,includingpancreatitisand Smithetal.,2018)
+certainmetabolicdisordersandaggregopathies.MutationinER
+LC3/GABARAP-bindingproteinFAM134Bleadstohereditary
+neuropathyinpatients;lossofERLC3-bindingproteinCCPG1
+leadstoinjuryofexocrinepancreasinmice.DefectiveER-phagy
+inmice(duetoAT-1overexpression)leadstosegmentalprogeria
+withmultiplemetabolicandinflammatoryphenotypes
+Ribophagy(ribosomes) Requiredforsurvivalduringnutrient Notyetknownwhetherdefectsinpathwayoccurinvivo;ifso, (Wyantetal.,2018)
+starvation,providingsourceof wouldbepredictedtodisruptadaptiveresponsestostarvation
+nucleosidestocell
+Lysophagy(lysosomes) Preventscelldestructionandinflammation Defectspredictedtobeassociatedwithincreasedcytosol (Chauhanetal.,2016a;Maejima
+duetoleakageoflysosomalcontents invasionofpathogens,increasedlysosomalcelldeath,and etal.,2013;Yoshidaetal.,2017)
+whenlysosomalmembranesaredamaged inflammationaswellasdisruptionoflysosomalhomeostasis
+orruptured (latterpostulatedtoparticipateinneurodegeneration);lysosomal
+damageinautophagy-deficientmiceresultsinacutekidneyinjury
+Nucleophagy(entirenucleus) Nucleardestructionnecessaryfor Perturbationsmayoccurinpsoriasis,causingparakeratosis (Akinduroetal.,2016)
+terminaldifferentiationofkeratinocytes; (retentionofnucleiinstratumcorneumofepidermis)
+unknownwhetherrequiredfornuclear
+removalinredbloodcellsandlens
+fibercells
+Nuclearlamina PromotesRas-oncogene-induced AutophagicdegradationoflaminBproposedtobeamechanism (Douetal.,2015)
+senescence oftumorsuppression;defectsmaypromoteoncogenesisand
+phenotypesassociatedwithdecreasedcellularsenescence.
+(Continuedonnextpage)
+Cell176,January10,2019
+23
+
+---PAGE BREAK---
+
+Table2. Continued
+Process(Cargo) PhysiologicalFunction PossiblePathologicalConsequencesofDefects References
+Micronuclei Removalofmicronucleigenerated Defectsmaycontributetogenomicinstabilityassociatedwith (Bartschetal.,2017;Rello-Varona
+bymitoticaberration(andcytosolic autophagydeficiencyandpro-inflammatorysignalingviacGAS etal.,2012)
+DNAaggregatesthatresemble activation;neuroinflammatoryautoimmunedisorderAicardi-
+micronuclei) GoutieressyndromecausedbymutationofDNArepairenzyme
+RNaseH2,resultinginaccumulationofmicronuclei-likecytosolic
+DNAaggregates
+RetrotransposonRNA DegradationofRNAgranulescontaining Deficiencyresultsinincreasedretrotransposoninsertionsintothe (Guoetal.,2014)
+retrotransposonsmayfavorgenomic genome
+stability
+Midbodyrings Degradationofthemidbody,an Deficiencypredictedtoaltercellularfate;severalmutations (Kuoetal.,2011;Mandelletal.,
+organellethatcontainstheremnants affectingmidbodyproteinscauseprimaryencephalopathies, 2016)
+ofcelldivisionmachinery,mayregulate whichisalsoobservedwithgeneticallyinheritedsyndromes
+cellularfate associatedwithdefectsinautophagicflux
+Pexophagy(peroxisomes) Perixosomalqualitycontrol Defectsmaycontributetoneurodevelopmentaldisorders (CipollaandLodhi,2017)
+associatedwithmutationsingenesinvolvedinpexophagy,
+inflammation,agingandage-relateddiseases,diabetes,cancer,
+andneurodegenerativedisorders
+Lipophagy(lipiddroplets) Facilitatestransportoflipiddroplets Defectsarepostulatedtocontributetopathogenesisofmetabolic (Zechneretal.,2017;Zhangetal.,
+tolysosomesforcatabolismby syndrome,NAFLD,andalcoholicfattyliverdisease;however,role 2018b)
+lysosomalacidlipase;contributes ofdefectsinlipophagyversusgeneralautophagypathwayremain
+tolipidhomeostasis tobeelucidated
+Xenophagy(intracellular Removalofcytoplasmicbacteriaor Mutationsingenesrequiredforselectiveautophagyofpathogens (Francoetal.,2017;Mitchelland
+pathogens) virusesfunctionsincell-intrinsic resultinenhancedmicrobialvirulenceinmousemodelsof Isberg,2017;Sumpteretal.,2016)
+immunity tuberculosisandviralinfections
+24
+Cell176,January10,2019
+
+---PAGE BREAK---
+
+studiescharacterizingtheubiquitylomeofselectiveautophagy reading-defective mitochondrial DNA polymerase (PolG) that
+cargo(suchasmitochondriaandintracellularpathogens)(Gru- accumulate mitochondrialmutations(Pickrell etal.,2015).The
+matiandDikic,2018),theubiquitinsubstratesrequiredforauto- localizationofdiseaseindopaminergicneuronsmayberelated
+phagictargetingremainlargelyundefined. to increased mitochondrial stress in these cells as compared
+Selectiveautophagyseemstoinvolvemultipleconcurrenttar- tootherneuronalpopulationsinthebrain.Intriguingly,themotor
+getingmechanismsthatactinacooperative,potentiallyhierar- defect and neurodegeneration in Parkin null/mutator mice can
+chical and/or partially redundant manner to ensure proper be rescued by deletion of STING, a regulator of type I IFN re-
+removal of cargo.This ‘‘combinatorial design’’ may allow spe- sponsestocytosolicDNA(Sliteretal.,2018).Thus,aberrantin-
+cificcelltypestomorepreciselyregulatewhenandhowselec- flammatory signaling as a result of defects in mitophagy may
+tiveautophagyoccursforagivencargo.Thepartialredundancy contributetothepathogenesisofneurodegenerativediseasein
+also renders it more feasible to study loss-of-function pheno- patientswithParkinorPINK1mutations.
+typesofgenesrequiredforselectiveautophagybutdispensable Whilemost,ifnotall,formsofselectiveautophagyarelikelyto
+forbulkautophagy(ascomparedtothoserequiredforbulkauto- contributetonormalphysiologyandprotectionagainstdisease,
+phagy),astheyarelesslikelytobelethaltothecellororganism. mitophagyhasbeenthemostextensivelystudied.Mitophagyis
+Asselectiveautophagygenesarepartiallyredundant,thismay anessentialcomponentofmammaliandevelopmentalanddif-
+explainwhytheirloss-of-functionmutationseemstobebetter ferentiation processes, including elimination of paternal mito-
+toleratedinthehumanpopulationthanloss-of-functionmutation chondriafromthefertilizedegg(Rojanskyetal.,2016),removal
+ofcoreATGgenes. of mitochondria during red blood cell maturation (Sandoval
+Indeed,mutationsinmanyoftheknownmoleculesinvolvedin et al., 2008), and beige-to-white adipocyte differentiation (Lu
+selectiveautophagyareassociatedwithsusceptibilitytoavari- etal.,2018).InadditiontoParkinson’sandotherneurodegener-
+etyofhumandiseases(Table1).Mutationsinthegenesencod- ativediseases,defectivemitophagyisthoughttocontributeto
+ing the adaptor proteins p62/SQSTM and optineurin, the E3 organ-specific and systemic inflammatory diseases (Zhao
+ligaseParkin,andthekinasesPINK1andTBK1areamongthe et al., 2018), cancer development and/or progression (Drake
+mostcommoncausesoffamilialandearlyonsetneurodegener- et al., 2017), and potentially aging (Lo´pez-Otı´n et al., 2016).
+ative diseases, including Parkinson’s disease, frontotemporal Theremovalofdamagedmitochondriabymitophagymaintains
+dementia,andamyotrophiclateralsclerosis.Hereditarysensory normalcellularmetabolism,reducesmitochondrialgenerationof
+andautonomicneuropathytypeIIiscausedbymutationsinan ROSthattriggersinflammationandgenotoxicstress,andpre-
+ER-specific LC3-binding protein, FAM134B, required for ER- vents mitochondrial release of pro-apoptotic factors. Thus,
+phagy. Mutations in TRIM20 (also known as pyrin) that impair maintenanceofproper mitochondrial functionbymitophagyis
+its ability to target inflammasome components for autophagic crucialforcellularandorganismalhealth.Otherformsofselec-
+degradationresultinaninheritedautoinflammatorydisorder,fa- tiveautophagy(includingxenophagy)likelyoperateinamanner
+milialMediterraneanfever.Inflammatoryboweldisease-associ- analogoustomitophagyinthatthemechanismsbywhichthey
+ated genes encode proteins that function in multiple steps of regulate physiology and disease are a function of the normal
+autophagy, including the selective targeting of bacteria by the ‘‘duties’’oftheirsubstrateandtheensuingpathologicalconse-
+adaptorCALCOCO2/NDP52andtheE3ligaseSMURF1. quencesofabnormalsubstrateaccumulation(seeTable2).
+Thenumerouslinksbetweenmutationsinselectiveautophagy Ourexpandingknowledgeofthemechanismsandphysiolog-
+genesandhumandiseasesunderscorethelikelyphysiological icalfunctionsofselectiveautophagymayopenupnew—albeit
+importanceofdifferentformsofselectiveautophagy(Table2). unchartered—pathways fordrugdiscovery. Knockdown ofthe
+However, the precise mechanisms that connect genotype to mitochondrialdeubiquitinaseUSP30rescuesmitophagydefects
+phenotype remain largely undefined. For example, it is not anddiseaseinflieswithpathogenicmutationsinParkin(Bingol
+knownwhymutationsinParkinandPINK1areassociatedwith et al., 2014), suggesting a potential role for the inhibition of
+Parkinson’s disease whereas mutations in optineurin, TBK1, DUBsthattargetselectiveautophagyE3ligasesinthetreatment
+andp62/SQSTM1areassociatedwithamyotrophiclateralscle- ofParkinson’sandotherdiseases.Indeed,novelhighlyselective
+rosisandfrontotemporaldementia(Table1).Inadditiontopo- inhibitors of USP30 that accelerate mitophagy have recently
+tentialnon-cell-autonomouseffectsofmutationsinthesegenes been reported (Kluge et al., 2018). As phosphorylation of sub-
+in tissuesoutside of the brain, cell-type-specific differences in strates is also a common mechanism involved in selective
+variouspopulationsofneuronsandgliamayexistwithrespect autophagic targeting, it may be possible to activate specific
+to (1) dependency on subsets of selective autophagy genes, kinases to enhance selective autophagy. Potentially, it may
+(2)expressionandactivityofDUBsandothernegativefeedback also be possible to develop novel strategies to attach high-
+mechanismsthatregulateselectiveautophagy,and/or(3)levels affinity LIR domains selectively to harmful cargo so that they
+and types of stress that mandate different types of selective canbemoreefficientlycapturedbyanLC3-decoratednascent
+autophagyresponsestomaintainhomeostasis(e.g.,mitophagy autophagosome.
+orotherformsofselectiveautophagysuchasaggrephagythat
+are relevant to neurodegenerative diseases). Parkin knockout AutophagyRegulation:ANexusforTherapeutics?
+mice (unlike flies lacking Parkin) do not develop spontaneous Autophagy was originally studied in yeast and mammalian
+neurodegeneration,buttheydodevelopdopaminergicneuronal cells as a nutrient stress-response pathway. During the past
+degeneration (resembling that observed in human Parkinson’s decade, we have dramatically expanded our knowledge of
+disease) when crossed with ‘‘mutator’’ mice with a proof- autophagyregulation,particularlythespectrumofphysiological
+Cell176,January10,2019 25
+
+---PAGE BREAK---
+
+and pathophysiological stimuli that control autophagy, the The lysine acetylation/deacetylation of ATG proteins has
+mechanisms that regulate the activity of the core autophagy emergedasacentralnodeofautophagiccontrolregulatedby
+proteins (Grumati and Dikic, 2018), and the interconnectivity metabolicsensorsinvolvedinlipid,glucose,andproteinmeta-
+of autophagy with other cellular stress-response pathways bolism. Moreover, this control center may function indepen-
+(Kroemeretal.,2010).Theseconceptshavebeenreviewedelse- dentlyfrom,butintertwinedwith,AMPKandmTORC1(Marin˜o
+where; here, we highlight selected aspects relevant to physi- et al., 2014b; Su et al., 2017). During acute nutrient depletion,
+ologyanddisease. cellsundergoarapiddecreaseinlevelsofcytosolicacetylcoen-
+Post-translationalproteinmodificationssuchasphosphoryla- zymeA(AcCoA),whichleadstothedeacetylationofcellularpro-
+tion,ubiquitination,andacetylationplayacentralroleincoordi- teins (Marin˜o et al., 2014b). Sirtuin 1 (which is downstream of
+natingtheactivityofATGproteins.Inmostcases,theupstream AMPK)deacetylatesmultipleATGs(e.g.,ATG5,ATG7,ATG12,
+kinases/phosphatases,ubiquitinligases/DUBs,andacetyltrans- Beclin 1, VPS34, LC3) and thereby promotes autophagy, as
+ferasessimultaneouslymodifybothATGproteinsandproteins does reduced activity of the acetyl transferase EP300 (Madeo
+involved in other cellular stress-response pathways that are etal.,2014;Suetal.,2017).Hence,endogenous activatorsof
+co-regulatedwithautophagy.Asaresult,pharmacologicaltar- sirtuin 1 (e.g., nicotine adenine dinucleotide [NAD+]), endoge-
+geting of these enzymes will elicit broad-based modulation of nousinhibitorsofEP300(e.g.,spermidine,adietarypolyamine),
+multiple intertwined stress-response pathways. Depending on andreducedavailabilityofAcCoA(arate-limitingstepforEP300
+theenzymeanditssubstrates,suchnonspecifictargetingmay function)allstimulateautophagy(Madeoetal.,2014).
+beharmfulinsomeinstancesandusefulinothers. Compounds that act on these pathways, thereby mimicking
+One important example is the stimulation of AMPK, a low- theeffectsofcaloricrestriction(so-calledcaloricrestrictionmi-
+energy-sensing kinase activated by ATP depletion, which metics),areanactiveareaofinvestigation,andgeneticevidence
+phosphorylates multiple proteins to both stimulate catabolic suggeststhatautophagyisessentialfortheirbeneficialeffects
+pathways(includingautophagy)andrestrainanabolicpathways in vivo. Reservatrol, an indirect sirtuin 1 activator, requires
+(includingmTORC1signaling),therebyensuringlimitationofATP the autophagy machinery for its favorable effects on longevity
+consumptionandgenerationofnewATPviabreakdownofmeta- in nematodes (Morselli et al., 2010). Spermidine-induced
+bolicproducts(HerzigandShaw,2018).Inrecentyears,AMPK autophagyisrequiredforseveralofitsbeneficialhealtheffects
+hasbeenshowntonotonlyactivateautophagythroughinhibi- inmodelorganisms,includinglifespanextensioninflies,worms,
+tion of mTORC1 but also directly phosphorylate several ATG andmice;preventionofcardiacaginginmice;improvementin
+proteins, including ULK1, ATG9A, Beclin 1, and VPS34 (Egan neuronal function in aging flies; and preservation of myocyte
+etal.,2011;Kimetal.,2013a).Inaddition,AMPKpromotesmi- stemnessinmice(reviewedinMadeoetal.[2018]).Moreover,
+tophagythrougheffectsonULK1andstimulatesTFEB-depen- caloricrestrictionmimeticsimproveanti-tumorimmunesurveil-
+dentactivationoftheCLEAR(coordinatedlysosomalexpression lance and enhance chemotherapy responses in autophagy-
+andregulation)networkofgenesrequiredforautophagy(Herzig competent, but not autophagy-incompetent, mouse tumor
+andShaw,2018).Thispro-autophagicactivityofAMPKoccurs allografts(Pietrocolaetal.,2016).
+concurrentlywithitseffectsonmitochondrialhomeostasisand Overthepastdecade,thelysosome—anorganelletradition-
+onlipidandglucosemetabolism. allyviewed asthedownstream‘‘workhorse’’forautophagoso-
+AMPKactivationmayunderliethebeneficialeffectsofmetfor- malcargodegradation—hasbeenshowntoalsoplayacrucial
+min,adrugwidelyprescribedforthetreatmentofdiabetes(Her- role in the upstream regulation of autophagy (Napolitano and
+zig and Shaw, 2018). Metformin activates AMPK indirectly Ballabio, 2016; Shen and Mizushima, 2014). The nutrient-
+throughmitochondrialdepletionofATP,anddirectAMPKacti- sensing kinase complex mTORC1 detects both cytosolic and
+vators that yield effects similar to metformin are in preclinical intra-lysosomal amino acids through distinct mechanisms to
+development. The extent to which autophagy stimulation con- inhibit autophagy (Saxton and Sabatini, 2017). Amino acids
+tributestobeneficialeffectsofAMPKactivationinmiceorpa- (such as arginine) inside the lysosomal lumen are sensed by
+tientsisnotknown,butitseemslikelythatautophagyrepresents the amino acid transporter SLC38A9, which interacts with
+a critical part of an AMPK-activated hub that protects against the lysosomal v-ATPase/Rag/Ragulator complex to activate
+various metabolic diseases, including diabetes, obesity, and mTORC1.Thisbothrestrainsautophagyduringbaselinecondi-
+non-alcoholic fatty liver disorders as well as certain cancers tionsandprovidesfeedbackinhibitiontoterminateautophagic
+andaging-relatedphenotypes.InDrosophila,deficiencyofthe responses to acute nutrient depletion. mTORC1 activation in
+Beclin1ortholog(ATG6)impairstheabilityofmetformintopre- thefedstateand/orhyperactivation(asaresultofmutationsin
+vent intestinal stem cell aging (Na et al., 2018), and lifespan regulatorysignals)switchesthecelltoastateofanabolicgrowth
+extensionbyneuronalAMPKexpressionrequirestheflyULK1 and energy storage. Although essential for cell growth and
+ortholog,ATG1(Ulgheraitetal.,2014).Inmice,AMPKupregula- proper metabolic regulation, sustained mTORC1 activation
+tionofautophagyiscorrelatedwithimprovedfunctionofaging at the organismal level is associated with a variety of patho-
+musclestemcells(Whiteetal.,2018);additionally,muscle-spe- physiological consequences, including impaired neonatal glu-
+cific AMPK deficiency results in defective autophagy, fasting- ceoneogenesis and survival (Efeyan et al., 2013), accelerated
+inducedhypoglycemia,andaging-associatedmyopathy(Bujak age-related decline in pancreatic b cell function (Shigeyama
+etal.,2015).Inyeast,coreATGgenesarerequiredforAMPK- et al., 2008), late-onset muscle atrophy (Castets et al., 2013),
+mediated lipid droplet degradation and survival during acute alteredlipogenesisandadipogenesis(Leeetal.,2016),immune
+glucosedeprivation(Seoetal.,2017). suppression,epilepticseizuresandautistictraits,tumorigenesis,
+26 Cell176,January10,2019
+
+---PAGE BREAK---
+
+and aging (Saxton and Sabatini, 2017). While in some cases, cult-to-treat,primarydiseases(suchaslysosomalstoragedisor-
+impaired induction of autophagy has been documented in ders[LSDs])orareacquiredduringtheprogressionofdiseases
+mice with hyperactive mTORC1 signaling and is postulated to associated with the clearance of toxic aggregates progress
+contribute to pathological phenotypes (e.g., impaired neonatal (such as Huntington’s, Parkinson’s, and Alzheimer’s diseases
+gluconeogenesis, late-onset muscle atrophy), the precise role and tauopathies). In mice, TFEB overexpression ameliorates
+of autophagy inhibition in most diseases associated with several LSDs, neurodegenerative diseases, and a1-antitrypsin
+mTORC1signalingremainsunknown.Therehasbeensomein- deficiency, and it also promotes lipophagy, thereby reducing
+terestinusingUSFoodandDrugAdministration[FDA]-approved obesity and associated metabolic syndrome (Napolitano and
+mTOR inhibitors for the treatment of neurodegenerative disor- Ballabio,2016).ThemechanismsbywhichTFEBoverexpression
+dersthatmaybenefitfromautophagyinduction(Sarkar,2013). partiallycorrectslysosomalmalfunctioninLSDsarenotfullyun-
+However, the safety and efficacy of using mTOR inhibitors to derstoodbutmayinvolveinductionoflysosomalexocytosisfor
+induce therapeutic autophagy is uncertain, given the broad thesecretionofundigestedmaterial.
+range of essential catabolic functions regulated by mTORC1 One potential obstacle to strategies for enhancing TFEB
+alongwiththelackoffullspecificityofexistingagentstotarget familyactivityistheriskoftumorigenesisassociatedwithconsti-
+mTORC1ratherthanmTORC2(whichfunctionsprimarilyasan tutive activation (e.g., renal clear cell carcinoma with TFEB
+effectorofinsulin/PI3Ksignaling). and pancreatic cancer with MITF, TFE3, and TFEB) (Napoli-
+BothAMPKandmTORC1participate(inoppositedirections) tano and Ballabio, 2016). While MITF/TFE3/TFEB-dependent
+inasignalingaxisthatlinksautophagy,thelysosome,andthe autophagy-lysosomalactivationisthoughttosustainmetabolic
+transcription factor EB (TFEB) and related family members. reprogramminginpancreaticcancercellsbymaintainingintra-
+Duringtheacuteresponsetoautophagicstimuli,transcriptional cellular amino acid pools (Perera et al., 2015), further genetic
+activation is not required, as evidenced by the observation investigations are warranted to confirm that ATG genes are
+that enucleated cells (cytoplasts) undergo autophagy (Morselli involved in these effects. Moreover, enhanced activity of
+et al., 2011). However, sustained autophagy requires TFEB, a BRD4,atranscriptionalrepressorofautophagy,drivesanother
+transcription factor that (when inactive) binds to Ragulator at typeofcancer,NUTmidlinecarcinoma(Sakamakietal.,2017),
+thelysosomalmembrane,isphosphorylatedbymTORC1,and suggesting that the effects of transcriptional regulators of
+is retained in the cytoplasm by 14-3-3 proteins. Following autophagyontumorigenesismaybecell-typespecific.Itisun-
+mTORC1 inhibition, TFEB dephosphorylation releases it from clear whether specific subsets of the TFEB-regulated gene
+the cytoplasm, allowing its nuclear translocation and subse- networkcanbeinducedtoavoidgenesthatcontributetotumor-
+quent activation of the CLEAR gene network, which includes igenesiswithoutlosingbeneficialeffectsontheautophagy-lyso-
+genes encoding lysosomal hydrolases, lysosomal v-ATPase somalpathway.AnalternativestrategyistoactivateTFEBonan
+pumps,lysosomalregulatorsandautophagyregulators(Puertol- intermittent basis and/or for limited periods to avoid potential
+lanoetal.,2018).Asnotedabove,AMPKalsoactivatesTFEB- oncogeniceffects.
+dependent gene expression; this occurs through multiple Intriguingly, one of the most widely used medications in the
+different mechanisms. Inaddition, a recent study showed that world—aspirin—hasbeenreportedtoupregulateTFEBinbrain
+phosphorylationofacetyl-CoAsynthetase2(ACSS2)promotes cells (via activation of PPARa), induce lysosomal biogenesis,
+itstransportintothenucleus,whereitbindstoTFEBandfavors and decrease amyloid plaque pathology in a mouse model of
+the acetylation of histone H3 residues within the promoters of Alzheimer’s-likedisease(Chandraetal.,2018).Aspirin(andits
+TFEBtargetgenes(Lietal.,2017b). activemetabolitesalicylate)alsoinducesautophagyviainhibi-
+InadditiontoTFEB,othertranscriptionfactorsfromthesame tionoftheacetyltransferaseEP300(Pietrocolaetal.,2018)and
+family (such as micropthalmia-associated transcription factor via AMPK activation/mTORC1 inactivation (Din et al., 2012).
+[MITF] and TFE3) (Perera et al., 2015) or from other families However, there is as of yet no direct genetic evidence that
+(e.g.,FOXO3A,HSF1,orTP53)stimulateautophagy(Caietal., autophagycontributestothehealthbenefitsofaspirin.
+2018; Kenzelmann Broz et al., 2013). Bromodomain 4 (BRD4), Highly specific activation of autophagy may be possible
+a transcription factor that represses autophagy and lysosomal through strategies that enhance the activity of the upstream
+genes, is displaced from chromatin in response to starvation components in the core autophagy pathway, i.e., the ULK1
+byasignalingcascadeinvolvinganAMPK-SIRT1axis(Sakamaki serine/threoninekinasecomplexand/orBeclin1/VPS34lipidki-
+etal.,2017).Thus,multipleknown(andprobablyyet-to-be-iden- nasecomplexes.AsakeyallostericregulatorofVPS34lipidki-
+tified) transcription factors regulate the synthesis of genes nase activity, Beclin 1 activity is tightly regulated by multiple
+requiredforautophagy(includingboththeformationoftheauto- post-translational modifications (ubiquitination, acetylation,
+phagosomeanddegradationofitscontentsbylysosomes).Not phosphorylation),whichgovernitsstability,heterodimericbind-
+surprisingly, the activity of these transcription factors is tightly ingtoATG14orUVRAG,homodimerizationinaninactiveform,
+regulatedbynumeroussignalingfactorsthatalsoregulatecore and/orbindingtonegativeregulators,suchasBcl-2/Bcl-xL(Gru-
+ATGproteinfunctionbypost-translationalmodifications. matiandDikic,2018;Levineetal.,2015).Diversestresskinases,
+ModulationoftheactivityofTFEB,amasterregulatorofboth includingAMPKandMAPKAPK2/3aswellastheupstreamATG
+lysosomalbiogenesisandautophagy,hasemergedasapoten- protein,ULK1,mediatestimulatoryphosphorylationsofBeclin1
+tialtherapeuticstrategy.Conceptually,thisapproachisattrac- (Kimetal.,2013a;Parketal.,2018;Weietal.,2015).Theonco-
+tive,sincelimitationsinlysosomalnumbersandfunctioneither genickinases,Akt andEGFR,andthe EP300acetylaseinhibit
+occur intrinsically as part of many rare, but devastating, diffi- the autophagic activity of Beclin 1; mutation of their target
+Cell176,January10,2019 27
+
+---PAGE BREAK---
+
+post-translationalsitesinBeclin1demonstrates thatsuppres- theBeclin1/VPS34complexes(reviewedinHurleyandYoung
+sionofBeclin1-dependentautophagypromotestumorgrowth [2017])mayprovideabasisforrationaldrugdesigntoselectively
+in mouse xenograft models (Sun et al., 2015; Wang et al., activate autophagy-specific Beclin 1-associated VP34 lipid ki-
+2012;Weietal.,2013).Enhancedproteasome-mediateddegra- naseactivity.
+dationofBeclin1duetodecreasedbindingofthedeubiquitinase
+ataxin3maycontributetodysregulatedautophagyincellsofpa- AutophagyinTissueandWhole-BodyHomeostasis
+tients with polyglutamine-expansion-protein-related diseases, The health of multicellular organisms requires the coordinated
+suchasHuntington’sandspinocerebellarataxiatype3(Ashke- regulationofcellularlifeanddeathdecisions,cellfatedetermina-
+nazietal.,2017). tions,preservationofgenomicintegrity,immuneresponses,and
+Disruption of Bcl-2 binding to Beclin 1 represents a central metaboliccircuitries.Theautophagymachinery,viaitsdiverse
+mechanism by which autophagy is activated in response to functions described above (and yet-to-be-discovered mecha-
+stress stimuli (such as starvation, exercise, and immune nisms),playsacrucialroleintheseprocesses.Herein,wehigh-
+signaling)(Heetal.,2012;Weietal.,2008).Thisdisruptioncan lightsomerecentadvancesrelatedtotheroleofautophagyin
+betriggeredbyphosphorylationoftheBH3domainofBeclin1 cell death, preservation of stem cells, tumor suppression,
+byDAPK,ubiquitinationoftheBeclin1BH3domainbytheE3 longevity,anddefenseagainstmetabolicdiseases.
+ligaseTRAF6,phosphorylationofBcl-2byJNK1,orcompetition AutophagyasaHomeostat
+byBH3-onlyproteins(reviewedinLevineetal.[2015]).Micecon- During both routine ‘‘housekeeping’’ and responses to acute
+taining knockin non-phosphorylatable mutations in Bcl-2 that stress,cellsmustfindwaystomaintainadaptivecytoprotective
+preventdisruptionofitsbindingtoBeclin1aredeficientinstar- levels of autophagy while simultaneously avoiding potentially
+vation-andexercise-inducedautophagy,havedecreasedexer- maladaptive levels and/or detrimental effects of autophagy.
+cise endurance, and fail to manifest the beneficial effects of This balance involves self-control of the levels of autophagy,
+exercise on glucose metabolism (He et al., 2012). Conversely, mechanismsofpreventingdegradationproductsfrombecoming
+micewithaknockin mutationinBeclin1thatdecreasesBcl-2 toxictocells,avoidanceofdegradingessentialcargo,andsup-
+binding exhibit increased autophagy and extended lifespan pressionofunwarrantedcelldeath—whichlikelyisacombined
+and healthspan, including protection against Alzheimer’s-like functionoftheaforementionedprocesses.Cellularself-titration
+disease and HER2-mediated breast cancer (Ferna´ndez et al., oflevelsofautophagyinvolvesmultipledifferentinhibitoryfeed-
+2018; Rocchi et al., 2017; Vega-Rubı´n-de-Celis et al., 2018). back loops, including feedback regulation of nutrient-sensing
+Thus, disruption of Beclin 1/Bcl-2 binding may be a safe and signalsbythegenerationofaminoacids,acetyl-CoA,andrespi-
+effective approach to induce autophagy in vivo; preclinical ratorysubstrates(Galluzzietal.,2014);cytosolicretentionofpro-
+studiesareinprogresstodevelopagentsthatactthroughthis autophagic transcription factors by ATG7 (Simon et al., 2017);
+mechanism(Chiangetal.,2018). and TFEB-mediated activation of mTORC1 (Simon et al.,
+Cell-penetratingpeptides(Tat-Beclin1)derivedfromaflexible 2017).Cellulartoxicitybydegradationproductsmaybeavoided
+hingeregionofBeclin1importantforVPS34membraneassoci- duringautophagy,asevidencedbytheobservationthatthegen-
+ationandlipidkinaseactivity(Rostislavlevaetal.,2015)aresuf- eration of lipid droplets generated by autophagy-dependent
+ficient to induce autophagy in vitro and in vivo (Shoji-Kawata dismantling of lipid membranes during starvation-induced
+et al., 2013). In mice, Tat-Beclin 1 protects against West Nile autophagysequestersfattyacids,therebyprotectingmitochon-
+virus, chikungunya virus, and E. coli bacterial infections; lipo- driaagainstlipotoxicityandpreservingcellularviability(Nguyen
+polysaccharide-induced cardiac dysfunction; pressure-over- et al., 2017). It is not known whether starvation-induced
+load-inducedheartfailure;hyperammonemiainliverfailureand autophagy preferentially induces removal of certain, perhaps
+urea cycle disorders; and bone loss in LSDs and in fibroblast aged,structures(andifso,bywhatmechanisms)orwhetherit
+growthfactor(FGF)deficiency(Bartolomeoetal.,2017;Cinque is nonspecific. Mitochondria elongate during starvation, which
+et al., 2015; Shoji-Kawata et al., 2013; Soria et al., 2018; Sun sparesthemfromtheautophagiccapturethatgenerallyoccurs
+etal.,2018).Italsoenhanceschemotherapeuticeffectsofmu- afterfission (Gomeset al.,2011).Numerousyet-to-be-discov-
+rine cancers in immune-competent mice (Pietrocola et al., eredmechanismslikelyprotectmitochondriaandotherorgan-
+2016),reducesthegrowthofhumanHER2-positivebreastcan- ellesfromexcessiveautophagiccaptureduringstress-induced
+cerxenograftsinimmune-deficient mice(Vega-Rubı´n-de-Celis autophagy.
+etal.,2018),andactssynergisticallywitherastintoincreasean- Theaforementionednegativefeedbackloopsrestrainautoph-
+imal survival in an orthotopic pancreatic cancer model (Song agy to adaptive (rather than maladaptive) levels, allowing this
+etal.,2018).Inrats,intrahippocampalinjectionofTat-Beclin1 homeostatic pathway to exert cytoprotective effects during
+improveslong-termspatialmemory(Hylinetal.,2018).Inaze- stress,andtherebypreventapoptoticandnecroptoticcelldeath
+brafish model of human polycystic kidney disease, Tat-Beclin (Marin˜o et al., 2014a). In addition, ATG gene-dependent pro-
+1 ameliorates renal cyst formation (Zhu et al., 2017). Further cesses, such as increased plasma membrane localization of
+studies are needed to examine whether Tat-Beclin 1 induces theGLUT1glucosetransporter(Royetal.,2017),mayincrease
+these effects through autophagy, autophagy-independent ef- thethresholdofdamagerequiredtokillcellsandtherebypro-
+fectsofBeclin1,oralternativemechanisms.Moreover,precise motesuccessfulorganismaladaptationtostress.Promotionof
+definitionofitsmechanismofactionmayleadtothedevelop- cell survival in vivo during stress-induced autophagy may
+mentofnovelsmalldrug-likemoleculesthatmimicitsactivity. depend on concurrent antagonism of the Na+,K+-ATPase
+Recent structural advances elucidating the atomic details of pump, which normally consumes a large fraction of the ATP
+28 Cell176,January10,2019
+
+---PAGE BREAK---
+
+availableto the cell (Kheloufi etal.,2015).Interestingly, during multipledisease-relatedimplications,dependingonthetypeof
+acuteboutsofexerciseornutrientlimitation(potentphysiolog- stem cell (e.g., embryonic, adult, cancer) (see Boya et al.
+icalstimuliofautophagythatgenerallydonotresultincelldeath), [2018]foradetailedrecentreview).Ingeneral,autophagyfunc-
+endogenouscardiacglycosidesthattargetNa+,K+-ATPaseare tions in adult stem cells, including muscle stem cells (satellite
+upregulated 50- to 500-fold, resulting in decreased cellular cells), hematopoietic stem cells (HSCs), and neural stem cells
+ATPconsumption(Schoner,2002). (NSCs),asamechanism toprevent exhaustion andagingand
+However,whenorganismsarepushedbeyondphysiological topromotequiescence,allowingeitherself-renewalordifferen-
+limits of energy deprivation, adaptive mechanisms are insuffi- tiation(asneeded).ConditionalAtg7deletionleadstoareduc-
+cient to keep cells alive and to prevent tissue damage. In the tionofthemusclesatellitecellpoolinyoungmiceandhallmarks
+liverofpatientswithanorexianervosaorinneonatalrodentssub- ofprematuremuscleaging(senescenceandDNAdamage),and
+jectedtoseverecerebralischemicinjury,amorphologicallyand autophagyactivationreversessenescenceandrestoresregen-
+genetically distinct form of cell death occurs called autosis, erative functions in satellite cells in aged animals (Garcı´a-Prat
+which requires both ATG genes and Na+,K+-ATPase activity et al., 2016). Loss of Atg12 in HSCs impairs maintenance of
+(Kheloufi et al., 2015; Liu et al., 2013b). It isnot clear how the HSC quiescence and stemness (Ho et al., 2017). Loss of
+cell’s major consumer of ATP (i.e., the Na+,K+-ATPase pump) FIP200resultsinaprogressivelossofNSCsandreducedneuro-
+andthecell’smajormobilizerofATP-generatingsubstratesdur- genesisintheadultbrain(Wangetal.,2013).Thus,upregulation
+ingstressconditions(i.e.,autophagy)interacttoregulatelifeand ofautophagymayhelpstimulatemuscleregenerationinsarco-
+deathdecisionsofthecell.However,thisinteractionmayrepre- penia, prevent late-onset diseases associated with immune
+sent a fundamental energy homeostatic mechanism that be- cellsenescence,and/orpromoteadultneurogenesis.
+comespathologicduringdifferenttypesofischemicconditions. Severalstudiessuggestaroleforautophagyinthereprogram-
+Anotherrecentlyidentifiedbonafideformofautophagiccell mingofsomaticcellstogenerateinducedpluripotentstemcells
+death(i.e.,demonstratingageneticrequirementforATGgenes) (iPSCs) (Boya etal., 2018). The precise mechanisms bywhich
+involvesGBA1—thegeneencodingthelysosomalenzyme,glu- autophagyfunctionsinpluripotencyreprogrammingaredebated
+cocerebrosidase (GCase)—which metabolizes glucosylcera- but may involve degradation of transcription factors, ability to
+mide (GlcCer) to ceramide and glucose. GBA1 knockdown sustain glycolytic metabolism (which favors stemness), degra-
+blocksautophagiccelldeathinresveratrol-treatedlungcancer dation of mitochondria and other organelles, and mitophagy-
+cells in vitro and developmental midgut death in Drosophila mediated limitation of cellular ROS production. While the
+invivo(Dasarietal.,2017).Inhumans,homozygousGBA1mu- deletionofcoreATGgenesorlossofPINK1-dependentmitoph-
+tationsleadtoGaucher’sdisease,alysosomalstoragedisorder, agyimpairsthereprogrammingprocess(Boyaetal.,2018),itis
+whileheterozygousmutationsarethemostimportantriskfactor not known whether autophagy upregulation improves the effi-
+for Parkinson’s disease (Schapira, 2015). Interestingly, GBA1 ciency of pluripotent reprogramming for the optimization of
+deficiencyinthebrainsoffliesandmiceleadstoanaccumula- stemcell-basedtherapies.
+tionofGlcCer,impairedautophagic-lysosomalflux,a-synuclein Additionally,autophagyisimportantintheorigin,differentia-
+aggregateaccumulation,andneurodegeneration;thesefeatures tion, and survival of cancer stem cells (CSCs), a unique niche
+are similar to those observed in patients with Parkinson’s dis- that(similartootherstemcellpopulations)hasthepotentialfor
+ease(Aflakietal.,2017). self-renewalbutalsohasthepotentialformalignancy,initiation
+Thus, levels of cellular GCase are crucial for homeostasis; of tumor metastasis, and enhanced chemotherapy resistance
+insufficientGCaseactivityresultsinadefectinautophagic-lyso- (PattabiramanandWeinberg,2014).CSCformationisenhanced
+somal function and neurodegeneration, whereas excessive in regions of tumors that are hypoxic, nutrient depleted, and
+GCase activity results in autophagic cell death. It is not yet acidic—conditionsthatfavorenhancedautophagy—andCSCs
+knownhowGCaselevelsarephysiologicallytitratedorhowan usually have higher rates of basal autophagy than non-cancer
+excessofGCaseactivityconvertsadaptiveautophagyintolethal stem cells (Boya et al., 2018). Knockdown of core ATG genes
+autophagy.Onepossibilityisthatdeathoccursasaresultofthe inbreastCSCsimpairstheirself-renewalinvitroandimpairstheir
+generation of a metabolic intermediate, sphingosine, which growth when xenografted into mice (Boya et al., 2018). This
+affects lysosomal membrane permeabilization, as lysosome- observation has raised interest in the therapeutic potential of
+membrane permeabilization by lysosomal-targeted Bax facili- autophagy inhibition of CSCs. However, it is not clear how
+tates autophagic cell death in Bax/Bax knockout murine suchcellscouldbeselectivelytargetedinvivo,andsystemicin-
+embryonic fibroblasts (Karch et al., 2017). Future studies are hibitionofautophagy,eveninadultmice,isassociatedwithmul-
+needed to determine the precise mechanisms that convert tiple severe toxicities, including multi-organ degeneration and
+autophagyfromapro-survivaltoacell-deathpathway,tospecif- fatalhypoglycemiaduringfasting(Karsli-Uzunbasetal.,2014).
+ically delineate the role of autophagic cell-death pathways in Moreover, thisconceptisfurther complicatedbythe plasticity
+pathophysiology,andtodevisetherapeuticstrategiestoblock of CSCs, i.e., the ability to convert to non-cancer stem cells
+suchdeathinvivo. andviceversa.Inaddition,thedepletionofautophagyinHSCs
+AutophagyinStemness favors the expansion of acute myeloid progenitor cells and
+Accumulatingevidenceindicatesthatautophagyisrequiredfor development of frank hematological malignancies (Auberger
+stem cell quality control (especially via mitophagy-mediated andPuissant,2017).Giventhesecomplexities,itmaybeprema-
+reductioninROSlevels),energyhomeostasis,metabolicreprog- turetoconsidertargetingautophagyinCSCsasananti-cancer
+ramming,andthepreservationoffitness.Thisrequirementhas strategy.
+Cell176,January10,2019 29
+
+---PAGE BREAK---
+
+AutophagyinGenomicStabilityandTumorSuppression et al., 2015; Rybstein et al., 2018; Vega-Rubı´n-de-Celis
+BesideseliminatingROS-producingdysfunctionalmitochondria etal.,2018).
+thatarepotentiallymutagenic,autophagymaypromotegenomic Autophagy has additional cell-autonomous and non-cell-
+stabilitythroughseveraladditionalmechanisms.Inthesettingof autonomousfunctionsintumorsuppression.Atthecell-autono-
+impairedautophagy,theaccumulationoftheautophagyadaptor mous level, together with its promotion of genomic instability,
+and substrate p62/SQSTM1 (1) inhibits the E3 ligase RNA168 autophagydegradesthenuclearlamina(throughaninteraction
+that is essential for histone and chromatin ubiquitination and with LC3 and lamin B) to promote oncogene-induced senes-
+DNA damage responses (Wang et al., 2016) and (2) activates cence(Douetal.,2015),anditnegativelyregulatesinflammatory
+NRF2 transcription factor of MDM2, which acts through p53- signaling,whichisastrongoncogenicdriver(Zhongetal.,2016).
+dependent and p53-independent mechanisms to abrogate It has been proposed that deregulated inflammatory signaling
+normalcell-cyclecheckpoints(Todoricetal.,2017).Geneticin- duetodefectiveautophagymayrepresentacommonpro-onco-
+hibitionofautophagosomeformationorlysosomalfunctionre- genicpathwayforseveralcancerriskfactors,includingobesity,
+sults in a failure to degrade the small GTPase, RHOA, which aging, alcohol abuse, chronic infections, and ATG16L1 defi-
+leadstocytokinesisfailure,multinucleation,andaneuploidy(Be- ciency/Crohn’sdisease(Zhongetal.,2016).
+laid et al., 2013). Selective autophagic removal of micronuclei Atthenon-cell-autonomouslevel,autophagyactstosuppress
+andendogenousretrotransposonsmayalsopromotegenomic tumor-promoting inflammatory signaling and to enhance anti-
+stability (Table 2). Intriguingly, DNA damage repair pathway cancerimmunityinmyeloidcellsinthetumormicroenvironment.
+genesareinvolvedintheselectiveautophagyofROS-generating Autophagyincancercellsisimportantforcross-presentationas
+organelles,includingpexophagy(e.g.,ATMkinase[Zhangetal., wellasfacilitatingthereleaseoftumorantigensfromdyingcells
+2015a])andmitophagy(e.g.,Fanconianemiaproteins[Sumpter andincreasingtheirextracellularavailability(Maetal.,2013).The
+etal.,2016]).Thus,theremaybeselectivepressurefornuclear phenomenon of autophagy-dependent ‘‘immunogenic cell
+DNA damage pathways and autophagyproteins to functionat death’’alsoleadstothereleaseofATPandotherdanger-associ-
+multiple levelsto protect the genome, both in thecytoplasmic ated molecular patterns (Michaud et al., 2011), enhancing
+removalofdysfunctionalorganellesthatthreatengenomicinteg- anti-tumorcytotoxicTlymphocyte(CTL)responsesandcontrib-
+rity and, more directly, in the regulation of nuclear events that utingtotheanti-cancerefficacyofchemotherapyandradiation
+maintaingenomicstability. therapy (Galluzzi et al., 2017b). Interestingly, the incidence of
+The role of autophagy in promoting genomic stability is KRAS-inducednon-smalllungcancerisincreasedbygeneticin-
+consistent with its role in tumor suppression. One of the most hibition of autophagy and reduced by autophagy induction
+frequent genetic alterations in sporadic human breast and throughamechanismthatrequiresTcell-dependentanti-tumor
+ovariancanceristhealleliclossofbeclin1,whichisassociated immunity (Pietrocola et al., 2016). Taken together, autophagy
+withmoreaggressivecancersandworsepatientsurvival(inde- actsbothincancercellsandmyeloidcellstodampenpro-tumor-
+pendently of allelic loss of the nearby tumor suppressor igenicinflammationandtoaugmentadaptiveimmunitythatcur-
+BRCA1) (Liang et al., 1999; Tang et al., 2015; Valente et al., tailscancergrowthandprogression.Itisnotyetknownwhether
+2014). Mice lacking a copy of beclin 1 develop spontaneous autophagyinductionwillactsynergisticallywithimmunecheck-
+malignancies,demonstratingthatitisahaploinsufficienttumor pointinhibitorstoboostanti-cancertherapeuticresponses.
+suppressor gene (Cicchini et al., 2014; Qu et al., 2003; Yue Inparallelwithdelineationofmechanismsofautophagyintu-
+etal.,2003),andalleliclossofbeclin1inimmortalizedmouse mor suppression and the promotion of anti-tumor immunity,
+mammary epithelial cells promotes mammary tumorigenesis, numerousreportshavedemonstratedpro-tumorigenicrolesof
+DNAdamage,andgenomicinstabilityinvivo(Karantza-Wads- autophagy, primarily in cancers driven by KRAS that require
+worthetal.,2007).Similarly,partialautophagydefectsinother high cellular metabolic activity to sustain survival (Kimmelman
+mousemodels(Ambra1+/(cid:3),Atg4c(cid:3)/(cid:3),Sh3glb1(cid:3)/(cid:3),andmosaic and White, 2017). The pro-tumorigenic effects are generally
+Atg5(cid:3)/(cid:3))areassociatedwithanincreasedincidenceofsponta- believedtoresultfromtheabilityofautophagytosustaintumor
+neous or chemically induced tumors (Rybstein et al., 2018). In cell survival during metabolic stress in a cell-intrinsic fashion
+mice,lossofthemitophagyreceptor,BNIP3,acceleratespro- and/or in a cell-extrinsic fashion via the provision of nutrients
+gression to metastatic breast cancer (Chourasia et al., 2015), to malignant cells by autophagy in stromal cells in the tumor
+and loss of Parkin results in spontaneous liver tumors, microenvironment(Kathederetal.,2017;KimmelmanandWhite,
+increased radiation-induced lymphoma, enhanced colorectal 2017;Yangetal.,2018).Theseobservationshavepiquedinter-
+adenoma development in Apc mutant mice and accelerated estindevelopingautophagyinhibitorsfortreatingcertaincan-
+KRas-driven pancreatic tumorigenesis (Drake et al., 2017; Li cers, a concept that has been explored in mice using two
+etal.,2018a;Poulogiannisetal.,2010).Inpatients,PARKIN-in- principal approaches: (1) tissue-specific or whole-body-induc-
+activating mutations are observed in glioblastomas, colorectal ibledeletionofATGgenesand(2)lysosomotropicagentssuch
+carcinoma, and other malignancies (Drake et al., 2017). asachloroquineandhyxdroxychloroquinethatinhibitautopha-
+Numerous oncogenic mutations suppress autophagy through gic flux (along with other pharmacological effects). While both
+mTORC1 activation (e.g., activating mutations in Akt/class I approachesreduceKRAS-driventumorgrowthinmice(Kimmel-
+PI3K, PTEN loss, LKB1 loss),ULK1 and Parkin inhibition (e.g., manandWhite,2017),ATGgenedeletionresultsininflammation
+cytoplasmicaccumulationofTP53mutantproteins),and/orin- and/or destruction of the organ (i.e., in pancreatic-specific or
+hibition of the activity of Beclin 1/class III PI3K complex (e.g., lung-specific knockouts) or in multisystem degeneration (in
+Akt, EGFR, HER2, Bcl-2 amplification or activation) (Levine whole-bodyknockouts)(Guoetal.,2013;Karsli-Uzunbasetal.,
+30 Cell176,January10,2019
+
+---PAGE BREAK---
+
+2014;Rosenfeldtetal.,2013).Furthermore,anextensiveexam- Autophagyisnormallytightlyregulatedbyneuroendocrinesig-
+inationoftheeffectsofchloroquineonapanelofKRASmutant nalsthataredecreased(e.g.,insulinandinsulin-likegrowthfac-
+tumorsfailedtoshowanyATGgene-dependentgrowthinhibi- tors) or increased (e.g., glucagon, fibroblast growth factor 21
+tion(Engetal.,2016).Thus,despitethecrucialroleofautophagy [FGF21])duringfasting,andtheinitiationofandcellularresponse
+inmalignantcellsandstromalcellsinpromotingtumorgrowth, tothesesignalsarecommonlydysregulatedinobesity.Inmice,
+conclusivedataarelacking tosupportautophagyinhibitionas deficiencyofthefastinghormoneFGF21impairsTFEBactiva-
+a viable therapeutic approach, although a recent study of tioninhepatocytes,resultingindefectiveautophagic-lysosomal
+KRAS-drivenpancreaticcancerusingonlymosaicgeneticinhi- function and increased lipid accumulation, demonstrating a
+bitionofautophagymaysuggestefficacywithtolerabletoxicity nutrient-sensing hormonal link between the FGF21-TFEB
+(Yangetal.,2018).Thisissueisfurthercomplicatedbytheafore- signaling axis, lysosomal function, and lipid metabolism (Chen
+mentioned multiple roles of autophagy in tumor suppression et al., 2017). Interestingly, not only do neuroendocrine signals
+and anti-tumor immunity, along with emerging evidence that regulateautophagy,butATGgenesmayactwithinsubpopula-
+autophagyinhibitionmaypromotetumormetastasis(reviewed tionsofneuronstoregulatemetabolismandfeedingbehavior.
+inDoweretal.[2018]). GeneticablationofcertainATGgenesinhypothalamicproopio-
+AutophagyinMetabolicDiseases melanocortinneuronsresultsinadiposity,glucoseintolerance,
+Growingevidenceimplicatesfunctionaldefectsinautophagyin and hyperphagia (Coupe´ et al., 2012; Malhotra et al., 2015;
+variousmetabolicdisorders,includingobesity,diabetes,athero- Quanetal.,2012).Postulated(andpotentiallynon-autophagic)
+sclerosis, and non-alcoholic fatty liver disease (NAFLD) (re- mechanismsinvolveleptinresistanceaswellasdefectsinthe
+viewedinUenoandKomatsu[2017];Zhangetal.[2018a]).While unconventionalsecretionofa-melanocyte-stimulatinghormone.
+thesedisordersinvolvegeneticandepigeneticfactors,excess Furtherstudiesareneededtodeterminewhethergeneralin-
+caloric intake and decreased physical activity are principal ducers of autophagy, specific activators of lipophagy, and/or
+driving forces, both of which suppress autophagy. Although regulators of anti-obesogenic CNS functions of ATG genes
+there aredivergent reports of whether autophagy isenhanced may be useful in reducing the morbidity and mortality due to
+orsuppressedinobesity,thepreponderanceofmousegenetic obesity and its associated metabolic disorders. At least in
+dataindicatethatdecreasedautophagyfacilitatesthetransition mice, nutritional interventions and physical exercise exert
+fromobesitytodiabetesandincreasestheriskofatherosclerosis favorable metabolic effects through ATG gene-dependent
+andNAFLD.Specifically,micewithwhole-bodypartialmutation mechanisms. The benefits of intermittent fasting on high-fat-
+or tissue-specific (liver or pancreas) deletion of ATG genes or diet-inducedlossofpancreaticcellsareblockedinautophagy-
+TFEB gain more weight when fed a high-fat diet and have an deficient Lamp2a(cid:3)/(cid:3) and Becn1+/(cid:3) mice (Liu et al., 2017).
+increased propensity to develop systemic inflammation, dia- Moreover,thebenefitsofprolongationoftheintermealtimein-
+betes, and hepatic steatosis (Ferna´ndez et al., 2017; Jung terval (i.e., feeding mice an isocaloric diet twice a day) on
+et al., 2008; Lim et al., 2014; Settembre et al., 2013a; Singh adiposity,lipidlevels,gluconeogenesis,andage/obesity-asso-
+etal.,2009).Inaddition,micewithmacrophage-specificdeletion ciatedmetabolicdefectsareimpairedinanimalswithknockout
+of Atg5 are more prone to the development of atherosclerotic ofAtg7indifferentorgans(proopiomelanocortinneurons,hepa-
+plaques(Liaoetal.,2012;Razanietal.,2012).Inhumans,genetic tocytes,whiteadiposetissue,skeletalmuscle)(Martinez-Lopez
+variantsofIRGM1,agenerequiredforassemblyandactivation et al., 2017). The ability of chronic exercise to protect against
+oftheautophagymachinery,areassociatedwithincreasedrisk HFD-inducedglucoseintoleranceiscompromisedinmicethat
+of NAFLD (Lin et al., 2016). Moreover, patients with NAFLD cannot increase autophagy by virtue of a knockin mutation in
+have elevated hepatic levels of Rubicon, an inhibitor of Beclin Bcl-2 that prevents its disruption from Beclin 1 (He et al.,
+1/VPS34PI3KC3activity,andhepatocyte-specificknockoutof 2012).PhysicalexerciseinducesTFEBtranslocationintomuscle
+Rubicon protects mice against high-fat-diet-induced impaired fibernuclei,allowingmuscletoadaptbychangesintheexpres-
+autophagy and steatosis (Tanaka et al., 2016). Interestingly, sion of glucose transporters, glycolytic enzymes, and other
+ethanol exposure also inhibits hepatocyte lipophagy by inacti- metabolism-relevant genes (Mansueto et al., 2017). Whether
+vating Rab7 (Schulze et al., 2017), raising the question of TFEBactivationiscausallyinvolvedinexercise-inducedautoph-
+whether defective autophagy (lipophagy) may also contribute agy induction remains to be explored, but its dual role in
+toalcoholicfattyliverdisease. coordinatinginsulinsensitivityandglucosehomeostasisduring
+Theprecisemechanismsbywhichdeficientautophagy(and exercise and as a master regulator of autophagic-lysosomal
+ATGgenefunctions)promoteobesityanditsmetaboliccompli- function is intriguing. Thus, lifestyle interventions (e.g., dietary
+cationsarecomplexandmayinvolveavarietyofcell-intrinsicef- and exercise) that are important interventions in preventing
+fects(e.g.,nutrientmetabolism;mitochondria,peroxisome,ER, metabolic disease may exert such effects, at least in part,
+and lipid droplet homeostasis), cell-extrinsic effects (e.g., throughautophagy.
+release of pro-inflammatory cytokines by aberrant inflamma- AutophagyinLongevity
+someactivation),andpotentially,lackoffeedbackinhibitionof Genetic studies using yeasts, worms, flies, and mice demon-
+insulin and mTORC1 signaling pathways. The mechanisms by stratetheATGgenesarerequiredforlifespanextensionrequire-
+whichautophagyisinhibitedduringobesityarenotwellunder- ment in caloric restriction, loss-of-function insulin signaling,
+stood but may involve a combination of abnormal lysosomal andotherconservedlongevityparadigms(reviewedinHansen
+function in cells with lipid accumulation (Koga et al., 2010) as etal.[2018]).Systemicautophagyinductionexertsanti-agingef-
+wellasdysregulatedendocrinesignaling(Zhangetal.,2018a). fects in worms, flies, and mice (Lo´pez-Otı´n et al., 2016), and
+Cell176,January10,2019 31
+
+---PAGE BREAK---
+
+Figure3. DiverseBiologicalFunctionsofAutophagyGenesContributetoTheirRolesintheRegulationofMammalianDisease
+ShownarethemajorknownbiologicalfunctionsofATGgenesandthebroadcategoriesofdiseasesthattheyregulateaspredictedbasedonmouseexperimental
+dataandhumangeneticassociations.Belowmajordiseasecategories,somerepresentativespecificdiseasesarenoted.Manyotherexamplesexistbutarenot
+shownduetospacelimitations.
+geneticallyengineeredmicewithconstitutivelyincreasedauto- tion, reduced cardiac and renal fibrosis, and decreased age-
+phagy have extended lifespan and improved healthspan (e.g., related spontaneous tumorigenesis) (Ferna´ndez et al., 2018;
+leanness, increased insulin sensitivity, improved muscle func- Pyo et al., 2013). Interestingly, the offspring of people with
+32 Cell176,January10,2019
+
+---PAGE BREAK---
+
+exceptional longevity have enhanced activation-induced T cell coreautophagyorselectiveautophagymachineryincreasethe
+autophagy and immune function compared to age-matched risk of cancer; (7) dysregulated inflammatory signaling (as a
+controls(Razetal.,2017).Autophagymaypreventagingthrough resultofdefectivemitophagyandenhancedinflammasomeacti-
+improved organellar quality control and homeostasis (e.g., via vation and/or cGAS/STING-mediated interferon signaling) may
+selective autophagy pathways such as mitophagy, lipophagy, representacommondownstreameventthatcontributestodis-
+lysophagy, aggrephagy), enhanced insulin sensitivity, mainte- eases that are associated with mutations in the autophagy
+nanceofstemness,andpromotionofgenomicstability.Interest- pathway (e.g., Crohn’s disease, Parkinson’s disease, SLE); (8)
+ingly, tissue-specific autophagy in certain tissues (e.g., in the specific disorders, such as Crohn’s disease, are associated
+muscle, intestine, and brain) may also exert favorable effects with several different mutations/polymorphisms in genes (e.g.,
+onlongevity,potentiallybymodulatingarangeofinter-tissuein- ATG16L1,CALCOCO2/NDP62,GPR65,IRGM,LRRK2,NOD2)
+teractions (Hansen et al., 2018). It is possible that ATG genes that simultaneously compromise intertwined pathways (e.g.,
+may have autophagy-independent effects that promote bacterialautophagy,inflammasomeregulation,secretionofanti-
+longevity; for example, their roles in secretion and exocytosis microbialpeptidesbyPanethcells)thatgoverntheirpathological
+mightcontributetointer-tissueeffects. and clinical manifestations. These genetic links illustrate the
+Autophagy gene expression and lysosomal function decline wide-rangingimpactofautophagy-relatedpathwaysondistinct
+withaging in a range of tissues in worms, flies, and mammals celltypesandhomeostaticprocesses.
+(including in human brains), resulting in an age-related decline Therapeutic interventions may aim to restore the wild-type
+in autophagic capacity (Hansen et al., 2018). This age-related functionofthemutatedprotein,toreversethespecificdefects
+decline likely contributes both to the aging process itself as or downstream pathogenetic consequences caused by the
+wellasthedevelopmentofage-relateddiseasessuchasneuro- genemutation,and/ortobroadlyupregulateautophagicactivity
+degenerativediseasesandcancer.Asidefromautophagyinhibi- andlysosomalfunction.Preclinicalstudiesinanimalmodelswith
+tionproducedbyobesity,itisnotknownwhatfactorscontribute mutationsingenesthatimpairautophagyandlysosomalfunc-
+tothisage-relateddecline.Themolecularmechanismsunderly- tion will be necessary to determine the optimal therapeutic
+ingage-relateddeclinesindistinctstepsintheautophagic-lyso- approaches for diseases due to defects in autophagy-related
+somal pathway is a fascinating area of future autophagy pathways. Moreover, the intriguing possibility emerges that
+research. selectively enhancing or blocking autophagy-related sub-rou-
+tinesmightindirectlyinfluenceothersub-routines,thusaffecting
+ConcludingRemarks a therapeutically relevant ecosystem of intersecting pathways
+Autophagy genes function in diverse cell biological pathways, involvingATGproteins.
+notonlyinautophagybutalsoinotherprocesses,toexertwide-
+spread physiological functions that protect mammals against ACKOWLEDGMENTS
+aging and a broad range of medically important diseases
+(Figure3).Accordingly,alargespectrumofmutationsingenes TheauthorsthankH.Smithforassistancewithmanuscriptpreparationand
+requiredforautophagy-relatedpathwayshavenowbeenimpli- A.Diehlforexpertmedicalillustration.Theworkintheauthors’laboratories
+wassupportedbyNIHgrantsRO1CA109618andU19AI109725(B.L.),Cancer
+catedinthepathogenesisofhumandiseases(Table1).
+PreventionResearchInstituteofTexas(CPRIT)grantRP120718(B.L.),and
+Somegeneralmechanismsofdiseasepathogenesisemerge
+FondationLeducqgrant15CBD04(B.L.,G.K.).G.K.wassupportedbyLigue
+fromtheselinks:(1)mutationsingenesthatregulatemitophagy,
+contre le Cancer (e´quipe labelise´e); Agence National de la Recherche
+such as PARKIN and PINK1, are causally linked to hereditary (ANR)–Projetsblancs;ANRundertheframeofE-Rare-2,theERA-Netfor
+forms of Parkinson’s disease (and also observed in some Research on Rare Diseases; Association pour la recherche sur le cancer
+cancers), suggesting a crucial role for the consequences of (ARC); Cance´ropoˆle Ile-de-France; Chancelerie des universite´s de Paris
+impairedmitophagy(e.g.,cellularROSaccumulation,mitochon- (LegsPoix);FondationpourlaRechercheMe´dicale(FRM);EuropeanResearch
+Area Network on Cardiovascular Diseases (ERA-CVD, MINOTAUR); the
+drial DNA accumulation provoking cGAS/STING-dependent
+EuropeanResearchCouncil(ERC);FondationCarrefour;InstitutNationaldu
+inflammatorysignaling);(2)mutationsingenesencodingautoph-
+Cancer (INCa); Inserm (HTE); Institut Universitaire de France; the LabEx
+agy adaptor proteins or their activating kinases (e.g., p62/ Immuno-Oncology; the RHU Torino Lumie`re; the Seerave Foundation; the
+SQSTM1,optineurin,TBK)contributetofamilialformsofamyo- SIRICStratifiedOncologyCellDNARepairandTumorImmuneElimination
+trophiclateral sclerosis,frontotemproaldementia,andprimary (SOCRATE); and the SIRIC Cancer Research and Personalized Medicine
+openglaucoma,implyingarolefordeficientselectiveautophagy (CARPEM).Weapologizetoallthoseauthorswhoseworkcouldnotbecited
+duetospacelimitations.
+in their pathogenesis; (3) mutations in genes that disrupt lyso-
+somalfunctionperturbautophagyandcontributetolysosomal
+storagedisorders(includingthosewithCNSandbonemanifes- DECLARATIONOFINTERESTS
+tations),Alzheimer’sdisease,andParkinson’sdisease;(4)muta-
+B.L.isascientificco-founderofCasmaTherapeutics.G.K.isascientificco-
+tionsingenesthatdisruptautophagolysosomalfusionareoften
+founderofSamsaraTherapeutics.
+associated with congenital neurodevelopmental disorders; (5)
+mutationsingenesthatresultintheaccumulationofexcesspro-
+REFERENCES
+teincargo(e.g.,polyglutamineexpansionproteins,presenilin1,
+amyloidprecursorprotein,aB-crystallin,a1-anti-trypsin)exceed
+Abdulrahman,B.A.,Abdelaziz,D.H.,andSchatzl,H.M.(2018).Autophagyreg-
+theturnovercapacityofautophagy, leadingtoend-organpro- ulates exosomal release of prions in neuronal cells. J. Biol. Chem. 293,
+teotoxicity and degeneration; (6) hypomorphic mutations in 8956–8968.
+Cell176,January10,2019 33
+
+---PAGE BREAK---
+
+Aflaki,E.,Westbroek,W.,andSidransky,E.(2017).Thecomplicatedrelation- AMPKactivationofmuscleautophagypreventsfasting-inducedhypoglyce-
+shipbetweenGaucherdiseaseandParkinsonism:Insightsfromararedis- miaandmyopathyduringaging.CellMetab.21,883–890.
+ease.Neuron93,737–746. Cabrera,S.,Ferna´ndez,A.F.,Marin˜o,G.,Aguirre,A.,Sua´rez,M.F.,Espan˜ol,
+Akinduro,O.,Sully,K.,Patel,A.,Robinson,D.J.,Chikh,A.,McPhail,G.,Braun, Y.,Vega,J.A.,Laura`,R.,Fueyo,A.,Ferna´ndez-Garcı´a,M.S.,etal.(2013).
+K.M.,Philpott,M.P.,Harwood,C.A.,Byrne,C.,etal.(2016).Constitutiveauto- ATG4B/autophagin-1 regulates intestinal homeostasis and protects mice
+phagyandnucleophagyduringepidermaldifferentiation.J.Invest.Dermatol. fromexperimentalcolitis.Autophagy9,1188–1200.
+136,1460–1470. Cadwell,K.,andDebnath,J.(2018).Beyondself-eating:Thecontrolofnonau-
+Akizu,N.,Cantagrel,V.,Zaki,M.S.,Al-Gazali,L.,Wang,X.,Rosti,R.O.,Diko- tophagic functions and signaling pathways by autophagy-related proteins.
+glu,E.,Gelot,A.B.,Rosti,B.,Vaux,K.K.,etal.(2015).Biallelicmutationsin J.CellBiol.217,813–822.
+SNX14causeasyndromicformofcerebellaratrophyandlysosome-autopha- Cadwell,K.,Liu,J.Y.,Brown,S.L.,Miyoshi,H.,Loh,J.,Lennerz,J.K.,Kishi,C.,
+gosomedysfunction.Nat.Genet.47,528–534. Kc,W.,Carrero,J.A.,Hunt,S.,etal.(2008).Akeyroleforautophagyandthe
+Amaravadi,R.,Kimmelman,A.C.,andWhite,E.(2016).Recentinsightsintothe autophagygeneAtg16l1inmouseandhumanintestinalPanethcells.Nature
+functionofautophagyincancer.GenesDev.30,1913–1930. 456,259–263.
+Ashkenazi,A.,Bento,C.F.,Ricketts,T.,Vicinanza,M.,Siddiqi,F.,Pavel,M., Cai,J.,Li,R.,Xu,X.,Zhang,L.,Lian,R.,Fang,L.,Huang,Y.,Feng,X.,Liu,X.,Li,
+Squitieri,F.,Hardenberg,M.C.,Imarisio,S.,Menzies,F.M.,andRubinsztein, X.,etal.(2018).CK1asuppresseslungtumourgrowthbystabilizingPTENand
+D.C.(2017).Polyglutaminetractsregulatebeclin1-dependentautophagy.Na- inducingautophagy.Nat.CellBiol.20,465–478.
+ture545,108–111. Castets,P.,Lin,S.,Rion,N.,DiFulvio,S.,Romanino,K.,Guridi,M.,Frank,S.,
+Auberger,P.,andPuissant,A.(2017).Autophagy,akeymechanismofonco- Tintignac,L.A.,Sinnreich,M.,andRu¨egg,M.A.(2013).Sustainedactivationof
+genesisandresistanceinleukemia.Blood129,547–552. mTORC1inskeletalmuscleinhibitsconstitutiveandstarvation-inducedauto-
+phagyandcausesasevere,late-onsetmyopathy.CellMetab.17,731–744.
+Baixauli,F.,Lo´pez-Ot´ın,C.,andMittelbrunn,M.(2014).Exosomesandauto-
+Chandra, S., Jana, M., and Pahan, K. (2018). Aspirin induces lysosomal
+phagy:coordinatedmechanismsforthemaintenanceofcellularfitness.Front.
+biogenesisandattenuatesamyloidplaquepathologyinamousemodelofAlz-
+Immunol.5,403.
+heimer’sdiseaseviaPPARa.J.Neurosci.38,6682–6699.
+Barrett,J.C.,Hansoul,S.,Nicolae,D.L.,Cho,J.H.,Duerr,R.H.,Rioux,J.D.,
+Chang, M.C., Srinivasan, K., Friedman, B.A., Suto, E., Modrusan, Z., Lee,
+Brant,S.R.,Silverberg,M.S.,Taylor,K.D.,Barmada,M.M.,etal.;NIDDKIBD
+W.P.,Kaminker,J.S.,Hansen,D.V.,andSheng,M.(2017).Progranulindefi-
+Genetics Consortium; Belgian-French IBD Consortium; Wellcome Trust
+ciencycausesimpairmentofautophagyandTDP-43accumulation.J.Exp.
+Case Control Consortium (2008). Genome-wide association defines more
+Med.214,2611–2628.
+than 30 distinct susceptibility loci for Crohn’s disease. Nat. Genet. 40,
+955–962. Chauhan,S.,Kumar,S.,Jain,A.,Ponpuak,M.,Mudd,M.H.,Kimura,T.,Choi,
+S.W.,Peters,R.,Mandell,M.,Bruun,J.A.,etal.(2016a).TRIMsandGalectins
+Bartolomeo,R.,Cinque,L.,DeLeonibus,C.,Forrester,A.,Salzano,A.C.,Mon-
+globallycooperateandTRIM16andGalectin-3co-directautophagyinendo-
+fregola,J.,DeGennaro,E.,Nusco,E.,Azario,I.,Lanzara,C.,etal.(2017).
+membranedamagehomeostasis.Dev.Cell39,13–27.
+mTORC1hyperactivationarrestsbonegrowthinlysosomalstoragedisorders
+bysuppressingautophagy.J.Clin.Invest.127,3717–3729. Chauhan,S.,Mandell,M.A.,andDeretic,V.(2016b).Mechanismofactionof
+thetuberculosisandCrohndiseaseriskfactorIRGMinautophagy.Autophagy
+Bartsch,K.,Knittler,K.,Borowski,C.,Rudnik,S.,Damme,M.,Aden,K.,Spehl-
+12,429–431.
+mann,M.E.,Frey,N.,Saftig,P.,Chalaris,A.,andRabe,B.(2017).Absenceof
+RNaseH2triggersgenerationofimmunogenicmicronucleiremovedbyauto- Chen,Y.,andYu,L.(2017).Recentprogressinautophagiclysosomereforma-
+phagy.Hum.Mol.Genet.26,3960–3972. tion.Traffic18,358–361.
+Chen,S.,Wang,C.,Yeo,S.,Liang,C.C.,Okamoto,T.,Sun,S.,Wen,J.,and
+Behrends,C.,Sowa,M.E.,Gygi,S.P.,andHarper,J.W.(2010).Networkorga-
+Guan,J.L.(2016).Distinctrolesofautophagy-dependentand-independent
+nizationofthehumanautophagysystem.Nature466,68–76.
+functionsofFIP200revealedbygenerationandanalysisofamutantknock-
+Bel,S.,Pendse,M.,Wang,Y.,Li,Y.,Ruhn,K.A.,Hassell,B.,Leal,T.,Winter,
+inmousemodel.GenesDev.30,856–869.
+S.E.,Xavier,R.J.,andHooper,L.V.(2017).Panethcellssecretelysozymevia
+Chen,L.,Wang,K.,Long,A.,Jia,L.,Zhang,Y.,Deng,H.,Li,Y.,Han,J.,and
+secretoryautophagyduringbacterialinfectionoftheintestine.Science357,
+Wang,Y.(2017).Fasting-inducedhormonalregulationoflysosomalfunction.
+1047–1052.
+CellRes.27,748–763.
+Belaid,A.,Cerezo,M.,Chargui,A.,Corcelle-Termeau,E.,Pedeutour,F.,Giu-
+Chiang,W.C.,Wei,Y.,Kuo,Y.C.,Wei,S.,Zhou,A.,Zou,Z.,Yehl,J.,Ranaghan,
+liano,S.,Ilie,M.,Rubera,I.,Tauc,M.,Barale,S.,etal.(2013).Autophagyplays
+M.J.,Skepner,A.,Bittker,J.A.,etal.(2018).High-throughputscreenstoiden-
+acriticalroleinthedegradationofactiveRHOA,thecontrolofcellcytokinesis,
+tifyautophagyinducersthatfunctionbydisruptingBeclin1/Bcl-2binding.ACS
+andgenomicstability.CancerRes.73,4311–4322.
+Chem.Biol.13,2247–2260.
+Biering,S.B.,Choi,J.,Halstrom,R.A.,Brown,H.M.,Beatty,W.L.,Lee,S.,
+Choi,J.,Park,S.,Biering,S.B.,Selleck,E.,Liu,C.Y.,Zhang,X.,Fujita,N.,Sai-
+McCune,B.T.,Dominici,E.,Williams,L.E.,Orchard,R.C.,etal.(2017).Viral
+toh,T.,Akira,S.,Yoshimori,T.,etal.(2014).Theparasitophorousvacuole
+replication complexes are targeted by LC3-guided interferon-inducible
+membraneofToxoplasmagondiiistargetedfordisruptionbyubiquitin-like
+GTPases.CellHostMicrobe22,74–85.e7.
+conjugationsystemsofautophagy.Immunity40,924–935.
+Bingol,B.,Tea,J.S.,Phu,L.,Reichelt,M.,Bakalarski,C.E.,Song,Q.,Foreman,
+Chourasia, A.H., Tracy, K., Frankenberger, C., Boland, M.L., Sharifi, M.N.,
+O.,Kirkpatrick,D.S.,andSheng,M.(2014).Themitochondrialdeubiquitinase
+Drake,L.E.,Sachleben,J.R.,Asara,J.M.,Locasale,J.W.,Karczmar,G.S.,
+USP30opposesparkin-mediatedmitophagy.Nature510,370–375.
+andMacleod,K.F.(2015).MitophagydefectsarisingfromBNip3losspromote
+Boya,P.,Codogno,P.,andRodriguez-Muela,N.(2018).Autophagyinstem mammarytumorprogressiontometastasis.EMBORep.16,1145–1163.
+cells:repair,remodellingandmetabolicreprogramming.Development145.
+Chu,H.,Khosravi,A.,Kusumawardhani,I.P.,Kwon,A.H.,Vasconcelos,A.C.,
+https://doi.org/10.1242/dev.146506.
+Cunha,L.D.,Mayer,A.E.,Shen,Y.,Wu,W.L.,Kambal,A.,etal.(2016).Gene-
+Bronson,P.G.,Chang,D.,Bhangale,T.,Seldin,M.F.,Ortmann,W.,Ferreira, microbiotainteractionscontributetothepathogenesisofinflammatorybowel
+R.C.,Urcelay,E.,Pereira,L.F.,Martin,J.,Plebani,A.,etal.(2016).Common disease.Science352,1116–1120.
+variantsatPVT1,ATG13-AMBRA1,AHI1andCLEC16Aareassociatedwith Cicchini,M.,Chakrabarti,R.,Kongara,S.,Price,S.,Nahar,R.,Lozy,F.,Zhong,
+selectiveIgAdeficiency.Nat.Genet.48,1425–1429. H., Vazquez, A., Kang, Y., and Karantza, V. (2014). Autophagy regulator
+Bujak,A.L.,Crane,J.D.,Lally,J.S.,Ford,R.J.,Kang,S.J.,Rebalka,I.A.,Green, BECN1suppressesmammarytumorigenesisdrivenbyWNT1activationand
+A.E.,Kemp,B.E.,Hawke,T.J.,Schertzer,J.D.,andSteinberg,G.R.(2015). followingparity.Autophagy10,2036–2052.
+34 Cell176,January10,2019
+
+---PAGE BREAK---
+
+Cinque,L.,Forrester,A.,Bartolomeo,R.,Svelto,M.,Venditti,R.,Montefusco, Duran,J.M.,Anjard,C.,Stefan,C.,Loomis,W.F.,andMalhotra,V.(2010).Un-
+S.,Polishchuk,E.,Nusco,E.,Rossi,A.,Medina,D.L.,etal.(2015).FGFsignal- conventionalsecretionofAcb1ismediatedbyautophagosomes.J.CellBiol.
+lingregulatesbonegrowththroughautophagy.Nature528,272–275. 188,527–536.
+Cipolla,C.M.,andLodhi,I.J.(2017).Peroxisomaldysfunctioninage-related Ebrahimi-Fakhari,D.,Saffari,A.,Wahlster,L.,Lu,J.,Byrne,S.,Hoffmann,G.F.,
+diseases.TrendsEndocrinol.Metab.28,297–308. Jungbluth,H.,andSahin,M.(2016).Congenitaldisordersofautophagy:an
+emerging novel class of inborn errors of neuro-metabolism. Brain 139,
+Cirulli,E.T.,Lasseigne,B.N.,Petrovski,S.,Sapp,P.C.,Dion,P.A.,Leblond,
+317–337.
+C.S.,Couthouis,J.,Lu,Y.F.,Wang,Q.,Krueger,B.J.,etal.;FALSSequencing
+Consortium(2015).Exomesequencinginamyotrophiclateralsclerosisiden- Efeyan,A.,Zoncu,R.,Chang,S.,Gumper,I.,Snitkin,H.,Wolfson,R.L.,Kirak,
+tifiesriskgenesandpathways.Science347,1436–1441. O.,Sabatini,D.D.,andSabatini,D.M.(2013).RegulationofmTORC1bythe
+RagGTPasesisnecessaryforneonatalautophagyandsurvival.Nature493,
+Colecchia,D.,Stasi,M.,Leonardi,M.,Manganelli,F.,Nolano,M.,Veneziani,
+679–683.
+B.M.,Santoro,L.,Eskelinen,E.L.,Chiariello,M.,andBucci,C.(2018).Alter-
+ationsofautophagyintheperipheralneuropathyCharcot-Marie-Toothtype Egan,D.F.,Shackelford,D.B.,Mihaylova,M.M.,Gelino,S.,Kohnz,R.A.,Mair,
+2B.Autophagy14,930–941. W.,Vasquez,D.S.,Joshi,A.,Gwinn,D.M.,Taylor,R.,etal.(2011).Phosphor-
+ylationofULK1(hATG1)byAMP-activatedproteinkinaseconnectsenergy
+Cooper,O.,Seo,H.,Andrabi,S.,Guardia-Laguarta,C.,Graziotto,J.,Sund-
+sensingtomitophagy.Science331,456–461.
+berg,M.,McLean,J.R.,Carrillo-Reid,L.,Xie,Z.,Osborn,T.,etal.(2012).Phar-
+Ellinghaus,D.,Zhang,H.,Zeissig,S.,Lipinski,S.,Till,A.,Jiang,T.,Stade,B.,
+macologicalrescueofmitochondrialdeficitsiniPSC-derivedneuralcellsfrom
+Bromberg, Y., Ellinghaus, E., Keller, A., et al. (2013). Association between
+patientswithfamilialParkinson’sdisease.Sci.Transl.Med.4,141ra90.
+variants of PRDM1 and NDP52 and Crohn’s disease, based on exome
+Corrionero,A.,andHorvitz,H.R.(2018).AC9orf72ALS/FTDorthologactsin
+sequencingandfunctionalstudies.Gastroenterology145,339–347.
+endolysosomal degradation and lysosomal homeostasis. Curr. Biol. 28,
+Eng,C.H.,Wang,Z.,Tkach,D.,Toral-Barza,L.,Ugwonali,S.,Liu,S.,Fitzger-
+1522–1535.e5.
+ald,S.L.,George,E.,Frias,E.,Cochran,N.,etal.(2016).Macroautophagyis
+Coupe´,B.,Ishii,Y.,Dietrich,M.O.,Komatsu,M.,Horvath,T.L.,andBouret, dispensable for growth of KRAS mutant tumors and chloroquine efficacy.
+S.G. (2012). Loss of autophagy in pro-opiomelanocortin neurons perturbs Proc.Natl.Acad.Sci.USA113,182–187.
+axongrowthandcausesmetabolicdysregulation.CellMetab.15,247–255.
+Ferna´ndez, A.F., Ba´rcena, C., Martı´nez-Garcı´a, G.G., Tamargo-Go´mez, I.,
+Cullup,T.,Kho,A.L.,Dionisi-Vici,C.,Brandmeier,B.,Smith,F.,Urry,Z.,Simp- Sua´rez, M.F., Pietrocola, F., Castoldi, F., Esteban, L., Sierra-Filardi, E.,
+son,M.A.,Yau,S.,Bertini,E.,McClelland,V.,etal.(2013).Recessivemuta- Boya, P., et al. (2017). Autophagy couteractsweight gain, lipotoxicity and
+tionsinEPG5cause Vicisyndrome,amultisystemdisorder withdefective pancreaticb-celldeathuponhypercaloricpro-diabeticregimens.CellDeath
+autophagy.Nat.Genet.45,83–87. Dis.8,e2970.
+Dasari,S.K.,Bialik,S.,Levin-Zaidman,S.,Levin-Salomon,V.,Merrill,A.H.,Jr., Ferna´ndez,A.F.,Sebti,S.,Wei,Y.,Zou,Z.,Shi,M.,McMillan,K.L.,He,C.,
+Futerman,A.H.,andKimchi,A.(2017).Signalome-wideRNAiscreenidentifies Ting,T.,Liu,Y.,Chiang,W.C.,etal.(2018).Disruptionofthebeclin1-BCL2
+GBA1asapositivemediatorofautophagiccelldeath.CellDeathDiffer.24, autophagy regulatory complex promotes longevity in mice. Nature 558,
+1288–1302. 136–140.
+Deretic,V.,andLevine,B.(2018).Autophagybalancesinflammationininnate Festa,B.P.,Chen,Z.,Berquez,M.,Debaix,H.,Tokonami,N.,Prange,J.A.,
+immunity.Autophagy14,243–251. Hoek, G.V., Alessio, C., Raimondi, A., Nevo, N., et al. (2018). Impaired
+autophagybridgeslysosomalstoragediseaseandepithelialdysfunctionin
+DeSelm,C.J.,Miller,B.C.,Zou,W.,Beatty,W.L.,vanMeel,E.,Takahata,Y.,
+thekidney.Nat.Commun.9,161.
+Klumperman, J., Tooze, S.A., Teitelbaum, S.L., and Virgin, H.W. (2011).
+Autophagyproteinsregulatethesecretorycomponentofosteoclasticbone Fletcher,K.,Ulferts,R.,Jacquin,E.,Veith,T.,Gammoh,N.,Arasteh,J.M.,
+resorption.Dev.Cell21,966–974. Mayer,U.,Carding,S.R.,Wileman,T.,Beale,R.,andFlorey,O.(2018).The
+WD40domainofATG16L1isrequiredforitsnon-canonicalroleinlipidation
+Diao,J.,Liu,R.,Rong,Y.,Zhao,M.,Zhang,J.,Lai,Y.,Zhou,Q.,Wilz,L.M.,Li,
+ofLC3atsinglemembranes.EMBOJ.37,e97840.
+J.,Vivona,S.,etal.(2015).ATG14promotesmembranetetheringandfusionof
+autophagosomestoendolysosomes.Nature520,563–566. Franco,L.H.,Nair,V.R.,Scharn,C.R.,Xavier,R.J.,Torrealba,J.R.,Shiloh,
+M.U.,andLevine,B.(2017).TheubiquitinligaseSmurf1functionsinselective
+Dikic, I., and Elazar, Z. (2018). Mechanism and medical implications of
+autophagyofMycobacteriumtuberculosisandanti-tuberculoushostdefense.
+mammalianautophagy.Nat.Rev.Mol.CellBiol.19,349–364.
+CellHostMicrobe21,59–72.
+Din,F.V.,Valanciute,A.,Houde,V.P.,Zibrova,D.,Green,K.A.,Sakamoto,K.,
+Fussi,N.,Ho¨llerhage,M.,Chakroun,T.,Nyka¨nen,N.P.,Ro¨sler,T.W.,Koegl-
+Alessi,D.R.,andDunlop,M.G.(2012).AspirininhibitsmTORsignaling,acti-
+sperger,T.,Wurst,W.,Behrends,C.,andHo¨glinger,G.U.(2018).Exosomal
+vatesAMP-activatedproteinkinase,andinducesautophagyincolorectalcan-
+secretionofa-synucleinasprotectivemechanismafterupstreamblockage
+cercells.Gastroenterology142,1504–1515.e3.
+ofmacroautophagy.CellDeathDis.9,757.
+Dou,Z.,Xu,C.,Donahue,G.,Shimi,T.,Pan,J.A.,Zhu,J.,Ivanov,A.,Capell,
+Galluzzi,L.,Pietrocola,F.,Levine,B.,andKroemer,G.(2014).Metaboliccon-
+B.C.,Drake,A.M.,Shah,P.P.,etal.(2015).Autophagymediatesdegradation
+trolofautophagy.Cell159,1263–1276.
+ofnuclearlamina.Nature527,105–109.
+Galluzzi,L.,Bravo-SanPedro,J.M.,Levine,B.,Green,D.R.,andKroemer,G.
+Dower,C.M.,Wills,C.A.,Frisch,S.M.,andWang,H.G.(2018).Mechanisms (2017a).Pharmacologicalmodulationofautophagy:therapeuticpotentialand
+andcontextunderlyingtheroleofautophagyincancermetastasis.Autophagy persistingobstacles.Nat.Rev.DrugDiscov.16,487–511.
+14,1110–1128.
+Galluzzi,L.,Buque´,A.,Kepp,O.,Zitvogel,L.,andKroemer,G.(2017b).Immu-
+Drake,L.E.,Springer,M.Z.,Poole,L.P.,Kim,C.J.,andMacleod,K.F.(2017). nogeniccelldeathincancerandinfectiousdisease.Nat.Rev.Immunol.17,
+Expandingperspectivesonthesignificanceofmitophagyincancer.Semin. 97–111.
+CancerBiol.47,110–124.
+Ganesan,A.K.,Ho,H.,Bodemann,B.,Petersen,S.,Aruri,J.,Koshy,S.,Ri-
+Dreux, M., Gastaminza, P., Wieland, S.F., and Chisari, F.V. (2009). The chardson,Z.,Le,L.Q.,Krasieva,T.,Roth,M.G.,etal.(2008).Genome-wide
+autophagy machinery is required to initiate hepatitis C virus replication. siRNA-based functional genomics of pigmentation identifies novel genes
+Proc.Natl.Acad.Sci.USA106,14046–14051. and pathways that impact melanogenesis in human cells. PLoS Genet. 4,
+Dupont,N.,Jiang,S.,Pilli,M.,Ornatowski,W.,Bhattacharya,D.,andDeretic, e1000298.
+V.(2011).Autophagy-basedunconventionalsecretorypathwayforextracel- Garcı´a-Prat, L., Martı´nez-Vicente,M., Perdiguero, E., Ortet, L., Rodrı´guez-
+lulardeliveryofIL-1b.EMBOJ.30,4701–4711. Ubreva,J.,Rebollo,E.,Ruiz-Bonilla,V.,Gutarra,S.,Ballestar,E.,Serrano,
+Cell176,January10,2019 35
+
+---PAGE BREAK---
+
+A.L.,etal.(2016).Autophagymaintainsstemnessbypreventingsenescence. Ho,T.T.,Warr,M.R.,Adelman,E.R.,Lansinger,O.M.,Flach,J.,Verovskaya,
+Nature529,37–42. E.V.,Figueroa,M.E.,andPassegue´,E.(2017).Autophagymaintainsthemeta-
+Gatica,D.,Lahiri,V.,andKlionsky,D.J.(2018).Cargorecognitionanddegra- bolismandfunctionofyoungandoldstemcells.Nature543,205–210.
+dationbyselectiveautophagy.Nat.CellBiol.20,233–242. Hori,I.,Otomo,T.,Nakashima,M.,Miya,F.,Negishi,Y.,Shiraishi,H.,Nonoda,
+Gluschko,A.,Herb,M.,Wiegmann,K.,Krut,O.,Neiss,W.F.,Utermohlen,O., Y.,Magara,S.,Tohyama,J.,Okamoto,N.,etal.(2017).Defectsinautophago-
+Kronke,M.,andSchramm,M.(2018).Theb2integrinMac-1inducesprotec- some-lysosomefusionunderlieVicisyndrome,aneurodevelopmentaldisor-
+tive LC3-associated phagocytosis of Listeria monocytogenes. Cell Host derwithmultisysteminvolvement.Sci.Rep.7,3552.
+Microbe23,324–337.e5. Hui,K.Y.,Fernandez-Hernandez,H.,Hu,J.,Schaffner,A.,Pankratz,N.,Hsu,
+Gomes,L.C.,DiBenedetto,G.,andScorrano,L.(2011).Duringautophagy N.Y.,Chuang,L.S.,Carmi,S.,Villaverde,N.,Li,X.,etal.(2018).Functionalvar-
+mitochondriaelongate,aresparedfromdegradationandsustaincellviability. iantsintheLRRK2geneconfersharedeffectsonriskforCrohn’sdiseaseand
+Nat.CellBiol.13,589–598. Parkinson’sdisease.Sci.Transl.Med.10,eaai7795.
+Goode,A.,Long,J.E.,Shaw,B.,Ralston,S.H.,Visconti,M.R.,Gianfrancesco, Hurley, J.H., and Young, L.N. (2017). Mechanisms of autophagy initiation.
+F.,Esposito,T.,Gennari,L.,Merlotti,D.,Rendina,D.,etal.(2014).Pagetdis- Annu.Rev.Biochem.86,225–244.
+easeofbone-associatedUBAdomainmutationsofSQSTM1exertdistinctef- Hylin,M.J.,Zhao,J.,Tangavelou,K.,Rozas,N.S.,Hood,K.N.,MacGowan,
+fects on protein structure and function. Biochim. Biophys. Acta 1842, J.S.,Moore,A.N.,andDash,P.K.(2018).Aroleforautophagyinlong-term
+992–1000. spatialmemoryformationinmalerodents.J.Neurosci.Res.96,416–426.
+Grumati,P.,andDikic,I.(2018).Ubiquitinsignalingandautophagy.J.Biol. Imagawa,Y.,Saitoh,T.,andTsujimoto,Y.(2016).Vitalstainingforcelldeath
+Chem.293,5404–5413. identifies Atg9a-dependent necrosis in developmental bone formation in
+Grumati,P.,Morozzi,G.,Ho¨lper,S.,Mari,M.,Harwardt,M.I.,Yan,R.,Mu¨ller, mouse.Nat.Commun.7,13391.
+S.,Reggiori,F.,Heilemann,M.,andDikic,I.(2017).FulllengthRTN3regulates Jiang,P.,andMizushima,N.(2014).Autophagyandhumandiseases.CellRes.
+turnoveroftubularendoplasmicreticulumviaselectiveautophagy.eLife6. 24,69–79.
+https://doi.org/10.7554/eLife.25555. Jounai,N.,Takeshita,F.,Kobiyama,K.,Sawano,A.,Miyawaki,A.,Xin,K.Q.,
+Gstrein,T.,Edwards,A.,P(cid:1)ristoupilova´,A.,Leca,I.,Breuss,M.,Pilat-Carotta, Ishii,K.J.,Kawai,T.,Akira,S.,Suzuki,K.,andOkuda,K.(2007).TheAtg5
+S., Hansen, A.H., Tripathy, R., Traunbauer, A.K., Hochstoeger, T., et al. Atg12 conjugate associates with innate antiviral immune responses. Proc.
+(2018).MutationsinVps15perturbneuronalmigrationinmiceandareassoci- Natl.Acad.Sci.USA104,14050–14055.
+atedwithneurodevelopmentaldiseaseinhumans.Nat.Neurosci.21,207–217. Jung, H.S.,Chung, K.W.,Won Kim,J.,Kim,J.,Komatsu, M.,Tanaka,K.,
+Guo,J.Y.,Karsli-Uzunbas,G.,Mathew,R.,Aisner,S.C.,Kamphorst,J.J.,Stro- Nguyen, Y.H., Kang, T.M., Yoon, K.H., Kim, J.W., et al. (2008). Loss of
+hecker,A.M.,Chen,G.,Price,S.,Lu,W.,Teng,X.,etal.(2013).Autophagy autophagydiminishespancreaticbetacellmassandfunctionwithresultant
+suppressesprogressionofK-ras-inducedlungtumorstooncocytomasand hyperglycemia.CellMetab.8,318–324.
+maintainslipidhomeostasis.GenesDev.27,1447–1461. Kadir,R.,Harel,T.,Markus,B.,Perez,Y.,Bakhrat,A.,Cohen,I.,Volodarsky,
+Guo,H.,Chitiprolu,M.,Gagnon,D.,Meng,L.,Perez-Iratxeta,C.,Lagace,D., M., Feintsein-Linial, M., Chervinski, E., Zlotogora, J., et al. (2016). ALFY-
+andGibbings,D.(2014).Autophagysupportsgenomicstabilitybydegrading controlledDVL3autophagyregulatesWntsignaling,determininghumanbrain
+retrotransposonRNA.Nat.Commun.5,5276. size.PLoSGenet.12,e1005919.
+Guo,H.,Chitiprolu,M.,Roncevic,L.,Javalet,C.,Hemming,F.J.,Trung,M.T., Karantza-Wadsworth,V.,Patel,S.,Kravchuk,O.,Chen,G.,Mathew,R.,Jin,
+Meng,L.,Latreille,E.,TanesedeSouza,C.,McCulloch,D.,etal.(2017).Atg5 S.,andWhite,E.(2007).Autophagymitigatesmetabolicstressandgenome
+disassociatestheV1V0-ATPasetopromoteexosomeproductionandtumor damageinmammarytumorigenesis.GenesDev.21,1621–1635.
+metastasis independent of canonical macroautophagy. Dev Cell 43, Karch,J.,Schips,T.G.,Maliken,B.D.,Brody,M.J.,Sargent,M.A.,Kanisicak,
+716–730.e7. O.,andMolkentin,J.D.(2017).Autophagiccelldeathisdependentonlyso-
+Haack,T.B.,Hogarth,P.,Kruer,M.C.,Gregory,A.,Wieland,T.,Schwarzmayr, somalmembranepermeabilitythroughBaxandBak.eLife6,e30543.
+T.,Graf,E.,Sanford,L.,Meyer,E.,Kara,E.,etal.(2012).Exomesequencing Karsli-Uzunbas,G.,Guo,J.Y.,Price,S.,Teng,X.,Laddha,S.V.,Khor,S.,Ka-
+revealsdenovoWDR45mutationscausingaphenotypicallydistinct,X-linked laany, N.Y., Jacks, T., Chan, C.S., Rabinowitz, J.D., and White, E. (2014).
+dominantformofNBIA.Am.J.Hum.Genet.91,1144–1149. Autophagyisrequiredforglucosehomeostasisandlungtumormaintenance.
+Hansen,M.,Rubinsztein,D.C.,andWalker,D.W.(2018).Autophagyasapro- CancerDiscov.4,914–927.
+moteroflongevity:insightsfrommodelorganisms.Nat.Rev.Mol.CellBiol.19, Katheder,N.S.,Khezri,R.,O’Farrell,F.,Schultz,S.W.,Jain,A.,Rahman,M.M.,
+579–593. Schink,K.O.,Theodossiou,T.A.,Johansen,T.,Juha´sz,G.,etal.(2017).Micro-
+Hayashi,K.,Taura,M.,andIwasaki,A.(2018).TheinteractionbetweenIKKa environmentalautophagypromotestumourgrowth.Nature541,417–420.
+andLC3promotestypeIinterferonproductionthroughtheTLR9-containing KenzelmannBroz,D.,SpanoMello,S.,Bieging,K.T.,Jiang,D.,Dusek,R.L.,
+LAPosome.Sci.Signal.11,eaan4144. Brady,C.A.,Sidow,A.,andAttardi,L.D.(2013).Globalgenomicprofilingre-
+He,C.,Bassik,M.C.,Moresi,V.,Sun,K.,Wei,Y.,Zou,Z.,An,Z.,Loh,J.,Fisher, veals an extensive p53-regulated autophagy program contributing to key
+J., Sun, Q., et al. (2012). Exercise-induced BCL2-regulated autophagy is p53responses.GenesDev.27,1016–1031.
+requiredformuscleglucosehomeostasis.Nature481,511–515. Khaminets,A.,Heinrich,T.,Mari,M.,Grumati,P.,Huebner,A.K.,Akutsu,M.,
+Heckmann,B.L.,Boada-Romero,E.,Cunha,L.D.,Magne,J.,andGreen,D.R. Liebmann,L.,Stolz,A.,Nietzsche,S.,Koch,N.,etal.(2015).Regulationof
+(2017). LC3-associated phagocytosis and inflammation. J. Mol. Biol. 429, endoplasmicreticulumturnoverbyselectiveautophagy.Nature522,354–358.
+3561–3576. Kheloufi,M.,Boulanger,C.M.,Codogno,P.,andRautou,P.E.(2015).Autosis
+Henault,J.,Martinez,J.,Riggs,J.M.,Tian,J.,Mehta,P.,Clarke,L.,Sasai,M., occursintheliverofpatientswithsevereanorexianervosa.Hepatology62,
+Latz,E.,Brinkmann,M.M.,Iwasaki,A.,etal.(2012).Noncanonicalautophagy 657–658.
+isrequiredfortypeIinterferonsecretioninresponsetoDNA-immunecom- Kim,J.,Kim,Y.C.,Fang,C.,Russell,R.C.,Kim,J.H.,Fan,W.,Liu,R.,Zhong,
+plexes.Immunity37,986–997. Q.,andGuan,K.L.(2013a).DifferentialregulationofdistinctVps34complexes
+Herzig,S.,andShaw,R.J.(2018).AMPK:guardianofmetabolismandmito- byAMPKinnutrientstressandautophagy.Cell152,290–303.
+chondrialhomeostasis.Nat.Rev.Mol.CellBiol.19,121–135. Kim,J.Y.,Zhao,H.,Martinez,J.,Doggett,T.A.,Kolesnikov,A.V.,Tang,P.H.,
+Hessvik,N.P.,andLlorente,A.(2018).Currentknowledgeonexosomebiogen- Ablonczy,Z.,Chan,C.C.,Zhou,Z.,Green,D.R.,andFerguson,T.A.(2013b).
+esisandrelease.Cell.Mol.LifeSci.75,193–208. Noncanonicalautophagypromotesthevisualcycle.Cell154,365–376.
+36 Cell176,January10,2019
+
+---PAGE BREAK---
+
+Kim,M.,Sandford,E.,Gatica,D.,Qiu,Y.,Liu,X.,Zheng,Y.,Schulman,B.A., cytokine signaling and decreased antibacterial defense. Proc. Natl. Acad.
+Xu,J.,Semple,I.,Ro,S.H.,etal.(2016).MutationinATG5reducesautophagy Sci.USA111,7741–7746.
+andleadstoataxiawithdevelopmentaldelay.eLife5,e12245. Lassen,K.G.,McKenzie,C.I.,Mari,M.,Murano,T.,Begun,J.,Baxt,L.A.,Goel,
+Kim,M.J.,Deng,H.X.,Wong,Y.C.,Siddique,T.,andKrainc,D.(2017).The G.,Villablanca,E.J.,Kuo,S.Y.,Huang,H.,etal.(2016).Geneticcodingvariant
+Parkinson’sdisease-linkedproteinTMEM230isrequiredforRab8a-mediated inGPR65alterslysosomalpHandlinkslysosomaldysfunctionwithcolitisrisk.
+secretoryvesicletraffickingandretromertrafficking.Hum.Mol.Genet.26, Immunity44,1392–1405.
+729–741. Latunde-Dada,G.O.(2017).Ferroptosis:Roleoflipidperoxidation,ironand
+Kimmelman,A.C.,andWhite,E.(2017).Autophagyandtumormetabolism. ferritinophagy.Biochim.Biophys.Acta,Gen.Subj.1861,1893–1900.
+CellMetab.25,1037–1043. Lee,J.H.,Yu,W.H.,Kumar,A.,Lee,S.,Mohan,P.S.,Peterhoff,C.M.,Wolfe,
+Kimmey,J.M.,Huynh,J.P.,Weiss,L.A.,Park,S.,Kambal,A.,Debnath,J.,Vir- D.M.,Martinez-Vicente,M.,Massey,A.C.,Sovak,G.,etal.(2010).Lysosomal
+gin,H.W.,andStallings,C.L.(2015).UniqueroleforATG5inneutrophil-medi- proteolysis and autophagy require presenilin 1 and are disrupted by Alz-
+atedimmunopathologyduringM.tuberculosisinfection.Nature528,565–569. heimer-relatedPS1mutations.Cell141,1146–1158.
+Kimura,T.,Jain,A.,Choi,S.W.,Mandell,M.A.,Schroder,K.,Johansen,T.,and Lee,I.H.,Kawai,Y.,Fergusson,M.M.,Rovira,I.I.,Bishop,A.J.,Motoyama,N.,
+Deretic,V.(2015).TRIM-mediatedprecisionautophagytargetscytoplasmic Cao,L.,andFinkel,T.(2012).Atg7modulatesp53activitytoregulatecellcycle
+regulatorsofinnateimmunity.J.CellBiol.210,973–989. andsurvivalduringmetabolicstress.Science336,225–228.
+Kimura,T.,Jia,J.,Kumar,S.,Choi,S.W.,Gu,Y.,Mudd,M.,Dupont,N.,Jiang, Lee,P.L.,Tang,Y.,Li,H.,andGuertin,D.A.(2016).Raptor/mTORC1lossin
+S.,Peters,R.,Farzam,F.,etal.(2017).DedicatedSNAREsandspecialized adipocytes causes progressive lipodystrophy and fatty liver disease. Mol.
+TRIMcargoreceptorsmediatesecretoryautophagy.EMBOJ.36,42–60. Metab.5,422–432.
+Kitada,T.,Asakawa,S.,Hattori,N.,Matsumine,H.,Yamamura,Y.,Minosh- Lee,M.Y.,Sumpter,R.,Jr.,Zou,Z.,Sirasanagandla,S.,Wei,Y.,Mishra,P.,
+ima,S.,Yokochi,M.,Mizuno,Y.,andShimizu,N.(1998).Mutationsinthe Rosewich, H., Crane, D.I., and Levine, B. (2017a). Peroxisomal protein
+parkingenecauseautosomalrecessivejuvenileparkinsonism.Nature392, PEX13functionsinselectiveautophagy.EMBORep.18,48–60.
+605–608. Lee,P.P.,Lobato-Ma´rquez,D.,Pramanik,N.,Sirianni,A.,Daza-Cajigal,V.,
+Klionsky,D.J.,Cregg,J.M.,Dunn,W.A.,Jr.,Emr,S.D.,Sakai,Y.,Sandoval, Rivers, E., Cavazza, A., Bouma, G., Moulding, D., Hultenby, K., et al.
+I.V.,Sibirny,A.,Subramani,S.,Thumm,M.,Veenhuis,M.,andOhsumi,Y. (2017b).Wiskott-Aldrichsyndromeproteinregulatesautophagyandinflam-
+(2003).Aunifiednomenclatureforyeastautophagy-relatedgenes.Dev.Cell masomeactivityininnateimmunecells.Nat.Commun.8,1576.
+5,539–545. Lee,Y.,Jonson,P.H.,Sarparanta,J.,Palmio,J.,Sarkar,M.,Vihola,A.,Evila¨,
+Kluge,A.F.,Lagu,B.R.,Maiti,P.,Jaleel,M.,Webb,M.,Malhotra,J.,Mallat,A., A.,Suominen,T.,Penttila¨,S.,Savarese,M.,etal.(2018).TIA1variantdrives
+Srinivas,P.A.,andThompson,J.E.(2018).Novelhighlyselectiveinhibitorsof myodegeneration in multisystem proteinopathy with SQSTM1 mutations.
+ubiquitinspecificprotease30(USP30)acceleratemitophagy.Bioorg.Med. J.Clin.Invest.128,1164–1177.
+Chem.Lett.28,2655–2659. Levine,B.,andKlionsky,D.J.(2017).Autophagywinsthe2016NobelPrizein
+Koga,H.,Kaushik,S.,andCuervo,A.M.(2010).Alteredlipidcontentinhibits Physiology or Medicine: Breakthroughs in baker’s yeast fuel advances in
+autophagicvesicularfusion.FASEBJ.24,3052–3065. biomedicalresearch.Proc.Natl.Acad.Sci.USA114,201–205.
+Konno,H.,Konno,K.,andBarber,G.N.(2013).Cyclicdinucleotidestrigger Levine,B.,andKroemer,G.(2008).Autophagyinthepathogenesisofdisease.
+ULK1(ATG1)phosphorylationofSTINGtopreventsustainedinnateimmune Cell132,27–42.
+signaling.Cell155,688–698. Levine,B.,Liu,R.,Dong,X.,andZhong,Q.(2015).Beclinorthologs:integrative
+Konno,H.,Chinn,I.K.,Hong,D.,Orange,J.S.,Lupski,J.R.,Mendoza,A.,Pe- hubsofcellsignaling,membranetrafficking,andphysiology.TrendsCellBiol.
+droza,L.A.,andBarber,G.N.(2018).Pro-inflammationassociatedwithagain- 25,533–544.
+of-functionmutation(R284S)intheinnateimmunesensorSTING.CellRep.23, Li,F.,Xie,X.,Wang,Y.,Liu,J.,Cheng,X.,Guo,Y.,Gong,Y.,Hu,S.,andPan,L.
+1112–1123. (2016). Structural insights into the interaction and disease mechanism of
+Korvatska,O.,Strand,N.S.,Berndt,J.D.,Strovas,T.,Chen,D.H.,Leverenz, neurodegenerative disease-associated optineurin and TBK1 proteins. Nat.
+J.B.,Kiianitsa,K.,Mata,I.F.,Karakoc,E.,Greenup,J.L.,etal.(2013).Altered Commun.7,12708.
+splicingofATP6AP2 causesX-linked parkinsonismwithspasticity (XPDS). Li,C.,Brazill,J.M.,Liu,S.,Bello,C.,Zhu,Y.,Morimoto,M.,Cascio,L.,Pauly,
+Hum.Mol.Genet.22,3259–3268. R.,Diaz-Perez,Z.,Malicdan,M.C.V.,etal.(2017a).Sperminesynthasedefi-
+Kramer,M.H.,Farre,J.C.,Mitra,K.,Yu,M.K.,Ono,K.,Demchak,B.,Licon,K., ciency causes lysosomal dysfunction and oxidative stress in models of
+Flagg,M.,Balakrishnan,R.,Cherry,J.M.,etal.(2017).Activeinteractionmap- Snyder-Robinsonsyndrome.Nat.Commun.8,1257.
+ping reveals the hierarchical organization of autophagy. Mol Cell 65, Li,X.,Yu,W.,Qian,X.,Xia,Y.,Zheng,Y.,Lee,J.H.,Li,W.,Lyu,J.,Rao,G.,
+761–774.e5. Zhang,X.,etal.(2017b).Nucleus-translocatedACSS2promotesgenetran-
+Kriegenburg,F.,Ungermann,C.,andReggiori,F.(2018).Coordinationofauto- scriptionforlysosomalbiogenesisandautophagy.MolCell66,684–697.e9.
+phagosome-lysosome fusion by Atg8 family members. Curr. Biol. 28, Li,C.,Zhang,Y.,Cheng,X.,Yuan,H.,Zhu,S.,Liu,J.,Wen,Q.,Xie,Y.,Liu,J.,
+R512–R518. Kroemer,G.,etal.(2018a).PINK1andPARK2suppresspancreatictumorigen-
+Kroemer,G.,Marin˜o,G.,andLevine,B.(2010).Autophagyandtheintegrated esisthroughcontrolofmitochondrialiron-mediatedimmunometabolism.Dev.
+stressresponse.Mol.Cell40,280–293. Cell46,441–455.e8.
+Kuo,T.C.,Chen,C.T.,Baron,D.,Onder,T.T.,Loewer,S.,Almeida,S.,Weis- Li,H.,Li,D.,Ma,Z.,Qian,Z.,Kang,X.,Jin,X.,Li,F.,Wang,X.,Chen,Q.,Sun,
+mann,C.M.,Xu,P.,Houghton,J.M.,Gao,F.B.,etal.(2011).Midbodyaccumu- H.,andWu,S.(2018b).Defectiveautophagyinosteoblastsinducesendo-
+lationthroughevasionofautophagycontributestocellularreprogrammingand plasmicreticulumstressandcausesremarkableboneloss.Autophagy14,
+tumorigenicity.Nat.CellBiol.13,1214–1223. 1726–1741.
+Lahiri, A., Hedl, M., and Abraham,C. (2015). MTMR3 risk allele enhances Liang,X.H.,Jackson,S.,Seaman,M.,Brown,K.,Kempkes,B.,Hibshoosh,H.,
+innate receptor-induced signaling and cytokines by decreasing autophagy andLevine,B.(1999).Inductionofautophagyandinhibitionoftumorigenesis
+and increasing caspase-1 activation. Proc. Natl. Acad. Sci. USA 112, bybeclin1.Nature402,672–676.
+10461–10466. Liang,Q.,Seo,G.J.,Choi,Y.J.,Kwak,M.J.,Ge,J.,Rodgers,M.A.,Shi,M.,Le-
+Lassen,K.G.,Kuballa,P.,Conway,K.L.,Patel,K.K.,Becker,C.E.,Peloquin, slie,B.J.,Hopfner,K.P.,Ha,T.,etal.(2014).CrosstalkbetweenthecGASDNA
+J.M., Villablanca, E.J., Norman, J.M., Liu, T.C., Heath, R.J., et al. (2014). sensorandBeclin-1autophagyproteinshapesinnateantimicrobialimmune
+Atg16L1 T300A variant decreases selective autophagy resulting in altered responses.CellHostMicrobe15,228–238.
+Cell176,January10,2019 37
+
+---PAGE BREAK---
+
+Liao,X.,Sluimer,J.C.,Wang,Y.,Subramanian,M.,Brown,K.,Pattison,J.S., Mansueto,G.,Armani,A.,Viscomi,C.,D’Orsi,L.,DeCegli,R.,Polishchuk,
+Robbins,J.,Martinez,J.,andTabas,I.(2012).Macrophageautophagyplaysa E.V.,Lamperti,C.,DiMeo,I.,Romanello,V.,Marchet,S.,etal.(2017).Tran-
+protectiveroleinadvancedatherosclerosis.CellMetab.15,545–553. scriptionfactorEBcontrolsmetabolicflexibilityduringexercise.CellMetab.
+Lim,Y.M.,Lim,H.,Hur,K.Y.,Quan,W.,Lee,H.Y.,Cheon,H.,Ryu,D.,Koo, 25,182–196.
+S.H.,Kim,H.L.,Kim,J.,etal.(2014).Systemicautophagyinsufficiencycom- Marin˜o,G.,Ferna´ndez,A.F.,Cabrera,S.,Lundberg,Y.W.,Cabanillas,R.,Ro-
+promises adaptation to metabolic stress and facilitates progression from drı´guez,F.,Salvador-Montoliu,N.,Vega,J.A.,Germana`,A.,Fueyo,A.,etal.
+obesitytodiabetes.Nat.Commun.5,4934. (2010).Autophagyisessentialformousesenseofbalance.J.Clin.Invest.
+Lin,Y.C.,Chang,P.F.,Lin,H.F.,Liu,K.,Chang,M.H.,andNi,Y.H.(2016).Var- 120,2331–2344.
+iantsintheautophagy-relatedgeneIRGMconfersusceptibilitytonon-alco- Marin˜o,G.,Niso-Santano,M.,Baehrecke,E.H.,andKroemer,G.(2014a).Self-
+holicfattyliverdiseasebymodulatinglipophagy.J.Hepatol.65,1209–1216. consumption:theinterplayofautophagyandapoptosis.Nat.Rev.Mol.Cell
+Liu,F.,Fang,F.,Yuan,H.,Yang,D.,Chen,Y.,Williams,L.,Goldstein,S.A., Biol.15,81–94.
+Krebsbach, P.H., and Guan, J.L. (2013a). Suppression of autophagy by Marin˜o,G.,Pietrocola,F.,Eisenberg,T.,Kong,Y.,Malik,S.A.,Andryushkova,
+FIP200deletionleadstoosteopeniainmicethroughtheinhibitionofosteoblast A.,Schroeder,S.,Pendl,T.,Harger,A.,Niso-Santano,M.,etal.(2014b).Regu-
+terminaldifferentiation.J.BoneMiner.Res.28,2414–2430. lationofautophagybycytosolicacetyl-coenzymeA.Mol.Cell53,710–725.
+Liu,Y.,Shoji-Kawata,S.,Sumpter,R.M.,Jr.,Wei,Y.,Ginet,V.,Zhang,L.,Pos- Martinez,J.,Almendinger,J.,Oberst,A.,Ness,R.,Dillon,C.P.,Fitzgerald,P.,
+ner,B.,Tran,K.A.,Green,D.R.,Xavier,R.J.,etal.(2013b).AutosisisaNa+,K+-
+Hengartner,M.O.,andGreen,D.R.(2011).Microtubule-associatedprotein1
+ATPase-regulated form of cell death triggered by autophagy-inducing lightchain3alpha(LC3)-associatedphagocytosisisrequiredfortheefficient
+peptides,starvation,andhypoxia-ischemia.Proc.Natl.Acad.Sci.USA110, clearanceofdeadcells.Proc.Natl.Acad.Sci.USA108,17396–17401.
+20364–20371.
+Martinez,J.,Malireddi,R.K.,Lu,Q.,Cunha,L.D.,Pelletier,S.,Gingras,S.,Or-
+Liu,T.,Tang,Q.,Liu,K.,Xie,W.,Liu,X.,Wang,H.,Wang,R.F.,andCui,J.
+chard,R.,Guan,J.L.,Tan,H.,Peng,J.,etal.(2015).Molecularcharacterization
+(2016). TRIM11 suppresses AIM2 inflammasome by degrading AIM2 via
+ofLC3-associatedphagocytosisrevealsdistinctrolesforRubicon,NOX2and
+p62-dependentselectiveautophagy.CellRep.16,1988–2002.
+autophagyproteins.Nat.CellBiol.17,893–906.
+Liu,H.,Javaheri,A.,Godar,R.J.,Murphy,J.,Ma,X.,Rohatgi,N.,Mahadevan,
+Martinez,J.,Cunha,L.D.,Park,S.,Yang,M.,Lu,Q.,Orchard,R.,Li,Q.Z.,Yan,
+J.,Hyrc,K.,Saftig,P.,Marshall,C.,etal.(2017).Intermittentfastingpreserves
+M.,Janke,L.,Guy,C.,etal.(2016).Noncanonicalautophagyinhibitstheauto-
+beta-cell mass in obesity-induced diabetes via the autophagy-lysosome
+inflammatory,lupus-likeresponsetodyingcells.Nature533,115–119.
+pathway.Autophagy13,1952–1968.
+Martinez-Lopez,N.,Tarabra,E.,Toledo,M.,Garcia-Macia,M.,Sahu,S.,Co-
+Lo´pez-Otı´n,C.,Galluzzi,L.,Freije,J.M.P.,Madeo,F.,andKroemer,G.(2016).
+letto,L.,Batista-Gonzalez,A.,Barzilai,N.,Pessin,J.E.,Schwartz,G.J.,etal.
+Metaboliccontroloflongevity.Cell166,802–821.
+(2017).System-widebenefitsofintermealfastingbyautophagy.CellMetab
+Lu,K.,denBrave,F.,andJentsch,S.(2017).Receptoroligomerizationguides 26,856–871.e5.
+pathwaychoicebetweenproteasomalandautophagicdegradation.Nat.Cell
+Matsunaga,K.,Saitoh,T.,Tabata,K.,Omori,H.,Satoh,T.,Kurotori,N.,Mae-
+Biol.19,732–739.
+jima,I.,Shirahama-Noda,K.,Ichimura,T.,Isobe,T.,etal.(2009).TwoBeclin
+Lu,X.,Altshuler-Keylin,S.,Wang,Q.,Chen,Y.,HenriqueSponton,C.,Ikeda,
+1-bindingproteins,Atg14LandRubicon,reciprocallyregulateautophagyat
+K.,Maretich,P.,Yoneshiro,T.,andKajimura,S.(2018).Mitophagycontrols
+differentstages.Nat.CellBiol.11,385–396.
+beigeadipocytemaintenancethroughaParkin-dependentandUCP1-inde-
+Matsuzawa-Ishimoto, Y., Shono, Y., Gomez, L.E., Hubbard-Lucey, V.M.,
+pendentmechanism.Sci.Signal.11,eaap8526.
+Cammer, M., Neil, J., Dewan, M.Z., Lieberman, S.R., Lazrak, A., Marinis,
+Lv,M.,Wang,C.,Li,F.,Peng,J.,Wen,B.,Gong,Q.,Shi,Y.,andTang,Y.
+J.M.,etal.(2017).AutophagyproteinATG16L1preventsnecroptosisinthein-
+(2017). Structural insights into the recognition of phosphorylated FUNDC1
+testinalepithelium.J.Exp.Med.214,3687–3705.
+byLC3Binmitophagy.ProteinCell8,25–38.
+Michaud,M.,Martins,I.,Sukkurwala,A.Q.,Adjemian,S.,Ma,Y.,Pellegatti,P.,
+Ma, Y., Galluzzi, L., Zitvogel, L., and Kroemer, G. (2013). Autophagy and
+Shen,S.,Kepp,O.,Scoazec,M.,Mignot,G.,etal.(2011).Autophagy-depen-
+cellularimmuneresponses.Immunity39,211–227.
+dentanticancerimmuneresponsesinducedbychemotherapeuticagentsin
+Ma,Y.,Qi,M.,An,Y.,Zhang,L.,Yang,R.,Doro,D.H.,Liu,W.,andJin,Y. mice.Science334,1573–1577.
+(2018). Autophagy controls mesenchymal stem cell properties and senes-
+Mira,M.T.,Alca¨ıs,A.,Nguyen,V.T.,Moraes,M.O.,DiFlumeri,C.,Vu,H.T.,Mai,
+cenceduringboneaging.AgingCell17.https://doi.org/10.1111/acel.12709.
+C.P.,Nguyen,T.H.,Nguyen,N.B.,Pham,X.K.,etal.(2004).Susceptibilityto
+Madeo,F.,Eisenberg,T.,Pietrocola,F.,andKroemer,G.(2018).Spermidinein
+leprosyisassociatedwithPARK2andPACRG.Nature427,636–640.
+healthanddisease.Science359.https://doi.org/10.1126/science.aan2788.
+Miranda,A.M.,Lasiecka,Z.M.,Xu,Y.,Neufeld,J.,Shahriar,S.,Simoes,S.,
+Madeo,F.,Pietrocola,F.,Eisenberg,T.,andKroemer,G.(2014).Caloricre-
+Chan,R.B.,Oliveira,T.G.,Small,S.A.,andDiPaolo,G.(2018).Neuronallyso-
+striction mimetics: towards a molecular definition. Nat. Rev. Drug Discov.
+somaldysfunctionreleasesexosomesharboringAPPC-terminalfragments
+13,727–740.
+anduniquelipidsignatures.Nat.Commun.9,291.
+Maejima,I.,Takahashi,A.,Omori,H.,Kimura,T.,Takabatake,Y.,Saitoh,T.,
+Mitchell,G.,andIsberg,R.R.(2017).Innateimmunitytointracellularpatho-
+Yamamoto,A.,Hamasaki,M.,Noda,T.,Isaka,Y.,andYoshimori,T.(2013).
+gens:Balancingmicrobialeliminationandinflammation.CellHostMicrobe
+Autophagysequestersdamagedlysosomestocontrollysosomalbiogenesis
+22,166–175.
+andkidneyinjury.EMBOJ.32,2336–2347.
+Mizushima,N.(2018).Abriefhistoryofautophagyfromcellbiologytophysi-
+Malhotra,R.,Warne,J.P.,Salas,E.,Xu,A.W.,andDebnath,J.(2015).Lossof
+ologyanddisease.Nat.CellBiol.20,521–527.
+Atg12, but not Atg5, in pro-opiomelanocortin neurons exacerbates diet-
+inducedobesity.Autophagy11,145–154. Mizushima,N.,andKomatsu,M.(2011).Autophagy:renovationofcellsand
+tissues.Cell147,728–741.
+Mandell,M.A.,Jain,A.,Kumar,S.,Castleman,M.J.,Anwar,T.,Eskelinen,E.L.,
+Johansen, T., Prekeris, R., and Deretic, V. (2016). TRIM17 contributes to Molineros,J.E.,Yang,W.,Zhou,X.J.,Sun,C.,Okada,Y.,Zhang,H.,Heng
+autophagyofmidbodieswhileactivelysparingothertargetsfromdegradation. Chua,K.,Lau,Y.L.,Kochi,Y.,Suzuki,A.,etal.(2017).Confirmationoffive
+J.CellSci.129,3562–3573. novelsusceptibilitylociforsystemiclupuserythematosus(SLE)andintegrated
+Manjithaya,R.,Anjard,C.,Loomis,W.F.,andSubramani,S.(2010).Unconven- network analysis of 82 SLE susceptibility loci. Hum. Mol. Genet. 26,
+tional secretion of Pichia pastoris Acb1 is dependent on GRASP protein, 1205–1216.
+peroxisomal functions, and autophagosome formation. J. Cell Biol. 188, Morselli,E.,Maiuri,M.C.,Markaki,M.,Megalou,E.,Pasparaki,A.,Palikaras,
+537–546. K.,Criollo,A.,Galluzzi,L.,Malik,S.A.,Vitale,I.,etal.(2010).Caloricrestriction
+38 Cell176,January10,2019
+
+---PAGE BREAK---
+
+andresveratrolpromotelongevitythroughtheSirtuin-1-dependentinduction Pickrell,A.M.,Huang,C.H.,Kennedy,S.R.,Ordureau,A.,Sideris,D.P.,Hoek-
+ofautophagy.CellDeathDis.1,e10. stra,J.G.,Harper,J.W.,andYoule,R.J.(2015).Endogenousparkinpreserves
+Morselli, E., Marin˜o, G., Bennetzen, M.V., Eisenberg, T., Megalou, E., dopaminergicsubstantiaNigralneuronsfollowingmitochondrialDNAmuta-
+Schroeder,S.,Cabrera,S.,Be´nit,P.,Rustin,P.,Criollo,A.,etal.(2011).Sper- genicstress.Neuron87,371–381.
+midineandresveratrolinduceautophagybydistinctpathwaysconvergingon Pietrocola,F.,Pol,J.,Vacchelli,E.,Rao,S.,Enot,D.P.,Baracco,E.E.,Lev-
+theacetylproteome.J.CellBiol.192,615–629. esque,S.,Castoldi,F.,Jacquelot,N.,Yamazaki,T.,etal.(2016).Caloricre-
+Moscat,J.,Karin,M.,andDiaz-Meco,M.T.(2016).p62incancer:Signaling strictionmimeticsenhanceanticancerimmunosurveillance.CancerCell30,
+adaptorbeyondautophagy.Cell167,606–609. 147–160.
+Muniz-Feliciano, L., Doggett, T.A., Zhou, Z., and Ferguson, T.A. (2017). Pietrocola,F.,Castoldi,F.,Markaki,M.,Lachkar,S.,Chen,G.,Enot,D.P.,Du-
+RUBCN/rubiconandEGFRregulatelysosomaldegradativeprocessesinthe rand,S.,Bossut,N.,Tong,M.,Malik,S.A.,etal.(2018).Aspirinrecapitulates
+retinalpigmentepithelium(RPE)oftheeye.Autophagy13,2072–2085. featuresofcaloricrestriction.CellRep.22,2395–2407.
+Murrow,L.,Malhotra,R.,andDebnath,J.(2015).ATG12-ATG3interactswith Poulogiannis,G.,McIntyre,R.E.,Dimitriadi,M.,Apps,J.R.,Wilson,C.H.,Ichi-
+Alixtopromotebasalautophagicfluxandlateendosomefunction.Nat.Cell mura,K.,Luo,F.,Cantley,L.C.,Wyllie,A.H.,Adams,D.J.,andArends,M.J.
+Biol.17,300–310. (2010).PARK2deletionsoccurfrequentlyinsporadiccolorectalcancerand
+accelerate adenoma development in Apc mutant mice. Proc. Natl. Acad.
+Murthy,A.,Li,Y.,Peng,I.,Reichelt,M.,Katakam,A.K.,Noubade,R.,Roose-
+Sci.USA107,15145–15150.
+Girma,M.,DeVoss,J.,Diehl,L.,Graham,R.R.,andvanLookerenCampagne,
+M.(2014).ACrohn’sdiseasevariantinAtg16l1enhancesitsdegradationby Puertollano,R.,Ferguson,S.M.,Brugarolas,J.,andBallabio,A.(2018).The
+caspase3.Nature506,456–462. complex relationship between TFEB transcription factor phosphorylation
+andsubcellularlocalization.EMBOJ.37,e98804.
+Na,H.J.,Pyo,J.H.,Jeon,H.J.,Park,J.S.,Chung,H.Y.,andYoo,M.A.(2018).
+DeficiencyofAtg6impairsbeneficialeffectofmetforminonintestinalstemcell Pyo,J.O.,Yoo,S.M.,Ahn,H.H.,Nah,J.,Hong,S.H.,Kam,T.I.,Jung,S.,and
+aginginDrosophila.Biochem.Biophys.Res.Commun.498,18–24. Jung,Y.K.(2013).OverexpressionofAtg5inmiceactivatesautophagyandex-
+tendslifespan.Nat.Commun.4,2300.
+Napolitano,G.,andBallabio,A.(2016).TFEBataglance.J.CellSci.129,
+2475–2481. Qu,X.,Yu,J.,Bhagat,G.,Furuya,N.,Hibshoosh,H.,Troxel,A.,Rosen,J.,Es-
+kelinen,E.L.,Mizushima,N.,Ohsumi,Y.,etal.(2003).Promotionoftumorigen-
+Nassif, M.,Woehlbier, U.,andManque,P.A. (2017).Theenigmaticroleof
+esisbyheterozygousdisruptionofthebeclin1autophagygene.J.Clin.Invest.
+C9ORF72inautophagy.Front.Neurosci.11,442.
+112,1809–1820.
+Nguyen,T.B.,Louie,S.M.,Daniele,J.R.,Tran,Q.,Dillin,A.,Zoncu,R.,Nomura,
+Quan,W.,Kim,H.K.,Moon,E.Y.,Kim,S.S.,Choi,C.S.,Komatsu,M.,Jeong,
+D.K.,andOlzmann,J.A.(2017).DGAT1-dependentlipiddropletbiogenesis
+Y.T.,Lee,M.K.,Kim,K.W.,Kim,M.S.,andLee,M.S.(2012).Roleofhypotha-
+protects mitochondrial function during starvation-induced autophagy. Dev
+lamicproopiomelanocortinneuronautophagyinthecontrolofappetiteand
+Cell42,9–21.e5.
+leptinresponse.Endocrinology153,1817–1826.
+Nishimura,T.,Kaizuka,T.,Cadwell,K.,Sahani,M.H.,Saitoh,T.,Akira,S.,Vir-
+gin,H.W.,andMizushima,N.(2013).FIP200regulatestargetingofAtg16L1to Raz, Y., Guerrero-Ros, I., Maier, A., Slagboom, P.E., Atzmon, G., Barzilai,
+theisolationmembrane.EMBORep.14,284–291. N., and Macian, F. (2017). Activation-induced autophagy is preserved in
+CD4+ T-cells in familial longevity. J. Gerontol. A Biol. Sci. Med. Sci. 72,
+Nishino,I.,Fu,J.,Tanji,K.,Yamada,T.,Shimojo,S.,Koori,T.,Mora,M.,Riggs,
+1201–1206.
+J.E., Oh, S.J., Koga, Y., et al. (2000). Primary LAMP-2 deficiency causes
+X-linked vacuolar cardiomyopathy and myopathy (Danon disease). Nature Razani,B.,Feng,C.,Coleman,T.,Emanuel,R.,Wen,H.,Hwang,S.,Ting,J.P.,
+406,906–910. Virgin,H.W.,Kastan,M.B.,andSemenkovich,C.F.(2012).Autophagylinksin-
+flammasomestoatheroscleroticprogression.CellMetab.15,534–544.
+Ochotny,N.,Voronov,I.,Owen,C.,Aubin,J.E.,andManolson,M.F.(2013).
+The R740S mutation in the V-ATPase a3 subunit results in osteoclast Reddy,P.H.,Yin,X.,Manczak,M.,Kumar,S.,Pradeepkiran,J.A.,Vijayan,M.,
+apoptosis and defective early-stage autophagy. J. Cell. Biochem. 114, and Reddy, A.P. (2018). Mutant APP and amyloid beta-induced defective
+2823–2833. autophagy,mitophagy,mitochondrialstructuralandfunctionalchangesand
+synapticdamageinhippocampalneuronsfromAlzheimer’sdisease.Hum.
+Onal, M., Piemontese, M., Xiong, J., Wang, Y., Han, L., Ye, S., Komatsu,
+Mol.Genet.27,2502–2516.
+M., Selig, M., Weinstein, R.S., Zhao, H., et al. (2013). Suppression of
+autophagy in osteocytes mimics skeletal aging. J. Biol. Chem. 288, Redmann,V.,Lamb,C.A.,Hwang,S.,Orchard,R.C.,Kim,S.,Razi,M.,Mi-
+17432–17440. lam, A., Park, S., Yokoyama, C.C., Kambal, A., et al. (2016). Clec16a is
+critical for autolysosome function and Purkinje cell survival. Sci. Rep.
+Park,J.M.,Seo,M.,Jung,C.H.,Grunwald,D.,Stone,M.,Otto,N.M.,Toso,E.,
+6, 23326.
+Ahn,Y.,Kyba,M.,Griffin,T.J.,etal.(2018).ULK1phosphorylatesSer30of
+BECN1 in association with ATG14 to stimulate autophagy induction. Rello-Varona,S.,Lissa,D.,Shen,S.,Niso-Santano,M.,Senovilla,L.,Marin˜o,
+Autophagy14,584–597. G., Vitale, I., Jemaa´, M., Harper, F., Pierron, G., et al. (2012). Autophagic
+removalofmicronuclei.CellCycle11,170–176.
+Patel,K.K.,Miyoshi,H.,Beatty,W.L.,Head,R.D.,Malvin,N.P.,Cadwell,K.,
+Guan,J.L.,Saitoh,T.,Akira,S.,Seglen,P.O.,etal.(2013).Autophagyproteins Rocchi,A.,Yamamoto,S.,Ting,T.,Fan,Y.,Sadleir,K.,Wang,Y.,Zhang,W.,
+controlgobletcellfunctionbypotentiatingreactiveoxygenspeciesproduc- Huang,S.,Levine,B.,Vassar,R.,andHe,C.(2017).ABecn1mutationmedi-
+tion.EMBOJ.32,3130–3144. ateshyperactiveautophagicsequestrationofamyloidoligomersandimproved
+cognitioninAlzheimer’sdisease.PLoSGenet.13,e1006962.
+Pattabiraman, D.R., and Weinberg, R.A. (2014). Tackling the cancer stem
+cells-whatchallengesdotheypose?Nat.Rev.DrugDiscov.13,497–512. Rojansky,R.,Cha,M.Y.,andChan,D.C.(2016).Eliminationofpaternalmito-
+chondriainmouseembryosoccursthroughautophagicdegradationdepen-
+Peng,Y.,Shapiro,S.L.,Banduseela,V.C.,Dieterich,I.A.,Hewitt,K.J.,Bres-
+dentonPARKINandMUL1.eLife5,e17896.
+nick, E.H., Kong, G., Zhang, J., Schueler, K.L., Keller, M.P., et al. (2018).
+Increasedtransportofacetyl-CoAintotheendoplasmicreticulumcausesa Rosenfeldt,M.T.,O’Prey,J.,Morton,J.P.,Nixon,C.,MacKay,G.,Mrowinska,
+progeria-likephenotype.AgingCell17,e12820. A.,Au,A.,Rai,T.S.,Zheng,L.,Ridgway,R.,etal.(2013).p53statusdetermines
+the role of autophagy in pancreatic tumour development. Nature 504,
+Perera,R.M.,Stoykova,S.,Nicolay,B.N.,Ross,K.N.,Fitamant,J.,Boukhali,
+296–300.
+M.,Lengrand,J.,Deshpande,V.,Selig,M.K.,Ferrone,C.R.,etal.(2015).Tran-
+scriptionalcontrolofautophagy-lysosomefunctiondrivespancreaticcancer Rostislavleva,K.,Soler,N.,Ohashi,Y.,Zhang,L.,Pardon,E.,Burke,J.E.,Mas-
+metabolism.Nature524,361–365. son,G.R.,Johnson,C.,Steyaert,J.,Ktistakis,N.T.,andWilliams,R.L.(2015).
+Cell176,January10,2019 39
+
+---PAGE BREAK---
+
+StructureandflexibilityoftheendosomalVps34complexrevealsthebasisof atedAtg14porchestratem-lipophagyforenergyproductionandlong-termsur-
+itsfunctiononmembranes.Science350,aac7365. vivalunderglucosestarvation.eLife6,e21690.
+Roy,S.,Leidal,A.M.,Ye,J.,Ronen,S.M.,andDebnath,J.(2017).Autophagy- Seong,E.,Insolera,R.,Dulovic,M.,Kamsteeg,E.J.,Trinh,J.,Bru¨ggemann,N.,
+dependentshuttlingofTBC1D5controlsplasmamembranetranslocationof Sandford,E.,Li,S.,Ozel,A.B.,Li,J.Z.,etal.(2018).MutationsinVPS13Dlead
+GLUT1andglucoseuptake.MolCell67,84–95e85. to a new recessive ataxia with spasticity and mitochondrial defects. Ann.
+Rujano,M.A.,CannataSerio,M.,Panasyuk,G.,Pe´anne,R.,Reunert,J.,Ry- Neurol.83,1075–1088.
+men,D.,Hauser,V.,Park,J.H.,Freisinger,P.,Souche,E.,etal.(2017).Muta- Settembre,C.,DeCegli,R.,Mansueto,G.,Saha,P.K.,Vetrini,F.,Visvikis,O.,
+tionsintheX-linkedATP6AP2causeaglycosylationdisorderwithautophagic Huynh,T.,Carissimo,A.,Palmer,D.,Klisch,T.J.,etal.(2013a).TFEBcontrols
+defects.J.Exp.Med.214,3707–3729. cellular lipidmetabolismthrough astarvation-inducedautoregulatory loop.
+Rybstein,M.D.,Bravo-SanPedro,J.M.,Kroemer,G.,andGalluzzi,L.(2018). Nat.CellBiol.15,647–658.
+Theautophagicnetworkandcancer.Nat.CellBiol.20,243–251. Settembre,C.,Fraldi,A.,Medina,D.L.,andBallabio,A.(2013b).Signalsfrom
+Saitoh,T.,Fujita,N.,Jang,M.H.,Uematsu,S.,Yang,B.G.,Satoh,T.,Omori,H., thelysosome:acontrolcentreforcellularclearanceandenergymetabolism.
+Noda,T.,Yamamoto,N.,Komatsu,M.,etal.(2008).Lossoftheautophagy Nat.Rev.Mol.CellBiol.14,283–296.
+proteinAtg16L1enhancesendotoxin-inducedIL-1bproduction.Nature456, Shen,H.M.,andMizushima,N.(2014).Attheendoftheautophagicroad:an
+264–268. emerging understandingof lysosomal functions in autophagy. Trends Bio-
+Saitoh,T.,Fujita,N.,Hayashi,T.,Takahara,K.,Satoh,T.,Lee,H.,Matsunaga, chem.Sci.39,61–71.
+K.,Kageyama,S.,Omori,H.,Noda,T.,etal.(2009).Atg9acontrolsdsDNA- Shigeyama,Y.,Kobayashi,T.,Kido,Y.,Hashimoto,N.,Asahara,S.,Matsuda,
+driven dynamic translocation of STING and the innate immune response. T.,Takeda,A.,Inoue,T.,Shibutani,Y.,Koyanagi,M.,etal.(2008).Biphasic
+Proc.Natl.Acad.Sci.USA106,20842–20846. responseofpancreaticb-cellmasstoablationoftuberoussclerosiscomplex
+Saitsu,H.,Nishimura,T.,Muramatsu,K.,Kodera,H.,Kumada,S.,Sugai,K., 2inmice.Mol.Cell.Biol.28,2971–2979.
+Kasai-Yoshida, E., Sawaura, N., Nishida, H., Hoshino, A., et al. (2013). Shim,M.S.,Takihara,Y.,Kim,K.Y.,Iwata,T.,Yue,B.Y.,Inatani,M.,Weinreb,
+DenovomutationsintheautophagygeneWDR45causestaticencephalopa- R.N.,Perkins,G.A.,andJu,W.K.(2016).Mitochondrialpathogenicmechanism
+thy of childhood with neurodegeneration in adulthood. Nat Genet 45, anddegradationinoptineurinE50Kmutation-mediatedretinalganglioncell
+445–449.e1. degeneration.Sci.Rep.6,33830.
+Sakamaki,J.I.,Wilkinson,S.,Hahn,M.,Tasdemir,N.,O’Prey,J.,Clark,W., Shoji-Kawata,S.,Sumpter,R.,Leveno,M.,Campbell,G.R.,Zou,Z.,Kinch,L.,
+Hedley,A.,Nixon,C.,Long,J.S.,New,M.,etal.(2017).Bromodomainprotein Wilkins,A.D.,Sun,Q.,Pallauf,K.,MacDuff,D.,etal.(2013).Identificationofa
+BRD4isatranscriptionalrepressorofautophagyandlysosomalfunction.Mol candidatetherapeuticautophagy-inducingpeptide.Nature494,201–206.
+Cell66,517–532.e9. Silva,I.A.L.,Conceic¸a˜o,N.,Gagnon,E´.,Caiado,H.,Brown,J.P.,Gianfran-
+Sandoval,H.,Thiagarajan,P.,Dasgupta,S.K.,Schumacher,A.,Prchal,J.T., cesco,F.,Michou,L.,andCancela,M.L.(2018).Effectofgeneticvariantsof
+Chen,M.,andWang,J.(2008).EssentialroleforNixinautophagicmaturation OPTNinthepathophysiologyofPaget’sdiseaseofbone.BiochimBiophys
+oferythroidcells.Nature454,232–235. ActaMolBasisDis1864,143–151.
+Sanjuan,M.A.,Dillon,C.P.,Tait,S.W.,Moshiach,S.,Dorsey,F.,Connell,S., Simon,H.U.,Friis,R.,Tait,S.W.,andRyan,K.M.(2017).Retrogradesignaling
+Komatsu, M., Tanaka, K., Cleveland, J.L., Withoff, S., and Green, D.R. fromautophagymodulatesstressresponses.Sci.Signal.10,eaag2791.
+(2007). Toll-like receptor signalling in macrophages links the autophagy Singh,R.,Kaushik,S.,Wang,Y.,Xiang,Y.,Novak,I.,Komatsu,M.,Tanaka,K.,
+pathwaytophagocytosis.Nature450,1253–1257. Cuervo,A.M.,andCzaja,M.J.(2009).Autophagyregulateslipidmetabolism.
+Sarkar,S.(2013).RegulationofautophagybymTOR-dependentandmTOR- Nature458,1131–1135.
+independent pathways: autophagy dysfunction in neurodegenerative dis- Sliter,D.A.,Martinez,J.,Hao,L.,Chen,X.,Sun,N.,Fischer,T.D.,Burman,J.L.,
+easesandtherapeuticapplicationofautophagyenhancers.Biochem.Soc. Li, Y., Zhang, Z., Narendra, D.P., et al. (2018). Parkin and PINK1 mitigate
+Trans.41,1103–1130. STING-inducedinflammation.Nature561,258–262.
+Saxton,R.A., andSabatini,D.M. (2017).mTOR signaling ingrowth,meta- Smith,M.D.,Harley,M.E.,Kemp,A.J.,Wills,J.,Lee,M.,Arends,M.,vonKrieg-
+bolism,anddisease.Cell169,361–371. sheim,A.,Behrends,C.,andWilkinson,S.(2018).CCPG1isanon-canonical
+Sbardella,D.,Tundo,G.R.,Campagnolo,L.,Valacchi,G.,Orlandi,A.,Cura- autophagycargoreceptoressentialforER-phagyandpancreaticERproteo-
+tolo, P., Borsellino, G., D’Esposito, M., Ciaccio, C., Cesare, S.D., et al. stasis.DevCell44,217–232.e11.
+(2017).Retentionofmitochondriainmaturehumanredbloodcellsastheresult Soleimanpour,S.A.,Gupta,A.,Bakay,M.,Ferrari,A.M.,Groff,D.N.,Fadista,
+ofautophagyimpairmentinRettSyndrome.Sci.Rep.7,12297. J.,Spruce,L.A.,Kushner,J.A.,Groop,L.,Seeholzer,S.H.,etal.(2014).The
+Schapira,A.H.(2015).GlucocerebrosidaseandParkinsondisease:Recentad- diabetes susceptibility gene Clec16a regulates mitophagy. Cell 157,
+vances.Mol.Cell.Neurosci.66(PtA),37–42. 1577–1590.
+Scharl, M., Wojtal, K.A., Becker, H.M., Fischbeck, A., Frei, P., Arikkat, J., Song,X.,Zhu,S.,Chen,P.,Hou,W.,Wen,Q.,Liu,J.,Xie,Y.,Liu,J.,Klionsky,
+Pesch,T.,Kellermeier,S.,Boone,D.L.,Weber,A.,etal.(2012).Proteintyrosine D.J.,Kroemer,G.,etal.(2018).AMPK-mediatedBECN1phosphorylationpro-
+phosphatasenonreceptortype2regulatesautophagosomeformationinhu- motes ferroptosis bydirectly blockingsystemXc(-) activity. Curr. Biol.28,
+manintestinalcells.Inflamm.BowelDis.18,1287–1302. 2388–2399.e5.
+Schoner,W.(2002).Endogenouscardiacglycosides,anewclassofsteroid Soria,L.R.,Allegri,G.,Melck,D.,Pastore,N.,Annunziata,P.,Paris,D.,Polish-
+hormones.Eur.J.Biochem.269,2440–2448. chuk,E.,Nusco,E.,Tho¨ny,B.,Motta,A.,etal.(2018).Enhancementofhepatic
+Schulze,R.J.,Rasineni,K.,Weller,S.G.,Schott,M.B.,Schroeder,B.,Casey, autophagy increases ureagenesis and protects against hyperammonemia.
+C.A.,andMcNiven,M.A.(2017).Ethanolexposureinhibitshepatocytelipoph- Proc.Natl.Acad.Sci.USA115,391–396.
+agybyinactivatingthesmallguanosinetriphosphataseRab7.HepatolCom- Starr,T.,Child,R.,Wehrly,T.D.,Hansen,B.,Hwang,S.,Lo´pez-Otin,C.,Virgin,
+mun1,140–152. H.W.,andCelli,J.(2012).Selectivesubversionofautophagycomplexesfacil-
+Schuster,C.,Gerold,K.D.,Schober,K.,Probst,L.,Boerner,K.,Kim,M.J., itates completion of the Brucella intracellular cycle. Cell Host Microbe 11,
+Ruckdeschel,A.,Serwold,T.,andKissler,S.(2015).Theautoimmunity-asso- 33–45.
+ciatedgeneCLEC16Amodulatesthymicepithelialcellautophagyandalters Stenbeck,G.,andCoxon,F.P.(2014).Roleofvesiculartraffickinginskeletal
+Tcellselection.Immunity42,942–952. dynamics.Curr.Opin.Pharmacol.16,7–14.
+Seo,A.Y.,Lau,P.W.,Feliciano,D.,Sengupta,P.,Gros,M.A.L.,Cinquin,B., Su,H.,Yang,F.,Wang,Q.,Shen,Q.,Huang,J.,Peng,C.,Zhang,Y.,Wan,W.,
+Larabell,C.A.,andLippincott-Schwartz,J.(2017).AMPKandvacuole-associ- Wong,C.C.L.,Sun,Q.,etal.(2017).VPS34acetylationcontrolsitslipidkinase
+40 Cell176,January10,2019
+
+---PAGE BREAK---
+
+activityandtheinitiationofcanonicalandnon-canonicalautophagy.MolCell Wang,Y.,Zhang,N.,Zhang,L.,Li,R.,Fu,W.,Ma,K.,Li,X.,Wang,L.,Wang,J.,
+67,907–921.e7. Zhang,H.,etal.(2016).AutophagyregulateschromatinubiquitinationinDNA
+damageresponsethrougheliminationofSQSTM1/p62.Mol.Cell63,34–48.
+Sumpter, R., Jr., Sirasanagandla, S., Ferna´ndez, A.F., Wei, Y., Dong, X.,
+Franco,L.,Zou,Z.,Marchal,C.,Lee,M.Y.,Clapp,D.W.,etal.(2016).Fanconi Watada, H., and Fujitani, Y. (2015). Minireview: Autophagy in pancreatic
+anemiaproteinsfunctioninmitophagyandimmunity.Cell165,867–881. b-cellsanditsimplicationindiabetes.Mol.Endocrinol.29,338–348.
+Sun,T.,Li,X.,Zhang,P.,Chen,W.D.,Zhang,H.L.,Li,D.D.,Deng,R.,Qian, Webster,B.R.,Scott,I.,Han,K.,Li,J.H.,Lu,Z.,Stevens,M.V.,Malide,D.,
+X.J.,Jiao,L.,Ji,J.,etal.(2015).AcetylationofBeclin1inhibitsautophagosome Chen,Y.,Samsel,L.,Connelly,P.S.,etal.(2013).Restrictedmitochondrial
+maturationandpromotestumourgrowth.Nat.Commun.6,7215. protein acetylation initiates mitochondrial autophagy. J. Cell Sci. 126,
+4843–4849.
+Sun, Y., Yao, X., Zhang, Q.J., Zhu, M., Liu, Z.P., Ci, B., Xie, Y., Carlson,
+D., Rothermel, B.A., Sun, Y., et al. (2018). Beclin-1-dependent autophagy Wei,Y.,Pattingre,S.,Sinha,S.,Bassik,M.,andLevine,B.(2008).JNK1-medi-
+protects the heart during sepsis. Circulation 138, 2247–2262. atedphosphorylationofBcl-2regulatesstarvation-inducedautophagy.Mol.
+Cell30,678–688.
+Suzuki,S.W.,Yamamoto,H.,Oikawa,Y.,Kondo-Kakuta,C.,Kimura,Y.,Hir-
+ano,H.,andOhsumi,Y.(2015).Atg13HORMAdomainrecruitsAtg9vesicles Wei,Y.,Zou,Z.,Becker,N.,Anderson,M.,Sumpter,R.,Xiao,G.,Kinch,L.,Ko-
+duringautophagosomeformation.Proc.Natl.Acad.Sci.USA112,3350–3355. duru,P.,Christudass,C.S.,Veltri,R.W.,etal.(2013).EGFR-mediatedBeclin1
+phosphorylation in autophagy suppression, tumor progression, and tumor
+Tanaka,Y.,Guhde,G.,Suter,A.,Eskelinen,E.L.,Hartmann,D.,Lu¨llmann-
+chemoresistance.Cell154,1269–1284.
+Rauch,R.,Janssen,P.M.,Blanz,J.,vonFigura,K.,andSaftig,P.(2000).Accu-
+mulation of autophagic vacuoles and cardiomyopathy in LAMP-2-deficient Wei,Y.,An,Z.,Zou,Z.,Sumpter,R.,Su,M.,Zang,X.,Sinha,S.,Gaestel,M.,
+mice.Nature406,902–906. andLevine,B.(2015).Thestress-responsivekinasesMAPKAPK2/MAPKAPK3
+activate starvation-induced autophagy through Beclin 1 phosphorylation.
+Tanaka, S., Hikita, H., Tatsumi, T., Sakamori, R., Nozaki, Y., Sakane, S.,
+eLife4..https://doi.org/10.7554/eLife.05289.
+Shiode,Y.,Nakabori,T.,Saito,Y.,Hiramatsu,N.,etal.(2016).Rubiconinhibits
+autophagyandaccelerateshepatocyteapoptosisandlipidaccumulationin Wei,Y.,Chiang,W.C.,Sumpter,R.,Jr.,Mishra,P.,andLevine,B.(2017).Pro-
+nonalcoholicfattyliverdiseaseinmice.Hepatology64,1994–2014. hibitin2isaninnermitochondrialmembranemitophagyreceptor.Cell168,
+224–238.e10.
+Tang,H.,Sebti,S.,Titone,R.,Zhou,Y.,Isidoro,C.,Ross,T.S.,Hibshoosh,H.,
+Xiao,G.,Packer,M.,Xie,Y.,etal.(2015).DecreasedBECN1mRNAexpres- White,J.P., Billin,A.N.,Campbell,M.E., Russell,A.J.,Huffman,K.M.,and
+sioninhumanbreastcancerisassociatedwithestrogenreceptor-negative Kraus,W.E.(2018).TheAMPK/p27(Kip1)axisregulatesautophagy/apoptosis
+subtypesandpoorprognosis.EBioMedicine2,255–263. decisionsinagedskeletalmusclestemcells.StemCellReports11,425–439.
+Tian,Y.,Li,Z.,Hu,W.,Ren,H.,Tian,E.,Zhao,Y.,Lu,Q.,Huang,X.,Yang,P., Wong,Y.C.,andHolzbaur,E.L.(2014).Optineurinisanautophagyreceptorfor
+Li,X.,etal.(2010).C.elegansscreenidentifiesautophagygenesspecificto damagedmitochondriainparkin-mediatedmitophagythatisdisruptedbyan
+multicellularorganisms.Cell141,1042–1055. ALS-linkedmutation.Proc.Natl.Acad.Sci.USA111,E4439–E4448.
+Todoric,J.,Antonucci,L.,DiCaro,G.,Li,N.,Wu,X.,Lytle,N.K.,Dhar,D., Wu,W.,Tian,W.,Hu,Z.,Chen,G.,Huang,L.,Li,W.,Zhang,X.,Xue,P.,Zhou,
+Banerjee, S., Fagman, J.B., Browne, C.D., et al. (2017). Stress-activated C.,Liu,L.,etal.(2014).ULK1translocatestomitochondriaandphosphorylates
+NRF2-MDM2cascadecontrolsneoplasticprogressioninpancreas.Cancer FUNDC1toregulatemitophagy.EMBORep.15,566–575.
+Cell32,824–839.e8. Wyant,G.A.,Abu-Remaileh,M.,Frenkel,E.M.,Laqtom,N.N.,Dharamdasani,
+Tschurtschenthaler,M.,Adolph,T.E.,Ashcroft,J.W.,Niederreiter,L.,Bharti, V., Lewis, C.A., Chan, S.H., Heinze, I., Ori, A., and Sabatini, D.M. (2018).
+R., Saveljeva, S., Bhattacharyya, J., Flak, M.B., Shih, D.Q., Fuhler, G.M., NUFIP1 is a ribosome receptor for starvation-induced ribophagy. Science
+etal.(2017).DefectiveATG16L1-mediatedremovalofIRE1adrivesCrohn’s 360,751–758.
+disease-likeileitis.J.Exp.Med.214,401–422. Xu,L.,Lin,D.C.,Yin,D.,andKoeffler,H.P.(2014).AnemergingroleofPARK2
+Tsuboyama,K.,Koyama-Honda,I.,Sakamaki,Y.,Koike,M.,Morishita,H.,and incancer.J.Mol.Med.(Berl.)92,31–42.
+Mizushima,N.(2016).TheATGconjugationsystemsareimportantfordegra- Yang,A.,Herter-Sprie,G.,Zhang,H.,Lin,E.Y.,Biancur,D.,Wang,X.,Deng,J.,
+dationoftheinnerautophagosomalmembrane.Science354,1036–1041. Hai,J.,Yang,S.,Wong,K.K.,andKimmelman,A.C.(2018).Autophagysus-
+Ueno,T.,andKomatsu,M.(2017).Autophagyintheliver:functionsinhealth tainspancreaticcancergrowththroughbothcell-autonomousandnonauton-
+anddisease.Nat.Rev.Gastroenterol.Hepatol.14,170–184. omousmechanisms.CancerDiscov.8,276–287.
+Ulgherait,M.,Rana,A.,Rera,M.,Graniel,J.,andWalker,D.W.(2014).AMPK Yoshida,Y.,Yasuda,S.,Fujita,T.,Hamasaki,M.,Murakami,A.,Kawawaki,J.,
+modulatestissueandorganismalaginginanon-cell-autonomousmanner.Cell Iwai,K.,Saeki,Y.,Yoshimori,T.,Matsuda,N.,andTanaka,K.(2017).Ubiqui-
+Rep.8,1767–1780.
+tinationofexposedglycoproteinsbySCFFBXO27directsdamagedlysosomes
+forautophagy.Proc.Natl.Acad.Sci.USA114,8574–8579.
+Valente,G.,Morani,F.,Nicotra,G.,Fusco,N.,Peracchio,C.,Titone,R.,Ala-
+biso,O.,Arisio,R.,Katsaros,D.,Benedetto,C.,andIsidoro,C.(2014).Expres- Yu,L.,Chen,Y.,andTooze,S.A.(2018).Autophagypathway:Cellularandmo-
+sionandclinicalsignificanceoftheautophagyproteinsBECLIN1andLC3in lecularmechanisms.Autophagy14,207–215.
+ovariancancer.BioMedRes.Int.2014,462658. Yue,Z.,Jin,S.,Yang,C.,Levine,A.J.,andHeintz,N.(2003).Beclin1,anauto-
+vanBeek,N.,Klionsky,D.J.,andReggiori,F.(2018).Geneticaberrationsin phagygeneessentialforearlyembryonicdevelopment,isahaploinsufficient
+macroautophagygenesleadingtodiseases.BiochimBiophysActaMolCell tumorsuppressor.Proc.Natl.Acad.Sci.USA100,15077–15082.
+Res1865,803–816. Zechner,R.,Madeo,F.,andKratky,D.(2017).Cytosoliclipolysisandlipoph-
+Vega-Rubı´n-de-Celis,S.,Zou,Z.,Ferna´ndez,A.F.,Ci,B.,Kim,M.,Xiao,G., agy:twosidesofthesamecoin.Nat.Rev.Mol.CellBiol.18,671–684.
+Xie,Y.,andLevine,B.(2018).IncreasedautophagyblocksHER2-mediated Zhang,J.,Tripathi,D.N.,Jing,J.,Alexander,A.,Kim,J.,Powell,R.T.,Dere,R.,
+breasttumorigenesis.Proc.Natl.Acad.Sci.USA115,4176–4181. Tait-Mulder,J.,Lee,J.H.,Paull,T.T.,etal.(2015a).ATMfunctionsattheperox-
+Wang,R.C.,Wei,Y.,An,Z.,Zou,Z.,Xiao,G.,Bhagat,G.,White,M.,Reichelt, isometoinducepexophagyinresponsetoROS.Nat.CellBiol.17,1259–1269.
+J.,andLevine,B.(2012).Akt-mediatedregulationofautophagyandtumori- Zhang,M.,Kenny,S.J.,Ge,L.,Xu,K.,andSchekman,R.(2015b).Transloca-
+genesisthroughBeclin1phosphorylation.Science338,956–959. tionofinterleukin-1bintoavesicleintermediateinautophagy-mediatedsecre-
+tion.eLife4,e11205.
+Wang,C.,Liang,C.C.,Bian,Z.C.,Zhu,Y.,andGuan,J.L.(2013).FIP200is
+requiredformaintenanceanddifferentiationofpostnatalneuralstemcells. Zhang,Y.,Sowers,J.R.,andRen,J.(2018a).Targetingautophagyinobesity:
+Nat.Neurosci.16,532–542. frompathophysiologytomanagement.Nat.Rev.Endocrinol.14,356–376.
+Cell176,January10,2019 41
+
+---PAGE BREAK---
+
+Zhang,Z.,Yao,Z.,Chen,Y.,Qian,L.,Jiang,S.,Zhou,J.,Shao,J.,Chen,A., Zhou,R.,Yazdi,A.S.,Menu,P.,andTschopp,J.(2011).Aroleformitochondria
+Zhang,F.,andZheng,S.(2018b).Lipophagyandliverdisease:Newperspec- inNLRP3inflammasomeactivation.Nature469,221–225.
+tives to better understanding and therapy. Biomed. Pharmacother. 97, Zhu,P.,Sieben,C.J.,Xu,X.,Harris,P.C.,andLin,X.(2017).Autophagyactiva-
+339–348. torssuppresscystogenesisinanautosomaldominantpolycystickidneydis-
+Zhao,Y.,Huang,S.,Liu,J.,Wu,X.,Zhou,S.,Dai,K.,andKou,Y.(2018).Mi- easemodel.Hum.Mol.Genet.26,158–172.
+tophagycontributestothepathogenesisofinflammatorydiseases.Inflamma- Zi,Z.,Song,Z.,Zhang,S.,Ye,Y.,Li,C.,Xu,M.,Zou,Y.,He,L.,andZhu,H.
+tion41,1590–1600. (2015).Rubicondeficiencyenhancescardiacautophagyandprotectsmice
+Zhong,Z.,Sanchez-Lopez,E.,andKarin,M.(2016).Autophagy,inflammation, from lipopolysaccharide-induced lethality and reduction in stroke volume.
+andimmunity:Atroikagoverningcanceranditstreatment.Cell166,288–298. J.Cardiovasc.Pharmacol.65,252–261.
+42 Cell176,January10,2019
+
+---PAGE BREAK---
+

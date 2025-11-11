@@ -1,0 +1,1003 @@
+JournalofParkinson’sDisease12(2022)2117–2133 2117
+DOI10.3233/JPD-223290
+IOSPress
+Review
+Role of NLRP3 Inflammasome in
+Parkinson’s Disease and Therapeutic
+Considerations
+LinhThiNhatNguyena,b,HuuDatNguyena,b,YunJoongKimd,TinhThiNguyenb,
+ThuyThiLaib,YoonKyoungLeeb,Hyeo-ilMab,c andYoungEunKimb,c,∗
+aDepartmentofMedicalSciences,GraduateSchoolofHallymUniversity,Chuncheon,Gangwon,SouthKorea
+bDepartment of Neurology, Hallym University Sacred Heart Hospital, Hallym University, Anyang, Gyeonggi,
+SouthKorea
+cHallymNeurologicalInstitute,HallymUniversity,Anyang,Gyeonggi,SouthKorea
+dDepartmentofNeurology,YonginSeveranceHospital,YonseiUniversityCollegeofMedicine,Yongin,Gyeonggi,
+SouthKorea
+Accepted31July2022
+Pre-press17August2022
+Abstract. Parkinson’s disease (PD) is the second most common neurodegenerative disease, with two main pathological
+features:misfolded(cid:2)-synucleinproteinaccumulationandneurodegeneration.Inflammationhasrecentlybeenidentifiedas
+a contributor to a cascade of events that may aggravate PD pathology. Inflammasomes, a group of intracellular protein
+complexes,playanimportantroleininnateimmuneresponsestovariousdiseases,includinginfection.InPDresearch,accu-
+mulatingevidencesuggeststhat(cid:2)-synucleinaggregationsmayactivateinflammasomes,particularlythenucleotide-binding
+oligomerizationdomain-leucine-richrepeat-pyrindomain-containing3(NLRP3)type,whichexacerbatesinflammationin
+thecentralnervoussystembysecretingproinflammatorycytokineslikeinterleukin(IL)-18andIL-1(cid:3).Afterward,activated
+NLRP3triggerslocalmicrogliaandastrocytestoreleaseadditionalIL-1(cid:3).Inturn,theactivatedinflammatoryprocessmay
+contributetoadditional(cid:2)-synucleinaggregationandcellloss.Thisreviewsummarizescurrentresearchevidenceonhow
+theNLRP3inflammasomecontributestoPDpathogenesis,aswellaspotentialtherapeuticstrategiestargetingtheNLRP3
+inflammasomeinPD.
+Keywords:Parkinson’sdisease,inflammasome,NLRP3,(cid:2)-synuclein,treatment
+INTRODUCTION [1]. The inflammation has long been understood as
+one of the pathogenesis of PD through postmortem
+Parkinson’s disease (PD) is a neurodegenerative study, but recently it has been recognized that the
+diseasecharacterizedbymovementdisorderscaused progressive nature of PD is attributed to immune
+byaggregationofmisfolded(cid:2)-synuclein((cid:2)Syn)and dysfunctionofcentralandperipheralsystems[2].
+neuronal loss, particularly of dopaminergic neurons Inflammasomes are intracellular protein com-
+plexesthatactassensorsofinnateimmuneresponses,
+∗Correspondenceto:Young Eun Kim, Department of Neu- activating the inflammatory cascade during various
+rology, Hallym University Sacred Heart Hospital, Hallym
+diseaseconditionssuchasinfection[3].Thefollow-
+University, Anyang, Gyeonggi 14068, South Korea. E-mail:
+ingevidencesuggeststheneuroinflammatoryroleof
+yekneurology@hallym.ac.kr.
+ISSN1877-7171©2022–Theauthors.PublishedbyIOSPress.ThisisanOpenAccessarticledistributedundertheterms
+oftheCreativeCommonsAttribution-NonCommercialLicense(CCBY-NC4.0).
+
+---PAGE BREAK---
+
+2118 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+inflammasomes in PD pathogenesis [4]. In a post- tein complex, and it has become clear that these
+mortem study, increased constituent proteins of the inflammasomes have been linked to various dis-
+inflammasomewerefoundinthesubstantianigraof eases, including neurodegenerative, autoimmune,
+PD brains [5, 6]. Furthermore, protein components metabolic, and infectious diseases [10]. Accord-
+of inflammasomes, which are abundant in periph- ingly, clinical trials targeting the function of these
+eral blood mononuclear cells (PBMCs) in patients proteins have been developed for various diseases
+with PD, are considered potential biomarkers for [11]. In 2008, the Food and Drug Administra-
+PD [7]. In terms of (cid:2)Syn pathology, the inflam- tionapprovedrilonacept,aninterleukin(IL)-1Trap,
+masome effector protein caspase-1 enhances (cid:2)Syn and canakinumab, an anti-IL-1(cid:3) with an NLRP3
+aggregationbyinducingtruncationofthe(cid:2)Synpro- inhibitory effect, to treat cryopyrin-associated peri-
+tein [8]. In an animal model, Gordon et al. found a odic syndrome (CAPS). Later in 2015, Coll et al.
+directlinkbetweennucleotide-bindingoligomeriza- demonstrated that the MCC950, which was origi-
+tiondomain(NOD)-leucine-richrepeat(LRR)-pyrin nally designed to block IL-1(cid:3) production, can also
+domain (PYD)-containing (NLRP3) and PD patho- inhibittheNLRP3inflammasomeandthusimprove
+genesisinducedby(cid:2)Synpreformedfibrils[6].They thesymptomsofmultiplesclerosisandCAPS[12].
+also confirmed this theory by treating the mice These breakthroughs ushered in a new decade of
+with the small molecule MCC950 and observing inflammasomeresearch,withscientistsbelievingthat
+its inhibitory effect on the NLRP3 inflammasome, inhibitorsofinflammasomehavebeneficialeffectson
+which further reduced motor dysfunction, neurode- cardiovascular diseases, metabolic diseases, cancer,
+generation,and(cid:2)Synaccumulation.Thehypothesis andneurodegenerativediseases[13].
+of the PD–inflammasome axis suggests that the
+NLRP3 inflammasome may collaborate with other
+contributorstoPDprogression,inducing(cid:2)Synspread INVOLVEMENTOFINFLAMMASOMEIN
+andexacerbatingneuroinflammation,whichleadsto PDPATHOGENESIS
+morecelldeath.
+In this review, we will explain how the NLRP3 The activation of inflammasome was studied in
+inflammasome is activated in PD by discussing its various PD models. Table 1 summarizes the post-
+priming and activation pathways and summarize mortem,invitro,andinvivocharacteristicsofvarious
+someproposedPDtreatmentstargetingthisNLRP3 inflammasomes found in the PD model. As shown
+inflammasomebasedonitsmolecularpathways. in Table 1, the NLRP3 inflammasome was consis-
+tentlyfoundtobeactivatedinanimals,cells,human
+biofluids, and postmortem human studies of PD.
+WHATISANINFLAMMASOME? However, other types of inflammasomes, such as
+NLRP1, NLRP2, NLRC4, and AIM2, showed little
+Inflammasomes were first identified as a molec- ornodifferenceinactivityinPDmodels.
+ular platform of the innate immune system in 2002 It is unclear why only the specific phenotype of
+[9]. The inflammasome is a cytosolic multiprotein theinflammasomeisactivated,butitisassumedthat
+complex mostly present in immune cells that can differenttypesofstimulifromspecificdiseasesmay
+be assembled in response to pathogen or damage- causedistinctactivationsinthespecificphenotypeof
+associated molecular pattern (PAMP or DAMP) theinflammasome[22].
+signals by pattern recognition receptors [3]. The BesidesincreasedNLRP3activationinPD,several
+maturationoftheinflammasomeandreleaseofproin- studies support the link between the inflammasome
+flammatory cytokines guide immune cell reactions andclinicalfeaturesinthedisease.IncreasedNLRP3
+duringinflammation[3]. protein was found in the postmortem PD brain,
+Scientists discovered several types of inflam- particularly in the late disease stages, suggesting
+masomes, four of which were well characterized: an association with disease severity [5]. To better
+NLRP1 in 2002, NLRP3 and NLR family caspase understand the link between inflammasome activa-
+recruitment domain (CARD) domain-containing tionanddiseaseseverity,Andersonetal.investigated
+protein 4 (NLRC4) (also known as ice protease- the inflammasome in postmortem substantia nigra
+activating factor) in 2006, and absent in melanoma pars compacta at different stages of neurodegener-
+2 (AIM2) in 2009 [3]. A wide range of research ation [23]. Unexpectedly, immunoreactive NLRP3
+has been conducted to better understand this pro- constituent proteins were found in patients with the
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+2119
+Table1
+CharacteristicsofInflammasomesinvariousPDmodels
+Typeof Species Sources Models Changeincomponentofinflammasomes Evaluation References
+inflammasome method
+NLRP3 Rodent Midbrain MPTP ↑NLRP3/↑pro-CASP1/↑CASP1/↑pro- WB [14]
+IL-1(cid:3)/↑IL-1(cid:3)
+Striatum/Substantianigra 6-OHDA/(cid:2)Synfibril ↑pro-CASP1/↑CASP1/↑ASC WB [6]
+Substantianigra Transgenic(cid:2)Synmutated ↑pro-IL-1(cid:3)/↑IL-1(cid:3) WB/RT-qPCR [15]
+A30P*A53T
+Wholebrain AVV-(cid:2)Syn ↑NLRP3/↑CASP1/↑ASC WB [16]
+Primarymicroglia (cid:2)Synfibril ↑NLRP3/↑CASP1/↑pro-IL-1(cid:3)/↑IL-1(cid:3) WB/ELISA [16]
+↑IL-1(cid:3)/↑NLRP3 ELISA/WB [17]
+Monomeric/oligomeric/ribbons ↑IL-1(cid:3)/↑NLRP3/↑ASC ELISA/WB [18]
+(cid:2)Syn
+Primaryastrocyte MPP+ ↑NLRP3/↑CASP1/↑pro-IL-1(cid:3)/↑IL-1(cid:3) WB [19]
+Primarycorticalneurons Rotenone ↑IL-1(cid:3)/↑IL-18/↑CASP1 WB/RT- [15]
+qPCR/ELISA/cytology
+Human Monocytes (cid:2)Synfibril ↑NLRP3/↑CASP1/↑pro-IL-1(cid:3)/↑IL-1(cid:3) RT- [20]
+qPCR/WB/ELISA
+PBMCs PatientswithPD ↑NLRP3/↑ASC/↑CASP1/↑IL-1(cid:3) WB/RT-qPCR [7]
+↑NLRP3/↑CASP1 RT- [58]
+qPCR/cytology
+Monomeric/fibril ↑CASP1/↑IL-1(cid:3) ELISA/cytology [21]
+(cid:2)Syn+LSP
+Primarymicroglia (cid:2)Synfibril ↑NLRP3/↑ASC/↑CASP1/↑pro-IL- WB/ELISA/cytology [17]
+1(cid:3)/↑IL-1(cid:3)
+Extracellularvesiclefrom PatientswithPD ↑NLRP3/↑ASC/↑pro-CASP1/↑pro- WB [23]
+plasma GSDMD/↑GSDMD
+CSF PatientswithPD ↑IL-1(cid:3)/↑IL-18 ELISA [15]
+Postmortemsubstantia PatientswithPD ↑pro-CASP1/↑CASP1/↑ASC WB/histology [6]
+nigra
+Postmortem PatientswithPD ↑NLRP3/↑ASC Histology [23]
+mesencephalictissues ↑NLRP3 Histology/RT- [5]
+qPCR
+NLRP1 Rodent Midbrain MPTP ↑NLRP1/↑pro-CASP1/↑CASP1/↑pro- WB [14]
+IL-1(cid:3)/↑IL-1(cid:3)
+Human PBMCs PatientswithPD Nodifferences WB/RT-qPCR [7]
+NLRP2 Rodent Brain MPTP Nodifferences WB [14]
+NLRC4 Human PBMCs PatientswithPD Nodifferences WB/RT-qPCR [7]
+WB,westernblot;RT-qPCR,reversetranscription-quantitativepolymerasechainreaction;ELISA,enzyme-linkedimmunosorbentassay;MPTP,1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine;
+MPP+,1-methyl-4-phenylpyridinium(ion);PD,Parkinson’sdisease;PBMCs,peripheralbloodmononuclearcells;CSF,cerebrospinalfluid;6-OHDA,6-hydroxydopaminehydrobromide;AAV-
+(cid:2)Syn,adeno-associatedvirusexpresses(cid:2)Syn;NLRP,nucleotide-bindingoligomerizationdomain-leucine-richrepeat-pyrindomain-containing;NLRC4,NLRfamilycaspaserecruitmentdomain
+(CARD)domain-containingprotein4;AIM2,absentinmelanoma2;IL-1(cid:3),interleukin1beta;IL-18,interleukin18;ASC,apoptosis-associatedspeck-likeproteincontainingaCARD;CASP1,
+caspase-1;GSDMD,gasderminD.
+
+---PAGE BREAK---
+
+2120 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+intermediatestageofcellloss,indicatingthatinflam- When LPS activates a noncanonical NLRP3 path-
+masomeactivationisnotmerelyalateeventoraresult way, caspases 4/5/11 cause pyroptotic cell death in
+ofthedisease.Fanetal.alsoreportedthattheplasma apatternsimilartothecanonicalpathway,butproin-
+NLRP3 inflammasome effector protein and IL-1(cid:3) flammatorycytokinesarenotdirectlysecreted[40].
+levelsinpatientswithPDwerepositivelycorrelated Ion flux following membrane pore formation could
+with the severity of motor dysfunction assessed by be the signal that recruits caspase-1 and cytokines
+theUnifiedParkinson’sDiseaseRatingScalepartIII [41].
+scoresandHoehnandYahrstaging[7]. Furthermore, for extracellular LPS, another acti-
+vation pathway known as the “alternative pathway”
+exists in which caspase-8 (in humans) is activated
+NLRP3:STRUCTUREANDACTIVATION via TLR4–adaptor protein TIR domain-containing
+PATHWAY adaptermolecule1axissignalsanddirectlytriggers
+theassemblyofNLRP3withouttheinvolvementof
+The NLRP3 inflammasome is derived from the asecondsignal[42].
+sensorproteinNLRP3(Fig.1).NIMA-relatedkinase
+7(NEK7)hasrecentlybeenshowntoactivateNLRP3 NLRP3CANONICALPATHWAYINPD
+bybindingtotheLRRdomainandNOD[24,25].The
+NLRP3PYDinteractswiththeapoptosis-associated NLRP3primingpathwayinPD
+speck-likeproteincontainingaCARD(ASC)adap-
+torPYD.ThisPYDthenassemblesASCmultimers In postmortem studies, TLR2 was found to be
+to create a protein complex called ASC speck [26]. increasedinthebrainsofpatientswithPD[43,44].
+Whenactivated,theASCCARDrecruitsaneffector Fitz et al. found that (cid:2)Syn upregulated TLR gene
+pro-caspase-1, resulting in NLRP3 oligomerization expressioninprimaryandBV-2microglia[45].They
+and the formation of a full inflammasome struc- also found an increase in downstream MYD88 and
+ture. Mature caspase-1 then induces the release of NF-κB genes in primary microglia, indicating TLR
+proinflammatorycytokinesIL-1(cid:3)andIL-18,aswell activation.Thehypothesisof(cid:2)Synasaprimingsig-
+as pyroptosis, a type of programmed cell death, nalviaTLRswassupportedoncemorewhenTLR4
+by cleaving gasdermin D (GSDMD) and forming a wasthoughttobeunreplaceablefor(cid:2)Syn-dependent
+membranepore[27,28]. activation of microglia and astrocytes [46]. TLR3
+There are three types of NLRP3 inflammasome and TLR4 mRNA levels were higher in the brains
+activation pathways: canonical, noncanonical, and ofPDanimalmodels,including6-hydroxydopamine
+alternative [29]. In the NLRP3-canonical pathway, hydrobromide (6-OHDA), rotenone, and the LPS
+two signals are required, corresponding to two pro- model [47]. The TLR4 deficiency in the 1-methyl-
+cesses:primingandactivation.Theprimingpathway 4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse
+is produced when PAMPs or DAMPs activate the model reduces NLRP3, ASC, pro-caspase-1, and
+nuclear factor kappa B (NF-κB) pathway via the IL-1(cid:3) levels, supporting the role of TLRs and the
+toll-like receptors (TLRs) or tumor necrosis fac- NLRP3axisinthePDcontext[48,49].Panickeret
+tor receptor (TNFR) cytokine ligands, promoting al. found a novel pathway in which (cid:2)Syn binds to
+pro-IL-1(cid:3)andpro-IL-18transcription[30,31].The TLR2andclusterofdifferentiation(CD36)receptors,
+activation pathway starts with PAMP or DAMP priming NLRP3 via Fyn kinase, leading to NF-κB
+signals to assemble the full structure of inflamma- transcription,andfinallyassemblingthefullstructure
+somes with caspase-1 maturation. Pathogens that by inducing reactive oxygen species (ROS) release
+induce PAMPs include viruses, fungi, and bac- [16]. Notably, Scheiblich et al. demonstrated that
+terial pore-forming toxins [32–34]. Some factors (cid:2)Syn monomer and oligomer could directly acti-
+havebeenidentifiedasDAMPs,includingamyloid- vate microglial NLRP3 to release IL-1(cid:3) in primary
+(cid:3), monosodium urate crystals, imidazoquinolinone microglia via TLR2/TLR5 and that the absence of
+compounds,andothers[35–37]. NLRP3 also contributed to (cid:2)Syn clearance [18].
+NoncanonicalNLRP3activation,unlikecanonical Interestingly, they found that TLR2 contributed to
+activation,isunrelatedtocaspase-1activity.Caspase- priming,whereasthenovelTLR5actedonactivation
+11 in mice and its human orthologues, caspase-4/5, viaanunknownmechanism.
+are involved in the intracellular lipopolysaccharide Taken together, PD pathology such as (cid:2)Syn
+(LPS)-activating noncanonical pathway [38, 39]. may prime NLRP3 mainly via TLR2/4, leading to
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2121
+Fig.1. NLRP3inflammasomestructureandoligomerization.TheNLRP3inflammasomecomplexincludesasensorNLRP3protein,an
+adapterASCprotein,andapro-caspase-1protein.WhentheNLRP3inflammasomeisactivated,theadaptorproteinASCbindstothesensor
+NLRP3proteinviaPYD–PYDpolymerization.NLRP3oligomerizationoccursafterthisASCrecruitstheeffectorproteinpro-caspase-1
+viaitsCARD.ThefirsthalfofNEK7bindstotheNLRP3LRRdomain,whereasthesecondhalfinteractswiththeNOD.NLRP3,NOD-
+likereceptorfamily-pyrindomain-containing3;LRR,leucine-richrepeat;NOD,nucleotide-bindingoligomerizationdomain;PYD,pyrin
+domain;ASC,apoptosis-associatedspeck-likeproteincontainingaCARD;CARD,caspaserecruitmentdomain;NEK7,NIMA-related
+kinase7.ThegraphwascreatedusingBiorender.com.
+activation of NF-κB transcription and downstream plasma membrane receptor family known as the P2
+pathways. Other priming pathways in PD that are receptor family, which may be mediated by extra-
+mediated by different receptors, such as TNFR or cellular adenosine triphosphate (ATP) [52]. After
+IL-1R,haveyettobeidentified(Fig.2). stimulation, P2X7 collaborates with the two-pore-
++
+domain potassium channel K efflux channel to
+NLRP3activationpathwayinPD further mediate NLRP3-induced inflammation [53].
+Inageneticstudy,theP2X7receptorgenepolymor-
+Viaionflux phism(1513A>C)isassociatedwithanincreasedrisk
+The NLRP3 inflammasome is thought to be acti- ofsporadicPDintheHanChinesepopulation[54].
+vatedbyionfluxes,includingK + efflux,Na + influx, Thisreceptorislinkedtotheabundanceofmicroglia
+andCa2+ mobilization[50,51].Theionfluxislinked and the inflammasomes put this link to PD into
+to P2X purinoceptor 7 (P2X7), a member of the context [55]. Furthermore, P2X7 has recently been
+
+---PAGE BREAK---
+
+2122 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+Fig.2. ProposedNLRP3primingandactivationpathwayinPD.Priming:(1)Thefirstsignalsassociatedwiththeprimingprocessmaybe
+causedbyPAMPs/DAMPsorpathologic(cid:2)SynbindingtoTLRs,followedby(2)activationofdownstreamNF-κBtranscription.Thisinduces
+theupregulationof(3)NLRP3and(3)pro-IL-1(cid:3)/pro-IL-18transcriptioninthecell.Activation:Thesecondsignalcorrespondingtothe
+activationprocessmaycomefrom(1)thenovelTLR5/ionfluxinassociationwiththeP2X7receptor/lysosome/mitochondrialdysfunction.
+Theseeventsinduced(2)K+effluxinadditiontoNa+/Ca+influx,cathepsinBrelease,ormtROS/mtDNAproductioninthecell.Whenthis
+processiscompleted,(3)NLRP3’sfullstructurewillberecruited,releasing(4)caspase-1andmaturing(4)IL-1(cid:3)/IL-18.Activecaspase-
+1nowcleavesGSDMD(5)andformsgasderminporesonthecellmembrane,inducingprogrammedcelldeathknownas(6)pyroptosis.
+AnothernovelpathwayinvolvesthefacilitationofFynkinase,whichallows(1)pathologic(cid:2)SyntodirectlyprimeandactivateNLRP3viathe
+CD36receptorandTLR2,aswellas(2)mtROSsecretion.PAMPs/DAMPs,pathogen/damage-associatedmolecularpattern;TLRs,toll-like
+receptors;NF-κB,nuclearfactorkappaB;CD36,clusterofdifferentiation36;P2X7,P2Xpurinoceptor7;NEK7,NIMA-relatedkinase7;
+NLRP3,NOD-likereceptorfamily-pyrindomain-containing3;mtROS,mitochondrialreactiveoxygenspecies;mtDNA,mitochondrialDNA;
+ASC,apoptosis-associatedspeck-likeproteincontainingaCARD;GSDMD,gasderminD.ThegraphwascreatedusingBiorender.com.
+identifiedasaneuroinflammatorymarkerinPD[56]. VPS35, SMPD1, and others [59, 60]. Furthermore,
+In rats injected with 6-OHDA, neuroinflammation dysfunctioninthesegenesmaycontributetoneuroin-
+was marked by increased P2X7 colocalization with flammation.InZebrafish,aloss-of-functionmutation
+microglia, but no differences were observed in the in GBA1 gene, which encodes for the lysoso-
+(cid:2)Syn over-expression models [57]. Recent research malenzyme(cid:3)-glucocerebrosidase,resultedinearly
+onPBMCsofpatientswithPDrevealedNLRP3acti- microglial activation [61]. In the GBA1 knock-out
+vation via P2X7, which could trigger downstream mousemodel,overexpressedhuman(cid:2)Syncontinued
+pathways of NLRP3 inflammasome activation [58]. toinducemicroglialactivationinthesubstantianigra
+BlockingthisreceptorwithanantagonistreducedIL- region [62]. In mouse primary microglia, LRRK2
+1(cid:3)/IL-18 release in primary microglia from animal couldpromotemicrogliaactivationandreleaseneu-
+models or PBMCs from patients with PD [55, 58]. rotoxic mediators such as TNF-(cid:2) and IL-6 [63].
+ThesefindingsindicatethatPDpathologymayacti- These findings suggest that lysosomal damage may
+vatetheNLRP3inflammasomeviaionfluxinrelation contributetoneuroinflammationinPDpathogenesis,
+totheP2X7receptor. althoughtheprecisepathwayremainsunknown.
+A protease family of lysosomal cathepsins is
+Vialysosome thought to be involved in (cid:2)Syn clearance and pro-
+Several genes involved in autophagy–lysosomal tein truncation [64, 65]. Furthermore, various types
+functionhavebeenlinkedtoPDpathogenesis,includ- ofcathepsinhavebeenshowntofunctioninmicroglia
+ing GBA1, LRR kinase 2 (LRRK2), GALC, GLA, [66]. Interestingly, the relationship between cathep-
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2123
+sin and NLRP3 activation was found in response levelsinthecerebrospinalfluidrevealeddistinctlev-
+to different types of DAMP or PAMP stimuli [67]. els between PD and other diseases [83]. However,
+The absence of cathepsins in an in vitro or in vivo direct evidence that mtDNA activates the NLRP3
+model reduced IL-1(cid:3) release, indicating that they inflammasomeinPDusinganimalorcellmodelsis
+have an effect on the NLRP3 activation process stillrequiredforfurtherinvestigation.
+[68–70]. In human monocytes, monomeric (cid:2)Syn
+causedlysosomalleakage,resultinginthereleaseof
+NONCANONICALPATHWAYOFNLRP3
+cathepsinBandtheactivationofNLRP3[20].These
+INPD
+findings were confirmed in THP-1 cells, a human
+leukemia monocytic cell line, with the rupture of
+In contrast to the canonical pathway, the non-
+lysosome-induced cathepsin B and NLRP3 activa-
+canonical pathway of the NLRP3 in PD is poorly
+tion[71].CathepsinB,NLRP3,caspase-1,andIL-1(cid:3)
+understood. For a decade, scientists assumed that
+werefoundtobehigherinA53Tmutantmicroglial
+(cid:2)SynonlyactivatedtheNLRP3inflammasomeand
+cellsandanimalmodels[72].Overall,thesestudies
+released proinflammatory cytokines via caspase-1.
+proposed an activation mode of the NLRP3 inflam-
+In 2021, Pike et al. found that inhibiting caspase-1
+masomeviacathepsinBreleasewhenPDpathology
+activation did not reduce IL-1(cid:3) in primary human
+causeslysosomaldysfunction.
+microgliainducedbyfibrillar(cid:2)Syn[17].Thiswasin
+contrasttotheirfindingsinprimarymousemicroglia,
+Viamitochondria
+whichwerealsoinducedbyfibrillar(cid:2)Synbutwere
+Likethelysosome,mitochondrialgenemutations,
+entirely dependent on caspase-1. The authors sug-
+suchasPINK1,PARK2,andVPS35,havebeenlinked
+gested that the noncanonical NLRP3 activation via
+toPDpathologyinrarefamilialcases[73].Ingeneral,
+different caspases (caspase-8/11) was the pathway
+itisknownthatmitochondriacontributetotheinnate
+underlyingthe(cid:2)Syn-inducedPDmodelusinghuman
+immunesystemduringthediseaseprocess,especially
+primary microglia. Caspase-11 was found to be
+byregulatingNLRP3inflammasomeactivation[74].
+involvedinPDpathogenesisinvivo,butwhetheritis
+Interestingly, PINK1 and Parkin have been shown
+relatedtotheinflammasomerequiresfurtherinvesti-
+tomodulateNLRP3activationbyaffectingtheTLR
+gation[84].
+downstreampathwayinmicroglia[75].
+Taken together, we proposed that DAMPs (6-
+ROSisoneoftheby-productsofthemitochondrial
+OHDA/MPTP/1-methyl-4-phenylpyridinium (ion)),
+cellularprocessthatmaybethemissingpuzzlepiece
+PAMPs(LPS),orPDpathology((cid:2)Syn)mayprimeor
+of the mitochondrial damage–inflammasome axis.
+activate the canonical NLRP3 inflammasome path-
+Mitochondrial ROS (mtROS) regulates microglia
+way via the aforementioned patterns, as shown in
+activationduringinflammationviamitogen-activated
+Fig.2.BecausethenoncanonicalNLRP3activation
+protein kinase and NF-κB [76]. In PD, (cid:2)Syn
+and alternative activation pathways in PD remain
+caused mitochondrial damage-induced ROS release
+unknown,weexcludedtheminthisfigure.
+in human dopaminergic neurons [77]. Furthermore,
+(cid:2)Syn could induce ROS release alongside NLRP3
+activationbyreleasingcaspase-1andIL-1(cid:3)inaTHP- THERAPEUTICTRIALSTARGETING
+1 cell line [71]. Suppression of ROS by the fungus THENLRP3INFLAMMASOME
+Antrodiaamphoratepolysaccharideinthe6-OHDA
+animalmodelsignificantlydecreasedNLRP3,ASC, Drug development for the NLRP3-related dis-
+andcaspase-1[78].Interestingly,theP2X7receptor easemechanismtypicallyaimstopreventcanonical
+was also involved in (cid:2)Syn-induced mtROS release activation of this inflammasome by (1) detaching
+[79]. In addition to mtROS, mitochondrial DNA the structure, (2) ceasing transcription during the
+(mtDNA)isinvolvedinthemitochondrialresponseto priming pathway, (3) hindering activation signals
+stress.ThenewlysynthesizedmtDNA,inparticular, (DAMPs) during the activation pathway, and (4)
+isresponsibleforoxidizedmtDNA,whichisthought deactivatingthisinflammasomeviapost-translational
+to activate the NLRP3 inflammasome [80, 81]. The modification. In terms of NLRP3 activation in PD,
+studyofmtDNAreleaseinserumrevealedasignifi- finding treatment targets should be based on the
+cantdifferencebetweenpatientswithidiopathicPD mechanism of NLRP3 activation. Therefore, in this
+andthosewithPDduetotheParkin/PINK1mutation section,wewilldiscussthepotentialtreatmenttargets
+[82]. Furthermore, a postmortem study of mtDNA for inhibiting NLRP3 inflammasome activation that
+
+---PAGE BREAK---
+
+2124 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+have been studied in other diseases as well as within the NLRP3 NOD to inhibit ATP hydrolysis
+PD. Additionally, we will include the novel ther- and NLRP3 activation [114]. A number of acrylate
+apeutic candidates targeting the PD–NLRP3 axis derivativecompounds,includingIFN58,IFN39,and
+with an unknown mechanism for future research BOT-4-one,haveadirectinhibitoryeffectonNLRP3
+consideration.Table2summarizespotentialPDther- via its ATPase activity [115–117]. Two Inflazome
+apeutic candidates under consideration with known candidates, IZD334 and Inzomelid, which have a
+orunknownNLRP3mechanisms. direct inhibitory effect on NLRP3, have completed
+phaseItrialsinhealthyvolunteersandpatientswith
+PreventingNLRP3assemblybytargetingeach CAPS (NCT04086602 and NCT04015076, respec-
+componentprotein tively).OLT177andCY-09compoundswerefoundto
+haveaneffectonosteoarthritis(OA)(NCT01768975)
+To fully activate the NLRP3 inflammasome, all [118]andtype2diabetes/CAPSinvivomodels[119].
+inflammasome compositions need to be assembled. Similarly,Tranilast(Kissei)isthoughttobindtothe
+Therefore,currentresearchaimstoinhibitthisassem- NODofNLRP3andpreventitsoligomerization,and
+blingbytargetingeachoftheconstituentproteins:(1) it was marketed in Japan and South Korea for its
+NEK7;(2)NLRP3;(3)ASCadaptorprotein;and(4) anti-allergicabilitytoCAPS(NCT03923140)[120].
+effectorproteins,includingcaspase-1,(5)IL-1(cid:3),and However,withtheexceptionofMCC950,noevalu-
+IL-18. ationhasyetbeencompletedinPD[6].
+In terms of NEK7, it is thought to be an TheASCadaptorproteinmaybeagoodtargetfor
+upstream regulator of NLRP3 activation by bind- inhibiting NLRP3 activation. The hydroxyl sulfon-
+ing to the LRR domain [24]. Therefore, preventing amide analog 5-chloro-N-[2-(4-hydroxysulfamoyl-
+this association can reduce inflammasome activa- phenyl)-ethyl]-2-methoxy-benzamide (JC-171) dis-
+tion. Oridonin (ORIN1001), a bioactive compound rupts the NLRP3–ASC interaction in multiple scle-
+extractedfromRabdosiarubescens,hasbeenshown rosis animal models [121]. Additionally, fenamate,
+to directly inhibit the NLRP3-NEK7 association a nonsteroidal anti-inflammatory drug, suppresses
+by interacting with the NLRP3 NOD [107]. This NLRP3 activation by inhibiting the ASC speck
+compound recently demonstrated neuroprotective formationinAlzheimer’sdisease(AD)rodentmod-
+activity in traumatic brain injury in vivo models by els [122]. Moreover, OLT1177, which suppresses
+inhibiting NLRP3 [108]. In an inflammatory bowel NLRP3viatheNLRP3–ASCinteraction,wasfound
+disease in vivo model, Chen et al. discovered the to be protective in an AD murine model [123].
+ability to suppress NEK7 expression of 4-methyl- Furthermore,beta-hydroxybutyrateinhibitedNLRP3
+N1-(3-phenylpropyl)-1,2-benzenediamine, JSH-23, activationbyreducingASColigomerizationtoform
+an NF-κB transcriptional activity inhibitor, thereby specks in LPS-primed mouse macrophages [124].
+downregulating the NLRP3 activity [109]. C1-27, However,thismechanismhasnotyetbeenevaluated
+a glutathione transferase omega-1 inhibitor, was inPD.
+proposedtoinhibitNLRP3viaNEK7deglutathiony- VX-765, one of the caspase-1 inhibitors, demon-
+lation in multiple sclerosis in vivo model [110]. stratedneuroprotectiveeffectsinADanimalmodels
+MCC950, a typical NLRP3 inhibitor, was recently by reducing neuropathology and cognitive impair-
+shown to partially block NLRP3–NEK7 interaction ment[125].Anotherinhibitor,VX-740,wasinphase
+inaninvivolungischemia–reperfusionmodel[111]. II trials for rheumatoid arthritis but was discontin-
+Ceritinib and lorlatinib, two anaplastic lymphoma uedbecauseofhepatotoxicityinlong-termtreatment
+kinase inhibitors, are thought to indirectly suppress [126].Ina6-OHDA-inducedPDratmodel,inhibiting
+the NLRP3–NEK7 interaction in ATP-stimulated caspase-1 activity by Ac-YVAD-CMK suppressed
+macrophages [112]. However, only MCC950 was NLRP3activation,rescueddopaminergicneuronsin
+investigatedinthePDmodel[6]. thesubstantianigraregion,andimprovedbehavioral
+SomecompoundsdirectlytargettheNLRP3sub- deficit [85]. Given that there are currently no clini-
+unit to inhibit this inflammasome. He et al. found caltrialsaimedatcaspase-1inPD,exceptforsome
+that 3,4-methylenedioxy-(cid:3)-nitrostyrene could bind animaldata,targetingthisisarealchallenge.
+totheLRRdomainandNODofNLRP3andinhibit In terms of inflammasome effector proteins, the
+NLRP3activationviaitsATPaseactivity[113].This useofIL-1(cid:3)antibodiesorIL-1receptorantagonists
+hypothesis was recently validated by the finding such as anakinra, canakinumab, and rilonacept to
+that MCC950 interacts with the Walker B motif treat NLRP3-related diseases has long been recog-
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+2125
+Table2
+CurrenttherapeutictrialstargetingNLRP3inflammasomeinPD
+Mechanism Target Candidate Model Phase References
+InhibitingNLRP3constituents NEK7 MCC950 Fibril(cid:2)Syn Preclinical [6]
+NLRP3 MCC950 Fibril(cid:2)Syn Preclinical [6]
+Caspase-1 Ac-YVAD-CMK LPS/6-OHDA Preclinical [85]
+InhibitingNLRP3priming TLRs Calycosin MPTP Preclinical [86]
+pathway
+Cordycepin MPTP Preclinical [87]
+GlaucocalyxinB LPS Preclinical [88]
+NPT520-34 Fibril(cid:2)Syn PhaseI (NCT03954600)[89]
+NF-κB Papaverine MPTP+LPS Launched [90]
+InhibitingNLRP3activation P2X7 BrilliantBlueG MPTP Preclinical [91]
+pathway
+Memantineanddopamine PBMCsofpatientswithPD Launched (NCT03918616)[58]
+receptoragonist
+CathepsinB Ca074Me N27/SH-SY5Ycellstreatedwithfibril Preclinical [71]
+(cid:2)Syn
+ROS Antrodiacamphorata 6-OHDA Preclinical [78]
+polysaccharide
+Bushen–Yizhi MPTP Preclinical [92]
+Tenuiginen MPTP Preclinical [93]
+Fingolimod(FTY720) MPTP/BV2cell+mouseprimary Preclinical [94]
+microgliatreatedwithMPP+
+GSK-650394 MPTP/overexpressing(cid:2)Syn+fibril(cid:2)Syn Preclinical [95]
+Dl-3-n-butylphthalide MPTP/6-OHDA Preclinical [96]
+InhibitingNLRP3via NLRP3 Dopamine MPTP/mouseBMDMtreatedwithLPS Launched [97]
+post-translationalmodification
+SP600125 MPTP Preclinical [98]
+ASC Piceatannol Fibril(cid:2)Syninvitro Preclinical [99]
+SIRT1pathway Unknown Melatonin MPTP/BV2cell+mouseprimary Launched [100]
+microgliatreatedwithMPP++ATP
+(cid:3)-Arrestin2mechanism Unknown NovelDRD2agonist(UNC9995) MPTP/mouseprimaryculturedastrocyte Preclinical [101,102]
+DRD2agonist(LY171555) treatedwithLPS+ATP
+Nrf2activation Unknown DDO-7263 MPTP/THP-1celltreatedwithLPS+ATP Preclinical [103]
+Unknown Unknown Dimethylaminomylide(ACT001) MPTP Preclinical [104]
+Unknown Unknown Edaravone(MT-1186) LPS/BV2celltreatedwithLPS PhaseIIIforALS (NCT04577404)
+[105]
+Unknown Unknown Ulinastatin PC12andSH-SY5Ycelltreatedwith Launched [106]
+MPP+
+NEK7,NIMA-relatedkinase7;NLRP3,NOD-likereceptorfamily-pyrindomain-containing3;TLRs,toll-likereceptors;NF-κB,nuclearfactorkappaB;P2X7,P2Xpurinoceptor7;ROS,
+reactiveoxygenspecies;ASC,apoptosis-associatedspeck-likeproteincontainingaCARD;LPS,lipopolysaccharide;6-OHDA,6-hydroxydopaminehydrobromide;MPTP,1-methyl-4-phenyl-
+1,2,3,6-tetrahydropyridine.;MPP+,1-methyl-4-phenylpyridinium(ion);PBMCs,peripheralbloodmononuclearcells,ATP,adenosinetriphosphate;DRD2,dopaminereceptorD2;SIRT1,silence
+informationregulator1;Nrf2,nuclearfactorerythroid2-relatedfactor2;ALS,amyotrophiclateralsclerosis.
+
+---PAGE BREAK---
+
+2126 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+nized[127].However,itsefficacyintargetingNLRP3 In terms of P2X7, P2X7 antagonists are novel
+is questionable because suppressing these effectors forneurologicaldiseases.Forinstance,JNJ54175446
+may not prevent the release of other effectors, such and JNJ55308942, two candidates developed by
+ascaspase-1,whenNLRP3isactivated.Furthermore, Janssen, have completed phase I clinical trials
+because IL-1(cid:3) and IL-18 are involved in not only (NCT02902601 and NCT03437590, respectively)
+the NLRP3 pathway but also other immune path- and are expected to be used in major depressive
+ways,targetingthisproteinmayaccidentallyincrease disorder. However, CE-224535, another antago-
+infectionriskingeneral. nist developed by Pfizer, has discontinued its
+clinical trial for OA due to a lack of efficacy
+(NCT00418782).Also,AZD9056fromAstraZeneca
+SuspendingNLRP3activationbyceasingthe
+has completed its clinical trial in patients with
+primingprocess
+rheumatoid arthritis but was clinically ineffective
+(NCT00520572). Conversely, GSK1482160 (Glax-
+Immunotherapy targeting TLR2/4, a ligand
+oSmithKline), a CNS-penetrant antagonist, has
+involved in the NLRP3 inflammasome transcrip-
+completedaphaseIclinicaltrialininflammatorycon-
+tion, can be applied to disrupt the priming process.
+ditions(NCT00849134)andrecentlydemonstrateda
+Calycosinandcordycepin,twophytochemicalcom-
+protectiveeffectonthetransgenicADmodel[129].
+pounds,showedneuroprotectiveeffectsintheMPTP
+Furthermore, Brilliant Blue G showed a protective
+model of PD by suppressing the TLR/NF-κB sig-
+effectonamyotrophiclateralsclerosisinvivomodels
+nalingpathway[86,87].Additionally,glaucocalyxin
+andspecificallyPDanimalmodelsbyreducingneu-
+B, a diterpenoid, alleviated PD pathogenesis in the
+roinflammation caused by NLRP3 activation [130,
+LPS model by inhibiting the same pathway [88].
+91].InPD,commonclinicallyuseddrugs,memantine
+Tomaralimab (NM-101), developed by Neuramedy
+and dopamine receptor agonists, changed P2X7-
+and originally known as OPN-35 by Opsona Ther-
+inflammasomeactivationinpatientswithdenovoPD
+apeutics, targets TLR2 and a phase II clinical trial
+after1yearoftherapy(NCT03918616)[58].
+in myelodysplastic syndrome (NCT02363491) was
+CathepsinB,whichisreleasedfromthelysosome,
+completed.Moreover,asmallmolecule,NPT520-34
+can also be targeted to suppress NLRP3 activation.
+(Neuropore), which has completed a phase I clin-
+After treating the AD in vivo model with a pro-
+ical trial (NCT03954600), reduced TLR2 mRNA
+drugCA074Me,whichcaninhibitcathepsinBafter
+expressioninPDtransgenicmiceandthusimproved
+being converted into the active form, a protective
+neuropathology and motor deficits in these animals
+effect for memory dysfunction and less amyloid-(cid:3)
+[89]. Furthermore, Ibudilast (MN-166) (Medici-
+plaquewasobserved[131].Later,thisinhibitorwas
+Nova),whichhascompletedphaseIItrialsinmultiple
+foundtoinhibitROSreleaseinneuronalcellstreated
+sclerosis (NCT01982942) and amyotrophic lateral
+withaggregated(cid:2)Syn[71].Furthermore,aloxistatin
+sclerosis(NCT02714036),isanotherpotentialTLR4
+(E64d),anothercathepsinBinhibitor,isconsidereda
+antagonist.Notably,Ibudilasthadaprotectiveeffect
+promisingcandidatefortraumaticbraininjury[132].
+on the acute kidney injury model by inhibiting
+In terms of the cathepsin B–inflammasome axis,
+NLRP3 activation via the TLR4/NF-κB pathway
+theantimalariadrughydroxychloroquineattenuated
+[128].Papaverine,acommercialdrug,showedapro-
+renalischemiaandreperfusioninjurybypreventing
+tectiveeffectonthePDanimalmodelbyactingonthe
+cathepsinrelease,resultinginNLRP3inflammasome
+downstreampathwayofTLRs,theNF-κB-mediated
+activation[133].
+NLRP3activation[90].
+Preventing ROS released from damaged mito-
+chondria and ruptured lysosomes could also be a
+TerminatingtheNLRP3activationprocessby potential treatment for neurodegenerative disease.
+eliminatingactivationsignals In the 6-OHDA/MPTP-induced PD model, Antro-
+dia camphorata polysaccharide, Bushen–Yizhi,
+In PD, the NLRP3 canonical activation pathway and tenuigenin suppressed ROS-NLRP3 activation
+requires second signals from (1) ion flux in asso- [78, 92, 93]. Notably, Dl-3-n-butylphthalide and
+ciation with P2X7, (2) cathepsin B released in the fingolimod (FTY720), a sphingosine-1-phosphate
+rupturedlysosome,and(3)ROS.Therefore,itiscur- receptor antagonist, suppressed mtROS, which fur-
+rentlythoughtthatthesemediatorscouldbepotential thermediatedNLRP3inflammasomeactivationinthe
+therapeutictargetsforNLRP3-relateddiseases. PDanimalmodel[94,96].Furthermore,Kwonetal.
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2127
+proposedthatGSK-650394,aserum/glucocorticoid- andcolocalization,butthedirectmechanismofaction
+regulated kinase 1 inhibitor, could mitigate the of these compounds remains unknown. Another
+pathogenesis of PD animal models by reducing novel compound, 5-(3,4-difluorophenyl)-3-(6-
+mtROSandNLRP3activation[95]. methylpyridin-3-yl)-1,2,4-oxadiazole (DDO-7263),
+could reduce neuroinflammation in a PD in vivo
+AbolishingNLRP3activationvia model [103], by activating a transcription factor,
+post-translationalmodification nuclear factor E2-related factor 2. Nonetheless,
+the exact mechanism remains unknown. Further-
+Post-translationalmodificationssuchasphospho- more, three other candidates, dimethylaminomylide
+rylation, dephosphorylation, ubiquitination, deubiq- (ACT001), edaravone (MT-1186), and ulinastatin,
+uitination, proteolytic processing, and others have were recently found to suppress NLRP3 activation
+been shown to positively and negatively regulate viaunknownmechanisms[104–106].
+NLRP3inflammasomeactivation.Eachpathwayuses
+a different mechanism to target the various NLRP3
+inflammasomeconstituentdomains,suchasNLRP3 DISCUSSIONANDFUTURE
+sensorprotein,ASCadaptorprotein,andcaspase-1. PERSPECTIVES
+Thisreviewwillnotgointodetailbutwillinsteadsug-
+gestsometherapeuticcandidatesbasedonevidence Tosummarize,theNLRP3inflammasomeisacti-
+frompreviousPDresearch. vatedinPD.PDpathology,suchasmisfolded(cid:2)Syn,
+Yan et al. found that dopamine could suspend may activate the canonical pathway of NLRP3 via
+NLRP3 inflammasome activation by binding to twoprocesses:primingandactivation.TLRsarethe
+dopamine receptor 1, mediating NLRP3 ubiqui- main sensor receptors in the priming pathway, and
+tination via E3 ubiquitin ligase MARCH7 [97]. the activation pathway includes ion flux, mitochon-
+This suggests a novel therapeutic approach for PD drialdamage,andlysosomerupture.Afteractivation,
+and other diseases involving NLRP3. Addition- the NLRP3 inflammasome releases caspase-1 and
+ally, SP600125, a small molecule, is believed to mature IL-1(cid:3)/IL-18, which contribute significantly
+have a neuroprotective effect on an MPTP-induced toPDpathogenesisbyinducingneuroinflammation.
+PD model [98]. Notably, this c-Jun N-terminal Therefore,basedonthismechanism,developingther-
+kinase inhibitor could prevent NLRP3 oligomer- apeutictrialsforPDtargetingNLRP3inflammasome
+ization via suppressing c-Jun N-terminal kinase activationwouldbebeneficial.
+1-induced NLRP3 phosphorylation [134]. Further- Current therapeutic attempts targeting inflamma-
+more,piceatannol,anaturalcompoundthatinhibits some in PD are mostly in the preclinical stage, but
+NLRP3activationviathespleentyrosinekinaseSyk- this is changing because of the emerging mecha-
+inducedASCphosphorylationpathway,couldreduce nisminvolvinginflammasome.However,becausethe
+(cid:2)Synaggregation[99]. inflammasome priming and activation pathways are
+diverse and the noncanonical pathway can replace
+OthernovelNLRP3inhibitorsforPDwith thecanonicalpathwayeveninPD,targetingNLRP3
+knownandunknownmechanisms constituents or assembly may be a more efficient
+way than targeting one part of the various inflam-
+Zheng et al. discovered that melatonin could masome cascades. For instance, direct targeting on
+reduce neuroinflammation in PD animal models NLRP3 constituents or the upstream transcription
+by reducing NLRP3 inflammasome activation pathwayviaTLRsismorefavorable.Thisisbecause
+[100],whichwasmodulatedbysilenceinformation inhibitingtheeffectorproteins(caspases,IL-1(cid:3),IL-
+regulator1(SIRT1),ahistonedeacetylase.However, 18, or GSDMD) may only hinder the downstream
+whetherSIRT1inhibitsNLRP3bytargetingitscon- events but may not completely hinder the NLRP3
+stituentproteinsorthroughtheprimingoractivation inflammasome activation pathway, which begins
+process remains unknown. Two dopamine receptor with pro-IL-1(cid:3)/pro-IL-18 and NLRP3 upregulation
+D2 agonists, UNC9995 and LY171555, were also (Fig. 2). Otherwise, we should look for the major
+shown to inhibit NLRP3 in the PD in vivo model stream among these alternatives or consider a drug
+[101,102].Thebetaarrestin2pathway((cid:3)-arrestin2) withamulti-actionmechanismontheinflammasome
+was suggested as the underlying mechanism of this pathwayoradrugwithageneralanti-inflammatory
+processduetothe(cid:3)-arrestin2andNLRP3interaction effect.
+
+---PAGE BREAK---
+
+2128 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+Reviewing previous and ongoing trials targeting mechanismsandfindingpromisingtherapeuticcan-
+inflammasomes in other diseases will help to find didatesanddemonstratingefficacyevenincomplex
+shortcutsfortherapeuticsinPD.Clinicaltrialstarget- mechanisms.
+ing constituent proteins, NEK7, NLRP3, and ASC,
+andinflammasomeassemblyhavealreadybeencon-
+ACKNOWLEDGMENTS
+ductedinotherdiseases,andtheresultsofthosetrials
+allowustoselectthecandidatewiththehighestpri-
+ThisresearchwassupportedbyHallymUniversity
+ority.
+Research Fund and the National Research Founda-
+Previousresearchsuggeststhat(cid:2)Syn,likeDAMPs
+tion of Korea (NRF) grant funded by the Korean
+orPAMPs,mayactivatetheinflammasomepathway,
+government(MSIT)(2020R1F1A1076697).
+but the relationship between (cid:2)Syn and the inflam-
+masomepathwayneedstobeinvestigatedfurtherin
+variousaspects.Itisunclearwhetherdifferent(cid:2)Syn CONFLICTOFINTEREST
+speciescausedifferentpatternsofNLRP3inflamma-
+some activation. In PD rodent models, (cid:2)Syn fibril The authors have no financial conflict of interest
+canonicallyactivatestheNLRP3inflammasome[6]. relatedtothisstudy.
+Nonetheless, this pattern is not consistent in PD
+cellmodels.AlthoughPanickeretal.suggestedthat
+fibrillar (cid:2)Syn can prime and activate the NLRP3
+REFERENCES
+inflammasome in mouse primary microglia in the
+absenceofaprimingsignal(LPS),Scheiblichetal. [1] Kalia LV, Lang AE (2015) Parkinson’s disease. Lancet
+laterfoundthatmonomericoroligomeric(cid:2)Synwas 386,896-912.
+sufficienttoinduceprimingandactivation[16,18]. [2] Terkelsen MH, Klaestrup IH, Hvingelby V, Lauritsen
+J, Pavese N, Romero-Ramos M (2022) Neuroinflam-
+The pathomechanism of PD is based not only
+mation and immune changes in prodromal Parkinson’s
+on the inflammasome but also on its interaction diseaseandothersynucleinopathies.JParkinsonsDis,doi:
+withothercomplexmechanisms.Therefore,evenif 10.3233/JPD-223245.
+alltheinflammasome-relatedpathwaysareblocked, [3] SchroderK,TschoppJ(2010)Theinflammasomes.Cell
+it is possible that misfolded (cid:2)Syn accumulation, 140,821-832.
+[4] Voet S, Srinivasan S, Lamkanfi M, van Loo G (2019)
+a dysfunctional protein clearance system, or other Inflammasomesinneuroinflammatoryandneurodegener-
+inflammationpathwaysandsubsequentneurodegen- ativediseases.EMBOMolMed11,10248.
+eration will not be hindered. That is, understanding [5] vonHerrmannKM,SalasLA,MartinezEM,YoungAL,
+HowardJM,FeldmanMS,ChristensenBC,WilkinsOM,
+integratedmechanismsinPDismoreimportantthan
+LeeSL,HickeyWF,HavrdaMC(2018)NLRP3expres-
+focusingsolelyonperipheralissues.Therefore,clin- sioninmesencephalicneuronsandcharacterizationofa
+icaltrialstargetinginflammasomeinPDmaytakea rareNLRP3polymorphismassociatedwithdecreasedrisk
+ofParkinson’sdisease.NPJParkinsonsDis4,24.
+long time to observe, delaying the clinical progres-
+[6] Gordon R, Albornoz EA, Christie DC, Langley MR,
+sionofPDbecauseoftheimpossibilityofblockingall
+Kumar V, Mantovani S, Robertson AAB, Butler MS,
+ofthesecomplexmechanisms.Itimpliesthatastrate- Rowe DB, O’Neill LA, Kanthasamy AG, Schroder K,
+gicapproachaswellasreliablebiomarkerstomonitor CooperMA,WoodruffTM(2018)Inflammasomeinhi-
+bition prevents -synuclein pathology and dopaminergic
+diseaseprogressionisnecessaryforPDtreatment.
+neurodegenerationinmice.SciTranslMed10,eaah4066.
+Additionally,althoughtheactivationoftheinflam-
+[7] FanZ,PanYT,ZhangZY,YangH,YuSY,ZhengY,MaJH,
+masome and its related pathway in PD has been WangXM(2020)SystemicactivationofNLRP3inflam-
+studied in recent years, the relationship between
+masomeandplasma(cid:2)-synucleinlevelsarecorrelatedwith
+motorseverityandprogressioninParkinson’sdisease.J
+inflammasome and clinical characteristics of PD,
+Neuroinflammation17,11.
+includingdiseasestageormotorandnonmotorfea- [8] WangW,NguyenLTT,BurlakC,CheginiF,GuoF,Chat-
+tures, has yet to be investigated. The differential away T, Ju S, Fisher OS, Miller DW, Datta D, Wu F,
+manifestations of the inflammasome based on the WuCX,LanderuA,WellsJA,CooksonMR,BoxerMB,
+Thomas CJ, Gai WP, Ringe D, Petsko GA, Hoang QQ
+clinical features of PD would provide a thorough
+(2016)Caspase-1causestruncationandaggregationofthe
+understandingoftheinflammasome’sroleinPD. Parkinson’sdisease-associatedprotein(cid:2)-synuclein.Proc
+Although the NLRP3 inflammasome is currently NatlAcadSciUSA113,9587-9592.
+a promising target for PD treatment, there is a con- [9] Martinon F, Burns K, Tschopp J (2002) The inflam-
+masome: A molecular platform triggering activation of
+siderableknowledgegapinthecomplexinteraction
+inflammatorycaspasesandprocessingofproIL-beta.Mol
+between the NLRP3 inflammasome and other PD Cell10,417-426.
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2129
+[10] Strowig T, Henao-Mejia J, Elinav E, Flavell R (2012) WuH,WangL,LiWangW(2019)Structuralmechanism
+Inflammasomesinhealthanddisease.Nature481,278- forNEK7-licensedactivationofNLRP3inflammasome.
+286. Nature570,338-343.
+[11] TweedellRE,KannegantiTD(2020)Advancesininflam- [25] Shi H, Wang Y, Li X, Zhan X, Tang M, Fina M, Su
+masome research: Recent breakthroughs and future L, Pratt D, Hui Bu C, Hildebrand S, Lyon S, Scott L,
+hurdles.TrendsMolMed26,969-971. Quan J, Sun Q, Russell J, Arnett S, Jurek P, Chen D,
+[12] CollRC,RobertsonAAB,ChaeJJ,HigginsSC,Mun˜oz- KravchenkoVv,MathisonJC,MorescoEMY,Monson
+PlanilloR,InserraMC,VetterI,DunganLS,MonksBG, NL, Ulevitch RJ, Beutler B (2016) NLRP3 activation
+StutzA,CrokerDE,ButlerMS,HaneklausM,SuttonCE, andmitosisaremutuallyexclusiveeventscoordinatedby
+Nu´n˜ezG,LatzE,KastnerDL,MillsKHG,MastersSL, NEK7,anewinflammasomecomponent.NatImmunol17,
+Schroder K, Cooper MA, O’neill LAJ (2015) A small- 250-258.
+moleculeinhibitoroftheNLRP3inflammasomeforthe [26] Lu A, Magupalli V, Ruan J, Yin Q, Atianand MK,
+treatmentofinflammatorydiseases.NatMed21,248-257. Vos M, Schro¨der GF, Fitzgerald KA, Wu H, Egelman
+[13] LiY,HuangH,LiuB,ZhangY,PanX,YuX-Y,ShenZ, EH (2014) Unified polymerization mechanism for the
+SongY-H(2021)Inflammasomesastherapeutictargetsin assembly of ASC-dependent inflammasomes. Cell 156,
+humandiseases.SignalTransductTargetTher6,1-14. 1193-1206.
+[14] HanX,SunS,SunY,SongQ,ZhuJ,SongN,ChenM, [27] ShiJ,ZhaoY,WangK,ShiX,WangY,HuangH,Zhuang
+SunT,XiaM,DingJ,LuM,YaoH,HuG(2019)Small Y,CaiT,WangF,ShaoF(2015)CleavageofGSDMDby
+molecule-drivenNLRP3inflammationinhibitionviainter- inflammatorycaspasesdeterminespyroptoticcelldeath.
+playbetweenubiquitinationandautophagy:Implications Nature526,660-665.
+forParkinsondisease.Autophagy15,1860-1881. [28] LiuX,ZhangZ,RuanJ,PanY,MagupalliVG,WuH,
+[15] ZhangP,ShaoXY,QiGJ,ChenQ,BuLL,ChenLJ,ShiJ, LiebermanJ(2016)Inflammasome-activatedgasdermin
+MingJ,TianB(2016)Cdk5-dependentactivationofneu- Dcausespyroptosisbyformingmembranepores.Nature
+ronalinflammasomesinParkinson’sdisease.MovDisord 535,153-158.
+31,366-376. [29] ManganMSJ,OlhavaEJ,RoushWR,SeidelHM,Glick
+[16] PanickerN,SarkarS,HarischandraDS,NealM,KamT- GD,LatzE(2018)TargetingtheNLRP3inflammasomein
+I,JinH,SaminathanH,LangleyM,CharliA,Samidurai inflammatorydiseases.NatRevDrugDiscov17,588-606.
+M,RokadD,GhaisasS,PletnikovaO,DawsonVL,Daw- [30] FranchiL,EigenbrodT,Nu´n˜ezG(2009)CuttingEdge:
+sonTM,AnantharamV,KanthasamyAG,KanthasamyA TNF-alphamediatessensitizationtoATPandsilicavia
+(2019)Fynkinaseregulatesmisfolded(cid:2)-synucleinuptake the NLRP3 inflammasome in the absence of microbial
+andNLRP3inflammasomeactivationinmicroglia.JExp stimulation.JImmunol183,792-796.
+Med216,1411-1430. [31] BauernfeindFG,HorvathG,StutzA,AlnemriES,Mac-
+[17] PikeAF,VaranitaT,HerreboutMAC,PlugBC,KoleJ, DonaldK,SpeertD,Fernandes-AlnemriT,WuJ,Monks
+Musters RJP, Teunissen CE, Hoozemans JJM, Bubacco BG, Fitzgerald KA, Hornung V, Latz E (2009) Cut-
+L, Veerhuis R (2021) (cid:2)-Synuclein evokes NLRP3 tingEdge:NF-kappaBactivatingpatternrecognitionand
+inflammasome-mediated IL-1(cid:3) secretion from primary cytokinereceptorslicenseNLRP3inflammasomeactiva-
+humanmicroglia.Glia69,1413-1428. tion by regulating NLRP3 expression. J Immunol 183,
+[18] ScheiblichH,BoussetL,SchwartzS,GriepA,LatzE, 787-791.
+MelkiR,HenekaMT(2021)MicroglialNLRP3inflam- [32] Craven RR, Gao X, Allen IC, Gris D, Wardenburg
+masome activation upon TLR2 and TLR5 ligation by JB, McElvania-TeKippe E, Ting JP, Duncan JA (2009)
+distinct (cid:2)-synuclein assemblies. J Immunol 207, 2143- Staphylococcusaureus(cid:2)-hemolysinactivatestheNLRP3-
+2154. inflammasomeinhumanandmousemonocyticcells.PLoS
+[19] LuM,SunXL,QiaoC,LiuY,DingJH,HuG(2014) One4,e7446.
+Uncoupling protein 2 deficiency aggravates astrocytic [33] Gross O, Poeck H, Bscheider M, Dostert C, Han-
+endoplasmicreticulumstressandnod-likereceptorprotein nesschla¨ger N, Endres S, Hartmann G, Tardivel A,
+3inflammasomeactivation.NeurobiolAging35,421-430. Schweighoffer E, Tybulewicz V, Mocsai A, Tschopp J,
+[20] Codolo G, Plotegher N, Pozzobon T, Brucale M, Tes- RulandJ(2009)SykkinasesignallingcouplestotheNlrp3
+sari I, Bubacco L, de Bernard M (2013) Triggering of inflammasomeforanti-fungalhostdefence.Nature459,
+inflammasomebyaggregated(cid:2)-synuclein,aninflamma- 433-436.
+toryresponseinsynucleinopathies.PLosOne8,e55375. [34] Allen IC, Scull MA, Moore CB, Holl EK, McElvania-
+[21] PianconeF,SaresellaM,laRosaF,MarventanoI,Meloni TeKippeE,TaxmanDJ,GuthrieEH,PicklesRJ,TingJPY
+M,NavarroJ,ClericiM(2021)Inflammatoryresponses (2009)TheNLRP3inflammasomemediatesinvivoinnate
+tomonomericandaggregated(cid:2)-synucleininperipheral immunitytoinfluenzaAvirusthroughrecognitionofviral
+bloodofParkinsondiseasepatients.FrontNeurosci15, RNA.Immunity30,556-565.
+639646. [35] KannegantiTD,O¨zo¨renN,Body-MalapelM,AmerA,
+[22] Bauernfeind F, Ablasser A, Bartok E, Kim S, Schmid- Park JH, Franchi L, Whitfield J, Barchet W, Colonna
+Burgk J, Cavlar T, Hornung V (2011) Inflammasomes: M,VandenabeeleP,BertinJ,CoyleA,GrantEP,Akira
+Currentunderstandingandopenquestions.CellMolLife S, Nu´n˜ez G (2006) Bacterial RNA and small antiviral
+Sci68,765-783. compoundsactivatecaspase-1throughcryopyrin/Nalp3.
+[23] AndersonFL,vonHerrmannKM,AndrewAS,KurasYI, Nature440,233-236.
+YoungAL,ScherzerCR,HickeyWF,LeeSL,HavrdaMC [36] HalleA,HornungV,PetzoldGC,StewartCR,MonksBG,
+(2021)Plasma-borneindicatorsofinflammasomeactivity ReinheckelT,FitzgeraldKA,LatzE,MooreKJ,Golen-
+inParkinson’sdiseasepatients.NPJParkinsonsDis7,2. bockDT(2008)TheNALP3inflammasomeisinvolvedin
+[24] SharifH,Wangli,liWangW,GiriMagupalliV,Andreeva theinnateimmuneresponsetoamyloid-beta.NatImmunol
+liudmila,QiaoQ,HauensteinAv,WuZ,Nu´n˜ezG,MaoY, 9,857-865.
+
+---PAGE BREAK---
+
+2130 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+[37] Martinon F, Pe´trilli V, Mayor A, Tardivel A, Tschopp latestheNLRP3inflammasomethroughCa2+andcAMP.
+J (2006) Gout-associated uric acid crystals activate the Nature492,123-127.
+NALP3inflammasome.Nature440,237-241. [52] CoddouC,YanZ,ObsilT,Huidobro-ToroJP,Stojilkovic
+[38] Kayagaki N, Warming S, Lamkanfi M, Walle L vande, SS (2011) Activation and regulation of purinergic P2X
+Louie S, Dong J, Newton K, Qu Y, Liu J, Heldens S, receptorchannels.PharmacolRev63,A-AQ.
+Zhang J, Lee WP, Roose-Girma M, Dixit VM (2011) [53] Anke Di, Shiqin Xiong, Zhiming Ye, Thirumala-Devi
+Non-canonicalinflammasomeactivationtargetscaspase- Kanneganti, Jalees Rehman, Asrar B. Malik (2018)
+11.Nature479,117-121. The TWIK2 potassium efflux channel in macrophages
+[39] BakerPJ,BoucherD,BierschenkD,TebartzC,Whitney mediates NLRP3 inflammasome-induced inflammation.
+PG,D’SilvaDB,TanzerMC,MonteleoneM,Robertson Immunity49,56-65.
+AAB,CooperMA,Alvarez-DiazS,HeroldMJ,Bedoui [54] LiuH,HanX,LiY,ZouH,XieA(2013)Associationof
+S,SchroderK,MastersSL(2015)NLRP3inflammasome P2X7receptorgenepolymorphismswithsporadicParkin-
+activationdownstreamofcytoplasmicLPSrecognitionby son’sdiseaseinaHanChinesepopulation.NeurosciLett
+bothcaspase-4andcaspase-5.EurJImmunol45,2918- 546,42-45.
+2926. [55] HeY,TaylorN,FourgeaudL,BhattacharyaA(2017)The
+[40] Yang J, Zhao Y, Shao F (2015) Non-canonical activa- role of microglial P2X7: Modulation of cell death and
+tionofinflammatorycaspasesbycytosolicLPSininnate cytokinerelease.JNeuroinflammation14,1-13.
+immunity.CurrOpinImmunol32,78-83. [56] Van Weehaeghe D, Koole M, Schmidt ME, Deman
+[41] Ru¨hl S, Broz P (2015) Caspase-11 activates a canoni- S, Jacobs AH, Souche E, Serdons K, Sunaert S,
+cal NLRP3 inflammasome by promoting K+efflux. Eur Bormans G, Vandenberghe W, Van Laere K (2019)
+JImmunol45,2927-2936. [11C]JNJ54173717, a novel P2X7 receptor radioligand
+[42] Gaidt MM, Ebert TS, Chauhan D, Schmidt T, Schmid- asmarkerforneuroinflammation:Humanbiodistribution,
+BurgkJL,RapinoF,RobertsonAAB,CooperMA,Graf dosimetry,brainkineticmodellingandquantificationof
+T,HornungV(2016)Humanmonocytesengageanalter- brainP2X7receptorsinpatientswithParkinson’sdisease
+nativeinflammasomepathway.Immunity44,833-846. andhealthyvolunteers.EurJNuclMedMolImaging46,
+[43] Doorn KJ, Moors T, Drukarch B, Dj Van De Berg W, 2051-2064.
+Lucassen PJ, van Dam A-M (2014) Microglial pheno- [57] PozoD,XilouriM,SelvarajS,Crabbe´ M,vanderPer-
+typesandtoll-likereceptor2inthesubstantianigraand ren A, Bollaerts I, Kounelis S, Baekelandt V, Bormans
+hippocampusofincidentalLewybodydiseasecasesand G,CasteelsC,MoonsL,vanLaereK(2019)Increased
+Parkinson’sdiseasepatients.ActaNeuropatholCommun P2X7receptorbindingisassociatedwithneuroinflamma-
+2,90. tioninacutebutnotchronicrodentmodelsforParkinson’s
+[44] DzamkoN,GysbersA,PereraG,BaharA,ShankarA, disease.FrontNeurosci13,799.
+GaoJ,FuY,HallidayGM(2017)Toll-likereceptor2is [58] SoliniA,RossiC,SantiniE,GiuntiniM,RaggiF,Parolini
+increasedinneuronsinParkinson’sdiseasebrainandmay F, Biancalana E, del Prete E, Bonuccelli U, Ceravolo
+contributetoalpha-synucleinpathology.ActaNeuropathol R(2021)P2X7receptor/NLRP3inflammasomecomplex
+3,303-319. and(cid:2)-synucleininperipheralbloodmononuclearcells:
+[45] FitzN,Maguire-ZeissKA,Be´raudD,TwomeyM,Bloom A prospective study in neo-diagnosed, treatment-na¨ıve
+B,MitterederA,TonV,NeitzkeK,ChasovskikhS,Mhyre Parkinson’sdisease.EurJNeurol28,2648-2656.
+TR(2011)(cid:2)-Synucleinalterstoll-likereceptorexpression. [59] ChangD,NallsMA,Hallgr´imsdo´ttirIB,HunkapillerJ,
+FrontNeurosci5,80. vanderBrugM,CaiF;InternationalParkinson’sDisease
+[46] Fellner L, Irschick R, Schanda K, Reindl M, Kli- GenomicsConsortium;23andMeResearchTeam,Kerch-
+maschewski L, Poewe W, Wenning GK, Stefanova N nerGA,AyalonG,BingolB,ShengM,HindsD,Behrens
+(2013) Toll-like receptor 4 is required for (cid:2)-synuclein TW,SingletonAB,BhangaleTR,GrahamRR(2017)A
+dependentactivationofmicrogliaandastroglia.Glia61, meta-analysisofgenome-wideassociationstudiesidenti-
+349-360. fies17newParkinson’sdiseaseriskloci.NatGenet49,
+[47] McCabe K, Concannon RM, McKernan DP, Dowd E 1511-1516.
+(2017)Time-courseofstriatalToll-likereceptorexpres- [60] RobakLA,JansenIE,RooijJvan,UitterlindenAG,Kraaij
+sion in neurotoxic, environmental and inflammatory rat R, International Parkinson’s disease Genomics Consor-
+modelsofParkinson’sdisease.JNeuroimmunol310,103- tium(IPDGC),HeutinkP,ShulmanJM(2017)Excessive
+106. burden of lysosomal storage disorder gene variants in
+[48] CampoloM,PaternitiI,SiracusaR,FilipponeA,Esposito Parkinson’sdisease.Brain140,3191-3203.
+E,CuzzocreaS(2019)TLR4absencereducesneuroin- [61] KeatingeM,BuiH,MenkeA,ChenY-C,SokolAM,Bai
+flammationandinflammasomeactivationinParkinson’s Q,EllettF,daCostaM,BurkeD,GeggM,TrollopeL,
+diseasesinvivomodel.BrainBehavImmun76,236-247. PayneT,MctigheA,MortiboysH,deJagerS,NuthallH,
+[49] ShaoQ-H,ChenY,LiF-F,WangS,ZhangX-L,YuanY-H, KuoM-S,FlemingA,SchapiraAHv,RenshawSA,High-
+ChenN-H(2019)TLR4deficiencyhasaprotectiveeffect leyJR,ChacinskaA,PanulaP,BurtonEA,O’neillMJ,
+intheMPTP/probenecidmousemodelofParkinson’sdis- BandmannO(2015)Glucocerebrosidase1deficientDanio
+ease.ActaPharmacolSin40,1503-1512. reriomirrorkeypathologicalaspectsofhumanGaucher
+[50] Mun˜oz-PlanilloR,KuffaP,Mart´inez-Colo´nG,SmithBL, diseaseandprovideevidenceofearlymicroglialactiva-
+RajendiranTM,Nu´n˜ezG(2013)K+effluxisthecommon tionprecedingalpha-synuclein-independentneuronalcell
+triggerofNLRP3inflammasomeactivationbybacterial death.HumMolGenet24,6640-6652.
+toxinsandparticulatematter.Immunity38,1142-1153. [62] SoriaFN,EngelnM,Martinez-VicenteM,GlangetasC,
+[51] Lee GS, Subramanian N, Kim AI, Aksentijevich I, LOpez-GonzAlezJ,DoveroS,DehayB,NormandE,
+Goldbach-Mansky R, Sacks DB, Germain RN, Kastner Vila M, Favereaux A, Georges F, lo Bianco C, Bezard
+DL,ChaeJJ(2012)Thecalcium-sensingreceptorregu- E,FernagutP-O(2017)Glucocerebrosidasedeficiencyin
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2131
+dopaminergicneuronsinducesmicroglialactivationwith- Antrodia camphorata polysaccharide resists 6-OHDA-
+outneurodegeneration.HumMolGenet26,2603-2615. induced dopaminergic neuronal damage by inhibiting
+[63] KimC,BeilinaA,SmithN,LiY,KimM,KumaranR, ROS-NLRP3activation.BrainBehav10,1-10.
+Kaganovich A, Mamais A, Adame A, Iba M, Kwon S, [79] Wilkaniec A, Cies´lik M, Murawska E, Babiec L,
+LeeW-J,ShinS-J,RissmanR,YouS,LeeS-J,Singleton Ga˛ssowska-DobrowolskaM,PałaszE,Je˛s´koH,Adam-
+AB, Cookson MR, Masliah E (2020) LRRK2 mediates czykA(2020)P2X7receptorisinvolvedinmitochondrial
+microglialneurotoxicityviaNFATc2inrodentmodelsof dysfunctioninducedbyextracellularalphasynucleinin
+synucleinopathies.SciTranslMed12,eaay0399. neuroblastomaSH-SY5Ycells.IntJMolSci21,3959.
+[64] McGlincheyRP,LeeJC(2015)Cysteinecathepsinsare [80] Shimada K, Crother TR, Karlin J, Dagvadorj J, Chiba
+essentialinlysosomaldegradationof(cid:2)-synuclein.Proc N, Chen S, Krishnan Ramanujan V, Wolf AJ, Vergnes
+NatlAcadSciUSA112,9322-9327. L, Ojcius DM, Rentsendorj A, Vargas M, Guerrero C,
+[65] McGlincheyRP,LacySM,HufferKE,TayebiN,Sidran- WangY,FitzgeraldKA,UnderhillDM,TownT,ArditiM
+skyE,LeeJC(2019)C-terminal(cid:2)-synucleintruncations (2012)OxidizedmitochondrialDNAactivatestheNLRP3
+are linked to cysteine cathepsin activity in Parkinson’s inflammasomeduringapoptosis.Immunity36,401-414.
+disease.JBiolChem294,9973-9984. [81] ZhongZ,LiangS,Sanchez-LopezE,HeF,ShalapourS,
+[66] Nakanishi H (2020) Cathepsin regulation on microglial LinXjia,WongJ,DingS,SekiE,SchnablB,HevenerAL,
+function.BiochimBiophysActaProteinsProteom1868, GreenbergHB,KisselevaT,KarinM(2018)Newmito-
+140465. chondrialDNAsynthesisenablesNLRP3inflammasome
+[67] CampdenRI,ZhangY(2019)Theroleoflysosomalcys- activation.Nature560,198-203.
+teinecathepsinsinNLRP3inflammasomeactivation.Arch [82] Borsche M, Ko¨ IR, Delcambre S, Petrucci S, Balck A,
+BiochemBiophys670,32-42. Bru¨ N,ZimprichA,WasnerK,PereiraSL,AvenaliM,
+[68] SunL,WuZ,HayashiY,PetersC,TsudaM,InoueK, DeuschleC,BadanjakK,GhelfiJ,GasserT,KastenM,
+NakanishiH(2012)Neurobiologyofdiseasemicroglial Rosenstiel P, Lohmann K, Brockmann K, Valente EM,
+cathepsin B contributes to the initiation of peripheral YouleRJ,Gru¨ NewaldA,KleinC(2020)Mitochondrial
+inflammation-inducedchronicpain.JNeurosci32,11330- damage-associatedinflammationhighlightsbiomarkersin
+11342. PRKN/PINK1parkinsonism.Brain143,3041-3051.
+[69] Terada K, Yamada J, Hayashi Y, Wu Z, Uchiyama Y, [83] LowesH,Kurzawa-AkanbiM,PyleA,HudsonG(2020)
+PetersC,NakanishiH(2010)Involvementofcathepsin Post-mortem ventricular cerebrospinal fluid cell-free-
+B in the processing and secretion of interleukin-1(cid:3) in mtDNAinneurodegenerativedisease.SciRep10,15253.
+chromogranina-stimulatedmicroglia.Glia58,114-124. [84] FuruyaT,HayakawaH,YamadaM,YoshimiK,Hisahara
+[70] BogyoRM,RobertsonSA,GregoryKL,OrlowskiM,Col- S, Miura M, Mizuno Y, Mochizuki H (2004) Neuro-
+bert JD, Sharma S (2015) Multiple cathepsins promote biology of disease caspase-11 mediates inflammatory
+Pro-IL-1(cid:3)synthesisandNLRP3-mediatedIL-1(cid:3)activa- dopaminergiccelldeathinthe1-Methyl-4-Phenyl-1,2,3,6-
+tion.JImmunol195,1685-1679. TetrahydropyridinemousemodelofParkinson’sdisease.
+[71] FreemanD,CedillosR,ChoykeS,LukicZ,McguireK JNeurosci24,1865-1872.
+(2013) Alpha-synuclein induces lysosomal rupture and [85] MaoZ,LiuC,JiS,YangQ,YeH,HanH,XueZ(2017)
+cathepsin dependent reactive oxygen species following TheNLRP3inflammasomeisinvolvedinthepathogenesis
+endocytosis.PLoSOne8,e62143. ofParkinson’sdiseaseinrats.NeurochemlRes42,1104-
+[72] ZhouY,LuM,DuR-H,QiaoC,JiangC-Y,ZhangK- 1115.
+Z,DingJ-H,HuG(2016)MicroRNA-7targetsNod-like [86] YangJ,JiaM,ZhangX,WangP(2019)Calycosinatten-
+receptor protein 3 inflammasome to modulate neuroin- uatesMPTP-inducedParkinson’sdiseasebysuppressing
+flammation in the pathogenesis of Parkinson’s disease. theactivationofTLR/NF-κBandMAPKpathways.Phy-
+MolNeurodegener11,1-15. totherRes33,309-318.
+[73] Bose A, Beal MF (2016) Mitochondrial dysfunction in [87] Cheng C, Zhu X (2019) Cordycepin mitigates MPTP-
+Parkinson’sdisease.JNeurochem139,216-231. inducedParkinson’sdiseasethroughinhibitingTLR/NF-
+[74] ZhouR,YazdiAS,MenuP,TschoppJ(2011)Arolefor κBsignalingpathway.LifeSci223,120-127.
+mitochondriainNLRP3inflammasomeactivation.Nature [88] XuW,ZhengD,LiuY,LiJ,YangL,ShangX(2017)
+469,221-225. Glaucocalyxin B alleviates lipopolysaccharide-induced
+[75] Mouton-LigerF,RosazzaT,Sepulveda-DiazJ,Ame´lieI, Parkinson’s disease by inhibiting TLR/NF-κB and acti-
+HassounS-M,ClaireE,MangoneG,BriceA,MichelPP, vating Nrf2/HO-1 pathway. Cell Physiol Biochem 44,
+CorvolJ-C,CortiO(2018)Parkindeficiencymodulates 2091-2104.
+NLRP3inflammasomeactivationbyattenuatinganA20- [89] KhanA,JohnsonR,WittmerC,MaileM,TatsukawaK,
+dependentnegativefeedbackloop.Glia66,1763-1751. WongJL,GillMB,StockingEM,NatalaSR,PaulinoAD,
+[76] ParkJ,MinJS,KimB,ChaeUB,YunJW,ChoiMS,Kong Bowden-VerhoekJK,WrasidloW,MasliahE,Bonhaus
+IK,ChangKT,LeeDS(2015)MitochondrialROSgovern DW,PriceDL(2021)NPT520-34improvesneuropathol-
+theLPS-inducedpro-inflammatoryresponseinmicroglia ogyandmotordeficitsinatransgenicmousemodelof
+cellsbyregulatingMAPKandNF-κBpathways.Neurosci Parkinson’sdisease.Brain144,3692-3709.
+Lett584,191-196. [90] Leem YH, Park JS, Park JE, Kim DY, Kim HS (2021)
+[77] GanjamGK,BolteK,MatschkeLA,NeitemeierS,Dolga Papaverine exerts neuroprotective effect by inhibiting
+AM,Ho¨llerhageM,Ho¨glingerGU,AdamczykA,Decher NLRP3 inflammasome activation in an MPTP-induced
+N,OertelWH,CulmseeC(2019)Mitochondrialdamage microglial priming mouse model challenged with LPS.
+by(cid:2)-synucleincausescelldeathinhumandopaminergic BiomolTher29,295-302.
+neurons.CellDeathDis10,865. [91] RenC,LiLX,DongAQ,ZhangYT,HuH,MaoCJ,Wang
+[78] Han C, Shen H, Yang Y, Sheng Y, Wang J, Li W, F,LiuCF(2021)Depressioninducedbychronicunpre-
+ZhouX,GuoL,ZhaiL,GuanQ,LipingZhaiC(2020) dictablemildstressincreasessusceptibilitytoParkinson’s
+
+---PAGE BREAK---
+
+2132 L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome
+diseaseinmicevianeuroinflammationmediatedbyP2X7 MPTP-inducedParkinsondiseaseinmice.BehavBrain
+receptor.ACSChemNeurosci12,1262-1272. Res383,1-9.
+[92] MoY,XuE,WeiR,LeB,SongL,LiD,ChenY,JiX, [105] Li J, Dai X, zhou L, Li X, Pan D (2021) Edaravone
+FangS,ShenJ,YangC,WangQ(2018)Bushen-Yizhifor- Plays Protective Effects on LPS-Induced Microglia by
+mulaalleviatesneuroinflammationviainhibitingNLRP3 Switching M1/M2 Phenotypes and Regulating NLRP3
+inflammasomeactivationinamousemodelofParkinson’s InflammasomeActivation.FrontPharmacol12,112539.
+disease. Evid Based Complementary Altern Med 2018, [106] LinY,XuD,GaoF,ZhengX(2021)Ulinastatininhibits
+3571604. NLRP3-inducedapoptosisinaPDcellmodel.AnnTransl
+[93] FanZ,LiangZ,YangH,PanY,ZhengY,WangX(2017) Med9,924.
+Tenuigeninprotectsdopaminergicneuronsfrominflam- [107] HeH,JiangH,ChenY,YeJ,WangA,WangC,LiuQ,
+mationviasuppressingNLRP3inflammasomeactivation LiangG,DengX,JiangW,ZhouR(2018)Oridoninisa
+inmicroglia.JNeuroinflammation14,256. covalentNLRP3inhibitorwithstronganti-inflammasome
+[94] Yao S, Li L, Sun X, Hua J, Zhang K, Hao L, Liu L, activity.NatCommun9,2550.
+ShiD,ZhouH(2019)FTY720inhibitsMPP+-induced [108] LasonW,TiwariV,LiK,JinW,YanC,YanH,MaoJ,Liu
+microglialactivationbyaffectingNLRP3inflammasome Y,XuL,ZhaoH,ShenJ,CaoY,GaoY(2020)Neuro-
+activation.JNeuroimmunePharmacol14,478-492. protectiveeffectoforidoninontraumaticbraininjuryvia
+[95] KwonO,SongJ,YangY,KimS,KimJY,SeokM,Hwang inhibitingNLRP3inflammasomeinexperimentalmice.
+I,YuJ,KarmacharyaJ,MaengH,KimJ,JhoE,KoSY,Son FrontNeurosci14,557170.
+H,ChangM,LeeS(2021)SGK1inhibitioningliaame- [109] ChenX,LiuG,YuanY,WuG,WangS,YuanL(2019)
+lioratespathologiesandsymptomsinParkinsondisease NEK7interactswithNLRP3tomodulatethepyroptosis
+animalmodels.EMBOMolMed13,e13076. ininflammatoryboweldiseaseviaNF-κBsignaling.Cell
+[96] Que R, Zheng J, Chang Z, Zhang W, Li H, Xie Z, DeathDis10,906.
+Huang Z, Wang H-T, Xu J, Jin D, Yang W, Tan E-K, [110] HughesMM,HooftmanA,AngiariS,TummalaP,Zaslona
+WangQ(2021)Dl-3-n-butylphthaliderescuesdopamin- Z, Runtsch MC, McGettrick AF, Sutton CE, Diskin C,
+ergicneuronsinParkinson’sdiseasemodelsbyinhibiting Rooke M, Takahashi S, Sundararaj S, Casarotto MG,
+the NLRP3 inflammasome and ameliorating mitochon- DahlstromJE,Palsson-McDermottEM,CorrSC,Mills
+drialimpairment.FrontImmunol12,794770. KHG,PrestonRJS,NeamatiN,XieY,BaellJB,Board
+[97] YanY,JiangW,LiuL,WangX,DingC,TianZ,ZhouR PG,O’NeillLAJ(2019)Glutathionetransferaseomega-1
+(2015)Dopaminecontrolssystemicinflammationthrough regulatesNLRP3inflammasomeactivationthroughNEK7
+inhibitionofNLRP3inflammasome.Cell160,62-73. deglutathionylation.Cell29,151-161.
+[98] Wang W, Shi L, Xie Y, Ma C, Li W, Su X, Huang S, [111] XuKY,WuCY,TongS,XiongP,WangSH(2018)The
+ChenR,ZhuZ,MaoZ,HanY,LiM(2004)SP600125, selectiveNLRP3inflammasomeinhibitorMcc950atten-
+a new JNK inhibitor, protects dopaminergic neurons in uateslungischemia-reperfusioninjury.BiochemBiophy
+theMPTPmodelofParkinson’sdisease.NeurosciRes48, ResCommun503,3031-3037.
+195-202. [112] ZhangB,WeiW,QiuJ(2018)ALKisrequiredforNLRP3
+[99] TemsamaniH,KrisaS,Decossas-MendozaM,Lambert inflammasomeactivationinmacrophages.BiochemBio-
+O,Me´rillonJ-M,RichardT(2016)Piceatannolandother phyResCommun501,246-252.
+winestilbenes:Apoolofinhibitorsagainst(cid:2)-synuclein [113] He Y, Varadarajan S, Mun˜oz-Planillo R, Burberry A,
+aggregationandcytotoxicity.Nutrients8,367. Nakamura Y, Nu´n˜ez G (2014) 3,4-methylenedioxy-(cid:3)-
+[100] ZhengR,RuanY,YanY,LinZ,XueN,YanY,TianJ,Yin nitrostyreneinhibitsNLRP3inflammasomeactivationby
+X,PuJ,ZhangB(2021)Melatoninattenuatesneuroin- blockingassemblyoftheinflammasome.JBiolChem289,
+flammation by down-regulating NLRP3 inflammasome 1142-1150.
+viaaSIRT1-dependentpathwayinMPTP-inducedmodels [114] CollRC,HillJR,DayCJ,ZamoshnikovaA,BoucherD,
+ofParkinson’sdisease.JInflamRes14,3063-3075. MasseyNL,ChittyJL,FraserJA,JenningsMP,Robert-
+[101] ZhuJ,SunT,ZhangJ,LiuY,WangD,ZhuH,YaoH, son AAB, Schroder K (2019) MCC950 directly targets
+Ding J, Hu G, Lu M (2020) Drd2 biased agonist pre- theNLRP3ATP-hydrolysismotifforinflammasomeinhi-
+ventsneurodegenerationagainstNLRP3inflammasomein bition.NatChemBiol15,556-559.
+Parkinson’sdiseasemodelviaa(cid:3)-arrestin2-biasedmech- [115] Cocco M, Miglio G, Giorgis M, Garella D, Marini E,
+anism.BrainBehavImmun90,259-271. CostaleA,RegazzoniL,VistoliG,OrioliM,Massulaha-
+[102] Zhu J, Hu Z, Han X, Wang D, Jiang Q, Ding J, Xiao Ahmed R, De´traz-Durieux I, Groslambert M, Py BF,
+M, Wang C, Lu M, Hu G (2018) Dopamine D2 recep- BertinariaM(2016)Design,synthesis,andevaluationof
+tor restricts astrocytic NLRP3 inflammasome activation acrylamide derivatives as direct NLRP3 inflammasome
+viaenhancingtheinteractionof(cid:3)-arrestin2andNLRP3. inhibitors.ChemMedChem11,1790-1803.
+CellDeathDiffer25,2037-2049. [116] CoccoM,PellegriniC,Mart´inez-BanaclochaH,Giorgis
+[103] XuLL,WuYF,YanF,LiCC,DaiZ,YouQD,JiangZY,Di M, Marini E, Costale A, Miglio G, Fornai M, Anto-
+B (2019) 5-(3,4-Difluorophenyl)-3-(6-methylpyridin-3- nioliL,Lo´pez-Castejo´nG,Tapia-Abella´nA,AngostoD,
+yl)-1,2,4-oxadiazole(DDO-7263),anovelNrf2activator Hafner-BratkovicˇI,RegazzoniL,BlandizziC,Pelegr´inP,
+targetingbraintissue,protectsagainstMPTP-inducedsub- BertinariaM(2017)Developmentofanacrylatederivative
+acuteParkinson’sdiseaseinmicebyinhibitingtheNLRP3 targetingtheNLRP3inflammasomeforthetreatmentof
+inflammasomeandprotectsPC12cellsagainstoxidative inflammatoryboweldisease.JMedChem60,3656-3671.
+stress.FreeRadicBiolMed134,288-303. [117] ShimDW,ShinWY,YuSH,KimBH,YeSK,Koppula
+[104] LiuQ,GuoX,HuangZ,HeQ,ZhuD,ZhangS,Peng S,WonHS,KangTB,LeeKH(2017)BOT-4-oneattenu-
+Z,CheY,FengX(2020)Anti-neuroinflammatoryeffects atesNLRP3inflammasomeactivation:NLRP3alkylation
+ofdimethylaminomylide(DMAMCL,i.e.,ACT001)are leadingtotheregulationofitsATPaseactivityandubiq-
+associatedwithattenuatingtheNLRP3inflammasomein uitination.SciRep7,15020.
+
+---PAGE BREAK---
+
+L.T.N.Nguyen,etal./Parkinson’sDiseaseandNLRP3Inflammasome 2133
+[118] Marchetti C, Swartzwelter B, Koenders MI, Azam T, [126] MackenzieSH,SchipperJL,ClarkAC(2010)Thepoten-
+Tengesdal IW, Powers N, de Graaf DM, Dinarello CA, tialforcaspasesindrugdiscovery.CurrOpinDrugDiscov
+Joosten LAB (2018) NLRP3 inflammasome inhibitor Devel13,568-576.
+OLT1177suppressesjointinflammationinmurinemodels [127] JesusAA,Goldbach-ManskyR(2014)IL-1blockadein
+ofacutearthritis.ArthritisResTher20,169. autoinflammatorysyndromes.AnnuRevMed65,223-244.
+[119] JiangH,HeH,ChenY,HuangW,ChengJ,YeJ,Wang [128] LiX,ZouY,FuYY,XingJ,WangKY,WanPZ,Wang
+A,TaoJ,WangC,LiuQ,JinT,JiangW,DengX,Zhou M,ZhaiXY(2021)Ibudilastattenuatesfolicacid–induced
+R(2017)IdentificationofaselectiveanddirectNLRP3 acutekidneyinjurybyblockingpyroptosisthroughTLR4-
+inhibitortotreatinflammatorydisorders.JExpMed214, mediatedNF-κBandMAPKsignalingpathways.Front
+3219-3238. Pharmacol12,650283.
+[120] HuangY,JiangH,ChenY,WangX,YangY,TaoJ,Deng [129] RuanZ,DelpechJC,VenkatesanKalavaiS,vanEnooAA,
+X, Liang G, Zhang H, Jiang W, Zhou R (2018) Trani- HuJ,IkezuS,IkezuT(2020)P2RX7inhibitorsuppresses
+lastdirectlytargetsNLRP3totreatinflammasome-driven exosomesecretionanddiseasephenotypeinP301Stau
+diseases.EMBOMolMed10,e8689. transgenicmice.MolNeurodegener15,47.
+[121] Guo C, Fulp JW, Jiang Y, Li X, Chojnacki JE, Wu [130] Apolloni S, Amadio S, Parisi C, Matteucci A, Potenza
+J, Wang XY, Zhang S (2017) Development and RL,ArmidaM,PopoliP,D’AmbrosiN,Volonte´C(2014)
+characterization of a hydroxyl-sulfonamide analogue, SpinalcordpathologyisamelioratedbyP2X7antagonism
+5-Chloro-N-[2-(4-hydroxysulfamoyl-phenyl)-ethyl]-2- inaSOD1-mutantmousemodelofamyotrophiclateral
+methoxy-benzamide, as a novel NLRP3 inflammasome sclerosis.DisModelsMech7,1101-1109.
+inhibitor for potential treatment of multiple sclerosis. [131] Hook VYH, Kindy M, Hook G (2008) Inhibitors of
+ACSChemNeurosci8,2194-2201. cathepsin B improve memory and reduce beta-amyloid
+[122] Daniels MJD, Rivers-Auty J, Schilling T, Spencer NG, intransgenicAlzheimerdiseasemiceexpressingthewild-
+WatremezW,FasolinoV,BoothSJ,WhiteCS,Baldwin type,butnottheSwedishmutant,beta-secretasesiteofthe
+AG,FreemanS,WongR,LattaC,YuS,JacksonJ,Fischer amyloidprecursorprotein.JBiolChem283,7745-7753.
+N,KozielV,PillotT,BagnallJ,AllanSM,PaszekP,Galea [132] Hook G, Jacobsen JS, Grabstein K, Kindy M, Hook V
+J, Harte MK, Eder C, Lawrence CB, Brough D (2016) (2015)CathepsinBisanewdrugtargetfortraumaticbrain
+FenamateNSAIDsinhibittheNLRP3inflammasomeand injurytherapeutics:EvidenceforE64dasapromisinglead
+protectagainstAlzheimer’sdiseaseinrodentmodels.Nat drugcandidate.FrontNeurol6,178.
+Commun7,12504. [133] TangTT,LvLL,PanMM,WenY,WangB,LiZL,Wu
+[123] Lonnemann N, Hosseini S, Marchetti C, Skouras DB, M, Wang FM, Crowley SD, Liu BC (2018) Hydroxy-
+Stefanoni D, Dinarello CA, Korte M (2020) The chloroquineattenuatesrenalischemia/reperfusioninjury
+NLRP3inflammasomeinhibitorOLT1177rescuescogni- byinhibitingcathepsinmediatedNLRP3inflammasome
+tiveimpairmentinamousemodelofAlzheimer’sdisease. activation.CellDeathDis9,351.
+ProcNatlAcadSciUSA117,32145-32154. [134] SongN,LiuZS,XueW,BaiZF,WangQY,DaiJ,LiuX,
+[124] YoumYH,NguyenKY,GrantRW,GoldbergEL,Bodogai HuangYJ,CaiH,ZhanXY,HanQY,WangH,ChenY,
+M, Kim D, D’Agostino D, Planavsky N, Lupfer C, LiHY,LiAL,ZhangXM,ZhouT,LiT(2017)NLRP3
+Kanneganti TD, Kang S, Horvath TL, Fahmy TM, phosphorylationisanessentialprimingeventforinflam-
+Crawford PA, Biragyn A, Alnemri E, Dixit VD (2015) masomeactivation.MolCell68,185-197.
+Theketonemetabolite(cid:3)-hydroxybutyrateblocksNLRP3
+inflammasome-mediatedinflammatorydisease.NatMed
+21,263-269.
+[125] Flores J, Noe¨l A, Foveau B, Lynham J, Lecrux C,
+LeBlancAC(2018)Caspase-1inhibitionalleviatescog-
+nitiveimpairmentandneuropathologyinanAlzheimer’s
+diseasemousemodel.NatCommun9,3916.
+
+---PAGE BREAK---
+

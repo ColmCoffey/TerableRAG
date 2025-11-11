@@ -1,0 +1,1973 @@
+Chunk 1:
+NeurobiologyofDisease163(2022)105580
+Contents lists available at ScienceDirect
+Neurobiology of Disease
+journal homepage: www.elsevier.com/locate/ynbdi
+Multi-omic insights into Parkinson’s Disease: From genetic associations to
+functional mechanisms
+Brian M. Schildera,b,c,d,e,f,g,*, Elisa Navarroa,b,c,d,e,h, Towfique Raja,b,c,d,e,**
+aNash Family Department of Neuroscience & Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+bRonald M. Loeb Center for Alzheimer’s disease, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+cDepartment of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+dIcahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+eEstelle and Daniel Maggin Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY, United States
+fDepartment of Brain Sciences, Faculty of Medicine, Imperial College London, London, United Kingdom
+gUK Dementia Research Institute at Imperial College London, London, United Kingdom
+hSeccio´n Departamental de Bioquímica y Biología Molecular, Facultad de Medicina, Universidad Complutense de Madrid, Madrid, Spain
+A R T I C L E I N F O A B S T R A C T
+Keywords: Genome-Wide Association Studies (GWAS) have elucidated the genetic components of Parkinson’s Disease (PD).
+Parkinson’s Disease However, because the vast majority of GWAS association signals fall within non-coding regions, translating these
+Neurodegeneration results into an interpretable, mechanistic understanding of the disease etiology remains a major challenge in the
+Genome-wide association study (GWAS)
+field. In this review, we provide an overview of the approaches to prioritize putative causal variants and genes as
+Quantitative trait loci (QTL)
+well as summarise the primary findings of previous studies. We then discuss recent efforts to integrate multi-
+Multi-omics
+omics data
+
+Chunk 2:
+ mechanistic understanding of the disease etiology remains a major challenge in the
+Genome-wide association study (GWAS)
+field. In this review, we provide an overview of the approaches to prioritize putative causal variants and genes as
+Quantitative trait loci (QTL)
+well as summarise the primary findings of previous studies. We then discuss recent efforts to integrate multi-
+Multi-omics
+omics data to identify likely pathogenic cell types and biological pathways implicated in PD pathogenesis. We
+Meta-analysis
+Phenome have compiled full summary statistics of cell-type, tissue, and phentoype enrichment analyses from multiple
+studies of PD GWAS and provided them in a standardized format as a resource for the research community
+(https://github.com/RajLabMSSM/PD_omics_review). Finally, we discuss the experimental, computational, and
+conceptual advances that will be necessary to fully elucidate the effects of functional variants and genes on
+cellular dysregulation and disease risk.
+1. Introduction dopaminergic (DA) neurons in the substantia nigra (SN) pars compacta
+(Damier et al., 1999; Fearnley and Lees, 1991) and the accumulation of
+Parkinson’s disease (PD) (Parkinson, 1817) is the second most Lewy bodies, caused by the intracellular aggregation of α-synuclein
+common neurodegenerative disease globally (Kim et al., 2018) and is (Braak et al., 2003; Braak and Del Tredici, 2017; Poewe et al., 2017).
+projected to double in prevalence between 2005 and 2030 (Dorsey et al., This leads to the dysfunction of basal ganglia circuitry and is thought to
+2007). PD is characterized by both motor symptoms (e.g. bradykinesia, be the primary driver of classical motor symptoms (Kalia and Lang,
+rigidity, tremor) and a diversity of non-motor symptoms (e.g. cognitive 2015). The main pharmacological intervention is levodopa replacement
+impairment, autonomic dysfunction, sleep cycle dysregulation), but but there is currently no cure for the disease. PD cases are typically
+there is substantial h
+
+Chunk 3:
+or symptoms (e.g. bradykinesia, be the primary driver of classical motor symptoms (Kalia and Lang,
+rigidity, tremor) and a diversity of non-motor symptoms (e.g. cognitive 2015). The main pharmacological intervention is levodopa replacement
+impairment, autonomic dysfunction, sleep cycle dysregulation), but but there is currently no cure for the disease. PD cases are typically
+there is substantial heterogeneity in the exact clinical presentation and categorized into two main forms: monogenic and idiopathic. The so-
+age of onset, as well as phenotypic overlap with other PD-like disorders called monogenic cases (sometimes called Mendelian, familial, or ge-
+(Poewe et al., 2017). This phenotypic heterogeneity, which is poten- netic) only account for 5–10% of total cases (Bandres-Ciga et al., 2020a,
+tially a reflection of heterogeneity at the molecular level, has further 2020b; Lesage and Brice, 2009). The vast majority of PD cases are
+compounded the challenge of developing methodologies that can idiopathic (also called sporadic or sometimes “non-genetic”), which we
+effectively identify, treat and prevent this disorder. now know has a substantial genetic component that comprises many
+PD is characterized by two main pathological hallmarks: the loss of common, small-effect variants across the genome. PD has been
+* Correspondence to: B.M. Schilder, 86 Wood Ln, Sir Michael Uren Hub, 7th floor, UK Dementia Research Institute, Imperial College London, London W12 0BZ,
+United Kingdom.
+** Correspondence to: T. Raj, 1425 Madison Avenue, Icahn 10-70E, Icahn School of Medicine at Mount Sinai, New York City, NY 10029, United States.
+E-mail addresses: brian_schilder@alumni.brown.edu (B.M. Schilder), towfique.raj@mssm.edu (T. Raj).
+https://doi.org/10.1016/j.nbd.2021.105580
+Received 23 August 2021; Received in revised form 17 November 2021; Accepted 2 December 2021
+Availableonline4December2021
+0969-9961/© 2021 The Authors. Published by Elsevier Inc. This is an open access article under th
+
+Chunk 4:
+ New York City, NY 10029, United States.
+E-mail addresses: brian_schilder@alumni.brown.edu (B.M. Schilder), towfique.raj@mssm.edu (T. Raj).
+https://doi.org/10.1016/j.nbd.2021.105580
+Received 23 August 2021; Received in revised form 17 November 2021; Accepted 2 December 2021
+Availableonline4December2021
+0969-9961/© 2021 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Table 1
+Parkinson’s Disease omics resources.
+Resource Phenotypes Description Data types Levels Last No request API URL Reference
+update needed
+Alfradique-Dunham et al. Parkinson's Full genome-wide summary statistics from Alfradique- GWAS Variants 2021 Y N https://pdgenetics.org/resources (Alfradique-Dunham et al. 2021)
+(2021) Dunham et al. (2021) PD motor subtypes GWAS.
+AMP-PD Parkinson's Whole-genome sequencing (WGS), familial PD-associated WGS, Variants, 2021 N Y https://amp-pd.org (Iwaki et al. 2020)
+mutation status, transcriptome and clinical evaluations in a bulkRNA-seq Genes,
+cohort of PD and control participants. Phenotypes
+Some of the data is compiled from other databases
+(BioFIND, PDBP, PPMI) and harmonized to facilitate re-
+analysis.
+Blauwendraat et al. (2019) Parkinson's Full genome-wide summary statistics from Blauwendraat GWAS Variants 2019 Y N https://pdgenetics.org/resources (Blauwendraat et al. 2019)
+et al. (2019) PD onset GWAS, excluding 23andMe.
+FOUNDIN-PD Parkinson's Extensive multi-omics resource from PD patient-derived Genotype, Variants, 2021 Y Y https://www.foundinpd.org (Bressan et al., 2021)
+iPSCs. WGS, Epigenomics,
+mitoDNA-seq Genes,
+DNA methylation, Cell-types,
+HiC, Tissues,
+scATAC-seq, Phenotypes
+bulkRNA-seq,
+smallRNA-seq,
+scRNA-seq,
+Proteomics,
+Clinical,
+Imaging
+GP2 Parkinson's The Global Parkinson’s Genetics Program (GP2) is the Genotype, Variants, 2021 N Y https://www.gp2.o
+
+Chunk 5:
+urce from PD patient-derived Genotype, Variants, 2021 Y Y https://www.foundinpd.org (Bressan et al., 2021)
+iPSCs. WGS, Epigenomics,
+mitoDNA-seq Genes,
+DNA methylation, Cell-types,
+HiC, Tissues,
+scATAC-seq, Phenotypes
+bulkRNA-seq,
+smallRNA-seq,
+scRNA-seq,
+Proteomics,
+Clinical,
+Imaging
+GP2 Parkinson's The Global Parkinson’s Genetics Program (GP2) is the Genotype, Variants, 2021 N Y https://www.gp2.org (The Global Parkinson’s Genetics
+first resource project of the Aligning Science Across GWAS, Epigenomics, Program, 2021)
+Parkinson's (ASAP) initiative. It aims to collect multi-modal WGS Genes,
+data from a diverse international cohort of PD patients, Cell-types,
+including genotyping in 150k+ individuals and WGS in Tissues,
+10k+ individuals. Phenotypes
+iPDGC Locus Browser Parkinson's Top summary statistics from three PD GWAS with variant GWAS, Variants, 2021 Y N https://pdgenetics.shinyapps.io/GWASBro(Grenn et al. 2020)
+annotation, causal gene(s) nomination, brain eQTL QTL, Genes, wser
+integration, statistical fine-mapping results, co-expression bulkRNA-seq, Phenotypes
+networks and burden analyses. scRNA-seq
+iPDGC MR Portal Parkinson's Two-sample Mendelian Randomisation (MR) comparing GWAS Variants, 2019 Y N https://pdgenetics.shinyapps.io/MRportal (Noyce et al. 2019)
+PD to 5,854 other GWAS traits provided by the Phenotypes
+International Parkinson Disease Genomics Consortium
+(IPDGC).
+MJFF Parkinson's A compilation of PD genomics datasets and tools funded GWAS, Variants, 2021 N N https://www.michaeljfox.org/data-sets (Padmanabhan et al. 2019)
+by MIchael J. Fox Foundation (MJFF). WGS, Genes,
+bulkRNA-seq, Phenotypes
+Clinical,
+Imaging
+Nalls et al. (2019) Parkinson's Full genome-wide summary statistics from Nalls et al. GWAS Variants 2019 Y N https://pdgenetics.org/resources (Nalls et al. 2019)
+(2019) PD GWAS, excluding 23andMe.
+PD Gene Parkinson's Search tool for Nalls et al. (2014) GWAS summary GWAS Variants, 2017 Y N http://pdgene.org (Nalls et al. 2014)
+statistics. Genes
+P
+
+Chunk 6:
+GS, Genes,
+bulkRNA-seq, Phenotypes
+Clinical,
+Imaging
+Nalls et al. (2019) Parkinson's Full genome-wide summary statistics from Nalls et al. GWAS Variants 2019 Y N https://pdgenetics.org/resources (Nalls et al. 2019)
+(2019) PD GWAS, excluding 23andMe.
+PD Gene Parkinson's Search tool for Nalls et al. (2014) GWAS summary GWAS Variants, 2017 Y N http://pdgene.org (Nalls et al. 2014)
+statistics. Genes
+PPMI Parkinson's A compilation of PD genomics datasets and tools funded GWAS, Variants, 2019 Y N http://www.ppmi-info.org (Aleksovski et al. 2018)
+by MJFF via the Parkinson's Progression Markers Initiative WGS, Genes,
+(PPMI) initiative. bulkRNA-seq, Phenotypes
+Clinical,
+Imaging
+PDBP Parkinsonianisms Repository for biosamples and biomarkers data funded by GWAS, Variant, 2021 N Y https://pdbp-demo.cit.nih.gov (Rosenthal et al. 2016)
+National Institute of Neurological Disorders and Stroke bulkRNA-seq, Genes,
+(NINDS) via the Parkinson's Disease Biomarkers Clinical Cell-types,
+Program (PDBP). Tissues,
+Phenotypes
+echolocatoR Fine-mapping Multiple Multi-tool fine-mapping results and locus visualizations GWAS, Variants, 2021 Y Y https://rajlab.shinyapps.io/Fine_Mapping_(Schilder et al. )
+Portal across 11+ GWAS/QTL. QTL Genes, Shiny
+Cell-types
+EpiGraphDB Multiple Multi-modal epidemiological networks of linking data GWAS, Variants, 2021 Y Y https://www.epigraphdb.org (Liu et al. 2020)
+across phenotypes, literature terms, genes, tissues, drugs Literature Genes,
+and more. Cell-types,
+Tissues,
+ukbiobank-tools provides API access to certain aspects of Phenotypes
+the database (https://ukbiobank-
+tools.readthedocs.io/en/latest/index.html).
+EpiMap Multiple Expanded and standardised collection of all epigenomics Epigenomics Variants, 2021 Y Y http://compbio.mit.edu/epimap (Boix et al. 2021)
+data from ENCODE, the Roadmap Epigenomics Project, Genes,
+and the Genomics of Gene Regulation (GGR). Includes Cell-types
+multi-modal networks integrating epigenomics and GWAS. Tissues,
+Phenotypes
+eQTL Cata
+
+Chunk 7:
+ools.readthedocs.io/en/latest/index.html).
+EpiMap Multiple Expanded and standardised collection of all epigenomics Epigenomics Variants, 2021 Y Y http://compbio.mit.edu/epimap (Boix et al. 2021)
+data from ENCODE, the Roadmap Epigenomics Project, Genes,
+and the Genomics of Gene Regulation (GGR). Includes Cell-types
+multi-modal networks integrating epigenomics and GWAS. Tissues,
+Phenotypes
+eQTL Catalogue Multiple Uniformly reprocessed, tabix-indexed summary statistics QTL Variants, 2021 Y Y https://www.ebi.ac.uk/eqtl (Kerimov et al. 2020)
+and statistical fine-mapping results from 112 QTL datasets Genes,
+across 21 studies, including QTL for: gene expression, Cell-types,
+exon expression, transcript usage, and txrevise event Tissues
+usage.
+FUMA GWAS Multiple Web tool for automated GWAS annotation and cell- GWAS Variants, 2021 Y N https://fuma.ctglab.nl (Watanabe et al. 2017)
+type/tissue enrichment. Genes,
+Cell-types,
+Tissues,
+Phenotypes
+GenoML Multiple Toolkit to facilitate the creation of novel deep learning GWAS,Q TLE, pigenoVariants, 2021 Y Y https://genoml.com (Makarious et al., 2021)
+architectures for genomics data. Genes,
+Cell-types,
+Phenotypes
+Janggu Multiple Toolkit to facilitate the creation of novel deep learning GWAS,Q TLE, pigenoVariantsG, enes2021 Y Y https://github.com/BIMSBbioinfo/janggu (Kopp et al., 2020)
+architectures for genomics data.
+Kipoi Multiple Pre-trained deep learning models for genomics data. GWAS,Q TLE, pigenoVariantsG, enes2021 Y Y https://kipoi.org (Avsec et al., 2019)
+MDSGene Multiple Databases of variants, genes and symptoms associated Literature Variants, 2020 Y N http://www.mdsgene.org (Klein et al. 2018)
+with movement disorders in the literature. Genes,
+Phenotypes
+MungeSumstats Multiple Tool for automatic, robust, and scalable standardization of GWAS Variants, 2021 Y Y https://github.com/neurogenomics/Munge (Murphy and Skene, 2021)
+GWAS summary statistics. Provides API-access to MRC Phenotypes Sumstats
+IEU Open GWAS
+OMIM Multiple Manua
+
+Chunk 8:
+ Variants, 2020 Y N http://www.mdsgene.org (Klein et al. 2018)
+with movement disorders in the literature. Genes,
+Phenotypes
+MungeSumstats Multiple Tool for automatic, robust, and scalable standardization of GWAS Variants, 2021 Y Y https://github.com/neurogenomics/Munge (Murphy and Skene, 2021)
+GWAS summary statistics. Provides API-access to MRC Phenotypes Sumstats
+IEU Open GWAS
+OMIM Multiple Manually curated database of genes associated with Literature Variants, 2021 Y Y https://omim.org/entry/168600 (Hamosh et al. 2005)
+various disease phenotypes. Genes,
+Phenotypes
+Open GWAS Multiple The MRC IEU Open GWAS Project is an online database GWAS Variants, 2021 Y Y https://gwas.mrcieu.ac.uk (Elsworth et al. 2020)
+of semi-standardised, full genome-wide summary statistics Phenotypes
+from 39k+ GWAS. All GWAS are provided in tabix-indexed
+VCF format for rapid querying.
+Open Targets Multiple Query engine to gather variant- and gene-level GWAS, Variants, 2021 Y Y https://www.opentargets.org/genetics- (Carvalho-Silva et al. 2019)
+annotations, GWAS summary statistics, colocalization QTL Genes portal
+results, and fine-mapping results.
+Simple ClinVar Multiple Variant annotations including clinical relevance, GWAS Variants, 2021 Y N http://simple-clinvar.broadinstitute.org (Pérez-Palma et al. 2019)
+deleteriousness, and phenotype associations. Genes,
+Phenotypes
+UK Biobank Multiple Repository genotyping, imaging, and whole-genome GWAS Variants, 2021 Y Y http://www.nealelab.is/uk-biobank (Bycroft et al. 2018)
+sequencing of deeply phenotyped individuals. Genes,
+Phenotypes
+UK Biobank Correlation Multiple Pairwise genetic correlations across all UK Biobank Phenotype Phenotypes 2019 Y N https://ukbb-rg.hail.is
+phenotypes. correlations (Bycroft et al., 2018)
+Multiple Online Neurodegenerative Trait Integrative Multi-Omics
+ONTIME Explorer (ONTIME). GWASQ, TLP, roteomiVariants,G enes 2020Y N https://ontime.wustl.edu/ (Yang et al., 2021)
+Multiple A tool to build a website to browse hundreds or 
+
+Chunk 9:
+ Multiple Pairwise genetic correlations across all UK Biobank Phenotype Phenotypes 2019 Y N https://ukbb-rg.hail.is
+phenotypes. correlations (Bycroft et al., 2018)
+Multiple Online Neurodegenerative Trait Integrative Multi-Omics
+ONTIME Explorer (ONTIME). GWASQ, TLP, roteomiVariants,G enes 2020Y N https://ontime.wustl.edu/ (Yang et al., 2021)
+Multiple A tool to build a website to browse hundreds or thousands
+PheWeb of GWAS. GWAS VariantsP, henoty 2021Y Y https://github.com/statgen/pheweb (Gagliano Taliun et al., 2020)
+2
+Datasets, tools, and other resources relevant to Parkinson’s Disease multi-omics research.
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Fig. 1. Common workflows in the investigation of PD.
+Generalized workflow of PD genomics research, from GWAS to validated functional mechanisms. A variation of GWAS is Genome-wide association Study by proXy
+(GWAX), in which relatives of disease-diagnosed individuals are used as genetic proxies for actual cases. We provide this as a summary of what has commonly been
+done to date, with the understanding that the development of novel, innovative approaches not described in this diagram will be vital to progressing neurode-
+generative disease research.
+3
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+estimated to be anywhere from 27-34% heritable based on twin studies probabilities) (Farh et al., 2015; Kichaev et al., 2017; Weissbrod et al.,
+(Goldman et al., 2019; Wirdefeldt et al., 2011), to 22–27% heritable 2020). Parsing out the causal PD risk-associated SNPs from non-causal
+based on genetic (SNP-based) studies (Blauwendraat et al., 2020; Chang correlates is an essential step that can dramatically alter the validity
+et al., 2017; Keller et al., 2012). Despite large-scale multi-national ef- of many downstream analyses which rely upon the identification of the
+forts, presently known genetic factors can only explain 22–3
+
+Chunk 10:
+the causal PD risk-associated SNPs from non-causal
+based on genetic (SNP-based) studies (Blauwendraat et al., 2020; Chang correlates is an essential step that can dramatically alter the validity
+et al., 2017; Keller et al., 2012). Despite large-scale multi-national ef- of many downstream analyses which rely upon the identification of the
+forts, presently known genetic factors can only explain 22–36% of PD causal sequence motifs. Statistical fine-mapping (without functional
+risk heritability in populations of European descent (Nalls et al., 2019). annotation input) using FINEMAP (Benner et al., 2016) was recently
+Even the monogenic forms of PD do not have 100% penetrance and performed on all loci from the latest PD GWAS summary statistics
+therefore are likely modified by genetic background as well as envi- (Grenn et al., 2020). Additional efforts have been made to statistically
+ronmental interactions. In this review, we will focus primarily on the fine-map GWAS across many different phenotypes, including PD, via the
+idiopathic form of PD. Open Targets Data Portal (Carvalho-Silva et al., 2019). In a study by our
+A surge of advances in multi-omics technologies continue to accel- group (Schilder and Raj, 2021), we employed a multi-tool consensus
+erate our understanding of disease biology. In this review, our objective fine-mapping approach (Schilder et al., 2021), which included func-
+is not necessarily to enumerate all variants and genes that have been tional fine-mapping of 74/78 known PD GWAS loci using PolyFun
+implicated in PD pathology (for these details, see: (Bandres-Ciga et al., (Weissbrod et al., 2020) and cell-type-specific epigenomic variant-
+2020a, 2020b; Blauwendraat et al., 2020; Nalls et al., 2019; Redenˇsek annotations, to reduce the average number of putative causal SNPs
+et al., 2018)). Instead, we will highlight methods of investigation across from 85 to 3 per locus. While the lead SNPs were indeed within the 95%
+multiple scales of biology (variants, g
+
+Chunk 11:
+a et al., (Weissbrod et al., 2020) and cell-type-specific epigenomic variant-
+2020a, 2020b; Blauwendraat et al., 2020; Nalls et al., 2019; Redenˇsek annotations, to reduce the average number of putative causal SNPs
+et al., 2018)). Instead, we will highlight methods of investigation across from 85 to 3 per locus. While the lead SNPs were indeed within the 95%
+multiple scales of biology (variants, genes, pathways, cell-types, tissues, probability union credible set (nominated by at least one tool) for 69/74
+phenotypes), direct readers to studies, tools, and datasets relevant to PD (93.2%) loci, they were in the consensus SNP set (nominated by at least
+-omics (Table 1), bring attention to conceptual challenges in the field two tools) in only 29/74 (39.2%) of loci. This emphasizes the need for
+while suggesting some potential avenues of progress. We have also robust fine-mapping to disambiguate causal variants from their close
+compiled standardized cell-type and tissue enrichment results (Table S1) correlates. Two specific examples of consensus fine-mapped SNPs from
+as well as genetic correlations between PD and other phenotypes this study include rs7294619 (LRRK2 locus), which was predicted to
+(Table S2) across multiple studies of PD genomics. Through this, we disrupt LRRK2 expression via a FCGR2A TFBM in a microglia-specific
+hope to promote a more cohesive understanding of the complex biology enhancer, and rs4771268 (MBNL2 locus), which was predicted to
+of PD in the service of ultimately improving the lives of those afflicted by disrupt an MBNL2-regulating enhancer in oligodendrocytes alone. Fine-
+this disease. (See Fig. 1.) mapping results and figures from all of these studies are freely available
+via their respective online data portals (Table 1).
+2. Multi-scale omics: from genome to phenome In recent years, machine learning (ML) has been especially successful
+at computationally modeling the functional genome in a data-driven
+Genome-wide association studies (GWAS) ha
+
+Chunk 12:
+drocytes alone. Fine-
+this disease. (See Fig. 1.) mapping results and figures from all of these studies are freely available
+via their respective online data portals (Table 1).
+2. Multi-scale omics: from genome to phenome In recent years, machine learning (ML) has been especially successful
+at computationally modeling the functional genome in a data-driven
+Genome-wide association studies (GWAS) have been an invaluable manner, thus improving the accuracy and precision of the functional
+tool to investigate the molecular etiology underlying many complex impact of mutations (Avsec et al., 2019, 2021; Eraslan et al., 2019;
+phenotypes, including PD (Blauwendraat et al., 2020; Chang et al., Kelley et al., 2018; Zhou and Troyanskaya, 2015). Dey et al. (2020) have
+2017; Nalls et al., 2014, 2019; Parkinson’s Disease Genomics, 2017). To provided genome-wide predictions from multiple deep learning models
+date, there have been over 24 GWAS conducted in PD (Bandres-Ciga (e.g. DeepSEA (Zhou and Troyanskaya, 2015), Basenji (Kelley et al.,
+et al., 2020a, 2020b; Redenˇsek et al., 2018) since 2009 (Simon-Sanchez 2018), ExPecto (Zhou et al., 2018), and Enformer (Avsec et al., 2021))
+et al., 2009), identifying 78 PD risk-associated loci (Nalls et al., 2019). for all possible genomic mutations through a process called in silico
+Of the known PD risk-associated variants identified through GWAS, the mutagenesis. These predictions are of particular relevance to PD
+vast majority fall within presumed non-protein-coding regions (Nalls (Schilder and Raj, 2021) as they were generated by models trained on
+et al., 2019), posing both additional challenges and opportunities when blood- or brain-specific epigenomic/transcriptomic data. In an effort to
+identifying the genes, pathways, and cell-types via which they exert facilitate research and minimize redundant efforts, we have compiled a
+their effects. Disentangling these systems is complicated by non- table of existing resources relevant to PD (Tabl
+
+Chunk 13:
+
+et al., 2019), posing both additional challenges and opportunities when blood- or brain-specific epigenomic/transcriptomic data. In an effort to
+identifying the genes, pathways, and cell-types via which they exert facilitate research and minimize redundant efforts, we have compiled a
+their effects. Disentangling these systems is complicated by non- table of existing resources relevant to PD (Table 1). We would like to
+independence at multiple biological scales (Table S3A). In addition, note several particularly relevant and useful resources for making
+one must ultimately consider the developmental, life and/or disease powerful ML tools accessible to non-experts, including GenoML
+stage at which a genetic risk factor exerts its effects relative to when the (Makarious et al., 2021), Kipoi (Avsec et al., 2019), and Janggu (Kopp
+patient is being treated (Faa et al., 2014; Kovacs et al., 2014). Under- et al., 2020).
+lying all of these goals is the need to first distinguish causal from non-
+causal risk-associated variants. Thus, the mechanisms underlying 2.2. Prioritizing putative causal genes
+known genetic factors are still far from fully understood (Ohnmacht
+et al., 2020). There are several main approaches commonly used when inferring
+the genes that non-coding variants may regulate: 1) proximity (often
+2.1. Prioritizing putative causal variants based on transcription start site or gene body position), 2) quantitative
+trait loci (QTL) (Falconer, 1996; Kearsey, 1998), 3) Transcriptome-Wide
+Fine-mapping is a class of statistical tools that aims to identify the Association Studies (TWAS) (Gamazon et al., 2015; Gusev et al., 2016),
+causal variants underlying a given phenotype (Benner et al., 2017; and 4) 3D chromatin interactions (Bhattacharyya et al., 2019; Fulco
+Hutchinson et al., 2020; Schaid et al., 2018). Applying fine-mapping to et al., 2019; Juric et al., 2019; Nasser et al., 2021; Sey et al., 2020). Many
+identify candidate causal variants within a given GWAS locus is
+
+Chunk 14:
+(TWAS) (Gamazon et al., 2015; Gusev et al., 2016),
+causal variants underlying a given phenotype (Benner et al., 2017; and 4) 3D chromatin interactions (Bhattacharyya et al., 2019; Fulco
+Hutchinson et al., 2020; Schaid et al., 2018). Applying fine-mapping to et al., 2019; Juric et al., 2019; Nasser et al., 2021; Sey et al., 2020). Many
+identify candidate causal variants within a given GWAS locus is essential investigations of PD have used Multi-marker Analysis of GenoMic
+as it cannot be assumed that the lead SNP (the one with the smallest p- Annotation (MAGMA), which largely relies on a proximity-based strat-
+value) is causal for the phenotype (e.g. PD) due to widespread linkage egy with some correction of LD effects (de Leeuw et al., 2015). However,
+disequilibrium (LD) (Broekema et al., 2020; Pasaniuc and Price, 2017; disease-associated SNPs frequently regulate the gene (or genes) that are
+Pritchard and Przeworski, 2001). This problem is further exacerbated by not the one closest to the lead (or even causal) SNP (Fulco et al., 2019;
+the fact that most GWAS are performed using low-coverage genotyping Garrido-Martín et al., 2021; Mumbach et al., 2017; Nasser et al., 2021).
+arrays, meaning the majority of SNP-level effects are imputed from Thus proximity alone is not necessarily a reliable proxy for variant-gene
+haplotype or whole-genome sequencing reference panels (Shi et al. interactions. Identifying causal genes in GWAS loci is especially chal-
+2018). Depending on the method, fine-mapping requires either raw lenging as these regions tend to be gene-dense. In the case of PD, there
+genomic sequences or GWAS summary statistics, and may utilize are 305 genes within the 78 known risk loci (±1 Mb from the lead SNPs)
+genome-wide functional annotations (e.g. to compute SNP-wise prior (Nalls et al., 2019),
+4
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+One approach to prioritize putative causal genes is to incorporate tran
+
+Chunk 15:
+ there
+genomic sequences or GWAS summary statistics, and may utilize are 305 genes within the 78 known risk loci (±1 Mb from the lead SNPs)
+genome-wide functional annotations (e.g. to compute SNP-wise prior (Nalls et al., 2019),
+4
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+One approach to prioritize putative causal genes is to incorporate transcriptomes across multiple tissues from GTEx (GTEx Consortium,
+information from expression, splicing, protein or other forms of molec- 2015; Pers et al., 2015), as well as prefrontal cortex (Fromer et al.,
+ular QTLs. Early attempts searched for overlap between PD-associated 2016), and immune cells (Fairfax et al., 2014; Heng et al., 2008; Raj
+SNPs from several GWAS (Lill et al., 2012) and QTLs in GTEx (Coetzee et al., 2014a; Rotival et al., 2011) to nominate 66 PD-related genes, as
+et al., 2016; Pierce and Coetzee, 2017a). However, as described above, well as specific transcripts. It was shown that transcript isoforms can
+LD confounds the accurate identification of causal SNPs in both GWAS have more tissue- and cell-type-specific effects via alternative splicing.
+and QTL studies. To identify colocalization of GWAS and eQTL associ- Later, Kia et al. (2021) repeated a subset of these analyses with eQTL
+ations, Raj et al. (2014a) applied Regulatory Trait Concordance (RTC) data from GTEx V7 and UK Brain Expression Consortium Braineac eQTL
+scores (Nica et al., 2010) in monocytes datasets to identify shared eQTL dataset (n =134 individuals) (Ramasamy et al., 2014; Trabzuni et al.,
+and PD GWAS signals in seven PD GWAS loci (including LRRK2, BST1, 2011, 2013), as well as novel Methylation-wide Association Study
+and SNCA). Others have used Bayesian colocalization tests (e.g. with the (MWAS) (Gusev et al., 2016) data from PD donors (Daniel and Lees,
+tool coloc) (Giambartolomei et al., 2014) to assess whether the genetic 1993). An extension of TWAS that incorporates epigenomic informa
+
+Chunk 16:
+ GWAS signals in seven PD GWAS loci (including LRRK2, BST1, 2011, 2013), as well as novel Methylation-wide Association Study
+and SNCA). Others have used Bayesian colocalization tests (e.g. with the (MWAS) (Gusev et al., 2016) data from PD donors (Daniel and Lees,
+tool coloc) (Giambartolomei et al., 2014) to assess whether the genetic 1993). An extension of TWAS that incorporates epigenomic information
+signals underlying GWAS and QTL in a particular genomic region are to improve predictions (ETWAS) (Yao et al., 2021a) was recently applied
+shared, thereby mitigating the confounding effects of LD. This has been to PD GWAS in combination with GTEx V8 brain tissue eQTLs to
+applied to PD in multiple studies using partially overlapping QTL implicate an additional 18 genes in the disease, such as LRRC37A2 and
+reference datasets (Li et al., 2019; Schilder and Raj, 2021). This is a ZSWIM7 (Yao et al., 2021b). Perplexingly, SN was not amongst the
+much more robust approach than simply checking whether a specific significantly enriched brain tissues (p =0.067) in this study, though this
+genome-wide significant GWAS SNP is also a significant QTL hit could be related to insufficient sample sizes in GTEx. Furthermore, none
+(confusingly, also often referred to as “colocalization” when the term of the above TWAS utilized the full, most recent PD GWAS (Nalls et al.,
+“overlap” would be more appropriate). More recently, as part of the 2019) which includes additional privacy-protected data from 23andMe.
+Myeloid Cell Neurodegenerative disease (MyND) project, Navarro et al. We also note that there are inherent limitations to these gene prioriti-
+(2021) observed that in 17 PD susceptibility loci, the PD risk variants are zation methods. TWAS (as well as colocalization and MR-based
+likely to modify disease susceptibility, at least in part, by modulating methods) are prone to gene co-regulation bias, where the total expres-
+gene expression and/or splicing in peripheral monocytes. Another stud
+
+Chunk 17:
+ are inherent limitations to these gene prioriti-
+(2021) observed that in 17 PD susceptibility loci, the PD risk variants are zation methods. TWAS (as well as colocalization and MR-based
+likely to modify disease susceptibility, at least in part, by modulating methods) are prone to gene co-regulation bias, where the total expres-
+gene expression and/or splicing in peripheral monocytes. Another study sion of the causal gene correlates with another gene, which can lead to a
+by our group used the Microglia Genomic Atlas (MiGA), de Paiva Lopes false-positive associations (see Wainberg et al. (2019) for further dis-
+et al. (2020) to demonstrate that 18 PD GWAS loci colocalize with cussion). Gene expression-based methods more generally struggle to
+microglia eQTLs, including P2RY12. P2RY12 is highly expressed in distinguish gene dysregulation that causes illness from that which is an
+microglia in comparison to other brain and myeloid cell types and has unrelated consequence of (or an adaptive response to) disease risk ge-
+been shown to play a role in microglia migration and activation. Despite netics (Hu et al., 2018; Liu and Montgomery, 2020; Porcu et al., 2021)
+the utility of mRNA-based QTLs, transcript levels do not always correlate (see Table S3.A).
+with protein levels of the same gene. Thus, there is additional value in Lastly, 3D genomic information, usually in the form of chromatin
+conducting protein QTL (pQTLs) studies. A recent study identified interaction maps, can be utilized to infer SNP-gene relationships, using
+hundreds of pQTL loci in cerebrospinal fluid (CSF; n = 971 donors), Chromosome Conformation Capture coupled with sequencing (HiC)
+blood plasma (n =636 donors), and brain (n =458 donors) (Yang et al., maps (Lieberman-Aiden et al., 2009) (e.g. H-MAGMA) (Sey et al., 2020),
+2021a), a subset of which were strongly colocalized with PD GWAS loci. HiChIP (Mumbach et al., 2016) and/or Proximity Ligation-Assisted
+This provided novel evidence for peripheral biomar
+
+Chunk 18:
+1 donors), Chromosome Conformation Capture coupled with sequencing (HiC)
+blood plasma (n =636 donors), and brain (n =458 donors) (Yang et al., maps (Lieberman-Aiden et al., 2009) (e.g. H-MAGMA) (Sey et al., 2020),
+2021a), a subset of which were strongly colocalized with PD GWAS loci. HiChIP (Mumbach et al., 2016) and/or Proximity Ligation-Assisted
+This provided novel evidence for peripheral biomarkers and putative ChIP-seq (PLAC-seq) (Fang et al., 2016; Park, 2009) (e.g. Model-based
+drug targets in PD, including the protein IDUA which degrades glycos- Analysis of PLAC-seq (MAPS) (Juric et al., 2019; Nott et al., 2019;
+aminoglycans within lysosomes. However, it should be cautioned that Schilder and Raj, 2021) and FitHiChIP (Bhattacharyya et al., 2019;
+currently available proteomic assays can be heavily biased towards Corces et al., 2020)), and Activity-by-Contact (ABC) maps from CRISPRi-
+capturing certain types of associations (Sun et al., 2018), and tend to be FlowFISH (Fulco et al., 2019; Nasser et al., 2021). The availability of
+lower throughput (hundreds to thousands of genes) than mRNA-based large-scale, harmonized databases like EpiMap (Boix et al., 2021) will
+assays (thousands to tens-of-thousands of genes). permit researchers to fully utilize these tools. This approach is promising
+Mendelian Randomization (MR) is a statistical methodology used to due to its strong basis in mechanistic understanding of genome regula-
+infer the causal relationships between multiple genotype-phenotype tion and direct experimental measurement, but is currently limited by
+association datasets (Yang et al., 2021b). Nalls et al. (2019) applied the fact that chromatin interaction maps differ across cell-types, which
+MR to PD GWAS loci, expression QTLs and methylation QTLs from are difficult to disentangle from bulk data alone.
+multiple cell types and tissues to narrow the potential candidates to 150 Nevertheless, even these more sophisticated methods can be subject
+genes. They found 
+
+Chunk 19:
+sets (Yang et al., 2021b). Nalls et al. (2019) applied the fact that chromatin interaction maps differ across cell-types, which
+MR to PD GWAS loci, expression QTLs and methylation QTLs from are difficult to disentangle from bulk data alone.
+multiple cell types and tissues to narrow the potential candidates to 150 Nevertheless, even these more sophisticated methods can be subject
+genes. They found that one of the putative causal genes was the one to false positive associations and are highly dependent on the avail-
+nearest to the putative causal SNP in 53/70 (76%) of PD GWAS loci. ability and selection of QTL/epigenomic datasets in relevant tissues and
+However, most loci contained multiple putative causal genes according cell-types. Varying sample sizes can also falsely make more well-
+to this approach. More extensive gene nomination was later performed powered datasets (e.g. eQTLs in blood) appear to contain causal asso-
+using MR on fine-mapped GWAS loci and blood/brain eQTLs, in com- ciations with disease GWAS (Grenn et al., 2020; Pierce and Coetzee,
+bination with a literature-based gene scoring strategy (Grenn et al., 2017b). Furthermore, most studies have only considered cis-QTLs due to
+2020). the multiple testing burden intrinsic to trans-QTL studies, though some
+Another approach to prioritize causal genes in GWAS loci is to recent advances have been made to reduce this burden through tensor
+directly test for association between a disease and gene expression. decomposition (Ramdhani et al., 2020). Therefore, care and expertise
+However, such a study design is currently not practical as it requires are required when attempting to integrate GWAS and QTL data for SNP
+profiling gene expression across hundreds of thousands of individuals in or gene prioritization. The development of new technologies and the
+cases and controls. An alternative approach is to perform TWAS, which generation of new datasets that resolve chromatin interaction maps at
+leverages information f
+
+Chunk 20:
+ot practical as it requires are required when attempting to integrate GWAS and QTL data for SNP
+profiling gene expression across hundreds of thousands of individuals in or gene prioritization. The development of new technologies and the
+cases and controls. An alternative approach is to perform TWAS, which generation of new datasets that resolve chromatin interaction maps at
+leverages information from separate GWAS and eQTL datasets to impute single-cell resolution will be invaluable moving forward.
+(or predict) the gene expression of cases and controls, thus recovering
+disease-gene associations without directly profiling gene expression in 2.3. Identifying pathogenic cell-types and tissues
+every individual (Gamazon et al., 2015; Gusev et al., 2016). TWAS have
+been performed on a number of neurological disorders, incorporating a In addition to DA neurons, a wide variety of cell-types has been
+variety of source tissues and cell types (Gusev et al., 2018; Raj et al., implicated in the genetic etiology of PD. Nalls et al. (2019) tested for
+2018). With respect to PD, Li et al. (2019) performed TWAS using bulk enrichment of PD GWAS-inferred genes across 88 brain cell-types in a
+5
+
+---PAGE BREAK---
+
+NeurobiologyofDisease163(2022)105580
+DaN Agarwal2020
+Ex neurons (tests = 34)
+Cholinergic and monoaminergic neurons
+Oligodendrocytes ( B te r s y t o s i s = 2 0 4 2 0 0 2)
+Enteric neurons
+H1 BMP4 Derived Mesendoderm Cultured Cells
+Primary B cells from peripheral blood
+Adipose Nuclei
+Primary Natural Killer cells from¬...peripheral¬...blood C (te o s e t t s z e = e 1 2 0 0 9 1 2 6 )
+Primary monocytes from¬...peripheral¬...blood
+IMR90 fetal lung fibroblasts Cell Line MonocytesCD14+ RO01746 Primary Cells
+Tcells
+monocytes (tes L t i s 2 0 = 1 2 9 28)
+neutrocytes
+HBSER5
+SN.Neuron_Th_Grin2c.4_9
+Chmn
+SN.Neuron
+HBSER2
+HBSER4
+Neuron_Th_Grin2c.4_9
+HBGLU1
+HBCHO3
+GP.Neuron
+HBCHO2
+SN.Neuron_Th_Aldh1a1.4_8
+TH.Neuron (te N s a ts ll s = 2 0 5 1 5 9 80)
+HBINH2
+Brain_Non.Myeloid.oligodendr...2
+
+
+Chunk 21:
+mary monocytes from¬...peripheral¬...blood
+IMR90 fetal lung fibroblasts Cell Line MonocytesCD14+ RO01746 Primary Cells
+Tcells
+monocytes (tes L t i s 2 0 = 1 2 9 28)
+neutrocytes
+HBSER5
+SN.Neuron_Th_Grin2c.4_9
+Chmn
+SN.Neuron
+HBSER2
+HBSER4
+Neuron_Th_Grin2c.4_9
+HBGLU1
+HBCHO3
+GP.Neuron
+HBCHO2
+SN.Neuron_Th_Aldh1a1.4_8
+TH.Neuron (te N s a ts ll s = 2 0 5 1 5 9 80)
+HBINH2
+Brain_Non.Myeloid.oligodendr...2
+SN.Neuron_Th_Cyp26b1.4_3
+HBINH6
+SN.Neuron_Th_Vcan.4_5
+Brain_Non.Myeloid.neuron
+HBINH5
+HBSER3
+PC.Neuron
+Brain_Non.Myeloid.oligodendr...1
+SN.Neuron_Th_Nefl.4_7
+FC.Neuron
+Oligodendrocytes
+Microglia ( N te o s tt t 2 s 0 = 1 9 8)
+Neurons
+OPC
+Oligodendrocyte Reynolds2019 OLG (tests = 108)
+Microglia
+astrocytes
+microglia neurons ()
+neurons (+) Schilder2020
+neurons (nigral) (tests = 292)
+neurons
+oligo
+OPCs
+0.25 0.50 0.75 1.00
+Score
+mouse single-cell RNA-seq (scRNA-seq) reference. The strongest differentially expressed across Braak stages in post-mortem PD brain
+enrichment was in neurons of the SN, globus pallidus, thalamus, pos- samples (Dijkstra et al., 2015) were also enriched for transcriptional
+terior cortex, frontal cortex, hippocampus, and entopeduncular nucleus. signatures of DA neurons and oligodendrocytes (Bryois et al., 2020).
+Similarly, others have also found enrichment for various neuronal sub- Interestingly, some evidence suggests that LRRK2 is more highly
+types including nigrostriatal DA neurons (using a human transcriptomic expressed in nigral OPCs than any other cell-type in that region (Agar-
+reference) (Agarwal et al., 2020) and their parent class monoaminergic wal et al., 2020), though replication with more individuals is needed.
+neurons (using a mouse transcriptomic reference) (Bryois et al., 2020), One hypothesis regarding the role of microglia is that they serve to clear
+cortical excitatory neurons, as well as cortical inhibitory neurons α-synuclein through phagocytosis (Ho, 2019; Poewe et al., 2017),
+(Agarwal et al., 2020; Li et al., 2021). Other studies have
+
+Chunk 22:
+, 2020), though replication with more individuals is needed.
+neurons (using a mouse transcriptomic reference) (Bryois et al., 2020), One hypothesis regarding the role of microglia is that they serve to clear
+cortical excitatory neurons, as well as cortical inhibitory neurons α-synuclein through phagocytosis (Ho, 2019; Poewe et al., 2017),
+(Agarwal et al., 2020; Li et al., 2021). Other studies have implicated though other studies could find no significant enrichment for microglia
+various glial cell-types, including oligodendrocytes (Agarwal et al., in PD GWAS (Agarwal et al., 2020; Reynolds et al., 2019). Additional
+2020; Nott et al., 2019), oligodendrocyte precursor cells (OPCs) of the candidate cell-types within the peripheral immune system have also
+SN (but not the cortex) (Agarwal et al., 2020), astrocytes (Kam et al., been proposed, including lymphocytes (Coetzee et al., 2016), T-cells
+2020), and microglia (Andersen et al., 2021; Badanjak et al., 2021; de (Garretti et al., 2019), monocytes (Navarro et al., 2021; Raj et al.,
+Paiva Lopes et al., 2020; Ho, 2019; Kam et al., 2020). Genes that are 2014a) and macrophages (Navarro et al., 2021). Some studies have even
+6
+epyT_lleC
+a
+Cell types
+Cerebellum A ( g te a s rw ts a = l2 2 0 6 2 ) 0
+Brain Substantia nigra Bryois2020
+Brain Spinal cord (cervical c1) (tests = 74)
+Brain Substantia Nigra
+Liver
+Placenta Coetzee2016
+Fetal Adrenal Gland (tests = 525)
+Brain Angular Gyrus
+Brain Hippocampus Middle
+Brain_Cerebellum (te K s i t a s 2 = 0 2 2 1 85)
+DLPFC (te L s i2 ts 0 = 1 9 80)
+Brain_Cerebellar_Hemisphere
+Brain_Cerebellum
+Brain
+Brain_Frontal_Cortex_BA9
+Brain_Cortex
+Brain_Hypothalamus
+Brain_Anterior_cingulate_cortex_BA24 Nalls2019
+Brain_Nucleus_accumbens_basal_ganglia (tests = 83)
+Brain_Substantia_nigra
+Pituitary
+Brain_Hippocampus
+Brain_Amygdala
+Brain_Caudate_basal_ganglia
+Brain_Putamen_basal_ganglia
+Brain (PsychENCODE) ( N te o s tt t 2 s 0 = 1 9 1)
+Esophagus Muscularis
+Esophagus Gastroesophageal Junction
+Cerebellar Hemisp
+
+Chunk 23:
+ain_Frontal_Cortex_BA9
+Brain_Cortex
+Brain_Hypothalamus
+Brain_Anterior_cingulate_cortex_BA24 Nalls2019
+Brain_Nucleus_accumbens_basal_ganglia (tests = 83)
+Brain_Substantia_nigra
+Pituitary
+Brain_Hippocampus
+Brain_Amygdala
+Brain_Caudate_basal_ganglia
+Brain_Putamen_basal_ganglia
+Brain (PsychENCODE) ( N te o s tt t 2 s 0 = 1 9 1)
+Esophagus Muscularis
+Esophagus Gastroesophageal Junction
+Cerebellar Hemisphere
+Bladder
+Amygdala
+Putamen (basal ganglia) Reynolds2019
+Nucleus accumbens (basal ganglia) (tests = 223)
+Anterior cingulate cortex (BA24)
+Adrenal Gland
+Substantia nigra
+Caudate (basal ganglia)
+Cerebellum
+Frontal cortex BA9
+Cerebellar hemisphere
+Cerebellum
+Cortex
+Substantia nigra
+Putamen basal ganglia (t Y e a s o ts 2 0 = 2 6 1 7)
+Spinal cord cervical c1
+Amygdala
+Hypothalamus
+Nucleus accumbens basal ganglia
+Caudate basal ganglia
+0.00 0.25 0.50 0.75 1.00
+Score
+eussiT
+B.M. Schilder et al.
+b
+Tissues
+Fig. 2. Meta-analysis of cell-types and tissues enriched in PD GWAS.
+Harmonized results of PD GWAS enrichment results at the level of (a) cell-type (a) and tissues (see Table S1 for full data). We derived “Scores” from -log10 normalised
+and rescaled false discovery rate (FDR) where available, or posterior probability (PP). Only up to the top 25 cell-types per study, and only the top 15 tissues per study,
+are shown to improve plot legibility.
+
+---PAGE BREAK---
+
+NeurobiologyofDisease163(2022)105580
+implicated enteric neurons (Bryois et al., 2020), mesoderm, liver and fat these seemingly inconsistent genetic enrichment results could be both
+cells (Coetzee et al., 2016). Lastly, some have found a lack of genome- biological and methodological in origin. In particular, differing genetic
+wide PD heritability enrichment for any particular cell-type, suggest- enrichment tool types, versions and parameters can capture different
+ing the mechanism was at the level of cell-type-agnostic processes such aspects of the PD etiology and thus have dramatic impacts on conclu-
+as lysosomal function (
+
+Chunk 24:
+und a lack of genome- biological and methodological in origin. In particular, differing genetic
+wide PD heritability enrichment for any particular cell-type, suggest- enrichment tool types, versions and parameters can capture different
+ing the mechanism was at the level of cell-type-agnostic processes such aspects of the PD etiology and thus have dramatic impacts on conclu-
+as lysosomal function (Reynolds et al., 2019). This is despite the fact that sions, e.g.; genome-wide LD SCore regression (LDSC) (Finucane et al.,
+they did indeed find cell-type-specific enrichment for schizophrenia 2015), or gene-level enrichment using MAGMA and Expression
+heritability, and used a highly similar methodology to another study Weighted Cell-type Enrichment (EWCE) (Bryois et al., 2020; Skene and
+that found enrichment for several tissues and cell-types in PD herita- Grant, 2016). We elaborate on these non-mutually exclusive possibilities
+bility (Bryois et al., 2020). Similarly, others have found no genome-wide in Table S3C-D. Another important distinction to make is between
+enrichment of cell-type-specific epigenomic signatures in PD GWAS studies that use cell-type references derived from a small number of
+after multiple testing corrections across multiple phenotypes (Nott et al., individuals or animals (e.g. (Agarwal et al., 2020; Corces et al., 2020;
+2019). Nott et al., 2019; Reynolds et al., 2019; Schilder and Raj, 2021)) and
+We have compiled and harmonized cell-type/tissue enrichment re- those that use population-scale cell-type references (de Paiva Lopes
+sults across multiple investigations of PD GWAS (Table S1) (Bryois et al., et al., 2020; Navarro et al., 2021; Young et al., 2021).
+2020; Corces et al., 2020; Kia et al., 2021; Li et al., 2019; Nalls et al., Rather than testing for enrichment of particular cell-types genome-
+2019; Reynolds et al., 2019; Schilder and Raj, 2021; Yao et al., 2021b), wide, a complementary approach is to systematically investigate locus-
+and visualiz
+
+Chunk 25:
+ions of PD GWAS (Table S1) (Bryois et al., et al., 2020; Navarro et al., 2021; Young et al., 2021).
+2020; Corces et al., 2020; Kia et al., 2021; Li et al., 2019; Nalls et al., Rather than testing for enrichment of particular cell-types genome-
+2019; Reynolds et al., 2019; Schilder and Raj, 2021; Yao et al., 2021b), wide, a complementary approach is to systematically investigate locus-
+and visualized the heterogeneity of these findings (Fig. 2). The source of specific mechanisms. Similar to some prior studies (Nott et al., 2019;
+lipid_hdl
+epilepsy_general
+amyotrophic_lateral_sclerosis
+tourette_syndrome
+bmi Agarwal2020
+intelligence (tests = 29)
+schizophrenia_2018
+crohn_disease
+adhd
+lipid_tg
+amyotrophic_lateral_sclerosis
+intracranial_volume
+hemoglobin_a1c
+anorexia
+alzheimers_disease Bryois2020
+autism (tests = 25)
+neuroticism
+migraine
+hippocampal_volume
+inflammatory_bowel_disease
+finasteride
+fracture_patella_knee
+salamol_100micrograms_inhaler
+fluticasone
+microgynon_30_tablet DeGAs
+beclazone_50_inhaler (tests = 4,272)
+thiamine_preparation
+undescended_testicle
+herpes_simplex
+fracture_finger
+bleeding_gums
+ever_had_same_sex_intercourse
+fracture_skull_head
+gall_bladder_disease
+cerebral_palsy dPRS
+depression (tests = 305)
+allergy_hypersensitivity_anaphylaxis
+prescribed_medication_taken_for_anxiety
+rectal_cancer
+medication_taken_for_anxiety
+crp_sumstats_gz
+diagnoses_main_icd10_b37_candidiasis
+icv
+cancer_code_self_reported_small_intestine_sma_
+mean_accumbens Nalls2019
+underlying_primary_cause_of_death_icd10_j84_1_ (tests = 757)
+gcsf_sumstats_gz
+diagnoses_main_icd10_c61_malignant_neoplasm_
+mean_putamen
+number_of_older_siblings
+1.0 0.5 0.0 0.5 1.0
+Correlation
+7
+2tiarT
+B.M. Schilder et al.
+Genetic correlations with Parkinson's Disease
+corr
+1.0
+0.5
+0.0
+0.5
+1.0
+Fig. 3. Meta-analysis of genetic correlations between PD and other traits.
+Pairwise genetic correlations between PD traits aggregate across multiple studies. Per study, only the top 10 traits with the greatest absolute geneti
+
+Chunk 26:
+sm_
+mean_putamen
+number_of_older_siblings
+1.0 0.5 0.0 0.5 1.0
+Correlation
+7
+2tiarT
+B.M. Schilder et al.
+Genetic correlations with Parkinson's Disease
+corr
+1.0
+0.5
+0.0
+0.5
+1.0
+Fig. 3. Meta-analysis of genetic correlations between PD and other traits.
+Pairwise genetic correlations between PD traits aggregate across multiple studies. Per study, only the top 10 traits with the greatest absolute genetic correlation
+values are shown to improve plot legibility. Note that differing methodologies were used in each study to compute trait-trait correlations.
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Reynolds et al., 2019), Corces et al. (2020) found no genome-wide patient clinical presentations of PD can evolve over time depending on
+enrichment for any major brain cell-type or neuronal cell-subtype life stage, comorbidities, medications and environmental exposures.
+based on chromatin accessibility peaks in PD, despite finding enrich- Thus, it can be useful to think of PD not as a singular diagnosis, but as a
+ment for other brain-related phenotypes (e.g. schizophrenia). In constellation of sub-traits (e.g. symptoms) that can each be linked to
+contrast, when they systematically interrogated each PD GWAS locus specific genetic and cellular mechanisms. Methods designed to explore
+using cell-type-specific epigenomics (scATAC-seq) and interactomics phenome-wide interactions include epidemiological comorbidity ob-
+(HiChIP and PLAC-seq), they were able to identify putatively causal servations, genetic correlation using heritability estimates, fine-mapped
+mechanisms. For example, within the ITIH1 PD locus they identified a causal variant overlap, MR, dimensionality reduction (Tanigawa et al.,
+fine-mapped SNP (rs18139313) whose PD-associated allele falls within a 2019), and multi-trait Polygenic Risk Scores (PRS) (Aguirre et al., 2021).
+KLF4 transcription factor binding motif (TFBM), and interacts with the Indeed, a study of 17 aut
+
+Chunk 27:
+ates, fine-mapped
+mechanisms. For example, within the ITIH1 PD locus they identified a causal variant overlap, MR, dimensionality reduction (Tanigawa et al.,
+fine-mapped SNP (rs18139313) whose PD-associated allele falls within a 2019), and multi-trait Polygenic Risk Scores (PRS) (Aguirre et al., 2021).
+KLF4 transcription factor binding motif (TFBM), and interacts with the Indeed, a study of 17 autoimmune diseases GWAS revealed extensive
+transcription start site (TSS) of the gene STAB1 exclusively in microglia. genetic sharing (i.e. pleiotropy) between these conditions and PD,
+Prior to this, there was no known mechanism by which this locus providing a causal mechanism underlying the longstanding observation
+influenced PD risk. Using a similar per-locus approach, Schilder and Raj of comorbidity between these conditions (Witoelar et al., 2017). The
+(2021) found that fine-mapped consensus SNPs fell within a single cell- possibility of large-scale multi-phenotype studies has become increas-
+type (neurons, astrocytes, oligodendrocytes or microglia) in only 14/74 ingly feasible with the advent of databases such as the OpenGWAS
+loci (19%), two cell-types in 12 loci (16%), three cell-types in 10 loci (Elsworth et al., 2020) and the Global Biobank Engine (McInnes et al.,
+(14%), and all four cell-types in 9 loci (12%). Fine-mapped PD-associ- 2019), as well GWAS summary statistics standardisation pipelines like
+ated SNPs most frequently fell within microglia peaks, followed by MungeSumstats (Murphy et al., 2021).
+neurons (including nigral neurons) and then oligodendrocytes/oligo- In Table S2, we provide genetic correlations between PD and many
+dendrocyte precursor cells. Of course, the per-locus approach comes other phenotypes compiled across multiple studies and databases
+with its own set of drawbacks (e.g. availability of multi-omics data in the (Agarwal et al., 2020; Aguirre et al., 2021; Bryois et al., 2020; Nalls
+relevant cell-types) and should be considered complementary 
+
+Chunk 28:
+ble S2, we provide genetic correlations between PD and many
+dendrocyte precursor cells. Of course, the per-locus approach comes other phenotypes compiled across multiple studies and databases
+with its own set of drawbacks (e.g. availability of multi-omics data in the (Agarwal et al., 2020; Aguirre et al., 2021; Bryois et al., 2020; Nalls
+relevant cell-types) and should be considered complementary to et al., 2019; Tanigawa et al., 2019), allowing for the re-analysis of
+genome-wide enrichment strategies. previously reported relationships and the discovery of novel ones. As
+Very recently, single-cell and single-nuclei datasets from PD patient illustrated in Fig. 3., there is substantial heterogeneity in the types of
+samples have begun to emerge, as opposed to the majority of existing traits that correlate with PD. As might be expected, PD has shared ge-
+datasets which come from mice or humans without PD. Early results netic architecture with other neurodegenerative diseases (e.g. Amyo-
+indicate that microglia, astrocytes and oligodendrocytes are differen- trophic Lateral Sclerosis (ALS), AD) and neurological disorders (e.g.
+tially activated relative to patients with multiple systems atrophy (MSA) epilepsy, depression, anxiety disorders). However, there are equally
+and/or controls (Pande et al., 2021; Teeple et al., 2021). Remarkably, strong (or stronger) correlations with somewhat less intuitively related
+these genes were enriched for PD GWAS genes. MSA is sometimes used traits, such as cholesterol levels, which are nevertheless recapitulated in
+as a comparator to determine whether the observed effects are specific epidemiological studies (Huang et al., 2007; Scigliano et al., 2006) and
+to PD or more broadly indicative of neurodegenerative disease. How- could represent opportunities for biomarker discovery and drug repur-
+ever, comparing PD to MSA alone has limited utility as MSA shares some posing. PD also has a complex relationship with risk for bone fractures
+of the
+
+Chunk 29:
+ether the observed effects are specific epidemiological studies (Huang et al., 2007; Scigliano et al., 2006) and
+to PD or more broadly indicative of neurodegenerative disease. How- could represent opportunities for biomarker discovery and drug repur-
+ever, comparing PD to MSA alone has limited utility as MSA shares some posing. PD also has a complex relationship with risk for bone fractures
+of the same underlying pathology (e.g. synucleinopathy) and is by no (e.g. fracture_patella_knee, fracture_finger, fracture_skull_head) which
+means representative of the full spectrum of neurodegenerative diseases. may be the result of pleiotropic genetics affecting skeletal and nervous
+Therefore, a more systematic comparison across many different neuro- systems, pharmacological side effects, secondary consequences of hav-
+degenerative diseases (with varying degrees of shared pathology) would ing a motor disorder, or some combination of these factors (Torsney
+be more informative. Single-nucleus datasets from non-PD post-mortem et al., 2014; Yao et al., 2021b).
+brain samples are also valuable resources to indirectly explore PD-
+related questions, including some done in SN (n = 5 individuals) 2.5. Biological pathways
+(Agarwal et al., 2020), midbrain DA neurons (Kamath et al., 2021),
+frontal cortex (Langston et al., 2021b), developing human brain (Bocchi GWAS and multi-omics approaches have been invaluable for the
+et al., 2021; Cao et al., 2020; Domcke et al., 2020). Bulk cell-type pu- discovery of causal variants, genes, and cell types underlying PD.
+rified RNA-seq in peripheral monocytes (n =230 individuals) (Navarro However, merging these findings into a cohesive, mechanistic under-
+et al., 2021) and microglia (n =55 PD individuals) (de Paiva Lopes et al., standing of the pathways they are part of is especially challenging.
+2020) from PD patients has revealed increased expression of mito- Protein-Protein-Interaction (PPI) (Pintacuda et al., 2021) and multi-
+chondrial related path
+
+Chunk 30:
+(n =230 individuals) (Navarro However, merging these findings into a cohesive, mechanistic under-
+et al., 2021) and microglia (n =55 PD individuals) (de Paiva Lopes et al., standing of the pathways they are part of is especially challenging.
+2020) from PD patients has revealed increased expression of mito- Protein-Protein-Interaction (PPI) (Pintacuda et al., 2021) and multi-
+chondrial related pathways relative to age-matched controls. Currently modal (Bandres-Ciga et al., 2020a, 2020b; Boix et al., 2021; Greene
+there is a lack of population-scale datasets in SN or striatum that are et al., 2015; Kia et al., 2021; Liu et al., 2020; Wang et al., 2019; Wong
+sufficiently well-powered to reliably perform analyses such as QTL, et al., 2018) networks have often been used to link these components.
+much less in cohorts of PD patients. Existing post-mortem studies from However, these approaches often suffer from an over-saturation of in-
+SN all have 16 or fewer PD cases (Lesnick et al., 2007; Moran et al., teractions that obscure relevant signals, as well as limited actionability.
+2006). These datasets allow for comparisons of cell-type-specific sig- Here, we highlight several pathways with some of the strongest evidence
+natures, opening up new possibilities for more deeply understanding the for their role in the pathogenesis of PD: endolysosomal/protein degra-
+cell-type-specific mechanisms underlying PD. Efforts to gather dation, immune, and mitochondrial.
+population-scale single-cell QTL datasets are currently underway (van
+der Wijst et al., 2020). Additionally, the reduced capacity for single- 2.5.1. Endolysosomal pathway and protein degradation
+nucleus data (relative to single-cell data) to capture cell-subtype and Endolysosomal pathways encompass a number of processes essential
+disease state-associated transcriptional signatures must be taken into for cell homeostasis. Lysosomes degrade structurally diverse substances,
+account (Thrupp et al. 2020; Skene and Grant, 2016).
+
+Chunk 31:
+y for single- 2.5.1. Endolysosomal pathway and protein degradation
+nucleus data (relative to single-cell data) to capture cell-subtype and Endolysosomal pathways encompass a number of processes essential
+disease state-associated transcriptional signatures must be taken into for cell homeostasis. Lysosomes degrade structurally diverse substances,
+account (Thrupp et al. 2020; Skene and Grant, 2016). not only proteins but also nucleic acids, lipids, helped by the acidic
+environment inside these organelles mainly driven by the V-ATPase
+2.4. Considering the phenome proton pump and the presence of a number of proteases which are active
+at acidic pH. Lysosomes receive cargo from autophagic and endocytic
+PD in the absence of any other illness is exceedingly rare given the pathways, which deliver substrates from either intracellular or extra-
+age demographic of patients and the ubiquity of pleiotropy (Li et al., cellular compartments, respectively. Both processes require the forma-
+2017). Therefore, there is a strong impetus to conceptualize human tion, transport and fusion of vesicles, with extensive crosstalk and
+health as a continuous multi-dimensional spectrum. Indeed, within- shared mechanisms (Birgisdottir and Johansen, 2020). Of direct
+8
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+relevance to PD, the intracellular homeostasis of α-synuclein is main- A number of PD-associated genes are preferentially expressed in
+tained by the actions of the ubiquitin–proteasome system and the microglia (Gosselin et al., 2017). Raj et al. (2014b) demonstrated that
+Lysosomal Autophagy System (LAS). monocyte eQTLs are enriched for PD GWAS signal, suggesting a func-
+The discovery of roles for LRRK2 in vesicular trafficking and GBA in tional role of the innate immune system in the development of PD.
+lysosomal function, in addition to the fact that a number of monogenic Additionally, a TWAS of PD found 29 loci mediated through either
+fo
+
+Chunk 32:
+(2014b) demonstrated that
+Lysosomal Autophagy System (LAS). monocyte eQTLs are enriched for PD GWAS signal, suggesting a func-
+The discovery of roles for LRRK2 in vesicular trafficking and GBA in tional role of the innate immune system in the development of PD.
+lysosomal function, in addition to the fact that a number of monogenic Additionally, a TWAS of PD found 29 loci mediated through either
+forms of PD affect autophagy genes, implicate this pathway in the mRNA expression or splicing in monocytes to be associated with PD,
+pathogenesis of the disease. Moreover, several independent approaches including both LRRK2 and SNCA (Li et al., 2019). Studies performed in
+have demonstrated that this pathway is also enriched for genetic risk in human-derived monocytes have shown increased reactivity, metabolic
+idiopathic forms of PD. Driven by the fact that GBA mutations can also alterations and increased levels of LRRK2 (Cook et al., 2017; Grozdanov
+cause Gaucher disease, a lysosomal storage disorder (LSD), Robak et al. et al., 2014, 2019; Schlachetzki et al., 2018; Smith et al., 2018). A
+showed an increased prevalence of damaging LSD-associated variants in population-based dataset of freshly isolated monocytes from idiopathic
+PD participants relative to controls (n =2,835 individuals) Robak et al. cases of PD showed profound dysfunction in the peripheral immune
+(2017). Applying PRS to 252 endosomal membrane trafficking pathway system, further solidifying the pivotal role of these cell-types (Navarro
+genes showed their cumulative contribution to PD (Bandres-Ciga et al., et al., 2021).
+2019). In a broader investigation of pathway enrichment in PD, the In addition to myeloid cells, recent findings have also implicated the
+vesicle transport pathway was significantly associated with PD risk ge- adaptive immune system in causal PD pathology. In particular, there is
+netics (Bandres-Ciga et al., 2020a, 2020b). Others have used single-cell evidence of T-cell infiltration in postmorte
+
+Chunk 33:
+.
+2019). In a broader investigation of pathway enrichment in PD, the In addition to myeloid cells, recent findings have also implicated the
+vesicle transport pathway was significantly associated with PD risk ge- adaptive immune system in causal PD pathology. In particular, there is
+netics (Bandres-Ciga et al., 2020a, 2020b). Others have used single-cell evidence of T-cell infiltration in postmortem PD brains (Brochard et al.,
+RNA-seq from cortical and SN samples in PD donors to reconstruct cell- 2009) and α-synuclein driving cytotoxic responses in T-cells. A recent
+cell interactions and implicate the proteasome, autophagy, endocytosis study suggests that CD8+T-cell infiltration is an early pathogenic event
+and vesicle-mediated pathway (Agarwal et al., 2020). Moreover, tran- that precedes ɑ-synuclein aggregation and DA neuronal loss (Galiano-
+scriptomics of human fresh microglia and monocytes from idiopathic Landeira et al., 2020). More specifically, Gate and collaborators showed
+cases of PD showed a downregulation of proteo-lysosomal genes (Nav- CD4+T-cells are in the surroundings of Lewy bodies and DA neurons
+arro et al., 2021). (Gate et al., 2021). Larger datasets of derived from PD patients are
+needed to further elucidate the role of T-cells and their subtypes (e.g.
+2.5.2. Mitochondria CD4+vs. CD8+) in PD etiology.
+Dysfunctional mitochondrial activity has a well-established role in The inflammatory component in PD has been corroborated through
+the pathology of PD (Poewe et al., 2017). Evidence for this primarily multiple observations in humans, including the presence of reactive
+comes from observations in environmentally induced mitochondrial microglia in post-mortem brains (Banati et al., 1998; Imamura et al.,
+blockades (Williams, 1984), and histopathological investigations of 2003; McGeer et al., 1988; Mirza et al., 2000), increased cytokine levels
+mitochondrial complex I disruption in postmortem brains of patients in plasma (Dobbs et al., 1999; Rentzos et al.,
+
+Chunk 34:
+reactive
+comes from observations in environmentally induced mitochondrial microglia in post-mortem brains (Banati et al., 1998; Imamura et al.,
+blockades (Williams, 1984), and histopathological investigations of 2003; McGeer et al., 1988; Mirza et al., 2000), increased cytokine levels
+mitochondrial complex I disruption in postmortem brains of patients in plasma (Dobbs et al., 1999; Rentzos et al., 2007; Stypuła et al., 1996)
+with idiopathic PD (Mizuno et al., 1989; Schapira et al., 1990). That and CSF (Mogi et al., 1994, 1995), as well as microgliosis investigated
+said, mitochondrial dysfunction is also a major pathway altered in using Positron Emission Tomography (PET) imaging (Gerhard et al.,
+monogenic forms of PD, specifically those associated with PRKN/PINK1 2006). All these findings support the hypothesis that microglia (resident
+missense mutations (Padmanabhan et al., 2019; Pickrell and Youle, immune cells in the central nervous system) as well as peripheral
+2015). Yet the putative role of common PD-associated variants in monocytes and macrophages play a causal role in the development of
+mitochondrial pathways has been more difficult to define. Interestingly, this disease (Kannarkat et al., 2013; Tansey and Romero-Ramos, 2018).
+researchers calculated a mitochondrial PRS and demonstrated that Together, these studies are beginning to provide a mechanistic under-
+common variants within mitochondrial pathway genes are associated standing of the frequently observed comorbidity between PD and im-
+with PD disease status (Billingsley et al., 2019). In an independent line of mune disorders (Arai et al., 2006; Li et al., 2012; McGeer and McGeer,
+evidence, PD susceptibility variants within mitochondrial pathway 2004; Phani et al., 2012; Witoelar et al., 2017).
+genes were identified using Whole-Genome Sequencing (WGS) and
+subsequently confirmed using functional validation experiments (Jan- 3. Experimental validation
+sen et al., 2017). In a transcriptomic characterization 
+
+Chunk 35:
+une disorders (Arai et al., 2006; Li et al., 2012; McGeer and McGeer,
+evidence, PD susceptibility variants within mitochondrial pathway 2004; Phani et al., 2012; Witoelar et al., 2017).
+genes were identified using Whole-Genome Sequencing (WGS) and
+subsequently confirmed using functional validation experiments (Jan- 3. Experimental validation
+sen et al., 2017). In a transcriptomic characterization of human myeloid
+cells in PD, we showed how there is a significant dysregulation in genes Although analysis of human samples is useful for hypothesis gener-
+associated to oxidative phosphorylation, even though the directionality ation, validating causal relationships between proposed mechanisms
+of the effect seems to be flipped in monocytes vs . microglia/macro- and disease risk/progression requires a degree of experimental control
+phages (Navarro et al., 2021). Other authors have also shown mito- that would be logistically infeasible (e.g. sample collection and pro-
+chondrial alterations in human-derived cells (Annesley et al., 2016; cessing) and/or unethical in human patients (e.g. untested drug screens
+Mortiboys et al., 2010; Teves et al., 2017). Thus, mitochondrial path- or genetic perturbations). As PD susceptibility appears to be a human-
+ways play a role in PD etiology at multiple layers. specific trait (Garcia-Ruiz and Espay, 2017), animal models that can
+Finally, it is worth mentioning that the mitochondrial pathway is not reliably recapitulate key features of PD are currently lacking (Potashkin
+independent of other pathways implicated in PD. For example, the et al., 2010). Thus, new experimental tools are needed to validate and
+autophago-lysosomal pathway is necessary to remove damaged mito- further understand the functional consequences of PD-associated vari-
+chondria, and its dysfunction increases the accumulation of aberrant ants. Here we review some of the most prominent experimental in vitro
+organelles which contributes to pathology. This can lead to deleteri
+
+Chunk 36:
+. Thus, new experimental tools are needed to validate and
+autophago-lysosomal pathway is necessary to remove damaged mito- further understand the functional consequences of PD-associated vari-
+chondria, and its dysfunction increases the accumulation of aberrant ants. Here we review some of the most prominent experimental in vitro
+organelles which contributes to pathology. This can lead to deleterious methodologies and results that have been used to validate PD GWAS-
+feedback loops between lysosomes and mitochondria (Park et al., 2018). nominated risk factors. For reviews of animal models in PD research,
+please see the following: (Jagmag et al., 2015). While there is a much
+2.5.3. Immune system more extensive literature on validation of rare PD risk factors (Poewe
+Beyond the neuronal component, immune cells have also been et al., 2017), we primarily focus on methods and results pertaining to
+associated with the development of PD through the identification of common PD risk variants and the exciting opportunities that lay ahead
+several common genetic variants within genes related to immune in this area.
+response (e.g. LRRK2, TNF, HLA-DRB5) (Chu et al., 2012; Hamza et al.,
+2010; Paisa´n-Ruíz et al., 2004; Zimprich et al., 2004). Additional evi- 3.1. In vitro modeling
+dence suggests PD heritability enrichments for epigenomic marks
+(including DNase I hypersensitive sites, histone modifications, and High-throughput technologies are emerging to validate disease-
+TFBM) in both adaptive and innate immune cells (Gagliano et al., 2016). associated variants and understand their functional consequences.
+9
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Induced pluripotent stem cells (iPSCs) can be generated from patient CRISPRi and CRISPRa screens in human-derived neurons, where they
+tissue samples and thereafter differentiated into a variety of cell-types uncover molecular pathways related to lysosomal failure and oxidative
+(Tak
+
+Chunk 37:
+nal consequences.
+9
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Induced pluripotent stem cells (iPSCs) can be generated from patient CRISPRi and CRISPRa screens in human-derived neurons, where they
+tissue samples and thereafter differentiated into a variety of cell-types uncover molecular pathways related to lysosomal failure and oxidative
+(Takahashi and Yamanaka, 2006), opening up a wide range of possi- stress, implicating the PD-related genes FBXO7 and PSAP (Tian et al.,
+bilities fo PD research (Coccia and Ahfeldt, 2021). One major advantage 2021).
+of patient-derived iPSCs over animal models is that they are able to A complementary, unbiased approach for discovering and/or veri-
+capture the genome-wide complexity of human disease genetics, as fying disease-associated variants is the use of massively parallel reporter
+opposed to one or several artificially-introduced genetic perturbations assays (MPRAs), which assess the functional impact of thousands of
+amidst a non-human genomic background. Thus, iPSC-derived DA variants and sequences in parallel. This high-throughput technology has
+neurons from PD patients can be compared to those of healthy, matched been used to study the “regulatory grammar” of genomic sequences and
+controls (Soldner et al., 2009). Taking this approach, several studies is extensively reviewed in the context of neuropsychiatric disorders
+have shown that patient-derived DA-neurons recapitulate pathogenic elsewhere (Mulvey et al., 2021; Townsley et al., 2020). This approach
+events such as loss of dendritic arborization and autophagy defects permits comparisons of the activity in transfected vs . reference cells,
+(S´anchez-Dan´es et al., 2012), epigenomic dysregulation (Ferna´ndez- allowing the identification of regulatory elements in a cell and context-
+Santiago et al., 2015), microRNA and piRNA alterations (Schulze et al., specific manner. It has been applied to assess thousands of human
+2018
+
+Chunk 38:
+ritic arborization and autophagy defects permits comparisons of the activity in transfected vs . reference cells,
+(S´anchez-Dan´es et al., 2012), epigenomic dysregulation (Ferna´ndez- allowing the identification of regulatory elements in a cell and context-
+Santiago et al., 2015), microRNA and piRNA alterations (Schulze et al., specific manner. It has been applied to assess thousands of human
+2018; Tolosa et al., 2018) and hypermethylation of regulatory regions polymorphisms with the identification of up to 842 variants which affect
+(Ferna´ndez-Santiago et al., 2019). Another is to stratify iPSC-derived gene expression across different GWAS traits, including STX4 regulation
+cells by PRS, as a way to move from genetic risk to phenotypic in PD (Tewhey et al., 2018).
+characterization. Although iPSCs are an invaluable tool for studying disease mecha-
+However, increased genomic complexity and variation of models nisms and expediting drug discovery, they have several key limitations
+also mean that small, context-dependent effects are difficult to detect, at present. High variability (between cell lines and between labora-
+especially when sample sizes are limited due to practical or budget tories), makes comparisons across research groups or studies extremely
+constraints. A powerful complementary functional validation approach challenging. Therefore, improved experimental protocols, data harmo-
+uses CRISPR-Cas9 (Adli, 2018; Cong et al., 2013) to induce targeted nization, and in silico data integration will be pivotal moving forward. In
+genetic editing of prioritized variants in isogenic human iPSC-derived addition, these experiments are expensive and labor intensive. Nor do
+cells, allowing researchers to directly observe the consequences of spe- they currently account for genetic and epigenetic changes acquired in
+cific variants while keeping genetic background constant. Of especial culture that are missed by standard karyotyping screens (Hughes et al.
+help are new version
+
+Chunk 39:
+ogenic human iPSC-derived addition, these experiments are expensive and labor intensive. Nor do
+cells, allowing researchers to directly observe the consequences of spe- they currently account for genetic and epigenetic changes acquired in
+cific variants while keeping genetic background constant. Of especial culture that are missed by standard karyotyping screens (Hughes et al.
+help are new versions of CRISPR which use a dead-Cas9 and allow to 2007), the lack of maturation, or the fact that these cells are isolated in a
+either activate gene expression (CRISPRa) or repression (CRISPRi), dish as opposed to integrated into a living system. That said, organoids
+rather than completely knocking out genes. Gene editing has been generated from stem cells may be better able to recapitulate certain
+widely used to model rare monogenic PD mutations (Burbulla et al., aspects of human biology, such as the integration of multiple cell types
+2017; Fong et al., 2013; Ryan et al., 2013; Soldner et al., 2011), but has in the same model, and self-organizing 3D structure. Of especial rele-
+far more rarely been applied to common PD variants. One of the earliest vance, midbrain organoids may be able to better model the orchestrated
+examples comes from Soldner et al. (2016), in which they targeted a behavior of multiple cell-types in PD pathogenesis (Galet et al., 2020;
+common variant in a non-coding distal enhancer and demonstrated a Kim et al., 2019; Smits et al., 2019). In addition, the iPSC Neuro-
+significant effect on the expression of SNCA, one of the most consistent degeneration Initiative (INDI) is planning to generate publicly accessible
+genetic risk genes in PD. Others have focused on common variants isogenic iPSC carrying PD-relevant mutations (Riley and Schekman,
+associated with LRRK2 in iPSC-derived neurons (Marrone et al., 2018) 2021), which will serve as an important resource for researchers and
+and microglia (Langston et al., 2021a). We (de Paiva Lopes et al., 2020; help to 
+
+Chunk 40:
+INDI) is planning to generate publicly accessible
+genetic risk genes in PD. Others have focused on common variants isogenic iPSC carrying PD-relevant mutations (Riley and Schekman,
+associated with LRRK2 in iPSC-derived neurons (Marrone et al., 2018) 2021), which will serve as an important resource for researchers and
+and microglia (Langston et al., 2021a). We (de Paiva Lopes et al., 2020; help to harmonize PD model results.
+Schilder and Raj, 2021) and others (Langston et al., 2021a) have
+demonstrated that microglia-specific regulatory regions that may 4. Future directions and conclusions
+modulate LRRK2 expression, but Langston et al. (2021a) found no dif-
+ference between protective and risk variants (for the lead GWAS SNP, Various large-scale initiatives are currently underway to generate or
+rs76904798) using CRISPR-Cas9 editing in iPSC-derived microglia. add to multi-omics datasets for research into PD (Table 1). Some notable
+However, it is plausible that the causal variant is one other than the lead examples include the Parkinson’s Progression Markers Initiative (PPMI)
+SNP,such as rs7294619 which we nominated through consensus fine- (Rosenthal et al., 2016), the Accelerating Medicine Partnership: Par-
+mapping (Schilder and Raj, 2021). kinson’s Disease (AMP-PD) (Iwaki et al., 2020), the Foundational Data
+Rather than focusing on one variant at a time, new technologies are Initiative for Parkinson’s Disease (FOUNDIN-PD) (Bressan et al., 2021),
+being developed to perform combinatorial CRISPR-based genetic Aligning Science Across Parkinson (ASAP) (Schekman and Riley, 2019),
+perturbation screens in iPSCs, permitting the exploration of both addi- and the Global Parkinson’s Genetics Program (GP2) (The Global Par-
+tive and interactive effects of multiple variants at once (Fernando et al., kinson’s Genetics Program, 2021). The UK Biobank (UKB) is a more
+2020). Even greater resolution can be achieved by combining these general resource containing genotyping data from 500,000
+
+Chunk 41:
+rturbation screens in iPSCs, permitting the exploration of both addi- and the Global Parkinson’s Genetics Program (GP2) (The Global Par-
+tive and interactive effects of multiple variants at once (Fernando et al., kinson’s Genetics Program, 2021). The UK Biobank (UKB) is a more
+2020). Even greater resolution can be achieved by combining these general resource containing genotyping data from 500,000 deeply
+methods with single-cell RNA-seq, as in Perturb-seq (Dixit et al., 2016), phenotyped individuals (Bycroft et al., 2018), >200,000 of which now
+allowing for the investigation of cell-specific effects of genetic modifi- also have whole-genome sequencing data available. One of the main
+cations on gene expression. This approach has been applied to studies of challenges moving forward is the lack of ethnic variation in previous PD
+transcriptional regulation unfolded protein response (Adamson et al., genetic studies, as these were performed almost exclusively in in-
+2016), neuronal development (Alyagor et al., 2018) or autism risk ge- dividuals of European ancestry with limited translatability to other
+netics (Jin et al., 2020). In PD research, a knock-out CRISPR-Cas9 screen populations (Duncan et al., 2019). More recently, research initiatives
+was developed to assess genetic regulators of the gene PRKN (Potting have begun to address this by expanding PD genomics studies to more
+et al., 2018). Another example is PRISM (Perturbing Regulatory In- diverse populations (Loesch et al., 2021; The Global Parkinson’s Ge-
+teractions by Synthetic Modulators), a platform that edits random netics Program, 2021).
+transcription factors (TFs) with CRISPR-Cas9 to assess transcriptional Similarly, more work is needed to conclusively resolve the causal
+networks that protect against α-synuclein in yeast (Chen et al., 2017). cell-types underlying PD. Progress is being made by consortia such as the
+Moving forward, these approaches are expanding to the use of CRISPRa Human Cell Atlas (HCA) (Reg
+
+Chunk 42:
+tics Program, 2021).
+transcription factors (TFs) with CRISPR-Cas9 to assess transcriptional Similarly, more work is needed to conclusively resolve the causal
+networks that protect against α-synuclein in yeast (Chen et al., 2017). cell-types underlying PD. Progress is being made by consortia such as the
+Moving forward, these approaches are expanding to the use of CRISPRa Human Cell Atlas (HCA) (Regev et al., 2017) and single-cell eQTLGen
+(CRISPR activation), CRISPRi (CRISPR interference) and gene editing, (van der Wijst et al., 2020). Furthermore, it should be noted that while
+and will help to disentangle the genetics of polygenic diseases such as identifying the cell-types that causally underlie a disease is undoubtedly
+PD. In this line, Tian and collaborators recently published genome-wide an informative and worthwhile pursuit, these may not necessarily be the
+10
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+ideal candidate cell-types to directly target with therapeutics. Additional perturbation-Seq uncovers transcriptional modules orchestrating neuronal
+factors that first need to be considered are the delivery method and the remodeling. Dev. Cell 47, 38–52.e6. https://doi.org/10.1016/j.devcel.2018.09.013.
+Andersen, M.S., Bandres-Ciga, S., Reynolds, R.H., Hardy, J., Ryten, M., Krohn, L., Gan-
+potential for off-target effects. To fully utilize such resources, we also Or, Z., Holtman, I.R., International Parkinson’s Disease Genomics Consortium,
+need well-designed, programmatically-accessible, cloud-based archi- Pihlstrøm, L., 2021. Heritability enrichment implicates microglia in Parkinson’s
+tectures, improved data sharing standards and novel computational disease pathogenesis. Ann. Neurol. https://doi.org/10.1002/ana.26032.
+Annesley, S.J., Lay, S.T., De Piazza, S.W., Sanislav, O., Hammersley, E., Allan, C.Y.,
+methods.
+Francione, L.M., Bui, M.Q., Chen, Z.-P., Ngoei, K.R.W., Tassone, F., Kemp, B.E.,
+Lastly, we would l
+
+Chunk 43:
+., 2021. Heritability enrichment implicates microglia in Parkinson’s
+tectures, improved data sharing standards and novel computational disease pathogenesis. Ann. Neurol. https://doi.org/10.1002/ana.26032.
+Annesley, S.J., Lay, S.T., De Piazza, S.W., Sanislav, O., Hammersley, E., Allan, C.Y.,
+methods.
+Francione, L.M., Bui, M.Q., Chen, Z.-P., Ngoei, K.R.W., Tassone, F., Kemp, B.E.,
+Lastly, we would like to emphasize that the approaches laid out here Storey, E., Evans, A., Loesch, D.Z., Fisher, P.R., 2016. Immortalized Parkinson’s
+should be in no way construed as a comprehensive list of all the ways in disease lymphocytes have enhanced mitochondrial respiratory activity. Dis. Model.
+Mech. 9, 1295–1305. https://doi.org/10.1242/dmm.025684.
+which PD may be investigated. The various subfields of biomedicine are
+Arai, H., Furuya, T., Mizuno, Y., Mochizuki, H., 2006. Inflammation and infection in
+constantly evolving at a rapid pace, whilst producing data at a rate that Parkinson`s disease. Histol. Histopathol. 21 (6), 673–678. https://doi.org/
+lends itself to underutilization. Therefore, novel innovative experi- 10.14670/HH-21.673.
+ˇ
+Avsec, Z., Kreuzhuber, R., Israeli, J., Xu, N., Cheng, J., Shrikumar, A., Banerjee, A.,
+mental designs, computational tools, and conceptual frameworks in the
+Kim, D.S., Beier, T., Urban, L., Kundaje, A., Stegle, O., Gagneur, J., 2019. The Kipoi
+years to come will be essential to tackle the formidable challenges that repository accelerates community exchange and reuse of predictive models for
+arise when dissecting the complexities of diseases such as PD. genomics. Nat. Biotechnol. 37, 592–600. https://doi.org/10.1038/s41587-019-
+0140-0.
+Avsec, Z., Agarwal, V., Visentin, D., Ledsam, J.R., 2021. Effective gene expression
+Funding prediction from sequence by integrating long-range interactions. bioRxiv 18,
+1196–1203. https://doi.org/10.1038/s41592-021-01252-x.
+Badanjak, K., Fixemer, S., Smaji´c, S., Skupin, A., Grünewald, A., 2021. The contribution
+Th
+
+Chunk 44:
+genomics. Nat. Biotechnol. 37, 592–600. https://doi.org/10.1038/s41587-019-
+0140-0.
+Avsec, Z., Agarwal, V., Visentin, D., Ledsam, J.R., 2021. Effective gene expression
+Funding prediction from sequence by integrating long-range interactions. bioRxiv 18,
+1196–1203. https://doi.org/10.1038/s41592-021-01252-x.
+Badanjak, K., Fixemer, S., Smaji´c, S., Skupin, A., Grünewald, A., 2021. The contribution
+This work was supported by grants awarded to TR by the Michael J.
+of microglia to neuroinflammation in Parkinson’s Disease. Int. J. Mol. Sci. 22, 4676.
+Fox Foundation (Grant #14899 and #16743) and US National Institutes https://doi.org/10.3390/ijms22094676.
+of Health (NIH NIA R01-AG054005, NINDS R01-NS116006 and NINDS Banati, R.B., Daniel, S.E., Blunt, S.B., 1998. Glial pathology but absence of apoptotic
+nigral neurons in long-standing Parkinson’s disease. Mov. Disord. 13, 221–227.
+U01-NS120256). The author BMS was additionally supported by the UK
+https://doi.org/10.1002/mds.870130205.
+Dementia Research Institute which receives its funding from UK DRI Ltd, Bandres-Ciga, S., Saez-Atienzar, S., Bonet-Ponce, L., Billingsley, K., Vitale, D.,
+funded by the UK Medical Research Council, Alzheimer’s Society and Blauwendraat, C., Gibbs, J.R., Pihlstrøm, L., Gan-Or, Z., International Parkinson’s
+Alzheimer’s Research UK. Disease Genomics Consortium (IPDGC), Cookson, M.R., Nalls, M.A., Singleton, A.B.,
+2019. The endocytic membrane trafficking pathway plays a major role in the risk of
+Parkinson’s disease. Mov. Disord. 34, 460–468. https://doi.org/10.1002/
+Data and code availability mds.27614.
+Bandres-Ciga, S., Diez-Fairen, M., Kim, J.J., Singleton, A.B., 2020a. Genetics of
+Parkinson’s disease: an introspection of its journey towards precision medicine.
+All data and code used to produce the plots and meta-analyses Neurobiol. Dis. 137, 104782 https://doi.org/10.1016/j.nbd.2020.104782.
+described in this manuscript are publicly available via the dedicated Bandres-Ciga, S., Saez-Atienzar, S., 
+
+Chunk 45:
+dres-Ciga, S., Diez-Fairen, M., Kim, J.J., Singleton, A.B., 2020a. Genetics of
+Parkinson’s disease: an introspection of its journey towards precision medicine.
+All data and code used to produce the plots and meta-analyses Neurobiol. Dis. 137, 104782 https://doi.org/10.1016/j.nbd.2020.104782.
+described in this manuscript are publicly available via the dedicated Bandres-Ciga, S., Saez-Atienzar, S., Kim, J.J., Makarious, M.B., Faghri, F., Diez-
+GitHub repository: Fairen, M., Iwaki, H., Leonard, H., Botia, J., Ryten, M., Hernandez, D., Gibbs, J.R.,
+Ding, J., Gan-Or, Z., Noyce, A., Pihlstrom, L., Torkamani, A., Soltis, A.R., Dalgard, C.
+https://github.com/RajLabMSSM/PD_omics_review L., Center, American Genome, Scholz, S.W., Traynor, B.J., Ehrlich, D., Scherzer, C.R.,
+Bookman, M., Cookson, M., Blauwendraat, C., Nalls, M.A., Singleton, A.B.,
+International Parkinson Disease Genomics Consortium, 2020b. Large-scale pathway
+Declaration of Competing Interest specific polygenic risk and transcriptomic community network analysis identifies
+novel functional pathways in Parkinson disease. Acta Neuropathol. https://doi.org/
+10.1007/s00401-020-02181-3.
+None.
+Benner, C., Spencer, C.C.A., Havulinna, A.S., Salomaa, V., Ripatti, S., Pirinen, M., 2016.
+FINEMAP: efficient variable selection using summary data from genome-wide
+Acknowledgements association studies. Bioinformatics 32, 1493–1501. https://doi.org/10.1093/
+bioinformatics/btw018.
+Benner, C., Havulinna, A.S., J¨arvelin, M.-R., Salomaa, V., Ripatti, S., Pirinen, M., 2017.
+We would like to thank Jack Humphrey, Gijsje Snijders, Elena Coc- Prospects of fine-mapping trait-associated genomic regions by using summary
+cia, Giulietta Maria Riboldi, Katia de Paiva Lopes, and Ricardo Vialle for statistics from genome-wide association studies. Am. J. Hum. Genet. 101, 539–551.
+https://doi.org/10.1016/j.ajhg.2017.08.012.
+their invaluable feedback on this manuscript. We would also like to
+Bhattacharyya, S., Chandra, V., Vijayanand, P., Ay, F., 2
+
+Chunk 46:
+ospects of fine-mapping trait-associated genomic regions by using summary
+cia, Giulietta Maria Riboldi, Katia de Paiva Lopes, and Ricardo Vialle for statistics from genome-wide association studies. Am. J. Hum. Genet. 101, 539–551.
+https://doi.org/10.1016/j.ajhg.2017.08.012.
+their invaluable feedback on this manuscript. We would also like to
+Bhattacharyya, S., Chandra, V., Vijayanand, P., Ay, F., 2019. Identification of significant
+thank the following people for their contributions of enrichment/cor- chromatin contacts from HiChIP data by FitHiChIP. Nat. Commun. 10, 4221. https://
+relation summary statistics: Mike Nalls, Cornelis Blauwendraat, Nathan doi.org/10.1038/s41467-019-11950-y.
+Skene, Caleb Webber, Cynthia Sandor, Alexi Nott, and Shi Yao. Billingsley, K.J., Barbosa, I.A., Bandr´es-Ciga, S., Quinn, J.P., Bubb, V.J., Deshpande, C.,
+Botia, J.A., Reynolds, R.H., Zhang, D., Simpson, M.A., Blauwendraat, C., Gan-Or, Z.,
+This work is dedicated to Robert Neil Cronin. Gibbs, J.R., Nalls, M.A., Singleton, A., International Parkinson’s Disease Genomics
+Consortium (IPDGC), Ryten, M., Koks, S., 2019. Mitochondria function associated
+genes contribute to Parkinson’s Disease risk and later age at onset. NPJ Parkinsons
+Appendix A. Supplementary data
+Dis. 5, 8. https://doi.org/10.1038/s41531-019-0080-x.
+Birgisdottir, Å.B., Johansen, T., 2020. Autophagy and endocytosis – interconnections and
+Supplementary data to this article can be found online at https://doi. interdependencies. J. Cell Sci. 133 https://doi.org/10.1242/jcs.228114 jcs228114.
+org/10.1016/j.nbd.2021.105580. Blauwendraat, C., Nalls, M.A., Singleton, A.B., 2020. The genetic architecture of
+Parkinson’s disease. Lancet Neurol. 19, 170–178. https://doi.org/10.1016/S1474-
+4422(19)30287-X.
+References Bocchi, V.D., Conforti, P., Vezzoli, E., Besusso, D., Cappadona, C., Lischetti, T.,
+Galimberti, M., Ranzani, V., Bonnal, R.J.P., De Simone, M., Rossetti, G., He, X.,
+Adamson, B., Norman, T.M., Jost, M., Cho, M.Y., Nun˜ez, J.
+
+Chunk 47:
+C., Nalls, M.A., Singleton, A.B., 2020. The genetic architecture of
+Parkinson’s disease. Lancet Neurol. 19, 170–178. https://doi.org/10.1016/S1474-
+4422(19)30287-X.
+References Bocchi, V.D., Conforti, P., Vezzoli, E., Besusso, D., Cappadona, C., Lischetti, T.,
+Galimberti, M., Ranzani, V., Bonnal, R.J.P., De Simone, M., Rossetti, G., He, X.,
+Adamson, B., Norman, T.M., Jost, M., Cho, M.Y., Nun˜ez, J.K., Chen, Y., Villalta, J.E., Kamimoto, K., Espuny-Camacho, I., Faedo, A., Gervasoni, F., Vuono, R., Morris, S.A.,
+Chen, J., Felsenfeld, D., Pavesi, G., Barker, R.A., Pagani, M., Cattaneo, E., 2021. The
+Gilbert, L.A., Horlbeck, M.A., Hein, M.Y., Pak, R.A., Gray, A.N., Gross, C.A., Dixit, A.,
+coding and long noncoding single-cell atlas of the developing human fetal striatum.
+Parnas, O., Regev, A., Weissman, J.S., 2016. A multiplexed single-cell CRISPR
+Science 372. https://doi.org/10.1126/science.abf5759 eabf5759.
+screening platform enables systematic dissection of the unfolded protein response.
+Cell 167, 1867–1882.e21. https://doi.org/10.1016/j.cell.2016.11.048. Boix c , i C rc .A ui . t , r J y a o m f e h s, u B m . a T n ., d P i a s r e k a , s e Y . l P o . c , i M b e y u i l n e t m eg a r n a , t W ive ., e K p e i l g li e s n , o M m ., i c 2 s 0 . 2 N 1 a . t R ur e e g u 5 l 9 a 0 to , r 3 y 0 g 0 e – n 3 o 0 m 7. i c
+Adli, M., 2018. The CRISPR tool kit for genome editing and beyond. Nat. Commun. 9,
+https://doi.org/10.1038/s41586-020-03145-z.
+1911. https://doi.org/10.1038/s41467-018-04252-2.
+Agarwal, D., Sandor, C., Volpato, V., Caffrey, T.M., Monzo´n-Sandoval, J., Bowden, R., Braa s k p , o H ra ., d D ic e P l a T r r k e i d n i s c o i n , ’ K s . , d i 2 s 0 e 1 as 7 e . : N se e p u a ro ra p t a in th g o t l h o e g i w ca h l e s a t t a f g r i o n m g o th f e b r c a h i a n f f p . a J t . h P o a l r o k g i y n s i o n n s Dis.
+Alegre-Abarrategui, J., Wade-Martins, R., Webber, C., 2020. A single-cell atlas of the 7, S71–S85. https://doi.org/10.3233
+
+Chunk 48:
+n, R., Braa s k p , o H ra ., d D ic e P l a T r r k e i d n i s c o i n , ’ K s . , d i 2 s 0 e 1 as 7 e . : N se e p u a ro ra p t a in th g o t l h o e g i w ca h l e s a t t a f g r i o n m g o th f e b r c a h i a n f f p . a J t . h P o a l r o k g i y n s i o n n s Dis.
+Alegre-Abarrategui, J., Wade-Martins, R., Webber, C., 2020. A single-cell atlas of the 7, S71–S85. https://doi.org/10.3233/jpd-179001.
+human substantia nigra reveals cell-specific pathways associated with neurological
+Braak, H., Del Tredici, K., Rüb, U., de Vos, R.A.I., Jansen Steur, E.N., Braak, E., 2003.
+disorders. Nat. Commun. 11, 4183. https://doi.org/10.1038/s41467-020-17876-0. Staging of brain pathology related to sporadic Parkinson’s disease. Neurobiol. Aging
+Aguirre, M., Tanigawa, Y., Venkataraman, G.R., Tibshirani, R., Hastie, T., Rivas, M.A., 24, 197–211. https://doi.org/10.1016/s0197-4580(02)00065-9.
+2021. Polygenic risk modeling with latent trait-related genetic components. Eur. J.
+Bressan, E., Reed, X., Bansal, V., Hutchins, E., Cobb, M.M., 2021. The foundational data
+Hum. Genet. https://doi.org/10.1038/s41431-021-00813-0.
+initiative for Parkinsons disease (FOUNDIN-PD): enabling efficient translation from
+Alyagor, I., Berkun, V., Keren-Shaul, H., Marmor-Kollet, N., David, E., Mayseless, O.,
+genetic maps to mechanism. bioRxiv. https://doi.org/10.1101/2021.06.03.446785.
+Issman-Zecharya, N., Amit, I., Schuldiner, O., 2018. Combining developmental and
+11
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Brochard, V., Combadi`ere, B., Prigent, A., Laouar, Y., Perrin, A., Beray-Berthat, V., Dobbs, R.J., Charlett, A., Purkiss, A.G., Dobbs, S.M., Weller, C., Peterson, D.W., 1999.
+Bonduelle, O., Alvarez-Fischer, D., Callebert, J., Launay, J.-M., Duyckaerts, C., Association of circulating TNF-α and IL-6 with ageing and parkinsonism. Acta
+Flavell, R.A., Hirsch, E.C., Hunot, S., 2009. Infiltration of CD4+lymphocytes into the Neurol. Scand. 100, 
+
+Chunk 49:
+, Laouar, Y., Perrin, A., Beray-Berthat, V., Dobbs, R.J., Charlett, A., Purkiss, A.G., Dobbs, S.M., Weller, C., Peterson, D.W., 1999.
+Bonduelle, O., Alvarez-Fischer, D., Callebert, J., Launay, J.-M., Duyckaerts, C., Association of circulating TNF-α and IL-6 with ageing and parkinsonism. Acta
+Flavell, R.A., Hirsch, E.C., Hunot, S., 2009. Infiltration of CD4+lymphocytes into the Neurol. Scand. 100, 34–41.
+brain contributes to neurodegeneration in a mouse model of Parkinson disease. Domcke, S., Hill, A.J., Daza, R.M., Cao, J., O’Day, D.R., Pliner, H.A., Aldinger, K.A.,
+J. Clin. Invest. 119, 182–192. https://doi.org/10.1172/JCI36470. Pokholok, D., Zhang, F., Milbank, J.H., Zager, M.A., Glass, I.A., Steemers, F.J.,
+Broekema, R.V., Bakker, O.B., Jonkers, I.H., 2020. A practical view of fine-mapping and Doherty, D., Trapnell, C., Cusanovich, D.A., Shendure, J., 2020. A human cell atlas of
+gene prioritization in the post-genome-wide association era. Open Biol. 10, 190221 fetal chromatin accessibility. Science 370. https://doi.org/10.1126/science.
+https://doi.org/10.1098/rsob.190221. aba7612.
+Bryois, J., Eating Disorders Working Group of the Psychiatric Genomics Consortium, Dorsey, E.R., Constantinescu, R., Thompson, J.P., Biglan, K.M., Holloway, R.G.,
+Skene, N.G., Hansen, T.F., Kogelman, L.J.A., Watson, H.J., Liu, Z., Brueggeman, L., Kieburtz, K., Marshall, F.J., Ravina, B.M., Schifitto, G., Siderowf, A., Tanner, C.M.,
+Breen, G., Bulik, C.M., Arenas, E., Hjerling-Leffler, J., Sullivan, P.F., International 2007. Projected number of people with Parkinson disease in the most populous
+Headache Genetics Consortium, 23andMe Research Team, 2020. Genetic nations, 2005 through 2030. Neurology 68, 384–386. https://doi.org/10.1212/01.
+identification of cell types underlying brain complex traits yields insights into the wnl.0000247740.47667.03.
+etiology of Parkinson’s disease. Nat. Genet. 52, 482–493. https://doi.org/10.1038/ Duncan, L., Shen, H., Gelaye, B., Meijsen, J., Ressler, K., 
+
+Chunk 50:
+Headache Genetics Consortium, 23andMe Research Team, 2020. Genetic nations, 2005 through 2030. Neurology 68, 384–386. https://doi.org/10.1212/01.
+identification of cell types underlying brain complex traits yields insights into the wnl.0000247740.47667.03.
+etiology of Parkinson’s disease. Nat. Genet. 52, 482–493. https://doi.org/10.1038/ Duncan, L., Shen, H., Gelaye, B., Meijsen, J., Ressler, K., Feldman, M., Peterson, R.,
+s41588-020-0610-9. Domingue, B., 2019. Analysis of polygenic risk score usage and performance in
+Burbulla, L.F., Song, P., Mazzulli, J.R., Zampese, E., Wong, Y.C., Jeon, S., Santos, D.P., diverse human populations. Nat. Commun. 10, 3328. https://doi.org/10.1038/
+Blanz, J., Obermaier, C.D., Strojny, C., Savas, J.N., Kiskinis, E., Zhuang, X., s41467-019-11112-0.
+Krüger, R., James Surmeier, D., Krainc, D., 2017. Dopamine oxidation mediates Elsworth, B., Lyon, M., Alexander, T., Liu, Y., Matthews, P., Hallett, J., Bates, P.,
+mitochondrial and lysosomal dysfunction in Parkinson’s disease. Science 357, Palmer, T., Haberland, V., Smith, G.D., Zheng, J., Haycock, P., Gaunt, T.R.,
+1255–1261. https://doi.org/10.1126/science.aam9080. Hemani, G., 2020. The MRC IEU OpenGWAS data infrastructure. bioRxiv. https://
+Bycroft, C., Freeman, C., Petkova, D., Band, G., Elliott, L.T., Sharp, K., Motyer, A., doi.org/10.1101/2020.08.10.244293.
+Vukcevic, D., Delaneau, O., O’Connell, J., Cortes, A., Welsh, S., Young, A., Eraslan, G., Avsec, Z ˇ ., Gagneur, J., Theis, F.J., 2019. Deep learning: new computational
+Effingham, M., McVean, G., Leslie, S., Allen, N., Donnelly, P., Marchini, J., 2018. The modelling techniques for genomics. Nat. Rev. Genet. 20, 389–403. https://doi.org/
+UK biobank resource with deep phenotyping and genomic data. Nature 562, 10.1038/s41576-019-0122-6.
+203–209. https://doi.org/10.1038/s41586-018-0579-z. Faa, G., Marcialis, M.A., Ravarino, A., Piras, M., Pintus, M.C., Fanos, V., 2014. Fetal
+Cao, J., O’Day, D.R., Pliner, H.A., Kingsley, P.D., Deng, M., 
+
+Chunk 51:
+i, J., 2018. The modelling techniques for genomics. Nat. Rev. Genet. 20, 389–403. https://doi.org/
+UK biobank resource with deep phenotyping and genomic data. Nature 562, 10.1038/s41576-019-0122-6.
+203–209. https://doi.org/10.1038/s41586-018-0579-z. Faa, G., Marcialis, M.A., Ravarino, A., Piras, M., Pintus, M.C., Fanos, V., 2014. Fetal
+Cao, J., O’Day, D.R., Pliner, H.A., Kingsley, P.D., Deng, M., Daza, R.M., Zager, M.A., programming of the human brain: is there a link with insurgence of
+Aldinger, K.A., Blecher-Gonen, R., Zhang, F., Spielmann, M., Palis, J., Doherty, D., neurodegenerative disorders in adulthood? Curr. Med. Chem. 21, 3854–3876.
+Steemers, F.J., Glass, I.A., Trapnell, C., Shendure, J., 2020. A human cell atlas of fetal https://doi.org/10.2174/0929867321666140601163658.
+gene expression. Science 370. https://doi.org/10.1126/science.aba7721. Fairfax, B.P., Humburg, P., Makino, S., Naranbhai, V., Wong, D., Lau, E., Jostins, L.,
+Carvalho-Silva, D., Pierleoni, A., Pignatelli, M., Ong, C., Fumis, L., Karamanis, N., Plant, K., Andrews, R., McGee, C., Knight, J.C., 2014. Innate immune activity
+Carmona, M., Faulconbridge, A., Hercules, A., McAuley, E., Miranda, A., Peat, G., conditions the effect of regulatory variants upon monocyte gene expression. Science
+Spitzer, M., Barrett, J., Hulcoop, D.G., Papa, E., Koscielny, G., Dunham, I., 2019. 343, 1246949. https://doi.org/10.1126/science.1246949.
+Open targets platform: new developments and updates two years on. Nucleic Acids Falconer, D.S., 1996. Introduction to Quantitative Genetics. Pearson Education India.
+Res. 47, D1056–D1065. https://doi.org/10.1093/nar/gky1133. Fang, R., Yu, M., Li, G., Chee, S., Liu, T., Schmitt, A.D., Ren, B., 2016. Mapping of long-
+Chang, D., Nalls, M.A., Hallgrímsdo´ttir, I.B., Hunkapiller, J., van der Brug, M., Cai, F., range chromatin interactions by proximity ligation-assisted ChIP-seq. Cell Res. 26,
+International Parkinson’s Disease Genomics Consortium, 23andMe Research Team, 1345–1348
+
+Chunk 52:
+–D1065. https://doi.org/10.1093/nar/gky1133. Fang, R., Yu, M., Li, G., Chee, S., Liu, T., Schmitt, A.D., Ren, B., 2016. Mapping of long-
+Chang, D., Nalls, M.A., Hallgrímsdo´ttir, I.B., Hunkapiller, J., van der Brug, M., Cai, F., range chromatin interactions by proximity ligation-assisted ChIP-seq. Cell Res. 26,
+International Parkinson’s Disease Genomics Consortium, 23andMe Research Team, 1345–1348. https://doi.org/10.1038/cr.2016.137.
+Kerchner, G.A., Ayalon, G., Bingol, B., Sheng, M., Hinds, D., Behrens, T.W., Farh, K.K.-H., Marson, A., Zhu, J., Kleinewietfeld, M., Housley, W.J., Beik, S.,
+Singleton, A.B., Bhangale, T.R., Graham, R.R., 2017. A meta-analysis of genome- Shoresh, N., Whitton, H., Ryan, R.J.H., Shishkin, A.A., Hatan, M., Carrasco-
+wide association studies identifies 17 new Parkinson’s disease risk loci. Nat. Genet. Alfonso, M.J., Mayer, D., Luckey, C.J., Patsopoulos, N.A., De Jager, P.L., Kuchroo, V.
+49, 1511–1516. https://doi.org/10.1038/ng.3955. K., Epstein, C.B., Daly, M.J., Hafler, D.A., Bernstein, B.E., 2015. Genetic and
+Chen, Y.-C., Farzadfard, F., Gharaei, N., Chen, W.C.W., Cao, J., Lu, T.K., 2017. epigenetic fine mapping of causal autoimmune disease variants. Nature 518,
+Randomized CRISPR-Cas transcriptional perturbation screening reveals protective 337–343. https://doi.org/10.1038/nature13835.
+genes against alpha-Synuclein toxicity. Mol. Cell 68, 247–257.e5. https://doi.org/ Fearnley, J.M., Lees, A.J., 1991. Ageing and Parkinson’s disease: substantia nigra
+10.1016/j.molcel.2017.09.014. regional selectivity. Brain 114 (Pt 5), 2283–2301. https://doi.org/10.1093/brain/
+Chu, K., Zhou, X., Luo, B.-Y., 2012. Cytokine gene polymorphisms and Parkinson’s 114.5.2283.
+disease: a meta-analysis. Can. J. Neurol. Sci. 39, 58–64. https://doi.org/10.1017/ Fern´andez-Santiago, R., Carballo-Carbajal, I., Castellano, G., Torrent, R., Richaud, Y.,
+s0317167100012695. S´anchez-Dan´es, A., Vilarrasa-Blasi, R., Sa´nchez-Pla, A., Mosquera, J.L., Soriano, J.,
+Coccia, E.,
+
+Chunk 53:
+10.1093/brain/
+Chu, K., Zhou, X., Luo, B.-Y., 2012. Cytokine gene polymorphisms and Parkinson’s 114.5.2283.
+disease: a meta-analysis. Can. J. Neurol. Sci. 39, 58–64. https://doi.org/10.1017/ Fern´andez-Santiago, R., Carballo-Carbajal, I., Castellano, G., Torrent, R., Richaud, Y.,
+s0317167100012695. S´anchez-Dan´es, A., Vilarrasa-Blasi, R., Sa´nchez-Pla, A., Mosquera, J.L., Soriano, J.,
+Coccia, E., Ahfeldt, T., 2021. Towards physiologically relevant human pluripotent stem Lo´pez-Barneo, J., Canals, J.M., Alberch, J., Raya, A ´ ., Vila, M., Consiglio, A., Martín-
+cell (hPSC) models of Parkinson’s disease. Stem Cell Res Ther 12. https://doi.org/ Subero, J.I., Ezquerra, M., Tolosa, E., 2015. Aberrant epigenome in iPSC-derived
+10.1186/s13287-021-02326-5. dopaminergic neurons from Parkinson’s disease patients. EMBO Mol. Med. 7,
+Coetzee, S.G., Pierce, S., Brundin, P., Brundin, L., Hazelett, D.J., Coetzee, G.A., 2016. 1529–1546. https://doi.org/10.15252/emmm.201505439.
+Enrichment of risk SNPs in regulatory regions implicate diverse tissues in Fern´andez-Santiago, R., Merkel, A., Castellano, G., Heath, S., Raya, A ´ ., Tolosa, E.,
+Parkinson’s disease etiology. Sci. Rep. 6 https://doi.org/10.1038/srep30509. Martí, M.-J., Consiglio, A., Ezquerra, M., 2019. Whole-genome DNA hyper-
+Cong, L., Ran, F.A., Cox, D., Lin, S., Barretto, R., Habib, N., Hsu, P.D., Wu, X., Jiang, W., methylation in iPSC-derived dopaminergic neurons from Parkinson’s disease
+Marraffini, L.A., Zhang, F., 2013. Multiplex genome engineering using CRISPR/Cas patients. Clin. Epigenetics 11, 108. https://doi.org/10.1186/s13148-019-0701-6.
+systems. Science 339, 819–823. https://doi.org/10.1126/science.1231143. Fernando, M.B., Ahfeldt, T., Brennand, K.J., 2020. Modeling the complex genetic
+Cook, D.A., Kannarkat, G.T., Cintron, A.F., Butkovich, L.M., Fraser, K.B., Chang, J., architectures of brain disease. Nat. Genet. 52, 363–369. https://doi.org/10.1038/
+Grigoryan, N., Factor, S.A., West, A.B., Boss, J.M., Tansey, 
+
+Chunk 54:
+s13148-019-0701-6.
+systems. Science 339, 819–823. https://doi.org/10.1126/science.1231143. Fernando, M.B., Ahfeldt, T., Brennand, K.J., 2020. Modeling the complex genetic
+Cook, D.A., Kannarkat, G.T., Cintron, A.F., Butkovich, L.M., Fraser, K.B., Chang, J., architectures of brain disease. Nat. Genet. 52, 363–369. https://doi.org/10.1038/
+Grigoryan, N., Factor, S.A., West, A.B., Boss, J.M., Tansey, M.G., 2017. LRRK2 levels s41588-020-0596-3.
+in immune cells are increased in Parkinson’s disease. NPJ Parkinsons Dis. 3, 11. Finucane, H.K., Bulik-Sullivan, B., Gusev, A., Trynka, G., Reshef, Y., Loh, P.-R.,
+https://doi.org/10.1038/s41531-017-0010-8. Anttila, V., Xu, H., Zang, C., Farh, K., Ripke, S., Day, F.R., ReproGen Consortium,
+Corces, M.R., Shcherbina, A., Kundu, S., Gloudemans, M.J., Fr´esard, L., Granja, J.M., Schizophrenia Working Group of the Psychiatric Genomics Consortium,
+Louie, B.H., Eulalio, T., Shams, S., Bagdatli, S.T., Mumbach, M.R., Liu, B., Consortium, R.A.C.I., Purcell, S., Stahl, E., Lindstrom, S., Perry, J.R.B., Okada, Y.,
+Montine, K.S., Greenleaf, W.J., Kundaje, A., Montgomery, S.B., Chang, H.Y., Raychaudhuri, S., Daly, M.J., Patterson, N., Neale, B.M., Price, A.L., 2015.
+Montine, T.J., 2020. Single-cell epigenomic analyses implicate candidate causal Partitioning heritability by functional annotation using genome-wide association
+variants at inherited risk loci for Alzheimer’s and Parkinson’s diseases. Nat. Genet. summary statistics. Nat. Genet. 47, 1228–1235. https://doi.org/10.1038/ng.3404.
+52, 1158–1168. https://doi.org/10.1038/s41588-020-00721-x. Fong, H., Wang, C., Knoferle, J., Walker, D., Balestra, M.E., Tong, L.M., Leung, L.,
+Damier, P., Hirsch, E.C., Agid, Y., Graybiel, A.M., 1999. The substantia nigra of the Ring, K.L., Seeley, W.W., Karydas, A., Kshirsagar, M.A., Boxer, A.L., Kosik, K.S.,
+human brain. II. Patterns of loss of dopamine-containing neurons in Parkinson’s Miller, B.L., Huang, Y., 2013. Genetic correction of tauopathy phenotypes
+
+Chunk 55:
+., Wang, C., Knoferle, J., Walker, D., Balestra, M.E., Tong, L.M., Leung, L.,
+Damier, P., Hirsch, E.C., Agid, Y., Graybiel, A.M., 1999. The substantia nigra of the Ring, K.L., Seeley, W.W., Karydas, A., Kshirsagar, M.A., Boxer, A.L., Kosik, K.S.,
+human brain. II. Patterns of loss of dopamine-containing neurons in Parkinson’s Miller, B.L., Huang, Y., 2013. Genetic correction of tauopathy phenotypes in neurons
+disease. Brain 122 (Pt 8), 1437–1448. https://doi.org/10.1093/brain/122.8.1437. derived from human induced pluripotent stem cells. Stem Cell Rep. 1, 226–234.
+Daniel, S.E., Lees, A.J., 1993. Parkinson’s Disease society brain Bank, London: overview https://doi.org/10.1016/j.stemcr.2013.08.001.
+and research. J. Neural Transm. Suppl. 39, 165–172. Fromer, M., Roussos, P., Sieberts, S.K., Johnson, J.S., Kavanagh, D.H., Perumal, T.M.,
+Dey, K.K., van de Geijn, B., Kim, S.S., Hormozdiari, F., Kelley, D.R., Price, A.L., 2020. Ruderfer, D.M., Oh, E.C., Topol, A., Shah, H.R., Klei, L.L., Kramer, R., Pinto, D.,
+Evaluating the informativeness of deep learning annotations for human complex Gümüs¸, Z.H., Cicek, A.E., Dang, K.K., Browne, A., Lu, C., Xie, L., Readhead, B.,
+diseases. Nat. Commun. 11, 4703. https://doi.org/10.1038/s41467-020-18515-4. Stahl, E.A., Xiao, J., Parvizi, M., Hamamsy, T., Fullard, J.F., Wang, Y.-C.,
+Dijkstra, A.A., Ingrassia, A., de Menezes, R.X., van Kesteren, R.E., Rozemuller, A.J.M., Mahajan, M.C., Derry, J.M.J., Dudley, J.T., Hemby, S.E., Logsdon, B.A., Talbot, K.,
+Heutink, P., van de Berg, W.D.J., 2015. Evidence for immune response, axonal Raj, T., Bennett, D.A., De Jager, P.L., Zhu, J., Zhang, B., Sullivan, P.F., Chess, A.,
+dysfunction and reduced endocytosis in the substantia Nigra in early stage Purcell, S.M., Shinobu, L.A., Mangravite, L.M., Toyoshiba, H., Gur, R.E., Hahn, C.-G.,
+Parkinson’s Disease. PLoS One 10, e0128651. https://doi.org/10.1371/journal. Lewis, D.A., Haroutunian, V., Peters, M.A., Lipska, B.K., Buxbaum, J.D., Schadt, E.E.,
+pone.
+
+Chunk 56:
+D.A., De Jager, P.L., Zhu, J., Zhang, B., Sullivan, P.F., Chess, A.,
+dysfunction and reduced endocytosis in the substantia Nigra in early stage Purcell, S.M., Shinobu, L.A., Mangravite, L.M., Toyoshiba, H., Gur, R.E., Hahn, C.-G.,
+Parkinson’s Disease. PLoS One 10, e0128651. https://doi.org/10.1371/journal. Lewis, D.A., Haroutunian, V., Peters, M.A., Lipska, B.K., Buxbaum, J.D., Schadt, E.E.,
+pone.0128651. Hirai, K., Roeder, K., Brennand, K.J., Katsanis, N., Domenici, E., Devlin, B., Sklar, P.,
+Dixit, A., Parnas, O., Li, B., Chen, J., Fulco, C.P., Jerby-Arnon, L., Marjanovic, N.D., 2016. Gene expression elucidates functional impact of polygenic risk for
+Dionne, D., Burks, T., Raychowdhury, R., Adamson, B., Norman, T.M., Lander, E.S., schizophrenia. Nat. Neurosci. 19, 1442–1453. https://doi.org/10.1038/nn.4399.
+Weissman, J.S., Friedman, N., Regev, A., 2016. Perturb-Seq: dissecting molecular Fulco, C.P., Nasser, J., Jones, T.R., Munson, G., Bergman, D.T., Subramanian, V.,
+circuits with scalable single-cell RNA profiling of pooled genetic screens. Cell 167, Grossman, S.R., Anyoha, R., Doughty, B.R., Patwardhan, T.A., Nguyen, T.H.,
+1853–1866.e17. https://doi.org/10.1016/j.cell.2016.11.038. Kane, M., Perez, E.M., Durand, N.C., Lareau, C.A., Stamenova, E.K., Aiden, E.L.,
+Lander, E.S., Engreitz, J.M., 2019. Activity-by-contact model of enhancer-promoter
+12
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+regulation from thousands of CRISPR perturbations. Nat. Genet. 51, 1664–1669. Griffith, A., Samii, A., Scott, W.K., Nutt, J., Factor, S.A., Payami, H., 2010. Common
+https://doi.org/10.1038/s41588-019-0538-0. genetic variation in the HLA region is associated with late-onset sporadic Parkinson’s
+Gagliano, S.A., Pouget, J.G., Hardy, J., Knight, J., Barnes, M.R., Ryten, M., Weale, M.E., disease. Nat. Genet. 42, 781–785. https://doi.org/10.1038/ng.642.
+2016. Genomics implicates adaptive and innate immunity in Alzheimer’s and Heng,
+
+Chunk 57:
+r, S.A., Payami, H., 2010. Common
+https://doi.org/10.1038/s41588-019-0538-0. genetic variation in the HLA region is associated with late-onset sporadic Parkinson’s
+Gagliano, S.A., Pouget, J.G., Hardy, J., Knight, J., Barnes, M.R., Ryten, M., Weale, M.E., disease. Nat. Genet. 42, 781–785. https://doi.org/10.1038/ng.642.
+2016. Genomics implicates adaptive and innate immunity in Alzheimer’s and Heng, T.S.P., Painter, M.W., Immunological Genome Project Consortium, 2008. The
+Parkinson’s diseases. Ann. Clin. Transl. Neurol. 3, 924–933. https://doi.org/ immunological genome project: networks of gene expression in immune cells. Nat.
+10.1002/acn3.369. Immunol. 9, 1091–1094. https://doi.org/10.1038/ni1008-1091.
+Galet, B., Cheval, H., Ravassard, P., 2020. Patient-derived midbrain organoids to explore Ho, M.S., 2019. Microglia in Parkinson’s Disease. Adv. Exp. Med. Biol. 1175, 335–353.
+the molecular basis of Parkinson’s Disease. Front. Neurol. 11, 1005. https://doi.org/ https://doi.org/10.1007/978-981-13-9913-8_13.
+10.3389/fneur.2020.01005. Hu, P., Jiao, R., Jin, L., Xiong, M., 2018. Application of causal inference to genomic
+Galiano-Landeira, J., Torra, A., Vila, M., Bov´e, J., 2020. CD8 T cell nigral infiltration analysis: advances in methodology. Front. Genet. 9, 238. https://doi.org/10.3389/
+precedes synucleinopathy in early stages of Parkinson’s disease. Brain 143, fgene.2018.00238.
+3717–3733. https://doi.org/10.1093/brain/awaa269. Huang, X., Chen, H., Miller, W.C., Mailman, R.B., Woodard, J.L., Chen, P.C., Xiang, D.,
+Gamazon, E.R., Wheeler, H.E., Shah, K.P., Mozaffari, S.V., Aquino-Michaels, K., Murrow, R.W., Wang, Y.-Z., Poole, C., 2007. Lower low-density lipoprotein
+Carroll, R.J., Eyler, A.E., Denny, J.C., Consortium, GTEx, Nicolae, D.L., Cox, N.J., cholesterol levels are associated with Parkinson’s disease. Mov. Disord. 22, 377–381.
+Im, H.K., 2015. A gene-based association method for mapping traits using reference https://doi.org/10.1002/mds.21290.
+transcriptome data. 
+
+Chunk 58:
+no-Michaels, K., Murrow, R.W., Wang, Y.-Z., Poole, C., 2007. Lower low-density lipoprotein
+Carroll, R.J., Eyler, A.E., Denny, J.C., Consortium, GTEx, Nicolae, D.L., Cox, N.J., cholesterol levels are associated with Parkinson’s disease. Mov. Disord. 22, 377–381.
+Im, H.K., 2015. A gene-based association method for mapping traits using reference https://doi.org/10.1002/mds.21290.
+transcriptome data. Nat. Genet. 47, 1091–1098. https://doi.org/10.1038/ng.3367. Hughes, P., Marshall, D., Reid, Y., Parkes, H., Gelber, C., 2007 Nov. The costs of using
+Garcia-Ruiz, P.J., Espay, A.J., 2017. Parkinson Disease: an evolutionary perspective. unauthenticated, over-passaged cell lines: how much more data do we need?
+Front. Neurol. 8, 157. https://doi.org/10.3389/fneur.2017.00157. Biotechniques 43 (5), 575, 577–578.
+Garretti, F., Agalliu, D., Lindestam Arlehamn, C.S., Sette, A., Sulzer, D., 2019. Hutchinson, A., Asimit, J., Wallace, C., 2020. Fine-mapping genetic associations. Hum.
+Autoimmunity in Parkinson’s Disease: the role of α-Synuclein-specific T cells. Front. Mol. Genet. 29, R81–R88. https://doi.org/10.1093/hmg/ddaa148.
+Immunol. 10, 303. https://doi.org/10.3389/fimmu.2019.00303. Imamura, K., Hishikawa, N., Sawada, M., Nagatsu, T., Yoshida, M., Hashizume, Y., 2003.
+Garrido-Martín, D., Borsari, B., Calvo, M., Reverter, F., Guigo´, R., 2021. Identification Distribution of major histocompatibility complex class II-positive microglia and
+and analysis of splicing quantitative trait loci across multiple tissues in the human cytokine profile of Parkinson’s disease brains. Acta Neuropathol. 106, 518–526.
+genome. Nat. Commun. 12, 727. https://doi.org/10.1038/s41467-020-20578-2. https://doi.org/10.1007/s00401-003-0766-2.
+Gate, D., Tapp, E., Leventhal, O., Shahid, M., Nonninger, T.J., Yang, A.C., Strempfl, K., Iwaki, H., Leonard, H.L., Makarious, M.B., Bookman, M., Landin, B., Vismer, D.,
+Unger, M.S., Fehlmann, T., Oh, H., Channappa, D., Henderson, V.W., Keller, A., Casey, B., Gibbs, J.R.
+
+Chunk 59:
+6, 518–526.
+genome. Nat. Commun. 12, 727. https://doi.org/10.1038/s41467-020-20578-2. https://doi.org/10.1007/s00401-003-0766-2.
+Gate, D., Tapp, E., Leventhal, O., Shahid, M., Nonninger, T.J., Yang, A.C., Strempfl, K., Iwaki, H., Leonard, H.L., Makarious, M.B., Bookman, M., Landin, B., Vismer, D.,
+Unger, M.S., Fehlmann, T., Oh, H., Channappa, D., Henderson, V.W., Keller, A., Casey, B., Gibbs, J.R., Hernandez, D.G., Blauwendraat, C., Others, 2020.
+Aigner, L., Galasko, D.R., Davis, M.M., Poston, K.L., Wyss-Coray, T., 2021. CD4+T Accelerating Medicines Partnership: Parkinson’s Disease. Genetic Resource.
+cells contribute to neurodegeneration in Lewy body dementia. Science 374, medRxiv.
+868–874. https://doi.org/10.1126/science.abf7266. Jagmag, S.A., Tripathi, N., Shukla, S.D., Maiti, S., Khurana, S., 2015. Evaluation of
+Gerhard, A., Pavese, N., Hotton, G., Turkheimer, F., Es, M., Hammers, A., Eggert, K., models of Parkinson’s Disease. Front. Neurosci. 9, 503. https://doi.org/10.3389/
+Oertel, W., Banati, R.B., Brooks, D.J., 2006. In vivo imaging of microglial activation fnins.2015.00503.
+with [11C](R)-PK11195 PET in idiopathic Parkinson’s disease. Neurobiol. Dis. 21, Jansen, I.E., International Parkinson’s Disease Genetics Consortium (IPGDC), Ye, H.,
+404–412. https://doi.org/10.1016/j.nbd.2005.08.002. Heetveld, S., Lechler, M.C., Michels, H., Seinstra, R.I., Lubbe, S.J., Drouet, V.,
+Giambartolomei, C., Vukcevic, D., Schadt, E.E., Franke, L., Hingorani, A.D., Wallace, C., Lesage, S., Majounie, E., Raphael Gibbs, J., Nalls, M.A., Ryten, M., Botia, J.A.,
+Plagnol, V., 2014. Bayesian test for colocalisation between pairs of genetic Vandrovcova, J., Simon-Sanchez, J., Castillo-Lizardo, M., Rizzu, P.,
+association studies using summary statistics. PLoS Genet. 10, e1004383 https://doi. Blauwendraat, C., Chouhan, A.K., Li, Y., Yogi, P., Amin, N., van Duijn, C.M.,
+org/10.1371/journal.pgen.1004383. Morris, H.R., Brice, A., Singleton, A.B., David, D.C., Nollen, E.A., Jain, S.,
+Goldman
+
+Chunk 60:
+test for colocalisation between pairs of genetic Vandrovcova, J., Simon-Sanchez, J., Castillo-Lizardo, M., Rizzu, P.,
+association studies using summary statistics. PLoS Genet. 10, e1004383 https://doi. Blauwendraat, C., Chouhan, A.K., Li, Y., Yogi, P., Amin, N., van Duijn, C.M.,
+org/10.1371/journal.pgen.1004383. Morris, H.R., Brice, A., Singleton, A.B., David, D.C., Nollen, E.A., Jain, S.,
+Goldman, S.M., Marek, K., Ottman, R., Meng, C., Comyns, K., Chan, P., Ma, J., Marras, C., Shulman, J.M., Heutink, P., 2017. Discovery and functional prioritization of
+Langston, J.W., Ross, G.W., Tanner, C.M., 2019. Concordance for Parkinson’s disease Parkinson’s disease candidate genes from large-scale whole exome sequencing.
+in twins: a 20-year update. Ann. Neurol. 85, 600–605. https://doi.org/10.1002/ Genome Biol. 18 https://doi.org/10.1186/s13059-017-1147-9.
+ana.25441. Jin, X., Simmons, S.K., Guo, A., Shetty, A.S., Ko, M., Nguyen, L., Jokhi, V., Robinson, E.,
+Gosselin, D., Skola, D., Coufal, N.G., Holtman, I.R., Schlachetzki, J.C.M., Sajti, E., Oyler, P., Curry, N., Deangeli, G., Lodato, S., Levin, J.Z., Regev, A., Zhang, F.,
+Jaeger, B.N., O’Connor, C., Fitzpatrick, C., Pasillas, M.P., Pena, M., Adair, A., Arlotta, P., 2020. In vivo perturb-Seq reveals neuronal and glial abnormalities
+Gonda, D.D., Levy, M.L., Ransohoff, R.M., Gage, F.H., Glass, C.K., 2017. An associated with autism risk genes. Science 370. https://doi.org/10.1126/science.
+environment-dependent transcriptional network specifies human microglia identity. aaz6063.
+Science 356. https://doi.org/10.1126/science.aal3222. Juric, I., Yu, M., Abnousi, A., Raviram, R., Fang, R., Zhao, Y., Zhang, Y., Qiu, Y., Yang, Y.,
+Greene, C.S., Krishnan, A., Wong, A.K., Ricciotti, E., Zelaya, R.A., Himmelstein, D.S., Li, Y., Ren, B., Hu, M., 2019. MAPS: model-based analysis of long-range chromatin
+Zhang, R., Hartmann, B.M., Zaslavsky, E., Sealfon, S.C., Chasman, D.I., FitzGerald, G. interactions from PLAC-seq and HiChIP experiments. P
+
+Chunk 61:
+c, I., Yu, M., Abnousi, A., Raviram, R., Fang, R., Zhao, Y., Zhang, Y., Qiu, Y., Yang, Y.,
+Greene, C.S., Krishnan, A., Wong, A.K., Ricciotti, E., Zelaya, R.A., Himmelstein, D.S., Li, Y., Ren, B., Hu, M., 2019. MAPS: model-based analysis of long-range chromatin
+Zhang, R., Hartmann, B.M., Zaslavsky, E., Sealfon, S.C., Chasman, D.I., FitzGerald, G. interactions from PLAC-seq and HiChIP experiments. PLoS Comput. Biol. 15,
+A., Dolinski, K., Grosser, T., Troyanskaya, O.G., 2015. Understanding multicellular e1006982 https://doi.org/10.1371/journal.pcbi.1006982.
+function and disease with human tissue-specific networks. Nat. Genet. 47, 569–576. Kalia, L.V., Lang, A.E., 2015. Parkinson’s disease. Lancet 386, 896–912. https://doi.org/
+https://doi.org/10.1038/ng.3259. 10.1016/S0140-6736(14)61393-3.
+Grenn, F.P., Kim, J.J., Makarious, M.B., Iwaki, H., Illarionova, A., Brolin, K., Kluss, J.H., Kam, T.-I., Hinkle, J.T., Dawson, T.M., Dawson, V.L., 2020. Microglia and astrocyte
+Schumacher-Schuh, A.F., Leonard, H., Faghri, F., Billingsley, K., Krohn, L., Hall, A., dysfunction in parkinson’s disease. Neurobiol. Dis. 144, 105028 https://doi.org/
+Diez-Fairen, M., Perin˜´an, M.T., Foo, J.N., Sandor, C., Webber, C., Fiske, B.K., 10.1016/j.nbd.2020.105028.
+Gibbs, J.R., Nalls, M.A., Singleton, A.B., Bandres-Ciga, S., Reed, X., Kamath, T., Abdulraouf, A., Burris, S.J., Gazestani, V., Nadaf, N., Vanderburg, C.,
+Blauwendraat, C., International Parkinson’s Disease Genomics Consortium (IPDGC), Macosko, E.Z., 2021. A molecular census of midbrain dopaminergic neurons in
+2020. The Parkinson’s Disease genome-wide association study locus browser. Mov. Parkinson’s disease. bioRxiv. https://doi.org/10.1101/2021.06.16.448661.
+Disord. https://doi.org/10.1002/mds.28197. Kannarkat, G.T., Boss, J.M., Tansey, M.G., 2013. The role of innate and adaptive
+Grozdanov, V., Bliederhaeuser, C., Ruf, W.P., Roth, V., Fundel-Clemens, K., Zondler, L., immunity in Parkinson’s disease. J. Parkinsons Dis. 3, 493–514. https
+
+Chunk 62:
+e-wide association study locus browser. Mov. Parkinson’s disease. bioRxiv. https://doi.org/10.1101/2021.06.16.448661.
+Disord. https://doi.org/10.1002/mds.28197. Kannarkat, G.T., Boss, J.M., Tansey, M.G., 2013. The role of innate and adaptive
+Grozdanov, V., Bliederhaeuser, C., Ruf, W.P., Roth, V., Fundel-Clemens, K., Zondler, L., immunity in Parkinson’s disease. J. Parkinsons Dis. 3, 493–514. https://doi.org/
+Brenner, D., Martin-Villalba, A., Hengerer, B., Kassubek, J., Ludolph, A.C., 10.3233/JPD-130250.
+Weishaupt, J.H., Danzer, K.M., 2014. Inflammatory dysregulation of blood Kearsey, M.J., 1998. The principles of QTL analysis (a minimal mathematics approach).
+monocytes in Parkinson’s disease patients. Acta Neuropathol. 128, 651–663. https:// J. Exp. Bot. 49, 1619–1623. https://doi.org/10.1093/jxb/49.327.1619.
+doi.org/10.1007/s00401-014-1345-4. Keller, M.F., Saad, M., Bras, J., Bettella, F., 2012. Using genome-wide complex trait
+Grozdanov, V., Bousset, L., Hoffmeister, M., Bliederhaeuser, C., Meier, C., Madiona, K., analysis to quantify “missing heritability”in Parkinson’s disease. Hum. Mol. Genet.
+Pieri, L., Kiechle, M., McLean, P.J., Kassubek, J., Behrends, C., Ludolph, A.C., 21 (22), 4996–5009. https://doi.org/10.1093/hmg/dds335.
+Weishaupt, J.H., Melki, R., Danzer, K.M., 2019. Increased immune activation by Kelley, D.R., Reshef, Y.A., Bileschi, M., Belanger, D., McLean, C.Y., Snoek, J., 2018.
+pathologic α-Synuclein in Parkinson’s Disease. Ann. Neurol. 86, 593–606. https:// Sequential regulatory activity prediction across chromosomes with convolutional
+doi.org/10.1002/ana.25557. neural networks. Genome Res. 28, 739–750. https://doi.org/10.1101/
+GTEx Consortium, 2015. Human genomics. The genotype-tissue expression (GTEx) pilot gr.227819.117.
+analysis: multitissue gene regulation in humans. Science 348, 648–660. https://doi. Kia, D.A., Zhang, D., Guelfi, S., Manzoni, C., Hubbard, L., Reynolds, R.H., Botía, J.,
+org/10.1126/science.1262110. Ryten, M., Ferrari, R., Lewi
+
+Chunk 63:
+25557. neural networks. Genome Res. 28, 739–750. https://doi.org/10.1101/
+GTEx Consortium, 2015. Human genomics. The genotype-tissue expression (GTEx) pilot gr.227819.117.
+analysis: multitissue gene regulation in humans. Science 348, 648–660. https://doi. Kia, D.A., Zhang, D., Guelfi, S., Manzoni, C., Hubbard, L., Reynolds, R.H., Botía, J.,
+org/10.1126/science.1262110. Ryten, M., Ferrari, R., Lewis, P.A., Williams, N., Trabzuni, D., Hardy, J., Wood, N.W.,
+Gusev, A., Ko, A., Shi, H., Bhatia, G., Chung, W., Penninx, B.W.J.H., Jansen, R., de United Kingdom Brain Expression Consortium (UKBEC) and the International
+Geus, E.J.C., Boomsma, D.I., Wright, F.A., Sullivan, P.F., Nikkola, E., Alvarez, M., Parkinson’s Disease Genomics Consortium (IPDGC), 2021. Identification of
+Civelek, M., Lusis, A.J., Lehtim¨aki, T., Raitoharju, E., K¨aho¨nen, M., Sepp¨ala¨, I., candidate Parkinson Disease genes by integrating genome-wide association study,
+Raitakari, O.T., Kuusisto, J., Laakso, M., Price, A.L., Pajukanta, P., Pasaniuc, B., expression, and epigenetic data sets. JAMA Neurol. 78, 464–472. https://doi.org/
+2016. Integrative approaches for large-scale transcriptome-wide association studies. 10.1001/jamaneurol.2020.5257.
+Nat. Genet. 48, 245–252. https://doi.org/10.1038/ng.3506. Kichaev, G., Roytman, M., Johnson, R., Eskin, E., Lindstro¨m, S., Kraft, P., Pasaniuc, B.,
+Gusev, A., Mancuso, N., Won, H., Kousi, M., Finucane, H.K., Reshef, Y., Song, L., Safi, A., 2017. Improved methods for multi-trait fine mapping of pleiotropic risk loci.
+Schizophrenia Working Group of the Psychiatric Genomics Consortium, Bioinformatics 33, 248–255. https://doi.org/10.1093/bioinformatics/btw615.
+McCarroll, S., Neale, B.M., Ophoff, R.A., O’Donovan, M.C., Crawford, G.E., Kim, S.D., Allen, N.E., Canning, C.G., Fung, V.S.C., 2018. Parkinson disease. Handb. Clin.
+Geschwind, D.H., Katsanis, N., Sullivan, P.F., Pasaniuc, B., Price, A.L., 2018. Neurol. 159, 173–193. https://doi.org/10.1016/B978-0-444-63916-5.00
+
+Chunk 64:
+Consortium, Bioinformatics 33, 248–255. https://doi.org/10.1093/bioinformatics/btw615.
+McCarroll, S., Neale, B.M., Ophoff, R.A., O’Donovan, M.C., Crawford, G.E., Kim, S.D., Allen, N.E., Canning, C.G., Fung, V.S.C., 2018. Parkinson disease. Handb. Clin.
+Geschwind, D.H., Katsanis, N., Sullivan, P.F., Pasaniuc, B., Price, A.L., 2018. Neurol. 159, 173–193. https://doi.org/10.1016/B978-0-444-63916-5.00011-2.
+Transcriptome-wide association study of schizophrenia and chromatin activity yields Kim, H., Park, H.J., Choi, H., Chang, Y., Park, H., Shin, J., Kim, J., Lengner, C.J., Lee, Y.
+mechanistic disease insights. Nat. Genet. 50, 538–548. https://doi.org/10.1038/ K., Kim, J., 2019. Modeling G2019S-LRRK2 sporadic Parkinson’s Disease in 3D
+s41588-018-0092-1. midbrain organoids. Stem Cell Rep. 12, 518–531. https://doi.org/10.1016/j.
+Hamza, T.H., Zabetian, C.P., Tenesa, A., Laederach, A., Montimurro, J., Yearout, D., stemcr.2019.01.020.
+Kay, D.M., Doheny, K.F., Paschall, J., Pugh, E., Kusel, V.I., Collura, R., Roberts, J.,
+13
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Kopp, W., Monti, R., Tamburrini, A., Ohler, U., Akalin, A., 2020. Deep learning for Makarious, M.B., Leonard, H.L., Vitale, D., Iwaki, H., Saffo, D., Sargent, L., Dadu, A.,
+genomics using Janggu. Nat. Commun. 11, 3488. https://doi.org/10.1038/s41467- Castan˜o, E.S., Carter, J.F., Maleknia, M., Botia, J.A., Blauwendraat, C., Campbell, R.
+020-17155-y. H., Hashemi, S.H., Singleton, A.B., Nalls, M.A., Faghri, F., 2021. GenoML: Automated
+Kovacs, G.G., Adle-Biassette, H., Milenkovic, I., Cipriani, S., van Scheppingen, J., Machine Learning for Genomics. arXiv [cs.LG].
+Aronica, E., 2014. Linking pathways in the developing and aging brain with Marrone, L., Bus, C., Scho¨ndorf, D., Fitzgerald, J.C., Kübler, M., Schmid, B.,
+neurodegeneration. Neuroscience 269, 152–172. https://doi.org/10.1016/j. Reinhardt, P., Reinhardt, L., Deleidi, M., Levin, T., Meixner, A., Klink, B
+
+Chunk 65:
+Milenkovic, I., Cipriani, S., van Scheppingen, J., Machine Learning for Genomics. arXiv [cs.LG].
+Aronica, E., 2014. Linking pathways in the developing and aging brain with Marrone, L., Bus, C., Scho¨ndorf, D., Fitzgerald, J.C., Kübler, M., Schmid, B.,
+neurodegeneration. Neuroscience 269, 152–172. https://doi.org/10.1016/j. Reinhardt, P., Reinhardt, L., Deleidi, M., Levin, T., Meixner, A., Klink, B., Glatza, M.,
+neuroscience.2014.03.045. Gloeckner, C.J., Gasser, T., Sterneckert, J., 2018. Generation of iPSCs carrying a
+Langston, R.G., Beilina, A., Reed, X., Singleton, A.B., 2021a. Association of a Common common LRRK2 risk allele for in vitro modeling of idiopathic Parkinson’s disease.
+Genetic Variant with Parkinson’s Disease is propagated through microglia. bioRxiv. PLoS One 13, e0192497. https://doi.org/10.1371/journal.pone.0192497.
+https://doi.org/10.1101/2021.01.15.426824. McGeer, P.L., McGeer, E.G., 2004. Inflammation and neurodegeneration in Parkinson’s
+Langston, R.G., Beilina, A., Reed, X., Singleton, A.B., Blauwendraat, C., Gibbs, J.R., disease. Parkinsonism Relat. Disord. 10 (Suppl. 1), S3–S7. https://doi.org/10.1016/
+Cookson, M.R., 2021b. Association of a common genetic variant with Parkinson’s j.parkreldis.2004.01.005.
+Disease is propagated through microglia. bioRxiv. https://doi.org/10.1101/ McGeer, P.L., Itagaki, S., Boyes, B.E., McGeer, E.G., 1988. Reactive microglia are positive
+2021.01.15.426824. for HLA-DR in the substantia nigra of Parkinson’s and Alzheimer’s disease brains.
+de Leeuw, C.A., Mooij, J.M., Heskes, T., Posthuma, D., 2015. MAGMA: generalized gene- Neurology 38, 1285–1291. https://doi.org/10.1212/WNL.38.8.1285.
+set analysis of GWAS data. PLoS Comput. Biol. 11, e1004219 https://doi.org/ McInnes, G., Tanigawa, Y., DeBoever, C., Lavertu, A., Olivieri, J.E., Aguirre, M., Rivas, M.
+10.1371/journal.pcbi.1004219. A., 2019. Global biobank engine: enabling genotype-phenotype browsing for
+Lesage, S., Brice, A., 2009. Parkinson’s disease: from monoge
+
+Chunk 66:
+- Neurology 38, 1285–1291. https://doi.org/10.1212/WNL.38.8.1285.
+set analysis of GWAS data. PLoS Comput. Biol. 11, e1004219 https://doi.org/ McInnes, G., Tanigawa, Y., DeBoever, C., Lavertu, A., Olivieri, J.E., Aguirre, M., Rivas, M.
+10.1371/journal.pcbi.1004219. A., 2019. Global biobank engine: enabling genotype-phenotype browsing for
+Lesage, S., Brice, A., 2009. Parkinson’s disease: from monogenic forms to genetic biobank summary statistics. Bioinformatics 35, 2495–2497. https://doi.org/
+susceptibility factors. Hum. Mol. Genet. 18, R48–R59. https://doi.org/10.1093/ 10.1093/bioinformatics/bty999.
+hmg/ddp012. Mirza, B., Hadberg, H., Thomsen, P., Moos, T., 2000. The absence of reactive astrocytosis
+Lesnick, T.G., Papapetropoulos, S., Mash, D.C., Ffrench-Mullen, J., Shehadeh, L., de is indicative of a unique inflammatory process in Parkinson’s disease. Neuroscience
+Andrade, M., Henley, J.R., Rocca, W.A., Ahlskog, J.E., Maraganore, D.M., 2007. 95, 425–432. https://doi.org/10.1016/s0306-4522(99)00455-8.
+A genomic pathway approach to a complex disease: axon guidance and Parkinson Mizuno, Y., Ohta, S., Tanaka, M., Takamiya, S., Suzuki, K., Sato, T., Oya, H., Ozawa, T.,
+disease. PLoS Genet. 3, e98 https://doi.org/10.1371/journal.pgen.0030098. Kagawa, Y., 1989. Deficiencies in complex I subunits of the respiratory chain in
+Li, X., Sundquist, J., Sundquist, K., 2012. Subsequent risks of Parkinson disease in Parkinson’s disease. Biochem. Biophys. Res. Commun. 163, 1450–1455. https://doi.
+patients with autoimmune and related disorders: a nationwide epidemiological study org/10.1016/0006-291x(89)91141-8.
+from Sweden. Neurodegener. Dis. 10, 277–284. https://doi.org/10.1159/ Mogi, M., Harada, M., Riederer, P., Narabayashi, H., Fujita, K., Nagatsu, T., 1994. Tumor
+000333222. necrosis factor-α (TNF-α) increases both in the brain and in the cerebrospinal fluid
+Li, X., Kim, Y., Tsang, E.K., Davis, J.R., Damani, F.N., Chiang, C., Hess, G.T., Zappala, Z., from parkinsonian patients. N
+
+Chunk 67:
+006-291x(89)91141-8.
+from Sweden. Neurodegener. Dis. 10, 277–284. https://doi.org/10.1159/ Mogi, M., Harada, M., Riederer, P., Narabayashi, H., Fujita, K., Nagatsu, T., 1994. Tumor
+000333222. necrosis factor-α (TNF-α) increases both in the brain and in the cerebrospinal fluid
+Li, X., Kim, Y., Tsang, E.K., Davis, J.R., Damani, F.N., Chiang, C., Hess, G.T., Zappala, Z., from parkinsonian patients. Neurosci. Lett. 165, 208–210. https://doi.org/10.1016/
+Strober, B.J., Scott, A.J., Li, A., Ganna, A., Bassik, M.C., Merker, J.D., GTEx 0304-3940(94)90746-3.
+Consortium, Laboratory, Data Analysis &Coordinating Center (LDACC)—Analysis Mogi, M., Harada, M., Kondo, T., Narabayashi, H., Riederer, P., Nagatsu, T., 1995.
+Working Group, Statistical Methods groups—Analysis Working Group, Enhancing Transforming growth factor-β1 levels are elevated in the striatum and in ventricular
+GTEx (eGTEx) groups, NIH Common Fund, NIH/NCI, NIH/NHGRI, NIH/NIMH, NIH/ cerebrospinal fluid in Parkinson’s disease. Neurosci. Lett. 193, 129–132. https://doi.
+NIDA, Biospecimen Collection Source Site—NDRI, Biospecimen Collection Source org/10.1016/0304-3940(95)11686-Q.
+Site—RPCI, Biospecimen Core Resource—VARI, Brain Bank Repository—University Moran, L.B., Duke, D.C., Deprez, M., Dexter, D.T., Pearce, R.K.B., Graeber, M.B., 2006.
+of Miami Brain Endowment Bank, Leidos Biomedical—Project Management, ELSI Whole genome expression profiling of the medial and lateral substantia nigra in
+Study, Genome Browser Data Integration &Visualization—EBI, Genome Browser Parkinson’s disease. Neurogenetics 7, 1–11. https://doi.org/10.1007/s10048-005-
+Data Integration &Visualization—UCSC Genomics Institute, University of California 0020-2.
+Santa Cruz, Hall, I.M., Battle, A., Montgomery, S.B., 2017. The impact of rare Mortiboys, H., Johansen, K.K., Aasly, J.O., Bandmann, O., 2010. Mitochondrial
+variation on gene expression across tissues. Nature 550, 239–243. https://doi.org/ impairment in patients with Parkinson disease with 
+
+Chunk 68:
+0.1007/s10048-005-
+Data Integration &Visualization—UCSC Genomics Institute, University of California 0020-2.
+Santa Cruz, Hall, I.M., Battle, A., Montgomery, S.B., 2017. The impact of rare Mortiboys, H., Johansen, K.K., Aasly, J.O., Bandmann, O., 2010. Mitochondrial
+variation on gene expression across tissues. Nature 550, 239–243. https://doi.org/ impairment in patients with Parkinson disease with the G2019S mutation in LRRK2.
+10.1038/nature24267. Neurology 75, 2017–2020. https://doi.org/10.1212/WNL.0b013e3181ff9685.
+Li, Y.I., Wong, G., Humphrey, J., Raj, T., 2019. Prioritizing Parkinson’s disease genes Mulvey, B., Lagunas Jr., T., Dougherty, J.D., 2021. Massively parallel reporter assays:
+using population-scale transcriptomic data. Nat. Commun. 10, 994. https://doi.org/ defining functional psychiatric genetic variants across biological contexts. Biol.
+10.1038/s41467-019-08912-9. Psychiatry 89, 76–89. https://doi.org/10.1016/j.biopsych.2020.06.011.
+Li, B., Zhao, G., Li, K., Wang, Z., Fang, Z., Wang, X., Luo, T., Zhang, Y., Wang, Y., Mumbach, M.R., Rubin, A.J., Flynn, R.A., Dai, C., Khavari, P.A., Greenleaf, W.J.,
+Chen, Q., Huang, Y., Dong, L., Guo, J., Tang, B., Li, J., 2021. Characterizing the Chang, H.Y., 2016. HiChIP: efficient and sensitive analysis of protein-directed
+expression patterns of Parkinson’s Disease associated genes. Front. Neurosci. 15 genome architecture. Nat. Methods 13, 919–922. https://doi.org/10.1038/
+https://doi.org/10.3389/fnins.2021.629156. nmeth.3999.
+Lieberman-Aiden, E., van Berkum, N.L., Williams, L., Imakaev, M., Ragoczy, T., Mumbach, M.R., Satpathy, A.T., Boyle, E.A., Dai, C., Gowen, B.G., Cho, S.W., Nguyen, M.
+Telling, A., Amit, I., Lajoie, B.R., Sabo, P.J., Dorschner, M.O., Sandstrom, R., L., Rubin, A.J., Granja, J.M., Kazane, K.R., Wei, Y., Nguyen, T., Greenside, P.G.,
+Bernstein, B., Bender, M.A., Groudine, M., Gnirke, A., Stamatoyannopoulos, J., Corces, M.R., Tycko, J., Simeonov, D.R., Suliman, N., Li, R., Xu, J., Flynn, R.A.,
+Mirny,
+
+Chunk 69:
+thy, A.T., Boyle, E.A., Dai, C., Gowen, B.G., Cho, S.W., Nguyen, M.
+Telling, A., Amit, I., Lajoie, B.R., Sabo, P.J., Dorschner, M.O., Sandstrom, R., L., Rubin, A.J., Granja, J.M., Kazane, K.R., Wei, Y., Nguyen, T., Greenside, P.G.,
+Bernstein, B., Bender, M.A., Groudine, M., Gnirke, A., Stamatoyannopoulos, J., Corces, M.R., Tycko, J., Simeonov, D.R., Suliman, N., Li, R., Xu, J., Flynn, R.A.,
+Mirny, L.A., Lander, E.S., Dekker, J., 2009. Comprehensive mapping of long-range Kundaje, A., Khavari, P.A., Marson, A., Corn, J.E., Quertermous, T., Greenleaf, W.J.,
+interactions reveals folding principles of the human genome. Science 326, 289–293. Chang, H.Y., 2017. Enhancer connectome in primary human cells identifies target
+https://doi.org/10.1126/science.1181369. genes of disease-associated DNA elements. Nat. Genet. 49, 1602–1612. https://doi.
+Lill, C.M., Roehr, J.T., McQueen, M.B., Kavvoura, F.K., Bagade, S., Schjeide, B.-M.M., org/10.1038/ng.3963.
+Schjeide, L.M., Meissner, E., Zauft, U., Allen, N.C., Liu, T., Schilling, M., Anderson, K. Murphy, A.E., Schilder, B.M., Skene, N.G., 2021. MungeSumstats: a Bioconductor
+J., Beecham, G., Berg, D., Biernacka, J.M., Brice, A., DeStefano, A.L., Do, C.B., package for the standardisation and quality control of many GWAS summary
+Eriksson, N., Factor, S.A., Farrer, M.J., Foroud, T., Gasser, T., Hamza, T., Hardy, J.A., statistics. Bioinformatics. https://doi.org/10.1093/bioinformatics/btab665.
+Heutink, P., Hill-Burns, E.M., Klein, C., Latourelle, J.C., Maraganore, D.M., Martin, E. Nalls, M.A., Pankratz, N., Lill, C.M., Do, C.B., Hernandez, D.G., Saad, M., DeStefano, A.L.,
+R., Martinez, M., Myers, R.H., Nalls, M.A., Pankratz, N., Payami, H., Satake, W., Kara, E., Bras, J., Sharma, M., Others, 2014. Large-scale meta-analysis of genome-
+Scott, W.K., Sharma, M., Singleton, A.B., Stefansson, K., Toda, T., Tung, J.Y., wide association data identifies six new risk loci for Parkinson’s disease. Nat. Genet.
+Vance, J., Wood, N.W., Zabetian, C.P., 
+
+Chunk 70:
+ Saad, M., DeStefano, A.L.,
+R., Martinez, M., Myers, R.H., Nalls, M.A., Pankratz, N., Payami, H., Satake, W., Kara, E., Bras, J., Sharma, M., Others, 2014. Large-scale meta-analysis of genome-
+Scott, W.K., Sharma, M., Singleton, A.B., Stefansson, K., Toda, T., Tung, J.Y., wide association data identifies six new risk loci for Parkinson’s disease. Nat. Genet.
+Vance, J., Wood, N.W., Zabetian, C.P., 23andMe Genetic Epidemiology of 46, 989–993.
+Parkinson’s Disease Consortium, International Parkinson’s Disease Genomics Nalls, M.A., Blauwendraat, C., Vallerga, C.L., Heilbron, K., Bandres-Ciga, S., Chang, D.,
+Consortium, Parkinson’s Disease GWAS Consortium, Wellcome Trust Case Control Tan, M., Kia, D.A., Noyce, A.J., Xue, A., Bras, J., Young, E., von Coelln, R., Simo´n-
+Consortium 2), Young, P., Tanzi, R.E., Khoury, M.J., Zipp, F., Lehrach, H., S´anchez, J., Schulte, C., Sharma, M., Krohn, L., Pihlstrøm, L., Siitonen, A., Iwaki, H.,
+Ioannidis, J.P.A., Bertram, L., 2012. Comprehensive research synopsis and Leonard, H., Faghri, F., Gibbs, J.R., Hernandez, D.G., Scholz, S.W., Botia, J.A.,
+systematic meta-analyses in Parkinson’s disease genetics: the PDGene database. PLoS Martinez, M., Corvol, J.-C., Lesage, S., Jankovic, J., Shulman, L.M., Sutherland, M.,
+Genet. 8, e1002548 https://doi.org/10.1371/journal.pgen.1002548. Tienari, P., Majamaa, K., Toft, M., Andreassen, O.A., Bangale, T., Brice, A., Yang, J.,
+Liu, B., Montgomery, S.B., 2020. Identifying causal variants and genes using functional Gan-Or, Z., Gasser, T., Heutink, P., Shulman, J.M., Wood, N.W., Hinds, D.A.,
+genomics in specialized cell types and contexts. Hum. Genet. 139, 95–102. https:// Hardy, J.A., Morris, H.R., Gratten, J., Visscher, P.M., Graham, R.R., Singleton, A.B.,
+doi.org/10.1007/s00439-019-02044-2. 23andMe Research Team, System Genomics of Parkinson’s Disease Consortium,
+Liu, Y., Elsworth, B., Erola, P., Haberland, V., Hemani, G., Lyon, M., Zheng, J., Lloyd, O., International Parkinson’s Disease Genomics 
+
+Chunk 71:
+ialized cell types and contexts. Hum. Genet. 139, 95–102. https:// Hardy, J.A., Morris, H.R., Gratten, J., Visscher, P.M., Graham, R.R., Singleton, A.B.,
+doi.org/10.1007/s00439-019-02044-2. 23andMe Research Team, System Genomics of Parkinson’s Disease Consortium,
+Liu, Y., Elsworth, B., Erola, P., Haberland, V., Hemani, G., Lyon, M., Zheng, J., Lloyd, O., International Parkinson’s Disease Genomics Consortium, 2019. Identification of
+Vabistsevits, M., Gaunt, T.R., 2020. EpiGraphDB: a database and data mining novel risk loci, causal insights, and heritable risk for Parkinson’s disease: a meta-
+platform for health data science. Bioinformatics. https://doi.org/10.1093/ analysis of genome-wide association studies. Lancet Neurol. 18, 1091–1102. https://
+bioinformatics/btaa961. doi.org/10.1016/S1474-4422(19)30320-5.
+Loesch, D.P., Horimoto, A.R.V.R., Heilbron, K., Sarihan, E.I., Inca-Martinez, M., Nasser, J., Bergman, D.T., Fulco, C.P., Guckelberger, P., Doughty, B.R., Patwardhan, T.
+Mason, E., Cornejo-Olivas, M., Torres, L., Mazzetti, P., Cosentino, C., Sarapura- A., Jones, T.R., Nguyen, T.H., Ulirsch, J.C., Lekschas, F., Mualim, K., Natri, H.M.,
+Castro, E., Rivera-Valdivia, A., Medina, A.C., Dieguez, E., Raggio, V., Lescano, A., Weeks, E.M., Munson, G., Kane, M., Kang, H.Y., Cui, A., Ray, J.P., Eisenhaure, T.M.,
+Tumas, V., Borges, V., Ferraz, H.B., Rieder, C.R., Schumacher-Schuh, A., Santos- Collins, R.L., Dey, K., Pfister, H., Price, A.L., Epstein, C.B., Kundaje, A., Xavier, R.J.,
+Lobato, B.L., Velez-Pardo, C., Jimenez-Del-Rio, M., Lopera, F., Moreno, S., Chana- Daly, M.J., Huang, H., Finucane, H.K., Hacohen, N., Lander, E.S., Engreitz, J.M.,
+Cuevas, P., Fernandez, W., Arboleda, G., Arboleda, H., Arboleda-Bustos, C.E., 2021. Genome-wide enhancer maps link risk variants to disease genes. Nature 593,
+Yearout, D., Zabetian, C.P., 23andMe Research Team, Cannon, P., Thornton, T.A., 238–243. https://doi.org/10.1038/s41586-021-03446-x.
+O’Connor, T.D., Mata, I.F., Latin American 
+
+Chunk 72:
+, H., Finucane, H.K., Hacohen, N., Lander, E.S., Engreitz, J.M.,
+Cuevas, P., Fernandez, W., Arboleda, G., Arboleda, H., Arboleda-Bustos, C.E., 2021. Genome-wide enhancer maps link risk variants to disease genes. Nature 593,
+Yearout, D., Zabetian, C.P., 23andMe Research Team, Cannon, P., Thornton, T.A., 238–243. https://doi.org/10.1038/s41586-021-03446-x.
+O’Connor, T.D., Mata, I.F., Latin American Research Consortium on the Genetics of Navarro, E., Udine, E., Lopes, K., Parks, M., Riboldi, G., Schilder, B.M., Humphrey, J.,
+Parkinson’s Disease (LARGE-PD), 2021. Characterizing the genetic architecture of Snijders, G.J.L., Vialle, R.A., Zhuang, M., Sikder, T., Argyrou, C., Allan, A., Chao, M.
+Parkinson’s Disease in Latinos. Ann. Neurol. 90, 353–365. https://doi.org/10.1002/ J., Farrell, K., Henderson, B., Simon, S., Raymond, D., Elango, S., Ortega, R.A.,
+ana.26153. Shanker, V., Swan, M., Zhu, C.W., Ramdhani, R., Walker, R.H., Tse, W., Sano, M.,
+14
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Pereira, A.C., Ahfeldt, T., Goate, A.M., Bressman, S., Crary, J.F., de Witte, L., transcriptional repression as a determinant of mitophagy. Proc. Natl. Acad. Sci. U. S.
+Frucht, S., Saunders-Pullman, R., Raj, T., 2021. Dysregulation of mitochondrial and A. 115, E180–E189. https://doi.org/10.1073/pnas.1711023115.
+proteolysosomal genes in Parkinson’s disease myeloid cells. Nat. Aging 1, 850–863. Pritchard, J.K., Przeworski, M., 2001. Linkage disequilibrium in humans: models and
+https://doi.org/10.1038/s43587-021-00110-x. data. Am. J. Hum. Genet. 69, 1–14. https://doi.org/10.1086/321275.
+Nica, A.C., Montgomery, S.B., Dimas, A.S., Stranger, B.E., Beazley, C., Barroso, I., Raj, T., Rothamel, K., Mostafavi, S., Ye, C., Lee, M.N., Replogle, J.M., Feng, T., Lee, M.,
+Dermitzakis, E.T., 2010. Candidate causal regulatory effects by integration of Asinovski, N., Frohlich, I., Imboywa, S., Von Korff, A., Okada, Y., Patsopoulos, N.A.,
+expression
+
+Chunk 73:
+net. 69, 1–14. https://doi.org/10.1086/321275.
+Nica, A.C., Montgomery, S.B., Dimas, A.S., Stranger, B.E., Beazley, C., Barroso, I., Raj, T., Rothamel, K., Mostafavi, S., Ye, C., Lee, M.N., Replogle, J.M., Feng, T., Lee, M.,
+Dermitzakis, E.T., 2010. Candidate causal regulatory effects by integration of Asinovski, N., Frohlich, I., Imboywa, S., Von Korff, A., Okada, Y., Patsopoulos, N.A.,
+expression QTLs with complex trait genetic associations. PLoS Genet. 6, e1000895 Davis, S., McCabe, C., Paik, H.-I., Srivastava, G.P., Raychaudhuri, S., Hafler, D.A.,
+https://doi.org/10.1371/journal.pgen.1000895. Koller, D., Regev, A., Hacohen, N., Mathis, D., Benoist, C., Stranger, B.E., De Jager, P.
+Nott, A., Holtman, I.R., Coufal, N.G., Schlachetzki, J.C.M., Yu, M., Hu, R., Han, C.Z., L., 2014a. Polarization of the effects of autoimmune and neurodegenerative risk
+Pena, M., Xiao, J., Wu, Y., Keulen, Z., Pasillas, M.P., O’Connor, C., Nickl, C.K., alleles in leukocytes. Science 344, 519–523. https://doi.org/10.1126/
+Schafer, S.T., Shen, Z., Rissman, R.A., Brewer, J.B., Gosselin, D., Gonda, D.D., science.1249547.
+Levy, M.L., Rosenfeld, M.G., McVicker, G., Gage, F.H., Ren, B., Glass, C.K., 2019. Raj, T., Rothamel, K., Mostafavi, S., Ye, C., Lee, M.N., Replogle, J.M., Feng, T., Lee, M.,
+Brain cell type–specific enhancer–promoter interactome maps and disease-risk Asinovski, N., Frohlich, I., Imboywa, S., Von Korff, A., Okada, Y., Patsopoulos, N.A.,
+association. Science 366, 1134–1139. https://doi.org/10.1126/science.aay0793. Davis, S., McCabe, C., Paik, H.-I., Srivastava, G.P., Raychaudhuri, S., Hafler, D.A.,
+Ohnmacht, J., May, P., Sinkkonen, L., Krüger, R., 2020. Missing heritability in Koller, D., Regev, A., Hacohen, N., Mathis, D., Benoist, C., Stranger, B.E., De Jager, P.
+Parkinson’s disease: the emerging role of non-coding genetic variation. J. Neural L., 2014b. Polarization of the effects of autoimmune and neurodegenerative risk
+Transm. 127, 729–748. https://doi.org/10.1007/s00702-
+
+Chunk 74:
+ Hafler, D.A.,
+Ohnmacht, J., May, P., Sinkkonen, L., Krüger, R., 2020. Missing heritability in Koller, D., Regev, A., Hacohen, N., Mathis, D., Benoist, C., Stranger, B.E., De Jager, P.
+Parkinson’s disease: the emerging role of non-coding genetic variation. J. Neural L., 2014b. Polarization of the effects of autoimmune and neurodegenerative risk
+Transm. 127, 729–748. https://doi.org/10.1007/s00702-020-02184-0. alleles in leukocytes. Science 344, 519–523. https://doi.org/10.1126/
+Padmanabhan, S., Polinski, N.K., Menalled, L.B., Baptista, M.A.S., Fiske, B.K., 2019. The science.1249547.
+Michael J. Fox Foundation for Parkinson’s Research strategy to advance therapeutic Raj, T., Li, Y.I., Wong, G., Humphrey, J., Wang, M., Ramdhani, S., Wang, Y.-C., Ng, B.,
+development of PINK1 and Parkin. Biomolecules 9. https://doi.org/10.3390/ Gupta, I., Haroutunian, V., Schadt, E.E., Young-Pearse, T., Mostafavi, S., Zhang, B.,
+biom9080296. Sklar, P., Bennett, D.A., De Jager, P.L., 2018. Integrative transcriptome analyses of
+Pais´an-Ruíz, C., Jain, S., Evans, E.W., Gilks, W.P., Simo´n, J., van der Brug, M., Lo´pez de the aging brain implicate altered splicing in Alzheimer’s disease susceptibility. Nat.
+Munain, A., Aparicio, S., Gil, A.M., Khan, N., Johnson, J., Martinez, J.R., Nicholl, D., Genet. 50, 1584–1592. https://doi.org/10.1038/s41588-018-0238-1.
+Martí Carrera, I., Pena, A.S., de Silva, R., Lees, A., Martí-Masso´, J.F., P´erez-Tur, J., Ramasamy, A., Trabzuni, D., Guelfi, S., Varghese, V., Smith, C., Walker, R., De, T., UK
+Wood, N.W., Singleton, A.B., 2004. Cloning of the gene containing mutations that Brain Expression Consortium, North American Brain Expression Consortium,
+cause PARK8-linked Parkinson’s disease. Neuron 44, 595–600. https://doi.org/ Coin, L., de Silva, R., Cookson, M.R., Singleton, A.B., Hardy, J., Ryten, M., Weale, M.
+10.1016/j.neuron.2004.10.023. E., 2014. Genetic variability in the regulation of gene expression in ten regions of the
+de Paiva Lopes, K., Snijders
+
+Chunk 75:
+mutations that Brain Expression Consortium, North American Brain Expression Consortium,
+cause PARK8-linked Parkinson’s disease. Neuron 44, 595–600. https://doi.org/ Coin, L., de Silva, R., Cookson, M.R., Singleton, A.B., Hardy, J., Ryten, M., Weale, M.
+10.1016/j.neuron.2004.10.023. E., 2014. Genetic variability in the regulation of gene expression in ten regions of the
+de Paiva Lopes, K., Snijders, G.J.L., Humphrey, J., Allan, A., 2020. Atlas of genetic effects human brain. Nat. Neurosci. 17, 1418–1428. https://doi.org/10.1038/nn.3801.
+in human microglia transcriptome across brain regions, aging and disease Ramdhani, S., Navarro, E., Udine, E., Efthymiou, A.G., Schilder, B.M., Parks, M.,
+pathologies. bioRxiv. https://doi.org/10.1101/2020.10.27.356113. Goate, A., Raj, T., 2020. Tensor decomposition of stimulated monocyte and
+Pande, R., Huang, Y., Teeple, E., Joshi, P., Flores-Morales, A., Mahieu, M.L., Pablo macrophage gene expression profiles identifies neurodegenerative disease-specific
+Sardi, S., Cedazo-Minguez, A., Klinger, K.W., Madden, S.L., Rajpal, D., Kumar, D., trans-eQTLs. PLoS Genet. 16, e1008549 https://doi.org/10.1371/journal.
+2021. Single cell atlas of human putamen reveals disease specific changes in pgen.1008549.
+synucleinopathies: Parkinson’s Disease and multiple system atrophy. bioRxiv. Redenˇsek, S., Dolˇzan, V., Kunej, T., 2018. From genomics to omics landscapes of
+https://doi.org/10.1101/2021.05.06.442950. Parkinson’s Disease: revealing the molecular mechanisms. OMICS 22, 1–16. https://
+Park, P.J., 2009. ChIP–seq: advantages and challenges of a maturing technology. Nat. doi.org/10.1089/omi.2017.0181.
+Rev. Genet. 10, 669–680. https://doi.org/10.1038/nrg2641. Regev, A., Teichmann, S.A., Lander, E.S., Amit, I., Benoist, C., Birney, E., Bodenmiller, B.,
+Park, J.T., Lee, Y.-S., Cho, K.A., Park, S.C., 2018. Adjustment of the lysosomal- Campbell, P., Carninci, P., Clatworthy, M., Clevers, H., Deplancke, B., Dunham, I.,
+mitochondrial axis for control of 
+
+Chunk 76:
+technology. Nat. doi.org/10.1089/omi.2017.0181.
+Rev. Genet. 10, 669–680. https://doi.org/10.1038/nrg2641. Regev, A., Teichmann, S.A., Lander, E.S., Amit, I., Benoist, C., Birney, E., Bodenmiller, B.,
+Park, J.T., Lee, Y.-S., Cho, K.A., Park, S.C., 2018. Adjustment of the lysosomal- Campbell, P., Carninci, P., Clatworthy, M., Clevers, H., Deplancke, B., Dunham, I.,
+mitochondrial axis for control of cellular senescence. Ageing Res. Rev. 47, 176–182. Eberwine, J., Eils, R., Enard, W., Farmer, A., Fugger, L., Go¨ttgens, B., Hacohen, N.,
+https://doi.org/10.1016/j.arr.2018.08.003. Haniffa, M., Hemberg, M., Kim, S., Klenerman, P., Kriegstein, A., Lein, E.,
+Parkinson, J., 1817. An Essay on the Shaking Palsy. Whittingham and Rowland, London. Linnarsson, S., Lundberg, E., Lundeberg, J., Majumder, P., Marioni, J.C., Merad, M.,
+Parkinson’s Disease Genomics, I., 2017. A meta-analysis of genome-wide association Mhlanga, M., Nawijn, M., Netea, M., Nolan, G., Pe’er, D., Phillipakis, A., Ponting, C.
+studies identifies 17 new Parkinson’s disease risk loci. Nature. 49, 1511–1516. P., Quake, S., Reik, W., Rozenblatt-Rosen, O., Sanes, J., Satija, R., Schumacher, T.N.,
+https://doi.org/10.1038/ng.3955. Shalek, A., Shapiro, E., Sharma, P., Shin, J.W., Stegle, O., Stratton, M.,
+Pasaniuc, B., Price, A.L., 2017. Dissecting the genetics of complex traits using summary Stubbington, M.J.T., Theis, F.J., Uhlen, M., van Oudenaarden, A., Wagner, A.,
+association statistics. Nat. Rev. Genet. 18, 117–127. https://doi.org/10.1038/ Watt, F., Weissman, J., Wold, B., Xavier, R., Yosef, N., Human Cell Atlas Meeting
+nrg.2016.142. Participants, 2017. The human cell atlas. Elife 6. https://doi.org/10.7554/
+Pers, T.H., Karjalainen, J.M., Chan, Y., Westra, H.-J., Wood, A.R., Yang, J., Lui, J.C., eLife.27041.
+Vedantam, S., Gustafsson, S., Esko, T., Frayling, T., Speliotes, E.K., Genetic Rentzos, M., Nikolaou, C., Andreadou, E., Paraskevas, G.P., Rombos, A., Zoga, M.,
+Investigation of ANthropometric Traits (GIANT)
+
+Chunk 77:
+
+nrg.2016.142. Participants, 2017. The human cell atlas. Elife 6. https://doi.org/10.7554/
+Pers, T.H., Karjalainen, J.M., Chan, Y., Westra, H.-J., Wood, A.R., Yang, J., Lui, J.C., eLife.27041.
+Vedantam, S., Gustafsson, S., Esko, T., Frayling, T., Speliotes, E.K., Genetic Rentzos, M., Nikolaou, C., Andreadou, E., Paraskevas, G.P., Rombos, A., Zoga, M.,
+Investigation of ANthropometric Traits (GIANT) Consortium, Boehnke, M., Tsoutsou, A., Boufidou, F., Kapaki, E., Vassilopoulos, D., 2007. Circulating
+Raychaudhuri, S., Fehrmann, R.S.N., Hirschhorn, J.N., Franke, L., 2015. Biological interleukin-15 and RANTES chemokine in Parkinson’s disease. Acta Neurol. Scand.
+interpretation of genome-wide association studies using predicted gene functions. 116, 374–379.
+Nat. Commun. 6, 5890. https://doi.org/10.1038/ncomms6890. Reynolds, R.H., International Parkinson’s Disease Genomics Consortium (IPDGC),
+Phani, S., Loike, J.D., Przedborski, S., 2012. Neurodegeneration and inflammation in Botía, J., Nalls, M.A., Hardy, J., Gagliano Taliun, S.A., Ryten, M., System Genomics
+Parkinson’s disease. Parkinsonism Relat. Disord. 18 (Suppl. 1), S207–S209. https:// of Parkinson’s Disease (SGPD), 2019. Moving beyond neurons: the role of cell type-
+doi.org/10.1016/S1353-8020(11)70064-5. specific gene regulation in Parkinson’s disease heritability. NPJ Parkinson’s Dis. 5.
+Pickrell, A.M., Youle, R.J., 2015. The roles of PINK1, Parkin, and mitochondrial fidelity https://doi.org/10.1038/s41531-019-0076-6.
+in Parkinson’s Disease. Neuron 85, 257–273. https://doi.org/10.1016/j. Riley, E.A.U., Schekman, R., 2021. Point of view: open science takes on Parkinson’s
+neuron.2014.12.007. disease. Elife 10, e66546.
+Pierce, S., Coetzee, G.A., 2017a. Parkinson’s disease-associated genetic variation is Robak, L.A., Jansen, I.E., van Rooij, J., Uitterlinden, A.G., Kraaij, R., Jankovic, J.,
+linked to quantitative expression of inflammatory genes. PLoS One 12, e0175882. International Parkinson’s Disease Genomics Consort
+
+Chunk 78:
+Point of view: open science takes on Parkinson’s
+neuron.2014.12.007. disease. Elife 10, e66546.
+Pierce, S., Coetzee, G.A., 2017a. Parkinson’s disease-associated genetic variation is Robak, L.A., Jansen, I.E., van Rooij, J., Uitterlinden, A.G., Kraaij, R., Jankovic, J.,
+linked to quantitative expression of inflammatory genes. PLoS One 12, e0175882. International Parkinson’s Disease Genomics Consortium (IPDGC), Heutink, P.,
+https://doi.org/10.1371/journal.pone.0175882. Shulman, J.M., 2017. Excessive burden of lysosomal storage disorder gene variants
+Pierce, S., Coetzee, G.A., 2017b. Parkinson’s disease-associated genetic variation is in Parkinson’s disease. Brain 140, 3191–3203. https://doi.org/10.1093/brain/
+linked to quantitative expression of inflammatory genes. PLoS One 12, e0175882. awx285.
+https://doi.org/10.1371/journal.pone.0175882. Rosenthal, L.S., Drake, D., Alcalay, R.N., Babcock, D., Bowman, F.D., Chen-Plotkin, A.,
+Pintacuda, G., Lassen, F.H., Hsu, Y.-H.H., Kim, A., Martín, J.M., Malolepsza, E., Lim, J.K., Dawson, T.M., Dewey Jr., R.B., German, D.C., Huang, X., Landin, B., McAuliffe, M.,
+Fornelos, N., Eggan, K.C., Lage, K., 2021. Genoppi is an open-source software for Petyuk, V.A., Scherzer, C.R., Hillaire-Clarke, C.S., Sieber, B.-A., Sutherland, M.,
+robust and standardized integration of proteomic and genetic data. Nat. Commun. Tarn, C., West, A., Vaillancourt, D., Zhang, J., Gwinn, K., PDBP consortium, 2016.
+12, 2580. https://doi.org/10.1038/s41467-021-22648-5. The NINDS Parkinson’s disease biomarkers program. Mov. Disord. 31, 915–923.
+Poewe, W., Seppi, K., Tanner, C.M., Halliday, G.M., Brundin, P., Volkmann, J., https://doi.org/10.1002/mds.26438.
+Schrag, A.-E., Lang, A.E., 2017. Parkinson disease. Nat. Rev. Dis. Primers 3, 17013. Rotival, M., Zeller, T., Wild, P.S., Maouche, S., Szymczak, S., Schillert, A., Castagn´e, R.,
+https://doi.org/10.1038/nrdp.2017.13. Deiseroth, A., Proust, C., Brocheton, J., Godefroy, T., Perret, C., Germain, M.,
+Porcu, E., Sad
+
+Chunk 79:
+er, C.M., Halliday, G.M., Brundin, P., Volkmann, J., https://doi.org/10.1002/mds.26438.
+Schrag, A.-E., Lang, A.E., 2017. Parkinson disease. Nat. Rev. Dis. Primers 3, 17013. Rotival, M., Zeller, T., Wild, P.S., Maouche, S., Szymczak, S., Schillert, A., Castagn´e, R.,
+https://doi.org/10.1038/nrdp.2017.13. Deiseroth, A., Proust, C., Brocheton, J., Godefroy, T., Perret, C., Germain, M.,
+Porcu, E., Sadler, M.C., Lepik, K., Auwerx, C., Wood, A.R., Weihs, A., Sleiman, M.S.B., Eleftheriadis, M., Sinning, C.R., Schnabel, R.B., Lubos, E., Lackner, K.J.,
+Ribeiro, D.M., Bandinelli, S., Tanaka, T., Nauck, M., Vo¨lker, U., Delaneau, O., Rossmann, H., Münzel, T., Rendon, A., Consortium, Cardiogenics, Erdmann, J.,
+Metspalu, A., Teumer, A., Frayling, T., Santoni, F.A., Reymond, A., Kutalik, Z., 2021. Deloukas, P., Hengstenberg, C., Diemert, P., Montalescot, G., Ouwehand, W.H.,
+Differentially expressed genes reflect disease-induced rather than disease-causing Samani, N.J., Schunkert, H., Tregouet, D.-A., Ziegler, A., Goodall, A.H., Cambien, F.,
+changes in the transcriptome. Nat. Commun. 12, 5647. https://doi.org/10.1038/ Tiret, L., Blankenberg, S., 2011. Integrating genome-wide genetic variations and
+s41467-021-25805-y. monocyte expression data reveals trans-regulated gene modules in humans. PLoS
+Potashkin, J.A., Blume, S.R., Runkle, N.K., 2010. Limitations of animal models of Genet. 7, e1002367 https://doi.org/10.1371/journal.pgen.1002367.
+Parkinson’s disease. Parkinsons Dis. 2011, 658083 https://doi.org/10.4061/2011/ Ryan, S.D., Dolatabadi, N., Chan, S.F., Zhang, X., Akhtar, M.W., Parker, J., Soldner, F.,
+658083. Sunico, C.R., Nagar, S., Talantova, M., Lee, B., Lopez, K., Nutter, A., Shan, B.,
+Potting, C., Crochemore, C., Moretti, F., Nigsch, F., Schmidt, I., Manneville, C., Molokanova, E., Zhang, Y., Han, X., Nakamura, T., Masliah, E., Yates, J.R.,
+Carbone, W., Knehr, J., DeJesus, R., Lindeman, A., Maher, R., Russ, C., Nakanishi, N., Andreyev, A.Y., Okamoto, S.-I., Jaenisch, R., A
+
+Chunk 80:
+J., Soldner, F.,
+658083. Sunico, C.R., Nagar, S., Talantova, M., Lee, B., Lopez, K., Nutter, A., Shan, B.,
+Potting, C., Crochemore, C., Moretti, F., Nigsch, F., Schmidt, I., Manneville, C., Molokanova, E., Zhang, Y., Han, X., Nakamura, T., Masliah, E., Yates, J.R.,
+Carbone, W., Knehr, J., DeJesus, R., Lindeman, A., Maher, R., Russ, C., Nakanishi, N., Andreyev, A.Y., Okamoto, S.-I., Jaenisch, R., Ambasudhan, R.,
+McAllister, G., Reece-Hoyes, J.S., Hoffman, G.R., Roma, G., Müller, M., Sailer, A.W., Lipton, S.A., 2013. Isogenic human iPSC Parkinson’s model shows nitrosative stress-
+Helliwell, S.B., 2018. Genome-wide CRISPR screen for PARKIN regulators reveals induced dysfunction in MEF2-PGC1α transcription. Cell 155, 1652–1653. https://
+doi.org/10.1016/j.cell.2013.12.004.
+15
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Sa´nchez-Dan´es, A., Richaud-Patin, Y., Carballo-Carbajal, I., Jim´enez-Delgado, S., Takahashi, K., Yamanaka, S., 2006. Induction of pluripotent stem cells from mouse
+Caig, C., Mora, S., Di Guglielmo, C., Ezquerra, M., Patel, B., Giralt, A., Canals, J.M., embryonic and adult fibroblast cultures by defined factors. Cell 126, 663–676.
+Memo, M., Alberch, J., Lo´pez-Barneo, J., Vila, M., Cuervo, A.M., Tolosa, E., https://doi.org/10.1016/j.cell.2006.07.024.
+Consiglio, A., Raya, A., 2012. Disease-specific phenotypes in dopamine neurons from Tanigawa, Y., Li, J., Justesen, J.M., Horn, H., Aguirre, M., DeBoever, C., Chang, C.,
+human iPS-based models of genetic and sporadic Parkinson’s disease: iPS cell-based Narasimhan, B., Lage, K., Hastie, T., Park, C.Y., Bejerano, G., Ingelsson, E., Rivas, M.
+model of Parkinson’s disease. EMBO Mol. Med. 4, 380–395. https://doi.org/ A., 2019. Components of genetic associations across 2,138 phenotypes in the UK
+10.1002/emmm.201200215. biobank highlight adipocyte biology. Nat. Commun. 10, 4064. https://doi.org/
+Schaid, D.J., Chen, W., Larson, N.B., 2018. From genome-wide associ
+
+Chunk 81:
+, B., Lage, K., Hastie, T., Park, C.Y., Bejerano, G., Ingelsson, E., Rivas, M.
+model of Parkinson’s disease. EMBO Mol. Med. 4, 380–395. https://doi.org/ A., 2019. Components of genetic associations across 2,138 phenotypes in the UK
+10.1002/emmm.201200215. biobank highlight adipocyte biology. Nat. Commun. 10, 4064. https://doi.org/
+Schaid, D.J., Chen, W., Larson, N.B., 2018. From genome-wide associations to candidate 10.1038/s41467-019-11953-9.
+causal variants by statistical fine-mapping. Nat. Rev. Genet. 19, 491–504. https:// Tansey, M.G., Romero-Ramos, M., 2018. Immune system responses in Parkinson’s
+doi.org/10.1038/s41576-018-0016-z. disease: early and dynamic. Eur. J. Neurosci. https://doi.org/10.1111/ejn.14290.
+Schapira, A.H., Cooper, J.M., Dexter, D., Clark, J.B., Jenner, P., Marsden, C.D., 1990. Teeple, E., Joshi, P., Pande, R.S., Huang, Y., Karambe, A., Latta-Mahieu, M., Sardi, P.,
+Mitochondrial complex I deficiency in Parkinson’s disease. J. Neurochem. 54, Cedazo-Minguez, A., Klinger, K.W., Flores-Morales, A., Madden, S.L., Rajpal, D.,
+823–827. https://doi.org/10.1111/j.1471-4159.1990.tb02325.x. Kumar, D., 2021. Single nuclei sequencing of human putamen oligodendrocytes
+Schekman, R., Riley, E.A., 2019. Coordinating a new approach to basic research into reveals altered heterogeneity and Disease-associated changes in Parkinson’s Disease
+Parkinson’s disease. Elife 8. https://doi.org/10.7554/eLife.51167. and multiple system atrophy. bioRxiv. https://doi.org/10.1101/2021.05.06.442967.
+Schilder, B.M., Raj, T., 2021. Fine-mapping of Parkinson’s disease susceptibility loci Teves, J.M.Y., Bhargava, V., Kirwan, K.R., Corenblum, M.J., Justiniano, R., Wondrak, G.
+identifies putative causal variants. Hum. Mol. Genet. https://doi.org/10.1093/hmg/ T., Anandhan, A., Flores, A.J., Schipper, D.A., Khalpey, Z., Sligh, J.E., Curiel-
+ddab294. Lewandrowski, C., Sherman, S.J., Madhavan, L., 2017. Parkinson’s Disease skin
+Schilder, B.M., Humphrey, J., Raj, T., 2021. echolocatoR: an
+
+Chunk 82:
+Teves, J.M.Y., Bhargava, V., Kirwan, K.R., Corenblum, M.J., Justiniano, R., Wondrak, G.
+identifies putative causal variants. Hum. Mol. Genet. https://doi.org/10.1093/hmg/ T., Anandhan, A., Flores, A.J., Schipper, D.A., Khalpey, Z., Sligh, J.E., Curiel-
+ddab294. Lewandrowski, C., Sherman, S.J., Madhavan, L., 2017. Parkinson’s Disease skin
+Schilder, B.M., Humphrey, J., Raj, T., 2021. echolocatoR: an automated end-to-end fibroblasts display signature alterations in growth, redox homeostasis, mitochondrial
+statistical and functional genomic fine-mapping pipeline. Bioinformatics. https:// function, and autophagy. Front. Neurosci. 11, 737. https://doi.org/10.3389/
+doi.org/10.1093/bioinformatics/btab658. fnins.2017.00737.
+Schlachetzki, J.C.M., Prots, I., Tao, J., Chun, H.B., Saijo, K., Gosselin, D., Winner, B., Tewhey, R., Kotliar, D., Park, D.S., Liu, B., Winnicki, S., Reilly, S.K., Andersen, K.G.,
+Glass, C.K., Winkler, J., 2018. A monocyte gene expression signature in the early Mikkelsen, T.S., Lander, E.S., Schaffner, S.F., Sabeti, P.C., 2018. Direct identification
+clinical course of Parkinson’s disease. Sci. Rep. 8, 10757. https://doi.org/10.1038/ of hundreds of expression-modulating variants using a multiplexed reporter assay.
+s41598-018-28986-7. Cell 172, 1132–1134. https://doi.org/10.1016/j.cell.2018.02.021.
+Schulze, M., Sommer, A., Plo¨tz, S., Farrell, M., Winner, B., Grosch, J., Winkler, J., The Global Parkinson’’s Genetics Program, 2021. GP2: the global Parkinson’s genetics
+Riemenschneider, M.J., 2018. Sporadic Parkinson’s disease derived neuronal cells program. Mov. Disord. 36, 842–851. https://doi.org/10.1002/mds.28494.
+show disease-specific mRNA and small RNA signatures with abundant deregulation Thrupp, N., Sala Frigerio, C., Wolfs, L., Skene, N.G., Fattorelli, N., Poovathingal, S.,
+of piRNAs. Acta Neuropathol. Commun. 6 https://doi.org/10.1186/s40478-018- Fourne, Y., Matthews, P.M., Theys, T., Mancuso, R., de Strooper, B., Fiers, M., 2020
+0561-x. Sep 29. Sin
+
+Chunk 83:
+ord. 36, 842–851. https://doi.org/10.1002/mds.28494.
+show disease-specific mRNA and small RNA signatures with abundant deregulation Thrupp, N., Sala Frigerio, C., Wolfs, L., Skene, N.G., Fattorelli, N., Poovathingal, S.,
+of piRNAs. Acta Neuropathol. Commun. 6 https://doi.org/10.1186/s40478-018- Fourne, Y., Matthews, P.M., Theys, T., Mancuso, R., de Strooper, B., Fiers, M., 2020
+0561-x. Sep 29. Single-Nucleus RNA-Seq Is Not Suitable for Detection of Microglial
+Scigliano, G., Musicco, M., Soliveri, P., Piccolo, I., Ronchetti, G., Girotti, F., 2006. Activation Genes in Humans. Cell Rep 32 (13), 108189. https://doi.org/10.1016/j.
+Reduced risk factors for vascular disorders in Parkinson disease patients: a case- celrep.2020.108189.
+control study. Stroke 37, 1184–1188. https://doi.org/10.1161/01. Tian, R., Abarientos, A., Hong, J., Hashemi, S.H., Yan, R., Dra¨ger, N., Leng, K., Nalls, M.
+STR.0000217384.03237.9c. A., Singleton, A.B., Xu, K., Faghri, F., Kampmann, M., 2021. Genome-wide CRISPRi/
+Sey, N.Y.A., Hu, B., Mah, W., Fauni, H., McAfee, J.C., Rajarajan, P., Brennand, K.J., a screens in human neurons link lysosomal failure to ferroptosis. Nat. Neurosci.
+Akbarian, S., Won, H., 2020. A computational tool (H-MAGMA) for improved https://doi.org/10.1038/s41593-021-00862-0.
+prediction of brain-disorder risk genes by incorporating brain chromatin interaction Tolosa, E., Botta-Orfila, T., Morato´, X., Calatayud, C., Ferrer-Lorente, R., Martí, M.-J.,
+profiles. Nat. Neurosci. 23, 583–593. https://doi.org/10.1038/s41593-020-0603-0. Fern´andez, M., Gaig, C., Raya, A ´ ., Consiglio, A., Ezquerra, M., Fern´andez-
+Shi, S., Yuan, N., Yang, M., Du, Z., Wang, J., Sheng, X., Wu, J., Xiao, J., 2018. Santiago, R., 2018. MicroRNA alterations in iPSC-derived dopaminergic neurons
+Comprehensive Assessment of Genotype Imputation Performance. Hum Hered 83, from Parkinson disease patients. Neurobiol. Aging 69, 283–291. https://doi.org/
+107–116. https://doi.org/10.1159/000489758. 10.1016/j.neurobi
+
+Chunk 84:
+querra, M., Fern´andez-
+Shi, S., Yuan, N., Yang, M., Du, Z., Wang, J., Sheng, X., Wu, J., Xiao, J., 2018. Santiago, R., 2018. MicroRNA alterations in iPSC-derived dopaminergic neurons
+Comprehensive Assessment of Genotype Imputation Performance. Hum Hered 83, from Parkinson disease patients. Neurobiol. Aging 69, 283–291. https://doi.org/
+107–116. https://doi.org/10.1159/000489758. 10.1016/j.neurobiolaging.2018.05.032.
+Simon-Sanchez, J., Schulte, C., Bras, J.M., Sharma, M., Gibbs, J.R., Berg, D., Paisan- Torsney, K.M., Noyce, A.J., Doherty, K.M., Bestwick, J.P., Dobson, R., Lees, A.J., 2014.
+Ruiz, C., Lichtner, P., Scholz, S.W., Hernandez, D.G., Others, 2009. Genome-wide Bone health in Parkinson’s disease: a systematic review and meta-analysis. J. Neurol.
+association study reveals genetic risk underlying Parkinson’s disease. Nat. Genet. 41, Neurosurg. Psychiatry 85, 1159–1166. https://doi.org/10.1136/jnnp-2013-307307.
+1308. Townsley, K.G., Brennand, K.J., Huckins, L.M., 2020. Massively parallel techniques for
+Skene, N.G., Grant, S.G.N., 2016. Identification of vulnerable cell types in major brain cataloguing the regulome of the human brain. Nat. Neurosci. 23, 1509–1521.
+disorders using single cell transcriptomes and expression weighted cell type https://doi.org/10.1038/s41593-020-00740-1.
+enrichment. Front. Neurosci. 10, 16. https://doi.org/10.3389/fnins.2016.00016. Trabzuni, D., Ryten, M., Walker, R., Smith, C., Imran, S., Ramasamy, A., Weale, M.E.,
+Smith, A.M., Depp, C., Ryan, B.J., Johnston, G.I., Alegre-Abarrategui, J., Evetts, S., Hardy, J., 2011. Quality control parameters on a large dataset of regionally dissected
+Rolinski, M., Baig, F., Ruffmann, C., Simon, A.K., Hu, M.T.M., Wade-Martins, R., human control brains for whole genome expression studies. J. Neurochem. 119,
+2018. Mitochondrial dysfunction and increased glycolysis in prodromal and early 275–282. https://doi.org/10.1111/j.1471-4159.2011.07432.x.
+Parkinson’s blood cells. Mov. Disord. 33, 1580–1590. htt
+
+Chunk 85:
+ers on a large dataset of regionally dissected
+Rolinski, M., Baig, F., Ruffmann, C., Simon, A.K., Hu, M.T.M., Wade-Martins, R., human control brains for whole genome expression studies. J. Neurochem. 119,
+2018. Mitochondrial dysfunction and increased glycolysis in prodromal and early 275–282. https://doi.org/10.1111/j.1471-4159.2011.07432.x.
+Parkinson’s blood cells. Mov. Disord. 33, 1580–1590. https://doi.org/10.1002/ Trabzuni, D., Ryten, M., Emmett, W., Ramasamy, A., Lackner, K.J., Zeller, T., Walker, R.,
+mds.104. Smith, C., Lewis, P.A., Mamais, A., de Silva, R., Vandrovcova, J., International
+Smits, L.M., Reinhardt, L., Reinhardt, P., Glatza, M., Monzel, A.S., Stanslowsky, N., Parkinson Disease Genomics Consortium (IPDGC), Hernandez, D., Nalls, M.A.,
+Rosato-Siri, M.D., Zanon, A., Antony, P.M., Bellmann, J., Nicklas, S.M., Hemmer, K., Sharma, M., Garnier, S., Lesage, S., Simon-Sanchez, J., Gasser, T., Heutink, P.,
+Qing, X., Berger, E., Kalmbach, N., Ehrlich, M., Bolognin, S., Hicks, A.A., Wegner, F., Brice, A., Singleton, A., Cai, H., Schadt, E., Wood, N.W., Bandopadhyay, R.,
+Sterneckert, J.L., Schwamborn, J.C., 2019. Modeling Parkinson’s disease in Weale, M.E., Hardy, J., Plagnol, V., 2013. Fine-mapping, gene expression and
+midbrain-like organoids. NPJ Parkinsons Dis. 5, 5. https://doi.org/10.1038/s41531- splicing analysis of the disease associated LRRK2 locus. PLoS One 8, e70724. https://
+019-0078-4. doi.org/10.1371/journal.pone.0070724.
+Soldner, F., Hockemeyer, D., Beard, C., Gao, Q., Bell, G.W., Cook, E.G., Hargus, G., Wainberg, M., Sinnott-Armstrong, N., Mancuso, N., Barbeira, A.N., Knowles, D.A.,
+Blak, A., Cooper, O., Mitalipova, M., Isacson, O., Jaenisch, R., 2009. Parkinson’s Golan, D., Ermel, R., Ruusalepp, A., Quertermous, T., Hao, K., Bjo¨rkegren, J.L.M.,
+disease patient-derived induced pluripotent stem cells free of viral reprogramming Im, H.K., Pasaniuc, B., Rivas, M.A., Kundaje, A., 2019. Opportunities and challenges
+factors. Cell 136, 964–977. https:
+
+Chunk 86:
+Barbeira, A.N., Knowles, D.A.,
+Blak, A., Cooper, O., Mitalipova, M., Isacson, O., Jaenisch, R., 2009. Parkinson’s Golan, D., Ermel, R., Ruusalepp, A., Quertermous, T., Hao, K., Bjo¨rkegren, J.L.M.,
+disease patient-derived induced pluripotent stem cells free of viral reprogramming Im, H.K., Pasaniuc, B., Rivas, M.A., Kundaje, A., 2019. Opportunities and challenges
+factors. Cell 136, 964–977. https://doi.org/10.1016/j.cell.2009.02.013. for transcriptome-wide association studies. Nat. Genet. 51, 592–599. https://doi.
+Soldner, F., Lagani`ere, J., Cheng, A.W., Hockemeyer, D., Gao, Q., Alagappan, R., org/10.1038/s41588-019-0385-z.
+Khurana, V., Golbe, L.I., Myers, R.H., Lindquist, S., Zhang, L., Guschin, D., Fong, L. Wang, Q., Zhang, Y., Wang, M., Song, W.-M., Shen, Q., McKenzie, A., Choi, I., Zhou, X.,
+K., Vu, B.J., Meng, X., Urnov, F.D., Rebar, E.J., Gregory, P.D., Zhang, H.S., Pan, P.-Y., Yue, Z., Zhang, B., 2019. The landscape of multiscale transcriptomic
+Jaenisch, R., 2011. Generation of isogenic pluripotent stem cells differing exclusively networks and key regulators in Parkinson’s disease. Nat. Commun. 10 https://doi.
+at two early onset Parkinson point mutations. Cell 146, 318–331. https://doi.org/ org/10.1038/s41467-019-13144-y.
+10.1016/j.cell.2011.06.019. Weissbrod, O., Hormozdiari, F., Benner, C., Cui, R., Ulirsch, J., Gazal, S., Schoech, A.P.,
+Soldner, F., Stelzer, Y., Shivalila, C.S., Abraham, B.J., Latourelle, J.C., Barrasa, M.I., van de Geijn, B., Reshef, Y., M´arquez-Luna, C., O’Connor, L., Pirinen, M.,
+Goldmann, J., Myers, R.H., Young, R.A., Jaenisch, R., 2016. Parkinson-associated Finucane, H.K., Price, A.L., 2020. Functionally informed fine-mapping and polygenic
+risk variant in distal enhancer of α-synuclein modulates target gene expression. localization of complex trait heritability. Nat. Genet. 52, 1355–1363. https://doi.
+Nature 533, 95–99. https://doi.org/10.1038/nature17939. org/10.1038/s41588-020-00735-5.
+Stypuła, G., Kunert-Radek, J., Stepien´, H., 
+
+Chunk 87:
+kinson-associated Finucane, H.K., Price, A.L., 2020. Functionally informed fine-mapping and polygenic
+risk variant in distal enhancer of α-synuclein modulates target gene expression. localization of complex trait heritability. Nat. Genet. 52, 1355–1363. https://doi.
+Nature 533, 95–99. https://doi.org/10.1038/nature17939. org/10.1038/s41588-020-00735-5.
+Stypuła, G., Kunert-Radek, J., Stepien´, H., Zylin´ska, K., Pawlikowski, M., 1996. van der Wijst, M.G.P., de Vries, D.H., Groot, H.E., Trynka, G., Hon, C.-C., Bonder, M.-J.,
+Evaluation of interleukins, ACTH, cortisol and prolactin concentrations in the blood Stegle, O., Nawijn, M.C., Idaghdour, Y., van der Harst, P., Others, 2020. Science
+of patients with parkinson’s disease. Neuroimmunomodulation 3, 131–134. https:// forum: the single-cell eQTLGen consortium. Elife 9, e52155.
+doi.org/10.1159/000097237. Williams, A., 1984. MPTP parkinsonism. Br. Med. J. 289, 1401–1402. https://doi.org/
+Sun, B.B., Maranville, J.C., Peters, J.E., Stacey, D., Staley, J.R., Blackshaw, J., Burgess, S., 10.1136/bmj.289.6456.1401.
+Jiang, T., Paige, E., Surendran, P., Oliver-Williams, C., Kamat, M.A., Prins, B.P., Wirdefeldt, K., Gatz, M., Reynolds, C.A., Prescott, C.A., Pedersen, N.L., 2011. Heritability
+Wilcox, S.K., Zimmerman, E.S., Chi, A., Bansal, N., Spain, S.L., Wood, A.M., of Parkinson disease in Swedish twins: a longitudinal study. Neurobiol. Aging 32.
+Morrell, N.W., Bradley, J.R., Janjic, N., Roberts, D.J., Ouwehand, W.H., Todd, J.A., https://doi.org/10.1016/j.neurobiolaging.2011.02.017, 1923.e1–8.
+Soranzo, N., Suhre, K., Paul, D.S., Fox, C.S., Plenge, R.M., Danesh, J., Runz, H., Witoelar, A., Jansen, I.E., Wang, Y., Desikan, R.S., Gibbs, J.R., Blauwendraat, C.,
+Butterworth, A.S., 2018. Genomic atlas of the human plasma proteome. Nature 558, Thompson, W.K., Hernandez, D.G., Djurovic, S., Schork, A.J., Bettella, F.,
+73–79. https://doi.org/10.1038/s41586-018-0175-2. Ellinghaus, D., Franke, A., Lie, B.A., McEvoy, L.K., Karlsen, T.H., L
+
+Chunk 88:
+.S., Plenge, R.M., Danesh, J., Runz, H., Witoelar, A., Jansen, I.E., Wang, Y., Desikan, R.S., Gibbs, J.R., Blauwendraat, C.,
+Butterworth, A.S., 2018. Genomic atlas of the human plasma proteome. Nature 558, Thompson, W.K., Hernandez, D.G., Djurovic, S., Schork, A.J., Bettella, F.,
+73–79. https://doi.org/10.1038/s41586-018-0175-2. Ellinghaus, D., Franke, A., Lie, B.A., McEvoy, L.K., Karlsen, T.H., Lesage, S.,
+Morris, H.R., Brice, A., Wood, N.W., Heutink, P., Hardy, J., Singleton, A.B., Dale, A.
+M., Gasser, T., Andreassen, O.A., Sharma, M., International Parkinson’s Disease
+16
+
+---PAGE BREAK---
+
+B.M. Schilder et al. N e u r o b i o l o g y o f D i s e a s e 163(2022)105580
+Genomics Consortium (IPDGC), North American Brain Expression Consortium genes for Parkinson’s disease. NPJ Parkinsons Dis. 7, 79. https://doi.org/10.1038/
+(NABEC), and United Kingdom Brain Expression Consortium (UKBEC) Investigators, s41531-021-00221-7.
+2017. Genome-wide pleiotropy between Parkinson Disease and autoimmune Young, A.M.H., Kumasaka, N., Calvert, F., Hammond, T.R., Knights, A., Panousis, N.,
+diseases. JAMA Neurol. 74, 780–792. https://doi.org/10.1001/ Schwartzentruber, J., Liu, J., Kundu, K., Segel, M., Murphy, N., McMurran, C.E.,
+jamaneurol.2017.0469. Bulstrode, H., Correia, J., Budohoski, K.P., Joannides, A., Guilfoyle, M.R.,
+Wong, A.K., Krishnan, A., Troyanskaya, O.G., 2018. GIANT 2.0: genome-scale integrated Trivedi, R., Kirollos, R., Morris, R., Garnett, M.R., Fernandes, H., Timofeev, I.,
+analysis of gene networks in tissues. Nucleic Acids Res. 46, W65–W70. https://doi. Jalloh, I., Holland, K., Mannion, R., Mair, R., Watts, C., Price, S.J., Kirkpatrick, P.J.,
+org/10.1093/nar/gky408. Santarius, T., Soranzo, N., Stevens, B., Hutchinson, P.J., Franklin, R.J.M., Gaffney, D.
+Yang, C., Farias, F.H.G., Ibanez, L., Suhy, A., Sadler, B., Fernandez, M.V., Wang, F., J., 2021. A map of transcriptional heterogeneity and regulatory variation in human
+Bradley, J.L., Eiffert, B., Bahena, J.A., Budd
+
+Chunk 89:
+ K., Mannion, R., Mair, R., Watts, C., Price, S.J., Kirkpatrick, P.J.,
+org/10.1093/nar/gky408. Santarius, T., Soranzo, N., Stevens, B., Hutchinson, P.J., Franklin, R.J.M., Gaffney, D.
+Yang, C., Farias, F.H.G., Ibanez, L., Suhy, A., Sadler, B., Fernandez, M.V., Wang, F., J., 2021. A map of transcriptional heterogeneity and regulatory variation in human
+Bradley, J.L., Eiffert, B., Bahena, J.A., Budde, J.P., Li, Z., Dube, U., Sung, Y.J., microglia. Nat. Genet. 2019 (12), 20.874099. https://doi.org/10.1038/s41588-021-
+Mihindukulasuriya, K.A., Morris, J.C., Fagan, A.M., Perrin, R.J., Benitez, B.A., 00875-2.
+Rhinn, H., Harari, O., Cruchaga, C., 2021a. Genomic atlas of the proteome from Zhou, J., Troyanskaya, O.G., 2015. Predicting effects of noncoding variants with deep
+brain, CSF and plasma prioritizes proteins implicated in neurological disorders. Nat. learning–based sequence model. Nat. Methods 12, 931–934. https://doi.org/
+Neurosci. 24, 1302–1312. https://doi.org/10.1038/s41593-021-00886-6. 10.1038/nmeth.3547.
+Yang, H., Liu, D., Zhao, C., Feng, B., Lu, W., Yang, X., Xu, M., Zhou, W., Jing, H., Yang, J., Zhou, J., Theesfeld, C.L., Yao, K., Chen, K.M., Wong, A.K., Troyanskaya, O.G., 2018.
+2021b. Mendelian randomization integrating GWAS and eQTL data revealed genes Deep learning sequence-based ab initio prediction of variant effects on expression
+pleiotropically associated with major depressive disorder. Transl. Psychiatry 11, and disease risk. Nat. Genet. 50, 1171–1179. https://doi.org/10.1038/s41588-018-
+225. https://doi.org/10.1038/s41398-021-01348-0. 0160-6.
+Yao, S., Wu, H., Liu, T.-T., Wang, J.-H., Ding, J.-M., Guo, J., Rong, Y., Ke, X., Hao, R.-H., Zimprich, A., Biskup, S., Leitner, P., Lichtner, P., Farrer, M., Lincoln, S., Kachergus, J.,
+Dong, S.-S., Yang, T.-L., Guo, Y., 2021a. Epigenetic element-based transcriptome- Hulihan, M., Uitti, R.J., Calne, D.B., Stoessl, A.J., Pfeiffer, R.F., Patenge, N.,
+wide association study identifies novel genes for bipolar disord
+
+Chunk 90:
+ Liu, T.-T., Wang, J.-H., Ding, J.-M., Guo, J., Rong, Y., Ke, X., Hao, R.-H., Zimprich, A., Biskup, S., Leitner, P., Lichtner, P., Farrer, M., Lincoln, S., Kachergus, J.,
+Dong, S.-S., Yang, T.-L., Guo, Y., 2021a. Epigenetic element-based transcriptome- Hulihan, M., Uitti, R.J., Calne, D.B., Stoessl, A.J., Pfeiffer, R.F., Patenge, N.,
+wide association study identifies novel genes for bipolar disorder. Schizophr. Bull. Carbajal, I.C., Vieregge, P., Asmus, F., Müller-Myhsok, B., Dickson, D.W.,
+47, 1642–1652. https://doi.org/10.1093/schbul/sbab023. Meitinger, T., Strom, T.M., Wszolek, Z.K., Gasser, T., 2004. Mutations in LRRK2
+Yao, S., Zhang, X., Zou, S.-C., Zhu, Y., Li, B., Kuang, W.-P., Guo, Y., Li, X.-S., Li, L., cause autosomal-dominant parkinsonism with pleomorphic pathology. Neuron 44,
+Wang, X.-Y., 2021b. A transcriptome-wide association study identifies susceptibility 601–607. https://doi.org/10.1016/j.neuron.2004.11.005.
+17
+
+---PAGE BREAK---
+
+
+

@@ -1,0 +1,446 @@
+Chunk 1:
+insight progress
+Quality control in the endoplasmic
+reticulum protein factory
+Roberto Sitia1& Ineke Braakman2
+1Università Vita-Salute San Raffaele Scientific Institute, 20132 Milano, Italy (e-mail: r.sitia@hsr.it)
+2Bio-Organic Chemistry 1, Utrecht University, 3584 CH Utrecht, The Netherlands (e-mail: i.braakman@chem.uu.nl)
+The endoplasmic reticulum (ER) is a factory where secretory proteins are manufactured, and where stringent
+quality-control systems ensure that only correctly folded proteins are sent to their final destinations. The
+changing needs of the ER factory are monitored by integrated signalling pathways that constantly adjust the
+levels of folding assistants. ER chaperones and signalling molecules are emerging as drug targets in
+amyloidoses and other protein-conformational diseases.
+A
+berrant proteins are extremely harmful to cells. ER (Fig. 1), where they start to fold co-translationally.
+Such proteins can originate from mutations, Folding is completed post-translationally, and, generally,
+unbalanced subunit synthesis, damaging con- individual subunits have folded before assembly and
+ditions (for example, oxidation) and also as a oligomerization take place1. Sequential interactions with
+side product of normal protein biosynthesis. A distinct chaperones are required for each of these steps.
+certain degree of folding inefficiency can be useful. Misfold- For instance, MHC class I molecules exploit calnexin,
+ed proteins are degraded into fragments (peptides), which calreticulin and other devoted ER-resident molecules (for
+are then displayed on the cell’s surface. In cells that are not example, tapasin) to negotiate their stepwise assembly into
+infected, normal cytosolic and nuclear proteins will be dis- peptide-loaded functional complexes3. Although most
+played; in cells that are infected with a virus, viral peptides folding factors in the ER are ubiquitously expressed
+are presented and then detected by immune cells. The pres- throughout the body, some are t
+
+Chunk 2:
+ cells that are not example, tapasin) to negotiate their stepwise assembly into
+infected, normal cytosolic and nuclear proteins will be dis- peptide-loaded functional complexes3. Although most
+played; in cells that are infected with a virus, viral peptides folding factors in the ER are ubiquitously expressed
+are presented and then detected by immune cells. The pres- throughout the body, some are tissue-type specific or cell-
+ence of membrane-bounded compartments in eukaryotic type specific, and probably fulfil a particular synthetic task
+cells further complicates the issue of protein homeostasis, as (Table 1). For example, efficient collagen production
+it implies the existence and coordination of multiple folding requires the expression of hsp47, whereas a tissue-specific
+and degradation systems. protein-disulphide-isomerase-like protein, PDIp, is
+A proper balance between synthesis, maturation and produced in the pancreas and probably permits the
+degradation is crucial for cell survival. At a time when health massive secretion of digestive enzymes1,4.
+threats come from viruses, misfolded proteins (which can
+cause Creutzfeldt–Jakob disease) and inherited diseases, Disulphide-bond formation
+and when protein-based drugs are being introduced, a full Both N-glycosylation and disulphide-bond formation play
+understanding of how cells handle proteins is of crucial a crucial role in the folding of secretory and membrane
+importance. proteins in the ER. The glycans add hydrophobicity to the
+In eukaryotic cells, the vast majority of proteins fold folding peptide but also act as substrates for the lectin chap-
+either in the cytosol or in the ER. Although the general prin- erones calnexin and calreticulin, whose role in glycoprotein
+ciples are similar in the both compartments1,2, fundamental folding has been extensively reviewed5,6. Both calnexin and
+differences exist. Here we summarize the main features of calreticulin form a complex with ERp57, an ER oxido-
+folding and quality 
+
+Chunk 3:
+tes for the lectin chap-
+either in the cytosol or in the ER. Although the general prin- erones calnexin and calreticulin, whose role in glycoprotein
+ciples are similar in the both compartments1,2, fundamental folding has been extensively reviewed5,6. Both calnexin and
+differences exist. Here we summarize the main features of calreticulin form a complex with ERp57, an ER oxido-
+folding and quality control in the ER, highlighting emerging reductase, coupling folding assistance to disulphide-bond
+concepts of how the functions of the ER are integrated with formation.
+other cellular compartments and with transcriptional and The impressive number of oxidoreductases in the ER
+translational control to prevent proteotoxicity. suggests that catalysis and regulation of disulphide-bond
+formation is crucial for folding. Energywise, in most cases,
+Protein folding in the ER the contribution of a disulphide bond is hardly more than
+The ER lumen is similar to the extracellular space: it has that of a single hydrogen bond, yet, without disulphide
+high calcium concentrations and is more oxidizing than the bonds, native conformations are not obtained. Disulphide
+cytosol (see refs 1, 2 and references therein), and contains a bonds cannot force a folding protein into a given conforma-
+specialized set of chaperones and enzymes (Table 1). The tion: in the sampling of conformations during folding in the
+structural maturation of many proteins synthesized in the ER, native and non-native disulphide cross-links are tran-
+ER is slow and inefficient1, probably because they require siently formed. Continuous activity of oxidoreductases
+several post-translational modifications (for example, probably ensures that these covalent links remain flexible
+signal sequence cleavage, N-linked glycosylation, disul- until folding is completed.
+phide-bond formation and reshuffling, addition of Secreted proteins enter the ER with reduced cysteines
+glycosylphosphatidylinositol anchors, insertion of mem- and leav
+
+Chunk 4:
+uous activity of oxidoreductases
+several post-translational modifications (for example, probably ensures that these covalent links remain flexible
+signal sequence cleavage, N-linked glycosylation, disul- until folding is completed.
+phide-bond formation and reshuffling, addition of Secreted proteins enter the ER with reduced cysteines
+glycosylphosphatidylinositol anchors, insertion of mem- and leave it with oxidized cystines. The requirement for
+brane proteins in the lipid bilayer). Coordinating these oxidative equivalents is fulfilled by Ero1 proteins, which
+covalent modifications is a challenging task for the folding transfer electrons from protein disulphide isomerase
+machinery in the ER. Nevertheless, the ER factory can reach (PDI) to oxygen through a series of specific interchange
+levels of extraordinary efficiency in exocrine glands, plasma reactions7,8. Additional electron transport pathways exist,
+cells and other ‘professional secretory cells’. and involve proteins such as Erv2p from yeast, although
+In mammalian cells, proteins are translocated into the their role under normal conditions remains to be deter-
+NATURE|VOL 426|18/25 DECEMBER 2003|www.n©at u2re0.0co3m N/naattuurree PublishingGroup 891
+
+---PAGE BREAK---
+
+insight progress
+mined7. The redox gradient between the ER and the cytosol seems consequence they are retained in the ER or retrieved from the Golgi
+to be important for intercompartmental signalling, particularly in complex1,4. By forming multimolecular complexes11, folding factors
+the integrated response to oxidative stress, in which adaptive in the ER may provide matrices that couple retention to folding and
+responses emanating from different compartments are coordinat- assembly. Immature proteins may also form aggregates that are
+ed9. And redox reactions with opposite electron fluxes must take excluded from vesicles exiting from the ER1,12.
+place in the ER to mediate formation, isomerization and reduction All proteins are subjected to a ‘primary
+
+Chunk 5:
+y provide matrices that couple retention to folding and
+responses emanating from different compartments are coordinat- assembly. Immature proteins may also form aggregates that are
+ed9. And redox reactions with opposite electron fluxes must take excluded from vesicles exiting from the ER1,12.
+place in the ER to mediate formation, isomerization and reduction All proteins are subjected to a ‘primary’ quality control that
+of disulphides8. The wealth of redox assistants allows these fluxes to monitors their architectural design through ubiquitous folding
+be separate, and channels electron transport through specific pro- sensors (Table 1). ‘Secondary’ quality-control mechanisms rely
+tein–protein interactions. The main role of glutathione in redox instead on cell-specific factors and facilitate export of individual
+homeostasis in the ER seems to be that of buffering the oxidative proteins or classes of proteins (for example, tapasin for class I mole-
+power of Ero1 (refs 7, 8). Because disulphide bonds are so impor- cules; see also refs 1, 2, 4 and 13 and references therein for addition-
+tant for folding, we may conclude from the number of ER-resident al examples). Although some proteins can be rerouted to and
+oxidoreductases that secretory proteins need more help, possibly degraded in the endolysosomal compartment (Fig. 2), the ER is the
+because they are often larger than cytosolic ones10. Perhaps secreto- main test bench where molecules destined for the extracellular
+ry proteins, which are designed to act extracellularly and often must space are scrutinized for their potential toxicity. Interestingly, ER
+carry their biological messages over long distances, need more pro- quality control seems to monitor primarily local structures within
+tection from denaturing forces outside the cell. This is an issue that protein domains, allowing transport of proteins originating from
+glycans are likely to contribute to as well. exon reshuffling or otherwise ‘flexible’ molecules1,4. A 
+
+Chunk 6:
+oxicity. Interestingly, ER
+carry their biological messages over long distances, need more pro- quality control seems to monitor primarily local structures within
+tection from denaturing forces outside the cell. This is an issue that protein domains, allowing transport of proteins originating from
+glycans are likely to contribute to as well. exon reshuffling or otherwise ‘flexible’ molecules1,4. A certain
+degree of freedom from quality control is essential for the evolution
+Quality control in the ER of proteins. However, it comes at a price for multicellular organ-
+Besides providing a unique folding environment, the ER has a crucial isms. Indeed, many proteins that cause systemic amyloidosis (see
+quality-control role1,2,4. How does it discriminate between native and the review in this issue by Dobson, page 884) can adopt more than
+non-native proteins? The answer to this question depends primarily one conformation and can undergo uncontrolled aggregation out-
+on ER chaperones. When folding or assembly intermediates expose side of the cells.
+hydrophobic surfaces, unpaired cysteines or immature glycans, ER- The reasons for having a quality-control system in the ER are
+resident chaperones or oxidoreductases interact with them, and as a easy to understand where protein folding and function are con-
+cerned, especially in multicellular organisms where development
+relies on the fidelity of protein secretion. Quality control can also
+regulate the transport or the activity of certain proteins during dif-
+Ribosome ferentiation14or in response to stress or metabolic requirements. A
+Cytosol clear case in the context of ER physiology is that of the transcrip-
+tion factor ATF6, a transmembrane protein localized in the ER by
+interactions between its luminal domain and BiP, an abundant ER-
+from resident chaperone of the hsp70 family (Table 1). The unfolded
+ERGIC–Golgi
+to proteins titrate BiP, releasing ATF6 for transport and subsequent
+cleavage by Golgi proteases15–17. In this way, t
+
+Chunk 7:
+sol clear case in the context of ER physiology is that of the transcrip-
+tion factor ATF6, a transmembrane protein localized in the ER by
+interactions between its luminal domain and BiP, an abundant ER-
+from resident chaperone of the hsp70 family (Table 1). The unfolded
+ERGIC–Golgi
+to proteins titrate BiP, releasing ATF6 for transport and subsequent
+cleavage by Golgi proteases15–17. In this way, the active cytosolic
+domain is unleashed and delivered to the nucleus, where it drives
+Terminally Intermediates Folded
+misfolded transcription of target genes. A similar cleavage mechanism to that
+for ATF6 underlies the cholesterol-dependent transport of sterol
+ERAD regulatory element binding protein18. Other cases of regulated
+transport are based on the availability of specific ligands (for
+ER Aggregates example, lipids and retinol) or cofactors (calcium ions, vitamin C
+and so on). Clarifying the mechanisms controlling differential ER
+to Golgi transport has obvious technological and clinical implica-
+Sec61 complex tions. For example, ligand-induced transport may allow storage of
+Folding factors hormones or other proteins in the ER, which can be released when
+necessary by ligand administration19.
+Escorts and guides
+ERAD factors ER-associated degradation
+COPII COPI Mutations or unbalanced subunit synthesis make folding or assembly
+— and hence exit from the ER — impossible. To maintain home-
+ostasis, terminally misfolded molecules are ‘retrotranslocated’ or
+Figure 1Folding in the crowded environment of the ER. The port of entry for proteins ‘dislocated’ across the ER membrane to be degraded by cytosolic
+destined for the secretory pathway is the ER. These proteins are synthesized by ER- proteasomes20,21. Dislocation is generally believed to occur through
+associated ribosomes and co-translationally translocated across the membrane Sec61, a protein complex also used by nascent proteins to enter into
+through the Sec61 complex. The ER is rich in chaperones and folding enzymes the E
+
+Chunk 8:
+graded by cytosolic
+destined for the secretory pathway is the ER. These proteins are synthesized by ER- proteasomes20,21. Dislocation is generally believed to occur through
+associated ribosomes and co-translationally translocated across the membrane Sec61, a protein complex also used by nascent proteins to enter into
+through the Sec61 complex. The ER is rich in chaperones and folding enzymes the ER (Fig. 1), raising the question of how vectorial transport in
+(folding factors), in molecules involved in mediating transport to the cytosol for opposite directions is regulated. Additional mechanisms for deliver-
+proteasomal degradation (ERAD factors) or to the downstream stations of the ing molecules across the ER membrane may also exist.
+secretory pathway (escort and guides13). Some ER-resident proteins seem to form A fascinating problem is how molecules that have not been given
+multimolecular complexes1, which can be excluded from transport by size selection, the time to fold (and therefore are unfolded)are discriminated from
+and provide a matrix that couples retention to folding1,4. A distinctive feature of the those that have failed to fold after many attempts (misfolded), and
+ER is its ability to catalyse opposite reactions: folding and unfolding, oxidation and must therefore be disposed of. One way of timing glycoprotein quali-
+reduction, protein import and export through Sec61. It is debated whether a ‘quality- ty control involves the sequential processing of N-glycans and in par-
+control compartment’12,39, involved in the recognition and targeting of terminally ticular mannose trimming in the ER22. It remains to be seen how sub-
+misfolded proteins (alluded to in the picture by having ERAD factors concentrated on strates are eventually targeted to the retrotranslocation channels,
+the left), exists. ERGIC, ER–Golgi intermediate compartment. how these are opened, and to what extent proteins must be unfolded
+to negotiate dislocation8,21.
+892 © 2003 Nature PublishingG
+
+Chunk 9:
+annose trimming in the ER22. It remains to be seen how sub-
+misfolded proteins (alluded to in the picture by having ERAD factors concentrated on strates are eventually targeted to the retrotranslocation channels,
+the left), exists. ERGIC, ER–Golgi intermediate compartment. how these are opened, and to what extent proteins must be unfolded
+to negotiate dislocation8,21.
+892 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight progress
+Table 1Personnel of the ER protein factory in mammalian cells
+RB SER Ubiquitous ER-resident proteins
+Family Main members Functions
+RER
+Endo- Hsp70 BiP/grp78 Chaperone
+lysosomes Hsp90 Endoplasmin/grp94 Chaperone
+Hsp40 ERdj1–ERdj5, Sec63 Co-chaperones regulating BiP?
+ERGIC Lectins Calnexin and calreticulin Glycoprotein quality control
+EDEM Glycoprotein degradation22
+Glycan-processing UGT Folding sensor. Adds glucoses to
+Nucleus
+enzymes misfolded glycoproteins (enters
+P substrates into the calnexin cycle)5,6
+Golgi ER glucosidases I and II Remove glucoses from N-glycans
+(on/off/calnexin cycle)5,6
+NE Peroxisomes ER mannosidases I and II Remove terminal mannoses —
+ERAD?22
+Peptidyl–prolyl Cyclophilins, FK506-binding Isomerize cis-transpeptidyl-
+CER
+isomerases proteins prolyl bonds?
+Ero1 Ero1a, Ero1b Disulphide-bond formation7,8
+Oxidoreductases PDI, ERp72, ERp57, p5, and Disulphide-bond formation,
+many others isomerization and reduction
+Figure 2The ER is not always that rough. Distinct ER subcompartments can be
+clearly identified: the nuclear envelope (NE), and rough and smooth stacks (RER
+Examples of specific folding assistants
+and SER). In plant cells, dilated ER cisternae are used for protein storage. In
+Name Tissue distribution Function
+mammalian cells, they are generally associated with the accumulation of mutated
+PDIp Pancreas Oxidoreductase
+or transport-incompetent proteins produced in excess with respect to ERAD Hsp47 and prolyl-Cells producing collagen Collagen synthesis and
+ca
+
+Chunk 10:
+ples of specific folding assistants
+and SER). In plant cells, dilated ER cisternae are used for protein storage. In
+Name Tissue distribution Function
+mammalian cells, they are generally associated with the accumulation of mutated
+PDIp Pancreas Oxidoreductase
+or transport-incompetent proteins produced in excess with respect to ERAD Hsp47 and prolyl-Cells producing collagen Collagen synthesis and
+capacity (for example, Russell bodies, RB30). Additional ER subdomains were 4-hydroxylase assembly24
+Invariant chain Antigen presenting cells MHC class II assembly and
+identified recently, including a peroxisome precursor compartment (P) and the
+transport
+cortical ER (CER) in yeast40,41. Selected mRNAs seem to be targeted to the Tapasin Ubiquitous Peptide binding to MHC class I3
+storage domains of plant ERs as well as to the yeast CER, thus favouring RAP Ubiquitous LDL receptor assembly and
+transport
+subcompartmentalization. ER subdomains could exist at an even smaller scale11.
+BOCA/Mesd ? LDL receptor assembly and
+For instance, different complexes of ER folding factors in the ER may fulfil transport42
+sequential (and often opposite) tasks during protein maturation in the ER, and Egasyn Ubiquitous Quality control of b-glucuronidase
+Carboxylesterase Hepatocytes Quality control of C reactive
+membrane sub-domains might exist. proteins
+SCAP Ubiquitous Retention of SREBP18
+The unfolded protein response and signalling from the ER
+To maintain the efficiency of quality-control mechanisms in diverse clear the ER, apoptosis is induced through several pathways16,17,26. This
+physiological conditions, living cells have evolved regulatory circuits link has important consequences for the pathogenesis of degenerative
+that monitor the levels of available chaperones. This is true for both disorders (see the progress in this issue by Goldberg, page 895).
+the cytosol and the ER, and compartment-specific responses clearly The UPR is multi-faceted and regulates proteins involved in
+exist that sele
+
+Chunk 11:
+ions, living cells have evolved regulatory circuits link has important consequences for the pathogenesis of degenerative
+that monitor the levels of available chaperones. This is true for both disorders (see the progress in this issue by Goldberg, page 895).
+the cytosol and the ER, and compartment-specific responses clearly The UPR is multi-faceted and regulates proteins involved in
+exist that selectively restore optimal levels of the desired folding fac- quality control, ERAD and many aspects of the secretory pathway27.
+tors. The accumulation of aberrant proteins in the cytosol triggers It is emerging as a key controller of normal development as well. Par-
+the heat-shock response, resulting in de novosynthesis of hsp70 and ticularly compelling in this respect is the observation that plasma-cell
+other cytosolic chaperones23. But if aberrant proteins accumulate in differentiation requires XBP-1 (ref. 28). However, attenuating trans-
+the ER, cells activate a different response, the unfolded protein lation through PERK would be counterproductive for plasma cells,
+response (UPR), which leads to the coordinated synthesis of ER-resi- which must release antibodies in large quantities26. It remains to be
+dent chaperones and enzymes. The UPR is induced by drugs that seen whether cells can selectively activate individual branches of the
+block N-linked glycosylation or disulphide-bond formation, or alter UPR. One possibility is that the different ER-resident proteins con-
+calcium ion homeostasis, thus selectively targeting the ER folding taining a DnaJ motif (ERdj)29might preferentially release BiP from
+machinery16,17. Physiologically, ER stress (a condition in which the one of the three UPR sensors, similar to the way in which E3 ligases
+folding machinery in the ER cannot cope with its protein load) can be confer specificity on E1 and E2 proteins.
+caused by synthesis of mutated or orphan proteins, absence of cofac-
+tors (an example being scurvy, in which collagen cannot fold b
+
+Chunk 12:
+y release BiP from
+machinery16,17. Physiologically, ER stress (a condition in which the one of the three UPR sensors, similar to the way in which E3 ligases
+folding machinery in the ER cannot cope with its protein load) can be confer specificity on E1 and E2 proteins.
+caused by synthesis of mutated or orphan proteins, absence of cofac-
+tors (an example being scurvy, in which collagen cannot fold because ER quality control and disease
+of the lack of vitamin C24), or a drastic increase in otherwise normal Quality control must be a balance between retaining and degrading
+cargo proteins. potentially harmful products and not preventing export of biologi-
+How do the diverse unfolded or misfolded proteins that accu- cally active proteins. CFTR mutants in cystic fibrosis illustrate an
+mulate in the ER provoke the same pathway? The unifying concept is overzealous quality control, where biologically active mutants can-
+that BiP and other primary quality-control factors maintain the not leave the ER. In this case, relaxing the quality control could cure
+stress sensors in the ER in the inactive state16,17, so that chaperone the patient. But disease can also originate from defective degrada-
+insufficiency triggers UPR whatever the nature of the cargo. tion. If the rate of synthesis of a protein exceeds the combined rates of
+The mammalian ER sensors, Ire1, PERK and ATF6, guarantee folding and degradation, a fraction of it will accumulate intracellu-
+a tripartite response with synergic strategies16,17. By phosphorylating larly. At least two bottlenecks are encountered by ERAD substrates:
+eIF2a, PERK transiently attenuates translation, limiting protein dislocation across the membrane and actual degradation by the pro-
+load. ATF6 drives the transcriptional upregulation of many ER-resi- teasome. Inefficient proteolysis often results in the formation of
+dent proteins and folding assistants. Ire1 activates XBP-1, which in deposits of ubiquitylated proteins in the pericentriolar region,
+
+Chunk 13:
+eIF2a, PERK transiently attenuates translation, limiting protein dislocation across the membrane and actual degradation by the pro-
+load. ATF6 drives the transcriptional upregulation of many ER-resi- teasome. Inefficient proteolysis often results in the formation of
+dent proteins and folding assistants. Ire1 activates XBP-1, which in deposits of ubiquitylated proteins in the pericentriolar region, called
+turn induces transcription of factors that facilitate ER-associated aggresomes30. Studies with the prion protein suggest that mislocal-
+degradation (ERAD). The two-step activation of XBP-1 (transcrip- ization to the cytosol is sufficient to cause conversion into the PrPsc
+tionally induced by ATF6 and post-transcriptionally regulated by form31,32. By contrast, inefficient dislocation results in substrates
+Ire1) guarantees the proper timing of the UPR; attempts to fold pro- accumulating in the ER. Many ER storage diseases are characterized
+teins precede the decision to degrade them25. If the response fails to by the presence of dilated ER cisternae containing mutated pro-
+NATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 893
+
+---PAGE BREAK---
+
+insight progress
+teins30. It is not clear whether these aberrant structures are toxic per se 11. Meunier, L., Usherwood, Y. K., Chung, K. T. & Hendershot, L. M. A subset of chaperones and folding
+or whether they represent a defence mechanism that segregates dan- enzymes form multiprotein complexes in endoplasmic reticulum to bind nascent proteins. Mol. Biol.
+Cell13,4456–4469 (2002).
+gerous proteins into specialized ER subcompartments (Fig. 2). The
+12. Hendershot, L. M. Giving protein traffic the green light. Nature Cell Biol.2,E105–E106 (2000).
+tendency of the mutated protein to sequester chaperones, and hence 13. Herrmann, J. M., Malkus, P. & Schekman, R. Out of the ER — outfitters, escorts and guides. Trends
+to induce a prolonged UPR leading to apoptosis, is probably impor- Cell Biol.9,5–7 
+
+Chunk 14:
+nto specialized ER subcompartments (Fig. 2). The
+12. Hendershot, L. M. Giving protein traffic the green light. Nature Cell Biol.2,E105–E106 (2000).
+tendency of the mutated protein to sequester chaperones, and hence 13. Herrmann, J. M., Malkus, P. & Schekman, R. Out of the ER — outfitters, escorts and guides. Trends
+to induce a prolonged UPR leading to apoptosis, is probably impor- Cell Biol.9,5–7 (1999).
+tant in determining cell damage. 14. Sitia, R.et al.Developmental regulation of IgM secretion: the role of the carboxy-terminal cysteine.
+Cell60,781–790 (1990).
+Proteasome inhibitors are powerful inducers of the UPR, proba-
+15. Shen, J., Chen, X., Hendershot, L. & Prywes, R. ER stress regulation of ATF6 localization by
+bly because dislocation of many substrates is coupled to degradation. dissociation of BiP/GRP78 binding and unmasking of Golgi localization signals. Dev. Cell.3,99–111
+Receiving substrates from both ER and cytosol, proteasomes are (2002).
+16. Kaufman, R. J. Orchestrating the unfolded protein response in health and disease. J. Clin. Invest.110,
+crossroads of the two main protein quality-control systems. Condi-
+1389–1398 (2002).
+tions that hamper proteasome function, such as the presence of pro- 17. Harding, H. P., Calfon, M., Urano, F., Novoa, I. & Ron, D. Transcriptional and translational control in
+teins with polyglutamine repeats33,34or a lack of E3 ligases35, therefore the mammalian unfolded protein response. Annu. Rev. Cell Dev. Biol.18,575–599 (2002).
+can cause accumulation of ERAD substrates in the ER and activate 18. Brown, A., Sun, L., Feramisco, J., Brown, M. & Goldstein, J. Cholesterol addition to ER membranes
+alters conformation of SCAP, the SREBP escort protein that regulates cholesterol metabolism. Mol.
+UPR-dependent apoptotic pathways. In this way, proteotoxicity
+Cell 10,237–245 (2002).
+could be transmitted across compartments, with important implica- 19. Rivera, V. M. et al.Regulation of protein secretion through controlled aggregation 
+
+Chunk 15:
+Brown, M. & Goldstein, J. Cholesterol addition to ER membranes
+alters conformation of SCAP, the SREBP escort protein that regulates cholesterol metabolism. Mol.
+UPR-dependent apoptotic pathways. In this way, proteotoxicity
+Cell 10,237–245 (2002).
+could be transmitted across compartments, with important implica- 19. Rivera, V. M. et al.Regulation of protein secretion through controlled aggregation in the endoplasmic
+tions for degenerative diseases (reviewed in refs 35, 36). reticulum. Science287,826–830 (2000).
+20. Tsai, B., Ye, Y. & Rapoport, T. A. Retro-translocation of proteins from the endoplasmic reticulum into
+the cytosol. Nature Rev. Mol. Cell Biol.3,246–255 (2002).
+Perspectives
+21. Kostova, Z. & Wolf, D. H. For whom the bell tolls: protein quality control of the endoplasmic
+Over the past few years, much has been learned about how proteins reticulum and the ubiquitin-proteasome connection. EMBO J.22,2309–2317 (2003).
+are handled by the ER folding and quality-control machineries, and 22. Wang, T. & Hebert, D. N. EDEM an ER quality control receptor. Nature Struct. Biol.10,319–321
+(2003).
+some of this knowledge has begun to be translated to industry and
+23. Morimoto, R. I. Regulation of the heat shock transcriptional response: cross talk between a family of
+to the clinic. Yet, many questions remain: how does aggregation heat shock factors, molecular chaperones, and negative regulators. Genes Dev.12,3788–3796 (1998).
+relate to degradation? Are aggregation and degradation sometimes 24. Hosokawa, N. & Nagata, K. Procollagen binds to both prolyl 4-hydroxylase/protein disulfide
+mutually exclusive, with aggregation preventing dislocation? In isomerase and HSP47 within the endoplasmic reticulum in the absence of ascorbate. FEBS Lett.466,
+19–25 (2000).
+what circumstances does this happen? How does aggregation relate
+25. Yoshida, H. et al.A time-dependent phase shift in the mammalian unfolded protein response. Dev.
+to amyloid formation, and how can aggregates be eliminate
+
+Chunk 16:
+de
+mutually exclusive, with aggregation preventing dislocation? In isomerase and HSP47 within the endoplasmic reticulum in the absence of ascorbate. FEBS Lett.466,
+19–25 (2000).
+what circumstances does this happen? How does aggregation relate
+25. Yoshida, H. et al.A time-dependent phase shift in the mammalian unfolded protein response. Dev.
+to amyloid formation, and how can aggregates be eliminated? How Cell4,265–271 (2003).
+do cells secrete large molecular ensembles, such as procollagen and 26. Ma, Y. & Hendershot, L. M. The unfolding tale of the unfolded protein response. Cell107,827–830
+viruses? Even before complete answers are provided, new strategies (2001).
+27. Higashio, H. & Kohno, K. A genetic link between the unfolded protein response and vesicle
+for intervention are being considered to prevent viral replication,
+formation from the endoplasmic reticulum. Biochem. Biophys. Res. Commun.296,568–574 (2002).
+protein aggregation or amyloid formation. The most important 28. Reimold, A. M. et al.Plasma cell differentiation requires the transcription factor XBP-1. Nature412,
+question is whether the folding of a protein can be influenced 300–307 (2001).
+29. Cunnea, P. M. et al.ERdj5, an endoplasmic reticulum (ER)-resident protein containing DnaJ and
+specifically, with the goals either of curing a disease or of preventing
+thioredoxin domains, is expressed in secretory cells or following ER stress. J. Biol. Chem.278,
+virus assembly. Chemical chaperones and ligand-induced trans- 1059–1066 (2003).
+port opens options for designing specific drugs to control protein 30. Kopito, R. R. & Sitia, R. Aggresomes and Russell bodies. EMBO Rep. 1,225–231 (2000).
+(mis)folding or transport37,38. Likewise, tissue-specific chaperones 31. Ma, J., Wollmann, R. & Lindquist, S. Neurotoxicity and neurodegeneration when PrP accumulates in
+the cytosol. Science298,1781–1785 (2002).
+might be therapeutic targets and might provide important tools in
+32. Hegde, R. S. & Rane, N. S. Prion protein tra
+
+Chunk 17:
+R. & Sitia, R. Aggresomes and Russell bodies. EMBO Rep. 1,225–231 (2000).
+(mis)folding or transport37,38. Likewise, tissue-specific chaperones 31. Ma, J., Wollmann, R. & Lindquist, S. Neurotoxicity and neurodegeneration when PrP accumulates in
+the cytosol. Science298,1781–1785 (2002).
+might be therapeutic targets and might provide important tools in
+32. Hegde, R. S. & Rane, N. S. Prion protein trafficking and the development of neurodegeneration.
+biotechnology. Will we be able to reduce protein misfolding in Trends Neurosci.26,337–339 (2003).
+degenerative disorders, or induce it in some tumours so as to cause 33. Nishitoh, H. et al.ASK1 is essential for endoplasmic reticulum stress-induced neuronal cell death
+apoptosis? Last but not least, the UPR signalling cascades clearly triggered by expanded polyglutamine repeats. Genes Dev.16,1345–1355 (2002).
+34. Bence, N. F., Sampat, R. M. & Kopito, R. R. Impairment of the ubiquitin–proteasome system by
+offer targets for pharmacological intervention. Drugs that modu-
+protein aggregation. Science292,1552–1555 (2001).
+late the UPR may alleviate a variety of age-related diseases resulting 35. Imai, Y. et al.An unfolded putative transmembrane polypeptide, which can lead to endoplasmic
+from protein misfolding and aggregation. nn reticulum stress, is a substrate of Parkin. Cell105,891–902 (2001).
+36. Yoneda, T., Urano, F. & Ron, D. Transmission of proteotoxicity across cellular compartments. Genes
+Dev.16,1307–1313 (2002).
+doi:10.1038/nature02262 37. Brown, C. R., Hong-Brown, L. Q. & Welch, W. J. Correcting temperature-sensitive protein folding
+1. Ellgaard, L. & Helenius, A. Quality control in the endoplasmic reticulum. Nature Rev. Mol. Cell Biol.4, defects. J. Clin. Invest.99,1432–1444 (1997).
+181–191 (2003). 38. Aridor, M. & Balch, W. E. Perspectives: drug delivery. Regulating export of ER cargo. Science287,
+2. Fewell, S. W., Travers, K. J., Weissman, J. S. & Brodsky, J. L. The action of molecular chaperones in the 816–817 (2000)
+
+Chunk 18:
+lding
+1. Ellgaard, L. & Helenius, A. Quality control in the endoplasmic reticulum. Nature Rev. Mol. Cell Biol.4, defects. J. Clin. Invest.99,1432–1444 (1997).
+181–191 (2003). 38. Aridor, M. & Balch, W. E. Perspectives: drug delivery. Regulating export of ER cargo. Science287,
+2. Fewell, S. W., Travers, K. J., Weissman, J. S. & Brodsky, J. L. The action of molecular chaperones in the 816–817 (2000).
+early secretory pathway. Annu. Rev. Genet.35,149–191 (2001). 39. Kamhi-Nesher, S. et al. A novel quality control compartment derived from the endoplasmic
+3. Bouvier, M. Accessory proteins and the assembly of human class I MHC molecules: a molecular and reticulum. Mol. Biol. Cell12,1711–1723 (2001).
+structural perspective. Mol. Immunol.39,697–706 (2003). 40. Voeltz, G. K., Rolls, M. M. & Rapoport, T. A. Structural organization of the endoplasmic reticulum.
+4. Ellgaard, L., Molinari, M. & Helenius, A. Setting the standards: quality control in the secretory EMBO Rep.3,944–950 (2002).
+pathway. Science286,1882–1888 (1999). 41. Papp, S., Dziak, E., Michalak, M. & Opas, M. Is all of the endoplasmic reticulum created equal? The
+5. Schrag, J. D., Procopio, D. O., Cygler, M., Thomas, D. Y. & Bergeron, J. J. Lectin control of protein effects of the heterogeneous distribution of endoplasmic reticulum Ca2+-handling proteins. J. Cell
+folding and sorting in the secretory pathway. Trends Biochem. Sci.28, 49–57 (2003). Biol.160,475–479 (2003).
+6. Helenius, A. & Aebi, M. Intracellular functions of N-linked glycans. Science291,2364–2369 (2001). 42. Herz, J. and Marschang, P. Coaxing the LDL receptor family into the fold. Cell112,289–292 (2003).
+7. Sevier, C. S. & Kaiser, C. A. Formation and transfer of disulphide bonds in living cells. Nature Rev. Mol.
+Cell Biol.3,836–847 (2002).
+Acknowledgments We thank members of our laboratories for their criticisms and
+8. Fassio, A. & Sitia, R. Formation, isomerisation and reduction of disulphide bonds during protein
+enthusiasm, D. Ron for helpful sugge
+
+Chunk 19:
+r family into the fold. Cell112,289–292 (2003).
+7. Sevier, C. S. & Kaiser, C. A. Formation and transfer of disulphide bonds in living cells. Nature Rev. Mol.
+Cell Biol.3,836–847 (2002).
+Acknowledgments We thank members of our laboratories for their criticisms and
+8. Fassio, A. & Sitia, R. Formation, isomerisation and reduction of disulphide bonds during protein
+enthusiasm, D. Ron for helpful suggestions, T. Mastrandrea for secretarial assistance, and
+quality control in the endoplasmic reticulum. Histochem. Cell Biol.117,151–157 (2002).
+Associazione Italiana per la Ricerca sul Cancro (AIRC), Italian Ministries of Health,
+9. Harding, H. P. et al.An integrated stress response regulates amino acid metabolism and resistance to
+Education and Research (CoFin and Center of Excellence in Physiopathology of Cell
+oxidative stress. Mol. Cell11,619–633 (2003).
+Differentiation), NWO and Telethon for financial support. We apologize to the many
+10. van Anken, E. et al.Sequential waves of functionally related proteins are expressed when B cells
+colleagues whose seminal work we could not cite because of space limitations.
+prepare for antibody secretion. Immunity18,243–253 (2003).
+894 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+
+

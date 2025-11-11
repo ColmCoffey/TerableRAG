@@ -1,0 +1,872 @@
+Chunk 1:
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+Review Article
+Mechanisms of lysosomal tubulation and sorting
+driven by LRRK2
+Luis Bonet-Ponce1, Jillian H. Kluss2 and Mark R. Cookson3
+1DepartmentofNeurology,WexnerMedicalCenter,TheOhioStateUniversity,Columbus,OH43210,U.S.A.;2DenaliTherapeutics,SanFrancisco,CA94080,U.S.A.;3CellBiology
+andGeneExpressionSection,NationalInstituteonAging,NationalInstitutesofHealth,Bethesda,MD20892,U.S.A.
+Correspondence:LuisBonet-Ponce(luis.bonetponce@osumc.edu)orMarkR.Cookson(cookson@mail.nih.gov)
+Lysosomes are dynamic cellular structures that adaptively remodel their membrane in
+response to stimuli, including membrane damage. Lysosomal dysfunction plays a central
+role in the pathobiology of Parkinson’s disease (PD). Gain-of-function mutations in
+Leucine-rich repeat kinase 2 (LRRK2) cause familial PD and genetic variations in its locus
+increase the risk of developing the sporadic form of the disease. We previously uncov-
+ered a process we term LYTL (LYsosomal Tubulation/sorting driven by LRRK2), wherein
+membrane-damaged lysosomes generate tubules sorted into mobile vesicles.
+Subsequently, these vesicles interact with healthy lysosomes. LYTL is orchestrated by
+LRRK2 kinase activity, via the recruitment and phosphorylation of a subset of RAB
+GTPases. Here, we summarize the current understanding of LYTL and its regulation, as
+well asthe unknown aspects of this process.
+Introduction
+Lysosomes are catabolic organelles that clear intracellular macromolecules through autophagy, or
+extracellular cargo via endocytosis. Discovered as acidic compartments full of hydrolases [1], lyso-
+somes were initially thought to exclusively act as degradative stations. Acidification of the lysosomal
+lumen is critical for lysosomal degradation, as an acidic milieu is required for the proper functioning
+of many acid hydrolases. Lysosomal acidification is dependent on the large multisubunit mechanoen-
+zyme vacuolar (H+) ATPase (vA
+
+Chunk 2:
+Discovered as acidic compartments full of hydrolases [1], lyso-
+somes were initially thought to exclusively act as degradative stations. Acidification of the lysosomal
+lumen is critical for lysosomal degradation, as an acidic milieu is required for the proper functioning
+of many acid hydrolases. Lysosomal acidification is dependent on the large multisubunit mechanoen-
+zyme vacuolar (H+) ATPase (vATPase) that pumps protons into the lysosomal lumen by consuming
+ATP [2]. However, recent progress has expanded our view on how lysosomes regulate cellular homeo-
+stasis [3]. For example, it has been shown that, (i) lysosomes locally regulate the nutrient-sensing
+response through the mechanistic target of rapamycin (mTOR) [4]; (ii) lysosomes are well-known
+calcium (Ca2+) storage sites and therefore regulate Ca2+ homeostasis [5]; (iii) lysosomes also control
+the morphology of other organelles, including mitochondria [6] and the endoplasmic reticulum (ER)
+[7]; and (iv) lysosomes can bind and transport other cellular compartments to distal regions of the
+cell [8,9], which is important for mitochondrial homeostasis and axonal maintenance [10]. Overall,
+lysosomes are crucial organelles for maintaining cellular homeostasis and to preserve cellular health in
+stressful situations [3,11,12]. Therefore, it is not surprising that lysosomal dysfunction is a hallmark in
+numerous human diseases, including Parkinson’sdisease (PD) [13–19].
+PD is a neurodegenerative disorder characterized in part by the loss of dopaminergic neurons in
+the substantia nigra pars compacta and protein deposition pathology in multiple brain regions [20],
+resulting in a myriad of motor [21] and non-motor symptoms [22]. Nearly 10 million people are cur-
+rently living with PD worldwide, and this number is expected to increase over the coming decades
+Received:14May2024 [23] (parkinson.org). Unfortunately, while there are effective treatments for some symptoms early in
+Revised:16July2024 the disease course, there are 
+
+Chunk 3:
+gy in multiple brain regions [20],
+resulting in a myriad of motor [21] and non-motor symptoms [22]. Nearly 10 million people are cur-
+rently living with PD worldwide, and this number is expected to increase over the coming decades
+Received:14May2024 [23] (parkinson.org). Unfortunately, while there are effective treatments for some symptoms early in
+Revised:16July2024 the disease course, there are currently no disease-modifying therapies for PD. In terms of mechanisms
+Accepted:17July2024 of disease risk, several genetic causes for PD have been identified in recent years [24]. Among these,
+VersionofRecordpublished: coding variants in Leucine-rich repeat kinase 2 (LRRK2) cause familial PD [25,26], and non-coding
+31July2024 variation in the gene locus alters the risk of developing the sporadic form of the disease [27,28].
+1909
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+LRRK2 encodes for a large protein with two enzymatic activities: the ROC–COR bi-domain which can hydro-
+lase GTP (although with modest kinetics), and the Kinase domain which phosphorylates serine and threonine
+residues[29].PD-causingmutationsareclusteredwithinthesedomains,resultinginatoxicproteinwithhyper-
+active kinase activity [30]. In terms of cellular functions, several reports have associated LRRK2 with lysosomal
+biology. Mice lacking LRRK2 develop age-dependent kidney degeneration [31,32], correlated with lysosomal
+abnormalities in kidney epithelial cells [33]. Indeed, unbiased proteomics have shown dysregulated expression
+of lysosomal enzymes as an early event in murine LRRK2 knockout kidneys, preceding degeneration [34].
+Additionally, pathogenic LRRK2 mutations alter lysosomal morphology and function in certain cell types,
+including astrocytes [35], fibroblasts [36
+
+Chunk 4:
+ration [31,32], correlated with lysosomal
+abnormalities in kidney epithelial cells [33]. Indeed, unbiased proteomics have shown dysregulated expression
+of lysosomal enzymes as an early event in murine LRRK2 knockout kidneys, preceding degeneration [34].
+Additionally, pathogenic LRRK2 mutations alter lysosomal morphology and function in certain cell types,
+including astrocytes [35], fibroblasts [36] and microglia [37]. Taken together, and given the central role of lyso-
+somes in PD pathogenesis driven by multiple genes [16,17,38], it is plausible that the role of LRRK2 at lyso-
+somes may be critical for PD pathogenesis.
+We and others have shown that LRRK2 is recruited to the membrane of damaged lysosomes [39–41]. The
+presence of LRRK2 on lysosomes is exacerbated by lysosomotropic reagents that can selectively accumulate
+inside lysosomes, thereby changing lysosomal function [42]. Many lysosomotropic reagents induce lysosomal
+damage and break the lysosomal membrane in a process known as lysosomal membrane permeabilization or
+LMP [43]. Once at the lysosomal membrane, LRRK2 triggers a unique tubulation and sorting event we termed
+LYTL for LYsosomal Tubulation/sorting driven by LRRK2 [39]. LYTL comprises the deformation of the lyso-
+somal membrane in atubular structurethatelongatesthrough microtubules. These tubules can undergofission,
+resulting in sorted vesicles that travel around the cell, interacting with healthy, active lysosomes. Here, we will
+reviewourcurrent understanding of LYTL, itsregulation and potential cellular function.
+LRRK2 recruitment to damaged lysosomes
+It has been established that under resting conditions, LRRK2 primarilyexhibits acytosolic and diffuse distribu-
+tion, without apparent association with any specific organelle or cellular compartment [29]. However, in some
+cells, LRRK2 can be present at the membrane of a few lysosomes [39,41,44]. The LRRK2-positive lysosomes
+show decreased degradative capacity, and low levels of the lysosomal hydrolase C
+
+Chunk 5:
+ been established that under resting conditions, LRRK2 primarilyexhibits acytosolic and diffuse distribu-
+tion, without apparent association with any specific organelle or cellular compartment [29]. However, in some
+cells, LRRK2 can be present at the membrane of a few lysosomes [39,41,44]. The LRRK2-positive lysosomes
+show decreased degradative capacity, and low levels of the lysosomal hydrolase Cathepsin B. Based on these
+observations, we reasoned that LRRK2 is recruited to damaged lysosomes. The addition of certain lysosomotro-
+pic reagents that induce LMP, including L-leucyl-L-leucine methyl ester (LLOME) [39,41,44–46], Chloroquine
+(CQ) [40,47] or Nigericin [44,48], increase the recruitment of LRRK2 to lysosomes, supporting our hypothesis.
+Lysosomotropic reagents are not the only stimuli capable of inducing LRRK2 presence on lysosomes. In
+RAW264.7 cells, exogenous cellular stressors like bacterial infection [41] or the stimulation of the danger-
+sensing pathway cyclic GMP–AMP synthase (cGAS)–stimulator of interferon genes (STING) [44] also increase
+LRRK2 presence on lysosomes. Cells expressing the PD mutation VPS35-D620N [49] also show enhanced
+LRRK2 recruitment to lysosomes [50]. VPS35 is a member of the retromer complex [51,52] and is responsible
+for receptor recycling from endosomes to the trans-Golgi network and the plasma membrane. The
+VPS35-D620N effect on LRRK2 recruitment to lysosomes is likely due to reduced autophagy and lower lyso-
+somaldegradativecapacity[53].Collectively,theseobservationsdemonstratethatbothexogenousandendogen-
+ous stimuli that stress lysosomes are sufficient to target LRRK2 to these compartments. Furthermore, that
+similar phenomena can be accessed by events related to inflammation suggests that LRRK2 activation is a
+physiological event.
+The recruitment of LRRK2 to damaged lysosomes appears to be multifactorial (Figure 1). CASM (conjuga-
+tion of ATG8 to single membranes) is a non-canonical autophagy pathway wherein ATG8 family members
+
+Chunk 6:
+es are sufficient to target LRRK2 to these compartments. Furthermore, that
+similar phenomena can be accessed by events related to inflammation suggests that LRRK2 activation is a
+physiological event.
+The recruitment of LRRK2 to damaged lysosomes appears to be multifactorial (Figure 1). CASM (conjuga-
+tion of ATG8 to single membranes) is a non-canonical autophagy pathway wherein ATG8 family members are
+targeted to single membranes from the endolysosomal system [54]. CASM is independent of many of the clas-
+sical autophagy core proteins but requires the core ubiquitin-like conjugation systems that support ATG8 lipi-
+dation to membranes, including ATG5, ATG7 and ATG16L1 [55]. CASM is activated by the vATPase, a
+lysosomal pump responsible for lysosomal acidification [56,57]. The engagement of the vATPase’s two large
+domains (V0–V1) is necessary and sufficient to recruit ATG16L1 to the lysosomal membrane under several
+CASM-activating stimuli [54]. Lysosomotropic reagents, bacterial infection and stimulation of the
+cGAS-STING pathway all activate CASM and CASM inhibition decreases LRRK2 recruitment and activity on
+damaged lysosomes [44,47]. In addition to CASM, the small GTPase and LRRK2 substrate RAB12, is also
+importanttorecruitandactivateLRRK2todamaged lysosomes[58,59].Itisalsopossiblethatmembraneprop-
+erties are important for LRRK2 recruitment, as purified LRRK2 can directly bind to liposomes in vitro, with
+preference for highly curved membranes [60]. Thus, recruitment of LRRK2 to the lysosome likely depends on
+1910
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+Figure1.LRRK2recruitmenttodamagedlysosomestriggersLYsosomalTubulationandsortingdrivenbyLRRK2.
+(A)Upondifferentstressstimuli,LRRK2localizestothelysosomalmembranewhereitphosphorylate
+
+Chunk 7:
+ndPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+Figure1.LRRK2recruitmenttodamagedlysosomestriggersLYsosomalTubulationandsortingdrivenbyLRRK2.
+(A)Upondifferentstressstimuli,LRRK2localizestothelysosomalmembranewhereitphosphorylatesandrecruitsasubsetof
+RABproteins.CelllocalizationwilldeterminethepatternofrecruitmentofthepRABsandtheireffectors.Indeed,pRAB10and
+RILPL1/JIP4willbepresentalmostexclusivelyonperinuclearlysosomes(clusteredaroundthecentrosome).(B)LRRK2is
+recruitedtodamagedlysosomesbyRAB12andCASM,andviaitspRABS,recruitstwoRHDproteins(RILPL1andJIP4).JIP4
+bindstoanunknownkinesinandelongatestubularstructuresemanatingfromlysosomes.RILPL1,bybindingthedynactin
+subunitp150Glued,hastheoppositeeffectretractingthetubularstructurestowardtheminus-endofmicrotubules.LYTLtubules
+undergosorting,partiallyregulatedbytheER,travelaroundthecellandcontacthealthylysosomes.
+both membrane and protein components, including some that like vATPase are present basally at lysosomal
+membranes.
+LRRK2 is known to phosphorylate a subset of fourteen RAB GTPases (RAB3A/B/C/D, RAB5A/B/C,
+RAB8A/B, RAB10, RAB12, RAB29, RAB35 and RAB43) in a conserved region of their switch-II domain [61].
+The presence of LRRK2 at a membrane is sufficient to trigger its activation and recruitment of RAB substrates
+[46,62,63]. Specifically, LRRK2 activation on membranes is independent of the membrane identity [62,63].
+Once at the lysosomal membrane, LRRK2 becomes kinase active and recruits and phosphorylates most of its
+canonical RAB substrates [64]. RABs removal from their membranes require inactivation via hydrolysis of GTP
+into GDP, and subsequent extraction from the membrane by the GDP dissociation inhibitor (GDI) [65], which
+solubilizes the inactive prenylated RAB protein into the cytosol. RAB phosphorylation by LRRK2 blocks the
+ability of RABs 
+
+Chunk 8:
+comes kinase active and recruits and phosphorylates most of its
+canonical RAB substrates [64]. RABs removal from their membranes require inactivation via hydrolysis of GTP
+into GDP, and subsequent extraction from the membrane by the GDP dissociation inhibitor (GDI) [65], which
+solubilizes the inactive prenylated RAB protein into the cytosol. RAB phosphorylation by LRRK2 blocks the
+ability of RABs to bind to their GDI [61], thus blocking the removal of the RAB from their membrane.
+Proteomics analysis on isolated lysosomes suggests that LRRK2 recruits nine of its known RAB substrates
+(RAB3A/B/C, RAB8A/B, RAB10, RAB12, RAB29 and RAB35) (Figure 1) [64], indicating that RAB5A/B/C and
+RAB43 arenot activatedby LRRK2 in the context of lysosomal damage.
+LRRK2 directs RHD family members to lysosomes via pRAB
+proteins
+RAB GTPases perform their cellular functions by recruiting effectors to the target membrane [66]. Effectors
+bind a specific RAB, typically in its GTP-bound state, and mediate at least one downstream biological effect
+[67]. RAB effectors are a diverse group of proteins that affect various cellular functions including membrane
+tethering, organelle transport or membrane fusion [68]. Structural and biochemical analyses have shown that
+phospho-RABs (pRABs) can bind RILP-homology domain (RHD) family members [69]. The RHD family
+members include JNK-interacting protein 3 (JIP3), JNK-interacting protein 4 (JIP4), RILP-like protein 1
+1911
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+(RILPL1) and RILP-like protein 2 (RILPL2). This group of proteins share two RHDs, RHD1 and RHD2 [70]
+(Figure 2). The phosphorylated substrate on the pRABs binds to an exposed arginine in the N terminal region
+of the RHD2 [69]. A nearbyarginine, which is absent fro
+
+Chunk 9:
+tributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+(RILPL1) and RILP-like protein 2 (RILPL2). This group of proteins share two RHDs, RHD1 and RHD2 [70]
+(Figure 2). The phosphorylated substrate on the pRABs binds to an exposed arginine in the N terminal region
+of the RHD2 [69]. A nearbyarginine, which is absent from the relatedprotein RILP, is crucial in stabilizing the
+interaction [69,71] (Figure 2). The RAB:RHD complex is a heterotetramer, with RHD family members forming
+acentral α-helical dimer that connects two pRAB molecules. The N termini of the α helices form an X-shaped
+cap that directs arginine residues from RHD proteins toward the phosphorylated residue on the RAB (i.e.
+threonine 73 for RAB10) (Figure 2).
+At the surface of damaged lysosomes, pRABs can recruit at least two members of this family (JIP4 and
+RILPL1) (Figure 1). JIP4 and RILPL1 stain for tubular structures that emanate from the lysosome and lack
+typical lysosomal membrane markers and also lack LRRK2 [39,45,64]. These tubules elongate on tyrosinated
+microtubules [64] and are highly dynamic [45], asthey can retract toward the lysosomal membrane or undergo
+sorting. Based on these observations, we named this process LYTL for LYsosomal Tubulation/sorting driven by
+LRRK2. Once sorted, LYTL vesicles move around the cytosol and can contact healthy lysosomes [39]. The
+length of these contacts is variable and has not been shown to result in fusion. We think that these contacts
+could result in cargo transfer from LYTL vesicles to active lysosomes for degradation, although this hypothesis
+has not yet been proven empirically.
+RHD members typically act as motor adaptor proteins by recruiting motors to different organelles, promot-
+ing their movement [70,72]. JIP3 and JIP4 can bind to both dynein-light intermediate chain and kinesin-heavy
+chain (KIF5) via their RHD1; and to p150Glued and kinesin-light chain via their leucine-z
+
+Chunk 10:
+active lysosomes for degradation, although this hypothesis
+has not yet been proven empirically.
+RHD members typically act as motor adaptor proteins by recruiting motors to different organelles, promot-
+ing their movement [70,72]. JIP3 and JIP4 can bind to both dynein-light intermediate chain and kinesin-heavy
+chain (KIF5) via their RHD1; and to p150Glued and kinesin-light chain via their leucine-zipper II domain
+(LZII) [70,73–79]. p150Glued is the largest dynactin subunit and is crucial for dynein-dependent retrograde
+transport [80–82]. RILPL2 is involved in actin-dependent transport, recruiting myosin-Va [83,84], also through
+its RHD1 [85]. RILPL1 binds to p150Glued and promotes the clustering of LRRK2-positive lysosomes toward
+the centrosome [64]. LYTL tubules are highly dynamic structures [45] that elongate toward the plus-end of
+microtubules and retract toward its minus-end [64]. JIP4 depletion reduces tubulation [39], whereas RILPL1
+deficiency increases the length of LYTL tubules [64]. These contradictory roles suggest that JIP4 elongates
+LYTL tubules via an unknown kinesin, and RILPL1 retracts tubules via dynactin/dynein (Figure 1). JIP4 can
+also bind to and activate dynein when recruited to autophagosomes by ARF6 [86], promoting retrograde
+autophagosomal transport. In cells expressing hyperactive LRRK2, JIP4 increases its binding to kinesin via
+RAB10, hampering autophagosomal transport [86,87]. Such observations are consistent with our working
+model, where pRAB proteins facilitate JIP4 binding to kinesins leading to tubule elongation. We believe that
+the simultaneous binding of pRABs to RHD proteins and hence to motor proteins that drive transport in
+opposite directions along microtubules results in dynamic instability of the tubule-associated membrane [64].
+Depletion of KIF5B has no effect on LYTL tubulation [64], suggesting that JIP4 binds to a different kinesin
+during LYTL. The nature of LYTL’s kinesin remains unknown, and needs to be addressed in future w
+
+Chunk 11:
+ binding of pRABs to RHD proteins and hence to motor proteins that drive transport in
+opposite directions along microtubules results in dynamic instability of the tubule-associated membrane [64].
+Depletion of KIF5B has no effect on LYTL tubulation [64], suggesting that JIP4 binds to a different kinesin
+during LYTL. The nature of LYTL’s kinesin remains unknown, and needs to be addressed in future work. JIP4
+bindingtodyneincanalsooccuronlysosomes, independentlyofLRRK2,leadingtoretrogradelysosomaltrans-
+port inresting conditions, under starvation oroxidative stress [88–90].
+Tubulation and sorting processes in the cell often require the binding of Bin/amphiphysin/Rvs (BAR)
+domain proteins that promote membrane curvature, allowing tubule formation and subsequent fission [91].
+Even though no BAR family member has yet been identified in LYTL [39], LRRK2 GTPase activity can
+promote tubulation in isolated liposomes [60]. As LRRK2 is absent on LYTL tubules, it is possible that LRRK2
+GTPase activity contributesto membrane deformation prior to tubule elongation. Morework needs to be done
+to concretely identify themechanismresponsible for membrane curvature.
+The ERconsists of a large and interconnected networkof tubules and flat cisternae [92]. The ER forms con-
+tacts with several cellular structures, which can lead to fission [93–95]. ER tubules establish contacts with LYTL
+tubulespreceding membranefissionandreducing theamountofERtubulesimpairssorting [45].Thisobserva-
+tion suggests that the ER promotes sorting due to contacts with LYTL tubules. LYTL is also regulated by lyso-
+somal positioning (Figure 1) [46]. By tagging LRRK2 to a lysosomal targeting sequencewe artificiallyexpressed
+LRRK2 on lysosomes, bypassing the need to add a lysosomotropic reagent or toxic stimuli. Interestingly,
+pRAB10 and JIP4 are only present in LRRK2-positive perinuclear lysosomes despite LRRK2 being kinase active
+also in peripheral lysosomes. Manipulation of lysosomal positioning has a similar effec
+
+Chunk 12:
+sitioning (Figure 1) [46]. By tagging LRRK2 to a lysosomal targeting sequencewe artificiallyexpressed
+LRRK2 on lysosomes, bypassing the need to add a lysosomotropic reagent or toxic stimuli. Interestingly,
+pRAB10 and JIP4 are only present in LRRK2-positive perinuclear lysosomes despite LRRK2 being kinase active
+also in peripheral lysosomes. Manipulation of lysosomal positioning has a similar effect, there is a decrease in
+pRAB10/JIP4 on LRRK2-positive lysosomes by induction of lysosomal anterograde transport and an increase
+pRAB10/JIP4 levels on lysosomes by induction of lysosomal retrograde transport. This local regulation of LYTL
+likely depends on phosphatases or RAB GAPs/GEFs that have differential lysosomal presence depending on
+lysosomal location, although these proteins remain tobe identified.
+1912
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+Figure2.RILP-homologydomain(RHD)proteinsactaspRABeffectorsbybindingtothephosphorylatedresidue
+throughaconservedarginineintheirRHDdomain.
+RILPL1andJIP4andbothRHDproteinsarerecruitedtothelysosomalmembraneviapRABproteins.UsingAlphaFold2
+Multimer,wemodeledtheinteractionbetweenaRABsubstrate(RAB10)andRILP1/JIP4.TheRAB:RHDcomplexisa
+heterotetramer,withRHDfamilymembersformingacentralα-helicaldimerthatconnectstwopRABmolecules.TheNtermini
+oftheαhelicesformanX-shapedcapthatdirectsarginineresiduesfromRHDproteinstowardthephosphorylatedresidueon
+theRAB(i.e.threonine73forRAB10).
+Other lysosomal tubulation events
+Lysosomes deform their membranes as a common adaptive response to multiple stimuli [96]. These lysosomal
+tubulation and membrane remodeling events play a vital role in maintaining cellular homeostasis. We review
+these different tubules to emphasize that these are morphologically, molecularly and fu
+
+Chunk 13:
+stowardthephosphorylatedresidueon
+theRAB(i.e.threonine73forRAB10).
+Other lysosomal tubulation events
+Lysosomes deform their membranes as a common adaptive response to multiple stimuli [96]. These lysosomal
+tubulation and membrane remodeling events play a vital role in maintaining cellular homeostasis. We review
+these different tubules to emphasize that these are morphologically, molecularly and functionally distinct from
+LYTL.
+Tubular lysosomes
+Lysosomes can transition from a vesicular to a tubular morphology [97]. This change in morphology is signifi-
+cant during immune cell stimulation [98], as it enhances lysosomal surface area, facilitating MHC-II presenta-
+tion in dendritic cells [99,100] and promoting phagocytosis inmacrophages [101]. Tubularlysosomes (TLs) are
+also abundant in osteoclasts and muscle cells, regulating bone metabolism [102] and muscle remodeling [103].
+Dietary restriction has been shown to promote longevity in various species, such as Caenorhabditis elegans,
+where aging is associated with increased TLs [104]. This morphological change appears to be essential for the
+longevity induced bystarvation inthese organisms [105,106].
+Lysosomal reformation
+To replenish the lysosomal pool during periods of high catabolic activity, including starvation [107], endocyto-
+sis [108] or phagocytosis [109], healthy and active lysosomes protrude their membranes into tubular structures
+that fission into new lysosomes. This highly regulated process is called lysosomal reformation (LR) [110–115].
+Notably, LR tubules are stained with LAMP1 and othercommon lysosomal membrane markers. Although they
+are different cellular processes, LYTL and LR do share some similarities: (i) the ER also marks both LR and
+LYTL fission sites [116], underscoring the importance of the ER in promoting membrane fission in multiple
+cellular structures; and (ii) both elongate toward the plus-end of microtubules, even though depletion of
+KIF5B, themotorproteinfor LR [117], has noeffecton LYTLtu
+
+Chunk 14:
+markers. Although they
+are different cellular processes, LYTL and LR do share some similarities: (i) the ER also marks both LR and
+LYTL fission sites [116], underscoring the importance of the ER in promoting membrane fission in multiple
+cellular structures; and (ii) both elongate toward the plus-end of microtubules, even though depletion of
+KIF5B, themotorproteinfor LR [117], has noeffecton LYTLtubulation.
+ATG8-positive tubules
+As discussed above, lysosomal membrane damage induces CASM, a process where ATG8s (LC3A/B/C,
+GABARAPand GABARAPL1/2) aredirected to the membrane of rupturedlysosomes. Once on lysosomes, one
+1913
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+of the ATG8 members (LC3A) physically binds to ATG2A/B [118], which are lipid transfer proteins that have
+been associated with lysosomal membrane repair by transferring phosphatidylserine to ruptured lysosomes, via
+the phosphoinositide-initiated membrane tethering and lipid transport (PITT) pathway [119]. Additionally,
+ATG8s form tubular structures that elongate from lysosomes via microtubules and lack LAMP1 [118]. Similar
+to LYTL, ATG8-positive tubules are dynamic and can also be sorted into vesicles. ATG8-positive tubules
+appear unrelated to LYTL, as LRRK2 kinase inhibition has no effect on ATG8 tubulation [118]. The role of
+these ATG8-positive tubules and vesicles remains unclear and requires futurework. However, LYTL and ATG8
+tubulation seem to act in parallel during lysosomal membrane damage and could befunctionally related.
+Conclusions
+Lysosomes reform their membranes to respond to membrane damage [12]. Notably, lysosomes stabilize and
+repair their membranes through multiple different mechanisms that may be partially redundant [119–123]. If
+damage persists, the cell clea
+
+Chunk 15:
+nd requires futurework. However, LYTL and ATG8
+tubulation seem to act in parallel during lysosomal membrane damage and could befunctionally related.
+Conclusions
+Lysosomes reform their membranes to respond to membrane damage [12]. Notably, lysosomes stabilize and
+repair their membranes through multiple different mechanisms that may be partially redundant [119–123]. If
+damage persists, the cell clears damaged lysosomes via lysophagy [124–132]. LYTL is an alternative process
+used by lysosomesto respond to more limited membrane damage. Cellsthat lack LRRK2 orare treated with an
+LRRK2 kinase inhibitor failto displayrecruitment ofLYTLproteins (RABs, JIP4or RILPL1) tolysosomes,sug-
+gesting that LRRK2 kinase activity is necessary for LYTL. In culture, the induction of lysosomal damage trig-
+gers LRRK2 recruitment to lysosomes, but it is not yet clear if this process can be fully recapitulated in a more
+physiological context. Recent work has shown that cGAS-STING stimulation can also induce LRRK2 recruit-
+ment to lysosomes in a macrophage cell line [44], demonstrating that non-lysosomotropic reagents can also
+promote LRRK2 presence on lysosomes. Nonetheless, LRRK2 recruitment and activation on lysosomes still
+needsto be reported in an invivocontext.
+Once on lysosomes, LRRK2 initiates LYTL via recruitment and phosphorylation of RAB proteins. Our
+current understanding of LYTL suggeststhat LRRK2 recruits nine RABs [64] and at least one of them (RAB12)
+is likely to contribute to LRRK2 recruitment [58,59]. We have shown that RAB10 physically binds to the RHD
+family members JIP4 and RILPL1, but the role of the remaining RAB substrates in LYTL remains unclear.
+Interestingly, RAB8A may play a role in iron homeostasis once recruited by LRRK2 to damaged lysosomes
+[133].
+We have shown that the ER contributes to tubule sorting [45], indicating there is likely a dynamin-like
+protein that remainsto be identified playing the role as membrane ‘scissor’. Unpublished datafrom our labora-
+tory
+
+Chunk 16:
+1, but the role of the remaining RAB substrates in LYTL remains unclear.
+Interestingly, RAB8A may play a role in iron homeostasis once recruited by LRRK2 to damaged lysosomes
+[133].
+We have shown that the ER contributes to tubule sorting [45], indicating there is likely a dynamin-like
+protein that remainsto be identified playing the role as membrane ‘scissor’. Unpublished datafrom our labora-
+tory found lack of colocalization of several proteins known to fission membranes in other cellular contexts
+(DNM2, DNM2, DRP1, EHD1, EndoA2 and VPS4A). MROH1, a recently discovered highly conserved lyso-
+somal fission protein[114], could bea good candidate for LYTL tubule fission.
+Once sorted, LYTL vesicles travel around the cell via microtubules and can contact healthy/active lysosomes.
+We hypothesize that LYTL is a healthy stress response, aimed at targeting undegraded cargo into vesicles for
+degradation on healthy/active lysosomes. However, this hypothesis remainsto be supported or disproven asthe
+cargo transported by LYTL vesicles awaits identification. Another possible hypothesis is that LYTL vesicles
+could fuse with the plasma membrane, unloading their cargo into the extracellular space. It is also noteworthy
+that LRRK2 has been proposed to play a role in other organelles or cellular structures (for a review: [29]),
+further complicating the current knowledge on disease mechanisms in LRRK2-PD. Understanding the cellular
+role of LYTL is crucial not only to pinpoint the effect of LYTL in cellular homeostasis during lysosomal mem-
+brane damage,but specially tobetter understand therole of LYTL inPD.
+Perspectives
+(cid:129) Cells have multiple overlapping ways to respond to lysosomal damage, including LYsosomal
+Tubulation/sorting driven by LRRK2, showing that avoiding the misregulation of lysosomes
+and theircontents is critical forcell health.
+(cid:129) We have outlined the key mechanistic steps by which LRRK2 affects lysosomal morphology in
+cells that link known substrates, spe
+
+Chunk 17:
+e of LYTL inPD.
+Perspectives
+(cid:129) Cells have multiple overlapping ways to respond to lysosomal damage, including LYsosomal
+Tubulation/sorting driven by LRRK2, showing that avoiding the misregulation of lysosomes
+and theircontents is critical forcell health.
+(cid:129) We have outlined the key mechanistic steps by which LRRK2 affects lysosomal morphology in
+cells that link known substrates, specifically RAB proteins, to downstream adaptor proteins
+and molecular motors.
+1914
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+(cid:129) Further work is required to understand the extent towhich we can generalize LYTL across dif-
+ferent physiological triggers and identify downstream consequencesfor the cell.
+Open Access
+OpenaccessforthisarticlewasenabledbytheparticipationofOhioStateUniversityinanall-inclusiveRead&
+PublishagreementwithPortlandPressandtheBiochemicalSociety.
+Competing Interests
+J.H.K.isanemployeeofDenaliTherapeuticsInc.
+Abbreviations
+BAR,Bin/amphiphysin/Rvs;CASM,conjugationofATG8tosinglemembranes;cGAS,cyclicGMP–AMP
+synthase;ER,endoplasmicreticulum;GDI,GDPdissociationinhibitor;JIP3,JNK-interactingprotein3;JIP4,
+JNK-interactingprotein4;LR,lysosomalreformation;LRRK2,leucine-richrepeatkinase2;LYTL,LYsosomal
+Tubulation/sortingdrivenbyLRRK2;LZII,Leucine-zipperIIdomain;mTOR,mechanistictargetofrapamycin;PD,
+Parkinson’sdisease;pRABs,phospho-RABs;RHD,RILP-homologydomain;RILPL1,RILP-likeprotein1;
+RILPL2,RILP-likeprotein2;STING,stimulatorofinterferongenes;TLs,tubularlysosomes;vATPase,vacuolar
+(H+)ATPase.
+References
+1 deDuve,C.,Pressman,B.C.,Gianetto,R.,Wattiaux,R.andAppelmans,F.(1955)Tissuefractionationstudies.6.Intracellulardistributionpatternsof
+enzymesinrat-livertissue.Biochem.J.60,604–617https://doi.org/10.1042/bj0600604
+2 Mindell,J.A.(2
+
+Chunk 18:
+RHD,RILP-homologydomain;RILPL1,RILP-likeprotein1;
+RILPL2,RILP-likeprotein2;STING,stimulatorofinterferongenes;TLs,tubularlysosomes;vATPase,vacuolar
+(H+)ATPase.
+References
+1 deDuve,C.,Pressman,B.C.,Gianetto,R.,Wattiaux,R.andAppelmans,F.(1955)Tissuefractionationstudies.6.Intracellulardistributionpatternsof
+enzymesinrat-livertissue.Biochem.J.60,604–617https://doi.org/10.1042/bj0600604
+2 Mindell,J.A.(2012)Lysosomalacidificationmechanisms.Annu.Rev.Physiol.74,69–86https://doi.org/10.1146/annurev-physiol-012110-142317
+3 Ballabio,A.andBonifacino,J.S.(2020)Lysosomesasdynamicregulatorsofcellandorganismalhomeostasis.Nat.Rev.Mol.CellBiol.21,101–118
+https://doi.org/10.1038/s41580-019-0185-4
+4 Goul,C.,Peruzzo,R.andZoncu,R.(2023)Authorcorrection:themolecularbasisofnutrientsensingandsignallingbymTORC1inmetabolism
+regulationanddisease.Nat.Rev.Mol.CellBiol.24,934https://doi.org/10.1038/s41580-023-00670-3
+5 Lloyd-Evans,E.andWaller-Evans,H.(2020)LysosomalCahomeostasisandsignalinginhealthanddisease.ColdSpringHarb.Perspect.Biol.12,
+a035311https://doi.org/10.1101/cshperspect.a035311
+6 Wong,Y.C.,Ysselstein,D.andKrainc,D.(2018)Mitochondria-lysosomecontactsregulatemitochondrialfissionviaRAB7GTPhydrolysis.Nature554,
+382–386https://doi.org/10.1038/nature25486
+7 Spits,M.,Heesterbeek,I.T.,Voortman,L.M.,Akkermans,J.J.,Wijdeven,R.H.,Cabukusta,B.etal.(2021)Mobilelateendosomesmodulateperipheral
+endoplasmicreticulumnetworkarchitecture.EMBORep.22,e50815https://doi.org/10.15252/embr.202050815
+8 Liao,Y.-C.,Fernandopulle,M.S.,Wang,G.,Choi,H.,Hao,L.,Drerup,C.M.etal.(2019)RNAgranuleshitchhikeonlysosomesforlong-distance
+transport,usingAnnexinA11asamoleculartether.Cell179,147–164.e20https://doi.org/10.1016/j.cell.2019.08.050
+9 Guo,Y.,Li,D.,Zhang,S.,Yang,Y.,Liu,J.-J.,Wang,X.etal.(2018)Visualizingintracellularorganelleandcytoskeletalinteractionsatnanoscale
+resolutiononmillisecondtimescales.Cell175,1430–1442.e17https://doi.org/10.1016/j.cell.2018.09.057
+10 DePace,R.,Ghosh,S.,Ryan,V.H.,Sohn,M.,Jarnik,M.,RezvanSan
+
+Chunk 19:
+ance
+transport,usingAnnexinA11asamoleculartether.Cell179,147–164.e20https://doi.org/10.1016/j.cell.2019.08.050
+9 Guo,Y.,Li,D.,Zhang,S.,Yang,Y.,Liu,J.-J.,Wang,X.etal.(2018)Visualizingintracellularorganelleandcytoskeletalinteractionsatnanoscale
+resolutiononmillisecondtimescales.Cell175,1430–1442.e17https://doi.org/10.1016/j.cell.2018.09.057
+10 DePace,R.,Ghosh,S.,Ryan,V.H.,Sohn,M.,Jarnik,M.,RezvanSangsari,P.etal.(2024)MessengerRNAtransportonlysosomalvesiclesmaintains
+axonalmitochondrialhomeostasisandpreventsaxonaldegeneration.Nat.Neurosci.27,1087–1102https://doi.org/10.1038/s41593-024-01619-1
+11 Tan,J.X.andFinkel,T.(2023)Lysosomesinsenescenceandaging.EMBORep.24,e57265https://doi.org/10.15252/embr.202357265
+12 Meyer,H.andKravic,B.(2024)Theendo-lysosomaldamageresponse.Annu.Rev.Biochem.93,10.1–10.21https://doi.org/10.1146/annurev-biochem-
+030222-102505
+13 Ngo,K.J.,Paul,K.C.,Wong,D.,Kusters,C.D.J.,Bronstein,J.M.,Ritz,B.etal.(2024)LysosomalgenescontributetoParkinson’sdiseasenear
+agriculturewithhighintensitypesticideuse.npjParkinson’sDis.10,87https://doi.org/10.1038/s41531-024-00703-4
+14 Brooker,S.M.,Naylor,G.E.andKrainc,D.(2024)CellbiologyofParkinson’sdisease:mechanismsofsynaptic,lysosomal,andmitochondrial
+dysfunction.Curr.Opin.Neurobiol.85,102841https://doi.org/10.1016/j.conb.2024.102841
+15 Mamais,A.,Wallings,R.andRocha,E.M.(2023)Diseasemechanismsassubtypes:lysosomaldysfunctionintheendolysosomalParkinson’sdisease
+subtype.Handb.Clin.Neurol.193,33–51https://doi.org/10.1016/B978-0-323-85555-6.00009-6
+16 Klein,A.D.andMazzulli,J.R.(2018)IsParkinson’sdiseasealysosomaldisorder?Brain141,2255–2262https://doi.org/10.1093/brain/awy147
+17 Udayar,V.,Chen,Y.,Sidransky,E.andJagasia,R.(2022)Lysosomaldysfunctioninneurodegeneration:emergingconceptsandmethods.Trends
+Neurosci.45,184–199https://doi.org/10.1016/j.tins.2021.12.004
+18 Muraleedharan,A.andVanderperre,B.(2023)Theendo-lysosomalsysteminParkinson’sdisease:expandingthehorizon.J.Mol.Biol.435,168140
+https://doi.org/10.1016/j.jmb.2023.1681
+
+Chunk 20:
+255–2262https://doi.org/10.1093/brain/awy147
+17 Udayar,V.,Chen,Y.,Sidransky,E.andJagasia,R.(2022)Lysosomaldysfunctioninneurodegeneration:emergingconceptsandmethods.Trends
+Neurosci.45,184–199https://doi.org/10.1016/j.tins.2021.12.004
+18 Muraleedharan,A.andVanderperre,B.(2023)Theendo-lysosomalsysteminParkinson’sdisease:expandingthehorizon.J.Mol.Biol.435,168140
+https://doi.org/10.1016/j.jmb.2023.168140
+19 Dehay,B.,Martinez-Vicente,M.,Caldwell,G.A.,Caldwell,K.A.,Yue,Z.,Cookson,M.R.etal.(2013)LysosomalimpairmentinParkinson’sdisease.Mov.
+Disord.28,725–732https://doi.org/10.1002/mds.25462
+1915
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+20 Morris,H.R.,Spillantini,M.G.,Sue,C.M.andWilliams-Gray,C.H.(2024)ThepathogenesisofParkinson’sdisease.Lancet403,293–304https://doi.
+org/10.1016/S0140-6736(23)01478-2
+21 Cilia,R.,Cereda,E.,Akpalu,A.,Sarfo,F.S.,Cham,M.,Laryea,R.etal.(2020)NaturalhistoryofmotorsymptomsinParkinson’sdiseaseandthe
+long-durationresponsetolevodopa.Brain143,2490–2501https://doi.org/10.1093/brain/awaa181
+22 Schapira,A.H.V.,Chaudhuri,K.R.andJenner,P.(2017)Non-motorfeaturesofParkinsondisease.Nat.Rev.Neurosci.18,435–450https://doi.org/10.
+1038/nrn.2017.62
+23 Marras,C.,Beck,J.C.,Bower,J.H.,Roberts,E.,Ritz,B.,Ross,G.W.etal.(2018)PrevalenceofParkinson’sdiseaseacrossNorthAmerica.npj
+Parkinson’sDis.4,1–7https://doi.org/10.1038/s41531-017-0038-9
+24 Nalls,M.A.,Blauwendraat,C.,Vallerga,C.L.,Heilbron,K.,Bandres-Ciga,S.,Chang,D.etal.(2019)Identificationofnovelriskloci,causalinsights,and
+heritableriskforParkinson’sdisease:ameta-analysisofgenome-wideassociationstudies.LancetNeurol.18,1091–1102https://doi.org/10.1016/
+S1474-4422(19)30320-5
+25 Paisán-Ruíz,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simón,J.,vanderBrug,M.etal.(2004)Cloningofthegenecontainingmutat
+
+Chunk 21:
+lls,M.A.,Blauwendraat,C.,Vallerga,C.L.,Heilbron,K.,Bandres-Ciga,S.,Chang,D.etal.(2019)Identificationofnovelriskloci,causalinsights,and
+heritableriskforParkinson’sdisease:ameta-analysisofgenome-wideassociationstudies.LancetNeurol.18,1091–1102https://doi.org/10.1016/
+S1474-4422(19)30320-5
+25 Paisán-Ruíz,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simón,J.,vanderBrug,M.etal.(2004)Cloningofthegenecontainingmutationsthatcause
+PARK8-linkedParkinson’sdisease.Neuron44,595–600https://doi.org/10.1016/j.neuron.2004.10.023
+26 Zimprich,A.,Biskup,S.,Leitner,P.,Lichtner,P.,Farrer,M.,Lincoln,S.etal.(2004)MutationsinLRRK2causeautosomal-dominantparkinsonismwith
+pleomorphicpathology.Neuron44,601–607https://doi.org/10.1016/j.neuron.2004.11.005
+27 Lake,J.,Reed,X.,Langston,R.G.,Nalls,M.A.,Gan-Or,Z.,Cookson,M.R.etal.(2022)CodingandnoncodingvariationinLRRK2andParkinson’s
+diseaserisk.Mov.Disord.37,95–105https://doi.org/10.1002/mds.28787
+28 Langston,R.G.,Beilina,A.,Reed,X.,Kaganovich,A.,Singleton,A.B.,Blauwendraat,C.etal.(2022)Associationofacommongeneticvariantwith
+Parkinson’sdiseaseismediatedbymicroglia.Sci.Transl.Med.14,eabp8869https://doi.org/10.1126/scitranslmed.abp8869
+29 Bonet-Ponce,L.andCookson,M.R.(2022)LRRK2recruitment,activity,andfunctioninorganelles.FEBSJ.289,6871–6890https://doi.org/10.1111/
+febs.16099
+30 Greggio,E.,Jain,S.,Kingsbury,A.,Bandopadhyay,R.,Lewis,P.,Kaganovich,A.etal.(2006)Kinaseactivityisrequiredforthetoxiceffectsofmutant
+LRRK2/dardarin.Neurobiol.Dis.23,329–341https://doi.org/10.1016/j.nbd.2006.04.001
+31 Tong,Y.,Giaime,E.,Yamaguchi,H.,Ichimura,T.,Liu,Y.,Si,H.etal.(2012)Lossofleucine-richrepeatkinase2causesage-dependentbi-phasic
+alterationsoftheautophagypathway.Mol.Neurodegener.7,2https://doi.org/10.1186/1750-1326-7-2
+32 Tong,Y.,Yamaguchi,H.,Giaime,E.,Boyle,S.,Kopan,R.,Kelleher,R.J.,IIIetal.(2010)Lossofleucine-richrepeatkinase2causesimpairmentof
+proteindegradationpathways,accumulationofalpha-synuclein,andapoptoticcelldeathinagedmice.Proc.Natl.Acad.Sci.U.S.A.107,9879–9884
+https:/
+
+Chunk 22:
+chrepeatkinase2causesage-dependentbi-phasic
+alterationsoftheautophagypathway.Mol.Neurodegener.7,2https://doi.org/10.1186/1750-1326-7-2
+32 Tong,Y.,Yamaguchi,H.,Giaime,E.,Boyle,S.,Kopan,R.,Kelleher,R.J.,IIIetal.(2010)Lossofleucine-richrepeatkinase2causesimpairmentof
+proteindegradationpathways,accumulationofalpha-synuclein,andapoptoticcelldeathinagedmice.Proc.Natl.Acad.Sci.U.S.A.107,9879–9884
+https://doi.org/10.1073/pnas.1004676107
+33 Beilina,A.,Bonet-Ponce,L.,Kumaran,R.,Kordich,J.J.,Ishida,M.,Mamais,A.etal.(2020)TheParkinson’sdiseaseproteinLRRK2interactswiththe
+GARPcomplextopromoteretrogradetransporttothetrans-Golginetwork.CellRep.31,107614https://doi.org/10.1016/j.celrep.2020.107614
+34 Pellegrini,L.,Hauser,D.N.,Li,Y.,Mamais,A.,Beilina,A.,Kumaran,R.etal.(2018)Proteomicanalysisrevealsco-ordinatedalterationsinprotein
+synthesisanddegradationpathwaysinLRRK2knockoutmice.Hum.Mol.Genet.27,3257–3271https://doi.org/10.1093/hmg/ddy232
+35 Henry,A.G.,Aghamohammadzadeh,S.,Samaroo,H.,Chen,Y.,Mou,K.,Needle,E.etal.(2015)PathogenicLRRK2mutations,throughincreased
+kinaseactivity,produceenlargedlysosomeswithreduceddegradativecapacityandincreaseATP13A2expression.Hum.Mol.Genet.24,6013–6028
+https://doi.org/10.1093/hmg/ddv314
+36 Hockey,L.N.,Kilpatrick,B.S.,Eden,E.R.,Lin-Moshier,Y.,Brailoiu,G.C.,Brailoiu,E.etal.(2015)Dysregulationoflysosomalmorphologybypathogenic
+LRRK2iscorrectedbyTPC2inhibition.J.CellSci.128,232–238https://doi.org/10.1242/jcs.164152
+37 Yadavalli,N.andFerguson,S.M.(2023)LRRK2suppresseslysosomedegradativeactivityinmacrophagesandmicrogliathroughMiT-TFEtranscription
+factorinhibition.Proc.NatlAcad.Sci.U.S.A.120,e2303789120https://doi.org/10.1073/pnas.2303789120
+38 Coukos,R.andKrainc,D.(2024)KeygenesandconvergentpathogenicmechanismsinParkinsondisease.Nat.Rev.Neurosci.25,393–413
+https://doi.org/10.1038/s41583-024-00812-2
+39 Bonet-Ponce,L.,Beilina,A.,Williamson,C.D.,Lindberg,E.,Kluss,J.H.,Saez-Atienzar,S.etal.(2020)LRRK2mediatestubulationandvesiclesorting
+fromlysosomes.Sci.Adv.6,eab
+
+Chunk 23:
+c.NatlAcad.Sci.U.S.A.120,e2303789120https://doi.org/10.1073/pnas.2303789120
+38 Coukos,R.andKrainc,D.(2024)KeygenesandconvergentpathogenicmechanismsinParkinsondisease.Nat.Rev.Neurosci.25,393–413
+https://doi.org/10.1038/s41583-024-00812-2
+39 Bonet-Ponce,L.,Beilina,A.,Williamson,C.D.,Lindberg,E.,Kluss,J.H.,Saez-Atienzar,S.etal.(2020)LRRK2mediatestubulationandvesiclesorting
+fromlysosomes.Sci.Adv.6,eabb2454https://doi.org/10.1126/sciadv.abb2454
+40 Eguchi,T.,Kuwahara,T.,Sakurai,M.,Komori,T.,Fujimoto,T.,Ito,G.etal.(2018)LRRK2anditssubstrateRabGTPasesaresequentiallytargetedonto
+stressedlysosomesandmaintaintheirhomeostasis.Proc.NatlAcad.Sci.U.S.A.115,E9115–E9124https://doi.org/10.1073/pnas.1812196115
+41 Herbst,S.,Campbell,P.,Harvey,J.,Bernard,E.M.,Papayannopoulos,V.,Wood,N.W.etal.(2020)LRRK2activationcontrolstherepairofdamaged
+endomembranesinmacrophages.EMBOJ.39,e104494https://doi.org/10.15252/embj.2020104494
+42 deDuve,C.,deBarsy,T.,Poole,B.,Trouet,A.,Tulkens,P.andVanHoof,F.(1974)Commentary.Lysosomotropicagents.Biochem.Pharmacol.23,
+2495–2531https://doi.org/10.1016/0006-2952(74)90174-9
+43 Boya,P.andKroemer,G.(2008)Lysosomalmembranepermeabilizationincelldeath.Oncogene27,6434–6451https://doi.org/10.1038/onc.2008.
+310
+44 Bentley-DeSousa,A.andFerguson,S.M.(2023)ASTING-CASM-GABARAPpathwayactivatesLRRK2atlysosomes.bioRxiv.https://doi.org/10.1101/
+2023.10.31.564602
+45 Bonet-Ponce,L.andCookson,M.R.(2022)Theendoplasmicreticulumcontributestolysosomaltubulation/sortingdrivenbyLRRK2.Mol.Biol.Cell33,
+ar124https://doi.org/10.1091/mbc.E22-04-0139
+46 Kluss,J.H.,Beilina,A.,Williamson,C.D.,Lewis,P.A.,Cookson,M.R.andBonet-Ponce,L.(2022)LysosomalpositioningregulatesRab10
+phosphorylationatLRRK2lysosomes.Proc.Natl.Acad.Sci.U.S.A.119,e2205492119https://doi.org/10.1073/pnas.2205492119
+47 Eguchi,T.,Sakurai,M.,Wang,Y.,Saito,C.,Yoshii,G.,Wileman,T.etal.(2024)TheV-ATPase-ATG16L1axisrecruitsLRRK2tofacilitatethelysosomal
+stressresponse.J.CellBiol.223,e202302067https://doi.org/10.1083/jcb.202302067
+48 McC
+
+Chunk 24:
+,Cookson,M.R.andBonet-Ponce,L.(2022)LysosomalpositioningregulatesRab10
+phosphorylationatLRRK2lysosomes.Proc.Natl.Acad.Sci.U.S.A.119,e2205492119https://doi.org/10.1073/pnas.2205492119
+47 Eguchi,T.,Sakurai,M.,Wang,Y.,Saito,C.,Yoshii,G.,Wileman,T.etal.(2024)TheV-ATPase-ATG16L1axisrecruitsLRRK2tofacilitatethelysosomal
+stressresponse.J.CellBiol.223,e202302067https://doi.org/10.1083/jcb.202302067
+48 McCarron,K.R.,Elcocks,H.,Mortiboys,H.,Urbé,S.andClague,M.J.(2024)TheParkinson’sdiseaserelatedmutantVPS35(D620N)amplifiesthe
+LRRK2responsetoendolysosomalstress.Biochem.J.481,265–278https://doi.org/10.1042/BCJ20230492
+49 Williams,E.T.,Chen,X.,Otero,P.A.andMoore,D.J.(2022)UnderstandingthecontributionsofVPS35andtheretromerinneurodegenerativedisease.
+Neurobiol.Dis.170,105768https://doi.org/10.1016/j.nbd.2022.105768
+1916
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+50 Pal,P.,Taylor,M.,Lam,P.Y.,Tonelli,F.,Hecht,C.A.,Lis,P.etal.(2023)Parkinson’sVPS35[D620N]mutationinducesLRRK2-mediatedlysosomal
+associationofRILPL1andTMEM55B.Sci.Adv.9,eadj1205https://doi.org/10.1126/sciadv.adj1205
+51 Burd,C.andCullen,P.J.(2014)Retromer:amasterconductorofendosomesorting.ColdSpringHarb.Perspect.Biol.6,a016774https://doi.org/10.
+1101/cshperspect.a016774
+52 Seaman,M.N.J.(2012)Theretromercomplex-endosomalproteinrecyclingandbeyond.J.CellSci.125,4693–4702https://doi.org/10.1242/jcs.
+103440
+53 Zavodszky,E.,Seaman,M.N.J.,Moreau,K.,Jimenez-Sanchez,M.,Breusegem,S.Y.,Harbour,M.E.etal.(2014)MutationinVPS35associatedwith
+Parkinson’sdiseaseimpairsWASHcomplexassociationandinhibitsautophagy.Nat.Commun.5,3828https://doi.org/10.1038/ncomms4828
+54 Durgan,J.andFlorey,O.(2022)ManyroadsleadtoCASM:diversestimuliofnoncanonicalautophagyshareaunifyingmolecularmechanism.Sci.Adv.
+8,eabo1274https://do
+
+Chunk 25:
+440
+53 Zavodszky,E.,Seaman,M.N.J.,Moreau,K.,Jimenez-Sanchez,M.,Breusegem,S.Y.,Harbour,M.E.etal.(2014)MutationinVPS35associatedwith
+Parkinson’sdiseaseimpairsWASHcomplexassociationandinhibitsautophagy.Nat.Commun.5,3828https://doi.org/10.1038/ncomms4828
+54 Durgan,J.andFlorey,O.(2022)ManyroadsleadtoCASM:diversestimuliofnoncanonicalautophagyshareaunifyingmolecularmechanism.Sci.Adv.
+8,eabo1274https://doi.org/10.1126/sciadv.abo1274
+55 Durgan,J.,Lystad,A.H.,Sloan,K.,Carlsson,S.R.,Wilson,M.I.,Marcassa,E.etal.(2021)Non-canonicalautophagydrivesalternativeATG8conjugation
+tophosphatidylserine.Mol.Cell81,2031–2040.e8https://doi.org/10.1016/j.molcel.2021.03.020
+56 Hooper,K.M.,Jacquin,E.,Li,T.,Goodwin,J.M.,Brumell,J.H.,Durgan,J.etal.(2022)V-ATPaseisauniversalregulatorofLC3-associated
+phagocytosisandnon-canonicalautophagy.J.CellBiol.221,e202105112https://doi.org/10.1083/jcb.202105112
+57 Timimi,L.,Figueras-Novoa,C.,Marcassa,E.,Florey,O.,Baillie,J.K.,Beale,R.etal.(2022)TheV-ATPasecomplexregulatesnon-canonicalAtg8-family
+proteinlipidationthroughATG16L1recruitment.Autophagy18,707–708https://doi.org/10.1080/15548627.2022.2029233
+58 Wang,X.,Bondar,V.V.,Davis,O.B.,Maloney,M.T.,Agam,M.,Chin,M.Y.etal.(2023)Rab12isaregulatorofLRRK2anditsactivationbydamaged
+lysosomes.Elife12,e87255https://doi.org/10.7554/eLife.87255
+59 Dhekne,H.S.,Tonelli,F.,Yeshaw,W.M.,Chiang,C.Y.,Limouse,C.,Jaimon,E.etal.(2023)Genome-widescreenrevealsRab12GTPaseasacritical
+activatorofParkinson’sdisease-linkedLRRK2kinase.Elife12,e87098https://doi.org/10.7554/eLife.87098
+60 Wang,X.,Espadas,J.,Wu,Y.,Cai,S.,Ge,J.,Shao,L.etal.(2023)MembraneremodelingpropertiesoftheParkinson’sdiseaseproteinLRRK2.Proc.
+NatlAcad.Sci.U.S.A.120,e2309698120https://doi.org/10.1073/pnas.2309698120
+61 Steger,M.,Tonelli,F.,Ito,G.,Davies,P.,Trost,M.,Vetter,M.etal.(2016)PhosphoproteomicsrevealsthatParkinson’sdiseasekinaseLRRK2regulates
+asubsetofRabGTPases.Elife5.e12813https://doi.org/10.7554/eLife.12813
+62 Kluss,J.H.,Bonet-Ponce,L.,Lewis,P.A.andCookson,M.R.(
+
+Chunk 26:
+aneremodelingpropertiesoftheParkinson’sdiseaseproteinLRRK2.Proc.
+NatlAcad.Sci.U.S.A.120,e2309698120https://doi.org/10.1073/pnas.2309698120
+61 Steger,M.,Tonelli,F.,Ito,G.,Davies,P.,Trost,M.,Vetter,M.etal.(2016)PhosphoproteomicsrevealsthatParkinson’sdiseasekinaseLRRK2regulates
+asubsetofRabGTPases.Elife5.e12813https://doi.org/10.7554/eLife.12813
+62 Kluss,J.H.,Bonet-Ponce,L.,Lewis,P.A.andCookson,M.R.(2022)DirectingLRRK2tomembranesoftheendolysosomalpathwaytriggersRAB
+phosphorylationandJIP4recruitment.Neurobiol.Dis.170,105769https://doi.org/10.1016/j.nbd.2022.105769
+63 Gomez,R.C.,Wawro,P.,Lis,P.,Alessi,D.R.andPfeffer,S.R.(2019)MembraneassociationbutnotidentityisrequiredforLRRK2activationand
+phosphorylationofRabGTPases.J.CellBiol.218,4157–4170https://doi.org/10.1083/jcb.201902184
+64 Bonet-Ponce,L.,Tegicho,T.,Beilina,A.,Kluss,J.H.,Li,Y.andCookson,M.R.(2024)OpposingactionsofJIP4andRILPL1provideantagonisticmotor
+forcetodynamicallyregulatemembranereformationduringlysosomaltubulation/sortingdrivenbyLRRK2.bioRxiv.https://doi.org/10.1101/2024.04.02.
+587808
+65 Pfeffer,S.andAivazian,D.(2004)TargetingRabGTPasestodistinctmembranecompartments.Nat.Rev.Mol.CellBiol.5,886–896https://doi.org/10.
+1038/nrm1500
+66 Stenmark,H.(2009)RabGTPasesascoordinatorsofvesicletraffic.Nat.Rev.Mol.CellBiol.10,513–525https://doi.org/10.1038/nrm2728
+67 Grosshans,B.L.,Ortiz,D.andNovick,P.(2006)Rabsandtheireffectors:achievingspecificityinmembranetraffic.Proc.NatlAcad.Sci.U.S.A.103,
+11821–11827https://doi.org/10.1073/pnas.0601617103
+68 Zhen,Y.andStenmark,H.(2015)CellularfunctionsofRabGTPasesataglance.J.CellSci.128,3171–3176https://doi.org/10.1242/jcs.166074
+69 Waschbüsch,D.,Purlyte,E.,Pal,P.,McGrath,E.,Alessi,D.R.andKhan,A.R.(2020)StructuralbasisforRab8arecruitmentofRILPL2viaLRRK2
+phosphorylationofswitch2.Structure28,406–417.e6https://doi.org/10.1016/j.str.2020.01.005
+70 Celestino,R.,Gama,J.B.,Castro-Rodrigues,A.F.,Barbosa,D.J.,Rocha,H.,d’Amico,E.A.etal.(2022)JIP3interactswithdyneinandkinesin-1to
+regulatebidire
+
+Chunk 27:
+–3176https://doi.org/10.1242/jcs.166074
+69 Waschbüsch,D.,Purlyte,E.,Pal,P.,McGrath,E.,Alessi,D.R.andKhan,A.R.(2020)StructuralbasisforRab8arecruitmentofRILPL2viaLRRK2
+phosphorylationofswitch2.Structure28,406–417.e6https://doi.org/10.1016/j.str.2020.01.005
+70 Celestino,R.,Gama,J.B.,Castro-Rodrigues,A.F.,Barbosa,D.J.,Rocha,H.,d’Amico,E.A.etal.(2022)JIP3interactswithdyneinandkinesin-1to
+regulatebidirectionalorganelletransport.J.CellBiol.221https://doi.org/10.1083/jcb.202110057
+71 Waschbüsch,D.,Purlyte,E.andKhan,A.R.(2021)DualargininerecognitionofLRRK2phosphorylatedRabGTPases.Biophys.J.120,1846–1855
+https://doi.org/10.1016/j.bpj.2021.03.030
+72 Vilela,F.,Velours,C.,Chenon,M.,Aumont-Nicaise,M.,Campanacci,V.,Thureau,A.etal.(2019)StructuralcharacterizationoftheRH1-LZItandemof
+JIP3/4highlightsRH1domainsasacytoskeletalmotor-bindingmotif.Sci.Rep.9,16036https://doi.org/10.1038/s41598-019-52537-3
+73 Bowman,A.B.,Kamal,A.,Ritchings,B.W.,Philp,A.V.,McGrail,M.,Gindhart,J.G.etal.(2000)Kinesin-dependentaxonaltransportismediatedbythe
+Sundaydriver(SYD)protein.Cell103,583–594https://doi.org/10.1016/S0092-8674(00)00162-8
+74 Nguyen,Q.,Lee,C.M.,Le,A.andReddy,E.P.(2005)JLPassociateswithkinesinlightchain1throughanovelleucinezipper-likedomain.J.Biol.
+Chem.280,30185–30191https://doi.org/10.1074/jbc.M505499200
+75 Sun,F.,Zhu,C.,Dixit,R.andCavalli,V.(2011)Sundaydriver/JIP3bindskinesinheavychaindirectlyandenhancesitsmotility.EMBOJ.30,
+3416–3429https://doi.org/10.1038/emboj.2011.229
+76 Cavalli,V.,Kujala,P.,Klumperman,J.andGoldstein,L.S.B.(2005)Sundaydriverlinksaxonaltransporttodamagesignaling.J.CellBiol.168,
+775–787https://doi.org/10.1083/jcb.200410136
+77 Montagnac,G.,Sibarita,J.-B.,Loubéry,S.,Daviet,L.,Romao,M.,Raposo,G.etal.(2009)ARF6interactswithJIP4tocontrolamotorswitch
+mechanismregulatingendosometrafficincytokinesis.Curr.Biol.19,184–195https://doi.org/10.1016/j.cub.2008.12.043
+78 Cockburn,J.J.B.,Hesketh,S.J.,Mulhair,P.,Thomsen,M.,O’Connell,M.J.andWay,M.(2018)Insightsintokinesin-1activationfromth
+
+Chunk 28:
+
+775–787https://doi.org/10.1083/jcb.200410136
+77 Montagnac,G.,Sibarita,J.-B.,Loubéry,S.,Daviet,L.,Romao,M.,Raposo,G.etal.(2009)ARF6interactswithJIP4tocontrolamotorswitch
+mechanismregulatingendosometrafficincytokinesis.Curr.Biol.19,184–195https://doi.org/10.1016/j.cub.2008.12.043
+78 Cockburn,J.J.B.,Hesketh,S.J.,Mulhair,P.,Thomsen,M.,O’Connell,M.J.andWay,M.(2018)Insightsintokinesin-1activationfromthecrystal
+structureofKLC2boundtoJIP3.Structure26,1486–1498.e6https://doi.org/10.1016/j.str.2018.07.011
+79 Singh,K.,Lau,C.K.,Manigrasso,G.,Gama,J.B.,Gassmann,R.andCarter,A.P.(2024)Molecularmechanismofdynein-dynactincomplexassemblyby
+LIS1.Science383,eadk8544https://doi.org/10.1126/science.adk8544
+80 Waterman-Storer,C.M.,Karki,S.B.,Kuznetsov,S.A.,Tabb,J.S.,Weiss,D.G.,Langford,G.M.etal.(1997)Theinteractionbetweencytoplasmicdynein
+anddynactinisrequiredforfastaxonaltransport.Proc.Natl.Acad.Sci.U.S.A.94,12180–12185https://doi.org/10.1073/pnas.94.22.12180
+81 Vaughan,K.T.andVallee,R.B.(1995)Cytoplasmicdyneinbindsdynactinthroughadirectinteractionbetweentheintermediatechainsandp150Glued.
+J.CellBiol.131,1507–1516https://doi.org/10.1083/jcb.131.6.1507
+1917
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+82 Karki,S.andHolzbaur,E.L.(1995)Affinitychromatographydemonstratesadirectbindingbetweencytoplasmicdyneinandthedynactincomplex.
+J.Biol.Chem.270,28806–28811https://doi.org/10.1074/jbc.270.48.28806
+83 Lisé,M.-F.,Srivastava,D.P.,Arstikaitis,P.,Lett,R.L.,Sheta,R.,Viswanathan,V.etal.(2009)Myosin-Va-interactingprotein,RILPL2,controlscellshape
+andneuronalmorphogenesisviaRacsignaling.J.CellSci.122,3810–3821https://doi.org/10.1242/jcs.050344
+84 Cao,Q.-J.,Zhang,N.,Zhou,R.,Yao,L.-L.andLi,X.-D.(2019)ThecargoadaptorproteinsRILPL2andmelanophilinco-regulatemyosin-5amotor
+acti
+
+Chunk 29:
+org/10.1074/jbc.270.48.28806
+83 Lisé,M.-F.,Srivastava,D.P.,Arstikaitis,P.,Lett,R.L.,Sheta,R.,Viswanathan,V.etal.(2009)Myosin-Va-interactingprotein,RILPL2,controlscellshape
+andneuronalmorphogenesisviaRacsignaling.J.CellSci.122,3810–3821https://doi.org/10.1242/jcs.050344
+84 Cao,Q.-J.,Zhang,N.,Zhou,R.,Yao,L.-L.andLi,X.-D.(2019)ThecargoadaptorproteinsRILPL2andmelanophilinco-regulatemyosin-5amotor
+activity.J.Biol.Chem.294,11333–11341https://doi.org/10.1074/jbc.RA119.007384
+85 Wei,Z.,Liu,X.,Yu,C.andZhang,M.(2013)StructuralbasisofcargorecognitionsforclassVmyosins.Proc.Natl.Acad.Sci.U.S.A.110,
+11314–11319https://doi.org/10.1073/pnas.1306768110
+86 Cason,S.E.andHolzbaur,E.L.F.(2023)AxonaltransportofautophagosomesisregulatedbydyneinactivatorsJIP3/JIP4andARF/RABGTPases.J.Cell
+Biol.222,e202301084https://doi.org/10.1083/jcb.202301084
+87 Boecker,C.A.,Goldsmith,J.,Dou,D.,Cajka,G.G.andHolzbaur,E.L.F.(2021)IncreasedLRRK2kinaseactivityaltersneuronalautophagybydisrupting
+theaxonaltransportofautophagosomes.Curr.Biol.31,2140–2154.e6https://doi.org/10.1016/j.cub.2021.02.061
+88 Willett,R.,Martina,J.A.,Zewe,J.P.,Wills,R.,Hammond,G.R.V.andPuertollano,R.(2017)TFEBregulateslysosomalpositioningbymodulating
+TMEM55BexpressionandJIP4recruitmenttolysosomes.Nat.Commun.8,1580https://doi.org/10.1038/s41467-017-01871-z
+89 Sasazawa,Y.,Souma,S.,Furuya,N.,Miura,Y.,Kazuno,S.,Kakuta,S.etal.(2022)Oxidativestress-inducedphosphorylationofJIP4regulates
+lysosomalpositioningincoordinationwithTRPML1andALG2.EMBOJ.41,e111476https://doi.org/10.15252/embj.2022111476
+90 Kumar,G.,Chawla,P.,Dhiman,N.,Chadha,S.,Sharma,S.,Sethi,K.etal.(2022)RUFY3linksArl8bandJIP4-Dyneincomplextoregulatelysosome
+sizeandpositioning.Nat.Commun.13,1540https://doi.org/10.1038/s41467-022-29077-y
+91 Simunovic,M.,Voth,G.A.,Callan-Jones,A.andBassereau,P.(2015)Whenphysicstakesover:BARproteinsandmembranecurvature.TrendsCell
+Biol.25,780–792https://doi.org/10.1016/j.tcb.2015.09.005
+92 Nixon-Abell,J.,Obara,C.J.,Weigel,A.V.,Li,D.,Legant,W.R.,Xu,C.S.etal.
+
+Chunk 30:
+etal.(2022)RUFY3linksArl8bandJIP4-Dyneincomplextoregulatelysosome
+sizeandpositioning.Nat.Commun.13,1540https://doi.org/10.1038/s41467-022-29077-y
+91 Simunovic,M.,Voth,G.A.,Callan-Jones,A.andBassereau,P.(2015)Whenphysicstakesover:BARproteinsandmembranecurvature.TrendsCell
+Biol.25,780–792https://doi.org/10.1016/j.tcb.2015.09.005
+92 Nixon-Abell,J.,Obara,C.J.,Weigel,A.V.,Li,D.,Legant,W.R.,Xu,C.S.etal.(2016)Increasedspatiotemporalresolutionrevealshighlydynamicdense
+tubularmatricesintheperipheralER.Science354,aaf3928https://doi.org/10.1126/science.aaf3928
+93 Friedman,J.R.,Lackner,L.L.,West,M.,DiBenedetto,J.R.,Nunnari,J.andVoeltz,G.K.(2011)ERtubulesmarksitesofmitochondrialdivision.Science
+334,358–362https://doi.org/10.1126/science.1207385
+94 Hoyer,M.J.,Chitwood,P.J.,Ebmeier,C.C.,Striepen,J.F.,Qi,R.Z.,Old,W.M.etal.(2018)AnovelclassofERmembraneproteinsregulates
+ER-associatedendosomefission.Cell175,254–265.e14https://doi.org/10.1016/j.cell.2018.08.030
+95 Lee,J.E.,Cathey,P.I.,Wu,H.,Parker,R.andVoeltz,G.K.(2020)Endoplasmicreticulumcontactsitesregulatethedynamicsofmembraneless
+organelles.Science367,eaay7108https://doi.org/10.1126/science.aay7108
+96 Bohnert,K.A.andJohnson,A.E.(2022)Branchingoff:newinsightintolysosomesastubularorganelles.Front.CellDev.Biol.10,863922https://doi.
+org/10.3389/fcell.2022.863922
+97 Hipolito,V.E.B.,Ospina-Escobar,E.andBotelho,R.J.(2018)Lysosomeremodellingandadaptationduringphagocyteactivation.Cell.Microbiol.20,
+e12824https://doi.org/10.1111/cmi.12824
+98 Swanson,J.,Burke,E.andSilverstein,S.C.(1987)Tubularlysosomesaccompanystimulatedpinocytosisinmacrophages.J.CellBiol.104,1217–1222
+https://doi.org/10.1083/jcb.104.5.1217
+99 Hollenbeck,P.J.andSwanson,J.A.(1990)Radialextensionofmacrophagetubularlysosomessupportedbykinesin.Nature346,864–866https://doi.
+org/10.1038/346864a0
+100 Saric,A.,Hipolito,V.E.B.,Kay,J.G.,Canton,J.,Antonescu,C.N.andBotelho,R.J.(2016)mTORcontrolslysosometubulationandantigenpresentation
+inmacrophagesanddendriticcells.Mol.Biol.Cell27,321–33
+
+Chunk 31:
+lBiol.104,1217–1222
+https://doi.org/10.1083/jcb.104.5.1217
+99 Hollenbeck,P.J.andSwanson,J.A.(1990)Radialextensionofmacrophagetubularlysosomessupportedbykinesin.Nature346,864–866https://doi.
+org/10.1038/346864a0
+100 Saric,A.,Hipolito,V.E.B.,Kay,J.G.,Canton,J.,Antonescu,C.N.andBotelho,R.J.(2016)mTORcontrolslysosometubulationandantigenpresentation
+inmacrophagesanddendriticcells.Mol.Biol.Cell27,321–333https://doi.org/10.1091/mbc.e15-05-0272
+101 Suresh,B.,Saminathan,A.,Chakraborty,K.,Zajac,M.,Cui,C.,Becker,L.etal.(2021)Tubularlysosomesharboractiveiongradientsandpoise
+macrophagesforphagocytosis.Proc.NatlAcad.Sci.U.S.A.118,e2113174118https://doi.org/10.1073/pnas.2113174118
+102 Ng,P.Y.,Ribet,A.B.P.,Guo,Q.,Mullin,B.H.,Tan,J.W.Y.,Landao-Bassonga,E.etal.(2023)SugartransporterSlc37a2regulatesbonemetabolismin
+miceviaatubularlysosomalnetworkinosteoclasts.Nat.Commun.14,906https://doi.org/10.1038/s41467-023-36484-2
+103 Murakawa,T.,Kiger,A.A.,Sakamaki,Y.,Fukuda,M.andFujita,N.(2020)Anautophagy-dependenttubularlysosomalnetworksynchronizesdegradative
+activityrequiredformuscleremodeling.J.CellSci.133,jcs248336https://doi.org/10.1242/jcs.248336
+104 Dolese,D.A.,Junot,M.P.,Ghosh,B.,Butsch,T.J.,Johnson,A.E.andBohnert,K.A.(2022)Degradativetubularlysosomeslinkpexophagytostarvation
+andearlyagingin.Autophagy18,1522–1533https://doi.org/10.1080/15548627.2021.1990647
+105 Sun,Y.,Li,M.,Zhao,D.,Li,X.,Yang,C.andWang,X.(2020)Lysosomeactivityismodulatedbymultiplelongevitypathwaysandisimportantfor
+lifespanextensioninC.elegans.Elife9,e55745https://doi.org/10.7554/eLife.55745
+106 Villalobos,T.V.,Ghosh,B.,DeLeo,K.R.,Alam,S.,Ricaurte-Perez,C.,Wang,A.etal.(2023)Tubularlysosomeinductioncouplesanimalstarvationto
+healthyaging.Nat.Aging3,1091–1106https://doi.org/10.1038/s43587-023-00470-6
+107 Yu,L.,McPhee,C.K.,Zheng,L.,Mardones,G.A.,Rong,Y.,Peng,J.etal.(2010)Terminationofautophagyandreformationoflysosomesregulatedby
+mTOR.Nature465,942–946https://doi.org/10.1038/nature09076
+108 Bright,N.A.,Davis,L.J.andLuzio,J.P.(
+
+Chunk 32:
+.,Alam,S.,Ricaurte-Perez,C.,Wang,A.etal.(2023)Tubularlysosomeinductioncouplesanimalstarvationto
+healthyaging.Nat.Aging3,1091–1106https://doi.org/10.1038/s43587-023-00470-6
+107 Yu,L.,McPhee,C.K.,Zheng,L.,Mardones,G.A.,Rong,Y.,Peng,J.etal.(2010)Terminationofautophagyandreformationoflysosomesregulatedby
+mTOR.Nature465,942–946https://doi.org/10.1038/nature09076
+108 Bright,N.A.,Davis,L.J.andLuzio,J.P.(2016)Endolysosomesaretheprincipalintracellularsitesofacidhydrolaseactivity.Curr.Biol.26,2233–2245
+https://doi.org/10.1016/j.cub.2016.06.046
+109 Lancaster,C.E.,Fountain,A.,Dayam,R.M.,Somerville,E.,Sheth,J.,Jacobelli,V.etal.(2021)Phagosomeresolutionregenerateslysosomesand
+maintainsthedegradativecapacityinphagocytes.J.CellBiol.220,e202005072https://doi.org/10.1083/jcb.202005072
+110 Nanayakkara,R.,Gurung,R.,Rodgers,S.J.,Eramo,M.J.,Ramm,G.,Mitchell,C.A.etal.(2023)Autophagiclysosomereformationinhealthand
+disease.Autophagy19,1378–1395https://doi.org/10.1080/15548627.2022.2128019
+111 Fountain,A.,Inpanathan,S.,Alves,P.,Verdawala,M.B.andBotelho,R.J.(2021)Phagosomematurationinmacrophages:eat,digest,adapt,andrepeat.
+Adv.Biol.Regul.82,100832https://doi.org/10.1016/j.jbior.2021.100832
+112 Yang,C.andWang,X.(2021)Lysosomebiogenesis:regulationandfunctions.J.CellBiol.220,e202102001https://doi.org/10.1083/jcb.202102001
+113 Chen,Y.andYu,L.(2018)Developmentofresearchintoautophagiclysosomereformation.Mol.Cells41,45–49https://doi.org/10.14348/molcells.
+2018.2265
+1918
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+114 Li,L.,Liu,X.,Yang,S.,Li,M.,Wu,Y.,Hu,S.etal.(2024)TheHEATrepeatproteinHPO-27isalysosomefissionfactor.Nature628,630–638
+https://doi.org/10.1038/s41586-024-07249-8
+115 Chen,Y.andYu,L.(2017)Recentprogressinautophagiclysosomereformation.Traffic18,358–361https:
+
+Chunk 33:
+onsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+BiochemicalSocietyTransactions(2024)521909–1919
+https://doi.org/10.1042/BST20240087
+114 Li,L.,Liu,X.,Yang,S.,Li,M.,Wu,Y.,Hu,S.etal.(2024)TheHEATrepeatproteinHPO-27isalysosomefissionfactor.Nature628,630–638
+https://doi.org/10.1038/s41586-024-07249-8
+115 Chen,Y.andYu,L.(2017)Recentprogressinautophagiclysosomereformation.Traffic18,358–361https://doi.org/10.1111/tra.12484
+116 Boutry,M.,DiGiovanni,L.F.,Demers,N.,Fountain,A.,Mamand,S.,Botelho,R.J.etal.(2023)Arf1-PI4KIIIβpositivevesiclesregulatePI(3)Psignalingto
+facilitatelysosomaltubulefission.J.CellBiol.222,e202205128https://doi.org/10.1083/jcb.202205128
+117 Du,W.,Su,Q.P.,Chen,Y.,Zhu,Y.,Jiang,D.,Rong,Y.etal.(2016)Kinesin1drivesautolysosometubulation.Dev.Cell37,326–336https://doi.org/
+10.1016/j.devcel.2016.04.014
+118 Cross,J.,Durgan,J.,McEwan,D.G.,Tayler,M.,Ryan,K.M.andFlorey,O.(2023)LysosomedamagetriggersdirectATG8conjugationandATG2
+engagementvianon-canonicalautophagy.J.CellBiol.222,e202303078https://doi.org/10.1083/jcb.202303078
+119 Tan,J.X.andFinkel,T.(2022)Aphosphoinositidesignallingpathwaymediatesrapidlysosomalrepair.Nature609,815–821https://doi.org/10.1038/
+s41586-022-05164-4
+120 Skowyra,M.L.,Schlesinger,P.H.,Naismith,T.V.andHanson,P.I.(2018)TriggeredrecruitmentofESCRTmachinerypromotesendolysosomalrepair.
+Science360,eaar5078https://doi.org/10.1126/science.aar5078
+121 Radulovic,M.,Schink,K.O.,Wenzel,E.M.,Nähse,V.,Bongiovanni,A.,Lafont,F.etal.(2018)ESCRT-mediatedlysosomerepairprecedeslysophagyand
+promotescellsurvival.EMBOJ.37,e99753https://doi.org/10.15252/embj.201899753
+122 Radulovic,M.,Wenzel,E.M.,Gilani,S.,Holland,L.K.,Lystad,A.H.,Phuyal,S.etal.(2022)Cholesteroltransferviaendoplasmicreticulumcontacts
+mediateslysosomedamagerepair.EMBOJ.41,e112677https://doi.org/10.15252/embj.2022112677
+123 Bussi,C.,Mangiarotti,A.,Vanhille-Campos,C.,Aylan,B.,Pellegrino,E.,Athanasiadi,N.etal.(2023)Stressgranulesplugandstabilizedamaged
+endolysosomalmembranes.Nature623,1062–1069ht
+
+Chunk 34:
+3
+122 Radulovic,M.,Wenzel,E.M.,Gilani,S.,Holland,L.K.,Lystad,A.H.,Phuyal,S.etal.(2022)Cholesteroltransferviaendoplasmicreticulumcontacts
+mediateslysosomedamagerepair.EMBOJ.41,e112677https://doi.org/10.15252/embj.2022112677
+123 Bussi,C.,Mangiarotti,A.,Vanhille-Campos,C.,Aylan,B.,Pellegrino,E.,Athanasiadi,N.etal.(2023)Stressgranulesplugandstabilizedamaged
+endolysosomalmembranes.Nature623,1062–1069https://doi.org/10.1038/s41586-023-06726-w
+124 Maejima,I.,Takahashi,A.,Omori,H.,Kimura,T.,Takabatake,Y.,Saitoh,T.etal.(2013)Autophagysequestersdamagedlysosomestocontrol
+lysosomalbiogenesisandkidneyinjury.EMBOJ.32,2336–2347https://doi.org/10.1038/emboj.2013.171
+125 Chauhan,S.,Kumar,S.,Jain,A.,Ponpuak,M.,Mudd,M.H.,Kimura,T.etal.(2016)TRIMsandgalectinsgloballycooperateandTRIM16and
+galectin-3Co-directautophagyinendomembranedamagehomeostasis.Dev.Cell39,13–27https://doi.org/10.1016/j.devcel.2016.08.003
+126 Koerver,L.,Papadopoulos,C.,Liu,B.,Kravic,B.,Rota,G.,Brecht,L.etal.(2019)Theubiquitin-conjugatingenzymeUBE2QL1coordinateslysophagyin
+responsetoendolysosomaldamage.EMBORep.20,e48014https://doi.org/10.15252/embr.201948014
+127 Eapen,V.V.,Swarup,S.,Hoyer,M.J.,Paulo,J.A.andHarper,J.W.(2021)Quantitativeproteomicsrevealstheselectivityofubiquitin-bindingautophagy
+receptorsintheturnoverofdamagedlysosomesbylysophagy.Elife10,e72328https://doi.org/10.7554/eLife.72328
+128 Kravic,́ B.,Bionda,T.,Siebert,A.,Gahlot,P.,Levantovsky,S.,Behrends,C.etal.(2022)UbiquitinprofilingoflysophagyidentifiesactinstabilizerCNN2
+asatargetofVCP/p97anduncoversalinktoHSPB1.Mol.Cell82,2633–2649.e7https://doi.org/10.1016/j.molcel.2022.06.012
+129 Teranishi,H.,Tabata,K.,Saeki,M.,Umemoto,T.,Hatta,T.,Otomo,T.etal.(2022)IdentificationofCUL4A-DDB1-WDFY1asanE3ubiquitinligase
+complexinvolvedininitiationoflysophagy.CellRep.40,111349https://doi.org/10.1016/j.celrep.2022.111349
+130 Shima,T.,Ogura,M.,Matsuda,R.,Nakamura,S.,Jin,N.,Yoshimori,T.etal.(2023)TheTMEM192-mKeimaprobespecificallyassayslysophagyand
+revealsitsinitialsteps.J.C
+
+Chunk 35:
+cel.2022.06.012
+129 Teranishi,H.,Tabata,K.,Saeki,M.,Umemoto,T.,Hatta,T.,Otomo,T.etal.(2022)IdentificationofCUL4A-DDB1-WDFY1asanE3ubiquitinligase
+complexinvolvedininitiationoflysophagy.CellRep.40,111349https://doi.org/10.1016/j.celrep.2022.111349
+130 Shima,T.,Ogura,M.,Matsuda,R.,Nakamura,S.,Jin,N.,Yoshimori,T.etal.(2023)TheTMEM192-mKeimaprobespecificallyassayslysophagyand
+revealsitsinitialsteps.J.CellBiol.222,e202204048https://doi.org/10.1083/jcb.202204048
+131 Gahlot,P.,Kravic,B.,Rota,G.,vandenBoom,J.,Levantovsky,S.,Schulze,N.etal.(2024)Lysosomaldamagesensingandlysophagyinitiationby
+SPG20-ITCH.Mol.Cell84,1556–1569.e10https://doi.org/10.1016/j.molcel.2024.02.029
+132 Jia,J.,Bissa,B.,Brecht,L.,Allers,L.,Choi,S.W.,Gu,Y.etal.(2020)AMPK,aregulatorofmetabolismandautophagy,isactivatedbylysosomal
+damageviaanovelgalectin-directedubiquitinsignaltransductionsystem.Mol.Cell77,951–969.e9https://doi.org/10.1016/j.molcel.2019.12.028
+133 Mamais,A.,Kluss,J.H.,Bonet-Ponce,L.,Landeck,N.,Langston,R.G.,Smith,N.etal.(2022)Correction:mutationsinLRRK2linkedtoParkinson
+diseasesequesterRab8atodamagedlysosomesandregulatetransferrin-mediatedironuptakeinmicroglia.PLoSBiol.20,e3001621https://doi.org/10.
+1371/journal.pbio.3001621
+1919
+©2024TheAuthor(s).ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheCreativeCommonsAttributionLicense4.0(CCBY-NC-ND).
+
+---PAGE BREAK---
+
+
+

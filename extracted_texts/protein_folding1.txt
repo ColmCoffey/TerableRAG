@@ -1,0 +1,483 @@
+insight review articles
+Protein folding and misfolding
+Christopher M. Dobson
+University of Cambridge, Department of Chemistry, Lensfield Road, Cambridge CB2 1EW, UK (e-mail: cmd44@cam.ac.uk)
+The manner in which a newly synthesized chain of amino acids transforms itself into a perfectly folded
+protein depends both on the intrinsic properties of the amino-acid sequence and on multiple contributing
+influences from the crowded cellular milieu. Folding and unfolding are crucial ways of regulating biological
+activity and targeting proteins to different cellular locations. Aggregation of misfolded proteins that escape
+the cellular quality-control mechanisms is a common feature of a wide range of highly debilitating and
+increasingly prevalent diseases.
+O
+ne of the defining characteristics of a living sys- trial and error. Moreover, if the energy surface or ‘landscape’
+tem is the ability of even the most intricate of its has the right shape (see Fig. 1) only a small number of all pos-
+component molecular structures to self-assem- sible conformations needs to be sampled by any given pro-
+ble with precision and fidelity. Uncovering the tein molecule during its transition from a random coil to a
+mechanisms through which such processes take native structure3–6. Because the landscape is encoded by the
+place is one of the grand challenges of modern science1. The amino-acid sequence, natural selection has enabled proteins
+folding of proteins into their compact three-dimensional to evolve so that they are able to fold rapidly and efficiently.
+structures is the most fundamental and universal example of Such a description, based more on the ideas of statistical
+biological self-assembly; understanding this complex mechanics and polymer physics than on those of classic
+process will therefore provide a unique insight into the way chemical dynamics, is often referred to as the ‘new view’ of
+in which evolutionary selection has influenced the proper- protein folding7. As well as providing a firm conceptual basis
+ties of a molecular system for functional advantage. The wide for folding, it has shown that many of the earlier phenome-
+variety of highly specific structures that result from protein nological descriptions of the folding process are important
+folding and that bring key functional groups into close prox- limiting cases of a general mechanism. These ideas are stim-
+imity has enabled living systems to develop astonishing ulating the investigation of the most elementary steps in the
+diversity and selectivity in their underlying chemical folding process by both experimental and theoretical proce-
+processes. In addition to generating biological activity, how- dures. For example, biophysical measurements and comput-
+ever, we now know that folding is coupled to many other bio- er simulations have revealed that many of the local elements
+logical processes, including the trafficking of molecules to of protein structures can be generated very rapidly; for exam-
+specific cellular locations and the regulation of cellular ple, individual a-helices are able to form in less than 100 ns,
+growth and differentiation2. In addition, only correctly and b-turns in as little as 1 ms (refs 8, 9). Indeed, the folding in
+folded proteins have long-term stability in crowded biologi- vitroof some of the simplest proteins, such as small helical
+cal environments and are able to interact selectively with bundles, is completed in less than 50 ms (refs 10, 11).Intrigu-
+their natural partners. It is therefore not surprising that the ingly, some other small proteins, particularly those based on
+failure of proteins to fold correctly, or to remain correctly b-sheet structures, can take many orders of magnitude
+folded, is the origin of a wide variety of pathological condi- longer to fold, as we see below, but such rate changes can be
+tions. In this article we explore the underlying mechanism of understood to a significant extent in terms of the character-
+protein folding and of the nature and consequences of istics of the native structures12.
+misfolding and its links with disease. A key question is how does the correct fold emerge from
+such fundamental steps; that is, how is the energy landscape
+The fundamental mechanism of protein folding unique to a specific protein defined by its amino-acid
+The concept of an energy landscape sequence. The structural transitions taking place during
+The mechanism by which a polypeptide chain folds to a spe- folding in vitrocan be investigated in detail by a variety of
+cific three-dimensional protein structure has until recently techniques, ranging from optical methods to NMR spec-
+been shrouded in mystery. Native states of proteins almost troscopy3, some of which can now even be used to follow the
+always correspond to the structures that are most thermody- behaviour of single molecules13. The latter capability is of
+namically stable under physiological conditions3. Neverthe- particular significance in the context of probing the stochas-
+less, the total number of possible conformations of any tic nature of the folding process (see Fig. 1). Studies of a
+polypeptide chain is so large that a systematic search for this series of small proteins, typically with 60–100 residues, have
+particular structure would take an astronomical length of been crucial for investigating the most basic steps in folding
+time. However, it is now clear that the folding process does because these proteins convert from their unfolded states to
+not involve a series of mandatory steps between specific part- their native states without the complication of highly popu-
+ly folded states, but rather a stochastic search of the many lated intermediates. For these systems, monitoring the
+conformations accessible to a polypeptide chain3–5. The effects of specific mutations on the kinetics of folding and
+inherent fluctuations in the conformation of an unfolded or unfolding has proved to be a seminal technique, because of
+incompletely folded polypeptide chain enable even residues its ability to probe the role of individual residues in the fold-
+that are highly separated in the amino-acid sequence to come ing process14. Particular insight has come from the use of this
+into contact with one other. Because, on average, native-like approach to analyse the transition states for folding, namely
+interactions between residues are more stable than non- the critical regions of energy surfaces through which all
+native ones, they are more persistent and the polypeptide molecules must pass to reach the native fold (see Fig. 1). The
+chain is able to find its lowest-energy structure by a process of results of many studies of these species suggest that the
+884 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+Figure 1A schematic energy landscape
+for protein folding. The surface is derived
+Representative starting structures from a computer simulation of the folding
+of a highly simplified model of a small
+protein. The surface ‘funnels’ the
+multitude of denatured conformations to
+the unique native structure. The critical
+region on a simple surface such as this
+one is the saddle point corresponding to
+the transition state, the barrier that all
+molecules must cross if they are to fold to
+the native state. Superimposed on this
+schematic surface are ensembles of
+Transition state
+structures corresponding to different
+stages of the folding process. The
+transition state ensemble was calculated
+by using computer simulations
+constrained by experimental data from
+mutational studies of acylphosphatase18.
+The yellow spheres in this ensemble
+Saddle point
+represent the three ‘key residues’ in the
+structure; when these residues have
+Free energy formed their native-like contacts the
+Number of native overall topology of the native fold is
+interactions established. The structure of the native
+state is shown at the bottom of the
+surface; at the top are indicated
+schematically some contributors to the
+Native structure distribution of unfolded species that
+Number of residue contacts represent the starting point for folding.
+Also indicated on the surface are highly
+simplified trajectories for the folding of
+individual molecules. Adapted from
+ref. 6.
+fundamental mechanism of protein folding involves the interaction bonding between the amide and carbonyl groups of the main chain.
+of a relatively small number of residues to form a folding nucleus, The formation of such structure is an important element in the over-
+about which the remainder of the structure rapidly condenses15. all folding process, although it might not have as fundamental a role
+More details of how such a mechanism is able to generate a as the establishment of the overall chain topology19. Perhaps the most
+unique fold have emerged from a range of theoretical studies, par- dramatic evidence for such a conclusion is the observation of a
+ticularly involving computer simulation techniques16. Of particu- remarkable correlation between the experimental folding rates of a
+lar significance are investigations that compare the simulation wide range of small proteins and the complexity of their folds, mea-
+results with experimental observations6,17. One approach incorpo- sured by the contact order12. The latter is the average separation in the
+rates experimental measurements directly into the simulations as sequence between residues that are in contact with each other in the
+restraints limiting the regions of conformational space that are native structure. The existence of such a correlation can be rational-
+explored in each simulation; this strategy has enabled rather ized by the argument that a stochastic search process will be more
+detailed structures to be generated for transition states18(see Fig. 1). time consuming if the residues that form the nucleus are further away
+The results suggest that, despite a high degree of disorder, these from each other in the sequence. This evidence strongly supports the
+structures have the same overall topology as the native fold. In conclusion that there are relatively simple underlying principles by
+essence, interactions involving the key residues force the chain to which the sequence of a protein encodes its structure20. Not only will
+adopt a rudimentary native-like architecture. Although it is not yet the establishment of such principles reveal in more depth how pro-
+clear exactly how the sequence encodes such characteristics, the teins are able to fold, but it should advance significantly our ability to
+essential elements of the fold are likely to be determined primarily predict protein folds directly from their sequences and to design
+by the pattern of hydrophobic and polar residues that favours pref- sequences that encode novel folds.
+erential interactions of specific residues as the structure becomes For proteins with more than about 100 residues, experiments
+increasingly compact. Once the correct topology has been generally reveal that one (or more) intermediate is significantly pop-
+achieved, the native structure will then almost invariably be gener- ulated during the folding process. There has, however, been consider-
+ated during the final stages of folding18. Conversely, if these key able discussion about the significance of such species: whether they
+interactions are not formed, the protein cannot fold to a stable assist the protein to find its correct structure or whether they are traps
+globular structure; this mechanism therefore acts also as a ‘quality- that inhibit the folding process21–23. Regardless of the outcome of this
+control’ process by which misfolding can generally be avoided. debate, the structural properties of intermediates provide important
+evidence about the folding of these larger proteins. In particular, they
+The determinants of protein folds suggest that these proteins generally fold in modules, in other words,
+Secondary structure, the helices and sheets that are found in nearly folding can take place largely independently in different segments or
+every native protein structure, is stabilized primarily by hydrogen domains of the protein6,14. In such cases, interactions involving key
+NATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 885
+
+---PAGE BREAK---
+
+insight review articles
+residues are likely to establish the native-like fold within local regions Of particular importance in this context are the many molecular
+or domains and also to ensure that the latter then interact appropri- chaperones that are present in all types of cells and cellular compart-
+ately to form the correct overall structure23,24. The fully native struc- ments. Some chaperones interact with nascent chains as they emerge
+ture is only acquired when all the native-like interactions have been from the ribosome, whereas others are involved in guiding later
+formed both within and between the domains; this happens in a final stages of the folding process27,28. Molecular chaperones often work in
+cooperative folding step when all the side chains become locked in tandem to ensure that the various stages in the folding of such systems
+their unique close-packed arrangement and water is excluded from are all completed efficiently. Many of the details of the functions of
+the protein core25. This modular mechanism is appealing because it molecular chaperones have been determined from studies of their
+suggests that highly complex structures might be assembled in man- effects on folding in vitro. The best characterized of the chaperones
+ageable pieces. Moreover, such a principle can readily be extended to studied in this manner is the bacterial complex involving GroEL, a
+describe the assembly of other macromolecules, particularly nucleic member of the family of ‘chaperonins’, and its ‘co-chaperone’ GroES.
+acids, and even large ‘molecular machines’ such as the ribosome. Many aspects of the sophisticated mechanism through which this
+coupled system functions are now well understood27,28. Of particular
+Protein folding and misfolding in the cell interest is that GroEL, and other members of this class of molecular
+In a cell, proteins are synthesized on ribosomes from the genetic chaperone, contains a cavity in which incompletely folded polypep-
+information encoded in the cellular DNA. Folding in vivois in some tide chains can enter and undergo the final steps in the formation of
+cases co-translational; that is, it is initiated before the completion of their native structures while sequestered and protected from the
+protein synthesis, whereas the nascent chain is still attached to the outside world.
+ribosome26. Other proteins, however, undergo the major part of their Molecular chaperones do not themselves increase the rate of indi-
+folding in the cytoplasm after release from the ribosome, whereas yet vidual steps in protein folding; rather, they increase the efficiency of
+others fold in specific compartments, such as mitochondria or the the overall process by reducing the probability of competing reac-
+endoplasmic reticulum (ER), after trafficking and translocation tions, particularly aggregation. However, there are several classes of
+through membranes27,28. Many details of the folding process depend folding catalyst that accelerate potentially slow steps in the folding
+on the particular environment in which folding takes place, although process. The most important are peptidylprolyl isomerases, which
+the fundamental principles of folding, discussed above, are undoubt- increase the rate of cis–transisomerization of peptide bonds involving
+edly universal. But because incompletely folded proteins must proline residues, and protein disulphide isomerases, which enhance
+inevitably expose to the solvent at least some regions of structure that the rate of formation and reorganization of disulphide bonds30.
+are buried in the native state, they are prone to inappropriate interac- Despite these factors, given the enormous complexity and the stochas-
+tion with other molecules within the crowded environment of a cell29. tic nature of the folding process, it would be remarkable if misfolding
+Living systems have therefore evolved a range of strategies to prevent never occurred. Clear evidence that molecular chaperones are needed
+such behaviour27–29. to prevent misfolding and its consequences comes from the fact that
+the concentrations of many of these species are substantially increased
+during cellular stress; indeed, the designation of many as heat shock
+Ribosome proteins (Hsps) reflects this fact. It is also clear that some molecular
+Transport chaperones are able not only to protect proteins as they fold but also to
+Transport out in
+rescue misfolded and even aggregated proteins and enable them to
+have a second chance to fold correctly27,28. Active intervention in the
+Misfolded
+Modification folding process requires energy, and ATP is required for most of the
+and folding
+Ubiquitin- molecular chaperones to function with full efficiency.
+proteasome In eukaryotic systems, many of the proteins that are synthesized in
+system
+a cell are destined for secretion to the extracellular environment.
+These proteins are translocated into the ER, where folding takes place
+before secretion through the Golgi apparatus. The ER contains a wide
+Correctly
+folded range of molecular chaperones and folding catalysts, and in addition
+the proteins that fold here must satisfy a ‘quality-control’ check
+before being exported (Fig. 2)31,32. Such a process is particularly
+important because there seem to be few molecular chaperones out-
+side the cell, although one (clusterin), at least, has recently been dis-
+covered33. This quality-control mechanism involves a remarkable
+D p e r g o r t a e d in ed ER series of glycosylation and deglycosylation reactions that enables cor-
+rectly folded proteins to be distinguished from misfolded ones31. The
+importance of these regulatory systems is underlined by recent
+experiments that suggest that a large fraction of all polypeptide
+chains synthesized in a cell fail to pass this test and are targeted for
+Vesicle degradation34. Like the ‘heat shock response’ in the cytoplasm, the
+‘unfolded protein response’ in the ER is also stimulated (upregulated)
+Golgi during stress and, as we shall see below, is strongly linked to the avoid-
+ance of misfolding diseases35.
+Figure 2Regulation of protein folding in the ER. Many newly synthesized proteins Folding and unfolding are the ultimate ways of generating and
+are translocated into the ER, where they fold into their three-dimensional structures abolishing specific types of cellular activity. In addition, processes as
+with the help of a series of molecular chaperones and folding catalysts (not shown). apparently diverse as translocation across membranes, trafficking,
+Correctly folded proteins are then transported to the Golgi complex and then secretion, the immune response and regulation of the cell cycle are
+delivered to the extracellular environment. However, incorrectly folded proteins are directly dependent on folding and unfolding events2. Failure to fold
+detected by a quality-control mechanism and sent along another pathway (the correctly, or to remain correctly folded, will therefore give rise to the
+unfolded protein response) in which they are ubiquitinated and then degraded in the malfunctioning of living systems and hence to disease36–38. Some of
+cytoplasm by proteasomes. Adapted from ref. 32. these diseases (such as cystic fibrosis36and some types of cancer39)
+result from proteins folding incorrectly and not being able to exercise
+886 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+a b Figure 3A schematic representation of
+the general mechanism of aggregation to
+form amyloid fibrils. Unfolded or partially
+unfolded proteins associate with each
+other to form small, soluble aggregates
+that undergo further assembly into
+protofibrils or protofilaments (a) and then
+mature fibrils (b, top electron microscope
+images from ref. 44). The fibrils often
+accumulate in plaques or other structures
+c such as the Lewy bodies associated with
+Parkinson’s disease (c, electron
+microscope image on right). Some of the
+early aggregates seem to be amorphous
+or micellar in nature, although others
+form ring-shaped species with diameters
+of approximately 10 nm (d, electron
+microscope image from ref. 53). Adapted
+Amyloidogenic d from a figure provided by H. A. Lashuel
+intermediate and P. T. Lansbury Jr.
+Deposit
+Amyloid fibril
+their proper function; many such disorders are familial because the Although no structure of an amyloid fibril has yet been deter-
+probability of misfolding is often greater in mutational variants. In mined in atomic detail, increasingly convincing models based on
+other cases, proteins with a high propensity to misfold escape all the data from techniques such as X-ray fibre diffraction42, cryoelectron
+protective mechanisms and form intractable aggregates within cells microscopy45and solid-state NMR46are emerging. The core struc-
+or (more commonly) in extracellular space. An increasing number of ture of the fibrils seems to be stabilized primarily by interactions, par-
+disorders, including Alzheimer’s and Parkinson’s diseases, the ticularly hydrogen bonds, involving the polypeptide main chain.
+spongiform encephalopathies and type II diabetes, are directly asso- Because the main chain is common to all polypeptides, this observa-
+ciated with the deposition of such aggregates in tissues, including the tion explains why fibrils formed from polypeptides of very different
+brain, heart and spleen37,38,40,41. In the next section we look at the for- sequence seem to be so similar42,43. In some cases only a handful of the
+mation of these species. residues of a given protein might be involved in this structure, with
+the remainder of the chain being associated in some other manner
+Protein aggregation and amyloid formation with the fibrillar assembly; in other cases almost the whole polypep-
+Each amyloid disease involves predominantly the aggregation of a tide chain seems to be involved. The generic amyloid structure con-
+specific protein, although a range of other components including trasts strongly with the highly individualistic globular structures of
+additional proteins and carbohydrates are incorporated into the most natural proteins. In these latter structures the interactions asso-
+deposits when they form in vivo. In neurodegenerative diseases, the ciated with the very specific packing of the side chains seem to over-
+quantities of aggregates involved can sometimes be so small as to be ride the main-chain preferences43,44.
+almost undetectable, whereas in some systemic diseases literally kilo- Even though the ability to form amyloid fibrils seems to be generic,
+grams of protein can be found in one or more organs40. The charac- the propensity to do so under given circumstances can vary markedly
+teristics of the soluble forms of the 20 or so proteins involved in the between different sequences. The relative aggregation rates for a wide
+well-defined amyloidoses are very varied — they range from intact range of peptides and proteins correlates with the physicochemical
+globular proteins to largely unstructured peptide molecules — but features of the molecules such as charge, secondary-structure
+the aggregated forms have many characteristics in common42. Amy- propensities and hydrophobicity47. In a globular protein the
+loid deposits all show specific optical behaviour (such as birefrin- polypeptide main chain and the hydrophobic side chains are largely
+gence) on binding certain dye molecules such as Congo red. The fib- buried within the folded structure. Only when they are exposed, for
+rillar structures typical of many of the aggregates have very similar example when the protein is partly unfolded (for example, at low pH)
+morphologies (long, unbranched and often twisted structures a few or fragmented (for example, by proteolysis), will conversion into
+nanometres in diameter) and a characteristic ‘cross-b’ X-ray fibre amyloid fibrils be possible. Experiments in vitroindicate that their
+diffraction pattern. The latter reveals that the organized core struc- formation is then generally characterized by a lag phase, followed by a
+ture is composed of b-sheets whose strands run perpendicular to the period of rapid growth48,49. Such behaviour is typical of nucleated
+fibril axis42. The ability of polypeptide chains to form amyloid struc- processes such as crystallization; the lag phase can be eliminated by
+tures is not restricted to the relatively small number of proteins asso- the addition of preformed aggregates to fresh solutions, a process
+ciated with recognized clinical disorders, and it now seems to be a known as seeding. An interesting recent suggestion is that seeding by
+generic feature of polypeptide chains37,43. The most compelling evi- chemically modified forms of proteins, resulting for example from
+dence for the latter statement is that fibrils can be formed in vitroby deamidation or oxidative stress, might in some cases be an important
+many other peptides and proteins, including such well-known factor in triggering the aggregation process and the onset of disease50.
+molecules as myoglobin, and also by homopolymers such as poly- There are striking similarities in the aggregation behaviour of dif-
+threonine or polylysine37,44. ferent peptides and proteins (Fig. 3)48,49. The first phase in amyloid
+NATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 887
+
+---PAGE BREAK---
+
+insight review articles
+Figure 4A unified view of some of the
+Disordered Disordered
+types of structure that can be formed by
+aggregate aggregate
+polypeptide chains. An unstructured
+chain, for example newly synthesized on
+Oligomer
+a ribosome, can fold to a monomeric
+native structure, often through one or
+more partly folded intermediates. It can,
+Fibre
+however, experience other fates such as
+degradation or aggregation. An amyloid
+fibril is just one form of aggregate, but it
+is unique in having a highly organized
+‘misfolded’ structure, as shown in Fig. 3.
+Synthesis Unfolded Intermediate Native O ol t ig h o e m r a e s r s s e , m m b a l c ie ro s, m in o c le lu c d u i l n a g r c fu o n m c p ti l o e n xe a s l
+Crystal and natural protein fibres, contain
+natively folded molecules, as do the
+protein crystals produced in vitrofor X-
+ray diffraction studies of their structures.
+The populations and interconversions of
+the various states are determined by their
+relative thermodynamic and kinetic
+stabilities under any given conditions. In
+Disordered Degraded Prefibrillar living systems, however, transitions
+aggregate fragments species between the different states are highly
+regulated by the environment and by the
+presence of molecular chaperones,
+proteolytic enzymes and other factors.
+Failure of such regulatory mechanisms is
+likely to be a major factor in the onset and
+development of misfolding diseases.
+Adapted from ref. 54.
+Amyloid
+fibril
+formation seems to involve the formation of soluble oligomers as a tems have almost universally avoided the deliberate formation of
+result of relatively nonspecific interactions, although, in some cases, such material. Nevertheless, there is increasing evidence that the
+specific structural transitions, such as domain swapping, might be unique properties of amyloid structures have been exploited by some
+important51. The earliest species visible by electron or atomic-force species, including bacteria, fungi and even mammals, for specific
+microscopy generally resemble small bead-like structures, some- (and carefully regulated) purposes55–57.
+times linked together, and often described as amorphous aggregates There is evidence that evolutionary selection has tended to avoid
+or as micelles. These early ‘prefibrillar aggregates’ then transform amino-acid sequences, such as alternating polar and hydrophobic
+into species with more distinctive morphologies, often called residues, that favour a b-sheet structure of the type seen in amyloid
+‘protofilaments’ or ‘protofibrils’. These structures are commonly fibrils58. Moreover, recent studies suggest that the aggregation
+short, thin, sometimes curly, fibrillar species that are thought to process that results in amyloid fibrils is nucleated in a similar manner
+assemble into mature fibrils, perhaps by lateral association accompa- to that of folding, but that the residues involved might well be located
+nied by some degree of structural reorganization. The aggregates that in different regions of the sequence from those that nucleate fold-
+form first are likely to be relatively disorganized structures that ing59. Such ‘kinetic partitioning’ means that mutations that occur
+expose to the outside world a variety of segments of the protein that during evolution could be selected for their ability to enhance folding
+are normally buried in the globular state52. In some cases, however, at the expense of aggregation. However, it is apparent that biological
+these early aggregates appear to adopt quite distinctive structures, systems have become robust not just by careful manipulation of the
+including well-defined annular species53(see Fig. 3). sequences of proteins but also by controlling, by means of molecular
+chaperones and degradation mechanisms, the particular state adopt-
+Molecular evolution and the control of protein misfolding ed by a given polypeptide chain at a given time and under given con-
+The state of a protein that is adopted under specific conditions ditions. This process can be thought of as being analogous to the way
+depends on the relative thermodynamic stabilities of the various in which biology regulates and controls the various chemical trans-
+accessible conformations and on the kinetics of their interconversion formations that take place in the cell by means of enzymes. And just as
+(Fig. 4)37,54. Amyloid fibrils are just one of the types of aggregate that the aberrant behaviour of enzymes can cause metabolic disease, the
+can be formed by proteins, although a significant feature of this par- aberrant behaviour of the chaperone and other machinery regulating
+ticular species is that its highly organized hydrogen-bonded struc- polypeptide conformations can contribute to misfolding and
+ture is likely to give it unique kinetic stability. Thus, once formed, aggregation diseases35,60.
+such aggregates can persist for long periods, allowing a progressive The ideas encapsulated in Fig. 4 therefore serve as a framework for
+build-up of deposits in tissue, and indeed enabling seeding of the understanding the fundamental events that underlie misfolding dis-
+subsequent conversion of additional quantities of the same protein eases. For example, many of the mutations associated with the famil-
+into amyloid fibrils. It is therefore not surprising that biological sys- ial forms of deposition diseases increase the population of partially
+888 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+unfolded states, and hence the propensity to aggregate, by decreasing Angew. Chem. Int. Ed. Eng.37,868–893 (1998).
+the stability or cooperativity of the native state37,41,61,62. Other familial 4. Wolynes, P. G., Onuchic, J. N. & Thirumalai, D. Navigating the folding routes. Science267,1619–1620
+diseases are associated with the accumulation of amyloid deposits (1995).
+5. Dill, K. A. & Chan, H. S. From Levinthal to pathways to funnels. Nature Struct. Biol.4,10–19 (1997).
+whose primary components are fragments of native proteins; such
+6. Dinner, A. R., Sali, A., Smith, L. J., Dobson, C. M. & Karplus, M. Understanding protein folding via
+fragments can be produced by aberrant processing or incomplete free energy surfaces from theory and experiment. Trends Biochem. Sci.25,331–339 (2000).
+proteolysis, and are unable to fold into aggregation-resistant states. 7. Baldwin, R. L. Protein folding: matching speed and stability. Nature369,183–184 (1994).
+Other pathogenic mutations enhance the propensities of such 8. Eaton, W. A., Munoz, V., Thompson, P. A., Henry, E. R. & Hofrichter, J. Kinetics and dynamics of
+loops, a-helices, b-hairpins, and fast-folding proteins. Acc. Chem. Res.31,745–753 (1998).
+species to aggregate, for example by increasing their hydrophobicity
+9. Snow, C. D., Nguyen, H., Pande, V. S. & Gruebele, M. Absolute comparison of simulated and
+or decreasing their charge47. And, in the prion disorders such as Kuru experimental protein-folding dynamics. Nature420,102–106 (2002).
+or Creutzfeldt–Jakob disease, it seems that ingestion of pre-aggregat- 10.Yang, W. Y. & Gruebele, M. Folding at the speed limit. Nature423,193–197 (2003).
+11.Mayor, U. et al. The complete folding pathway of a protein from nanoseconds to microseconds.
+ed states of an identical protein, for example by voluntary or involun-
+Nature421,863–867 (2003).
+tary cannibalism or through the use of contaminated pharmaceuti- 12.Plaxco, K. W., Simons, K. T. & Baker, D. Contact order, transition state placement and the refolding
+cals or surgical instruments, can markedly increase the inherent rate rates of single domain proteins. J. Mol. Biol.277,985–994 (1998).
+of aggregation through seeding and hence can generate a mechanism 13.Schuler, B., Lipman, E. A. & Eaton, W. A. Probing the free-energy surface for protein folding with
+for transmission48,63. single-molecule fluorescence spectroscopy. Nature419,743–747 (2002).
+14.Fersht, A. R. Structure and Mechanism in Protein Science: A Guide to Enzyme Catalysis and Protein
+In some aggregation diseases, the large quantities of insoluble pro- Folding(W.H. Freeman, New York, 1999).
+tein involved can physically disrupt specific organs and thereby cause 15.Fersht, A. R. Transition-state structure as a unifying basis in protein-folding mechanisms: contact
+pathological behaviour40. But for neurodegenerative disorders, such order, chain topology, stability, and the extended nucleus mechanism. Proc. Natl Acad. Sci. USA97,
+1525–1529 (2000).
+as Alzheimer’s disease, the primary symptoms almost certainly result
+16.Shea, J. E. & Brooks, C. L. From folding surfaces to folding proteins: a review and assessment of
+from a ‘toxic gain of function’ associated with aggregation64. The early simulation studies of protein folding and unfolding. Annu. Rev. Phys. Chem.52,499–535 (2001).
+prefibrillar aggregates of proteins associated with such diseases are 17.Fersht, A. R. & Daggett, V. Protein folding and unfolding at atomic resolution. Cell108,573–582
+(2002).
+highly damaging to cells; by contrast, the mature fibrils are usually rel-
+18.Vendruscolo, M., Paci, E., Dobson, C. M. & Karplus, M. Three key residues form a critical contact
+atively benign48,65. Moreover, experiments have recently suggested network in a transition state for protein folding. Nature409,641–646 (2001).
+that similar aggregates of proteins that are not connected with any 19.Makarov, D. E. & Plaxco, K. W. The topomer search model: a simple, quantitative theory of two-state
+known diseases could be equally cytotoxic52. The generic nature of protein folding kinetics. Protein Sci.12,17–26 (2003).
+20.Baker, D. A surprising simplicity to protein folding. Nature405,39–42 (2000).
+such aggregates and their effects on cells has recently been supported
+21.Roder, H. & Colon, W. Kinetic role of early intermediates in protein folding. Curr. Opin. Struct. Biol.
+by the remarkable finding that antibodies can cross-react with early 7,15–28 (1997).
+aggregates of different peptides and proteins, and moreover inhibit 22.Sanchez, I. E. & Kiefhaber, T. Evidence for sequential barriers and obligatory intermediates in
+their toxicity66. It is possible that there are specific mechanisms for this apparent two-state protein folding. J. Mol. Biol.325,367–376 (2003).
+23.Khan, F., Chuang, J. I., Gianni, S. & Fersht, A. R. The kinetic pathway of folding of barnase. J. Mol.
+toxicity, for example as a result of annular species (Fig. 3) that resem-
+Biol.333,169–186 (2003).
+ble the toxins produced by bacteria that form pores in membranes and 24.Vendruscolo, M., Paci, E., Karplus, M. & Dobson, C. M. Structures and relative free energies of
+disrupt the ion balance in cells53. However, it is likely that the relatively partially folded states of proteins. Proc. Natl Acad. Sci. USA100,14817–14821 (2003).
+25.Cheung, M. S., Garcia, A. E. & Onuchic, J. N. Protein folding mediated by solvation: water expulsion
+disorganized prefibrillar aggregates are also harmful to cells, probably
+and formation of the hydrophobic core occur after the structural collapse. Proc. Natl Acad. Sci. USA
+through a less specific mechanism, for example as a result of the expo- 99,685–690 (2002).
+sure of non-native hydrophobic surfaces stimulating aberrant inter- 26.Hardesty, B. & Kramer, G. Folding of a nascent peptide on the ribosome. Prog. Nucleic Acid Res. Mol.
+actions with cell membranes or other cellular components67. Biol.66,41–66 (2001).
+27.Bukau, B. & Horwich, A. L. The Hsp70 and Hsp60 chaperone machines. Cell92,351 –366 (1998).
+28.Hartl, F. U. & Hayer-Hartl, M. Molecular chaperones in the cytosol: from nascent chain to folded
+Future directions protein. Science295,1852–1858 (2002).
+In normal circumstances the molecular chaperones and other 29.Ellis, R. J. Macromolecular crowding: an important but neglected aspect of the intracellular
+‘housekeeping’ mechanisms are remarkably efficient in ensuring that environment. Curr. Opin. Struct. Biol.11,114–119 (2001).
+30.Schiene, C. & Fischer, G. Enzymes that catalyse the restructuring of proteins. Curr. Opin. Struct. Biol.
+such potentially toxic species as prefibrillar aggregates are neutral-
+10,40–45 (2000).
+ized before they can do any damage28,68. This neutralization could 31.Hammon, C. & Helenius, A. Quality control in the secretory pathway. Curr. Opin. Cell. Biol.7,
+result simply from the efficient targeting of misfolded proteins for 523–529 (1995).
+32.Kaufman, R. J. et al. The unfolded protein response in nutrient sensing and differentiation. Nature
+degradation, but it seems that molecular chaperones are also able to
+Rev. Mol. Cell Biol.3,411–421 (2002).
+alter the partitioning between harmful and harmless forms of aggre- 33.Wilson, M. R. & Easterbrook Smith, S. B. Clusterin is a secreted mammalian chaperone. Trends
+gates (Fig. 4)69. If the efficiency of these protective mechanisms is Biochem. Sci.25, 95–98 (2000).
+impaired, however, the probability of pathogenic behaviour 34.Schubert, U. et al. Rapid degradation of a large fraction of newly synthesized proteins by proteasomes.
+increases35,68. Such a process would explain why most of the amyloid Nature404,770–774 (2000).
+35.Bence, N. F., Sampat, R. M. & Kopito, R. R. Impairment of the ubiquitin–proteasome system by
+diseases are associated with old age, when there is likely to be an protein aggregation. Science292,1552–1555 (2001).
+increased tendency for proteins to become misfolded or damaged, 36.Thomas, P. J., Qu, B. H. & Pedersen, P. L. Defective protein folding as a basis of human disease. Trends
+coupled with a decreased efficiency of the molecular chaperone and Biochem. Sci.20,456–459 (1995).
+37.Dobson, C. M. The structural basis of protein folding and its links with human disease. Phil. Trans. R.
+unfolded proteins responses70. It is ironic that through our success in
+Soc. Lond. B356,133–145 (2001).
+increasing the life expectancy of the populations of the developed 38.Horwich, A. Protein aggregation in disease: a role for folding intermediates forming specific
+world, we are now seeing the limitations of our proteins and of the multimeric interactions. J. Clin. Invest.110,1221–1232 (2002).
+regulatory mechanisms that control their behaviour71. It is therefore 39.Bullock, A. N. & Fersht, A. R. Rescuing the functions of mutant p53. Nature Rev. Cancer1,68–76
+(2001).
+essential that we use our developing understanding of misfolding 40.Tan, S. Y. & Pepys, M. B. Amyloidosis. Histopathology25,403–414 (1994).
+and aggregation to find effective strategies for combating these 41.Kelly, J. W. Alternative conformation of amyloidogenic proteins and their multi-step assembly
+increasingly common and highly debilitating diseases54. Fortunately, pathways. Curr. Opin. Struct. Biol.8, 101–106 (1998).
+42.Sunde, M. & Blake, C. C. F. The structure of amyloid fibrils by electron microscopy and X-ray
+there is now real evidence to suggest that modern science will rise suc-
+diffraction. Adv. Protein Chem.50,123–159 (1997).
+cessfully to this tremendous challenge. nn 43.Dobson, C. M. Protein misfolding, evolution and disease. Trends Biochem. Sci.24,329–332 (1999).
+44.Fändrich, M. & Dobson, C. M. The behaviour of polyamino acids reveals an inverse side-chain effect
+in amyloid structure formation. EMBO J.21,5682–5690 (2002).
+doi:10.1038/nature02261
+45. Jiménez, J. L. et al. Cryo-electron microscopy of an SH3 amyloid fibril and model of the molecular
+1. Vendruscolo, M., Zurdo, J., MacPhee, C. E. & Dobson, C. M. Protein folding and misfolding: a packing. EMBO J.18,815–821 (1999).
+paradigm of self-assembly and regulation in complex biological systems. Phil. Trans. R. Soc. Lond. 46. Petkova, A. T. et al. A structural model for Alzheimer’s b-amyloid fibrils based on experimental
+361, 1205–1222 (2003). constraints from solid state NMR. Proc. Natl Acad. Sci. USA99,16742–16747 (2002).
+2. Radford, S. E. & Dobson, C. M. From computer simulations to human disease: emerging themes in 47.Chiti, F., Stefani, M., Taddei, N., Ramponi, G. & Dobson, C. M. Rationalization of mutational effects
+protein folding. Cell97,291–298 (1999). on protein aggregation rates. Nature424,805–808 (2003).
+3. Dobson, C. M., Sali, A. & Karplus, M. Protein folding: a perspective from theory and experiment. 48.Caughey, B. & Lansbury, P. T. Jr. Protofibrils, pores, fibrils, and neurodegeneration: separating the
+NATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 889
+
+---PAGE BREAK---
+
+insight review articles
+responsible protein aggregates from the innocent bystanders. Annu. Rev. Neurosci.26,267–298 (2003). 61.Ramirez-Alvarado, M., Merkel, J. S. & Regan, L. A systematic exploration of the influence of the
+49.Bitan, G. et al. Amyloid b-protein (Ab) assembly: Ab40 and Ab42 oligomerize through distinct protein stability on amyloid fibril formation in vitro. Proc. Natl Acad. Sci. USA97, 8979–8984 (2000).
+pathways. Proc. Natl Acad. Sci. USA100,330–335 (2003). 62.Dumoulin, M. et al. A camelid antibody fragment inhibits amyloid fibril formation by human
+50.Nilsson, M. R., Driscoll, M. & Raleigh, D. P. Low levels of asparagine deamidation can have a dramatic lysozyme. Nature424, 783–788 (2003).
+effect on aggregation of amyloidogenic peptides: implications for the study of amyloid formation. 63.Prusiner, S. B. Prion diseases and the BSE crisis. Science278,245–251 (1997).
+Protein Sci.11,342–349 (2002). 64.Taylor, J. P., Hardy, J. & Fischbeck, K. H. Toxic proteins in neurodegenerative disease. Science296,
+51.Schlunegger, M. P., Bennett, M. J. & Eisenberg, D. Oligomer formation by 3D domain swapping: a 1991–1995 (2002).
+model for protein assembly and misassembly. Adv. Protein Chem.50, 61–122 (1997). 65.Walsh, D. M. et al. Naturally secreted oligomers of amyloid bprotein potently inhibit hippocampal
+52.Bucciantini, M. et al. Inherent cytotoxicity of aggregates implies a common origin for protein long-term potentiation in vivo. Nature416,535–539 (2002).
+misfolding diseases. Nature416,507–511 (2002). 66.Kayed, R. et al. Common structure of soluble amyloid oligomers implies common mechanisms of
+53.Lashuel, H. A., Hartley, D., Petre, B. M., Walz, T. & Lansbury, P. T. Jr. Neurodegenerative disease: pathogenesis. Science300,486–489 (2003).
+amyloid pores from pathogenic mutations. Nature418,291 (2002). 67.Stefani, M. & Dobson, C. M. Protein aggregation and aggregate toxicity: new insights into protein
+54.Dobson, C. M. Protein folding and disease: a view from the First Horizon Symposium. Nature Rev. folding, misfolding diseases and biological evolution. J. Mol. Med.81,678–699 (2003).
+Drug Discov.2,154–160 (2003). 68.Sherman, M. Y. & Goldberg, A. L. Cellular defenses against unfolded proteins: a cell biologist thinks
+55.True, H. L. & Lindquist, S. L. A yeast prion provides a mechanism for genetic variation and about neurodegenerative diseases. Neuron29,15–32 (2001).
+phenotypic diversity. Nature407,477–483 (2000). 69.Muchowski, P. J. et al. Hsp70 and Hsp40 chaperones can inhibit self-assembly of polyglutamine
+56.Chapman, M. R. et al. Role of Escherichia colicurli operons in directing amyloid fiber formation. proteins into amyloid-like fibrils. Proc. Natl Acad. Sci. USA97,7841–7846 (2000).
+Science295,851–855 (2002). 70.Csermely, P. Chaperone overload is a possible contributor to ‘civilization diseases’. Trends Genet. 17,
+57. Kelly, J. W. & Balch, W. E. Amyloid as a natural product. J. Cell Biol.161,461–462 (2003). 701–704 (2001).
+58.Broome, B. M. & Hecht, M. H. Nature disfavours sequences of alternating polar and non-polar amino 71.Dobson, C. M. Getting out of shape—protein misfolding diseases. Nature418,729–730 (2002).
+acids: implications for amyloidogenesis.J. Mol. Biol.296,961–968 (2000).
+59.Chiti, F. et al. Kinetic partitioning of protein folding and aggregation. Nature Struct. Biol.9,137–143 AcknowledgementsI should like to thank in particular the Wellcome Trust, the
+(2002). Leverhulme Trust and the UK Research Councils for generous support over many years,
+60.Macario, A. J. L. & Macario, E. C. Sick chaperones and ageing: a perspective. Ageing Res. Rev.1, without whom my own research activities in this area of science could not have been
+295–311 (2002). carried out.
+890 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+

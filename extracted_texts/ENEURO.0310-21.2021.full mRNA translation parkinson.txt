@@ -1,0 +1,610 @@
+ResearchArticle:NewResearch
+Disorders of the Nervous System
+Dysregulated mRNA Translation in the G2019S
+LRRK2 and LRRK2 Knock-Out Mouse Brains
+Jungwoo Wren Kim,1,2,3 Xiling Yin,1,4 Ian Martin,1,4 Yulan Xiong,1,4 Stephen M. Eacker,1,4,5
+Nicholas T. Ingolia,3 Ted M. Dawson,1,4,5,6,7,8 and Valina L. Dawson1,2,4,5,6,8
+https://doi.org/10.1523/ENEURO.0310-21.2021
+1Neuroregeneration and Stem Cell Programs, Institute for Cell Engineering, Johns Hopkins University School of
+Medicine, Baltimore, MD 21205, 2Department of Physiology, Johns Hopkins University School of Medicine, Baltimore,
+MD 21205, 3Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA 94720,
+4Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 21205, 5Adrienne Helis
+Malvin Medical Research Foundation, New Orleans, LA 70130, 6Solomon H. Snyder Department of Neuroscience,
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, 7Department of Pharmacology and Molecular
+Sciences, Johns Hopkins University School of Medicine, Baltimore, MD 21205, and 8Diana Helis Henry Medical
+Research Foundation, New Orleans, LA 70130
+Visual Abstract
+The G2019S mutation in leucine-rich repeat kinase 2 (LRRK2) causes familial Parkinson’s disease (PD) and is
+also found in a subset of idiopathic cases. Prior studies in Drosophila and human induced pluripotent stem
+cell (iPSC)-derived dopamine neurons uncovered a pronounced effect of G2019S LRRK2 on mRNA translation.
+It was previously reported that G2019S LRRK2 promotes translation of mRNAs with complex 59 untranslated
+region (UTR) secondary structure, resulting in increased expression of calcium channels and dysregulated cal-
+cium homeostasis in human dopamine neurons. Here, we show that dysregulated translation occurs in the
+brains of mammalian LRRK2 models in vivo. Through ribosome profiling studies of global translation, we ob-
+serve that mRNAs with complex 59UTR structure are also preferentially translated in the G2019S LRRK2-ex-
+pressing mouse brain. Reporter assays suggest that this 59UTR preference is independent of translation
+initiation factors. Conversely, translation of mRNAs with complex 59UTR secondary structure is downregulated
+Significance Statement
+Parkinson’s disease (PD)-linked G2019S mutation of leucine-rich repeat kinase 2 (LRRK2) is known to
+causeabnormalitiesinmRNAtranslation.Thesetranslationaldefectsweresuggestedtocausecalciumdys-
+regulation, thereby imposing a long-term cellular stress to dopamine neurons. While these effects of
+G2019SLRRK2onmRNAtranslationhavebeenseeninDrosophilabraintissuesandculturedmammalian
+neurons,translationalprofiling ofthemammalian brainexpressing G2019SLRRK2 has notbeenreported.
+In this study, we employed ribosome profiling to survey mRNA translation in the brains of LRRK2 mouse
+models, thereby demonstrating that the G2019S LRRK2 mutation broadly alters mRNA translation in the
+mousebrain.
+November/December2021,8(6)ENEURO.0310-21.20211–11
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 2of11
+in LRRK2 knock-out (KO) mouse brain, indicating a robust link between LRRK2 kinase activity and translation
+of mRNA with complex 59UTR structure. Further, substantia nigra pars compacta (SNpc) dopamine neurons in
+the G2019S LRRK2-expressing brain exhibit increased calcium influx, which is consistent with the previous re-
+port from human dopamine neurons. These results collectively suggest that LRRK2 plays a mechanistic role in
+translational regulation, and the G2019S mutation in LRRK2 causes translational defects leading to calcium
+dysregulation in the mammalian brain.
+Keywords:LRRK2;RPS15;translation
+Introduction patient-derived induced pluripotent stem cells (iPSCs)
+Dominantmutations in the leucine-rich repeat kinase2 showed that the increased translation in G2019S LRRK2
+(LRRK2) gene are the most common genetic cause of leads to increased expression of genes responsible for
+familial Parkinson’s disease (PD), with the G2019S mis- calcium influx in neurons (Kim et al., 2020). While these
+sensemutationbeingmostfrequentdisease-causingmu- studiespresentedpotentialmechanismslinkingabnormal
+tation in LRRK2 (Martin et al., 2014a). The G2019S translation to cellular stress, the proposed mechanisms
+mutation enhances the kinase activity of LRRK2, leading haveyettobetestedinthemammalianbrain.
+to neurotoxicity (Greggio et al., 2006; Smith et al., 2006).
+While various cellular functions are associated with Materials and Methods
+LRRK2 kinase activity, emerging evidence suggests that All animalprotocols areinaccordance withtheregula-
+alterationsinmRNAtranslationdownstreamofkinaseac- tions of Johns Hopkins University Animal Care and Use
+tivity plays an important role in PD pathogenesis (Imai et CommitteeandtheNationalInstitutesofHealthGuidefor
+al., 2008; Gehrke et al., 2010; Martin et al., 2014b; the Care and Use of Laboratory Animals. Animals were
+Taymansetal.,2015).G2019SLRRK2wasreportedtoin- housed in a 12/12 h light/dark cycle with free access to
+crease global protein synthesis through phosphorylation water and food. High-throughput sequencing data are
+of the ribosomal protein S15 (uS19), and reduction of availableviaNCBIGEO(accessionnumber:GSE167704).
+global protein synthesis is protective against G2019S
+LRRK2 neurotoxicity ina Drosophilamodel (Martin et al.,
+MaintenanceofLRRK2transgenicmousemodels
+2014b). In addition, a recent study applying ribosome
+GenerationandcharacterizationofLRRK2“Tet-off”trans-
+profiling to human dopamine neurons differentiated from
+genicmiceandLRRK2knock-out(KO)micewerepreviously
+reported(Andres-Mateosetal.,2009;Nikonovaetal.,2012;
+Xiong et al., 2017). For transgenic mice, high copy number
+Received July 20, 2021; accepted October 28, 2021; First published lines(569lineforGS,763lineforGS/DA)wereused(Xionget
+November10,2021. al., 2017). Single transgenic mice Ca21 /calmodulin-depend-
+Theauthorsdeclarenocompetingfinancialinterests.
+ent protein kinase II (CaMKII)-tTA or Tet-LRRK2) were used
+Authorcontributions:J.W.K.,T.M.D.,andV.L.D.designedresearch;J.W.K.,
+X.Y.,I.M.,Y.X.,andN.T.I.performedresearch;J.W.K.andS.M.E.contributed for breeding, and the breeding cages were maintained with
+unpublished reagents/analytic tools; J.W.K., X.Y., I.M., and N.T.I. analyzed doxycycline chow (Diet-Sterile, 200mg/kg doxycycline, Bio-
+data;J.W.K.,T.M.D.,andV.L.D.wrotethepaper. Serv) and fed ad libitum. Doxycycline food was switched
+ThisworkwassupportedbytheNationalInstitutesofHealth(NIH)GrantP50
+back to regular food after weaning for transgene induction.
+NS38377, the JPB Foundation, and the Adrienne Helis Malvin Medical
+Research Foundation’s Parkinson’s Disease Program M-2014. J.W.K was Three-tofour-month-oldmicewereusedforribosomeprofil-
+supportedbyKoreaFoundationofAdvancedStudies.I.M.wassupportedby ingexperiments(describedbelow).
+theNIH/NationalInstituteonAging(NIA)GrantK01-01AG050718.Y.X.was
+supportedbyNIH/NIAGrantK01-AG046366andTheWilliamN.&BerniceE.
+BumpusFoundationInnovationAwards. Mouseprimarycorticalneuronculture
+I.Martin’spresentaddress:JungersCenterforNeurosciencesResearch, Dissipated primary cortical neurons were prepared
+Parkinson CenterofOregon, Department ofNeurology, OregonHealth and fromembryonicday(E)15developingbrain(CD1,Charles
+ScienceUniversity,Portland,OR97239.
+River or LRRK2 transgenic mice). Developing cortices
+Y. Xiong’s present address: Department of Neuroscience, University of
+ConnecticutSchoolofMedicine,Farmington,CT06030. were dissected in the dissecting medium (DMEM with
+S.M.Eacker’spresentaddress:PhaseGenomicsInc,Seattle,WA98109. 20% horse serum, 0.5 mM GlutaMax, and 6 m M glucose,
+Acknowledgements:WethankthejointparticipationbytheAdrienneHelis Invitrogen), digested with TrypLE (Invitrogen), and plated
+Malvin Medical Research Foundation through its direct engagement in the at a concentration of 3(cid:1)106 cells for a plate. Culture
+continuousactiveconductofmedicalresearchinconjunctionwithTheJohns
+plates were precoated with 15mg/ml poly-L-ornithine.
+HopkinsHospitalandtheJohnsHopkinsUniversitySchoolofMedicine.The
+IRES reporters are gifts from P. A. Sharp’s laboratory (Addgene #11509, Cultures were maintained under Neurobasal (Invitrogen)
+#11510). T.M.D. is the Leonard and Madlyn Abramson Professor in medium with a serum-free supplement B-27 (Invitrogen)
+NeurodegenerativeDiseases. and0.5mMGlutaMax(Invitrogen).
+CorrespondenceshouldbeaddressedtoValinaL.Dawsonatvdawson@
+jhmi.eduorTedM.Dawsonattdawson@jhmi.edu.
+https://doi.org/10.1523/ENEURO.0310-21.2021 Immunocytochemistryofneurons
+Copyright©2021Kimetal.
+Cells were fixed with 4% paraformaldehyde for 15min
+This is an open-access article distributed under the terms of the Creative at room temperature, then permeabilized with 0.03%
+CommonsAttribution4.0Internationallicense,whichpermitsunrestricteduse,
+Triton X-100 for 15min. The cells were washed then
+distributionandreproductioninanymediumprovidedthattheoriginalworkis
+properlyattributed. blockedfor1hwith10%goatseruminPBS.Theblocked
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 3of11
+cellsweresubsequentlyincubatedwithprimaryantibody ribosomefootprintsweredephosphorylatedbyT4polynucle-
+for overnightat 4°C. On the following day, the cellswere otidekinasetreatment,thenUniversalmiRNACloningLinker
+incubated with secondary antibody for 1 h at room tem- (NEB)wasaddedtothe39ends.Reversetranscriptionreac-
+peratureinalightcontrolledcondition.After3(cid:1)washwith tion was performed, and the cDNA was circularized by
+PBS buffer, the cells were mounted on cover slides with CircLigase II (Epicentre) reaction,andsubjectedtothe PCR
+mounting media containing DAPI. All images were taken forfinallibrarygeneration.
+for analysis with Zeiss AxioObserver Z1 or LSM710 (Carl
+Zeiss) confocal laser scanning microscope under 20(cid:1) or RNA-seq
+40(cid:1) oil objectives. Blinding was not performed with im- TotalRNAwaspurifiedbyacombinationofQIAzoland
+munocytochemistry experiments. The following primary RNeasy Mini as described. Ribo-Zero Gold kit was used
+antibodies were used for immunocytochemistry: a-tyro- for rRNA removal. RNA-seq library was generated from
+sinehydroxylase(TH;1:1000,EMDMilliporeAB152). the total RNA by ScriptSeq v2 Library Preparation kit
+(Epicentre).
+Ribosomeprofilinglibrarygeneration
+RibosomefootprintingandRNA-seqlibrarieswerepre- Ribosomeprofilingdataprocessing
+paredbyfollowingapublishedprotocolwithseveralmod- IlluminaHiSeq2000or2500wereusedfordeepsequenc-
+ifications made for mouse brain tissue (Ingolia et al., ingofthelibraries.FASTX-Toolkit(http://hannonlab.cshl.edu/
+2012). fastx_toolkit/)wasusedfortheinitialprocessingofthereads.
+Mousebrain Ribosomefootprintinglibraries
+Brainsofthree-tofour-month-oldmiceweredissected Only adapter-containing reads were clipped. Reads
+in TBSbuffer with 100mg/mlcycloheximide and immedi- shorter than 25nt were discarded. The first nucleotide of
+ately frozen in dry ice. Caudate putamen tissues from the reads was trimmed. rRNA-mapped reads were dis-
+threemiceof mixedgender(1:2or 2:1 male:femaleratio) cardedbeforegenomicalignment.
+were pooled; 2.5% of total lysate was subjected to
+RNA-seqlibraries
+Westernblottingto ensuresufficientexpressionoftrans-
+Only adapter-containing reads were clipped, rRNA-
+gene. The collected samples were homogenized in lysis
+mappedreadswerediscarded.
+b m u M ffe D r T [1 T 0 , 1 m 0 M 0 T m r g is /m p l H c 7 y . c 5 l , o 1 h 5 e 0 xim m i M de N , a E C D l, T 5 A m -fr M ee M p g r C o l t 2 e , a 0 s .5 e The processed reads were mapped to the UCSC ge-
+nome database (mouse: mm9) by Tophat (2.0.11) with
+inhibitor (Roche), and 40 U/ml murine RNase Inhibitor
+Bowtie2 (2.2.2). Maximum 1 mismatch was allowed for
+(NEB)]with12strokesofhigh-speedmotorizedhomoge-
+thealignments(forsequencingreadcounts,seeTable1).
+nizer (Glas-Col GT series) at 40% power. The lysates
+werebrieflycentrifugedfor10minat2000(cid:1)g.Thesuper-
+natantwastransferredtoanewtube,addedNP-40-1%final Internalribosomeentrysite(IRES)reporterassays
+concentration, incubated 5min on ice. The samples were pFR-HCV-xb, pFR-CrPV-xb vectors (from Phil Sharp
+centrifugedagainfor10minat20,000(cid:1)g.Thelysateswere Lab)wereobtainedfromtheAddgenedepository(#11510
+incubated in ice for 15min, and centrifuged for 10min at and#11509, respectively). The reporter vectorswere co-
+20,000(cid:1)g.TotalRNAconcentrationoflysatewasmeasured transfectedintoCD1wild-typemousecorticalneuronsat
+by Qubit RNA BR Assay (Life Technologies), and the same day in vitro (DIV)5 with LRRK2-expressing or S15-ex-
+amountofRNAwasusedacrosssamples.Thesupernatant pressingplasmids(orempty,respectiveexpressionplas-
+wassplitintotwotubesforribosomefootprintingandRNA- mids for control) using Lipofectamine 2000 (Invitrogen)
+seqlibrarygeneration. reagent.LuciferasetoLRRK2/S15expressionvectorratio
+was 1:3. Culture medium was replaced (half-change)
+Ribosomefootprinting
+every 24 h to minimize any potential effects from the
+Thelysatesweretreatedwith15mlofRNaseI(Ambion)
+growth condition including starvation. Luciferase activity
+in600-mltotalreactionvolumefor45minatroomtempera-
+was measured at DIV7 by Dual-Glo Luciferase Assay
+ture, and the reaction was stopped by adding 30ml of
+System (Promega; for the IRES reporters) with Glomax
+SuperAse-In(Ambion).Sucrosecushionwasperformedwith
+20/20 Luminometer (Promega). The lysates were sub-
+1.7gsucrosein3.9mlpolysomebuffer(10mMTrispH7.5,
+jectedtothetotalRNApurificationwithDNasetreatment
+150mMNaCl,5mMMgCl
+2
+,0.5mMDTT,100mg/mlcyclohex-
+forthetranscriptlevelmeasurement.
+imide,20U/mlSuperAse-In),4hat70,000rpm.Thepelletwas
+resuspendedwith700mlQIAzol(QIAGEN)reagent,incubated
+for5minatroomtemperature,140mlchloroformwasadded, Immunoblotting
+vortexedfor15s,andincubatedagainfor2minatroomtem- Brain tissues were lysed with an automated homoge-
+perature.Thesamplewascentrifugedfor15minat12,000(cid:1) nizer in RIPA buffer with 1% SDS [20 mM Tris-HCl (pH
+g,the350mlsupernatantwasmixedwith525ml100%EtOH. 7.5), 150 mM NaCl, 1 mM EDTA, 1% NP-40, 1% sodium
+The mixture was loaded on an RNeasy Mini column deoxycholate, 1% SDS, protease inhibitors]. Lysates were
+(QIAGEN), and the RNA was extracted; 26–34 nt ribosome incubated on a rotator for 1 h at 4°C, and spun down for
+footprints were size-selected by Urea-PAGE, gel extraction 10min(cid:1)12,000 (cid:1) g at 4°C. Supernatant was collected,
+andRNApurification.Ribo-ZeroGoldkit(Illumina)wasused protein concentration was measured, and the lysate was
+forrRNAremovalafterthesizeselection.TherRNAdepleted mixed with 2(cid:1) Laemmli sample buffer. Generation and
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 4of11
+Table1. Sequencingreadcounts similar group size was randomly selected for each
+comparison to avoid potential bias from sample size
+Sample Type Mappedreads
+Mousecontrol1 Ribo 11,528,964 differences.Transcriptcoordinateswerecalculatedby
+mRNA 35,167,826 a custom R script and re-aligned based on the
+Mousecontrol2 Ribo 14,236,436 rounded half point of the ribosome footprint [59end 1
+mRNA 53,086,785 (footprint length/2)]. For icSHAPE data analysis,
+Mousecontrol3 Ribo 28,913,143 icSHAPE (in vivo) results from mouse ES cells (GEO:
+mRNA 37,446,599 GSE64169) were downloaded, converted to mm9
+G2019STG1 Ribo 10,832,574
+(UCSCliftOver),andmergedwithourmouseribosome
+mRNA 37,329,310
+profilingdata.
+G2019STG2 Ribo 11,636,313
+mRNA 42,813,645
+G2019S/D1994ATG1 Ribo 11,391,779 Electrophysiologicalrecordings
+mRNA 62,883,025 Mice(10–12weeksold)wereanesthetizedanddecapi-
+G2019S/D1994ATG2 Ribo 30,967,177 tated, and the brainswereplacedinice-coldartificialCSF
+mRNA 33,887,256
+(ACSF)containingthefollowing:125mMNaCl,2.5mMKCl,
+MouseWT(vsKO)1 Ribo 6,069,632
+mRNA 44,668,380
+1 mM MgSO
+4
+, 1.25 mM NaH
+2
+PO
+4
+, 26 mM NaHCO
+3
+, 2 mM
+MouseWT(vsKO)2 Ribo 6,331,204
+CaCl
+2
+, and 10 mM D-glucose. Transverse brain slices con-
+taining substantia nigra pars compacta (SNpc; 350mm)
+mRNA 8,025,070
+LRRK2KO1 Ribo 5,552,451 werepreparedusingavibratome(LeicaVT1200S).Sections
+mRNA 65,571,861 were incubated in ACSF saturated with 95% O and 5%
+2
+LRRK2KO2 Ribo 7,322,616 CO ,at34°Cfor60min,andthenatroomtemperature(22–
+2
+mRNA 18,455,674 24°C) until use. Recordings were performed at room tem-
+LRRK2WT3(STR) Ribo 22,256,190 perature. All experiments were conducted in accordance
+LRRK2WT3(VMB) Ribo 8,773,494
+withtheNationalInstitutesofHealthGuidefortheCareand
+LRRK2KO3(STR) Ribo 22,069,910
+UseofLaboratoryAnimals.
+LRRK2KO3(VMB) Ribo 6,492,191
+HEKA EPC10 amplifier (HEKA Elektronik) was used to
+perform electrophysiological recordings. For spontane-
+Ribo: ribosome profiling; mRNA: RNA-Seq; TG: transgenic mice; WT: wild
+type,KO:knock-outmice;STR:striatum;VMB:ventralmidbrain. ousandevokedactionpotentials(APs),asingleslicewas
+transferredintoasubmergedrecordingchamberandper-
+characterization of rabbit polyclonal T136 phospho-S15 fusedconstantlywithoxygenatedACSFatarateof2ml/
+antibodywaspreviouslypublished(Martinetal.,2014b). min. DA neurons were visualized under a 40(cid:1) water im-
+Commercial antibodies: LRRK2: Neuromab (75-188, mersion objective by fluorescence and DIC optics (Carl
+N138/6),P-eIF2A(CellSignalingTechnologies,#9721), Zeiss).Thepatch electrodeshada resistance of2–5 MV
+eIF2A (Cell Signaling Technologies, #9722), and ATF4 and filled with solutioncontainingthefollowing:126mMK-
+(Millipore,ABE387).
+gluconate, 8 mM KCl, 20 mM HEPES, 0.2 mM EGTA, 2 mM
+NaCl, 3 mM MgATP, 0.5 mM Na
+3
+GTP, and 0.05 mM Alexa
+Fluor568(pH7.2,290–300mOsm/kg).Inputresistance(Rin),
+Ribosomeprofilingdataanalysis series resistance (Rseries), and leak currents (Leak) were
+Aligned reads were counted by either a Python package monitored throughout the experiment. Unstable recordings
+HTSeq (htseq-count) or an R package GenomicAlignments (.10%fluctuationofRseriesvalue)duringthecourseofex-
+(summerizeOverlaps). Annotations and sequencing reads periments were rejected for further analysis. Resting mem-
+were handled using an R package GenomicFeatures. To branepotential was recorded in current clamp mode at
+avoidmultiplecountingonisoforms,transcriptreferencedata 0pAimmediatelyafterestablishingwhole-cellconfigu-
+were processed to have one unique annotation covering all ration. A series of hyperpolarizing and depolarizing
+isoforms(unionofisoforms)pergene.ReadsonlyintheCDS step currents were injected to elicit APs. For whole-
+regions were counted. Transcripts with low read counts cell calcium currents, the external solution used con-
+(,128 reads) were discarded. An R package DESeq tained 140 mM tetraethylammonium methanesulfonate
+(1.20) was used for calculating normalized expression (TEA-MeSO
+3
+), 10 mM HEPES, and 10 mM BaCl
+2
+or
+from either ribosome footprinting or RNA-seq data CaCl (pH7.4,300–310mOsmol/kg).Thepipettesolu-
+2
+basedonanegativebinomialdistributionandgeneral- tion contained 135 mM CsMeSO
+3
+, 5 mM CsCl, 1 mM
+izedlinearmodel.Forthemousedata,replicateswere MgCl
+2
+, 4 mM MgATP, 5 mM HEPES, and 5 mM EGTA
+initially analyzed independently to confirm reproduci- (pH7.3,290–300mOsmol/kg).Currentswererecorded
+bility, and then analyzed in combination for the final by holding the cell at –90mV, before stepping to vari-
+analysis. For the human neuron data, biological tripli- ous potentials from –60 to 150mV for 250-ms in 10-
+cates were handled by DESeq. Translation efficiency mV increments. Tetrodotoxin (TTX; 1 m M) was used to
+(TE) was calculated based on the DESeq expression block voltage-gated sodium currents. Data were ac-
+output.59Untranslatedregion(UTR)estimatedfolding quired by PatchMaster software (HEKA Elektronik),
+energy table was extracted from the UCSC genome sampled at 10kHz, and filtered at 2.9kHz. APs and
+database (fold5UTR field: mm9). For the 59UTR esti- calcium currents were analyzed using Clampfit 10.5
+matedfoldingenergycomparison,acontrolgroupwith software (Molecular Devices). Neurons labeled with
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 5of11
+AlexaFluor568wereconfirmedbyimmunohistochem- folding energy does not show LRRK2-dependent cor-
+istryafterrecording. relation with TE (Extended Data Fig. 2-1A,B). In addi-
+tion, we did not find significant TE changes from 59
+Results terminal oligopyrimidine (TOP)-containing genes,
+Wesoughttocharacterizetranslationalabnormalities whichareknowntoberegulatedbyphosphorylationof
+inthebrainsofLRRK2mousemodels,focusingonthe 4E-BP (Extended Data Fig. 2-1C,D; Thoreen et al.,
+caudate putamen, where substantia nigra dopamine 2012). Therefore, our ribosome profiling data from the
+neuronsprojecttoandislinkedtothepathologyofPD. mouse brain samples indicate that LRRK2 enhances
+ToobtainhighexpressionofG2019SLRRK2orkinase translation of mRNAs with complex 59UTR secondary
+deadG2019S/D1994ALRRK2transgenes,wecrossed structureinakinaseactivity-dependentmanner.
+mice harboring doxycycline-regulated LRRK2 expres- Recentadvancesinmoleculartechniquesthatcombine
+sion constructs with the CaMKII-tTA driver mice (Lee chemical probes and deep sequencing have provided
+et al., 2013; Xiong et al., 2017). We then analyzed transcriptome-wide measurements of RNA structure in
+translation in the caudate putamen of the resulting living cells. We analyzed mouse RNA structure data
+G2019SLRRK2orG2019S/D1994ALRRK2transgenic (icSHAPE;Spitaleetal.,2015)toestimatebasallevelsof
+mice,aswellasLRRK2KOanimals(Fig.1A;Extended 59UTR structural complexity of genes differentially regu-
+DataFigs.1-1,1-2;Nikonovaetal.,2012). latedbyLRRK2.LowicSHAPEsignalindicateslowchem-
+Wecharacterizedtranslation byribosome profiling,the icalreactivityat agiven nucleotide,thereby suggestinga
+deep sequencing of ribosome-protected mRNA frag- higher likelihood that it participates in secondary struc-
+mentsgeneratedbynucleasedigestion.Ribosomeprofil- tures in cells. We compared icSHAPE reactivity between
+ing provides a quantitative measurement of translation TEupandTEdowngenesfromG2019SLRRK2transgen-
+and reports on the precise location of translating ribo- ic and LRRK2 KO mice. Structure probing data from
+somesacrossthetranscriptome(Ingoliaetal.,2009).We 100nt windows 59 of the CDS startsite revealedthat the
+inferred the translational activity of different mRNAs by TEupgenesinG2019SLRRK2havesignificantlylowav-
+calculatingtheTE,theratiobetweentheabundanceofri- erage icSHAPE reactivity (0.229) associated with more
+bosome footprints derived from a gene to the overall complexstructure,whiletheTEdowngeneshavehigher
+abundance of its mRNA as determined by RNA-seq average reactivity (0.240) suggesting low structural com-
+(Anders and Huber, 2010; Brar and Weissman, 2015; plexity(Fig.2E).LRRK2KOmiceshowtheoppositetrend
+Ingolia,2016).ComparisonoftheglobaldistributionofTE (up: 0.237, down: 0.219; Fig. 2F). These results suggest
+values between LRRK2 transgenic mice and non-trans- that the 59UTR secondary structure adjacent to the start
+geniclittermatecontrolmicerevealedbroadalterationsin codon may play a role in the translatome alteration by
+TE distribution (Fig. 1B). Likewise, LRRK2 KO mice G2019SLRRK2.
+showedwidespreaddifferencesinTErelativetowild-type Translationinitiationisatightlyregulatedprocess,with
+control mice (Fig. 1C). In contrast, G2019S/D1994A many eukaryotic initiation factors (eIFs) involved in the
+LRRK2 transgenic mice have a TE distribution similar to regulationand facilitationofthe process (Sonenbergand
+those in non-transgenic control mice, indicating that Hinnebusch,2009;Jacksonetal.,2010).Ofnote,DEAD-
+the changes in LRRK2 transgenic mice are dependent boxRNAhelicasesincludingeIF4A,Ddx3,andDhx29are
+on kinase activity (Fig. 1D; Greggio et al., 2006; Smith thought to resolve 59UTR secondary structure of mRNAs
+et al., 2006). The broadly altered TE distribution indi- with the help of other initiation factors such as eIF4B
+cates that G2019S LRRK2 causes increased expres- (Parsyan et al., 2011; Sen et al., 2015). Previous studies
+sion of some genes (TE up) and decreased expression suggested that T136 phosphorylation of ribosomal pro-
+ofothers(TEdown),distortingtheoveralltranslatome. tein S15 (uS19) mediates the translational effects of
+It has been shown that G2019S LRRK2 enhances the G2019S LRRK2 (Martin et al., 2014b; Kim et al., 2020).
+translation of transcripts containing complex 59UTR Consistentwiththis,wefoundthatS15T136phosphoryl-
+structure (Kim et al., 2020). Therefore, we compared the ation is increased in the G2019S LRRK2 transgenic
+predicted 59UTR folding energy between genes showing mouse brain and decreased in the LRRK2 KO mouse
+elevatedorreducedTEfromeachcomparison.TheTEup brain (Fig. 3A,B). To investigate potential crosstalk be-
+genes in G2019S LRRK2 transgenic mouse brain have tween G2019S LRRK2, phosphorylated S15 and eIFs,
+significantlylower folding energy thanrandomly selected we employed bicistronic reporters with hepatitis C
+controlgeneswiththesamegroupsize(Fig.2A),indicat- virus (HCV) or cricket paralysis virus (CrPV) IRES.
+ingthattheyhavemorecomplex59UTRsecondarystruc- HCV-IRESandCrPV-IRESdonotrequireRNAhelicase
+tures. Conversely, the TE down genes have significantly activity to initiate translation, and CrPV-IRES initiation
+higher folding energy compared with the control genes, is entirely independent of eIFs (Fig. 3C,D; Jackson et
+which suggests that they have less structured 59UTR al.,2010).Inthesebicistronicreporterassays,cap-de-
+(Fig. 2A). Notably, LRRK2 KO mice show the reverse pendent translation of firefly luciferase is dependent
+trend, indicating that loss of LRRK2 has the opposite on helicase activity of eIFs, while IRES-driven cap-in-
+effect from hyperactive G2019S LRRK2 (Fig. 2B). The dependent translation of Renilla luciferase is helicase
+same trend is clear when we stratify transcripts ac- independent. Unexpectedly, both IRES reporters show
+cordingtothestrengthoftheir59UTRsecondarystruc- thesamecap-dependentandcap-independenttransla-
+ture (Fig. 2C,D). Unlike the case for 59UTRs, 39UTR tional induction by G2019S LRRK2 and T136D S15,
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 6of11
+Figure1. BroadalterationinmRNAtranslationintheG2019SLRRK2mousebrain.A,Aschematicofribosomeprofilingworkflow
+withmouse braintissue. B–D, TEwascalculatedtoestimatetranslationalactivity. GlobalTEdistributions between(B) GS LRRK2
+TG and non-TG control, (C) LRRK2 KO and WT, and (D) GS/DA LRRK2 TG and non-TG control were compared. All values are in
+log ,and each datapoint represents asingle transcript.In scatterplots, centerlineisa guidelinewith slope of1, meaning thatthe
+2
+dotsonthelinedonothaveTEvaluedifferencesbetweenthegenotypes.SDofTEdifferences:0.226(GSLRRK2vscontrol),0.179
+(GS/DALRRK2vscontrol),0.273(LRRK2KOvsWT).Standardzscorewascalculated,and61.5cutoffwasusedtoselectTEup
+and TE down genes. Triplet periodicity is normal across the results (Extended Data Fig. 1-1). E, F, Histogram of TE differences
+(dTE,DTE)between(E)GSLRRK2TGandnon-TGcontrolor(F)LRRK2KOandWT.Zscore61.5cutoffwasused,andTEvalues
+are in log . Each ribosome profiling experiment was firstly analyzed independently to ensure reproducibility. Two independent re-
+2
+sultswereanalyzedtogetherbyDESeq(AndersandHuber,2010;n=2).ExpressionanalysisresultsincludingTEvalueswerecom-
+piled(ExtendedDataFig.1-2).
+thereby leaving the ratios between cap-dependent and resultsindicatethatthe translationaleffectsofG2019S
+cap-independent translation unchanged (Fig. 3E–J; LRRK2are independent of translation initiation factors,
+ExtendedDataFig.3-1).SincetheCrPVIRESdoesnot andphosphorylationofS15issufficienttoenhancethe
+require any initiation factors to recruit ribosomes, the translationofmRNAswithstructured59UTRs.
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 7of11
+Figure2.59UTRsecondarystructuremediatestranslationaleffectsofG2019SLRRK2.A,B,Correlationbetweenestimated59UTR
+foldingenergyandTEchangesin(A)GSLRRK2TGor(B)LRRK2KO.Boxplotoverlaidwithviolinplotvisualizesthemedian,the
+firstandthethirdquartilealongwiththedatadistributionpattern.59UTRfoldingenergyfortranscriptswasretrievedfromUCSCge-
+nomedatabase(mm9).Thesamezscore61.5cutoffwasused.Groupsizes:GSTG(TEup:687,TEdown:335),KO(TEup:596,
+TEdown: 576).Statisticalsignificance wasdetermined by one-wayANOVAwith Bonferronicorrection.C, D,Geneswith complex
+59UTR secondary structure (estimated folding energy: ,–250 kcal/mol, 1145 genes) or simple 59UTR secondary structure (.–20
+kcal/mol, 1036 genes) were selected, and the TE differences between (C): GS LRRK2 TG mice and control mice (D): LRRK2 KO
+mice and WT mice were plotted. Statistical significance was tested with Wilcoxon signed-rank test [C: p,0.001 (simple),
+p=0.03533 (complex);D: p=0.6007 (simple), p,0.001(complex)]. 39UTR structures do not show correlation (Extended Data Fig.
+2-1).E,F,DifferentialicSHAPEreactivityprofilesbetweenTEupandTEdowngenes.ThesameTEupandTEdowngeneswithz
+score61.5wereused;(E)GSTG(TEup:687,TEdown:335),(F)LRRK2KO(TEup:596,TEdown:576).icSHAPEdatafrommouse
+EScellswereextracted(Spitaleetal.,2015),andawindowof(cid:3)100–0nt59ofstartcodon(CDSstart)wasused.AverageicSHAPE
+reactivityvalues:allgenes:0.236,TEup(GS):0.229,TEdown(GS):0.240,TEup(KO):0.237,TEdown(KO):0.219.Statisticalsignif-
+icance (compared with all genes) was measured by non-parametric Mann–Whitney test. Error bars indicate SEM, *p,0.05,
+**p,0.01,***p,0.001.
+Whilewesoughttocharacterizetranslationalabnormal- upstream ORFs. We observed that in the LRRK2 KO
+ities in the LRRK2 KO mouse brain, we found unex- brain, ribosome footprints are depleted 15–20 nt be-
+pectedpatternsofribosomalfootprintdistributiononthe forethestartcodonofthemainORF(Fig.4A).Weper-
+Atf4upstreamopenreadingframe(ORF)regions.Atf4is formed additional ribosome profiling experiments with
+thekeytranscriptionfactorunderlyingonebranchofthe the caudate putamen (striatum; STR) and the ventral
+integrated stress response (ISR) pathway and its ex- midbrain (VMB) of LRRK2 KO mouse brain and found
+pression is known to be translationally regulated that the footprint depletion is consistent across all ri-
+(Vattem and Wek, 2004). eIF2A-mediated regulation of bosome profiling experiments conducted (Fig. 4B).
+Atf4 is a well-studied example of translational regula- Since we found that 59UTR secondary structure is im-
+tionusingtermination-reinitiationbalancebetweenthe portant to LRRK2-mediated translational regulation,
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 8of11
+Figure3.G2019SLRRK2increasesmRNAtranslationindependentofinitiationfactors.A,B,Westernblottingandquantificationof
+T136 S15 phosphorylation in the mouse brain. LRRK2 KO (A) and G2019S LRRK2 transgenic (B) mice. Whole-brain lysate was
+used.n=3,biologicalreplicates.Statisticalsignificancewasdeterminedby(A)unpairedttest(B)one-wayANOVAwithBonferroni
+correction. C, D, Schematics of HCV-IRES and CrPV-IRES reporters. E–G, HCV-IRES reporter assays. C, n=4; D, n=3, respec-
+tively. H–J, CrPV IRES reporter assays. F, n=4; G, n=3, respectively. Reporter assays were performed in primary mouse cortical
+neuronswithtransienttransfection,andeachexperimentisanaverageoftriplicates.Allvaluesweredividedbytheaverageofcon-
+trolvalues.ReportermRNAlevelswerecontrolled(ExtendedDataFig.3-1).WT,wildtype;Fluc,fireflyluciferase;RLuc,Renillalucif-
+erase; RLU, relative light units. Statistical significance was determined by one-way ANOVA with Bonferroni correction. Error bars
+indicateSEM,*p,0.05,**p,0.01,***p,0.001,ns=nosignificance.
+we examined potential secondary structures near the 59UTR-containing transcripts in the G2019S LRRK2 brain,
+depleted region. Computational secondary structure thisdefectedrecoverycouldbebecauseoftranslationalde-
+predictions (RNAfold) reported multiple potential hair- fects caused by G2019S LRRK2 inhibiting 59UTR-medi-
+pinsintheAtf4mRNA,andthedepletedregioninpartic- ated translational regulation required for ISR recovery. In
+ular has a very high probability to form hairpin (Fig. 4C). addition, since thapsigargin induces ISR by blocking
+These results further point to the importance of 59UTR SERCA, defective calcium handling in G2019S LRRK2
+secondarystructurenearstartcodonforthetranslational neuronscouldalsoexacerbateISR.Apreviousstudysug-
+effectsofLRRK2. gested that dysregulated translation leads to increased
+Since Atf4 uORF footprint abnormality is observed in calcium influx in G2019S LRRK2 human dopamine
+theLRRK2KObrainandAtf4inductionisacentraldown- neurons (Kim et al., 2020). In this regard, we performed
+streampathwayofISR,wefurthersoughttodeterminea calcium recordings with the G2019S LRRK2-expressing
+potential relationship between G2019S LRRK2 and ISR. brain. Basic electrophysiological properties including
+First,eIF2Aphosphorylationlevelsinthe G2019SLRRK2 spontaneous and evoked AP wave of SNpc dopamine
+transgenic brain were examined. We found no steady- neurons are indifferent to G2019S LRRK2 expression in
+state induction of eIF2A phosphorylation regardless of thebrain(ExtendedDataFig.5-1).Substantianigradopa-
+thetransgeneexpressionlevels(ExtendedDataFig.4- mine neurons also show similar pacemaking activities
+1A). Next, we tested the potential relationship by in- compared with the wild type (Fig. 5A). However, calcium
+ducingISRinG2019SLRRK2-expressingprimaryneu- currentsmeasurementshowedsignificantincreaseofcal-
+rons cultured from the transgenic mouse model. Of cium currents in the G2019S LRRK2-expressing brain
+note, G2019S LRRK2-expressing neurons have defective (Fig.5B,C).Theseresultsareconsistentwiththeprevious
+recoveryfromthapsigargin-inducedISR(ExtendedDataFig. report of increased calcium influx in G2019S LRRK2
+4-1B). Considering the enhanced translation of structured humandopamineneurons(Kimetal.,2020).
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 9of11
+Figure 4. Ribosome footprint distributions on Atf4 uORFs in the LRRK2 KO brain. A, B, Ribosome footprints distribution in the
+59UTR of Atf4 gene (visualized: chr15:80,086,569–80,086,862). Red box indicates the region that ribosomes are depleted in the
+LRRK2KObrain.C,RNAstructurepredictionoftheAtf4uORFsequencesbyViennaRNARNAfold(Lorenzetal.,2011).Theregions
+ofdepletedribosomefootprintshavehighprobabilitytoformsecondarystructure.Inaddition,relationshipbetweenG2019SLRRK2
+andeIF2Awasaddressed(ExtendedDataFig.4-1).
+Discussion with complex 59UTR secondary structure tend to have
+In this study, we found that G2019S LRRK2 alters the elevated TE, while LRRK2 KO mice show the opposite
+global translational landscape in the mouse brain. trend.AnalysisofRNAsecondarystructuredatasuggest
+Dysregulated translation caused by G2019S LRRK2 has that mRNA secondary structure on the 59UTR regions
+been reported in Drosophila models and human dopa- near the start codon is important for these TE changes.
+mine neurons differentiated from patient-derived iPSCs These observations are in accordance with the previous
+(Martinet al.,2014b;Kimetal.,2020).Ourdatafromthe finding that G2019S LRRK2 alters genome-wide transla-
+mousebrainare inlinewiththe previousresultsshowing tion by favoring mRNAs with complex 59UTR secondary
+that G2019S LRRK2 induces genome-wide translational structure.
+abnormality.Inaddition,the59UTR-mediatedtranslation- While the precise structural mechanism underlying the
+al shift, which was previously observed in the G2019S 59UTR-mediated mRNA preference is unclear, our IRES
+LRRK2 human dopamine neurons, is also present in the reporter assays suggest that the enhanced translation in
+mousebrain.InG2019SLRRK2transgenicmice,mRNAs G2019S LRRK2 expressing neurons does not rely on
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 10of11
+Figure5.CalciumcurrentsrecordedinSNpcDAneurons.A,ComparisonofspontaneousAPfiringpatternofDAneuronsbetween
+wild-type and GS LRRK2 mouse slices. B, Calcium currents were measured in mouse SNpc DA neurons using whole-cell patch
+clamprecordings.C,Quantificationofcalciumpeakcurrents.Dataareexpressedasmeans6SEM,n=12slicesfrom12animals
+foreachgroup.Intrinsicpropertiesweremeasured(ExtendedDataFig.5-1).
+translation initiation factors. Considering that G2019S transgenicbrain,wecannotexcludethepossibilitythatin-
+LRRK2isknowntophosphorylatemultipleribosomalpro- creased ribosomal processivity could impair the ISR,
+teinsincludingS15,ourresultsbolstertheideathatphos- thereby incurring a long-term cellular stress in G2019S
+phorylationofribosomalproteinscouldchangetheglobal LRRK2PD.Delayedrecoveryfromthapsigargin-mediated
+translational landscape autonomously. Of note, the IRES ISRinG2019SLRRK2neuronsmightbelinkedtothisin-
+reporter assays also indicate that the effects of LRRK2 creased processivity. Since ATF4 plays central roles in
+may not be limited to translational initiation, since IRES- the integrated stress responses, including induction of
+recruited ribosomes are thought to bypass scanning genes necessary to cope with cellular stresses, under-
+(Jackson et al., 2010). While our analyses indicate a standing the exact molecular mechanisms for Atf4 ex-
+strong correlation between 59UTR secondary structure pression regulation will deepen our knowledge on the
+andTE,analterationinsecondarystructuremayintheory pathobiologyofLRRK2PD.
+impactelongationaswell.Secondarystructure-mediated Since this study was conducted with dissected brain
+regulationisgenerallyconsideredinthecontextoftrans- tissues without cell-type specificity, dopamine neuron-
+lationinitiationsincethecodingregionhaslimiteddegree specifictranslationalprofilingexperimentsinrodentmod-
+offreedomfornucleotide-basedsecondarystructurefor- els,whichhavebeendoneinhumaniPSC-deriveddopa-
+mation. However, as the Atf4 CDS secondary structure mineneuronandDrosophilamodels,wouldfurtherreveal
+predictiondepicts,itispossiblethatelongationcouldbe, thespecificchangesrelevanttoG2019SLRRK2PD(Kim
+atleastpartially,regulatedbymRNAsecondarystructure etal.,2020;Palloset al.,2021).Inaddition, thereisa re-
+as well. Therefore, these collectively suggest that the cent report suggesting that G2019S LRRK2 leads to re-
+G2019SLRRK2mutationanditsdownstreameffectscan duced bulk translation in rodent neurons (Deshpande et
+facilitate translation during both initiation and elongation al.,2020).Thestudywasconductedwithdifferentmodel
+steps if secondary structure-mediated regulation is in systemsfromthisstudy(culturedneurons,invitrotransla-
+place. tionsystem,andskinfibroblasts),whichmakesithardto
+Ribosome footprint depletion at the Atf4 59UTR in directlycomparetheresults.However,bulkproteinsynthe-
+LRRK2KOprovidesnewinformationonthemechanisms sisrateistightlyrelatedtotheneuronalactivitylevels.Inthis
+by which LRRK2 affects translation. It suggests that the regard, investigating the relationship between LRRK2 and
+lowTEofcomplex59UTRgenesintheLRRK2KObrainis neuronal activity would be informative to collectively com-
+because of strong hairpin formation and reduced ribo- prehend the molecular mechanisms of LRRK2-mediated
+somalprocessivity.Alternatively,itispossiblethatthede- translationalregulation.
+pletioniscausedbydisomeformation,whichcanreduce It is noteworthy that calcium influx is increased in the
+the recovery of footprints in ribosome profiling experi- substantia nigra dopamine neurons in the G2019S
+ments that include a monosome-specific size-selection LRRK2-expressing brain. The increased calcium influx
+step. This disome hypothesis is supported by the facts was originally reported in G2019S LRRK2 human dopa-
+that the depletion is just in front of the main CDS start mine neurons.While the previous findings from cultured
+codon,andthemainCDSalsotendstoformstronghair- neurons initiated a plausible molecular mechanism that
+pin structure right after the start codon (Fig. 4C). Both can led to a long-term dopamine neuronal stress, the
+casesareconsistentwiththeinterpretationofreducedri- electrophysiologicalcharacteristic of a neuron is heavily
+bosomal processivity in the LRRK2 KO brain. It further influenced by the neuron’s wiring context. Therefore,
+suggests that uORF-mediated regulation of Atf4 expres- monitoring calcium dynamics in a fully developed adult
+sion could potentially be regulated by manipulating ribo- braintissueisessentialtovalidatethehypothesis(Yinet
+somal processivity. While we did not find any Atf4 al., 2021). In this manner, our findings on the increased
+footprint distribution abnormality in the G2019S LRRK2 calcium influx in vivo bolster the suggested molecular
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+
+ResearchArticle:NewResearch 11of11
+etiology that calcium dysregulation leads to dopamine LorenzR,BernhartSH,HonerZuSiederdissenC,TaferH,Flamm
+neuronalstressintheG2019SLRRK2PD. C, Stadler PF, Hofacker IL (2011) ViennaRNA package 2.0.
+AlgorithmsMolBiol6:26.
+MartinI,KimJW,DawsonVL,DawsonTM(2014a)LRRK2pathobiol-
+References
+ogyinParkinson’sdisease.JNeurochem131:554–565.
+MartinI,KimJW,LeeBD,KangHC,XuJC,JiaH,StankowskiJ,Kim
+Anders S, Huber W (2010) Differential expression analysis for se-
+MS, Zhong J, Kumar M, Andrabi SA, Xiong Y, Dickson DW,
+quencecountdata.GenomeBiol11:R106.
+Wszolek ZK, Pandey A, Dawson TM, Dawson VL (2014b)
+Andres-MateosE,MejiasR,SasakiM,LiX,LinBM,BiskupS,Zhang
+Ribosomalproteins15phosphorylationmediatesLRRK2neurode-
+L, Banerjee R, Thomas B, Yang L, Liu G, Beal MF, Huso DL, generationinParkinson’sdisease.Cell157:472–485.
+DawsonTM,DawsonVL(2009)Unexpectedlackofhypersensitiv-
+NikonovaEV,XiongY,TanisKQ,DawsonVL,VogelRL,FinneyEM,
+ityinLRRK2knock-outmicetoMPTP(1-methyl-4-phenyl-1,2,3,6-
+StoneDJ,ReynoldsIJ,KernJT,DawsonTM(2012)Transcriptional
+tetrahydropyridine).JNeurosci29:15846–15850.
+responsestolossorgainoffunctionoftheleucine-richrepeatki-
+BrarGA,WeissmanJS(2015)Ribosomeprofilingrevealsthewhat,
+nase2(LRRK2)geneuncoverbiologicalprocessesmodulatedby
+when,whereandhowofproteinsynthesis.NatRevMolCellBiol LRRK2activity.HumMolGenet21:163–174.
+16:651–664.
+Pallos J, Jeng S, McWeeney S, Martin I (2021) Dopamine neuron-
+Deshpande P, Flinkman D, Hong Y, Goltseva E, Siino V, Sun L,
+specific LRRK2 G2019S effects on gene expressionrevealed by
+PeltonenS,EloLL,KaasinenV,JamesP,CoffeyET(2020)Protein
+translatomeprofiling.NeurobiolDis155:105390.
+synthesisissuppressedinsporadicandfamilialParkinson’sdis-
+easebyLRRK2.FASEBJ34:14217–14233. Parsyan A, Svitkin Y, Shahbazian D, Gkogkas C,Lasko P, Merrick
+WC,SonenbergN(2011)mRNAhelicases:thetacticiansoftrans-
+GehrkeS,ImaiY,SokolN,LuB(2010)PathogenicLRRK2negatively
+lationalcontrol.NatRevMolCellBiol12:235–245.
+regulates microRNA-mediated translational repression. Nature
+466:637–641. Sen ND, Zhou F, Ingolia NT, Hinnebusch AG (2015) Genome-wide
+analysisoftranslationalefficiencyrevealsdistinctbutoverlapping
+Greggio E, Jain S, Kingsbury A, Bandopadhyay R, Lewis P,
+functions of yeast DEAD-box RNA helicases Ded1 and eIF4A.
+KaganovichA,vanderBrugMP,BeilinaA,BlackintonJ,Thomas
+GenomeRes25:1196–1205.
+KJ, Ahmad R, Miller DW, Kesavapany S, Singleton A, Lees A,
+SmithWW,PeiZ,JiangH,DawsonVL,DawsonTM,RossCA(2006)
+Harvey RJ, Harvey K, Cookson MR (2006) Kinase activity is re-
+Kinase activity of mutant LRRK2 mediates neuronal toxicity. Nat
+quiredforthetoxiceffectsofmutantLRRK2/dardarin.Neurobiol
+Dis23:329–341.
+Neurosci9:1231–1233.
+SonenbergN,HinnebuschAG(2009)Regulationoftranslationinitia-
+ImaiY,GehrkeS,WangHQ,TakahashiR,HasegawaK,OotaE,LuB
+tion in eukaryotes: mechanisms and biological targets. Cell
+(2008) Phosphorylation of 4E-BP by LRRK2 affects the mainte-
+nanceofdopaminergicneuronsinDrosophila.EMBOJ27:2432–
+136:731–745.
+2443. Spitale RC, Flynn RA, Zhang QC, Crisalli P, Lee B, Jung JW,
+IngoliaNT(2016)Ribosomefootprintprofilingoftranslationthrough- KuchelmeisterHY,BatistaPJ,TorreEA,KoolET,ChangHY(2015)
+outthegenome.Cell165:22–33. Structural imprints in vivo decode RNA regulatory mechanisms.
+Ingolia NT, Ghaemmaghami S, Newman JR, Weissman JS (2009)
+Nature519:486–490.
+Genome-wideanalysisinvivooftranslationwithnucleotideresolu- Taymans JM, Nkiliza A, Chartier-Harlin MC (2015) Deregulation of
+tionusingribosomeprofiling.Science324:218–223. proteintranslationcontrol,apotentialgame-changinghypothesis
+IngoliaNT,BrarGA,RouskinS,McGeachyAM,WeissmanJS(2012) for Parkinson’s disease pathogenesis. Trends Mol Med 21:466–
+The ribosome profiling strategy for monitoring translation in vivo 472.
+bydeepsequencingofribosome-protectedmRNAfragments.Nat ThoreenCC,ChantranupongL,KeysHR,WangT,GrayNS,Sabatini
+Protoc7:1534–1550. DM(2012)AunifyingmodelformTORC1-mediatedregulationof
+Jackson RJ, Hellen CU, Pestova TV (2010) The mechanism of eu-
+mRNAtranslation.Nature485:109–113.
+karyotic translation initiation and principles of its regulation. Nat Vattem KM, Wek RC (2004) Reinitiation involving upstream ORFs
+RevMolCellBiol11:113–127. regulates ATF4 mRNA translation in mammalian cells. Proc Natl
+KimJW,YinX,JhaldiyalA,KhanMR,MartinI,XieZ,Perez-Rosello AcadSciUSA101:11269–11274.
+T, Kumar M, Abalde-Atristain L, Xu J, Chen L, Eacker SM, XiongY,NeifertS,KaruppagounderSS,StankowskiJN,LeeBD,
+SurmeierDJ,IngoliaNT,DawsonTM,DawsonVL(2020)Defects Grima JC, Chen G, Ko HS, Lee Y, Swing D, Tessarollo L,
+inmRNAtranslationinLRRK2-mutanthiPSC-deriveddopaminer- DawsonTM,DawsonVL(2017)OverexpressionofParkinson’s
+gicneuronsleadtodysregulatedcalciumhomeostasis.CellStem disease-associated mutation LRRK2 G2019S in mouse fore-
+Cell27:633–645.e7. brain induces behavioral deficits and a-synuclein pathology.
+LeeY,KaruppagounderSS,ShinJH,LeeYI,KoHS,SwingD,Jiang eNeuro4:ENEURO.0004-17.2017.
+H,KangSU,LeeBD,KangHC,KimD,TessarolloL,DawsonVL, YinX,Kim JW,LiuS,DawsonTM,DawsonVL(2021) Protocolfor
+Dawson TM (2013) Parthanatos mediates AIMP2-activated age- measurementofcalciumdysregulationinhumaninducedpluripo-
+dependent dopaminergic neuronal loss. Nat Neurosci 16:1392– tent stem cell-derived dopaminergic neurons. STAR Protoc
+1400. 2:100405.
+November/December2021,8(6)ENEURO.0310-21.2021 eNeuro.org
+
+---PAGE BREAK---
+

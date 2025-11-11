@@ -1,0 +1,2419 @@
+Chunk 1:
+Resource
+Global organelle profiling reveals subcellular
+localization and remodeling at proteome scale
+Graphical abstract Authors
+MarcoY.Hein,DuoPeng,
+VerinaTodorova,...,DanielN.Itzhak,
+JoshuaE.Elias,ManuelD.Leonetti
+Correspondence
+marco.hein@maxperutzlabs.ac.at
+(M.Y.H.),
+duo.peng@czbiohub.org(D.P.),
+josh.elias@czbiohub.org(J.E.E.),
+manuel.leonetti@czbiohub.org(M.D.L.)
+In brief
+Organelleproteomicsdefinesthecellular
+landscapeofproteinlocalizationand
+highlightstheroleofsubcellular
+remodelingindrivingresponsesto
+perturbationssuchasviralinfections.
+Highlights
+d Nativeimmunoprecipitationproteomicsdeployedtoacell-
+wideorganellecollection
+d >7,600proteinsresolvedacross19subcellularstructures
+andorganellarinterfaces
+d ViralinfectionwithHCoV-OC43remodelsglobalsubcellular
+organization
+d Subcellularremodelingrevealskeyresponsesnotcaptured
+byabundancechanges
+Heinetal.,2025,Cell188,1137–1155
+February20,2025ª2024TheAuthors.PublishedbyElsevierInc.
+ll
+https://doi.org/10.1016/j.cell.2024.11.028
+
+---PAGE BREAK---
+
+ll
+OPENACCESS
+Resource
+Global organelle profiling reveals subcellular
+localization and remodeling at proteome scale
+MarcoY.Hein,1,5,6,13,*DuoPeng,1,13,*VerinaTodorova,1,13FrankMcCarthy,1,13KibeomKim,1,7,13ChadLiu,1,13
+LauraSavy,1,8CamilleJanuel,1RodrigoBaltazar-Nunez,1MadhuryaSekhar,1ShivanshiVaid,1SophieBax,1
+MadhuriVangipuram,1JamesBurgess,2LeilaNjoya,1EileenWang,1IvanE.Ivanov,1JanieR.Byrum,1,9SooryaPradeep,1
+CarlosG.Gonzalez,1YttriaAniseia,1JosephS.Creery,1AidanH.McMorrow,1,10SaraSunshine,3,11SerenaYeung-Levy,1,4
+BrianC.DeFelice,1ShalinB.Mehta,1DanielN.Itzhak,1,12JoshuaE.Elias,1,*andManuelD.Leonetti1,14,*
+1ChanZuckerbergBiohub,SanFrancisco,CA,USA
+2InstituteforComputational&MathematicalEngineering,StanfordUniversity,Stanford,CA,USA
+3DepartmentofBiochemistryandBiophysics,UniversityofCalifornia,SanFrancisco,SanFrancisco,CA,USA
+4DepartmentofBiomedicalDataScience,StanfordUniversity,Stanford,CA,USA
+5Presentaddress:MedicalUniversityofVienna,MaxPerutzLabs,Vienna,Austria
+6Presenta
+
+Chunk 2:
+*andManuelD.Leonetti1,14,*
+1ChanZuckerbergBiohub,SanFrancisco,CA,USA
+2InstituteforComputational&MathematicalEngineering,StanfordUniversity,Stanford,CA,USA
+3DepartmentofBiochemistryandBiophysics,UniversityofCalifornia,SanFrancisco,SanFrancisco,CA,USA
+4DepartmentofBiomedicalDataScience,StanfordUniversity,Stanford,CA,USA
+5Presentaddress:MedicalUniversityofVienna,MaxPerutzLabs,Vienna,Austria
+6Presentaddress:MaxPerutzLabs,ViennaBiocenterCampus(VBC),Vienna,Austria
+7Presentaddress:AMGEN,SouthSanFrancisco,CA,USA
+8Presentaddress:PierreFabreGroup,Toulouse,France
+9Presentaddress:CaliforniaInstituteforRegenerativeMedicine,SouthSanFrancisco,CA,USA
+10Presentaddress:Insitro,SouthSanFrancisco,CA,USA
+11Presentaddress:FredHutchinsonCancerResearchCenter,Seattle,WA,USA
+12Presentaddress:AltosLabs,BayAreaInstituteofScience,SanFrancisco,CA,USA
+13Theseauthorscontributedequally
+14Leadcontact
+*Correspondence:marco.hein@maxperutzlabs.ac.at(M.Y.H.),duo.peng@czbiohub.org(D.P.),josh.elias@czbiohub.org(J.E.E.),manuel.
+leonetti@czbiohub.org(M.D.L.)
+https://doi.org/10.1016/j.cell.2024.11.028
+SUMMARY
+Definingthesubcellulardistributionofallhumanproteinsandtheirremodelingacrosscellularstatesremains
+acentralgoalincellbiology.Here,wepresentahigh-resolutionstrategytomapsubcellularorganizationus-
+ingorganelleimmunocapturecoupledtomassspectrometry.Weapplythisworkflowtoacell-widecollection
+ofmembranousandmembranelesscompartments.Agraph-basedanalysisassignsthesubcellularlocaliza-
+tionofover7,600proteins,definesspatialnetworks,anduncoversinterconnectionsbetweencellularcom-
+partments.Ourapproachcanbedeployedtocomprehensivelyprofileproteomeremodelingduringcellular
+perturbation.BycharacterizingthecellularlandscapefollowingHCoV-OC43viralinfection,wediscoverthat
+manyproteinsareregulatedbychangesintheirspatialdistributionratherthanbychangesinabundance.Our
+resultsestablishthatproteome-wideanalysisofsubcellularremodelingprovideskeyinsightsforelucidating
+cellularresponses,uncoveringanessentialroleforferroptosisinOC43i
+
+Chunk 3:
+nsivelyprofileproteomeremodelingduringcellular
+perturbation.BycharacterizingthecellularlandscapefollowingHCoV-OC43viralinfection,wediscoverthat
+manyproteinsareregulatedbychangesintheirspatialdistributionratherthanbychangesinabundance.Our
+resultsestablishthatproteome-wideanalysisofsubcellularremodelingprovideskeyinsightsforelucidating
+cellularresponses,uncoveringanessentialroleforferroptosisinOC43infection.Ourdatasetcanbeexplored
+atorganelles.czbiohub.org.
+INTRODUCTION core mechanism to control cellular processes through the dy-
+namicre-localizationofcellularcomponents.5,7Theacquisition
+Internalcompartmentalization isanessential feature of human of intracellular organelles is the defining event in the evolution
+cellular organization. Within the cell, membrane-bound1,2 and ofeukaryotes,8equippingcellswithdrasticallyexpandedcapac-
+membranelessorganelles3,4providespatialscaffoldsthatparti- ities to remodel their composition and to interact with their
+tioncellularfunctions,fromoxidativeATPproductioninthemito- environment.
+chondrion to ribosome biogenesis in the nucleolus. This parti- Giventhecentralimportanceofspatialpartitioningforcellular
+tioning subdivides the cell into unique chemical environments functions,definingthemolecularcompositionoforganellesand
+thatconcentratereactantsandcreatetheappropriateconditions how this composition is remodeled across cellular states re-
+forawiderangeofbiochemical activities.5Compartmentaliza- mainsamajorgoalinhumancellbiology.Accordingly,multiple
+tionfurtherenablesprotectionfromreactiveintermediatesand methodshavebeendevelopedtodefinetheproteomesofindi-
+by-products(forexample,peroxisomessegregatemetabolicre- vidual cellular compartments.9–11 Intracellular localization can
+actions that produce toxic oxidative species6) and provides a be sensitively and precisely characterized by microscopy
+Cell188,1137–1155,February20,2025ª2024TheAuthors.PublishedbyElsevierInc. 1137
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecom
+
+Chunk 4:
+eomesofindi-
+by-products(forexample,peroxisomessegregatemetabolicre- vidual cellular compartments.9–11 Intracellular localization can
+actions that produce toxic oxidative species6) and provides a be sensitively and precisely characterized by microscopy
+Cell188,1137–1155,February20,2025ª2024TheAuthors.PublishedbyElsevierInc. 1137
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+A B C
+D
+E
+F G H
+I J K
+L
+(legendonnextpage)
+1138 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+imaging using immunofluorescence12 or via the expression of responses. In particular, we identify ferroptosis as a pro-viral
+fluorescent protein fusions.13,14 However, these analyses are response essential for OC43 infection. Overall, we provide a
+typicallycarriedoutseriallyusingbespokereagentsorcelllines combination of protocols, open-source code (github.com/
+foreachprotein.Asaresult,proteome-widecoverageremains czbiohub-sf/Organelle_IP_analyses_and_figures), and a web-
+difficulttoachievewithimage-basedapproaches,limitingtheir accessibledataresource(organelles.czbiohub.org)forthesys-
+applicabilitytoanalyzingglobalcellulararchitectureanditsre- tems-levelcharacterization ofthehumanproteome’sarchitec-
+modeling.Ontheotherhand,manystrategieshavebeendevel- tureacrosscellularstates.
+opedtocharacterizeorganellarproteomesandtheirdynamics
+usingmassspectrometry(MS).9,10Localproteinneighborhoods RESULTS
+canbedefinedbyproximityligationusingmarkerstaggedwith
+labeling enzymes such as APEX15 or BioID.16–18 The protein IPundernativeconditionsprovidesrichorganellar
+composition of entire compartments can be further measured proteomes
+following immunoprecipitation (IP),19–26 sequential solubiliza- Whole-organelle IP enables the analysis of organellar proteo-
+tion,27,28 or biochemical fractionation. Fractionation can be mes, metabolomes, and lipidomes by LC-MS.20–26 In a native
+usedtopurifyaspecif
+
+Chunk 5:
+.16–18 The protein IPundernativeconditionsprovidesrichorganellar
+composition of entire compartments can be further measured proteomes
+following immunoprecipitation (IP),19–26 sequential solubiliza- Whole-organelle IP enables the analysis of organellar proteo-
+tion,27,28 or biochemical fractionation. Fractionation can be mes, metabolomes, and lipidomes by LC-MS.20–26 In a native
+usedtopurifyaspecificorganelleforin-depthanalysis29orto workflow,cellsaremechanicallyhomogenized,exposingorgan-
+characterizeallcellularcompartmentsfromagivensampleusing elles while maintaining their structural integrity and internal
+proteincorrelationprofiling.30–37Incorrelationprofiling,proteins composition.21Pioneeringstudiesprimarilyfocusedonindivid-
+fromagivencompartmentdistributeacrossseveralfractionsina ualmembrane-boundorganelles,includingmitochondrion,20,21
+manner that is distinct to that compartment.38 Statistical lysosome,22 peroxisome,23 early endosome,25 and Golgi com-
+methods are then used to cluster proteins that present similar plex.26Here,weappliedthisstrategytoallcompartmentsofa
+enrichment patterns, thereby identifying proteins belonging to givencelltypetoobtainacomprehensivemapofthesubcellular
+thesamecompartment. human proteome (Figures 1A–1E). For each compartment, we
+Here,wepresentanexperimentalandanalyticalstrategyfor used CRISPR-Cas9 to endogenously tag reference protein
+the global characterization of the subcellular proteome. We markers(‘‘baits’’)inHEK293Tcells,generatinganarrayedlibrary
+useCRISPR-Cas9-basedendogenouslabelingtogenerateali- ofengineeredcelllines(Figures1Aand1B).Taggingcassettes
+braryof HEK293Thumancell lines expressing epitope-tagged included a 102 amino-acid unstructured linker to maximize
+markerscoveringallmajorsubcellularcompartments,including exposureofa3xHAepitopeforcaptureandfluorescentEGFP
+membranelessorganelles.Ourapproachbuildsuponmethods toallowboththeselectionofengineeredcellsbyflowcytometry
+originallydevelopedfortherapidIPoflysosomes19,22andm
+
+Chunk 6:
+Taggingcassettes
+braryof HEK293Thumancell lines expressing epitope-tagged included a 102 amino-acid unstructured linker to maximize
+markerscoveringallmajorsubcellularcompartments,including exposureofa3xHAepitopeforcaptureandfluorescentEGFP
+membranelessorganelles.Ourapproachbuildsuponmethods toallowboththeselectionofengineeredcellsbyflowcytometry
+originallydevelopedfortherapidIPoflysosomes19,22andmito- and the use of the tagged lines for imaging (Figure S1A). All
+chondria20,21 following gentle cell homogenization. We couple markers were tagged on a cytosol-facing terminus, except for
+organelleIPwithliquidchromatography-MS(LC-MS)toquanti- plasmamembranemarkersforwhichanextracellularterminus
+tatively define subcellular proteomes. Combining an extensive wasused(TableS1).Forcomprehensivecoverageofsubcellular
+coverageofsubcellularstructureswithagraph-basedanalytical compartments,wetagged37separatemarkerslocalizedto14
+framework allows us to map protein localization on a global membrane-bound or membraneless organelles and 5 cyto-
+cellularscale.Inadditiontoassigninglocalizationtopoorlychar- plasmic assemblies (Figure 1D). We selected markers based
+acterized proteins, our strategy defines interconnectivity net- onthreecriteria:(1)markersshouldcollectivelycoverallknown
+worksthatlinkadjacentcompartments.Finally,wedemonstrate cellular compartments,39 including secretory40 and recycling41
+thatourmethodcancomprehensivelyprofiledynamicproteome organelles; (2) the expected localization and protein-protein
+remodelinguponinfectionwiththeHCoV-OC43b-coronavirus. interaction profiles of each marker can be maintained upon
+Ourresultsshowthatmanyproteinsareregulatedbychanges endogenoustagging,basedondatafromtheOpenCellcollec-
+intheirspatialdistributionratherthanbychangesintheirtotal tion14;and(3)markersshouldbewellexpressedinawiderange
+abundance,establishingthatproteome-wideanalysisofsubcel- of cell lines,42 so that the same set might be used in different
+lularremodelingofferskeyinsightsfo
+
+Chunk 7:
+rker can be maintained upon
+Ourresultsshowthatmanyproteinsareregulatedbychanges endogenoustagging,basedondatafromtheOpenCellcollec-
+intheirspatialdistributionratherthanbychangesintheirtotal tion14;and(3)markersshouldbewellexpressedinawiderange
+abundance,establishingthatproteome-wideanalysisofsubcel- of cell lines,42 so that the same set might be used in different
+lularremodelingofferskeyinsightsfortheelucidationofcellular experimentalcontexts(FigureS1B).Toincreasethechanceof
+Figure1. Nativeimmunoprecipitationsproviderichenrichmentprofilesthatpreserveorganellarconnections
+(A)Endogenoustaggingstrategy.
+(B)Arrayedcelllibrary.
+(C)Nativeimmunoprecipitationworkflow.
+(D)37taggedmarkersusedforacomprehensivecoverageofsubcellularcompartments.
+(E)Benchtopspinfractionationfornuclear,organellar,andcytosolicenrichment.
+(F)Enrichmentprofilesfromdetergent-based(1%digitonin)vs.nativeIPofthemitochondrialmarkerTOMM20.Volcanoplotsshowlog2enrichmentofindividual
+proteinsinTOMM20IPsrelativetocontrol(seeSTARMethods).pvalues:ttestfromtriplicatemeasurements.
+(G)Enrichedhits(log2enrichmentR1andpvalue%0.01)forTOMM20IPsinnativevs.detergent-basedconditions.
+(H)EnrichmentofproteinsannotatedtoresideindifferentsubcellularcompartmentsinTOMM20nativeIPs.Inadditiontomitochondrialproteins,peroxisomal
+andERproteinsarealsosignificantlyenriched(*p%0.05,ttest).Boxplotshows25th/50th/75thpercentiles;whiskersshow1.53interquartilerange.
+(I–K)Sameas(F)–(H),showingIPsforEDC4,ap-bodymarker(membranelessorganelle).
+(L)Heatmapshowinglog2enrichmentsforproteinsannotatedtoresideindifferentsubcellularcompartments,acrossdifferentnativeIPs.SeealsoDataS1.All
+annotationdatausedinFigure1wasliterature-curated(TableS2).
+SeealsoFigureS1.
+Cell188,1137–1155,February20,2025 1139
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+efficiently capturing each organelle, we included multiple 61-dimensional organellar enrichment profile that reflects the
+markers for some compartments (Figure 1D). We verified the protein’s subcellular localization
+
+Chunk 8:
+nativeIPs.SeealsoDataS1.All
+annotationdatausedinFigure1wasliterature-curated(TableS2).
+SeealsoFigureS1.
+Cell188,1137–1155,February20,2025 1139
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+efficiently capturing each organelle, we included multiple 61-dimensional organellar enrichment profile that reflects the
+markers for some compartments (Figure 1D). We verified the protein’s subcellular localization. Enrichment profiles were
+subcellularlocalizationofeachtaggedmarkerinourfinallibrary highly correlated for proteins annotated in the literature to
+usingconfocalfluorescencemicroscopy(FigureS1C;DataS1). resideinthesameorganelle(Figure2B).Reflectingthepreser-
+Nativehomogenateswerepreparedforeachmarkercellline vationofinterorganellarconnectionsinnativeIPs,profileswere
+by syringing (23G needle), followed by rapid IP (10 min) on also moderately correlated for proteins residing in compart-
+anti-hemagglutinin(HA)magneticbeadsandproteinquantifica- ments that directly interact in the cell (e.g., between the ER
+tionbylabel-freeLC-MS(Figure1C;STARMethods).Tocapture andmitochondria, off-diagonalsignalinFigure2B).Thestron-
+nuclear and cytoplasmic proteins that might otherwise be gestprofilecorrelationwasobservedbetweenpairsofproteins
+excludedfromtheIPprocedure,weusedasimplecentrifugation engagedinhigh-stoichiometryinteractions(FigureS2A),mirror-
+protocoltoenrichnuclear(1,0003gpellet),membrane-bound ing the intracellular co-localization of strongly interacting pro-
+organellar (20,000 3 g pellet), and cytoplasmic (supernatant) teins.14 Finally, we measured an enrichment entropy value
+(N/O/C) fractions from an untagged homogenate (Figure 1E). thatquantifieseachprotein’spropensitytobeenrichedinmul-
+AllIPsandN/O/Cfractionationswereperformedintriplicateus- tiple IPs. Proteins annotated to participate in membrane con-
+ing107cellsperreplicate. tactsites46displayedhigherentropythannon-contactsitepro-
+Quantitative analysis revealed rich protein enrichment pro- teins (Figure S2B), indicative of t
+
+Chunk 9:
+ctions from an untagged homogenate (Figure 1E). thatquantifieseachprotein’spropensitytobeenrichedinmul-
+AllIPsandN/O/Cfractionationswereperformedintriplicateus- tiple IPs. Proteins annotated to participate in membrane con-
+ing107cellsperreplicate. tactsites46displayedhigherentropythannon-contactsitepro-
+Quantitative analysis revealed rich protein enrichment pro- teins (Figure S2B), indicative of their enrichment in multiple
+files for each organelle IP (Figures 1F–1L; Figure S1D; STAR organelles.
+Methods).NativeIPofthemitochondrialouter-membranepro- To further exploit the rich signatures contained in each pro-
+teinTOMM20showedenrichmentfor982proteins(enrichment tein’s enrichment profile, we developed an analytical strategy
+R2-fold,pvalue%0.01acrosstriplicateexperiments;Figures inspiredbysingle-cellRNAsequencing(scRNA-seq).There,re-
+1Fand1G),withthelargestenrichmentobservedformitochon- lationshipsbetweencellsaretypicallyrepresentedinak-nearest
+drial proteins (Figure 1H). This was in stark contrast with the neighbor(k-NN)graphinwhichedgescorrespondtothesimilar-
+enrichment profile obtained in mild detergent- and nuclease- ityoftwoindividualcellsingeneexpressionspace,considering
+containing buffer14 (Figure 1G). Native TOMM20 IP showed edgeswithanumberkofmost-similarneighborsforeachcell.
+enrichmentforproteinsacrossallmitochondrialsub-structures Thisgraphisthefoundation fordimensionality reduction algo-
+(FigureS1E),verifyingthatourworkflowpreservesthestructural rithms such as UMAP47 and, separately, for unsupervised
+integrityoforganelles.SimilarresultswereobtainedforERand clustering using the Leiden algorithm frequently used for the
+lysosome IPs, showing comparable enrichment for membrane annotation of cell types.48 This reflects the power of graph-
+and lumenal components (Figure S1F). Our data further sug- based representation to encapsulate complex relationships
+gestedthatsomecontactsbetweenorganellesaremaintained fromhigh-dimensionaldata.49
+undernativeIPconditions.Indee
+
+Chunk 10:
+ng using the Leiden algorithm frequently used for the
+lysosome IPs, showing comparable enrichment for membrane annotation of cell types.48 This reflects the power of graph-
+and lumenal components (Figure S1F). Our data further sug- based representation to encapsulate complex relationships
+gestedthatsomecontactsbetweenorganellesaremaintained fromhigh-dimensionaldata.49
+undernativeIPconditions.Indeed,TOMM20IPshowedmodest Weconstructedak-NNgraphconnectingeachofthe8,538
+butsignificantenrichmentforperoxisomalandERproteins,two proteins in our dataset to its 20 nearest neighbors, with edge
+organelles making direct contacts with mitochondria in the weights derived from the Euclidean distances between 2 pro-
+cell43,44 (Figure 1H). By contrast, other organelles that do not teins in the 61-dimensional enrichment space (Figure 2C;
+contact mitochondria (e.g., lysosome or Golgi apparatus) are STARMethods).Toidentifyproteinsfromthesamesubcellular
+not seen enriched in TOMM20 IP (Figure 1H). Similar results compartment, we performed unsupervised graph-based clus-
+were obtained for the IP of membraneless compartments. For teringusingtheLeidenalgorithm.48Wethenobjectivelylabeled
+example,IPofthep-bodymarkerEDC4showedastrongenrich- each protein cluster according to its most enriched Gene
+mentforknownp-bodyproteinsandweakerbutstatisticallysig- Ontology term using the COMPARTMENTS39 and GO-Cellular
+nificant enrichment for proteins of stressgranules orthe cyto- component50 databases and merged clusters sharing the
+solic ribosome, two compartments known to directly interact sameontologylabel.Wefinallyrefinedannotationsusinglocal
+with p-bodies45 (Figures 1I–1K). Overall, co-enrichment was neighborhoodconsensus:aproteinisannotatedwiththeclus-
+observed between compartments that have been shown to ter-based label most found amongst its direct neighbors (Fig-
+interactinthecell(Figure1LandDataS1),suggestingaspeci- ure2C).Thisstepactstobetterdefineboundariesbetweenclus-
+ficityinorganellarco-enrich
+
+Chunk 11:
+llyrefinedannotationsusinglocal
+with p-bodies45 (Figures 1I–1K). Overall, co-enrichment was neighborhoodconsensus:aproteinisannotatedwiththeclus-
+observed between compartments that have been shown to ter-based label most found amongst its direct neighbors (Fig-
+interactinthecell(Figure1LandDataS1),suggestingaspeci- ure2C).Thisstepactstobetterdefineboundariesbetweenclus-
+ficityinorganellarco-enrichment.EnrichmentplotsforallIPtar- ters.Completeenrichmentandannotationdatacanbefoundin
+getsareshowninDataS1andcanbeexploredatorganelles. TableS3.Weobtaineddefinitiveontology-basedannotationfor
+czbiohub.org/Native_organelle_IP_-_volcano_plots. 7,666 proteins (90% of the dataset), leaving 875 unclassified.
+Thelattermostlycorrespondtosolubleproteinsthatlackaclear
+Graph-basedanalysisprovidessubcellularresolutionto enrichment in N/O/C spin fractions (Figure S2C), reflecting a
+humanproteomemaps broadmulti-localization betweennuclear,cytosolic,andmem-
+Weperformed58triplicateIPsfromourcollectionof37organ- branecompartments.
+ellemarkers(16IPmarkerswereprofiledmorethanonce).Our Figure2Dshowsatwo-dimensionalUMAPderivedfromthis
+dataset comprises a total of 8,192 unique expressed genes analysis,representingaspatialmapoftheHEK293Tproteome
+(‘‘preys,’’ detected in all replicates of at least one IP; STAR (see also Table S3 and organelles.czbiohub.org/Subcellular_
+Methods) and 8,538 total proteins, including isoforms of the UMAP). We distinguished 20 separate subcellular compart-
+same gene product. Each protein is defined by its enrichment ments, with sizes ranging from 18 (p-body) to 1,836 proteins
+across all 58 triplicate IPs and by its normalized abundance (cytosol) (Data S1). The arrangement of compartments within
+in N/O/C spin fractions (Figure 2A). This constitutes a the map follows known biological relationships; for example,
+1140 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+A B
+C
+D
+Figure2. Graph-basedanalysisprovidesasubcellularmapofthehumanproteome
+(A)
+
+Chunk 12:
+across all 58 triplicate IPs and by its normalized abundance (cytosol) (Data S1). The arrangement of compartments within
+in N/O/C spin fractions (Figure 2A). This constitutes a the map follows known biological relationships; for example,
+1140 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+A B
+C
+D
+Figure2. Graph-basedanalysisprovidesasubcellularmapofthehumanproteome
+(A)Overalldatastructure.Ourdatasetidentifies8,538proteinsdefinedbytheirenrichmentacrossindividualnativeorganelleIPsandspinfractions.
+(B)PairwisePearsoncorrelationbetweenenrichmentprofilesofliterature-curatedmarkerproteinsforeachcompartment(TableS2).Highcorrelationisobserved
+betweenproteinsfromthesamecompartment(diagonalhighlights)and,toalesserextent,betweenproteinsincompartmentsknowntointeractinthecell(for
+example,ERandmitochondrion).
+(C)Graph-basedstrategyfordata-drivenannotationofproteinlocalization.Theenrichmentmatrixistransformedintoak-NNgraph(1),fromwhichco-enriched
+proteinsareidentifiedusingLeidenclustering(2).GeneOntologyenrichmentallowstheannotationofclusterscorrespondingtoseparatesubcellularcom-
+partments(3and4).Afinalregularizationstepassignstoeachproteinthelabelmostrepresentedamongstitsdirectneighbors(5).
+(D)Two-dimensionalUMAPshowingthe20subcellularcompartmentsidentifiedbytheenrichmentanalysisin(C).Eachdotrepresentsanindividualprotein.
+SeealsoFiguresS2andS3.
+membrane-bound organelles are arranged in a sequence that YWHABandYWHAQ.73%ofproteinsinthatclusterwerealso
+matchesthecell’ssecretorypathwayfromERtoGolgitoendo- identified in a recent proteomics study of 14-3-3 clients in
+somes to plasma membrane (Figure 2D). In addition to classi- HEK293Tcells,supportingtheannotation.51Re-calculatingthe
+cally defined compartments, our annotations also include a subcellular map without theYWHAB andYWHAQ IPsdemon-
+well-definedclusterof130proteins(‘‘14-3-3scaffold’’)defined stratedthatthemajorityof14-3-3scaffoldproteinsarecytosolic
+by their strong enrichment in IPs of the 14-3-3 p
+
+Chunk 13:
+in
+somes to plasma membrane (Figure 2D). In addition to classi- HEK293Tcells,supportingtheannotation.51Re-calculatingthe
+cally defined compartments, our annotations also include a subcellular map without theYWHAB andYWHAQ IPsdemon-
+well-definedclusterof130proteins(‘‘14-3-3scaffold’’)defined stratedthatthemajorityof14-3-3scaffoldproteinsarecytosolic
+by their strong enrichment in IPs of the 14-3-3 proteins (FigureS2E;TableS3).
+Cell188,1137–1155,February20,2025 1141
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Validationandcomparisontoexistingdatasets Subcellularproteinnetworksdefinefunctional
+To validate annotations using an orthogonal approach, we signaturesandquantifycellularorganelleconnections
+trainedanXGBoost52supervisedmachinelearningclassifierto Thek-NNgraphrepresentationofourdataset(hereafter,the‘‘k-
+predict the organelle membership of individual proteins based NNmap’’)containsinformationthatextendsbeyondorganellar
+onreferencedata(TableS4).Welimitedclassificationto15com- membership.Figures3Aand3Bshowthek-NNmapcentered
+partments for which enough literature-curated reference data on WASHC5 (Strumpellin), a subunit of the actin-nucleating
+wasavailable(TableS2;excluding,forexample,trans-Golgior WASH complex (WASHC). WASHC regulates cargo transport
+recycling endosome, whichmostother datasetsdonotdistin- from endosomes to trans-Golgi network (TGN), plasma mem-
+guish). We then performed receiver operating characteristic brane,orlysosomes.56–58Reflectingitsfunction,WASHC5local-
+(ROC)analysestoquantifytheagreementbetweengraph-and izesatthenexusbetweenendosomal,TGN,andlysosomalclus-
+classifier-based annotations (Figure S2D). High values of area tersinthek-NNmap(Figure3A).Furthermore,WASHCperforms
+undertheROCcurves(R0.93)wereobtainedinallcases,sup- itsrolebyassociatingseparatelywiththeRetromerandCom-
+portingourgraph-basedannotations.Graph-basedannotations mandercomplexes,58–60whichbothcontrolendosomaltubula-
+werefurthersupportedbyacomparisonwithimage-basedan- tion but regul
+
+Chunk 14:
+s-
+classifier-based annotations (Figure S2D). High values of area tersinthek-NNmap(Figure3A).Furthermore,WASHCperforms
+undertheROCcurves(R0.93)wereobtainedinallcases,sup- itsrolebyassociatingseparatelywiththeRetromerandCom-
+portingourgraph-basedannotations.Graph-basedannotations mandercomplexes,58–60whichbothcontrolendosomaltubula-
+werefurthersupportedbyacomparisonwithimage-basedan- tion but regulate trafficking of different cargo. Recapitulating
+notations curated in the OpenCell project14 (Figure S2F; Data these complex relationships, WASHC subunits are connected
+S1;TableS5). tobothRetromerandCommanderinthek-NNmap,whileRetro-
+Next,wecomparedourannotationswiththoseofproteome- merand Commander occupy distinct territories (Figure 3B). In
+scalesubcellularMSdatasetsthatuseavarietyoffractionation, anotherexample,thenuclearporesubunitNUP205ispositioned
+ultracentrifugation,andproximityligationmethods.18,27,36,37,53 at the interface between nuclear and ER clusters in the k-NN
+Ourgraph-basedannotationsdisambiguatedahighernumber map (Data S1), together with other nuclear pore subunits and
+ofsubcellularcompartmentsthanallotherstudies(FigureS3A, keycomponentsofthenuclearlaminaornuclearimportmachin-
+especially among secretory, recycling, and membraneless ery.NuclearenvelopeandERarecontiguousinthecellandare
+compartments),whilealsocoveringalargerfractionofthepro- notdirectlyresolvedinournativeIPworkflow:upongentleho-
+teome(FiguresS3BandS3C).Allannotationsacrossdatasets mogenization,weexpectthetwocompartmentstoremainphys-
+aresummarizedinTableS5(seealsoDataS1).Becausethere icallyconnected.However,thek-NNmapcontainsinformation
+exists no objective ground truth for protein subcellular loca- toresolvetheseadjoiningcompartments.Altogether,theseex-
+lization, discrepancies between datasets are hard to resolve. amples illustrate how the detailed structure of the k-NN map
+The mitochondrion stands out, however, as a compartment canbeminedforfunctionalexploration.Proteink-NNconnec-
+for which e
+
+Chunk 15:
+owever,thek-NNmapcontainsinformation
+exists no objective ground truth for protein subcellular loca- toresolvetheseadjoiningcompartments.Altogether,theseex-
+lization, discrepancies between datasets are hard to resolve. amples illustrate how the detailed structure of the k-NN map
+The mitochondrion stands out, however, as a compartment canbeminedforfunctionalexploration.Proteink-NNconnec-
+for which extensive curation is available. In particular, the tions are compiled in Table S6 and can be explored at
+MitoCarta54 and MitoCoP29 datasets curate multi-modal data organelles.czbiohub.org/Protein_network_graph.
+sourcesacrosscelltypesandcellstatestodefinethemitochon- Interorganellarcommunicationisanessentialpartofcellular
+drialproteome.CombiningMitoCartaandMitoCoPtodefinean physiology.2 We quantified connectivity densities defined by
+objectivegroundtruth,weperformedaprecision/recallanalysis thenumberofk-NNconnectionsbridgingtwoannotationclus-
+onthelistsofmitochondrialproteinsannotatedindifferentpro- tersnormalizedbyclustersize.Thisrevealedknownfunctional
+teome-scaledatasets(FigureS3D;TableS5).Ourannotations relationships between organelles, with the strongest connec-
+achieved the highest recall across all datasets (77%, 1.453 tions bridging ER-Golgi intermediate compartment (ERGIC)
+higherthantheaveragerecall)whilebeingoneofonlytwodata- andGolgi,plasmamembraneandactincortex,orthetranslation
+sets to exhibit an estimated false-discovery rate lower than machineryandstressgranules(Figure3C).Manyproteinsactat
+5%(3.2%). the interface between organelles, ensuring cargo transport,
+Tofurthercomparethesubcellularresolvingpowerofdifferent signalpropagation,ormetaboliccoordination.Tofurtheranno-
+MS-basedapproacheswithinaconsistentframework,werean- tateorganellar connectivity, weidentified ‘‘interfacial’’ proteins
+alyzedpublisheddatausingthek-NNgraphstrategydescribed inourk-NNmap.WeadoptedaversionoftheJaccardcoeffi-
+above. For each dataset, we computed a two-dimensional cientusedingraphth
+
+Chunk 16:
+omparethesubcellularresolvingpowerofdifferent signalpropagation,ormetaboliccoordination.Tofurtheranno-
+MS-basedapproacheswithinaconsistentframework,werean- tateorganellar connectivity, weidentified ‘‘interfacial’’ proteins
+alyzedpublisheddatausingthek-NNgraphstrategydescribed inourk-NNmap.WeadoptedaversionoftheJaccardcoeffi-
+above. For each dataset, we computed a two-dimensional cientusedingraphtheorytoquantifyagivennode’spropensity
+UMAP(DataS1)andcalculatedscoresthatmeasuretheextent to make connections with two separate clusters (STAR
+towhichproteinssharingagivenground-truthlabelformwell- Methods).WequantifiedthedistributionoftheJaccardcoeffi-
+delineated clusters in these maps (STAR Methods). We cient for all proteins using graph-based annotation clusters
+measured two clustering scores capturing protein co-localiza- (Figures3Dand3E).Valueswerelowformostproteins(median=
+tionatdifferentscales:anorganelle-levelscore,usingannota- 0.0075), with a long tail of proteins of higher coefficients (Fig-
+tionscuratedfromtheliterature(TableS2),andaprotein-com- ure3D).Wedefinedinterfacialproteinsasthehigh-valueoutliers
+plex score, using annotations from CORUM.55 Our dataset inthisdistribution(valuesabovethirdquartile+1.53interquartile
+achieved higher clustering scores than other methods (Fig- range;Figure3D).Thelistof950interfacialproteins(TableS6)in-
+ureS3E).Computingclusteringscoresalsoallowedustoquan- cludesanover-representationofinterfacesbetweenorganelles
+tify how the subcellular resolution power of our IP-based sharinghighconnectivitydensities(e.g.,Golgi/ERGICorplasma
+approach varies as different numbers of IPs are included. membrane/actincortex,compareFigures3Cand3E).
+Whenusingareducedsetof19IPslimitedtooneIPpersubcel- Our data-driven analysis correctly identified many proteins
+lular compartment, we observed a modest reduction of clus- specializingininterfacialtransportorregulationwithinthevesic-
+teringscores(FiguresS3EandS3F)whilestillachievinghigher ularsystem(Figure3F).
+
+Chunk 17:
+es as different numbers of IPs are included. membrane/actincortex,compareFigures3Cand3E).
+Whenusingareducedsetof19IPslimitedtooneIPpersubcel- Our data-driven analysis correctly identified many proteins
+lular compartment, we observed a modest reduction of clus- specializingininterfacialtransportorregulationwithinthevesic-
+teringscores(FiguresS3EandS3F)whilestillachievinghigher ularsystem(Figure3F).TheseincludeAP1,AP2,andAP3coat
+scoresthanothermethods. proteins, which scaffold clathrin-mediated transport at the
+1142 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+A B C
+D
+E
+F
+Figure3. Proteinspatialnetworksidentifyco-functioningproteinsandorganelleinterfaces
+(A)Localk-NNnetworkcenteredonWASHC5,asubunitoftheWASHcomplexthatregulatesproteintraffickingbetweenendosomes,lysosomes,andtrans-Golgi
+network.
+(B)AnnotatedWASHC5k-NNnetwork,highlightingindividualsubunitsfortheWASH,Retromer,andCommanderproteincomplexes.
+(C)Densityofk-NNconnectivitybetweenorganelleclustersquantifiesintercompartmentcrosstalk.Clustersarearrangedtoreplicatethearrangementin
+Figure2D.
+(D)Interfacialproteinsaredefinedashigh-valueoutliersinthedistributionoftheJaccardcoefficientintheentiredataset.Boxplotshows25th/50th/75thper-
+centiles;whiskersshow1.53interquartilerange.
+(E)Interfacesmostrepresentedinthesetofinterfacialproteins.
+(F)Examplesofinterfacialproteinsinthevesicularpathway.Seetextfordetails.
+endosome/TGN, plasma membrane/actin cortex, and endo- mannose-6-phosphate receptors,63 and the Retromer com-
+some/lysosome interfaces, respectively61,62 (Figure 3F, all plex,58whichmediaterecyclingbetweenendosomeandtrans-
+panels). The local k-NN network around AP2 subunits mirrors Golgi (Figure 3F, top left); (2) at the endosome/lysosome
+thecentralroleoftheactincortexintraffickingendocyticplasma interface,theHOPScomplex64whichtethersendosomesandly-
+membrane cargo toward the endosomal system62 (Figure 3F, sosomes,andthesmallGTPasesARL8B65andRAB7A66(Fig-
+bottom left). Other examples incl
+
+Chunk 18:
+clingbetweenendosomeandtrans-
+panels). The local k-NN network around AP2 subunits mirrors Golgi (Figure 3F, top left); (2) at the endosome/lysosome
+thecentralroleoftheactincortexintraffickingendocyticplasma interface,theHOPScomplex64whichtethersendosomesandly-
+membrane cargo toward the endosomal system62 (Figure 3F, sosomes,andthesmallGTPasesARL8B65andRAB7A66(Fig-
+bottom left). Other examples include (1) the M6PR and IGF2R ure3F,right);(3)thecatenin67(CTNN)andfilamin68(FLN)protein
+Cell188,1137–1155,February20,2025 1143
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+familiesthatplayakeyroleinbridgingtheactincytoskeletonto teinNAT14waswiththeERproteinCERS5(score:0.76),con-
+plasmamembraneeffectors,aninterfacethatalsoincludesthe firming NAT14’s annotation as an ER protein (Figure S4C).
+smallGTPasesRAC1andRHOAwhichregulatemembraneactin High-scoring matches were found for 22 out of the 31 orphan
+polymerizationtocontrolcellmigration69(Figure3F,bottomleft). proteins,validatingtheirannotatedlocalization(FigureS4D).Of
+these, TMEM209 localizes to the nuclear membrane, which is
+Annotatingproteinsubcellularlocalization not explicitly distinguished from the ER by native IP.
+Annotations of subcellular localization are summarized in TMEM209’sclosestneighborsinthek-NNmapareknowncom-
+TableS4.Wereportresultsfromgraph-basedclusteringanalysis ponentsofthenuclearmembrane(FigureS4E),highlightinghow
+(including interfacial proteins), together with high-confidence k-NNinformationcanhelprefinefunctionalannotation.Separat-
+(classificationprobability>80%)predictionsfromtheXGBoost ely, we confirmed the localization of the orphan proteins
+machinelearningclassifier.Thetwostrategiesprovidecomple- SCAMP3,CMTM4,CMTM7,SCAMP4,SLC35F1,andSLC35F2
+mentaryinsightsforthecomprehensivecurationofproteinlocal- to recycling endosomes by measuring their co-localization
+ization.Unsupervisedgraph-basedclusteringenablesdenovo with RAB14, a marker of recycling compartments72,73 (Figure
+annotations, even when no critical m
+
+Chunk 19:
+ization of the orphan proteins
+machinelearningclassifier.Thetwostrategiesprovidecomple- SCAMP3,CMTM4,CMTM7,SCAMP4,SLC35F1,andSLC35F2
+mentaryinsightsforthecomprehensivecurationofproteinlocal- to recycling endosomes by measuring their co-localization
+ization.Unsupervisedgraph-basedclusteringenablesdenovo with RAB14, a marker of recycling compartments72,73 (Figure
+annotations, even when no critical mass of reference data is S4F). No high-scoring match could be identified for SFT2D3,
+availabletotrainaclassifier(forexample,allowingustoresolve KIAA1522, and MPZL1, but their annotated localizations were
+TGN or recycling endosomes). On the other hand, classifier- supportedbyliteraturedata.SFT2D3(Golgi)andMPZL1(plasma
+basedmethodsmightbemorepreciseincaseswheresufficient membrane)werelocalizedinthecorrespondingcompartmentsin
+groundtruthisavailable.Usingthemitochondrialproteomeasa subcellular proteomics studies using ultracentrifugation36 and
+reference, graph-based annotations supported a higher recall proximityligation,18andKIAA1522(actincortex)isadirectinter-
+thanclassifier-basedannotations(77%vs.69%),attheexpense actorofmultipleWAVEcomplexsubunits14regulatingactindy-
+of a slightly increased false-discovery rate (3.2% vs. 1.5%). namicsattheplasmamembrane.74
+Anotherdefiningadvantageofgraph-basedmethodsistopro- Overall, the imaged subcellular distribution of the tagged
+vide an explicit framework to identify proteins acting at the orphanproteinsmatchedourproteomics-basedannotationsin
+interfacebetweencompartments.Thisproducesalayerofanno- 29 out of 31 cases (94% match, Figures 4B and 4C). Among
+tationnotcapturedbyclassificationthatonlyassignsasinglela- the remaining two cases, TPRA1 displayed a non-uniform
+belforeachprotein. distribution at the lysosomal surface while being annotated as
+Ourfinalannotationsetincludesgraph-basedannotationsfor interfacial TGN/recycling endosome in our dataset. Finally,
+7,666proteins(90%ofthedataset)andhigh-confidenceclassi- endogenouslytaggedGLT8D1
+
+Chunk 20:
+). Among
+tationnotcapturedbyclassificationthatonlyassignsasinglela- the remaining two cases, TPRA1 displayed a non-uniform
+belforeachprotein. distribution at the lysosomal surface while being annotated as
+Ourfinalannotationsetincludesgraph-basedannotationsfor interfacial TGN/recycling endosome in our dataset. Finally,
+7,666proteins(90%ofthedataset)andhigh-confidenceclassi- endogenouslytaggedGLT8D1displayedanucleolarlocalization
+fier-basedannotationsfor6,348proteins(74%ofthedataset). despite being annotated as a Golgi/TGN protein. A nucleolar
+Across the 15compartments defined inboth sets,graph- and localization would beunexpected for atype-II transmembrane
+classifier-basedannotationssharedan89%match(DataS1). proteinsuchasGLT8D1.Moreover,GLT8D1localizationtothe
+Golgiissupportedbyliteraturedata.75,76Therefore,wehypoth-
+De-orphaningproteinlocalization esize that the nucleolar localization we observe might be a
+To validate annotations, we performed a microscopy-based taggingartifact.
+analysis to de-orphan the localization of poorly characterized
+membrane-related proteins (Figure 4A). We identified 82 Pan-cellularremodelingduringHCoV-OC43infection
+‘‘orphan’’ transmembrane or lipidated proteins in our dataset Tocapturetheglobalintracellularremodelingduringaperturba-
+by filtering for proteins with minimal annotation in the COM- tion,weprofiledcellsinfectedwithHCoV-OC43,anenveloped,
+PARTMENTSdatabase39(score%3,indicatinglow-confidence positive-strandRNAb-coronavirus.Typicallycausingmildrespi-
+or absent annotations) that also had no ‘‘subcellular location’’ ratorysymptomsinhumans,77OC43belongstothesamefamily
+specifiedinUniprot.70WeusedCRISPR-Cas9toendogenously as SARS-CoV-1 and SARS-CoV-2 but only requires biosafety
+tagall82proteinswithasplit-mNeonGreenfluorescentcassette level-2 containment. We infected HEK293T at a multiplicity of
+separatelyattheirNorCterminus(TableS1).31celllinesex- infection (MOI) of 0.25 and profiled their proteome 48 h post
+hibitedenoughfluorescentsigna
+
+Chunk 21:
+C43belongstothesamefamily
+specifiedinUniprot.70WeusedCRISPR-Cas9toendogenously as SARS-CoV-1 and SARS-CoV-2 but only requires biosafety
+tagall82proteinswithasplit-mNeonGreenfluorescentcassette level-2 containment. We infected HEK293T at a multiplicity of
+separatelyattheirNorCterminus(TableS1).31celllinesex- infection (MOI) of 0.25 and profiled their proteome 48 h post
+hibitedenoughfluorescentsignaltobeselectedbyflowcytom- infection(48hpi;>80%infectedcells:FigureS5A).Weselected
+etry(correlatedwithhigherproteinabundance,FigureS4A)and 25organelle-taggedcelllines(FigureS5B)forIPandN/O/Cspin
+were imaged using live-cell confocal fluorescence microscopy fractionation in uninfected vs. infected conditions, followed by
+(Figure4B). LC-MS. For both conditions, the protein enrichment matrix
+To quantitatively characterize subcellular distributions, we was translated into a k-NN graph (Figure 5A). We then used
+usedthecytoselfdeep-learningmodeltoencodeproteinlocali- the aligned-UMAP algorithm47 to project graph data into a
+zation images into latent space embeddings71 and compared shared 10-dimensional Euclidean space from which distances
+the31orphanproteinstoorganellemarkersfromtheOpenCell betweentheirinfectedvs.uninfectedconditionscouldbecalcu-
+collection14 (Figure S4B). The Pearson correlation between lated(Figure5A;STARMethods).Foreachprotein,thisdistance
+latent space embeddings of each orphan vs. marker protein represents a subcellular remodeling score that measures that
+pair quantifies the similarity between their subcellular distribu- protein’s repositioning in the underlying k-NN maps upon
+tion.Similarityscoresabove0.6reflectaclosematchbetween OC43 infection. The overall distribution of remodeling scores
+subcellulardistributions,14andahighscorebetweenanorphan showedthatmostproteinshadlowscores(indicatinganoverall
+proteinandamarkerforagivenorganellevalidatesitslocaliza- conservation of their k-NN neighborhoods), with a long tail of
+tion.Forexample,thehighestsimilarityscorefo
+
+Chunk 22:
+aps upon
+tion.Similarityscoresabove0.6reflectaclosematchbetween OC43 infection. The overall distribution of remodeling scores
+subcellulardistributions,14andahighscorebetweenanorphan showedthatmostproteinshadlowscores(indicatinganoverall
+proteinandamarkerforagivenorganellevalidatesitslocaliza- conservation of their k-NN neighborhoods), with a long tail of
+tion.Forexample,thehighestsimilarityscorefortheorphanpro- high-value outliers (Figure 5B; outliers defined above third
+1144 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+A
+B
+C
+Figure4. De-orphaningsubcellularlocalization
+(A)Strategytoidentifyandcharacterizeproteinswithminimalannotationsforsubcellularlocalizationinpublicdatabases.
+(B)Representativeimagesfor31finalproteintargets,endogenouslytaggedwithsplit-mNeonGreeninHEK293Tandcharacterizedbyconfocalfluorescence
+microscopy.Graph-based(blue)andclassifier-based(brown)localizationannotationsarereported.Asterisksdenoteinterfacialproteins.Abbreviationsareas
+follows:ER,endoplasmicreticulum;ERGIC,ER-Golgiintermediatecompartment;PM,plasmamembrane;TGN,trans-Golginetwork.
+(C)Aggregateresults:endogenoustaggingsupportstheannotationsofsubcellularlocalizationin94%ofcases(29outof31targets).
+SeealsoFigureS4.
+quartile + 1.53 interquartile range). These 633 outliers define fected conditions. A movie of morphed trajectories between
+‘‘infectionhits’’(TableS7):proteinswhosesubcellularenviron- conditions captures theremodeling behaviorof individual pro-
+ment changes significantly during infection. The infection hits teins(VideoS1).Weperformedlow-resolutionLeidenclustering
+encompass8%oftheproteomemeasuredinourdataset,indi- to separate the UMAPs into 10 broad subcellular territories
+cating the large extent of pan-cellular remodeling occurring (Figures5C–5E;TableS7).Infectionhitswerefoundinallterri-
+uponviralinfection.Tomoreeasilyvisualizehowindividualinfec- toriesandexhibitedawidevarietyofremodelingbehaviors(Fig-
+tion hits distribute across subcellular compartm
+
+Chunk 23:
+ering
+encompass8%oftheproteomemeasuredinourdataset,indi- to separate the UMAPs into 10 broad subcellular territories
+cating the large extent of pan-cellular remodeling occurring (Figures5C–5E;TableS7).Infectionhitswerefoundinallterri-
+uponviralinfection.Tomoreeasilyvisualizehowindividualinfec- toriesandexhibitedawidevarietyofremodelingbehaviors(Fig-
+tion hits distribute across subcellular compartments, we pro- ure 5E, diagonal trajectories). The infected map also revealed
+ducedalignedtwo-dimensionalUMAPsunderuninfectedandin- the subcellular localization of 21 virally expressed proteins
+Cell188,1137–1155,February20,2025 1145
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+A B
+C D E
+F G H
+Figure5. Pan-cellularremodelingduringHCoV-OC43infection
+(A)Strategyforgraph-basedquantificationofsubcellularremodeling.Ascoreisquantifiedforeachprotein,representingremodelingoflocalsubcellularenvi-
+ronment.Seetextfordetails.
+(B)Distributionofsubcellularremodelingscoresacrossthedataset.Interfacialproteinsaredefinedashigh-valueoutliersinthedistribution.Boxplotshows25th/
+50th/75thpercentiles;whiskersshow1.53interquartilerange.
+(C)2DUMAPofuninfectedorganelledatasetshowingsubcellularterritoriesdefinedbylow-resolutionLeidenclustering.
+(D)Aligneduninfected(blue)andinfected(salmon)UMAPsshowingindividual2Dtrajectoriesforinfectionhits.Blackstar:originalpositioninuninfectedUMAP.
+SeealsoVideoS1.
+(E)Sankeydiagramshowingthedistributionofinfectionhits(diagonallines)acrosssubcellularterritoriesbetweenuninfectedandinfectedconditions.Relatedto
+(C)and(D).
+(F)Proteomeremodelingwithinindividualcompartments,showingthefractionofinfectionhitsovertotalnumberofproteinsineachcompartment.
+(G)Live-cellconfocalmicroscopyimagingfromendogenouslytaggedcelllinesshowssignificantremodelingofGolgi,ER,andmicrotubulenetworkuponOC43
+infection.
+(H)Live-cellconfocalmicroscopyimagingofendogenouslytaggedCOP-Isubunits.Fluorescentsignalsconcentrateinaperinuclearregioninuninfectedcellsbut
+aredispersedacrossthecelluponinfection(MOI=1;48
+
+Chunk 24:
+ractionofinfectionhitsovertotalnumberofproteinsineachcompartment.
+(G)Live-cellconfocalmicroscopyimagingfromendogenouslytaggedcelllinesshowssignificantremodelingofGolgi,ER,andmicrotubulenetworkuponOC43
+infection.
+(H)Live-cellconfocalmicroscopyimagingofendogenouslytaggedCOP-Isubunits.Fluorescentsignalsconcentrateinaperinuclearregioninuninfectedcellsbut
+aredispersedacrossthecelluponinfection(MOI=1;48hpi).DistancebetweenCOP-Ifluorescencesignalandthenuclearboundaryinindividualcellsisusedto
+quantifydispersion(pvalue:Student’sttest).Boxplotsshow25th,50th,and75thpercentiles;whiskersshow1.53interquartilerange.
+SeealsoFigureS5.
+1146 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+(FiguresS5C and S5D).Most viral proteins were annotated as scripts(Figures6Aand6B;FiguresS6AandS6B).Thissuggests
+ER-localized(FigureS5D),includingreplication-associatedpro- orthogonal modes of functional regulation: many proteins are
+teins78,79suchastheRNApolymeraseRDRP,theviralhelicase dynamically regulated at the level of their spatial environment
+HEL,andnon-structuralproteinsNS8,NS9,andNS10.Thismir- rather than by changes in cellular abundance. Vice versa,
+rorsthelocalizationoftheOC43replicationcompartmentinER- manyproteinsareregulatedattheabundancelevel,whiletheir
+adjacentdouble-membranevesicles.78,79 subcellular niche stays the same. Applying pathway enrich-
+Quantifying the fraction of infection hits within individual or- ment85,86tothedifferentgroupsofinfection-regulatedproteins
+ganelles provides a finer picture of subcellular reorganization ortranscriptsdemonstratedthatprofilingsubcellularremodeling
+(Figure5F).ERGIC,Golgi,centrosome,andERexhibitedsome enablestheidentificationofcellularresponsesnotcapturedby
+ofthehighestdegreesofremodeling(Figure5F).Thismatches abundancechanges(Figures6Aand6B).Specifically,subcellu-
+theknowncellbiologyofcoronavirusreplicationandassembly lar infection hits were enriched for proteins involved in the
+at the ER/Golgi interface: structura
+
+Chunk 25:
+ilingsubcellularremodeling
+(Figure5F).ERGIC,Golgi,centrosome,andERexhibitedsome enablestheidentificationofcellularresponsesnotcapturedby
+ofthehighestdegreesofremodeling(Figure5F).Thismatches abundancechanges(Figures6Aand6B).Specifically,subcellu-
+theknowncellbiologyofcoronavirusreplicationandassembly lar infection hits were enriched for proteins involved in the
+at the ER/Golgi interface: structural proteins are first inserted metabolismofglycosaminoglycans(GAGs,agroupofsurface-
+intotheERmembraneandtransittotheERGICtoreachcomplex exposed polysaccharides that includes heparan sulfate gly-
+replication/assembly compartments where mature virions are cans),aswellasinferroptosis,autophagy,andcellularsenes-
+formed.79,80 Viral particles then traffic to the Golgi apparatus cence(Figure6A).Multiplelinesofevidencesupportthedirect
+for glycosylation and other post-translational modifications relevanceoftheseresponsestothecellbiologyofOC43infec-
+(PTMs).80WeverifiedthepronouncedremodelingoftheGolgi, tion: (1) GAGs are the surface receptor for OC43 entry under
+ER,andcentrosomeusinglive-cellmicroscopy.HEK293Tcells cellcultureconditions,87sothatmodulationoftheirmetabolism
+wereendogenouslytaggedwithfluorescentreportersonthree (whichremainspoorlyunderstood88)mightbebeneficialforthe
+separate markers: GOLGA2 (GM130, cis-Golgi), BCAP31 (ER), viral life cycle, or for innate immune responses; (2) autophagy
+and MAP4 (microtubule cytoskeleton). Upon infection, we plays an important role in the replication and pathogenesis of
+observedastrikingfragmentationoftheGolgiaccompaniedby multiple coronaviruses,89,90 including OC4391; (3) senescence
+acondensationoftheER(Figure5G).Thisalsocoincidedwith is a primary host-cell response to infection by many viruses,
+largechangesinthedistributionofmicrotubulesininfectedcells, forexample,SARS-CoV-2.92
+compatible with a loss of the microtubule-organizing center Ferroptosis was among the most highly enriched processes
+followingcentrosomalremodeling.InSARS-CoV-2,
+
+Chunk 26:
+89,90 including OC4391; (3) senescence
+acondensationoftheER(Figure5G).Thisalsocoincidedwith is a primary host-cell response to infection by many viruses,
+largechangesinthedistributionofmicrotubulesininfectedcells, forexample,SARS-CoV-2.92
+compatible with a loss of the microtubule-organizing center Ferroptosis was among the most highly enriched processes
+followingcentrosomalremodeling.InSARS-CoV-2,theNSP13 amongsubcellularremodelinginfectionhits(Figure6A).Ferrop-
+viral protein directly interacts with host proteins involved in tosisisaformofnon-apoptoticandnon-necroticprogrammed
+bothcentrosomalandGolgiorganization,suggestingapossible celldeathdependentoncellulariron,93,94thatwasrecentlyimpli-
+linkbetweentheremodelingofbothcompartments.81Whilean catedintheregulationofreplicationforOC43andotherpositive-
+in-depthelucidationofthemechanismsdrivingER/Golgiremod- strand RNA viruses.95 During ferroptosis, iron (primarily Fe2+)
+eling upon OC43 infection is beyond our current scope, we catalyzes unrestrained lipid peroxidation, leading to oxidative
+observed that the distance between Golgi and lysosomal pro- stressandtoagradualdestructionofintracellularmembranes.94
+teinsinorganellarenrichmentspacedecreasedsignificantlydur- Undernormalconditions,intracellularironisstoredinferritin,a
+inginfection(FigureS5E).Thismightmirrortheunconventional high-molecular weight protein cage. The autophagy-mediated
+lysosomalexocytosisroutethathasbeenproposedforb-coro- degradation of ferritin (ferritinophagy) leads to the release of
+naviruses egress, believed to involve direct protein transport free iron in the cytoplasm and drives ferroptosis.96–98 Multiple
+from Golgi to lysosomes.80 In addition, all subunits of the proteinpathwaysplayacentralroleintheinductionandregula-
+COP-Icomplex(avesicularcoatamerthatmediatescargotrans- tionofferroptosisincells,includingACSL4(anacyl-transferase
+portinsidetheGolgiapparatusandbetweenGolgiandER)were thatincorporatespolyunsaturatedfattyacidsintolipids,gener-
+ident
+
+Chunk 27:
+ the cytoplasm and drives ferroptosis.96–98 Multiple
+from Golgi to lysosomes.80 In addition, all subunits of the proteinpathwaysplayacentralroleintheinductionandregula-
+COP-Icomplex(avesicularcoatamerthatmediatescargotrans- tionofferroptosisincells,includingACSL4(anacyl-transferase
+portinsidetheGolgiapparatusandbetweenGolgiandER)were thatincorporatespolyunsaturatedfattyacidsintolipids,gener-
+identifiedasinfectionhits(FigureS5F).Fluorescenceimagingof ating the substrates for peroxidation99), GPX4 (a peroxidase
+endogenouslytaggedCOPEandCOPB2subunitsrevealedtheir that clears toxic peroxides, counteracting ferroptosis94), and
+subcellular redistribution upon OC43 infection: subunits were NCOA4(theautophagyadapterforferritinophagy100).
+concentratedinaperinuclearregioninuninfectedcellsbutfound Wevalidatedtheinductionofferroptosisinourmodel:OC43
+dispersedacrossthecelluponinfection(Figure5H).COP-Ireg- infectionledtoanincreaseofintracellularFe2+asdetectedby
+ulatesthetraffickingoftheSARS-CoV-2spikeglycoprotein,82,83 the fluorescent probe FeRhoNox-1, which could be reversed
+and COPB2 knockdown was recently shown to significantly by the iron chelator nitroxoline (Figure 6C; Figure S6C). Strik-
+decrease SARS-CoV-2 viral titers,84 suggesting an important ingly, inhibition of ferroptosis with liproxstatin-1101 or ferrosta-
+roleforCOP-Iintheb-coronaviruslifecycle. tin-1101atnon-toxicconcentrationsledtoasignificantdecrease
+of infection, while activation of ferroptosis with RSL3102 incre-
+Subcellularremodelingrevealscellularresponsesnot ased infection rates (Figure 6D; Figure S6D). These results
+capturedbyabundancechangesandidentifies establish that ferroptosis is both pro-viral and essential for
+ferroptosisasanessentialpro-viralresponse OC43 infection in human HEK293T cells. Ferrostatin-1 was
+To contextualize our organelle profiling results with respect to recently shown to also inhibit OC43 replication in rhesus ma-
+global gene expression, we measured whole-cell abundance caque LLC-
+
+Chunk 28:
+lts
+capturedbyabundancechangesandidentifies establish that ferroptosis is both pro-viral and essential for
+ferroptosisasanessentialpro-viralresponse OC43 infection in human HEK293T cells. Ferrostatin-1 was
+To contextualize our organelle profiling results with respect to recently shown to also inhibit OC43 replication in rhesus ma-
+global gene expression, we measured whole-cell abundance caque LLC-MK2 cells.95 While follow-up work will be needed
+changesoftranscriptsandproteinsinOC43-infectedvs.control tobettercharacterizethemechanisticinterplaybetweenferrop-
+conditions (Figures S6A and S6B; Table S7). We observed tosisandthevirallifecycle,ourdataprovidesinsightsintosome
+remarkablylittleoverlapbetweeninfectionhitsdefinedfromsub- aspectsofthismechanism.ACSL4,GPX4,andNCOA4allexhi-
+cellularremodelinganddifferentiallyabundantproteinsortran- bitedhighsubcellularremodelingscores(Figure6E),suggesting
+Cell188,1137–1155,February20,2025 1147
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+A B
+C E
+D
+F
+G
+Figure6. SubcellularremodelinguponOC43infectionrevealscellularresponsesnotcapturedbyabundancechanges
+(A)KEGGpathwayenrichmentanalysisofinfectionhitsfromsubcellularremodeling(blue)vs.proteinsthatexhibitsignificantchangesinwhole-cellabundance
+(including125up-regulatedproteins,green,and304down-regulatedproteins,red).pvalues:Student’sttest.
+(B)Sameas(A),showingdifferentiallyregulatedtranscripts(including1,020up-regulatedtranscripts,green,and257down-regulatedtranscripts,red).pvalues:
+Student’sttest.
+(C)FerroptosisinductioninOC43-infectedcells(MOI=1;48hpi).Cellsweretreatedwith5mMFeRhoNox-1(magenta)todetectferroptosis.Nitroxoline(12mM)
+wasusedtochelateFe2+ions.
+(D)DetectionofOC43-infectedcellsbyflowcytometry(anti-OC43antibody541-8F).Treatmentwithferroptosisinhibitorsliproxstatin-1andferrostatin-1induced
+adose-dependentdecreaseininfection(MOI=1;48hpi).Conversely,treatmentwiththeferroptosisactivatorRSL3inducedadose-dependentincreasein
+infection.ForRSL3experiments,alowMOIwasusedtoenablealargeinf
+
+Chunk 29:
+odetectferroptosis.Nitroxoline(12mM)
+wasusedtochelateFe2+ions.
+(D)DetectionofOC43-infectedcellsbyflowcytometry(anti-OC43antibody541-8F).Treatmentwithferroptosisinhibitorsliproxstatin-1andferrostatin-1induced
+adose-dependentdecreaseininfection(MOI=1;48hpi).Conversely,treatmentwiththeferroptosisactivatorRSL3inducedadose-dependentincreasein
+infection.ForRSL3experiments,alowMOIwasusedtoenablealargeinfectiondynamicrange(MOI=0.05;48hpi).pvalues:Student’sttest.Symbolsshow
+independenttriplicateexperiments,barsshowSEM.
+(E)SubcellularremodelingscoresofACSL4,NCOA4,andGPX4(cf.Figure5B).
+(F)Localk-NNnetworkscenteredonNCOA4inbothinfectedanduninfectedconditions.Allautophagy-relatedproteinsarehighlighted.SeeFigureS6Fforfully
+annotatednetworks.
+(G)Co-localizationbetweenNCOA4andATG5significantlyincreasesuponOC43infection(MOI=1;48hpi).FourseparatecellclonesharboringdualCRISPR-
+mediatedendogenoustags(mNeonGreen-NCOA4;mScarlet-ATG5)werecompared.Ineachclone,thepercentageofmNeonGreen-positivepixelsthatarealso
+mScarlet-positivemeasuresco-localization.pvalue:Student’sttest.
+SeealsoFigureS6.
+1148 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+that multiple ferroptosis pathways might be regulated upon enrichmentprofileofthesetwoorganellesacrossallpull-downs
+infection.Thisremodelingwasnotaccompaniedbychangesin enables a clear differentiation. Byanalogy to gradient ordiffe-
+protein abundance (Figure S6E). Furthermore, local k-NN net- rential fractionation studies, each native IP can be considered
+worksrevealedaspecificshiftinNCOA4’ssubcellularenviron- asameanstogenerateatargeted‘‘fraction’’ofthecell.These
+ment upon infection (Figures 6F and S6F). In uninfected cells, ‘‘fractions’’neednotbepure.Rather,compartmentsgetdefined
+NCOA4’s nearest neighbors include ATG101 and ATG13, part because their proteins share a distinctive enrichment pattern
+oftheULKkinasecomplexthatregulatespre-autophagosomal acrossthewholesetofIPsandcanbeidentifiedfollowingthe
+structures and autopha
+
+Chunk 30:
+geted‘‘fraction’’ofthecell.These
+ment upon infection (Figures 6F and S6F). In uninfected cells, ‘‘fractions’’neednotbepure.Rather,compartmentsgetdefined
+NCOA4’s nearest neighbors include ATG101 and ATG13, part because their proteins share a distinctive enrichment pattern
+oftheULKkinasecomplexthatregulatespre-autophagosomal acrossthewholesetofIPsandcanbeidentifiedfollowingthe
+structures and autophagic initiation.103 By contrast, NCOA4’s principleofcorrelationprofiling.9,10,38
+nearest neighbors upon infection include ATG5 and ATG16L1, Our IP-based strategy extends the collection of methods
+key components of the ATG12-conjugation system that mark developedfortheproteome-widecharacterizationofsubcellular
+active,elongatingautophagosomes.103Thissuggestedanincre- localization.12,14,16,18,27,28,31,36,53 An analysis focused on the
+asedassociationbetweenNCOA4andactiveautophagosomes mitochondrialproteomerevealedahighdegreeofbothprecision
+uponinfection,whichweverifiedbyimagingthecolocalization and recall from our annotations. Furthermore, our dataset dis-
+between NCOA4 and ATG5 in endogenously tagged cell lines criminates proteins from closely adjacent compartments, for
+(Figure 6G). This establishes a role for active ferritinophagy in example,Golgivs.trans-Golgi,orearlyendosomevs.recycling
+thecellbiologyofOC43infection. endosome,whichmightbedifficulttoresolveusingcentrifuga-
+Altogether, our analysis demonstrates how profiling sub- tion-based methods because of similar biophysical properties
+cellular remodeling can complement whole-cell proteomics or and hence similar fractionation behaviors. Spatially adjoined
+transcriptomicsassaystocapturethefulllandscapeofcellular compartmentsmightalsobehardtodistinguishbyproximityliga-
+responsestriggeredbyagivenperturbation. tion; for example, outer mitochondrial membrane and peroxi-
+somalproteinsclustertogetherinarecentBioID-basedmapof
+Interactivedatasharingatorganelles.czbiohub.org theproteome.18AnotheradvantageofourIP-basedworkflowis
+Tofa
+
+Chunk 31:
+viors. Spatially adjoined
+transcriptomicsassaystocapturethefulllandscapeofcellular compartmentsmightalsobehardtodistinguishbyproximityliga-
+responsestriggeredbyagivenperturbation. tion; for example, outer mitochondrial membrane and peroxi-
+somalproteinsclustertogetherinarecentBioID-basedmapof
+Interactivedatasharingatorganelles.czbiohub.org theproteome.18AnotheradvantageofourIP-basedworkflowis
+Tofacilitateaccessandexploration,webuiltaninteractiveweb thatsamplepreparationdoesnotrequirecomplexinstrumenta-
+application atorganelles.czbiohub.org.Thisportalprovidesan tion (e.g., ultracentrifuge), making it relatively simple to imple-
+intuitive interface to explore and download enrichment data mentandscale.GivenrecenttechnologicaldevelopmentinMS
+fromindividualorganelleIPs,protein-levelk-NNnetworks,sub- (forexample,theincreasedsensitivityprovidedbyionmobilityin-
+cellularlocalizationUMAPs,andsubcellularremodelinginduced struments,104ordata-independentacquisitionmethods37),itis
+byOC43infection(Figure7). likelythattheamountofinputmaterialneededforIPscouldbe
+significantlyminiaturized.Thiswouldfurtherimprovescalability
+DISCUSSION and application to cellular models for which large cell culture
+might be difficult, such as cells differentiated from stem cells.
+Here, we described an integrated experimental and analytical IP-basedmethodsalsoenabletheprofilingoflipidomes25orme-
+framework to advance the characterization of the subcellular tabolomes,20,22,105pavingthewayforacharacterizationofsub-
+proteomeanditsdynamics.Wecombinedthreemainfeatures. cellularorganizationextendingbeyondproteins.
+First, we applied native IP workflows to a cell-wide collection Ontopofprovidingalargedataresourceandacompendium
+of organelle markers. Second, we developed a graph-based ofsubcellularlocalizationannotations,wealsopresentadata-
+formalism to define functional relationships between proteins driven, graph-based analytical framework. This framework en-
+whileannotating theirsubcellular localization. Third,
+
+Chunk 32:
+st, we applied native IP workflows to a cell-wide collection Ontopofprovidingalargedataresourceandacompendium
+of organelle markers. Second, we developed a graph-based ofsubcellularlocalizationannotations,wealsopresentadata-
+formalism to define functional relationships between proteins driven, graph-based analytical framework. This framework en-
+whileannotating theirsubcellular localization. Third, weexten- ables de novo identification of subcellular compartments and
+dedthisstrategytoprofileproteomedynamicsandidentifypro- theirinterconnectionsandoffersanunsupervisedformalismto
+teins whose subcellular environment gets remodeled during characterize subcellular remodeling. Our approach comple-
+cellular perturbation. Applying our approach to characterize ments supervised methods that have been developed for the
+thecellbiologyofHCoV-OC43infection,wedemonstratedthat characterizationofsubcellularlocalizationanddynamicsusing
+profiling subcellular remodeling can reveal cellular responses ground-truth markers.106 In addition, we demonstrate that the
+notcapturedbyabundancechanges. k-NNrepresentationofourdatasetencapsulates,foreachpro-
+Expanding from previous methods developed for the native tein,specificinformationthatcanbeminedtogeneratespecific
+isolation of organelles,20–23,25,26 our strategy uses CRISPR- functional hypotheses. Our data-driven definition of interfacial
+Cas9-basedendogenoustaggingandcircumventstheriskthat proteins, including between compartments that are hard to
+overexpressionmightaffecttheenrichmentofproteinsinorgan- resolve(forexample,trans-Golgiandearlyendosomes),show-
+elleIPs.21WeshowthatnativeIPsproviderichcompositionpro- caseshowourapproachcanbeleveragedfortheanalysisofin-
+filesforbothmembrane-boundandmembranelessorganelles, terorganellarcommunication.
+demonstrating that this strategy can help characterize a wide Finally,weprovidearichcharacterizationofthepervasivesub-
+rangeofcellularcompartments.Byusingabroadcollectionof cellularremodelinginducedbyHCoV-
+
+Chunk 33:
+how-
+elleIPs.21WeshowthatnativeIPsproviderichcompositionpro- caseshowourapproachcanbeleveragedfortheanalysisofin-
+filesforbothmembrane-boundandmembranelessorganelles, terorganellarcommunication.
+demonstrating that this strategy can help characterize a wide Finally,weprovidearichcharacterizationofthepervasivesub-
+rangeofcellularcompartments.Byusingabroadcollectionof cellularremodelinginducedbyHCoV-OC43infection,involving
+organellemarkers,ourdatasetprovidesforeachproteinacom- manydifferentcellularcompartmentsandpathways.Bycaptu-
+plex signature of enrichment across many different IPs. This ringresponsesacrosstheentirecell,ourworkandothers’34,107
+extensive coverage is particularly beneficial in the context of provideawindowtounderstandthecomplexstrategiesthatvi-
+significantco-enrichmentbetweenorganelles.AsingleIPmight ruseshavedevelopedtoconcurrentlyhijackadiversityofcellular
+not provide enough information to fully disambiguate ER vs. functions.Critically,ourresultssuggesttwoorthogonalmodes
+mitochondrial proteins, for example. However, the distinctive of regulation of host proteins, with distinct groups of proteins
+Cell188,1137–1155,February20,2025 1149
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Figure7. Interactivedataexplorationatorganelles.czbiohub.org
+regulated by changes in their subcellular environment or by different mitochondrial or nuclear sub-compartments, which
+changesintheiroverallabundance.Asimilarorthogonalitybe- canbebetterdiscriminatedbyproximityligationmethods.15,18
+tweenlocalization-andabundance-basedregulationhasbeen Ourcurrentworkflowalsorequirestheengineeringofepitope-
+observed during proteome remodeling over the yeast cell cy- tagged cell lines. The development of organelle-specific anti-
+cle.108Thisunderscorestheimportanceofspatialregulationfor body panels for capture could circumvent this limitation and
+the control of cellular functions, which is also exemplified by expand the applicability of our method to untagged samples,
+the ubiquity of protei
+
+Chunk 34:
+gofepitope-
+observed during proteome remodeling over the yeast cell cy- tagged cell lines. The development of organelle-specific anti-
+cle.108Thisunderscorestheimportanceofspatialregulationfor body panels for capture could circumvent this limitation and
+the control of cellular functions, which is also exemplified by expand the applicability of our method to untagged samples,
+the ubiquity of protein re-localization in signal transduction.7 for example, clinical specimen.110 In addition, our approach
+Overall,inthesamewaythatspatialmethodsaretransforming does not address all aspects of subcellular localization. First,
+transcriptome-based analyses,109 scalable approaches that many proteins might localize to more than one compar-
+resolvethespatialorganizationoftheproteomeacrossdifferent tment,12,14whichisnotcapturedbyourcurrentannotations.In
+cellstateshavethepotentialtogreatlyextendourunderstanding thefuture,multi-labelmodelscouldbetrainedonourdatatopre-
+ofcellularfunctionsinnormalphysiologyanddisease. dict multi-localization.111 Second, subcellular proteomes are
+likelytochangebetweendifferentcelltypes.Systematicallyapp-
+Limitationsofthestudy lyingourmethodstodifferentcelltypes,forexample,leveraging
+BecauseorganellesarecapturedwholeinnativeIPs,ourmethod stem-cell-based differentiation systems,112would offer a solu-
+cannotresolvesub-organellarcompartments.Forexample,our tion.Third,wehavenotdirectlyanalyzedhowsplicingorPTMs
+data do not distinguish membrane vs. lumenal proteins nor influence the subcellular localization of different proteoforms.
+1150 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+PTMenrichmentcouldbeperformeddownstreamofnativeIPs DECLARATIONOFINTERESTS
+toprovidemoreinsights.Finally,ourmass-spectrometryexper-
+iments are performed on bulk cell populations and cannot Theauthorsdeclarenocompetinginterests.
+resolvevariationsofproteinlocalizationatthesingle-celllevel.
+STAR+METHODS
+Subcellular localization can change as cells occupy di
+
+Chunk 35:
+25
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+PTMenrichmentcouldbeperformeddownstreamofnativeIPs DECLARATIONOFINTERESTS
+toprovidemoreinsights.Finally,ourmass-spectrometryexper-
+iments are performed on bulk cell populations and cannot Theauthorsdeclarenocompetinginterests.
+resolvevariationsofproteinlocalizationatthesingle-celllevel.
+STAR+METHODS
+Subcellular localization can change as cells occupy different
+states (for example, across the cell cycle108), which are not
+Detailedmethodsareprovidedintheonlineversionofthispaperandinclude
+discriminatedinourpopulation-averageandsteady-statemea- thefollowing:
+surements.Image-basedmethodsmightbebettersuitedtocap- d KEYRESOURCESTABLE
+turesingle-celllocalizationheterogeneityanddynamicremodel- d EXPERIMENTALMODELANDSTUDYPARTICIPANTDETAILS
+ing in live cells. Overall, these examples illustrate how the B Cellculture
+d METHODDETAILS
+comprehensive characterization of subcellular architecture will
+B Cellculture&CRISPR/Cas9engineering
+likelyrequirecomplementarymethodsappliedinparallel.
+B Samplegenerationforproteomicsanalysis
+B Peptidedesaltingandmassspectrometry
+B HCoV-OC43infection
+RESOURCEAVAILABILITY
+B Microscopyimaging
+B Flowcytometry
+Leadcontact
+B Transcriptomics
+Requests for further information and resources should be directed to and
+B Dataanalysis–massspectrometryproteomics
+will be fulfilled by the lead contact, Manuel Leonetti (manuel.leonetti@
+B Graph-basedanalyses
+czbiohub.org).
+B Classifier-basedanalysis
+B Subcellularremodelinganalysis
+Materialsavailability B Imageanalysis–deeplearningwithcytoself
+TaggingplasmidshavebeendepositedtoAddgene(seekeyresourcestable). B Figuregenerationandgeneralcodeavailability
+EngineeredHEK293Tcelllinesendogenouslytaggedwithorganellemarkers d QUANTIFICATIONANDSTATISTICALANALYSIS
+areavailablefromtheleadcontactuponrequest.
+SUPPLEMENTALINFORMATION
+Dataandcodeavailability
+Supplementalinformationcanbefoundonlineathttps://doi.org/10.1016/j.cell.
+d Raw MS data have been deposited to the ProteomeXchange Co
+
+Chunk 36:
+gene(seekeyresourcestable). B Figuregenerationandgeneralcodeavailability
+EngineeredHEK293Tcelllinesendogenouslytaggedwithorganellemarkers d QUANTIFICATIONANDSTATISTICALANALYSIS
+areavailablefromtheleadcontactuponrequest.
+SUPPLEMENTALINFORMATION
+Dataandcodeavailability
+Supplementalinformationcanbefoundonlineathttps://doi.org/10.1016/j.cell.
+d Raw MS data have been deposited to the ProteomeXchange Con-
+2024.11.028.
+sortiumviathePRIDEpartnerrepository.RNAsequencingdatahave
+beendepositedtotheGeneExpressionOmnibus(GEO).Alldataare
+Received:June14,2024
+publiclyavailable;seeaccessionnumbersinthekeyresourcestable.
+Revised:October5,2024
+d AlloriginalcodehasbeendepositedtoGitHubandZenodoandispub-
+Accepted:November19,2024
+liclyavailableasofthedateofpublication.DOIsarelistedinthekeyre-
+Published:December31,2024
+sourcestable.
+d Anyadditionalinformationrequiredtoreanalyzethedatareportedinthis
+REFERENCES
+workisavailablefromtheleadcontactuponrequest.
+1.Carroll, M.(1989).UltrastructureoftheCell.InOrganelles(Palgrave),
+pp.1–18.https://doi.org/10.1007/978-1-349-19781-1_1.
+ACKNOWLEDGMENTS 2.Cohen,S.,Valm,A.M.,andLippincott-Schwartz,J.(2018).Interactingor-
+ganelles.Curr.Opin.CellBiol.53,84–91.https://doi.org/10.1016/j.ceb.
+WesincerelythankR.Zoncuandteamforteachingusnativeimmunoprecip- 2018.06.003.
+itationprotocols.WethankN.Neffandteamforhelpwithhigh-throughput
+3.Wheeler,R.J.,andHyman,A.A.(2018).Controllingcompartmentalization
+sequencing; H. Huang, M. Logan, G. Yun, N. Narez, J. Gadiane, and J.
+bynon-membrane-boundorganelles.Philos.Trans.R.Soc.Lond.BBiol.
+Mannforoperationalsupport;J.DeRisiandJ.Olzmannfordiscussionsonfer-
+Sci.373,20170193.https://doi.org/10.1098/rstb.2017.0193.
+roptosis;andS.Schmidforcriticalfeedback.M.D.L.thanksC.L.Tanforcon-
+tinuousdiscussions.SomefigureelementswerecreatedusingBioRender. 4.Hirose,T.,Ninomiya,K.,Nakagawa,S.,andYamazaki,T.(2023).Aguide
+com. M.D.L., C.J., R.B.-N., and M.V. are supported by grant DAF2022- tomembranelessorganellesandtheirvariousrolesingeneregu
+
+Chunk 37:
+mannfordiscussionsonfer-
+Sci.373,20170193.https://doi.org/10.1098/rstb.2017.0193.
+roptosis;andS.Schmidforcriticalfeedback.M.D.L.thanksC.L.Tanforcon-
+tinuousdiscussions.SomefigureelementswerecreatedusingBioRender. 4.Hirose,T.,Ninomiya,K.,Nakagawa,S.,andYamazaki,T.(2023).Aguide
+com. M.D.L., C.J., R.B.-N., and M.V. are supported by grant DAF2022- tomembranelessorganellesandtheirvariousrolesingeneregulation.
+316729fromtheCZINeurodegenerationChallengeNetwork.Wethankthe Nat.Rev.Mol.CellBiol.24,288–304.https://doi.org/10.1038/s41580-
+ChanZuckerbergBiohubanditsdonors,PriscillaChanandMarkZuckerberg, 022-00558-8.
+forfundingthiswork. 5.Bar-Peled,L.,andKory,N.(2022).Principlesandfunctionsofmetabolic
+S.Y.-L.isaChanZuckerbergBiohub–SanFranciscoInvestigator. compartmentalization. Nat. Metab. 4, 1232–1244. https://doi.org/10.
+1038/s42255-022-00645-2.
+6.Speijer,D.,Manjeri,G.R.,andSzklarczyk,R.(2014).Howtodealwithox-
+AUTHORCONTRIBUTIONS
+ygenradicalsstemmingfrommitochondrialfattyacidoxidation.Philos.
+Trans. R. Soc. Lond. B Biol. Sci. 369, 20130446. https://doi.org/10.
+Conceptualization:M.Y.H.,D.P.,K.K.,C.L.,D.N.I.,J.E.E.,andM.D.L.;meth-
+1098/rstb.2013.0446.
+odology: M.Y.H., D.P., V.T.,F.M., K.K., C.L., L.S.,J.B.,D.N.I., J.E.E., and
+M.D.L.; software: D.P., K.K., Y.A., and J.B.; investigation and validation: 7.Bauer, N.C., Doetsch, P.W., and Corbett, A.H. (2015). Mechanisms
+M.Y.H., D.P., V.T., F.M., K.K., C.L., L.S., C.J., R.B.-N., M.S., S.V., S.B., RegulatingProteinLocalization.Traffic16,1039–1061.https://doi.org/
+M.V.,J.B.,L.N.,E.W.,I.E.I.,J.R.B.,S.P.,C.G.G.,Y.A.,J.S.C.,A.H.M.,S.S., 10.1111/tra.12310.
+B.C.D.,D.N.I.,J.E.E.,andM.D.L.;writing–originaldraft:M.Y.H.,D.P.,C.L., 8.Schlacht, A.,Herman,E.K.,Klute,M.J.,Field, M.C., and Dacks,J.B.
+J.E.E., and M.D.L.; writing – review & editing: M.Y.H., D.P., J.E.E., and (2014).MissingPiecesofanAncientPuzzle:EvolutionoftheEukaryotic
+M.D.L.;supervisionandfunding acquisition: S.Y.-L.,S.B.M.,D.N.I., J.E.E., Membrane-Trafficking System. Cold Spring Ha
+
+Chunk 38:
+ra.12310.
+B.C.D.,D.N.I.,J.E.E.,andM.D.L.;writing–originaldraft:M.Y.H.,D.P.,C.L., 8.Schlacht, A.,Herman,E.K.,Klute,M.J.,Field, M.C., and Dacks,J.B.
+J.E.E., and M.D.L.; writing – review & editing: M.Y.H., D.P., J.E.E., and (2014).MissingPiecesofanAncientPuzzle:EvolutionoftheEukaryotic
+M.D.L.;supervisionandfunding acquisition: S.Y.-L.,S.B.M.,D.N.I., J.E.E., Membrane-Trafficking System. Cold Spring Harb. Perspect. Biol. 6,
+andM.D.L. a016048.https://doi.org/10.1101/cshperspect.a016048.
+Cell188,1137–1155,February20,2025 1151
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+9. Lundberg,E.,andBorner,G.H.H.(2019).Spatialproteomics:apowerful 24.Davis,O.B.,Shin,H.R.,Lim,C.-Y.,Wu,E.Y.,Kukurugya,M.,Maher,C.F.,
+discovery toolforcellbiology. Nat.Rev.Mol.CellBiol.20,285–302. Perera, R.M., Ordonez, M.P., and Zoncu, R. (2021). NPC1-mTORC1
+https://doi.org/10.1038/s41580-018-0094-y. SignalingCouplesCholesterolSensingtoOrganelleHomeostasisand
+10. Christopher,J.A.,Stadler,C.,Martin,C.E.,Morgenstern,M.,Pan,Y., IsaTargetablePathwayinNiemann-PickTypeC.Dev.Cell56,260–
+Betsinger,C.N.,Rattray,D.G.,Mahdessian,D.,Gingras,A.-C.,Warsc- 276.e7.https://doi.org/10.1016/j.devcel.2020.11.016.
+heid,B.,etal.(2021).Subcellularproteomics.Nat.Rev.MethodsPrimers 25.Park, H., Hundley, F.V., Yu, Q., Overmyer, K.A., Brademan, D.R.,
+1,32.https://doi.org/10.1038/s43586-021-00029-y. Serrano, L., Paulo, J.A., Paoli, J.C., Swarup, S., Coon, J.J., et al.
+(2022).Spatialsnapshotsofamyloidprecursorproteinintramembrane
+11. Christopher,J.A.,Geladaki,A.,Dawson,C.S.,Vennard,O.L.,andLilley,
+processingviaearlyendosomeproteomics.Nat.Commun.13,6112.
+K.S.(2022).SubcellularTranscriptomicsandProteomics:AComparative
+https://doi.org/10.1038/s41467-022-33881-x.
+MethodsReview.Mol.Cell.Proteomics21,100186.https://doi.org/10.
+1016/j.mcpro.2021.100186. 26.Fasimoye,R.,Dong,W.,Nirujogi,R.S.,Rawat,E.S.,Iguchi,M.,Nyame,
+12. Thul,P.J.,A˚kesson,L.,Wiking,M.,Mahdessian,D.,Geladaki,A.,AitBlal, K.,Phung,T.K.,Bagnoli,E.,Prescott,A.R.,Alessi,D.R.,etal.(20
+
+Chunk 39:
+3,6112.
+K.S.(2022).SubcellularTranscriptomicsandProteomics:AComparative
+https://doi.org/10.1038/s41467-022-33881-x.
+MethodsReview.Mol.Cell.Proteomics21,100186.https://doi.org/10.
+1016/j.mcpro.2021.100186. 26.Fasimoye,R.,Dong,W.,Nirujogi,R.S.,Rawat,E.S.,Iguchi,M.,Nyame,
+12. Thul,P.J.,A˚kesson,L.,Wiking,M.,Mahdessian,D.,Geladaki,A.,AitBlal, K.,Phung,T.K.,Bagnoli,E.,Prescott,A.R.,Alessi,D.R.,etal.(2023).
+Golgi-IP, a tool for multimodal analysis of Golgi molecular content.
+H.A.,Alm,T.,Asplund,A.,Bjo¨rk,L.,Breckels,L.M.,etal.(2017).Asub-
+Proc.Natl.Acad.Sci.USA120,e2219953120.https://doi.org/10.1073/
+cellularmapofthehumanproteome.Science356,eaal3321.https://doi.
+pnas.2219953120.
+org/10.1126/science.aal3321.
+27.Orre,L.M.,Vesterlund,M.,Pan,Y.,Arslan,T.,Zhu,Y.,FernandezWood-
+13. Huh,W.-K.,Falvo,J.V.,Gerke,L.C.,Carroll,A.S.,Howson,R.W.,Weiss-
+bridge,A.F.,Frings,O.,Fredlund,E.,andLehtio¨,J.(2019).SubCellBar-
+man,J.S.,andO’Shea,E.K.(2003).Globalanalysisofproteinlocaliza-
+Code:Proteome-wideMappingofProteinLocalizationandRelocaliza-
+tion in budding yeast. Nature 425, 686–691. https://doi.org/10.1038/
+tion. Mol. Cell 73, 166–182.e7. https://doi.org/10.1016/j.molcel.2018.
+nature02026.
+11.035.
+14. Cho,N.H.,Cheveralls,K.C.,Brunner,A.-D.,Kim,K.,Michaelis,A.C.,Ra-
+28.Martinez-Val,A.,Bekker-Jensen,D.B.,Steigerwald,S.,Koenig,C.,Øs-
+ghavan, P., Kobayashi,H., Savy, L., Li, J.Y., Canaj, H., et al. (2022).
+tergaard,O.,Mehta,A.,Tran,T.,Sikorski,K.,Torres-Vega,E.,Kwasnie-
+OpenCell:Endogenoustaggingforthecartographyofhumancellularor-
+wicz,E.,etal.(2021).Spatial-proteomicsrevealsphospho-signalingdy-
+ganization. Science 375, eabi6983. https://doi.org/10.1126/science.
+namicsatsubcellularresolution.Nat.Commun.12,7113.https://doi.org/
+abi6983.
+10.1038/s41467-021-27398-y.
+15. Rhee,H.-W.,Zou,P.,Udeshi,N.D.,Martell,J.D.,Mootha,V.K.,Carr,
+29.Morgenstern,M.,Peikert,C.D.,Lu¨bbert,P.,Suppanz,I.,Klemm,C.,Alka,
+S.A.,andTing,A.Y.(2013).Proteomicmappingofmitochondriainliving
+O.,Steiert,C.,Naumenko,N.,Schendzie
+
+Chunk 40:
+ization. Science 375, eabi6983. https://doi.org/10.1126/science.
+namicsatsubcellularresolution.Nat.Commun.12,7113.https://doi.org/
+abi6983.
+10.1038/s41467-021-27398-y.
+15. Rhee,H.-W.,Zou,P.,Udeshi,N.D.,Martell,J.D.,Mootha,V.K.,Carr,
+29.Morgenstern,M.,Peikert,C.D.,Lu¨bbert,P.,Suppanz,I.,Klemm,C.,Alka,
+S.A.,andTing,A.Y.(2013).Proteomicmappingofmitochondriainliving
+O.,Steiert,C.,Naumenko,N.,Schendzielorz,A.,Melchionda,L.,etal.
+cellsviaspatiallyrestrictedenzymatictagging.Science339,1328–1331.
+(2021). Quantitative high-confidence human mitochondrial proteome
+https://doi.org/10.1126/science.1230593.
+and its dynamics in cellular context. Cell Metab. 33, 2464–2483.e18.
+16. Liu,X.,Salokas,K.,Tamene,F.,Jiu,Y.,Weldatsadik,R.G.,O¨hman,T., https://doi.org/10.1016/j.cmet.2021.11.001.
+andVarjosalo,M.(2018).AnAP-MS-andBioID-compatibleMAC-tagen-
+30.Andersen,J.S.,Wilkinson,C.J.,Mayor,T.,Mortensen,P.,Nigg,E.A.,and
+ablescomprehensivemappingofproteininteractionsandsubcellularlo-
+Mann,M.(2003).Proteomiccharacterizationofthehumancentrosome
+calizations.Nat.Commun.9,1188.https://doi.org/10.1038/s41467-018-
+byproteincorrelationprofiling.Nature426,570–574.
+03523-2.
+31.Foster,L.J.,deHoog,C.L.,Zhang,Y.,Zhang,Y.,Xie,X.,Mootha,V.K.,
+17. Youn,J.-Y.,Dunham,W.H.,Hong,S.J.,Knight,J.D.R.,Bashkurov,M.,
+andMann,M.(2006).AMammalianOrganelleMapbyProteinCorrelation
+Chen, G.I., Bagci, H., Rathod, B., MacLeod, G., Eng, S.W.M., et al.
+Profiling.Cell125,187–199.
+(2018).High-DensityProximityMappingRevealstheSubcellularOrgani-
+zationofmRNA-Associated GranulesandBodies.Mol.Cell69,517– 32.Dunkley,T.P.J.,Hester,S.,Shadforth,I.P.,Runions,J.,Weimar,T.,Han-
+532.e11.https://doi.org/10.1016/j.molcel.2017.12.020. ton,S.L.,Griffin,J.L.,Bessant,C.,Brandizzi,F.,Hawes,C.,etal.(2006).
+MappingtheArabidopsisorganelleproteome.Proc.Natl.Acad.Sci.USA
+18. Go,C.D.,Knight,J.D.R.,Rajasekharan,A.,Rathod,B.,Hesketh,G.G.,
+103,6518–6523.https://doi.org/10.1073/pnas.0506958103.
+Abe,K.T., Youn, J.-Y.,Samavarchi-Tehrani, P.,Zhang, H.,Zhu,L.Y
+
+Chunk 41:
+h,I.P.,Runions,J.,Weimar,T.,Han-
+532.e11.https://doi.org/10.1016/j.molcel.2017.12.020. ton,S.L.,Griffin,J.L.,Bessant,C.,Brandizzi,F.,Hawes,C.,etal.(2006).
+MappingtheArabidopsisorganelleproteome.Proc.Natl.Acad.Sci.USA
+18. Go,C.D.,Knight,J.D.R.,Rajasekharan,A.,Rathod,B.,Hesketh,G.G.,
+103,6518–6523.https://doi.org/10.1073/pnas.0506958103.
+Abe,K.T., Youn, J.-Y.,Samavarchi-Tehrani, P.,Zhang, H.,Zhu,L.Y.,
+etal.(2021).Aproximity-dependentbiotinylationmapofahumancell. 33.Borner,G.H.H.,Hein,M.Y.,Hirst,J.,Edgar,J.R.,Mann,M.,andRobin-
+Nature595,120–124.https://doi.org/10.1038/s41586-021-03592-2. son,M.S.(2014).Fractionationprofiling:afastandversatileapproach
+formapping vesicle proteomes and protein–proteininteractions. Mol.
+19. Zoncu,R.,Bar-Peled,L.,Efeyan,A.,Wang,S.,Sancak,Y.,andSabatini,
+Biol.Cell25,3178–3194.https://doi.org/10.1091/mbc.e14-07-1198.
+D.M.(2011).mTORC1senseslysosomalaminoacidsthroughaninside-
+outmechanismthatrequiresthevacuolarH(+)-ATPase.Science334, 34.JeanBeltran,P.M.,Mathias,R.A.,andCristea,I.M.(2016).APortraitof
+678–683.https://doi.org/10.1126/science.1207056. theHumanOrganelleProteomeInSpaceandTimeduringCytomegalo-
+virusInfection.CellSyst.3,361–373.e6.https://doi.org/10.1016/j.cels.
+20. Chen, W.W., Freinkman, E., Wang, T.,Birsoy,K., andSabatini,D.M.
+2016.08.012.
+(2016).AbsoluteQuantificationofMatrixMetabolitesRevealstheDy-
+namicsofMitochondrialMetabolism.Cell166,1324–1337.e11.https:// 35.Christoforou,A.,Mulvey,C.M.,Breckels,L.M.,Geladaki,A.,Hurrell,T.,
+doi.org/10.1016/j.cell.2016.07.040. Hayward, P.C., Naake, T., Gatto, L., Viner, R., Martinez Arias, A.M.,
+etal.(2016).Adraftmapofthemousepluripotentstemcellspatialpro-
+21. Chen,W.W.,Freinkman,E.,andSabatini,D.M.(2017).Rapidimmuno-
+teome.Nat.Commun.7,8992.https://doi.org/10.1038/ncomms9992.
+purificationofmitochondriaformetaboliteprofilingandabsolutequanti-
+ficationofmatrixmetabolites.Nat.Protoc.12,2215–2231.https://doi. 36.Itzhak,D.N.,Tyanova,S.,Cox,J.,andBorner,G.H.(2016).Global,quan-
+org/10.1038/nprot.2017
+
+Chunk 42:
+2016).Adraftmapofthemousepluripotentstemcellspatialpro-
+21. Chen,W.W.,Freinkman,E.,andSabatini,D.M.(2017).Rapidimmuno-
+teome.Nat.Commun.7,8992.https://doi.org/10.1038/ncomms9992.
+purificationofmitochondriaformetaboliteprofilingandabsolutequanti-
+ficationofmatrixmetabolites.Nat.Protoc.12,2215–2231.https://doi. 36.Itzhak,D.N.,Tyanova,S.,Cox,J.,andBorner,G.H.(2016).Global,quan-
+org/10.1038/nprot.2017.104. titativeanddynamicmappingofproteinsubcellularlocalization.Elife5,
+570.https://doi.org/10.7554/elife.16950.
+22. Abu-Remaileh, M., Wyant, G.A., Kim, C., Laqtom, N.N., Abbasi, M.,
+Chan,S.H.,Freinkman,E.,andSabatini,D.M.(2017).Lysosomalmetab- 37.Schessner, J.P., Albrecht, V., Davies, A.K., Sinitcyn, P., and Borner,
+olomicsrevealsV-ATPase-andmTOR-dependentregulationofamino G.H.H.(2023).Deepandfastlabel-freeDynamicOrganellarMapping.
+acideffluxfromlysosomes.Science358,807–813.https://doi.org/10. Nat.Commun.14,5252.https://doi.org/10.1038/s41467-023-41000-7.
+1126/science.aan6298. 38.Borner,G.H.H.(2020).OrganellarMapsThroughProteomicProfiling–A
+23. Ray,G.J.,Boydston,E.A.,Shortt,E.,Wyant,G.A.,Lourido,S.,Chen, ConceptualGuide.Mol.Cell.Proteomics19,1076–1087.https://doi.org/
+W.W.,andSabatini,D.M.(2020).APEROXO-TagEnablesRapidIsolation 10.1074/mcp.r120.001971.
+ofPeroxisomesfromHumanCells.iScience23,101109.https://doi.org/ 39.Binder,J.X.,Pletscher-Frankild,S.,Tsafou,K.,Stolte,C.,O’Donoghue,
+10.1016/j.isci.2020.101109. S.I., Schneider, R., and Jensen, L.J. (2014). COMPARTMENTS:
+1152 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+unificationandvisualizationofproteinsubcellularlocalizationevidence. hensive resource of mammalian protein complexes—2019. Nucleic
+Database (Oxford) 2014, bau012. https://doi.org/10.1093/database/ AcidsRes.47,D559–D563.https://doi.org/10.1093/nar/gky973.
+bau012. 56.King,J.S.,Gueho,A.,Hagedorn,M.,Gopaldass,N.,Leuba,F.,Soldati,
+40.Lippincott-Schwartz,J.,Roberts,T.H.,andHirschberg,K.(2000).Secre- T., and Insall, R.H. (2013). WASH is
+
+Chunk 43:
+einsubcellularlocalizationevidence. hensive resource of mammalian protein complexes—2019. Nucleic
+Database (Oxford) 2014, bau012. https://doi.org/10.1093/database/ AcidsRes.47,D559–D563.https://doi.org/10.1093/nar/gky973.
+bau012. 56.King,J.S.,Gueho,A.,Hagedorn,M.,Gopaldass,N.,Leuba,F.,Soldati,
+40.Lippincott-Schwartz,J.,Roberts,T.H.,andHirschberg,K.(2000).Secre- T., and Insall, R.H. (2013). WASH is required for lysosomal recycling
+toryproteintraffickingandorganelledynamicsinlivingcells.Annu.Rev. andefficientautophagicandphagocyticdigestion.Mol.Biol.Cell24,
+CellDev.Biol.16,557–589.https://doi.org/10.1146/annurev.cellbio.16. 2714–2726.https://doi.org/10.1091/mbc.e13-02-0092.
+1.557. 57.McNally,K.E.,andCullen,P.J.(2018).EndosomalRetrievalofCargo:
+41.Grant,B.D.,andDonaldson,J.G.(2009).Pathwaysandmechanismsof RetromerIsNotAlone.TrendsCellBiol.28,807–822.https://doi.org/
+endocyticrecycling.Nat.Rev.Mol.CellBiol.10,597–608.https://doi. 10.1016/j.tcb.2018.06.005.
+org/10.1038/nrm2755. 58.Tu,Y.,Zhao,L.,Billadeau,D.D.,andJia,D.(2020).Endosome-to-TGN
+42.Nusinow,D.P.,Szpyt,J.,Ghandi,M.,Rose,C.M.,McDonald,E.R.,Kaloc- Trafficking: Organelle-Vesicle and Organelle-Organelle Interactions.
+say,M.,Jane´-Valbuena,J.,Gelfand,E.,Schweppe,D.K.,Jedrychowski, Front.CellDev.Biol.8,163.https://doi.org/10.3389/fcell.2020.00163.
+M.,etal.(2020).QuantitativeProteomicsoftheCancerCellLineEncyclo- 59.McNally,K.E.,Faulkner,R.,Steinberg,F.,Gallon,M.,Ghai,R.,Pim,D.,
+pedia.Cell180,387–402.e16.https://doi.org/10.1016/j.cell.2019.12.023. Langton, P., Pearson, N., Danson, C.M., Na¨gele, H., et al. (2017).
+43.Fransen, M., Lismont, C., and Walton, P. (2017). The Peroxisome- Retrieverisamultiproteincomplexforretromer-independentendosomal
+Mitochondria Connection: How and Why? Int. J. Mol. Sci. 18, 1126. cargorecycling.Nat.CellBiol.19,1214–1225.https://doi.org/10.1038/
+https://doi.org/10.3390/ijms18061126. ncb3610.
+60.Healy,M.D.,McNally,K.E.,Butkovic(cid:1),R.,Chilton,M.,Kato,K.,Sacharz,
+44.Rowland, A.A., and Voelt
+
+Chunk 44:
+M., Lismont, C., and Walton, P. (2017). The Peroxisome- Retrieverisamultiproteincomplexforretromer-independentendosomal
+Mitochondria Connection: How and Why? Int. J. Mol. Sci. 18, 1126. cargorecycling.Nat.CellBiol.19,1214–1225.https://doi.org/10.1038/
+https://doi.org/10.3390/ijms18061126. ncb3610.
+60.Healy,M.D.,McNally,K.E.,Butkovic(cid:1),R.,Chilton,M.,Kato,K.,Sacharz,
+44.Rowland, A.A., and Voeltz, G.K. (2012). Endoplasmic reticulum–
+J.,McConville,C.,Moody,E.R.R.,Shaw,S.,Planelles-Herrero,V.J.,etal.
+mitochondria contacts: function of the junction. Nat. Rev. Mol. Cell
+(2023). Structure of the endosomal Commander complex linked to
+Biol.13,607–625.https://doi.org/10.1038/nrm3440.
+Ritscher-Schinzelsyndrome.Cell186,2219–2237.e29.https://doi.org/
+45.Decker, C.J., and Parker, R. (2012). P-Bodies and Stress Granules: 10.1016/j.cell.2023.04.003.
+Possible Roles in the Control of Translation and mRNA Degradation.
+61.Kirchhausen,T.,Owen,D.,andHarrison,S.C.(2014).MolecularStruc-
+ColdSpringHarb.Perspect.Biol.4,a012286.https://doi.org/10.1101/
+ture,Function,andDynamicsofClathrin-MediatedMembraneTraffic.
+cshperspect.a012286.
+ColdSpringHarb.Perspect.Biol.6,a016725.https://doi.org/10.1101/
+46.Pan,X.,Ren,L.,Yang,Y.,Xu,Y.,Ning,L.,Zhang,Y.,Luo,H.,Zou,Q.,and cshperspect.a016725.
+Zhang,Y.(2024).MCSdb,adatabaseofproteinsresidinginmembrane
+62.Mettlen,M.,Chen,P.-H.,Srinivasan,S.,Danuser,G.,andSchmid,S.L.
+contact sites. Sci. Data 11, 281. https://doi.org/10.1038/s41597-024-
+(2018).RegulationofClathrin-MediatedEndocytosis.Annu.Rev.Bio-
+03104-7.
+chem.87,871–896.https://doi.org/10.1146/annurev-biochem-062917-
+47.McInnes,L.,Healy,J.,andMelville,J.(2018).UMAP:UniformManifold 012644.
+ApproximationandProjectionforDimensionReduction.PreprintatarXiv.
+63.Ghosh,P.,Dahms,N.M.,andKornfeld,S.(2003).Mannose6-phosphate
+48.Traag,V.A.,Waltman,L.,andvanEck,N.J.(2019).FromLouvaintoLei- receptors:newtwistsinthetale.Nat.Rev.Mol.CellBiol.4,202–212.
+den: guaranteeing well-connected communities. Sci. Rep. 9, 5233. h
+
+Chunk 45:
+062917-
+47.McInnes,L.,Healy,J.,andMelville,J.(2018).UMAP:UniformManifold 012644.
+ApproximationandProjectionforDimensionReduction.PreprintatarXiv.
+63.Ghosh,P.,Dahms,N.M.,andKornfeld,S.(2003).Mannose6-phosphate
+48.Traag,V.A.,Waltman,L.,andvanEck,N.J.(2019).FromLouvaintoLei- receptors:newtwistsinthetale.Nat.Rev.Mol.CellBiol.4,202–212.
+den: guaranteeing well-connected communities. Sci. Rep. 9, 5233. https://doi.org/10.1038/nrm1050.
+https://doi.org/10.1038/s41598-019-41695-z. 64.Balderhaar,H.J.,andUngermann,C.(2013).CORVETandHOPSteth-
+49.Wolf,F.A.,Hamey,F.K.,Plass,M.,Solana,J.,Dahlin,J.S.,Go¨ttgens,B., ering complexes – coordinators of endosome and lysosome fusion.
+Rajewsky,N.,Simon,L.,andTheis,F.J.(2019).PAGA:graphabstraction J.CellSci.126,1307–1316.https://doi.org/10.1242/jcs.107805.
+reconcilesclusteringwithtrajectoryinferencethroughatopologypreser- 65.Khatter, D., Raina, V.B., Dwivedi, D., Sindhwani, A., Bahl, S., and
+vingmapofsinglecells.GenomeBiol.20,59.https://doi.org/10.1186/ Sharma,M.(2015).ThesmallGTPaseArl8bregulatesassemblyofthe
+s13059-019-1663-x. mammalianHOPScomplexonlysosomes.J.CellSci.128,1746–1761.
+50.Aleksander,S.A.,Balhoff,J.,Carbon,S.,Cherry,J.M.,Drabkin,H.J., https://doi.org/10.1242/jcs.162651.
+Ebert,D.,Feuermann,M.,Gaudet,P.,Harris,N.L.,etal.;GeneOntology 66.Guerra,F.,andBucci,C.(2016).MultipleRolesoftheSmallGTPase
+Consortium (2023). The Gene Ontology knowledgebase in 2023. Ge- Rab7.Cells5,34.https://doi.org/10.3390/cells5030034.
+netics224,iyad031.https://doi.org/10.1093/genetics/iyad031. 67.Kobielak,A.,andFuchs,E.(2004).a-catenin:atthejunctionofintercel-
+51.Segal,D.,Maier,S.,Mastromarco,G.J.,Qian,W.W.,Nabeel-Shah,S., lular adhesion and actin dynamics. Nat. Rev. Mol. Cell Biol. 5,
+Lee,H.,Moore,G.,Lacoste,J.,Larsen,B.,Lin,Z.-Y.,etal.(2023).Acen- 614–625.https://doi.org/10.1038/nrm1433.
+tralchaperone-likerolefor14-3-3proteinsinhumancells.Mol.Cell83, 68.Stossel, T.P., Condeelis, J., Cooley, L., Hartwig, J.H., Noegel, A.,
+974–993.e15.https://doi.org/10.1
+
+Chunk 46:
+.Segal,D.,Maier,S.,Mastromarco,G.J.,Qian,W.W.,Nabeel-Shah,S., lular adhesion and actin dynamics. Nat. Rev. Mol. Cell Biol. 5,
+Lee,H.,Moore,G.,Lacoste,J.,Larsen,B.,Lin,Z.-Y.,etal.(2023).Acen- 614–625.https://doi.org/10.1038/nrm1433.
+tralchaperone-likerolefor14-3-3proteinsinhumancells.Mol.Cell83, 68.Stossel, T.P., Condeelis, J., Cooley, L., Hartwig, J.H., Noegel, A.,
+974–993.e15.https://doi.org/10.1016/j.molcel.2023.02.018. Schleicher,M.,andShapiro,S.S.(2001).Filaminsasintegratorsofcell
+52.Chen,T.,andGuestrin,C.(2016).XGBoost:AScalableTreeBoosting mechanicsandsignalling.Nat.Rev.Mol.CellBiol.2,138–145.https://
+System.KDD‘16:Proceedingsofthe22ndACMSIGKDDInternational doi.org/10.1038/35052082.
+ConferenceonKnowledgeDiscoveryandDataMining.https://doi.org/ 69.Ridley,A.J.(2015).RhoGTPasesignallingincellmigration.Curr.Opin.
+10.1145/2939672.2939785. CellBiol.36,103–112.https://doi.org/10.1016/j.ceb.2015.08.005.
+53.Geladaki,A.,Koc(cid:1)evarBritov(cid:1)sek,N.K.,Breckels,L.M.,Smith,T.S.,Ven-
+70.UniProtConsortium(2023).UniProt:theUniversalProteinKnowledge-
+nard, O.L., Mulvey, C.M., Crook, O.M., Gatto, L., and Lilley, K.S. base in 2023. Nucleic Acids Res. 51, D523–D531. https://doi.org/10.
+(2019).CombiningLOPITwithdifferentialultracentrifugationforhigh-res- 1093/nar/gkac1052.
+olution spatialproteomics.Nat.Commun.10,331.https://doi.org/10.
+71.Kobayashi,H.,Cheveralls,K.C.,Leonetti,M.D.,andRoyer,L.A.(2022).
+1038/s41467-018-08191-w.
+Self-superviseddeeplearningencodeshigh-resolutionfeaturesofpro-
+54.Rath, S., Sharma, R., Gupta, R., Ast, T., Chan, C., Durham, T.J., tein subcellular localization. Nat. Methods 19, 995–1003. https://doi.
+Goodman,R.P.,Grabarek,Z.,Haas,M.E.,Hung,W.H.W.,etal.(2021). org/10.1038/s41592-022-01541-z.
+MitoCarta3.0:anupdatedmitochondrialproteomenowwithsub-organ- 72.Junutula,J.R.,DeMazie´re,A.M.D.,Peden,A.A.,Ervin,K.E.,Advani,R.J.,
+ellelocalizationandpathwayannotations.NucleicAcidsRes.49,D1541–
+van Dijk, S.M., Klumperman, J., and Scheller, R.H. (2004). Rab14 Is
+D1
+
+Chunk 47:
+n. Nat. Methods 19, 995–1003. https://doi.
+Goodman,R.P.,Grabarek,Z.,Haas,M.E.,Hung,W.H.W.,etal.(2021). org/10.1038/s41592-022-01541-z.
+MitoCarta3.0:anupdatedmitochondrialproteomenowwithsub-organ- 72.Junutula,J.R.,DeMazie´re,A.M.D.,Peden,A.A.,Ervin,K.E.,Advani,R.J.,
+ellelocalizationandpathwayannotations.NucleicAcidsRes.49,D1541–
+van Dijk, S.M., Klumperman, J., and Scheller, R.H. (2004). Rab14 Is
+D1547.https://doi.org/10.1093/nar/gkaa1011.
+InvolvedinMembraneTraffickingbetweentheGolgiComplexandEndo-
+55.Giurgiu,M.,Reinhard,J.,Brauner,B.,Dunger-Kaltenbach,I.,Fobo,G., somes.Mol.Biol.Cell15,2218–2229.https://doi.org/10.1091/mbc.e03-
+Frishman,G.,Montrone,C.,andRuepp,A.(2018).CORUM:thecompre- 10-0777.
+Cell188,1137–1155,February20,2025 1153
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+73. Linford,A.,Yoshimura,S.,NunesBastos,R.N.,Langemeyer,L.,Geron- 88.Martı´n,C.,Ferna´ndez-Vega,I.,Sua´rez,J.E.,andQuiro´s,L.M.(2019).
+dopoulos, A., Rigden, D.J., and Barr, F.A. (2012). Rab14 and Its Ex- AdherenceofLactobacillussalivariustoHeLaCellsPromotesChanges
+changeFactorFAM116LinkEndocyticRecyclingandAdherensJunction intheExpressionoftheGenesInvolvedinBiosynthesisofTheirLigands.
+Stability in Migrating Cells. Dev. Cell 22, 952–966. https://doi.org/10. Front.Immunol.10,3019.https://doi.org/10.3389/fimmu.2019.03019.
+1016/j.devcel.2012.04.010. 89.Prentice,E.,Jerome,W.G.,Yoshimori,T.,Mizushima,N.,andDenison,
+74. Rottner,K.,Stradal,T.E.B.,andChen,B.(2021).WAVEregulatorycomplex. M.R.(2004).CoronavirusReplicationComplexFormationUtilizesCom-
+Curr.Biol.31,R512–R517.https://doi.org/10.1016/j.cub.2021.01.086. ponents of Cellular Autophagy. J. Biol. Chem. 279, 10136–10141.
+75. Cooper-Knock,J.,Moll,T.,Ramesh,T.,Castelli,L.,Beer,A.,Robins,H., https://doi.org/10.1074/jbc.m306124200.
+Fox,I.,Niedermoser,I.,VanDamme,P.V.,Moisse,M.,etal.(2019).Mu- 90.Maier,H.J.,andBritton,P.(2012).InvolvementofAutophagyinCoro-
+tationsintheGlycosyltransferaseDomain ofGLT8D1Are Associated navirus Replication. Viruses 4, 3440–3451.
+
+Chunk 48:
+nents of Cellular Autophagy. J. Biol. Chem. 279, 10136–10141.
+75. Cooper-Knock,J.,Moll,T.,Ramesh,T.,Castelli,L.,Beer,A.,Robins,H., https://doi.org/10.1074/jbc.m306124200.
+Fox,I.,Niedermoser,I.,VanDamme,P.V.,Moisse,M.,etal.(2019).Mu- 90.Maier,H.J.,andBritton,P.(2012).InvolvementofAutophagyinCoro-
+tationsintheGlycosyltransferaseDomain ofGLT8D1Are Associated navirus Replication. Viruses 4, 3440–3451. https://doi.org/10.3390/
+with Familial Amyotrophic Lateral Sclerosis. Cell Rep. 26, 2298– v4123440.
+2306.e5.https://doi.org/10.1016/j.celrep.2019.02.006.
+91.Min,J.S.,Kim,D.E.,Jin,Y.-H.,andKwon,S.(2020).KurarinoneInhibits
+76. Ilina,E.I.,Cialini,C.,Gerloff,D.L.,DuarteGarcia-Escudero,M.D.,Jeanty, HCoV-OC43InfectionbyImpairingtheVirus-InducedAutophagicFluxin
+C.,The´ze´nas,M.-L.,Lesur,A.,Puard,V.,Bernardin,F.,Moter,A.,etal. MRC-5HumanLungCells.J.Clin.Med.9,2230.https://doi.org/10.3390/
+(2022).EnzymaticactivityofglycosyltransferaseGLT8D1promoteshu- jcm9072230.
+manglioblastomacellmigration.iScience25,103842.https://doi.org/
+92.Lee,S.,Yu,Y.,Trimpert,J.,Benthani,F.,Mairhofer,M.,Richter-Pechan-
+10.1016/j.isci.2022.103842.
+ska,P.,Wyler,E.,Belenki,D.,Kaltenbrunner,S.,Pammer,M.,etal.(2021).
+77. van der Hoek, L.V.D. (2007). Human Coronaviruses: What Do They Virus-inducedsenescenceisadriverandtherapeutictargetinCOVID-19.
+Cause?Antivir.Ther.12,651–658.https://doi.org/10.1177/135965350 Nature599,283–289.https://doi.org/10.1038/s41586-021-03995-1.
+701200s01.1.
+93.Li,J.,Cao,F.,Yin,H.L.,Huang,Z.J.,Lin,Z.T.,Mao,N.,Sun,B.,and
+78. Hartenian,E.,Nandakumar,D.,Lari,A.,Ly,M.,Tucker,J.M.,andGlaun- Wang,G.(2020).Ferroptosis:past,presentandfuture.CellDeathDis.
+singer, B.A. (2020). The molecular virology of coronaviruses. J. Biol. 11,88.https://doi.org/10.1038/s41419-020-2298-2.
+Chem.295,12910–12934.https://doi.org/10.1074/jbc.rev120.013930.
+94.Jiang,X.,Stockwell,B.R.,andConrad,M.(2021).Ferroptosis:mecha-
+79. V’kovski,P.,Kratzel,A.,Steiner,S.,Stalder,H.,andThiel,V.(2020).Co- nisms, biology and role in d
+
+Chunk 49:
+20).Ferroptosis:past,presentandfuture.CellDeathDis.
+singer, B.A. (2020). The molecular virology of coronaviruses. J. Biol. 11,88.https://doi.org/10.1038/s41419-020-2298-2.
+Chem.295,12910–12934.https://doi.org/10.1074/jbc.rev120.013930.
+94.Jiang,X.,Stockwell,B.R.,andConrad,M.(2021).Ferroptosis:mecha-
+79. V’kovski,P.,Kratzel,A.,Steiner,S.,Stalder,H.,andThiel,V.(2020).Co- nisms, biology and role in disease. Nat. Rev. Mol. Cell Biol. 22,
+ronavirus biology and replication: implications for SARS-CoV-2. Nat. 266–282.https://doi.org/10.1038/s41580-020-00324-8.
+Rev. Microbiol. 19, 155–170. https://doi.org/10.1038/s41579-020-
+95.Kung,Y.-A.,Chiang,H.-J.,Li,M.-L.,Gong,Y.-N.,Chiu,H.-P.,Hung,C.-T.,
+00468-6.
+Huang,P.-N.,Huang,S.-Y.,Wang,P.-Y.,Hsu,T.-A.,etal.(2022).Acyl-Co-
+80. Ghosh,S.,Dellibovi-Ragheb,T.A.,Kerviel,A.,Pak,E.,Qiu,Q.,Fisher,M., enzymeASynthetaseLong-ChainFamilyMember4IsInvolvedinViral
+Takvorian,P.M.,Bleck,C.,Hsu,V.W.,Fehr,A.R.,etal.(2020).b-Corona-
+ReplicationOrganelleFormationandFacilitatesVirusReplicationviaFer-
+virusesUseLysosomesforEgressInsteadoftheBiosyntheticSecretory roptosis.mBio13,e0271721.https://doi.org/10.1128/mbio.02717-21.
+Pathway.Cell183,1520–1535.e14.https://doi.org/10.1016/j.cell.2020.
+96.Hou,W.,Xie,Y.,Song,X.,Sun,X.,Lotze,M.T.,Zeh,H.J.,Kang,R.,and
+10.039.
+Tang, D. (2016). Autophagy promotes ferroptosis by degradation of
+81. Gordon,D.E.,Jang,G.M.,Bouhaddou,M.,Xu,J.,Obernier,K.,White, ferritin. Autophagy 12, 1425–1428. https://doi.org/10.1080/15548627.
+K.M., O’Meara, M.J., Rezelj, V.V., Guo, J.Z., Swaney, D.L., et al. 2016.1187366.
+(2020).ASARS-CoV-2proteininteractionmaprevealstargetsfordrug
+97.Gao,M.,Monian,P.,Pan,Q.,Zhang,W.,Xiang,J.,andJiang,X.(2016).
+repurposing. Nature 583, 459–468. https://doi.org/10.1038/s41586-
+Ferroptosis is an autophagic cell death process. Cell Res. 26,
+020-2286-9.
+1021–1032.
+82. Jennings,B.C.,Kornfeld,S.,andDoray,B.(2021).AweakCOPIbinding
+motifinthecytoplasmictailofSARS-CoV-2spikeglycoproteinisneces- 98.Chen,X.,Yu,C.,Kan
+
+Chunk 50:
+interactionmaprevealstargetsfordrug
+97.Gao,M.,Monian,P.,Pan,Q.,Zhang,W.,Xiang,J.,andJiang,X.(2016).
+repurposing. Nature 583, 459–468. https://doi.org/10.1038/s41586-
+Ferroptosis is an autophagic cell death process. Cell Res. 26,
+020-2286-9.
+1021–1032.
+82. Jennings,B.C.,Kornfeld,S.,andDoray,B.(2021).AweakCOPIbinding
+motifinthecytoplasmictailofSARS-CoV-2spikeglycoproteinisneces- 98.Chen,X.,Yu,C.,Kang,R.,andTang,D.(2020).IronMetabolisminFer-
+roptosis.Front.CellDev.Biol.8,590226.https://doi.org/10.3389/fcell.
+sary for its cleavage, glycosylation, and localization. FEBS Lett. 595,
+2020.590226.
+1758–1767.https://doi.org/10.1002/1873-3468.14109.
+99.Doll,S.,Proneth,B.,Tyurina,Y.Y.,Panzilius,E.,Kobayashi,S.,Ingold,I.,
+83. Dey, D.,Singh, S., Khan, S., Martin, M., Schnicker, N.J., Gakhar, L.,
+Irmler,M.,Beckers,J.,Aichler,M.,Walch,A.,etal.(2017).ACSL4dic-
+Pierce,B.G.,andHasan,S.S.(2022).AnextendedmotifintheSARS-
+tatesferroptosissensitivitybyshapingcellularlipidcomposition.Nat.
+CoV-2spikemodulatesbindingandreleaseofhostcoatomerinretro-
+Chem.Biol.13,91–98.https://doi.org/10.1038/nchembio.2239.
+grade trafficking. Commun. Biol. 5, 115. https://doi.org/10.1038/
+s42003-022-03063-y. 100.Mancias,J.D.,Wang,X.,Gygi,S.P.,Harper,J.W.,andKimmelman,A.C.
+(2014).QuantitativeproteomicsidentifiesNCOA4asthecargoreceptor
+84. Hirabayashi,A.,Muramoto,Y.,Takenaga,T.,Tsunoda,Y.,Wakazaki,M.,
+mediating ferritinophagy. Nature 509, 105–109. https://doi.org/10.
+Sato,M.,Fujita-Fujiharu,Y.,Nomura,N.,Yamauchi,K.,Onishi,C.,etal.
+1038/nature13148.
+(2024).CoatomercomplexIisrequiredforthetransportofSARS-CoV-2
+progeny virions from the endoplasmic reticulum-Golgi intermediate 101.Zilka,O.,Shah,R.,Li,B.,FriedmannAngeli,J.P.F.,Griesser,M.,Conrad,
+compartment.Preprintat bioRxiv. https://doi.org/10.1101/2024.04.10. M., and Pratt, D.A. (2017). On the Mechanism of Cytoprotection by
+588984. Ferrostatin-1andLiproxstatin-1andtheRoleofLipidPeroxidationinFer-
+roptoticCellDeath.ACSCent.Sci.3,232–243.https://doi.org/10.1021/
+85
+
+Chunk 51:
+ions from the endoplasmic reticulum-Golgi intermediate 101.Zilka,O.,Shah,R.,Li,B.,FriedmannAngeli,J.P.F.,Griesser,M.,Conrad,
+compartment.Preprintat bioRxiv. https://doi.org/10.1101/2024.04.10. M., and Pratt, D.A. (2017). On the Mechanism of Cytoprotection by
+588984. Ferrostatin-1andLiproxstatin-1andtheRoleofLipidPeroxidationinFer-
+roptoticCellDeath.ACSCent.Sci.3,232–243.https://doi.org/10.1021/
+85. Ogata,H.,Goto,S.,Sato,K.,Fujibuchi,W.,Bono,H.,andKanehisa,M.
+acscentsci.7b00028.
+(1999). KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic
+AcidsRes.27,29–34.https://doi.org/10.1093/nar/27.1.29. 102.Yang,W.S.,andStockwell,B.R.(2008).SyntheticLethalScreeningIden-
+86. Kanehisa,M.,Furumichi,M.,Sato,Y.,Kawashima,M.,andIshiguro-Wa- tifiesCompoundsActivatingIron-Dependent,NonapoptoticCellDeathin
+tanabe,M.(2023).KEGGfortaxonomy-basedanalysisofpathwaysand Oncogenic-RAS-Harboring Cancer Cells. Chem. Biol. 15, 234–245.
+genomes.NucleicAcidsRes.51,D587–D592.https://doi.org/10.1093/ https://doi.org/10.1016/j.chembiol.2008.02.010.
+nar/gkac963. 103.Li,X.,He,S.,andMa,B.(2020).Autophagyandautophagy-relatedpro-
+87. Wang,R.,Simoneau,C.R.,Kulsuptrakul,J.,Bouhaddou,M.,Travisano, teinsincancer.Mol.Cancer19,12.https://doi.org/10.1186/s12943-020-
+K.A., Hayashi, J.M., Carlson-Stevermer, J., Zengel, J.R., Richards, 1138-4.
+C.M.,Fozouni,P.,etal.(2021).GeneticScreensIdentifyHostFactors 104.Brunner, A.D., Thielert, M., Vasilopoulou, C., Ammar, C., Coscia, F.,
+for SARS-CoV-2 and Common Cold Coronaviruses. Cell 184, 106– Mund,A.,Hoerning,O.B.,Bache,N.,Apalategui,A.,Lubeck,M.,etal.
+119.e14.https://doi.org/10.1016/j.cell.2020.12.004. (2022). Ultra-high sensitivity mass spectrometry quantifies single-cell
+1154 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+proteome changes upon perturbation. Mol. Syst. Biol. 18, e10798. man cells. Nucleic Acids Res. 2, 163. https://doi.org/10.1093/nar/
+https://doi.org/10.15252/msb.202110798. gkz669.
+105.Laqtom,N.N.,Dong,W.,Medoh,U.N.,Cange
+
+Chunk 52:
+0.1016/j.cell.2020.12.004. (2022). Ultra-high sensitivity mass spectrometry quantifies single-cell
+1154 Cell188,1137–1155,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+proteome changes upon perturbation. Mol. Syst. Biol. 18, e10798. man cells. Nucleic Acids Res. 2, 163. https://doi.org/10.1093/nar/
+https://doi.org/10.15252/msb.202110798. gkz669.
+105.Laqtom,N.N.,Dong,W.,Medoh,U.N.,Cangelosi,A.L.,Dharamdasani, 119.Canaj,H.,Hussmann,J.A.,Li,H.,Beckman,K.A.,Goodrich,L.,Cho,
+V., Chan, S.H., Kunchok, T., Lewis, C.A., Heinze, I., Tang, R., et al. N.H.,Li,Y.J.,Santos,D.A.,McGeever,A.,Stewart,E.M.,etal.(2019).
+(2022).CLN3isrequiredfortheclearanceofglycerophosphodiesters Deepprofilingrevealssubstantialheterogeneityofintegrationoutcomes
+from lysosomes. Nature 609, 1005–1011. https://doi.org/10.1038/ inCRISPRknock-inexperiments.PreprintatbioRxiv.https://doi.org/10.
+s41586-022-05221-y. 1101/841098.
+106.Crook,O.M.,Davies,C.T.R.,Breckels,L.M.,Christopher,J.A.,Gatto,L., 120.Rappsilber,J.,Mann,M.,andIshihama,Y.(2007).Protocolformicro-pu-
+Kirk,P.D.W.,andLilley,K.S.(2022).Inferringdifferentialsubcellularlocal- rification,enrichment,pre-fractionationandstorageofpeptidesforpro-
+isationincomparativespatialproteomicsusingBANDLE.Nat.Commun. teomicsusingStageTips.Nat.Protoc.2,1896–1906.https://doi.org/10.
+13,5948.https://doi.org/10.1038/s41467-022-33570-9. 1038/nprot.2007.261.
+107.Hashimoto,Y.,Sheng,X.,Murray-Nerger,L.A.,andCristea,I.M.(2020). 121.Sunshine,S.,Puschnik,A.S.,Replogle,J.M.,Laurie,M.T.,Liu,J.,Zha,
+Temporaldynamicsofproteincomplexformationanddissociationdur- B.S.,Nun˜ez,J.K.,Byrum,J.R.,McMorrow,A.H.,Frieman,M.B.,etal.
+inghumancytomegalovirusinfection.Nat.Commun.11,806.https:// (2023).SystematicfunctionalinterrogationofSARS-CoV-2hostfactors
+doi.org/10.1038/s41467-020-14586-5. using Perturb-seq. Nat. Commun. 14, 6245. https://doi.org/10.1038/
+108.Litsios, A., Grys, B.T., Kraus, O.Z., Friesen, H., Ross, C., Masinas, s41467-023-41788-4.
+M.P.D.,Forster,D.T.,Couvillion,M.T
+
+Chunk 53:
+,Byrum,J.R.,McMorrow,A.H.,Frieman,M.B.,etal.
+inghumancytomegalovirusinfection.Nat.Commun.11,806.https:// (2023).SystematicfunctionalinterrogationofSARS-CoV-2hostfactors
+doi.org/10.1038/s41467-020-14586-5. using Perturb-seq. Nat. Commun. 14, 6245. https://doi.org/10.1038/
+108.Litsios, A., Grys, B.T., Kraus, O.Z., Friesen, H., Ross, C., Masinas, s41467-023-41788-4.
+M.P.D.,Forster,D.T.,Couvillion,M.T.,Timmermann,S.,Billmann,M., 122.Cox,J.,Hein,M.Y.,Luber,C.A.,Paron,I.,Nagaraj,N.,andMann,M.
+etal.(2024).Proteome-scalemovementsandcompartmentconnectivity (2014). Accurate proteome-wide label-free quantification by delayed
+duringtheeukaryoticcellcycle.Cell187,1490–1507.e21.https://doi. normalization and maximal peptide ratio extraction, termed MaxLFQ.
+org/10.1016/j.cell.2024.02.014. Mol. Cell. Proteomics 13, 2513–2526. https://doi.org/10.1074/mcp.
+109.Marx,V.(2021).MethodoftheYear:spatiallyresolvedtranscriptomics. m113.031591.
+Nat.Methods18,9–14.https://doi.org/10.1038/s41592-020-01033-y. 123.Keilhauer,E.C.,Hein,M.Y.,andMann,M.(2015).Accurateproteincom-
+110.Saarela,D.,Lis,P.,Gomes,S.,Nirujogi,R.S.,Dong,W.,Rawat,E.,Glen- plexretrievalbyaffinityenrichmentmassspectrometry(AE-MS)rather
+dinning,S.,Zeneviciute,K.,Bagnoli,E.,Fasimoye,R.,etal.(2024).Tag- thanaffinitypurificationmassspectrometry(AP-MS).Mol.Cell.Prote-
+lessLysoIPmethodformolecularprofilingoflysosomalcontentinclinical omics14,120–135.https://doi.org/10.1074/mcp.m114.041012.
+samples. Preprint at bioRxiv. https://doi.org/10.1101/2024.05.17. 124.Hein,M.Y.,Hubner,N.C.,Poser,I.,Cox,J.,Nagaraj,N.,Toyoda,Y.,Gak,
+594681.
+I.A.,Weisswange,I.,Mansfeld,J.,Buchholz,F.,etal.(2015).AHuman
+111.Thumuluri,V.,AlmagroArmenteros,J.J.A.,Johansen,A.R.,Nielsen,H., InteractomeinThreeQuantitativeDimensionsOrganizedbyStoichiome-
+andWinther,O.(2022).DeepLoc2.0:multi-labelsubcellularlocalization triesandAbundances.Cell163,712–723.https://doi.org/10.1016/j.cell.
+predictionusingproteinlanguagemodels.NucleicAcidsRes.50,W228– 2015.09.053.
+W234.https:/
+
+Chunk 54:
+ge,I.,Mansfeld,J.,Buchholz,F.,etal.(2015).AHuman
+111.Thumuluri,V.,AlmagroArmenteros,J.J.A.,Johansen,A.R.,Nielsen,H., InteractomeinThreeQuantitativeDimensionsOrganizedbyStoichiome-
+andWinther,O.(2022).DeepLoc2.0:multi-labelsubcellularlocalization triesandAbundances.Cell163,712–723.https://doi.org/10.1016/j.cell.
+predictionusingproteinlanguagemodels.NucleicAcidsRes.50,W228– 2015.09.053.
+W234.https://doi.org/10.1093/nar/gkac278.
+125.Wolf,F.A.,Angerer,P.,andTheis,F.J.(2018).SCANPY:large-scalesin-
+112.Hasan,S.,Fernandopulle,M.S.,Humble,S.W.,Frankenfield,A.M.,Li,H., gle-cellgeneexpressiondataanalysis.GenomeBiol.19,15.https://doi.
+Prestil, R.,Johnson,K.R.,Ryan,B.J.,Wade-Martins,R.,Ward,M.E., org/10.1186/s13059-017-1382-0.
+etal.(2023).Multi-modalproteomiccharacterizationoflysosomalfunc- 126.Calin(cid:3)ski,T.,andHarabasz,J.(1974).Adendritemethodforclusteranal-
+tionandproteostasisinprogranulin-deficientneurons.Mol.Neurodege-
+ysis.Commun.Stat.TheoryMethods3,1–27.https://doi.org/10.1080/
+ner.18,87.https://doi.org/10.1186/s13024-023-00673-w.
+03610927408827101.
+113.McGinnis,C.S.,Patterson,D.M.,Winkler,J.,Conrad,D.N.,Hein,M.Y.,
+127.Friedman,J.H.(2001).Greedyfunctionapproximation:Agradientboost-
+Srivastava,V.,Hu,J.L.,Murrow,L.M.,Weissman,J.S.,Werb,Z.,etal.
+ingmachine.Ann.Statist.29,1189–1232.https://doi.org/10.1214/aos/
+(2019).MULTI-seq:samplemultiplexingforsingle-cellRNAsequencing
+1013203451.
+usinglipid-taggedindices.Nat.Methods16,619–626.https://doi.org/
+10.1038/s41592-019-0433-8. 128.Mitchell,R.,andFrank,E.(2017).AcceleratingtheXGBoostalgorithmus-
+ing GPU computing. PeerJ Comput. Sci. 3, e127. https://doi.org/10.
+114.Zheng,G.X.Y.,Terry,J.M.,Belgrader,P.,Ryvkin,P.,Bent,Z.W.,Wilson,
+7717/peerj-cs.127.
+R.,Ziraldo,S.B.,Wheeler,T.D.,McDermott,G.P.,Zhu,J.,etal.(2017).
+Massively parallel digital transcriptional profiling of single cells. Nat. 129.Vairetti,C.,Assadi,J.L.,andMaldonado,S.(2023).EfficientHybridOver-
+Commun.8,14049.https://doi.org/10.1038/ncomms14049. samplingandIntelligen
+
+Chunk 55:
+3, e127. https://doi.org/10.
+114.Zheng,G.X.Y.,Terry,J.M.,Belgrader,P.,Ryvkin,P.,Bent,Z.W.,Wilson,
+7717/peerj-cs.127.
+R.,Ziraldo,S.B.,Wheeler,T.D.,McDermott,G.P.,Zhu,J.,etal.(2017).
+Massively parallel digital transcriptional profiling of single cells. Nat. 129.Vairetti,C.,Assadi,J.L.,andMaldonado,S.(2023).EfficientHybridOver-
+Commun.8,14049.https://doi.org/10.1038/ncomms14049. samplingandIntelligentUndersamplingforImbalancedBigDataClassi-
+fication.ExpertSystAppl.246,12314.https://doi.org/10.1016/j.eswa.
+115.Cox,J.,andMann,M.(2008).MaxQuantenableshighpeptideidentifica-
+2024.123149.
+tionrates,individualizedp.p.b.-rangemassaccuraciesandproteome-
+wide protein quantification. Nat. Biotechnol. 26, 1367–1372. https:// 130.Snoek,J.,Larochelle,H.,andAdams,R.P.(2012).PracticalBayesian
+doi.org/10.1038/nbt.1511. OptimizationofMachineLearningAlgorithms.PreprintatarXiv.https://
+doi.org/10.48550/arxiv.1206.2944.
+116.Kuleshov,M.V.,Jones,M.R.,Rouillard,A.D.,Fernandez,N.F.,Duan,Q.,
+Wang,Z.,Koplev,S.,Jenkins,S.L.,Jagodnik,K.M.,Lachmann,A.,etal. 131.Stringer,C.,Wang,T.,Michaelos,M.,andPachitariu,M.(2021).Cell-
+(2016). Enrichr: a comprehensive gene set enrichment analysis web pose: a generalist algorithm for cellular segmentation. Nat. Methods
+server2016update.NucleicAcidsRes.44,W90–W97.https://doi.org/ 18,100–106.https://doi.org/10.1038/s41592-020-01018-x.
+10.1093/nar/gkw377. 132.Razavi,A.,vandenOord,A.,andVinyals,O.(2019).GeneratingDiverse
+117.Lex,A.,Gehlenborg,N.,Strobelt,H.,Vuillemot,R.,andPfister,H.(2014). High-FidelityImageswithVQ-VAE-2.PreprintatarXiv.
+UpSet: Visualization of Intersecting Sets. IEEE Trans. Vis. Comput. 133.Burgess,J.,Nirschl,J.J.,Zanellati,M.-C.,Lozano,A.,Cohen,S.,and
+Graph.20,1983–1992.https://doi.org/10.1109/tvcg.2014.2346248. Yeung-Levy,S.(2024).Orientation-invariantautoencoderslearnrobust
+118.Riesenberg,S.,Chintalapati,M.,Macak,D.,Kanis,P.,Maricic,T.,and representationsforshapeprofilingofcellsandorganelles.Nat.Commun.
+Pa¨a¨bo,S.(2019).Simultaneouspreciseeditin
+
+Chunk 56:
+ Sets. IEEE Trans. Vis. Comput. 133.Burgess,J.,Nirschl,J.J.,Zanellati,M.-C.,Lozano,A.,Cohen,S.,and
+Graph.20,1983–1992.https://doi.org/10.1109/tvcg.2014.2346248. Yeung-Levy,S.(2024).Orientation-invariantautoencoderslearnrobust
+118.Riesenberg,S.,Chintalapati,M.,Macak,D.,Kanis,P.,Maricic,T.,and representationsforshapeprofilingofcellsandorganelles.Nat.Commun.
+Pa¨a¨bo,S.(2019).Simultaneouspreciseeditingofmultiplegenesinhu- 15,1022.https://doi.org/10.1038/s41467-024-45362-4.
+Cell188,1137–1155,February20,2025 1155
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+STAR+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+Anti-OC43clone541-8F MilliporeSigma Cat#MAB9012;RRID:AB_95424
+(exactepitopeunknown)
+Goatanti-mouseAlexa488 ThermoFisherScientific Cat#A-11001;RRID:AB_2534069
+Bacterialandvirusstrains
+OC43Betacoronavirus1 ATCC Cat#VR-1558
+Chemicals,peptides,andrecombinantproteins
+RecombinantS.p.Cas9-NLS UCBerkeleyMacrolab N/A
+purifiedprotein
+Nedisertib(M3814) Selleckchem Cat#S8586
+Pierce(cid:2)Anti-HAmagneticresin ThermoFisherScientific Cat#88836
+Lys-CLysylEndopeptidase FUJIFILMWakoviaFisherScientific Cat#NC9223464
+Trypsinprotease,MSgrade ThermoFisherScientific Cat#90058
+Fibronectin Corning Cat#356008
+FeRhoNox-1(BioTracker575RedFe2+Dye) MilliporeSigma Cat#SCT030
+Ferrostatin-1 Selleckchem Cat#S7243
+Liproxstatin-1 Selleckchem Cat#S7699
+RSL3 YangandStockwell102 GiftfromJamesOlzmann,UCBerkeley
+Criticalcommercialassays
+SFCellLine96-wellNucleofectorKit Lonza Cat#V4SC-2096
+Depositeddata
+Single-cellRNASequencingdata Thisstudy GeneExpressionOmnibus
+ofHCoV-OC43-infectedHEK293T (GEO):GSE278059
+Massspectrometryrawfiles Thisstudy ProteomeXchange:PXD046440
+andintensitytables
+Experimentalmodels:Celllines
+HEK293T ATCC Cat#CRL-3216
+EndogenouslytaggedHEK293T Thisstudy N/A
+engineeredcelllines,seeTableS1
+Oligonucleotides
+Alt-R(cid:2)CRISPR-Cas9crRNA,2nmol IntegratedDNATechnology SequencesinTableS1
+Alt-R(cid:2)CRISPR-Cas9tracrRNA,100nmol IntegratedDNATechnology Cat#1072534
+MULTI-Seqb
+
+Chunk 57:
+O):GSE278059
+Massspectrometryrawfiles Thisstudy ProteomeXchange:PXD046440
+andintensitytables
+Experimentalmodels:Celllines
+HEK293T ATCC Cat#CRL-3216
+EndogenouslytaggedHEK293T Thisstudy N/A
+engineeredcelllines,seeTableS1
+Oligonucleotides
+Alt-R(cid:2)CRISPR-Cas9crRNA,2nmol IntegratedDNATechnology SequencesinTableS1
+Alt-R(cid:2)CRISPR-Cas9tracrRNA,100nmol IntegratedDNATechnology Cat#1072534
+MULTI-Seqbarcodedoligonucleotides McGinnisetal.113 GiftfromZevGartner,UCSF
+RecombinantDNA
+Allhomologydonortemplates Thisstudy SequencesonMendeleyDatahttps://doi.
+forendogenoustagging org/10.17632/gmjf2wjkz4.1
+Softwareandalgorithms
+Detailedsoftwareforalldata Thisstudy github.com/czbiohub-sf/Organelle_IP_
+analysesandfiguregeneration analyses_and_figures;archivedon
+Zenodo:https://doi.org/10.5281/
+zenodo.14000085
+10xGenomicsCellRangerv5.0.1 Zhengetal.114 https://www.10xgenomics.com/support/
+software/cell-ranger/downloads
+MaxQuantv2.2.0.0 CoxandMann115 https://www.maxquant.org
+(Continuedonnextpage)
+e1 Cell188,1137–1155.e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+XGBoostv2.0.0 ChenandGuestrin52 https://github.com/dmlc/xgboost/
+releases/tag/v2.0.0
+EnrichrAPI Kuleshovetal.116 https://maayanlab.cloud/speedrichr
+AlignedUMAPv0.5.2 McInnesetal.47 https://github.com/lmcinnes/umap
+Cytoself Kobayashietal.71 https://github.com/royerlab/cytoself
+scikit-optimizev0.9.0 https://zenodo.org/records/5565057 https://github.com/scikit-optimize/
+scikit-optimize/releases/tag/v0.9.0
+matplotlibv3.5.3 TheMatplotlibdevelopmentteam https://matplotlib.org/
+seabornv0.12.2 https://joss.theoj.org/papers/ https://seaborn.pydata.org/
+10.21105/joss.03021 whatsnew/v0.12.2.html
+plotlyv5.11.0 PlotlyTechnologiesInc https://plotly.com/
+networkxv3.3 NetworkXdevelopers https://networkx.org/documentation/
+stable/release/release_3.3.html
+pysankeyv1.4.1 https://github.com/Pierre-Sassoulas https://github.com/Pierre-Sassoulas/
+pySankey/releases/tag/v1.4.1
+python-ternar
+
+Chunk 58:
+abornv0.12.2 https://joss.theoj.org/papers/ https://seaborn.pydata.org/
+10.21105/joss.03021 whatsnew/v0.12.2.html
+plotlyv5.11.0 PlotlyTechnologiesInc https://plotly.com/
+networkxv3.3 NetworkXdevelopers https://networkx.org/documentation/
+stable/release/release_3.3.html
+pysankeyv1.4.1 https://github.com/Pierre-Sassoulas https://github.com/Pierre-Sassoulas/
+pySankey/releases/tag/v1.4.1
+python-ternaryv1.0.8 https://zenodo.org/records/34938 https://github.com/marcharper/
+python-ternary/releases/tag/1.0.8
+Upsetplotv0.9.0 Lexetal.117 https://github.com/jnothman/
+UpSetPlot/releases/tag/0.9.0
+Other
+96wpnucleofectorinstrument Lonza Cat#AAF-1003S
+Flowcytometryactivatedcellsorting SONY SH800S
+23Gblunt1’’needle SAIInfusionTechnology Cat#B23-100
+NormJ-ect-F1mLsyringe Air-Tite Cat#NJ-9166017-02
+96wdippingmagnet V&PScientific Cat#VP407AM-N1
+Flat96wpmagnet ThermoFisherScientific Cat#AM10027
+Confocalfluorescencemicroscope Andor Dragonfly
+63x1.47NAoilobjective Leica N/A
+EMCCDmicroscopecamera Andor iXonUltra888
+Cellviewglassbottom96wp, GreinerBioOne Cat#655891
+microscopygrade
+OrbitrapMassspectrometer ThermoFisherScientific FusionLumos
+C18reversephase IonOpticks Cat#AUR2-25075C18A
+chromatographycolumns
+EXPERIMENTALMODELANDSTUDYPARTICIPANTDETAILS
+Cellculture
+HEK293Tcells(ATCCCRL-3216)wereculturedinDMEMhigh-glucosemedium(Gibco,cat.#11965118)with10%fetalbovineserum
+(OmegaScientific,cat.#FB-11),supplementedwith2mMglutamine(Gibco,cat.#25030081),penicillinandstreptomycin(Gibco,cat.
+#15140163).Allcelllinesweremaintainedat37(cid:1)Cand5%CO2androutinelytestedfortheabsenceofmycoplasma.
+METHODDETAILS
+Cellculture&CRISPR/Cas9engineering
+Cellculture
+HEK293Tcells(ATCCCRL-3216)wereculturedinDMEMhigh-glucosemedium(Gibco,cat.#11965118)with10%fetalbovineserum
+(OmegaScientific,cat.#FB-11),supplementedwith2mMglutamine(Gibco,cat.#25030081),penicillinandstreptomycin(Gibco,cat.
+#15140163).Allcelllinesweremaintainedat37(cid:1)Cand5%CO2androutinelytestedfortheabsenceofmycoplasma.
+Cell188,1137–1155.e1–e9,Februar
+
+Chunk 59:
+lculture&CRISPR/Cas9engineering
+Cellculture
+HEK293Tcells(ATCCCRL-3216)wereculturedinDMEMhigh-glucosemedium(Gibco,cat.#11965118)with10%fetalbovineserum
+(OmegaScientific,cat.#FB-11),supplementedwith2mMglutamine(Gibco,cat.#25030081),penicillinandstreptomycin(Gibco,cat.
+#15140163).Allcelllinesweremaintainedat37(cid:1)Cand5%CO2androutinelytestedfortheabsenceofmycoplasma.
+Cell188,1137–1155.e1–e9,February20,2025 e2
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Celllineengineering–taggedorganellemarkers
+CRISPR/Cas9methodswereusedforgeneeditingbyhomologydirectedrepair(HDR)followingestablishedprotocols.Ribonucleo-
+protein(RNP)complexesofS.pyogenesCas9andguideRNAwerepre-assembledinvitro,mixedwithdouble-stranded(dsDNA)
+HDR donors and delivered into HEK293T cells by electroporation in 96-well plates (see below). Each electroporation used
+0.2x106cells,70pmolRNPand2pmolHDRtemplate.Electroporatedcellswereincubatedfortwodaysinthepresenceof1mM
+nedisertib(M3814;Selleckchem#S8586)toenhanceHDRefficiency.118dsDNAHDRdonorsincludingtagsequenceflankedby
+gene-specifichomologyarmswerePCR-amplifiedfromacorrespondingplasmidtemplateusing5’biotinylatedPCRprimersaspre-
+viouslydescribed.119RNPcomplexeswerefreshlyassembledpriortoelectroporationandcombinedwithHDRtemplateinafinal
+volumeof10mL.First,0.7mLgRNA(130mMstock;source:IntegratedDNATechnologies)wasaddedto2.2mLhigh-saltRNPbuffer
+{580mMKCl,40mMTris-HClpH7.5,20%v/vglycerol,2mMTCEP-HClpH7.5,2mMMgCl2,RNAse-free}andincubatedat70(cid:1)C
+for5min.1.8mLofpurifiedCas9protein(40mMstockinCas9buffer,ie.70pmol)wasthenaddedandRNPassemblywascarriedout
+at37(cid:1)Cfor10min.Finally,HDRtemplate(2pmol)andsterileRNAse-freeH2Owereaddedto10mLfinalvolume.Electroporationwas
+carriedoutinAmaxa96-wellshuttleNucleofectordevice(Lonza)usingSFsolution(Lonza)followingthemanufacturer’sinstructions.
+CellswerewashedwithPBSandresuspendedto10,000cells/mLinSFsolution(+supplement)immediatelypriortoelectroporation.
+Foreachsample,20mLofcells(ie.200,000cells)wereaddedtothe10mLRNP/templatemi
+
+Chunk 60:
+.Finally,HDRtemplate(2pmol)andsterileRNAse-freeH2Owereaddedto10mLfinalvolume.Electroporationwas
+carriedoutinAmaxa96-wellshuttleNucleofectordevice(Lonza)usingSFsolution(Lonza)followingthemanufacturer’sinstructions.
+CellswerewashedwithPBSandresuspendedto10,000cells/mLinSFsolution(+supplement)immediatelypriortoelectroporation.
+Foreachsample,20mLofcells(ie.200,000cells)wereaddedtothe10mLRNP/templatemixture.Cellswereimmediatelyelectro-
+poratedusingtheCM130program,afterwhich100mLofpre-warmedmedia(containing1mMnedisertib)wasaddedtoeachwellof
+theelectroporationplatetofacilitatethetransferof25,000cellstoanew96-wellcultureplatecontaining150mLofpre-warmedmedia
+(containing1mMnedisertib).Electroporatedcellswereculturedfor>5daysandtransferredto12-wellplatespriortoselectionby
+fluorescence-activatedcellsorting(FACS).Foreachtarget,1,200cellsfromthetop1%fluorescentcellpoolwereisolatedona
+SH800instrument(Sonybiotechnology)andcollectedin96-wellplates.
+Celllineengineering–localizationde-orphaning
+HEK293TcelllinesusedintheanalysispresentedinFigure4wereengineeredusingthemNeonGreen (1-10/11)splitfluorescentpro-
+2
+teinsystemusingprotocolspreviouslydescribed.14Inbrief,CRISPR/Cas9methodswereusedforgeneeditingbyhomologydirected
+repair(HDR)usingRNPelectroporationmethodsasdescribedintheprevioussection,withtheexceptionthatsingle-strandeddeoxy-
+oligonucleotide(ssODN)donorswereused(UltramerssODN,IntegratedDNATechnologies;120pmoldonorperelectroporation).
+Samplegenerationforproteomicsanalysis
+Inputmaterial
+Allexperimentswereperformedintriplicateusing(cid:3)107cellsperreplicate,harvestedfrom10cm-plateculturesgrownto80-90%
+confluency.
+Cellhomogenization
+Priortoorganellarimmunoprecipitationorsubcellularfractionation,HEK293Tcellsweremechanicallyhomogenizedbyrepeated
+passage through a blunt 23G needle in hypotonic buffer. Cells grown on 10cm plates were washed once in ice-cold PBS, and
+collectedbyscrapingin5mLice-coldPBS.Allsubsequentstepswereconductedat4(cid:1)Coronice.First,scrapedcellsweregently
+pellet
+
+Chunk 61:
+grownto80-90%
+confluency.
+Cellhomogenization
+Priortoorganellarimmunoprecipitationorsubcellularfractionation,HEK293Tcellsweremechanicallyhomogenizedbyrepeated
+passage through a blunt 23G needle in hypotonic buffer. Cells grown on 10cm plates were washed once in ice-cold PBS, and
+collectedbyscrapingin5mLice-coldPBS.Allsubsequentstepswereconductedat4(cid:1)Coronice.First,scrapedcellsweregently
+pelletedat5003g(4(cid:1)C)andresuspendedin950mlofhypotonichomogenizationbuffercontaining:25mMTris-HClpH7.5,50mM
+sucrose,0.2mMEGTA,0.5mMMgCl2,complementedwithproteaseandphosphataseinhibitorcocktail(ThermoFisherScientific,
+#PI78443).Resuspendedcellsweremechanicallyhomogenizedrightawaybypassingthecellsuspension4timesthrougha23G
+blunt1’’needle(SAIInfusionTechnology#B23-100)attachedtoa1mLsyringe(Air-TiteNormJ-ect-F#NJ-9166017-02),followed
+byimmediatethoroughmixingwith89mLofconcentratedsucrosebuffer(2.5Msucrose,0.2mMEGTA,0.5mMMgCl2)torestore
+tonicity.Cellhomogenateswereclarifiedbycentrifugationat1,0003gfor10min(4(cid:1)C),resultinginapelletcontainingmainlynuclear
+material,andasupernatantcontainingmainlyorganellarandcytosolicproteins.
+Subcellularfractionationandwholecellextractpreparation
+Forcrudesubcellularfractionation(‘‘N/O/C’’fractions,seetextandFigure1E),theclarifiedhomogenatesupernatantwasfurther
+centrifugedat20,0003gfor45min(4(cid:1)C),resultinginapelletcontainingmainlyorganellarproteins,andasolublecytosolicsuper-
+natant.Boththe1,0003g(‘‘nucleus’’)and20,0003g(‘‘membrane-boundorganelles’’)pelletswereresuspendedinSDSlysisbuffer
+{5%SDS,50mMtriethylammoniumbicarbonate(TEAB)pH7.55},750mland500ml,respectively.Thecytosolicsupernatantwas
+supplemented with 20% SDS to yield 5% SDS final. All three fractions were boiled for 5 min. In parallel, a whole cell extract
+(WCE)wasgeneratedbydirectlyscrapingcellsoffa10-cmplateinSDSlysisbuffer.AllN/O/CandWCEsampleswerefurthersub-
+jectedtoprobesonication(UP200St,Hielscher,Germany)andthenclarifiedbycentrifugationat14,000xgfor15min.Proteinlysates
+werequ
+
+Chunk 62:
+0ml,respectively.Thecytosolicsupernatantwas
+supplemented with 20% SDS to yield 5% SDS final. All three fractions were boiled for 5 min. In parallel, a whole cell extract
+(WCE)wasgeneratedbydirectlyscrapingcellsoffa10-cmplateinSDSlysisbuffer.AllN/O/CandWCEsampleswerefurthersub-
+jectedtoprobesonication(UP200St,Hielscher,Germany)andthenclarifiedbycentrifugationat14,000xgfor15min.Proteinlysates
+werequantifiedusingBCAassayaccordingtothemanufacturer’sinstructions(Pierce,ThermoFisherScientific).100mgofprotein
+wasextractedbyadding4.5volumesofice-coldacetone,incubatedat-20(cid:1)Cfor1hour,andcentrifugedat21,000xgat4(cid:1)Cfor
+10 min. The protein pellet was then resuspended in {2.5% sodium deoxycholate, 50mM EPPS, pH 8.5} buffer. Protein samples
+were reducedbyadding 1mMDTT(ThermoFisherScientific, A39255)andincubatingfor20minat37(cid:1)C.Cysteine sidechains
+werealkylatedbyadding5mMIodoacetamide (IAA,ThermoFisherScientific#A39271)andincubated inthedarkfor20minat
+roomtemperature.SamplesweredigestedovernightbyaddingLys-C(FujifilmWako#NC9223464)atanenzyme-to-proteinratio
+of1mAUper50mg.Digestioncontinuedthenextdaybyaddingtrypsin(ThermoFisherScientific,90057)atanenzyme-to-protein
+e3 Cell188,1137–1155.e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+ratioof1:100for3h.AllfourstepswereperformedwithshakingonaThermomixer(Eppendorf,Germany).Digestionwasstoppedby
+acidification to 1% TFA,followed byincubation on icefor5min andcentrifugation at 21,000xgfor15 minto remove insoluble
+material.
+OrganellarIPs
+TheinputmaterialfororganellarIPsistheclarifiedorganellar/cytosolicsupernatant(1,000xg)fromthecellhomogenizationstep
+describedabove,preparedforcellsexpressingtaggedorganellarmarkerproteins.Allstepswerecarriedoutat4(cid:1)Coronice.For
+organellecapture,750mLofthissupernatantweremixedwith20mLAnti-HAmagneticbeads(ThermoFisherScientific#PI88836)
+ina96-deepwellplate(1mLwells),andincubatedfor10minwhileshakingat1,000rpminathermomixer.Followingcapture,beads
+wereboundtoadippingmagnet(V&
+
+Chunk 63:
+000xg)fromthecellhomogenizationstep
+describedabove,preparedforcellsexpressingtaggedorganellarmarkerproteins.Allstepswerecarriedoutat4(cid:1)Coronice.For
+organellecapture,750mLofthissupernatantweremixedwith20mLAnti-HAmagneticbeads(ThermoFisherScientific#PI88836)
+ina96-deepwellplate(1mLwells),andincubatedfor10minwhileshakingat1,000rpminathermomixer.Followingcapture,beads
+wereboundtoadippingmagnet(V&PScientific#VP407AM-N1)andwashed3timesin150mLice-colddivalent-freeD-PBS(Thermo
+FisherScientific#14190144)byserialtransfersto96-wellplates.Beadswerereleasedin150mLice-coldD-PBSina96-wellplate,
+bound to a flat-bottom magnet (Thermo Fisher Scientific #AM10027), and the D-PBS supernatant removed. Beads were resus-
+pendedin30mLofDTT-ureabuffer(2MUrea,12.5mMTris-HClpH7.5,1mMDTT).Boundproteinswerealkylatedbyaddition
+of3.3mLof 50mMIodoacetamide (IAA,Thermo FisherScientific #A39271) toeach sample, followed byshaking(1,400rpm) at
+RTfor30minonathermomixer.Proteinsweredigestedbyadditionof0.5mgofLysC(FujifilmWako#NC9223464)andkeptshaking
+overnightatRT.Finally,1mgoftrypsin(ThermoFisherScientific#PI90058)wasadded,followedbyshakingatRTfor4h.Beadswere
+removedandthepeptideswereacidifiedtoafinalconcentrationof1%trifluoro-aceticacid(TFA).
+Peptidedesaltingandmassspectrometry
+OrganellarIP,N/O/C,andWCEpeptidesweredesaltedonin-housepreparedStyrenedivinylbenzeneReversedPhaseSulfonate
+packedStagetips.120Briefly,Stagetipswereactivatedwith100%methanol,conditionedwith80%acetonitrile/0.1%TFA,andequil-
+ibratedwith0.2%TFA,followedbysampleloading,washingwith99.9%isopropanol/0.1%TFA,andadditionalwashes:twicewith
+0.2%TFAandoncewith0.1%formicacid.OrganellarIPpeptideswereelutedwith60%acetonitrile/0.5%ammoniumhydroxide.
+However, to achieve proteomic depth, N/O/C and WCE peptides were triple fractionated by first eluting with 40% acetonitrile
+0.5%TFA100mMammoniumformate,followedby60%acetonitrile0.5%TFA150mMammoniumformateandfinallywith80%
+acetonitrile1%ammoniumhydroxide.Desaltedpeptideswereflashfrozenthendriedby
+
+Chunk 64:
+2%TFAandoncewith0.1%formicacid.OrganellarIPpeptideswereelutedwith60%acetonitrile/0.5%ammoniumhydroxide.
+However, to achieve proteomic depth, N/O/C and WCE peptides were triple fractionated by first eluting with 40% acetonitrile
+0.5%TFA100mMammoniumformate,followedby60%acetonitrile0.5%TFA150mMammoniumformateandfinallywith80%
+acetonitrile1%ammoniumhydroxide.Desaltedpeptideswereflashfrozenthendriedbycentrifugalevaporationandresuspended
+in2%acetonitrile/0.1%TFA.PeptideswereanalyzedonaFusionLumosmassspectrometer(ThermoFisherScientific,SanJose,
+CA)equippedwithaThermoEASY-nLC1200LCsystem(ThermoFisherScientific,SanJose,CA)andnanoFlexESIsource.Peptides
+wereseparatedbycapillaryreversephasechromatographyona25cmcolumn(75mminnerdiameter,packedwith1.6mmC18resin,
+AUR2-25075C18A,Ionopticks,VictoriaAustralia).ElectrosprayIonizationvoltagewassetto2000volts.Peptideswereintroduced
+intotheFusionLumosmassspectrometerusingatwo-steplineargradient.FororganellarIPsamples,3–27%bufferB(0.1%(v/v)
+formicacidin80%(v/v)acetonitrile)for52.5minfollowedby27-40%bufferBfor14.5min.ForN/O/CandWCEsamples,3–27%
+bufferBfor105minfollowedby27-40%bufferBfor15min.Bothoperatedwithaflowrateof300nL/min.Columntemperature
+wasmaintainedat50(cid:1)Cthroughouttheprocedure.Datawasacquiredintopspeeddata-dependentmodewithadutycycletime
+of1s.FullMSscanswereacquiredintheOrbitrapmassanalyzer(FTMS)witharesolutionof120000(FWHM)fororganellarIP
+and240000(FWHM)forN/O/CandWCEsamples.Bothwithanm/zscanrangeof375-1500m/z.Selectedprecursorionswere
+subjected to fragmentation using higher-energy collisional dissociation (HCD) with quadrupole isolation window of 0.7 m/z, and
+normalizedcollisionenergyof31%.HCDfragmentswereanalyzedintheIonTrapmassanalyzer(ITMS)settoTurboscanrate.Frag-
+mentedionsweredynamicallyexcludedfromfurtherselectionforaperiodof60secondsfororganellarIPand45secondsforN/O/C
+andWCEsamples.TheAGCtargetwassetto1,000,000and10,000forfullFTMSandITMSscans,respectively.Themaximumin-
+jectiontimewassettoAutoforbothfullFTMSscansand
+
+Chunk 65:
+olation window of 0.7 m/z, and
+normalizedcollisionenergyof31%.HCDfragmentswereanalyzedintheIonTrapmassanalyzer(ITMS)settoTurboscanrate.Frag-
+mentedionsweredynamicallyexcludedfromfurtherselectionforaperiodof60secondsfororganellarIPand45secondsforN/O/C
+andWCEsamples.TheAGCtargetwassetto1,000,000and10,000forfullFTMSandITMSscans,respectively.Themaximumin-
+jectiontimewassettoAutoforbothfullFTMSscansandITMSscans.
+HCoV-OC43infection
+Virusstocks
+OC43wasobtainedfromATCC(VR-1558)andpropagatedinHuh7.5.1cellsgrowninDMEMmediaat34(cid:1)C.Viraltitersweredeter-
+minedbystandardplaqueassayusingBHK-T7cells.Briefly,BHK-T7cellswereseededat800,000cellsperwellin6-wellplatesand
+growninDMEMmediafor24hat34(cid:1)C.Thenextday,serial10-folddilutionsofvirusstockswereusedtoinfectcellsfor2hoursat
+34(cid:1)C,afterwhichmediawasremoved,andasolutionofDMEMmediacontaining1.2%AvicelRC-591wasoverlaidontothecultures.
+Infectedcellswereincubatedfor6daysat34(cid:1)C,followedbyfixationwith4%formaldehyde,stainingwithcrystalviolet,andplaque
+counting.Allexperimentswereperformedinabiosafetylevel2laboratory.
+Infection–organelleIPs
+FororganelleIPsfrominfectedcells,HEK293Tcellsexpressingtaggedorganellarmarkerswereseeded(cid:3)18hbeforeinfectionata
+densityof(cid:3)5*106per10cmplate,resultinginaconfluencyof(cid:3)80%atthetimeofinfection.Infectionwascarriedoutbydirectaddi-
+tionofviralinoculumintothemedia,atamultiplicityofinfection(MOI)of0.25,at37(cid:1)C.ThisMOIwasoptimizedtoresultinauniformly
+infectedpopulationat48hpiwhileminimizingtherequiredamountofinoculum.Cellswerethenharvestedandprocessedlikeun-
+infectedcellsdescribedabove.
+Cell188,1137–1155.e1–e9,February20,2025 e4
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Microscopyimaging
+Samplepreparation
+Live-cellimagingwasperformedon96-wellglass-bottomplates(GreinerBioOne,cat.#655891)coatedwith50mg/mlfibronectin
+(Corning,cat.#356008).Cellswereseededonanimagingplate(cid:3)30hoursbeforeimagingat15,000cellsperwell.Beforeimaging,
+cellswerecounter-stainedwiththelive-cellDNAdyeH
+
+Chunk 66:
+ove.
+Cell188,1137–1155.e1–e9,February20,2025 e4
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Microscopyimaging
+Samplepreparation
+Live-cellimagingwasperformedon96-wellglass-bottomplates(GreinerBioOne,cat.#655891)coatedwith50mg/mlfibronectin
+(Corning,cat.#356008).Cellswereseededonanimagingplate(cid:3)30hoursbeforeimagingat15,000cellsperwell.Beforeimaging,
+cellswerecounter-stainedwiththelive-cellDNAdyeHoechst33342(Invitrogen,cat.#H3570)byincubationfor30minutesat37(cid:1)Cin
+150mlofHoechstdilutedto1mg/mLinculturemedia.Mediawasthenreplacedwithphenol-freeDMEM(Gibco,cat.#21063029)sup-
+plementedwith10%FBS.Hoechststainingwasperformedthreetofourhourspriortoimagingtoprovidethecellstimetorecover
+from any mechanical stress due to medium changes. In experiments involving FeRhoNox-1 (Sigma-Aldrich, cat. #SCT030),
+FeRhoNox-1wasresuspendedfollowingmanufacturer’sprotocolandusedatafinalconcentration of5mMincombinationwith
+Hoechst.Cellswerethenincubatedat37ºCfor1.5hoursinserum-freeimagingmedia,andsubsequentlywashedandimagedin
+serum-freeimagingmedia.
+Live-cellfluorescencemicroscopy
+CellswereimagedonaDMI-8invertedmicroscope(Leica)equippedwithaDragonflyspinning-diskconfocalsystem(Andor),a63x
+1.47NAoilobjective(Leica),anda16-bitiXonUltra888EMCCDcamera(Andor,pixelsize:13x13mm2).Apinholesizeof40mmwas
+usedwithanEMgainof400.Cellsweremaintainedat37(cid:1)Cand5%CO2duringimageacquisitionbyastage-topincubator(Okolab,
+H101-K-Frame).Themicroscopewascontrolledusingtheopen-sourcemicroscope-controlsoftwareMicroManager(version1.4.22).
+RAB14co-localization.AcDNAconstructencodingRAB14fusedwithmCherryattheN-terminuswasclonedintoanexpression
+plasmidunderCMVpromoterexpression.TheconstructwastransfectedintocellsusingFuGENE-HDfollowingmanufacturer’spro-
+tocol(Promegacat.#HD-1000;3:1transfectionreagenttoDNAratio;72hoursincubation).Co-localizationwasquantifiedusingthe
+ROImanagerinImageJ.
+Infection–imaging
+Thedaypriortoinfection,cellswereseededon96-wellglass-bottomplates(GreinerBioOne,cat.#655891)coatedwith50mg/mL
+f
+
+Chunk 67:
+asclonedintoanexpression
+plasmidunderCMVpromoterexpression.TheconstructwastransfectedintocellsusingFuGENE-HDfollowingmanufacturer’spro-
+tocol(Promegacat.#HD-1000;3:1transfectionreagenttoDNAratio;72hoursincubation).Co-localizationwasquantifiedusingthe
+ROImanagerinImageJ.
+Infection–imaging
+Thedaypriortoinfection,cellswereseededon96-wellglass-bottomplates(GreinerBioOne,cat.#655891)coatedwith50mg/mL
+fibronectin(Corning,cat.#356008;manufacturer’sprotocol).4000-8000cellsperwellwereseededforuninfectedconditions,andat
+least8000cellsperwellwereseededforinfectedconditions.Onthedayofinfection,virusaliquotswerethawedonice,dilutedin
+growthmedia,andappliedontocellsatindicatedMOIandatafinalvolumeof100mL/well.ForMOIcalculations,cellswereassumed
+tohavetripled.MOI0conditionssimplyreceivedmediachange.Unlessindicatedotherwise,infectionimagingexperimentswere
+live-imagedat48hpi.Allimagingexperimentsfollowedthesamplepreparationprotocoldescribedabove.
+ATG5 co-localization. HEK293T cells were endogenously tagged for both NCOA4 (N-terminal mNeonGreen; gRNA sequence
+TTTCTTTTAAAGGAGCAGTG)andATG5(N-terminalmScarlet;gRNAsequenceGTATGTACTGCTTTAACTCC).Single-cellclones
+wereisolatedbyflowcytometrybasedondouble-positivemNeonGreen+mScarletfluorescence.Fourindividualclonesweregrown
+andimageduponOC43infectionasdescribedabove.Co-localizationwasquantifiedbydeterminingthepercentofNCOA4positive
+pixelsthatwerealsoATG5positive.
+COP-Isubunitslocalization.CellswereimageduponOC43infectionasdescribedabove.Maximum-intensityprojectionsofCOP-I
+subunitsweresegmentedusingOtsu’smethod.Theaveragedistancefromeachfluorescentobject’scentroidtothenucleusbound-
+arywasthencalculatedforeachcell.
+Flowcytometry
+70000cellsperwellwereseededinto12wellplasticplatesdaypriortoinfection.At48hpostMOI1infection(finalvolumeof1mL/
+well),cellswereresuspendedintrypsin,quenched,andfixedin4%paraformaldehydeatroomtemperaturefor15min.Inexperi-
+mentsinvolvingFeRhoNox-1(see‘‘SamplePreparation’’sectionforprotocol),cellsweretreatedwithFeRhoNox-1pri
+
+Chunk 68:
+ct’scentroidtothenucleusbound-
+arywasthencalculatedforeachcell.
+Flowcytometry
+70000cellsperwellwereseededinto12wellplasticplatesdaypriortoinfection.At48hpostMOI1infection(finalvolumeof1mL/
+well),cellswereresuspendedintrypsin,quenched,andfixedin4%paraformaldehydeatroomtemperaturefor15min.Inexperi-
+mentsinvolvingFeRhoNox-1(see‘‘SamplePreparation’’sectionforprotocol),cellsweretreatedwithFeRhoNox-1priortofixation.
+Cellswerethenwashed,permeabilized,andblockedusingPerm/Washbuffer(BDBiosciences,cat.#554723;>30minatroomtem-
+perature).Forantibodystaining,cellsweretreatedwith1:200OC43antibody(MilliporeSigma,cat.#MAB9012;>1hatroomtem-
+perature),washed,treatedwith1:500AlexaFluorsecondaryantibody(ThermoFisherScientific;>30minatroomtemperature),and
+washed (all steps here in Perm/Wash buffer). Finally, cells were resuspended in FACS buffer (HBSS with no ions (Gibco, cat.
+#14175095) with 1% FBS (Omega Scientific, cat. #FB-11) and 25 mM HEPES (Gibco, cat. #15630080)) and analyzed using
+CytoFLEX(BeckmanCoulter).
+Treatment with ferroptosis inhibitors & activator: in infection experiments co-treated with Ferrostatin (Selleck Chemicals, cat.
+#S7243)orLiproxstatin(SelleckChemicals,cat.#S7699),cellsin12wellplateswerefirsttreatedwith500mL/wellofvirusatthe
+desired MOI, and then immediately treated with 500 mL/well of 2x desired drug concentration to reach a final volume of 1 mL/
+well. In RSL3 experiments (RSL3 was a gift from James Olzmann, UC Berkeley), RSL3 was added 24 hpi. The cells were fixed
+andassayedforOC43at48hpi.Tomeasurecellviabilitypostdrugtreatment,cellswerewashedwithPBS,trypsinized,andresus-
+pendedin1mLofgrowthmedia.100mLofeachwellwasthencountedusingCytoflex.
+Transcriptomics
+FortranscriptomicsofOC43-infectedcells,weculturedandinfectedcellsessentiallyasforallproteomicsexperiments,on10cm
+platesat37(cid:1)C.Cellswereinfectedat(cid:3)80%confluencywithanMOIof1.0.Westaggeredaseriesofinfectionssothatsamples
+were harvestedin parallel in an uninfected state and at 16, 24,and 48 hpi, re
+
+Chunk 69:
+dresus-
+pendedin1mLofgrowthmedia.100mLofeachwellwasthencountedusingCytoflex.
+Transcriptomics
+FortranscriptomicsofOC43-infectedcells,weculturedandinfectedcellsessentiallyasforallproteomicsexperiments,on10cm
+platesat37(cid:1)C.Cellswereinfectedat(cid:3)80%confluencywithanMOIof1.0.Westaggeredaseriesofinfectionssothatsamples
+were harvestedin parallel in an uninfected state and at 16, 24,and 48 hpi, respectively. Cells were harvestedby trypsinization,
+quenched, and washed in PBS. We then used MULTI-seq113 to encode the experimental conditions (i.e. uninfected or 16, 24,
+e5 Cell188,1137–1155.e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+48hpi)beforepoolingallcellsandloadingthemontoonelaneofa10xchip(NextGEMSingle-CellV(D)JReagentsKitv1.1,10xGe-
+nomics),aimingforrecoveryof20,000cells.Weusedthe50workflowtodistinguishthedifferentviralsubgenomicRNAs.121Wefol-
+lowedthemanufacturer’srecommendationforlibrarypreparationandsequencing,spikingintheMULTI-seqampliconsat(cid:3)8%of
+thegeneexpressionlibrary,at(cid:3)50,000readspercell.Weprocessedtherawdatawithcellrangerv.5.0.1usingacustomtranscrip-
+tomereferencethatcombinestheGRCh38humangenomeandamanuallycuratedreferenceforOC43.Inadditiontothedefault
+cellrangerfiltering,weremovedcellswith<2,000UMIs,cellswith>5%contentofmitochondrialtranscripts,aswellascellswhose
+MULTI-seqbarcodesindicatedmultipletsorcouldnotbeunambiguouslyassignedtooneexperimentalcondition,resultingin12,910
+cellsinthefinaldataset.WeusedLeidenclusteringtodefinethreemaincellularstates,correspondingtouninfectedcells,andcells
+withlowandhighviralloads,respectively.Toassessdifferentialgeneexpressionbetweenuninfectedandinfectedcellspresenting
+highviralload,wegeneratedpseudo-bulktranscriptomesfromsetsof100randomlysubsampledcellsfromeithercellstate.
+Dataanalysis–massspectrometryproteomics
+Dataavailability
+MassspectrometryrawdataandassociatedMaxQuantoutputtablesweredepositedtotheProteomeXchangeConsortiumviathe
+PRIDEpartnerrepository(accessionPXD046440).
+RawDataPr
+
+Chunk 70:
+oassessdifferentialgeneexpressionbetweenuninfectedandinfectedcellspresenting
+highviralload,wegeneratedpseudo-bulktranscriptomesfromsetsof100randomlysubsampledcellsfromeithercellstate.
+Dataanalysis–massspectrometryproteomics
+Dataavailability
+MassspectrometryrawdataandassociatedMaxQuantoutputtablesweredepositedtotheProteomeXchangeConsortiumviathe
+PRIDEpartnerrepository(accessionPXD046440).
+RawDataProcessing
+RawdatawereprocessedinMaxQuant115v.2.2.0.0.WedefinedseparateparametergroupsfororganellarIPsandusedthematch
+betweenrunsfeatureandMaxLFQ122forlabel-freequantification(using1min.LFQratiocount),eachwithinthosegroups.Spectra
+weresearchedagainsthumanproteinsequences(downloadedfromUniproton2021-07-17,canonicalandisoformsequences)and
+23manuallycompiledHCoV-OC43proteinsequences(assembledbasedonthegenomeofHCoV-OC43strain1588,providedby
+ATCC).Briefly,a1%falsediscoveryratewassetatthepeptidespectrumandproteinmatchingwithaminimumpeptidelength
+of7,2missedcleavageswereallowed,andenzymewassettotrypsin.OxidationofmethionineandproteinN-terminalacetylation
+weresetasvariablemodificationsalongwithcarbamidomethylationofcysteinessetasafixedmodification.
+Proteinidentificationinnativeimmunoprecipitation
+Proteinidentificationswerefiltered,removingcommoncontaminants,hitstothereversedecoydatabaseaswellasproteinsonly
+identified throughpost-translational modifications atspecific sites.Weusedlog MaxQuant LFQintensities for allanalyses. We
+2
+requiredthateachproteinbequantifiedinallreplicatesfromatleastonenativeimmunoprecipitation-mass-spectrometry(IP-MS)
+sampleandintworeplicatesofwholeproteomeMSsamples.MissingvalueswereaddressedbyimputationusingaGaussiandis-
+tribution,centeredonthelefttailoftheglobaldistributionofLFQintensities.Specifically,theoffsetofthemeanofthisGaussiandis-
+tributionis1.8timestheglobalstandarddeviation,whileitsstandarddeviationisfixedat0.3timestheglobalstandarddeviation.
+Proteinenrichmentanalysisusingaffinity-enrichmentmassspectrometry
+Ourstrategyforenrichmentanalysisusestheest
+
+Chunk 71:
+ssingvalueswereaddressedbyimputationusingaGaussiandis-
+tribution,centeredonthelefttailoftheglobaldistributionofLFQintensities.Specifically,theoffsetofthemeanofthisGaussiandis-
+tributionis1.8timestheglobalstandarddeviation,whileitsstandarddeviationisfixedat0.3timestheglobalstandarddeviation.
+Proteinenrichmentanalysisusingaffinity-enrichmentmassspectrometry
+Ourstrategyforenrichmentanalysisusestheestablishedconceptofaffinity-enrichmentmassspectrometry(AE-MS).123InAE-MS,
+ratherthanusingasinglenegativecontroltomeasureproteinenrichmentprofilesforagivenIP-MSsample,enrichmentiscalculated
+relativetoalargersetofunrelatedIP-MSsamples(thatis,alargersetofsamplesthatdonotspecificallycapturethesamesetof
+proteinsasthesampleofinterest).Aspreviouslydescribed,14,123,124thisenablesabetterestimationofthenulldistributionofback-
+groundbindersandleadstoamorerobustidentificationofinteractions.
+Samplegrouping
+Forthecurrentstudy,thefullsetoftriplicateIP-MSsampleswasgeneratedacross17separateexperimentalbatches,eachbatch
+containingonaverage8triplicatesamples(or24individualIPs).Foreachbatch,wefirstdefinedthebackgroundofproteinsthatbind
+oradsorbtotheIPbeadsinamannerthatisnot3xHAtag-specific;thisnon-specificbackgroundisdefinedbytheLFQintensities
+measuredinatriplicatesetofnegativecontrolIP-MSincludedineachbatch,obtainedusingwild-type(untagged)cells.Tominimize
+batcheffects,wethengroupedtogetherbatchesthatsharedsimilarbackgroundintensityprofilesusinghierarchicalclusteringof
+thesenegativecontrols(seedetailsonGithub).Thisanalysisdefined5overallgroupsofsamples.
+Enrichmentcalculation
+Allenrichmentcalculationsusetriplicatesetsofmeasurements,whichwillbesubsequentlydescribedas‘‘samples’’.Withineachofthe
+fivesamplegroups,rawproteinenrichmentvalueswerefirstcomputedusingthecohort-matching,untaggednegativecontrolasthe
+nulldistribution.Thepairwisecorrelationofrawproteinenrichmentbetweenallsamplesinagroupwascalculated,anduncorrelated
+sampleswereidentified(correlationcoefficient<0.35).Finalproteinenrichmentvaluesw
+
+Chunk 72:
+triplicatesetsofmeasurements,whichwillbesubsequentlydescribedas‘‘samples’’.Withineachofthe
+fivesamplegroups,rawproteinenrichmentvalueswerefirstcomputedusingthecohort-matching,untaggednegativecontrolasthe
+nulldistribution.Thepairwisecorrelationofrawproteinenrichmentbetweenallsamplesinagroupwascalculated,anduncorrelated
+sampleswereidentified(correlationcoefficient<0.35).Finalproteinenrichmentvalueswerethencalculatedusing,foreachsample,the
+fullsetofotheruncorrelatedsamplesfromthesamegrouptodefineanulldistribution.Thefinalenrichmentvalueforeachproteinwas
+calculatedbytakingthedifferenceinmedianlog LFQvaluesbetweenthereplicatesandthenulldistribution.Thesignificanceofthe
+2
+finalenrichmentwastestedusingat-testcomparingthemeanoflog LFQvaluesbetweenthereplicatesandthenulldistribution.The
+2
+entropyofeachprotein’senrichmentprofilewascomputedusingShannon’sentropyformulaaftersum-normalizingtheprofiles.
+CalculationofproteinproportionsinN/O/Cspin-fractions
+Proteinidentificationsinspin-fractionMSsampleswerefilteredusingidenticalmethodsoutlinedforIP-MSsamples.Werequiredthat
+eachproteinbequantifiedinatleastoneoutofthreespin-fractions.TheN/O/Cproportionsforeachprotein(fromtriplicateexperi-
+ments)weredefinedbydividingmedianN,OorCLFQvaluesbythesumofmedianLFQvaluesobtainedfromallthreespin-fractions.
+Cell188,1137–1155.e1–e9,February20,2025 e6
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Graph-basedanalyses
+k-nearestneighbor(k-NN)graph
+Toconstructthek-NNgraph,wecombinedtheproteinenrichmentdatamatrixwiththeN/O/Cproportionsdatamatrix.Thisintegra-
+tionrequiredthepresenceofthesameproteinsinbothmatrices(thatis,proteinsabsentfromoneofthematriceswereexcludedfrom
+analysis).Weemployedthescanpypackage125fortheconstructionofthek-NNgraph.Inthisprocess,thecombineddatamatrixwas
+firstscaledtoachievezeromeanandunitvariancewithclippingvaluesat10.Subsequently,weappliedtheUMAPalgorithm,47using
+20 nearest neighbors and the Euclidean distance metric, to generate a weighted adjacency matrix delineating the edges of
+
+Chunk 73:
+atis,proteinsabsentfromoneofthematriceswereexcludedfrom
+analysis).Weemployedthescanpypackage125fortheconstructionofthek-NNgraph.Inthisprocess,thecombineddatamatrixwas
+firstscaledtoachievezeromeanandunitvariancewithclippingvaluesat10.Subsequently,weappliedtheUMAPalgorithm,47using
+20 nearest neighbors and the Euclidean distance metric, to generate a weighted adjacency matrix delineating the edges of the
+k-NNgraph.
+Proteinpairwisecorrelation/distance
+Pearsoncorrelationcoefficientbetweeneachproteinpairwascomputedfromthescaledcombinedmatrix.Cosinedistancebetween
+eachproteinpairwascomputedusing30principalcomponentsderivedfromthescaledcombinedmatrixthroughprincipalcompo-
+nentanalysis.
+Dimensionreduction
+ThecombinedmatrixofenrichmentvalueandN/O/Cproportionswerescaledtoachievezeromeanandunitvariancewithclipping
+valuesat10.TheUMAPalgorithm47wasusedtoembedthescaledmatrixintwoorthree-dimensionalspaceusing20nearestneigh-
+bors,theEuclideandistancemetric,andaminimumembeddingdistanceof0.1.
+Clusteringandprotein-levelcompartmentannotation
+TheclusteringofproteingroupswascomputedwiththeLeidenalgorithmimplementedinthescanpypackage.125Thek-NNgraph
+was used as input and the ‘‘partition_type’’ parameter was set to ‘‘leidenalg.RBConfigurationVertexPartition’’. Protein-level
+compartmentannotationswereobtainedthroughontologyenrichmentanalysis.ThisanalysiswasconductedusingtheEnrichr116
+API at https://maayanlab.cloud/speedrichr. For each Leiden cluster, enrichment was calculated against a background list
+including all proteins detected in our dataset. Enrichment analysis was computed using the COMPARTMENTS39 and
+GO-Cellular component50 databases using a p-value cutoff of 0.01. The most significantly enriched gene ontology term for
+eachLeidenclusterwasthenassignedastheannotationfortheproteinsinthatcluster.Leidenclusterswiththesameannotation
+were merged.
+Clusteringscore
+WeusedtheCalin(cid:3)skiandHarabaszindex126(CHI)tomeasuretheextenttowhichproteinssharingagivenground-truthlabel
+form well-deline
+
+Chunk 74:
+ENTS39 and
+GO-Cellular component50 databases using a p-value cutoff of 0.01. The most significantly enriched gene ontology term for
+eachLeidenclusterwasthenassignedastheannotationfortheproteinsinthatcluster.Leidenclusterswiththesameannotation
+were merged.
+Clusteringscore
+WeusedtheCalin(cid:3)skiandHarabaszindex126(CHI)tomeasuretheextenttowhichproteinssharingagivenground-truthlabel
+form well-delineated clusters. The CHI is a normalized measure ofthe ratio of distances between separate clusters(how well
+differentclustersseparatefromeachotherinaplot)tothedispersionwithineachcluster(howtightlypackedeachclusteris).
+HigherCHIvaluesrepresentbetterclusteringresolution.Theground-truthlabelswereclass-balanced,andtheaverageCHIwas
+computedover200randomclass-balancingsetstoaccountforvariabilityintroducedbytheprocess.Proteinsobservedbyall
+datasets and included in the ground-truth sets were used to compute the CHI. For each dataset, UMAP embeddings were
+generatedusingtenrandomseeds.TheCHIwasthencalculatedbasedonorganelle-andprotein-complex-levelgroundtruths.
+Finally, we reported the mean and standard error of the mean (SEM) for the index across class-balancing sets and UMAP
+random seeds.
+Graph-basedannotation
+Protein-level compartment annotations were refined using the k-NN graph. For each protein, the compartment annotation most
+frequently observed among all its neighbors in the graph was adopted as the protein’s graph-based annotation. This approach
+excludedthe"unclassified"categoryfrombeingselectedasthemostfrequentannotation.
+Jaccardcoefficient
+TocalculateaJaccardcoefficient,twopartiteshavetobedefinedtowhichagivennodemightbeconnectedto.Therefore,fora
+givenprotein,weidentifiedwhichtwocompartmentannotations(partites)werethemostfoundinthelistofthatprotein’sdirect
+neighborsinthek-NNgraph.Compartmentscomprisinglargenumbersofproteinsoverallmighthaveanadvantageinthiscalcu-
+lation.Therefore,torankthetop-twopartitecompartmentsforeachproteinwhileaccountingforthesizeofdifferentcompart-
+me
+
+Chunk 75:
+shavetobedefinedtowhichagivennodemightbeconnectedto.Therefore,fora
+givenprotein,weidentifiedwhichtwocompartmentannotations(partites)werethemostfoundinthelistofthatprotein’sdirect
+neighborsinthek-NNgraph.Compartmentscomprisinglargenumbersofproteinsoverallmighthaveanadvantageinthiscalcu-
+lation.Therefore,torankthetop-twopartitecompartmentsforeachproteinwhileaccountingforthesizeofdifferentcompart-
+ments, the number of that protein’s neighbors annotated as belonging to a given compartment was normalized by the total
+size of that compartment. A minimum threshold was also established: to rank as one of the top-two partites, a compartment
+mustcontainthreeormoreofthedirectk-NNneighborsofgivenprotein.Jaccardcoefficientswerecomputedbydividingthe
+sum of neighbors in the two selected compartments by the sum of the size of the two compartments subtracting the sum of
+neighbors.
+Clusterconnectivity
+Connectivitybetweenanytwogivengraph-basedannotationclustersinthek-NNgraphwasquantifiedbycalculatingthepercentage
+ofconnectionsbetweentwoclustersoverthetotalpossibleconnectionsthatcouldexistbetweenthem.
+Classifier-basedanalysis
+WeusedXGBoost,52aclassifierbasedongradientboosting127thatcombinesmultipledecisiontreestoimprovepredictionperfor-
+mance. The compartment classifier was built using the eXtreme Gradient Boosting (XGBoost) algorithm.52 implemented via the
+XGBoostpackage.128ThetrainingdatasetcomprisesthecombinedmatrixofenrichmentvaluesandN/O/Cproportions.Inthepre-
+processingstage,thismatrixwasscaledtoachievezeromeanandunitvariancewithclippingvaluesat10.Thetrainingdataset
+e7 Cell188,1137–1155.e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+comprised61IP-MS/spin-fraction-MSsamplesasfeaturesand2412literature-curatedorganellemarkers(TableS2)asobservation
+instances.Tofurtheraddressclassimbalance,weemployedahybridresamplingtechniqueknownasSMOTENN,129whichcom-
+binesbothover-andunder-sampling.HyperparametertuningoftheXGBoostmodelwasconductedusingtheBayesianoptimization
+algorit
+
+Chunk 76:
+e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+comprised61IP-MS/spin-fraction-MSsamplesasfeaturesand2412literature-curatedorganellemarkers(TableS2)asobservation
+instances.Tofurtheraddressclassimbalance,weemployedahybridresamplingtechniqueknownasSMOTENN,129whichcom-
+binesbothover-andunder-sampling.HyperparametertuningoftheXGBoostmodelwasconductedusingtheBayesianoptimization
+algorithm,130implementedviathescikit-optimizepackage(https://zenodo.org/records/5565057).Theoptimizationprocesstuned
+thefollowingparameters:‘‘max_depth’’,‘‘learning_rate’’,‘‘gamma’’,and‘‘grow_policy’’,using‘‘f1_weighted’’astheprimaryscoring
+metric.Three-foldcross-validationwasappliedinallmodeltrainingprocesses(includinghyperparametertuning)tominimizetheef-
+fectofrandomlysplittingtrainingdataintotrainandtestsubsets.Duringtraining,themodelperformancewasmonitoredusing‘‘mlo-
+gloss’’,‘‘merror’’,and‘‘auc’’metricscomputedfromthetestsubset.An‘‘early_stopping_rounds’’of50wasconfiguredtoprevent
+modeloverfitting.Thefinalevaluationofthemodelwasperformedwith5183proteinsthatarenotinthetrainingdataset.Classifier-
+basedannotationswerederivedutilizinganXGBoostmodeltrainedusingasetofoptimizedhyperparameters(seeGithubfordetails).
+The‘‘objective’’parameterwassetto‘‘multi:softprob’’toallowthegenerationofprobabilisticpredictionsforeachcompartment.For
+eachgroupofproteins,thecompartmentassociatedwiththehighestpredictionprobabilitywasidentifiedanddesignatedasthe
+classifier-basedannotation.
+Subcellularremodelinganalysis
+Aligned-UMAP
+ProteinidentificationsfromIP-MSandN/O/Cspin-fractionsMSsampleswereseparatelyprocessedforuninfectedcontrolandin-
+fectedconditionsfollowingidenticalmethodsoutlinedabove.Afterprocessing,thetwocombinedmatrices—onefortheuninfected
+controlconditionandtheotherfortheinfectedcondition—werefilteredtoretainonlytheproteinssharedbybothmatrices.Asa
+result,twocombinedmatricesweregenerated:onerepresentingtheuninfectedcontrolconditionandtheotherfortheinfectedcon-
+dition.Thesematriceswerethenuti
+
+Chunk 77:
+sedforuninfectedcontrolandin-
+fectedconditionsfollowingidenticalmethodsoutlinedabove.Afterprocessing,thetwocombinedmatrices—onefortheuninfected
+controlconditionandtheotherfortheinfectedcondition—werefilteredtoretainonlytheproteinssharedbybothmatrices.Asa
+result,twocombinedmatricesweregenerated:onerepresentingtheuninfectedcontrolconditionandtheotherfortheinfectedcon-
+dition.Thesematriceswerethenutilizedtoconstructrespectivek-NNgraphs.Bothgraphsweresimultaneouslyembeddedintoa
+sharedlow-dimensionalspaceinanalignedmannerusingtheAlignedUMAPmethod,asimplementedintheumappackage(see
+umap-learn.readthedocs.io/en/latest/aligned_umap_basic_usage.html).Theembeddingwasconfiguredwiththefollowingparam-
+eters:20nearestneighbors,Euclideandistancemetric,minimumembeddingdistance0.1,300epochs,andanalignmentregulari-
+zationfactorof0.002.TomapviralproteinsontotheinfectedsideofthealignedUMAP,aseparateUMAPwasgeneratedusingthe
+infectedenrichmentmatrixincludingtheviralproteins.Thecoordinatesoftheviralproteinswerethenprojectedontotheinfectedside
+ofthealignedUMAPthroughProcrustesanalysis.
+Subcellularremodelingscore
+Theuninfectedandinfectedk-NNgraphswereembeddedintoashared10-dimensionalspaceusingtheAlignedUMAPmethod
+describedabove.Tominimizestochasticity,werepeatedtheembeddingprocessfor200times.Foreachproteingroup,theremod-
+elingscoreisdefinedastheaverageEuclideandistancebetweentheinfectedanduninfectedcoordinatesof200repetitions.
+Visualizationofproteinsubcellularremodeling
+Theuninfectedandinfectedk-NNgraphswereembeddedintoashared2-dimensionalspaceforcomparativevisualrepresentation.
+Protein-levelcompartmentannotationsweregeneratedusingthemethodologyoutlinedabove,withanotablemodification:theres-
+olutionparameterintheLeidenalgorithmwasadjustedtoavalueof1.
+Imageanalysis–deeplearningwithcytoself
+Amodifiedversionofcytoself,animage-basedorganellelocalizationpredictionmethod,71wasusedtodetermineorphanproteins
+localization(codereleasedatgithub.com/jmhb0/cytoself).Specifically,arepresentationlearningmode
+
+Chunk 78:
+mentannotationsweregeneratedusingthemethodologyoutlinedabove,withanotablemodification:theres-
+olutionparameterintheLeidenalgorithmwasadjustedtoavalueof1.
+Imageanalysis–deeplearningwithcytoself
+Amodifiedversionofcytoself,animage-basedorganellelocalizationpredictionmethod,71wasusedtodetermineorphanproteins
+localization(codereleasedatgithub.com/jmhb0/cytoself).Specifically,arepresentationlearningmodeltrainedonimagesfromthe
+OpenCell dataset14was usedto identify proteins fromOpenCell that had similar subcellular localization as the orphan proteins.
+Briefly,usingmax-intensityprojections,nucleiweresegmentedusingCellpose131withdefaultsettings,andimagecropsweretaken
+aroundeachnucleuswithheightandwidthof200pixels,discardingcropswithnucleusdiametersmallerthan50pixels.Eachcrop
+wasmadetohaveanuclearchannel,aproteinchannel,andathirdchannelwhereeachpixelisthenormalizeddistancetothenearest
+nuclearboundary71(wheredistanceisnegativeforpixelsinthenucleus).Theproteinandnucleuschannelsineachcropwereinde-
+pendentlynormalizedtorange[0,1].AcytoselfmodelwasthentrainedwithOpenCellandorphanimagecropsusingtheofficialre-
+positoryforkedonOctober10,2023withdefaultparameters,andtakingthecheckpointafter12epochsofnolossdecrease.Since
+someorganelleclassesinOpenCellareunderrepresented,dataresamplingwasimplementedsothateachorganelleclassappearsin
+atleast5%ofsamples.Thisimprovestherepresentationqualityforunderrepresentedclasseslikemitochondriaandlysosome.The
+‘vqvec2’’vector(thesecondstageofvectorquantizationcapturingfine-grainedfeatures132)wasthenextractedforallOpenCelland
+orphanimages.Thisapproachwasdoneforeachcropaswellasfor90(cid:1)rotationsandflipsofeachcrop,whichimprovesthefeature
+robustness.133The‘consensusembedding’wasthenobtainedforeachproteinbytakingtheelement-wisemeanofallcropembed-
+dings,whichwasthenreducedto200dimensionsusingprincipalcomponentanalyses.Foreachorphanprotein,theembedding
+spacedistancestoliterature-curatedorganellemarkergenes(TableS2)werethencomputedusingthePearsoncorrelationmet
+
+Chunk 79:
+hcropaswellasfor90(cid:1)rotationsandflipsofeachcrop,whichimprovesthefeature
+robustness.133The‘consensusembedding’wasthenobtainedforeachproteinbytakingtheelement-wisemeanofallcropembed-
+dings,whichwasthenreducedto200dimensionsusingprincipalcomponentanalyses.Foreachorphanprotein,theembedding
+spacedistancestoliterature-curatedorganellemarkergenes(TableS2)werethencomputedusingthePearsoncorrelationmetric
+andgroupedbyorganelles.Foreachorganellemarkergenegroup,thecorrelationdistanceoftheclosestnon-outliergene(outliers
+definedasexceedingthequartilesby1.5timestheinterquartilerange)wasthenusedtocompareacrossorganelles.Forinterpret-
+ability,thecorrelationdistanceswereconvertedtocorrelationscores.
+Cell188,1137–1155.e1–e9,February20,2025 e8
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+Figuregenerationandgeneralcodeavailability
+DataanalysisforthisstudywasconductedusingthePythonprogramminglanguage.FiguresweregeneratedinPythonusingmat-
+plotlib,seaborn,plotly,networkx,pysankey,python-ternaryorupsetplotpackages.Allcomputercodeandreferencedatausedto
+conducttheanalysisandgeneratethefiguresinthismanuscriptcanbefoundonGitHubatgithub.com/czbiohub-sf/Organelle_IP_
+analyses_and_figures.CodehasbeenarchivedonZenodowiththeDOI:https://doi.org/10.5281/zenodo.14000085.
+QUANTIFICATIONANDSTATISTICALANALYSIS
+ThestatisticalapproachforeachexperimentisdescribedinthecorrespondingSTARMethodssectionandorinthefigurelegends.
+e9 Cell188,1137–1155.e1–e9,February20,2025
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+Supplemental figures
+FigureS1. Taggedproteinlibrary,relatedtoFigure1
+(A)N-andC-terminaltaggingcassettesfororganelleimmunoprecipitations.SeeTableS1forsequences.
+(B)Proteinabundanceofalltaggedtargetsin377cancercelllines,expressedaspercentilevaluefromtheproteomeexpressedineachcellline.35outof37
+targets(95%)arewellexpressed(medianvaluesabove40thpercentile).NotethatautophagymarkersATG101andMAP1LC3Bareonlyexpressedinasubsetof
+(legendcontinuedonnextpage)
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+celllines,whichw
+
+Chunk 80:
+nelleimmunoprecipitations.SeeTableS1forsequences.
+(B)Proteinabundanceofalltaggedtargetsin377cancercelllines,expressedaspercentilevaluefromtheproteomeexpressedineachcellline.35outof37
+targets(95%)arewellexpressed(medianvaluesabove40thpercentile).NotethatautophagymarkersATG101andMAP1LC3Bareonlyexpressedinasubsetof
+(legendcontinuedonnextpage)
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+celllines,whichweattributetoautophagosomesnotbeinguniversallypresentincellsbutratherspecificallyproducedwhenrequired.Boxplotsshow25th/50th/
+75thpercentiles;whiskersshow1.53interquartilerange.
+(C)Representativeconfocalfluorescencemicroscopyimagesoftaggedorganellemarkers.SeeimagesforthefullmarkerlibraryinDataS1.
+(D)VolcanoplotsshowingproteinenrichmentinindividualIPs.SeeplotsforthefullIPlibraryinDataS1.Plotsshowlog2enrichmenttounrelatedcontrols(STAR
+Methods).pvalues:ttest.Proteinsannotatedtolocalizetospecificsubcellularcompartmentsarehighlighted(graph-basedannotations,seeTableS4).IPsmight
+alsoenrichforproteinsfromothercompartmentsthatarenothighlighted.Notethatthedefinitionofeachcompartmentinourannotationsdoesnotdependonany
+singleIP,butratherisdefinedbyproteinsthatsharethesameoverallenrichmentpatternacrossthewholehigh-dimensionaldataset.Asaresult,itshouldnotbe
+expectedthatasingleIPwouldenrichforallproteinsannotatedforagivencompartment.
+(E)Log2enrichmentofspecificcategoriesofmitochondrialproteinsinTOMM20nativeIPs.MOM,mitochondrialoutermembrane;IMS,intermembranespace;
+MIM,mitochondrialinnermembrane;Matrix:mitochondrialmatrix.
+(F)Log enrichmentofmembranevs.lumenalproteinsinRTN4(endoplasmicreticulum)andLAMP1(lysosome)IPs.
+2
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+FigureS2. Proteinenrichmentsignaturesandannotationvalidation,relatedtoFigure2
+(A)Foreachproteinpairengagedindirectprotein-proteininteraction,plotsshowtherelationshipbetweeninteractionstoichiometry(xaxis,datafromthe
+OpenCelldatabase)andsimilarityofenrichmentprofileacrossthewholeorganelleIPdataset(yaxis,showingPearsoncorrelation).Bothpane
+
+Chunk 81:
+MP1(lysosome)IPs.
+2
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+FigureS2. Proteinenrichmentsignaturesandannotationvalidation,relatedtoFigure2
+(A)Foreachproteinpairengagedindirectprotein-proteininteraction,plotsshowtherelationshipbetweeninteractionstoichiometry(xaxis,datafromthe
+OpenCelldatabase)andsimilarityofenrichmentprofileacrossthewholeorganelleIPdataset(yaxis,showingPearsoncorrelation).Bothpanelsdisplaythesame
+data;theright-handpanelhighlightsstableproteincomplexesannotatedinCORUM.
+(B)Distributionofenrichmententropyscoresforcontactsiteandnon-contactsiteproteins.ContactsiteproteinswereobtainedfromMCSdb.46Contactsite
+proteinsdisplayedhigherentropythannon-contactsiteproteins(Mann-WhitneyUtest;p=4.27310(cid:4)67).
+(legendcontinuedonnextpage)
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+(C)Ternarydensityplotsshowingfractionalabundance,forindividualproteins,inN/O/Cspinfractions(cf.Figure1E).Differentgroupsofproteinsareshownin
+separatepanels(fromlefttoright):proteinsannotatedtolocalizeinthecytosol(green),nucleus(blue),tomembranousorganelles(orange),andunclassified
+proteins(gray).Whilecytosolic,nuclear,ororganellarproteinsshowverydistinctiveenrichmentprofilesinN/O/Cfractions,unclassifiedproteinsdonotspe-
+cificallyenrichinanyfractions(appearinginthecenteroftheternaryplot),indicatingtheirbroaddistributionacrossmultiplecompartments.
+(D)Receiveroperatingcharacteristic(ROC)curvesofgraph-basedsubcellularlocalizationannotations,usingresultsfromanXGBoostclassifierasreference
+‘‘ground-truth.’’Correspondingareasunderthecurve(AUC)valuesareshown.
+(E)Graph-basedannotationsafterremovingYWHABandYWHAQIPsfromthedataset.k-NNgraphswerere-computedintheabsenceofenrichmentdatafor
+YWHABandYWHAQIPs,andgraph-basedconsensusannotationswereobtainedfromdirectneighbors(cf.Figure2C,panel5).Fulllistofproteinsandan-
+notationscanbefoundinTableS3.
+(F)Comparisonofgraph-basedannotationswithimage-basedannotationsfromOpenCell.Inthiscomparison,onlyproteinsannotatedtolocalizetoasingle
+compartmentinOpenCellareconsi
+
+Chunk 82:
+WHAQIPsfromthedataset.k-NNgraphswerere-computedintheabsenceofenrichmentdatafor
+YWHABandYWHAQIPs,andgraph-basedconsensusannotationswereobtainedfromdirectneighbors(cf.Figure2C,panel5).Fulllistofproteinsandan-
+notationscanbefoundinTableS3.
+(F)Comparisonofgraph-basedannotationswithimage-basedannotationsfromOpenCell.Inthiscomparison,onlyproteinsannotatedtolocalizetoasingle
+compartmentinOpenCellareconsidered.SeefulllistofproteinsandannotationsinTableS5andadditionalcomparisondatainDataS1.
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+FigureS3. Comparisonofannotationswithexistingdatasets,relatedtoFigure2
+(A)Comparisonoftheclassesofsubcellularcompartmentsresolvedintheannotationsreportedinlarge-scalemassspectrometry-baseddatasetsusingdifferent
+proteomicsmethods:Itzhaketal.,36Schessneretal.,37Geladakietal.,53Goetal.,18andOrreetal.27
+(B)Comparisonofthenumberofproteinsannotatedindifferentdatasets.‘‘Membraneorganelles’’referstoanymembrane-boundcompartmentexceptthe
+nucleus.Inthisanalysis,onlyannotationstospecificsubcellularcompartmentswereconsidered.Thisexcludesanyfullyunclassifiedproteins,‘‘largeprotein
+complex’’annotationsinItzhaketal.andSchessneretal.,and‘‘secretory,unclassified’’annotationsinSubCellBarcode.Furthermore,proteinisoformsarenot
+considered:forproteinsthatsharethesamegenename,onlyasingleannotationisconsidered.Proteinsthatdonothaveanexplicitgenename(i.e.,non-
+canonicalproteinproducts)werenotincluded.‘‘Curated’’annotationswereusedforGeladakietal.53(LOPIT-DC/HyperLOPIT).
+(legendcontinuedonnextpage)
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+(C)Numberofproteinsannotatedindifferentdatasets.Inthisanalysis,onlyannotationstospecificsubcellularcompartmentswereconsidered,asin(B).An-
+notationsfromtheSubCellBarcodedataset,whichhaslimitedsubcellularresolution,werenotincluded.
+(D)Analysisofannotationsformitochondrialproteins.Estimationofrecallandfalsediscoveryrate(FDR)ofmitochondrialannotationsindifferentlarge-scale
+datasets.Aground-truthreferenceofmitochondrialproteinsisdefinedusingth
+
+Chunk 83:
+asets.Inthisanalysis,onlyannotationstospecificsubcellularcompartmentswereconsidered,asin(B).An-
+notationsfromtheSubCellBarcodedataset,whichhaslimitedsubcellularresolution,werenotincluded.
+(D)Analysisofannotationsformitochondrialproteins.Estimationofrecallandfalsediscoveryrate(FDR)ofmitochondrialannotationsindifferentlarge-scale
+datasets.Aground-truthreferenceofmitochondrialproteinsisdefinedusingtheMitoCartaandMitoCOPdatabases(seetextfordetails).Foreachdataset,all
+reportedmitochondrialannotationswereused(beforeanycurationthatmighthaveusedMitoCartaorMitoCOP),exceptforHPA,forwhich‘‘uncertain’’antibody
+annotationswerenotconsidered.SeeTableS5fordata.Inthisanalysis,wedefinedas‘‘unambiguouslymitochondrial’’thesetofproteinsannotatedas
+mitochondrialinbothMitoCartaANDMitoCOPdatabases(n=990).Theestimatedrecallisthefractionofthese990proteinsannotatedasmitochondrialinthe
+differentlarge-scaledatasets.Wealsodefinedas‘‘verylikelynotmitochondrial’’thesetofproteinsabsentfromBOTHMitoCartaandMitoCOPdatabases.The
+estimatedFDRisthefractionoftheseproteinsannotatedasmitochondrialinthedifferentlarge-scaledatasets.
+(E)Clusteringscores.Wemeasuredtwoclusteringscorescapturingproteinco-localizationatdifferentscales(seeSTARMethods):anorganelle-levelscore,
+usingannotationscuratedfromtheliterature(TableS2),andaprotein-complexscore,usingannotationsfromCORUM.55Theclusteringscoresmeasurethe
+extenttowhichproteinssharingagivenground-truthlabelformwell-delineatedclusters(seeindividualUMAPsinDataS1).Onlyproteinsthatareannotatedinall
+datasetswereconsideredforclusteringscorecalculation.Wealsoreporttheclusteringscoresforareducedversionofourdatasetinwhichonlyenrichmentfrom
+19singleIPswasused(oneIPpercompartmentclassfromFigure1D).ErrorbarsrepresentSEMofclusteringscorescalculatedover200class-balancingsets
+using10UMAPrandomseeds(STARMethods).Somearesmallerthanthesymbols.
+(F)UMAPscomparingourfulldatasettoitsreducedversion(oneIPpercompartmentclass).Organellarmarkerproteinscuratedfromtheliterature(TableS2)are
+label
+
+Chunk 84:
+esforareducedversionofourdatasetinwhichonlyenrichmentfrom
+19singleIPswasused(oneIPpercompartmentclassfromFigure1D).ErrorbarsrepresentSEMofclusteringscorescalculatedover200class-balancingsets
+using10UMAPrandomseeds(STARMethods).Somearesmallerthanthesymbols.
+(F)UMAPscomparingourfulldatasettoitsreducedversion(oneIPpercompartmentclass).Organellarmarkerproteinscuratedfromtheliterature(TableS2)are
+labeled.
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+(legendonnextpage)
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+FigureS4. De-orphaningsubcellularlocalization—imageanalysis,relatedtoFigure4
+(A)Proteinabundanceoftaggedproteins.Taggedproteinsfromthe31celllinesthatdisplayedenoughfluorescencetobeselectedbyflowcytometry(‘‘de-
+tected’’)displayedasignificantlyhigherexpressionlevelthantaggedproteinsfromthe51celllinesforwhichfluorescencecouldnotbedetected(seeFigure4A).
+Boxplotshows25th/50th/75thpercentiles;whiskersshow1.53interquartilerange.pvalue:Student’sttest.
+(B)Quantitativeimageanalysisstrategy:thesubcellulardistributionofeachtaggedorphanproteiniscomparedwithorganellemarkersfoundintheOpenCell
+imagecollection(usingaliterature-curatedlistofmarkers,seeTableS2).Thecytoselfdeeplearningmodelwasusedtoencodeimagesintolatentspace
+embeddings.Foreachpairwisecomparisonoforphanvs.markerproteins,thePearsoncorrelationbetweenembeddingsprovidesascorethatquantifiesthe
+similaritybetweentheproteins’subcellulardistributions.
+(C)DistributionofsimilarityscoresbetweentheorphanproteinNAT14andthecollectionofOpenCellorganellemarkers.ThehighestsimilarityscoreiswiththeER
+proteinCERS5(score:0.76),validatingourannotationofNAT14asanERprotein(right).
+(D)Heatmaprepresenting,foreachorphanprotein,themaximumsimilarityscorefoundwithmarkersinspecificorganelleclasses.Onlysimilarityscoresabove
+0.6arereported.Abbreviationsareasfollows:ER,endoplasmicreticulum;PM,plasmamembrane;EE,earlyendosome;lyso,lysosome;RE,recyclingendo-
+some;Nuc.Mb.,nuclearmembrane;ERGIC,ER-Golgiintermediatecompartment.
+(E)ConnectionsofTMEM209inthek-NNgr
+
+Chunk 85:
+fNAT14asanERprotein(right).
+(D)Heatmaprepresenting,foreachorphanprotein,themaximumsimilarityscorefoundwithmarkersinspecificorganelleclasses.Onlysimilarityscoresabove
+0.6arereported.Abbreviationsareasfollows:ER,endoplasmicreticulum;PM,plasmamembrane;EE,earlyendosome;lyso,lysosome;RE,recyclingendo-
+some;Nuc.Mb.,nuclearmembrane;ERGIC,ER-Golgiintermediatecompartment.
+(E)ConnectionsofTMEM209inthek-NNgraphsupportitslocalizationatthenuclearmembrane.ShownarethenormalizededgeweightswithTMEM209’s20
+nearestneighborsinthek-NNgraph.
+(F)Co-localizationoforphanproteins(mNeonGreenendogenoustag,green)withtherecyclingendosomemarkerRAB14(mScarlet-RAB14transienttransfection,
+magenta)imagedbyconfocalmicroscopy.Fluorescenceintensitiesalongthewhitelinesdrawnonindividualimagesareshownontherightpanel.
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+FigureS5. SubcellularremodelingduringOC43infection,relatedtoFigure5
+(A)PercentageofOC43-infectedcellsasafunctionoftime(hpi,hourspostinfection).CellswereinfectedataMOIof0.25atthebeginningoftheexperiment.
+Infectedcellsweredetectedbyimmunofluorescenceflowcytometryusingthemonoclonalanti-OC43antibody541-8F,exactepitopeunknown.
+(B)SetoforganelleIPmarkersincludedintheOC43infectionexperiments.TriplicateIPswereprocessedsidebysideforuninfectedandinfected(48hpiMOI=
+0.25)samplesforeachmarker.N/O/Cspinfractionswerealsoprocessedunderuninfectedandinfectedconditions.
+(C)Two-dimensionalUMAPofOC43-infectedorganelleprofilingdatasetshowingsubcellularterritoriesdefinedbylow-resolutionLeidenclustering.Thepositions
+ofvirallyencodedproteinsareshowninthemap.
+(D)Annotatedsubcellularlocalizationofvirallyencodedproteins,usingtheneighborhood-consensusannotationmethodshowninFigure2Cpanel5.
+(E)DistancesbetweenGolgiandlysosomalproteinsinalignedembeddingspacearesignificantlydecreaseduponinfection(p<0.01,Student’sttest).This
+indicatesthattheorganellarenrichmentprofilesforGolgiandlysosomalproteinsbecomemoresimilaruponinfection.Boxplotshows25th,50th,and75th
+percentiles;whiskersshow1.53in
+
+Chunk 86:
+alizationofvirallyencodedproteins,usingtheneighborhood-consensusannotationmethodshowninFigure2Cpanel5.
+(E)DistancesbetweenGolgiandlysosomalproteinsinalignedembeddingspacearesignificantlydecreaseduponinfection(p<0.01,Student’sttest).This
+indicatesthattheorganellarenrichmentprofilesforGolgiandlysosomalproteinsbecomemoresimilaruponinfection.Boxplotshows25th,50th,and75th
+percentiles;whiskersshow1.53interquartilerange.
+(F)SubcellularremodelingprofileoftheCOP-Isubunitsdetectedinourdataset.
+
+---PAGE BREAK---
+
+ll
+OPENACCESS Resource
+FigureS6. AbundancechangesandferroptosisactivationduringOC43infection,relatedtoFigure6
+(A)Whole-cellproteinabundancechangesuponOC43infection.Top:volcanoplotshowslog2enrichmentofindividualproteinsininfectedvs.uninfectedwhole-
+cellsamples.pvaluesarecalculatedfromattestusingtriplicateobservationsofeachsample.Bottom:log2enrichmentofindividualproteinsininfectedvs.
+uninfectedwhole-cellsamplesisplottedasafunctionofsubcellularremodelingscores(cf.Figures5Aand5B).
+(B)Whole-celltranscriptabundancechangesuponOC43infection.Top:volcanoplotshowslog2enrichmentofindividualtranscriptsininfectedvs.uninfected
+whole-cellsamples.pvaluesarecalculatedfromattestusingtriplicateobservationsofeachsample.Bottom:log2enrichmentofindividualtranscriptsininfected
+vs.uninfectedwhole-cellsamplesisplottedasafunctionofsubcellularremodelingscoresofcorrespondingproteins(cf.Figures5Aand5B).
+(legendcontinuedonnextpage)
+
+---PAGE BREAK---
+
+ll
+Resource OPENACCESS
+(C)FlowcytometryquantificationofOC43proteinlevels(anti-OC43monoclonalantibody541-8F,exactepitopeunknown)andFeRhoNox-1(5mM,ferroptosis
+reporter).Treatmentwiththeironchelatornitroxoline(12mM)ledtoasignificantdecreaseinthenumberofcellspositiveforbothOC43andFeRhoNox-1(sub-
+populationmarkedbyanasterisk).Infection:MOI=1,48hpi.
+(D)Measurementsofcellviability.Symbolsshowindependenttriplicateexperiments,barsshowSEM(somemightbesmallerthansymbols).
+(E)Whole-cellproteinabundancemeasuredbybulkproteomics.
+(F)Localk-NNnetworkscenteredonNCOA4inbo
+
+Chunk 87:
+porter).Treatmentwiththeironchelatornitroxoline(12mM)ledtoasignificantdecreaseinthenumberofcellspositiveforbothOC43andFeRhoNox-1(sub-
+populationmarkedbyanasterisk).Infection:MOI=1,48hpi.
+(D)Measurementsofcellviability.Symbolsshowindependenttriplicateexperiments,barsshowSEM(somemightbesmallerthansymbols).
+(E)Whole-cellproteinabundancemeasuredbybulkproteomics.
+(F)Localk-NNnetworkscenteredonNCOA4inbothinfectedanduninfectedconditions.SeealsoFigure6F.
+
+---PAGE BREAK---
+
+
+

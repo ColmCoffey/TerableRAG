@@ -1,0 +1,12 @@
+venv/
+venv311/
+.venv/
+Original_Documents/
+embeddings/
+chunked_pickle/
+chunked_texts/
+extracted_texts/
+.git/
+*.pyc
+__pycache__/
+.terraform/

@@ -1,0 +1,1184 @@
+HHS Public Access
+Author manuscript
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Published in final edited form as:
+Trends Neurosci. 2019 December ; 42(12): 899–912. doi:10.1016/j.tins.2019.10.002.
+Lysosomal Dysfunction at the Centre of Parkinson’s Disease
+and Frontotemporal Dementia/Amyotrophic Lateral Sclerosis
+Rebecca L. Wallings1,4,5, Stewart W. Humble2,3,5, Michael E. Ward3, Richard Wade-
+Martins2,*
+1Department of Physiology, Emory University, Decatur, GA, USA
+2Oxford Parkinson’s Disease Centre, Department of Physiology Anatomy and Genetics,
+University of Oxford, South Parks Road, Oxford, OX1 3QX, UK
+3National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda,
+MD, USA
+4Current address: Department of Neuroscience, Center for Translational Research and
+Neurodegenerative Disease, McKnight Brain Institute, University of Florida, Gainesville, FL, USA
+5These authors contributed equally to this work
+Abstract
+Parkinson’s disease (PD) and frontotemporal dementia/amyotrophic lateral sclerosis (FTD/ALS)
+are insidious and incurable neurodegenerative diseases that represent a significant burden to
+affected individuals, caregivers, and an ageing population. Both PD and FTD/ALS are defined at
+post mortem by the presence of protein aggregates and the loss of specific subsets of neurons. We
+examine here the crucial role of lysosome dysfunction in these diseases and discuss recent
+evidence for converging mechanisms. This review draws upon multiple lines of evidence from
+genetic studies, human tissue, induced pluripotent stem cells (iPSCs), and animal models to argue
+that lysosomal failure is a primary mechanism of disease, rather than merely reflecting association
+with protein aggregate end-points. This review provides compelling rationale for targeting
+lysosomes in future therapeutics for both PD and FTD/ALS.
+Do Lysosomes Have a Central Role in PD and FTD/ALS?
+PD is the second most common neurodegenerative disorder, affecting 1–2% of the
+population over the age of 65. The cardinal symptoms of PD result from the loss of
+dopaminergic neurons in the substantia nigra pars compacta (SNc; see Glossary), causing a
+loss of dopamine (DA) in the striatum. FTD and ALS are adult-onset neurodegenerative
+diseases that are closely related to each other both pathologically and genetically. Clinically,
+these two diseases appear distinct: FTD primarily affects cortical neurons in the frontal and
+temporal lobes, leading to various forms of dementia, language aphasias, and behavioural
+changes, whereas ALS is a disease of motor neurons, resulting in the gradual loss of
+voluntary muscle movement. These diseases have traditionally been defined by postmortem
+*Correspondence: richard.wade-martins@dpag.ox.ac.uk.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 2
+endpoints of specific neuronal loss and protein aggregates positive for α-synuclein (SCNA)
+for PD, and Tar DNA-binding protein 43 (TDP-43)/Tau/Fused in sarcoma (FUS) and/or
+ubiquitin for FTD/ALS. However, the discovery during the early 2010s that mutations in the
+gene encoding Chromosome 9 open reading frame 72 (C9ORF72) can cause both FTD and
+ALS [1,2] highlighted the underlying converging pathophysiology in FTD/ALS, at least in
+some of forms of these diseases.
+Lysosomes are cytoplasmic membrane-enclosed organelles containing hydrolytic enzymes
+that degrade macromolecules and cell components. Many factors regulate lysosomal
+function and subsequent protein degradation, including luminal pH and proteolytic enzyme
+activity, with lysosomal dysfunction leading to profound cellular consequences. Neurons are
+especially vulnerable to deficiencies in autophagy substrate clearance because, without the
+aid of cell division, they are largely dependent on autophagy to prevent the accumulation of
+cellular protein and damaged organelles. An emerging body of literature from cell biology,
+genetics, and genome-wide association studies (GWAS) has identified lysosomal failure as a
+principal cellular pathology in both PD and FTD/ALS. Here, we review data from genetic
+and clinical studies, as well as various models of disease. Together, these data support the
+concept that lysosome dysfunction is a fundamental cause of both PD and FTD/ALS, rather
+than simply reflecting association with the endpoint of disease in the form of protein
+aggregates. Finally, we discuss the potential for targeting the lysosome for future
+therapeutics for both familial and sporadic cases of PD and FTD/ALS.
+Clinical and Pathological Overlap between PD and FTD/ALS
+Parkinsonism is a common presentation of FTD/ALS and is reported in as many as 20% of
+patients [3]. Although the clinical features of parkinsonism seen in FTD/ALS are variable,
+the classic akinetic-rigid syndrome is usually present. A recent, comprehensive review of the
+literature suggested that, although C9ORF72 expansions are not an important genetic cause
+of PD, parkinsonism is a common phenotype in C9ORF72-related neurodegeneration [4].
+Also of note, mutations in MAPT on chromosome 17 encoding the protein tau were
+originally associated with FTD with parkinsonism linked to chromosome 17 (FTPD-17) [5].
+now considered part of the FTD spectrum of disorders [4]. Polymorphisms at the MAPT
+locus are associated with PD by GWAS and there is an emerging appreciation of tau
+neuropathology in PD at post mortem [5]. Interestingly, Richardson syndrome-like
+phenotype is characterised by asymmetric rigid-akinetic parkinsonism and supranuclear gaze
+palsy, and is most commonly observed in patients with FTD with mutations in MAPT [6]. It
+is also notable that parkinsonism in FTD/ALS, such as that seen with the mutations N267S
+and A315E in the TDP-43-encoding gene, TARDBP [6], can often be alleviated with
+levodopa, suggesting a role of striatal DA in this phenotype.
+The frequency of parkinsonism and differences in the cognitive and behavioural features of
+parkinsonism in clinical subtypes of FTD were recently evaluated in a nationwide hospital-
+based cohort established for the Clinical Research Centre for Dementia of South Korea
+(CREDOS)-FTD study [7]. Here, 40% of patients, of all FTD subtypes, presented with
+parkinsonism. Behavioural disturbances were significantly more pronounced in patients with
+parkinsonism than in those without. It has also been suggested that this worsening of
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 3
+behavioural symptoms in patients with FTD is a marker of progression of the pathology to
+subcortical structures involving basal ganglia. Indeed, imaging studies with functional
+magnetic resonance imaging (fMRI) and DA transporter single-photon emission computed
+tomography (DaT-SPECT) have demonstrated a positive correlation between nigrostriatal
+dopaminergic function and performance on tests in executive functioning and memory [8].
+Although the pathomechanism of parkinsonism in FTD is unknown, degeneration of striatal
+neurons and other subcortical structures has been demonstrated in pathological studies [9]
+(Figure 1).
+Parkinson’s Disease and Frontotemporal Dementia Genes Converge at the
+Lysosome
+Although age remains the greatest risk factor for developing sporadic PD, mutations in
+several genes have been found to cause autosomal dominant and autosomal recessive
+monogenic forms of PD, and many genetic variants that modulate the risk of idiopathic
+disease have been identified. Many of the PD-associated genes identified by familial
+Mendelian inheritance patterns, such as Leucine-rich repeat kinase 2 (LRRK2), ATP13A2,
+and SCNA, encode proteins that have been shown to have a role in lysosome homoeostasis
+and function (summarised in Table 1). A PD GWAS study in 2017 identified 17 new risk
+loci for PD, in addition to 24 that were previously described, and found candidate genes
+from associated regions to be enriched for roles in autophagic and lysosomal function [10].
+Most recently, 30 additional new risk loci for PD have been identified in the largest GWAS
+for PD to date [11]. Examples of new candidate genes include CLCN3, which encodes the H
++/Cl− lysosomal pump and causes a rare juvenile neuronal ceroid lipofuscinoses (NCL)
+when mutated [12] and MBNL2, an RNA-binding protein that has been shown to be
+functional in mTOR signalling [13]. Furthermore, a significant burden of rare lysosomal
+disorder gene variants associated with PD risk was recently discovered [14]. Interestingly,
+mutations in SMPD1, which encodes the lysosomal enzyme sphingomyelin
+phosphodiesterase 1, are increased in patients with PD [15].
+It is known that a large proportion of FTD/ALS-causing genes are related, either directly or
+indirectly, to pathways that maintain protein homeostasis via lysosomes and autophagy [16].
+Recent findings showing that the C9ORF72 protein localises to lysosomes and regulates the
+lysosomal/autophagy pathway through mTORC1 signalling adds to its importance in
+FTD/ALS pathology and expands its enigmatic role as a major cause of both FTD and ALS
+[17,18]. Several other familial FTD/ALS genes, such as GRN, TBK1, OPTN, CHMP2B,
+SQSTM1/p62, VCP/p97, and the risk factor TMEM106B centre around the lysosome and
+protein degradation, converging pathways with high relevance in neurodegeneration [19].
+Many genes associated with FTD/ALS, as well as PD, are also implicated in lysosomal
+storage disorders, such as ATP13A2, glucocerebroside (GCase; GBA), SMPD1, GRN, and
+GALC [12,20]. Furthermore, a recent report highlighted a childhood-onset
+neurodegenerative disorder occurring due to biallelic SQSTM1/p62 loss-of-function variants
+[21], expanding the SQSTM1/p62 phenotypic spectrum. Furthermore, among its many
+functions, SQSTM1/p62 has a central role in target specification for selective autophagy and
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 4
+in the ubiquitin-proteasome system (UPS) [43], identifying selective autophagy pathways as
+central to neurodegeneration.
+Using a recently developed Weighted Protein–Protein Interaction Network Analysis pipeline
+as a means to define affected biological processes, risk pathways have been identified in PD
+as well parkinsonian syndromes, including FTD [22]. In that report, waste disposal pathways
+were enriched in both PD and FTD, with FTD characterised by semantic classes, such as the
+‘ubiquitin proteasome system’, whereas PD was characterised by ‘autophagy’. Interestingly,
+familial forms of FTD/ALS with parkinsonism are most associated with genes implicated in
+lysosomal function, such as GRN, C9ORF72, CHMP2B, VCP [6], and CHCHD2/10 [23],
+providing additional evidence for lysosomal dysfunction as a possible link between these
+diseases.
+PD and FTD/ALS Mutations Perturb Lysosomal Biology
+Autophagic Flux and Protein Aggregation
+The presence of protein aggregates as the pathological hallmark of PD and FTD/ALS
+suggests early dysfunction of lysosomal degradation pathways and enzymes in both
+disorders. For example, increased cathepsin D immunoreactivity has been reported to
+precede the deposition of pathologic α-synuclein in post-mortem nigral neurons from
+patients with PD [24], implicating lysosomal perturbations before α-synuclein pathology is
+apparent. Previous evidence also suggests that progranulin, encoded by GRN, functions as a
+chaperone for cathepsin D in the lysosome, and that the two proteins have overall
+neurotrophic effects [25]. Finally, multiple autosomal recessive mutations in CTSD, which
+encodes the cathepsin D enzyme, have been identified in patients with neuronal ceroid
+lipofuscinoses (NCL) type 10, an aggressive neurodegenerative lysosomal storage disorder,
+connecting lysosomal dyshomeostasis with neurodegeneration [26,27].
+Genetic mutations associated with PD or FTD/ALS have been shown to be deleterious to
+autophagic flux and increase the formation of protein aggregates. For example, the
+expression of mutant GBA, the most common genetic risk factor for PD, promotes α-
+synuclein pathology and accumulation of glucosylsphingosine (GlcSph) in transgenic mice
+expressing both mutant human GBA and human SCNA [28]. This is consistent with GlcSph
+being the toxic lipid species in mutant GBA-associated PD through initiation of pathological
+α-synuclein aggregation. Interestingly, a cofactor required for the import of
+glucocerebrosidase into the lysosome, LIMP2, has been linked by GWAS to the risk of
+developing PD [29] and was also found increased in iPSC-derived dopaminergic neurons
+from patients carrying the GBA-N370S mutation [30].
+In another example, the protein encoded by ATP13A2, identified as the causative gene at the
+PARK9 locus [31], has been proposed to participate in protein degradation in lysosomes.
+Atp13a2 conditional knockout mice exhibit typical neuropathological phenotypes of the
+lysosomal storage disorder, NCL. Furthermore, an accumulation of the subunit c of
+mitochondrial ATP synthase was observed, accompanied by a delay in cathepsin D
+maturation [32]. Collectively, these data, coupled with the observation of increased
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 5
+mitochondrial damage and oxidative stress with ATP13A2 loss [33], suggest a role of
+ATP13A2 in lysosomal function and clearance of damaged mitochondria.
+Recent evidence has demonstrated protein accumulation in disease models of FTD/ALS.
+Knock down of C9orf72 inhibits autophagy induction and leads to p62 accumulation
+[34,35], as well as aggregation of TDP-43 [35]. iPSC-derived neurons from patients with
+C9ORF72 mutations were observed to have impaired basal autophagy [34,36], as well as
+increased sensitivity to autophagy inhibition [37]. C9ORF72, SQSTM1/p62, and FUS may
+also underpin a link to stress granule autophagy via a recognition cascade that, when
+defective, may lead to characteristic cytoplasmic protein inclusions seen in FTD/ALS [38].
+It has been demonstrated that α-synuclein fibrils recruit TANK-binding kinase 1 and
+optineurin, encoded by TBK1 and OPTN, respectively, to lysosomal damage sites and
+induce autophagy in microglial cells [39]. Interestingly, both proteins are also implicated in
+FTD/ALS, thus highlighting common pathways between PD and FTD/ALS.
+Another example of altered autophagic flux and protein aggregation can be seen with toxic
+gain-of-function mutations in PFN1. Mutations in PFN1, which encodes the actin monomer-
+binding protein, profilin 1, have been shown to cause ALS [40] and toxic gain-of-function
+mutations in PFN1 spur a cascade of misfolding, oligomerisation, and aggregation of mutant
+PFN1, leading to the formation of cytoplasmic aggregates of sequestered TDP-43 positive
+for p62 and ubiquitin [41,42]. Furthermore, lysosomal inhibition increases these cytoplasmic
+aggregates, highlighting the crucial role of the lysosome in clearing protein aggregates [42].
+Besides lysosomal dysfunction, disruption of protein clearance may also occur due to the
+disruption of cargo-specific delivery to the lysosome. As mentioned earlier, SQSTM1/p62
+has a central role in target specification for selective autophagy and in UPS [43]. Mutations
+in SQSTM1/p62 can be causal for both FTD and ALS, and its presence in protein inclusions
+is a pathognomonic signature in the disease spectrum [44]. Interestingly, there is growing
+evidence that SQSTM1/p62 has a key role in the clearance of insoluble MAPT/Tau protein
+species [45].
+Although the precise role of SQSTM1/p62 in FTD/ALS pathology is unclear, its mechanism
+appears to be centred around protein degradation and organelle quality control, along with
+another known FTD/ALS-causing gene, the AAA-ATPase known as p97 or vasolin-
+containing protein (VCP) [46]. Distinct knockout and mutant Vcp/p97 phenotypes include
+autophagic dysfunction and the mislocalisation of TDP-43 to the cytosol [47]. Recent
+findings have suggested that VCP/p97 has an important role in autophagosome maturation
+[48], mitochondrial quality control through UBXD1-mediated Parkin-dependent mitophagy
+[49,50], and the clearance of damaged lysosomes by the recruitment of the transient
+cofactors UBXD1, YOD1, and PLAA [51].
+Overall, it is evident that the lysosome has a crucial role in both PD and FTD/ALS. Various
+mechanisms underlying such dysfunction have been proposed with alterations in lysosomal
+pH, the importance of Rabs, and lysosomal dysfunction beyond macroautophagy forming
+emerging themes linking PD and FTD/ALS, as discussed here (summarised in Figure 2).
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 6
+Lysosomal pH
+Lysosomal function depends highly on maintaining an acidic luminal pH, with shifts in pH
+severely disrupting degradative enzyme activity. The PD-associated proteins LRRK2,
+TMEM175, and ATP13A2 have all been implicated in lysosomal pH regulation. The
+expression of the LRRK2-G2019S mutation has been shown to alter lysosomal pH and
+lysosomal protein degradation in a kinase-dependent manner in primary astrocytes [52].
+LRRK2 was recently described to directly interact with the a1 subunit of the vacuolar-type
+ATPase H+ pump, which maintains lysosomal pH [53]. Expression of the LRRK2-R1441C
+mutation completely abolishes this interaction, leading to the loss of lysosomal acidity,
+decreased autolysosome maturation, and protein degradation. Interestingly, the gene
+encoding the vATPase a1 subunit, ATP6V0A1, lies within a PD GWAS locus, further
+emphasising the genetic link between lysosomal pH and PD [10].
+TMEM175 is a late endosome and lysosomal K+ channel, and its deficiency in rat primary
+neurons results in an instability in lysosomal pH, decreased lysosomal catalytic activity, and
+impaired autophagosome clearance [54]. Furthermore, this deficiency was observed to
+decrease GCase activity, highlighting an interaction between PD risk factors. Interestingly, it
+was recently demonstrated that ATP13A2 regulates synaptomagin-11, encoded by the PD-
+risk gene SYT11, at both the translational and post-transcriptional levels. Specifically,
+ATP13A2 depletion leads to the degradation of synaptomagin-11 and subsequent lysosomal
+deacidification and accumulation of α-synuclein [55], highlighting the importance of
+lysosomal pH regulation in disease mechanisms.
+In FTD/ALS, cleaved granulins may have a role in lysosomal function by impairing the
+degradation of TDP-43 [56], which has also been shown to decrease autophagosome–
+lysosome fusion [57]. Indeed, it has been demonstrated that intracellular proteolysis of the
+progranulin protein generates stable, lysosomal granulins [58]. Furthermore, progranulin
+was recently implicated as a regulator of lysosomal acidification and biogenesis [59]. SNPs
+at the TMEM106B locus, encoding a transmembrane protein on the endolysosomal
+membrane, have been identified as risk alleles in FTD/ALS. Strikingly, the rare protective
+variant of TMEM106B (rs1990622), which encodes the T185S protein-coding change,
+reduces the risk of FTD in patients with concomitant GRN mutations by 50%, with GRN
+mutations being otherwise almost completely penetrant [60]. The TMEM106B protein has
+been shown to interact with vATPase accessory protein 2, and its deficiency leads to the
+downregulation of AP1 and V0 domain subunit expressions, as well as impaired lysosomal
+acidification [61]. As discussed earlier, the familial PD protein LRRK2 is also implicated in
+lysosomal pH via its interaction with vATPase subunits, highlighting convergent disease
+mechanisms. Furthermore, FTD/ALS causative mutations in CHMP2B impaired lysosomal
+trafficking, whereas reducing TMEM106B levels ameliorated these defects [62]. Given that
+TMEM106B polymorphisms may also be protective against FTD/ALS caused by GRN
+mutations, therapies targeting lysosomes and lysosomal trafficking represent a potentially
+promising approach for treating patients with FTD/ALS and/or PD.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 7
+Vesicular Trafficking and Rabs
+Rab GTPases are key organisers of intracellular membrane trafficking and have been heavily
+implicated in a range of neurodegenerative diseases (reviewed in detail in [63]), with PD and
+FTD/ALS-associated Rabs being functionally implicated at the lysosome (Figure 3). For
+example, recent studies identified a subset of Rab GTPases, including Rab3, Rab8, Rab10,
+Rab35, Rab39b, and Rab7L1, as bona fide substrates of LRRK2 in cells [64-68].
+Interestingly, Rab7L1 was shown to function in vivo in the maintenance of lysosomes in
+renal proximal tubule cells [69] and is also a candidate PD risk gene [69]. Rab7L1 has been
+shown to recruit LRRK2 to the trans-Golgi network [65,70], with deficiency in LRRK2
+leading to a defect in trans-Golgi to lysosome protein trafficking [71]. C9ORF72
+haploinsufficiency has also been demonstrated to result in dysfunctional trans-Golgi network
+disturbances and impaired vesicular trafficking due to a loss of Rab7L1 interactions [36],
+highlighting Rabs as a common pathological mechanism shared between PD and FTD/ALS.
+Increased Rab8 phosphorylation by LRRK2-Y1699C has been shown to cause increased
+lipid droplet size, a hallmark of cellular distress, which is mediated by lysosomes [72].
+Interestingly, upon lysosomal overload stress, LRRK2 is recruited to the lysosome,
+alongside Rab7L1, where it stabilises Rab8 and Rab10 through phosphorylation [73]. In the
+same study, it was also shown that the knockout of Lrrk2 increases vacuolisation and
+lipofuscin autofluorescence, indicating that Lrrk2 may protect against lysosomal
+enlargement and upregulates lysosomal secretion during lysosomal stress. Collectively, the
+data reported underscore a putative role of LRRK2, related Rab GTPases, and other effectors
+in the maintenance of lysosomal homeostasis. Identifying the specific mechanisms by which
+pathogenic LRRK2 mutations impact lysosomal dysfunction, and how this leads to
+neurodegeneration, will be important for future research.
+Interestingly, guanine nucleotide exchange factors (GEFs), which act upstream of Rabs by
+facilitating GDP/GTP exchange, have been implicated in FTD/ALS. Disease-associated
+GEFs have also been shown to interact with PD-associated Rabs. For example, C9ORF72
+was shown to act as a GEF complex for two PD-related Rab-GTPases: Rab39B [35,64] and
+Rab8a [35], a substrate of LRRK2 [66], as well as Rab1A [34], which acts to initiate
+autophagy. The PD-linked protein TMEM230 is also required for Rab8a-mediated retromer
+trafficking, and PD-related TMEM230 mutations induce autophagic dysfunction [74]. In
+addition, phosphoproteomic screening previously identified Rab8A as a downstream
+phosphorylation target of PINK1 [75].
+Rab35, in addition to being a LRRK2 substrate, has been shown to initiate endosomal
+sorting complexes required for transport (ESCRT) protein recruitment in response to
+neuronal firing [76]. This is of particular interest in FTD/ALS because charged
+multivesicular body protein 2B (CHMP2B) is a component of ESCRT-III, with several roles
+in maturing endosome and lysosome membrane dynamics [62], and may assist with synaptic
+vesicle recycling in this interaction. Another FTD/ALS-related GEF, ALS2, interacts with
+Rab5 and has been shown to impair autophagosomal maturation as well as endolysosomal
+trafficking [77]. Interestingly, the two leading genetic causes of PD and FTD/ALS, LRRK2
+and C9ORF72, are the most heavily implicated genes in the regulation of Rabs. This
+suggests a putative role of Rabs in lysosomal dysfunction seen in these diseases and
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 8
+highlights a potential therapeutic target that could benefit patients across a spectrum of
+neurodegenerative disorders.
+Cargo-Specific Autophagy
+The lysosome is the endpoint of several distinct cellular pathways, and its disruption can
+have profound effects beyond that of macroautophagy (Box 1). Mitophagy, a form of
+selective autophagy specific to recycling of mitochondria, is a key cellular pathway that may
+serve as a converging link between FTD/ALS and PD.
+Several genes causative for both PD and FTD/ALS intersect along the mitophagy pathway
+such as PINK1 and PARKIN with TBK1, OPTN, SQSTM1/p62, and, more recently, coiled-
+coil-helix-coiled-coil-helix domain containing 2 (CHCHD2) with CHCHD10. Under normal
+circumstances, TBK1 responds to PINK1/Parkin-induced mitochondrial ubiquitination by
+phosphorylating several downstream autophagy receptors, including OPTN [77] and p62
+[78]. In FTD/ALS, mutated TBK1 has been shown to inhibit mitophagy [79], and
+phosphorylation of OPTN at Ser473 enhances its binding to ubiquitin chains and its
+clearance of damaged mitochondria [78]. Although SQSTM1/p62 primarily targets protein
+aggregates to degradative pathways, it also associates with, and sequesters, depolarised
+mitochondria but, unlike TBK1 and OPTN, SQSTM1/p62 is not required for efficient
+clearance of damaged mitochondria [79,80]. In addition, PINK1/Parkin mitophagy has been
+well characterised in PD, as examined in detail in a recent review [81]. Of particular interest
+is the recently observed interaction between Rab7A, TBK1, and Parkin/PINK1-mediated
+mitophagy, whereby Rab7A depletion leads to defective Parkin-dependent mitophagy [82].
+Furthermore, Rab7A is a phosphorylation target of TBK1 at a homologous residue to the site
+phosphorylated by LRRK2 [83]. The major function associated with phosphorylation of
+Rabs by LRRK2 is altered membrane fusion rates due to increased Rab-membrane
+association [67]. Interestingly, similar effects were observed with phosphomimetic Rab7A
+[83]. Collectively, these data further strengthen the putative role of Rabs in lysosome
+dysfunction in FTD/ALS and PD.
+Recently, studies have sought to unravel the relationship between CHCHD2 (implicated in
+PD [84]) and CHCHD10 (implicated in FTD/ALS) [85]. Both of these proteins directly
+interact to form heterodimers in response to mitochondrial stress, with CHCHD10
+oligomerisation being dependent on CHCHD2 expression [86]. Mutations in CHCHD10
+induce TDP-43 cytoplasmic mislocalisation and potentially alter a protective nuclear
+transcription feedback loop comprising the mitochondrial targeted nuclear genes COX4.2,
+NDUFB3, and NDUFB6 [87]. Furthermore, complexes of CHCHD2 and CHCHD10 may
+have a role in efficient mitochondrial respiration and support, and it has been suggested that
+the stabilisation of CHCHD2 in response to mitochondrial depolarisation serves as a quality
+control pathway, in an independent pathway from PINK1/Parkin [86]. While the precise role
+of these proteins is still unknown, their function appears to be related to mitochondrial
+membrane potential, similar to mechanisms governing PINK1/Parkin mitophagy, and further
+implicates mitochondrial turnover as a central mechanism in PD and FTD/ALS disease
+processes. However, the focus should not be placed entirely on dysfunctional mitochondria,
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 9
+but rather on inoperative degradative pathways causing inadequate delivery of cargo or
+incomplete catabolism of damaged organelles at the lysosome.
+Lysosomes Provide a Novel Target for Potential Therapeutics for PD and
+FTD/ALS
+Previous reports have discussed targeting autophagy [88,89] and mitophagy induction [81]
+in the treatment of PD. However, the evidence implicating lysosomal dysfunction across PD
+and FTD/ALS presented in this review provide a compelling rationale for targeting the
+lysosome itself. Simply increasing the induction of autophagy might increase lysosomal
+stress and could, in fact, be deleterious by overloading the protein degradation system.
+Surprisingly, a recent study that used correlative light electron microscopy definitively
+showed that Lewy bodies in fact mainly comprise crowded lysosomes, autophagosomes, and
+lipids [90]. Furthermore, idiopathic PD brains have an accumulation of lysosomal proteins in
+the basal ganglia at post mortem [91], suggesting that lysosomal dysfunction has a role in
+not only familial PD, but also idiopathic and sporadic PD. For instance, it was shown that
+treatment with the lysosomal enzyme α-iduronate-2-sulfatase reduced oxidised DA levels in
+iPSC-dopaminergic neurons from patients with familial PD and idiopathic PD [92].
+One potential approach in targeting the lysosome would be the use of small molecules
+capable of modulating lysosomal properties, such as pH. Sandor et al. used a novel approach
+that combined the use of transcriptomics and Connectivity Map data to identify candidate
+drugs capable of ameliorating genetic perturbations associated with LRRK2 mutations [93].
+One small molecule identified was the zinc/copper ionophore, clioquinol. This molecule was
+then shown to increase autolysosome maturation and lysosome acidity in neurons expressing
+the LRRK2-R1441C mutation, via the stabilisation of the v-ATPase proton pump [53]. Such
+approaches have potential for identifying candidate drugs for repurposing as a lysosome
+target in both PD and FTD/ALS. Another potential target for small molecules is the
+modulation of lysosomal calcium levels and local calcium release, which are altered in
+various models of both PD and FTD/ALS [53,94]. For example, the TRPML1 agonist,
+MLSA1, has been shown to rescue lysosomal dysfunction in vitro [95]. In addition, the
+small-molecule modulator of GCase, NCGC00188758, enhances the clearance of α-
+synuclein in iPSC-dopaminergic neurons from patients harbouring SCNA, GBA, or
+ATP13A2 mutations, as well as from patients with idiopathic PD [96]. Given that mutations
+in both GBA and LRRK2 are risk factors for sporadic PD, and that shared molecular
+mechanisms underlying sporadic and familial PD have been identified, targeting these two
+proteins may ameliorate lysosomal deficits present in most patients with PD.
+However, although pharmacological strategies might be beneficial, issues such as blood–
+brain barrier penetration and lack of specificity may hinder their application in the clinic.
+The use of nanoparticles to deliver therapeutics is an attractive concept, because this
+approach can deliver drugs to specific tissues and provide controlled-release therapy.
+Poly(DL-lactide-co-glycolide) acid nanoparticles have been shown to restore impaired
+lysosomal function in several genetic in vitro models of PD [97]. Whether such
+nanotechnology-based strategies can be used in an in vivo setting remains to be determined.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 10
+Gene therapy also provides a potential means of improving current therapy for these
+diseases. While nondisease-modifying treatments to alleviate PD symptoms have shown
+promising results, no trial implementing disease-modifying therapies is yet to meet its
+primary endpoint [98]. Nonetheless, such approaches are attractive and demonstrate
+potential. For example, progranulin gene therapy was recently shown to improve lysosomal
+function in a mouse model of FTD, thereby supporting protein-boosting therapies for FTD
+[99].
+One consideration of targeting the lysosome for therapeutic purposes in these diseases is the
+potential deleterious consequences of boosting lysosomal function across the body. Several
+core functions of the lysosome, including its ability to be exocytosed and to scavenge
+nutrients from proteolytic degradation, become enhanced in cancer cells and contribute to
+cancer progression [100]. Such malignant adverse effects would need to be taken into
+consideration for potential future lysosome-targeting therapies to be beneficial.
+Concluding Remarks
+Patients with PD and FTD/ALS, and models of these diseases, display accumulation of
+lysosome-related proteins and alterations in protein clearance and lysosome homeostasis.
+Therefore, it is unsurprising that these two diseases were recently described as forms frustes
+of lysosome storage diseases [101]. The recent evidence discussed in this review has
+increased our understanding of how pathogenic PD and FTD/ALS mutations disrupt
+lysosome function.
+The evidence discussed herein also suggests that protein aggregates present in disease are
+primarily an outcome of upstream disease mechanisms, rather than being pathogenic
+themselves. The Bradford Hill criteria for causation defines nine criteria to provide
+epidemiological evidence of a causal relationship between a presumed cause and an
+observed effect [102]. These criteria were recently applied to records from 16 different
+studies on patients with PD, and only two of the nine criteria were satisfied [103]. These
+results indicate that human studies of protein aggregation in PD do not meet a minimum set
+of criteria to support a causal role of protein aggregates in disease. If protein aggregates are
+not directly causal, they may still contribute to neurodegeneration by accelerating disease, be
+epiphenomenon, or be protective by guarding against toxic soluble forms of proteins by
+sequestering them as insoluble forms. These frameworks are difficult to resolve because of
+the inability to probe brain tissue in real time and examine the potentially dynamic
+components in cellular proteostatic mechanisms and, therefore, remain a heavily debated
+topic in the field.
+Furthermore, if lysosomal dysfunction is indeed a convergent mechanism between PD and
+FTD/ALS, why do some patients develop PD and others FTD/ALS? One possibility is the
+idea of selective neuronal and regional vulnerability. Selective neuronal vulnerability refers
+to the fact that the pathology associated with the disease only affects particular neurons in
+particular regions of the brain, a characteristic of all neurodegenerative diseases. Critical and
+intrinsic pathways that are close to failure in the normal brain and that fail in the diseased
+brain have been suggested, including the endolysosomal system [104]. Selective neuronal
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 11
+vulnerability in different diseases may also involve neuron-specific combinations of
+dysfunction in other pathways, such as calcium signalling and mitochondria, aggravated by
+advancing age, gene predisposition, and environmental factors.
+Although lysosome disruption has been demonstrated in a large number of familial
+mutations, as well as sporadic cases, PD and FTD/ALS are heterogenous diseases.
+Parkinsonism is not a universal symptom seen in all patients with FTD/ALS, suggesting that
+there are diverging mechanisms between different subtypes of the disease, including
+involvement of the lysosome (see Outstanding Questions). Establishing which patients
+would benefit from early interventions targeting the lysosome, in a precision medicine
+approach, should be a consideration for future research. For example, the development of
+biomarkers to identify patients with underlying lysosomal disruption would help guide the
+implementation of future therapeutics targeting the lysosome. However, given the large
+number of cellular pathways that are regulated by, and converge on, the lysosome, it is
+possible that such therapeutics could benefit a large number of patients and have wider
+applicability.
+Acknowledgements
+This work was supported by the Monument Trust Discovery Award from Parkinson’s UK (Grant J-1403 to R.W-
+M.) and the Intramural Research Program, National Institute of Neurological Disorders and Stroke, and National
+Institute of Health, Betheseda, MD, USA (Grant 1ZIANS003155-03 to M.E.W.). R.W. held the Joan Pitts-Tucker/
+Moritz Studentship. We would like to thank Sahba Seddighi for her helpful comments during manuscript
+preparation.
+Glossary
+Chromosome 9 open reading frame 72 (C9ORF72)
+hexanucleotide GGGGCC repeat expansion in C9ORF72 was the first identified genetic link
+between FTD and ALS and is the most common mutation associated with familial FTD/
+ALS. The protein appears to function in the DNA damage response and autophagy, and
+functions as a GEF for GTPases.
+Dopamine (DA)
+neurotransmitter derived from tyrosine. It is released by dopaminergic neurons of the
+midbrain onto medium spiny neurons in the striatum (among other targets) to help regulate
+movement.
+Fused in sarcoma (FUS)
+a DNA/RNA-binding protein with a role in transcription regulation, RNA splicing, RNA
+transport, DNA repair, and the DNA damage response. Mutations in FUS have been linked
+to ALS, and FUS is a pathological hallmark in subgroups of patients with FTD with
+inclusions immunoreactive for both FUS and ubiquitin.
+Glucocerebroside (GCase; GBA)
+an enzyme that cleaves glucocerebroside, an intermediate protein in glycolipid metabolism.
+It is encoded by GBA. Patients homozygous for mutations in GBA have Gaucher’s disease,
+a lysosomal storage disease. A subset of patients with Gaucher’s disease exhibit
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 12
+parkinsonian symptoms. Individuals who carry a heterozygous GBA mutation have an
+increased risk of developing PD.
+Induced pluripotent stem cells (iPSCs)
+pluripotent cells derived from differentiated adult cells that can be manipulated to produce
+different cell types, including neurons.
+Leucine-rich repeat kinase 2 (LRRK2)
+a large multidomain protein with GTPase and kinase domains that has multiple intracellular
+roles, including the regulation of autophagy. It is encoded by LRRK2. Mutations in LRRK2
+cause familial PD, and polymorphisms in LRRK2 confer a risk of sporadic PD.
+Substantia nigra pars compacta (SNc)
+literally ‘black substance’, a region of the midbrain where pigmented neuromelanin-
+containing dopaminergic neurons are located. It is divided into two main parts: the pars
+compacta (SNc) and pars reticulata (SNr). Loss of dopaminergic neurons from the SNc is
+the pathological hallmark of PD. Lewy bodies and neurites are present in some of the
+remaining neurons in most cases of PD.
+α-Synuclein (SNCA)
+presynaptically enriched protein that acts in conjunction with SNARE proteins to regulate
+neurotransmitter release. It is the major component of two pathological hallmarks of PD:
+proteinaceous aggregates, termed Lewy bodies and Lewy neurites. The α-synuclein protein
+is encoded by SNCA.
+Tar DNA-binding protein 43 (TDP-43)
+a predominately nuclear-localised protein that binds to both DNA and RNA, with multiple
+functions in pre-mRNA splicing and translational regulation. A hyperphosphorylated and
+cleaved form of TDP-43 that mislocalises to the cytosol is a major pathological hallmark of
+FTD/ALS. TDP-43 is encoded by TARDBP.
+Tau
+a microtubule-associated protein that is present in the axons of neurons, and helps to
+regulate axonal transport. Tau protein is encoded by MAPT.
+References
+1. DeJesus-Hernandez M et al. (2011) Expanded GGGGCC hexanucleotide repeat in noncoding region
+of C9ORF72 causes chromosome 9p-linked FTD and ALS. Neuron 72, 245–256 [PubMed:
+21944778]
+2. Renton AE et al. (2011) A hexanucleotide repeat expansion in C9ORF72 is the cause of
+chromosome 9p21-linked ALS-FTD. Neuron 72, 257–268 [PubMed: 21944779]
+3. Kertesz AP et al. (2011) Extrapyramidal syndromes in frontotemporal degeneration. J. Mol.
+Neurosci 45, 336–342 [PubMed: 21887521]
+4. Bourinaris T and Houlden H (2018) C9orf72 and its relevance in parkinsonism and movement
+disorders: a comprehensive review of the literature. Mov. Disord. Clin. Pract 5, 575–585 [PubMed:
+30637277]
+5. Hutton M et al. (1998)Association of missense and 5′-splice-site mutations in tau with the inherited
+dementia FTDP-17. Nature 393, 702–705 [PubMed: 9641683]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 13
+6. Baizabal-Carvallo JF and Jankovic J (2016) Parkinsonism, movement disorders and genetics in
+frontotemporal dementia. Nat. Rev. Neurol 12, 175–185 [PubMed: 26891767]
+7. Park HK et al. (2017) Clinical characteristics of parkinsonism in frontotemporal dementia according
+to subtypes. J. Neurol. Sci 372, 51–56 [PubMed: 28017247]
+8. Lebedev AV et al. (2014) Large-scale resting state network correlates of cognitive impairment in
+Parkinson’s disease and related dopaminergic deficits. Front. Syst. Neurosci 8, 45 [PubMed:
+24765065]
+9. Lashley T et al. (2015) Review: an update on clinical, genetic and pathological aspects of
+frontotemporal lobar degenerations. Neuropathol. Appl. Neurobiol 41, 858–881 [PubMed:
+26041104]
+10. Chang D et al. (2017) A meta-analysis of genome-wide association studies identifies 17 new
+Parkinson’s disease risk loci. Nat. Genet 49, 1511–1516 [PubMed: 28892059]
+11. Nalls MA et al. (2019) Expanding Parkinson’s disease genetics: novel risk loci, genomic context,
+causal insights and heritable risk. bioRxiv. Published online 2 11, 2019. 10.1101/388165
+12. Platt FM et al. (2018) Lysosomal storage diseases. Nat. Rev. Dis. Primers 4, 27 [PubMed:
+30275469]
+13. Denis JA et al. (2013) mTOR-dependent proliferation defect in human ES-derived neural stem cells
+affected by myotonic dystrophy type 1. J. Cell Sci 126, 1763–1772 [PubMed: 23444380]
+14. Robak LA et al. (2017) Excessive burden of lysosomal storage disorder gene variants in
+Parkinson’s disease. Brain 140, 3191–3203 [PubMed: 29140481]
+15. Dagan E et al. (2015)The contribution of Niemann-Pick SMPD1 mutations to Parkinson disease in
+Ashkenazi Jews. Parkinsonism Relat. Disord 21, 1067–1071 [PubMed: 26169695]
+16. Ling S-C et al. (2013) Converging mechanisms in ALS and FTD: disrupted RNA and protein
+homeostasis. Neuron 79, 416–438 [PubMed: 23931993]
+17. Amick J and Ferguson SM (2017) C9orf72: at the intersection of lysosome cell biology and
+neurodegenerative disease. Traffic 18, 267–276 [PubMed: 28266105]
+18. Amick JA et al. (2016) C9orf72 binds SMCR8, localizes to lysosomes, and regulates mTORC1
+signaling. Mol. Biol. Cell 27, 3040–3051 [PubMed: 27559131]
+19. Wang C et al. (2018) Endo-lysosomal dysfunction: a converging mechanism in neurodegenerative
+diseases. Curr. Opin. Neurobiol 48, 52–58 [PubMed: 29028540]
+20. Li G et al. (2018) Association of GALC, ZNF184, IL1R2 and ELOVL7 With Parkinson’s disease
+in southern Chinese. Front. Aging Neurosci 10, 402 [PubMed: 30618709]
+21. Haak T et al. (2016) Absence of the autophagy adaptor SQSTM1/p62 causes childhood-onset
+neurodegeneration with ataxia, dystonia, and gaze palsy. Am. J. Hum. Genet 99, 735–743
+[PubMed: 27545679]
+22. Ferrari R et al. (2018) Stratification of candidate genes for Parkinson’s disease using weighted
+protein–protein interaction network analysis. BMC Genom. 19, 452
+23. Mao C et al. (2019) CHCHD10 is involved in the development of Parkinson’s disease caused by
+CHCHD2 loss-of-function mutation p.T61I. Neurobiol. Aging 75, 38–41 [PubMed: 30530185]
+24. Puska G et al. (2018) Lysosomal response in relation to alpha-synuclein pathology differs between
+Parkinson’s disease and multiple system atrophy. Neurobiol. Dis 114, 140–152 [PubMed:
+29505813]
+25. Beel S et al. (2017) Progranulin functions as a cathepsin D chaperone to stimulate axonal
+outgrowth in vivo. Hum. Mol. Genet 26, 2850–2863 [PubMed: 28453791]
+26. Thottath J et al. (2019) A novel cathepsin D mutation in 2 siblings with late infantile neuronal
+ceroid lipofuscinosis. Neurol. Genet 5, e302 [PubMed: 31086824]
+27. Ketterer S et al. (2017) Inherited diseases caused by mutations in cathepsin protease genes. FEBS
+J. 284, 1437–1454 [PubMed: 27926992]
+28. Taguchi YV et al. (2017) Glucosylsphingosine promotes alpha-synuclein pathology in mutant
+GBA-associated Parkinson’s disease. J. Neurosci 37, 9617–9631 [PubMed: 28847804]
+29. Do CB et al. (2011) Web-based genome-wide association study identifies two novel loci and a
+substantial genetic component for Parkinson’s disease. PLoS Genet. 7, e1002141 [PubMed:
+21738487]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 14
+30. Hugo et al. (2016) ER Stress and autophagic perturbations lead to elevated extracellular α-
+synuclein in GBA-N370S Parkinson’s iPSC-derived dopamine neurons. Stem Cell Rep. 6, 342–
+356
+31. Ramirez A et al. (2006) Hereditary parkinsonism with dementia is caused by mutations in
+ATP13A2, encoding a lysosomal type 5 P-type ATPase. Nat. Genet 38, 1184–1191 [PubMed:
+16964263]
+32. Sato S et al. (2016) Lysosomal storage of subunit c of mitochondrial ATP synthase in brain-specific
+Atp13a2-deficient mice. Am. J. Pathol 186, 3074–3082 [PubMed: 27770614]
+33. Holemans T et al. (2015) A lipid switch unlocks Parkinson’s disease-associated ATP13A2. Proc.
+Natl. Acad. Sci. U S A 112, 9040–9045 [PubMed: 26134396]
+34. Webster CP et al. (2016) The C9orf72 protein interacts with Rab1a and the ULK1 complex to
+regulate initiation of autophagy. EMBO J. 35,1656–1676 [PubMed: 27334615]
+35. Sellier C et al. (2016) Loss of C9ORF72 impairs autophagy and synergizes with polyQ Ataxin-2 to
+induce motor neuron dysfunction and cell death. EMBO J. 35, 1276–1297 [PubMed: 27103069]
+36. Aoki Y et al. (2017) C9orf72 and RAB7L1 regulate vesicle trafficking in amyotrophic lateral
+sclerosis and frontotemporal dementia. Brain 140, 887–897 [PubMed: 28334866]
+37. Almeida S et al. (2013) Modeling key pathological features of frontotemporal dementia with
+C9ORF72 repeat expansion in iPSC-derived human neurons. Acta Neuropathol. 126, 385–399
+[PubMed: 23836290]
+38. Chitiprolu M et al. (2018) A complex of C9ORF72 and p62 uses arginine methylation to eliminate
+stress granules by autophagy. Nat. Commun 9, 2794 [PubMed: 30022074]
+39. Bussi C et al. (2018) Alpha-synuclein fibrils recruit TBK1 and OPTN to lysosomal damage sites
+and induce autophagy in microglial cells. J. Cell Sci 131, jcs226241 [PubMed: 30404831]
+40. Wu C-H et al. (2012) Mutations in the profilin 1 gene cause familial amyotrophic lateral sclerosis.
+Nature 488, 499–503 [PubMed: 22801503]
+41. Nekouei M et al. (2018) Changes in biophysical characteristics of PFN1 due to mutation causing
+amyotrophic lateral sclerosis. Metab. Brain Dis 33, 1975–1984 [PubMed: 30203378]
+42. Tanaka Y et al. (2016) Gain-of-function profilin 1 mutations linked to familial amyotrophic lateral
+sclerosis cause seed-dependent intracellular TDP-43 aggregation. Hum. Mol. Genet 25, 1420–
+1433 [PubMed: 26908597]
+43. Danieli A and Martens S (2018) p62-mediated phase separation at the intersection of the ubiquitin-
+proteasome system and autophagy. J. Cell Sci 131, jcs214304 [PubMed: 30287680]
+44. Götzl JK et al. (2016) Impaired protein degradation in FTLD and related disorders. Ageing Res.
+Rev 32, 122–139 [PubMed: 27166223]
+45. Xu Y et al. (2019) The cargo receptor SQSTM1 ameliorates neurofibrillary tangle pathology and
+spreading through selective targeting of pathological MAPT (microtubule associated protein tau).
+Autophagy 15, 583–598 [PubMed: 30290707]
+46. Van Den Boom J and Meyer H (2018) VCP/p97-mediated unfolding as a principle in protein
+homeostasis and signaling. Mol. Cell 69, 182–194 [PubMed: 29153394]
+47. Ju J-S et al. (2009) Vasolin-containing protein (VCP) is required for autophagy and is disrupted in
+VCP disease. J. Cell Biol 187, 875–888 [PubMed: 20008565]
+48. Tresse E et al. (2010) VCP/p97 is essential for maturation of ubiquitin-containing autophagosomes
+and this function is impaired by mutations that cause IBMPFD. Autophagy 6, 217–227 [PubMed:
+20104022]
+49. Bento AC et al. (2018) UBXD1 is a mitochondrial recruitment factor for p97/VCP and promotes
+mitophagy. Sci. Rep 8, 12415 [PubMed: 30120381]
+50. Kim NC et al. (2013) VCP Is essential for mitochondrial quality control by PINK1/Parkin and this
+function is impaired by VCP mutations. Neuron 78, 65–80 [PubMed: 23498974]
+51. Papadopoulos C et al. (2017) VCP/p97 cooperates with YOD1, UBXD1 and PLAA to drive
+clearance of ruptured lysosomes by autophagy. EMBO J. 36, 135–150 [PubMed: 27753622]
+52. Henry AG et al. (2015) Pathogenic LRRK2 mutations, through increased kinase activity, produce
+enlarged lysosomes with reduced degradative capacity and increase ATP13A2 expression. Hum.
+Mol. Genet 24, 6013–6028 [PubMed: 26251043]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 15
+53. Wallings RN et al. (2019) LRRK2 interacts with the vacuolar-type H+-ATPase pump a1 subunit to
+regulate lysosomal function. Hum. Mol. Genet 28, 2696–2710 [PubMed: 31039583]
+54. Jinn S et al. (2017) TMEM175 deficiency impairs lysosomal and mitochondrial function and
+increases alpha-synuclein aggregation. Proc. Natl. Acad. Sci. U S A 114, 2389–2394 [PubMed:
+28193887]
+55. Bento CF et al. (2016) The Parkinson’s disease-associated genes ATP13A2 and SYT11 regulate
+autophagy via a common pathway. Nat. Commun 7, 11803 [PubMed: 27278822]
+56. Salazar DA et al. (2015) The progranulin cleavage products, granulins, exacerbate TDP-43 toxicity
+and increase TDP-43 levels. J. Neurosci 35, 9315–9328 [PubMed: 26109656]
+57. Xia Q et al. (2016) TDP-43 loss of function increases TFEB activity and blocks autophagosome-
+lysosome fusion. EMBO J. 35, 121–142 [PubMed: 26702100]
+58. Holler CJ et al. (2017) Intracellular proteolysis of progranulin generates stable, lysosomal
+granulins that are haploinsufficient in patients with frontotemporal dementia caused by GRN
+mutations. eNeuro 4, ENEURO.0100–17.2017
+59. Tanaka Y et al. (2017) Progranulin regulates lysosomal function and biogenesis through
+acidification of lysosomes. Hum. Mol. Genet 26, 969–988 [PubMed: 28073925]
+60. Pottier C et al. (2018) Potential genetic modifiers of disease risk and age at onset in patients with
+frontotemporal lobar degeneration and GRN mutations: a genome-wide association study. Lancet
+Neurol. 17, 548–558 [PubMed: 29724592]
+61. Klein ZA et al. (2017) Loss of TMEM106B ameliorates lysosomal and frontotemporal dementia-
+related phenotypes in progranulin-deficient mice. Neuron 95, 281–296 [PubMed: 28728022]
+62. Clayton EL et al. (2018) Frontotemporal dementia causative CHMP2B impairs neuronal
+endolysosomal traffic-rescue by TMEM106B knockdown. Brain 141, 3428–3442 [PubMed:
+30496365]
+63. Kiral FR et al. (2018) Rab GTPases and membrane trafficking in neurodegeneration. Curr. Biol 28,
+R471–R486 [PubMed: 29689231]
+64. Wilson G et al. (2014) Mutations in RAB39B cause X-linked intellectual disability and early-onset
+Parkinson disease with α-synuclein pathology. Am. J. Hum. Genet 95, 729–735 [PubMed:
+25434005]
+65. Liu Z et al. (2018) LRRK2 phosphorylates membrane-bound Rabs and is activated by GTP-bound
+Rab7L1 to promote recruitment to the trans-Golgi network. Hum. Mol. Genet 27, 385–395
+[PubMed: 29177506]
+66. Steger M et al. (2017) Systematic proteomic analysis of LRRK2-mediated Rab GTPase
+phosphorylation establishes a connection to ciliogenesis. eLife 6, e31012 [PubMed: 29125462]
+67. Steger M et al. (2016) Phosphoproteomics reveals that Parkinson’s disease kinase LRRK2
+regulates a subset of Rab GTPases. eLife 5, e12813 [PubMed: 26824392]
+68. Fujimoto T et al. (2018) Parkinson’s disease-associated mutant LRRK2 phosphorylates Rab7L1
+and modifies trans-Golgi morphology. Biochem. Biophys. Res. Commun 495, 1708–1715
+[PubMed: 29223392]
+69. Kuwahara T et al. (2016) LRRK2 and RAB7L1 coordinately regulate axonal morphology and
+lysosome integrity in diverse cellular contexts. Sci. Rep 6, 29945 [PubMed: 27424887]
+70. Purlyte E et al. (2018) Rab29 activation of the Parkinson’s disease-associated LRRK2 kinase.
+EMBO J. 37, 1–18 [PubMed: 29212815]
+71. Lanning NJ et al. (2018) LRRK2 deficiency impairs trans-Golgi to lysosome trafficking and
+endocytic cargo degradation in human renal proximal tubule epithelial cells. Am. J. Physiol. Renal
+Physiol 315, F1465–F1477 [PubMed: 30089035]
+72. Yu M et al. (2018) LRRK2 mediated Rab8a phosphorylation promotes lipid storage. Lipids Health
+Dis. 17, 34 [PubMed: 29482628]
+73. Eguchi T et al. (2018) LRRK2 and its substrate Rab GTPases are sequentially targeted onto
+stressed lysosomes and maintain their homeostasis. Proc. Natl. Acad. Sci. U S A 115, E9115–
+E9124 [PubMed: 30209220]
+74. Kim MJ et al. (2017) The Parkinson’s disease-linked protein TMEM230 is required for Rab8a-
+mediated secretory vesicle trafficking and retromer trafficking. Hum. Mol. Genet 26, 729–741
+[PubMed: 28115417]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 16
+75. Lai YC et al. (2015) Phosphoproteomic screening identifies Rab GTPases as novel downstream
+targets of PINK1. EMBO J. 34, 2840–2861 [PubMed: 26471730]
+76. Sheehan P et al. (2016) Activity-dependent degradation of synaptic vesicle proteins requires Rab35
+and the ESCRT pathway. J. Neurosci 36, 8668–8686 [PubMed: 27535913]
+77. Hadano S et al. (2010) Loss of ALS2/Alsin exacerbates motor dysfunction in a SOD1H46R-
+expressing mouse ALS model by disturbing endolysosomal trafficking. PLoS One 5, e9805
+[PubMed: 20339559]
+78. Richter B et al. (2016) Phosphorylation of OPTN by TBK1 enhances its binding to Ub chains and
+promotes selective autophagy of damaged mitochondria. Proc. Natl. Acad. Sci. U S A 113, 4039–
+4044 [PubMed: 27035970]
+79. Moore AS and Holzbaur EL (2016) Dynamic recruitment and activation of ALS-associated TBK1
+with its target optineurin are required for efficient mitophagy. Proc. Natl. Acad. Sci. U S A 113,
+E3349–E3358 [PubMed: 27247382]
+80. Wong YC and Holzbaur ELF (2014) Optineurin is an autophagy receptor for damaged
+mitochondria in parkin-mediated mitophagy that is disrupted by an ALS-linked mutation. Proc.
+Natl. Acad. Sci. U S A 111, E4439–E4448 [PubMed: 25294927]
+81. Miller S and Muqit MMK (2019) Therapeutic approaches to enhance PINK1/Parkin mediated
+mitophagy for the treatment of Parkinson’s disease. Neurosci. Lett 705, 7–13 [PubMed:
+30995519]
+82. Yamano K et al. (2018) Endosomal Rab cycles regulate Parkin-mediated mitophagy. eLife 7,
+e31326 [PubMed: 29360040]
+83. Heo JM et al. (2018) RAB7A phosphorylation by TBK1 promotes mitophagy via the PINK–
+PARKIN pathway. Sci. Adv 4, eaav0443 [PubMed: 30627666]
+84. Funayama M et al. (2015) CHCHD2 mutations in autosomal dominant late-onset Parkinson’s
+disease: a genome-wide linkage and sequencing study. Lancet Neurol. 14, 274–282 [PubMed:
+25662902]
+85. Chaussenot A et al. (2014) Screening of CHCHD10 in a French cohort confirms the involvement
+of this gene in frontotemporal dementia with amyotrophic lateral sclerosis patients. Neurobiol.
+Aging 35, 2884.e1–2884.e4 [PubMed: 25155093]
+86. Huang X et al. (2018) CHCHD2 accumulates in distressed mitochondria and facilitates
+oligomerization of CHCHD10. Hum. Mol. Genet 27, 3881–3900 [PubMed: 30084972]
+87. Woo J-AA et al. (2017) Loss of function CHCHD10 mutations in cytoplasmic TDP-43
+accumulation and synaptic integrity. Nat. Commun 8, 15558 [PubMed: 28585542]
+88. Liu JW et al. (2019) Balancing apoptosis and autophagy for Parkinson’s disease therapy: targeting
+BCL-2. ACS Chem. Neurosci. 10, 792–802
+89. Rivero-Rios P et al. (2016) Targeting the autophagy/lysosomal degradation pathway in Parkinson’s
+disease. Curr. Neuropharmacol 14, 238–249 [PubMed: 26517050]
+90. Shahmoradian SH et al. (2019) Lewy pathology in Parkinson’s disease consists of crowded
+organelles and lipid membranes. Nat. Neurosci 22, 1099–1109 [PubMed: 31235907]
+91. Mamais A et al. (2018) Analysis of macroautophagy related proteins in G2019S LRRK2
+Parkinson’s disease brains with Lewy body pathology. Brain Res. 1701, 75–84 [PubMed:
+30055128]
+92. Burbulla LF et al. (2017) Dopamine oxidation mediates mitochondrial and lysosomal dysfunction
+in Parkinson’s disease. Science 357, 1255–1261 [PubMed: 28882997]
+93. Sandor C et al. (2017) Transcriptomic profiling of purified patient-derived dopamine neurons
+identifies convergent perturbations and therapeutics for Parkinson’s disease. Hum. Mol. Genet 26,
+552–566 [PubMed: 28096185]
+94. Feng X and Yang J (2016) Lysosomal calcium in neurodegeneration. Messenger 5, 56–66
+[PubMed: 29082116]
+95. Fernandez-Mosquera L et al. (2019) Mitochondrial respiratory chain deficiency inhibits lysosomal
+hydrolysis. Autophagy, 1–20
+96. Mazzulli JR et al. (2016) Activation of β-glucocerebrosidase reduces pathological α-synuclein and
+restores lysosomal function in Parkinson’s patient midbrain neurons. J. Neurosci 36, 7693–7706
+[PubMed: 27445146]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 17
+97. Bourdenx M et al. (2016) Nanoparticles restore lysosomal acidification defects: implications for
+Parkinson and other lysosomal-related diseases. Autophagy 12, 472–483 [PubMed: 26761717]
+98. Axelsen TM and Woldbye DPD (2018) Gene therapy for Parkinson’s disease, an update. J.
+Parkinsons Dis 8, 195–215 [PubMed: 29710735]
+99. Arrant AE et al. (2018) Progranulin gene therapy improves lysosomal dysfunction and microglial
+pathology associated with frontotemporal dementia and neuronal ceroid lipofuscinosis. J. Neurosci
+38, 2341–2358 [PubMed: 29378861]
+100. Lawrence RE and Zoncu R (2019) The lysosome as a cellular centre for signalling, metabolism
+and quality control. Nat. Cell Biol 21, 133–142 [PubMed: 30602725]
+101. Rogers MB (2017) Lysosomes Take Center Stage in Parkinson’s and Frontotemporal Dementia.
+Alzforum
+102. Hill AB (1965) The environment and disease: association or causation? Proc. R Soc. Med 58,
+295–300 [PubMed: 14283879]
+103. Espay AJ et al. (2019) Revisiting protein aggregation as pathogenic in sporadic Parkinson and
+Alzheimer diseases. Neurology 92, 329–337 [PubMed: 30745444]
+104. Fu HJ et al. (2018) Selective vulnerability in neurodegenerative diseases. Nat. Neurosci 21, 1350–
+1358 [PubMed: 30250262]
+105. Wong YCD et al. (2018) Mitochondria-lysosome contacts regulate mitochondrial fission via
+RAB7 GTP hydrolysis. Nature 554, 382–386 [PubMed: 29364868]
+106. Ge W et al. (2015) The roles of lysosomes in inflammation and autoimmune diseases. Int. Rev.
+Immunol 34, 415–431 [PubMed: 25075736]
+107. He Y et al. (2011) Identification of a lysosomal pathway that modulates glucocorticoid signaling
+and the inflammatory response. Sci. Signal 4, ra44 [PubMed: 21730326]
+108. Dzamko NCL et al. (2015) Inflammation is genetically implicated in Parkinson’s disease.
+Neuroscience 302, 89–102 [PubMed: 25450953]
+109. Lu C-H et al. (2016) Systemic inflammatory response and neuromuscular involvement in
+amyotrophic lateral sclerosis. Neurol. Neuroimmunol. Neuroinflamm 3, e244 [PubMed:
+27308305]
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 18
+Highlights
+PD and FTD-associated genetic variants are heavily implicated in lysosome function;
+lysosomal disorder gene variants are associated with increased PD risk, and waste
+disposal pathways are enriched in both PD and FTD in weighted protein–protein
+interaction network analyses.
+Several PD and FTD-associated genes have now been implicated in the regulation of
+lysosomal pH, a potential underlying mechanism of lysosome dysfunction seen in PD
+and FTD.
+LRRK2 and C9ORF72, the leading genetic causes of PD and FTD, respectively, are both
+heavily implicated in the regulation of Rabs, suggesting a putative role of Rabs in
+lysosomal dysfunction in these diseases.
+Small molecules targeting the lysosome, capable of altering lysosomal pH, have been
+shown to reverse lysosome dysfunction in models of disease, highlighting future
+therapeutic targets and potentials.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 19
+Box 1.
+The Impact of Lysosome Dysfunction Beyond Protein Aggregation
+Protein degradation and aggregation are typically at the forefront of discussions regarding
+lysosomes in neurodegenerative diseases. This is perhaps not too surprising given that,
+for many years, the lysosome has been considered simply as a cellular waste-processing
+plant, where cargo delivered through autophagy pathways and the late endosomes is
+digested or recycled. However, lysosomes perform a range of functions implicated in a
+variety of cellular pathways, often performed in a cell-specific manner, and many of these
+cellular functions are relevant to both PD and FTD/ALS.
+For example, lysosomes are known to engage in physical contact with other organelles.
+Contact between the lysosome and mitochondria has been shown to regulate
+mitochondrial fission via Rab7 GTP hydrolysis [105]. These contact sites may
+additionally be implicated in metabolism, because lysosome-derived metabolites are
+transferred into the mitochondrial matrix, helping to fuel the tricarboxylic acid cycle
+[100]. Given that alterations in mitochondria and lysosomes are often present
+concomitantly in cells from patients with neurodegenerative conditions and from animal
+models of disease, there may be a close functional link between these two organelles in
+neurodegenerative diseases.
+The function of lysosomes in immune responses has also been recently highlighted,
+especially the contribution to macrophages in both innate and adaptive immune
+responses. Macrophages are phagocytic cells that ingest and digest pathogens, dead cells,
+and debris, and produce cytokines and chemokines to recruit other immune cells.
+Lysosomes, which are the destination of cells and pathogens engulfed by macrophages,
+have a crucial role in the processing and secretion of inflammatory signals. For instance,
+secretory lysosomes can secrete or degrade inflammatory cytokines to regulate the
+release of cytokines in the immune response [106]. In the adaptive immune system,
+lysosomal proteolysis generates peptides that bind major histocompatibility complex
+(MHC) molecules, which, in turn, allows for the presentation of information from
+pathogens to the T lymphocyte system [107]. Chronic inflammation is a common
+characteristic of both PD and FTD/ALS, with elevated levels of circulating inflammatory
+markers in patients with PD and FTD/ALS [108,109]. Although the involvement of
+lysosomes in this inflammatory component of disease remains to be elucidated, it is an
+intriguing area for future research.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 20
+Outstanding Questions
+Is lysosomal dysfunction the mechanism underlying the presence or absence of
+parkinsonism in subtypes of FTD/ALS?
+What makes different groups of neurons vulnerable in PD and FTD/ALS, given that
+lysosome dysregulation is implicated in both?
+Can biomarkers be developed to identify patients who would benefit most from early
+interventions targeting the lysosome?
+Would future clinical trials of lysosomal therapies require stratification of patients into
+those most vulnerable to lysosomal deficits?
+Does lysosome dysfunction have other cellular consequences beyond protein degradation,
+such as immune function, in PD and FTD/ALS?
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 21
+Figure 1. Frontotemporal Dementia/Amyotrophic Lateral Sclerosis (FTD/ALS) and Parkinson’s
+disease (PD) Brain Pathology.
+(A) FTD/ALS pathology is typically characterised by cortical and subcortical atrophy,
+enlarged ventricles and Tar DNA-binding protein 43 (TDP-43)/Tau/p62/Fused in sarcoma
+(FUS)-positive inclusions. (B) Protein aggregates in the form of Lewy bodies are the
+defining pathological hallmark of PD. Common pathology also exists between FTD/ALS
+and PD, with reactive gliosis and degeneration of the substantia nigra and nigrostriatal
+projections observed. Green, FTD/ALS; blue, PD; yellow, FTD/ALS and PD. Adapted from
+[6].
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 22
+Figure 2. Frontotemporal Dementia/Amyotrophic Lateral Sclerosis (FTD/ALS) and Parkinson’s
+disease (PD)-Associated Genes Converge on the Lysosome.
+Recent findings provide evidence for a role of both PD and FTD/ALS-associated genes in
+multiple aspects of lysosome biology, including (A) regulation of lysosomal pH, (B)
+lysosomal calcium release, (C) mitophagy and selective autophagy, (D) protein quality
+control and macroautophagy, (E) the endolysosomal pathway, and (F) trans-Golgi-lysosome
+trafficking. Blue boxes, PD; green boxes, FTD/ALS. Abbreviations: APh, autophagosome;
+C9ORF72, chromosome 9 open reading frame 72; CHCHD2/10, coiled-coil-helix-coiled-
+coil-helix domain containing 2/10; CHMP2B, charged multivesicular body protein 2B; EE,
+early endosomes; FUS, fused in sarcoma; LE, late endosomes; LRRK2, Leucine-rich repeat
+kinase 2; MVB, multivesicular body; Ph, phagophore; SNCA, α-synuclein; TDP-43, Tar
+DNA-binding protein 43; VCP, vasolin-containing protein.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Wallings et al. Page 23
+Figure 3. Rab Proteins Have Convergent Roles in Frontotemporal Dementia/Amyotrophic
+Lateral Sclerosis (FTD/ALS) and Parkinson’s disease (PD).
+Rab proteins are heavily implicated in both FTD/ALS and PD, being shown to interact with
+several disease-associated proteins in a number of pathways that converge on the lysosome.
+(A) Leucine-rich repeat kinase 2 (LRRK2) mediates lipid droplet formation via Rab8. (B)
+Compartmentalisation and trafficking of lysosomal enzymes and membrane proteins in the
+trans-Golgi to the lysosome is crucial for lysosome function and is modulated by LRRK2,
+TMEM230 and chromosome 9 open reading frame 72 (C9ORF72) via their interaction with
+Rab proteins. (C) Effective lysosome exocytosis during stress-induced lysosome overload is
+key to cell survival and has been shown to be mediated by LRRK2 and its substrates,
+Rab7L1, Rab10, and Rab8. (D) C9ORF72 has been shown to act as a guanine exchange
+factor (GEF) for several Rab proteins implicated in autophagosome formation. (E) Both PD
+and FTD/ALS-associated proteins have been shown to modulate different stages of the
+endolysosomal pathway via their interactions with Rabs, intersecting at both early
+endosomes (EE) and recycling endosomes (RE). Blue boxes, PD; green boxes, FTD/ALS.
+Abbreviation: APh, autophagosome.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+
+---PAGE BREAK---
+
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Wallings et al. Page 24
+Table 1.
+Genes and Risk Factors Associated with PD and FTD/ALS That Have Been Implicated in Lysosomal
+a
+Function
+Gene Inheritance Pathology Functions implicated at lysosome
+SNCA (PARK1/4) AD Early-onset, severe PD with Lewy bodies Recruits FTD/ALS-associated proteins to lysosomal
+damage sites
+Parkin (PARK2) AR Early-onset PD with slow progression and no Ubiquitin ligase that catalyses ubiquitin transfer to
+Lewy bodies in most cases mitochondria for mitophagy
+PINK1 (PARK6) AR Early-onset PD with slow progression and Has an essential role in mitophagy
+Lewy body pathology
+LRRK2 (PARK8) AD Typical, late-onset PD with Lewy bodies Regulates lysosomal pH via vATPase a1 subunit;
+regulates lysosome to trans-Golgi trafficking and
+lysosome homeostasis maintenance via Rab
+phosphorylation
+ATP13A2 AR Juvenile-onset atypical parkinsonism Regulates lysosome pH via SYT11 and is functional in
+(PARK9) (Kufor–Rakeb); pathology demonstrates the clearance of damaged mitochondria
+ceroid lipofuscinosis
+GBA N/A Typical, late-onset PD with Lewy bodies GBA mutations lead to accumulation of cholesterol in
+lysosomes and MLBs; modulating GCase activity boosts
+α-synuclein activity
+TMEM175 N/A PD; not yet described Regulates lysosomal pH
+VPS35 (PARK17) AD Typical, late-onset PD with unknown Role in endosome–Golgi complex trafficking; mutations
+pathology impair autophagy
+TMEM230 N/A Typical, late-onset PD with unknown Mutations induce autophagic dysfunction
+pathology
+C9ORF72 AD Adult-onset ALS/FTD with ubiquitin/p62/ Regulates autophagy induction and stress granule
+TDP-43/FUS proteinopathy autophagy; acts as a GEF for 2 PD-related Rab-GTPases
+GRN AD FTLD-TDP with ubiquitin/p62/TDP-43 Chaperones cathepsin D and regulates lysosomal pH
+proteinopathy
+TBK1 AD Adult-onset ALS/FTD with ubiquitin/p62/ Required for efficient clearance of damaged
+TDP-43/FUS proteinopathy mitochondria and is recruited to lysosomes by α-
+synuclein
+OPTN AD Adult-onset FTD/ALS with unknown Required for efficient clearance of damaged
+pathology mitochondria and is recruited to lysosomes by α-
+synuclein
+CHMP2B AD Adult-onset FTD/ALS with TDP-43/ Regulates lysosomal trafficking and is an ESCRT-III
+ubiquitin proteinopathy component
+CHCH2/10 AD Late-onset PD or adult-onset FTD/ALS with Responsible for mitochondrial quality control
+unknown pathology
+TMEM106B N/A Adult-onset FTD with tau proteinopathy Interacts with vATPase accessory protein 2 and regulates
+lysosomal pH
+VCP AD FTD with TDP-43/ubiquitin proteinopathy Functional in autophagosome maturation and clearance
+of damaged lysosomes
+SQSTM1 AD Adult-onset FTD/ALS with TDP-43/ Targets protein aggregates for lysosomal degradation
+ubiquitin/FUS proteinopathy
+a
+Abbreviations: AD, autosomal dominant; AR, autosomal recessive.
+Trends Neurosci. Author manuscript; available in PMC 2020 December 01.
+
+---PAGE BREAK---
+

@@ -1,0 +1,1700 @@
+Chunk 1:
+Article https://doi.org/10.1038/s41467-022-34667-x
+’
+Metagenomics of Parkinson s disease impli-
+cates the gut microbiome in multiple disease
+mechanisms
+Received:8June2022 ZacharyD.Wallen 1,2,AyseDemirkan3,GuyTwa1,GwendolynCohen 1,2,
+MarissaN.Dean1,DavidG.Standaert 1,TimothyR.Sampson2,4&
+Accepted:1November2022
+HaydehPayami 1,2
+Checkforupdates Parkinson’sdisease(PD)maystartinthegutandspreadtothebrain.To
+investigatetheroleofgutmicrobiome,weconductedalarge-scalestudy,at
+hightaxonomicresolution,usinguniformstandardizedmethodsfromstartto
+end.Weenrolled490PDand234controlindividuals,conducteddeepshotgun
+sequencingoffecalDNA,followedbymetagenome-wideassociationstudies
+requiringsignificancebytwomethods(ANCOM-BCandMaAsLin2)todeclare
+diseaseassociation,networkanalysistoidentifypolymicrobialclusters,and
+functionalprofiling.Hereweshowthatover30%ofspecies,genesandpath-
+waystestedhavealteredabundancesinPD,depictingawidespreaddysbiosis.
+PD-associatedspeciesformpolymicrobialclustersthatgroworshrinktoge-
+ther,andsomecompete.PDmicrobiomeisdiseasepermissive,evidencedby
+overabundanceofpathogensandimmunogeniccomponents,dysregulated
+neuroactivesignaling,preponderanceofmoleculesthatinducealpha-
+synucleinpathology,andover-productionoftoxicants;withthereductionin
+anti-inflammatoryandneuroprotectivefactorslimitingthecapacityto
+recover.Wevalidate,inhumanPD,findingsthatwereobservedinexperi-
+mentalmodels;reconcileandresolvehumanPDmicrobiomeliterature;and
+provideabroadfoundationwithawealthofconcretetestablehypothesesto
+discerntheroleofthegutmicrobiomeinPD.
+Microbiotaarenecessaryforhumanhealth.Thegutmicrobiomeaid common metabolic (e.g., diabetes), inflammatory (inflammatory
+withdietarymetabolism,produceessentialmetabolitessuchasvita- bowel disease), neurologic (Parkinson’s disease) and developmental
+mins,maintaintheintegrityoftheintestinalbarrier,inhibitpathogens, disorders(autism)1.
+andmetabolizedrugsandtoxicants1.Thegutmicrobiomeregulates Parkinson’s disease (PD) is a progressively debilitating d
+
+Chunk 2:
+iomeaid common metabolic (e.g., diabetes), inflammatory (inflammatory
+withdietarymetabolism,produceessentialmetabolitessuchasvita- bowel disease), neurologic (Parkinson’s disease) and developmental
+mins,maintaintheintegrityoftheintestinalbarrier,inhibitpathogens, disorders(autism)1.
+andmetabolizedrugsandtoxicants1.Thegutmicrobiomeregulates Parkinson’s disease (PD) is a progressively debilitating disorder
+developmentandcontinuededucationofthehost’simmuneresponse thataffected4millionIndividualsintheyear2005andisprojectedto
+and nervous system by producing specific metabolites with far doubleto8.7millionindividualsbytheyear20303.Althoughhistori-
+reachingeffectssuchasthematurationandmaintenanceofmicroglia callydefinedasamovementdisorder,PDisamulti-systemicdisease4.
+inthebrain2.Animbalance(dysbiosis)inmicrobiomecompositionand Theearliestsignisoftenconstipationwhichcanprecedemotorsigns
+function can render host prone to disease. Studies in humans and bydecades4.Moreover,PDisetiologicallyheterogenous.Despitethe
+animalmodelshaverevealeddisease-relateddysbiosisinarangeof discoveryofseveralcausativegenes5,90susceptibilitylocispanning
+1DepartmentofNeurology,UniversityofAlabamaatBirmingham,Birmingham,AL35233,USA.2AligningScienceAcrossParkinson’s(ASAP)Collaborative
+ResearchNetwork,ChevyChase,MD20815,USA.3SurreyInstituteforPeople-CentredAI,UniversityofSurrey,Guildford,SurreyGU27XH,UK.4Departmentof
+CellBiology,EmoryUniversitySchoolofMedicine,Atlanta,GA30329,USA. e-mail:haydehpayami@uabmc.edu
+NatureCommunications|( 2022)1 3:6958 1
+;,:)(0987654321 ;,:)(0987654321
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+thehumangenome6,andmultipleenvironmentalriskfactors7,thevast 52%ofsubjectsweremen,48%werewomen.97%ofPDcasesand93%
+majorityofPDremainsidiopathic.ItisspeculatedthatPDiscausedby ofNHCwereover50yearsold.Theolderagesofthecontrolsinthis
+various combinations of genetic susceptibility and environmental study (mean 65.8±8.8) and their neurologically healthy status i
+
+Chunk 3:
+tps://doi.org/10.1038/s41467-022-34667-x
+thehumangenome6,andmultipleenvironmentalriskfactors7,thevast 52%ofsubjectsweremen,48%werewomen.97%ofPDcasesand93%
+majorityofPDremainsidiopathic.ItisspeculatedthatPDiscausedby ofNHCwereover50yearsold.Theolderagesofthecontrolsinthis
+various combinations of genetic susceptibility and environmental study (mean 65.8±8.8) and their neurologically healthy status is a
+triggers,althoughnocausativecombinationhasyetbeenidentified. unique addition tothe publicly available datasets.Allsubjects were
+Braak’shypothesis8thatnon-familialformsofPDstartinthegut fromasinglegeographicareaintheDeep-SouthUnitedStates(US),
+byapathogenisgainingincreasingsupport.Theconnectionbetween minimizingconfoundingbygeographicvariation.Fifty-fivepercentof
+PDandthegastrointestinal(GI)system,includingconstipation,com- NHCwerespousesandsharedenvironmentwithPD.Usinguniform
+promised gut barrier, and inflammation, has long been established. methods,wecollectedextensivemetadata(SupplementaryFig.1)and
+Alpha-synuclein pathology hasbeen detected in the gut of persons a stool sample from each subject, extracted DNA from stool and
+withPDatearlystages9,andthereisevidencefromimagingstudies conducted deep shotgun sequencing achieving average 50M raw
+thatinsomecasespathologymaystartinthegutandspreadtothe reads/sample.Thisdatasetisnewandispubliclyavailable.
+brain10.Inmice,itwasshownthatalpha-synucleinfibrilsinjectedinto
+gutinducealpha-synucleinpathologywhichspreadsfromguttobrain, Subjectcharacteristicsandmetadata
+andthatvagotomystopsthespread11.Inparallel,largeepidemiological Dataon53variableswereanalyzedtocharacterizethesubjects,andto
+studieshaveshownthatpersonswhohadcompletetruncalvagotomy identifydisease-associatedvariablesthatcouldpotentiallyconfound
+decadesearlierhadsubstantiallyreducedincidenceofPDlaterinlife9. downstreammetagenomicsanalyses(Table1).GIproblems,whichare
+Withaccumulatingevidenceimplicatingthegutasanoriginof well-knownfeaturesofPD,werereadilyevidentinthiscohor
+
+Chunk 4:
+iableswereanalyzedtocharacterizethesubjects,andto
+studieshaveshownthatpersonswhohadcompletetruncalvagotomy identifydisease-associatedvariablesthatcouldpotentiallyconfound
+decadesearlierhadsubstantiallyreducedincidenceofPDlaterinlife9. downstreammetagenomicsanalyses(Table1).GIproblems,whichare
+Withaccumulatingevidenceimplicatingthegutasanoriginof well-knownfeaturesofPD,werereadilyevidentinthiscohort.Con-
+PD, and the newly gained appreciation for the involvement of gut stipationwasmoreprevalentinPDcases(oddsratio(OR)=6.1,95%
+microbiomeinchronicdiseases,therehasbeenincreasinginterestin confidenceinterval (CI)=3.9–10, P=2E−19 for chronic constipation,
+decoding the connection between the gut microbiome and PD. In P=3E−6forBristolChartscore),andPDcasesreportedmoreGIdis-
+mice overexpressing the human alpha-synuclein gene, we have comfortthanNHC(OR=2.8,95%CI=1.8–4.2,P=3E−7).Comparedto
+shown that gut microbiome regulates alpha-synuclein-mediated NHC, PD cases had diminished intake of alcohol (OR=0.6, 95%
+pathophysiologies12. In another genetic model of PD (Pink1-/-), CI=0.4–0.8, P=3E−4) and foods in all five categories (fruits/vege-
+intestinal infection with Gram-negative bacterial pathogens was tables, animal products, nuts, yogurt, and grains), all reaching sig-
+shown to elicit an immune reaction that leads to neuronal degen- nificance(OR=0.6–0.7,P=0.002–0.05)exceptgrains(OR=0.8,95%
+erationandmotordeficits,andwhichcanbereversedwiththePD- CI=0.6–1.1, P=0.2). Use of laxatives (OR=3.8, 95% CI=2.4–6.4,
+medication, L-dopa13. In addition, we and others have found that, P=7E−10),painmedication(OR=1.6,95%CI=1–2.5,P=0.04),sleep
+curli,anamyloidogenicproteinproducedbyGram-negativeEscher- aid(OR=2,95%CI=1.4–2.9,P=7E−5),andmedicationfordepression/
+ichiacoli,inducesalpha-synucleinaggregationandacceleratesdis- anxiety/mood(OR=2.1,95%CI=1.4–3,P=7E−5)weremorecommon
+ease in the gut and neurodegeneration in the brain14–16. We have inPDthanNHC.ProbioticsupplementusewasmorecommoninNHC
+detected
+
+Chunk 5:
+cation(OR=1.6,95%CI=1–2.5,P=0.04),sleep
+curli,anamyloidogenicproteinproducedbyGram-negativeEscher- aid(OR=2,95%CI=1.4–2.9,P=7E−5),andmedicationfordepression/
+ichiacoli,inducesalpha-synucleinaggregationandacceleratesdis- anxiety/mood(OR=2.1,95%CI=1.4–3,P=7E−5)weremorecommon
+ease in the gut and neurodegeneration in the brain14–16. We have inPDthanNHC.ProbioticsupplementusewasmorecommoninNHC
+detected overabundance of opportunistic pathogens in the gut than PD (OR=0.6, 95% CI=0.4–0.9, P=0.02), which is noteworthy
+microbiomesofindividualswithPD17.Collectively,experimentaland becauseasthedatawillshow,BifidobacteriumandLactobacillusspe-
+human studies support Braak’s hypothesis that intestinal infection cies,whicharecommonconstituentsofcommercialprobiotics,were
+mayactasatriggeringeventinPD,butitisyettobeproventhat moreabundantinPDthanNHCmetagenomes.Variablesthatdiffered
+pathogens in human gut cause PD. Studies conducted on human inPDvs.NHCwereevaluatedaspotentialconfoundersindownstream
+fecalsampleshaveallfoundevidenceofdysbiosisinPDgutmicro- metagenomicsanalyses.
+biome but results on specific microorganisms that drive the dys-
+biosis havebeenmixed18–20. HumanstudiesofPDand microbiome PDandNHCmetagenomesdifferfromglobalscaletospecies-
+havehadlimitedsamplesizes,andallexcepttwo21,22werebasedon resolution
+16SrRNAgeneampliconsequencing(henceforth,16S)whichlimits Inter-individualdifferenceintheglobalcompositionofthegutmeta-
+resolutiontogenus-level.Metagenomics(studyofallgeneticmate- genome, beta-diversity, was significantly different in PD vs. NHC
+rialsampledfromacommunity)isanemergingfieldinmedicalsci- (P<1E−4,testedusingpermutationalmultivariateanalysisofvariance
+ence.Withdeepshotgunmetagenomicsequencing,themicrobiome (PERMANOVA)).Testofdispersionwasalsosignificant(P<1E−4,tes-
+cannowbestudiedinlarge-scalehumanstudiesathighresolutionof ted using permutational analysis of multivariate dispersion (PERM-
+speciesandgenes. DISP))indicatingthatthedifferenceinglobalcompositionofPDvs.
+H
+
+Chunk 6:
+eldinmedicalsci- (P<1E−4,testedusingpermutationalmultivariateanalysisofvariance
+ence.Withdeepshotgunmetagenomicsequencing,themicrobiome (PERMANOVA)).Testofdispersionwasalsosignificant(P<1E−4,tes-
+cannowbestudiedinlarge-scalehumanstudiesathighresolutionof ted using permutational analysis of multivariate dispersion (PERM-
+speciesandgenes. DISP))indicatingthatthedifferenceinglobalcompositionofPDvs.
+Herewepresentalarge-scalemetagenomicsanalysisofPDgut NHCisdrivenprimarilybydifferencesindispersion,ratherthandif-
+microbiome.Thisstudywasdesignedandexecutedbyasingleteamof ferencesinspatialmedians.Principalcomponentanalysis(PCA)plots
+investigators(NeuroGeneticsResearchConsortium,NGRC),enabling also show that PD metagenomes were visibly more dispersed than
+completecontroltoemploystate-of-the-artmethodsandensureuni- NHC(SupplementaryFig.2a,b).Resultswererobustwhenraretaxa
+formityfromstarttoend.Weconfirmthecommonfindingsfromprior (presentin<5%ofsamples)wereexcluded,yieldingP<1E−4forboth
+studies,resolvethemtospecieslevelandsolvetheinconsistenciesin PERMANOVAandPERMDISP.GreaterdispersionacrossPDmetagen-
+theliterature.Inaddition,owingtolargesamplesizeanddeepshotgun omesmayreflecttheheterogeneityofPD.PDisnotonedisease,and
+sequencing,wegenerateavastamountofnewinformation.Weshow eachdiseasemechanismmayhaveadifferentmicrobiomesignature.
+wide-spreaddysbiosisinPDmicrobiome,identifyspeciesthatdrive Atenterotypelevel,284PDand166NHCwereconfidentlyclassi-
+thedysbiosis,andbyfunctionalprofiling,nominatemicrobialgenes fiedasoneofthreeenterotypes:Prevotella,FirmicutesandBacteroides
+andpathwaysinthegutthatmaycontributetoPDmechanisms. (SupplementaryFig.2c).TheoverallenterotypedistributioninPDwas
+differentfromNHC(P=1E−4).SequentialtestingidentifiedFirmicutes
+Resultsanddiscussion enrichmentastheprimarydrivingforce(X2(2)=44.4),anddepletionof
+Alarge,newlyenrolled,anduniformlyassessedcohort Prevotella as secondary as it remained significant (X2(1)=3.7) after
+AsoutlinedinSTORMS23flowchart(Fig.1),thestu
+
+Chunk 7:
+hatmaycontributetoPDmechanisms. (SupplementaryFig.2c).TheoverallenterotypedistributioninPDwas
+differentfromNHC(P=1E−4).SequentialtestingidentifiedFirmicutes
+Resultsanddiscussion enrichmentastheprimarydrivingforce(X2(2)=44.4),anddepletionof
+Alarge,newlyenrolled,anduniformlyassessedcohort Prevotella as secondary as it remained significant (X2(1)=3.7) after
+AsoutlinedinSTORMS23flowchart(Fig.1),thestudyincludedanewly removing Firmicutes. Effect sizes were OR=2.4, 95% CI=1.5–3.9,
+enrolledcohortof490personswithPDand234neurologicallyhealthy P=1E−4, for Firmicutes, and a non-significant OR=0.66 (95%
+controls(NHC).ThesamplesizeiscomparabletoHumanMicrobiome CI=0.3–1.2,P=0.1)forPrevotellaafteradjustingforFirmicutes’effect.
+Project (HMP) which included 100 individuals with inflammatory Next, we attempted to identify the disease-associated species.
+bowel disease, 106 individuals with pre-diabetes and 242 healthy Including Bacteria, Archaea and Eukarya, we identified a total of
+adultsages18-40yearsold24.Definedbyself-reportedbiologicalsex, 2270speciesthatmappedtoatleastonemarkergene,719ofwhich
+NatureCommunications|( 2022)1 3:6958 2
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Fig.1|TheSTORMSflowchart.Followingreportingguidelinesforhuman personswithPD(a)andneurologicallyhealthycontrols(b),sequencingand
+microbiomeresearch23,weshowthestep-by-stepprocessbywhichthestudywas bioinformaticspipeline(c),andstatisticalanalyses(d,e).
+conducted,startingwithsubjectselection,enrollmentanddatacollectionfor
+passed stringent bioinformatic quality control (QC) thresholds of power was substantially reduced when testing all variables simulta-
+MetaPhlAn3 (default parameters: t = rel_ab, perc_nonzero=0.33, neously,toadegreethatspeciesthatwererareandhadsmalleranalytic
+statq=0.2, avoid_disqm=FALSE, stat=tavg_g, min_cu_len=2000, sample sizes lost signal all together. Nonetheless, we confirmed the
+unknown_estimation=FALSE).257specieswerepresentin≥5%ofsub- association of PD with 62 
+
+Chunk 8:
+as substantially reduced when testing all variables simulta-
+MetaPhlAn3 (default parameters: t = rel_ab, perc_nonzero=0.33, neously,toadegreethatspeciesthatwererareandhadsmalleranalytic
+statq=0.2, avoid_disqm=FALSE, stat=tavg_g, min_cu_len=2000, sample sizes lost signal all together. Nonetheless, we confirmed the
+unknown_estimation=FALSE).257specieswerepresentin≥5%ofsub- association of PD with 62 of 84 species (Table 2): 32 species were
+jects,i.e.,35%whichiscloselycomparabletoanotherlargestudy25.We associatedonlywithPD,whiletheother30wereassociatedwithPDand
+conductedanunbiasedmetagenome-wideassociationstudy(MWAS) oneormoreothervariables,mostcommonlyalcohol(avoidedbyPD)
+to testdifferentialabundances of species inPD vs. NHC, using two orlaxatives(frequentlyusedbyPD).
+statisticalmethods (MaAsLin2 and ANCOM-BC).We alsoconducted
+MWASatgenusleveltobeabletointerpretourresultsinthecontextof Networkanalysesrevealclustersofco-occurringandcompeting
+theexistingliterature.ThefullMWASresultsareprovidedinSupple- species
+mentary Data 1 and 2. We nominated a species or genus as PD- Wecalculatedpairwisecorrelation(r)inspeciesabundancesforPD
+associatedifitachievedsignificancebyMaAsLin2andANCOM-BC(i.e., metagenome using all 697 species detected in PD (Supplementary
+falsediscoveryrate(FDR)<0.05byoneandFDR≤0.1bytheother).By Data5),andforNHCmetagenomeusingall499speciesdetectedin
+thisstringentdefinition,84of257speciestestedwereassociatedwith NHC(SupplementaryData6).Weobservedbothpositiveandnegative
+PD:64achievedFDR<0.05bybothMaAsLin2andANCOM-BC,10had correlations throughout the metagenome, including PD-associated
+FDR<0.05 by MaAsLin2 and FDR≤0.1 by ANCOM-BC, and 6 had species.Positivecorrelationamongspeciessuggeststheytendtoco-
+FDR<0.05byANCOM-BCandFDR≤0.1byMaAsLin2(Fig.2).Ofthe84 occurinthesamesampleandtheirabundancesriseorfalltogether,
+PD-associatedspecies55wereenrichedand29weredepletedinPD whilenegativecorrelationsuggeststhat,withinasample,anincrease
+(Table2,Fig.3,SupplementaryFig.3).Of
+
+Chunk 9:
+ng PD-associated
+FDR<0.05 by MaAsLin2 and FDR≤0.1 by ANCOM-BC, and 6 had species.Positivecorrelationamongspeciessuggeststheytendtoco-
+FDR<0.05byANCOM-BCandFDR≤0.1byMaAsLin2(Fig.2).Ofthe84 occurinthesamesampleandtheirabundancesriseorfalltogether,
+PD-associatedspecies55wereenrichedand29weredepletedinPD whilenegativecorrelationsuggeststhat,withinasample,anincrease
+(Table2,Fig.3,SupplementaryFig.3).Ofthe107generatested,34 in the abundance of one species correlates with decrease in the
+wereassociatedwithPD:23wereenrichedand11weredepletedinPD abundanceofanother.Weusedpairwisecorrelationsreaching|r|>0.2
+(Table3).Thus,whethermeasuredatspeciesorgenuslevel,thedys- and permutation P<0.05 to create correlation networks and algor-
+biosis in the PD gut microbiome appears to involve about 30% of ithmicallydefinedclustersofcorrelatedspecies(Fig.4a,Supplemen-
+testedtaxa. taryFig. 4, Supplementary Data 7). We then mapped PD-associated
+Effectsizeswerelarge(Fig.3).Atoneendofthespectrum,Bifi- speciestothenetworks(Fig.4b,SupplementaryFig.4).
+dobacteriumdentiumwaselevatedby7-fold,Actinomycesorisby6.5- SpeciesthatshowedthegreatestincreaseinPDincludingBifido-
+fold,Streptococcusmutansby6-fold.Attheotherendofthespectrum, bacteriumdentium,Actinomycesoris,Streptococcusmutans,Lactoba-
+Roseburiaintestinaliswasreducedby7.5-fold,andBlautiawexleraeby cillus fermentum and several other Lactobacillus, Actinomyces, and
+5-fold.Overall,36%(30of84)ofPD-associatedspecieshadhigherthan Streptococcusspecieswerepositivelycorrelatedwitheachotherand
+two-fold change in abundance by both MaAsLin2 and ANCOM-BC, mappedtocluster#2ofthePDnetwork(Fig.4).Cluster#2included
+reflectinga100%to750%increaseordecreaseinPDvs.NHC. 41species,19wereassociatedwithPD:13enriched,6reducedinPD,all
+Theprimaryaimofthisstudywastogenerateafull,unalteredview connectedviapositiveandnegativecorrelations.Amongthemwere8
+ofthedysbiosisinPDgutmicrobiome.Tothatend,MWASanddown- Streptococcus species: 4 elevated and 4 reduced in PD. Notably,
+stream 
+
+Chunk 10:
+ster#2ofthePDnetwork(Fig.4).Cluster#2included
+reflectinga100%to750%increaseordecreaseinPDvs.NHC. 41species,19wereassociatedwithPD:13enriched,6reducedinPD,all
+Theprimaryaimofthisstudywastogenerateafull,unalteredview connectedviapositiveandnegativecorrelations.Amongthemwere8
+ofthedysbiosisinPDgutmicrobiome.Tothatend,MWASanddown- Streptococcus species: 4 elevated and 4 reduced in PD. Notably,
+stream analyses were adjusted only for technical variables (i.e., total Streptococcusmutans(elevatedinPD)wasnegativelycorrelatedwith
+sequence count per sample, and stool collection kit). Adjusting for Streptococcussp.A12(reducedinPD),whichalignswiththeoriginal
+variableslikeconstipation,whichareintrinsictoPD,wouldmasktheir characterizationofStreptococcussp.A12asanovelstrainthatinhibits
+effectinthefullviewthatweareaimingfor.However,assecondary the growth and signaling pathways of the pathogenic Streptococcus
+analyses, we investigated effects of age and sex, and explored con- mutans26.
+foundingbyextrinsicvariablesthathaddifferingfrequencies/distribu- Most of the species that were depleted in PD, including short-
+tions in PD vs. NHC, namely intake of alcohol, laxative, probiotics, chainfattyacid(SCFA)producingspeciesofRoseburia,Eubacterium,
+antihistamines,depression/anxiety/moodmedication,painmedication, Ruminococcus, and Faecalibacterium prausnitzii were positively cor-
+andsleepaid(Table1).Wetestedassociationofthe84species,thathad relatedwitheachotherandmappedtocluster#13ofthePDnetwork
+emergedfromMWAS,withPDwhileincludingageandsexinthemodel, (Fig.4).Moreover,decreasingabundancesofSCFAproducingspecies
+andallspeciesretainedsignificanceforassociationwithPDatFDR<0.1 werecorrelatedwithincreasingabundancesofBifidobacteriumspecies
+(SupplementaryData3).Next,were-testedthe84speciesinamodel (Fig. 4, Supplementary Data 5). These findings suggest competitive
+thatincludedtheextrinsicvariables(SupplementaryData4).Statistical interactionsoccurringinthedysbioticPDmicrobiome,bothatlarge
+NatureCommuni
+
+Chunk 11:
+ngspecies
+andallspeciesretainedsignificanceforassociationwithPDatFDR<0.1 werecorrelatedwithincreasingabundancesofBifidobacteriumspecies
+(SupplementaryData3).Next,were-testedthe84speciesinamodel (Fig. 4, Supplementary Data 5). These findings suggest competitive
+thatincludedtheextrinsicvariables(SupplementaryData4).Statistical interactionsoccurringinthedysbioticPDmicrobiome,bothatlarge
+NatureCommunications|( 2022)1 3:6958 3
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table1|Subjectcharacteristicsandmetadata
+Metadata PD NHC PDvs.NHC
+Nwithdata Summary Nwithdata Summary P OR[95%CI]
+statistics statistics
+Numberofsubjectswho 490 – 234 – – –
+passedQC
+1 Agea 490 68.7±8.5 234 65.8±8.8 5E–5 –
+2 Sex(N&%male)a 490 310(63%) 234 70(30%) 3E–17 4[2.9–5.7]
+3 Ancestry HispanicorLatino 477 9(2%) 224 3(1%) 0.76 1.4[0.3–8.2]
+4 Race(N&%White) 488 460(94%) 229 218(95%) 0.72 0.8[0.4–1.8]
+5 Jewish 457 6(1%) 223 3(1%) 1.00 1[0.2–6.1]
+6 Weight BMI 490 28±5.4 230 28.4±6.4 0.86 –
+7 Lost>10poundsinpastyearb 479 133(28%) 228 36(16%) 5E–4 2[1.3–3.2]
+8 Gained>10poundsinpastyear 472 88(19%) 228 40(18%) 0.76 1.1[0.7–1.7]
+9 Diet Fruitsorvegetables,daily 478 270(56%) 229 152(66%) 0.01 0.7[0.5–0.9]
+10 Poultry,beef,pork,seafood,or 480 273(57%) 229 158(69%) 2E–3 0.6[0.4–0.8]
+eggs,daily
+11 Nuts,daily 479 83(17%) 229 54(24%) 0.05 0.7[0.5–1]
+12 Yogurt≥fewtimesaweek 479 98(20%) 229 68(30%) 8E–3 0.6[0.4–0.9]
+13 Grains,daily 480 274(57%) 229 143(62%) 0.19 0.8[0.6–1.1]
+14 Alcohola 474 174(37%) 229 117(51%) 3E–4 0.6[0.4–0.8]
+15 Cigarettes,cigars,pipe 474 14(3%) 228 11(5%) 0.28 0.6[0.2–1.5]
+16 Caffeine 475 414(87%) 227 205(90%) 0.26 0.7[0.4–1.2]
+17 GIhealthdayofstoolcollection Constipationb 428 99(23%) 211 12(6%) 7E–9 5[2.6–10.2]
+18 Diarrhea 437 8(2%) 221 5(2%) 0.77 0.8[0.2–3.2]
+19 Abdominalpainb 448 42(9%) 219 6(3%) 1E–3 3.7[1.5–10.7]
+20 Excessgasb 445 66(15%) 220 18(8%) 0.02 2[1.1–3.6]
+21 Bloatingb 445 56(13%) 224 14(6%) 0.01 2.2[1.2–4.3]
+22 AnyoftheabovefiveGIitemsb 438 170(39%) 203 38(
+
+Chunk 12:
+feine 475 414(87%) 227 205(90%) 0.26 0.7[0.4–1.2]
+17 GIhealthdayofstoolcollection Constipationb 428 99(23%) 211 12(6%) 7E–9 5[2.6–10.2]
+18 Diarrhea 437 8(2%) 221 5(2%) 0.77 0.8[0.2–3.2]
+19 Abdominalpainb 448 42(9%) 219 6(3%) 1E–3 3.7[1.5–10.7]
+20 Excessgasb 445 66(15%) 220 18(8%) 0.02 2[1.1–3.6]
+21 Bloatingb 445 56(13%) 224 14(6%) 0.01 2.2[1.2–4.3]
+22 AnyoftheabovefiveGIitemsb 438 170(39%) 203 38(19%) 3E–7 2.8[1.8–4.2]
+23 Bristolstoolchartb 465 3.4±1.5 222 3.9±1.2 3E–6 –
+24 GIhealthpast3months Constipationb 468 208(44%) 225 26(12%) 2E–19 6.1[3.9–10]
+25 Diarrheab 464 35(8%) 223 28(13%) 0.05 0.6[0.3–1]
+26 GIdisease Colitis 475 59(12%) 224 20(9%) 0.20 1.4[0.8–2.6]
+27 Irritablebowelsyndrome 469 41(9%) 223 23(10%) 0.57 0.8[0.5–1.5]
+28 Crohn’sdisease 476 1(0.2%) 225 1(0.4%) 0.54 0.5[0–37.2]
+29 Inflammatoryboweldisease 473 10(2%) 223 6(3%) 0.60 0.8[0.3–2.7]
+30 Ulcers 478 8(2%) 226 1(0.4%) 0.28 3.8[0.5–170.6]
+31 Smallintestinebacterial 466 1(0.2%) 224 0(0%) 1.00 1.4[0.1–35.7]
+overgrowth
+32 Celiacdisease 477 2(0.4%) 224 0(0%) 1.00 2.4[0.1–49.4]
+33 GIcancerinthelast3months 464 1(0.2%) 219 0(0%) 1.00 1.4[0.1–35]
+34 AnyoftheeightGIitems 444 107(24%) 220 43(20%) 0.20 1.3[0.9–2]
+35 Medicationsattimeofstoolcol- Indigestion 471 172(37%) 224 77(34%) 0.61 1.1[0.8–1.6]
+36 lectionunlessnoted Antibiotics 478 37(8%) 227 15(7%) 0.65 1.2[0.6–2.4]
+37 Antibioticsinpast3months 471 116(25%) 225 59(26%) 0.64 0.9[0.6–1.3]
+38 Laxativesa 475 149(31%) 225 24(11%) 7E–10 3.8[2.4–6.4]
+39 Anti-inflammatory 469 158(34%) 221 66(30%) 0.34 1.2[0.8–1.7]
+40 Probioticsa 469 56(12%) 225 43(19%) 0.02 0.6[0.4-0.9]
+41 Radiationorchemotherapy 475 3(1%) 224 0(0%) 0.56 3.3[0.2–64.7]
+42 Bloodthinners 473 116(25%) 224 44(20%) 0.18 1.3[0.9–2]
+43 Cholesterol 476 202(42%) 224 97(43%) 0.87 1[0.7–1.3]
+44 Bloodpressure 476 234(49%) 225 119(53%) 0.37 0.9[0.6–1.2]
+45 Thyroid 476 82(17%) 225 45(20%) 0.40 0.8[0.5–1.3]
+46 AsthmaorCOPD 476 35(7%) 223 17(8%) 0.88 1[0.5–1.9]
+47 Diabetes 473 64(14%) 224 35(16%) 0.49 0.8[0.5–1.4]
+48 
+
+Chunk 13:
+diationorchemotherapy 475 3(1%) 224 0(0%) 0.56 3.3[0.2–64.7]
+42 Bloodthinners 473 116(25%) 224 44(20%) 0.18 1.3[0.9–2]
+43 Cholesterol 476 202(42%) 224 97(43%) 0.87 1[0.7–1.3]
+44 Bloodpressure 476 234(49%) 225 119(53%) 0.37 0.9[0.6–1.2]
+45 Thyroid 476 82(17%) 225 45(20%) 0.40 0.8[0.5–1.3]
+46 AsthmaorCOPD 476 35(7%) 223 17(8%) 0.88 1[0.5–1.9]
+47 Diabetes 473 64(14%) 224 35(16%) 0.49 0.8[0.5–1.4]
+48 Paina 474 110(23%) 224 36(16%) 0.04 1.6[1–2.5]
+49 Depression,anxiety,mooda 477 180(38%) 224 51(23%) 7E–5 2.1[1.4–3]
+50 Birthcontrolorestrogen 175 9(5%) 157 19(12%) 0.03 0.4[0.2–1]
+NatureCommunications|( 2022)1 3:6958 4
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table1(continued)|Subjectcharacteristicsandmetadata
+Metadata PD NHC PDvs.NHC
+Nwithdata Summary Nwithdata Summary P OR[95%CI]
+statistics statistics
+51 Antihistaminesa 477 80(17%) 224 73(33%) 5E–6 0.4[0.3–0.6]
+52 Co-Q10 477 61(13%) 225 32(14%) 0.63 0.9[0.5–1.5]
+53 Sleepaida 470 196(42%) 223 58(26%) 7E–5 2[1.4–2.9]
+Intotal,490PDand234neurologicallyhealthycontrol(NHC)subjectscompletedtheenrollmentprocessandwerestudied(seeSTORMsflowchartinFig.1).Metadatawerecollectedusingself-
+administeredquestionnaires(questionnairesareprovidedinSupplementaryFig.1).Here,weshowthedataon53variablesrelevanttogutmicrobiome.Nwithdata:numberofsubjectsforwhomdata
+onthespecifiedvariablewasavailable.Summarystatistics:distributionofthevariableinPDandNHC,measuredasmean±SDforcontinuousvariables,orthenumbersandpercentagesfor
+dichotomousvariables.Thefrequency/distributionofeachvariablewastestedfordifferencebetweenPDandNHC.P:uncorrected,two-sidedP-valueofthedifferencebetweenPDandNHC(more
+conservativethanmultipletestingcorrectedPbecausetheaimistoidentifypotentialconfounders)derivedfromFisher’sexacttestifvariablewascategorical,orWilcoxonrank-sumtestif
+quantitative.OR[95%CI]:oddsratioand95%confidenceintervalofthedifferencebetweenPDandNHC.
+a,bVariablesthatdifferedsignificantlyinPDvsNHC.
+aVariableswhoseeffectsonassociationofspecie
+
+Chunk 14:
+ted,two-sidedP-valueofthedifferencebetweenPDandNHC(more
+conservativethanmultipletestingcorrectedPbecausetheaimistoidentifypotentialconfounders)derivedfromFisher’sexacttestifvariablewascategorical,orWilcoxonrank-sumtestif
+quantitative.OR[95%CI]:oddsratioand95%confidenceintervalofthedifferencebetweenPDandNHC.
+a,bVariablesthatdifferedsignificantlyinPDvsNHC.
+aVariableswhoseeffectsonassociationofspecieswithPDwereinvestigatedbyaddingthemtoanalysisascovariates.
+bIntrinsictoPD(constipation,GIproblemsandweightlossarecommonfeaturesofPD);theywerenotincludedascovariatesbecauseadjustingforthemwouldhavemaskedapartofPD.Foodgroups
+werenottaggedbecause,althoughseveralreachedsignificances,theywerealllowerinPD,whichsuggestsPDsubjectseatlessfrequentlyofallfoodgroups.Takingbirthcontrolorestrogenwas
+alsonottaggedbecauseitwasexclusivetofemalesanduncommon.
+Fig.2|PD-associatedspeciesnominatedbyconsensusofMaAsLin2and other:68achievedFDR<0.05bybothmethods,10achievedANCOM-BCMaAsLin2
+ANCOM-BC.AnalysisincludedN=724biologicallyindependentsamplesfrom490 FDR<0.05byMaAsLin2andFDR≤0.1byANCOM-BC,and6achievedFDR<0.05by
+PDand234neurologicallyhealthycontrol(NHC)subjects.a257species(denoted ANCOM-BCandFDR≤0.1byMaAsLin2.Blue:abundanceissignificantlyelevatedin
+bycirclesintheplot)weretestedinmicrobiome-wideassociationstudy(MWAS) PD.Red:abundanceissignificantlyreducedinPD.Gray:notsignificantlyassociated
+withtwostatisticalmethods:MaAsLin2andANCOM-BC.Theresultsareshown withPD.VerticalandhorizontaldashedlinesdenotepointsonXandYaxesthat
+accordingtosignificance(−log10oftheFDR)achievedbyMaAslin2(Y-axis)vs correspondtoFDR=0.05.b,cVenndiagramssummarizingtheoverlapofspecies
+ANCOM-BC(X-axis).CorrespondinguntransformedFDRvaluesareprovidedin detectedbyMaAsLin2(dottedcircle)andANCOM-BC(solidcircle)atFDR≤0.1(b),
+parenthesesontheXandYaxesforeasierinterpretation.84specieswerenomi- andatFDR<0.05(c).
+natedasPD-associated,definedbyFDR<0.05byonemethodandFDR≤0.1bythe
+NatureCommunications|( 2022)1 3:6958 5
+
+---PAGE BREAK---
+
+Artic
+
+Chunk 15:
+.05.b,cVenndiagramssummarizingtheoverlapofspecies
+ANCOM-BC(X-axis).CorrespondinguntransformedFDRvaluesareprovidedin detectedbyMaAsLin2(dottedcircle)andANCOM-BC(solidcircle)atFDR≤0.1(b),
+parenthesesontheXandYaxesforeasierinterpretation.84specieswerenomi- andatFDR<0.05(c).
+natedasPD-associated,definedbyFDR<0.05byonemethodandFDR≤0.1bythe
+NatureCommunications|( 2022)1 3:6958 5
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table2|Identificationandcharacterizationof84PD-associatedspecies
+(i)PD-associatedspecies (ii)Prevalence (iii)MWASviaMaAsLin2 (iv)MWASviaANCOM-BC (v)Cluster# (vi)Analysisof
+confounding
+PD NHC FDR FC RAinNHC FDR FC BC-OA
+inNHC
+Acidaminococcusintestini 157 51 0.02 2.81 0.50% 0.02 3.26 13 11 PD+
+Actinomycesnaeslundii 77 19 0.02 1.41 <0.01% 0.05 1.57 2 2 PD++
+Actinomycesoris 269 76 3E−8 3.54 0.01% 2E−8 6.52 11 2 PD++,A-,P+,M+
+ActinomycesspHPA0247 126 31 5E−3 1.78 0.01% 5E−3 2.28 3 2 PD++
+ActinomycesspICM47 132 84 0.02 0.60 0.01% 0.01 0.40 18 2 L−−
+Actinomycessporaltaxon448 55 6 4E−3 1.47 <0.01% 4E−3 1.63 1 2 PD++
+Alistipesfinegoldii 399 175 0.04 2.14 0.91% 0.09 2.17 2666 13 PD++,M−
+Alistipesindistinctus 224 82 8E−3 2.50 0.06% 0.02 2.93 27 10 PD++,A+,P−
+Anaerostipeshadrus 337 187 2E−3 0.32 1.12% 4E−4 0.19 11565 13 PD−−,A+,M−
+BacteroidesfaecisCAG32 77 19 0.04 1.50 0.08% 0.04 1.92 2 5 PD++,A++
+Bifidobacteriumbifidum 153 54 0.03 2.48 0.37% 0.04 2.64 10 8 PD++,Pr++
+Bifidobacteriumbreve 78 26 0.05 1.59 0.05% 0.13 1.70 3 8 L+,P+
+Bifidobacteriumdentium 195 48 7E−7 4.08 0.09% 8E−8 7.06 6 2 PD++,A−
+Bifidobacteriumgallinarum 40 5 0.02 1.26 <0.01% 0.02 1.45 1 8 L++
+Bifidobacteriumlongum 402 173 0.03 2.34 1.53% 0.05 2.74 3887 8 A−,S+
+Bifidobacteriumpullorum 53 11 0.02 1.49 0.01% 0.02 1.76 2 8
+Bifidobacteriumsaeculare 35 4 0.02 1.27 <0.01% 0.03 1.38 1 8
+Blautiahansenii 78 59 0.02 0.53 0.07% 0.01 0.35 11 10 PD−−
+Blautiawexlerae 433 214 2E−5 0.26 2.83% 1E−5 0.20 53145 8 PD−−
+Butyricicoccuspullicaecorum 22 21 0.03 0.76 0.02% 0.03 0.57 2 none PD−
+C.Me
+
+Chunk 16:
+1.45 1 8 L++
+Bifidobacteriumlongum 402 173 0.03 2.34 1.53% 0.05 2.74 3887 8 A−,S+
+Bifidobacteriumpullorum 53 11 0.02 1.49 0.01% 0.02 1.76 2 8
+Bifidobacteriumsaeculare 35 4 0.02 1.27 <0.01% 0.03 1.38 1 8
+Blautiahansenii 78 59 0.02 0.53 0.07% 0.01 0.35 11 10 PD−−
+Blautiawexlerae 433 214 2E−5 0.26 2.83% 1E−5 0.20 53145 8 PD−−
+Butyricicoccuspullicaecorum 22 21 0.03 0.76 0.02% 0.03 0.57 2 none PD−
+C.Methanomassiliicoccus 45 9 0.03 1.34 0.01% 0.05 1.58 2 10 PD++
+intestinalis
+Christensenellaminuta 76 23 0.03 1.47 <0.01% 0.08 1.51 2 10 L+
+Cloacibacillusevryensis 102 29 8E−3 1.68 0.03% 0.01 2.24 3 10 PD++,M+
+Clostridiumhylemonae 34 5 0.02 1.23 <0.01% 0.07 1.31 1 none PD++
+Clostridiuminnocuum 373 160 0.02 1.97 0.16% 0.07 2.21 437 10
+Clostridiumleptum 432 174 1E−6 3.51 0.13% 3E−5 4.41 919 8 PD++
+ClostridiumspCAG299 68 52 2E−3 0.46 0.16% 3E-3 0.29 11 10 PD−−
+ClostridiumspCAG58 305 157 0.06 0.54 0.35% 0.05 0.37 1555 13 L−−,M−
+Collinsellamassiliensis 261 96 2E−3 1.84 <0.01% 8E−3 2.20 13 11 PD++,A+,P++
+Coprobacilluscateniformis 82 12 4E−4 1.90 <0.01% 2E−4 2.37 2 10 PD++,L++
+Dialisterinvisus 112 72 0.03 0.57 0.04% 0.02 0.36 19 9 PD−−
+Eisenbergiellatayi 266 100 2E−4 2.69 0.03% 2E−3 3.61 33 10 PD++,L++,M+
+Enormamassiliensis 128 38 0.03 1.60 0.04% 0.05 1.69 3 11 PD++,A+
+Enterococcusavium 53 1 5E−5 1.76 <0.01% 1E−6 2.60 1 8 PD++
+Enterococcusfaecium 63 11 0.03 1.40 0.05% 0.02 1.85 2 8
+Escherichiacoli 285 105 5E−3 2.47 0.87% 9E−3 4.03 105 6 PD++
+Eubacteriumcallanderi 79 20 0.03 1.44 0.01% 0.05 1.73 2 13 L+
+Eubacteriumeligens 234 132 0.10 0.56 0.50% 0.03 0.32 569 13 A++,M−−
+Eubacteriumhallii 331 176 0.08 0.59 0.72% 0.02 0.33 5441 13 A+
+Eubacteriumlimosum 81 23 0.01 1.59 <0.01% 0.04 1.67 2 none PD++
+Eubacteriumramulus 159 94 0.04 0.53 0.15% 0.03 0.35 62 13
+Eubacteriumrectale 390 206 0.01 0.36 4.04% 2E−3 0.24 28407 13 PD−
+EubacteriumspCAG38 189 117 0.01 0.41 0.20% 3E−3 0.24 163 13 L−
+Faecalibacteriumprausnitzii 447 216 5E−3 0.40 5.62% 3E−3 0.33 150387 13 PD−,A++,P−,M−−
+Fusicatenibactersacch
+
+Chunk 17:
+176 0.08 0.59 0.72% 0.02 0.33 5441 13 A+
+Eubacteriumlimosum 81 23 0.01 1.59 <0.01% 0.04 1.67 2 none PD++
+Eubacteriumramulus 159 94 0.04 0.53 0.15% 0.03 0.35 62 13
+Eubacteriumrectale 390 206 0.01 0.36 4.04% 2E−3 0.24 28407 13 PD−
+EubacteriumspCAG38 189 117 0.01 0.41 0.20% 3E−3 0.24 163 13 L−
+Faecalibacteriumprausnitzii 447 216 5E−3 0.40 5.62% 3E−3 0.33 150387 13 PD−,A++,P−,M−−
+Fusicatenibactersaccharivorans 350 192 5E−3 0.28 2.15% 6E−4 0.19 24835 13 PD-,A+,L−,M-
+Harryflintiaacetispora 143 47 0.04 1.50 <0.01% 0.09 1.69 5 13 PD++
+Hungatellahathewayi 264 98 5E−3 2.31 0.04% 0.01 2.90 32 10 PD+,A−,L++
+Klebsiellapneumoniae 143 47 0.02 1.97 0.55% 0.03 2.73 8 6 PD+,A−
+Klebsiellaquasipneumoniae 101 26 0.03 1.49 0.05% 0.02 2.27 3 6 PD+,A−−
+LachnoclostridiumspAn131 73 17 0.01 1.43 <0.01% 0.02 1.64 2 7 PD+,L++
+Lactobacillusfermentum 113 28 4E−3 2.18 0.05% 4E−3 2.70 3 2 PD+,A−,P++
+Lactobacillusgasseri 50 6 0.02 1.33 <0.01% 0.01 1.68 1 2 A−,P+
+NatureCommunications|( 2022)1 3:6958 6
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table2(continued)|Identificationandcharacterizationof84PD-associatedspecies
+(i)PD-associatedspecies (ii)Prevalence (iii)MWASviaMaAsLin2 (iv)MWASviaANCOM-BC (v)Cluster# (vi)Analysisof
+confounding
+PD NHC FDR FC RAinNHC FDR FC BC-OA
+inNHC
+Lactobacillusparagasseri 51 6 5E−3 1.58 0.01% 4E−3 1.82 1 2 PD++
+Lactobacillusreuteri 42 8 0.03 1.57 0.04% 0.05 1.57 1 8 PD+
+Lactobacillusrhamnosus 105 29 0.01 1.73 0.01% 0.02 2.15 3 8 PD+,A−,P+
+Lactobacillussalivarius 71 13 2E−3 1.88 0.01% 1E−3 2.31 2 2 PD++
+MegasphaeraspDISK18 52 7 5E−3 1.66 0.01% 4E−3 1.87 1 11 PD++,L++
+MegasphaeraspMJR8396C 83 16 0.02 1.88 0.10% 0.01 2.24 2 11 PD+
+Methanobrevibactersmithii 184 63 8E−3 2.63 0.25% 0.01 3.26 19 10 PD++,A+
+Monoglobuspectinilyticus 178 109 0.08 0.54 0.18% 0.02 0.32 125 1 L−
+Parabacteroidesdistasonis 435 195 0.03 2.16 1.98% 0.08 2.19 19641 1 PD++
+Porphyromonasasaccharolytica 51 8 5E−3 1.75 <0.01% 9E−3 1.64 1 17 PD++
+Prevotellacopri 157 103 0.03 0.44 3.52%
+
+Chunk 18:
+ 11 PD++,L++
+MegasphaeraspMJR8396C 83 16 0.02 1.88 0.10% 0.01 2.24 2 11 PD+
+Methanobrevibactersmithii 184 63 8E−3 2.63 0.25% 0.01 3.26 19 10 PD++,A+
+Monoglobuspectinilyticus 178 109 0.08 0.54 0.18% 0.02 0.32 125 1 L−
+Parabacteroidesdistasonis 435 195 0.03 2.16 1.98% 0.08 2.19 19641 1 PD++
+Porphyromonasasaccharolytica 51 8 5E−3 1.75 <0.01% 9E−3 1.64 1 17 PD++
+Prevotellacopri 157 103 0.03 0.44 3.52% 0.01 0.27 66 10 PD−,A+
+PseudoflavonifractorspAn184 69 19 0.03 1.50 0.01% 0.07 1.60 2 7 L++
+Roseburiafaecis 290 158 0.03 0.37 1.77% 0.01 0.25 2513 13
+Roseburiaintestinalis 294 170 2E−4 0.21 1.02% 3E−5 0.13 3731 13 PD−−,M−
+Roseburiainulinivorans 270 151 0.03 0.44 0.40% 0.01 0.28 921 13 A++,L−
+Rothiamucilaginosa 150 91 0.03 0.59 0.02% 0.01 0.41 22 2 PD−−
+RuminococcaceaebacteriumD5 161 38 5E−5 2.36 0.02% 2E−5 4.18 4 10 PD++,L−−
+Ruminococcusbicirculans 146 95 0.03 0.42 1.12% 9E−3 0.23 131 13 L−,P−,M−−
+Ruminococcuscallidus 17 22 4E−3 0.81 0.01% 3E−3 0.49 2 none PD−−
+Ruminococcuslactaris 115 88 2E−3 0.43 0.35% 4E−4 0.17 69 13 PD−−,P−
+Ruthenibacteriumlactatiformans 479 228 2E−6 2.17 0.50% 2E−3 1.89 28593 10 PD++,L++,M+
+Scardoviawiggsiae 50 5 2E−3 1.48 <0.01% 2E−3 1.65 1 2 PD++,P++,M+
+Streptococcusanginosusgroup 111 30 0.02 1.53 0.01% 0.01 2.06 3 2 PD+
+Streptococcusaustralis 40 46 2E−3 0.66 0.01% 2E−4 0.37 5 2 PD−−
+Streptococcusinfantis 27 23 0.13 0.84 <0.01% 0.02 0.64 2 2 PD−
+Streptococcuslutetiensis 36 5 0.05 1.33 0.07% 0.05 1.56 1 8 PD++
+Streptococcusmitis 67 48 0.02 0.68 0.01% 0.01 0.48 5 2 PD−−,L−−
+Streptococcusmutans 171 35 8E−7 3.11 0.04% 3E−8 5.76 4 2 PD++
+StreptococcusspA12 31 27 0.05 0.82 <0.01% 0.01 0.59 2 2 PD−
+Streptococcusvestibularis 185 60 0.02 1.65 0.06% 0.02 2.61 11 2 PD++
+Turicibactersanguinis 105 24 1E−3 2.14 0.01% 1E−3 2.57 2 12 PD++,A−,M−−
+Veillonelladispar 46 41 0.10 0.83 0.01% 9E−3 0.47 4 12
+Metagenome-wideassociationstudy(MWAS)wasconductedtotestdifferentialabundancesofmicrobialspeciesin490personswithPDvs.234neurologicallyhealthycontrols(NHC).While
+719specie
+
+Chunk 19:
+0.05 0.82 <0.01% 0.01 0.59 2 2 PD−
+Streptococcusvestibularis 185 60 0.02 1.65 0.06% 0.02 2.61 11 2 PD++
+Turicibactersanguinis 105 24 1E−3 2.14 0.01% 1E−3 2.57 2 12 PD++,A−,M−−
+Veillonelladispar 46 41 0.10 0.83 0.01% 9E−3 0.47 4 12
+Metagenome-wideassociationstudy(MWAS)wasconductedtotestdifferentialabundancesofmicrobialspeciesin490personswithPDvs.234neurologicallyhealthycontrols(NHC).While
+719speciesweredetectedandpassedQC,462wereexcludedfromMWASbecausetheywerepresentin<5%ofsubjects;henceMWASincluded257speciesthatwerepresentin≥5%ofsubjects
+(minimumanalyticN=37).Twostatisticalmethodswereused:MaAsLin2andANCOM-BC.Inbothweadjustedforstoolsamplecollectionmethodandtotalsequencecountpersample.(i)84species
+emergedfromMWASasPD-associated,basedonreachingsignificancebybothMaAsLin2andANCOM-BC(i.e.,FDR<0.05byonemethodandFDR≤0.1intheother).(ii)Prevalenceisthenumberof
+subjectsinwhomthespecieswasdetected(outof490PD,and234NHC).(iiiandiv)ForeachPD-associatedspecies,weshowtheresultsfromMaAsLin2andANCOM-BC,includingFDRforstatistical
+significanceofassociation,thefoldchange(FC)inabundanceofspeciesinPDvs.NHC,andtheabundanceofspeciesinNHC,whichisrelativeabundance(RA)forMaAsLin2,andsamplingbias-
+correctedobservedabundance(BC-OA)forANCOM-BC.Fullspecies-levelMWASresults,includingstandarderrors,areprovidedinSupplementaryData1.(v)NetworkanalysisrevealedthatPD-
+associatedspeciesarenotindependent.Theirabundancesarecorrelated(SupplementaryData5).Theyformpolymicrobialclustersthattendtoincreaseordecreaseinabundancestogether.The
+cluster#assignmentisshownheretoenableeasyidentificationofthespeciesthatarecorrelatedwitheachother.Forexample,EscherichiacoliandKlebsiellaspp.areincreasedinPDandare
+positivelycorrelated(cluster#6).(vi)Amongthemetadataanalyzed(Table1),sevenvariableswereidentifiedaspotentialconfounders.The84specieswerere-testedwithMaAsLin2inanextended
+modelthatincludedcasestatus,totalsequencecountpersample,andalcohol(A),laxative(L),painmedication(P),depression/anxiety/moodmedication(M),probiotics(
+
+Chunk 20:
+edwitheachother.Forexample,EscherichiacoliandKlebsiellaspp.areincreasedinPDandare
+positivelycorrelated(cluster#6).(vi)Amongthemetadataanalyzed(Table1),sevenvariableswereidentifiedaspotentialconfounders.The84specieswerere-testedwithMaAsLin2inanextended
+modelthatincludedcasestatus,totalsequencecountpersample,andalcohol(A),laxative(L),painmedication(P),depression/anxiety/moodmedication(M),probiotics(Pr),antihistamine,andsleep
+aid(S)use.Theconfounderanalysisincluded435PDand219NHCforwhomdataonallvariableswereavailable.Weshowthevariablesthathadasignalforassociationwiththespecies,andifPDis
+listed,theassociationofspecieswithPDpersistedthroughadjustingforallthevariables.Thedirectionofassociationisnotedwith+or−.Thestatisticalsignificanceisnotedbythenumberof+or–(+
++/−−isFDR<0.05and+/−isFDR<0.15).Notethattheinclusionof9variablesinthemodelseverelydiminishesstatisticalpower,totheextentthat7ofthe84speciescompletelylosttheirsignal
+(emptycells).FullresultsofconfoundinganalysisareshowninSupplementaryData4.
+community scale (Bifidobacterium species vs. SCFA-producing spe- overabundanceofthesetaxaatgenus-levelinourpriordatasets17.
+cies),aswellasatspeciesscale(Streptococcussp.A12vs.Streptococcus Here,atspecies-level,onlyPorphyromonasasaccharolyticawaspre-
+mutans). valentenoughtobeincludedinMWASanditconfirmedtobesig-
+We noted two clusters with species that are known to cause nificantly elevated in PD. The other 18 species were too rare
+infections. These species are commensal to gut microbiome, as individuallytobetestedinMWAS.Whentakentogether,therelative
+evincedbytheirpresenceinNHC,buthavethecapacitytobecome abundanceofspeciesincluster#17wassignificantlyelevatedinPD
+opportunistic pathogens. Escherichia coli, Klebsiella pneumoniae (fold change (FC)=2.63, 95% CI=1.7–4.1, P=2E–5). Not only the
+and Klebsiella quasipneumoniae, which were elevated in PD, were prevalenceandabundanceofthesespecieswereelevatedinPD,but
+positively correlated and grouped into cluster #6 of the PD theyalsoformedatight
+
+Chunk 21:
+citytobecome abundanceofspeciesincluster#17wassignificantlyelevatedinPD
+opportunistic pathogens. Escherichia coli, Klebsiella pneumoniae (fold change (FC)=2.63, 95% CI=1.7–4.1, P=2E–5). Not only the
+and Klebsiella quasipneumoniae, which were elevated in PD, were prevalenceandabundanceofthesespecieswereelevatedinPD,but
+positively correlated and grouped into cluster #6 of the PD theyalsoformedatightlyinterconnectedpolymicrobialclusterinPD
+network.Cluster#17isa polymicrobialcommunity of 19opportu- metagenome,astheydoinclinicalinfectionspecimen27,butnotin
+nistic pathogen species (Supplementary Data 8). We detected NHCmetagenome.InPD,eachspeciesincluster#17connectswithan
+NatureCommunications|( 2022)1 3:6958 7
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Subject group Fold change direction Fold change source
+NHC PD elevated depleted MaAsLin2 ANCOMBC
+a b c
+log2(Relative abundances) log(Biascorrected abundances) Absolute fold change with 95%CI
+20 15 10 5 0 0 5 10 15
+(1e6) (3e5) (1e3) (3e2) (1) (1) (148.4) (22026.5)(3269017.4) 10x 6x 3x 0x 3x 6x 10x
+averageof5.4otherspecies,ascomparedto1inNHC(Supplemen- shotgunstudyareindependentofthe840subjectsinthe16Sstudies.
+taryData8). Havingthesethreelargedatasetspresentedauniqueopportunityto
+compare16S and shotgun results, and to replicate and validate the
+Replication findings.Inprior16Sstudies17,28,wereportedassociationof15genera
+WehavepreviouslycharacterizedtwocohortsofPDandNHCsubjects withPDandshowedthattheyformthreeclustersof(1)opportunistic
+using16Ssequencing(N1=333andN2=507)17,28.Exceptfor11subjects pathogens (elevated in PD), (2) SCFA-producing bacteria (reduced),
+who were inadvertently double-enrolled, the 724 subjects in this and(3)BifidobacteriumandLactobacillus(elevated).Here,wereadily
+NatureCommunications|( 2022)1 3:6958 8
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Fig.3|DifferentialabundancesandeffectsizesofPD-associatedspecies.Ana- Thelinesextendingfromthetwoen
+
+Chunk 22:
+hogens (elevated in PD), (2) SCFA-producing bacteria (reduced),
+who were inadvertently double-enrolled, the 724 subjects in this and(3)BifidobacteriumandLactobacillus(elevated).Here,wereadily
+NatureCommunications|( 2022)1 3:6958 8
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Fig.3|DifferentialabundancesandeffectsizesofPD-associatedspecies.Ana- Thelinesextendingfromthetwoendsofeachboxrepresent1.5xoutsidethe
+lysisincludedN=724biologicallyindependentsamplesfrom490PDand234 interquartilerange(range=(abundancevalueat75%minusabundancevalueat
+neurologicallyhealthycontrol(NHC)subjects.Forty-sixspeciesthathadatleast 25%)x1.5).Pointsbeyondthelinesareoutliersamples.bDistributionofbias-
+75%(andupto750%)changeinabundanceinPDareshownhere;forall84PD- correctedobservedabundances(usedinANCOM-BC).Naturallogtransformed
+associatedspeciesseeSupplementaryFig.3.aDistributionofrelativeabundances. sampling-biascorrectedobservedabundances,asusedinANCOM-BC,wereused
+Log2transformedrelativeabundancevalues,asusedinMaAsLin2,wereusedto heretogeneratetheboxplots.Untransformedbias-correctedobservedabun-
+generatetheboxplots.Untransformedrelativeabundances,showninparenthesis, dances,showninparenthesis,areprovidedontheX-axisforeasierinterpretationof
+areprovidedontheX-axisforeasierinterpretationofdata.Boxplotsshowdis- data.Descriptionofboxplotsarethesameasfor(a).cAbsolutefoldchangein
+tributionofthedataforPD(bluegreen)andNHC(orange).Eachsamplewas differentialabundanceinPDvs.NHC(squaresandcircles)andits95%confidence
+plottedaccordingtoitsabundanceofthespecies.Theleft,middle,andrightver- interval(CI;solidanddashedlines),calculatedfrombetaandstandarderrors
+ticalboundariesofeachboxrepresentsthefirst,second(median),andthird estimatedbyMaAsLin2(squarewithsolidlineof95%CI),andANCOM-BC(circle
+quartilesofthedata;thatis,25%ofsampleshaveabundancelowerthantheleft withdottedlineof95%CI).CIaretruncatedat10x.Pointsandlinesforfoldchanges
+borderofthebox,25%ofsampleshaveabundancesthatarehigherthanth
+
+Chunk 23:
+erval(CI;solidanddashedlines),calculatedfrombetaandstandarderrors
+ticalboundariesofeachboxrepresentsthefirst,second(median),andthird estimatedbyMaAsLin2(squarewithsolidlineof95%CI),andANCOM-BC(circle
+quartilesofthedata;thatis,25%ofsampleshaveabundancelowerthantheleft withdottedlineof95%CI).CIaretruncatedat10x.Pointsandlinesforfoldchanges
+borderofthebox,25%ofsampleshaveabundancesthatarehigherthantheright and95%CIwerecoloredblue(elevatedinPD)orred(reducedinPD).
+borderofthebox.Absenceofaboxindicates75%ofsampleshadzeroabundance.
+confirmed 13 of the 15 genus-level associations with statistical sig- notably, we detected 8 PD-associated Streptococcus species: 4 were
+nificance (Table 3). The remaining two (Oscillospira, and Prevotella elevatedinPD,4werereduced.However,atgenus-level,Streptococcus
+sub-genus) were not captured here due to differences in reference lackedevidenceforassociationwithPD.Thus,Streptococcus,thegenus
+databases used for taxonomic assignment: SILVA v132 for 16S and with the greatest number of PD-associated species, was missed at
+ChocoPhlAn v30 for shotgun. Oscillospira, a genus designation in genus-levelbecauseofheterogeneity.
+SILVA,wasnotinChocoPhlAn.Prevotella,ascalledbySILVA,wasin OnlytwopriorPDstudiesusedshotgunsequencing,conducted
+fact a sub-genus of Prevotella and included species P. buccalis, P. by Bedarf et al.21 and Qian et al.22. Compared to Bedarf et al.21 we
+timonensis,P.disiens,P.bivia,P.amnii,andP.oralis.Althoughdetec- differed in sample size (N=59 vs. N=724), sex (100% male vs. 52%
+ted,noneofthesespecieswastestedbecausetheywereindividually male), patient characteristics such as constipation (not relevant vs.
+rare. We grouped them to recreate the Prevotella sub-genus, and highly significant), geography (Bonn, EU vs. Deep South, US), and
+successfullyreplicatedthepositiveassociationwithPD(FC=1.5,95% taxonomic profiling (MOCAT2 vs. MetaPhlAn3), to name a few of a
+CI=1.2–1.9,P=1E-3).Wealsocapturedandreplicatedthepreviously myriadoffactorsthatca
+
+Chunk 24:
+patient characteristics such as constipation (not relevant vs.
+rare. We grouped them to recreate the Prevotella sub-genus, and highly significant), geography (Bonn, EU vs. Deep South, US), and
+successfullyreplicatedthepositiveassociationwithPD(FC=1.5,95% taxonomic profiling (MOCAT2 vs. MetaPhlAn3), to name a few of a
+CI=1.2–1.9,P=1E-3).Wealsocapturedandreplicatedthepreviously myriadoffactorsthatcanhaveprofoundeffectsonresults.Wecon-
+definedgenusclustersofopportunisticpathogens(cluster#17here), firmed their original report of reduction in Prevotella copri and
+SCFA-producingbacteria(cluster#13),andBifidobacteriumandLac- alterationsintryptophanmetabolism.Theyalsoreportedreductionin
+tobacillus(cluster#2).Thus,usingmetagenomics,wereplicatedboth totalvirusabundanceinPD.Wehavenotyetinvestigatedthevirome
+MWASandnetworkanalysisfindingsof16Sstudiesinanindependent because virus databases are still sparse and detection methods
+dataset,andresolvedthemtospecies-level. underperform32.Qianetal.’sstudy22alsodifferedfromourstudyin
+manyaspects,mostnotablyinrace(Chinesevs.Caucasian)andstudy
+Resultsalignwithexistingliteratureandresolveinconsistencies design(gene-basedmachinelearningclassifierforpredictionvs.deli-
+PriorstudiesofPDandmicrobiomethatwereconductedusing16Sall neationofalterationsatglobal,species,gene,andpathwayleveland
+detectedasignificantdysbiosisinPDgut,butresultsonPD-associated functionalinference).Despitedifferences,weconfirmedtheirreport
+taxawerewidelyinconsistent.Smallsamplesizesandinter-studyvar- thatmajorityofspeciesenrichedinPDwereinFirmicutesphylum,and
+iationswerethoughtresponsible.Recentmeta-analyseswereableto AlistipesofBacteroidetesphylumwasalsohighlyelevatedinPD.
+identify few associations at family or genus level robust enough to
+transcendinter-studyvariations18–20.Wesuccessfullyconfirmedthese Species,genus,andclusterlevelanalysesarecomplementary
+associations at genus level and resolved them to species, including Species-leveltestingcancapturethesignalsthatarelo
+
+Chunk 25:
+ponsible.Recentmeta-analyseswereableto AlistipesofBacteroidetesphylumwasalsohighlyelevatedinPD.
+identify few associations at family or genus level robust enough to
+transcendinter-studyvariations18–20.Wesuccessfullyconfirmedthese Species,genus,andclusterlevelanalysesarecomplementary
+associations at genus level and resolved them to species, including Species-leveltestingcancapturethesignalsthatarelostatgenuslevel
+Blautia, Faecalibacterium, Fusicatenibacter, Roseburia and Rumino- dueheterogeneitywithingenus.Infact,wedetectedassociationswith
+coccus, which are reduced in PD, and Bifidobacterium, Hungatella, 22speciesbelongingto12generawheretheassociationsweremissedat
+Lactobacillus,MethanobrevibacterandPorphyromonas,whichareele- genus-level MWAS (Table 3). Conversely, when species are rare and
+vatedinPD18–20.PrevotellahasbeenreportedasdecreasedinPDby excludedfromtestingforstatisticalreasons,thesignalmaybepresent
+some29,30andincreasedbyothers17,28.Atspecies-level,Prevotellacopri atgenuslevelduetocumulativeeffectsofspecieswithsimilareffects
+wasdecreased,andthepathogenicspeciesofPrevotella(asdefinedby (e.g., Corynebacterium). Networks of correlating species is another
+SILVAabove)wereincreasedasagroup,confirming,andresolvingthe complimentarysourceofinformationasitmayrevealdisease-relevant
+seeminglycontradictoryreportsonPrevotella.Akkermansiaisacon- polymicrobialclusters.Considercluster#17composedof19opportu-
+undrum.MoststudiesreportelevatedAkkermansiainPD.Wedidnot nisticpathogenspeciesfrom10genera:species-levelMWASdetected
+detect a statistically significant signal for Akkermansia at genus or onlyoneofthe19speciesaselevatedinPD(Porphyromonasasacchar-
+specieslevelinthissouthernUScohort,althoughthetrendwasele- olytica),genus-levelMWASdetected3ofthe10generaaselevatedinPD
+vated. Interestingly, Akkermansia waselevated in our two prior 16S (Actinomyces,Corynebacterium,Porphyromonas),andcluster-levelana-
+datasetsaswell,butreachedsignificanceonlyinthemulti-statecohort lysisdetectedthe
+
+Chunk 26:
+genus or onlyoneofthe19speciesaselevatedinPD(Porphyromonasasacchar-
+specieslevelinthissouthernUScohort,althoughthetrendwasele- olytica),genus-levelMWASdetected3ofthe10generaaselevatedinPD
+vated. Interestingly, Akkermansia waselevated in our two prior 16S (Actinomyces,Corynebacterium,Porphyromonas),andcluster-levelana-
+datasetsaswell,butreachedsignificanceonlyinthemulti-statecohort lysisdetectedthewholepolymicrobialclusteraselevatedinPD.
+that was primarily from northern US28 and not the dataset from
+southernUS17,suggestingageographiceffect.Itisnotknownwhichof Alteredabundancesofmicrobialgenefamiliesandmetabolic
+thesechangesarespecifictoPD.ElevatedBifidobacteriumandLacto- pathways
+bacillusandlossofSCFAproducingbacteriahavealsobeenobserved Weidentified8,528genefamilies(KEGGortholog(KO)groups)and511
+inotherinflammatorydisordersofthegut31. metabolicpathways.Excludingthosepresentin<5%ofsubjects,4,679
+Analysesconductedatgenusorhighertaxonomiclevelshavethe KOgroupsand407metabolicpathwaysweretestedfordifferential
+underlyingassumptionthatmicroorganismswithineachclassification abundance inPDvs.NHCusing MaAsLin2andANCOM-BC.Thefull
+have similartrend of association with diseaseand can therefore be results are provided for KO groups (Supplementary Data 9) and
+collapsed.Iftheassumptiondoesnothold,signalsmaybemissedor pathways(SupplementaryData10).AccordingtoMaAsLin2,50%ofKO
+beinconsistentacrossstudies(aswasshownforPrevotellaabove).We groups and 67% of pathways were affected in PD. According to
+encountered several such heterogenous genera (Table 3). Most ANCOM-BC,32%ofKOgroupsand55%ofpathwayswereaffected.The
+NatureCommunications|( 2022)1 3:6958 9
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table3|PD-associatedgenera,replicationofpriorfindings,andevidenceofheterogeneity
+(i)PD-associatedgenera (ii)Prevalence (iii)MWASviaMaAsLin2 (iv)MWASviaANCOM-BC (v)Replication (vi)Heterogeneity
+PD NHC FDR FC RAin FDR FC BC-OA (Reference) Nspp. N↑inPD N Genussignal
+NHC inNH
+
+Chunk 27:
+yswereaffected.The
+NatureCommunications|( 2022)1 3:6958 9
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Table3|PD-associatedgenera,replicationofpriorfindings,andevidenceofheterogeneity
+(i)PD-associatedgenera (ii)Prevalence (iii)MWASviaMaAsLin2 (iv)MWASviaANCOM-BC (v)Replication (vi)Heterogeneity
+PD NHC FDR FC RAin FDR FC BC-OA (Reference) Nspp. N↑inPD N Genussignal
+NHC inNHC tested ↓in
+PD
+Acidaminococcus 158 51 9E−3 2.89 0.50% 0.02 3.22 13 18,20 1 1 0 ↑
+Actinomyces 410 166 2E−3 2.08 0.05% 7E−3 2.66 446 10 4 1 ↑
+Anaerostipes 399 210 4E−4 0.35 1.15% 1E−5 0.21 31470 19 2 0 1 ↓
+Bifidobacterium 453 208 4E−3 2.53 3.98% 0.04 2.40 40087 17–19 10 7 0 ↑
+Blautia 487 234 5E−6 0.63 7.42% 2E−8 0.50 925208 17,19 11 0 2 ↓
+Butyricicoccus 25 22 0.06 0.78 0.02% 0.02 0.56 2 17 1 0 1 ↓
+Christensenella 76 23 0.02 1.47 <0.01% 0.13 1.44 2 18,19 1 1 0 ↑
+Cloacibacillus 123 35 3E−3 1.92 0.04% 7E−3 2.53 4 18,19 2 1 0 ↑
+Clostridium 413 207 3E−3 0.46 0.79% 2E−3 0.32 20444 7 0 2 ↓
+Coprobacillus 82 12 3E−4 1.90 <0.01% 4E−4 2.26 2 20 1 1 0 ↑
+Corynebacterium 38 6 0.02 1.31 <0.01% 0.13 1.30 1 17 0 0 0 ↑
+Eisenbergiella 382 161 1E−3 2.80 0.19% 0.01 2.96 575 2 1 0 ↑
+Enorma 264 99 3E−3 1.96 0.04% 0.01 2.19 16 2 2 0 ↑
+Enterococcus 121 24 1E−4 2.28 0.06% 6E−5 3.98 3 3 2 0 ↑
+Erysipelatoclostridium 400 169 9E−3 2.11 0.20% 0.05 2.37 799 3 1 0 ↑
+Escherichia 285 105 3E−3 2.47 0.87% 8E−3 3.86 104 18 1 1 0 ↑
+Eubacterium 447 222 0.04 0.58 2.21% 2E−3 0.41 126275 18,19 11 2 4 ↓
+Faecalibacterium 447 216 3E−3 0.40 5.62% 1E−3 0.31 149258 17–20 1 0 1 ↓
+Fusicatenibacter 350 192 3E−3 0.28 2.15% 3E−4 0.18 24649 17,19 1 0 1 ↓
+Harryflintia 143 47 0.04 1.50 <0.01% 0.13 1.62 5 1 1 0 ↑
+Hungatella 264 98 3E−3 2.31 0.04% 0.02 2.76 32 18–20 1 1 0 ↑
+Klebsiella 165 56 0.01 2.09 0.78% 0.03 2.85 13 3 2 0 ↑
+Lachnospiraceaeunclass. 392 206 0.01 0.37 4.05% 1E−3 0.24 28538 17–20 1 0 1 ↓
+Lactobacillus 283 95 5E−6 4.55 0.27% 1E−5 7.16 44 17–19 10 6 0 ↑
+Megasphaera 116 25 1E−3 2.34 0.12% 1E−3 3.37 3 18,19 2 2 0 ↑
+Meth
+
+Chunk 28:
+4649 17,19 1 0 1 ↓
+Harryflintia 143 47 0.04 1.50 <0.01% 0.13 1.62 5 1 1 0 ↑
+Hungatella 264 98 3E−3 2.31 0.04% 0.02 2.76 32 18–20 1 1 0 ↑
+Klebsiella 165 56 0.01 2.09 0.78% 0.03 2.85 13 3 2 0 ↑
+Lachnospiraceaeunclass. 392 206 0.01 0.37 4.05% 1E−3 0.24 28538 17–20 1 0 1 ↓
+Lactobacillus 283 95 5E−6 4.55 0.27% 1E−5 7.16 44 17–19 10 6 0 ↑
+Megasphaera 116 25 1E−3 2.34 0.12% 1E−3 3.37 3 18,19 2 2 0 ↑
+Methanobrevibacter 185 63 5E−3 2.65 0.25% 0.01 3.16 19 19 1 1 0 ↑
+Methanomassiliicoccus 45 9 0.02 1.34 0.01% 0.08 1.51 2 1 1 0 ↑
+Monoglobus 178 109 0.08 0.54 0.18% 0.01 0.30 124 19 1 0 1 ↓
+Porphyromonas 66 10 2E−3 1.97 <0.01% 5E−3 1.80 1 17,19 1 1 0 ↑
+Roseburia 437 223 1E−4 0.31 3.71% 4E−7 0.21 168192 17–20 6 0 3 ↓
+Ruminococcus 338 180 0.03 0.35 3.65% 7E−3 0.24 16004 4 0 3 ↓
+Ruthenibacterium 479 228 5E−6 2.17 0.50% 2E−3 1.80 28379 1 1 0 ↑
+Scardovia 50 5 2E−3 1.47 <0.01% 7E−3 1.56 1 1 1 0 ↑
+Turicibacter 105 24 7E−4 2.14 0.01% 1E−3 2.46 2.3 1 1 0 ↑
+(vii)Associationatspecies-level,missedatgenus-level
+Alistipes 461 215 0.23 1.45 4.77% 0.62 1.25 140168 18,19 7 2 0 Missed
+Bacteroides 489 234 0.86 1.02 29.33% 0.25 0.83 3556422 18 21 1 0 Missed
+Dialister 154 85 0.33 0.73 0.12% 0.17 0.50 37 18 2 0 1 Missed
+Lachnoclostridium 460 211 0.08 1.52 0.61% 0.33 1.45 12245 12 2 0 Missed
+Lachnospira 139 78 0.36 0.73 0.28% 0.18 0.49 42 17 2 0 1 Missed
+Parabacteroides 464 218 0.16 1.45 3.10% 0.58 1.25 133559 18,20 4 1 0 Missed
+Prevotella 248 131 0.19 0.58 4.24% 0.12 0.41 288 18 2 0 1 Missed
+Pseudoflavonifractor 93 35 0.16 1.33 0.01% 0.50 1.26 3 2 1 0 Missed
+Rothia 184 99 0.16 0.69 0.02% 0.07 0.49 31 2 0 1 Missed
+Ruminococcaceaeunclass. 460 211 0.11 1.60 2.32% 0.30 1.46 24992 19,20 5 2 0 Missed
+Streptococcus 479 229 0.26 1.26 1.79% 0.96 1.03 66936 20 14 4 4 Missed
+Veillonella 116 67 0.36 0.79 0.06% 0.18 0.55 14 18 4 0 1 Missed
+MWASwasconductedtotestdifferentialabundanceofgenerain490PDand234NHC.107of224detectedgeneraweretested(excludinggenerafoundin<5%ofsamples).Twostatisticaltestswere
+usedinparallel:
+
+Chunk 29:
+issed
+Ruminococcaceaeunclass. 460 211 0.11 1.60 2.32% 0.30 1.46 24992 19,20 5 2 0 Missed
+Streptococcus 479 229 0.26 1.26 1.79% 0.96 1.03 66936 20 14 4 4 Missed
+Veillonella 116 67 0.36 0.79 0.06% 0.18 0.55 14 18 4 0 1 Missed
+MWASwasconductedtotestdifferentialabundanceofgenerain490PDand234NHC.107of224detectedgeneraweretested(excludinggenerafoundin<5%ofsamples).Twostatisticaltestswere
+usedinparallel:ANCOM-BCandMaAsLin2.Analyseswereadjustedforstoolsamplecollectionmethodandtotalsequencecountpersample.(i)34generaemergedfromMWASasPD-associated,
+basedonreachingsignificancebybothMaAsLin2andANCOM-BC(i.e.,FDR<0.05byonemethodandFDR≤0.1intheother).(ii)Prevalenceofthegenus,i.e.,thenumberofsubjectsinwhomthegenus
+wasdetected(outof490PDand234neurologicallyhealthycontrols(NHC)).(iiiandiv)ForeachPD-associatedgenus,weshowtheresultsfromMaAsLin2andANCOM-BC,includingFDRforstatistical
+significanceofassociation,thefoldchange(FC)inabundanceofthegenusinPDvs.NHC,andtheabundanceofgenusinNHC,whichisrelativeabundance(RA)forMaAsLin2,andsamplingbias-
+correctedobservedabundance(BC-OA)forANCOM-BC.Fullgenus-levelMWASresults,includingstandarderrors,areprovidedinSupplementaryData2.(v)Presentstudy,conductedusingshotgun
+sequencing,confirmedpriorfindingsthatwerebasedon16SrRNAgenesequencing.StudiesthathavereportedassociationofPDwiththegenusarecited.Becauseoflimitedsamplesizesofindividual
+studies,here,werefertothreemeta-analysesandourmostrecentstudy,whichwasnotincludedinthemeta-analyses(eachwithN>500).(vi)Breakdownofeachgenustospeciesresolutiontoevaluate
+heterogeneity.ForeachPD-associatedgenus,weshowthenumberofspeciesthatwereincludedinspecies-levelMWAS,andhowmanywerefoundsignificantlyelevated(uparrow)orreduced(down
+arrow)inPD,andwhatthecumulativeeffectwas,seenaspresence/absenceanddirectionofthesignaldetectedatgenuslevel.AnexampleofheterogeneityisActinomyces.TenActinomycesspecies
+weretestedinspecies-levelMWAS,5werefoundtobeassociatedwithPD,4wereelevatedand1wasreduced.Atgenus-levelMWAS,Actinomyceswaselevatedin
+
+Chunk 30:
+esthatwereincludedinspecies-levelMWAS,andhowmanywerefoundsignificantlyelevated(uparrow)orreduced(down
+arrow)inPD,andwhatthecumulativeeffectwas,seenaspresence/absenceanddirectionofthesignaldetectedatgenuslevel.AnexampleofheterogeneityisActinomyces.TenActinomycesspecies
+weretestedinspecies-levelMWAS,5werefoundtobeassociatedwithPD,4wereelevatedand1wasreduced.Atgenus-levelMWAS,ActinomyceswaselevatedinPD.Similarly,Eubacterium,whichat
+genus-levelMWASwasfoundtobedecreasedinPD,hadtwospeciesthatwereelevatedinPD.(vii)GenerathatdidnotshowasignalforassociationwithPDatgenus-levelMWAS,butsomeoftheir
+specieswereassociatedwithPDperspecies-levelMWAS.Mostnotably,theStreptococcusgenus,with8PD-associatedspecies(4elevated,4reducedinPD),wasmissedatgenuslevel.
+NatureCommunications|( 2022)1 3:6958 10
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+overlap(i.e.,FDR<0.05bybothmethods)was15%ofKOgroupsand We detected reduction in species, genes and pathways that
+32%ofpathways.Wethereforeestimatethatbetween1/3to2/3ofall degradepolysaccharides and produce SCFA. SCFAs areproductsof
+detectedmetabolicpathwaysaredysregulatedinPD. fermentation of dietary fiber by the gut microbiome. In the gut,
+inadequate SCFA levels have been linked to constipation, compro-
+Functionalinference mised gut barrier, and inflammation37,38, all of which are common
+Muchoftheconstituentsofthegutmicrobiomehavebeendetected featuresofPD.Thisdatasetrevealeddepletionofspecies,genesand
+bymetagenomicsandnotyetbeencharacterized,norcanweinferon pathways that metabolize plant-based polysaccharides and make
+KOgroupsthathavenotyetbeenannotated.Thus,inferencesmade SCFA. We observed a dramatic ~2.5-fold reduction for several SCFA
+here are robust given the current state of knowledge and available producingspecies,andasmuchas5to7.5foldreductioninRoseburia
+resources, but do not capture the full potential of the study. While species.Atgene-familylevel,manyofthemostdecreasedKOgroupsin
+manyofthepathwaysandKOgroupsthatwere
+
+Chunk 31:
+avenotyetbeenannotated.Thus,inferencesmade SCFA. We observed a dramatic ~2.5-fold reduction for several SCFA
+here are robust given the current state of knowledge and available producingspecies,andasmuchas5to7.5foldreductioninRoseburia
+resources, but do not capture the full potential of the study. While species.Atgene-familylevel,manyofthemostdecreasedKOgroupsin
+manyofthepathwaysandKOgroupsthatwerealteredinPDarenon- thePDmetagenomearethoseinvolvedinpolysaccharideutilization,
+specificandlikelyreflectbroaddysbiosis,wenotedseveralfeaturesin each showing more than 2-fold reduction, e.g., araQ (K17236: FC=
+thePDmetagenomethatalignwithpathologicalfeaturesofPD(Fig.5). 0.45, 95% CI=0.34–0.6, FDR=7E-6), araN (K17234: FC=0.48, 95%
+MostfunctionalinsightstoPDpathogenesisarederivedfrommodel CI=0.36–0.62, FDR=9E–6), cbe/mbe (K16213: FC=0.47, 95%
+organisms and in experimental setting, with the caveat that their CI=0.34–0.67, FDR=4E–4), and E2.4.1.20 (K00702: FC=0.48, 95%
+relevancetohumanPDisnotguaranteed.Here,weprovidedatafrom CI=0.35–0.66,FDR=1E–4).Wefoundalessdramatic,butstatistically
+thehumanPDgutmetagenomethatcorroborate,andvalidate,some significant reduction in pathways criticalfor degradation and meta-
+ofthebasicsciencefindings. bolismofplant-basedpolysaccharidesincludingbeta-mannan(PWY-
+Asdetailedbelow,wefoundthatPDmetagenomeisindicativeofa 7456: FC=0.82, 95% CI=0.75–0.89, FDR=1E–4), stachyose (PWY-
+diseasepromotingmicrobiome(enrichedinopportunisticpathogens 6527:FC=0.83,95%CI=0.79–0.89,FDR=3E–7),inositol(PWY-7237:
+and immunogenic components, dysregulated neuroactive signaling, FC=0.81, 95% CI=0.75–0.87, FDR=7E–7), fructuronate (PWY-7242:
+preponderance of amyloidogenic molecules that induce alpha- FC=0.83, 95% CI=0.76–0.9, FDR=1E−4), galacturonate (GALAC-
+synuclein pathology, and over production of toxicants), with TUROCAT-PWY: FC=0.89, 95% CI=0.82–0.95, FDR=3E−3), glucor-
+reduced capacity for recovery (low inanti-inflammatoryand neuro- onate (GLUCUROCAT-PWY: FC=0.84, 95% CI
+
+Chunk 32:
+.81, 95% CI=0.75–0.87, FDR=7E–7), fructuronate (PWY-7242:
+preponderance of amyloidogenic molecules that induce alpha- FC=0.83, 95% CI=0.76–0.9, FDR=1E−4), galacturonate (GALAC-
+synuclein pathology, and over production of toxicants), with TUROCAT-PWY: FC=0.89, 95% CI=0.82–0.95, FDR=3E−3), glucor-
+reduced capacity for recovery (low inanti-inflammatoryand neuro- onate (GLUCUROCAT-PWY: FC=0.84, 95% CI=0.78–0.91, FDR=1E
+protectivemolecules). −4), and galacturonate/glucoronate (GALACT-GLUCUROCAT-PWY:
+We observed a general increase in PD metagenome of pro- FC=0.85, 95% CI=0.79–0.92, FDR=5E−4). Interestingly, the PD
+inflammatory species, as well as gene-families and pathways that metagenome was enriched in glycogen metabolism pathway (GLY-
+directlypromote inflammatory signaling between microbes and the COCAT-PWY: FC=2, 95% CI=1.5–2.7, FDR=7E−5), suggesting an
+host. Inflammation has emerged as a major driver of PD enrichment in bacteria with a preference for non-plant-based poly-
+pathogenesis33. Lipopolysaccharides (LPS) are the most abundant saccharides. Of note, unlike most polysaccharide degradation path-
+antigenonthesurfaceofGram-negativebacteria,capableofeliciting waysthatarereduced,thestarchdegradationpathwayIIIisenrichedin
+strongimmunereactionandinflammation,bystimulatingthehost’s the PDmetagenome (PWY-6731: FC=2,95% CI=1.5-2.6, FDR=7E-5),
+Toll-likeReceptor4(TLR4)signalingpathway.Wedetectedabloomof however,pathwayIII maps to Escherichia coliand Klebsiella species
+Gram-negativebacteriawithimmune-stimulatoryLPSinPDmetagen- andisnotknowntoproducebeneficialSCFA.
+ome.Elevenofthe55speciesthatareenrichedinPDarecanonical Proteolytic and amino acid degradation pathways were sub-
+Gram-negativeorganismsincludingthosewithhighlystimulatoryLPS stantially enriched in PD metagenome, suggesting PD microbiome
+(Escherichia coli, Klebsiella species, and Porphyromonas asacchar- preferentially utilizes proteins, over polysaccharides, as their prime
+olytica).Conversely,ofthe29speciesthatare
+
+Chunk 33:
+speciesthatareenrichedinPDarecanonical Proteolytic and amino acid degradation pathways were sub-
+Gram-negativeorganismsincludingthosewithhighlystimulatoryLPS stantially enriched in PD metagenome, suggesting PD microbiome
+(Escherichia coli, Klebsiella species, and Porphyromonas asacchar- preferentially utilizes proteins, over polysaccharides, as their prime
+olytica).Conversely,ofthe29speciesthatarereducedinPD,only1isa carbon/energysource.Allproteolyticpathwaysthatweredifferentially
+canonical Gram-negative organism, Prevotella copri, which interest- abundant in PD vs. NHC were enriched in the PD metagenome,
+ingly,producesanLPSthatnotonlydoesnotinduceinflammation,but includingpathwayswhichdegradeglutamate(PWY-5088:FC=1.3,95%
+can inhibit TLR4 activation by others34. We also detected elevated CI=1.1–1.6, FDR=3E−3), arginine/ornithine (ORNARGDEG-PWY: FC=
+levels of gene families and pathways necessary for generation and 1.9, 95% CI=1.3–2.6, FDR=2E−3; ARGDEG-PWY: FC=1.9, 95%
+secretionofLipidA,aglycolipidcomponentofLPSresponsiblefor CI=1.3–2.6, FDR=8E−3; ORNDEG-PWY: FC=1.7, 95% CI=1.3–2.3,
+muchofitsimmune-stimulatorycapacity.ThePDmetagenomewas FDR=2E−3), and threonine (THREOCAT-PWY: FC=1.9, 95%
+enrichedfortheKOgroupsinthecanonical(RaetzPathway)lipidA CI=1.4–2.7,FDR=5E−4).Thesebacterialpathways,andspecificallythe
+synthesispathwayincludinglpxC(K02535:FC=2.3,95%CI=1.5–3.5, upregulatedthreoninepathway,utilizeproteinsourcesderivedfrom
+FDR=1E−3),lpxI(K09949:FC=1.7,95%CI=1.3–2.3,FDR=1E−3),lptD dietorthehost,includingmucin.Mucinisanimportantcomponentof
+(K04744:FC=1.9,95%CI=1.4–2.5,FDR=1E−3),andthelipidAsynth- the protective gut mucus layer. Increased capacity to degrade host
+esis pathway as a whole (KDO-NAGLIPASYN-PWY: FC=1.5, 95% mucinraisesthepossibilitythatthegutmicrobiomecontributestothe
+CI=1.1–2,FDR=0.02).Wefurthernotedanenrichmentofthesynth- degradationandincreasedpermeabilityofthegutbarrierinPD39.
+esis pathway for the core, immunogenic sugar components of LPS Wedetecteddysreg
+
+Chunk 34:
+,andthelipidAsynth- the protective gut mucus layer. Increased capacity to degrade host
+esis pathway as a whole (KDO-NAGLIPASYN-PWY: FC=1.5, 95% mucinraisesthepossibilitythatthegutmicrobiomecontributestothe
+CI=1.1–2,FDR=0.02).Wefurthernotedanenrichmentofthesynth- degradationandincreasedpermeabilityofthegutbarrierinPD39.
+esis pathway for the core, immunogenic sugar components of LPS Wedetecteddysregulationinsynthesisandmetabolismofneu-
+(ECASYN-PWY:FC=1.7,95%CI=1.2–2.5,FDR=5E–3),andthegeneral roactivemoleculesdopamine,glutamate,gammaaminobutyricacid
+fattyacidsynthesispathwaysnecessaryforproductionoftheGram- (GABA),andserotonin.Aberrationsinvolvingtheseneurotransmitters
+negative cell envelope (PWY-6285 and PWY0-881: FC=1.6, 95% in PD is well established40. The human gut microbiome has known
+CI=1.2–2, FDR=1E–3). We observed increases in gene-families capacitytonotonlyproduceandmetabolizetheseneurotransmitters
+involvedinthesynthesisofLipoteichoicacid(LTA),acomponentof inthegut,butalsotoinfluencetheirlevelsinthebrain41.Asubstantial
+Gram-positive bacteria cell envelope which shares many of the dropindopaminelevelsduetoprogressivelossofdopaminergiccells
+pathogenic properties of LPS (K19005: FC=1.8, 95% CI=1.4–2.3, inthebrainisthedefiningfeatureofPD.Wedetectedelevatedlevelsof
+FDR=4E–5),andinitsmodificationtoberecognizedbyhostTLR2and tyrosine decarboxylase/aspartate 1-decarboxylase gene-family
+stimulateinflammatoryresponses35(K03739:FC=1.7,95%CI=1.3–2.2, (K18933: FC=1.57, 95%CI=1.3–1.9, FDR=3E−4),whichremoves tyr-
+FDR=1E–3).Additionally,weobservedenrichmentinPDofmurein/ osine, a required precursor of dopamine. Thus, one may infer that
+bacterial lipoprotein (BLP) gene-family [lpp] K06078 (FC=1.6, 95% elevatedK18933couldlimitdopamineproductionbyhostandbac-
+CI=1.2–2.1,FDR=0.01).BLPishighlyimmunestimulatorybytrigger- teria.Thearomaticaminoacidsynthesis pathway(COMPLETE-ARO-
+inginflammatoryTLR2signaling36,butisoftenoverlookedcompara- PWY:MaAsLin2FC=0.95,95%CI=0.92–0.98,FDR=6E−3;ANC
+
+Chunk 35:
+red precursor of dopamine. Thus, one may infer that
+bacterial lipoprotein (BLP) gene-family [lpp] K06078 (FC=1.6, 95% elevatedK18933couldlimitdopamineproductionbyhostandbac-
+CI=1.2–2.1,FDR=0.01).BLPishighlyimmunestimulatorybytrigger- teria.Thearomaticaminoacidsynthesis pathway(COMPLETE-ARO-
+inginflammatoryTLR2signaling36,butisoftenoverlookedcompara- PWY:MaAsLin2FC=0.95,95%CI=0.92–0.98,FDR=6E−3;ANCOM-BC
+tivelytoLPS. FC=0.74, 95% CI=0.67–0.82, FDR=1E–8) was depleted in PD
+NatureCommunications|( 2022)1 3:6958 11
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Fig.4|Networkanalysisrevealspolymicrobialclustersofcorrelatedspeciesin associatedspecieswereoftenpositive,indicatingabundancestendedtorise
+thePDmetagenome.AnalysisincludedN=490biologicallyindependentsamples togetherlikeEscherichiacoli,Klebsiellapneumoniae,andKlebsiellaquasipneumo-
+from490PDcases.(Forneurologicallyhealthycontrol(NHC)network,N=234,see niaeincluster#6,ordeclinetogetherlikethepolysaccharidemetabolizingspecies
+SupplementaryFig.4).aAllspeciesdetectedinPDgutmetagenomeweretestedfor incluster#13.Sometimesthecorrelationwasnegativeindicatingincreasein
+correlationwithoneanotherusingSparCCcorrelationsandplottedinanetworkif abundanceofonespeciescorrelatedwithdecreaseintheother,e.g.,incluster#2
+theirabundancecorrelatedwithatleastoneotherspecies(i.e.,|r|>0.2and theriseinabundancesofsomeStreptococcusspeciesinPDmicrobiomecorrelated
+uncorrectedpermutedP-value<0.05).ClustersweredefinedbyLouvainalgorithm withadeclineintheabundancesofotherStreptococcusspecies.Enlargementswith
+andwererandomlyassignedacolorandanumber.Eachcircle(node)denotesa representativespecieslabeledfor(c)cluster#17,(d)cluster#2,and(e)cluster#8
+speciesandthecurvedlines(edges)connectcorrelatedspecies.bPD-associated labeledtotheleft,cluster#13inthemiddle,cluster#8ontheupperleft,andcluster
+speciesthatwereidentifiedviaMWASweremappedtothenetwork,andhigh- #6onthelowerleft(E.coliandKlebsiellaspecies).For(c–e),boxesaroundspecies
+lightedi
+
+Chunk 36:
+andanumber.Eachcircle(node)denotesa representativespecieslabeledfor(c)cluster#17,(d)cluster#2,and(e)cluster#8
+speciesandthecurvedlines(edges)connectcorrelatedspecies.bPD-associated labeledtotheleft,cluster#13inthemiddle,cluster#8ontheupperleft,andcluster
+speciesthatwereidentifiedviaMWASweremappedtothenetwork,andhigh- #6onthelowerleft(E.coliandKlebsiellaspecies).For(c–e),boxesaroundspecies
+lightedinblueifelevatedinPD,orredifreducedinPD.CorrelationamongPD- namesarecoloredtorepresenttheiralgorithmdefinedclustershownin(a).
+NatureCommunications|( 2022)1 3:6958 12
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Subject group Fold change direction Fold change source
+NHC PD elevated depleted MaAsLin2 ANCOMBC
+a log2(Relative abundances) blog(Biasadjusted abundances) cAbsolute fold change with 95%CI
+25 20 15 10 2.5 0 5 10
+(3e8) (1e6) (3e5) (1e3) (0.1) (1) (148.4) (22026.5) 4x 3x 2x 0x 2x 3x
+K02535 ( )
+K04744 ( )
+ECASYNPWY
+LPS/
+K09949 ( )
+lipid A
+Elevated
+PWY0881
+immunogenic
+bacterial PWY6285
+components
+KDONAGLIPASYNPWY
+K19005 ( )
+LTA
+K03739 ( )
+BLP K06078 ( )
+K17236 ( )
+K16213 ( , )
+K17234 ( )
+K00702 (E2.4.1.20)
+Reduced
+plantbased PWY7237
+polysaccharide  PWY7456
+degradation
+and SCFA PWY7242
+production
+PWY6527
+GLUCUROCATPWY
+GALACTGLUCUROCATPWY
+GALACTUROCATPWY
+THREOCATPWY
+Increased
+protein  ORNARGDEGPWY
+degradation
+ORNDEGPWY
+dopamine
+synthesis COMPLETEAROPWY
+glutamate K00266 ( )
+synthesis
+PWY5505
+Dysregulated serotonin Sporulation KOs
+neuroactive
+synthesis
+signaling TRPSYNPWY
+dopamine
+inhibition K18933 ( , )
+glutamate/ ARGDEGPWY
+GABA
+degradation PWY5088
+nicotinamide
+degradation K08281 ( )
+Reduced
+neuroprotective trehalose PWY2723
+molecules degr a a n d d ation K01087 ( )
+metabolism K00697 ( )
+Elevated K06214 ( )
+curli, a curli
+bacterial production K04336 ( )
+amyloid,
+K04334 ( )
+triggers
+synuclein curli
+pathology regulation K21963 ( , )
+TMA from
+Elevated choline K20038 ( )
+toxic
+metabolite T c M ar A n i f t r in o 
+
+Chunk 37:
+PWY
+GABA
+degradation PWY5088
+nicotinamide
+degradation K08281 ( )
+Reduced
+neuroprotective trehalose PWY2723
+molecules degr a a n d d ation K01087 ( )
+metabolism K00697 ( )
+Elevated K06214 ( )
+curli, a curli
+bacterial production K04336 ( )
+amyloid,
+K04334 ( )
+triggers
+synuclein curli
+pathology regulation K21963 ( , )
+TMA from
+Elevated choline K20038 ( )
+toxic
+metabolite T c M ar A n i f t r in o e m K05245 ( )
+metagenome,suggestingthatthemicrobiomehasdiminishedcapa- genes metabolize L-dopa efficiently, and their abundance in the
+citytogenerateprecursorstodopamineandpossiblyothercatecho- gut correlates directly with reduced efficacy of L-dopa for the
+laminessuchasadrenaline. patient42,43.WedidnotdetectthetdcgeneortheTDCpathwayin
+Tyrosine decarboxylase (TDC) is noteworthy because it is a our dataset, not necessarily because they do not exist but more
+bacterialenzymecapableofmetabolizingL-dopatodopaminein likelythattheywerefilteredoutbythestringentQCcriteria.We
+thegutbeforeitcanreachthebrain.TDCisencodedbybacterial did however detect the species, E. faecium and E. faecalis, and
+tdc gene. Enterococcus faecium and Enterococcus faecalis tdc bothwereelevatedinPD.E.faeciumrosetosignificanceinMWAS
+NatureCommunications|( 2022)1 3:6958 13
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+Fig.5|Microbialgene-familiesandpathwayswithfunctionalrelevancetoPD. untransformedrelativeabundancesinparenthesisforeasierinterpretation;(c)fold
+AnalysisincludedN=724biologicallyindependentsamplesfrom490PDand234 changeindifferentialabundanceinPDvs.NHC(squaresandcircles)with95%
+neurologicallyhealthycontrol(NHC)subjects.Overall,15%ofmicrobialgene- confidenceinterval(CI;solidanddashedlines),calculatedfrombetaandstandard
+families(KOgroups)and30%ofpathways(MetaCyc)testedwereelevatedor errorsestimatedbyMaAsLin2andANCOM-BC.Contentin(aandb):Boxplotsshow
+depletedinPD,aconservativeestimatederivedfromconsensusatFDR<0.05by frequencydistributionofeachKOandpathwayinPD(bluegreen)andNHC
+tw
+
+Chunk 38:
+ologicallyhealthycontrol(NHC)subjects.Overall,15%ofmicrobialgene- confidenceinterval(CI;solidanddashedlines),calculatedfrombetaandstandard
+families(KOgroups)and30%ofpathways(MetaCyc)testedwereelevatedor errorsestimatedbyMaAsLin2andANCOM-BC.Contentin(aandb):Boxplotsshow
+depletedinPD,aconservativeestimatederivedfromconsensusatFDR<0.05by frequencydistributionofeachKOandpathwayinPD(bluegreen)andNHC
+twostatisticalmethods(MaAsLin2andANCOM-BC)(SupplementaryData9,10). (orange)metagenomes.Left,middle,andrightverticalboundariesofeachbox
+Examplesareshownhere,groupedbyinferredfunctionalrelevancetoPD(left representfirst,second(median),andthirdquartilesofthedata.Theabsenceofa
+panel).Datashowincreasedlevelsofmicrobialactivitiesthatcouldcontributeto boxindicates>75%ofsampleshadzeroabundance.Thelinesextendingfromthe
+PDpathogenesis(immunogenicity,alpha-synucleinaggregation,andcreationof twoendsofeachboxrepresent1.5xoutsidetheinterquartilerange(range=(a-
+toxicmetabolites),andreducedlevelsofprotectivemechanisms(anti-inflamma- bundancevalueat75%minusabundancevalueat25%)x1.5).Pointsbeyondthelines
+tion,andneuroactiveandneuroprotectivemolecules).aRelativeabundances(used areoutliersamples.Contentin(c):FoldchangedifferencebetweenPDandNHCin
+inMaAsLin2).bBias-correctedobservedabundances(usedinANCOM-BC).cFold log2-transformedrelativeabundance(squarewithsolidlineof95%CI,MaAsLin2),
+changeinPDvs.NHCasestimatedbyMaAsLin2andANCOM-BC.Y-axis:KOgroups ornaturallogtransformedbias-correctedobservedabundances(circlewithdotted
+(identifiersbeginwith“K”,genesymbolinparentheses)andpathways(“PWY”). lineof95%CI,ANCOM-BC).Blue:elevatedinPD,red:reducedinPD.LPS:Lipo-
+X-axis:Log2transformedrelativeabundances(usedinMaAsLin2)(a),ornaturallog polysaccharide.LTA:Lipoteichoicacid.BLP:murein/bacteriallipoprotein.SCFA:
+transformedbias-correctedobservedabundances(usedinANCOM-BC)(b),with short-chainfatty-acid.TMA:Trimethylamine.
+and was nominated as PD-associated species with FC=1.4 (95% Nicotinamideandtrehaloseareneuroprot
+
+Chunk 39:
+C).Blue:elevatedinPD,red:reducedinPD.LPS:Lipo-
+X-axis:Log2transformedrelativeabundances(usedinMaAsLin2)(a),ornaturallog polysaccharide.LTA:Lipoteichoicacid.BLP:murein/bacteriallipoprotein.SCFA:
+transformedbias-correctedobservedabundances(usedinANCOM-BC)(b),with short-chainfatty-acid.TMA:Trimethylamine.
+and was nominated as PD-associated species with FC=1.4 (95% Nicotinamideandtrehaloseareneuroprotectivemolecules.InPD,
+CI=1.1–1.8) by MaAsLin2 and FC=1.8 (95% CI=1.2–2.8) by disruptionofenergyhomeostasisleadstodysregulationofnicotina-
+ANCOM-BC,bothwithFDR~0.02.E. faecalisyieldedFC=1.2(95% mideproductionandpromotesneurodegeneration51.Arecentclinical
+CI=1–1.5) with FDR=0.1 by MaAsLin2 and FC=1.3 (95% trialofPDwithnicotinamidesupplementationreportedasignificant
+CI=0.94–1.9)with FDR=0.2byANCOM-BC. improvementinpathologicalindicatorsincludinginflammation52.We
+ThelinkbetweenPDandglutamatetoxicityduetooveractivation observed a two-fold increase in the nicotinamidase gene family
+of glutamate receptorhas been demonstrated experimentally44 and (K08281:FC=2.1,95%CI=1.4–3.1,FDR=3E−3),suggestingthePDgut
+associated to glutamate receptor gene in humans45. Imbalance microbiomedegradesthisneuroprotectivemolecule.
+between GABA and glutamate (excitation/inhibition imbalance) Thedisaccharidetrehalosehasgarneredsignificantinterestasa
+weakenssynapticconnectionandpromotesneurodegeneration46.In therapeuticmoleculeinPDandotherneurodegenerativediseases53.
+the PD metagenome, we noted a decrease in glutamate/glutamine Thisislikelyduetoitsactivitiesonautophagocyticpathwayswhich
+synthesis gene-families and pathways (K00266: FC=0.74, 95% limittheaccumulationofpathogenicalpha-synucleinandotherpro-
+CI=0.65–0.83, FDR=5E−5; PWY-5505: FC=0.78, 95% CI=0.7–0.87, teinaggregates54.Aswenotewithnicotinamidedegradation,asimilar
+FDR=1E−4),andaconcomitantincreaseinbothglutamateandGABA two-foldincreasewasobservedinthePDmetagenomeofthetrehalose
+degradation (PWY-5088: FC=1.3, 95% CI=1.1–1.6, FDR=2E−3; ARG- degradati
+
+Chunk 40:
+ pathways (K00266: FC=0.74, 95% limittheaccumulationofpathogenicalpha-synucleinandotherpro-
+CI=0.65–0.83, FDR=5E−5; PWY-5505: FC=0.78, 95% CI=0.7–0.87, teinaggregates54.Aswenotewithnicotinamidedegradation,asimilar
+FDR=1E−4),andaconcomitantincreaseinbothglutamateandGABA two-foldincreasewasobservedinthePDmetagenomeofthetrehalose
+degradation (PWY-5088: FC=1.3, 95% CI=1.1–1.6, FDR=2E−3; ARG- degradationpathway(PWY-2723:FC=2.1,95%CI=1.5-2.9,FDR=4E-5).
+DEG-PWY:FC=1.9,95%CI=1.3–2.6,FDR=2E−3). We also noted evidence for increased metabolism of trehalose by
+Thehighestconcentrationofserotonin isinthegut.Serotonin bacteria (K00697: FC=1.9, 95% CI=1.4-2.5, FDR=1E-3 and K01087:
+abnormalitieshavebeendetectedatvariousstagesofPD,frombefore FC=1.9,95%CI=1.4-2.7,FDR=1E-3),apotentialoutcomeofwhichis
+the development of motor symptoms, making it a potential early reducedavailabilityoftrehaloseforthehost.
+diagnosticmarker47,tolatestagesofPDwhereitmaybeariskfactor The bacterial-derived amyloidogenic protein, curli, exacerbates
+forcognitivedecline48.Itwasshowninmicethatsporeformingbac- alpha-synucleinpathologyandinflammationinexperimentalmodels
+teria induce production ofserotonin inhostcoloniccells49. Trypto- ofPD14–16.ManyEnterobacteriaceaespeciesencodecurli55.Wedetected
+phan,anessentialaminoacidonlyderivedfrommicrobiomeordiet,is 33speciesinEnterobacteriaceaefamilybutonlyEscherichiacoliand
+the rate limiting precursor to serotonin. Tryptophan biosynthesis Klebsiellaspecieshadhigh-enoughabundancetobetested,andthey
+pathwaywasreducedinPD(TRPSYN-PWY:MaAsLin2FC=0.94,95% were all elevated in PD. We also found an enrichment of the gene-
+CI=0.9–0.98, FDR=9E−3; ANCOM-BC FC=0.73, 95% CI=0.67–0.8, families related to curli. csgA (K04334: FC=1.6, 95% CI=1.2–2.1,
+FDR=7E−10).Wealsodetectedanearglobalreductioninsporulation FDR=9E−3), csgB (K04335: FC=1.3, 95% CI=1–1.5,FDR=0.04), and
+genesinPD.Wetested33sporulationKOgroupsinthisdataset,31of csgC(K04336:FC=1.6,95%CI=1.2–2.2,FDR=0.01)arecentraltocurli
+themw
+
+Chunk 41:
+ found an enrichment of the gene-
+CI=0.9–0.98, FDR=9E−3; ANCOM-BC FC=0.73, 95% CI=0.67–0.8, families related to curli. csgA (K04334: FC=1.6, 95% CI=1.2–2.1,
+FDR=7E−10).Wealsodetectedanearglobalreductioninsporulation FDR=9E−3), csgB (K04335: FC=1.3, 95% CI=1–1.5,FDR=0.04), and
+genesinPD.Wetested33sporulationKOgroupsinthisdataset,31of csgC(K04336:FC=1.6,95%CI=1.2–2.2,FDR=0.01)arecentraltocurli
+themweredepletedinPD(0.49≤FC≤0.77,2E−5≤FDR≤0.04),sug- structure. csgG (K06214: FC=1.8, 95% CI=1.3–2.5, FDR=3E−3) is
+gesting that intestinal serotonin production in the host may be necessaryfortheextracellularsecretionandsynthesisofcurli.LuxR/
+diminished. Mat/Ecp(K21963:FC=1.7,95%CI=1.3–2.3,FDR=3E−3)isafamilyof
+Serotonin affects gut motility through modulation of intestinal transcriptionalfactorsthatregulatetheexpressionofcurli.
+contractility50.Giventhatsporeformingbacteriamodulateserotonin Trimethylamine (TMA) is a toxic metabolite produced by gut
+productionandenhancegutmotility49,50,andourdatasuggestaglobal microbiomefromfoodssuchasredmeatandeggyolk.Highlevelof
+depletionofthesporulationKOgroups,wespeculated,andtestedthe circulating TMA has been linked to increased risk of cardiovascular
+hypothesis that constipation, a common symptom of PD, may be diseaseandstroke,likelyduetotoxicandinflammatoryeffects56.Cir-
+related to the depletion of spore forming bacteria. We selected culatinglevelsofTMAO,agutmicrobiomederivedoxidationproduct
+27 sporulation KOgroups that were FDR<0.05 in both ANCOM-BC ofTMA,arereportedlyelevatedinPDandcorrelatewithdiseasepro-
+andMaAsLin2andtestedthehypothesisthattherelativeabundanceof gressionandseverity57.GenefamiliesinvolvedinTMAproductionwere
+sporulationKOgroups is evenlowerin subjectswhoreported con- elevatedinPD,includingcutC(cholinelyase)whichcleavescholineto
+stipation vs. those that did not. Indeed, lower abundances of spor- produce TMA (K20038: FC=1.62, 95% CI=1.2–2.1, FDR=4E−3), and
+ulationKOgroupswasassociatedwithconstipationbothinPDgroup caiT (L-c
+
+Chunk 42:
+relativeabundanceof gressionandseverity57.GenefamiliesinvolvedinTMAproductionwere
+sporulationKOgroups is evenlowerin subjectswhoreported con- elevatedinPD,includingcutC(cholinelyase)whichcleavescholineto
+stipation vs. those that did not. Indeed, lower abundances of spor- produce TMA (K20038: FC=1.62, 95% CI=1.2–2.1, FDR=4E−3), and
+ulationKOgroupswasassociatedwithconstipationbothinPDgroup caiT (L-carnitine/gamma-butyrobetaine antiporter) which exchanges
+(FC=0.76,95%CI=0.66–0.89,P=2E−4),andinNHCgroup(FC=0.58, carnitine for gamma-butyrobetaine before TMA can be produced
+95%CI=0.41–0.83,FDR=3E−3).Weshouldnotethatassociationof (K05245:FC=1.7,95%CI=1.3–2.3,FDR=4E−3).
+sporulation KO groups with PD is not solely due to constipation; In summary, we have generated, and share publicly, a large
+adjustingforconstipation,therelativeabundanceofsporulationKO datasetatthehighestresolutioncurrentlyfeasible.Thedatasetitselfis
+groupswasstillsignificantlylowerinPDthaninNHC(FC=0.79,95% a substantial contribution to open science because it includes
+CI=0.68-0.9,P=5E−4). individual-leveldeepshotgunmetagenomesequencesandextensive
+NatureCommunications|( 2022)1 3:6958 14
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+metadataon490personswithPD,thelargestPDcohortwithmicro- control,tomatchforsharedenvironmentaleffects.Additionalcontrol
+biomedata,andauniquecohortof234neurologicallyhealthyelderly, subjects were recruited from the community. Consent, enrollment,
+whichcanbeusedinawiderangeofstudies.Weuncoveredawide- anddatacollectionprocessforcontrolswasthesameasforpatientsif
+spreaddysbiosisinPDmetagenomethatisindicativeofanenviron- thecontrolwasmetinperson.Forcommunityvolunteers,wefirsthad
+ment permissive for neurodegenerative events and prohibitive of a phone conversation to explain the study, then we mailed the
+recovery.Thisstudyexemplifiedbi-directionaltransferofinformation InformedConsentFormtothemwithaphonenumbertocallwithany
+betweenhumanandexperimentalstudies:Thedataand
+
+Chunk 43:
+sbiosisinPDmetagenomethatisindicativeofanenviron- thecontrolwasmetinperson.Forcommunityvolunteers,wefirsthad
+ment permissive for neurodegenerative events and prohibitive of a phone conversation to explain the study, then we mailed the
+recovery.Thisstudyexemplifiedbi-directionaltransferofinformation InformedConsentFormtothemwithaphonenumbertocallwithany
+betweenhumanandexperimentalstudies:Thedataandresultsgen- questions.ThosewhoreturnedasignedInformedConsentFormwere
+erated here fromhumanmetagenomessetsa broadfoundation for sent a kit for saliva collection, a kit for stool collection, and two
+basicresearch,includingnumerousconcretehypotheseswhichwillbe questionnairestocompleteathomeandreturnbymail.Theeligibility
+testedexperimentallytodiscernthemultitudesofrolesthatthegut criteriatoenrollasacontrolwasabsenceofPD,REMsleepbehavior
+microbiomemayplayinPD.Atthesametime,theresultsgenerated disorder, Alzheimer’s disease, dementia, multiple sclerosis, amyo-
+here confirmed, in humans, several observations that were made trophic lateral sclerosis, ataxia, dystonia, autism, epilepsy, stroke,
+experimentally in animal models. While this study generated many bipolardisorder,andschizophreniabyself-report(hence,neurologi-
+hypotheses with solid evidence that can be tested now, it did not cally healthy controls), preferably being over age 50 years, and
+achievethefullpotentialofametagenomicsstudy.Metagenomicsisa informedconsent.Wetriednottoenrollsubjectswhohadparticipated
+new,albeitfastevolvingfield,andtheresources,methods,andtools, in our prior microbiome studies to maintain cohort independence;
+while state of the art, are still in development. Undoubtedly more however, 11 subjects were inadvertently double-enrolled. We ended
+informationwillberevealedasweincreasethesamplesize,andothers theenrollmentatthestartoftheCOVID-19pandemicinthesouthern
+alsoconductmetagenomicsstudiesandsharethedata.Weanticipate US(March2020)toavoidconfoundingbyinfectionorstressofthe
+thatinnearfuturewewillhavethetoo
+
+Chunk 44:
+
+while state of the art, are still in development. Undoubtedly more however, 11 subjects were inadvertently double-enrolled. We ended
+informationwillberevealedasweincreasethesamplesize,andothers theenrollmentatthestartoftheCOVID-19pandemicinthesouthern
+alsoconductmetagenomicsstudiesandsharethedata.Weanticipate US(March2020)toavoidconfoundingbyinfectionorstressofthe
+thatinnearfuturewewillhavethetoolsandtheanalyticpowertouse pandemic.
+metagenomics,asanewapproach,tostudyPDheterogeneity,search
+for biomarkers,delve deeper into the origin and progressionofPD Exclusions.Subjectswhodidnotreturnastoolsamplewereexcluded
+sub-phenotypes, and investigate the potential in manipulating the (171PD,73controls).OnePDsubjectwasexcludedbecausethestool
+microbiometoprevent,treatandhalttheprogressionofPD. samplewasreceivedduringthepandemic.Weexcluded1controlfor
+potentialsamplemix-upand8forhavingneurologicdisease(7stroke,
+Methods 1 epilepsy). Since the diagnosis of PD can change with time, we
+We have complied with all relevant ethical regulations. Study was reviewedEMRpriortosequencing,andagainbeforedataanalysis,and
+approved by the Institutional Review Board (IRB) for Protection of thosewhosediagnosischangedwereexcluded(N=6).OnePDsubject
+HumansubjectsattheUniversityofAlabamaatBirmingham(UAB)and wasexcludedforlowsequencecount.Thefinalsamplesizewas490
+by the Human Research Protection Office (HRPO) of United States PDand234NHC.
+Department of Defense (funding agency). All subjects gave signed
+informed consent, approved by UAB IRB and DoD HRPO. No com- Metadataandstoolsamplecollection
+pensationwasprovidedforparticipatinginthestudy. Subjects were given a packet containing two questionnaires (meta-
+StudywasconductedattheUniversityofAlabamaatBirmingham data),andastoolcollectionkitwithdetailedinstructionsandaself-
+(UAB)byasingleteamofNGRCinvestigatorsfromstart(studydesign addressedpre-stampedenvelopeforreturn.
+andsubjectenrollment)tofinish(analysisandinterpretation),ensur-
+inguniformmethods.Thesame
+
+Chunk 45:
+dedforparticipatinginthestudy. Subjects were given a packet containing two questionnaires (meta-
+StudywasconductedattheUniversityofAlabamaatBirmingham data),andastoolcollectionkitwithdetailedinstructionsandaself-
+(UAB)byasingleteamofNGRCinvestigatorsfromstart(studydesign addressedpre-stampedenvelopeforreturn.
+andsubjectenrollment)tofinish(analysisandinterpretation),ensur-
+inguniformmethods.Thesameinvestigatorteamconductedthetwo Metadata.TheEnvironmentalandFamilyHistoryQuestionnaire(EFQ)
+priorstudiesthatarebeingreferencedhereforcomparisonofshotgun wasusedtocollectPD-relateddata,andtheGutMicrobiomeQues-
+and16Sanalyses. tionnaire(GMQ)17,28wasfilledoutbysubjectimmediatelyafterstool
+Softwareandreferencedatabasesarereferredtobynameonlyin samplecollectionandgatheredgut-relateddata.Thequestionnaires
+the text; the versions and the URLs are provided in Supplementary have been provided in Supplementary Fig. 1. Questionnaires were
+Data11.TheworkflowisinFig.1.Metadatacollection,DNAextraction, completedbysubjectwithoutinvestigatorinterference.
+sequencingandQC,taxonomicandfunctionalprofiling,andstatistical
+analyses(MWAS)wereblinded. Stool sample. Each subjectprovided one stool sample at one time
+point; hence each data point represents a unique individual. Each
+Studycohort sample was measured and analyzed once. Stool samples were col-
+Enrollment. 670individuals with PD and 316 NHCwereenrolled at lectedathome.Nearlyallsubjects(487PD,232NHC)usedtheDNA
+UABbetweenOctober2018andMarch2020.Allsubjectswerefrom Genotek(Ottawa,Ontario,Canada)OMNIgeneGUTCollectionkit.Five
+the same geographic region, including the city of Birmingham and subjects(3PD,2NHC)usedFisherScientific(Hampton,NH,USA)DNA/
+surroundingareasinthesouthernUS,keepingconfoundingeffectof RNA-free BD BBL Sterile/Media-free Swabs. Collection method was
+geographyonthemicrobiometoaminimum.Theeligibilitycriteriato includedasatechnicalcovariateinanalyses.Uponreceiptinthelab,
+enrollasacasewasdiagnosisofPDandinformedconsent.PotentialPD 
+
+Chunk 46:
+including the city of Birmingham and subjects(3PD,2NHC)usedFisherScientific(Hampton,NH,USA)DNA/
+surroundingareasinthesouthernUS,keepingconfoundingeffectof RNA-free BD BBL Sterile/Media-free Swabs. Collection method was
+geographyonthemicrobiometoaminimum.Theeligibilitycriteriato includedasatechnicalcovariateinanalyses.Uponreceiptinthelab,
+enrollasacasewasdiagnosisofPDandinformedconsent.PotentialPD sampleswerestoredin−20°Cfreezer.
+casesforenrollmentwereidentifiedviasystematicpre-screeningof
+electronic medical records (EMR) of patients with an upcoming QC of returned packets. Upon receipt of each packet, the EFQ,
+appointmentintheMovementDisorderClinicatUAB.Subjectswere GMQ and stool sample in the packet were cross-checked for
+invited to enroll in the study after their clinic visit if the attending potentiallabelingerrorinthe laborsamplemix-upathome(PD
+specialistconfirmedPDdiagnosisandthepatientwaswillingtohear and control pairs living together) and for completeness, com-
+aboutthestudy.Witheachpotentialparticipant,inaprivatesetting, prehensibility, and lucidity of information. Issues were resolved
+our recruitment coordinator explained the study and their involve- bycheckingtheEMRandcallingthesubject,andifnotresolved,
+ment,subjectwasgiventimetoreadtheInformedConsentForm,to the sample or metadata in question were excluded. Metadata
+ask questions, and if they agreed to participate, sign the consent. were entered in a customized PROGENY database software (Pro-
+Duringenrollmentvisit,subjectsdonatedabloodorsalivasample,and geny Genetics LLC, Aliso Viejo, CA, USA), and in Excel spread-
+tookhometwoquestionnairesandastoolcollectionkittocomplete sheets, by two data entry staff, downloaded, cross-checked, and
+and return in the pre-stamped envelope via US Postal Service. The errors corrected. PROGENY was used for storage and retrieval
+spouse orfriend accompanying the patient was invited to enrollas ofdata.
+NatureCommunications|( 2022)1 3:6958 15
+
+---PAGE BREAK---
+
+Article https://d
+
+Chunk 47:
+-
+tookhometwoquestionnairesandastoolcollectionkittocomplete sheets, by two data entry staff, downloaded, cross-checked, and
+and return in the pre-stamped envelope via US Postal Service. The errors corrected. PROGENY was used for storage and retrieval
+spouse orfriend accompanying the patient was invited to enrollas ofdata.
+NatureCommunications|( 2022)1 3:6958 15
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+DNAisolation,librarypreparation,next-generationsequencing Functional profiling. QC’ed sequences were profiled for potential
+Prior to shipping samples for processing, case and control sam- functionalcontent(UniRef90gene-families61andMetaCycmetabolic
+pleswereinter-mixedtoavoidbatcheffectduringDNAisolation pathways62) using HUMAnN325 with default parameters. Resulting
+andsequencing.Frozenstoolsampleswereshippedondryiceto UniRef90 gene-families were converted into KO groups using the
+the metagenomic services company CosmosID (Germantown, HUMAnN utility tool ‘humann_regroup_table‘. Pathways and KO
+MD,USA).DNAwasisolatedfromanaliquotofstoolsampleusing groupswerefilteredtocontainonlycommunity-leveldata.Functional
+the Qiagen (Germantown, MD, USA) DNeasy PowerSoil Pro high- profiling resulted in 8,528 distinct KO groups and 511 metabolic
+throughput kit on the QIAcube high-throughput platform pathways,numberswhichareinlinewithprevioushumangutmicro-
+according to the manufacturer’s protocol. Isolated DNA was biomestudies25.
+quantified by Qubit. The sequencing libraries were prepared by
+usingtheIlluminaNexteraXTtransposasesystem.Librarieswere Statisticalanalysis
+sequenced on the Illumina NovaSeq6000instrumentaiming for Thesamplesizeforallstatisticalanalysesincluded490PDand234
+40M reads per sample, following paired-end 150bp sequencing NHC, except tests involving constipation included 468 PD and 225
+protocol. Positive and negative controls and technical replicates NHC,andconfoundinganalysisrequiringdataonallconfoundershad
+wereincludedforextractionandsequ
+
+Chunk 48:
+s
+sequenced on the Illumina NovaSeq6000instrumentaiming for Thesamplesizeforallstatisticalanalysesincluded490PDand234
+40M reads per sample, following paired-end 150bp sequencing NHC, except tests involving constipation included 468 PD and 225
+protocol. Positive and negative controls and technical replicates NHC,andconfoundinganalysisrequiringdataonallconfoundershad
+wereincludedforextractionandsequencing,allpassedQC.The 435 PD and 219 NHC. When using R, default parameters were used
+numberofrawsequencereadspersamplerangedwithin17Mto unlessnoted.Everytest,exceptSparCCcorrelations,includedtech-
+385M (average 50M per sample). nical variables as covariates. Technical variables were (1) total
+sequencecountpersample(standardizedusing‘scale‘inR),and(2)
+Bioinformaticprocessingofsequences stoolcollectionkit(5subjectsusedsterileswabs,719usedOMNIgene
+QCofsequences.QCofsequencereadswasperformedusingBBDuk GUT).Othercovariateswereaddedasappropriateandwillbenoted.
+andBBSplit.InthefirststepofQC,BBDukwasusedtoremoveNextera Significancedeterminationwasbasedonthetest,whetheragnosticor
+XTadapterandPhiXgenomecontamination,andqualitytrimandfilter hypothesis-driven,andcorrectedformultipletestingaccordingly,as
+sequences.BBDukwasranwiththe‘ftm=5‘toensureanyextrabases notedbelowforeachanalysis.
+after the 150bp were removed, ‘tbo‘ option to additionally trim
+adaptersbasedonpairedreadoverlapdetection,‘tpe‘optiontotrim Analysisofmetadata.Distributionsof53variables(Table1)inPDvs.
+pairedreadstothesamelength,‘qtrim=rl‘toqualitytrimboth5′and3′ NHCweretestedusingFisher’sexacttestforcategoricalvariableswith
+endsofsequences,‘trimq=25‘totrimendsofsequencesuptoquality ‘fisher.test‘ in R, and using Wilcoxon rank-sum test for quantitative
+scoreof25,and‘minlen=50‘toremovesequencesthatfallbelow50bp variableswith‘wilcox.test‘inR.ORsand95%CIwerecalculatedusing
+after contaminate removal and trimming. Percent of sequences ‘fisher.test‘unlessthe2×2tablecontainedazero,then‘Prop.or’from
+removedrangedfrom22%to72%ofin
+
+Chunk 49:
+dsofsequences,‘trimq=25‘totrimendsofsequencesuptoquality ‘fisher.test‘ in R, and using Wilcoxon rank-sum test for quantitative
+scoreof25,and‘minlen=50‘toremovesequencesthatfallbelow50bp variableswith‘wilcox.test‘inR.ORsand95%CIwerecalculatedusing
+after contaminate removal and trimming. Percent of sequences ‘fisher.test‘unlessthe2×2tablecontainedazero,then‘Prop.or’from
+removedrangedfrom22%to72%ofinitialreadswithameanof28% the pairwiseCI R package specifying ‘CImethod=’Woolf’‘ was used.
+removed per sample. Next, all sequence reads mapping to human P-valuesweretwo-sidedandnotcorrectedformultipletestingbecause
+reference genome (GRCh38.p13) were removed using BBSplit with theaimwastodetectanytrendofadifferencethatcouldpointtoa
+default parameters, eliminating <3% of BBDuk processed reads for potentialconfounder.
+mostsamples.Finally,weremovedlow-complexitysequences(<2%of
+humandecontaminatedreads)withBBDukentropyfilteringspecifying Testingtheoverallcompositionofthemetagenome
+‘entropy=0.01‘,whichwasperformedtoremovesequencingartifacts Principalcomponentanalysis(PCA).WeusedAitchisondistancesas
+consistingofoverrepresentedlongN-mersof“G”.TheresultingQC’ed the measure of inter-sample differences inthe compositions of gut
+sequencesconsistedof3Mto258Mreads(average36M)persample. metagenomes.AitchisondistancesareEuclideandistancescalculated
+Onesamplewith3Mreadswasremovedforanalysis,butisincludedin fromcenteredlog-ratio(clr)transformedspeciescountdata.Theclr
+thepubliclyavailabledataset.Inessence,wefollowedthesameQC transformationwasperformedusingEq.(1)inR:
+protocol as recommended by HMP24, with one difference: as our
+sequencingprotocoldidnotincludePCRamplificationstep,wedid clr=logðx+1Þ(cid:2)meanðlogðx+1ÞÞ ð1Þ
+notremoveduplicatedsequences,asthesemaybeactualbiological
+overrepresentation. wherex is a vector of all species counts ina sample. PCA was per-
+formedonAitchisondistances,usingthe‘prcomp‘inR.Thefirsttwo
+Taxonomic profiling. QC’ed sequences were profiled using PC’swereplottedus
+
+Chunk 50:
+ith one difference: as our
+sequencingprotocoldidnotincludePCRamplificationstep,wedid clr=logðx+1Þ(cid:2)meanðlogðx+1ÞÞ ð1Þ
+notremoveduplicatedsequences,asthesemaybeactualbiological
+overrepresentation. wherex is a vector of all species counts ina sample. PCA was per-
+formedonAitchisondistances,usingthe‘prcomp‘inR.Thefirsttwo
+Taxonomic profiling. QC’ed sequences were profiled using PC’swereplottedusing‘autoplot‘fromtheggfortifyRpackage.
+MetaPhlAn325 with the accompanying database of ~1.1M unique
+clade-specific marker genes. MetaPhlAn3 was ran twice: (1) rela- Beta-diversity. The difference in the overall composition of PD vs.
+tive abundances were generated using the default settings to be NHCmetagenomeswasformallytestedonAitchisondistancesusing
+used in downstream analyses with MaAsLin258, and (2) relative PERMANOVA63via‘adonis2‘fromtheveganRpackage.Significanceof
+abundancesweregeneratedusingthe‘--unknown-estimation‘flag PERMANOVA was determined using 9,999 permutations, which is
+to be multiplied by the total sequence reads of the sample to cappedatP<1E−4forthehighestsignificance.
+generate counts used in ANCOM-BC59. Taxonomic profiling
+resultedin2,270speciesrepresentedbyatleastonemarkergene, Dispersion. To test homogeneity of dispersion (the assumption in
+which were then trimmed by default parameters of MetaPhlAn PERMANOVAthatgroupsbeingcompared(PDvs.NHC)aresimilarin
+down to 719 species (default parameters: t=rel_ab, perc_non- dispersion)weperformedPERMDISPusing‘betadisper‘and‘permut-
+zero=0.33, stat_q=0.2, avoid_disqm=FALSE, stat=tavg_g, min_- est‘functionsfromtheveganRpackage.SignificanceofPERMDISPwas
+cu_len=2000,unknown_estimation=FALSE). determinedusing9,999permutations,whichiscappedatP<1E−4for
+thehighestsignificance.
+Enterotypeprofiling.Usingrelativeabundancesofgenera,theweb-
+basedEMBLenterotypeclassifierwasusedtoassignenterotypesto Enterotypes.Differences in the enterotype frequencies in PD vs
+eachsamplebasedontheoriginalenterotypedefinition(Bacteroides, NHC was 
+
+Chunk 51:
+e.SignificanceofPERMDISPwas
+cu_len=2000,unknown_estimation=FALSE). determinedusing9,999permutations,whichiscappedatP<1E−4for
+thehighestsignificance.
+Enterotypeprofiling.Usingrelativeabundancesofgenera,theweb-
+basedEMBLenterotypeclassifierwasusedtoassignenterotypesto Enterotypes.Differences in the enterotype frequencies in PD vs
+eachsamplebasedontheoriginalenterotypedefinition(Bacteroides, NHC was tested using chi-squared test. The initial test was con-
+Firmicutes,Prevotella)60.ThefrequencyofeachenterotypeinPDand ductedonthedistributionacrossthreeenterotypesinPDvs.NHC
+NHC were calculated separately, as number of samples assigned to via ‘chisq.test‘ in R. To identify enterotypes that drive the dif-
+eachenterotypedividedbytotalnumberofsamples. ference, a sequential test was applied which uses chi-squared,
+NatureCommunications|( 2022)1 3:6958 16
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+tags the factor contributing the largest effect to chi-squared as and pathways using ggplot2 R package. To extract bias-
+the primary factor, removes the primary factor, normalizes the corrected observed abundances from ANCOM-BC to plot, we
+frequencies of remaining variables (enterotypes), repeats the usedEq.(4)inR:
+process until chi-squared is no longer significant64. Frequency
+distribution of enterotypes in PD and NHC were plotted using
+‘mosaic‘fromthe vcdR package. Bias(cid:2)correctedobservedabundances=expðlogðx+1Þ(cid:2)yÞ ð4Þ
+Differentialabundanceanalysis wherexisasamplebyfeaturematrixofobservedabundances,
+Unbiaseddifferentialabundanceanalysis:MWAS.MWASapproach andyisavectorofsamplingfractionsestimatedbyANCOM-BC
+wasusedtotestdifferentialabundancesofspecies,genera,KOgroups, foreachsample.
+andpathwaysinturn,in490PDvs.234NHC.Eachtestincludedall • Parameters. MaAsLin2 and ANCOM-BC were run with default
+detectedfeaturesthatpassedsequenceQCandwhichwerepresentin parameters,except:microbialfeaturesthatwerepresentin<5%
+≥5%ofsubjects(257species,107genera,4,679KOgro
+
+Chunk 52:
+ndyisavectorofsamplingfractionsestimatedbyANCOM-BC
+wasusedtotestdifferentialabundancesofspecies,genera,KOgroups, foreachsample.
+andpathwaysinturn,in490PDvs.234NHC.Eachtestincludedall • Parameters. MaAsLin2 and ANCOM-BC were run with default
+detectedfeaturesthatpassedsequenceQCandwhichwerepresentin parameters,except:microbialfeaturesthatwerepresentin<5%
+≥5%ofsubjects(257species,107genera,4,679KOgroups,407path- of samples were excluded from testing to ensure minimum
+ways). The primary analysis was species-level MWAS. Genus-level analytic N=37 (‘zero_cut=0.95‘ for ANCOM-BC, ‘min_preva-
+MWASwasforcomparabilitytopastliterature.KOgroupandpathway lence=0.05‘forMaAsLin2),andmultipletestingcorrectionwas
+MWASwereforfunctionalinference. Benjamini-Hochberg FDR67 (‘p_adj_method=”BH”‘ for ANCOM-
+• Statistical tests. Twomultivariable association tests, MaAsLin2 BC,‘correction=”BH”‘forMaAsLin2).Additionally,forMaAsLin2,
+and ANCOM-BC, were used in parallel to ensure results were ‘normalization‘wassetto“NONE”asdatainputwasalreadytotal
+robustto methodological variations. We chose MaAsLin2 and sumscalednormalized,and‘standardize‘wassetto“FALSE”as
+ANCOM-BC because in comparative studies with real and standardization of quantitative variables was done prior to
+simulated data, conducted by us and others65,66, they were runningMaAsLin2usingthe‘scale‘functioninR.
+amongthemostrobustinkeepingfalsepositiveratelowwhile • Ageandsexadjustment.84PD-associatedspeciesfromMWAS
+maintainingpower66.MaAsLin2isthedifferentialabundancetest were retested for association with PD with age, sex, stool
+inthebioBakerysuiteoftools,whichweusedformuchofthe collectionmethod,andtotalsequencecountinthemodel,using
+bioinformatics.ANCOM-BCdiffersinapproach,andinaddition, MaAsLin2.ANCOM-BCwasnotusedinsubsetanalysesbecause
+has introduced the notion of “sampling fraction” to estimate bias-correctionwoulduseonlythe84speciesandnottheentire
+how well the observed abundances in a samplerepresentthe metagenome.Benjamini-HochbergF
+
+Chunk 53:
+iteoftools,whichweusedformuchofthe collectionmethod,andtotalsequencecountinthemodel,using
+bioinformatics.ANCOM-BCdiffersinapproach,andinaddition, MaAsLin2.ANCOM-BCwasnotusedinsubsetanalysesbecause
+has introduced the notion of “sampling fraction” to estimate bias-correctionwoulduseonlythe84speciesandnottheentire
+how well the observed abundances in a samplerepresentthe metagenome.Benjamini-HochbergFDRmethod67wasusedfor
+true absolute abundances in the ecosystem (human gut) and multipletestingcorrection.
+incorporates bias correction to adjust for differences in • Confounderanalysis.Toinvestigatetheconfoundingeffectsof
+samplingfractionsacrosssamples.Thus,sinceMaAsLin2tests extrinsicvariablesthatdifferedbetweenPDandNHC,MaAsLin2
+relative abundances, and ANCOM-BC tests bias-corrected wasperformedwiththe84PD-associatedspeciesfromMWAS,
+observed abundances (approximating absolute abundances), and 9 variables in the model: PD/NHC, total sequence count,
+the results shown side-by-side provide different and comple- intake(yes/no)ofalcohol,laxatives,probiotics,antihistamines,
+mentaryperspectiveonhowPDandNHCmetagenomesdiffer. depression-anxiety-mood medication, pain medication, and
+• Multiple testing correction. Benjamini-Hochberg FDR method67 sleep-aid. Five subjects were excluded because they were
+wasused. missing pain medication and sleep-aid data. Stool collection
+• Significance.Forspecies-levelMWAS(theprimaryanalysis),we methodwasnotincludedasthe5excludedsubjectswerethose
+set statistical significance for association with PD as concor- whousedswabs.AlthoughPDandNHCalsodifferedinweight
+dance between ANCOM-BC and MaAsLin2 with FDR<0.05 by loss,GIdiscomfort,andconstipation,thesevariableswerenot
+one and FDR≤0.1 by the other (i.e., a taxon was called consideredconfoundersbecausetheyareintrinsicfeaturesof
+significance if it achieved FDR<0.05 by both MaAsLin2 and PD.AdjustingforthemwouldmaskapartofPD,whichiscounter
+ANCOM-BC,orFDR<0.05inMaAsLin2andFDR≤0.1inANCOM- totheaimofthisstudy:tog
+
+Chunk 54:
+ance between ANCOM-BC and MaAsLin2 with FDR<0.05 by loss,GIdiscomfort,andconstipation,thesevariableswerenot
+one and FDR≤0.1 by the other (i.e., a taxon was called consideredconfoundersbecausetheyareintrinsicfeaturesof
+significance if it achieved FDR<0.05 by both MaAsLin2 and PD.AdjustingforthemwouldmaskapartofPD,whichiscounter
+ANCOM-BC,orFDR<0.05inMaAsLin2andFDR≤0.1inANCOM- totheaimofthisstudy:togenerateafullunalteredviewofthe
+BC,orFDR<0.05inANCOM-BCandFDR≤0.1inMaAsLin2).For dysbiosisinPDmetagenome.AgeandsexarealsointrinsictoPD
+otherMWAS,whilenohardrulewasset,resultsdiscussedare as they are risk factors. However, the selection of household
+thosethatareintheFDR~0.05to~0.1range. controlstominimizeenvironmentalvariationinflatedthefemale
+• Effect sizes.Measured asfold change (FC) and calculated in R preponderance and younger ages in controls as PD is more
+usingEqs.(2)and(3)forANCOM-BCandMaAsLin2respectively: prevalentinmen.Toensurethespecies-levelGWASresultswere
+notartifactsofthisdistortion,weranMaAsLin2onthe84PD-
+Foldchange=expðxÞ ð2Þ associatedspeciesfromMWASand5variablesinthemodel:PD/
+NHC, total sequence count, stool collection method, male/
+female,andageatstoolcollection(inyearsandstandardized
+Foldchange=2^x ð3Þ
+using‘scale‘inR).Benjamini-HochbergFDRmethod67wasused
+formultipletestingcorrection.
+wherexisavectorofmodelcoefficientsderivedfromANCOM-
+BC(basedonnaturallogtransformedabundances),orMaAsLin2 Hypothesis-drivendifferentialabundanceanalyses. The following
+(basedonlog2-transformedrelativeabundances). testswereconductedusinglinearregression(via‘lm‘inR)onlog2-
+• Plots.The-log10FDRq-valuesfromMaAsLin2andANCOM-BC transformedrelativeabundancesasdonewithMaAsLin2.Eachtestwas
+speciesMWASwereplottedforalltestedspeciesusingggplot2R hypothesis driven, and no multiple testing was involved. Although
+package. Venn diagrams showing overlap of MaAsLin2 and tests hada specified direction,we present two-sided P-valuesto be
+ANCOM-BC detected species from MWAS at FDR<0.05 and conser
+
+Chunk 55:
+log10FDRq-valuesfromMaAsLin2andANCOM-BC transformedrelativeabundancesasdonewithMaAsLin2.Eachtestwas
+speciesMWASwereplottedforalltestedspeciesusingggplot2R hypothesis driven, and no multiple testing was involved. Although
+package. Venn diagrams showing overlap of MaAsLin2 and tests hada specified direction,we present two-sided P-valuesto be
+ANCOM-BC detected species from MWAS at FDR<0.05 and conservative.Threehypothesesweretested.Theywereindependent
+FDR<0.1 were created using the ggvenn R package. Relative andunrelated;however,shouldoneseeappropriatetoapplyBonfer-
+abundances (MaAsLin2) and bias-corrected observed abun- ronicorrectionfor3hypotheses,allthreewillretain significanceat
+dances(ANCOM-BC)inPDandNHC,andtheFCswith95%CI Bonferroni corrected,two-sided, P=4E-3 for elevatedPrevotella sub-
+wereplottedforPD-associatedspeciesandselectedKOgroups genusinPDvs.NHC,atP=6E-5forelevatedCluster#17inPDvs.NHC,
+NatureCommunications|( 2022)1 3:6958 17
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+andforreducedsporulationKOandconstipationatP=6E-4inPDand Reportingsummary
+atP=0.01inNHC. Further information on research design is available in the Nature
+• Prevotellasub-genus.Thistestwasconductedtoassessrepro- PortfolioReportingSummarylinkedtothisarticle.
+ducibilityofanearlierfindingofelevatedabundancesofaPre-
+votellasub-genus17thatwasidentifiedbythe16SdatabaseSILVA, Dataavailability
+and included Prevotella buccalis, timonensis, bivia, disiens and The datasets generated and analyzed during the current study are
+oralis. At species-level they were individually too rare and availabletothepublicwithnorestrictionsattheNCBISequenceRead
+excluded from MWAS. We collapsed relative abundances of Archive(SRA)underBioProjectIDPRJNA834801.SequencesonSRA
+thesespeciestocreatethePrevotellasub-genusandtestedthe are pre-QC. “Source Data”, the post-QC and post taxonomic and
+differenceinPDvs.NHC. functionalprofilingdatageneratedhere,isprovidedtothepublicwith
+• Cluster#17.Thistestwa
+
+Chunk 56:
+nd availabletothepublicwithnorestrictionsattheNCBISequenceRead
+excluded from MWAS. We collapsed relative abundances of Archive(SRA)underBioProjectIDPRJNA834801.SequencesonSRA
+thesespeciestocreatethePrevotellasub-genusandtestedthe are pre-QC. “Source Data”, the post-QC and post taxonomic and
+differenceinPDvs.NHC. functionalprofilingdatageneratedhere,isprovidedtothepublicwith
+• Cluster#17.Thistestwasconductedtoassessreproducibilityof no restrictions at Zenodo [https://zenodo.org/record/7246185]. The
+an earlier finding of elevated abundances of opportunistic human reference genome used for decontaminating metagenomic
+pathogens detected at genus-level17. Again, individual species sequences(GRCh38.p13)ispubliclyavailableatNCBIundertheGen-
+wererareand not tested, except Porphyromonas asaccharoly- Bank assembly accession number GCA_000001405.28. The Cho-
+tica.Wecombinedthem,aswasdoneinpriorstudywithgenera, coPhlAndatabase(v30)usedbyMetaPhlAn3fortaxonomicprofilingis
+and tested the difference between PD and NHC. Test was publiclyavailablefordownloadfromtheMetaPhlAndatabasesFTPsite
+performed once with all 19 species of cluster #17 combined [http://cmprod1.cibio.unitn.it/biobakery3/metaphlan_databases]orby
+(listedinSupplementaryData8),andonceexcludingPorphyr- running the command ‘metaphlan --install‘. The ChocoPhlAn and
+omonasasaccharolytica. UniRef90 reference databases (v201901b) used during functional
+• SporulationKOgroupsandconstipation.Thistestwasconducted profilingwithHUMAnN3arepubliclyavailabletodownloadfromthe
+becausesporulationKOgroupswerereducedinPD,andprior
+HUMAnNdataFTPsite[http://huttenhower.sph.harvard.edu/humann_
+studieshaveshownsporulationspeciesmodulategutmotility;49
+data]orbyusingthe‘humann_databases‘utilityscript.Pathwaydata
+hencethequestion:Doourdatasupportanassociationbetween forfunctionalprofilingofpathwaysbyHUMAnNcomepackagedwith
+reducedlevelsofsporulationKOgroupsandconstipation?To
+theHUMAnNprogramandwerederivedfromthepubliclyaccessible
+testthis,wecollap
+
+Chunk 57:
+e[http://huttenhower.sph.harvard.edu/humann_
+studieshaveshownsporulationspeciesmodulategutmotility;49
+data]orbyusingthe‘humann_databases‘utilityscript.Pathwaydata
+hencethequestion:Doourdatasupportanassociationbetween forfunctionalprofilingofpathwaysbyHUMAnNcomepackagedwith
+reducedlevelsofsporulationKOgroupsandconstipation?To
+theHUMAnNprogramandwerederivedfromthepubliclyaccessible
+testthis,wecollapsedthe27sporulationKOgroupsthathad
+MetaCycreferencedatabase(v24)[https://metacyc.org/].
+shownassociationwithPD(i.e.,inSupplementaryData9,sear-
+chedKOgroupnamesforkeyword“sporulation”,andselected
+Codeavailability
+thosewithFDR<0.05byANCOM-BCandMaAsLin2),andtested
+CodeusedtoperformsequenceQC,taxonomicandfunctionalpro-
+their combined relative abundance in constipated (in past filing, statistical analyses, and figure generation are provided as
+3 months) vs. non-constipated strata, within PD and NHC “SupplementaryCode”inthesupplementofthemanuscriptandtothe
+separately. To determine if sporulation KO groups were
+public with no restrictions on Zenodo [https://zenodo.org/record/
+significantlydepletedinPDindependentlyofconstipation,we
+7246185].
+re-tested the association of case status with abundance of
+sporulationKOgroups,thistimeadjustingforconstipationin References
+themodel.
+1. Fan,Y.&Pedersen,O.Gutmicrobiotainhumanmetabolichealth
+anddisease.Nat.Rev.Microbiol19,55–71(2021).
+Networkanalysis.CorrelationnetworksweregeneratedforPDand
+2. Erny,D.etal.Hostmicrobiotaconstantlycontrolmaturationand
+NHC microbiomes separately. Pairwise SparCC correlations68 were functionofmicrogliaintheCNS.Nat.Neurosci.18,965–977(2015).
+calculatedusingspeciescountdataasinputto‘fastspar‘fromFastSpar
+3. Dorsey,E.R.,Sherer,T.,Okun,M.S.&Bloem,B.R.Theemerging
+(aC++implementationofSparCC)specifying100iterations.Permuted
+evidenceoftheparkinsonpandemic.J.ParkinsonsDis.8,
+P-valueswerethencalculatedforeachcorrelationby(1)creating1000 S3–S8(2018).
+randomdatasets,(2)calculatingSparCCcorrelationsforeachrandom 4. Obeso,J.A.
+
+Chunk 58:
+i.18,965–977(2015).
+calculatedusingspeciescountdataasinputto‘fastspar‘fromFastSpar
+3. Dorsey,E.R.,Sherer,T.,Okun,M.S.&Bloem,B.R.Theemerging
+(aC++implementationofSparCC)specifying100iterations.Permuted
+evidenceoftheparkinsonpandemic.J.ParkinsonsDis.8,
+P-valueswerethencalculatedforeachcorrelationby(1)creating1000 S3–S8(2018).
+randomdatasets,(2)calculatingSparCCcorrelationsforeachrandom 4. Obeso,J.A.etal.Past,present,andfutureofParkinson’sdisease:a
+dataset, and (3) calculating P-values for each correlation by deter-
+specialessayonthe200thAnniversaryoftheShakingPalsy.Mov.
+miningtheproportionofrandomcorrelationsthatwerestrongerthan Disord.32,1264–1310(2017).
+the original correlations. The Louvain algorithm for community 5. Klein,C.&Westenberger,A.GeneticsofParkinson’sdisease.Cold
+detection69wasused(via‘cluster_louvain‘fromtheigraphRpackage)
+SpringHarb.Perspect.Med.2,a008888(2012).
+to algorithmically detect clusters of species using correlations that 6. Nalls,M.A.etal.Identificationofnovelriskloci,causalinsights,and
+reached|r|>0.2anduncorrectedpermutedP<0.05.Thenumberof heritableriskforParkinson’sdisease:ameta-analysisofgenome-
+correlations at|r|>0.2 and uncorrected permuted P<0.05 for each wideassociationstudies.LancetNeurol.18,1091–1102(2019).
+species was calculated using ‘degree‘ from igraph. To visualize net-
+7. Chen,H.&Ritz,B.ThesearchforenvironmentalcausesofParkin-
+works,correlationsthatreached|r|>0.2withuncorrectedpermuted son’sdisease:movingforward.J.ParkinsonsDis.8,S9–S17(2018).
+P<0.05wereimportedintoGephialongwiththeirclustermember- 8. Braak,H.,Rub,U.,Gai,W.P.&DelTredici,K.IdiopathicParkinson’s
+ships.TheForceAtlas2algorithm70wasthenusedtoplotthenetwork,
+disease:possibleroutesbywhichvulnerableneuronaltypesmay
+showingspeciesasnodes,correlationsasconnectingedgesbetween
+besubjecttoneuroinvasionbyanunknownpathogen.J.Neural
+species,andstrengthofcorrelationbytheweightoftheedge. Transm.(Vienna)110,517–536(2003).
+9. Breen,D.P.,Halliday,G.M.&Lang,A.E.Gut-brainaxisandthe
+R
+
+Chunk 59:
+i,K.IdiopathicParkinson’s
+ships.TheForceAtlas2algorithm70wasthenusedtoplotthenetwork,
+disease:possibleroutesbywhichvulnerableneuronaltypesmay
+showingspeciesasnodes,correlationsasconnectingedgesbetween
+besubjecttoneuroinvasionbyanunknownpathogen.J.Neural
+species,andstrengthofcorrelationbytheweightoftheedge. Transm.(Vienna)110,517–536(2003).
+9. Breen,D.P.,Halliday,G.M.&Lang,A.E.Gut-brainaxisandthe
+Reproducibility spreadofalpha-synucleinpathology:Vagalhighwayordeadend?
+Theresultscanbereproducedusingrawsequenceandmetadatathat Mov.Disord.34,307–316(2019).
+arepubliclyavailableonNCBISRAPRJNA834801,orusingprocessed 10. Horsager,J.etal.Brain-firstversusbody-firstParkinson’sdisease:a
+data(post-QCandtaxonomicandfunctionalprofiling)inthe“Source multimodalimagingcase-controlstudy.Brain143,3077–3088
+Data”onZenodo[https://zenodo.org/record/7246185],followingthe (2020).
+Methods section of the manuscript and using the “Supplementary 11. Kim,S.etal.Transneuronalpropagationofpathologicalpha-
+Code”providedwiththismanuscript,alsoonZenodo[https://zenodo. synucleinfromtheguttothebrainmodelsParkinson’sdisease.
+org/record/7246185]. Neuron103,627–641.e7(2019).
+NatureCommunications|( 2022)1 3:6958 18
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+12. Sampson,T.R.etal.Gutmicrobiotaregulatemotordeficitsand 36. Travassos,L.H.etal.Toll-likereceptor2-dependentbacterialsen-
+neuroinflammationinamodelofParkinson’sdisease.Cell167, singdoesnotoccurviapeptidoglycanrecognition.EMBORep.5,
+1469–1480.e12(2016). 1000–1006(2004).
+13. Matheoud,D.etal.IntestinalinfectiontriggersParkinson’sdisease- 37. Shi,Y.etal.Functionandclinicalimplicationsofshort-chainfatty
+likesymptomsinPink1(−/−)mice.Nature571,565–569(2019). acidsinpatientswithmixedrefractoryconstipation.ColorectalDis.
+14. Sampson,T.R.etal.Agutbacterialamyloidpromotesalpha- 18,803–810(2016).
+synucleinaggregationandmotorimpairmentinmice.Elife9, 38. Park,J.,Wang,Q.,Wu,Q.,Mao-Draayer,Y.&Kim,C.H.Bidirectional
+e53111(2020). regulatorypot
+
+Chunk 60:
+- 37. Shi,Y.etal.Functionandclinicalimplicationsofshort-chainfatty
+likesymptomsinPink1(−/−)mice.Nature571,565–569(2019). acidsinpatientswithmixedrefractoryconstipation.ColorectalDis.
+14. Sampson,T.R.etal.Agutbacterialamyloidpromotesalpha- 18,803–810(2016).
+synucleinaggregationandmotorimpairmentinmice.Elife9, 38. Park,J.,Wang,Q.,Wu,Q.,Mao-Draayer,Y.&Kim,C.H.Bidirectional
+e53111(2020). regulatorypotentialsofshort-chainfattyacidsandtheirG-protein-
+15. Chen,S.G.etal.Exposuretothefunctionalbacterialamyloid coupledreceptorsinautoimmuneneuroinflammation.Sci.Rep.9,
+proteincurlienhancesalpha-synucleinaggregationinagedFischer 8837(2019).
+344ratsandCaenorhabditiselegans.Sci.Rep.6,34477(2016). 39. Forsyth,C.B.etal.Increasedintestinalpermeabilitycorrelateswith
+16. Wang,C.,Lau,C.Y.,Ma,F.&Zheng,C.Genome-widescreen sigmoidmucosaalpha-synucleinstainingandendotoxinexposure
+identifiescurliamyloidfibrilasabacterialcomponentpromoting markersinearlyParkinson’sdisease.PLoSONE6,e28032(2011).
+hostneurodegeneration.ProcNatlAcadSciUSA118, 40. Yadav,D.&Kumar,P.Restorationandtargetingofaberrantneu-
+e2106504118(2021). rotransmittersinParkinson’sdiseasetherapeutics.Neurochem.Int.
+17. Wallen,Z.D.etal.Characterizingdysbiosisofgutmicrobiomein 156,105327(2022).
+PD:evidenceforoverabundanceofopportunisticpathogens.NPJ 41. Olson,C.A.etal.Thegutmicrobiotamediatestheanti-seizure
+ParkinsonsDis.6,11(2020). effectsoftheketogenicdiet.Cell173,1728–1741.e13(2018).
+18. Toh,T.S.etal.GutmicrobiomeinParkinson’sdisease:newinsights 42. vanKessel,S.P.etal.Gutbacterialtyrosinedecarboxylasesrestrict
+frommeta-analysis.ParkinsonismRelat.Disord.94,1–9(2022). levelsoflevodopainthetreatmentofParkinson’sdisease.Nat.
+19. Romano,S.etal.Meta-analysisoftheParkinson’sdiseasegut Commun.10,310(2019).
+microbiomesuggestsalterationslinkedtointestinalinflammation. 43. MainiRekdal,V.,Bess,E.N.,Bisanz,J.E.,Turnbaugh,P.J.&Balskus,
+NPJParkinsonsDis.7,27(2021). E.P.Discoveryandinhibitionofaninterspeciesgutbacterial
+20. Nishiwaki,H.etal.Meta-
+
+Chunk 61:
+smRelat.Disord.94,1–9(2022). levelsoflevodopainthetreatmentofParkinson’sdisease.Nat.
+19. Romano,S.etal.Meta-analysisoftheParkinson’sdiseasegut Commun.10,310(2019).
+microbiomesuggestsalterationslinkedtointestinalinflammation. 43. MainiRekdal,V.,Bess,E.N.,Bisanz,J.E.,Turnbaugh,P.J.&Balskus,
+NPJParkinsonsDis.7,27(2021). E.P.Discoveryandinhibitionofaninterspeciesgutbacterial
+20. Nishiwaki,H.etal.Meta-AnalysisofGutDysbiosisinParkinson’s pathwayforLevodopametabolism.Science364,eaau6323(2019).
+Disease.Mov.Disord.35,1626–1635(2020). 44. Wang,J.,Wang,F.,Mai,D.&Qu,S.Molecularmechanismsofglu-
+21. Bedarf,J.R.etal.Functionalimplicationsofmicrobialandviralgut tamatetoxicityinParkinson’sdisease.FrontNeurosci.14,585584
+metagenomechangesinearlystageL-DOPA-naiveParkinson’s (2020).
+diseasepatients.GenomeMed.9,39(2017). 45. Hamza,T.H.etal.Genome-widegene-environmentstudyidentifies
+22. Qian,Y.etal.Gutmetagenomics-derivedgenesaspotentialbio- glutamatereceptorgeneGRIN2AasaParkinson’sdiseasemodifier
+markersofParkinson’sdisease.Brain143,2474–2489(2020). geneviainteractionwithcoffee.PLoSGenet.7,e1002237(2011).
+23. Mirzayi,C.etal.Reportingguidelinesforhumanmicrobiome 46. Sood,A.,Preeti,K.,Fernandes,V.,Khatri,D.K.&Singh,S.B.Glia:A
+research:theSTORMSchecklist.Nat.Med.27,1885–1892(2021). majorplayeringlutamate-GABAdysregulation-mediatedneuro-
+24. Integrative,H.M.P.R.N.C.TheIntegrativeHumanMicrobiome degeneration.J.Neurosci.Res.99,3148–3189(2021).
+Project.Nature569,641–648(2019). 47. Wilson,H.etal.Serotonergicpathologyanddiseaseburdeninthe
+25. Beghini,F.etal.Integratingtaxonomic,functional,andstrain-level premotorandmotorphaseofA53Talpha-synucleinparkinsonism:a
+profilingofdiversemicrobialcommunitieswithbioBakery3.Elife cross-sectionalstudy.LancetNeurol.18,748–759(2019).
+10,e65088(2021). 48. Frouni,I.,Kwan,C.,Belliveau,S.&Huot,P.Cognitionandserotonin
+26. Huang,X.etal.AhighlyarginolyticStreptococcusspeciesthat inParkinson’sdisease.Prog.BrainRes.269,373–403(2022).
+potentlyantagonizesStreptococcusmut
+
+Chunk 62:
+l premotorandmotorphaseofA53Talpha-synucleinparkinsonism:a
+profilingofdiversemicrobialcommunitieswithbioBakery3.Elife cross-sectionalstudy.LancetNeurol.18,748–759(2019).
+10,e65088(2021). 48. Frouni,I.,Kwan,C.,Belliveau,S.&Huot,P.Cognitionandserotonin
+26. Huang,X.etal.AhighlyarginolyticStreptococcusspeciesthat inParkinson’sdisease.Prog.BrainRes.269,373–403(2022).
+potentlyantagonizesStreptococcusmutans.ApplEnviron.Micro- 49. Yano,J.M.etal.Indigenousbacteriafromthegutmicrobiotareg-
+biol82,2187–2201(2016). ulatehostserotoninbiosynthesis.Cell161,264–276(2015).
+27. Choi,Y.etal.Co-occurrenceofanaerobesinhumanchronic 50. Keating,D.J.&Spencer,N.J.Whatistheroleofendogenousgut
+wounds.Micro.Ecol.77,808–820(2019). serotonininthecontrolofgastrointestinalmotility?Pharm.Res140,
+28. Hill-Burns,E.M.etal.Parkinson’sdiseaseandParkinson’sdisease 50–55(2019).
+medicationshavedistinctsignaturesofthegutmicrobiome.Mov. 51. Ostrakhovitch,E.A.etal.Analysisofcirculatingmetabolitesto
+Disord.32,739–749(2017). differentiateParkinson’sdiseaseandessentialtremor.Neurosci.
+29. Scheperjans,F.etal.GutmicrobiotaarerelatedtoParkinson’s Lett.769,136428(2022).
+diseaseandclinicalphenotype.Mov.Disord.30,350–358 52. Brakedal,B.etal.TheNADPARKstudy:ArandomizedphaseItrialof
+(2015). nicotinamideribosidesupplementationinParkinson’sdisease.Cell
+30. Petrov,V.A.etal.AnalysisofgutmicrobiotainpatientswithPar- Metab.34,396–407.e6(2022).
+kinson’sdisease.Bull.Exp.Biol.Med162,734–737(2017). 53. Lee,H.J.,Yoon,Y.S.&Lee,S.J.Mechanismofneuroprotectionby
+31. Wang,W.etal.IncreasedproportionsofBifidobacteriumandthe trehalose:controversysurroundingautophagyinduction.Cell
+Lactobacillusgroupandlossofbutyrate-producingbacteriain DeathDis.9,712(2018).
+inflammatoryboweldisease.J.Clin.Microbiol52,398–406(2014). 54. Khalifeh,M.,Barreto,G.E.&Sahebkar,A.Trehaloseasapromising
+32. Meyer,F.etal.Criticalassessmentofmetagenomeinterpretation: therapeuticcandidateforthetreatmentofParkinson’sdisease.Br.J.
+thesecondroundofchallenges.Nat.Methods19,4
+
+Chunk 63:
+urroundingautophagyinduction.Cell
+Lactobacillusgroupandlossofbutyrate-producingbacteriain DeathDis.9,712(2018).
+inflammatoryboweldisease.J.Clin.Microbiol52,398–406(2014). 54. Khalifeh,M.,Barreto,G.E.&Sahebkar,A.Trehaloseasapromising
+32. Meyer,F.etal.Criticalassessmentofmetagenomeinterpretation: therapeuticcandidateforthetreatmentofParkinson’sdisease.Br.J.
+thesecondroundofchallenges.Nat.Methods19,429–440(2022). Pharm.176,1173–1189(2019).
+33. Schonhoff,A.M.,Williams,G.P.,Wallen,Z.D.,Standaert,D.G.& 55. Dueholm,M.S.,Albertsen,M.,Otzen,D.&Nielsen,P.H.Curli
+Harms,A.S.InnateandadaptiveimmuneresponsesinParkinson’s functionalamyloidsystemsarephylogeneticallywidespreadand
+disease.Prog.BrainRes.252,169–216(2020). displaylargediversityinoperonandproteinstructure.PLoSONE7,
+34. d’Hennezel,E.,Abubucker,S.,Murphy,L.O.&Cullen,T.W.Total e51274(2012).
+lipopolysaccharidefromthehumangutmicrobiomesilencestoll- 56. Zhu,W.etal.Gutmicrobesimpactstrokeseverityviathetri-
+likereceptorsignaling.mSystems2,e00046-17(2017). methylamineN-oxidepathway.CellHostMicrobe29,
+35. Villeger,R.etal.Characterizationoflipoteichoicacidstructures 1199–1208.e5(2021).
+fromthreeprobioticBacillusstrains:involvementofD-alaninein 57. Chen,S.J.etal.ThegutmetabolitetrimethylamineN-oxideis
+theirbiologicalactivity.AntonieVan.Leeuwenhoek106,693–706 associatedwithparkinson’sdiseaseseverityandprogression.Mov.
+(2014). Disord.35,2115–2116(2020).
+NatureCommunications|( 2022)1 3:6958 19
+
+---PAGE BREAK---
+
+Article https://doi.org/10.1038/s41467-022-34667-x
+58. Mallick,H.etal.Multivariableassociationdiscoveryinpopulation- recommendationsarethoseoftheauthorsandarenotnecessarily
+scalemeta-omicsstudies.PLoSComput.Biol.17,e1009442 endorsedbythefundingagencies.
+(2021).
+59. Lin,H.&Peddada,S.D.Analysisofcompositionsofmicrobiomes Authorcontributions
+withbiascorrection.Nat.Commun.11,3514(2020). Allauthorsmetallfourcriteria(1)substantialcontributionstothecon-
+60. Arumugam,M.etal.Enterotypesofthehumangutmicrobiome. ception(H.P.)ordesign(H.P
+
+Chunk 64:
+arethoseoftheauthorsandarenotnecessarily
+scalemeta-omicsstudies.PLoSComput.Biol.17,e1009442 endorsedbythefundingagencies.
+(2021).
+59. Lin,H.&Peddada,S.D.Analysisofcompositionsofmicrobiomes Authorcontributions
+withbiascorrection.Nat.Commun.11,3514(2020). Allauthorsmetallfourcriteria(1)substantialcontributionstothecon-
+60. Arumugam,M.etal.Enterotypesofthehumangutmicrobiome. ception(H.P.)ordesign(H.P.,Z.D.W.)oftheworkortheacquisition(H.P.,
+Nature473,174–180(2011). D.G.S.,M.N.D.),analysis(Z.D.W.,G.C.,G.T.,A.D.,H.P.)orinterpretationof
+61. Suzek,B.E.etal.UniRefclusters:acomprehensiveandscalable thedata(H.P.,T.S.,Z.D.W.);(2)draftingthework(H.P.,Z.D.W.,T.S.,A.D.)
+alternativeforimprovingsequencesimilaritysearches.Bioinfor- orrevisingitcriticallyforimportantintellectualcontent(allauthors);(3)
+matics31,926–932(2015). finalapprovalofthecompletedversion(allauthors);(4)accountability
+62. Caspi,R.etal.TheMetaCycdatabaseofmetabolicpathwaysand forallaspectsoftheworkinensuringthatquestionsrelatedtothe
+enzymes—a2019update.NucleicAcidsRes48,D445–D453 accuracyorintegrityofanypartoftheworkareappropriatelyinvesti-
+(2020). gatedandresolved(allauthors).
+63. Anderson,M.J.Anewmethodfornon-parametricmultivariate
+analysisofvariance.Austral.Ecol.26,32–46(2001). Competinginterests
+64. Payami,H.etal.Relativepredispositionaleffects(RPE’s)ofmarker Theauthorsdeclarenocompetinginterests.
+alleleswithdisease:HLA-DRandautoimmunethyroiddisease.Am.
+J.Hum.Genet.45,541–546(1989). Additionalinformation
+65. Wallen,Z.D.Comparisonstudyofdifferentialabundancetesting SupplementaryinformationTheonlineversioncontains
+methodsusingtwolargeParkinsondiseasegutmicrobiomedata- supplementarymaterialavailableat
+setsderivedfrom16Sampliconsequencing.BMCBioinform.22, https://doi.org/10.1038/s41467-022-34667-x.
+265(2021).
+66. Nearing,J.T.etal.Microbiomedifferentialabundancemethods Correspondenceandrequestsformaterialsshouldbeaddressedto
+producedifferentresultsacross38datasets.Nat.Commun.13, HaydehPayami.
+342(2022).
+67. Hochberg
+
+Chunk 65:
+susingtwolargeParkinsondiseasegutmicrobiomedata- supplementarymaterialavailableat
+setsderivedfrom16Sampliconsequencing.BMCBioinform.22, https://doi.org/10.1038/s41467-022-34667-x.
+265(2021).
+66. Nearing,J.T.etal.Microbiomedifferentialabundancemethods Correspondenceandrequestsformaterialsshouldbeaddressedto
+producedifferentresultsacross38datasets.Nat.Commun.13, HaydehPayami.
+342(2022).
+67. Hochberg,Y.&Benjamini,Y.Morepowerfulproceduresformulti- PeerreviewinformationNatureCommunicationsthanksSaharElAidy,
+plesignificancetesting.Stat.Med.9,811–818(1990). HuangLinandtheother,anonymous,reviewerfortheircontributionto
+68. Friedman,J.&Alm,E.J.Inferringcorrelationnetworksfromgeno- thepeerreviewofthiswork.Peerreviewerreportsareavailable.
+micsurveydata.PLoSComputBiol.8,e1002687(2012).
+69. Blondel,V.,Guillaume,J.,Lambiotte,R.&Lefebvre,E.Fast Reprintsandpermissionsinformationisavailableat
+unfoldingofcommunitiesinlargenetworks.J.Stat.Mech.2008, http://www.nature.com/reprints
+P10008(2008).
+70. Jacomy,M.,Venturini,T.,Heymann,S.&Bastian,M.ForceAtlas2,a Publisher’snoteSpringerNatureremainsneutralwithregardtojur-
+continuousgraphlayoutalgorithmforhandynetworkvisualization isdictionalclaimsinpublishedmapsandinstitutionalaffiliations.
+designedfortheGephisoftware.PLoSONE9,e98679
+(2014). OpenAccessThisarticleislicensedunderaCreativeCommons
+Attribution4.0InternationalLicense,whichpermitsuse,sharing,
+Acknowledgements adaptation,distributionandreproductioninanymediumorformat,as
+Theauthorsthankindividualswhoparticipatedinthisresearchproject, longasyougiveappropriatecredittotheoriginalauthor(s)andthe
+andthemovementdisorderspecialistsatUAB.Thisworkwassupported source,providealinktotheCreativeCommonslicense,andindicateif
+byTheU.S.ArmyMedicalResearchMaterielCommandendorsedbythe changesweremade.Theimagesorotherthirdpartymaterialinthis
+U.S.ArmythroughtheParkinson’sResearchProgramInvestigator- articleareincludedinthearticle’sCreativeCommonslicense,unless
+InitiatedResearchAwardunderAwardNo.W81XWH181050
+
+Chunk 66:
+dthemovementdisorderspecialistsatUAB.Thisworkwassupported source,providealinktotheCreativeCommonslicense,andindicateif
+byTheU.S.ArmyMedicalResearchMaterielCommandendorsedbythe changesweremade.Theimagesorotherthirdpartymaterialinthis
+U.S.ArmythroughtheParkinson’sResearchProgramInvestigator- articleareincludedinthearticle’sCreativeCommonslicense,unless
+InitiatedResearchAwardunderAwardNo.W81XWH1810508(toH.P.); indicatedotherwiseinacreditlinetothematerial.Ifmaterialisnot
+NIHTrainingGrantT32NS095775(toZ.D.W.);NIH/NIEHS includedinthearticle’sCreativeCommonslicenseandyourintended
+1R01ES032440-01A1andParkinson’sFoundationPF-SF-JFA-830658(to useisnotpermittedbystatutoryregulationorexceedsthepermitted
+T.S.);andAligningScienceAcrossParkinson’s[ASAP-020527]through use,youwillneedtoobtainpermissiondirectlyfromthecopyright
+theMichaelJ.FoxFoundationforParkinson’sResearch(MJFF)(toH.P. holder.Toviewacopyofthislicense,visithttp://creativecommons.org/
+andT.S.).Forthepurposeofopenaccess,theauthorshaveappliedaCC licenses/by/4.0/.
+BYpubliccopyrightlicensetoallAuthorAcceptedManuscriptsarising
+fromthissubmission.Opinions,interpretations,conclusions,and ©TheAuthor(s)2022
+NatureCommunications|( 2022)1 3:6958 20
+
+---PAGE BREAK---
+
+
+

@@ -1,0 +1,828 @@
+fnint-15-619160 May13,2021 Time:15:54 #1
+REVIEW
+published:20May2021
+doi:10.3389/fnint.2021.619160
+Dysfunction of Synaptic Vesicle
+Endocytosis in Parkinson’s Disease
+LiZou,YeTianandZhentaoZhang*
+DepartmentofNeurology,RenminHospitalofWuhanUniversity,Wuhan,China
+Parkinson’sdisease(PD)isthesecondmostcommonneurodegenerativedisorderafter
+Alzheimer’sdisease.Itisachronicandprogressivedisorderestimatedtoaffectatleast4
+millionpeopleworldwide.AlthoughtheetiologyofPDremainsunclear,ithasbeenfound
+that the dysfunction of synaptic vesicle endocytosis (SVE) in neural terminal happens
+beforethelossofdopaminergicneurons.Recently,accumulatingevidencerevealsthat
+the PD-linked synaptic genes, including DNAJC6, SYNJ1, and SH3GL2, significantly
+contributetothedisruptionsofSVE,whichisvitalforthepathogenesisofPD.Inaddition,
+the proteins encoded by other PD-associated genes such as SNCA, LRRK2, PRKN,
+and DJ-1 also play key roles in the regulation of SVE. Here we present the facts about
+SVE-relatedgenesanddiscussedtheirpotentialrelevancetothepathogenesisofPD.
+Keywords:Parkinson’sdisease,synapticdysfunction,neurodegeneration,α-synuclein,SYNJ1
+INTRODUCTION
+Parkinson’sdisease(PD)isthesecondmostcommonneurodegenerativediseaseafterAlzheimer’s
+disease(AD)(DeLauandBreteler,2006).TheprevalenceofPDinthoseolderthan65isabout
+1.7%.PDisusuallydiagnosedbasedonmotorsymptoms(e.g.,resttremor,bradykinesia,rigidity,
+Editedby: etc.).ThepathologicalcharacteristicsofPDarethedegenerationandlossofdopaminergicneurons
+DeniseManahan-Vaughan, in the nigrostriatal pathway. However, the pathogenesis of PD remains unclear. Studies have
+RuhrUniversityBochum,Germany confirmedthatinPD,neuronalaxondegenerationand/orsynapticdysfunctionpriortotheloss
+Reviewedby: ofdopamineneurons(BurkeandO’malley,2013;Kurowskaetal.,2016).Mostsynapticfunctions
+ValinaL.Dawson, areeffectivebythereleaseandreuptakeofneurotransmittersstoredinthesynapticvesicles.The
+JohnsHopkinsUniversity, recyclingofsynapticvesiclesplaysadecisiveroleinthefunctionofthesynapse.Increasingevidence
+UnitedStates
+suggests that dysfunction of synapse may play an important role in the onset and progression
+Ji-chunZhang,
+of PD. Synaptic dysfunction happens in the early stage of PD and may be one of the causes to
+JinanUniversity,China
+triggerthelossofdopaminergicneurons(Schirinzietal.,2016).Severalgenesthatregulatesynaptic
+*Correspondence:
+functionarefoundtobeinvolvedinthepathologicalprocessofPD,highlightingtheimportance
+ZhentaoZhang
+of further studies on synaptic dysfunction in PD. Therefore, we briefly discuss the experimental
+zhentaozhang@whu.edu.cn
+andgeneticevidenceonsynapticdysfunctioninPD,inordertoprovideaprospectiveviewonthe
+treatmentofPD.
+Received:19October2020
+Accepted:28April2021
+Published:20May2021
+SYNAPTIC VESICLE RECYCLING
+Citation:
+ZouL,TianYandZhangZ(2021)
+Presynaptic terminals are highly differentiated structures in which synaptic vesicles (SVs)
+DysfunctionofSynapticVesicle
+accumulate near the electron-dense active region and are physically and biochemically prepared
+EndocytosisinParkinson’sDisease.
+Front.Integr.Neurosci.15:619160. for fusion and recycling under the action of a highly conserved group of molecules (Rizzoli
+doi:10.3389/fnint.2021.619160 and Betz, 2005; Hua et al., 2011; Imig et al., 2014). The activity of presynaptic vesicles can
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 1 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #2
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+beapproximatelydividedintothefollowingmainsteps(Südhof, to the plasma membrane, where they mediate the invagination
+2004; Watanabe et al., 2014; Watanabe and Boucrot, 2017): of vesicles (Frost et al., 2009; Trempe et al., 2009; Ramanan
+(1) Neurotransmitters are pumped into the vesicles through etal.,2011;Galicetal.,2012;Pechsteinetal.,2015).Thevesicles
+the neurotransmitter transporter on the surface of the vesicles; are generated from the plasma membrane, which is rich in
+(2) The vesicles are transported to the near-activated area PtdsIns(4,5)P , and contains various inositolphosphates, which
+2
+of the presynaptic neuron end, where they are accumulated mediates the recycling of vesicles (Rohrbough and Broadie,
+relatively; (3) The vesicles to be released are spatially close 2005).EndophilinA1couldsubsequentlyinteractwithdynamin
+to or directly anchored to the active zone of presynaptic andrecruitssynaptojanin1tothemembraneinterface(Schuske
+plasma membrane; (4) The action potential is transmitted to et al., 2003; Verstreken et al., 2003; Watanabe et al., 2018).
+the axis at the terminal end, the voltage-dependent calcium Dynaminthenconstrictstheneckandmediatesclathrin-coated
+channel opening of the presynaptic membrane causes calcium vesicles (CCVs) fission from the plasma membrane, through
+influx; (5) High concentration of calcium ions fuse the its GTPase activity (Marks et al., 2001; Daumke et al., 2014).
+vesicle with the presynaptic membrane and forms an opening, When the CCVs are free, synaptojanin 1 exerts 5(cid:48)-phosphatase
+and the neurotransmitter is released through the opening. activity to dephosphorylate PtdsIns(4,5)P to PtdsIns4P, which
+2
+(6) Endocytosis of vesicles after fusion with the presynaptic can be further dephosphorylated to PtdsIns (Chang-Ileto et al.,
+membrane is thought to have two pathways: faster clathrin- 2011; Saheki and De Camilli, 2012). Dephosphorylation of
+independentendocyticprocesses,likeultrafastendocytosis,and PtdsIns(4,5)P causes the release of AP-2, which relies on
+2
+slower clathrin-mediated endocytosis; (7) Neurotransmitters PtdsIns(4,5)P for its vesicle binding, and allow auxilin to bind
+2
+are re-introduced into the vesicles after endocytosis by the theCCVsthroughitsPTEN-likeandclathrin-bindingdomains
+neurotransmittertransporter(seeFigure1). (Yim et al., 2010; Saheki and De Camilli, 2012). Auxilin is a
+There are also other modes for synaptic vesicle retrieval, cofactorforHSC70,whichsimulatestheremovaloftheclathrin
+includingkiss-and-runandseveralvariationsofbulkendocytosis coatthroughitsATPaseactivity(Morganetal.,2001;Eisenberg
+suchasultrafastandactivity-dependentbulkendocytosis(Saheki andGreene,2007;Yimetal.,2010;SahekiandDeCamilli,2012).
+and De Camilli, 2012; Soykan et al., 2016; Cousin, 2017; Once the clathrin coat is fully removed, dopamine or other
+Milosevic, 2018; Chanaday et al., 2019). Recently, more studies neurotransmitterscanbepackagedintothenascentvesicle,and
+consider that bulk retrieval pathways are also important rather quickly transported to synaptic vesicle pools in anticipation of
+thanasanaddition(Soykanetal.,2016;Chanadayetal.,2019). thenextneuronalstimulation(Ramananetal.,2011;Sahekiand
+Thesemodesofendocytosishavealsobeenfoundtoberegulated DeCamilli,2012).
+by proteins like dynamin, endophilin A1, and synaptojanin 1 The SVE-dependent regeneration of synaptic vesicles
+(Wu Y. et al., 2014; Soykan et al., 2016; Watanabe et al., 2018; is a highly regulated process and essential to restore
+Chanaday et al., 2019). However, the precise time scale of the neurotransmission. SVE is a unique system that is regulated
+modes of SV recycling is highly debated (He and Wu, 2007; by the phosphorylation-dephosphorylation-phosphorylation
+Soykanetal.,2017;WatanabeandBoucrot,2017).Itisgenerally eventsofproteinandlipids(CousinandRobinson,2001).These
+acceptedthatanadaptorprotein(suchasadaptorprotein2,AP- proteins include dynamin, synaptojanin1, amphiphysin 1 and
+2) is required for SV cargo detection and clathrin recruitment 2,andepsin(CousinandRobinson,2001).Underthequiescent
+to initiate the most classic form of endocytosis. Meanwhile, condition, SVE proteins are constitutively phosphorylated,
+clathrin-mediated endocytosis is considered the main mode of thereby inhibiting their association to other proteins in the
+SV recycling (Soykan et al., 2016; Chanaday et al., 2019). From endocyticpathway(CousinandRobinson,2001).Whenneurons
+this point of view, the origin of synaptic vesicles from the cell are stimulated, Ca2+ flows into the cell and activates Ca2+-
+membraneisSVE,inpreparationforneurotransmission(Saheki dependent calcineurin activity, which rapidly dephosphorylates
+andDeCamilli,2012).Wewillfirstoutlinethestepsinvolvedin endocytic proteins, allowing them to interact and recruit to
+thisSVEprocess. endocytic sites (Cousin and Robinson, 2001; Wu X.S. et al.,
+Many molecules and their families, such as endophilin, 2014; Cottrell et al., 2016). SVE protein inactivation through
+dynamin, synaptojanin1, and auxilin, including mutual rephosphorylation occurs on a much slower timescale in a
+interaction, are involved in the endocytic process to mediate stepwise process. This process has been shown to be mediated
+membrane deformation, fission and clathrin uncoating. in part by Cdk5 and Minibrain kinase (Tan et al., 2003; Chen
+Generally, the clathrin-dependent endocytosis process can be et al., 2014). However, other kinases may also participate in
+dividedintofoursteps(McmahonandBoucrot,2011;Ramanan the proper time/space control of SVE in neural terminals
+et al., 2011): (1) nucleation of clathrin-coated pits; (2) cargo (Pelkmansetal.,2005).
+capture; (3) curvature induction and membrane invagination
+or coat growth; (4) vesicle scission and clathrin uncoating.
+AXON DEGENERATION AND SVE
+SVE begins by recruiting adaptor proteins to the cytoplasmic
+surface of the plasma membrane to the PtdsIns(4,5)P lipid- DYSFUNCTION IN PD
+2
+enriched region (Kelly et al., 2014). These adaptor proteins
+(such as AP-2, AP180, and epsin) regulate cargo sorting to Emerging evidences from human post-mortem studies,
+ensure proper protein internalization with vesicles. Next, the functional neuroimaging, genetic studies and neurotoxin
+membrane benders such as BAR domain proteins are recruited modelsshowthataxondegenerationandSVEdysfunctionmay
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 2 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #3
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+FIGURE1|PD-linkedandSVE-associatedgenesinsynapticvesiclerecycling.SchematicrepresentationofapresynapticterminalshowingtherolesofPD-linked
+genes(orange)andSVE-associatedgenes(blue)insynapticvesiclerecycling.Itshowstheneurotransmitterreleaseprocess,clathrin-mediatedendocytosis,ultrafast
+endocytosis,andotherprocessesinwhichPDgenesareinvolved.(1)Neurotransmitterreleasing.Synapticvesiclesfromthereservepoolorderivedfromthe
+uncoatingprocessareloadedwithneurotransmitters.Thevesiclesmovetowardtheactivezoneandthenfusetotheplasmamembraneinthepresenceofsynaptic
+proteinsincludingα-syn.Neurotransmittersarereleasedintothesynapticcleft.(2)Clathrin-mediatedendocytosis.Thisprocessisinitiatedbythecoatingofthe
+plasmamembranebyclathrin.ThecoatedmembraneiscurvedviatheactivityofAMPH1.Thenendophilinmediatestheinvaginationoftheclathrin-coatedplasma
+membrane.EndophilinA1recruitsdynamintotheneckoftheclathrin-coatedvesicles(CCVs).EndophilinA1containsseveralSH3domainsandinteractswith
+SYNJ1and/orParkin.Oncerecruited,SYNJ1dephosphorylatesPI(4,5P)2intoPI,sheddingclathrinanditsadaptorfromthebilayer.LRRK2phosphorylates
+endophilin,leadingtodissociationofthelaterfromCCVs.Theremovaloftheclathrincoatismediatedbyauxilin.Finally,theuncoatedendocyticvesiclesmoveinto
+thereservepool,ordirectlyundergoloadingandreleasingprocess.(3)Ultrafastendocytosis.Duringthistypeofendocytosis,AMPH1andendophilinA1are
+recruitedtotheplasmamembrane,andregulatethecurvatureoftheemergingvesicle.Dynaminthenconstrictstheneckandmediatessynapticvesiclefissionfrom
+theplasmamembrane.Thelargeendocyticvesiclesclusterandfusetoformsynapticendosomes.Thesynapticendosomesarefurthercoatedbyclathrinto
+generateCCVs,whichundergoclathrin-uncoatingandgenerateendocyticvesicles.(4)OtherprocessesmediatedbyPD-relatedgenes.PTENisalipidphosphatase
+thatisinhibitedbyDJ-1.PTENincreasesthelevelofPINK1inthemitochondrial.PINK1isreleasedbythemitochondriaandtriggersneuronaldifferentiation.The
+PTEN-Parkinaxisisnecessaryforpropermitochondrialfunction.ThisguaranteesATPsynthesisandisnecessaryformostprocesses,suchasvesiclefusionandthe
+mobilizationofthevesiclesinthereservepoolduringsynapticvesiclerecycling.PI(4,5)P2,phosphatidylinositol4,5-bisphosphate;PI,phosphatidylinositol;α-syn,
+alpha-synuclein;AMPH1,amphiphysin1;SYNJ1,synaptojanin1;LRRK2,leucine-richrepeatserine/threonineproteinkinase2;PTEN,phosphataseandtensin
+homolog;PINK1,PTENinducedputativekinase1;DJ-1,Parkinson’sdiseaseprotein7;ATP,adenosinetriphosphate.
+betheearliestfeatureofthedisease(Leeetal.,2000;Serraetal., marked changes in dopaminergic axon terminals in the dorsal
+2002; Dauer and Przedborski, 2003; Shin et al., 2008; Li L.H. striatum, highlighting a region-specific vulnerability of these
+etal.,2009;Qingetal.,2009;Chengetal.,2010;Kagietal.,2010; neurons to synaptojanin 1 dysfunction (see later) (Cao et al.,
+Schulz-Schaeffer, 2010; Peelaerts et al., 2015). Furthermore, the 2017). In LRRK2 G2019S transgenic mice, SVE dysfunction
+molecular mechanisms of degeneration of axons are distinct including accumulation of CCVs and decreased synaptic
+from those of neuron soma (Burke and O’malley, 2013). densities were found specifically in dopaminergic pathway,
+SVE dysfunction is one of presynaptic terminal degeneration resulting in axon degeneration and selective impairment of
+mechanisms.ButasSVEisnotuniquetodopaminergicneurons dopaminergic neurons (Pan et al., 2017). One possibility might
+in the ventral midbrain, the specific vulnerability of these bethesensitivityofdopaminergicneuronstotheaccumulation
+neurons to SVE deficiency in PD remains unclear. PD-linked of cytosolic dopamine. Cytosolic dopamine is an oxidative
+SYNJ1 R258Q mouse models revealed delays in SVE and stressor,suggestingthatdopamineitselfisafactorofparticular
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 3 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #4
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+vulnerability to numerous synaptic components (Chen et al., ofdopaminergicneuronsinthestriatum,longbeforethedeath
+2008). Hence, disruption of SVE in PD models may interrupt of the cell bodies (Fahn, 2003; Sossi et al., 2004; Kurowska
+normal dopamine homeostasis by lowering dopamine loading et al., 2016). It is now generally accepted that α-synuclein
+into cycling SVs, resulting in increased cytosolic dopamine binds to synaptic vesicles. The evidence on its role in sensing
+that is toxic. In a rat model, acute overexpression of human and stabilizing the curvature of these tiny organelles is much
+α-synucleinledtothespecificdegenerationofstriatalterminals more recent and still emerging. Regarding the function of
+without nigral cell death (Busch et al., 2014; Eguchi et al., α-synuclein in vesicle endocytosis, different views are emerging
+2017; Medeiros et al., 2017). Moreover, dopamine is packaged (Lautenschlageretal.,2017).
+into synaptic vesicles regenerated from SVE using a proton In the sucrose density gradient centrifugation experiment,
+gradientcreatedbyvATPaseslocatedonthemembranesurface wild-type α-synuclein, its mutant A30P α-synuclein, and the
+of synaptic vesicles (Eiden et al., 2004). vATPase activity is vesicle marker molecule synaptophysin were all present in the
+dramatically inhibited by the clathrin coat and immediately low-density component of synaptic proteins. α-Synuclein is
+restored once the coat was removed by auxilin (Farsi et al., believed to be a soluble protein located at the presynaptic
+2018). Therefore, CCVs can be uncoated by means of a series end and is involved in the regulation of synaptic activity,
+of synaptic proteins including synaptojanin 1 and auxilin, and plasticity, and transport of synaptic vesicle pools (Rizzoli and
+turned into SVs (Morgan et al., 2002). These newborn SVs Betz, 2005; Lautenschlager et al., 2017, 2018). The pre-synaptic
+will be loaded with other neurotransmitters such as dopamine, distribution of α-synuclein appears after synapse formation,
+storedinthereleasevesiclespool,and/orfusedwiththeplasma indicating that α-synuclein has no decisive effect on the
+membrane to complete exocytosis (Morgan et al., 2002). The formation of synapses. However, when the normal expression
+above evidence indicates that the dysfunction of SVE may of α-synuclein is suppressed, the number of vesicles in the
+cause dopamine to be incorrectly packed into vesicles, leading vesicle recycling pool and vesicle reserve pool farther from
+to increased cytosolic dopamine, ultimately contributing the active region in the presynaptic tip is reduced (Rizzoli
+to dopaminergic neurodegeneration beginning at the and Betz, 2005), but the number of easily released vesicles
+axonterminals. which are near or anchored in the active area is not affected
+(Murphy et al., 2000). In the electrophysiology experiments,
+undertaking long-term stimulation, the release of vesicles from
+PD GENES INVOLVED IN SVE AT THE α-synucleinknockoutmiceislessthanthatofwild-typemouse,
+NERVE TERMINAL indicating that in the absence of α-synuclein in the presynaptic
+terminals of neurons, the number of vesicles in the vesicle
+Parkinson’s disease is considered as a multifactorial disease circulation region is not maintained and replenished in a
+caused by both genetic and environmental factors. Most of the timely manner (Barbiroli et al., 2002). But acute injection of
+PD patients are sporadic, but about 5% of them are caused humanwild-typemonomericα-synucleinintolampreysynaptic
+by genetic mutations. More than 20 genes have been found to terminalsstronglystimulatestheneurons,whichcansignificantly
+cause PD. Interestingly, some PD-associated genes, including reduce the rate of endocytosis, leading to CCVs accumulation
+SNCA, LRRK2, and PRKN, may also be potential regulators (Busch et al., 2014) and synaptic fidelity in the calyx of
+ofSVE. held (Eguchi et al., 2017). Taken together, this indicates that
+maintenanceofnormalα-synucleinexpressionlevelsisnecessary
+α-Synuclein in SVE
+to ensure an appropriate number of synaptic vesicles, in the
+α-Synuclein, encoded by the SNCA gene, is the major protein presynapticterminals.
+component of the Lewy bodies in the brain of PD patients. Except for the monomeric α-synuclein mentioned above,
+It is a small protein (14 kDa) consisting of three functional different α-synuclein conformations or strains may also exert
+domains:ahighlyconservedN-terminaldomainthatcanforman distinct effects on SVE. For example, α-synuclein dimers lead
+amphiphilicα-helixforlipidinteractions,acentralhydrophobic totheformationofuniqueclathrin-coatedpits(Medeirosetal.,
+NAC structure domain, which is involved in the formation of 2017). Multimers of α-synuclein may affect the early stages
+β-sheet-rich amyloid fibrils, and the unfolded C-terminal tail, of CCVs formation and fission, while monomeric α-synuclein
+whichisknowntobindVAMP2/synapticshortfibers2(Davidson may affect the final step of clathrin-uncoating (Wang et al.,
+et al., 1998; Giasson et al., 2001). All PD-related mutations of 2014). Further studies found that α-synuclein is an important
+SNCA, A30P, E46K, H50Q, G51D, and A53T are located in regulatorofpresynapticterminalsizeandorganizerofdifferent
+the amphiphilic region, suggesting the role of α-synuclein/lipid synapses vesicle pools by specifically regulating between the
+interactions in the pathogenesis of PD (Polymeropoulos et al., synaptic vesicles and the plasma membrane (Vargas et al.,
+1997; Kruger et al., 1998; Zarranz et al., 2004; Appel-Cresswell 2017). In recent years, studies on the relationship between
+etal.,2013;Lesageetal.,2013;Proukakisetal.,2013). α-synuclein and proteins in the SNARE complex indicate that
+α-Synuclein is mainly distributed in the presynaptic nerve it plays a role in regulating the release of synaptic vesicles
+terminals in the cerebral cortex, hippocampus and striatum. (Choi et al., 2013). The interaction of α-synuclein and SNARE
+It mostly presents in the synaptic vesicle fraction (Lee et al., protein complex regulates the release of neurotransmitters
+2008). Coincidentally, the early pathological change detected from presynaptic vesicles (Darios et al., 2010; Burre et al.,
+during the progression of PD is the presynaptic degeneration 2014). These studies together suggest that α-synuclein plays
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 4 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #5
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+an important role in regulating the recycling of synaptic in synapses (Matta et al., 2012; Ambroso et al., 2014). Recent
+vesiclesbyendocytosis. synaptic proteomic analysis of the LRRK2 mutant Drosophila
+model has also identified synaptojanin 1, which is essential
+LRRK2 in SVE
+for synaptic vesicle recycling, as a substrate of LRRK2 kinase
+In2002,scientistsidentifiedamutationinLRRK2(PARK8),an (Islam et al., 2016). LRRK2 phosphorylates synaptojanin 1 at
+important pathogenic gene on chromosome 18 in a family of positionsT1131andT1205locatedinitsPPRdomain,resulting
+Japanese patients with hereditary PD (Funayama et al., 2002). in defective synaptojanin 1-endophilin A1 interaction (Islam
+Twoyearslater,twogroupsreportedthattwoLRRK2mutations et al., 2016; Pan et al., 2017). To sum up, LRRK2 kinase
+also existed in two unrelated families of PD patients in Europe activity can regulate many steps of SVE, and the pathogenic
+(Paisan-Ruiz et al., 2004; Zimprich et al., 2004). Up to now, mutation of LRRK2 may aggravate the deficient of SVE,
+severalmutationsofLRRK2,suchasR1396G,R1441C,Y1654C, leading to downstream toxic effects and thus degeneration of
+Y1699C, 11122V, I2020T, and G2019S have been reported to dopaminergicneurons.
+increase the incidence of PD. Transgenic mice expressing the
+Parkin in SVE
+R1441C mutant LRRK2 can partially replicate the phenotype
+of PD, such as decreased dopamine levels and abnormalities in Parkinmutationwasfoundinpatientswithautosomalrecessive
+the nigrostriatal projection (Li Y. et al., 2009). The phenotypic PD(Kitadaetal.,1998).Parkin,encodedbyPRKN(alsoknownas
+study of LRRK2 G2019S mutant transgenic mice suggests that PARK2),isacomponentproteinintheubiquitinligasecomplex.
+althoughthereisnosignificantlossofdopaminergicneuronsin Its mutation causes the malfunction of ubiquitin ligase, which
+thesubstantianigra,thedopaminecontentanddopaminerelease causes the deposit of its substrate (such as α-synuclein, etc.)
+in the striatum and intake levels were decreased significantly in neurons (Shimura et al., 2001). Parkin is widely distributed
+(Li et al., 2010). Overexpression of mutation LRRK2 G2019S in the brain. Unlike α-synuclein and LRRK2, it is evenly
+in mouse brain induced PD-like pathology (Xiong et al., 2017). distributed in the cytoplasm of neurons without enriching the
+Introducing G2019S mutant LRRK2 in stem cells derived from presynaptic terminals (Shimura et al., 1999). PRNK knockout
+patients with PD can lead to degenerative phenotype. These mouseshowsabnormalitiesinneurotransmission(Periquetetal.,
+resultsindicatethatmutantLRRK2candirectlycausePD-related 2005). As an E3 ubiquitin ligase, Parkin has been shown to
+changes(Liuetal.,2012). ubiquitinate endophilin A1, whose major binding partners are
+Although the cause of PD induced by mutations in the dynamin and synaptojanin 1 (Cao et al., 2014). It has been
+LRRK2 gene is not clear, there is some evidence to support reported that the ubiquitination of Parkin is responsible for
+the hypothesis that LRRK2 protein, like α-synuclein, can affect regulating the expression level of endophilin A1. It can also
+thedopaminesystembyregulatingtherecyclingofpresynaptic regulate protein’s ability to recruit and bind its interaction
+vesicles. LRRK2 protein exists in synaptic components rich partners at the plasma membrane and CCV interface (Trempe
+in vesicles and membrane structures in the rat brain, and et al., 2009; Cao et al., 2014). These data suggest that Parkin
+is distributed by dots in synapses (Biskup et al., 2006). E3 ubiquitin ligase function may be an important regulator
+It can be speculated that it may be related to the cell of synaptic vesicle recycling, and PRKN mutations that cause
+membrane and synaptic vesicle structure. Chemical inhibition loss of E3 ligase function may negatively affect the process
+of LRRK2 has been shown to delay endocytosis, indicating ofSVE.
+normal serine/threonine kinase activity of LRRK2 is essential
+PINK1 in SVE
+for proper SVE (Arranz et al., 2015). In addition, LRRK2
+mutant mouse showed an accumulation of CCVs and reduced ThemutationsofPINK1(PARK6)andDJ-1(PARK7)genescause
+synaptic vesicle density in dopaminergic neuronal terminals recessivefamilialPD(Valenteetal.,2004).Itisbelievedthatthese
+(Xiongetal.,2018). mutations cause fewer cases of recessive familial hereditary PD
+Due to the lack of a distinct transmembrane region, than Parkin mutations. The molecular mechanisms underlying
+LRRK2 may loosely bind to synaptic vesicles by interacting PINK1 and DJ-1 mutation remain unclear. However, both of
+with membrane and presynaptic proteins. Recent studies have themarecloselyrelatedtosynapticvesicleactivity.InDrosophila
+identified some proteins that are specifically involved in SVE neurons, PINK1 dysfunction does not change the basic level of
+regulation, and are interacting partners and/or substrates of synaptic vesicle release, but vesicles in the vesicle pool cannot
+LRRK2, such as dynamin, Rab5b (one of Rab proteins), be efficiently transported to the active zone to be released
+endophillin A1, and synaptojanin 1. The major function of when the synapse is rapidly and strongly stimulated, causing
+dynamin is mediating CCVs to fusion from the plasma the synaptic release to become weaker compared to wild type
+membrane.LRRK2hasbeenreportedtointeractwithdynamin, afterlong-termstimulation(Moraisetal.,2009).PINK1mutants
+and regulate its GTPase activity (Stafa et al., 2014). LRRK2 exhibited reduced levels of other proteins involved in synaptic
+achieves its effect on synaptic vesicle circulation by interacting transmission,andthesynapticvesicleswithPINK1mutantshad
+withvesicleendocytosis-relatedproteinsRab5bandendophillin brokenmembranes(Doktoretal.,2018).ThelackofPINK1leads
+A1 (Shin et al., 2008). Moreover, LRRK2 can phosphorylate to increased hippocampal excitatory transmission and release
+endophillin A1 at positions T73 and S75 in its BAR domain, of neurotransmitters, which may lead to cognitive impairments
+and LRRK2-mediated phosphorylation of S75 endophillin A1 in PD (Feligioni et al., 2016). PINK1 mutants have disrupted
+plays a key role in mediating the function of endophillin A1 synaptic mitophagy, which is crucial in maintaining the health
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 5 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #6
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+of the pre-synaptic terminal (Vidyadhara et al., 2019). PINK1 Mutations of SYNJ1 in PD
+andparkinhavealsobeenreportedtoassociatewithlipidrafts, Synaptojanin 1 is an inositol phosphatase enriched at the
+implyingthatfunctionalalterationoflipidraftsbytheseproteins presynaptic terminals. Synaptojanin 1 is a 145-kDa protein
+may regulate lipid rafts-dependent endocytosis (Silvestri et al., that contains three functional domains: a SAC1-like domain
+2005;Chaetal.,2015). that hydrolyzes inositol monophosphates such as PI3P and
+PI4P; a 5’-phosphatase domain that hydrolyzes PI (4, 5)P
+2
+to produce PI4P; and a highly variable C-terminal proline-
+DJ-1 in SVE
+rich domain that can be recruited by endophilin A1 during
+DJ-1 has been reported to be closely linked to the plasma SVE. All three domains are involved in regulating the SVE at
+membrane and interact with synaptophysin and Rab3A, the various stages of synaptic activity (Mani et al., 2007). The Sac1
+synaptic vesicle proteins (Usami et al., 2011). DJ-1 deficiency domain homologous to yeast SacIp mainly dephosphorylates
+impairs synaptic vesicle endocytosis and re-availability in phosphatidylinositol monophosphate present in organelle
+synapses,withoutstructuralalterations(Kyungetal.,2018).DJ- membranes (including the membranes of the Golgi apparatus
+1 mutants (M26I, E64D, and L166P) were unable to rescue the and endosomes) to recruit proteins required for membrane
+endocytosis defects of synaptic vesicles, while the expression of transport.The5-phosphatasedomainhydrolyzesthephosphate
+wild-typeDJ-1completelyrestoredtheendocyticfunctionofDJ- group at the D-5 position of phosphatidylinositol diphosphate
+1KOneurons(Kyungetal.,2018).TheseresultsindicatethatDJ- or triphosphate located on the plasma membrane to activate
+1 is essential for synaptic vesicle endocytosis and reavailability, endocytosis or cytoskeletal reorganization, and other pathways
+andimpairmentofthisfunctionbyPD-associatedDJ-1mutants (Mcintire et al., 2014). SYNJ1 is necessary for normal SVE and
+mayberelatedtothepathogenesisofPD. membranepassage,andcontrolsthenumberandreleasetimeof
+Inshorts,moreandmoreevidencehasbeenfoundtosuggest vesiclesinthesynapsesofsensoryneurons(DrouetandLesage,
+that PD-related genes including SNCA, LRRK2, PRKN, PINK1, 2014).CytoplasmicSYNJ1proteinwasdirectedtoendocyticsites
+andDJ-1areinvolvedinsynapticvesicleexocytosis,endocytosis, thanks to protein-protein interactions through its C-terminal
+and recycling. The role of α-synuclein in the process of vesicle PRD domain with Src homology 3 (SH3) domain-containing
+activity has been most extensively studied. There are many proteins.TheC-terminalregiontoSYNJ1wasshowntointeract
+reports on the role of LRRK2 in the process of SVE, but the with the SH3 domains of a variety of proteins implicated
+underlying mechanisms remain unclear. The study of Parkin, in synaptic vesicle recycling and trafficking, subcellular
+PINK1andDJ-1genesisrelativelyrare. targeting, and signaling such as endophilin, amphiphysins,
+or intersectin. These domains play their role in SVE by
+interacting with their phosphohydrolases and endocytosis-
+Mutations of SVE Genes in PD
+relatedproteins.
+Recently, several SVE-related genes have been discovered to be The association of R258Q and R459P mutations in SYNJ1
+involvedinPD,furthersupportingtheimportanceofSVEdefects withjuvenileorearlyonsetPDwasrecentlyreportedinseveral
+inthepathogenesisofPD. independent studies (Krebs et al., 2013; Quadri et al., 2013).
+AhomozygousR258QmutationofSYNJ1causedearlyonsetPD
+in an Italian family. Knock-in mice carrying the homozygous
+Mutations of DNAJC6 in PD R258Qdiseaseallele,whichabolishestheSAC1activityrequired
+DNAJC6 encodes auxilin, which is an enzyme of putative for hydrolyzing PI3P and PI4P, recapitulated parkinsonian
+tyrosine-proteinphosphatase.Auxilinisacofactorforhsc70and symptomsandexhibiteddefectiveclathrinuncoatingofSVsand
+its J domain is responsible for recruitment of the ATPase to dystrophic changes in the nigrostriatal terminals (Krebs et al.,
+stimulate clathrin-coat removal (Saheki and De Camilli, 2012; 2013;Caoetal.,2017).ThemutationofR459Pisthesameasthat
+NguyenandKrainc,2018).MutationsinDNAJC6 wereinitially of R258, and the mutation sites are all in the Sac-like domain.
+described in atypical Parkinsonism patients (Edvardson et al., If these sites are mutated, they will affect the function of the
+2012). Homozygous mapping of two patients with juvenile Sac1domain,andthefunctionofSYNJ1willalsobeproblematic.
+PD showed that a harmful splice site mutation in DNAJC6,
+Synj1heterozygousdeletion(Synj1±),whichisassociatedwithan
+c.801-2 A > G, resulted in a significant decrease in mRNA impaired5(cid:48)-phosphataseactivity,alsoleadstoParkinson’sdisease
+levels (Edvardson et al., 2012). Another study found that one (PD)-likepathologiesinmice(Panetal.,2020).Ahomozygous
+patienthadaDNAJC6homozygoustruncatedmutationQ734X, mutation of R459P in SYNJ1 had been identified in an Indian
+which caused almost 20% loss of the C-terminus, including its family with autosomal recessive juvenile Parkinsonism (Olgiati
+functional J domain that is responsible for binding to HSC70 etal.,2014;Kirolaetal.,2016).Thesemutationsarelocatedinthe
+(Koroglu et al., 2013). Recent studies have reported other Sac1domainofsynaptojanin1andimpairitsmulitphosphatase
+DNAJC6 mutations, such as R927G and T741T, are associated activity(Krebsetal.,2013;Quadrietal.,2013;Olgiatietal.,2014).
+with early onset PD cases (Olgiati et al., 2016). These disease- Interestingly,theinsufficienthaploidfunctionofsynaptojanin1
+relatedmutationslinkDNAJC6tothepathogenesisofPD.These caused delayed SVE of dopaminergic neurons in the midbrain
+mutationsresultinreducedauxinexpressionandareexpectedto of mice, but not cortical neurons, suggesting that the loss
+reducetheiroverallfunction(Olgiatietal.,2016). of synaptojanin 1 function may specifically affect vulnerable
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 6 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #7
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+dopaminergic neurons in the pathogenesis of PD. Moreover, dystrophicneuralterminalswereobservedinthedorsalstriatum
+through genetic engineering techniques, these mutant mouse ofthesemice,whichisthemainsiteofsubstantianigracompact
+models have PD phenotypes, such as age-dependent motor dopaminergic neuron projection in the brain. In addition,
+function abnormalities as well as α-synuclein accumulation, auxilin and parkin levels are reported to be elevated in SYNJ1
+impaired autophagy and dopaminergic terminal degeneration mutant mice (Cao et al., 2017). Synj1 heterozygous deletion
+(Cao et al., 2017; Pan et al., 2020). These results show (Synj1±), which is associated with an impaired 5’-phosphatase
+that SYNJ1 plays an important role in SVE, and its variants activity, also leads to Parkinson’s disease (PD)-like pathologies
+play a more critical role in the pathogenesis of PD. Further inmice(Panetal.,2020).EndophilinAtripleknockout(TKO)
+research is needed on the role of SYNJ1 in the development mice were fatal shortly after birth. Mice with endophilin A
+ofPD. deficiency exhibit age-dependent dyskinesia and progressive
+ataxia, reminiscent of neurodegeneration in endophilin A1
+Synaptic Gene SH3GL2 Mutation in PD
+and endophilin A2 double deletion (DKO) mice phenotype
+Recently, a large-scale GWAS meta-analysis reported that (Tanasic et al., 2011; Murdoch et al., 2016). Mouse models
+SH3GL2 (encode endophilin A1) was identified as a PD risk of the endophilin A1 gene knockout also show elevated levels
+factor (Chang et al., 2017). Endophilin A1 is involved in SVE of parkin and CCV accumulation, highlighting the potential
+regulation. Moreover, research in 2018 confirmed that not only functional connection between these SVE proteins and parkin
+thevariantofSH3GL2,butalsochangesinthebindingdomain (Kjaerulff et al., 2011). These transgenic animal models once
+of its microRNA can cause the onset of PD (Ghanbari et al., again demonstrate that SVE-related genes are involved in the
+2016). In addition, earlier studies have confirmed that SH3GL2 onsetanddevelopmentofPD.
+playsakeyroleinthenormalfunctionofCNS.Itsdysfunction
+is involved in the occurrence and development of PD disease
+OTHER PATHWAYS INVOLVED IN
+(Shi et al., 2009). However, even though the physiological
+functionofendorphinA1inneuralterminalsiswellunderstood, REGULATION BY SVE
+its specific molecular mechanism in the pathogenesis of PD
+remainsunclear. We summarized PD-related genes involved in the regulation
+of SVE, and SVE-related gene mutations are involved in
+the pathogenesis of PD. It is believed that SVE is essential
+ANIMAL MODELS BASED ON SVE
+to maintain the homeostasis and health of the presynaptic
+GENES DEMONSTRATE DISTINCT PD
+membrane.IfSVEdysfunction,itmayleadtoaxondegeneration,
+PHENOTYPES leading to the onset of PD. In fact, in the pathogenesis of
+PD, the accumulation and spread of misfolded proteins, and
+Mouse models knockout of DNAJC6, SYNJ1, and SH3GL2 Lewy Body formation, are the major mechanisms (Mahul-
+all showed endocytosis defects at the synapses, highlighting Mellier et al., 2020). The function of SVE is also related
+the importance of proper SVE control in maintaining axonal to the accumulation and spread of misfolded proteins, such
+terminal integrity (Kim et al., 2002; Yim et al., 2010; Milosevic as α-synuclein. Among them, SYNJ1, the above-mentioned
+et al., 2011). Previous reports have shown that presynaptic importantendocyticprotein,itsheterozygotesmaypromotethe
+compartments in auxilin knockout mice display SVE-deficient aggregationandhighphosphorylationofα-synuclein(Panetal.,
+features, including reduced synaptic vesicle density, increased 2020). The dysfunction of SVE may be to only the dysfunction
+CCVs, and membraneless clathrin cages (Yim et al., 2010). of endolysosomal system, which leads to the spread of the
+However, subsequent studies found that genetic ablation of misfoldedprotein(Vidyadharaetal.,2019).Furthermore,SVEis
+the auxilin homolog of GAK(Cyclin-G-associated kinase) and an important physiological mechanism involved in the balance
+DNAJC6 can lead to lethality in embryonic mice, while and transformation of lipids, phosphatidylinositol in synapses,
+overexpression of the C-terminal fragment and J domain of axons,andeventhesoma.SVEalsoinvolvesorganellesandother
+GAK binding to clathrin can rescue the phenotype of the mice physiological functions, such as autophagy and mitophagy. If
+(Beilina et al., 2014; Nalls et al., 2014; Park et al., 2015). In SVEisdysfunctional,autophagyandmitophagywouldalsohave
+cell models, clathrin was additionally coat to vesicle by GAK abnormal performance, which will inevitably affect the normal
+and auxilin. Therefore, these evidences suggest that auxilin functions of synapses and axons (Pan et al., 2020). Besides the
+induced dysfunction in PD could be potentially rescued by regulation of SVE at the synapse, several endocytic genes have
+overexpression of GAK. In addition, the lack of auxilin in alsobeenidentifiedascriticalmodulatorsofsynapticautophagy,
+Drosophilacausesage-relatedmotordysfunctionandaccelerates apathwayforthemaintenanceofsynapticproteinhomeostasis
+α-synuclein-mediated dopaminergic neuron loss (Song et al., and turnover via the lysosome following neurotransmission
+2017). These results indicate that the dopaminergic neurons (Soukup et al., 2018). Likewise, mitochondria, an important
+are more sensitive to the loss of auxilin function. Consistent organelle, may be due to the decrease of ATP and the increase
+with previous reports, synapses in SYNJ1 R258Q knock-in of reactive oxygen species due to SVE dysfunction, which
+mice show severe endocytosis defects and more CCVs and further leads to the onset of PD (Nguyen et al., 2019). In
+other endocytosis intermediates (Cao et al., 2017). Moreover, the study of lipids, studies have shown that the possibility of
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 7 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #8
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+lipid rafts is also involved in the aggregation and positioning CONCLUSION AND PERSPECTIVES
+of α-synuclein (Brummel et al., 2017). Dysregulation of lipid
+rafts-dependentendocytosismaycausedcell-to-celltransmission The pathogenesis of PD remains unclear, which presents a
+of α-synuclein was facilitated (Cha et al., 2015). SVE-related majorobstacletothedevelopmentofneuroprotectivetherapies.
+proteins, such as SYNJ1, are involved in the metabolic balance SVE dysfunction is involved in presynaptic nerve terminal
+ofphosphatidylinositol,whetheritwillaffectlipidrafts,whether degeneration. Emerging evidence suggests that the dysfunction
+they will participate in the aggregation of asyn and the spread of SVE is tightly related to the onset of PD. Several PD-
+of pathological asyn, which are worthy of further research related genes were found to play a role in regulating SVE and
+and discussion. Based on these evidences and speculations, synapticfunction,whileatthesametime,mutationsinkeygenes
+we summarized the pathways and physiopathological functions of SVE play a role in the pathogenesis of PD (see Figure 1
+that SVE may be involved in the pathogenesis of PD (see and Table 1). SVE dysfunction involves the degeneration of
+Figure2). presynapticnerveterminals,autophagyandmitophagydisorder,
+TABLE1|SummaryofPD-linkedandSVE-associatedgenesinformationinthisarticle.
+Gene Location Protein Function Mutation Animalmodelinvolvedin
+thepathogenesisofPD
+SNCA (Human) α-Synuclein ThemajorproteincomponentoftheLewy A30P,E46K,H50Q,G51D,and Miceexpressingmutant
+Chromosome4, bodyinthebrainofpatientswithPD. A53T α-synuclein,oroverexpression
+4q22.1(Mouse) ofwild-typeα-synuclein,SNCA
+Chromosome6,6 knockoutmodel,acuteinjection
+B3|629.15cM ofvirusencodingwild-typeor
+mutantα-synuclein,or
+α-synucleinpre-formedfibrils
+LRRK2 (Human) Leucine-richrepeat LRRK2isakinasethatislocatedlargelyin R1396G,R1441C,Y1654C, MicewithG2019SR1441C
+Chromosome12, kinase2 thecytoplasmbutalsoassociateswiththe Y1699C,I1122V,I2020T,and mutant.Chemicalinhibitionof
+12q12(Mouse) mitochondrialoutermembrane.LRRK2 G2019S. LRRK2.LRRK2knockoutmice
+Chromosome15, interactswiththeC-terminalR2ringfinger
+15|15E3 domainofParkin
+PRKN (Human) Parkin Parkinisa465-residueE3ubiquitinligase R256C,R275W,G328E,A398T, Parkinknockoutmice
+Chromosome6, thatplaysacriticalroleinubiquitination-the andT415N;heterozygousmutation
+6q26(Mouse) processwherebymoleculesarecovalently
+Chromosome17, labeledwithubiquitinanddirectedtoward
+17A1|177.8cM degradationinproteasomesorlysosomes.
+PIKN1 (Human) PTEN-inducedkinase1PINK1isamitochondrial R246X,H271Q,E417G,L347P, PINK1knockoutmice,
+Chromosome1, serine/threonine-proteinkinase,whichis andQ239X/R492Xheterozygous PINK1-deficientmouseand
+1p36.12(Mouse) thoughttoprotectcellsfromstress-induced PINK1mutations lackofPINK1inDrosophila
+Chromosome4,4| mitochondrialdysfunction.PINK1activity
+4D3 causestheparkinproteintobindto
+depolarizedmitochondriatoinduce
+autophagyofthosemitochondria.PINK1is
+processedbyhealthymitochondriaand
+releasedtotriggerneurondifferentiation
+DJ-1 (Human) humanprotein DJ-1protectsneuronsagainstoxidative M26I,E64D,andL166P DJ-1knockoutmice
+Chromosome1, deglycaseDJ-1 stressandcelldeath.DJ-1actsasapositive
+1p36.23(Mouse) regulatorofandrogenreceptor-dependent
+Chromosome4,4| transcription.
+4E2
+DNAJC6 (Human) Auxilin Auxilinregulatesmolecularchaperone Q734X,R927G,andT741T DNAJC6knockoutmouse
+Chromosome1, activitybystimulatingATPaseactivity.Auxilin AuxilinknockoutDrosophila
+1p31.3(Mouse) isaputativetyrosine-proteinphosphatase.
+Chromosome4,4|
+4C6
+SYNJ1 (Human) Synaptojanin1 Synaptojanin1isaproteininvolved R258QandR459PHomozygous SYNJ1R258Qknock-inmice
+Chromosome21, invesicleuncoatinginneurons.Thisisan R258Qmutation SYNJ1knockoutSYNJ1
+21q22.2(Mouse) importantregulatorylipidphosphatase. heterozygoteandtriploid
+Chromosome16,
+16|1652.18cM
+SH3GL2 (Human) EndophilinA1 EndophilinA1isamemberoftheBAR F10E,A66D,and EndoAtripleknockout(TKO)
+Chromosome9, proteinfamilyinvolvedinmembrane A63S/A66S/M70Q miceEndophilinknockout
+9p22.2(Mouse) deformation,anditsSH3domaininthe (orcalled“SSQ”)heterozygous miceheterozygousmutationof
+Chromosome4,4 carboxyl-terminaliscapableofrecruiting mutation endophilininDrosophila
+C4|440.23cM dynaminandsynaptojanin1
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 8 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #9
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+BAR domains: In molecular biology, BAR domains
+are highly conserved protein dimerization domains that
+occur in many proteins involved in membrane dynamics
+in a cell. The BAR domain is banana-shaped and binds
+to membrane via its concave face. It is capable of
+sensing membrane curvature by binding preferentially to
+curvedmembranes.
+Bulk endocytosis: membrane uptake by large
+membraneinvagination.
+Clathrin-mediated endocytosis: one of endocytosis, which
+is characterized by a coating of vesicles with the clathrin-
+triskelionscaffold.
+E3 ubiquitin ligase: A ubiquitin ligase is a protein that
+recruitsanE2ubiquitin-conjugatingenzymethathasbeenloaded
+with ubiquitin, recognizes a protein substrate, and assists or
+directly catalyzes the transfer of ubiquitin from the E2 to the
+proteinsubstrate.
+Endocytosis: uptake of molecules from the extracellular
+FIGURE2|Synapticvesicleendocytosisdysfunctionpotentiallymediate
+space into the cell by forming cell invaginations. In
+dopaminergicneurodegenerationthroughintersectionswithvariouspathway.
+the case of endocytosis at the synaptic terminal, the
+MutationsinthePD-relatedgenesorSVE-relatedgenesreviewedinthis
+articlemaycausedamagetotheendocytosisofvesiclesattheterminalaxons endocytosis is deemed to retrieve excess membrane rather
+ofneurons.SVEmayinteractwithsynaptictransmission,autophagyand thanmolecules.
+mitochondrialautophagy,andtheendolysosomalsystemhastheeffectofthis Endosomal-lysosomal system: The endosomal-lysosomal
+two-waycondition.Thesepathwayscanleadtotheaccumulationandspread
+system is made up of a set of intracellular membranous
+ofmisfoldedproteinswithaxondegenerationorneurotoxicity,andultimately
+leadtothepathogenesisofPD.Amongthem,regardingtherelationship compartmentsthatdynamicallyinterconvert,whichiscomprised
+betweenSVEandlipidraftsynthesisandmetabolism,themechanismof of early endosomes, recycling endosomes, late endosomes,
+abnormallipidraftmetabolismleadingtothepathogenesisofPDdeserves andthelysosome.
+moreresearchandattention.PD,Parkinson’sdisease;SVE,synapticvesicle GAK:Cyclin-G-associatedkinase,theubiquitouslyexpressed
+endocytosis.
+J-domainprotein,isessentialforthechaperoninganduncoating
+ofclathrinthatismediatedbyHsc70.
+Kiss-and-run: mechanism of exocytosis, where the synaptic
+and through a variety of ways and means, participates in the
+vesicle opens only a small fusion pore. This pore reseals easily
+abnormal aggregation and transport of neurotoxic misfolded
+afterwardandsothevesicleiskeptintact.Thisincontrasttothe
+proteins. Participating in the above changes, these mechanisms
+full fusion event, where the synaptic vesicle collapses and both,
+can indicate that SVE dysfunction may be involved in the
+vesicleandpresynapticmembranefusetogether.
+pathogenesis of PD (see Figure 2). Although existing evidence
+LRRK2: leucine-rich repeat kinase 2; enzymatic protein
+suggeststhatSVEisregulatedbyasetofoverlappinggenes,how
+encodedbythePARK8gene.
+these are converted to regulate different pathways remains to
+Rab proteins: proteins that present manifold involvement
+be elucidated. More studies are needed to illustrate the role of
+in membrane trafficking, including vesicle formation,
+SVEinregulatingsynapticfunctionandPDpathology.Itshould
+transportandfusion.
+be noted that the mammalian CNS neurotransmission systems
+are highly complex in time and space, making the illustration
+of its role in PD more difficult. Further research is needed to
+address these important issues. An in-depth understanding of AUTHOR CONTRIBUTIONS
+the interaction between SVE and multiple signaling pathways
+or key mechanisms may be the most appropriate target for LZ contributed to article writing and graphic design while
+earlydiagnosisandprovidepossiblenewtargetsfortherapeutic YT helped with figure construction and tabulation, and ZZ
+interventionofPD. provided fund support and manuscript proof. All authors read
+andapprovedthefinalmanuscript.
+GLOSSARY
+Amphipathic helix:α-helical protein structure segregating FUNDING
+hydrophobicandpolarresidues.
+Adaptorprotein:Herespecificallyreferstoclathrinadaptor This work was supported by grants from the National Natural
+protein, also known as adaptation protein, which is a vesicle Science Foundation of China (Nos.81822016, 81771382, and
+transportadaptorproteinrelatedtoclathrin. 81571249)toZZ.
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 9 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #10
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+REFERENCES Choi, B. K., Choi, M. G., Kim, J. Y., Yang, Y., Lai, Y., Kweon, D. H., et al.
+(2013). Large alpha-synuclein oligomers inhibit neuronal SNARE-mediated
+Ambroso,M.R.,Hegde,B.G.,andLangen,R.(2014).EndophilinA1induces vesicledocking.Proc.Natl.Acad.Sci.USA.110,4087–4092.doi:10.1073/pnas.
+differentmembraneshapesusingaconformationalswitchthatisregulatedby 1218424110
+phosphorylation.Proc.Natl.Acad.Sci.USA.111,6982–6987.doi:10.1073/ Cottrell,J.R.,Li,B.,Kyung,J.W.,Ashford,C.J.,Mann,J.J.,Horvath,T.L.,etal.
+pnas.1402233111 (2016).CalcineurinAγisafunctionalphosphatasethatmodulatessynaptic
+Appel-Cresswell,S.,Vilarino-Guell,C.,Encarnacion,M.,Sherman,H.,Yu,I.,Shah, vesicle endocytosis. J. Biol. Chem. 291, 1948–1956. doi: 10.1074/jbc.m115.
+B., et al. (2013). Alpha-synuclein p.H50Q, a novel pathogenic mutation for 705319
+Parkinson’sdisease.Mov.Disord.28,811–813.doi:10.1002/mds.25421 Cousin, M. A. (2017). Integration of Synaptic Vesicle Cargo Retrieval with
+Arranz, A. M., Delbroek, L., Van Kolen, K., Guimaraes, M. R., Mandemakers, EndocytosisatCentralNerveTerminals.Front.CellNeurosci.11:234.doi:10.
+W.,Daneels,G.,etal.(2015).LRRK2functionsinsynapticvesicleendocytosis 3389/fncel.2017.00234
+throughakinase-dependentmechanism.J.CellSci.128,541–552.doi:10.1242/ Cousin,M.A.,andRobinson,P.J.(2001).Thedephosphins:dephosphorylationby
+jcs.158196 calcineurintriggerssynapticvesicleendocytosis.TrendsNeurosci.24,659–665.
+Barbiroli,B.,Gaiani,S.,Lodi,R.,Iotti,S.,Tonon,C.,Clementi,V.,etal.(2002). doi:10.1016/s0166-2236(00)01930-5
+Abnormalbrainenergymetabolismshownbyinvivophosphorusmagnetic Darios,F.,Ruiperez,V.,Lopez,I.,Villanueva,J.,Gutierrez,L.M.,andDavletov,
+resonancespectroscopyinpatientswithchronicliverdisease.BrainRes.Bull. B.(2010).Alpha-synucleinsequestersarachidonicacidtomodulateSNARE-
+59,75–82.doi:10.1016/s0361-9230(02)00839-0 mediatedexocytosis.EMBORep.11,528–533.doi:10.1038/embor.2010.66
+Beilina,A.,Rudenko,I.N.,Kaganovich,A.,Civiero,L.,Chau,H.,Kalia,S.K.,etal. Dauer, W., and Przedborski, S. (2003). Parkinson’s disease: mechanisms and
+(2014).Unbiasedscreenforinteractorsofleucine-richrepeatkinase2supports models.Neuron39,889–909.
+acommonpathwayforsporadicandfamilialParkinsondisease.Proc.Natl. Daumke,O.,Roux,A.,andHaucke,V.(2014).BARdomainscaffoldsindynamin-
+Acad.Sci.USA.111,2626–2631. mediatedmembranefission.Cell156,882–892.doi:10.1016/j.cell.2014.02.017
+Biskup,S.,Moore,D.J.,Celsi,F.,Higashi,S.,West,A.B.,Andrabi,S.A.,etal. Davidson,W.S.,Jonas,A.,Clayton,D.F.,andGeorge,J.M.(1998).Stabilization
+(2006). Localization of LRRK2 to membranous and vesicular structures in ofalpha-synucleinsecondarystructureuponbindingtosyntheticmembranes.
+mammalianbrain.Ann.Neurol.60,557–569.doi:10.1002/ana.21019 J.Biol.Chem.273,9443–9449.doi:10.1074/jbc.273.16.9443
+Brummel,B.E.,Braun,A.R.,andSachs,J.N.(2017).Polyunsaturatedchainsin DeLau,L.M.,andBreteler,M.M.(2006).EpidemiologyofParkinson’sdisease.
+asymmetriclipidsdisorderraftmixturesandpreferentiallyassociatewithalpha- LancetNeurol.5,525–535.
+Synuclein. Biochim. Biophys. Acta Biomembr. 1859, 529–536. doi: 10.1016/j. Doktor,B.,Damulewicz,M.,Krzeptowski,W.,Bednarczyk,B.,andPyza,E.M.
+bbamem.2016.10.006 (2018).EffectsofPINK1mutationonsynapsesandbehaviorinthebrainof
+Burke,R.E.,andO’malley,K.(2013).AxondegenerationinParkinson’sdisease. Drosophilamelanogaster.ActaNeurobiol.Exp.78,231–241.doi:10.21307/ane-
+Exp.Neurol.246,72–83.doi:10.1016/j.expneurol.2012.01.011 2018-021
+Burre,J.,Sharma,M.,andSudhof,T.C.(2014).alpha-Synucleinassemblesinto Drouet,V.,andLesage,S.(2014).Synaptojanin1mutationinParkinson’sdisease
+higher-ordermultimersuponmembranebindingtopromoteSNAREcomplex bringsfurtherinsightintotheneuropathologicalmechanisms.BioMedRes.Int.
+formation.Proc.Natl.Acad.Sci.USA.111,E4274–E4283. 2014:289728.
+Busch,D.J.,Oliphint,P.A.,Walsh,R.B.,Banks,S.M.,Woods,W.S.,George, Edvardson, S., Cinnamon, Y., Ta-Shma, A., Shaag, A., Yim, Y. I., Zenvirt, S.,
+J.M.,etal.(2014).Acuteincreaseofalpha-synucleininhibitssynapticvesicle et al. (2012). A deleterious mutation in DNAJC6 encoding the neuronal-
+recycling evoked during intense stimulation. Mol. Biol. Cell 25, 3926–3941. specific clathrin-uncoating co-chaperone auxilin, is associated with juvenile
+doi:10.1091/mbc.e14-02-0708 parkinsonism.PLoSOne7:e36458.doi:10.1371/journal.pone.0036458
+Cao, M., Milosevic, I., Giovedi,S., and De Camilli, P.(2014). Upregulation of Eguchi, K., Taoufiq, Z., Thorn-Seshold, O., Trauner, D., Hasegawa, M., and
+Parkininendophilinmutantmice.J.Neurosci.34,16544–16549.doi:10.1523/ Takahashi, T. (2017). Wild-Type Monomeric alpha-Synuclein Can Impair
+jneurosci.1710-14.2014 VesicleEndocytosisandSynapticFidelityviaTubulinPolymerizationatthe
+Cao,M.,Wu,Y.,Ashrafi,G.,Mccartney,A.J.,Wheeler,H.,Bushong,E.A.,etal. CalyxofHeld.J.Neurosci.37,6043–6052.doi:10.1523/jneurosci.0179-17.2017
+(2017).ParkinsonSacDomainMutationinSynaptojanin1ImpairsClathrin Eiden, L. E., Schafer, M. K., Weihe, E., and Schutz, B. (2004). The vesicular
+Uncoating at Synapses and Triggers Dystrophic Changes in Dopaminergic amine transporter family (SLC18): amine/proton antiporters required for
+Axons.Neuron93,882–896e885. vesicularaccumulationandregulatedexocytoticsecretionofmonoaminesand
+Cha,S.H.,Choi,Y.R.,Heo,C.H.,Kang,S.J.,Joe,E.H.,Jou,I.,etal.(2015).Loss acetylcholine.PflugersArch.447,636–640.doi:10.1007/s00424-003-1100-5
+ofparkinpromoteslipidrafts-dependentendocytosisthroughaccumulating Eisenberg,E.,andGreene,L.E.(2007).Multiplerolesofauxilinandhsc70in
+caveolin-1:implicationsforParkinson’sdisease.Mol.Neurodegener.10:63. clathrin-mediated endocytosis. Traffic 8, 640–646. doi: 10.1111/j.1600-0854.
+Chanaday,N.L.,Cousin,M.A.,Milosevic,I.,Watanabe,S.,andMorgan,J.R. 2007.00568.x
+(2019).TheSynapticVesicleCycleRevisited:NewInsightsintotheModesand Fahn,S.(2003).DescriptionofParkinson’sdiseaseasaclinicalsyndrome.Ann.N
+Mechanisms.J.Neurosci.39,8209–8216.doi:10.1523/jneurosci.1158-19.2019 Y.Acad.Sci.991,1–14.doi:10.1016/b978-0-12-374028-1.00001-4
+Chang, D., Nalls, M. A., Hallgrimsdottir, I. B., Hunkapiller, J., Van Der Brug, Farsi,Z.,Gowrisankaran,S.,Krunic,M.,Rammner,B.,Woehler,A.,Lafer,E.M.,
+M.,Cai,F.,etal.(2017).Ameta-analysisofgenome-wideassociationstudies etal.(2018).Clathrincoatcontrolssynapticvesicleacidificationbyblocking
+identifies17newParkinson’sdiseaseriskloci.Nat.Genet.49,1511–1516. vacuolarATPaseactivity.Elife7:e32569.
+Chang-Ileto, B., Frere, S. G., Chan, R. B., Voronov, S. V., Roux, A., and Di Feligioni,M.,Mango,D.,Piccinin,S.,Imbriani,P.,Iannuzzi,F.,Caruso,A.,etal.
+Paolo,G.(2011).Synaptojanin1-mediatedPI(4,5)P2hydrolysisismodulated (2016).Subtlealterationsofexcitatorytransmissionarelinkedtopresynaptic
+bymembranecurvatureandfacilitatesmembranefission.Dev.Cell20,206–218. changesinthehippocampusofPINK1-deficientmice.Synapse70,223–230.
+doi:10.1016/j.devcel.2010.12.008 doi:10.1002/syn.21894
+Chen,C.K.,Bregere,C.,Paluch,J.,Lu,J.F.,Dickman,D.K.,andChang,K.T. Frost,A.,Unger,V.M.,andDeCamilli,P.(2009).TheBARdomainsuperfamily:
+(2014). Activity-dependent facilitation of Synaptojanin and synaptic vesicle membrane-molding macromolecules. Cell 137, 191–196. doi: 10.1016/j.cell.
+recyclingbytheMinibrainkinase.Nat.Commun.5:4246. 2009.04.010
+Chen,L.,Ding,Y.,Cagniard,B.,VanLaar,A.D.,Mortimer,A.,Chi,W.,etal. Funayama,M.,Hasegawa,K.,Kowa,H.,Saito,M.,Tsuji,S.,andObata,F.(2002).
+(2008).Unregulatedcytosolicdopaminecausesneurodegenerationassociated AnewlocusforParkinson’sdisease(PARK8)mapstochromosome12p11.2-
+withoxidativestressinmice.J.Neurosci.28,425–433.doi:10.1523/jneurosci. q13.1.Ann.Neurol.51,296–301.doi:10.1002/ana.10113
+3602-07.2008 Galic, M., Jeong, S., Tsai, F. C., Joubert, L. M., Wu, Y. I., Hahn, K. M., et al.
+Cheng, H. C., Ulane, C. M., and Burke, R. E. (2010). Clinical progression in (2012).Externalpushandinternalpullforcesrecruitcurvature-sensingN-BAR
+Parkinsondiseaseandtheneurobiologyofaxons.Ann.Neurol.67,715–725. domainproteinstotheplasmamembrane.Nat.CellBiol.14,874–881.doi:
+doi:10.1002/ana.21995 10.1038/ncb2533
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 10 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #11
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+Ghanbari,M.,Darweesh,S.K.,DeLooper,H.W.,VanLuijn,M.M.,Hofman, presynapticdopaminergicnerveterminalsinParkinson’sdisease.Ann.Neurol.
+A., Ikram, M. A., et al. (2016). Genetic Variants in MicroRNAs and Their 47,493–503.doi:10.1002/1531-8249(200004)47:4<493::aid-ana13>3.0.co;2-4
+BindingSitesAreAssociatedwiththeRiskofParkinsonDisease.Hum.Mutat. Lee, H.-J., Suk, J.-E., Bae, E.-J., Lee, J.-H., Paik, S. R., and Lee, S.-J. (2008).
+37,292–300.doi:10.1002/humu.22943 Assembly-dependent endocytosis and clearance of extracellular a-synuclein.
+Giasson, B. I., Murray, I. V., Trojanowski, J. Q., and Lee, V. M. (2001). A Int.J.Biochem.CellBiol.40,1835–1849.doi:10.1016/j.biocel.2008.01.017
+hydrophobicstretchof12aminoacidresiduesinthemiddleofalpha-synuclein Lesage,S.,Anheim,M.,Letournel,F.,Bousset,L.,Honore,A.,Rozas,N.,etal.
+isessentialforfilamentassembly.J.Biol.Chem.276,2380–2386.doi:10.1074/ (2013).G51Dalpha-synucleinmutationcausesanovelparkinsonian-pyramidal
+jbc.m008919200 syndrome.Ann.Neurol.73,459–471.doi:10.1002/ana.23894
+He,L.,andWu,L.G.(2007).Thedebateonthekiss-and-runfusionatsynapses. Li, L. H., Qin, H. Z., Wang, J. L., Wang, J., Wang, X. L., and Gao, G. D.
+TrendsNeurosci.30,447–455.doi:10.1016/j.tins.2007.06.012 (2009).Axonaldegenerationofnigra-striatumdopaminergicneuronsinduced
+Hua,Y.,Sinha,R.,Thiel,C.S.,Schmidt,R.,Huve,J.,Martens,H.,etal.(2011).A by1-methyl-4-phenyl-1,2,3,6-tetrahydropyridineinmice.J.Int.Med.Res.37,
+readilyretrievablepoolofsynapticvesicles.Nat.Neurosci.14,833–839. 455–463.doi:10.1177/147323000903700221
+Imig,C.,Min,S.-W.,Krinner,S.,Arancillo,M.,Rosenmund,C.,Südhof,T.C.,etal. Li,X.,Patel,J.C.,Wang,J.,Avshalumov,M.V.,Nicholson,C.,Buxbaum,J.D.,
+(2014).Themorphologicalandmolecularnatureofsynapticvesiclepriming etal.(2010).Enhancedstriataldopaminetransmissionandmotorperformance
+atpresynapticactivezones.Neuron84,416–431.doi:10.1016/j.neuron.2014. withLRRK2overexpressioninmiceiseliminatedbyfamilialParkinson’sdisease
+10.009 mutationG2019S.J.Neurosci.30,1788–1797.doi:10.1523/jneurosci.5604-09.
+Islam, M. S., Nolte, H., Jacob, W., Ziegler, A. B., Putz, S., Grosjean, Y., et al. 2010
+(2016).HumanR1441CLRRK2regulatesthesynapticvesicleproteomeand Li,Y.,Liu,W.,Oo,T.F.,Wang,L.,Tang,Y.,Jackson-Lewis,V.,etal.(2009).
+phosphoproteomeinaDrosophilamodelofParkinson’sdisease.Hum.Mol. MutantLRRK2(R1441G)BACtransgenicmicerecapitulatecardinalfeaturesof
+Genet.25,5365–5382. Parkinson’sdisease.Nat.Neurosci.12,826–828.doi:10.1038/nn.2349
+Kagi,G.,Bhatia,K.P.,andTolosa,E.(2010).TheroleofDAT-SPECTinmovement Liu, G. H., Qu, J., Suzuki, K., Nivet, E., Li, M., Montserrat, N., et al. (2012).
+disorders. J. Neurol. Neurosurg. Psychiat. 81, 5–12. doi: 10.1136/jnnp.2008. Progressive degeneration of human neural stem cells caused by pathogenic
+157370 LRRK2.Nature491,603–607.doi:10.1038/nature11557
+Kelly,B.T.,Graham,S.C.,Liska,N.,Dannhauser,P.N.,Honing,S.,Ungewickell, Mahul-Mellier,A.-L.,Burtscher,J.,Maharjan,N.,Weerens,L.,Croisier,M.,Kuttler,
+E. J., et al. (2014). Clathrin adaptors. AP2 controls clathrin polymerization F.,etal.(2020).TheprocessofLewybodyformation,ratherthansimplyα-
+withamembrane-activatedswitch.Science345,459–463.doi:10.1126/science. synucleinfibrillization,isoneofthemajordriversofneurodegeneration.Proc.
+1254836 Natl.Acad.Sci.USA.117,4971–4982.doi:10.1073/pnas.1913904117
+Kim,W.T.,Chang,S.,Daniell,L.,Cremona,O.,DiPaolo,G.,andDeCamilli,P. Mani, M., Lee, S. Y., Lucast, L., Cremona, O., Di Paolo, G., De Camilli, P.,
+(2002).Delayedreentryofrecyclingvesiclesintothefusion-competentsynaptic etal.(2007).Thedualphosphataseactivityofsynaptojanin1isrequiredfor
+vesiclepoolinsynaptojanin1knockoutmice.Proc.Natl.Acad.Sci.USA.99, bothefficientsynapticvesicleendocytosisandreavailabilityatnerveterminals.
+17143–17148.doi:10.1073/pnas.222657399 Neuron56,1004–1018.doi:10.1016/j.neuron.2007.10.032
+Kirola, L., Behari, M., Shishir, C., and Thelma, B. K. (2016). Identification Marks,B.,Stowell,M.H.,Vallis,Y.,Mills,I.G.,Gibson,A.,Hopkins,C.R.,etal.
+of a novel homozygous mutation Arg459Pro in SYNJ1 gene of (2001). GTPase activity of dynamin and resulting conformation change are
+an Indian family with autosomal recessive juvenile Parkinsonism. essentialforendocytosis.Nature410,231–235.doi:10.1038/35065645
+Parkinson. Relat. Disord. 31, 124–128. doi: 10.1016/j.parkreldis.2016. Matta,S.,VanKolen,K.,DaCunha,R.,VanDenBogaart,G.,Mandemakers,W.,
+07.014 Miskiewicz,K.,etal.(2012).LRRK2controlsanEndoAphosphorylationcycle
+Kitada,T.,Asakawa,S.,Hattori,N.,Matsumine,H.,Yamamura,Y.,Minoshima,S., in synaptic endocytosis. Neuron 75, 1008–1021. doi: 10.1016/j.neuron.2012.
+etal.(1998).Mutationsintheparkingenecauseautosomalrecessivejuvenile 08.022
+parkinsonism.Nature392,605–608.doi:10.1038/33416 Mcintire,L.B.,Lee,K.I.,Chang-Ileto,B.,DiPaolo,G.,andKim,T.W.(2014).
+Kjaerulff, O., Brodin, L., and Jung, A. (2011). The structure and function of Screening assay for small-molecule inhibitors of synaptojanin 1, a synaptic
+endophilinproteins.CellBiochem.Biophys.60,137–154.doi:10.1007/s12013- phosphoinositide phosphatase. J. Biomol. Screen 19, 585–594. doi: 10.1177/
+010-9137-5 1087057113510177
+Koroglu, C., Baysal, L., Cetinkaya, M., Karasoy, H., and Tolun, A. (2013). Mcmahon,H.T.,andBoucrot,E.(2011).Molecularmechanismandphysiological
+DNAJC6isresponsibleforjuvenileparkinsonismwithphenotypicvariability. functionsofclathrin-mediatedendocytosis.Nat.Rev.Mol.CellBiol.12,517–
+Parkinsonism Relat. Disord. 19, 320–324. doi: 10.1016/j.parkreldis.2012. 533.doi:10.1038/nrm3151
+11.006 Medeiros,A.T.,Soll,L.G.,Tessari,I.,Bubacco,L.,andMorgan,J.R.(2017).alpha-
+Krebs, C. E., Karkheiran, S., Powell, J. C., Cao, M., Makarov, V., Darvish, H., SynucleinDimersImpairVesicleFissionduringClathrin-MediatedSynaptic
+etal.(2013).TheSac1domainofSYNJ1identifiedmutatedinafamilywith VesicleRecycling.Front.CellNeurosci.11:388.doi:10.3389/fncel.2017.00388
+early-onsetprogressiveParkinsonismwithgeneralizedseizures.Hum.Mutat. Milosevic, I. (2018). Revisiting the Role of Clathrin-Mediated Endoytosis in
+34,1200–1207.doi:10.1002/humu.22372 SynapticVesicleRecycling.Front.CellNeurosci.12:27.doi:10.3389/fncel.2018.
+Kruger,R.,Kuhn,W.,Muller,T.,Woitalla,D.,Graeber,M.,Kosel,S.,etal.(1998). 00027
+Ala30Promutationinthegeneencodingalpha-synucleininParkinson’sdisease. Milosevic,I.,Giovedi,S.,Lou,X.,Raimondi,A.,Collesi,C.,Shen,H.,etal.(2011).
+Nat.Genet.18,106–108. Recruitmentofendophilintoclathrin-coatedpitnecksisrequiredforefficient
+Kurowska,Z.,Kordower,J.H.,Stoessl,A.J.,Burke,R.E.,Brundin,P.,Yue,Z., vesicleuncoatingafterfission.Neuron72,587–601.doi:10.1016/j.neuron.2011.
+etal.(2016).IsAxonalDegenerationaKeyEarlyEventinParkinson’sDisease? 08.029
+J.ParkinsonsDis.6,703–707.doi:10.3233/jpd-160881 Morais, V. A., Verstreken, P., Roethig, A., Smet, J., Snellinx, A., Vanbrabant,
+Kyung, J. W., Kim, J. M., Lee, W., Ha, T. Y., Cha, S. H., Chung, K. H., et al. M.,etal.(2009).Parkinson’sdiseasemutationsinPINK1resultindecreased
+(2018).DJ-1deficiencyimpairssynapticvesicleendocytosisandreavailability ComplexIactivityanddeficientsynapticfunction.EMBOMol.Med.1,99–111.
+atnerveterminals.Proc.Natl.Acad.Sci.USA.115,1629–1634.doi:10.1073/ doi:10.1002/emmm.200900006
+pnas.1708754115 Morgan,J.R.,Augustine,G.J.,andLafer,E.M.(2002).Synapticvesicleendocytosis:
+Lautenschlager,J.,Kaminski,C.F.,andKaminskiSchierle,G.S.(2017).alpha- theraces,places,andmolecularfaces.Neuromol.Med.2,101–114.doi:10.1385/
+Synuclein-RegulatorofExocytosis,Endocytosis,orBoth?TrendsCellBiol.27, nmm:2:2:101
+468–479.doi:10.1016/j.tcb.2017.02.002 Morgan,J.R.,Prasad,K.,Jin,S.,Augustine,G.J.,andLafer,E.M.(2001).Uncoating
+Lautenschlager,J.,Stephens,A.D.,Fusco,G.,Strohl,F.,Curry,N.,Zacharopoulou, ofclathrin-coatedvesiclesinpresynapticterminals:rolesforHsc70andauxilin.
+M., et al. (2018). C-terminal calcium binding of alpha-synuclein modulates Neuron32,289–300.doi:10.1016/s0896-6273(01)00467-6
+synapticvesicleinteraction.Nat.Commun.9:712. Murdoch, J. D., Rostosky, C. M., Gowrisankaran, S., Arora, A. S., Soukup,
+Lee,C.S.,Samii,A.,Sossi,V.,Ruth,T.J.,Schulzer,M.,Holden,J.E.,etal.(2000). S. F., Vidal, R., et al. (2016). Endophilin-A Deficiency Induces the Foxo3a-
+Invivopositronemissiontomographicevidenceforcompensatorychangesin Fbxo32NetworkintheBrainandCausesDysregulationofAutophagyandthe
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 11 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #12
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+Ubiquitin-ProteasomeSystem.CellRep.17,1071–1086.doi:10.1016/j.celrep. Rizzoli,S.O.,andBetz,W.J.(2005).Synapticvesiclepools.Nat.Rev.Neurosci.6,
+2016.09.058 57–69.
+Murphy, D. D., Rueter, S. M., Trojanowski, J. Q., and Lee, V. M. Y. (2000). Rohrbough,J.,andBroadie,K.(2005).Lipidregulationofthesynapticvesiclecycle.
+Synucleins Are Developmentally Expressed, and α-Synuclein Regulates the Nat.Rev.Neurosci.6,139–150.doi:10.1038/nrn1608
+Size of the Presynaptic Vesicular Pool in Primary Hippocampal Neurons. Saheki,Y.,andDeCamilli,P.(2012).Synapticvesicleendocytosis.ColdSpring
+J.Neurosci.20,3214–3220.doi:10.1523/jneurosci.20-09-03214.2000 Harb.Perspect.Biol.4:a005645.
+Nalls,M.A.,Pankratz,N.,Lill,C.M.,Do,C.B.,Hernandez,D.G.,Saad,M.,etal. Schirinzi,T.,Madeo,G.,Martella,G.,Maltese,M.,Picconi,B.,Calabresi,P.,etal.
+(2014).Large-scalemeta-analysisofgenome-wideassociationdataidentifiessix (2016).EarlysynapticdysfunctioninParkinson’sdisease:Insightsfromanimal
+newrisklociforParkinson’sdisease.Nat.Genet.46,989–993. models.Mov.Disord.31,802–813.doi:10.1002/mds.26620
+Nguyen,M.,andKrainc,D.(2018).LRRK2phosphorylationofauxilinmediates Schulz-Schaeffer, W. J. (2010). The synaptic pathology of alpha-synuclein
+synaptic defects in dopaminergic neurons from patients with Parkinson’s aggregationindementiawithLewybodies,Parkinson’sdiseaseandParkinson’s
+disease. Proc. Natl. Acad. Sci. U S A. 115, 5576–5581. doi: 10.1073/pnas. diseasedementia.ActaNeuropathol.120,131–143.doi:10.1007/s00401-010-
+1717590115 0711-0
+Nguyen, M., Wong, Y. C., Ysselstein, D., Severino, A., and Krainc, D. (2019). Schuske,K. R.,Richmond,J.E.,Matthies,D.S.,Davis,W. S.,Runz,S.,Rube,
+Synaptic,Mitochondrial,andLysosomalDysfunctioninParkinson’sDisease. D. A., et al. (2003). Endophilin is required for synaptic vesicle endocytosis
+TrendsNeurosci.42,140–149.doi:10.1016/j.tins.2018.11.001 bylocalizingsynaptojanin.Neuron40,749–762.doi:10.1016/s0896-6273(03)
+Olgiati,S.,DeRosa,A.,Quadri,M.,Criscuolo,C.,Breedveld,G.J.,Picillo,M.,etal. 00667-6
+(2014).PARK20causedbySYNJ1homozygousArg258Glnmutationinanew Serra,P.A., Sciola, L., Delogu,M. R., Spano, A.,Monaco,G.,Miele,E.,etal.
+Italianfamily.Neurogenetics15,183–188.doi:10.1007/s10048-014-0406-0 (2002).Theneurotoxin1-methyl-4-phenyl-1,2,3,6-tetrahydropyridineinduces
+Olgiati,S.,Quadri,M.,Fang,M.,Rood,J.P.,Saute,J.A.,Chien,H.F.,etal.(2016). apoptosisinmousenigrostriatalglia.Relevancetonigralneuronaldeathand
+DNAJC6 Mutations Associated With Early-Onset Parkinson’s Disease. Ann. striatalneurochemicalchanges.J.Biol.Chem.277,34451–34461.doi:10.1074/
+Neurol.79,244–256. jbc.m202099200
+Paisan-Ruiz,C.,Jain,S.,Evans,E.W.,Gilks,W.P.,Simon,J.,VanDerBrug,M., Shi,M.,Bradner,J.,Bammler,T.K.,Eaton,D.L.,Zhang,J.,Ye,Z.,etal.(2009).
+etal.(2004).CloningofthegenecontainingmutationsthatcausePARK8-linked IdentificationofglutathioneS-transferasepiasaproteininvolvedinParkinson
+Parkinson’sdisease.Neuron44,595–600.doi:10.1016/j.neuron.2004.10.023 diseaseprogression.Am.J.Pathol.175,54–65.doi:10.2353/ajpath.2009.081019
+Pan, P. Y., Li, X., Wang, J., Powell, J., Wang, Q., Zhang, Y., et al. (2017). Shimura,H.,Hattori,N.,Kubo,S.,Yoshikawa,M.,Kitada,T.,Matsumine,H.,etal.
+Parkinson’sDisease-AssociatedLRRK2HyperactiveKinaseMutantDisrupts (1999).ImmunohistochemicalandsubcellularlocalizationofParkinprotein:
+Synaptic Vesicle Trafficking in Ventral Midbrain Neurons. J. Neurosci. 37, absenceofproteininautosomalrecessivejuvenileparkinsonismpatients.Ann.
+11366–11376.doi:10.1523/jneurosci.0964-17.2017 Neurol.45,668–672.doi:10.1002/1531-8249(199905)45:5<668::aid-ana19>3.0.
+Pan,P.Y.,Sheehan,P.,Wang,Q.,Zhu,X.,Zhang,Y.,Choi,I.,etal.(2020).Synj1 co;2-z
+haploinsufficiencycausesdopamineneuronvulnerabilityandalpha-synuclein Shimura,H.,Schlossmacher,M.G.,Hattori,N.,Frosch,M.P.,Trockenbacher,A.,
+accumulationinmice.Hum.Mol.Genet.29,2300–2312.doi:10.1093/hmg/ Schneider,R.,etal.(2001).Ubiquitinationofanewformofalpha-synuclein
+ddaa080 byparkinfromhumanbrain:implicationsforParkinson’sdisease.Science293,
+Park,B.C.,Yim,Y.I.,Zhao,X.,Olszewski,M.B.,Eisenberg,E.,andGreene,L.E. 263–269.doi:10.1126/science.1060627
+(2015).Theclathrin-bindingandJ-domainsofGAKsupporttheuncoating Shin,N.,Jeong,H.,Kwon,J.,Heo,H.Y.,Kwon,J.J.,Yun,H.J.,etal.(2008).
+andchaperoningofclathrinbyHsc70inthebrain.J.CellSci.128,3811–3821. LRRK2regulatessynapticvesicleendocytosis.Exp.CellRes.314,2055–2065.
+doi:10.1242/jcs.171058 doi:10.1016/j.yexcr.2008.02.015
+Pechstein,A.,Gerth,F.,Milosevic,I.,Japel,M.,Eichhorn-Grunig,M.,Vorontsova, Silvestri,L.,Caputo,V.,Bellacchio,E.,Atorino,L.,Dallapiccola,B.,Valente,E.M.,
+O.,etal.(2015).VesicleuncoatingregulatedbySH3-SH3domain-mediated etal.(2005).MitochondrialimportandenzymaticactivityofPINK1mutants
+complexformationbetweenendophilinandintersectinatsynapses.EMBORep. associatedtorecessiveparkinsonism.Hum.Mol.Genet.14,3477–3492.doi:
+16,232–239.doi:10.15252/embr.201439260 10.1093/hmg/ddi377
+Peelaerts,W.,Bousset,L.,VanDerPerren,A.,Moskalyuk,A.,Pulizzi,R.,Giugliano, Song, L., He, Y., Ou, J., Zhao, Y., Li, R., Cheng, J., et al. (2017). Auxilin
+M., et al. (2015). alpha-Synuclein strains cause distinct synucleinopathies UnderliesProgressiveLocomotorDeficitsandDopaminergicNeuronLossin
+after local and systemic administration. Nature 522, 340–344. doi: 10.1038/ aDrosophilaModelofParkinson’sDisease.CellRep.18,1132–1143.doi:10.
+nature14547 1016/j.celrep.2017.01.005
+Pelkmans,L.,Fava,E.,Grabner,H.,Hannus,M.,Habermann,B.,Krausz,E.,etal. Sossi,V.,DeLaFuente-Fernandez,R.,Holden,J.E.,Schulzer,M.,Ruth,T.J.,
+(2005).Genome-wideanalysisofhumankinasesinclathrin-andcaveolae/raft- and Stoessl, J. (2004). Changes of dopamine turnover in the progression
+mediatedendocytosis.Nature436,78–86.doi:10.1038/nature03571 of Parkinson’s disease as measured by positron emission tomography: their
+Periquet,M.,Corti,O.,Jacquier,S.,andBrice,A.(2005).Proteomicanalysisof relationtodisease-compensatorymechanisms.J.Cereb.BloodFlowMetab.24,
+parkinknockoutmice:alterationsinenergymetabolism,proteinhandlingand 869–876.doi:10.1097/01.wcb.0000126563.85360.75
+synapticfunction.J.Neurochem.95,1259–1276.doi:10.1111/j.1471-4159.2005. Soukup,S.F.,Vanhauwaert,R.,andVerstreken,P.(2018).Parkinson’sdisease:
+03442.x convergenceonsynaptichomeostasis.EMBOJ.37:e98960.
+Polymeropoulos,M.H.,Lavedan,C.,Leroy,E.,Ide,S.E.,Dehejia,A.,Dutra,A., Soykan,T.,Kaempf,N.,Sakaba,T.,Vollweiter,D.,Goerdeler,F.,Puchkov,D.,etal.
+etal.(1997).Mutationinthealpha-synucleingeneidentifiedinfamilieswith (2017). Synaptic Vesicle Endocytosis Occurs on Multiple Timescales and Is
+Parkinson’sdisease.Science276,2045–2047.doi:10.1126/science.276.5321.2045 MediatedbyFormin-DependentActinAssembly.Neuron93,854.doi:10.1016/
+Proukakis,C.,Dudzik,C.G.,Brier,T.,Mackay,D.S.,Cooper,J.M.,Millhauser, j.neuron.2017.02.011
+G.L.,etal.(2013).Anovelalpha-synucleinmissensemutationinParkinson Soykan, T., Maritzen, T., and Haucke, V. (2016). Modes and mechanisms of
+disease.Neurology80,1062–1064.doi:10.1212/wnl.0b013e31828727ba synapticvesiclerecycling.Curr.Opin.Neurobiol.39,17–23.doi:10.1016/j.conb.
+Qing,H.,Wong,W.,Mcgeer,E.G.,andMcgeer,P.L.(2009).Lrrk2phosphorylates 2016.03.005
+alphasynucleinatserine129:Parkinsondiseaseimplications.Biochem.Biophys. Stafa, K., Tsika, E., Moser, R., Musso, A., Glauser, L., Jones, A., et al. (2014).
+Res.Commun.387,149–152.doi:10.1016/j.bbrc.2009.06.142 FunctionalinteractionofParkinson’sdisease-associatedLRRK2withmembers
+Quadri,M.,Fang,M.,Picillo,M.,Olgiati,S.,Breedveld,G.J.,Graafland,J.,etal. ofthedynaminGTPasesuperfamily.Hum.Mol.Genet.23,2055–2077.doi:
+(2013).MutationintheSYNJ1geneassociatedwithautosomalrecessive,early- 10.1093/hmg/ddt600
+onsetParkinsonism.Hum.Mutat.34,1208–1215.doi:10.1002/humu.22373 Südhof,T.C.(2004).Thesynapticvesiclecycle.Annu.Rev.Neurosci.27,509–547.
+Ramanan,V.,Agrawal,N.J.,Liu,J.,Engles,S.,Toy,R.,andRadhakrishnan,R. Tan,T.C.,Valova,V.A.,Malladi,C.S.,Graham,M.E.,Berven,L.A.,Jupp,O.J.,
+(2011).Systemsbiologyandphysicalbiologyofclathrin-mediatedendocytosis. etal.(2003).Cdk5isessentialforsynapticvesicleendocytosis.Nat.CellBiol.5,
+Integr.Biol.3,803–815.doi:10.1039/c1ib00036e 701–710.doi:10.1038/ncb1020
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 12 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+
+fnint-15-619160 May13,2021 Time:15:54 #13
+Zouetal. EndocytosisDysfunctioninParkinson’sDisease
+Tanasic, I., Lj, T.-S., Milic Lemic, A., Mitrovic, N., and Milosevic, M. (2011). NonneuronalSecretoryCells.CellRep.7,982–988.doi:10.1016/j.celrep.2014.
+Enhancedin-vivoboneformationbybonemarrowdifferentiatedmesenchymal 04.020
+stemcellsgrowninchitosanscaffold.J.Bioengineer.Biomed.Sci.1:2. Wu,Y.,O’toole,E.T.,Girard,M.,Ritter,B.,Messa,M.,Liu,X.,etal.(2014).A
+Trempe,J.F.,Chen,C.X.,Grenier,K.,Camacho,E.M.,Kozlov,G.,Mcpherson, dynamin1-,dynamin3-andclathrin-independentpathwayofsynapticvesicle
+P.S.,etal.(2009).SH3domainsfromasubsetofBARproteinsdefineaUbl- recyclingmediatedbybulkendocytosis.Elife3:e01621.
+bindingdomainandimplicateparkininsynapticubiquitination.Mol.Cell36, Xiong, Y., Neifert, S., Karuppagounder, S. S., Liu, Q., Stankowski, J. N., Lee,
+1034–1047.doi:10.1016/j.molcel.2009.11.021 B. D., et al. (2018). Robust kinase- and age-dependent dopaminergic and
+Usami,Y.,Hatano,T.,Imai,S.,Kubo,S.,Sato,S.,Saiki,S.,etal.(2011).DJ-1 norepinephrineneurodegenerationinLRRK2G2019Stransgenicmice.Proc.
+associateswithsynapticmembranes.Neurobiol.Dis.43,651–662.doi:10.1016/ Natl.Acad.Sci.USA.115,1635–1640.doi:10.1073/pnas.1712648115
+j.nbd.2011.05.014 Xiong,Y.,Neifert,S.,Karuppagounder,S.S.,Stankowski,J.N.,Lee,B.D.,Grima,
+Valente,E.M.,Abou-Sleiman,P.M.,Caputo,V.,Muqit,M.M.,Harvey,K.,Gispert, J.C.,etal.(2017).OverexpressionofParkinson’sDisease-AssociatedMutation
+S.,etal.(2004).Hereditaryearly-onsetParkinson’sdiseasecausedbymutations LRRK2G2019SinMouseForebrainInducesBehavioralDeficitsandalpha-
+inPINK1.Science304,1158–1160.doi:10.1126/science.1096284 SynucleinPathology.eNeuro4,ENEURO.0004–ENEURO.0017.
+Vargas, K. J., Schrod, N., Davis, T., Fernandez-Busnadiego, R., Taguchi, Y. V., Yim, Y. I., Sun, T., Wu, L. G., Raimondi, A., De Camilli, P., Eisenberg, E.,
+Laugks, U., et al. (2017). Synucleins Have Multiple Effects on Presynaptic etal.(2010).Endocytosisandclathrin-uncoatingdefectsatsynapsesofauxilin
+Architecture.CellRep.18,161–173.doi:10.1016/j.celrep.2016.12.023 knockoutmice.Proc.Natl.Acad.Sci.USA.107,4412–4417.doi:10.1073/pnas.
+Verstreken,P.,Koh,T.W.,Schulze,K.L.,Zhai,R.G.,Hiesinger,P.R.,Zhou, 1000738107
+Y.,etal.(2003).SynaptojaninisrecruitedbyEndophilintopromotesynaptic Zarranz,J.J.,Alegre,J.,Gomez-Esteban,J.C.,Lezcano,E.,Ros,R.,Ampuero,I.,
+vesicleuncoating.Neuron40,733–748.doi:10.1016/s0896-6273(03)00644-5 etal.(2004).Thenewmutation,E46K,ofalpha-synucleincausesParkinsonand
+Vidyadhara,D.J.,Lee,J.E.,andChandra,S.S.(2019).Roleoftheendolysosomal Lewybodydementia.Ann.Neurol.55,164–173.doi:10.1002/ana.10795
+systeminParkinson’sdisease.J.Neurochem.150,487–506.doi:10.1111/jnc. Zimprich, A., Biskup, S., Leitner, P., Lichtner, P., Farrer, M., Lincoln, S., et al.
+14820 (2004). Mutations in LRRK2 cause autosomal-dominant parkinsonism with
+Wang,L.,Das,U.,Scott,D.A.,Tang,Y.,Mclean,P.J.,andRoy,S.(2014).alpha- pleomorphic pathology. Neuron 44, 601–607. doi: 10.1016/j.neuron.2004.
+synucleinmultimersclustersynapticvesiclesandattenuaterecycling.Curr.Biol. 11.005
+24,2319–2326.doi:10.1016/j.cub.2014.08.027
+Watanabe,S.,andBoucrot,E.(2017).Fastandultrafastendocytosis.Curr.Opin. ConflictofInterest:Theauthorsdeclarethattheresearchwasconductedinthe
+CellBiol.47,64–71.doi:10.1016/j.ceb.2017.02.013 absenceofanycommercialorfinancialrelationshipsthatcouldbeconstruedasa
+Watanabe,S.,Mamer,L.E.,Raychaudhuri,S.,Luvsanjav,D.,Eisen,J.,Trimbuch, potentialconflictofinterest.
+T.,etal.(2018).SynaptojaninandEndophilinMediateNeckFormationduring
+UltrafastEndocytosis.Neuron98,1184–1197e1186. Copyright©2021Zou,TianandZhang.Thisisanopen-accessarticledistributed
+Watanabe, S., Trimbuch, T., Camacho-Perez, M., Rost, B. R., Brokowski, B., underthetermsoftheCreativeCommonsAttributionLicense(CCBY).Theuse,
+Sohl-Kielczynski,B.,etal.(2014).Clathrinregeneratessynapticvesiclesfrom distribution or reproduction in other forums is permitted, provided the original
+endosomes.Nature515,228–233.doi:10.1038/nature13846 author(s)andthecopyrightowner(s)arecreditedandthattheoriginalpublication
+Wu,X.S.,Zhang,Z.,Zhao,W.D.,Wang,D.S.,Luo,F.J.,andWu,L.G.(2014). in this journal is cited, in accordance with accepted academic practice. No use,
+CalcineurinIsUniversallyInvolvedinVesicleEndocytosisatNeuronaland distributionorreproductionispermittedwhichdoesnotcomplywiththeseterms.
+FrontiersinIntegrativeNeuroscience|www.frontiersin.org 13 May2021|Volume15|Article619160
+
+---PAGE BREAK---
+

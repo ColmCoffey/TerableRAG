@@ -1,0 +1,1692 @@
+Article
+WNT Activates the AAK1 Kinase to Promote Clathrin-
+Mediated Endocytosis of LRP6 and Establish a
+Negative Feedback Loop
+Graphical Abstract Authors
+MeganJ.Agajanian,MatthewP.Walker,
+Kinome gain-of-function and loss-of-function
+screens of the WNT signaling pathway Potent, selective AAK1 AlisonD.Axtman,...,TimothyM.Willson,
+reveal AAK1 as an inhibitor
+small molecule inhibitor
+WilliamJ.Zuercher,MichaelB.Major
+activates WNT signaling
+Correspondence
+SgK269PINK1
+SgK223
+I SS K gg K KK a 016190 SBK benmajor@med.unc.edu
+AAK1 IKITKK BKb Ke1 MPSK1
+CaMKK G 1 AK ULK3
+BIKECaMKUKL2K1
+Fused In Brief
+NNEEKK9
+N8ENKEU 7KL6K
+N
+2
+EK10
+ULK4
+WNTsignaltransductionisessentialfor
+normaldevelopmentandcontributesto
+β-catenin Wnt signalosome clathrin-mediated manyhumandiseases.Agajanianetal.
+destruction formation endocytosis (CME)
+usedakinasegain-of-functionscreento
+no WNT 15 minutes 6-8 hours
+showthatWNTactivatestheAAK1kinase
+topromoteclathrin-mediated
+LRP6 AP2M1 CME of endocytosisoftheWNTreceptor.This
+WNT3A DVL PIP2 AAK1 LRP6 workidentifiesanAAK-drivennegative
+PAP2M1 feedbackloopthatdownregulatesWNT
+PI4P
+signaling.
+PI
+Highlights
+d Gain-of-functionkinomescreenidentifiesAAK1asa
+repressorofWNTsignaling
+d AAK1promotesclathrin-mediatedendocytosisofLRP6
+d
+SelectiveAAK1inhibitorstabilizesb-cateninandactivates
+WNTsignaling
+d WNTinducesAAK1-dependentphosphorylationofAP2M1
+andLRP6endocytosis
+Agajanianetal.,2019,CellReports26,79–93
+January2,2019ª2018TheAuthors.
+https://doi.org/10.1016/j.celrep.2018.12.023
+
+---PAGE BREAK---
+
+Cell Reports
+Article
+WNT Activates the AAK1 Kinase to Promote
+Clathrin-Mediated Endocytosis of LRP6
+and Establish a Negative Feedback Loop
+MeganJ.Agajanian,1,2,12MatthewP.Walker,1,12AlisonD.Axtman,3,4,12RobertaR.Ruela-de-Sousa,5,12
+D.StephenSerafin,1,6AlexD.Rabinowitz,1DavidM.Graham,6MeaganB.Ryan,1,2TigistTamir,1,2YukoNakamichi,1,7
+MelissaV.Gammons,8JamesM.Bennett,9RafaelM.Coun˜ago,5DavidH.Drewry,3,4JonathanM.Elkins,5,9
+CarinaGileadi,9OpherGileadi,5,9PauloH.Godoi,5NiravKapadia,3,4SusanneMu€ller,10Andre´ S.Santiago,5
+FionaJ.Sorrell,9CarrowI.Wells,3,4OlegFedorov,9TimothyM.Willson,3,4WilliamJ.Zuercher,1,3,4
+andMichaelB.Major1,2,6,11,13,*
+1LinebergerComprehensiveCancerCenter,UniversityofNorthCarolinaatChapelHill,ChapelHill,NC27599,USA
+2DepartmentofPharmacology,UniversityofNorthCarolinaatChapelHill,ChapelHill,NC27599,USA
+3StructuralGenomicsConsortium,UNCEshelmanSchoolofPharmacy,UniversityofNorthCarolinaatChapelHill,ChapelHill,NC27599,
+USA
+4DivisionofChemicalBiologyandMedicinalChemistry,UNCEshelmanSchoolofPharmacy,UniversityofNorthCarolinaatChapelHill,
+ChapelHill,NC27599,USA
+5StructuralGenomicsConsortium,UniversidadeEstadualdeCampinas–UNICAMP,Campinas,SP13083-970,Brazil
+6DepartmentofCellBiologyandPhysiology,UniversityofNorthCarolinaatChapelHill,ChapelHill,NC27599,USA
+7InstituteforOralScience,MatsumotoDentalUniversity,Nagano399-0704,Japan
+8MRCLaboratoryofMolecularBiology,CambridgeBiomedicalCampus,CambridgeCB20SL,UK
+9StructuralGenomicsConsortiumandTargetDiscoveryInstitute,NuffieldDepartmentofClinicalMedicine,UniversityofOxford,OldRoad
+CampusResearchBuilding,OxfordOX37DQ,UK
+10StructuralGenomicsConsortium,BuchmannInstituteforMolecularLifeSciences,GoetheUniversityFrankfurt,FrankfurtamMain60438,
+Germany
+11DepartmentofComputerScience,UniversityofNorthCarolinaatChapelHill,ChapelHill,NC27599,USA
+12Theseauthorscontributedequally
+13LeadContact
+*Correspondence:benmajor@med.unc.edu
+https://doi.org/10.1016/j.celrep.2018.12.023
+SUMMARY INTRODUCTION
+b-Catenin-dependentWNTsignaltransductiongov-
+b-Catenin-dependentWNTsignaltransductionisanevolution-
+erns development, tissue homeostasis, and a vast arily conserved pathway that instructs cell and tissue-specific
+arrayofhumandiseases.Signalpropagationthrough differentiationandproliferationprograms.Itisrequiredforboth
+aWNT-Frizzled/LRPreceptorcomplexrequirespro- normaldevelopmentandmaintenanceofadulttissuehomeosta-
+teins necessary for clathrin-mediated endocytosis sis (Nusse and Clevers, 2017). Like many developmental
+signalingpathways,aberrantWNTsignalingcontributesfunda-
+(CME).Paradoxically,CMEalsonegativelyregulates
+mentallytohumandiseases,includingcancer,bonedensitydis-
+WNT signaling through internalization and degrada-
+orders,andneurodegeneration(NusseandClevers,2017).The
+tion of the receptor complex. Here, using a gain-of-
+regulationoftheWNT/b-cateninsignalingaxisisoftendescribed
+function screen of the human kinome, we report
+in three stages: proximal signaling, b-catenin destruction, and
+that the AP2 associated kinase 1 (AAK1), a known
+nuclear effectors of transcription (Angers and Moon, 2009). In
+CMEenhancer,inhibitsWNTsignaling.Reciprocally, theabsenceofWNTligand,theLRP5/6(low-densitylipoprotein
+AAK1geneticsilencingoritspharmacologicalinhibi- receptorrelatedprotein5/6)andFrizzled(FZD)familyofWNTre-
+tion using a potent and selective inhibitor activates ceptorsremaindissociated.Withinthecytosoliccompartment,a
+WNTsignaling.Mechanistically,weshowthatAAK1 multi-proteinb-catenindestructioncomplexcomprisesAXIN1/
+promotesclearanceofLRP6fromtheplasmamem- 2,APC(adenomatouspolyposiscoli),CK1a(caseinkinase1a),
+brane to suppress the WNT pathway. Time-course and GSK3b (glycogen synthase kinase 3b). CK1a and GSK3b
+sequentiallyphosphorylateb-catenin,resultinginitsubiquityla-
+experiments support a transcription-uncoupled,
+tion by b-TRCP and ultimately proteasomal degradation (Her-
+WNT-driven negative feedback loop; prolonged
+na´ndez et al., 2012; Liu et al., 1999, 2002; Zeng et al., 2005).
+WNTtreatmentdrivesAAK1-dependentphosphory-
+ExtracellularWNTligandphysicallycouplesLRP5/6andFZDre-
+lationofAP2M1,clathrin-coatedpitmaturation,and
+ceptors, leading to phosphorylation-dependent recruitment of
+endocytosis of LRP6. We propose that, following
+theDVL(Dishevelled1/2/3),GSK3b,AXIN1/2,andadenomatous
+WNT receptor activation, increased AAK1 function polyposiscoliproteins(Bilicetal.,2007;Maoetal.,2001;Met-
+andCMElimitsWNTsignalinglongevity. calfeetal.,2010;Tamaietal.,2000).Thiscomplex,referredto
+CellReports26,79–93,January2,2019ª2018TheAuthors. 79
+ThisisanopenaccessarticleundertheCCBY-NC-NDlicense(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---PAGE BREAK---
+
+as the WNT signalosome, transiently suppresses b-catenin GSK3b in MVBs suppresses b-catenin phosphorylation, thus
+phosphorylation by GSK3b (Bilic et al., 2007). Hence, WNT potentiating signaling (Taelman et al., 2010). Finally, others
+ligand transiently inactivates the destruction complex to pro- havereportedthatCMEofLRP6andFZDdownregulatesWNT
+mote cytoplasmic accumulation of b-catenin, resulting in its signaling(Haoetal.,2012;Jiangetal.,2012;Kooetal.,2012;
+translocationtothenucleus,whereitbindstomembersofthe Liuetal.,2014;Yamamotoetal.,2008).Forexample,disabled
+TCF/LEFfamilyoftranscriptionfactorstomodulatetissue-spe- homolog 2 (DAB2) drives LRP6 toward CME and represses
+cific transcriptional programs and cell phenotypes (Behrens WNTsignaling(Jiangetal.,2012).Additionally,phosphorylation
+etal.,1996). ofLRP6oncytoplasmictyrosineresiduesdrivesCMEofLRP6,
+Throughagain-of-functionscreenofthekinome,wediscov- resultingindecreasedWNTsignaling(Liuetal.,2014).Further-
+eredthattheAP2associatedkinase1(AAK1)kinasenegatively more,ubiquitylationofFZDbyZNRF3andRNF43drivesrecep-
+regulatesb-catenin-dependentWNTsignalingbypromotingcla- torinternalizationanddegradation,resultingindecreasedWNT
+thrin-mediatedendocytosis(CME)ofLRP6.CMEisacomplex signaling(Haoetal.,2012;Kooetal.,2012).Alltogether,these
+andmulti-stepprocessthatremoveslipidsandtransmembrane studies establish CME as a major regulatory feature in WNT
+proteinsfromtheplasmamembrane.Theassemblypolypeptide signaling. Although still unresolved, it is likely contextual and
+2(adaptor-relatedprotein2[AP2])proteincomplexfirstrecog- temporal considerations play an important role in determining
+nizes and binds sorting signals on the intracellular domains of eitherapositiveornegativeroleforCMEinWNTsignaling.
+transmembrane cargo proteins (Ho¨ning et al., 2005; Ricotta Cross-referencing ourgain-of-functionscreenofthekinome
+etal.,2002).ActivationoftheAP2machineoccursallosterically with previously published loss-of-function screens, we identify
+through binding cargo, clathrin, and PIP2 (phosphatidylinositol AAK1 as a negative regulator of WNT-induced b-catenin tran-
+4,5-bisphosphate)(Kadlecovaetal.,2017).Thisactivationcoin- scription. Gain- and loss-of-function studies reveal that AAK1
+cideswithaconformationalshiftinAP2from‘‘closed’’to‘‘open.’’ negatively regulates WNT signaling by promoting CME of
+Open/activeAP2isrequiredforcontinuedclathrinpolymeriza- LRP6;FZDremainstobetested.Wealsoreportanduseapotent
+tion, cargo recruitment, and ultimately the maturation of a andselectivecellactiveAAK1inhibitor,whichpotentiatesWNT
+nascent clathrin-coated pit to a stable, successful endocytic signaling.Fullcharacterizationofthissmallmoleculeestablishes
+event(ConnerandSchmid,2002;Conneretal.,2003;Hender- it as the best available tool compound to interrogate AAK1
+son and Conner, 2007; Kadlecova et al., 2017; Ricotta et al., biology.Unexpectedly,wediscoveredthatWNTinducesphos-
+2002).InadditiontoPIP2,cargo,andclathrin,activationofthe phorylationofAP2M1byAAK1inatemporallydelayedfashion
+AP2 complex is promoted by phosphorylation of the AP2M1 at 8–10 hr post-WNT3A treatment. Therefore, we propose a
+subunit by AAK1 (Conner and Schmid, 2002; Conner et al., modifiedmodelwherebyWNT-drivenCMEpromotesanegative
+2003; Henderson and Conner, 2007; Kadlecova et al., 2017; feedback mechanism to limit pathway longevity. Indeed, we
+Ricottaetal.,2002).Importantly,AAK1-dependentphosphoryla- show that WNT stimulation promoted CME of LRP6 in an
+tionofAP2M1ispromotedbyclathrinassembly(Conneretal., AAK1-dependent fashion. More broadly, this work contributes
+2003),whichconstitutesapositivefeedforwardlooptopromote totheongoingdiscussionofendocytosiswithinWNTsignaling
+pitmaturation.Oncemature,cargo-loadedclathrin-coatedpits by solidifying a role for the AAK1 kinase in removing LRP6
+evolvetoendosomalvesiclesthroughdynamin-mediatedscis- fromthecellplasmamembrane.
+sionfromtheplasmamembrane(Damkeetal.,1994).
+NumerousstudiesestablisharegulatoryroleforCMEinWNT RESULTS
+signaling,althoughwhetherCMEactivatesorinhibitssignaling
+remains debated (Blitzer and Nusse, 2006; Hagemann et al., IdentificationofAAK1asaRepressorofWNTSignaling
+2014; Jiang et al., 2012; Kim et al., 2013; Yamamoto et al., Thirty years of research on the WNT pathway has revealed its
+2008).However,aspecificroleforAAK1inWNTsignalinghas core components and basic mechanics. That said, recent im-
+notpreviouslybeenreported.First,clathrin,AP2,andPIP2are provements in genetic screening technologies and protein
+requiredforWNT-inducedLRP6phosphorylation,signalosome mass spectrometry continue to identify additional modifiers of
+formation, and subsequent WNT signaling (Bilic et al., 2007; WNT pathway activity. We, along with others, have reported
+Kimetal.,2013).AP2andclathrinrecruitmenttotheWNTsignal- genome-widegain-andloss-of-functiongeneticscreensofthe
+osomeisinducedbyWNTligand,presumablyviaWNT-induced WNT pathway, illuminating regulators (e.g., FOXP1, USP6,
+PIP2production(Kimetal.,2013).Indeed,WNTligandinducesa TFAP4) and their mechanisms of WNT control (Lebensohn
+gradualaccumulationofPIP2overa4hrwindowaftertreatment etal.,2016;Madanetal.,2016;Walkeretal.,2015).Here,we
+withWNTligand(Panetal.,2008).Thesestudiessuggestthat focused on the human kinome to determine which kinases
+clathrin-associatedmachineryisrequiredforWNT-inducedsig- whenoverexpressedactivateorinhibitWNT3A-drivenb-catenin
+nalosome maturation and maintenance and, although not yet transcription.Wecloned387kinaseopenreadingframes(ORFs)
+proved, possibly for its formation. Second, Gammons et al. into a lentiviral expression vector before transient overexpres-
+(2016a) established that the WNT signalosome incorporates sion in HEK293T cells carrying the b-catenin-activated Firefly
+intoclathrin-coatedpitsviaDVLpolymerizationandthatthisis luciferasereporter(BAR)andaconstitutivelyexpressedRenilla
+ultimately required for signalosome formation and WNT signal (Ren) luciferase. Eighteen hours afterkinase transfection, cells
+transduction. Third, De Robertis and colleagues described a weretreatedwithWNT3Aconditionedmedia(CM)foranaddi-
+mechanismbywhichtheendocytosedsignalosomeisincorpo- tional 16 hr before lysis and BAR/Ren reporter quantitation
+ratedintomultivesicularbodies(MVBs).Here,sequestrationof (Table S1). ANKRD6/Diversin and CTNNB1/b-catenin served
+80 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+aspositivecontrolsforrepressionandactivation,respectively. bothselectivelyinhibitedAAK1andBMP2Kovertheothermem-
+Five kinases (AAK1, ADCK1, ADCK2, MAST1, and TGFBR3) bers of the subfamily, Numb-associated kinases GAK and
+werevalidatedbylow-throughputreporterassaysinHEK293T- STK16, in a TR-FRET binding displacement assay (Figures 2B
+BAR/Rencells(Figure1A).Comparativeanalysisofthiskinome andS1A),withK valuesagainstAAK1of8and9nMrespectively
+i
+gain-of-function screen in HEK293T cells with two previously for 25A and SGC-AAK1-1 and 2 mM for negative control 34A.
+publishedsmallinterferingRNA(siRNA)-basedloss-of-function Both 25A and SGC-AAK1-1 showed good selectivity over a
+screensinHT1080sarcomacellsandA375melanomacellsre- panel of 406 wild-type protein human protein kinases at 1 mM
+vealed a single common protein: AAK1 (Table S1) (Biechele concentration(Figures2CandS1B;TableS2)withonlyasmall
+etal.,2012;Madanetal.,2016).Becauseofthewell-established number of other kinases inhibited with dissociation constant
+functional connections between AAK1 and CME and the (BMP2K K bound to 25A) values within 30 times of those of
+D
+emerging data on CME in governing WNT pathway dynamics, AAK1.Kinasesthatexhibited>85%inhibitionand/orarecom-
+we sought to understand how AAK1 negatively regulates the monkinaseoff-targetsofacylaminoindazoleswithinthisstruc-
+WNTpathway. tural class were analyzed to determine whether the inhibition
+TovalidateandextendthediscoveryofAAK1asaWNTinhib- was confirmed in a dose-dependent K determination experi-
+D
+itor, we tested (1) whether siRNA-mediated silencing of AAK1 ment.Kinasesforwhichthecompoundofinterestdemonstrated
+activatedb-catenin-driventranscription,(2)thecell-typespeci- aK <100nMaremarkedwithalargeredcircleand100nM<
+D
+ficityoftheAAK1-WNTphenotype,(3)whetherAAK1regulated K < 1.0 mM with a smaller red circle. One of these kinases,
+D
+the expression of endogenous b-catenin target genes, and (4) PIP5K1C, is required for PIP2 production, which plays a key
+whetherAAK1affectedtheactivityofnon-WNTsignalingpath- role in regulating WNT signaling. To ensure that any observed
+ways. First, in agreement with AAK1 overexpression blocking phenotype is AAK1 dependent, we determined the PIP5K1C
+WNTsignaling (Figure 1A),siRNA silencingof AAK1 usingtwo IC valuesforSGC-AAK1-1and34Aas6.6and3.6mM,respec-
+50
+non-overlapping siRNAs increased BAR expression in HT1080 tively,inaPIP5K1CenzymeassayatReactionBiology(Anastas-
+fibrosarcoma cells and RKO colon cancer cells (Figures 1B siadisetal.,2011)(TableS3).TheinvitroIC valuesforinhibition
+50
+and 1C). To visualize reporter expression in real time, we of AAK1 enzymatic activity were determined for SGC-AAK1-1
+silencedAAK1inHT1080cellscarryingaBAR-mCherryreporter. andthenegativecontrol(34A)versusapositivecontrol(stauro-
+Quantitation of mCherry fluorescence confirmed that AAK1 sporine) using a coupled enzyme assay system. Inhibition of
+knockdownactivatedtheBARreporter(Figure1D),whileAAK1 AAK1 enzymatic activity was confirmed for SGC-AAK1-1
+overexpression suppressed BAR activity (Figure 1E). Third, to (IC =270nM).Thecontrolsdemonstratedtheexpectedactivity
+50
+rule out potential reporter-based artifacts, we quantified the profiles:34Awasnotactive(IC >1mM),whilestaurosporine
+50
+expression of two endogenous WNT target genes after AAK1 demonstrated potent AAK1 inhibition (IC = 120 nM) (Fig-
+50
+perturbation. AAK1 knockdown increased RNA expression of ure S1C). Isothermal titration calorimetry (ITC) measured K
+D
+AXIN2 and NKD1 in both HEK293T and HT1080 cells (Figures values forSGC-AAK1-1of120and490nMagainstAAK1and
+1Fand1G).Conversely,AAK1overexpressionledtodecreased BMP2K, respectively, and showed that binding had favorable
+RNA expression of AXIN2 and NKD1 in HEK293T cells (Fig- enthalpy(DH)andunfavorableentropy((cid:1)TDS)(Figures2Dand
+ure1H).Fourth,becauseofitsestablishedrolesinCME,AAK1 S1D; Table S4). Attempts to co-crystallize either inhibitor with
+mightbroadlyregulateothersignalingcascades.AAK1overex- AAK1wereunsuccessful,butitwaspossibletoobtainaco-crys-
+pression did not affect TNFa-driven NFkB reporter activity or talstructureof25AwithBMP2Kto2.41A˚ resolution(Figures2E,
+TGFb-drivenSMADreporteractivity(Figure1I).Together,these S1E,andS1F;TableS5).Thestructurerevealed25Aboundin
+dataestablishthatAAK1negativelyregulatesWNTsignalingin theATPsite,makingthreehydrogenbondstothekinasehinge
+cellsderivedfrommultipletissuetypes.Importantlyandconsis- regionandtwofurtherhydrogenbondsviaitssulfonamideoxy-
+tentwithitsestablishedroleinCME,AAK1didnotaffectb-cat- gens to Gln137 and Asn185, while the central hydrophobic
+enintranscriptionalactivityintheabsenceofexogenousWNT3A portion of the inhibitor packs against the gatekeeper residue
+stimulation. Met130.Hydrogenbonds areindicated asdashed lines tothe
+respective residues within the BMP2K binding pocket (Fig-
+DiscoveryofaPotentandSelectiveInhibitorofAAK1 ure 2E). All pertinent statistics associated with data collection
+Indazole compound SB-742864 was previously identified as a for the BMP2K co-crystal structure, the full-length structure
+semi-selectiveinhibitorofAAK1(invitrohalfmaximalinhibitory with 25A bound, and the electron density map are included in
+concentration[IC ]=220nM)(Elkinsetal.,2016).Optimization theSupplementalInformation(TableS5;FiguresS1EandS1F).
+50
+ofSB-742864viaiterativemedicinalchemistryoptimizationled To test that the inhibitors engage AAK1 and BMP2K in live
+to compound 25A (Figure 2A), a potent and selective inhibitor cells, we used NanoBRET assays (Promega) (Vasta et al.,
+ofAAK1andthecloselyrelatedkinaseBMP2K.Furtheroptimiza- 2018), in which human cells were transfected with a plasmid
+tiontoimprovetheselectivityledtoSGC-AAK-1(Figure2A),a expressing the full-length kinase gene fused to Nanoluc lucif-
+chemicalprobeforAAK1andBMP2K.Acloselyrelatedmole- erase.Inthepresenceofafluorescent-labeledATP-competitive
+cule,SGC-AAK1-1N(referredtoas34A),whichisdevoidofac- tracercompound,abioluminescenceresonanceenergytransfer
+tivityon AAK1orBMP2K, wasidentified foruse asanegative (BRET)signalwasmeasured.Displacementofthetracerbythe
+control compound. Full details of the chemistry program and inhibitor beingtested,resultinginlossofBRET,demonstrated
+analysisofthestructure-activityrelationshipswillbepublished target engagement, and linear regression of the IC values at
+50
+elsewhere. Compounds 25A and SGC-AAK-1, but not 34A, multiple tracer concentrations yielded the IC in the absence
+50
+CellReports26,79–93,January2,2019 81
+
+---PAGE BREAK---
+
+A
+allineR/ylferiF
+B
+0.20 15
+Lcell CM *
+WNT3A CM
+0.15 10
+0.10
+5
+0.05
+* * * *
+* 0
+0 siCNT AAK1si#1 AAK1si#2
+Control AAK A 1 D CK A 1 D C A K N 2 K R D M 6 AS T T G 1 FB R C 3 ontrol AAK1
+Overexpression Construct TUBB
+allineR/ylferiF
+Lcell CM
+WNT3A CM
+0
+0 20 40 60
+Hours post transfection
+ytisnetnI
+ecnecseroulF
+D
+200000 siCNT siAAK1 #1
+siAAK1 #2 150000 s s i i C LR T P N 6 NB1 * * * **
+100000
+50000
++WNT3A CM +WNT3A CM
+ytisnetnI
+ecnecseroulF
+E 4000000 Control
+AAK1
+3000000
+2000000
+1000000
+0
+0 20 40 60
+Hours post transfection
+G 0.04 Lcell CM WNT3A CM
+* *
+0.03 * *
+0.02
+0.01
+0.00 AXIN2 NKD1
+dezilamroN
+HDPAG
+noisserpxE
+eneG
+siControl +
+siAAK1 #1
+- +
+siAAK1 #2
+- - -
++ + + + -- - - -- - -
+dezilamroN
+HDPAG
+noisserpxE
+eneG
+H 0.25 Lcell C M 4 Vehicle
+WNT3A CM * Growth Factor
+0.20 3
+0.15
+2
+0.10 **
+1
+0.05
+0
+0 AXIN2 NKD1 Control +
+Control + - - + - - AAK1
+ANKRD6 - + - - + - AAK1 - - + - - + Wnt NFκB TGFβ
+reporter reporter reporter
+- +
+*
+- +
+-
+-+ +
+-
+-+
+I
+allineR/ylferiF
+F
+AXIN2 NKD1
+dezilamroN
+HDPAG
+noisserpxE
+eneG
+C
+4 **
+*** 3
+2
+1
+0
+siCNT siAAK1#1 siAAK1#2
+AAK1
+TUBB
+200 Lcell CM & CNT siRNA
+* WNT3A CM & CNT siRNA Lcell CM & AAK1 #2 siRNA 150 WNT3A CM & AAK1 #2 siRNA
+100 *
+50
+0
+Target Gene
+allineR/ylferiF
+Lcell CM
+WNT3A CM
+*
+**
+Figure1. Gain-of-FunctionKinomeScreenRevealsAAK1asaRepressorofWNTSignaling
+(A)HEK293T-B/Rcellsweretransfectedwiththeindicatedconstructfor24hr.Cellswerethentreatedfor16hrwithWNT3AorLcellCM.Barsrepresentaverage
+Firefly/Renrelativefluorescenceunits(RFU)fromthreetechnicalreplicates.
+(BandC)LuciferaseassayofHT1080(B)orRKO(C)stableB/RcellstransfectedwitheithercontrolorAAK1siRNAfor56hr.Cellswerethentreatedwitheither
+LcellorWNT3ACMfor16hr.BarsrepresentaverageFirefly/RenRFUfromthreetechnicalreplicates.Westernblotanalysisillustratesknockdownefficiencyof
+twoindependentAAK1siRNAs.
+(D)IncuCyteimagingofHT1080cellsstablyexpressingaBAR-mCherryfluorescentreportertransientlytransfectedwithindicatedsiRNAconstruct.WNT3ACM
+wasaddedat18hr,thencellswereimagedfor50hrpost-transfection.Graphrepresentsdatapointsaveragedacrossfourtechnicalreplicates.
+(E)Live-cellimagingofHT1080cellsstablyexpressingaBAR-mCherryfluorescentreportertransientlytransfectedwiththeindicatedexpressionconstruct,
+AAK1,orFLAGcontrol.WNT3ACMwasaddedat8hr,andcellsweremonitoredforanadditional56hr.Datarepresenttheaverageoffourtechnicalreplicates.
+(FandG)qPCRanalysisofAXIN2andNKD1inHEK293T(F)orHT1080(G)cells72hraftertransfectionwiththeindicatedsiRNA.CellsweretreatedwithWNT3A
+CMfor6hrpriortoharvest.Barsrepresentaverageglyceraldehyde-3-phosphatedehydrogenase(GAPDH)-normalizedgeneexpressionacrossthreetechnical
+replicates.
+(H)qPCRanalysisofAXIN2(left)andNKD1(right)inHEK293Tcellstransfectedwithoverexpressionconstructfor24hr,thentreatedwithWNT3ACMfor6hrprior
+toharvest.BarsrepresentaverageGAPDH-normalizedgeneexpressionacrossthreetechnicalreplicates.
+(I)LuciferaseassayofHEK293Tcellstransfectedwithindicatedpathway-specificFireflyluciferasereporterconstructsandexpressionconstructspriortoa16hr
+treatmentwithrecombinanthuman(rh)WNT3A(200ng/mL),rhTNFa(200ng/mL),orrhTGFb1(200ng/mL).BarsrepresentaverageFirefly/RenRFUfromthree
+technicalreplicates.
+*p<0.05,**p<0.005,and***p<0.0005.Alldataarerepresentativeofbiologicaltriplicates,unlessotherwisenoted.ErrorbarsrepresentSE.
+Forcompletestatistics,seeSTARMethods.SeealsoTableS1.
+82 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+H O S O H O S O 100 NN N N NN N
+H H 75
+HN HN O O
+50
+H O S O 25
+NN N
+H 0
+HN O 10-10 10-9 10-8 10-7 10-6 10-5 10-4
+[SGC-AAK1-1] (M)
+SGC-AAK1-1
+noitibihnIegatnecreP
+AAK1
+BMP2K
+GAK
+STK16
+40
+30
+20
+10
+0
+10-4 10-3 10-2 10-1 100 101 10 2
+[SGC-AAK1-1] (μM)
+stinuTERBm
+Atypical
+AAK1, BMP2K
+Lipid
+SGC-AAK1-1
+2 μM 15
+1 μM 0.5 μM 10
+0.25 μM
+5
+0
+10-4 10-3 10-2 10-1 100 101 102
+[SGC-AAK1-1] (μM)
+stinuTERBm
+SGC-AAK1-1 25A
+34A
+(negative control)
+40
+30
+20
+10
+0
+10-4 10-3 10-2 10-1 100 101 102
+[25A] (μM)
+M)
+0 1
+2
+. μ
+μ
+5 M
+M
+μM N T 0 ( D M 0 S .
+O
+1
+)
+μ M 0. 2 μ M 0. 3 9 μ 0 M . 7 8 μ 1 M . 5 6 μ 3 M . 1 2 5 6 μ .
+M
+2 5 1 μ 2 M . 5 μ M 2 5 μ M 3 4 A ( 1 0
+μ
+0.25 μM p-AP2M1
+(T156)
+AP2M1
+IC =233 nM IC =1.48 μM
+50 50 β-actin
+stinUTERBm
+A B C
+E F AAK1
+AAK1
++ 2 μM
+1 μM SGC-AAK1-1
+0.5 μM
+K =1.2 x10-7 M 0.25 μM D
+50
+0 IC =242 nM
+50
+-50
+-100 ΔG ΔH -TΔS
+G AAK1 H BMP2K I
+lom/Jk
+D
+Figure2. SGC-AAK1-1IsaPotentandSpecificInhibitorofAAK1andBMP2K
+(A)ChemicalstructuresoftheAAK1/BMP2KchemicalprobeSGC-AAK-1,therelatedAAK1/BMP2Kinhibitor25A,andthenegativecontrolcompound34Athat
+hasasimilarchemicalstructurebutdoesnotinhibitAAK1orBMP2K.
+(B)SGC-AAK-1selectivelyboundAAK1andBMP2Kwithamorethan30-folddifferenceinKiinaTR-FRETbindingdisplacementassayovertherelatedkinases
+GAKandSTK16.Sixteen-pointdose-responsecurvesweremeasuredinduplicate.
+(C)SGC-AAK1-1hasgoodselectivityoverthehumankinome.SGC-AAK1-1wasusedat1mMconcentrationandtestedagainstover400wild-typehuman
+kinases.KDdeterminationwascompletedforallkinasesthatexhibited>85%inhibitionand/orwereobservedascommonoff-targetsforthisstructuralclass.
+KinasesforwhichSGC-AAK1-1hasaK <100nMaremarkedwithalargeredcircleand100nM<K <1.0mMwithasmallerredcircle.
+D D
+(D)ITCconfirmedaK of120nMforbindingofSGC-AAK1-1toAAK1.
+D
+(E)Aco-crystalstructureofBMP2K(2.41A˚)boundto25ArevealedthebindingmodeoftheinhibitorintheATPsite.Thisstructurerevealedfivekeyhydrogen
+bondsandrevealedtheorientationofthecentralhydrophobicportionoftheinhibitorwithrespecttothebindingpocket.
+(FandG)NanoBRETcellulartargetengagementassaysinHEK293Tcellsshowedthat25A(F)andSGC-AAK1-1(G)bothenteredcellsanddirectlyboundtoAAK1
+anddisplacedafluorescenttracermoleculefromtheATPsite.Cellsweretreatedwithseriallydilutedinhibitorsinthepresenceoffourdifferentconcentrationsofa
+NanoBRETtracermolecule,andIC valueswerecalculatedfromalinearinterpolationoftheIC valuesateachtracerconcentrationtoobtainthepredictedIC
+50 50 50
+intheabsenceoftracer.Measurementsweremadewiththreetechnicalreplicates.
+(H)BindingofSGC-AAK1-1toBMP2KincellswasweakerthantoAAK1withIC >1mM.Displacementofthesamefluorescenttracermoleculerequired
+50
+increasedconcentrationsofSGC-AAK1-1,revealinganelevatedIC50valueforbindingtoBMP2KversusAAK1inthecellulartargetengagementassay.
+(I)SGC-AAK1-1inhibitedthephosphorylationoftheAP2M1subunitatThr156inHEK293Tcellsinaconcentration-dependentmannerorwith10mM34A.
+HEK293Tcellsweretreatedwithinhibitorsfor2hrbeforewesternblotanalysis.
+ErrorbarsrepresentSE.SeealsoFigureS1andTablesS2,S3,S4,andS5.
+CellReports26,79–93,January2,2019 83
+
+---PAGE BREAK---
+
+A
+D MS O 34A 25A S
+GC-AAK1-1
+pAP2M1
+(T156)
+AP2M1
+AAK1
+TUBB
+oftracer.25AandSGC-AAK-1boundtoAAK1inHEK293Tcells WNT endogenous target genes AXIN2 and NKD1 in HT1080
+withIC valuesofabout240nM,andmoreweaklytoBMP2K, cells, compared with DMSO control and 34A (Figure 3C).
+50
+with IC values of 600 nM and 1.5 mM, respectively (Figures Finally, we measured b-catenin protein abundance following
+50
+2F–2HandS1G).TodemonstratethatbindingtoAAK1inhibited a 15 min pulse of WNT3A ligand in the presence of control
+its enzymatic activity in cells, phospho-AP2M1 (Thr156) levels compound 34A or SGC-AAK1-1. In cells pulsed with WNT3A
+were observed by western blotting after 2 hr treatment of and cultured with 34A, b-catenin protein levels increased,
+HEK293TcellswithseriallydilutedSGC-AAK1-1,resultingina reachingamaximumatabout7hrbeforereturningtobaseline
+dose-dependent decrease of pAP2M1 starting below 1 mM, in at18hr(Figures3Dand3E).InthepresenceofSGC-AAK1-1,
+agreementwiththeNanoBRETdata(Figure2I). b-catenin protein accumulated more robustly at earlier time
+points and was sustained throughout the 24 hr time course
+AAK1InhibitorActivatesWNTSignalingbyStabilizing (Figures 3D and 3E). Together, these results indicate that
+b-CateninLevels 25A and SGC-AAK1-1 block AAK1 kinase activity, resulting
+Toconfirmandextendthesedata,wenexttestedSGC-AAK1- in increased b-catenin protein stability and b-catenin-depen-
+1and25Ainaseriesofexperimentstoevaluateitspotencyof dent transcription.
+AAK1inhibitionincellsandregulationofWNTsignaling.First,
+we treated HT1080 cells with SGC-AAK1-1 and evaluated AAK1PromotesCMEofLRP6toInhibitWNTSignaling
+AAK1-dependent phosphorylation of AP2M1. SGC-AAK1-1, Several recent studies report that CME negatively regulates
+along with 25A, both significantly reduced phosphorylation WNTsignalingbyreducingthepresenceofthereceptorcomplex
+ofAP2M1(T156),comparedwithDMSOcontrolandthenega- ontheplasmamembrane(Jiangetal.,2012;Liuetal.,2014;Ya-
+tive control, 34A (Figure 3A). Second, treatment with SGC- mamotoetal.,2008).Giventhewell-establishedroleofAAK1in
+AAK1-1 or 25A activated WNT-driven BAR activity compared phosphorylatingAP2M1tofacilitateCME(ConnerandSchmid,
+with controls (DMSO and 34A) in a dose-dependent manner 2002;Conneretal.,2003;HendersonandConner,2007;Ricotta
+(Figure 3B). Importantly, 25A also significantly upregulated et al., 2002), our discovery of AAK1 as a negative regulator of
+1M2PA/1M2PAp
+B
+0.15 * *
+0.10
+0.05
+0
+D MS O 34A
+G
+2
+C
+5
+-
+A AAK1-1
+S
+allineR/ylferiF
+C
+8 2.0 DMSO 34A
+6 25A *** 1.5
+SGC-AAK1-1
+4 ** 1.0
+0.5
+2
+0 0 0.01 0.1 1.0 10
+Log [CMPD], μM AXIN2 NKD1
+dezilamroN
+HDPAG
+noisserpxE
+eneG
+0.003 DMSO DMSO 34A * 34A *
+. 25A . 25A
+0.002
+0.001
+0 L-cell WNT3A L-cell WNT3A
+E 34A - 2 4 6 7 8 9 10 12 14 1618 20 24
+D
+WNT3A - + + + + + + + + + + + + +
+SGC-AAK1-1 - - - - - - 2 4 6 7 8
+34A - 2 4 6 7 8 - - - - -
+β-catenin
+WNT3A - 2 4 6 7 8 2 4 6 7 8
+TUBB
+β-catenin
+SGC-AAK1-1 - 2 4 6 7 8 9 1012 14 1618 20 24
+TUBB
+WNT3A - + + + + + + + + + + + + +
+β-catenin
+TUBB
+Figure3. AAK1InhibitionPotentiatesWNTSignalingandStabilizesb-Catenin
+(A)RepresentativewesternblotofHT1080cellstreatedwithindicatedcompounds(2.5mM)for1hr(left).Box-and-whiskerplotrepresentsquantificationoffour
+biologicalreplicateexperimentsusingLiCORsoftware(right).
+(B)BARluciferaseassayofHT1080-B/RstablecellstreatedwithWNT3ACMandtheindicateddoseofcompoundfor16hr.Dataareaveragedoverthree
+technicalreplicates.
+(C)qPCRanalysisofAXIN2orNKD1fromHT1080cellstreatedwithindicatedcompound(1.25mM)for12hrinthepresenceofLcellorWNTCMandnormalizedto
+GAPDH.Graphrepresentsanalysisaveragedacrossthreetechnicalreplicates.
+(DandE)WesternblotanalysisofRKOcellsfollowinga15minWNT3Apulse,thentreatedwith1.25mMofeither34AorSGC-AAK1-1fortheindicatedtime.
+Dashedline(D)representscroppedblotforremovalofredundant,untreatedsample.
+*p<0.05,**p<0.005,and***p<0.0005.Alldataarerepresentativeofbiologicaltriplicates,unlessotherwisenoted.ErrorbarsrepresentSE.Forcomplete
+statistics,seeSTARMethods.
+84 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+A 0.08 WNT3A CHIR99021 B 0.15 L W * c * N e T ll 3 C A M CM AAK A 1 A - W K A T 1- A 7 K 4 G 1 A - F A P ID
+*
+0.10 FLAG-AAK1
+FLAG-GFP
+0.05
+ns
+0
+Control AAK1 G A F A P K1 A - W AK T 1- A 74 A A K1-AID
+D
+WNTsignalingisnotentirelyunexpected.Thatsaid,AAK1has suggesting that both AP2 interaction and kinase activity are
+not previously been shown to regulate WNT signaling, and required for AAK1-mediated repression of WNT signaling. A
+certainly,themolecularmechanismsgoverningCMEwithinthe role for clathrin and CME in AAK1-driven WNT suppression
+WNT pathway and its homeostasis are not well defined, with wastestedby(1)siRNAsilencingofclathrin,(2)pharmacological
+severalremainingquestionsandconflictingstudies(Blitzerand inhibitionofclathrin-coatedvesicles,and(3)blockingdynamin1
+Nusse, 2006; Gammons et al., 2016a; Hagemann et al., 2014; functionwithanestablisheddominant-negativeK44Amutation.
+Jiangetal.,2012;Liuetal.,2014;Taelmanetal.,2010;Yama- Two non-overlapping clathrin siRNAs effectively silenced cla-
+motoetal.,2008).ToconfirmthatAAK1functionswithinmem- thrinexpressionandblockedAAK1-dependent suppressionof
+braneproximalstepsofWNTsignaling,westabilizedb-catenin theBARreporterinHT1080cells(Figure4C).Similarly,treatment
+protein levels with a GSK3b inhibitor (CHIR99021) following with chlorpromazine, an established, albeit promiscuous CME
+either AAK1 overexpression or siRNA silencing. CHIR99021- inhibitor (Blitzer and Nusse, 2006; Phonphok and Rosenthal,
+mediated activation of the BAR reporter was not affected by 1991; Wang et al., 1993) suppressed WNT signaling induced
+AAK1 depletion or overexpression (Figure 4A). As expected, byAAK1 silencing(Figure4D).Furthermore, co-transfectionof
+b-cateninknockdownblockedBARactivationbyAAK1silencing AAK1anddominant-negativedynamin(DNM1)(K44A)rescued
+(Figure S2A). These results indicate that AAK1 functions up- theAAK1-inducedsuppressionofBARactivityinadose-depen-
+stream of b-catenin and the destruction complex. Next, the dentmanner(Figure4E).TheseexperimentssuggestthatAAK1
+role of endocytosis in AAK1-mediated repression of WNT represses WNT signaling in a clathrin- and kinase-dependent
+signaling was evaluated using two AAK1 mutants: (1) AAK1- manner.
+74A, which lacks kinase activity, and (2) AAK1-AID, which WenextexaminedtheeffectofAAK1onLRP6proteinlevels
+encodesatruncatedformofAAK1thatdoesnotbindtheAP2 using cell surface biotinylation assays and flow cytometry.
+complex (Conner and Schmid, 2002). Neither AAK1-74A nor AAK1 overexpression decreased LRP6 protein levels at the
+AAK1-AIDsignificantlyrepressedtheBARreporter(Figure4B), plasmamembrane(Figure5A).Additionally,AAK1knockdown
+allineR/ylferiF
+LOF GOF
+***
+0.06
+0.04
+0.02
+0 siControl siAAK1
+allineR/ylferiF
+C Lcell CM + Control 1.5 Lcell CM + AAK1 WNT3A CM + Control 1.0 * WNT3A CM + AAK1 Cont
+s
+r
+i
+o -A l si-B
+CLTC
+NS 0.5 NS TUBB
+0
+Control CLTC-A CLTC-B
+siRNA
+allineR/ylferiF 0.06 Lcell CM + siControl ** Lcell CM + siAAK1 #2 WNT3A CM + siControl 0.04 WNT3A CM + siAAK1 #2
+NS
+0.02 NS
+0
+DMSO 5μg/mL 10μg/mL
+Chlorpromazine HCL
+allineR/ylferiF
+E WNT3A CM pgu b s - - c F a L t d A e n n G T in A C p A F m K 7 D L 1 N 2 -F - M F A L 1 L A A A G K K G A 4 1 A 4 + A K A - K 1 G A 4 + F 4 K P K A 1 4 ( + 4 5 A n K g 4 ( ) 5 4 0 A n ( g 1 ) 00ng)
+130 100
+FLAG 70
+55 ns GFP-DNM1
+allineR/ylferiF
+Figure 4. AAK1 Represses b-Catenin-Medi- ated WNT Signaling through Regulation of Endocytosis
+(A) HT1080-B/R cells were transfected with indi-
+catedsiRNAfor56hrandthentreatedwithWNT3A
+orCHIR99021(1mM)for16hr(left).HT1080-B/R
+cells were transfected with the indicated over-
+expressionDNAconstructandallowedtorecover
+for12hr.CellswerethentreatedwithWNT3ACMor
+CHIR99021(1mM)for16hr(right).Dataareaver- agedoverthreetechnicalreplicates.
+(B) BAR luciferase assay from HT1080 cells
+transiently transfected with BAR-firefly luciferase, TK-Ren,andtheindicatedexpressionconstructs. Twelvehourspost-transfection,cellsweretreated
+for16hrwithLcellorWNT3ACMandthenassayed
+forBARactivity.WesternblotofFLAG-AAK1and
+FLAG-GFPisshowntoillustrateexpressionofAAK1
+constructs. Presented data are averaged across
+threetechnicalreplicates.
+(C) Luciferase assay in HT1080-B/R cells trans-
+fected with indicated siRNAs for 50 hr, then co- 0.9 *** transfectedwithindicatedexpressionconstructsfor 0.6 12hr.Cellswerethentreatedfor16hrwitheither LcellorWNT3ACM.Dataareaveragedoverthree 0.3 0.06 technicalreplicates.Right:westernblotofclathrin,
+0.04 * indicatingknockdownefficiency.
+** ** (D) Luciferase assay of HT1080-B/R cells trans-
+0.02 ** fectedwithindicatedsiRNAfor56hr,thentreated
+asindicatedfor16hr.Dataareaveragedoverthree
+0 β-c c a o te n n t d r i o n n l T p C m F7L D A 2 N A M K1 1 K44A AAK1 K44A + t (E ec ) h L n u i c c i a fe l r r a e s p e lic a a s te sa s. y ofHEK293T-B/R cellstrans-
+fected with indicated constructs for 12 hr, then
+overexpression construct
+treatedwitheitherLcellorWNT3ACMfor18hr.
+b-Cateninpm(pointmutant)isaconstructwiththe
+GSK3btargetresidues(S33/S37/T41)onb-cateninmutated.WesternblotanalysisofFLAGandGFPshowntoconfirmexpressionofoverexpressionconstructs.
+Dataareaveragedoverthreetechnicalreplicates.
+*p<0.05,**p<0.005,and***p<0.0005.Alldataarerepresentativeofbiologicaltriplicates,unlessotherwisenoted.ErrorbarsrepresentSE.Forcomplete
+statistics,seeSTARMethods.
+SeealsoFigureS2.
+CellReports26,79–93,January2,2019 85
+
+---PAGE BREAK---
+
+A Plasma Input Membrane
+AAK1 - + - +
+LRP6
+AAK1
+CTNNB1
+by siRNA increased LRP6 surface expression levels (Fig- WNT3A treatment decreases LRP6 cell surface levels via an
+ure5B).OnthebasisoftheobservationthattotalLRP6levels AAK1-dependentmechanism.
+seem to decrease with AAK1 knockdown (Figure 5B), we We next tested whether AAK1 and LRP6 co-complexed.
+quantified total LRP6 expression across six biological repli- Using HEK293T cells, immunoprecipitation, and western blot
+cates and demonstrate that with AAK1 knockdown, total analysisofHA-LRP6proteincomplexesrevealedthepresence
+LRP6 levels increase (Figure 5C). To validate the changes in ofoverexpressedFLAG-AAK1(FigureS3A).Similarly,immuno-
+surface LRP6expression findings inanorthogonal assay, we precipitation of HA-LRP6 co-purified endogenous AAK1, and
+used flow cytometry to quantify cell surface LRP6 levels in reciprocally,immunopurificationofoverexpressedFLAG-AAK1
+HEK293T cells. Here, AAK1 overexpression decreased LRP6 revealed co-complexed endogenous LRP6 (Figures S3B and
+surfacelevelswhileAAK1knockdownincreasedLRP6surface S3C,respectively).Finally,immunoprecipitationofendogenous
+levels (Figures 5D and 5E). Importantly, LRP6 surface levels AAK1 showed co-complexed endogenously expressed LRP6
+decreased following WNT3A treatment; this decrease was (FigureS3D).Interestingly, WNT3A stimulationsuppressed the
+rescued by co-treatment with the active AAK1 inhibitor association of LRP6 and AAK1 in all experiments (Figures
+SGC-AAK1-1, but not the negative control compound 34A S3A–S3D). Because the AP2 complex is known to associate
+(Figure 5F; Table S6). Together, these data indicate that with LRP6 (Kim et al., 2013), we next tested if AP2M1 was
+sleveL
+ecafruS
+6PRL
+B 500 Input
+siAAK1 - + - + 400
+LRP6
+300
+AAK1
+200
+CTNNB1
+100
+0
+GFP AAK1
+sleveL
+ecafruS
+6PRL
+500
+400
+300
+200
+100
+0
+siCNT siAAK1
+Isotype Control
+Control
+AAK1
+100 101 102 103 104
+tnuoC
+600
+400
+200
+gniniatS
+ecafruS
+6PRL
+D
+14 500 Isotype Control
+siCNT
+12 400 siAAK1 #1
+siAAK1 #2
+300 10
+200
+8
+100
+6
+Control AAK1 0
+100 101 102 103 104
+tnuoC
+10
+8
+6
+4
+2
+gniniatS
+ecafruS
+6PRL
+Plasma Membrane
+E
+* * *
+siCNT siAAK1 siAAK1
+#1 #2
+0.6
+AAK1 - + - +
+0.4
+Bafilomycin A1 - - + +
+LRP6 0.2
+FLAG-AAK1
+0
+TUBB
+AAK1 - + - +
+Baf. - - + +
+BBUT/6PRL
+* * C 0.8
+0.6
+0.4
+0.2
+0.0
+G * GFP + - + -
+siCNT siAAK1
+BBUT/6PRL
+*
+125
+ns 100
+75 ** **
+50
+25
+0
+WNT3A BSA 8 88 8
+34A - - + -
+SGC-AAK1-1 - - - +
+6PRL
+dezilamroN
+gniniatS
+ecafruS
+F
+Figure5. AAK1DownregulatesLRP6CellSurfaceLevels
+(AandB)WesternblotanalysisofHEK293TcellstransfectedwithanAAK1overexpressionconstructfor24hr(A)orAAK1siRNAfor72hr(B)priortomembrane
+fractionationusingasurfacebiotinylationassay.DatarepresentaveragesurfacestainingoffourbiologicalreplicateexperimentsquantifiedbyLiCORsoftware.
+(C)LiCORquantificationofwesternblotanalysisofLRP6levelswithAAK1knockdown.Thebox-and-whiskerplotrepresentstotalLRP6expressionnormalizedto
+b-tubulin(loadingcontrol)fromsixbiologicalreplicatesquantifiedbyLiCORsoftware.
+(DandE)LRP6surfacestainingasdetectedbyflowcytometryanalysisinHEK293TcellstransfectedwithanAAK1overexpressionconstructfor24hr(D)oran
+AAK1siRNAconstructfor72hr(E).AllexperimentswerequantifiedusingFlowJosoftware.Experimentwasperformedinfourbiologicalreplicates.
+(F)LRP6surfacelevelsasdetectedbyflowcytometryanalysisinHEK293Tcellstreatedasindicatedfor8hr.Thebox-and-whiskerplotrepresentsLRP6surface
+levelsnormalizedtoBSAcontrolforbiologicaltriplicates.RawvaluesforeachexperimentareshowninTableS6.
+(G)HEK293TcellsweretransfectedwithFLAG-AAK1orFLAG-GFPoverexpressionconstructs.Twenty-fourhourspost-transfection,cellsweretreatedfor6hr
+withtheautophagyinhibitorbafilomycinA1(100nm)orDMSOcontrolpriortocellharvest,thenanalyzedusingwesternblotforendogenousLRP6andAAK1
+levels.Thebox-and-whiskerplotrepresentsLRP6expressionnormalizedtob-tubulinfromfourbiologicalreplicatesquantifiedbyLiCORsoftware.
+*p<0.05and**p<0.005.Alldataarerepresentativeofbiologicaltriplicates,unlessotherwisenoted.Forcompletestatistics,seeSTARMethods.
+SeealsoFigureS3andTableS6.
+86 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+required for the AAK1-LRP6 interaction. Co-overexpression of Intrigued with the delayed WNT3A-induced phosphorylation
+AAK1 constructs (WT, 74A, and dAID) and HA-LRP6 followed ofAP2M1byAAK1,weperformedaseriesoffunctionalassays
+byFLAGaffinitypurificationandwesternblotanalysisdemon- toidentifyrequisitesignalingevents.First,wefoundthatAAK1-
+strated that the AAK1 AP2 binding domain is required for the mediatedpAP2M1accumulationwasinducedbyrhWNT3A(3A)
+AAK1-LRP6interaction(FigureS3E). andrhWNT5A(5A),thelatterofwhichsignalsinab-catenin-in-
+AAK1 silencing potentiated WNT3A-driven b-catenin activa- dependent fashion (Figure 6C). Second, inhibition of GSK3b
+tionandincreasedLRP6proteinlevelsinwholecelllysateand withCHIR99021didnotresultinelevatedpAP2M1levels,sug-
+onthemembrane(Figures5B,5C,and5E).Becausecargotar- gesting that WNT3A-induced pAP2M1 did not require b-cate-
+geted by CME can be directed to lysosomes for degradation, nin-dependenttranscription(Figure6D).Inagreementwiththese
+wetestedifthedecreasedLRP6levelsweobservedfollowing data,inhibitingb-catenin-dependenttranscriptionwithoverex-
+AAK1overexpressionwereduetoCMEofLRP6andsubsequent presseddominant-negativeTCF7L2/TCF4(dnTCF7L2/dnTCF4)
+lysosomal degradation. AAK1 was overexpressed in HEK293T did not affect pAP2M1 increase (Figure 6E). Third, using
+cellsbeforetreatmentwithbafilomycinA1,aninhibitoroflyso- HEK293TcellslackingallthreeDVLproteinsviaCRISPR-Cas9
+somalacidification.Westernblotanalysisestablishedthatbafi- triple-knockout (TKO) cells (clones 4 and 6) (Gammons et al.,
+lomycin A1 treatment rescued AAK1-driven downregulation of 2016b) and HEK293T LRP5/6 CRISPR-Cas9 double-knockout
+LRP6(Figure5G).Together,theseresultssuggestthatAAK1in- (DKO)cells,wetestedwhetherWNT3Apromotedphosphoryla-
+hibits WNT signaling by inducing CME endocytosis and lyso- tion of AP2M1 (Figure 6F). In the absence of LRP5/6 or DVL,
+somaldegradationofLRP6. AP2M1 phosphorylation did not increase following WNT treat-
+ment. Interestingly, background pAP2M1 levels are increased
+WNT3AInducesAAK1PhosphorylationofAP2M1 in both LRP5/6 DKO and DVL TKO cells compared with WT
+Within15–30minofWNT3Atreatment,LRP6isphosphorylated HEK293Tcells(Figure6F).Fourth,previousstudiesestablished
+byGSK3band CK1g (caseinkinase1g),resulting intransient that PIP2 levels increase following short-term (4 hr) WNT3A
+suppression of b-catenin phosphorylation and degradation treatment and that PIP2 is required for WNT signalosome
+(Herna´ndez et al., 2012; Liu et al., 1999, 2002; Zeng et al., formation (Kim et al., 2013; Pan et al., 2008). Furthermore,
+2005). Extended duration of WNT3A stimulation of 4–6 hr re- PIP2recruitsAP2tothesignalosome,leadingtoCMEofLRP6
+sultsinMVBformationandsequestrationofGSK3b(Taelman (Kimetal.,2013).Thus,wehypothesizedthatPIP2isrequired
+et al., 2010). Here we asked if WNT3A treatment regulated for WNT3A-induced phosphorylation of AP2M1 by AAK1. To
+AAK1-dependent phosphorylation of AP2M1. Time-course test this hypothesis, we inhibited PIP2 by treating cells with
+analysisinHT1080orHEK293TcellsrevealedWNT3A-induced neomycin or carbachol, both of which block PIP2 signaling
+phosphorylationofAP2M1at8–10hrpost-treatment,withno (Baron et al., 1993; Huang et al., 1999). Treatment of HT1080
+changeintotalAP2M1orAAK1proteinlevels(Figure6A).To cells with neomycin or carbachol blocked WNT3A-induced
+ruleoutartifactsduetotheuseofWNT3ACMandtoextend phosphorylationofAP2M1(Figure6G).Furthermore,weblocked
+relevance to a second cell type, we treated HT1080 cells PIP2 production bysilencing the PI4K2a kinase with twonon-
+(FigureS4A)andHEK293T(FigureS4B)cellswithrecombinant overlappingsiRNAs.PI4K2aphosphorylatesphosphatidylinosi-
+humanWNT3A(rhWNT3A)overatimecourseof4–16hr.West- tol(PI)tophosphatidylinositol4-phosphate(PI4P)andisrequired
+ernblotanalysisrevealedanincreaseinpAP2M1proteinlevels forsubsequentPIP2production(Toker,1998).Inagreementwith
+8–10 hr post-WNT3A stimulation. We also tested the impor- the neomycin or carbachol experiments, PI4K2a silencing in
+tance of continued exposure to WNT ligand over the time HT1080cellsblocked WNT3A-dependentincrease inpAP2M1
+course compared with transient pulse of WNT3A. Here, cells (Figure6H).WeconcludethatWNTligandsdriveAAK1-depen-
+weretreatedwithWNT3Afor15minbeforereplacementwith dentphosphorylationofAP2M1inamannerthatis(1)temporally
+fresh media (Figures S4C and S4D). These experiments delayedfromsignalosomeformation,(2)independentofb-cate-
+demonstratedthatapulseofWNT3Ainducedasimilarincrease nin-mediated transcription, (3) dependent on LRP5/6 and DVL
+in AP2M1 phosphorylation compared with continuous expo- proteinexpression,and(4)dependentonPIP2production.
+suretoWNT3Aligand.
+The WNT3A-induced phosphorylation of AP2M1 required DISCUSSION
+AAK1 expression and activity. First, HT1080 cells orHEK293T
+cellsweretreatedwithWNT3ACMandtheAAK1inhibitor25A CMEisawell-establishedregulatorofWNTsignaling,although
+before western blot analysis of phosphorylated AP2M1; 25A whether CME promotes or inhibits the WNT pathway remains
+blocked WNT3A-induced phosphorylation of AP2M1 (Figures debated(Bilicetal.,2007;BlitzerandNusse,2006;Gammons
+S4C and S4D). Additionally, the AAK1 inhibitor blocked etal.,2016a;Kimetal.,2013;Panetal.,2008;Taelmanetal.,
+WNT3A-induced AP2M1 phosphorylation when added at any 2010;Yamamotoetal.,2008).Certainly,contextualandtempo-
+time point following WNT3A treatment (Figure S4E). Second, ral features in CME-directed WNT studies are important. As a
+siRNA silencing of AAK1 also suppressed WNT3A-induced central and positive regulator of CME, our discovery of AAK1
+phosphorylation of AP2M1 (Figure 6B). These data suggest asaWNTmodulatorisnosurprise.Collectivelyourdatashow
+thatat8–10hrpost-WNT3Atreatment,AAK1-dependentphos- that AAK1 negatively regulates b-catenin-dependent WNT
+phorylation of AP2M1 increases to form a negative feedback signaling through CME endocytosis of LRP6. Although the
+loopofCMEofLRP6todecreaseitsabundanceontheplasma experimentshavenotyetbeendone,wespeculatethatFZDis
+membrane. similarlytargetedbyAAK1andCME.Inthecourseofourstudies,
+CellReports26,79–93,January2,2019 87
+
+---PAGE BREAK---
+
+A hours after WNT3A CM treatment B
+unt0.250.5 1 2 6 8 8.5 9 9.51010.511 12 siCNT + + - - D
+CHIR99021 rhWNT3A
+pAP2M1 siAAK1 - - + +
+(T156) unt 4 8 9 12 4 8 9 12
+rhWNT3A - 9 - 9
+AP2M1 pAP2M1
+pAP2M1
+AP2M1
+AAK1
+AP2M1
+TUBB
+p-LRP6
+AAK1
+(S1490)
+LRP6 TUBB E
+dnTCF7L2 - - + +
+pCTNNB1
+(S33/37/T41) C 0.6 WNT3A - 9 - 9 CTNNB1 - 3 A 5 A FLAG
+pAP2M1 0.4 pAP2M1
+GSK3β
+AP2M1 AP2M1
+TUBB 0.2
+TUBB TUBB
+0
+H
+siCNT + + - - - -
+siPI4K2α - - A A B B
+WNT3A - 9hr - 9hr - 9hr
+pAP2M1
+AP2M1
+PI4K2α
+TUBB
+we discovered an unexpected WNT-induced phosphorylation dimerizationofDVL,thuspotentiatingWNTsignaling(Gammons
+eventonT156ofAP2M1.ThiswasmediatedbyAAK1andrepro- etal.,2016a).ThenewlyformedWNTsignalosomerequiresPIP2
+duciblyoccurredat8–10hrpost-WNTtreatment.InFigure7,we forassemblyandcontainsbothclathrinandAP2(Figure7A)(Pan
+summarize our findings in a multi-step model that integrates etal.,2008).Onthebasisofourdata,wesuggestthatlong-term
+WNT-driven signalosome formation, PIP2 production, AAK1, (8–10hr)WNTstimulationinducesaspikeinAAK1-dependent
+AP2M1phosphorylation,andCMEofLRP6. phosphorylation of T156-AP2M1. This promotes clathrin poly-
+IntheabsenceofWNTligand,FZDandLRP6remaindissoci- merization,clathrin-coatedpitstabilizationandultimatelyCME
+ated, allowing b-catenin phosphorylation, ubiquitylation, and ofLRP6,thusconstitutingaWNT-drivenandAAK1-dependent
+degradation(Liuetal.,1999;Liuetal.,2002).Withinminutesof negativefeedbackloop.
+WNTstimulation,theWNTsignalosomeforms,resultingintran- CentraltoourmodelistheincreaseinphosphorylatedAP2M1
+sient repression of b-catenin phosphorylation by GSK3b (Fig- levelsat8–10hrpost-WNTtreatment.Phosphoinositideiscon-
+ure7A)(Bilicetal.,2007).Akeystepinsignalosomeformation vertedtoPIP2byPI4K2aandPIP5K(Toker,1998).Importantly,
+is recruitment of the signalosome to nascent clathrin-coated PIP5K1associationwiththeDIXdomainofDVL1/2/3resultsin
+pits with high local concentrations of DVL, which allows the activation of PIP5K1 (Hu et al., 2015; Pan et al., 2008). One
+1M2PA/1M2PAp * *
+F DVL TKO #4 #4#6 #6
+LRP5/6 DKO + - 3A 5A
+WNT3A - 9 9 9 9
+pAP2M1
+(T176) G
+AP2M1 WNT3A + + - + - +
+Carbachol - - - - + +
+AAK1 Neomycin - + - - - -
+LRP6 pAP2M1
+DVL2 AP2M1
+DVL3 TUBB
+TUBB
+Figure6. WNTTreatmentInducesAAK1-,PIP2-DependentPhosphorylationofAP2M1
+(A)WesternblotanalysisofHT1080cellstreatedwithWNT3ACMforindicatedtimes.
+(B)WesternblotanalysisofHT1080cellstransfectedwitheitherAAK1orcontrolsiRNAfor72hr.CellswerethentreatedwithrhWNT3A(200ng/mL)for15min,
+thenthemediumwaschangedforfresh,completeDMEM,andcellswereincubatedfor9hr.
+(C)WesternblotanalysisofpAP2M1levelsinHEK293TcellstreatedwitheitherrhWNT3A(3A)orrhWNT5A(5A)(200ng/mL)for9hr.Thebox-and-whiskerplot
+representspAP2M1/AP2M1expressionfromfourbiologicalreplicatesquantifiedbyLiCORsoftware.
+(D)WesternblotanalysisofHT1080cellstreatedwitheitherCHIR99021compound(1mM)orrhWNT3A(200ng/mL)fortheindicatedtime.
+(E)HEK293TcellsweretransfectedwithFLAG-dnTCF7L2for24hr.CellswerethentreatedwithWNT3Afor15min,thenthemediumwaschangedforfresh,
+completeDMEM,incubatedfor9hr,andanalyzedusingwesternblot.
+(F)WesternblotanalysisofHEK293TWT,DVLTKOclone#4,DVLTKOclone#6,andLRP5/6DKOcellstreatedwithWNT3ACMfor9hr.
+(G)WesternblotanalysisofHT1080cellstreatedwithWNT3ACMfor15mins,thenthemediumwaschangedforcompleteDMEMcontainingeithercarbachol
+(50mM)orneomycin(100mM).Cellswereincubatedfor9hrpriortocellharvest.
+(H)WesternblotanalysisofHT1080cellstransfectedwithsiRNAagainstPI4K2afor72hrandpulsedwithWNT3ACMfor15minsandthenincubatedfor9hr.
+Allpanelsarerepresentativeofbiologicaltriplicates,unlessotherwisenoted.Forcompletestatistics,seeSTARMethods.
+SeealsoFigureS4.
+88 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+Figure7. ProposedModelforAAK1-DependentandCMEofLRP6
+(A)WithinminutesofWNTligandexposure,FZDandLRP5/6co-complex,allowingformationoftheLRP6signalosomeinnascentclathrin-coatedpits.Sig-
+nalosomeformationrequiresDVLdomainswappingandpolymerization,aswellasPIP2andAP2recruitment.Thispromotesaccumulationofb-cateninand
+activationoftheWNTsignalingpathway.
+(B)ProlongedexposuretoWNTliganddrivesAAK1-dependentAP2M1phosphorylation,CME,andultimatelyremovaloftheWNTreceptorsfromtheplasma
+membrane.
+hypothesisisthatthroughthismechanism,WNT-drivenrecruit- AAK1activitybothcontributetoWNT-drivenCMEofLRP6.Last,
+mentofDVLtotheLRP/FZDreceptorcomplexresultsinatime- given the delayed nature of the AAK1-AP2M1 phospho-event,
+dependent increase in local PIP2 production. PIP2 and cargo weweresurprisedthatb-catenin-dependenttranscription was
+proteins allosterically activate the AP2 complex, thus driving notrequired.Indeed,wealsoshowthattheb-catenin-indepen-
+clathrin polymerization and maturation of clathrin-coated pits dentWNTligandWNT5AsimilarlyinducespT156-AP2M1.Inter-
+(Ho¨ning et al., 2005; Kadlecova et al., 2017). Phosphorylation estingly, previous studies demonstrated that an interaction
+ofAP2M1byAAK1stabilizestheAP2complexinanopen/active between DVL2 and AP2 is required for WNT5A-induced FZD4
+confirmation, promoting the binding of clathrin and cargo endocytosis (Yu et al., 2007). Together, these data suggest a
+proteins and ultimately enhancing CME (Figure 7B) (Conner regulatory role for AAK1 in FZD endocytosis. Although not yet
+etal.,2003).Althoughwedonotyetunderstandthemechanistic validatedinvivo,wehypothesizethatincertaindevelopmental
+details,wespeculatethatPIP2levelscontinuetorisehoursafter ordiseasecontexts,WNT-inducedpT156-AP2M1mayestablish
+WNT stimulation, possibly triggering an increase in AAK1- a negative feedback loop to remove LRP/FZD from the cell
+dependent phosphorylation of AP2M1 and CME of LRP6 (Fig- membrane.Collectively,themoleculareventssuggestedinthis
+ure 7B). Further studies that quantify PIP2 levels at 8–10 hr time-delayed model are consistent with the timing reported in
+post-WNTstimulationareneeded. the GSK3-sequestration model proposed by De Robertis and
+Alternatively,theAP2complexhasbeenreportedtocyclebe- colleagues(Taelmanetal.,2010).
+tween phosphorylated and dephosphorylated states during The AP2 complex binds Yxxɸ or dileucine motifs within the
+CMEandthatthiscyclingisnecessaryforrobustCME(Kadle- intracellular domains of transmembrane cargo proteins (Chen
+covaetal.,2017).Therefore,itispossiblethatWNTstimulation et al., 1990; Collawn et al., 1990). Through phosphorylation of
+shifts the AAK1/phosphatase balance to favor phosphorylated T156-AP2M1,AAK1waspreviouslyshowntopromoteassocia-
+AP2M1. Another possibility is AAK1 itself is phosphorylated, tionoftheAP2complexwithcargo(Ricottaetal.,2002).Interest-
+either via AAK1 autophosphorylation or phosphorylation by ingly, in co-immunoprecipitation experiments, we discovered
+another kinase, resulting in increased AAK1 activity, AP2M1 AP2regulatestheassociationbetweenAAK1andLRP6.AP2in-
+phosphorylation, and CME of LRP6. Interestingly, previous teracts with LRP6 through a conserved Yxxɸ motif, which is
+studiesdemonstratedthatGSK3binhibitionresultsinincreased required for WNT signalosome formation (Gammons et al.,
+dynamin-1activity,leadingtorapidanddysregulatedCME(Lib- 2016a; Kim et al., 2013). We also report that the AAK1-LRP6
+erali et al., 2014; Reis et al., 2015). It is possible that GSK3b co-complex dissipates following WNT3A treatment. Although
+sequestrationwithinMVBs(Taelmanetal.,2010)andincreased further experimentation is needed to define the dynamics of
+CellReports26,79–93,January2,2019 89
+
+---PAGE BREAK---
+
+protein-protein interactions during signalosome formation and B Kinomescreening
+CME,itispossiblethatfollowingAAK1-dependentphosphoryla- B N-(6-(3-((N,N-diethylsulfamoyl)amino)phenyl)-1H-in-
+tionofAP2M1,AAK1dissociatesfromtheLRP6/AP2complex. dazol-3-yl)cyclopropanecarboxamide(SGC-AAK1-1)
+AAK1contributestoseveralneurologicaldisorders,including B General procedure for preparation of 3-acylamino-6-
+neuropathic pain, Alzheimer’s disease, Parkinson’s disease, bromoindazoles
+schizophrenia,andamyotrophiclateralsclerosis(Kostichetal., B Generalprocedurefor3-acylamino-6-arylindazoles
+2016; Shi et al., 2014). AAK1 has a described role in dendrite B N-(6-(3-(cyclopropanesulfonamido)phenyl)-1H-inda-
+branching and spine development (Ultanir et al., 2012), and zol-3-yl)cyclopropanecarboxamide(25A)
+through the regulation of Neuregulin1/ErbB4, AAK1 has been B N-(6-(3-(cyclopropanesulfonamido)phenyl)-1H-inda-
+linked to schizophrenia (Kuai et al., 2011). Just recently, the zol-3-yl)isobutyramide(SGC-AAK-1N):
+LX9211 AAK1 inhibitor passed phase 1 clinical trials for B Cloning,proteinexpressionandpurification
+neuropathicpain.Herewereportthedevelopmentofapotent B NanoBRETmeasurements
+and selective AAK1 pharmacological inhibitor (SGC-AAK1-1). B Measurement of in vitro IC 50 values for inhibition of
+SGC-AAK1-1 demonstrates improved biochemical selectivity AAK1enzymaticactivity
+overthephase1clinicalagentLX9211andisconfirmedtobe B Proteincrystallization
+cell active.Thus, wereport thebestavailablechemicaltool to B IsothermalTitrationCalorimetry
+study AAK1/BMP2K pathways and related biology. Like the d QUANTIFICATIONANDSTATISTICALANALYSIS
+lead compound 25A, SGC-AAK1-1 inhibited AAK1-dependent B Statistics
+phosphorylationofAP2M1andactivatedWNTsignaling.Look- d DATAANDSOFTWAREAVAILABILITY
+ingforward,invitroandinvivoneural-directedstudiesofSGC- B Gain-of-functionkinomescreen
+AAK1-1anditscomparisonwithLX9211areneededtoevaluate B KINOMEscan
+thetherapeuticpotentialofSGC-AAK1-1.Furthermore,whilewe B BMP2KK D boundto25A
+describearoleforAAK1innegativelyregulatingWNTsignaling,
+AAK1 also inhibits Neuregulin1/ErbB4 and positively regulates
+SUPPLEMENTALINFORMATION
+the NOTCH pathway (Gupta-Rossi et al., 2011; Kuai et al.,
+2011). Therefore, AAK1 inhibitors may also regulate these
+SupplementalInformationincludesfourfiguresandseventablesandcanbe
+signaling cascades and consequently prove therapeutically foundwiththisarticleonlineathttps://doi.org/10.1016/j.celrep.2018.12.023.
+beneficial in diseases with misregulated NOTCH or Neuregu-
+lin1/ErbB4signaling.Incancer,mutationandalteredexpression
+ACKNOWLEDGMENTS
+ofseveralgenespromoteWNTreceptorstabilityontheplasma
+membrane,resultinginhyperactiveWNTsignalingandtumori-
+M.B.M. acknowledges support from the NIH (RO1-CA187799 and U24-
+genesis (e.g., ZNRF3/RNF43 and USP6; Hao etal.,2012; Koo DK116204-01).M.J.A.receivedfinancialsupportfromNIHT32Predoctoral
+et al., 2012; Madan et al., 2016; Ruffner et al., 2012; Schmid, Training Grants in Pharmacology (T32-GM007040-43 and T32-GM007040-
+2017). Whether AAK1 expression or activity is suppressed in 42),anInitiativeforMaximizingStudentDiversityGrant(R25-GM055336-16),
+cancer and if this contributes to WNT activation remain to be andtheNIHNationalCancerInstitute(NCI)NRSAPredoctoralFellowshipto
+Promote Diversity in Health-Related Research (F31CA228289). M.P.W.
+determined.
+received support from the Lymphoma Research Foundation (337444) and
+theNIH(T32-CA009156-35).Y.N.wassupportedbygrants-in-aidfromthe
+STAR+METHODS Japan Society for the Promotion of Science (JSPS) (15KK0356 and
+16K11493).T.T.wassupportedbytheHowardHughesMedicalInstituteGil-
+liam Fellowship for Advanced Study. M.V.G. was supported by Cancer
+Detailedmethodsareprovidedintheonlineversionofthispaper
+ResearchUK(grantsC7379/A15291andC7379/A24639toMariannBienz).
+andincludethefollowing:
+TheUNCFlowCytometryCoreFacilityissupportedinpartbyCancerCenter
+CoreSupportGrantP30CA016086totheUNCLinebergerComprehensive
+d KEYRESOURCESTABLE
+CancerCenter,andresearchreportedinthispublicationwassupportedby
+d CONTACTANDREAGENTRESOURCESHARING theCenterforAIDSResearch(awardnumber5P30AI050410),andthecontent
+d EXPERIMENTALMODELANDSUBJECTDETAILS issolelytheresponsibilityoftheauthorsanddoesnotnecessarilyrepresent
+B Celllinesandtissueculture theofficialviewsoftheNIH.TheStructuralGenomicsConsortium(SGC)isa
+d METHODDETAILS registeredcharity(number1097737)thatreceivesfundsfromAbbVie,Bayer
+B WNT3Aconditionedmedia Pharma AG, Boehringer Ingelheim, the Canada Foundation for Innovation,
+theEshelmanInstituteforInnovation,GenomeCanada,theInnovativeMedi-
+B Immunoprecipitationandimmunoblotting
+cinesInitiative(EuropeanUnion[EU]/EuropeanFederationofPharmaceutical
+B SurfacestainingofLRP6
+IndustriesandAssociations[EFPIA])(ULTRA-DDgrantno.115766),Janssen,
+B DNAconstructsandsiRNAs Merck&Company,MerckKGaA,NovartisPharmaAG,theOntarioMinistryof
+B Transcriptionalreporterassays EconomicDevelopmentandInnovation,Pfizer,theSa~oPauloResearchFoun-
+B Real-TimeQuantitativePCR dation(FAPESP)(2013/50724-5),Takeda,andtheWellcomeTrust(106169/
+B GenerationofLRP5/6DKOstablecelllines ZZ14/Z). R.R.R. received financial support from FAPESP (2016/17469-0).
+WewouldalsoliketothankClaireStrain-DamerellandPavelSavitskyforclon-
+B Surfacebiotinylation
+ingvariousmutantsofAAK1andBMP2Kproteinsthatwereusedinthecrys-
+B Chemistrygeneralprocedures
+tallizationtrials.Additionally,wethankDr.SeanConnerforprovidingtheAAK1
+B Crystalstructuredetermination plasmids,Dr.StephaneAngersforkindlyprovidingtheHEK293TDVLTKO
+B Binding-displacementassays cells,andDr.MariannBienzforprovidingcommentsandfeedback.Wewould
+90 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+liketothankmembersoftheMajorlaboratoryfortheirfeedbackandexpertise by inhibition of the mutant kinase BRAFV600E in human melanoma. Sci.
+regardingexperimentaldesignandprojectdirection. Signal. 5, ra3.
+Bilic,J.,Huang,Y.L.,Davidson,G.,Zimmermann,T.,Cruciat,C.M.,Bienz,M.,
+AUTHORCONTRIBUTIONS andNiehrs,C.(2007).WntinducesLRP6signalosomesandpromotesdishev-
+elled-dependentLRP6phosphorylation.Science316,1619–1622.
+M.J.A.andM.P.W.co-ledmolecularcharacterizationofAAK1,designedand Blitzer, J.T., and Nusse, R. (2006). A critical role for endocytosis in Wnt
+carriedoutmolecularbiologyexperiments,anddraftedandwrotethemanu- signaling.BMCCellBiol.7,28.
+script.A.D.A.synthesizedSGC-AAK1-1,ledtheSGCprobedeclarationeffort, Chaikuad,A.,Knapp,S.,andvonDelft,F.(2015).DefinedPEGsmearsasan
+andcontributedtowriting.R.R.R.carriedoutNanoBRETmeasurementsand alternativeapproachtoenhancethesearchforcrystallizationconditionsand
+cellularIC 50 measurements.D.S.S.carriedoutdose-responseandpAP2M1 crystal-quality improvement in reduced screens. Acta Crystallogr. D Biol.
+characterization of SGC-AAK1-1 and 25A and contributed to AAK1-LRP6 Crystallogr.71,1627–1639.
+interaction studies. A.D.R. contributed to cloning and carrying out kinome
+Charter,N.W.,Kauffman,L.,Singh,R.,andEglen,R.M.(2006).Ageneric,
+gain-of-functionscreenandvalidation.D.M.G.,M.B.R.,T.T.,andY.N.aided
+homogenousmethodformeasuringkinaseandinhibitoractivityviaadenosine
+inAAK1signalingcharacterization.M.V.G.developed,generated,andvali-
+50-diphosphateaccumulation.J.Biomol.Screen.11,390–399.
+dated LRP5/6 DKO HEK293T cells. J.M.B. carried out the NAK TR-FRET
+selectivitypanel.R.M.C.madeAAK1/BMP2Kproteinsandproducedco-crys- Chen,W.J.,Goldstein,J.L.,andBrown,M.S.(1990).NPXY,asequenceoften
+tal structures. D.H.D. proposed and designed analogs. J.M.E. facilitated foundincytoplasmictails,isrequiredforcoatedpit-mediatedinternalizationof
+experimentaldesignandcontributedtowriting.O.F.facilitatedinvitroassays. thelowdensitylipoproteinreceptor.J.Biol.Chem.265,3116–3123.
+C.G.madeAAK1proteinsforcrystallization/assays.O.G.facilitatedprotein Chen,V.B.,Arendall,W.B.,3rd,Headd,J.J.,Keedy,D.A.,Immormino,R.M.,
+synthesis and crystallization. P.H.G. carried out TR-FRET measurements Kapral,G.J.,Murray,L.W.,Richardson,J.S.,andRichardson,D.C.(2010).
+andinvitroIC 50 measurements.N.K.executedcompoundscale-upforvalida- MolProbity:all-atomstructurevalidationformacromolecularcrystallography.
+tionstudies.S.M.contributedideasandmanagedtheSGCprobedeclaration ActaCrystallogr.DBiol.Crystallogr.66,12–21.
+effort.A.S.S.madeAAK1/BMP2Kproteinsforcrystallization/assays.F.J.S.
+Collawn,J.F.,Stangel,M.,Kuhn,L.A.,Esekogwu,V.,Jing,S.Q.,Trowbridge,
+madeproteinsfortheNAKselectivitypanelandITCandcarriedoutITCexper-
+I.S., and Tainer, J.A. (1990). Transferrin receptor internalization sequence
+iments.C.I.W.synthesized25AandSGC-AAK1-1N.T.M.W.managedchem-
+YXRFimplicatesatightturnasthestructuralrecognitionmotifforendocytosis.
+istryeffortsandaidedinthedesignofmolecules.W.J.Z.designedmolecules,
+Cell63,1061–1072.
+facilitatedSGCprobedeclaration,andcontributedtowriting.M.B.Mfacili-
+Conner,S.D.,andSchmid,S.L.(2002).Identificationofanadaptor-associated
+tated experimental design, data interpretation, project management, and
+kinase,AAK1,asaregulatorofclathrin-mediatedendocytosis.J.CellBiol.
+contributedtowriting.
+156,921–929.
+Conner,S.D.,Schro¨ter,T.,andSchmid,S.L.(2003).AAK1-mediatedmicro2
+DECLARATIONOFINTERESTS
+phosphorylationisstimulatedbyassembledclathrin.Traffic4,885–890.
+Cowtan,K.(2006).TheBuccaneersoftwareforautomatedmodelbuilding.1.
+Theauthorsdeclarenocompetinginterests.
+Tracingproteinchains.ActaCrystallogr.DBiol.Crystallogr.62,1002–1011.
+Received:April25,2018 Damke,H.,Baba,T.,Warnock,D.E.,andSchmid,S.L.(1994).Inductionof
+Revised:August27,2018 mutant dynamin specifically blocks endocytic coated vesicle formation.
+Accepted:December3,2018 J.CellBiol.127,915–934.
+Published:January2,2019 Davis,M.I.,Hunt,J.P.,Herrgard,S.,Ciceri,P.,Wodicka,L.M.,Pallares,G.,
+Hocker,M.,Treiber,D.K.,andZarrinkar,P.P.(2011).Comprehensiveanalysis
+REFERENCES ofkinaseinhibitorselectivity.Nat.Biotechnol.29,1046–1051.
+Elkins,J.M.,Fedele,V.,Szklarz,M.,AbdulAzeez,K.R.,Salah,E.,Mikolajczyk,
+Adams,P.D.,Afonine,P.V.,Bunko´czi,G.,Chen,V.B.,Davis,I.W.,Echols,N., J.,Romanov,S.,Sepetov,N.,Huang,X.P.,Roth,B.L.,etal.(2016).Compre-
+Headd,J.J.,Hung,L.W.,Kapral,G.J.,Grosse-Kunstleve,R.W.,etal.(2010). hensivecharacterizationofthePublishedKinaseInhibitorSet.Nat.Biotechnol.
+PHENIX:acomprehensivePython-basedsystemformacromolecularstruc- 34,95–103.
+turesolution.ActaCrystallogr.DBiol.Crystallogr.66,213–221. Emsley,P.,Lohkamp,B.,Scott,W.G.,andCowtan,K.(2010).Featuresand
+Anastassiadis,T.,Deacon,S.W.,Devarajan,K.,Ma,H.,andPeterson,J.R. developmentofCoot.ActaCrystallogr.DBiol.Crystallogr.66,486–501.
+(2011).Comprehensiveassayofkinasecatalyticactivityrevealsfeaturesofki- Gammons,M.V.,Renko,M.,Johnson,C.M.,Rutherford,T.J.,andBienz,M.
+naseinhibitorselectivity.Nat.Biotechnol.29,1039–1045. (2016a).WntSignalosomeassemblybyDEPdomainswappingofDishevelled.
+Angers,S.,andMoon,R.T.(2009).ProximaleventsinWntsignaltransduction. Mol.Cell64,92–104.
+Nat.Rev.Mol.CellBiol.10,468–477. Gammons, M.V., Rutherford,T.J., Steinhart, Z., Angers, S.,and Bienz, M.
+Asquith,C.R.M.,Laitinen,T.,Bennett,J.M.,Godoi,P.H.,East,M.P.,Tizzard, (2016b).EssentialroleoftheDishevelledDEPdomaininaWnt-dependenthu-
+G.J.,Graves,L.M.,Johnson,G.L.,Dornsife,R.E.,Wells,C.I.,etal.(2018).Iden- man-cell-basedcomplementationassay.J.CellSci.129,3892–3902.
+tificationandoptimizationof4-anilinoquinolinesasinhibitorsofcyclinGasso- Gupta-Rossi, N., Ortica, S., Meas-Yedid, V., Heuss, S., Moretti, J., Olivo-
+ciatedkinase.ChemMedChem13,48–66. Marin,J.C.,andIsrae¨l,A.(2011).Theadaptor-associatedkinase1,AAK1,is
+Baron,C.B.,Pompeo,J.,Blackman,D.,andCoburn,R.F.(1993).Common apositiveregulatoroftheNotchpathway.J.Biol.Chem.286,18720–18730.
+phosphatidylinositol4,5-bisphosphatepoolsareinvolvedincarbacholandse- Hagemann,A.I.,Kurz,J.,Kauffeld,S.,Chen,Q.,Reeves,P.M.,Weber,S.,
+rotoninactivationoftrachealsmoothmuscle.J.Pharmacol.Exp.Ther.266, Schindler,S.,Davidson,G.,Kirchhausen,T.,andScholpp,S.(2014).Invivo
+8–15. analysisofformationandendocytosisoftheWnt/b-cateninsignalingcomplex
+Behrens,J.,vonKries,J.P.,Ku€hl,M.,Bruhn,L.,Wedlich,D.,Grosschedl,R., inzebrafishembryos.J.CellSci.127,3970–3982.
+andBirchmeier,W.(1996).Functionalinteractionofbeta-cateninwiththetran- Hao,H.X.,Xie,Y.,Zhang,Y.,Charlat,O.,Oster,E.,Avello,M.,Lei,H.,Micka-
+scriptionfactorLEF-1.Nature382,638–642. nin,C.,Liu,D.,Ruffner,H.,etal.(2012).ZNRF3promotesWntreceptorturn-
+Biechele, T.L., Kulikauskas, R.M., Toroni, R.A., Lucero, O.M., Swift, R.D., overinanR-spondin-sensitivemanner.Nature485,195–200.
+James, R.G., Robin, N.C., Dawson, D.W., Moon, R.T., and Chien, A.J. Henderson,D.M.,andConner,S.D.(2007).AnovelAAK1splicevariantfunc-
+(2012). Wnt/b-catenin signaling and AXIN1 regulate apoptosis triggered tionsatmultiplestepsoftheendocyticpathway.Mol.Biol.Cell18,2698–2706.
+CellReports26,79–93,January2,2019 91
+
+---PAGE BREAK---
+
+Herna´ndez,A.R.,Klein,A.M.,andKirschner,M.W.(2012).Kineticresponsesof related protein-5 binds to Axin and regulates the canonical Wnt signaling
+b-cateninspecifythesitesofWntcontrol.Science338,1337–1340. pathway.Mol.Cell7,801–809.
+Ho¨ning, S., Ricotta, D., Krauss, M., Spa¨te, K., Spolaore, B., Motley, A., McCoy,A.J.,Grosse-Kunstleve,R.W.,Adams,P.D.,Winn,M.D.,Storoni,L.C.,
+Robinson,M.,Robinson,C.,Haucke,V.,andOwen,D.J.(2005).Phosphatidy- andRead,R.J.(2007).Phasercrystallographicsoftware.J.Appl.Cryst.40,
+linositol-(4,5)-bisphosphate regulates sorting signal recognition by the 658–674.
+clathrin-associatedadaptorcomplexAP2.Mol.Cell18,519–531.
+Metcalfe,C.,Mendoza-Topaz,C.,Mieszczanek,J.,andBienz,M.(2010).Sta-
+Hu,J.,Yuan,Q.,Kang,X.,Qin,Y.,Li,L.,Ha,Y.,andWu,D.(2015).Resolution bilityelementsintheLRP6cytoplasmictailconferefficientsignallinguponDIX-
+ofstructureofPIP5K1Arevealsmolecularmechanismforitsregulationby dependentpolymerization.J.CellSci.123,1588–1599.
+dimerizationanddishevelled.Nat.Commun.6,8205.
+Nusse, R., and Clevers, H. (2017). Wnt/b-catenin signaling, disease, and
+Huang,Y.,Qureshi,I.A.,andChen,H.(1999).Effectsofphosphatidylinositol emergingtherapeuticmodalities.Cell169,985–999.
+4,5-bisphosphateandneomycinonphospholipaseD:kineticstudies.Mol.
+Pan,W.,Choi,S.C.,Wang,H.,Qin,Y.,Volpicelli-Daley,L.,Swan,L.,Lucast,L.,
+Cell.Biochem.197,195–201.
+Khoo,C.,Zhang,X.,Li,L.,etal.(2008).Wnt3a-mediatedformationofphos-
+Jiang,Y.,He,X.,andHowe,P.H.(2012).Disabled-2(Dab2)inhibitsWnt/b-cat- phatidylinositol 4,5-bisphosphateregulatesLRP6phosphorylation.Science
+enin signalling by binding LRP6 and promoting its internalization through 321,1350–1353.
+clathrin.EMBOJ.31,2336–2349.
+Phonphok,Y.,andRosenthal,K.S.(1991).Stabilizationofclathrincoatedves-
+Johannessen, C.M., Boehm, J.S., Kim, S.Y., Thomas, S.R., Wardwell, L., iclesbyamantadine,tromantadineandotherhydrophobicamines.FEBSLett.
+Johnson,L.A.,Emery,C.M.,Stransky,N.,Cogdill,A.P.,Barretina,J.,etal. 281,188–190.
+(2010).COTdrivesresistancetoRAFinhibitionthroughMAPkinasepathway
+Reis,C.R.,Chen,P.H.,Srinivasan,S.,Aguet,F.,Mettlen,M.,andSchmid,S.L.
+reactivation.Nature16,968–972.
+(2015).CrosstalkbetweenAkt/GSK3bsignalinganddynamin-1regulatescla-
+Kabsch,W.(2010).Xds.ActaCrystallogr.DBiol.Crystallogr.66,125–132.
+thrin-mediatedendocytosis.EMBOJ.34,2132–2146.
+Kadlecova,Z.,Spielman,S.J.,Loerke,D.,Mohanakrishnan,A.,Reed,D.K.,
+Ricotta,D.,Conner,S.D.,Schmid,S.L.,vonFigura,K.,andHoning,S.(2002).
+andSchmid,S.L.(2017).Regulationofclathrin-mediatedendocytosisbyhier-
+PhosphorylationoftheAP2musubunitbyAAK1mediateshighaffinitybinding
+archicalallostericactivationofAP2.J.CellBiol.216,167–179.
+tomembraneproteinsortingsignals.J.CellBiol.156,791–795.
+Keller,S.,Vargas,C.,Zhao,H.,Piszczek,G.,Brautigam,C.A.,andSchuck,P.
+Robers,M.B.,Dart,M.L.,Woodroofe,C.C.,Zimprich,C.A.,Kirkland,T.A.,Ma-
+(2012).High-precisionisothermaltitrationcalorimetrywithautomatedpeak-
+chleidt,T.,Kupcho,K.R.,Levin,S.,Hartnett,J.R.,Zimmerman,K.,etal.(2015).
+shapeanalysis.Anal.Chem.84,5066–5073.
+Targetengagementanddrugresidencetimecanbeobservedinlivingcells
+Kim,I.,Pan,W.,Jones,S.A.,Zhang,Y.,Zhuang,X.,andWu,D.(2013).Clathrin withBRET.Nat.Commun.6,10091.
+andAP2arerequiredforPtdIns(4,5)P2-mediatedformationofLRP6signalo-
+Ruffner,H.,Sprunger,J.,Charlat,O.,Leighton-Davies,J.,Grosshans,B.,Sal-
+somes.J.CellBiol.200,419–428.
+athe,A.,Zietzling,S.,Beck,V.,Therier,M.,Isken,A.,etal.(2012).R-Spondin
+Koo,B.K.,Spit,M.,Jordens,I.,Low,T.Y.,Stange,D.E.,vandeWetering,M., potentiates Wnt/b-catenin signaling through orphan receptors LGR4 and
+van Es, J.H., Mohammed, S., Heck, A.J., Maurice, M.M., and Clevers, H. LGR5.PLoSONE7,e40976.
+(2012).TumoursuppressorRNF43isastem-cellE3ligasethatinducesendo-
+Schmid,S.L.(2017).Reciprocalregulationofsignalingandendocytosis:Impli-
+cytosisofWntreceptors.Nature488,665–669.
+cationsfortheevolvingcancercell.J.CellBiol.216,2623–2632.
+Kostich, W., Hamman, B.D., Li, Y.W., Naidu, S., Dandapani, K., Feng, J.,
+Shi,B.,Conner,S.D.,andLiu,J.(2014).DysfunctionofendocytickinaseAAK1
+Easton,A.,Bourin,C.,Baker,K.,Allen,J.,etal.(2016).InhibitionofAAK1
+inALS.Int.J.Mol.Sci.15,22918–22932.
+kinase as a novel therapeutic approach to treat neuropathic pain.
+J.Pharmacol.Exp.Ther.358,371–386. Song, B.D.,Yarar,D.,and Schmid, S.L.(2004). Anassembly-incompetent
+mutantestablishesarequirementfordynaminself-assemblyinclathrin-medi-
+Kuai,L.,Ong,S.E.,Madison,J.M.,Wang,X.,Duvall,J.R.,Lewis,T.A.,Luce,
+atedendocytosisinvivo.Mol.Biol.Cell15,2243–2252.
+C.J.,Conner,S.D.,Pearlman,D.A.,Wood,J.L.,etal.(2011).AAK1identified
+asaninhibitorofneuregulin-1/ErbB4-dependentneurotrophicfactorsignaling Sorrell,F.J.,Szklarz,M.,AbdulAzeez,K.R.,Elkins,J.M.,andKnapp,S.(2016).
+using integrative chemical genomics and proteomics. Chem. Biol. 18, Family-widestructuralanalysisofhumanNumb-associatedproteinkinases.
+891–906. Structure24,401–411.
+Lebensohn,A.M.,Dubey,R.,Neitzel,L.R.,Tacchelly-Benites,O.,Yang,E., Taelman,V.F.,Dobrowolski,R.,Plouhinec,J.L.,Fuentealba,L.C.,Vorwald,
+Marceau,C.D.,Davis,E.M.,Patel,B.B.,Bahrami-Nejad,Z.,Travaglini,K.J., P.P.,Gumper,I.,Sabatini,D.D.,andDeRobertis,E.M.(2010).Wntsignaling
+etal.(2016).Comparativegeneticscreensinhumancellsrevealnewregulato- requiressequestrationofglycogensynthasekinase3insidemultivesicularen-
+rymechanismsinWNTsignaling.eLife5,e21459. dosomes.Cell143,1136–1148.
+Liberali,P.,Snijder,B.,andPelkmans,L.(2014).Ahierarchicalmapofregula- Tamai,K.,Semenov,M.,Kato,Y.,Spokony,R.,Liu,C.,Katsuyama,Y.,Hess,
+torygeneticinteractionsinmembranetrafficking.Cell157,1473–1487. F.,Saint-Jeannet,J.P.,andHe,X.(2000).LDL-receptor-relatedproteinsinWnt
+Liu,C.,Kato,Y.,Zhang,Z.,Do,V.M.,Yankner,B.A.,andHe,X.(1999).beta- signaltransduction.Nature407,530–535.
+Trcpcouplesbeta-cateninphosphorylation-degradationandregulatesXeno- Toker,A.(1998).Thesynthesisandcellularrolesofphosphatidylinositol4,5-bi-
+pusaxisformation.Proc.Natl.Acad.Sci.USA96,6273–6278. sphosphate.Curr.Opin.CellBiol.10,254–261.
+Liu,C.,Li,Y.,Semenov,M.,Han,C.,Baeg,G.H.,Tan,Y.,Zhang,Z.,Lin,X.,and Ultanir,S.K.,Hertz,N.T.,Li,G.,Ge,W.P.,Burlingame,A.L.,Pleasure,S.J.,
+He,X.(2002).Controlofbeta-cateninphosphorylation/degradationbyadual- Shokat,K.M.,Jan,L.Y.,andJan,Y.N.(2012).Chemicalgeneticidentification
+kinasemechanism.Cell108,837–847. ofNDR1/2kinasesubstratesAAK1andRabin8Uncoverstheirrolesindendrite
+Liu,C.C.,Kanekiyo,T.,Roth,B.,andBu,G.(2014).Tyrosine-basedsignalme- arborizationandspinedevelopment.Neuron73,1127–1142.
+diates LRP6 receptor endocytosis and desensitization of Wnt/b-catenin Vasta,J.D.,Corona,C.R.,Wilkinson,J.,Zimprich,C.A.,Hartnett,J.R.,Ingold,
+pathwaysignaling.J.Biol.Chem.289,27562–27570. M.R.,Zimmerman,K.,Machleidt,T.,Kirkland,T.A.,Huwiler,K.G.,etal.(2018).
+Madan,B.,Walker,M.P.,Young,R.,Quick,L.,Orgel,K.A.,Ryan,M.,Gupta,P., Quantitative,wide-spectrumkinaseprofilinginlivecellsforassessingtheef-
+Henrich,I.C.,Ferrer,M.,Marine,S.,etal.(2016).USP6oncogenepromotes fectofcellularATPontargetengagement.CellChem.Biol.25,206–214.
+WntsignalingbydeubiquitylatingFrizzleds.Proc.Natl.Acad.Sci.USA113, Walker,M.P.,Stopford,C.M.,Cederlund,M.,Fang,F.,Jahn,C.,Rabinowitz,
+E2945–E2954. A.D.,Goldfarb,D.,Graham,D.M.,Yan,F.,Deal,A.M.,etal.(2015).FOXP1po-
+Mao,J.,Wang,J.,Liu,B.,Pan,W.,Farr,G.H.,3rd,Flynn,C.,Yuan,H.,Takada, tentiatesWnt/b-cateninsignalingindiffuselargeBcelllymphoma.Sci.Signal.
+S.,Kimelman,D.,Li,L.,andWu,D.(2001).Low-densitylipoproteinreceptor- 8,ra12.
+92 CellReports26,79–93,January2,2019
+
+---PAGE BREAK---
+
+Wang, L.H., Rothberg, K.G., and Anderson, R.G. (1993). Mis-assembly of genome-scalelentiviralexpressionlibraryofhumanORFs.Nat.Methods8,
+clathrin lattices on endosomes reveals a regulatory switch for coated pit 659–661.
+formation.J.CellBiol.123,1107–1117. Yu,A.,Rual,J.F.,Tamai,K.,Harada,Y.,Vidal,M.,He,X.,andKirchhausen,
+Winn,M.D.,Ballard,C.C.,Cowtan,K.D.,Dodson,E.J.,Emsley,P.,Evans, T. (2007). Association of Dishevelled with the clathrin AP-2 adaptor is
+P.R.,Keegan,R.M.,Krissinel,E.B.,Leslie,A.G.,McCoy,A.,etal.(2011).Over- required for Frizzled endocytosis and planar cell polarity signaling. Dev.
+viewoftheCCP4suiteandcurrentdevelopments.ActaCrystallogr.DBiol. Cell12,129–141.
+Crystallogr.67,235–242. Zeng,X.,Tamai,K.,Doble,B.,Li,S.,Huang,H.,Habas,R.,Okamura,H.,
+Yamamoto,H.,Sakane,H.,Yamamoto,H.,Michiue,T.,andKikuchi,A.(2008). Woodgett,J.,andHe,X.(2005).Adual-kinasemechanismforWntco-receptor
+Wnt3aandDkk1regulatedistinctinternalizationpathwaysofLRP6totunethe phosphorylationandactivation.Nature438,873–877.
+activationofbeta-cateninsignaling.Dev.Cell15,37–48. Zhao, H., Piszczek, G., and Schuck, P. (2015). SEDPHAT—a platform for
+Yang,X.,Boehm,J.S.,Yang,X.,Salehi-Ashtiani,K.,Hao,T.,Shen,Y.,Lu- globalITCanalysisandglobalmulti-methodanalysisofmolecularinteractions.
+bonja, R., Thomas, S.R., Alkan, O., Bhimdi, T., et al. (2011). ). A public Methods76,137–148.
+CellReports26,79–93,January2,2019 93
+
+---PAGE BREAK---
+
+STAR+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+Rabbitpolyclonalanti-AAK1 BethylLabs Cat#A302-146A;RRID:AB_1720315
+Rabbitmonoclonalanti-ClathrinHeavyChain(D3C6)XP CellSignalingTechnology Cat#4796S;RRID:AB_10557412
+Rabbitmonoclonalanti-LRP6 CellSignalingTechnology Cat#3395;RRID:AB_1950408
+Rabbitpolyclonalanti-phospho-LRP6(S1490) CellSignalingTechnology Cat#2568;RRID:AB_2139327
+RabbitpolyclonalAnti-HumanAP2M1,phospho(Thr156) CellSignalingTechnology Cat#3843S;RRID:AB_2056358
+Rabbitmonoclonalanti-PIP4K2A(D83C1) CellSignalingTechnology Cat#5527;RRID:AB_2722636
+Rabbitpolyclonalanti-Phospho-beta-Catenin(Ser33/37/Thr41) CellSignalingTechnology Cat#9561S;RRID:AB_331729
+MonoclonalmouseANTI-FLAGM2 Sigma-Aldrich Cat#F3165;RRID:AB_259529
+RatmonoclonalAnti-HAHighAffinity(clone3F10) Roche Cat#11867423001;RRID:AB_390918
+Monoclonalmouseanti-beta-Tubulin Sigma-Aldrich Cat#T8328;RRID:AB_1844090
+Mousemonoclonalanti-LRP6 Abcam Cat#ab75358;RRID:AB_2139308
+Rabbitmonoclonalanti-AP2M1(phosphoT156)[EPR4700] Abcam Cat#ab109397;RRID:AB_10866362
+Rabbitmonoclonalanti-AP2M1[EP2695Y] Abcam Cat#ab75995;RRID:AB_1309955
+Mousemonoclonalanti-CTNNB1 BDBiosciences Cat#163510
+Mousemonoclonalanti-GSK-3beta BDBiosciences Cat#610201;RRID:AB_397600
+Mousemonoclonalanti-Dvl-3 SantaCruzBiotechnology Cat#sc-8027;RRID:AB_627434
+Mousemonoclonalbeta-actin SantaCruzBiotechnology Cat#sc-47778HRP;RRID:AB_2714189
+RabbitpolyclonalAP2M1 ThermoFisherScientific Cat#PA5-21360;RRID:AB_11154082
+IRDye800CWGoatantiMouseIgG LI-CORBiosciences Cat#P/N925-32210;RRID:AB_2687825
+IRDye680LTGoatantiMouseIgG LI-CORBiosciences Cat#P/N925-68020;RRID:AB_2687826
+IRDye800CWGoatantiRabbitIgG LI-CORBiosciences Cat#925-32211;RRID:AB_2651127
+IRDye680LTGoatantiRabbitIgG LI-CORBiosciences Cat#P/N925-68021;RRID:AB_2713919
+Mousemonoclonalanti-LRP6(Clone255302) RandDSystems Cat#MAB1505;RRID:AB_10889810
+MonoclonalmouseIgG2AIsotypeControl(Clone20102) RandDSystems Cat#MAB003;RRID:AB_357345
+R-Phycoerythrin-AffiniPureF(ab’)2FragmentGoat JacksonImmunoresearch Cat#115-116-146;RRID:AB_2338629
+Anti-MouseIgG
+Polyclonalrabbitanti-GFP Abcam Cat#ab290;RRID:AB_303395
+BacterialandVirusStrains
+BL21(DE3)forrecombinantproteinexpression Laboratoryof N/A
+Dr.OpherGileadi
+Chemicals,Peptides,andRecombinantProteins
+CHIR99021 CaymanChemicals Cat#13122;Cas#252917-06-9
+ChlorpromazineHCL Sigma-Aldrich Cat#C0982;Cas#69-09-0
+BafilomycinA1 CaymanChemicals Cat#11038;Cas#88899-55-2
+WNT3A PeproTech Cat#315-20
+WNT5A RandDSystems Cat#645-WN-010
+Neomycintrisulfatesalthydrate Sigma-Aldrich Cat#N6386;Cas#1405-10-3
+Carbachol EMDChemicals Cat#212385;Cas#51-83-2
+Staurosporine Sigma-Aldrich Cat#S4400;Cas#62996-74-1
+NanoBRETTracerK-5 Promega Cat#N248A
+AP-2derivedpeptide WatsonBio Custom(biotin-GGSQITSQVTGQIGWRR-
+amide)
+(Continuedonnextpage)
+e1 CellReports26,79–93.e1–e8,January2,2019
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+CriticalCommercialAssays
+PierceCellSurfaceProteinIsolationKit ThermoFisher Cat#89881
+PureLinkRNAMiniKit Invitrogen Cat#12183018A
+iScriptcDNASynthesisKit BioRad Cat#1708891
+Dual-LuciferaseReporterAssaySystem Promega Cat#E1910
+DepositedData
+Gain-of-functionkinomescreen Thispaper MendeleyData:https://doi.org/10.17632/
+352fxh8r6t.1;https://doi.org/10.17632/
+352fxh8r6t.1#file-94081320-ab20-4178-8be2-
+233c7ea23b62
+KINOMEscan Thispaper MendeleyData:https://doi.org/10.17632/
+cz9bx7d52c.1;https://data.mendeley.
+com/datasets/cz9bx7d52c/draft/files/
+bd678698-6718-4979-8b9e-1b0f7645884e/
+KINOMEscan%20Results%20for%20
+AAK1.xlsx?dl=1
+BMP2KK boundto25A Thispaper PDBID:5IKW;https://www.rcsb.org/
+D
+structure/5IKW
+ExperimentalModels:CellLines
+Humanmale:HT1080 ATCC CCL-121
+Humanfetus:HEK293T/17 ATCC CRL-11268
+Human:RKO ATCC CRL-2577
+Mousemale:Lcells ATCC CRL-2648
+Mousemale:WNT3AexpressingLcells ATCC CRL-2647
+Oligonucleotides
+SeeTableS7forcompletelist N/A
+RecombinantDNA
+Humankinaseopenreadingframelibrary Yangetal.,2011; Addgene#1000000014
+Johannessenetal.,2010
+Flag-AAK1-WT Dr.SeanConner Conneretal.,2003
+Flag-AAK1-dAID Dr.SeanConner Conneretal.,2003
+Flag-AAK1-74A Dr.SeanConner Conneretal.,2003
+GFP-LRP6 Dr.RandellMoon Thispaper
+HA-LRP6 Dr.RandellMoon Thispaper
+ANKRD6 Dr.RandellMoon Thispaper
+FLAG-dnTCF7L2 Dr.RandellMoon Walkeretal.,2015.
+TK-Renilla Dr.RandellMoon Walkeretal.,2015.
+BAR-reporter Dr.RandellMoon Walkeretal.,2015.
+NFkB-reporter Walkeretal.,2015.
+TGFb-reporter Walkeretal.,2015.
+ADCK1 Yangetal.,2011; Addgene#1000000014
+Johannessenetal.,2010
+ADCK2 Yangetal.,2011; Addgene#1000000014
+Johannessenetal.,2010
+MAST1 Yangetal.,2011; Addgene#1000000014
+Johannessenetal.,2010
+TGFBR3 Yangetal.,2011; Addgene#1000000014
+Johannessenetal.,2010
+K44ADynamin1pEGFP Songetal.,2004 Addgene#34681
+(Continuedonnextpage)
+CellReports26,79–93.e1–e8,January2,2019 e2
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+SoftwareandAlgorithms
+Design-Expertsoftware Stat-Ease,version10 https://www.statease.com/
+SEDPHAT Zhaoetal.,2015 sedfitsedphat.nibib.nih.gov
+NITPIC Kelleretal.,2012 http://biophysics.swmed.edu/
+MBR/software.html
+TREEspot DiscoverX https://www.discoverx.com/services/
+drug-discovery-development-services/
+treespot-data-analysis
+Other
+Streptavidinbeads GEHealthcare Cat#17-5113-01
+ProteinA/GAgarose ThermoFisher Cat#20421
+EZviewRedFlagM2AffinityGel Sigma-Aldrich Cat#F2426
+EZviewRedAnti-HAAffinityGel Sigma-Aldrich Cat#E6779
+NuPAGE4-12%Bis-TrisProteinGels ThermoFisher Cat#NP0321BOX
+NitrocelluloseMembrane ThermoFisher Cat#88018
+TansIT2020 MirusBio Cat#MIR5405
+RNAiMAX Lifetechnologies Cat#13778030
+FastSYBERGreenMasterMix AppliedBiosystems Cat#4385612
+NanoLuc-AAK1fusionvector Promega Cat#NV1001
+NanoLuc-BMP2Kfusionvector Promega Cat#NV1091
+CONTACTANDREAGENTRESOURCESHARING
+FurtherinformationandrequestsforresourcesandreagentsshouldbedirectedtoandwillbefulfilledbytheLeadContact,MichaelB.
+Major(ben_major@email.unc.edu).
+EXPERIMENTALMODELANDSUBJECTDETAILS
+Celllinesandtissueculture
+Allcellswereculturedat37(cid:3)Cand5%CO .HT1080(humanmale),HEK293T/17(humanfetus),RKO(human,genderN/A),Lcells
+2
+(mousemale),andWNT3AexpressingLcells(mousemale)wereobtainedfromAmericanTypeCultureCollection(ATCC,Manassas,
+VA)andgrowninDMEMwith10%FBS.Eachcelllinewastestedformycoplasmacontaminationandpassagednomorethan20
+passages from the original ATCC stock. Cells were treated at the indicated concentrations with the following compounds:
+CHIR99021 (Cayman Chemicals, Ann Arbor, MI), chlorpromazine HCL (Sigma-Aldrich, St. Louis, MO), bafilomycin A1 (Cayman
+Chemicals),rhWNT3A(PeproTech,RockyHill,NJ),rhWNT5A(R&D,Minneapolis,MN),neomycintrisulfatesalthydrate(Sigma-Al-
+drich)andcarbachol(EMDChemicals,Gibbstown,NJ).
+METHODDETAILS
+WNT3Aconditionedmedia
+ConditionedmediawascollectedasdescribedbyATCC.Briefly,WNT3AandcontrolLcellsweregrownto100%confluencybefore
+freshmediawasadded,conditionedfor48hr,andthencollected.
+Immunoprecipitationandimmunoblotting
+Immunoprecipitation(IP)experimentswereperformedaspreviouslydescribed(Jiangetal.,2012).Briefly,cellswerelysedin1%
+Tritonlysisbuffer,passedthroughan18gaugeneedle,andclearedviacentrifugationatmaxspeedfor10mins.Forendogenous
+IPexperiments,antibodywasconjugatedtoactivatedProteinA/Gbeads(ThermoFisher)for1hrat4(cid:3)Cwithnutation.Conjugated
+beadswerethenaddedtoclearedlysateandincubatedfor4hrat4(cid:3)Cwithnutation.ForoverexpressionIPexperiments,activated
+Flag(Sigma-Aldrich)orHA(Sigma-Aldrich)beadswereaddeddirectlytotheclearedlysateandincubatedfor1hrat4(cid:3)Cwithnuta-
+tion.Followingincubation,beadswerewashed5timeswithlysisbuffer,thenthesamplewaselutedat95(cid:3)Cfor5mins,andaW.blot
+wasperformed.StandardW.blottingtechniqueswereutilized.Briefly,sampleswererunonaNuPAGE4%–12%Bis-TrisProtein
+Gel (ThermoFisher), then transferred to a nitrocellulose membrane. The membrane was then blocked and incubated overnight
+withprimaryantibodyat4(cid:3)Cwithrotation,washedwithTBST,incubatedwithsecondaryantibody,washedwithTBSTandimaged.
+e3 CellReports26,79–93.e1–e8,January2,2019
+
+---PAGE BREAK---
+
+AllimageswereobtainedusingaLiCOROdysseyimagerandquantifiedwithLiCORsoftware.ForW.blotanalysis,allantibodieswere
+usedataconcentrationof1:1000,withtheexceptionofloadingcontrols,whichwereusedat1:10,000.BethylLabs(Montgomery,TX)–
+AAK1(A302-146a);CellSignaling(Danvers,MA)–Clathrin(4796),LRP6(3395),phospho-LRP6(S1490)(2568),phospho-AP2M1(T156)
+(7399S),PIP4K2A(5527),phospho-CTNNB1(S33/37/T41)(9561S);Sigma-Aldrich–FLAGM2(F3165),HA(11867423001),andbeta-
+tubulin(T8328);Abcam(Cambridge,UK)–LRP6(ab75358),AP2M1(ab7995),p-AP2M1(Thr156)(ab109397);BDBiosciences(San
+Jose,CA)–CTNNB1(610153),GSK3b(610201);SantaCruz(Dallas,TX)–DVL3(sc-8027),beta-actin(sc-47778);Invitrogen(Carlsbad,
+CA)-AP2M1(PA5-21360).Secondaryantibodieswereusedat1:5000dilutionandpurchasedfromLiCORBiosciences.Specifican-
+tibodiesusedareasfollows:IRDye(cid:2)800CWGoatantiMouseIgG(925-32210),IRDye(cid:2)680LTGoatantiMouseIgG(925-68020),
+IRDye(cid:2)800CWGoatantiRabbitIgG(925-32211),andIRDye(cid:2)680LTGoatantiRabbitIgG(925-68021).
+SurfacestainingofLRP6
+HEK293Tcellweretransfectedfor48hrpriortosplittinginto60cmplateswith400,000cells/plateandallowedtoattachovernight.
+Cellsweredisassociatedwith0.5mMEDTAinDPBSandwashedwithFACSBuffer(2%FBSinDPBS).CellswerestainedinFACS
+bufferfor1houratoniceusing5mg/mLLRP6antibody(R&D)orIsotypeControl(R&D)andsecondarystainingwith1:100anti-mouse
+PE(JacksonImmunoresearch,WestGrove,PA)for45mins.Afterstaining,cellswerefixedwith2%paraformaldehydeinFACSbuffer
+andanalyzedbytheUNC-FlowCytometryCore.
+DNAconstructsandsiRNAs
+The human kinase open reading frame library was obtained from Addgene (cat# 1000000014) and cloned into a custom
+pHAGE-CMV-FLAGvectorusingGatewaycloningtechnology.AllconstructswereN-terminallysequenceverified.Gain-of-function
+kinomescreendataispresentedinTableS3andhasbeendepositedonMendeleyData(https://doi.org/10.17632/352fxh8r6t.1#file-
+94081320-ab20-4178-8be2-233c7ea23b62). Wild-type AAK1 and mutants were a gift from Dr. Sean Conner (University of
+Minnesota).GFP-LRP6,HA-LRP6,ANKRD6,andFLAG-dnTCF7L2werekindlyprovidedbyDr.RandellMoon(UniversityofWash-
+ington).ADCK1,ADCK2,MAST1,andTGFBR3wereobtainedaspartofthekinomelibraryfromAddgene.GFP-Dynamin1-K44Awas
+obtainedfromAddgene.AllsiRNAswereobtainedfromLifeTechnologies(ThermoFisher,Waltham,MA),andsequencesarelistedin
+TableS7.
+Transcriptionalreporterassays
+AllluciferasereporterassaysandIncuCytefluorescentreporterassayswereperformedaspreviouslydescribed(Walkeretal.,2015).
+Briefly, for loss-of-function assays, cell lines stably expressing the BAR-Firefly luciferase reporter and TK-Ren luciferase were
+used and transfected with RNAiMAX (Life technologies, ThermoFisher) for 72 hr. For gain of function studies, the BAR-reporter
+(20ng),TK-Ren(10ng),andindicatedconstructs(70ng)weretransfectedwithTansIT2020(MirusBio)for24hr.ForIncuCytefluo-
+rescentreporterassays,stableBAR-mCherrycellsweretreatedandimagedasindicatedusingtheIncuCyteLiveCellAnalysisSys-
+temfromEssenBioScience.Luciferasereadoutswerenormalizedusingco-transfectedTK-Ren(Luciferaseassays)andIncuCyte
+Analysis was normalizedto internal mCherry control. Conditions were plated in triplicate, and normalized values were averaged
+acrosstriplicatestoyieldthedatapresentedandstandarderror.Eachassaywasrepeatedinbiologicaltriplicate,unlessotherwise
+stated.FireflyluciferaseandtheRenilla(Ren)controlweredetectedusingthePromegaDual-LuciferaseReporterAssaySystemper
+themanufacturer’sprotocol(Promega,Madison,WI).PlateswerereadontheEnSpireplatereaderfromPerkinElmer.
+Real-TimeQuantitativePCR
+QuantitativePCR(qPCR)wasperformedasdescribedpreviously(Walkeretal.,2015).Briefly,cellsweretreatedasindicatedand
+RNAwascollectedusingPureLinkRNAMiniKit(Invitrogen,Carlsbad,CA).cDNAwasgeneratedfrom1ugofRNAusingtheiScript
+cDNASynthesisKit(BioRad,Hercules,CA)followingkitspecifications.qPCRwasperformedusingFastSYBERGreenMasterMix
+(AppliedBiosystems,FosterCity,CA)ontheAppliedBiosystems7400HTfollowingmanufacturerspecifications.Sampleswererunin
+technical triplicate on a 384-well plate, with biological triplicates run on subsequent plates. Primers were previously published
+(Walkeretal.,2015)andsequencesarelistedinTableS7.
+GenerationofLRP5/6DKOstablecelllines
+HEK293T cells were transfected with Cas9 and sgRNAs targeting LRP5/6. Sequences are listed in Table S7. Deletions were
+confirmedbyimmunoblottingandverifiedviasequencing.
+Surfacebiotinylation
+Forsurfacebiotinylationassays,thePierceCellSurfaceProteinIsolationKit(ThermoFisher)wasutilizedandmanufacturerspecifi-
+cationswerefollowed.Briefly,cellsweregrownto70%confluency,washed3timeswithcoldPBS,andthenbiotinylatedfor30mins
+at4(cid:3)CwithNHS-SS-sulfo-linkedbiotin(0.25mg/mL).Thefreebiotinwasquenched,andthenthesampleswerewashed3timeswith
+coldTBSpriortolysisandsonication.LysateswereclearedandthenincubatedwithStreptavidinbeads(GEHealthcare,LittleChal-
+font,UK)for1hourat4(cid:3)Cwithnutation.Beadswerewashed4timeswithcoldTBSandthenproteinswereelutedwithLDSprotein
+loadingbuffersupplementedwithDTTat95(cid:3)Cfor10mins.
+CellReports26,79–93.e1–e8,January2,2019 e4
+
+---PAGE BREAK---
+
+Chemistrygeneralprocedures
+Reagentswerepurchasedfromcommercialsuppliersandusedwithoutfurtherpurification.1Hand13CNMRspectrawerecollected
+inmethanol-d andrecordedonVarianInova400orInova500spectrometers.Peakpositionsaregiveninpartspermillion(ppm)
+4
+downfieldfromtetramethylsilaneastheinternalstandard;Jvaluesareexpressedinhertz.Thin-layerchromatography(TLC)wasper-
+formedonsilicagelF254toevaluatereactioncoursesandmixtures.FlashchromatographywasperformedonMerck60silicagel
+(0.063–0.200mm).Allnon-aqueousreactionswereperformedundernitrogenatmosphere.Solutionscontainingthefinalproducts
+weredriedoverNa SO beforefiltrationandconcentrationunderreducedpressureusingarotaryevaporator.
+2 4
+Crystalstructuredetermination
+DiffractiondatawereintegratedusingXDS(Kabsch,2010)andscaledusingAIMLESSfromtheCCP4softwaresuite(Winnetal.,
+2011). Molecular replacement was performed with Phaser (McCoy et al., 2007) using BMP2K/AZD7762 (PDB: 4W9W) (Sorrell
+etal.,2016)asasearchmodel.AutomatedmodelbuildingwasperformedwithBuccaneer(Cowtan,2006).Automatedrefinement
+wasperformedinPHENIX(Adamsetal.,2010).Coot(Emsleyetal.,2010)wasusedformanualmodelbuildingandrealspacerefine-
+ment.StructurevalidationwasperformedusingMolProbity(Chenetal.,2010).Structurefactorsandcoordinateshavebeendepos-
+itedinthePDBwithcode5IKW.
+Binding-displacementassays
+The TR-FRET ligand binding-displacement assaysfor AAK1, BMP2K, GAK and STK16 were performed as previously described
+(Asquithetal.,2018).Inhibitorbindingwasdeterminedusingabinding-displacementassay,whichmeasurestheabilityofinhibitors
+todisplaceafluorescenttracercompoundfromtheATPbindingsiteofthekinasedomain.InhibitorsweredissolvedinDMSOand
+dispensedas16-point,2xserialdilutionsinduplicateintoblackmulti-wellplates(Greiner).Eachwellcontainedeither0.5nMor1nM
+biotinylatedkinasedomainproteinligatedtostreptavidin-Tb-cryptate(Cisbio),12.5nMor25nMKinaseTracer236(ThermoFisher
+Scientific),10mMHEPESpH7.5,150mMNaCl,2mMDTT,0.01%BSA,0.01%Tween-20.Finalassayvolumeforeachdatapoint
+was5mL,andfinalDMSOconcentrationwas1%.ThekinasedomainproteinswereexpressedinE.coliasafusionwithaC-terminal
+AVItag(vectorpNIC-Bio3,NCBIreferenceJN792439)whichwasbiotinylatedbyco-expressedBirA,andpurifiedusingthesame
+methodsasusedpreviously(Asquithetal.,2018).Aftersettinguptheassayplateitwasincubatedatroomtemperaturefor1.5hours
+andthenreadusingaTR-FRETprotoResiduerangeswereAAK1:31-396,BMP2K:38-345,GAK:12-347,STK16:13-305colona
+PheraStarFSplatereader(BMGLabtech).Thedatawasnormalizedto0%and100%inhibitioncontrolvaluesandfittedtoafour
+parameterdose-responsebindingcurveinGraphPadSoftware(version7,LaJolla,CA,USA).ThedeterminedIC valueswerecon-
+50
+vertedtoKivaluesusingtheCheng-PrusoffequationandtheconcentrationandK valuesforthetracer(previouslydetermined).
+D
+Kinomescreening
+The KINOMEscan assay panel was measured at DiscoverX Corporation as previously described (Davis et al., 2011). Data
+collection can be found in Table S2 and has been deposited on Mendeley Data (https://doi.org/10.17632/cz9bx7d52c.
+1#file-bd678698-6718-4979-8b9e-1b0f7645884e).KinaseswereproducedeitherasfusionstoT7phage3,orwereexpressedas
+fusionstoNF-kBinHEK293cellsandsubsequentlytaggedwithDNAforPCRdetection18.Ingeneral,full-lengthconstructswere
+used for small, single-domain kinases, and catalytic domain constructsincluding appropriate flanking sequences were used for
+multidomainkinases.Briefly,forthebindingassays,streptavidin-coatedmagneticbeadsweretreatedwithbiotinylatedaffinityli-
+gandstogenerateaffinityresins.Theligandedbeadswereblockedtoreducenonspecificbindingandwashedtoremoveunbound
+ligand.Bindingreactionswereassembledbycombiningkinase,ligandedaffinitybeadsandtestcompoundspreparedas1003
+stocks in DMSO. DMSO was added to control assays lacking a test compound. Primary screen interactions were performed in
+384-wellplates,whereasK determinationswereperformedin96-wellplates.Assayplateswereincubatedat25(cid:3)Cwithshaking
+D
+for1h,andtheaffinitybeadswerewashedextensivelytoremoveunboundprotein.Boundkinasewaselutedinthepresenceofnon-
+biotinylatedaffinityligandsfor30minat25(cid:3)Cwithshaking.Thekinaseconcentrationintheeluateswasmeasuredbyquantitative
+PCR.K valuesweredeterminedusing11serialthreefolddilutionsoftestcompoundandaDMSOcontrol.
+D
+N-(6-(3-((N,N-diethylsulfamoyl)amino)phenyl)-1H-indazol-3-yl)cyclopropanecarboxamide(SGC-AAK1-1)
+3-Aminophenylboronicacidpinacolester(1eq.,50mg,0.228mmol)inpyridine(1.2mL)wascooledto0(cid:3)Cinanicebath.Diethyl-
+sulfamoylchloride(2.06eq.,80.7mg,0.0754mL,0.47mmol)wasaddeddropwise,andthereactionmixturewasstirredovernight.
+ThereactionprogresswascheckedbyTLC,revealingcompleteconsumptionofstartingmaterial(SM).Solventwasremovedandthe
+residue was partitioned between dichloromethane andsaturated aqueoussodium bicarbonate solution.The organic phasewas
+dried(Na SO ),filteredandconcentrated.TheresiduewaspurifiedusinganIscoCombiflashcompanionautomatedpurificationsys-
+2 4
+tem(4g(18mL/min),SiO ,80%/20%to25%/75%heptanes/EtOAc)togivediethyl({[3-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]
+2
+sulfamoyl})amineasanorangesolid(44mg,54%),whichwasdeterminedtobedesiredproductby1HNMR.
+The following was added to a microwave vial: N-(6-bromo-1H-indazol-3-yl)cyclopropanecarboxamide (1 eq., 20 mg,
+0.0677mmol),diethyl({[3-(tetramethyl-1,3,2-dioxaborolan-2-yl)phenyl]sulfamoyl})amine(1eq.,24mg,0.0677mmol),andPd(dppf)
+Cl2(10%,4.96mg,0.00677mmol)inamixtureofdioxane(0.19mL)and1Maqsodiumcarbonate(0.16mL).Thevialwascapped
+andheatedinthemicrowaveat120(cid:3)Cfor30mins.Oncecool,thereactionprogresswasexaminedbyTLC,whichrevealedcomplete
+e5 CellReports26,79–93.e1–e8,January2,2019
+
+---PAGE BREAK---
+
+consumption of SM. The mixture was filtered through Celite and washed with EtOAc (ethyl acetate). The combined organic
+solutionwaswashedwithbrine,dried(Na SO ),filteredandconcentrated.TheresiduewaspurifiedusinganIscoCombiflashcom-
+2 4
+panionautomatedpurificationsystem(4g(18mL/min),SiO ,75%/25%to20%/80%heptanes/EtOAc)togiveSGC-AAK1-1asa
+2
+yellowsolid(14.3mg,49%):1HNMR(400MHz,Methanol-d )d7.80(d,J=0.8Hz,1H),7.58(s,1H),7.48(dt,J=0.8,2.1Hz,1H),
+4
+7.38–7.35(m,2H),7.33(d,J=8.5Hz, 1H),7.17–7.12(m,1H),3.29(d,J=1.6 Hz,4H),1.91(tt, J=4.5,8.0 Hz,1H), 1.05(t,
+J=7.1Hz,6H),1.01(dt,J=3.0,4.4Hz,2H),0.95–0.88(m,2H);13CNMR(101MHz,Methanol-d )d174.1,142.1,141.9,139.8,
+4
+139.0,129.1,122.2,121.6,119.7,118.3,118.1,107.5,48.2,41.6,13.5,12.5,6.8.
+Generalprocedureforpreparationof3-acylamino-6-bromoindazoles
+Toasolutionof6-bromo-1H-indazol-3-amine(48mg,0.23mmol)inpyridine(0.75mL)wasaddedcyclopropanecarboxylicacidchlo-
+ride(0.021mL,0.23mmol,1eq.,)dropwiseat0(cid:3)C.Thereactionmixturewasstirredatthistemperaturefor4hrandthenallowedto
+warmtoroomtemperature.Oncethereactionwascompletethesolventwasremovedunderreducedpressure.Theresiduewasthen
+dissolvedinN,N-dimethylformamideandwaterwasaddeddropwise.Theprecipitatedsolidwasthenwashedwithhexanes3times
+andfurtherdriedtoaffordN-(6-bromo-1H-indazol-3-yl)cyclopropanecarboxamide(40.4mg,64%yield).
+Generalprocedurefor3-acylamino-6-arylindazoles
+The following was added to a microwave vial: N-(6-bromo-1H-indazol-3-yl)cyclopropanecarboxamide (344 mg, 1.12 mmol)
+dissolvedindioxane(4mL)and1MNa CO (1mL).Tothissolution,thefollowingwasadded:3-aminophenylboronicacidpinacol
+2 3
+ester(269mg,1.12mmol,1.0eq.,),Pd(dppf)Cl (100.3mg,0.123mmol,0.1eq,).Thereactionwasruninthemicrowaveat160(cid:3)C
+2
+for 20 mins, at which time SM was consumed. The reaction mixture was poured into water and extracted 3 times with EtOAc.
+The combined organic layers were dried over Na SO and concentrated to dryness. The compound was then purified by flash
+2 4
+chromatographytoaffordN-(6-(3-aminophenyl)-1H-indazol-3-yl)cyclopropanecarboxamide(100mg,28%yield).
+N-(6-(3-(cyclopropanesulfonamido)phenyl)-1H-indazol-3-yl)cyclopropanecarboxamide(25A)
+ToasolutionofN-[6-(3-aminophenyl)-1H-indazol-3-yl]cyclopropanecarboxamide(67mg,0.2292mmol)inpyridine(1mL)cooledto
+0(cid:3)C,cyclopropanesulfonylchloride(1eq,32.22mg,0.2292mmol)wasaddeddropwise.Thereactionmixturewasstirredat0(cid:3)Cfor
+4hrandwarmedtoroomtemperature.AfterverificationbyLC/MSthatSMhadbeenconsumed,solventwasremovedunderreduced
+pressure.Thecompoundwasthenpurifiedbyhighpressureliquidchromatography(HPLC)from10%to100%ACN/water+0.05%
+TFAtoyield25A(44.5mg,49%yield).1HNMR(400MHz,Methanol-d )d7.83–7.78(d,J=8.6Hz,1H),7.61–7.54(m,2H),7.46–7.30
+4
+(m,3H),7.29–7.23(ddd,J=7.7,2.2,1.3Hz,1H),2.62–2.49(tt,J=8.0,4.8Hz,1H),1.95–1.84(ddd,J=12.5,7.9,4.2Hz,1H),1.07–
+0.77(m,8H).13CNMR(126MHz,Methanol-d )d5.8(2C),8.4(2C),15.0,30.5,30.8,109.1,117.2,121.2,121.3,121.4,123.1,124.7,
+4
+130.8,140.1,141.2,143.4(2C),143.8,175.6.MS+(–ESAPI)-397.1.
+N-(6-(3-(cyclopropanesulfonamido)phenyl)-1H-indazol-3-yl)isobutyramide(SGC-AAK-1N):
+1HNMR(400MHz,Methanol-d )d7.82–7.75(d,J=8.6Hz,1H),7.62–7.54(dt,J=10.9,1.5Hz,2H),7.47–7.31(m,3H),7.31–7.22
+4
+(ddd,J=7.8,2.2,1.3Hz,1H),2.84–2.69(hept,J=6.8Hz,1H),2.61–2.50(tt,J=8.0,4.8Hz,1H),1.29–1.15(d,J=6.8Hz,6H),1.14–
+0.82(m,4H).13CNMR(126MHz,Methanol-d )d5.8(2C),20.0(2C),30.5,36.3,109.2,117.4,121.3,121.4(2C),123.0,124.7,130.8,
+4
+140.1,141.2,141.3,143.4,143.8,179.3.MS+(–ESAPI)-399.1.
+Cloning,proteinexpressionandpurification
+ForcrystallizationofBMP2K,aconstructofBMP2Kresidues38-345(NCBINP_942595)encompassingthekinasedomainwith
+surface mutations K320A and K321A in expression vector pNIC-Zb was used (Sorrell et al., 2016). The construct was trans-
+formed into BL21(DE3) cells that co-express l-phosphatase and three rare tRNAs (plasmid pACYC-LIC+). The cells were
+cultured in TB medium containing 50 mg/mL kanamycin and 35 mg/mL chloramphenicol at 37(cid:3)C with shaking until the
+OD600 reached (cid:4)3 and then cooled to 18(cid:3)C for 1 hour. Isopropyl b-D-1-thiogalactopyranoside (IPTG) was added to a final
+concentration of 0.1 mM and the cultures were left overnight at 18(cid:3)C. The cells were collected by centrifugation then resus-
+pendedin2xlysisbuffer(100mMHEPESbuffer,pH7.5,1.0MNaCl,20mMimidazole,1.0mMtris(2-carboxyethyl)phosphine
+(TCEP),ProteaseInhibitorCocktailSetVII(Calbiochem,1/500dilution)andflash-frozeninliquidnitrogen.Cellswerelysedby
+sonicationonice.TheresultingproteinswerepurifiedusingNi-Sepharoseresin(GEHealthcare)andelutedstepwiseinbinding
+buffer with 300 mM imidazole. Removal of the hexahistidine tag was performed at 4(cid:3)C overnight using recombinant TEV
+protease.ProteinwasfurtherpurifiedusingreverseaffinitychromatographyonNi-Sepharosefollowedbygelfiltration(Super-
+dex20016/60,GEHealthcare).Proteiningelfiltrationbuffer(25mMHEPES,500mMNaCl,0.5mMTCEP,5%[v/v]glycerol)
+wasconcentratedto12mg/mL(measuredbyUVabsorbance,usingthecalculatedmolecularweightandestimatedextinction
+coefficient,usingaNanoDropspectrophotometer(ThermoScientific)using30kDamolecularweightcut-offcentrifugalconcen-
+trators (Millipore) at 4(cid:3)C.
+CellReports26,79–93.e1–e8,January2,2019 e6
+
+---PAGE BREAK---
+
+NanoBRETmeasurements
+ConstructsforNanoBRETmeasurementsofAAK1andBMP2KwerekindlyprovidedbyPromega.TheAAK1constructrepresents
+theshortisoformofAAK1withanN-terminalNanolucfusion,andtheBMP2Kconstructrepresentsresiduestheshortisoformof
+BMP2KwithanN-terminalNanolucfusion.HEK293Tcells(ATCC)weremaintainedinDMEMsupplementedwith10%fetalbovine
+serum (FBS) (Life Technologies) with penicillin and streptomycin. NanoLuc-AAK1 or NanoLuc-BMP2K fusion constructs were
+complexed with Lipofectamine 2000 according to the manufacturer’s protocol (Invitrogen). DNA:Lipofectamine complexes were
+formedwith24mgDNAand60mLLipofectamine.ThetransfectioncomplexeswerethenmixedwithHEK293Tcellsina100mm
+dishat50%–70%confluenceinserum-freeDMEM(Lonza),followedbyincubationinahumidified,37(cid:3)C,5%CO2incubator.After
+4hrofincubation,themediumwasreplacedby10%FBSDMEMwithantibioticsandthecellswereincubatedforanadditional20hr.
+TheNanoBRETassaywasperformedaspreviouslydescribed(Robersetal.,2015).Briefly,cellsweretrypsinizedandresuspendedin
+Opti-MEMwithoutphenolred(LifeTechnologies).Cells(85mL)werethenseededintowhite,nonbindingsurfaceplates(Corning)ata
+densityof23104cells/well.Dilutedtracerwaspreparedfrom200mMstockinTracerDilutionBuffer(32.25%PEG400in12.5mM
+HEPESBufferpH7.5)ata1to4ratio,and5mLwasaddedtothecellstohaveafinalconcentrationof2,1,0.5or0.25mM.Allchemical
+inhibitorswerepreparedasconcentratedstocksolutionsindimethylsulfoxide(DMSO)(Sigma-Aldrich).Serialdilutionsoftheinhib-
+itorsat50xthefinalassayconcentrationweremadebydilutionwithDMSO,beforetheinhibitorswereaddedtothecellsat1:50ratio
+(2%finalDMSOconcentration).Cellswerethenincubatedfor2hrbeforeBioluminescenceresonanceenergytransfer(BRET)mea-
+surements.TomeasureBRET,NanoBRETNanoGloSubstrate(Promega)wasadded,andfilteredluminescencewasmeasureona
+BMGLABTECHClariostarluminometerequippedwith450nmBPfilter(donor)and610nmLPfilter(acceptor),using0.5sintegration
+timewithgainsettingsof3,600forbothfilters.Background-correctedBRETratiosweredeterminedbysubtractingtheBRETratiosof
+sampleswithnotraceradded.
+MeasurementofinvitroIC valuesforinhibitionofAAK1enzymaticactivity
+50
+EnzymaticactivityofAAK1wasmonitoredin20mLreactionvolumescontaining25nMAAK1(27-365)in15mMMOPSpH7.5,
+2mMMgCl and0.004%TritonX-100bufferplus46mMATP(atK )and200mMofanAP-2derivedpeptide(biotin-GGSQITSQVTG
+2 m
+QIGWRR-amide). Optimal activity was achieved with sample incubation at 37(cid:3)C for 40 mins (steady-state conditions) in buffer
+conditionsthatweretailoredbyfactorialdesignusingDesign-Expertsoftware(Stat-Ease,version10).Togenerateinhibitioncurves,
+end-pointreactionsweresetuphavingcompoundspre-incubatedinareactionmixwithoutATPfor10minsatroomtemperature.
+Next,allsamples(inPCRtubes)weretransferredtoaPCRinstrumentsetat37(cid:3)Cforanother5mins.Thereactionstartedwith
+theadditionof46mMATP(atK ),maintainingtheincubationconditionsforanother40mins.Thereactionswerestoppedandthe
+m
+amountofADPproducedwasmeasuredusingacoupledenzymeassaysystemthatconvertsAmplexRedtoResorufin(Charter
+etal.,2006).FluorescencereadingsweremadeinaBMGLabtechClariostarinstrumentwithexcitationpeaksetat530nmandemis-
+sionpeakreadingat590nm.
+Proteincrystallization
+TheAAK1inhibitor(dissolvedin100%DMSO)wasaddedtotheproteinina3-foldmolarexcessandincubatedoniceforapprox-
+imately30mins.Themixturewascentrifugedat14,000rpmfor10minsat4(cid:3)Cpriortosettingup150nLvolumesittingdropsatthree
+ratios(2:1,1:1,or1:2protein-inhibitorcomplextoreservoirsolution).Crystallizationexperimentswereperformedat20(cid:3)C.Crystals
+werecryoprotectedinmotherliquorsupplementedwith20%–25%glycerolbeforeflash-freezinginliquidnitrogenfordatacollection.
+DiffractiondatawascollectedattheDiamondLightSource.Thebestdiffractingcrystalsgrewin10%(v/v)BroadMWPEGsmear,
+3.2MMgCl ,100mMHEPESpH7.0(Chaikuadetal.,2015).Datawascollectedat100KattheDiamondSynchrotronbeamlineI02.
+2
+DatacollectionstatisticscanbefoundinTableS5.
+IsothermalTitrationCalorimetry
+AAK1andBMP2Kproteinswereproducedaspreviouslydescribed(Sorrelletal.,2016).Isothermaltitrationcalorimetrymeasure-
+mentsweremadeonaMicrocalVP-ITCinstrumentat25(cid:3)C.FortheinteractionofAAK1withSGC-AAK1-1,thecompoundwas
+dilutedto22mMinITCbufferfromastockat10mMinDMSOandloadeddirectlyintothecell.AAK1wasdialyzedat4(cid:3)Covernight
+intoITCbuffer(20mMHEPESpH7.5,150mMNaCl,1mMTCEP)andloadedintotheITCsyringeatafinalconcentrationof218mM.
+Followingthermalequilibration,AAK1wastitratedintothecellusingserialinjectionsof8mLuntilsaturationwasobservedinthether-
+mogram.ThesamemethodwasrepeatedfortheBMP2KversusSGC-AAK1-1interactionwhereproteinwasloadedintothesyringe
+ataconcentrationof288mMandinjectedintoa32mMsolutionofSGC-AAK1-1.TheITCdatawasanalyzedwithNITPIC(Kelleretal.,
+2012)andSEDPHAT(Zhaoetal.,2015).ThefinalfitteddatavaluesareinTableS4.
+QUANTIFICATIONANDSTATISTICALANALYSIS
+Statistics
+All error bars are ± standard error (SE). Statistical significance was evaluated by Mann-Whitney t test unless otherwise stated.
+Nvaluesarestatedinfigurelegends.Eachpanelwasperformedinatleastbiologicaltriplicate,withhigherreplicatesnotedinfigure
+legend.***p<0.0005,**p<0.005,*p<0.05.
+e7 CellReports26,79–93.e1–e8,January2,2019
+
+---PAGE BREAK---
+
+DATAANDSOFTWAREAVAILABILITY
+Gain-of-functionkinomescreen
+Thereferencenumberforthegain-of-functionkinomescreenreportedinthispaperisMendeleyData(https://doi.org/10.17632/
+352fxh8r6t.1).
+KINOMEscan
+ThereferencenumberfortheKINOMEscanreportedinthispaperisMendeleyData(https://doi.org/10.17632/cz9bx7d52c.1).
+BMP2KK boundto25A
+D
+ThereferencenumberfortheBMP2KK boundto25AisPDB:5IKW.
+D
+CellReports26,79–93.e1–e8,January2,2019 e8
+
+---PAGE BREAK---
+

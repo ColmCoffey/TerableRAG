@@ -1,0 +1,340 @@
+insight review articles
+Protein degradation and protection
+against misfolded or damaged proteins
+Alfred L. Goldberg
+Department of Cell Biology, Harvard Medical School, Boston, Massachusetts 02115, USA
+(e-mail: alfred_goldberg@hms.harvard.edu)
+The ultimate mechanism that cells use to ensure the quality of intracellular proteins is the selective
+destruction of misfolded or damaged polypeptides. In eukaryotic cells, the large ATP-dependent proteolytic
+machine, the 26S proteasome, prevents the accumulation of non-functional, potentially toxic proteins. This
+process is of particular importance in protecting cells against harsh conditions (for example, heat shock or
+oxidative stress) and in a variety of diseases (for example, cystic fibrosis and the major neurodegenerative
+diseases). A full understanding of the pathogenesis of the protein-folding diseases will require greater
+knowledge of how misfolded proteins are recognized and selectively degraded.
+P
+roteins within cells are continually being Structural alterations lead to rapid degradation
+degraded to amino acids and replaced by The ability of cells to degrade abnormally folded proteins
+newly synthesized proteins. This process is selectively was first demonstrated more than 30 years ago4
+highly selective and precisely regulated1, and with the discovery that various treatments that perturb the
+individual proteins are destroyed at widely dif- proper folding of proteins caused their rapid hydrolysis. In
+ferent rates, with half-lives ranging from several minutes fact, these findings led to the initial recognition that a
+to many days. In eukaryotic cells, most proteins destined protein’s structure determines not only its catalytic proper-
+for degradation are labelled first by ubiquitin in an energy- ties but also its intracellular stability2. However, the precise
+requiring process and then digested to small peptides by changes in conformation that are recognized by the cell’s
+the large proteolytic complex, the 26S proteasome. Indica- degradative machinery and that trigger rapid hydrolysis are
+tive of the complexity and importance of this system is the not clear and have still not been studied systematically.
+large number of gene products (perhaps a thousand) that Perhaps most illustrative are the early findings about
+function in the degradation of different proteins in mam- degradation of abnormal globins in reticulocytes6,7, which
+malian cells. In the past decade, there has been an explo- produce one very well-characterized protein, haemoglobin,
+sion of interest in the ubiquitin–proteasome pathway, due almost exclusively. Because the powerful tools that are now
+largely to the general recognition of its importance in the available to perturb protein structures (such as site-directed
+regulation of cell division, gene expression and other key mutagenesis) were undreamt of then, those early studies
+processes1. However, the cell’s degradative machinery followed the fate of proteins that had incorporated, in place of
+must have evolved initially to serve a more fundamental the natural residues, amino-acid analogues that prevented the
+homeostatic function — to serve as a quality-control protein from assuming its normal tertiary conformation2,4.
+system that rapidly eliminates misfolded or damaged pro- Normally, haemoglobin is the most stable intra-
+teins whose accumulation would interfere with normal cellular protein, lasting the lifespan of red cells (about 110
+cell function and viability2–4. days). However, after the incorporation of a synthetic valine
+Long before the appearance of the ubiquitin–protea- analogue, the abnormal globin had a half-life of 10 min
+some pathway in eukaryotes, prokaryotes had evolved (refs 6, 7). These short-lived globins failed to bind haem or
+elaborate proteolytic machinery to destroy misfolded pro- form tetramers, and instead formed amorphous aggregates
+teins rapidly4,5. These intracellular proteolytic systems are before degradation (see below). Very similar events have
+energy dependent and differ markedly in size and complexity since been observed in several human diseases, for example,
+from the simple proteases that function in the extracellular the unstable haemoglobinopathies, in which mutations that
+milieu, such as the pancreatic proteases that digest dietary prevent the binding of haem cause complete degradation
+proteins. If such typical extracellular proteases were free in the within minutes of translation, leading to a severe anaemia8.
+cytosol, they would quickly convert the cell into a bag of Wider recognition of the importance of this degradative
+amino acids. The fundamental problem that evolution had to process occurred with the advent of recombinant DNA
+solve was how to provide cells with the capacity to destroy technology in the 1980s and the discovery that many foreign
+misfolded or damaged proteins rapidly without the non-spe- proteins expressed in bacteria fail to accumulate owing to
+cific destruction of essential cell constituents. their rapid degradation. Many proteins of major medical
+Here, I outline the key features of the degradative process, importance (such as insulin) cannot fold properly in
+its importance for cell viability and the research that led to its Escherichia coli, are recognized as abnormal and are rapidly
+elucidation. As discussed here and elsewhere in this Insight, degraded9. Successful expression of such proteins required
+misfolded proteins can arise in cells by mutation and the development of mutant bacteria with reduced degrada-
+through various postsynthetic events; they can be highly tive capacity or improved expression systems that over-
+toxic, mainly because of their tendency to form intracellular whelm the proteolytic systems9.
+aggregates. Greater knowledge about this proteolytic path- Although most of our knowledge about misfolded pro-
+way will be crucial for understanding the pathogenesis of teins comes from mutated proteins, cells also rapidly
+diseases resulting from failures in correct protein folding degrades abnormal proteins that result from errors in tran-
+and in developing rational therapies. scription or translation. Accordingly, ribosomal mutations
+NATURE|VOL 426|18/25 DECEMBER 2003|www.n©at u2re0.0co3m N/naattuurree PublishingGroup 895
+
+---PAGE BREAK---
+
+insight review articles
+Table 1Abnormal proteins rapidly degraded in cells rapidly degraded2. For example, ribosomal subunits, when not in
+ribosomes, are very unstable in all cells. In human thalassaemia, there
+Type of abnormality Cause
+is an excess of a- and b-globin subunits not in tetramers that are
+Incomplete proteins Nonsense mutations, incorporation of puromycin,
+premature termination, proteolytic cleavage rapidly degraded within reticulocytes8. However, their destruction is
+Missense proteins Mutations, incorporation of amino-acid analogues, not sufficiently rapid to prevent free chains from precipitating and
+biosynthetic errors distorting erythrocyte shape. This defect in protein assembly leads
+Free subunits of multimeric Excess synthesized subunits eventually to anaemia because these misshapen red cells are rapidly
+complexes
+destroyed by the spleen (which functions as a quality-control system
+Postsynthetic damage Oxygen radicals, intracellular denaturation to ensure that circulating cells have the correct shape)8. The degrada-
+Genetic engineering Gene fusions, frame-shifts, incorrect localization tion of free subunits of multimeric enzymes thus not only protects
+Protein misfolding cells against accumulation of denatured, potentially toxic polypep-
+tides but also functions as a quality-control mechanism that ensures
+in E. colior treatment with streptomycin, each of which causes trans- that subunits of multimeric complexes are present in the proper
+lational errors and the production of error-laden proteins, leads to an stoichiometry.
+overall increase in proteolysis4,11. In fact, because of this rapid degra-
+dation, the actual error rate in gene expression in vivois impossible to Postsynthetic damage to cell proteins
+determine with precision. For a protein, the cell can hardly be a hospitable environment, espe-
+Incomplete proteins, such as can arise through mistakes in RNA cially in warm-blooded species. Within cells, proteins are constantly
+splicing, the incorporation of puromycin2,4,6or nonsense mutations, exposed to highly reactive molecules and to conditions that favour
+are rapidly degraded in all cells. Such fragments fail to assume their denaturation (see Box 1) and are under constant surveillance by the
+proper conformation. Bacteria also have a specialized mechanism to proteolytic systems, which continually monitor mature proteins for
+target for destruction incomplete polypeptides while they are still on postsynthetic denaturation or chemical damage. Consequently, a
+stalled ribosomes11, but no similar mechanism has yet been found in protein’s life within the cell is likely to be ‘nasty, brutish and short’.
+eukaryotes. To maintain the activity of most proteins in the laboratory, it is
+The quality-control systems in bacteria and eukaryotic cells do essential to store them at low temperatures in pure solutions or
+not degrade all, or even most, mutated proteins: only those muta- even freeze-dry them. A competent biochemist would never store
+tions that markedly perturb protein folding trigger rapid hydrolysis his favourite protein at 37 °C in a highly reactive environment such
+(such as mutations of key residues or large deletions) (see Table 1). as the intracellular milieu, where reactive oxygen species (for exam-
+For example, only about one-fifth of the hundreds of human haemo- ple hydroxyl radicals) are continually being generated that can
+globin point mutations generate proteins that undergo rapid degra- destroy amino acids in proteins17,18. It is also an environment where
+dation (as suggested by the low levels of the abnormal protein in reactive sugars abound that can glycate proteins, where many
+mature red cells)8. A major recent development has been the discov- enzymes are found that modify or destroy proteins (for example
+ery that many abnormally folded proteins in the secretory pathway proteases), and where there are fatty acids that can function as
+(for example, the cystic fibrosis transmembrane conductance regula- detergents, and partially folded nascent chains that act as nuclei for
+tor) are translocated back into the cytosol, where they undergo rapid aggregation. These protein-modifying processes must continually
+degradation (see the article by Sitia and Braakman in this issue p. 891, cause stochastic damage to well-formed cellular proteins, trigger-
+and ref. 10). ing their degradation2. Even in pure solutions, multiple changes in
+primary sequence (deamidation of glutamines, and residue iso-
+Degradation of newly synthesized proteins merization) occur over time (termed ‘protein ageing’), leading to
+The folding of newly synthesized proteins to their proper confor- rapid degradation by proteasomes19. Although it generally func-
+mations involves the sequential actions of multiple molecular tions as part of the ubiquitin–proteasome pathway, the 26S protea-
+chaperones13,14, and this process can take many minutes or even some has the capacity to degrade certain unfolded or damaged pro-
+longer, and may often be unsuccessful. A large fraction of newly teins, including ‘aged’ or denatured proteins, without initial mark-
+synthesized proteins is rapidly degraded2,15,16. As many as 30% of ing them by ubiquitylation. The frequency of such modifications
+newly synthesized proteins in eukaryotes might undergo degrada- and denaturing events must be high, because the free energy for
+tion within minutes of synthesis15. Although initially attributed to stabilizing proteins is not great. Furthermore, in certain environ-
+mistakes in ribosomal function (and named DRIPS, for ‘defective ments, the frequency of damage to cell proteins increases — for
+ribosomal products’), it seems more likely that a large fraction of example after heat shock, in which many proteins are unfolded3, or
+these short-lived species are products of unsuccessful folding or during oxidative stress or inflammation, when oxygen radicals are
+failures of multimer assembly. However, the actual fraction of generated in increased amounts17.
+short-lived species that are genuinely aberrant proteins is contro-
+versial and extremely difficult to determine rigorously for multiple Box 1
+reasons. For example, a number of important regulatory proteins Intracellular conditions that damage cell proteins
+have very short half-lives (as short as 2–20 min)1; also fragments of
+all secretory and membrane proteins (signal peptides) are degrad- Temperature of 37 °C or higher (denaturing conditions).
+ed as part of the secretory process. Nevertheless, it seems likely that Many reactive small molecules — these cause oxidation,
+many newly synthesized polypeptides are destroyed because of the deamidation, glycation or nitrosylation.
+inherent inefficiency of protein folding15 and that, after release Many enzymes that modify proteins, for example proteases
+from the ribosome, polypeptides face a life–death kinetic competi- or kinases.
+tion between successful folding and rapid hydrolysis of unfolded High salt concentrations (which favour dissociation of multimers)
+species. Many fatty acids, which act like detergents.
+Particularly critical steps in the folding process are the binding of Other unfolded proteins — nascent polypeptides, damaged or
+cofactors and the association of different subunits to form multimer- mutant polypeptides and insoluble inclusions are sticky.
+ic complexes13,14. In the absence of cofactors or complementary sub-
+units, free subunits generally fail to achieve native conformations and Conclusion: to maintain a protein’s function, avoid the intracellularmilieu.
+have exposed hydrophobic surfaces. Such free subunits tend to be
+896 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+Hsp40
+Native protein Misfolded
+Hsp70 Ubiquitin ATP
+Denaturation Hsp70 conjugation
+Damage Hsp40 20S
+Chip
+(E3) E2 19S
+Folded 26S proteasome
+Misfolded
+E1 + + ATP
+Peptides
+Ribosome
+RNA Amino acids
+DNA
+Figure 1 The ubiquitin–proteasome pathway. Molecular chaperones may function in synthesized proteins and favours their refolding. Alternatively, they can facilitate the
+protein folding and in the degradation of misfolded species. By associating with recognition of abnormal proteins, leading to their ubiquitylation by CHIP, the E3, and
+exposed hydrophobic domains, chaperones Hsp70/40 promote the folding of newly their degradation by the 26S proteasome. The red circles represent ubiquitin.
+Although many proteins are short-lived, the bulk of cell proteins The ubiquitin–proteasome pathway
+are ‘long-lived’, and 1–2% of them are degraded per hour in mam- A fundamental feature of protein degradation in all cells, and even
+mals16. Even though these rates are physiologically regulated, the mitochondria, is that it requires metabolic energy. This requirement
+degradation of these long-lived proteins follows exponential decay for ATP is unexpected on thermodynamic grounds. Consequently, it
+kinetics, suggesting that a stochastic event triggers their destruction. was initially viewed as evidence for an ATP requirement for the func-
+Thus, for many — and perhaps most — proteins, a random event, tion of lysosomes, then believed to be the only site of protein break-
+spontaneous denaturation or chemical modification leading to down in cells. However, the selective degradation of abnormal
+unfolding might be the critical event triggering degradation2. proteins also requires ATP in cells that lack lysosomes (for example,
+bacteria)4,6. This insight led to the development of cell-free prepara-
+Abnormal proteins may aggregate before degradation tions that catalyse the ATP-dependent degradation of abnormal pro-
+A characteristic feature of denatured proteins is that they aggregate teins6. Attempts to understand this mysterious role for ATP led to the
+and leave solution (because of the tendency of normally buried discovery of the involvement of ubiquitin conjugation in marking
+hydrophobic domains to associate with one another). Similarly, proteins for degradation24and of the 26S proteasome25,26. In eukary-
+when the production of misfolded proteins exceeds the cell’s otes, ATP is initially essential to activate ubiquitin, which is then
+degradative capacity, these polypeptides often form intracellular transferred to one of the cell’s 20–40 different ubiquitin-carrier pro-
+aggregates before their rapid degradation3,7,20. Indeed, the finding teins (E2s). The exquisite selectivity of this pathway resides in the
+that many cloned, misfolded proteins also aggregate in the cytosol ubiquitin ligases, or E3s, which are specific for different protein sub-
+of bacteria has sometimes proved to be of major benefit to strates1. Mammalian cells contain hundreds of different ubiquitin
+researchers, allowing the rapid isolation of the foreign ligases, which, together with a specific E2, catalyse the formation of
+polypeptides. The formation of such inclusions occurs when the the ubiquitin chain on a limited number of protein substrates, trig-
+cell’s proteolytic systems and molecular chaperones, which gering their rapid degradation by the 26S proteasome27(see below
+normally prevent aggregation (for example Hsp70/40)13,14 or and Fig. 1).
+resolubilize microaggregates (Hsp104)21, cannot keep up with the Which E2s and E3s are involved in this cellular quality-control
+rate of production of unfolded molecules. system and how they recognize misfolded proteins are still open
+Similar inclusions are found in various inherited and neurode- questions. Several E3s are essential for the degradation of abnormal
+generative diseases, in which these inclusions are ubiquitylated and proteins in the secretory pathway (see the progress in this issue by
+associated with proteasomes3 (see also the article in this issue by Sitia and Braakman p. 891, and ref. 10), and certain E2s (Ubc4 and
+Selkoe, p. 891 ), strongly suggesting a failure of the cell’s degradative Ubc5) are necessary for the rapid degradation of cytosolic abnormal
+machinery3. When mammalian cells are treated with proteasome proteins and are induced as part of the heat-shock response11. This
+inhibitors, such inclusions appear rapidly, thus indicating that many transcriptional response is triggered in all cells by the appearance of
+substrates of the proteasome in normal cells are misfolded proteins3. unfolded proteins (for example, after exposure to increased tempera-
+As abnormal proteins accumulate, larger inclusions are found near tures or ‘oxidants’) and leads to an enhanced cellular content of chap-
+the centrosome as a result of an active microtubule-dependent erones and increased degradative capacity3,11,28.
+process that isolates the unfolded proteins in amorphous structures, Recently, one E3, CHIP (for carboxy terminus of Hsp70-interact-
+which are often termed ‘aggresomes’22. If the production of such ing protein)29,30, has been identified in mammals that seems to ubiq-
+abnormal proteins ceases and degradation is allowed to proceed, all uitylate certain mutant proteins selectively in a process requiring the
+cells, from bacteria20to neurons23, can eliminate the proteinaceous molecular chaperones Hsp70 or Hsp90,which bind to unfolded or
+inclusions. The mechanisms in mammalian cells for solubilizing and hydrophobic domains13,14and seem to facilitate substrate recogni-
+digesting these proteins are unknown, and further understanding of tion by CHIP29,30. These chaperones are normally among the most
+this process could have therapeutic applications for various protein- abundant cell proteins, and their levels rise further in harsh condi-
+folding diseases. tions that damage cell proteins3,11,28. By binding to unfolded domains
+NATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 897
+
+---PAGE BREAK---
+
+insight review articles
+of nascent proteins, they prevent their aggregation and facilitate nor- in recent years27. The 26S proteasome is composed of a core 20S parti-
+mal folding in stressed cells, and promote the refolding of denatured cle, in which proteins are digested to short peptides, and one or two
+molecules13,14. The discovery that these chaperones also have a func- 19S regulatory particles, responsible for substrate recognition and
+tion in the selective degradation of abnormal proteins has important transport into the core particle27. The 20S particle is composed of
+implications.Chaperone involvement in proteolysis, as well as folding, four stacked rings, whose subunits surround a central cavity. Its two
+would provide an efficient quality-control mechanism, because inner b-rings form a central chamber containing the proteolytic
+unsuccessful folding would mean prolonged association of the sub- sites, which face the central cavity. This organization ensures that
+strate with the chaperones, leading to rapid degradation29–32. However, protein digestion is isolated from the surrounding cytosol. Eukaryot-
+it remains unclear whether CHIP catalyses the ubiquitylation of ic proteasomes contain two sites that cleave after hydrophobic
+abnormal proteins generally or whether many E3s function in the residues, two after acidic residues and two after basic residues; thus
+degradation of different types of aberrant protein. It is also unclear they can cut most types of peptide bond5,27. Substrates can enter the
+whether ubiquitylation is essential for the proteasomal elimination of 20S particle only through a gated channel in the centre of the a-ring39,
+all abnormal proteins in vivo, because this process occurs efficientlyin which is normally maintained in a closed state, and access is con-
+bacteria and archaea, which lack ubiquitin. In addition, in vitro trolled by the associated ATPases in the 19S particle40.
+eukaryotic 26S proteasomes degrade many unfolded proteins (for The entry channel is quite narrow, and even in its open state it
+example, ‘aged’ calmodulin) without ubiquitin conjugation19. allows entry of only unfolded proteins39,40. While excluding normal
+globular proteins, this architecture requires complex ATP-depen-
+ATP-dependent proteolytic machines dent mechanisms to recognize, unfold and linearize substrates and to
+A very different and more general explanation of the requirement of inject them into the 20S proteasome40. It is still unclear where in the
+ATP for the degradation of abnormal proteins emerged from our 19S is located the initial binding site for ubiquitin chain and the enzy-
+studies of this process in E. coliand mitochondria33. Large proteolytic matic machinery for disassembling these chains1,27. The base of the
+complexes were discovered whose activity was coupled to ATP 19S contains a ring of six ATPases that provide added selectivity and
+hydrolysis33–35. For example, the Lon (La) protease is a 600 kDa somehow unfold proteins, translocate them and trigger gate-open-
+ATPase complex that rapidly degrades most abnormal proteins in ing into the 20S particle40. This elegant mechanism uses the energy in
+E. coli33–35. The Lon homologue in mitochondria is necessary for the a considerable number of ATP molecules in degrading a protein, per-
+viability of eukaryotes, presumably because it helps to prevent the haps one-third of the ATP used by the ribosome in their synthesis40.
+build-up of aberrant proteins within this organelle36,37. In addition, The essential features of this process emerged early in evolution; the
+bacteria and mitochondria contain several other proteolytic com- proteasomes of Archaea function together with a very similar ATPase
+plexes (namely ClpAP, ClpXP, HslUV and FtsH)5,33–36 that are ring (termed PAN) that selects, unfolds and translocates sub-
+composed of distinct ATPase and proteolytic subcomplexes. Like the strates5,40. With the emergence of eukaryotes, this process became
+proteasome, these enzymes are large complexes (at least 20–30-fold linked to ubiquitin conjugation, which, like the architecture of the
+larger than typical proteases) that processively degrade proteins to proteasome and its linkage to ATP hydrolysis, should be viewed as
+oligopeptides. In each case, ATP hydrolysis appears necessary for the mechanisms to ensure that only unwanted proteins are selectively
+unfolding of substrates and for their delivery into a proteolytic sub- degraded.
+compartment, where the substrates are digested, thus avoiding the
+non-specific destruction of other cell constituents. These proteases Key questions and future prospects
+are all heat-shock proteins3,5,10,33, which means that they are coordi- The selective degradation of abnormal proteins has been known for
+nately induced together with molecular chaperones whenever cells about 30 years, but many fundamental questions remain unan-
+generate large amounts of unfolded proteins (Table 1)3,10,28. For swered. Although many adverse events during gene expression and
+example, they are often induced in bacteria that express cloned protein folding, and many untoward postsynthetic events, trigger
+foreign proteins11. degradation, it is unclear to what extent this quality-control process
+In all cells and mitochondria, these proteases function together contributes to overall protein turnover in normal cells. In addition,
+with molecular chaperones in protein degradation3; for example, the the mechanisms by which various types of misfolded polypeptides
+rapid hydrolysis of certain abnormal proteins in E. colirequires the are recognized remain a mystery that has received only limited study.
+homologues of chaperones Hsp70/40 (ref. 32), whereas the degrada- One important clue is that their degradation in all cells requires mol-
+tion of others requires GroEL/ES chaperonins (also called Hsp60/10) ecular chaperones, which probably function in substrate
+(ref. 38). These large particles create an isolation chamber within recognition3,30,32 but perhaps also in maintaining substrates in a
+which proteins can fold13,14, yet they also seem to facilitate the prote- soluble, easily digestible state31,38.
+olytic digestion of proteins that are hard to degrade38. This lack of mechanistic understanding is surprising and regret-
+How the cell’s two major defence systems, molecular chaperones table, because this process is of fundamental biological importance.
+and proteasomes, function together in the elimination of abnormal The genetic deletion of virtually any subunit of the 26S proteasome in
+proteins is not clear. Prolonged chaperone binding can help in the yeast prevents viability27, and various point mutations leave the cells
+identification of proteins with unfolded domains30,32, but the chaper- viable but very sensitive to conditions that increase the production of
+ones might also function as cofactors in maintaining the substrate in abnormal proteins (such as heat shock)27. When unfolded proteins
+a soluble, unfolded state that facilitates proteolytic attack31,38. An build up and exceed the cell’s degradative capacity (for example, in
+attractive (‘triage’) model is that a failure of the chaperones to per- the presence of proteasome inhibitors), cells activate the heat-shock
+form protein folding or the refolding of damaged proteins leads to the response41,42and induce the synthesis of more proteasomes43. The
+recruitment of proteases or ubiquitylation enzymes to eliminate the continued accumulation of such proteins eventually triggers the acti-
+potentially dangerous polypeptides3,30–32. vation of Jnk kinases and apoptosis3,44. It is now well established that
+damage to cell proteins (just like damage to DNA or chromosomal
+The 26S proteasome organization) can activate the cell-death programme. However, the
+Whereas proteolysis in bacteria and mitochondria involves several ability of unfolded proteins to activate apoptosis has received little
+specialized ATP-hydrolysing proteases, eukaryotic cells in their attention, yet it probably has an important function in diseases where
+cytosol and nucleus contain only one such enzyme of enormous size unfolded proteins accumulate and are associated with neurodegen-
+(namely 50 subunits totalling 2.4 MDa) that degrades various types eration. Importantly, certain cancers, especially multiple myeloma,
+of substrate fed to it by multiple ubiquitin ligases. Understanding of are particularly sensitive to apoptosis induced by proteasome
+the functioning of this proteolytic complex has advanced markedly inhibitors, and one such inhibitor (Velcade) has recently been
+898 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+approved for treatment of myeloma42,45. These cancer cells generate calmodulin damaged by in vitroaging are selectively degraded by 26S proteasomes without
+ubiquitylation. J. Biol. Chem. 275,20295–20301 (2000).
+very large amounts of abnormal immunoglobins and consequently
+20.Prouty, W. F. & Goldberg, A. L. Fate of abnormal proteins in E. coli: accumulation in intracellular
+are probably the cells that are most dependent on proteasome func- granules before catabolism. Nature New Biol. 240,147–150 (1972).
+tion for the continual elimination of abnormal proteins. 21.Glover, J. R. & Lindquist, S. Hsp104, Hsp70, and Hsp40: A novel chaperone system that rescues
+Evolution has provided multiple levels of protection against previously aggregated proteins. Cell94,73–82 (1998).
+22.Johnston, J. A., Ward, C. L. & Kopito, R. R. Aggresomes: a cellular response to misfolded proteins.
+abnormal proteins — from proteasomes and chaperones to induc-
+J.CellBiol.1998. 143,1883–1898.
+tion of the heat-shock genes and apoptosis. To what extent these 23.Yamamoto, A., Lucas, J. J. & Hen, R. Reversal of neuropathology and motor dysfunction in a
+mechanisms protect us against various human diseases is still uncer- conditional model of Huntington’s disease. Cell101,57–66 (2000).
+24.Ciechanover, A., Heller, H., Elias, S., Haas, A. L. & Hershko A. ATP-dependent conjugation of
+tain. It is clear that in many diseases these proteolytic systems fail to
+reticulocyte proteins with the polypeptide required for protein degradation. Proc.NatlAcad.Sci.USA
+prevent the accumulation of the damaging proteins, perhaps because 77,1365–1368 (1980).
+of defects in this degradative machinery. Greater understanding of 25.Hough, R., Pratt, G. & Rechsteiner, M. Purification of two high molecular weight proteases from
+this quality-control process is therefore not only of scientific interest rabbit reticulocyte lysate. J.Biol.Chem. 262,8303–8313 (1987).
+but might lead to new therapies. nn 26.Waxman, L., Fagan, J. M. & Goldberg, A. L. Demonstration of two distinct high molecular weight
+proteases in rabbit reticulocytes, one of which degrades ubiquitin conjugates. J.Biol.Chem.262,
+2451–2457 (1987).
+doi:10.1038/nature02263 27.Voges, D., Zwickl, P., Baumeister, W. The 26S proteasome: a molecular machine designed for
+controlled proteolysis. Annu.Rev.Biochem.68,1015–1068 (2000).
+1. Glickman, M. H. & Ciechanover, A. The ubiquitin–proteasome proteolytic pathway: Destruction for
+28.Ananthan, J., Goldberg, A. L. & Voellmy, R. Abnormal proteins serve as eukaryotic stress signals and
+the sake of construction. Physiol. Rev.82,373–428 (2002).
+trigger the activation of heat-shock genes. Science232,522–524 (1986).
+2. Goldberg, A. L. & Dice, J. F. Intracellular protein degradation in mammalian and bacterial cells. 29.Meacham, G. C., Patterson, C., Zhang, W., Younger, J. M. & Cyr, D. M. The Hsc70 co-chaperone
+Annu. Rev. Biochem. 43,835–869 (1974). CHIP targets immature CFTR for proteasomal degradation. NatureCellBiol. 3,100–105 (2001).
+3. Sherman, M. & Goldberg, A. L. Cellular defenses against unfolded proteins: a cell biologist thinks 30.Murata, S., Minami, Y., Minami, M., Chiba, T. & Tanaka, K. CHIP is a chaperone-dependent E3 ligase
+about neurodegenerative diseases. Neuron29,15–32 (2001). that ubiquitylates unfolded protein. EMBORep.2,1133–1138. (2001).
+4. Goldberg, A. L. Degradation of abnormal proteins in E. coli. Proc. Natl Acad. Sci. USA69,422–426 31.Wickner, S., Maurizi, M. & Gottesman, S. Posttranslational quality control: folding, refolding, and
+(1972). degrading proteins. Science286,1888–1893 (1999).
+5. Zwickl, P., Goldberg, A. L. & Baumeister, W. in Proteasomes: The World of Regulatory Proteolysis(eds 32.Huang, H.C., Sherman, M. Y., Kandror, O. & Goldberg, A. L. The molecular chaperone DnaJ is required
+Wolf, D. H. & Hilt, W.) 8–20 (Landes Bioscience, Georgetown, Texas, 2000). for the degradation of a soluble abnormal protein in E. coli. J.Biol.Chem.276,3920–3928 (2001).
+6. Etlinger, J. & Goldberg, A. L. A soluble, ATP-dependent proteolytic system responsible for the 33.Goldberg, A. L. The mechanisms and functions of ATP-dependent proteases in bacterial and animal
+degradation of abnormal proteins in reticulocytes. Proc. Natl Acad. Sci. USA. 74,54–58 (1977). cells. Eur.J.Biochem.203,9–23 (1992).
+7. Klemes, Y., Etlinger, J. D. & Goldberg, A. L. Properties of proteins degraded rapidly in reticulocytes: 34.Chung, C. H. Proteases in Escherichiacoli. Science262,372–374 (1993).
+intracellular aggregation of the globin molecules prior to hydrolysis. J. Biol. Chem.256,8436–8444 35.Maurizi, M. R. Proteases and protein degradation in Escherichiacoli. Experientia48,178–201 (1992).
+(1981). 36.Langer, T., Kaser, M., Klanner, C., Leonhard, K. AAA proteases of mitochondria: quality control of
+8. Bunn, H. F. et al.Hemoglobin: Molecular, Genetic, and Clinical Aspects(Saunders, Philadelphia, 1986). membrane proteins and regulatory functions during mitochondrial biogenesis. Biochem.Soc.Trans.
+9. Goldberg, A. L. & Goff, S. A. in Maximizing Gene ExpressionCh. 9 (eds Reznikoff, W. & Gold, L.) 29,431–436 (2001).
+287–314 (Butterworths, Stoneham, Massachusetts, 1986). 37.Suzuki, C. K., Rep, M., van Dijl, J. M., Suda, K., Grivell, L. A., Schatz, G. ATP-dependent proteases
+10.Kostova, Z. & Wolf, D. H. For whom the bell tolls: protein quality control of the endoplasmic that also chaperone protein biogenesis. TrendsBiochem.Sci.22,118–123 (1997).
+reticulum and the ubiquitin–proteasome connection. EMBO J.22,2309–2317 (2003). 38.Kandror, O., Sherman, M. Y. & Goldberg, A. L. Rapid degradation of an abnormal protein in E.coli
+11.Goff, S. A., Voellmy, R. & Goldberg, A. L. in UbiquitinCh. 8 (ed. Rechsteiner, M.) 207–238 (Plenum, proceeds through repeated cycles of association with GroEL. J.Biol.Chem.274,37743–37749 (1999).
+New York, 1988). 39.Groll, M. et al. A gated channel into the proteasome core particle. NatureStruct.Biol.7,1062–1067
+12.Roche, E. & Sauer, R. T. SsrA-mediated peptide tagging caused by rare codons and tRNA scarcity. (2000).
+EMBO J.18,4579–4589 (1999). 40.Benaroudj, N., Zwickl, P., Seemüller, E., Baumeister, W. & Goldberg, A. L. ATP hydrolysis by the
+13.Frydman, J. Folding of newly translated proteins in vivo: the role of molecular chaperones. Annu. Rev. proteasome regulatory complex PAN serves multiple functions in protein degradation. Mol.Cell11,
+Biochem. 70,603–647 (2001). 69–78 (2003).
+14.Hartl, F. U. & Mayer-Hartl, M. Molecular chaperones in the cytosol: from nascent chain to folded 41.Lee, D. H. & Goldberg, A. L. Proteasome inhibitors cause rapid induction of heat-shock proteins and
+protein. Science295,1852–1858 (2002). trehalose, which together confer thermotolerance in Saccharomycescerevisiae. Mol.Cell.Biol.18,
+15.Schubert, U. et al.Rapid degradation of a large fraction of newly synthesized proteins by proteasomes. 30–38 (1998).
+Nature 44,770–774 (2000). 42.Kisselev, A. F. & Goldberg, A. L. Proteasome inhibitors: from research tools to drug candidates.
+16.Gronostajski, R., Pardee, A. B. & Goldberg, A. L. The ATP-dependence of the degradation of short- ChemyBiol.8,739–758 (2001).
+and long-lived proteins in growing fibroblasts. J. Biol. Chem.260,3344–3349 (1985). 43.Meiners, S. etal.Inhibition of proteasome activity induces concerted expression of proteasome genes
+17.Berlett, B. S. & Stadtman, E. R. Protein oxidation in aging, disease, and oxidative stress. J. Biol. Chem. and denovoformation of mammalian proteasomes. J.Biol.Chem. 278,21517–21525 (2003).
+272,20313–20316 (1997). 44.Meriin, A. B. etal.Protein-damaging stresses activate c-Jun N-terminal kinase via inhibition of its
+18.Grune, T., Reinheckel, T., Davies, K. J. Degradation of oxidized proteins in mammalian cells. FASEB J. dephosphorylation: a novel pathway controlled by HSP72. Mol. Cell. Biol.19,2547–2555 (1999).
+11,536–534 (1997). 45. Hideshima, T. et al. The proteasome inhibitor pS-341 inhibits growth, induces apoptosis, and
+19.Tarcsa, E., Szymanska, G., Lecker, S., O’Connor, C. M. & Goldberg, A. L. Ca2+-free calmodulin and overcomes drug resistance in human multiple myeloma cells. Cancer Res.61,3071–3076 (2001).
+NATURE|VOL426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 899
+
+---PAGE BREAK---
+

@@ -1,0 +1,462 @@
+Letter
+pubs.acs.org/acsmedchemlett
+Brain Penetrant LRRK2 Inhibitor
+Hwan Geun Choi,
+†,‡,∇
+Jinwei Zhang,
+§,∇
+Xianming Deng,
+†,‡,#,∇
+John M. Hatcher,
+†,‡
+Matthew P. Patricelli,
+∥
+Zheng Zhao,
+⊥
+Dario R. Alessi,
+*,§
+and Nathanael S. Gray
+*,†,‡
+†
+Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, United States
+‡
+Department of Biological Chemistry & Molecular Pharmacology, Harvard Medical School, 250 Longwood Avenue, SGM 628,
+Boston, Massachusetts 02115, United States
+§
+MRC Protein Phosphorylation Unit, College of Life Sciences, University of Dundee, Dow Street, Dundee DD1 5EH, Scotland,
+United Kingdom
+∥
+ActivX Biosciences, 11025 North Torrey Pines Road, La Jolla, California 92037, United States
+⊥
+High Magnetic Field Laboratory, Chinese Academy of Science, P.O. Box 1110, Hefei, Anhui, 230031, People's Republic of China
+*
+S Supporting Information
+ABSTRACT: Activating mutations in leucine-rich repeat kinase 2
+(LRRK2) are present in a subset of Parkinson's disease (PD)
+patients and may represent an attractive therapeutic target. Here,
+we report that a 2-anilino-4-methylamino-5-chloropyrimidine, HG-
+10-102-01 (4), is a potent and selective inhibitor of wild-type
+LRRK2andtheG2019Smutant.Compound4substantiallyinhibits
+Ser910 and Ser935 phosphorylation of both wild-type LRRK2 and
+G2019Smutantataconcentrationof0.1−0.3μMincellsandisthe
+first compound reported to be capable of inhibiting Ser910 and
+Ser935 phosphorylation in mouse brain following intraperitoneal
+delivery of doses as low as 50 mg/kg.
+KEYWORDS: LRRK2, blood−brain barrier, brain penetrant inhibitor, 2,4-diaminopyrimidine
+P
+arkinson's disease (PD) is the second most common activity, which limits their utility in murine PD models and
+neurodegenerative disease in the world. It affects over 1 eventualclinicaldevelopment.15,16Here,wereportthatalower
+million Americans, and more than 60000 patients are newly molecular weight 2,4-diaminopyrimidine, HG-10-102-01 (4),
+diagnosedeachyear.1,2Recentgeneticstudieshaverevealedan
+maintains highly potent andselective inhibitionofLRRK2 and
+underlyinggeneticcauseinatleast10%ofallPDcases,3which is,toourknowledge,thefirstcompoundreportedtobecapable
+provides new opportunities for the discovery of molecularly of inhibiting LRRK2 phosphorylation in mouse brain.
+targeted therapeutics that may ameliorate neurodegeneration. Several 2,4-diaminopyrimidine-based inhibitors of LRRK2
+AmongthegenesassociatedwithPD,leucine-richrepeatkinase have been reported including LRRK2-IN-1 (1),15 CZC-25146
+2(LRRK2)isuniquebecauseamissensemutation,G2019S,is (2),16 and TAE684 (3),17 but none of these compounds are
+frequentlyfoundinbothfamilialandsporadicPDcases.4−9The
+capable of effectively inhibiting phosphorylation of Ser910 and
+G2019Smutationincreaseskinaseactivity,whichmayresultin
+Ser935ofLRRK2inmousebrainatintraperitonealdosesofup
+activationoftheneuronaldeathsignalpathway,suggestingthat
+to 100 mg/kg. Analysis of predicted docked conformations of
+smallmoleculeLRRK2kinaseinhibitorsmaybeabletoserveas
+a new class of therapeutics for the treatment of
+PD.10−13 thesecompoundstohomologymodelsofLRRK2suggeststhat
+the 4-anilino moiety ofeach compound occupies quite distinct
+Transgenic G2019S LRRK2 mice aged to 12−16 months
+regionsoftheadenosinetriphosphate(ATP)-bindingsite.Inan
+display progressive degeneration of the substantia nigra pars
+attempt to lower the molecular weight and remove possible
+compacta (SNpc) dopaminergic neurons and Parkinson's
+disfavorable interactions with the protein, we explored
+phenotypesofmotordysfunction,suggestingthatthismutation
+may be functionally relevant to the disease.14 compounds where the 4-anilino moiety was removed. We
+and others18,19 discovered that simplified structures such as 4
+LRRK2 kinase inhibitors are being actively pursued both as
+“tools” to pharmacologically interrogate normal and patho- maintain the ability to potently inhibit the biochemical activity
+of wild-type and G2019S mutant LRRK2. Compound 4
+logical LRRK2 biology and as experimental therapeutic agents.
+For example, LRRK2-IN-1 (1)15 and CZC-25146 (2)16 have exhibited biochemical IC 50 values of 20.3 and 3.2 nM against
+been reported as the first-generation “tool” inhibitors that
+exhibit excellent potency and selectivity for LRRK2. However, Received: May22, 2012
+none of these compounds are able to efficiently cross the Accepted: June 18, 2012
+mouse blood−brain barrier (BBB) and inhibit LRRK2 kinase Published: June 18, 2012
+©2012AmericanChemicalSociety 658 dx.doi.org/10.1021/ml300123a|ACSMed.Chem.Lett.2012,3,658−662
+
+---PAGE BREAK---
+
+ACS Medicinal Chemistry Letters Letter
+a
+wild-type LRRK2 and LRRK2[G2019S], respectively (Figure Scheme 1
+1). The biochemical potency of 4 for inhibition of wild-type
+aReagentsandconditions:(a)2.0MMeNH inTHF,THF,0°Cto
+2
+rt,6h,85%.(b)Compound9,TFA,2-BuOH,110°C,12h,76%.(c)
+(i) Thionyl chloride, toluene, 120 °C, 2 h; (ii) morpholine, DIEA,
+THF, 0 °C to rt, 1h, 92%. (d) 10%Pd/C, MeOH, rt, 12 h, 98%.
+Trichloropyrimidine 5 was regioselectively aminated with
+methylamine to afford to 2,5-dichloro-N-methylpyrimidin-4-
+amine6.Compound6wasaminatedwithaniline9underacidic
+conditions to furnish the desired compound 4.
+Figure 1. LRRK2 inhibitors. (a) Biochemical inhibition of GST-
+LRRK2 (1326−2527), GST-LRRK2[G2019S] (1326−2527), GST- We next examined the ability of 4 to inhibit LRRK2 in a
+LRRKT[A2016T] (1326−2527), and GST-LRRK2[G2019S + cellularcontextincomparisontoLRRK2-IN-1(1).Asthereare
+A2016T] (1326−2527) was assayed using 20 μM Nictide in the no validated direct phosphorylation substrates of LRRK2, we
+presence of 100 μM ATP. Results are averages of triplicate monitoredphosphorylationofSer910andSer935,tworesidues
+experiments. whose phosphorylation is known to be dependent upon
+LRRK2 kinase activity21 (Figure 3). Compound 4 induced a
+LRRK2 and LRRK2[G2019S] is similar to that observed for
+LRRK2-IN-1 (1); however, 4 maintains inhibition of the
+A2016T mutation, which induces dramatic resistance to
+LRRK2-IN-1 (1) (Figure 1). Although both LRRK2-IN-1 (1)
+and 4 share the aminopyrimidine pharmacophore, a molecular
+modelof4dockedtoahomologymodelofLRRK2builtbased
+on a previously published crystallographic structure of ana-
+plastic lymphoma kinase (ALK)20 suggests that there is less
+possibility for steric hindrance with the A2016T mutation
+(Figure 2a,b).
+Compound 4 was prepared from commercially available
+2,4,5-trichloropyrimidine and 3-methoxy-4-nitrobenzoic acid
+Figure 3. Compound HG-10-102-01 (4) inhibits LRRK2 in cells.
+(Scheme 1). The 3-methoxy-4-nitrobenzoic acid 7 was
+HEK293cellsstablyexpressing(a)wild-typeGFP-LRRK2,(b)GFP-
+subjected to chlorination with thionyl chloride followed by LRRK2[G2019S], (c) GFP-LRRK2[A2016T], and (d) GFP-LRRK2-
+reaction with morpholine to form the corresponding amide 8, [G2019S + A2016T] were treated with DMSO or increasing
+which was reduced by hydrogenation to yield aniline 9. 2,4,5- concentrations of 4 for 90 min (1 μM of LRRK2-IN-1 was used as
+acontrol).Celllysatesweresubjectedtoimmunoblottingfordetection
+ofLRRK2phosphorylatedatSer910andSer935andfortotalLRRK2.
+dose-dependent inhibition of Ser910 and Ser935 phosphor-
+ylation in both wild-type LRRK2 and LRRK2[G2019S] stably
+transfected into HEK293 cells (Figure 3a). Substantial
+dephosphorylation of Ser910 and Ser935 was observed at
+approximately 1 μM concentrations of 4 for wild-type LRRK2
+and at a slightly lower dose of 0.3 μM for LRRK2[G2019S]
+(Figure 3b), which is a similar potency to that observed for
+Figure 2. Molecular model of HG-10-102-01 (4) with LRRK2-
+LRRK2-IN-1 (1). Consistent with the biochemical results, 4
+[T2016]. (a) Two hydrogen bonds are predicted between the hinge
+also induced dephosphorylation of Ser910 and Ser935 at a
+region A1950 and the aminopyrimidine motif of the inhibitor. One
+concentrationof1−3μMinthedrug-resistantLRRK2[A2016T
+hydrogenbondispredictedbetweenthebackboneamidecarbonylof
+S1954 with the amide carbonyl of the inhibitor. (b) Two potential + G2019S] and LRRK2[A2016T] mutants, revealing that the
+interactionsexistbetweenM1947andT2016withthe5-chlorogroup
+A2016Tmutationisnotaneffectivewaytoinduceresistanceto
+on the pyrimidine of the inhibitor. 4.
+659 dx.doi.org/10.1021/ml300123a|ACSMed.Chem.Lett.2012,3,658−662
+
+---PAGE BREAK---
+
+ACS Medicinal Chemistry Letters Letter
+Wenextexaminedtheeffectof4onendogenouslyexpressed asincubationwithmouselivermicrosomesalsorevealedashort
+LRRK2 in human lymphoblastoid cells derived from a control T of 13 min.22 We next investigated the pharmacodynamic
+1/2
+and Parkinson's patient homozygous for the LRRK2[G2019S] properties of 4 by monitoring inhibition of LRRK2 Ser910/
+mutation (Figure 4a). We found that increasing doses of 4 led Ser935 phosphorylation in kidney, spleen, and brain following
+intraperitoneal delivery of 100 mg/kg of 4. We observed near
+complete dephosphorylation of Ser910 and Ser935 of LRRK2
+inalltissuesincludingbrainatthisdose.Wethenrepeatedthe
+study at lower doses of 50, 30, and 10 mg/kg, where we
+observednearcompleteinhibitioninalltissuesat50mg/kgbut
+only partial inhibition in brain at the 30 and 10 mg/kg doses.
+These results indicate that 4 is a promising chemotype for
+achievingdephosphorylationofSer910andSer935inthebrain.
+To further explore the ability of 4 to inhibit LRRK2 in vivo,
+we used a chemical proteomics approach, KiNativ, to monitor
+kinase inhibition in tissues from the inhibitor-treated animals.
+Brainsandspleensfromanimalstreatedwith4at3,10,30,50,
+Figure 4. Compound 4 inhibits endogenously expressed LRRK2. (a)
+Endogenous LRRK2 from EBV immortalized human lymphoblastoid and 100 mg/kg and LRRK2-IN-1 (1) at 100 mg/kg were
+cellsfromacontrolsubject(LRRK2+/+),aPDpatienthomozygousfor evaluated and compared to vehicle-treated animal brains.
+the LRRK2[G2019S] mutation. After treatment of the cells with Briefly, the brains were lysed in a 5× volume of buffer (no
+DMSOortheindicatedconcentrationof4[orLRRK2-IN-1(1)]for detergent) and labeled with an ADP-acylphosphate probe.
+90 min, cell lysates were subjected to immunoblot analysis with the Followingsampleworkupandtrypsindigestion,kinaselabeling
+indicatedantibodyforwesternanalysis.Immunoblotswereperformed by the acylphosphate probe was quantitatively determined by
+in duplicate, and the results were representative of at least two
+mass spectrometry. Data were collected for >150 protein and
+i
+w
+n
+e
+d
+r
+e
+e
+p
+u
+en
+se
+d
+d
+e
+.
+n
+(
+t
+c
+e
+)
+xp
+A
+e
+s
+ri
+i
+m
+n
+e
+a
+n
+,
+t
+e
+s
+x
+.
+c
+(
+e
+b
+p
+)
+t
+A
+m
+s
+o
+i
+u
+n
+se
+a,
+em
+ex
+b
+ce
+ry
+p
+o
+t
+n
+m
+ic
+o
+fi
+u
+b
+se
+ro
+S
+b
+w
+la
+i
+s
+s
+t
+s
+c
+3
+e
+T
+lls
+3
+w
+ce
+e
+l
+r
+l
+e
+s lipidkinases(SupportingInformation).Ofthekinasesprofiled,
+only LRRK2 showed a clear and significant dose-related
+used.
+increase in engagement with 4. LRRK2 inhibition was ∼40%
+at 30 mg/kg and ∼70% at 50 and 100 mg/kg in the brain.
+to similar dephosphorylation of endogenous LRRK2 at Ser910 GreaterLRRK2targetengagementwasobservedinthespleen:
+andSer935,aswasobservedinHEK293cellsstablyexpressing ∼40% at 3 mg/kg, ∼80−90% at 10 mg/kg, and greater than
+wild-type LRRK2 or LRRK2[G2019S] (compare Figure 3a to 90% in the 30−100 mg/kg treated animals. In contrast, no
+Figure 4a). Moreover, endogenous LRRK2 was also more LRRK2 inhibition was observed in brains of mice treated with
+sensitive to 4 than LRRK2-IN-1 (1), which is consistent with 100 mg/kg LRRK2-IN-1 (1), consistent with the inability of
+thetrendthatweobservedinHEK293cells.Wealsofoundthat thecompoundtoinducedephosphosphorylationoftheSer910
+4 induced similar dose-dependent Ser910 and Ser935 and Ser935 sites of LRRK2 in the brain. Considering these
+dephosphorylation of endogenous LRRK2 in mouse Swiss inhibition values correspond to a 5× dilution of material
+3T3 cells and mouse embryonic fibroblast cells (Figure 4b,c). relative to the intact brain, these engagement values correlate
+Themouse pharmacokinetic profileof4demonstrated good very well with the observed inhibition of Ser910 and Ser935
+oralbioavailability(%F=67),ashorthalf-lifeof0.13h,andlow phosphorylation of LRRK2 by 4. No other kinases showed
+plasma exposure [502 h*ng/mL, area under the concen- >50% inhibition at any dose of 4, and only JNK1/2/3 and
+tration−time curve (AUC) ] [complete pharmacokinetics TBK1 showed potential dose-related inhibition (∼35−40% at
+last
+(PK)parametersareintheSupportingInformation].Theshort 50 and 100 mg/kg), suggesting that compound 4 is a highly
+half-lifeislikelytheconsequenceofrapidfirst-passmetabolism selective inhibitor of LRRK2.
+Figure5.PharmacodynamicanalysisforHG-10-102-01(4).PharmacodynamicstudyofHG-10-102-01(4)frombrain,spleen,andkidneyfollowing
+intraperitonealadministrationattheindicateddoses.Tissueswerecollected,andendogenousLRRK2wasresolvedbySDS-PAGEandblottedwitha
+phospho-specificantibodydirectedagainstSer910,Ser935,andtotalLRRK2(thequantitativeanalysisisincludedintheSupportingInformation).
+660 dx.doi.org/10.1021/ml300123a|ACSMed.Chem.Lett.2012,3,658−662
+
+---PAGE BREAK---
+
+ACS Medicinal Chemistry Letters Letter
+The kinase selectivity of 4 was further assessed using Notes
+standardradioactivity-basedenzymaticassaysagainstapanelof The authors declare no competing financial interest.
+138kinases(Dundeeprofiling).23Ataconcentrationof10μM, ■
+compound 4 only inhibited the kinase activities of mixed-
+ACKNOWLEDGMENTS
+lineage kinase 1 (MLK1) and MAP kinase-interacting serine/
+threonine-proteinkinase2(MNK2)togreaterthan80%ofthe We thank the staff at the National Centre for Protein Kinase
+dimethyl sulfoxide (DMSO) control (complete results are Profiling (www.kinase-screen.mrc.ac.uk) for undertaking Dun-
+presented in the Supporting Information). Dose−response deekinasespecificityscreening,SAIAdvantiumforperforming
+analysis revealed inhibition of MLK1 with an IC = 2.1 μM pharmacokinetic studies, Faycal Hentati (Institut National de
+50
+and MNK2 with an IC = 0.6 μM. KinomeScan analysis Neurologie,Tunis,Tunisia)andGlaxoSmithKlinePharmaceut-
+50
+against a near comprehensive panel of 451 kinases at a icals R&D for providing EBV immortalized human lympho-
+concentrationof1μMresultedinnointeractionsdetectedwith blastoid cells, and the antibody purification teams [Division of
+kinasesotherthanLRRK2[G2019S] withtheexceptionofone Signal Transduction Therapy (DSTT), University of Dundee]
+mutant form of c-Kit (L576P) demonstrating the outstanding coordinated by Hilary McLauchlan and James Hastie for
+selectivity of this inhibitor (complete profiling results are generation of antibodies. Microsome stability studies were
+provided in the Supporting Information).24 These results performedbyMichaelCameron(TSRIFlorida),andwethank
+suggest that 4 is a highly selective LRRK2 inhibitor; however, ■ Sara Buhrlage for critical reading of the manuscript.
+further profiling of additional kinases and other ATP-depend-
+ent enzymes is still warranted. ABBREVIATIONS
+In summary, we have discovered that 4 is a potent
+LRRK2, leucine-rich repeat kinase 2; PD, Parkinson's disease;
+biochemical and cellular inhibitor of LRRK2 kinase activity.
+ATP, adenosine triphosphate; ALK, anaplastic lymphoma
+Detailed characterization of 4 using LRRK2-IN-1 as a bench
+mark revealed that 4 significantly inhibited phosphorylation of kinase; THF, tetrahydrofuran; rt, room temperature; TFA,
+trifluoroacetic acid; 2-BuOH, 2-butanol; DIEA, N,N-diisopro-
+wild-type LRRK2 and LRRK2[G2019S] mutant at Ser910 and
+Ser935 at 0.3−1.0 μM in cell culture, which is approximately pylethylamine; PK, pharmacokinetics; F, bioavailability; AUC,
+area under the concentration−time curve; CL, clearance; C ,
+the same potency as LRRK2-IN-1 (1). Compound 4 is last
+last measured concentration; C , maximum concentration
+relatively insensitive to the A2016T mutation, which suggests max
+observed;T ,eliminationhalf-life;Vss,volumeinsteadystate;
+that this mutant will not be useful to validate whether the 1/2
+pharmacological effects of the compound are LRRK2-depend- MLK1,mixed-lineagekinase1;MNK2,MAPkinase-interacting
+serine/threonine-protein kinase 2; DMSO, dimethyl sulfoxide
+ent. Compound 4 exhibits excellent kinase selectivity as ■
+assessed by recombinant kinases (138), KinomeScan (451
+kinases), and KiNativ profiling. Compound 4 can inhibit REFERENCES
+phosphorylation of Ser910 and Ser935 of LRRK2 in brain and (1) Gandhi, P. N.;Chen, S. G.;Wilson-Delfosse, A.L. Leucine-rich
+peripheral tissues following intraperitoneal doses of 50 mg/kg. repeat kinase 2 (LRRK2): A key player in the pathogenesis of
+Furtheroptimizationofthischemotypeespeciallyinregardsto Parkinson's disease. J. Neurosci. Res. 2009, 87,1283−1295.
+i■n vivo half-life will be reported in due course. (2) Dorsey, E. R.; Constantinescu, R.; Thompson, J. P.; Biglan, K.
+M.; Holloway, R. G.; Kieburtz, K.; Marshall, F. J.; Ravina, B. M.;
+ASSOCIATED CONTENT
+Schifitto,G.;Siderowf,A.;Tanner,C.M.Projectednumberofpeople
+with Parkinson disease in the most populous nations, 2005 through
+*
+S Supporting Information 2030. Neurology 2007,68,384−386.
+Experimentalproceduresandcompoundscharacterization.This (3) Daniel̈s, V.; Baekelandt, V.; Taymans, J. M. On the Road to
+material is available free of charge via the Internet at http:// Leucine-RichRepeatKinase2Signalling:EvidencefromCellularand
+p■ubs.acs.org. in vivo Studies. Neurosignals 2011,19,1−15.
+(4)Healy,D.G.;Falchi,M.;O'Sullivan,S.S.;Bonifati,V.;Durr,A.;
+Bressman, S.; Brice, A.; Aasly, J.; Zabetian, C. P.; Goldwurm, S.;
+AUTHOR INFORMATION
+Ferreira, J. J.; Tolosa, E.; Kay, D. M.; Klein, C.; Williams, D. R.;
+Corresponding Author Marras,C.;Lang,A.E.;Wszolek,Z.K.;Berciano,J.;Schapira,A.H.V.;
+*Tel: 44-1382-385602. Fax: 44-1382-223778. E-mail: d.r. Lynch, T.; Bhatia, K. P.; Gasser, T.; Lees, A. J.; Wood, N. W.
+Phenotype, genotype, and worldwide genetic penetrance of LRRK2-
+alessi@dundee.ac.uk (D.R.A.). Tel: 1-617-582-8590. Fax: 1-
+associated Parkinson's disease: A case-control study. Lancet Neurol.
+617-582-8615. E-mail: Nathanael_Gray@dfci.harvard.edu
+2008, 7,583−590.
+(N.S.G.). (5)Dac̈ hsel,J.C.;Farrer,M.J.LRRK2andParkinsonDisease.Arch.
+Present Address Neurol. 2010,67, 542−547.
+# School of Life Sciences, Xiamen University, Fujian 361005, (6) Lee, B. D.; Dawson, V. L.; Dawson, T. M. Leucine-rich repeat
+People's Republic of China. kinase 2 (LRRK2) as a potential therapeutic target in Parkinson's
+disease. Trends Pharmacol. Sci. 2012, 33(7), 365−373.
+Author Contributions
+(7)Liu,Z.;Hamamichi,S.;Lee,B.D.;Yang,D.;Ray,A.;Caldwell,G.
+∇
+These authors contributed equally to this work. A.; Caldwell, K. A.; Dawson, T. M.; Smith, W. W.; Dawson, V. L.
+Funding Inhibitors of LRRK2 kinase attenuate neurodegeneration and
+Parkinson-like phenotypes in Caenorhabditis elegans and Drosophila
+This work was supported by NIH Grant P41 GM079575-03
+Parkinson’s disease models. Hum. Mol.Genet. 2011,20,3933−3942.
+(N.S.G.), the Medical Research Council (D.R.A.), the Michael
+(8)Lee,B.D.;Shin,J.H.;VanKampen,J.;Petrucelli,L.;West,A.B.;
+J. Fox foundation for Parkinson's disease research (N.S.G. and Ko,H.S.;Lee,Y.I.;Maguire-Zeiss,K.A.;Bowers,W.J.;Federoff,H.
+D.R.A.), and the pharmaceutical companies supporting the J.; Dawson, V. L.; Dawson, T. M. Inhibitors of leucine-rich repeat
+DSTT (AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline, kinase-2protectagainstmodelsofParkinson'sdisease.Nat.Med.2010,
+Merck KgaA, and Pfizer) (D.R.A.). 16,998−1000.
+661 dx.doi.org/10.1021/ml300123a|ACSMed.Chem.Lett.2012,3,658−662
+
+---PAGE BREAK---
+
+ACS Medicinal Chemistry Letters Letter
+(9)Smith,W.W.;Pei,Z.;Jiang,H.;Dawson,V.L.;Dawson,T.M.;
+Ross, C. A. Kinase activity of mutant LRRK2 mediates neuronal
+toxicity. Nat.Neurosci. 2006, 9, 1231−1233.
+(10) Greggio, E.; Cookson, M. R. Leucine-rich repeat kinase 2
+mutationsandParkinson’sdisease:threequestions.ASNNeuro2009,
+1(1), e00002.
+(11)Kumar,A.;Cookson,M.R.RoleofLRRK2kinasedysfunction
+inParkinson disease. Expert Rev. Mol.Med. 2011,13,e20.
+(12) Ramonet, D.; Daher, J. P.; Lin, B. M.; Stafa, K.; Kim, J.;
+Banerjee, R.; Westerlund, M.; Pletnikova, O.; Glauser, L.; Yang, L.;
+Liu, Y.; Swing, D. A.; Beal, M. F.; Troncoso, J. C.; McCaffery, J. M.;
+Jenkins, N. A.; Copeland, N. G.; Galter, D.; Thomas, B.; Lee, M.K.;
+Dawson,T.M.;Dawson, V.L.;Moore, D.J. Dopaminergic neuronal
+loss, reduced neurite complexity and autophagic abnormalities in
+transgenicmiceexpressingG2019SmutantLRRK2.PLoSOne2011,6
+(4), No. e18568.
+(13) Dusonchet, J.; Kochubey, O.; Stafa, K.; Young, S. M., Jr.;
+Zufferey,R.;Moore,D.J.;Schneider,B.L.;Aebischer,P.Aratmodel
+of progressive nigral neurodegeneration induced by the Parkinson’s
+disease-associated G2019S mutationin LRRK2. J. Neurosci. 2011,31,
+907−912.
+(14)Chen,C.Y.;Weng,Y.H.;Chien,K.Y.;Lin,K.J.;Yeh,T.H.;
+Cheng, Y. P.; Lu, C. S.; Wang, H. L. (G2019S) LRRK2 activates
+MKK4-JNK pathway and causes degeneration of SN dopaminergic
+neuronsinatransgenicmousemodelofPD.CellDeathDiffer.2012,
+1−11.
+(15) Deng, X.; Dzamko, N.; Prescott, A.; Davies, P.; Liu, Q.; Yang,
+Q.;Lee,J.-D.;Patricelli,M.P.;Nomanbhoy,T.K.;Alessi,D.R.;Gray,
+N.S.CharacterizationofaselectiveinhibitoroftheParkinson'sdisease
+kinase LRRK2. Nat. Chem. Biol.2011,7,203−205.
+(16)Ramsden,N.;Perrin,J.;Ren,Z.;Lee,B.D.;Zinn,N.;Dawson,
+V.L.;Tam,D.;Bova,M.;Lang,M.;Drewes,G.;Bantscheff,M.;Bard,
+F.; Dawson, T. M.; Hopf, C. Chemoproteomics-Based Design of
+PotentLRRK2-SelectiveLeadCompoundsThatAttenuateParkinson
+Disease-RelatedToxicityinHumanNeurons.ACSChem.Biol.2011,6,
+1021−1028.
+(17) Zhang, J.; Deng, X.; Choi, H. G.; Alessi, D. R.; Gray, N. S.
+Characterization of TAE684 as a potent LRRK2 kinase inhibitor.
+Bioorg.Med. Chem. Lett. 2012,22,1864−1869.
+(18) Baker-Glenn, C.; Burdick, D. J.; Chambers, M.; Chan, B. K.;
+Chen,H.;Estrada,A.;Gunzner,J.L.;Shore,D.;Sweeney,Z.K.;Wang,
+S.; Zhao, G. Aminopyrimidine derivatives as LRRK2 modulators and
+their preparation and use for the treatment of Parkinson's disease.
+WO2011151360A1, 2011.
+(19)Chen,H.;Chan,B.K.;Drummond,J.;Estrada,A.A.;Gunzner-
+Toste,J.;Liu,X.;Liu,Y.;Moffat,J.;Shore,D.;Sweeney,Z.K.;Tran,
+T.;Wang,S.;Zhao,G.;Zhu,H.;Burdick,D.J.DiscoveryofSelective
+LRRK2 Inhibitors Guided by Computational Analysis and Molecular
+Modeling. J. Med.Chem. 2012,55,5536−5545.
+(20) Bossi, R. T.; Saccardo, M. B.; Ardini, E.; Menichincheri, M.;
+Rusconi, L.;Magnaghi, P.; Orsini, P.;Avanzi, N.;Borgia, A.L.; Nesi,
+M.; Bandiera, T.; Fogliatto, G.; Bertrand, J. A. Crystal Structures of
+Anaplastic Lymphoma Kinase in Complex with ATP Competitive
+Inhibitors. Biochemistry 2010,49, 6813−6825.
+(21) These images were produced using a free version of Pymol
+software.
+(22) Madoux, F.; Li, X.; Chase, P.; Zastrow, G.; Cameron, M. D.;
+Conkright,J.J.;Griffin,P.R.;Thacher,S.;Hodder,P.Potent,Selective
+and Cell Penetrant Inhibitors of SF-1 by Functional Ultra-High-
+ThroughputScreening. Mol.Pharmacol. 2008,73, 1776−1784.
+(23) Bain, J.; Plater, L.; Elliott, M.; Shpiro, N.; Hastie, C. J.;
+McLauchlan, H.; Klevernic, I.; Arthur, J. S.; Alessi, D. R.; Cohen, P.
+Theselectivityofproteinkinaseinhibitors:Afurtherupdate.Biochem.
+J. 2007,408,297−315.
+(24)Davis,M.I.;Hunt,J.P.;Herrgard,S.;Ciceri,P.;Wodicka,L.M.;
+Pallares, G.; Hocker, M.; Treiber, D. K.; Zarrinkar, P. P.
+Comprehensiveanalysisofkinaseinhibitorselectivity.Nat.Biotechnol.
+2011,29,1046−1051.
+662 dx.doi.org/10.1021/ml300123a|ACSMed.Chem.Lett.2012,3,658−662
+
+---PAGE BREAK---
+

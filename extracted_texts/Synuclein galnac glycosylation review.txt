@@ -1,0 +1,399 @@
+Research
+Enrichment and Site Mapping of O-Linked
+N-Acetylglucosamine by a Combination of
+Chemical/Enzymatic Tagging, Photochemical
+Cleavage, and Electron Transfer Dissociation
+Mass Spectrometry*
+□
+S
+Zihao Wang‡, Namrata D. Udeshi§¶, Meaghan O’Malley‡¶, Jeffrey Shabanowitz§,
+Donald F. Hunt§(cid:1), and Gerald W. Hart‡**
+Numerouscellularprocessesareregulatedbytherevers- cent studies indicate that signaling pathways can be regu-
+ible addition of either phosphate or O-linked (cid:1)-N-acetyl- latedbytheinterplayofthesetwomodificationsatthesame
+glucosamine(O-GlcNAc)tonuclearandcytoplasmicpro- orproximalsitesonnumerousproteinsubstrates(3).
+teins.Althoughsensitivemethodsexistfortheenrichment Current understanding of the functions of O-GlcNAc and
+and identification of protein phosphorylation sites, those
+of the function of O-GlcNAcylation and its relationship to
+for the enrichment of O-GlcNAc-containing peptides are
+phosphorylation is severely hampered by the difficulties in
+lacking.Reportedhereishighlyefficientmethodologyfor
+detecting this labile monosaccharide modification. Prob-
+the enrichment and characterization of O-GlcNAc sites
+from complex samples. In this method, O-GlcNAc-modi- lems associated with the identification of O-GlcNAc sites
+fied peptides are tagged with a novel biotinylation rea- include the following. (a) O-GlcNAc is quickly removed by
+gent,enrichedbyaffinitychromatography,releasedfrom hydrolases during cell lysis. (b) Like phosphorylation, O-
+the solid support by photochemical cleavage, and ana- GlcNAc is usually present in less than stoichiometric
+lyzed by electron transfer dissociation mass spectrome- amountsatgivensitesonproteinsubstrates.(c)O-GlcNAc
+try. Using this strategy, eight O-GlcNAc sites were
+is readily lost as an oxonium ion during conventional pep-
+mappedfromatau-enrichedsamplefromratbrain.Sites
+tide sequence analysis by collision-activated dissociation
+ofGlcNAcylationwerecharacterizedonimportantneuro-
+(CAD) (supplemental Fig. 1). (d) Modified and unmodified
+nal proteins such as tau, synucleins, and methyl CpG-
+forms of the peptide often co-elute during reverse phase
+binding protein 2. Molecular & Cellular Proteomics 9:
+153–160,2010. HPLC(supplementalFig.2a),andthepreferentialionization
+of the unmodified peptide suppresses the signal observed
+for the corresponding O-GlcNAc-modified peptide (supple-
+mental Fig. 2, b and c).
+Numerouscytoplasmicandnuclearproteinsarepost-trans-
+lationally modified with O-linked (cid:1)-N-acetylglucosamine (O- Several attempts have been made to enrich samples for
+GlcNAc).1 GlcNAcylation is involved in almost all aspects of O-GlcNAc-modified proteins and peptides. Immunoaffinity
+purificationofO-GlcNAc-modifiedpeptideswithanantibody
+cellularmetabolism(1)andishighlydependentonthenutrient
+(CTD 110.6) has been largely unsuccessful because of low
+statusofthecell(2).TheO-GlcNAcmodificationrivalsphos-
+phorylation in both abundance and protein distribution. Re- binding avidity (4). Long, wheat germ agglutinin lectin col-
+umns((cid:1)39ft)providesomeenrichmentbutalsobindstrongly
+to complex glycans (5). A mutant galactosyltransferase
+Fromthe‡DepartmentofBiologicalChemistry,TheJohnsHopkins
+(GalT1) has been used to label GlcNAcylated proteins with a
+SchoolofMedicine,Baltimore,Maryland21205andDepartmentsof
+§Chemistry and (cid:1)Pathology, University of Virginia, ketone-containinggalactoseanalog(6).Followingproteolytic
+Charlottesville,Virginia22904 digestion, O-GlcNAc-modified peptides were biotinylated
+Received,June15,2009,andinrevisedform,August18,2009
+with hydrazine chemistry, isolated on a column packed with
+Published, MCP Papers in Press, August 19, 2009, DOI 10.1074/
+avidinbeads,elutedwithfreebiotin,andsequencedbyETD
+mcp.M900268-MCP200
+1The abbreviations used are: O-GlcNAc, O-linked (cid:1)-N-acetylglu- mass spectrometry. Failure to elute peptides with high effi-
+cosamine; ETD, electron transfer dissociation; CAD, collision-acti- ciency from the avidin column and an inability to direct the
+vateddissociation;GalT1,mutantgalactosyltransferase;SCX,strong fragmentationtothepeptidebackbonelimittheusefulnessof
+cation exchange; UDP-GalNAz, UDP-N-azidoacetylgalactosamine;
+this approach. Reported here is an enrichment methodology
+PC, photocleavable; MeCP2, methyl-CpG-binding protein 2; PEG,
+that(a)ishighlyspecificforO-GlcNAc-modifiedpeptides,(b)
+polyethylene glycol; HRP, horseradish peroxidase; LTQ, linear trap
+quadrupole;AGC,automaticgaincontrol. providesforefficientreleaseofthecapturedpeptidesfroman
+©2010byTheAmericanSocietyforBiochemistryandMolecularBiology,Inc. Molecular & Cellular Proteomics 9.1 153
+Thispaperisavailableonlineathttp://www.mcponline.org
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+affinity support, and (c) facilitates complete characterization withHRP-streptavidin(1:20,000dilutioninTBSwith0.1%Tween20;
+ofthereleasedpeptidesbyETDmassspectrometry. Pierce),andvisualizedbychemiluminescence.
+Preparation of Tau-containing Protein Fractions from Rat Brain—
+Ratbrain(3.4g)washomogenizedin12.5mlofice-cold1%perchlo-
+EXPERIMENTALPROCEDURES
+ricacid(Polytronhomogenizer,GlenMills,Clifton,NJ).Theresulting
+ReagentsandChemicalSynthesis—Allchemicalswerepurchased suspension was incubated on ice for 20 min and centrifuged at
+from Sigma-Aldrich unless otherwise noted. PC-PEG-biotin-alkyne 20,000(cid:4)gfor20min.Thesupernatantwaspassedthrougha1-(cid:2)m
+reagent (Fig. 1a, Reagent 1) containing a photocleavable 1,2-(nitro- filter and concentrated with a 10-kDa molecular mass cutoff mem-
+phenyl)ethylmoiety(PC-PEG-biotin;synthesizedaccordingtoOlejnik branewithsimultaneousbufferexchangeto10mMHEPES,pH7.5.
+etal.(9)orobtainedfromAmbergen,Watertown,MA)wasprepared Proteins(1.9mg)werefractionatedonaSuperose12PC3.2/30gel
+by treating the corresponding N-hydroxysuccinimidyl ester with a filtrationcolumn(GEHealthcare)byusingabuffercontaining20mM
+10-fold excess of propargylamine (Sigma) in dry methanol at room HEPES and 50 mM NaCl, pH 7.5. Tau-containing fractions were
+temperaturefor4hinthedark.Thetotalreactionvolumewas20(cid:2)l
+combined. The total protein amount was estimated by UV absorb-
+containing 5 mg of PC-PEG-biotin (6 (cid:2)mol) and 4 (cid:2)l of propar- anceat280nm.Analiquotofthismaterial(about1.3(cid:2)g)wasusedfor
+gylamine(60(cid:2)mol).Product(PC-PEG-biotin-alkyne)waspurifiedby
+O-GlcNAcsitemapping.
+thinlayerchromatography(250-(cid:2)msilicagelplate,Analtech,Newark,
+LC-MSAnalysisofTaggedandEnrichedO-GlcNAc-modifiedPep-
+DE) with methanol/chloroform (1:9, v/v) as the mobile phase. The tides—CADspectrawererecordedonanLTQ-OrbitrapXL(Thermo
+productwaslocatedonthethinlayerplatebybriefexposure((cid:2)1s)to
+Fisher Scientific, Bremen, Germany) interfaced to an Eksigent
+254nmUVlightandextractedbyscrapingthethinlayerzoneintodry nano-LCsystem(Dublin,CA).TheHPLCgradientwas5–40%solvent
+methanol. Silica gel was removed by centrifugation. The identity of B(A(cid:5)0.1%formicacid;B(cid:5)90%acetonitrile,0.1%formicacid)in
+theproductwasconfirmedbymassspectrometry(supplementalFig. 40 min at a flow rate of 300 nl/min. CAD MS/MS spectra were
+4).Theyieldwasgreaterthan98%.Thepurifiedproductwasstored recordedwiththeLTQoperatedinthedata-dependentmodeonthe
+inmethanolat(cid:3)20°Cuntiluse. five most intense ions observed in MS1 scans recorded with the
+EnzymaticandChemicalDerivatizationofO-GlcNAc-modifiedPep- Fourier transform analyzer set at a resolution of 60,000 at m/z 400.
+tides,Enrichment,andPhotochemicalReleaseofTaggedPeptides— Parameters for acquiring MS/MS spectra in the ion trap were as
+Proteins were digested with trypsin (50:1 substrate/enzyme) in 100 follows:activationtime,30ms;activationQ,0.25;dynamicexclusion,
+mM ammonium bicarbonate, pH 8 overnight at 37°C. Trypsin was enabledwitharepeatcountof2;andexclusionduration,60s.For
+removedwitha10-kDamolecularmasscutoffmembrane(Millipore, ETDanalysis,analiquotofsamplereconstitutedin0.1%aceticacid
+Billerica,MA).Solventwasremovedundervacuum,andtheresidue waspressure-loadedontoa360-(cid:2)m-outerdiameter(cid:4)75-(cid:2)m-inner
+wasthenresuspendedin120(cid:2)lof10mMHEPES,pH7.9containing diametermicrocapillaryprecolumnpackedwithC (5–20-(cid:2)mdiam-
+18
+5 mM MnCl 2 , UDP-N-azidoacetylgalactosamine (UDP-GalNAz), and eter, 120 Å) and then washed with 0.1% acetic acid as described
+10unitsofGalT1.Thereactionmixturewasincubatedovernightat previously (7). The precolumn was connected to a 360-(cid:2)m-outer
+4°C,treatedwith10unitscalfintestinephosphatase(NewEngland diameter (cid:4) 50-(cid:2)m-inner diameter microcapillary analytical column
+Biolabs, Ipswich, MA), incubated for an additional 2 h at room packedwithC (5-(cid:2)mdiameter,120Å)andequippedwithaninte-
+18
+temperature, and then passed through a C 18 spin column (Nest gratedelectrosprayemittertip(7).Peptidesweregradient-elutedinto
+Group,Southborough,MA).UDP-GalNAzandderivatizedpeptides the mass spectrometer at a flow rate of 60 nl/min. ETD MS/MS
+were eluted in 0.1% TFA, 1% acetonitrile and 0.1% TFA, 80% spectrawereacquiredusingthefollowingparameters:reactiontime,
+acetonitrile,respectively.Solventwasremovedundervacuum,and 100ms;reagentAGCtarget,4e5ioncounts;fullAGCtarget,2e4ion
+thesamplewasreconstitutedin20(cid:2)lsolutioncontaining0.05(cid:2)mol
+counts; MSn AGC target, 2e4 ion counts; isolation window, 3 m/z;
+of PC-PEG-biotin-alkyne, 10 mM sodium ascorbate, 1 mM tris[(1- repeatcount,2;repeatduration,20s;andexclusionduration,30s.
+benzyl-1H-1,2,3-triazol-4-yl)methyl]amine(in4:1t-butanol:DMSO), Analysis of Mass Spectrometry Data—Peak lists were generated
+and2mMCuSO 4 .Thereactionmixturewasincubatedovernightat from raw data files using Bioworks software (version 3.3.1 sp1).
+room temperature with gentle agitation. To remove excess PC- In-housedevelopedsoftwarewasusedtoremovechargereduction
+PEG-biotin-alkyne, the sample was diluted into strong cation ex- species. The Open Mass Spectrometry Search Algorithm (OMSSA)
+change (SCX) loading buffer (5 mM KH 2 PO 4 , 25% acetonitrile, pH (version 2.1.1) was utilized to search c- and z-type fragment ions
+3.0) and then passed through an SCX spin column (Nest Group). present in ETD MS/MS spectra against all rat and mouse proteins
+The column was washed with several column volumes of loading (mouseandrat,193,424entries)intheNCBInon-redundantdatabase
+buffer,andtheretainedpeptideswereelutedwithhighsaltbuffer(5 (releasedate,November2008).Databasesearcheswereperformed
+mM KH
+2
+PO
+4
+, 400 mM KCl, 25% acetonitrile, pH 3.0). Eluant was withthefollowingfixedparameters:precursormasstoleranceof(cid:6)1.5
+adjusted to pH 7 with ammonium hydroxide and then allowed to Da, product ion mass tolerance of (cid:6)0.35 Da, and three missed
+interact with high capacity avidin beads (Pierce) for 2 h at room cleavages. In addition, searches were performed with the following
+temperature.Avidinbeadswerewashed10timeswithPBSsolution variable modifications: methionine in the oxidized and non-oxidized
+and twice with 20% methanol, water and resuspended in 70% formsandserineandthreonineresidueswithandwithoutthetagged
+methanol, water. The suspension was transferred to a thin walled O-GlcNAc group. All database assignments of O-GlcNAc-modified
+PCRtube,irradiatedwith365nmUVlight(2milliwatts/cm2)(Spec-
+peptideswereconfirmedbymanualinterpretationofthecorrespond-
+trolineENF-240C,Westbury,NY)for25minatadistanceof10cm ingETDMS/MSspectra.
+with rotation, and the supernatant was then dried under vacuum
+andstoredat(cid:3)20°C.Theoverallprocessisalsodemonstratedin
+RESULTSANDDISCUSSION
+Fig.1a.
+Western Blotting with HRP-conjugated Avidin—(cid:3)-Crystallin (In- ApproachforHighlySpecificEnrichmentandSiteMapping
+vitrogen) was subjected to chemoenzymatic tagging as described
+of GlcNAcylation—For this enrichment approach (Fig. 1a),
+above but without SCX and avidin enrichment. The protein was re-
+proteins were first proteolytically digested. Following this,
+solvedbySDS-PAGEandtransferredtoanitrocellulosemembrane.
+Themembranewasblockedwith10%(w/w)bovineserumalbuminin GlcNAcylatedsiteswerelabeledwithanazidosugarusingthe
+Tris-bufferedsaline(50mMTris(cid:2)HCl,150mMNaCl,pH7.4),incubated substrate UDP-GalNAz and the galactosyltransferase GalT1
+154 Molecular & Cellular Proteomics 9.1
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+FIG.1. Enrichment of O-GlcNAc-modified peptides by a combination of enzymatic labeling with UDP-GalNAz and chemical
+derivatizationwiththephotocleavablereagentPC-PEG-biotin-alkyne.a,flowchartshowingtheoverallstrategy.Inset,structureofthe
+photocleavable PC-PEG-biotin-alkyne reagent. CIP, calf intestine phosphatase; PNGase F, peptide:N-Glycosidase F; TBTA, tris[(1-benzyl-
+1H-1,2,3-triazol-4-yl) methyl]amine. b, CAD mass spectrum of a tagged synthetic O-GlcNAc-modified peptide, YSPTgSPSK (gS is O-
+GlcNAcylatedSer),showingsignatureionsatm/z300.2and503.1thatresultfromcleavageatthetwosugarketallinkagesandthatconfirm
+the presence of the tagged O-GlcNAc moiety. c, ETD mass spectrum recorded on [M (cid:7) 3H]3(cid:7) (m/z 457.2) ions from the same peptide,
+YSPTgSPSK. Predicted m/z values for ions of type c(cid:8) and z(cid:8)(cid:2) (monoisotopic and average masses for singly and doubly charged ions,
+respectively)areshownaboveandbelowthepeptidesequence.Observedproductionsareunderlinedandalsolabeledinthespectrum.Ions
+in the precursor isolation window are labeled with a triangle ((cid:1)). Brackets enclose ions that correspond to charge-reduced species and
+fragmentsderivedfromthembylossofsmall,neutralmolecules.Productionsthatresultfromlossofanaminomethyltriazoleradicalarelabeled
+withacircle(E).Mrepresentsthetaggedpeptide.
+(6).BecausetheUDPproductformedinthisreactionpotently bindingofbiotintoavidinisessentiallyirreversible(K (cid:5)1015
+a
+feedback inhibits GalT1, alkaline phosphatase was added to M (cid:3)1).Theelutionefficiencyisalsolowwhenusingmonomeric
+the reaction mixture to rapidly degrade UDP and to ensure avidin. Therefore, harsh conditions are generally used for
+complete derivatization (supplemental Fig. 3). Peptide:N-gly- elution from avidin beads; however, this can easily damage
+cosidaseF,whichremovesN-linkedglycans,wasalsoadded O-GlcNAc. Reduction-cleavable biotin is not suitable for this
+tothereactionmixturetoensurethatN-glycanswithterminal application because the dipolar addition reaction requires
+GlcNAcresidueswerenotlabeledwithGalNAz.ExcessUDP- strongreducingconditions.Acid-cleavablebiotintypicallyre-
+GalNAz was removed using a C spin column. GalNAz quirestreatmentwith95%trifluoroaceticacid,whichwealso
+18
+groups were subsequently biotinylated through a copper- foundwasstrongenoughtopartiallyhydrolyzeO-GlcNAc.
+catalyzed1,3-dipolarcycloadditionreactionofthefreeazide Olejniketal.(9)previouslyreportedaphotocleavablebiotin
+onGalNAztoanalkynecontainingaterminalbiotingroupand reagent. Based on their findings, we synthesized a photo-
+a photocleavable linker (8). After removing excess biotinyla- cleavablebiotin-alkynereagenttotagGlcNAc-modifiedpep-
+tion reagent by SCX, enrichment of the tagged O-GlcNAc- tides(Fig.1a,inset).Thisphotocleavablebiotin-linkedalkyne
+modified peptides was performed by avidin affinity chroma- containsaterminalbiotingroup,whichfacilitatesenrichment
+tography.Amajorissuewithusingavidinchromatographyis of GlcNAc-modified peptides. In addition, after enrichment
+the difficulty in elution of biotin-containing peptides because with avidin chromatography, the tagged GlcNAc-modified
+Molecular & Cellular Proteomics 9.1 155
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+FIG.2.CharacterizationofanO-GlcNAc-modifiedpeptidefrom(cid:2)-crystallin.a,CADmassspectrumshowingsignatureionscharacter-
+isticofthederivatizedO-GlcNAcmoiety.Mrepresentsthetaggedpeptide.b,ETDmassspectrumrecordedon[M(cid:7)4H]4(cid:7)ions(m/z537.10)
+fromthesamepeptide,AIPVgSREEKPSSAPSS.Predictedm/zvaluesforionsoftypec(cid:8)andz(cid:8)(cid:2)
+(monoisotopicmassesandaveragemasses
+forsinglyanddoublychargedions,respectively)areshownaboveandbelowthepeptidesequence.Observedproductionsareunderlinedand
+alsolabeledinthespectrum.Ionsintheprecursorisolationwindowarelabeledwithatriangle((cid:1)).Bracketsencloseionsthatcorrespondto
+charge-reduced species and fragments derived from them by loss of small, neutral molecules. Product ions that result from loss of an
+aminomethyltriazole radical are labeled with a circle (E). c, the tagging approach enables detection of O-GlcNAc-modified proteins by
+avidin-HRP blotting. This figure shows that tagged (cid:3)-crystalline provides a strong signal after blotting with avidin-HRP blotting. Upon UV
+illumination,nosignalisobservedindicatingphotocleavageandlossofthebiotintagfrom(cid:3)-crystallin.
+peptides are efficiently released upon brief exposure to UV DetectingGlcNAcylationin(cid:3)-Crystallin—Totestourenrich-
+light(365nm)(supplementalFig.4),andthereleasedpeptides mentstrategy,weanalyzedamixturecontainingtrypticpep-
+carry a basic aminomethyltriazolyl acetylgalactosamine tides from (cid:3)-crystallin (50 fmol), which has two known O-
+group.ThisoverallapproachisillustratedinFig.1a.Shownin GlcNAc sites, and bovine serum albumin (2.5 pmol). GlcNAc
+Fig. 1b is a CAD MS/MS spectrum recorded on [M (cid:7) 3H]3(cid:7) peptides were tagged with GalNAz followed by photocleav-
+ions (m/z 457) corresponding to the tagged, GlcNAcylated able biotin, enriched, subsequently released from an avidin
+tryptic peptide having the sequence YSPTgSPSK (gS is O- resin, and analyzed by CAD using an LTQ-Orbitrap mass
+GlcNAcylated Ser). Note that the dominant fragmentation spectrometer and by ETD using an LTQ XL mass spectrom-
+pathwayoccursattheglycosidiclinkagetoproduceoxonium eter.ShowninFig.2aistheCADspectrumrecordedon[M(cid:7)
+ions at m/z 300.1 and 503.2. These signature ions are diag- 3H]3(cid:7) ions at m/z 715 from the tagged carboxyl-terminal
+nosticfortaggedGlcNAcresiduesandcanbeusedtodetect tryptic peptide (AIPVgSREEKPSSAPSS) of (cid:3)-crystallin. Note
+GlcNAcylatedpeptidesincomplexmixtures.Fig.1cdisplays thatthesignalslabeledasPeak1andPeak2correspondto
+theETDMS/MSspectrumrecordedonthesame[M(cid:7)3H]3(cid:7) the diagnostic oxonium ions, which are discussed above.
+ions. Because the tag added to the O-GlcNAc residue con- Shown in Fig. 2b is the ETD MS/MS spectrum recorded on
+tainsabasicgroup,allGlcNAcylatedtrypticpeptidesshould [M (cid:7) 4H]4(cid:7) ions for the same peptide. Predicted fragment
+exist in charge state of 3(cid:7) or higher and thus fragment well ionsoftypecandzareshownaboveandbelowtheinsetin
+along the peptide backbone under ETD conditions ref. (10). Fig. 2b. Those ions that were observed are underlined. Note
+Cleavageattheglycosidiclinkagewasnotobserved. thatthemassdifferencebetweenbothc andc andz and
+5 4 12
+156 Molecular & Cellular Proteomics 9.1
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+TABLEI
+O-GlcNAcsitesidentifiedusingETDmassspectrometry
+O-GlcNAcsitesareboldwithalowercasegprecedingtheresidue.M(ox),oxidizedmethionine.
+Protein GInumber Peptidesequence O-GlcNAcsite(s) Novel?
+Tau 517394 331VVgSGDTSPR339 Ser711 Yes
+(cid:3)-Synuclein 149037058 61EQVTNVGGAVVgTGVTAVAQK80 Thr72 Yes
+(cid:4)-Synuclein 122066261 59TKEQANAVgSEAVVSSVNTVATK80 Ser67 Yes
+(cid:1)-Synucleina 77404215 24QGVgTEAAEK32 Thr27 Yes
+HostcellfactorC1 213385315 1147IgTVAPGALER1156 Thr1148 Yes
+Methyl-CpG-bindingprotein2 149029883 434VAAAAgTTTTTTTTTVAEK455 Thr443 Yes
+434gTQPM(ox)VAAAAg(TT)TTTTTTTVAEK455 Thr334,Thr443(orThr444) Yes
+430EPAKgTQPM(ox)VAAAAg(TT)TTTTTTTVAEK455 Thr334,Thr443(orThr444) Yes
+Spectrin(cid:1)2 149044856 2310HDTSASTQSTPASgSR2324 Ser2323 No4
+aThesamepeptideisalsoin(cid:4)-synuclein.
+z is 589 Da rather than the 87 Da expected for an unmod- Fromthesametau-containingproteinfractions,O-GlcNAc
+11
+ifiedSerresidue.WeconcludedthatthefirstSerinthepep- sites on (cid:3)-, (cid:1)-, and (cid:4)-synucleins (Table I) were also charac-
+tidecarriesthetaggedO-GlcNAcmoiety.TaggedEEKPAVg- terized.(cid:3)-,(cid:1)-,and(cid:4)-synucleinsarethreesmallproteinsthat
+TAAPK (gT is O-GlcNAcylated Thr) from the (cid:1)-chain of are expressed primarily in neural tissues (15). Aggregated
+(cid:3)-crystallin was also detected (data not shown). Unmodified (cid:3)-synucleinisacomponentoffilamentousinclusionsassoci-
+BSApeptideswerenotdetectedintheanalysisindicatingthat ated with neurodegenerative conditions, such as Alzheimer
+the enrichment proceeded with high selectivity. The level of andParkinsondiseases(16).Herewereportthat(cid:3)-synuclein
+O-GlcNAc on (cid:3)-crystallin is (cid:1)10% (11). Knowing this, we is O-GlcNAc-modified on Thr72, a residue located within a
+estimated that recovery of the two O-GlcNAc-modified pep- 35-aminoacidstretchthatformstheprotease-resistantcore
+tidesfrom(cid:3)-crystallinwasover90%. of (cid:3)-synuclein fibrils (15). This region is prone to self-aggre-
+Next,weaskedwhetherthistaggingstrategycouldbeused gationandisabletoseedtheformationofamyloidfibrils(17).
+to detect O-GlcNAc at the intact protein level without using It seems likely that GlcNAcylation on this peptide could pre-
+mass spectrometry. As shown in Fig. 2c, tagged (cid:3)-crystallin ventfibrilformation.Interestingly,Shimuraetal.(18)reported
+wasreadilydetectablebyavidin-HRPblotting.Incontrast,the thattheE3ubiquitinproteinligaseparkinbindsandubiquiti-
+signal disappeared when the tagged protein was illuminated nates glycosylated (cid:3)-synuclein but not the non-glycosylated
+byUVlightbeforethesamplewasresolvedbySDS-PAGE.We form in human brain, although the identity and site of the
+concludedthattaggedproteinsandproteinsboundnonspecifi- glycosylationwereunknownatthattime.
+callytotheavidinbeadscanbereadilydistinguishedbyblotting Two O-GlcNAc sites were also identified on methyl-CpG-
+samplesbeforeandafterthephotochemicalcleavage. bindingprotein2(MeCP2).Onesitewasunambiguouslyiden-
+Detecting and Site Mapping GlcNAcylation in Complex Bi- tifiedatThr434(Fig.3b),whereasthesecondsitewaslocalized
+ological Sample—The described protocol was used to ana- to either Thr443 or Thr444. This protein is also of interest
+lyze tau-containing protein fractions obtained from rat brain. because it binds to methylated DNA and mediates tran-
+Thesefractionswereisolatedbyacombinationofperchloric scriptional repression through interactions with a histone
+acid extraction and gel filtration chromatography. Eight O- deacetylase and corepressor SIN3A (19). Mutations in
+GlcNAcsitesonsevendifferentproteinswereidentified(Table MeCP2 cause Rett syndrome, a developmental disorder
+IandsupplementalFig.5).ShowninFig.3aistheETDmass characterizedbymentalretardation,motordysfunction,and
+spectrumrecordedon[M(cid:7)3H]3(cid:7)ionsfromresidues709to autistic behavior (20). Brain-specific phosphorylation of
+717 of the tau microtubule-associated protein. Note that the Ser421 in MeCP2 by a Ca2(cid:7)/calmodulin-dependent kinase
+massdifferencebetweenbothc andc andz andz is589 II-dependentmechanismisthoughttoregulateaprogramof
+3 2 7 6
+Da rather than the 87 Da expected for an unmodified Ser gene expression that mediates nervous system maturation
+residue.WeconcludedthatThr711(morecommonlyknownas (21). Whether or not GlcNAcylation on the nearby residues
+Thr400 according to the most common splice variant) in the (Thr434 and either Thr442 or Thr443) alters this process will
+carboxyl-terminal region of tau is O-GlcNAc-modified. This require further investigation.
+samesitecanalsobephosphorylatedbyglycogensynthase Insummary,wedescribehereanefficientenrichmentpro-
+kinase-3(cid:1)(12). These data support our hypothesis that one tocol that is highly specific for O-GlcNAc-modified proteins
+function of O-GlcNAc on tau is to prevent hyperphosphoryl- and peptides and that facilitates site mapping of O-GlcNAc-
+ation in normal brain (13, 14). Because we observed limited modifiedaminoacidsatthelowfemtomolelevelbyETDmass
+digestion of tau with trypsin, we anticipate that additional spectrometry. The procedure uses a novel photocleavable
+O-GlcNAcsiteswillbedetectedwhenmultipleproteasesare biotin tag that allows for efficient release of the enriched
+usedtoextendthesequencecoverage. O-GlcNAc-modified peptides from the solid affinity support.
+Molecular & Cellular Proteomics 9.1 157
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+FIG.3. Enriched and tagged O-GlcNAc-modified peptides from tau-containing protein fractions isolated from rat brain. a, ETD
+MS/MS spectrum recorded on [M (cid:7) 3H]3(cid:7) ions (m/z 474.2) for the derivatized peptide VVgSDTSPR from the tau protein. b, ETD MS/MS
+spectrumrecordedon[M(cid:7)3H]3(cid:7)ions(m/z748.1)forthederivatizedpeptideVAAAAgTTTTTTTTTVAEKfromMeCP2.Spectraarelabeledas
+describedinFigs.1cand2b.
+158 Molecular & Cellular Proteomics 9.1
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+Inaddition,thephotocleavagereactionleavesabasicamino- 2. Kreppel,L.K.,andHart,G.W.(1999)Regulationofacytosolicandnuclear
+O-GlcNAc transferase. Role of the tetratricopeptide repeats. J. Biol.
+methyltriazoletagatthesiteoftheO-GlcNAcmodification.As
+Chem.274,32015–32022
+aresult,allmodified,trypticpeptidesexistinachargestateof
+3. Wang,Z.,Gucek,M.,andHart,G.W.(2008)CrosstalkbetweenGlcNAcy-
+3(cid:7) or higher and thus fragment efficiently along the peptide lation and phosphorylation: site-specific phosphorylation dynamics in
+backbonewhensubjectedtoETD.Forsite-specificO-GlcNAc responsetogloballyelevatedO-GlcNAc.Proc.Natl.Acad.Sci.U.S.A.
+105,13793–13798
+quantification,aheavyisotope-labeledphotocleavablebiotin
+4. Wang,Z.,andHart,G.W.(2008)GlycomicapproachestostudyGlcNAcy-
+alkyneiscurrentlybeingsynthesized. lation:proteinidentification,site-mapping,andsite-specificO-GlcNAc
+Because the enrichment procedure is highly specific, the quantitation.Clin.Proteomics4,5–13
+5. Vosseller,K.,Trinidad,J.C.,Chalkley,R.J.,Specht,C.G.,Thalhammer,A.,
+flow-throughfromtheavidinchromatographycanbefurther
+Lynn, A. J., Snedecor, J. O., Guan, S., Medzihradszky, K. F., Maltby,
+enriched for phosphopeptides or for peptides with other D.A.,Schoepfer,R.,andBurlingame,A.L.(2006)O-LinkedN-acetylglu-
+post-translational modifications. Note that in this case the cosamineproteomicsofpostsynapticdensitypreparationsusinglectin
+use of a phosphatase during the labeling process must be weakaffinitychromatographyandmassspectrometry.Mol.Cell.Pro-
+teomics5,923–934
+omitted. A flow chart diagramming the sequential enrich-
+6. Khidekel, N., Ficarro, S. B., Clark, P. M., Bryan, M. C., Swaney, D. L.,
+ment of GlcNAcylated peptides and phosphorylated pep- Rexach,J.E.,Sun,Y.E.,Coon,J.J.,Peters,E.C.,andHsieh-Wilson,
+tidesisshowninsupplementalFig.6.Inarecentlargescale L.C.(2007)ProbingthedynamicsofO-GlcNAcglycosylationinthebrain
+usingquantitativeproteomics.Nat.Chem.Biol.3,339–348
+study, we applied this serial enrichment protocol (leaving
+7. Udeshi,N.D.,Compton,P.D.,Shabanowitz,J.,Hunt,D.F.,andRose,K.L.
+outthealkalinephosphatase)toinvestigatetheinterplayof (2008) Methods for analyzing peptides and proteins on a chromato-
+phosphorylation and GlcNAcylation in the regulation of cy- graphictimescalebyelectron-transferdissociationmassspectrometry.
+Nat.Protoc.3,1709–1717
+tokinesis.Bycombiningtheaboveserialenrichmentproto-
+8. Rostovtsev,V.V.,Green,L.G.,Fokin,V.V.,andSharpless,K.B.(2002)A
+col with stable isotope labeling by amino acids in cell cul- stepwisehuisgencycloadditionprocess:copper(I)-catalyzedregioselec-
+ture, we mapped, quantified, and compared relative site tive “ligation” of azides and terminal alkynes. Angew. Chem. Int. Ed.
+occupancy for over 120 specific O-GlcNAc-modified resi- Engl.41,2596–2599
+9. Olejnik,J.,Sonar,S.,Krzyman˜ska-Olejnik,E.,andRothschild,K.J.(1995)
+dues and over 350 phosphorylated residues by tandem
+Photocleavablebiotinderivatives:aversatileapproachfortheisolationof
+mass spectrometry using only 15 (cid:2)g of sample from a biomolecules.Proc.Natl.Acad.Sci.U.S.A.92,7590–7594
+spindle/midbodypreparation.Thisconfirmstherobustness 10. Syka,J.E.,Coon,J.J.,Schroeder,M.J.,Shabanowitz,J.,andHunt,D.F.
+(2004)Peptideandproteinsequenceanalysisbyelectrontransferdis-
+of our protocol for analysis of complex mixtures.2 Because
+sociation mass spectrometry. Proc. Natl. Acad. Sci. U.S.A. 101,
+thesensitivityoftheaboveapproachisalreadyonparwith 9528–9533
+that used to study protein phosphorylation, we expect that 11. Roquemore,E.P.,Dell,A.,Morris,H.R.,Panico,M.,Reason,A.J.,Savoy,
+L.A.,Wistow,G.J.,Zigler,J.S.,Jr.,Earles,B.J.,andHart,G.W.(1992)
+the method will be a valuable tool for deciphering the “O-
+Vertebratelens(cid:3)-crystallinsaremodifiedbyO-linkedN-acetylglucosa-
+GlcNAcome.” Together with other methods (6, 22), we ex- mine.J.Biol.Chem.267,555–563
+pect a significant increase of known O-GlcNAc sites in the 12. Watanabe, A., Hasegawa, M., Suzuki, M., Takio, K., Morishima-Ka-
+very near future, which will highly facilitate investigation of washima,M.,Titani,K.,Arai,T.,Kosik,K.S.,andIhara,Y.(1993)Invivo
+phosphorylation sites in fetal and adult rat tau. J. Biol. Chem. 268,
+the function of GlcNAcylation.
+25712–25717
+13. Arnold,C.S.,Johnson,G.V.,Cole,R.N.,Dong,D.L.,Lee,M.,andHart,
+Acknowledgments—We thank Kyoungsook Park and Shino Shi-
+G.W.(1996)Themicrotubule-associatedproteintauisextensivelymod-
+mojiforprovidingsyntheticO-GlcNAcpeptides.WethankDr.Robert ified with O-linked N-acetylglucosamine. J. Biol. Chem. 271,
+J. Cotter for providing access to the Orbitrap mass spectrometer 28741–28744
+(supported in part by National Institutes of Health Grant 14. Liu,F.,Iqbal,K.,Grundke-Iqbal,I.,Hart,G.W.,andGong,C.X.(2004)
+S10RR023025-01 from the High End Instrumentation Program (to O-GlcNAcylation regulates phosphorylation of tau: a mechanism in-
+R.J.C.)). volved in Alzheimer’s disease. Proc. Natl. Acad. Sci. U.S.A. 101,
+10804–10809
+*This work was supported, in whole or in part, by National Insti- 15. Lavedan,C.(1998)Thesynucleinfamily.GenomeRes.8,871–880
+tutes of Health Grants DK61671 and CA42486 from the USPHS, 16. Ue´da, K., Fukushima, H., Masliah, E., Xia, Y., Iwai, A., Yoshimoto, M.,
+Otero,D.A.,Kondo,J.,Ihara,Y.,andSaitoh,T.(1993)Molecularcloning
+Contract N01-HV-28180 from the NHLBI (to G.W.H.), and Grant
+ofcDNAencodinganunrecognizedcomponentofamyloidinAlzheimer
+GM37537(toD.F.H.).
+□ S The on-line version of this article (available at http://www. disease.Proc.Natl.Acad.Sci.U.S.A.90,11282–11286
+17. Murray, I. V., Giasson, B. I., Quinn, S. M., Koppaka, V., Axelsen, P. H.,
+mcponline.org)containssupplementalFigs.1–6.
+Ischiropoulos, H., Trojanowski, J. Q., and Lee, V. M. (2003) Role of
+¶Bothauthorscontributedequallytothiswork. (cid:3)-synuclein carboxy-terminus on fibril formation in vitro. Biochemistry
+**To whom correspondence should be addressed. E-mail: 42,8530–8540
+gwhart@jhmi.edu. 18. Shimura,H.,Schlossmacher,M.G.,Hattori,N.,Frosch,M.P.,Trocken-
+bacher,A.,Schneider,R.,Mizuno,Y.,Kosik,K.S.,andSelkoe,D.J.
+REFERENCES (2001)Ubiquitinationofanewformofalpha-synucleinbyparkinfrom
+human brain: implications for Parkinson’s disease. Science 293,
+1. Hart,G.W.,Housley,M.P.,andSlawson,C.(2007)CyclingofO-linked
+beta-N-acetylglucosamineonnucleocytoplasmicproteins.Nature446, 263–269
+1017–1022 19. Jones, P. L., Veenstra, G. J., Wade, P. A., Vermaak, D., Kass, S. U.,
+Landsberger, N., Strouboulis, J., and Wolffe, A. P. (1998) Methylated
+DNA and MeCp2 recruit histone deacetylase to repress transcription.
+2Z.Wang,C.Slawson,N.D.Udeshi,M.O’Malley,J.Shabanowitz, Nat.Genet.19,187–191
+D.F.Hunt,andG.W.Hart,submittedmanuscript. 20. Amir,R.E.,VandenVeyver,I.B.,Wan,M.,Tran,C.Q.,Francke,U.,and
+Molecular & Cellular Proteomics 9.1 159
+
+---PAGE BREAK---
+
+Novel Approach for O-GlcNAc Enrichment and Site Mapping
+Zoghbi,H.Y.(1999)RettsyndromeiscausedbymutationsinX-linked regulates activity-dependent Bdnf transcription, dendritic growth, and
+MECP2, encoding methyl-CpG-binding protein 2. Nat. Genet. 23, spinematuration.Neuron52,255–269
+185–188 22. Chalkley,R.J.,Thalhammer,A.,Schoepfer,R.,andBurlingame,A.L.(2009)
+21. Zhou,Z.,Hong,E.J.,Cohen,S.,Zhao,W.N.,Ho,H.Y.,Schmidt,L.,Chen, Identification of protein O-GlcNAcylation sites using electron transfer
+W.G.,Lin,Y.,Savner,E.,Griffith,E.C.,Hu,L.,Steen,J.A.,Weitz,C.J., dissociation mass spectrometry on native peptides. Proc. Natl. Acad.
+andGreenberg,M.E.(2006)Brain-specificphosphorylationofMeCP2 Sci.U.S.A.106,8894–8899
+160 Molecular & Cellular Proteomics 9.1
+
+---PAGE BREAK---
+

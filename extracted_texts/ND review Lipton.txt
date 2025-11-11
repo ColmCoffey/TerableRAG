@@ -1,0 +1,587 @@
+R E V I E W
+Molecular pathways to neurodegeneration
+Ella Bossy-Wetzel1,Robert Schwarzenbacher2& Stuart A Lipton1
+The molecular bases underlying the pathogenesis of neurodegenerative diseases are gradually being disclosed. One problem that
+investigators face is distinguishing primary from secondary events. Rare, inherited mutations causing familial forms of these
+disorders have provided important insights into the molecular networks implicated in disease pathogenesis. Increasing evidence
+indicates that accumulation of aberrant or misfolded proteins, protofibril formation, ubiquitin-proteasome system dysfunction,
+excitotoxic insult, oxidative and nitrosative stress, mitochondrial injury, synaptic failure, altered metal homeostasis and failure of
+axonal and dendritic transport represent unifying events in many slowly progressive neurodegenerative disorders.
+Evidence is accumulating to suggest that such chronic neurodegenerative Do plaques and tangles cause AD,or are they simply the telltale
+disorders as Alzheimer’s disease (AD), Parkinson’s disease (PD), remains ofearlier,pivotal events that led to the disease? One problem
+Huntington’s disease (HD) and amyotrophic lateral sclerosis (ALS) are has been that in people with AD the density ofamyloid plaques cor-
+caused by a combination ofevents that impair normal neuronal func- relates poorly with the severity ofdementia3.Furthermore,although
+tion.Clinical signs are evident before frank neuronal loss.Therefore,new neurofibrillary tangles correlate well with decline in cognitive skills,
+efforts have focused on identifying crucial changes,ofgenetic,epigenetic, they seem to be a late event and in some cases possibly downstream
+or environmental origin,that hamper normal neuronal function. of Aβ accumulation5.Recent findings,however,indicate that den-
+In this review, we summarize the current understanding of dritic and synaptic injury occur early and that protofibrils and
+molecular pathways implicated in common neurodegenerative dis- oligomers ofAβ40 and Αβ42,rather than large plaques,cause neu-
+orders,trying to clarify similarities that might provide a foundation ronal dysfunction.
+for their treatment. APP is a type I membrane protein and contains a large extracellular
+region,a transmembrane helix and a short cytoplasmic tail (Fig.1b).
+Molecular pathways to AD The N-terminal half of APP contains a heparin-binding domain
+AD is the most common neurodegenerative disorder worldwide. (N-APP), a copper-binding domain (CuBD) and an APP protease
+Approximately 4.5 million people suffer from this devastating condi- inhibitor domain (APPI) (Fig.1b).The N-APP structure reveals that
+tion in the United States alone.In AD,neurons ofthe hippocampus APP may belong to a superfamily ofcysteine-rich growth factors with
+and cerebral cortex are selectively lost.Brains ofindividuals with AD a putative heparin-binding site6.The CuBD structure is homologous
+manifest two characteristic lesions:extracellular amyloid (or senile) to copper chaperones.This domain may regulate dimerization or pro-
+plaques and intracellular neurofibrillary tangles ofhyperphosphory- teolytic processing,or it may act as a metallotransporter7.There is also
+lated tau protein (Fig.1a)1.Amyloid plaques contain small,toxic cleav- structural information on the Aβ peptides that originate by proteolytic
+age products (denoted as Aβ40 andΑβ42) ofthe amyloid precursor processing ofAPP8,9.Both Aβ40 and Aβ42 adopt variable and partly
+protein (APP).The apoE4 (apolipoprotein E4) genotype is a powerful helical structures dependent on membrane binding,metal chelation
+risk factor for developing AD,and it may possibly affect Aβdeposition and interaction with other peptides.Aβ binds Cu2+,Fe2+ and Zn2+
+and neurofibrillary tangle formation2. coordinated by three histidines (His677,His684,His685) and a tyro-
+Mutations in three genes that are inherited in an autosomal domi- sine (Tyr681).Metal binding induces a β-sheet-like conformational
+nant fashion have been linked to rare familial,early-onset forms of change in Aβ,resulting in enhanced aggregation.
+AD.These genes include those encoding APP,presenilin 1 (PS1) and Toxic Aβ originates from regulated intramembrane proteolysis of
+presenilin 2 (PS2).Although these familiar forms account for only a APP by a complex ofsecretases (Fig.1c).The first cleavage ofAPP is
+few cases of AD, one common event in both familial and sporadic mediated by β- or α-secretase,releasing most ofthe extracellular por-
+types ofAD is the increased production and accumulation ofthe toxic tion ofAPP as two fragments,APPs-αand APPs-β,leaving behind the
+Aβ. This observation led to the ‘amyloid cascade hypothesis’ that C-terminal membrane bound fragment (Fig.1c).This portion ofAPP
+excessive Aβproduction is the primary cause ofthe disease3,4. is then cleaved by a large protein complex,γ-secretase,at several sites
+including amino acid (aa) 711 (Aβ40) and at least three additional
+subsites at aa713 (Aβ42),aa714 (Aβ43) and aa720 (Aβ49) (Fig.1b).
+Several mutations in APP,such as the Swedish mutation,cluster at the
+1Center for Neuroscience & Aging and 2Program in Bioinformatics & Systems
+β-secretase cleavage sites;these mutations result in increased amounts
+Biology, The Burnham Institute, 10901 North Torrey Pines Road, La Jolla,
+California 92037. Correspondence should be addressed to E.B-W. (ebossy- ofAβpeptide and protofibril formation10.
+wetzel@burnham.org) or S.A.L. (slipton@burnham.org). The precise composition of the γ-secretase complex is still under
+Published online 1 July 2004; doi:10.1038/nm1067 debate,but PS1,nicastrin,Aph-1 and Pen-2 seem to be required11–13.
+S2 JULY 2004 NEURODEGENERATION
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+a Plaques Tangles Phospho-Tau Figure 1 Histology and structures related to AD.
+(a)Silver-stainedamyloid plaques, neurofibrillary
+tangles and immunocytochemistry of
+phosphorylated tau in brain sections from AD
+patients. (b) Structures and domain model of
+amyloid βA4 precursor protein (APP, PDB entry
+P05067; N-terminal growth factor domain (N-
+APP), aa 28–123, PDB entry 1MWP; APP copper-
+binding domain (CuBD), aa 124–188, PDB entry
+1OWT; APP protease inhibitor domain (APPI),
+aa 287–344, PDB entry 1AAP; amyloid βpeptide
+b (Aβ42), PDB entry 1IYT; (Aβ40), PDB entry
+1BA6; transmembrane domain (TM). Structural
+models are shown in ribbon representation, color-
+coded from N terminus (blue) to C terminus (red).
+Side chains of relevant residues are shown as
+ball-and-stick figures. (c) APP residues 665–730;
+the TM domain (residues 700–723) is
+highlighted in light blue; cleavage sites of
+secretases α, βand γare indicated, along with
+metal-coordinating residues (His677, Tyr681,
+His684, His685) and mutations associated with
+AD (http://molgen-www.uia.ac.be/ADMutations/).
+Proteolytic processing and resulting fragments of
+APP: APPsαaa 1–686; APPsβ, aa 1–670;
+p3 peptides, aa 687–711 or 713; Aβ40,
+1 200 400 600 770 aa 671–711; Aβ42, aa 671–713. APP
+APP N-APP CuBD APPI Aβ AICD intracellular domain (AICD), aa 711 or 713–770.
+TM
+c
+β α γ (NMDA) subtype results in increased intra-
+cellular Ca2+,which activates neuronal nitric
+CU+2, Fe+2, Zn+2
+670 700 730 oxide synthase and consequently generates
+nitric oxide (NO).When generated in excess,
+EISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTS
+NO combines with superoxide anion (O –),
+2
+NL R GQN TIMVI P forming the highly reactive and neurotoxic
+(Swedish) K VAATL (Australian) product peroxynitrite (ONOO–),which leads
+G(Arctic) F
+to further oxidative and nitrosative stress in
+APPs α p3 AICD part via mitochondrial injury.In fact,positive
+APPs β Aβ 40 AICD phase III human trials of the uncompetitive
+NMDA receptor channel blocker,memantine,
+APPs β Aβ 42 AICD57 led to its recent approval for the treatment of
+AD22.A third view suggests that protofibrils
+TM
+and aggregates convey harmful effects to neu-
+rons by paralyzing axonal and dendritic
+PS1 is a transmembrane domain aspartyl protease that cleaves its sub- transport.Both APP and PS may bind kinesin I and regulate vesicular
+strates in the membrane-spanning region.PS1 is probably responsible traffic23–25.PS mutants increase glycogen synthase kinase-3βactivity,
+for the generation ofAβfragments. which hampers kinesin-mediated, anterograde axonal transport25.
+More than 100 missense mutations in PS1 and PS2 have been identi- Also,Aβdeposits may act as nonspecific ‘roadblocks’,representing a
+fied in rare familial, early-onset AD14. Experiments in culture and physical transport barrier.
+transgenic mice reveal that these mutations result in increased Aβpro- An additional mechanism ofAβinjury is synaptic dysfunction and
+duction15,16.Conversely,mice lacking PS1 have decreased Aβ40 and loss,which are early events in AD and occur before amyloid plaque
+Aβ42 production17,18,suggesting that PS1 has a pivotal role in γ-secre- formation26.Cholinergic transmission and synaptic density are con-
+tase activity.C-terminal cleavage ofAPP by caspase enzymes may also siderably decreased in AD patients.The mechanism for synaptic dam-
+be required for toxicity19. age is unknown, but diffusible oligomeric forms of Aβ may be
+It is still unclear how Aβ does its damage,but several mechanisms important.Synaptic dysfunction probably contributes to memory loss
+have been proposed.One view suggests that Aβprotofibrils activate and cognitive deficits in AD.In fact,APP transgenic mice manifest cel-
+microglia,inciting an inflammatory response and release of neuro- lular, biochemical and electrophysiological evidence of synaptic
+toxic cytokines. Nonsteroidal anti-inflammatory drugs (NSAIDs) deficits before Aβdeposition,including reduced excitatory postsynap-
+including ibuprofen seem to delay the onset of AD20.Additionally, tic potentials and LONG-TERMPOTENTIATION(LTP),regarded as a corre-
+NSAIDs reduce the production ofAβ42 (ref.21).In a second view,Aβ late of learning and memory27. Inhibition of γ-secretase decreases
+protofibrils trigger excessive release ofexcitatory amino acids like glu- oligomeric Aβand LTP deficits28.Microinjection ofAβ43and Aβ40
+tamate from glial cells that may injure nearby neurons by excitotoxic- peptides into the rat hippocampus disrupts synaptic transmission and
+ity.Overactivation ofglutamate receptors ofthe N-methyl-D-aspartate short-term memory29.
+NEURODEGENERATION JULY 2004 S3
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+Aβmay also mediate harmful effects by binding redox-reactive met- ulated in neurons ofAD patients.Expression ofABAD in concert with
+als,which in turn release free radicals30–36.We found that nitrosative mutant APP enhances free-radical production and toxicity.
+stress mobilizes zinc from intracellular stores,resulting in mitochon- Conversely,a peptide that blocks Aβ-ABAD interaction prevents free-
+drial dysfunction37.Chelation ofzinc and copper provides neuropro- radical formation and cell death.Aβ interacts with the LD loop of
+tective effects38.For example,clioquinol (CQ),an antibiotic that also ABAD,close to its nicotinamide adenine dinucleotide (NAD) binding
+chelates zinc and copper and crosses the blood-brain barrier,decreases site,and may therefore induce a conformational change that prevents
+brain Aβdeposition and improves learning in mutant APP transgenic NAD binding. To date, however, details of the interaction are not
+mice39.A recent human phase II clinical trial of CQ for AD seems apparent in the crystal structure45.
+promising40. In summary, mitochondrial dysfunction and resulting energy
+Oxidative stress from mitochondrial dysfunction occurs early in deficits may contribute to impaired clearance of protein aggregates
+AD,and Aβ may directly or indirectly injure mitochondria41,42.Aβ and neuronal dysfunction,affecting ion channel and pump activity,
+blocks respiratory complex I,thus producing a decline in ATP43.In neurotransmission,and axonal and dendritic transport.
+isolated mitochondria, Aβ inhibits respiration and enzyme activity
+(α-ketoglutarate dehydrogenase and pyruvate dehydrogenase)44.The Molecular pathways to PD
+mechanism ofAβtranslocation to mitochondria remains unknown. PD is the most common neurodegenerative movement disorder.
+New data describe an interaction partner of Aβ in mitochondria, Approximately 1% ofthe population older than 65 years suffers from
+termed Aβ-binding alcohol dehydrogenase (ABAD)45.ABAD is upreg- this slowly progressive neurodegenerative disease;95% ofPD cases are
+a
+Lewy bodies (H&E) Lewy bodies (Ubiquitin) Lewy bodies (α-Synuclein) Lewy neurite (α-Synuclein)
+b
+11 100 200 330000 400 446655
+Parkin 1 Ubl 100 200 300 RING1 400 IRB 465 RING2
+R33A A82E Ex3 S167N K211N T240R V380L T415N
+R42P Q100H C212V R256C Q311STOP D384N G430D
+C268STOP G328E C431F
+R271S A339S
+R275W
+D280N
+C289G
+c
+Figure 2 Histology and structures related to
+PD. (a) Lewy bodies and neurites visualized by 1 100 200 300 400 465
+H&E staining or immunocytochemistry using
+Parkin Ubl RING1 IRB RING2
+antibodies specific for ubiquitin and
+α-synuclein in brain sections of sporadic cases
+of PD. (b) Structures and domain model of
+Proteasome Substrate
+human parkin (NCBI AB009973); N-terminal
+E2
+ubiquitin-like domain (Ubl), aa 1–79, PDB
+Uq
+entry 1IYF; homology model of RING1 domain,
+aa 238–293 based on PDB entry 1JM7; IRB
+domain, aa 314–377; homology model of
+RING2 domain, aa 418–449, based on PDB
+entry 1FO4. Structural models are depicted in ribbon representation, color-coded from N terminus (blue) to C terminus (red). Cysteine side chains
+located in the RING zinc finger domains are depicted in ball and stick with Zn2+as a pink sphere. Arrows indicate reported familial-associated
+Parkinson’s disease-causing mutations. (c) Schematic representation of parkin interactions. The Ubl domain binds to the proteasome. Substrate
+binding may be mediated by the RING1 domain and E2 enzyme binding by the IRB and RING2 domains.
+S4 JULY 2004 NEURODEGENERATION
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+GLOSSARY
+Long-term potentation (LTP) An enduring increase in the amplitude of excitatory postsynaptic potentials as a result of high-frequency
+(tetanic) stimulation of afferent pathways. It is measured both as the amplitude of excitatory postsynaptic potentials and as the magnitude
+of the postsynaptic-cell population spike. LTP is most often studied in the hippocampus and is often considered to be the cellular basis of
+learning and memory in vertebrates.
+Haploinsufficiency Loss of one copy (one allele) of a gene is sufficient to give rise to disease. Haploinsufficiency implies that no dominant-
+negative effect of the mutated gene product has to be invoked.
+Dominant negative A mutant molecule that in some cases can form a heteromeric complex with the normal molecule, knocking out the
+activity of the entire complex.
+Small interfering RNA RNA that can be used to interfere with normal RNA processing, causing rapid degradation of the endogenous RNA
+and thereby precluding translation.
+Missense mutation A mutation that results in the substitution of an amino acid in a protein, which therefore often has abnormal function.
+Knock-in transgenesis The insertion of a mutant gene at the exact site of the genome where the corresponding wild-type gene is located.
+This approach is used to ensure that the effect of the mutant gene is not affected by the activity of the endogenous allele.
+sporadic.The symptoms ofPD are caused by selective and progressive The protein is normally unfolded,revealing little three-dimensional
+degeneration of pigmented dopaminergic (DA) neurons in the sub- structure.α-synuclein can polymerize into filaments and is found in
+stantia nigra pars compacta.Current treatments,such as administra- Lewy bodies and neurites (Fig. 2a). The molecular pathways of
+tion ofL-DOPA to produce dopamine,are only symptomatic and do α-synuclein-mediated toxicity are unknown; however, increased
+not stop or delay the progressive loss ofneurons.In fact,some studies oxidative stress,mitochondrial injury and altered cellular transport
+have suggested that oxidative injury via dopamine may lead to further have been proposed.
+neuronal damage46. Mutations in parkin are found in juvenile PD and are inherited as
+One important feature ofPD is the presence ofeosinophilic,cyto- autosomal recessive,causing a loss in parkin function.New findings
+plasmic inclusions offibrillar,misfolded proteins,termed Lewy bod- indicate that parkin mutations may be linked not only to juvenile PD,
+ies,in affected brain areas (Fig.2a).The exact composition of Lewy but also to late-onset cases ofPD.Heterozygous mutations in parkin
+bodies is unknown,but they contain ubiquinated α-synuclein,parkin, may also cause PD,indicating a dominant form ofinheritance in some
+synphilin,neurofilaments and synaptic vesicle proteins (Fig.2a). cases.Perhaps HAPLOINSUFFICIENCYcauses disease when coupled with
+The etiology ofPD remains unclear47.Hints that sporadic PD can be nitrosative and oxidative stress (see later).Alternatively,some muta-
+initiated by environmental toxins are provided by the accidental dis- tions may be DOMINANTNEGATIVEin nature.
+covery that 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP),an Parkin is an E3 ligase,catalyzing the addition ofubiquitin to specific
+herbicide and contaminant ofillicit street drugs,causes parkinsonian- substrates that targets them for degradation by the ubiquitin-protea-
+like symptoms in human substance abusers and in animal models48–52. some system (UPS).The parkin protein has several domains (Fig.2b).
+Astrocytes metabolize MPTP to 1-methyl-4-phenyl pyridium (MPP+) Structural information for the N-terminal ubiquitin-like (Ubl)
+via monoamine oxidase B.MPP+is selectively imported into DA neu- domain (residues 1–75) reveals that it binds to the Rpn10 subunit of
+rons via the dopamine transporter, where it targets mitochondria, the 26S proteasome.The Arg42Pro mutation,found in juvenile PD,is
+inhibits respiratory complex I and promotes reactive oxygen species close to the Rpn10 subunit binding site,possibly impairing its protea-
+production.As with AD,altered metal homeostasis may have a role in somal interaction61.The C-terminal halfofparkin contains two RING
+the etiology of PD.Metal chelation by CQ rescues DA neurons and domains,common to several E3 ligases,connected by an in-between
+improves balance and posture in MPTP-treated animals53. RING domain (IBR).The RING domains are cysteine-rich zinc fingers
+Additional support for mitochondrial dysfunction in PD pathogen- implicated in substrate recognition and binding to E2 enzymes that
+esis comes from evidence that the insecticide rotenone induces a transfer ubiquitin62.The RING1 domain constitutes a hotspot for mis-
+parkinsonian-like syndrome in animal models and probably humans, sense mutations.Two mutations located in RING1,Arg256Cys and
+with protein deposits that resemble Lewy bodies54. Rotenone also Arg275Trp,cause altered protein localization and increased aggrega-
+inhibits mitochondrial complex I,and DA neurons seem to be most tion63.Most mutations clustered in the conserved domains ofparkin
+severely affected. diminish enzyme activity, suggesting that parkin loss of function
+Rare hereditary forms ofPD have provided insight into the molecu- causes the disorder (Fig.2b).
+lar pathways ofthis disorder47.Mutations in at least four genes have Parkin substrates include glycosylated α-synuclein, synphilin,
+been linked to PD,including α-synuclein (PARK1),parkin (PARK2), CDCrel-1 and the Pael-R receptor.These substrates may accumulate
+DJ-1 (PARK7),and PTEN (phosphatase and tensin homolog deleted when parkin E3 ligase function is lost by mutation or other mecha-
+on chromosome 10)-induced kinase 1 (PINK1, also known as nism, contributing to neurotoxicity. Overexpression of wild-type
+PARK6)55–58. parkin improves cell survival after various insults in a number ofsys-
+α-Synuclein mutations are autosomal dominant and represent tems64–67.Parkin blocks α-synuclein- and Pael-R-mediated toxicity,
+toxic gain-of-function mutations, resulting in abnormal protein probably by promoting their degradation64,65,68.Parkin also mediates
+accumulations59,60.The normal function ofα-synuclein is unknown. the clearance ofsome polyglutamine repeat proteins69.In Drosophila,
+NEURODEGENERATION JULY 2004 S5
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+parkin protects cells from mitochondrial death pathways70. Hence, leads to protein loss,whereas in an Italian family,a Lys166Pro point
+enhancing parkin activity may be therapeutic. mutation occurs that results in destabilization ofthe protein.DJ-1 is
+New findings,however,suggest that parkin may have other func- implicated in multiple processes,including oncogenic transformation,
+tions besides targeting proteins for degradation via the UPS. For gene expression, mRNA sorting and chaperone activity74,75. DJ-1
+instance, parkin knockout mice do not manifest accumulation of mediates an oxidative stress response.In cells treated with the mito-
+parkin substrates,and humans with parkin mutations lack Lewy bod- chondrial poison paraquat or MPP+,DJ-1 becomes more acidic.DJ-1
+ies.These data imply that parkin loss offunction may cause degenera- can scavenge H O ,whereas the Lys166Pro mutant is inactive.DJ-1
+2 2
+tion by a mechanism other than aberrant protein accumulation. knockdown by SMALL INTERFERING RNA sensitizes cells to oxidative
+Parkin knockout mice manifest decreased oxidative phosphorylation stress.The crystal structure ofDJ-1 (refs.76,77) reveals a flavodoxin-
+and increased oxidative stress71.Parkin may be localized to mitochon- like fold similar to PH1704 protease and heat shock protein Hsp31
+dria,and its loss induces abnormal mitochondrial morphology,mus- (Fig.3).DJ-1 forms a dimer,which is destabilized by the Lys166Pro
+cle degeneration and impaired spermatogenesis in Drosophila70. mutation at the dimer interface. DJ-1 does not contain the typical
+Additionally,parkin is a target ofoxidative and nitrosative stress in active-site triad expected for a cysteine protease.Cys106,located in the
+sporadic PD.Cysteine residues in the RING domains are sensitive to putative active site,and Cys56,which is located on the surface and
+nitrosative and oxidative modifications,which alter protein function. forms a disulfide bond with its dimer counterpart,are potential sites
+New findings indicate that parkin’s E3 ligase activity is modified by for oxidative and nitrosative stress,which could modify DJ-1 function
+NO,thus linking environmental stress to a molecular abnormality and in sporadic PD.
+a clinical phenotype similar to that seen in hereditary forms ofPD72,73. New data reveal that mutations in the gene encoding PTEN-induced
+A third gene linked to recessively inherited albeit rare PD is DJ-1 kinase 1 (PINK1) are linked to early-onset PD58.Normal and mutant
+(PARK7)57.In a Dutch kindred,a large homozygous deletion ofDJ-1 PINK1 localize to mitochondria.PINK1 contains a highly conserved
+kinase domain similar to serine/threonine
+kinases in the Ca2+-calmodulin family. Two
+mutations associated with PD reside in this
+a SUMO domain,and homology modeling reveals that
+1 50 100 150 189 the MISSENSE MUTATION Gly309Asp is located
+in its ADP binding site,probably interfering
+DJ-1
+with ADP binding and kinase activity (Fig.
+Cys53 Cys106 Lys130 L166P 3b).The Trp437STOP mutation causes trun-
+cation ofPINK1 in the helical kinase domain,
+CC5533 C53 K130 probably destroying the enzyme (Fig. 3b).
+LL116666
+Expression of normal PINK1 protects cell
+CC110066 lines from loss of mitochondrial membrane
+90o CC5533 potential and apoptosis induced by protea-
+CC5533
+CC110066 CC110066 some inhibitors,an effect lost with the PINK1
+mutant Glu309Asp (ref. 58). These findings
+LL116666 suggest that PINK1 may phosphorylate a
+LL116666 LL116666 KK113300
+mitochondrial target(s) to protect against cel-
+KK113300 KK113300
+lular stress.
+b
+1 100 200 300 400 500 580
+MTS PINK1 Figure 3 DJ-1 and PINK1 proteins in PD.
+(a)Domain scheme and crystal structure of
+G309D W437STOP human DJ-1. Top: Domain structure of DJ-1with
+relevant residues indicated. Bottom: Ribbon
+representation of human DJ-1 structure (PDB
+entry 1PE0), color-coded from N terminus (blue)
+to C terminus (red). Side chains for two cysteine
+residues, Cys53 and Cys106, implicated in the
+oxidative stress response, for Lys130, which
+serves as a sumoylation site, and for Leu166,
+which is mutated to proline, are depicted in cpk
+mode. (b) Top: Domain scheme of human PINK1
+G309D AADDPP with the mitochondrial targeting sequence (MTS,
+aa 1–34) shown in blue and the conserved kinase
+domain (aa 200–520) shown in pink. Location of
+the mutations G309D and W437STOP, linked to
+hereditary early-onset PD, are indicated (arrows).
+Bottom: Homology model of the PINK1-kinase
+domain (aa 205–510) based on PDB entry 1MQ4
+shown in ribbon representation, color-coded from
+N terminus (blue) to C terminus (red). An ADP
+W37STOP molecule is depicted in ball-and-stick mode.
+Locations are shown for mutations G309D
+(depicted in cpk mode) and W437STOP (arrow).
+S6 JULY 2004 NEURODEGENERATION
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+a Figure 4 Aggregation and domain structure of Htt
+Merge HcRed 104Q-GFP
+in HD. (a) Aggregates of polyQ repeats in
+dendrites and nuclei in a primary neuron co-
+transfected with vectors encoding 104Q-GFP and
+HcRed (Clontech). (b) Huntingtin (Htt) domain
+model indicating the location of the polyQ repeat,
+proline-rich domain (PRD) and HEAT repeats.
+Selected interaction partners are listed for the
+polyQ and PRD region as well as the N-terminal
+region, including the first HEAT repeat section.
+See text and references for abbreviations.
+b
+1 1,000 2,000 3,144
+axonal pathology suggestive of transport
+Huntingtin Htt
+(P42858) defects92.Similarly,expression ofmutant Htt
+polyQ HEAT HEAT HEAT in Drosophila produces an axonal transport
+PRD phenotype93.
+HAP1 Mutant Htt may be neurotoxic via tran-
+SH3GL3/Endophilin HIP1, HIP14, scriptional dysregulation, binding and
+PSD-95,P53 CBP, TAFII-130
+CtBP sequestering selective transcription factors
+and coactivators. These include cAMP
+response element binding protein (CREB)
+Pathways to HD binding protein (CBP),p53,co-repressor C-terminal binding protein
+HD is an autosomal dominant inherited neurodegenerative disorder (CtBP), Sp1 and TAFII-130 (refs. 94–97). Histone deacetylase
+affecting 1 in 10,000 individuals.It is caused by an insertion ofmulti- inhibitors,which increase transcription,ameliorate polyQ-mediated
+ple CAG repeats in the huntingtin gene.This results in an N-terminal neurodegeneration in Drosophila94.
+polyglutamine (polyQ) expansion of the large protein huntingtin Mitochondrial dysfunction is also implicated in HD pathogenesis.
+(Htt), similar to other polyQ-related neurodegenerative disorders. The mitochondrial toxin 3-nitropropionate produces neuropathology
+Disease severity depends on the length of the polyQ stretch, with in animals similar to that observed in human HD98,99.Mitochondrial
+repeats ≥40 clearly linked to HD.The polyQ expansion is thought to membrane potential in lymphocytes ofHD patients is depolarized at
+confer a toxic gain of function with selective loss of neurons in the lower calcium concentrations than normal80,and brain mitochondria
+striatum and cerebral cortex. isolated from transgenic mice expressing full-length mutant Htt show
+Htt expression is ubiquitous but is greatest in neurons. Htt is similar deficiencies in calcium handling.These findings suggest that
+reported in membranes, cytosol, nuclei, and mitochondria, and in mutant Htt may make neurons susceptible to excitotoxicity,associated
+association with microtubules78–80. The expanded polyQ stretch in with increases in cytosolic calcium.
+mutant Htt induces a conformational change resulting in aggregates in
+dendrites and nuclei (Fig. 4a). It is not clear whether aggregates, Molecular pathways to ALS
+smaller accumulations or soluble aberrant protein are important for ALS (or Lou Gehrig’s disease) involves degeneration of motor neu-
+HD pathogenesis. rons,resulting in progressive muscle wasting and weakness,culminat-
+The function of normal Htt and the mechanism whereby mutant ing in paralysis,respiratory failure and death.Perhaps 10% ofcases are
+Htt mediates harmful effects remain unclear81.Htt may act as a molec- familial, and of those, ∼2–3% are caused by mutations in the gene
+ular scaffold,regulating several cellular processes including endocyto- encoding Cu/Zn superoxide dismutase-1 (SOD1),producing a toxic
+sis,vesicle transport,excitatory synapses,transcriptional events and gain offunction rather than loss of(catalytic) function100.The precise
+mitochondrial function82,83. pathogenic mechanism is not clear,but implicated in motor neuron
+The Htt domain model reveals a polyQ and proline-rich region at dysfunction and death are protein misfolding and aggregation,defec-
+the N terminus followed by three HEAT domains,named for the four tive axonal transport, mitochondrial dysfunction and excitotoxicity
+proteins in which they were first detected:Htt,elongation factor 3,the via faulty glutamate reuptake into glial cells. Recent structural evi-
+regulatory Asubunit ofprotein phosphatase 2A,and TOR1 (ref.84) dence suggests that some Cu/Zn SOD1mutations result in destabiliza-
+(Fig.4b). tion ofnormal dimers ofthe enzyme and foster aggregation,forming
+Several proteins interact with the Htt proline-rich domain. An amyloid or pores depending on the conditions, not unlike familial
+example is endophilin 3,which regulates dynamin and synaptotagmin amyloid polyneuropathy101,102.Stabilization of dimers has therefore
+function85.Htt also binds to postsynaptic density protein-95 (PSD- been proposed as a therapeutic intervention103.
+95),a molecule that interacts with excitatory aa receptors,including Recent findings in SOD1 mutant mice indicate that motor neuron
+NMDA receptors, and synaptic GTPase-activating protein death is not cell autonomous and depends on surrounding cells.
+(SynGAP)86.SynGAP in turn inhibits Ras and thereby regulates excita- Neurons that express mutant SOD1 protein can be rescued by nearby
+tory synapses.Thus,Htt may modulate synaptic transmission,learn- non-neuronal wild-type cells104.
+ing and memory via its interaction with PSD-95. A recent report on sporadic ALS (representing the vast majority of
+HEAT domains mediate protein-protein interactions.Several pro- cases) revealed abnormal RNA editing in GluR2 subunits ofglutamate
+teins have been isolated that bind to the HEAT repeat.Among them receptors, producing increased Ca2+ entry into neurons105,106. This
+are Htt-interacting protein (HIP)-1,HIP14 and Htt-associated pro- mechanism may contribute to neuronal demise,suggesting possible
+tein (HAP1),which have roles in endocytosis and membrane traffick- therapeutic targets,such as counteracting overly active calcium-per-
+ing87–90.Impaired axonal and dendritic trafficking are also implicated meable glutamate receptors or compensating for potentially dysfunc-
+in HD91,and transgenic KNOCK-INmice for mutant Htt 150Qmanifest tional RNA-editing enzymes.
+NEURODEGENERATION JULY 2004 S7
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+Conclusions 22. Lipton, S.A. Concepts: turning down but not off—neuroprotection requires a para-
+digm shift in drug development. Nature428, 473 (2004).
+Here we review common themes occurring in several neurodegenera-
+23. Kamal, A., Stokin, G.B., Yang, Z., Xia, C.H. & Goldstein, L.S. Axonal transport of
+tive disorders.Slowly progressive neurodegenerative diseases are prob- amyloid precursor protein is mediated by direct binding to the kinesin light chain
+ably not the result of a single hit-and-run event, but rather a subunit of kinesin-I. Neuron28, 449–459 (2000).
+24. Kamal, A., Almenar-Queralt, A., LeBlanc, J.F., Roberts, E.A. & Goldstein, L.S.
+several-step process involving environmental,epigenetic and genetic Kinesin-mediated axonal transport of a membrane compartment containing β-sec-
+events.Thus,the next generation ofdrug treatment will focus on com- retase and presenilin-1 requires APP. Nature414, 643–648 (2001).
+bined therapies selective for several decisive events that characterize 25. Pigino, G. et al. Alzheimer’s presenilin 1 mutations impair kinesin-based axonal
+transport. J. Neurosci.23, 4499–4508 (2003).
+these disorders.Lowering the burden ofprotein aggregation,oxidative 26. Selkoe, D.J. Alzheimer’s disease is a synaptic failure. Science298, 789–791
+and nitrosative stress,mitochondrial injury,inflammatory response (2002).
+27. Chapman, P.F. et al. Impaired synaptic plasticity and learning in aged amyloid pre-
+and heavy metal accumulation in the brain so as to re-establish neuro-
+cursor protein transgenic mice. Nat. Neurosci.2, 271–276 (1999).
+transmission and block excitotoxicity may prove beneficial in the 28. Walsh, D.M. et al. Naturally secreted oligomers of amyloid β protein potently
+treatment ofseveral neurodegenerative diseases. inhibit hippocampal long-term potentiation in vivo. Nature 416, 535–539
+(2002).
+29. Stephan, A., Laroche, S. & Davis, S. Generation of aggregated β-amyloid in the rat
+ACKNOWLEDGMENTS
+hippocampus impairs synaptic transmission and plasticity and causes memory
+We thank Eliezer Masliah and Mark Barsoum for providing histological images, deficits. J. Neurosci.21, 5703–5714 (2001).
+Huaxi Xu for reading the manuscript and our colleagues for helpful discussions. 30. Bush, A.I. et al.A novel zinc(II) binding site modulates the function of the βA4
+This work was supported by NIH grants R01 NS44314 and R01 NS047456 (to E.B- amyloid protein precursor of Alzheimer’s disease. J. Biol. Chem. 268,
+W.) and P01 HD29587,R01 EY05477,R01 EY09024,R01 NS43242,R01 NS44326 16109–16112 (1993).
+and R01 NS41207 (to S.A.L.). 31. Bush, A.I. et al.Rapid induction of Alzheimer A βamyloid formation by zinc.
+Science265, 1464–1467 (1994).
+32. Lovell, M.A., Robertson, J.D., Teesdale, W.J., Campbell, J.L. & Markesbery, W.R.
+COMPETING INTERESTS STATEMENT
+Copper, iron and zinc in Alzheimer’s disease senile plaques. J. Neurol. Sci.158,
+The authors declare competing financial interests (see the Nature Medicinewebsite
+47–52 (1998).
+for details). 33. Dong, J. et al. Metal binding and oxidation of amyloid-βwithin isolated senile
+plaque cores: Raman microscopic evidence. Biochemistry 42, 2768–2773
+HOW TO CITE THIS ARTICLE (2003).
+Please cite this article as supplement to volume 10 ofNature Medicine,pages 34. Opazo, C. et al.Metalloenzyme-like activity of Alzheimer’s disease β-amyloid. Cu-
+S2–S9. dependent catalytic conversion of dopamine, cholesterol, and biological reducing
+agents to neurotoxic H2O2. J. Biol. Chem.277, 40302–40308 (2002).
+Received 27 April; accepted 24 May 2004 35. Bush, A.I. Copper, zinc, and the metallobiology of Alzheimer disease. Alzheimer
+Dis. Assoc. Disord.17, 147–150 (2003).
+Published online at http://www.nature.com/focus/neurodegen/
+36. Huang, X. et al.The A βpeptide of Alzheimer’s disease directly produces hydrogen
+peroxide through metal ion reduction. Biochemistry38, 7609–7616 (1999).
+1. Selkoe, D.J. Folding proteins in fatal ways. Nature426, 900–904 (2003). 37. Bossy-Wetzel, E. et al.Crosstalk between nitric oxide and zinc pathways to neu-
+2. Roses, A.D. Alipoprotein E in neurology. Curr. Opin.Neurol.4, 265–270 (1996). ronal cell death involving mitochondrial dysfunction and p38-activated K+chan-
+3. Hardy, J. Amyloid, the presenilins and Alzheimer’s disease. Trends Neurosci.20, nels. Neuron41, 351–365 (2004).
+154–159 (1997). 38. Bush, A.I. Metal complexing agents as therapies for Alzheimer’s disease.
+4. Selkoe, D.J. Translating cell biology into therapeutic advances in Alzheimer’s dis- Neurobiol. Aging23, 1031–1038 (2002).
+ease. Nature399, A23–A31 (1999). 39. Cherny, R.A. et al. Treatment with a copper-zinc chelator markedly and rapidly
+5. Delacourte, A. & Buee, L. Tau pathology: a marker of neurodegenerative disorders. inhibits β-amyloid accumulation in Alzheimer’s disease transgenic mice. Neuron
+Curr. Opin. Neurol.13, 371–376 (2000). 30, 665–676 (2001).
+6. Rossjohn, J. et al.Crystal structure of the N-terminal, growth factor–like domain of 40. Ritchie, C.W. et al. Metal-protein attenuation with iodochlorhydroxyquin (clio-
+Alzheimer amyloid precursor protein. Nat. Struct. Biol.6, 327–331 (1999). quinol) targeting Aβamyloid deposition and toxicity in Alzheimer disease: a pilot
+7. Barnham, K.J. et al.Structure of the Alzheimer’s disease amyloid precursor bind- phase 2 clinical trial. Arch. Neurol.60, 1685–1691 (2003).
+ing protein. A regulator of neuronal copper homeostasis. J. Biol. Chem. 278, 41. Hirai, K. et al. Mitochondrial abnormalities in Alzheimer’s disease. J. Neurosci.
+17401–17407 (2003). 21, 3017–3023 (2001).
+8. Watson, A.A., Fairlie, D.P. & Craik, D.J. Solution structure of methionine-oxidized 42. Anandatheerthavarada, H.K., Biswas, G., Robin, M.A. & Avadhani, N.G.
+amyloid β-peptide (1–40). Does oxidation affect conformational switching? Mitochondrial targeting and a novel transmembrane arrest of Alzheimer’s amyloid
+Biochemistry37, 12700–12706 (1998). precursor protein impairs mitochondrial function in neuronal cells. J. Cell Biol.
+9. Curtain, C.C. et al. Alzheimer’s disease amyloid-βbinds copper and zinc to gener- 161, 41–54 (2003).
+ate an allosterically ordered membrane-penetrating structure containing superox- 43. Casley, C.S. et al. β-Amyloid fragment 25–35 causes mitochondrial dysfunction in
+ide dismutase-like subunits. J. Biol. Chem.276, 20466–20473 (2001). primary cortical neurons. Neurobiol. Dis.10, 258–267 (2002).
+10. Singleton, A., Myers, A. & Hardy, J. The law of mass action applied to neurode- 44. Casley, C.S., Canevari, L., Land, J.M., Clark, J.B. & Sharpe, M.A. β-Amyloid
+generative disease: a hypothesis concerning the etiology and pathogenesis of com- inhibits integrated mitochondrial respiration and key enzyme activities.
+plex diseases. Hum. Mol. Genet.13 (Spec. no. 1), R123–R126 (2004). J. Neurochem.80, 91–100 (2002).
+11. Haas, C. & Steiner, H. Alzheimer disease-γ-secretase: a complex story of GxGD- 45. Lustbader, J.W. et al. ABAD directly links Aβ to mitochondrial toxicity in
+type presenilin proteases. Trends Cell Biol.12, 556–562 (2002). Alzheimer’s disease. Science304, 448–452 (2004).
+12. Edbauer, D. et al. Reconstitution of γ-secretase activity. Nat. Cell Biol. 5, 46. Xu, J. et al.Dopamine-dependent neurotoxicity of α-synuclein: a mechanism for
+486–488 (2003). selective neurodegeneration in Parkinson disease. Nat. Med.8, 600–606 (2002).
+13. Haass, C. Take five-BACE and the γ-secretase quartet conduct Alzheimer’s amy- 47. Hardy, J., Cookson, M.R. & Singleton, A. Genes and parkinsonism. Lancet Neurol.
+loid β-peptide generation. EMBO J.23, 483–488 (2004). 2, 221–228 (2003).
+14. Hutton, M., Perez-Tur, J. & Hardy, J. Genetics of Alzheimer’s disease. Essays 48. Langston, J.W., Ballard, P., Tetrud, J.W. & Irwin, I. Chronic Parkinsonism in
+Biochem.33, 117–131 (1998). humans due to a product of meperidine-analog synthesis. Science219, 979–980
+15. Scheuner, D. et al. Secreted amyloid β-protein similar to that in the senile plaques (1983).
+of Alzheimer’s disease is increased in vivo by the presenilin 1 and 2 and APP 49. Langston, J.W. et al. Evidence of active nerve cell degeneration in the substantia
+mutations linked to familial Alzheimer’s disease. Nat. Med.2, 864–870 (1996). nigra of humans years after 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine expo-
+16. Borchelt, D.R. et al.Accelerated amyloid deposition in the brains of transgenic sure. Ann. Neurol.46, 598–605 (1999).
+mice coexpressing mutant presenilin 1 and amyloid precursor proteins. Neuron 50. Rose, S. et al. Age-related effects of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyri-
+19, 939–945 (1997). dine treatment of common marmosets. Eur. J. Pharmacol.230, 177–185 (1993).
+17. De Strooper, B. et al. Deficiency of presenilin-1 inhibits the normal cleavage of 51. Irwin, I., DeLanney, L.E. & Langston, J.W. MPTP and aging. Studies in the
+amyloid precursor protein. Nature391, 387–390 (1998). C57BL/6 mouse. Adv. Neurol.60, 197–206 (1993).
+18. Naruse, S. et al. Effects of PS1 deficiency on membrane protein trafficking in 52. Ovadia, A., Zhang, Z. & Gash, D.M. Increased susceptibility to MPTP toxicity in
+neurons. Neuron21, 1213–1221 (1998). middle-aged rhesus monkeys. Neurobiol. Aging16, 931–937 (1995).
+19. Lu, D.C. et al.A second cytotoxic proteolytic pepide derived from amyloid β-pro- 53. Kaur, D. et al. Genetic or pharmacological iron chelation prevents MPTP-induced
+tein precursor. Nat. Med.6, 385–386 (2000). neurotoxicity in vivo: a novel therapy for Parkinson’s disease. Neuron 37,
+20. Stewart, W.F., Kawas, C., Corrada, M. & Metter, E.J. Risk of Alzheimer’s disease 899–909 (2003).
+and duration of NSAID use. Neurology48, 626–632 (1997). 54. Betarbet, R. et al. Chronic systemic pesticide exposure reproduces features of
+21. Weggen, S. et al. A subset of NSAIDs lower amyloidogenic Aβ42 independently of Parkinson’s disease. Nat. Neurosci.3, 1301–1306 (2000).
+cyclooxygenase activity. Nature414, 212–216 (2001). 55. Polymeropoulos, M.H. et al. Mutation in the α-synuclein gene identified in fami-
+S8 JULY 2004 NEURODEGENERATION
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+
+REVIEW
+lies with Parkinson’s disease. Science276, 2045–2047 (1997). (2003).
+56. Kitada, T. et al.Mutations in the parkin gene cause autosomal recessive juvenile 82. Harjes, P. & Wanker, E.E. The hunt for huntingtin function: interaction partners
+parkinsonism. Nature392, 605–608 (1998). tell many different stories. Trends Biochem. Sci.28, 425–433 (2003).
+57. Bonifati, V. et al. Mutations in the DJ-1 gene associated with autosomal recessive 83. Li, H., Gu, X., Dawson, V.L. & Dawson, T.M. Identification of calcium- and nitric
+early-onset parkinsonism. Science299, 256–259 (2003). oxide–regulated genes by differential analysis of library expression (DAzLE). Proc.
+58. Valente, E.M. et al. Hereditary early-onset Parkinson’s disease caused by muta- Natl. Acad. Sci. USA101, 647–652 (2004).
+tions in PINK1. Science 304, 1158–1160 (2004) 84. Andrade, M.A. & Bork, P. HEAT repeats in the Huntington’s disease protein. Nat.
+59. Eriksen, J.L., Dawson, T.M., Dickson, D.W. & Petrucelli, L. Caught in the act. Genet.11, 115–116 (1995).
+α-Synuclein is the culprit in Parkinson’s disease. Neuron40, 453–456 (2003). 85. Sittler, A. et al. SH3GL3 associates with the Huntingtin exon 1 protein and pro-
+60. Baptista, M.J., Cookson, M.R. & Miller, D.W. Parkin and α-synuclein: opponent motes the formation of polygln-containing protein aggregates. Mol. Cell 2,
+actions in the pathogenesis of Parkinson’s disease. Neuroscientist 10, 63–72 427–436 (1998).
+(2004). 86. Sun, Y., Savanenin, A., Reddy, P.H. & Liu, Y.F. Polyglutamine-expanded huntingtin
+61. Sakata, E. et al. Parkin binds the Rpn10 subunit of 26S proteasomes through its promotes sensitization of N-methyl-D-aspartate receptors via post-synaptic density
+ubiquitin-like domain. EMBO Rep.4, 301–306 (2003). 95. J. Biol. Chem.276, 24713–24718 (2001).
+62. Cookson, M.R. Parkin’s substrates and the pathways leading to neuronal damage. 87. Wanker, E.E. et al. HIP-I: a huntingtin interacting protein isolated by the yeast
+Neuromolecular Med.3, 1–13 (2003). two-hybrid system. Hum. Mol. Genet.6, 487–495 (1997).
+63. Cookson, M.R. et al.RING finger 1 mutations in Parkin produce altered localiza- 88. Kalchman, M.A. et al. HIP1, a human homologue of S. cerevisiae Sla2p, interacts
+tion of the protein. Hum. Mol. Genet.12, 2957–2965 (2003). with membrane-associated huntingtin in the brain. Nat. Genet. 16, 44–53
+64. Imai, Y. et al. An unfolded putative transmembrane polypeptide, which can lead to (1997).
+endoplasmic reticulum stress, is a substrate of Parkin. Cell 105, 891–902 89. Li, X.J. et al. A huntingtin-associated protein enriched in brain with implications
+(2001). for pathology. Nature378, 398–402 (1995).
+65. Petrucelli, L. et al. Parkin protects against the toxicity associated with mutant 90. Singaraja, R.R. et al. HIP14, a novel ankyrin domain-containing protein, links
+α-synuclein: proteasome dysfunction selectively affects catecholaminergic neu- huntingtin to intracellular trafficking and endocytosis. Hum. Mol. Genet. 11,
+rons. Neuron36, 1007–1019 (2002). 2815–2828 (2002).
+66. Staropoli, J.F. et al. Parkin is a component of an SCF-like ubiquitin ligase complex 91. Feany, M.B. & La Spada, A.R. Polyglutamines stop traffic: axonal transport as a
+and protects postmitotic neurons from kainate excitotoxicity. Neuron 37, common target in neurodegenerative diseases. Neuron40, 1–2 (2003).
+735–749 (2003). 92. Li, H., Li, S.H., Yu, Z.X., Shelbourne, P. & Li, X.J. Huntingtin aggregate-associated
+67. Darios, F. et al. Parkin prevents mitochondrial swelling and cytochrome crelease axonal degeneration is an early pathological event in Huntington’s disease mice.
+in mitochondria-dependent cell death. Hum. Mol. Genet.12, 517–526 (2003). J. Neurosci.21, 8473–8481 (2001).
+68. Yang, Y., Nishimura, I., Imai, Y., Takahashi, R. & Lu, B. Parkin suppresses 93. Gunawardena, S. et al. Disruption of axonal transport by loss of huntingtin or
+dopaminergic neuron-selective neurotoxicity induced by Pael-R in Drosophila. expression of pathogenic polyQ proteins in Drosophila. Neuron40, 25–40 (2003).
+Neuron37, 911–924 (2003). 94. Steffan, J.S. et al. Histone deacetylase inhibitors arrest polyglutamine-dependent
+69. Tsai, Y.C., Fishman, P.S., Thakor, N.V. & Oyler, G.A. Parkin facilitates the elimina- neurodegeneration in Drosophila. Nature413, 739–743 (2001).
+tion of expanded polyglutamine proteins and leads to preservation of proteasome 95. Dunah, A.W. et al. Sp1 and TAFII130 transcriptional activity disrupted in early
+function. J. Biol. Chem.278, 22044–22055 (2003). Huntington’s disease. Science296, 2238–2243 (2002).
+70. Greene, J.C. et al. Mitochondrial pathology and apoptotic muscle degeneration in 96. Obrietan, K. & Hoyt, K.R. CRE-mediated transcription is increased in Huntington’s
+Drosophila parkin mutants. Proc. Natl. Acad. Sci. USA100, 4078–4083 (2003). disease transgenic mice. J. Neurosci.24, 791–796 (2004).
+71. Palacino, J.J. et al.Mitochondrial dysfunction and oxidative damage in Parkin- 97. Sugars, K.L., Brown, R., Cook, L.J., Swartz, J. & Rubinsztein, D.C. Decreased
+deficient mice. J. Biol. Chem.279, 18614–18622 (2004). cAMP response element–mediated transcription: an early event in exon 1 and full-
+72. Chung, K.K. et al. S-Nitrosylation of parkin regulates ubiquitination and compro- length cell models of Huntington’s disease that contributes to polyglutamine
+mises parkin’s protective function. Science 304, 1328–1331 (2004) pathogenesis. J. Biol. Chem.279, 4988–4999 (2004).
+73. Yao, D., et al. Nitrosative stress linked to sporadic Parkinson’s disease: S-nitrosy- 98. Sipione, S. & Cattaneo, E. Modeling Huntington’s disease in cells, flies, and mice.
+lation of parkin regulates its E3 ligase activity. Proc. Natl. Acad. Sci. USA(2004), Mol. Neurobiol.23, 21–51 (2001).
+in press. 99. Rubinsztein, D.C. Lessons from animal models of Huntington’s disease. Trends
+74. Cookson, M.R. Pathways to parkinsonism. Neuron37, 7–10 (2003). Genet.18, 202–209 (2002).
+75. Taira, T. et al. DJ-1 has a role in antioxidative stress to prevent cell death. EMBO 100. Rosen, D.R. et al. Mutations in Cu/Zn superoxide dismutase gene are associated
+Rep.5, 213–218 (2004). with familial amyotrophic lateral sclerosis. Nature362, 59–62 (1993).
+76. Honbou, K. et al. The crystal structure of DJ-1, a protein related to male fertility 101. Hough, M.A. et al. Dimer destabilization in superoxide dismutase may result in
+and Parkinson’s disease. J. Biol. Chem.278, 31380–31384 (2003). disease-causing properties: structures of motor neuron disease mutants. Proc.
+77. Wilson, M.A., Collins, J.L., Hod, Y., Ringe, D. & Petsko, G.A. The 1.1-Å resolution Natl. Acad. Sci. USA101, 5976–5981 (2004).
+crystal structure of DJ-1, the protein mutated in autosomal recessive early-onset 102. Koo, E.H., Lansbury, P.T., Jr. & Kelly, J.W. Amyloid diseases: abnormal protein
+Parkinson’s disease. Proc. Natl. Acad. Sci. USA100, 9256–9261 (2003). aggregation in neurodegeneration. Proc. Natl. Acad. Sci. USA96, 9989–9990
+78. Trottier, Y. et al. Polyglutamine expansion as a pathological epitope in (1999).
+Huntington’s disease and four dominant cerebellar ataxias. Nature378, 403–406 103. Ray, S.S. & Lansbury, P.T., Jr. A possible therapeutic target for Lou Gehrig’s dis-
+(1995). ease. Proc. Natl. Acad. Sci. USA101, 5701–5702 (2004).
+79. DiFiglia, M.et al. Huntingtin is a cytoplasmic protein associated with vesicles in 104. Clement, A.M. et al. Wild-type nonneuronal cells extend survival of SOD1 mutant
+human and rat brain neurons. Neuron14, 1075–1081 (1995). motor neurons in ALS mice. Science302, 113–117 (2003).
+80. Panov, A.V. et al. Early mitochondrial calcium defects in Huntington’s disease are 105. Kawahara, Y. et al. Glutamate receptors: RNA editing and death of motor neurons.
+a direct effect of polyglutamines. Nat. Neurosci.5, 731–736 (2002). Nature427, 801 (2004).
+81. Young, A.B. Huntingtin in health and disease. J. Clin. Invest. 111, 299–302 106. Lipton, S.A. Sporadic ALS: blame it on the editor. Nat. Med.10, 347 (2004).
+NEURODEGENERATION JULY 2004 S9
+enicidemerutan/moc.erutan.www//:ptth
+puorG
+gnihsilbuP
+erutaN
+4002©
+
+---PAGE BREAK---
+

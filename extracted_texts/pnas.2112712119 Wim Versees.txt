@@ -1,0 +1,963 @@
+Nanobodies as allosteric modulators of Parkinson’s
+disease–associated LRRK2
+RanjanK.Singha,b ,AhmedSolimanc ,GiambattistaGuaitolid ,ElizaSto€rmere ,FelixvonZweydorfd ,
+ThomasDalMasoa,b ,AsmaaOunc,f ,LauraVanRillaera,b ,SvenH.Schmidte,DeepChatterjeeg,h ,
+JoshuaA.Davidi ,ElsPardona,b ,ThomasU.Schwartzi ,StefanKnappg,h ,EileenJ.Kennedyj ,JanSteyaerta,b ,
+FriedrichW.Herberge ,ArjanKortholtc ,ChristianJohannesGloecknerd,k ,andWimVerse(cid:2)esa,b,1
+aVIB-VUBCenterforStructuralBiology,1050Brussels,Belgium;bStructuralBiologyBrussels,VrijeUniversiteitBrussel,1050Brussels,Belgium;cDepartmentof
+CellBiochemistry,UniversityofGroningen,9747AGGroningen, TheNetherlands;dGermanCenterforNeurodegenerativeDiseases,D-72076Tu€bingen,
+Germany;eDepartmentofBiochemistry,InstituteforBiology,UniversityofKassel,34132Kassel,Germany;fGroningenResearchInstituteofPharmacy,
+MolecularPharmacologyXB10,9700ADGroningen,TheNetherlands;gInstituteofPharmaceuticalChemistry,Goethe-UniversityFrankfurt,60438Frankfurt,
+Germany;hStructuralGenomicsConsortium,BuchmannInstituteforMolecularLifeSciences,Goethe-UniversityFrankfurt,60438Frankfurt,Germany;
+iDepartmentofBiology,MassachusettsInstituteofTechnology,Cambridge,MA02139;jDepartmentofPharmaceuticalandBiomedicalSciences,Collegeof
+Pharmacy,UniversityofGeorgia,Athens,GA30602;andkCoreFacilityforMedicalBioanalytics,CenterforOphthalmology,InstituteforOphthalmicResearch,
+UniversityofTu€bingen,72076Tu€bingen,Germany
+EditedbyDarioAlessi,MRCProteinPhosphorylationandUbiquitylationUnit,UniversityofDundee,Dundee,Scotland;receivedJuly14,2021;accepted
+January24,2022byEditorialBoardMemberJamesH.Hurley
+Mutations in the gene coding for leucine-rich repeat kinase 2 LRRK2 kinase activity (8, 9), while LRRK2 is also known to
+(LRRK2) are a leading cause ofthe inherited form of Parkinson’s autophosphorylate (10). Although the details of the regulatory
+disease (PD), while LRRK2 overactivation is also associated with mechanism of LRRK2 are not yet completely understood, we
+themorecommonidiopathicformofPD.LRRK2isalargemultido- previously showed, using a more simple LRRK2 homolog from
+main protein, including a GTPase as well as a Ser/Thr protein the bacterium Chlorobium tepidum (CtRoco), that the RocCOR
+kinase domain. Common, disease-causing mutations increase supradomain undergoes a dimer–monomer cycle concomitant
+LRRK2kinaseactivity,presentingLRRK2asanattractivetargetfor withGTPbindingandhydrolysis(11).Thisisinlinewithfindings
+drugdiscovery.Currently,drugdevelopmenthas mainlyfocused for LRRK2 in cells, which show that the protein predominantly
+onATP-competitivekinaseinhibitors.Here,wereporttheidentifi- occurs as a monomer with low-kinase activity in the cytosol and
+cationandcharacterizationofavarietyofnanobodiesthatbindto as a dimer with high-kinase activity at the membrane (12, 13).
+differentLRRK2domainsandinhibitoractivateLRRK2incellsand These results point toward a complex interplay between the
+in in vitro. Importantly, nanobodies were identified that inhibit GTPaseandkinasedomainsofLRRK2,regulatedbylarge-scale,
+LRRK2 kinase activity while binding to a site that is topographi- conformationalchanges.
+callydistinctfromtheactivesiteandthusactthroughanallosteric
+inhibitory mechanism that does not involve binding to the ATP
+pocket or even to the kinase domain. Moreover, while certain
+nanobodiescompletelyinhibittheLRRK2kinaseactivity,wealso Significance
+identifiednanobodiesthatspecificallyinhibitthephosphorylation
+of Rab protein substrates. Finally, in contrast to current type I
+Parkinson’s disease (PD) is the second-most common neuro-
+kinaseinhibitors,thestudiedkinase-inhibitorynanobodiesdidnot
+degenerative disorder. Mutations leading to overactivation
+induce LRRK2 microtubule association. These comprehensively
+ofLRRK2arealeadingcauseoffamilialPD,andthisprotein
+characterized nanobodies represent versatile tools to study the
+is therefore considered as an appealing target for drug
+LRRK2 function and mechanism and can pave the way toward
+design.Here,wedescribethediscoveryandcharacterization
+noveldiagnosticandtherapeuticstrategiesforPD.
+of a diverse set of LRRK2-targeting nanobodies. A subset of
+thesenanobodiesinhibitLRRK2viaamechanismthatdiffers
+Parkinson’sdiseasejLRRK2jdrugdesignjallostericinhibitorjnanobody
+from the commonly used LRRK2 kinase inhibitors. Impor-
+tantly, some of these nanobodies selectively inhibit certain
+Parkinson’s disease (PD) is a common and devastating neu- LRRK2 activities (Rab phosphorylation) while leaving other
+rodegenerative movement disorder affecting around 2% of activities (autophosphorylation) unaffected. We anticipate
+the global population (1). The disease is characterized by that these nanobodies will find multiple applications as
+degenerationofdopaminergicneurons,whichleadstothetypi- research tools and will open up opportunities for the devel-
+cal symptoms, including resting tremor, bradykinesia, and opment of new PD diagnostics and therapeutics in parallel
+postural instability. Although treatments to alleviate these toothercurrentlypursuedstrategies.
+symptoms have been available for a long time, there is still no
+cure. A very promising strategy that is currently being inten- Author contributions: F.W.H., A.K., C.J.G., and W.V. designed research; R.K.S., A.S.,
+sivelypursuedisthetargetingoftheproteinleucine-richrepeat G.G.,E.S.,F.v.Z.,T.D.M.,A.O.,L.V.R.,andS.H.S.performedresearch;D.C.,J.A.D.,T.U.S.,
+andS.K.contributednewreagents/analytictools;R.K.S.,A.S.,E.P.,E.J.K.,J.S.,F.W.H.,
+kinase 2 (LRRK2). Mutations in LRRK2 are among the most
+A.K.,C.J.G.,andW.V.analyzeddata;andR.K.S.andW.V.wrotethepaper.
+common causes of familial PD (2), while an increased LRRK2 Competingintereststatement:R.K.S.,A.K.,C.J.G,andW.V.areinventorsonafiled
+activity has also been associated with the more frequent idio- patentcoveringfindingsdescribedinthismanuscript(publicationnumber:WO/2021/
+pathic form of PD (3, 4). Moreover, LRRK2 mutations and/or 170540).Allotherauthorsdeclarenocompetinginterests.
+overexpression have also been linked to a number of chronic ThisarticleisaPNASDirectSubmission.D.A.isaguesteditorinvitedbytheEditorial
+Board.
+inflammatoryconditions,includingCrohn’sdisease(5,6).
+This open access article is distributed under Creative Commons Attribution-
+LRRK2 is a large multidomain protein belonging to the
+NonCommercial-NoDerivativesLicense4.0(CCBY-NC-ND).
+ROCO family (Fig. 1A) that bears a rather unique combination
+1Towhomcorrespondencemaybeaddressed.Email:wim.versees@vub.be.
+of two catalytic activities: GTPase activity mediated by the Roc
+This article contains supporting information online at http://www.pnas.org/lookup/
+domainandSer/Thrproteinkinaseactivity(7).Recently,several suppl/doi:10.1073/pnas.2112712119/-/DCSupplemental.
+Rab GTPases were identified as the physiological substrates of PublishedFebruary25,2022.
+PNAS2022Vol.119No.9e2112712119 https://doi.org/10.1073/pnas.2112712119 j 1of12
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+YRTSIMEHCOIB
+
+---PAGE BREAK---
+
+Fig.1. IdentificationofLRRK2-targetingNbs.(A)DomainarrangementofLRRK2,withimportantPDmutationsindicated.TwoLRRK2kinaseactivities
+relevanttothisstudyarealsoindicated:phosphorylationofRabproteinsandautophosphorylationatpositionS1292.(B)Funnelapproachusedinthis
+studytoidentifyandcharacterizeLRRK2-bindingandmodulatingNbs.The10Nbsthatarecharacterizedindetailarecategorizedintofivefunctional
+groups:group1,inhibitallLRRK2kinaseactivities(darkgreen);group2,specificallyinhibitLRRK2Rabphosphorylation(lightgreen);group3,activate
+LRRK2kinase(red);group4,inhibitLRRK2activityincells(orange);andgroup5,noeffectonLRRK2activity(black).(C)SequencesoftheCDR3regions
+ofthe10Nbsthatwereanalyzedindetail.Nb36andNb38belongtothesameCDR3sequencefamily.(D,Lower)DomainmappingofthepurifiedNbs
+usingELISAoneitherFL-LRRK2,theRocCOR,Roc,COR-B,orK-WD40constructs.TheNbsthatonlyshowbindingtoFL-LRRK2wereadditionallytestedfor
+bindingontheRCKWandARMdomainconstructs(SIAppendix,Fig.S3).EachELISAsignalistheaverageofthreeexperiments.(Upper)Theresultsof
+bothofthesedomain-mappingexperimentsareschematicallyshown.
+The most prevalent PD mutations in LRRK2 are clustered regulatory mechanisms of LRRK2 in an alternative way, using
+withinthe catalytic RocCORand kinase domains (Fig. 1A),and compounds that bind outside the ATP-binding pocket, could
+several PD mutations lead to a decrease in GTPase and/or an form a very attractive strategy complementing the currently
+increaseinkinaseactivity(14,15).Mostnotably,autophosphory- explored approaches (22). One way to modulate the dynamics,
+lation of serine-1292 (16) and Rab protein phosphorylation (8) regulation, and activity of proteins is via the use of nanobodies
+areincreasedbypathogenicLRRK2variants andparticularlyby (Nbs), the small and stable single-domain fragments derived
+themostcommonG2019Smutation.Thesefindings support the from camelid heavy chain–only antibodies (23). Accordingly, we
+ideathatLRRK2mutationscausePDthroughagain-of-function recentlyreportedtheidentificationofNbsthatallostericallyacti-
+mechanism,andinhibitionofLRRK2kinaseactivityistherefore vatetheGTPaseactivityofabacterialLRRK2homologbyinter-
+considered to be a particularly promising strategy for the treat- feringwiththeprotein’smonomer–dimercycle(24).
+mentofPD(17,18).However,preclinicalstudieshaveindicated Here, we report the identification and in vitro and in-cell
+thatlong-terminhibitionofLRRK2withATP-competitiveinhibi- characterizationofawiderangeofNbsactingasmodulatorsof
+torsmightpotentiallybeassociatedwithtoxicsideeffects,includ- humanLRRK2kinaseactivity.SomeoftheseNbsbindtosites
+ing kidney abnormalities in rodents and an accumulation of that are topographically distinct from the active site and thus
+lamellarbodiesintypeIIpneumocytesinthenonhumanprimate act via a completely different mode-of-action compared to the
+lung (19–21). Targeting the multiple enzymatic functions and currentlyavailable,ATP-competitivekinaseinhibitors.
+2of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Results different LRRK2 domains. The Nbs were expressed as GFP-
+Identification of a Wide Variety of LRRK2-Binding Nbs. To identify fusions from a pEGFP vector in LRRK2 (wild type)-overex-
+Nbs that bind LRRK2 and to maximize chances of finding pressing HEK293 cells, and a pull-down experiment was
+LRRK2 activity–modulating Nbs, three immunization strategies performed using magnetic GFP-nanotrap beads (SI Appendix,
+were followed, each time using a different llama (Fig. 1B). In a Fig.S5).This experiment showedthatall testedNbswereable
+first immunization strategy, we immunized a llama with the to pull-down LRRK2 under these conditions. This thus indi-
+LRRK2 RocCOR construct (SI Appendix, Fig. S1), and after catesthatthese18Nbsarefunctionalasintrabodiesinthecon-
+immunization, Nbs were selected via a phage display–panning text of the cytoplasm of human cells and have sufficiently high
+approachusingfull-lengthLRRK2(FL-LRRK2)asthebaitpro- affinitytopull-downtheirtargetprotein.
+Subsequently, to assess the influence of these 18 Nbs on
+tein. In immunization strategies 2 and 3, we immunized llamas
+withLRRK2eitherinthepresenceofalargeexcessofGTPγS(a in-cell LRRK2 kinase activity, we monitored two activities of
+LRRK2:phosphorylationoftheendogenoussubstrateRab10at
+nonhydrolysableGTPanalog)orinthepresenceofalargeexcess
+positionT73andLRRK2autophosphorylationatpositionS1292
+of GDP, and phage display selections were performed using the
+(8, 9, 16, 25). Both activities have previously been shown to be
+correspondingproteins.Additionally,toenrichforNbsbindingto
+increased in the most relevant LRRK2 PD mutants, including
+the Roc domain, phage display selections were performed using
+eithertheguanosine-50-(γ-thio)-triphosphate–(GTPγS)orguano- the common G2019S mutant. In this case, we thus coexpressed
+sine-50-diphosphate (GDP)–bound Roc domain protein. These the LRRK2 (G2019S) mutant together with the different
+Nb-GFPfusionsinHEK293Tcells(Fig.2andSIAppendix,Fig.
+different strategies finally resulted in 168 Nb families (each Nb
+S6). Among the 18 selected Nbs, four Nbs strongly and consis-
+family displaying a unique complimentary determining region 3
+tently decreased both LRRK2 autophosphorylation and Rab10
+[CDR3]sequence).BasedonaninitialscreeningofcrudeEscher-
+phosphorylation incells comparedtothenegativecontrol:Nb1,
+ichiacolicellextracts,expressingtheseNbs,inanenzyme-linked
+Nb6, Nb23, and Nb42. Another three inhibitory Nbs only
+immunosorbentassay(ELISA)andinLRRK2activityassays,42
+decrease the level of Rab10 phosphorylation, while they largely
+Nbs belonging to 41 different CDR3 sequence families were
+leave autophosphorylation unaffected: Nb17, Nb36, and Nb38.
+selected, expressed, and purified to homogeneity (SI Appendix,
+Finally,two Nbs increasethelevelsofLRRK2-mediatedRab10
+Fig.S2andTableS1).
+phosphorylation:Nb22andNb28.TheotherNbshaveeitherno
+Subsequently, binding to FL-LRRK2 was confirmed for this
+effect or a somewhat less outspoken or more variable effect on
+set of purified Nbs using ELISA, while in parallel also, a first
+thekinaseactivities.Basedontheirdomainspecificityandtheir
+mapping of the binding regions of these Nbs was performed by
+effect on LRRK2 kinase activity (representatives of inhibiting,
+assessingthebindingtopurifiedRocCOR,Roc,C-terminalsub-
+activating, and neutral Nbs), we selected the following 10 Nbs
+domainofCOR(COR-B)andkinase-WD40(K-WD40)domains for further in-depth characterization: Nb1, Nb6, Nb17, Nb22,
+of LRRK2 (Fig. 1D). Nearly all tested Nbs show binding to Nb23,Nb36,Nb38,Nb39,Nb40,andNb42(Fig.1C).
+FL-LRRK2and/oratleastoneofthedomainconstructs,except
+for two Nbs (Nb25 and Nb29). All seven purified Nbs that Epitope Mapping and Affinity of LRRK2-Modulating Nbs. In addi-
+resultedfrom theimmunizationwiththeRocCOR domaincon- tion to the ELISA experiment described in the paragraph
+struct (Immunization 1) specifically interacted with the COR-B. "Identification of a Wide Variety of LRRK2-binding Nbs," we
+AmongtheNbsobtainedfromtheimmunizationsandselections used a cross-linking mass spectrometry (CL-MS) approach to
+using FL-LRRK2, the majority bound within the K-WD40 obtain more detailed insight in the binding epitopes of the 10
+domain of the protein (18 Nbs). Another subset of 10 Nbs selected Nbs. The CL-MS data revealed that the different Nbs
+showed robust binding to LRRK2, while no binding was cross-link to lysines within LRRK2 predominantly via a con-
+observed to any of the individual LRRK2 domain constructs. servedlysineresidueintheframework3regionoftheNb.This
+We therefore assume that these Nbs either bind exclusively to lysineresidueis presentin all selected NbsexceptforNb6,for
+the N-terminal region of LRRK2 (armadillo-ankyrin-LRR whichcorrespondinglynocross-linkingdatacouldbeobtained.
+domains) that was not covered by individual domains in the Overall, the CL-MS data are in very good agreement with the
+ELISA and/or bind on an epitope on the interface of two or results of the domain mapping using ELISA (Fig. 3A) (26).
+more domains and thus require the FL-LRRK2 protein for BasedontheELISAexperiments,Nb17,Nb36,andNb38were
+binding.Tofurtherdistinguishbetweenthesetwoscenarios,we foundto bindeitheron theN-terminalANKorLRR domains
+performed an additional ELISA experiment for those 10 Nbs ofLRRK2ortobindontheinterfaceofseveraldomains(“FL-
+using FL-LRRK2 and its N-terminal armadillo (ARM) and LRRK2 binders”). Correspondingly, CL-MS reveals that all
+C-terminal Roc-COR-Kinase-WD40 (RCKW) domain con- these Nbs indeed make multiple contacts to the N-terminal
+structs (SI Appendix, Fig. S3). This experiment showed that LRR domain as well as C-terminal parts of LRRK2, including
+while none of the Nbs bound exclusively to the C-terminal the kinase domain (Nb17 and Nb38) and both the kinase and
+RCKW part of LRRK2, five Nbs bound to the ARM domain WD40 domain (Nb36). While the domain mapping suggested
+and five Nbs required the full-length protein for binding. that Nb39 binds to the N-terminal ARM domain, the CL-MS
+Finally,alastsetofNbswerespecificallyselectedbyphagedis- experimentshowsmultiplecross-linkswithN-terminaldomains
+playpanningontheLRRK2Rocdomain,resultinginfiveRoc and the COR domain. This could reflect a high motility of the
+domain–bindingNbs(Nb32,Nb33,Nb34,Nb35,andNb42;note ARMdomainwithrespecttotheotherdomains,asalsoshown
+thatNb42didnotshowclearbindingtoRocinELISA,butthe in the recent cryogenic electron microscopy (cryo-EM) struc-
+binding was confirmed by size-exclusion chromatography; SI ture (27), bringing the Nb (transiently) in proximity to these
+Appendix, Fig. S4). The results of this initial domain mapping other domains. For Nb42, only one cross-link with a lysine
+areschematicallysummarizedinFig.1D. (K1502) within the Roc domain is identified, in good agree-
+ment with the domain mapping in ELISA. Nb22, Nb23, and
+Nbs Bind LRRK2 and Modulate Its Activity in Cells. After confirm- Nb40wereallidentifiedasK-WD40bindersinELISA,andcor-
+ing the binding of 40 purified Nbs to LRRK2 in vitro, we next respondingly, the cross-linking data reveals interactions with
+wanted to test whether these Nbs bound to LRRK2 in human the WD40 domain (Nb22 and Nb40) or the kinase domain
+embryonickidney293(HEK293) cellsoverexpressingLRRK2. (Nb23). Interestingly, Nb1, which was unequivocally identified
+Hereto, we selected a subset of 18 Nbs, considering Nbs origi- asa COR-B binder in ELISA, correspondingly makes multiple
+nating from the three immunization strategies and targeting cross-links with the COR-B domain (K1824, K1832, and
+YRTSIMEHCOIB
+Singhetal. PNAS j 3of12
+NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2 https://doi.org/10.1073/pnas.2112712119
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Fig.2. NbsmodulateLRRK2activityincells.(A)InfluenceofNbsonthekinaseactivityoftheLRRK2(G2019S)variantinHEK293Tcells.LRRK2(G2019S)
+anditseffectorRab29wereoverexpressedtogetherwithGFP-taggedNbsinHEK293Tcells.Anegativecontrol,inwhichnoNbisoverexpressed(“No
+Nb”),isalsoincluded.Inrowslabeled“pLRRK2,”LRRK2pS1292levelsaredeterminedbyWesternblotusingasite-specificanti-pLRRK2(pS1292)antibody
+(Abcam,ab203181)(shownatdifferenttimesofdevelopment).Intherowslabeled“pRAB10,”endogenouspT73-Rab10levelsaredeterminedbyWestern
+blotusingtheMJFF(MichaelJ.FoxFoundation)/AbcamantibodyMJF-R21(Abcam,ab230261)(shownatdifferenttimesofdevelopment).Thethreelower
+rowscontaincontrolsofLRRK2,GFP-Nb,andRab10expressionlevels,determinedonadifferentWesternblotthanpLRRK2andpRab10.Blotisrepresen-
+tativeofn=3(SIAppendix,Fig.S6).(B)Quantificationofthreedifferentreplicates(AandSIAppendix,Fig.S6)basedonthedensitometricanalysisof
+theWesternblotsrelativetothecontrol(noNbexpressed).(Left)LRRK2autophosphorylationatS1292.(Right)LRRK2-mediatedRab10phosphorylation
+atT73.Medianvalues(bars)andSDs(errorbars)areshown.Individualvaluesrepresentingthethreereplicatesareshownasindividualdatapoints.
+K1833), but also, cross-links are found with residues within subsequentlyusedtocalculateK valuesfromthecorresponding
+D
+other LRRK2 domains, including the kinase domain and the dose–response curves fitted on a Langmuir model. This yields
+leucine-rich repeats. This finding is in good agreement with a K values ranging from 2 to 60 nM (Table 1 and SI Appendix,
+D
+very central localization of the COR-B domain within recent Fig. S8). Overall, a (nearly 5- to 10-fold) higher affinity is
+structuralmodelsofLRRK2(27–30). obtainedwithBLIcomparedtoMST.Thesedifferencesareprob-
+To determine the binding affinity, K , (dissociation constant) ably due to the experimental setup, with MSTusing LRRK2 in
+D
+of the 10 Nbs two methods were used in parallel: microscale solutionandBLIusingLRRK2trappedonasurfacebymeansof
+thermophoresis (MST) and biolayer interferometry (BLI). For asecondNb,whichmightalsoresultindifferentLRRK2confor-
+theMSTexperiment,wesitespecificallylabeledthe10Nbswith mations.Additionally,theK valuesobtainedviatheMSTtitra-
+D
+an m-TAMRA fluorophore at its C terminus using sortase- tionwillscalewiththeconcentrationofproperlyfoldedLRRK2
+mediated coupling (24) and then titrated increasing amounts of in the sample during the measurement, and denaturation of a
+FL-LRRK2totheseNbs(SIAppendix,Fig.S7).For all10 Nbs, partoftheLRRK2proteincouldhenceleadtoanoverestimation
+anMSTsignalwasobserved,exceptforNb23,whichdidnotgen- of the K values (note that in MST LRRK2 is used at varying
+D
+erate a change in thermophoresis behavior upon binding to concentrations,whileinBLItheNbsareusedatvaryingconcen-
+LRRK2.FortheotherNbs,K valuesarefoundintherangeof trations). Subsequently, a BLI experiment was performed using
+D
+25 to 150 nM (Table 1 and SI Appendix, Fig. S7). For the BLI the biotinylated RCKW construct of LRRK2 coupled to the
+experiment, LRRK2 was first trapped on a streptavidin-coated streptavidine-coated biosensors and titration with increasing
+biosensor using biotinylated Nb40 as trapping agent (except to amount of Nbs (SI Appendix, Fig. S9). In agreement with the
+assess binding of Nb40, in which Nb42 was used as trapping ELISAandCL-MSexperiments,nobindingtotheRCKWcon-
+agent),afterwhichbindingofallNbstoLRRK2wasdetermined. structisobservedforNb17,Nb36,Nb38,andNb39.Comparison
+AclearbindingsignalwasobtainedforallNbs(includingNb23), of the K values obtained with BLI of Nb1, Nb6, Nb22, Nb23,
+D
+with some Nbs showing an indication of a second slow phase in and Nb40 for FL-LRRK2 and the RCKW protein (Table 1)
+the binding and dissociation curves, which could either reflect showsthatthesevaluesareinrelativelygoodagreement,indicat-
+conformationalchangesuponNbbindingorthepresenceofpre- ing that the N-terminal domains of LRRK2 only play a minor
+existing conformational heterogeneity in LRRK2. Fitting of the roleintheequilibrium-bindingaffinitiesofthoseNbs.
+sensorgrams was performed initially using a 1:1 binding model, Considering their high binding affinity, we next tested
+and the resulting equilibrium response (R ) values were whetherthose Nbs would also be ableto pull-down LRRK2 at
+eq
+4of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Fig.3. NbsbindLRRK2viainteractionswithdifferentdomains.(A)MappingoftheNb-bindingepitopesusingCL-MS.TheNbsaredividedintofivegroups
+accordingtotheireffectonLRRK2kinaseactivity,asdefinedinFig.1B.Theobservedcross-linksbetweentheNbsandLRRK2areindicatedbylines,withthe
+correspondinglysineresiduesonLRRK2indicatedbytheirresiduenumber.ThedomainspecificityoftheNbs,asdeterminedinELISA,isgivenbelowthe
+respectiveNbs.(B)Nbsimmunoprecipitateendogenous(mouse)LRRK2.LysatesderivedfromRAW264.7cellswereincubatedwith1.5μMpurifiedHis-tagged
+NbsoranirrelevantcontrolNb(IrrNb),andpull-downswereperformedusingmagneticDynabeads.Asapositivecontrol(+cntrl)LRRK2waspulled-down
+usingaLRRK2-specificNb.LRRK2wasdetectedviaimmunoblotting(IB)usingtwodifferentantibodies(C-412and24D8).Theblotisrepresentativeofn=3.
+endogenous/physiological expression levels. Therefore, we NbsInhibitLRRK2Peptideand/orRabPhosphorylationIn Vitro.To
+turned to lysates of mouse RAW264.7 cells, which express test if the 10 Nbs directly influence LRRK2 (wild type) kinase
+LRRK2atrelativelyhighlevels(31).Interestingly,wefindthat activity,wenextperformedinvitroassaysusingpurifiedproteins.
+all 10 Nbs efficiently pull-down LRRK2 when added to these
+Inafirstapproach,wemeasuredLRRK2kinaseactivityvis-(cid:3)a-vis
+lysates (Fig. 3B), showing that 1) the Nbs are cross-reactive an optimized LRRK2 peptide substrate (AQT0615) using the
+toward mouse LRRK2 and 2) their affinity is sufficiently high commercially available PhosphoSens Protein Kinase Assay
+topull-downendogenouslevelsofLRRK2fromcelllysates. (AssayQuant Technologies Inc.) (Fig. 4A), while in a second
+approachwealsomeasuredtheinfluenceoftheNbsonLRRK2-
+mediated Rab8a phosphorylation using a Western blot–based
+method(Fig.4B).Theinfluenceofall10NbsonLRRK2activity
+Table1. EquilibriumK D (K D innanomolar,nM)forbindingofthe was screened at a fixed Nb concentration of 25 μM and com-
+setof10Nbs(belongingtofivefunctionalgroupsbasedontheir
+paredtoano-Nbnegativecontrolandapositivecontrolinwhich
+effect on kinase activity) to either FL-LRRK2 or its RCKW domain
+theATP-competitiveLRRK2inhibitorMLi-2wasadded(32–34).
+construct,asassessedbytwomethodsinparallel:MSTandBLI
+These experiments were performed with LRRK2 either in the
+Nb Bindingepitope Nbgroup FL-LRRK2 RCKW presence of a large excess (500 μM) of GDPor GTPγS, but no
+(ELISA) K (nM) K (nM) significant influence of the nucleotide on the inhibition profile
+D D
+wasobserved(SIAppendix,Fig.S10).Consistentwiththedatain
+MST BLI BLI
+cells, the WD40-binding Nb22 activates the kinase activity of
+Nb1 COR-B Group1 91±28 55±12 39±4 LRRK2,bothtowardthepeptideandRab8asubstrate,byabout
+Nb6 COR-B Group1 83±24 8±1 5±1 50%comparedtothecontrols.ThegroupofNbs,whichshowed
+Nb23 K-WD40 Group1 NBS* 20±5 17±7 aninfluenceonRabphosphorylationincellswhileleavingauto-
+Nb17 FL-LRRK2‡ Group2 67±24 2.0±0.3 NB† phosphorylationunaffected(Nb17,Nb36,andNb38;Fig.2),very
+Nb36 FL-LRRK2‡ Group2 78±25 16±8 NB† consistentlyonlyshowaverysmallornoeffectonLRRK2pep-
+Nb38 FL-LRRK2‡ Group2 48±11 37±4 NB† tide phosphorylation, while they have a prominent effect on
+Nb22 K-WD40 Group3 145±55 10±1 5±1 Rab8a phosphorylation in vitro. Combined, our cellular and
+Nb42 Roc Group4 94±30§ 58±18 18±2 in vitro assays thus suggest that these three Nbs do not directly
+Nb39 FL-LRRK2‡ Group5 79±19 12±3 NB† affect LRRK2 kinase activity per se but rather specifically influ-
+Nb40 K-WD40 Group5 26±10 2.5±0.3 2.6±0.3 ence Rab phosphorylation. In contrast, Nb1, Nb6, and (to a
+lesser extent) Nb23 have a clear inhibitory effect on LRRK2
+*NBS:nobindingsignalobservedinMST.
+†NB:nobindingonRCKW. kinase activity toward both peptide and Rab substrates in vitro.
+‡FL-LRRK2:full-lengthLRRK2. This is again in very good agreement with our data in cells
+§ValuedeterminedinpresenceofGTPγSinsteadofGDP,whichwasusedin (Fig.2)whichshowedthattheseNbsinhibitbothLRRK2auto-
+alltheothermeasurements. phosphorylation and Rab phosphorylation, thus suggesting that
+YRTSIMEHCOIB
+Singhetal. PNAS j 5of12
+NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2 https://doi.org/10.1073/pnas.2112712119
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Fig.4. ModulationofinvitrokinaseactivitybyLRRK2-targetingNbs.(A)EffectofNbsonLRRK2kinaseactivitymeasuredusingtheLRRK2-optimized
+AQT0615peptideassubstrate.(B)EffectofNbsonLRRK2-mediatedphosphorylationofRab8adeterminedviaaWesternblotassay(SIAppendix,Fig.
+S10).InbothAandB,theinfluenceoftheNbs(25μM)ontherelativekinaseactivitycomparedtothe“No-Nb”controlisplotted,andapositiveMLi-2
+controlisincluded.Eachbarreflectstheaverage(±SD)ofthreeindependentmeasurements.(C–E,Upper)Dose–responsecurvesfortheinhibitionofthe
+invitroLRRK2kinaseactivitybythegroup1Nbs:Nb1(C),Nb6(D),andNb23(E),usingaserialdilutionoftheNbandafixedconcentrationofAQT0615
+peptide(10μM)andATP(1mM).(Middle)TheMichaelis–MentencurvesobtainedforLRRK2atvaryingconcentrationsofATPandafixed(subsaturating)
+concentrationofpeptidesubstrate(AQT0615)andatvaryingconcentrationsoftherespectiveNbs.(Lower)Thecorrespondinglinearizationsaccordingto
+theLineweaver–Burkmethod(double-reciprocalplot).TheNbconcentrationsusedareindicatedbelowtheplots.Eachdatapointreflectstheaverage
+(±SE)ofthreeindependentmeasurements.TheIC50(±SD)valuesresultingfromfittingonathree-parameterlogisticequationandtheKi appandαvalues
+(±SD)resultingfromglobalfittingonamixed-typeinhibitionmechanismareindicatedonthegraphs.
+these Nbs act as true inhibitors of total LRRK2 kinase activity. Similarly, a dose–response was observed for Nb17, Nb36, and
+One exception seems to be Nb42, which inhibited both LRRK2 Nb38 with respect to LRRK2 Rab8a phosphorylation (SI
+autophosphorylation and Rab phosphorylation in cells, while no Appendix, Fig. S10), but saturation of the blot at high-Nb con-
+inhibitoryeffectcouldbeobservedinvitro. centrations prevented a more qualitative treatment of these
+Since we found that Nb1, Nb6, and Nb23 inhibit LRRK2 curves.
+kinase activity with respect to peptides and Rab proteins
+invitro,wecontinuedtoperformadose–responseanalysiswith LRRK2-Inhibiting Nbs Act via a Non–ATP-Competitive Mechanism.
+thesethreeNbsusingthesamemodelpeptidesubstrateandat Three Nbs (Nb1, Nb6, and Nb23) were identified that robustly
+a fixed concentration of 1 mM ATP (Fig. 4 C–E). Fitting of inhibit LRRK2 autophosphorylation and Rab phosphorylation
+these dose–response curves yielded half-maximum inhibitory activity in cells, as well as LRRK2 kinase activity toward pep-
+concentration (IC ) values of 8 ± 2 μM and 14 ± 3 μM for tide and Rab substrates in vitro. Combined, these experiments
+50
+Nb1 and Nb6, respectively, and an approximate IC value of suggestthattheseNbstargettheLRRK2kinaseactivityperse.
+50
+65μM forNb23.The differencebetweentheobserved K and Interestingly,whiletheELISAandCL-MSexperimentssuggest
+D
+IC valuesoftheseNbscouldbeindicativeofacomplexmech- that Nb23 binds to the kinase domain, Nb1 and Nb6 bind to
+50
+anismofinhibition,involving(slow)conformationalchangesin theCOR-Bdomain.Thisstronglysuggeststhatatleastthelat-
+LRRK2upon Nb binding,thereby differentially affecting equi- ter two Nbs act via binding to a pocket that is different from
+librium (K ) and kinetic (IC ) values. Such differences in K the ATP-binding pocket. To further confirm this, we set out to
+D 50 D
+andIC valueshavebeenpreviouslyobservedforNbs(24,35). determine the mechanism of inhibition (competitive versus
+50
+6of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+uncompetitiveversusmixed/noncompetitive)ofthesethreeNbs suggestthatthebindingofNb17ishardlyaffectedbythepres-
+with regard to ATP. Full Michaelis–Menten curves were ence of Rab8a (approximate EC values of 3 versus 5 nM in
+50
+obtained at a fixed (probably subsaturating) concentration of absence or presence of Rab8a, respectively). For Nb36 and
+peptide substrate (10 μM) and varying concentrations of ATP Nb38,anexactanalysisiscomplicatedbythehigh-Rab8aback-
+(Fig. 4 C–E). For Nb1 and Nb6, linearization of the curves ground, and, while still a clear binding of Nb36 is observed in
+usingtheLineweaver–Burkplotclearlyshowsintersectinglines presence of Rab8a, the curves suggest that, at least in the case
+leftofthey-axis,indicativeofamixed-typeinhibition.Thiscon- ofNb38,Rab8amightinterferewithbindingoftheNb.
+firms that these Nbs are not competing with ATP for binding Together, our data show that Nb1, Nb6, and Nb23, which
+and that they inhibit the reaction by binding on a topographi- inhibit LRRK2 peptide and Rab phosphorylation, clearly bind
+cally different site, in agreement with the ELISA and CL-MS outside the active site pocket, since they do not compete with
+domain/epitope-mapping data. For Nb1, a global fit of the either MLi-2, peptide, or Rab8a binding and correspondingly
+kinetic data using a mixed inhibition model accordingly gives act as noncompetitive inhibitors. For Nb1 and Nb6, this is in
+an apparent inhibition constant (K i app) of 16 ± 4 μM with an verygoodagreementwiththeirbindingtotheCOR-Bdomain.
+α-value of 1.8 ± 0.5, corresponding to a K ic app (competitive Since Nb17,Nb36, and Nb38 do not affect peptidephosphory-
+K i app - equal to apparent K i for apo-LRRK2) of 16 μM and a lation, it is clear that they do not block the binding of ATPor
+K iu app (uncompetitive K i app - equal to apparent K i for ATP- peptide substrates, while our data does not rule out that
+bound LRRK2) of 30 μM. For Nb6, fitting on the same model they might interfere to a certain extent with Rab8a binding
+yields a K i app of 5 ± 1 μM with an α-value of 1.6 ± 0.4, corre- (especiallyincaseofNb36andNb38).
+spondingaK appof5μMandaK appof8μM.Forthekinase
+ic iu
+domain–binding Nb23, the linearized curves intersect closer to ExpressionofLRRK2-TargetingNbsDidNotResultinLRRK2Relocal-
+the y-axis, indicating a mechanism which is more ATP- ization to Microtubules. LRRK2 pharmacological kinase inhibi-
+competitive like. Yet the lines do not exactly intersect on the tors of different structural classes induce cellular recruitment
+y-axisandasystematicdecreaseintheapparentmaximalveloc- of overexpressed LRRK2to microtubules,similar to four out of
+ity (V max app) and increase (or no effect) in the apparent the five major PD-causing mutations (37, 38). The binding of
+Michaelisconstant(K M app)withincreasingNbconcentrationis LRRK2 to microtubules subsequently reduces the kinesin- and
+observed, which also here indicates a mixed-inhibition mecha- dynein-mediated transport along microtubules (29). In order to
+nism (SI Appendix, Fig. S11). Fitting on a mixed-inhibition investigate whether our 10 identified LRRK2 kinase-modulating
+model for Nb23 gives a K i app of 9 ± 1 μM with an α-value of Nbs result in a similar phenotype, HEK293 cells were cotrans-
+8±2,correspondingaK
+ic
+appof9μMandaK
+iu
+appof72μM.
+fected with constructs coding for mScarlet-LRRK2 and GFP-
+ToconfirmthatNb1,Nb6,andNb23bindoutsidethekinase Nbs.Forall10Nbsanalyzed,confocalmicroscopyanalysisshows
+ATP-binding pocket and thus target a different site than the that, at the expression levels obtained in our experiments, no
+“classical” ATP-competitive inhibitors, such as MLi-2 (32–34), relocalization to microtubules is observed 48 h after cotransfec-
+we performed a competition ELISA titration experiment (SI tion with the Nbs, in contrast to MLi-2 treatment in which fila-
+Appendix, Fig. S12). In this setup, the ELISA experiment was mentous,skein-likestructuresofLRRK2areobserved,indicating
+performedusingafixedconcentrationofLRRK2coatedonthe thattheNbstrapLRRK2inadifferentconformationcompared
+bottom of the ELISA plate and using a dilution series (from to classical inhibitors (SI Appendix, Fig. S14) (39). Next, we
+450 to 0.2 nM) of either of the three Nbs, resulting in a wanted to investigate whether the LRRK2-targeting Nbs have
+dose–response titration curve reflecting an apparent affinity of
+the ability to alter the recruitment of LRRK2 to microtubules
+theNbs.Subsequently,arepetitionofthesetupinthepresence
+induced by inhibition of LRRK2 kinase activity by the specific,
+ofalargeexcessofMLi-2(1μM),orofthecorrespondingnon-
+ATP-competitive inhibitor MLi-2 (32–34, 36). To do that,
+tagged Nb (at 9 μM) as a positive control, was performed.
+HEK293 cells cotransfected with mScarlet-LRRK2 and GFP-Nb
+Whileaveryprominentrightwardshiftinthetitrationcurvesis constructs were treated with 1 μM MLi-2 (Fig. 5 and SI
+observed when adding the corresponding untagged Nb as a
+Appendix,Fig.S15).Theconfocalimageswereanalyzed,andcells
+directorthostericcompetitor,norightwardshiftisobservedfor
+that showed coexpression of both LRRK2 and Nbs were scored
+any of the three Nbs in presence of MLi-2. This thus further
+as the following: 1) show LRRK2 aggregates and/or filamentous
+provesthatneitherofthesethreeNbsbindinthesamepocket structures or 2) display uniform cytoplasmic distribution of
+asthetypeIATP-competitiveinhibitorMLi-2(32–34,36),thus
+LRRK2(SIAppendix,Fig.S16).Interestingly,cellscotransfected
+confirmingthattheseNbsactviaanon–ATP-competitiveinhib-
+with a subset of the tested Nbs showed significantly reduced,
+itory mechanism. To further assess whether Nb1, Nb6, and
+MLi-2–induced LRRK2 recruitment to microtubules, and
+Nb23 compete with either peptide or Rab substrate binding, a
+LRRK2 cytoplasmic distribution was maintained in contrast to
+similar competition ELISA experiment was performed in
+absenceorpresenceofRab8a(at10μM)orexcesspeptidesub- controls with MLi-2–treated cells cotransfected with GFP or an
+strate (LRRKtide at 100 μM) (SI Appendix, Fig. S12). At the irrelevantNb.Attheexpressionlevelsobtained,whichisvarying
+amongdifferentNbs,thisrescuingeffectwasobservedforNb17,
+concentrations of LRRKtide and Rab8a used, no shift in the
+Nb22,Nb23,Nb36,Nb38,andNb40.
+titrationcurvescanbeobserved,indicatingthattheNbsdonot
+compete with, or at least do not completely block, the binding
+Discussion
+ofthosesubstrates.
+Since Nb17, Nb36, and Nb38 specifically inhibit Rab phos- LRRK2 is an intensively pursued target for drug development
+phorylation, a similar experiment was also performed with in the fight against PD and might also hold promise to treat
+theseNbsinpresenceofRab8a(SIAppendix,Fig.S13).ELISA certain inflammatory diseases such as Crohn’s disease (6, 17,
+signals for the FL-LRRK2–binding Nbs are generally low, 18, 32). However, certain concerns for potential adverse side
+probably due to the solid-phase coating of LRRK2 making effects associated with the use of small-molecule kinase inhibi-
+their binding epitopes less accessible. Therefore, both the con- tors directed toward the LRRK2 ATP-binding pocket remain
+centrations of the Nbs (900 to 0.4 nM) and Rab8a (20 μM) (19, 20, 40). Here, we report the identification of a large and
+were increased in this experiment. This higher-Rab8a concen- diverse repertoire of Nbs directed toward different domains of
+trationledtoahighbackgroundbecauseofnonspecificbinding LRRK2 (Fig. 1). After a preselection based on their effect on
+of the primary antibodies used in the ELISA, complicatingthe LRRK2 kinase activity in cells, we chose to characterize 10 of
+analysis of these experiments. Nevertheless, the experiments these Nbs in detail. All 10 Nbs were able to efficiently pull-
+YRTSIMEHCOIB
+Singhetal. PNAS j 7of12
+NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2 https://doi.org/10.1073/pnas.2112712119
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Fig.5. NbscanrescueMLi-2–inducedLRRK2relocalizationtomicrotubules.(A)EffectofNbsonMLi-2–inducedmicrotubulerelocalizationofLRRK2(results
+foraselectedsetofNbsareshown,seeSIAppendix,Fig.S15foralldata).HEK293cellswerecotransfectedwithGFPortheGFP-taggedNbsandmScarlet-
+LRRK2for24handthentreatedwith1μMMLi-2for90min.CotransfectionofmScarlet-LRRK2withonlyGFPoranirrelevantcontrolNb(IrrNb)showthe
+MLi-2–induced,filamentous,skein-likestructuresofLRRK2indicatedbywhitearrows.CotransfectionwithasubsetofGFP-NbsinhibitedtheMLi-2–induced
+LRRK2relocalization.(ScaleBar,5μM.)(B)QuantificationofresultsshowninAandSIAppendix,Fig.S15.Aminimumof200transfectedcellswereanalyzed.
+OnlycellscoexpressingbothLRRK2andNbswereconsideredandgroupedaseithershowingLRRK2aggregatesand/orfilamentousstructuresorpossessinga
+uniformcytoplasmicdistributionofLRRK2(asillustratedinSIAppendix,Fig.S16).ForeachNb,theaveragepercentageofcellsshowingauniformcytoplasmic
+LRRK2distribution(gray)versusaggregatesand/orfilamentousstructures(black),togetherwiththeSEMsforthreebiologicalreplicates,areshownwith
+Pvalues:one-wayANOVAandDunnett’smultiplecomparisonstest(MLi-2onlyasacontrol),****P≤0.0001andns:notsignificantlydifferent(P>0.05).
+downLRRK2fromcelllysates,bothuponLRRK2overexpres- protein–protein interactions or by preventing Rab29-mediated
+sionandatendogenousLRRK2expressionlevels.Thisreflects recruitmentto a relevantsubcellularcompartment,such asthe
+ahigh-affinitybinding,whichwassubsequentlyconfirmedusing Golgi. Finally, binding of the fifth group of Nbs (Nb39 and
+a combination of two biophysical methods which yielded K potentially Nb40) does not have a large influence on LRRK2
+D
+valuesrangingfrom2to150nM. kinaseactivity.Ingeneral,aneffectormolecule(eitherinhibitor
+We analyzed the influence of this set of Nbs on LRRK2 or activator) is defined as being allosteric according to the fol-
+autophosphorylation and Rab10 phosphorylation in cells, as lowing three criteria: 1) the effector is not chemically identical
+well as their effect on in vitro LRRK2 kinase activity toward a to the substrate, 2) the effector elicits a change in the activity
+peptide and a Rab-GTPase substrate. This allows us to classify or functional properties of the protein, and 3) the effector
+these Nbs in five functional groups (Fig. 1). Nbs belonging to binds at a site of the protein that is topographically distinct
+functional group1 (containing Nb1, Nb6, and Nb23) inhibit all fromtheactivesite(41).Whilekinase-activatingNbsbelonging
+tested LRRK2 kinase activities, including auto- and Rab phos- to group3 would automatically classify as allosteric, this defini-
+phorylation in cells and peptide and Rab phosphorylation tion also clearly shows that the inhibitory group1 Nbs can be
+in vitro. This indicates that these Nbs probably block LRRK2 consideredasallostericmodulatorsofLRRK2activity.Indeed,
+kinase activity per se. Group2 Nbs (containing Nb17, Nb36, thegroup1Nbs(Nb1,Nb6,andNb23)actasmixed-typeinhibi-
+and Nb38) only inhibited Rab phosphorylation in cells and in torsofLRRK2activitywithrespecttoATPandcannotbeout-
+in vitro, while leaving autophosphorylation and peptide phos- competed by MLi-2 or peptide and Rab substrates, showing
+phorylation unaffected. Group3 Nbs (containing Nb22) acti- thattheydonotbindintheactivesite.Nb1andNb6moreover
+vated LRRK2 kinase activity both in cells and in in vitro. The bindtoanentirelydifferentdomain(COR-B),furtherillustrat-
+group4 Nb, Nb42, had a strong inhibitory effect on LRRK2 ing their allosteric mode of inhibition. Since the group2 Nbs
+autophosphorylation and Rab phosphorylation in cells, while (Nb17,Nb36,andNb38)onlyaffectRabphosphorylation,they
+leavingLRRK2activityunaffectedinvitro.Atthismoment,we most likely also do not overlap with the ATP- or peptide
+canonlyspeculatethatthisNbspecificallyinfluencesthein-cell substrate–binding pockets, and they probably either sterically
+behavior of LRRK2, potentially by influencing important interfere with the binding of the Rab substrates or stabilize
+8of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+LRRK2 in a conformation that precludes Rab binding or that (Fig. 6 and SI Appendix, Fig. S17B). The latter residues are
+renders LRRK2 specifically unable to phosphorylate Rab sub- located in relatively close proximity to each other but are
+strates.ThecompetitionELISAexperiments(SIAppendix,Fig. located quite far from the ATP-binding pocket. Interestingly,
+S13) show that at least Nb17 still binds in presence of Rab8a, bothcross-linkingsiteslayadjacenttoresidueN2081,ofwhich
+allowing us to speculate that this Nb might trap LRRK2 in a the N2081D mutation has been identified as a major suscepti-
+conformation which only allows the Rab proteins to bind in a bility factor for Crohn’s disease (6). N2081 makes a hydrogen
+nonfunctional conformation that does not allow entry of the bondwithN1269withintheLRRdomain,whichmightcontrib-
+Rabintotheactivesitepocket. ute to the stabilization of the LRR domain in an inactivating
+The CL-MS experiments in combination with the recent conformation, and correspondingly, the N2081D mutation has
+cryo-EM structures of FL-LRRK2 and its C-terminal RCKW been shown to increase Rab10 phosphorylation. We could
+construct(27,29)alsoallowustomaptheapproximatebinding hence speculate that Nb23 inhibits LRRK2 kinase activity by
+positions of the Nbs and to speculate more on the mechanism further locking LRRK2 in this inactive conformation. The fact
+of inhibition or activation of the group1, group2, and group3 that none of the group1 Nbs directly bind in the kinase ATP-
+Nbs (Fig. 6 and SI Appendix, Fig. S17). The kinase inhibitory bindingpocketalsocorrespondswiththeobservationthatnone
+group1 Nbs fall in two categories based on their binding of these Nbs induce microtubule relocalization of LRRK2 in
+domains. According to ELISA-based domain mapping, Nb1 contrasttoATP-competitivetypeIinhibitors.
+and Nb6 are able to bind exclusively to the COR-B, and the Allgroup2Nbsbelongtowhatwecalled“FL-LRRK2bind-
+CL-MSdataforNb1suggestclosecontactswithresiduesofthe ers” that bind on the interface of N-terminal and C-terminal
+COR-B,LRR,andkinasedomains(Figs.3Aand6).Anoverall domains. The CL-MS data show that Nb17 binds close to
+view on this cross-linking pattern mapped on the FL-LRRK2 K1290 and K1316 on the LRR domain and to K2078 in the
+structure (SI Appendix, Fig. S17A) suggests that Nb1 binds via C-terminal lobe of the kinase domain (Fig. 6 and SI Appendix,
+COR-B in a very central cavity in the middle of the interfaces Fig. S17C). These three residues are in very close proximity to
+formed by the LRR, COR-B, Roc, and kinase domains. As each other in the FL-LRRK2 structure, again in proximity to
+such,wecouldhypothesizethattheinhibitionobservedforNb1 the “Crohn’s disease residue” N2081. The binding epitopes of
+and Nb6 could be due to either sterically “pushing” LRRK2 Nb17 and Nb23 thus seem to partially overlap, although Nb23
+toward an inactive more open conformation or “pulling” it is not interacting directly with the LRR domain (Fig. 6 and SI
+togethertowardaclosed,inhibitedconformation.Thestructure Appendix,Fig.S17C).Nb17couldhenceinhibitthephosphory-
+of FL-LRRK2 that is currently available indeed presumably lation of bulky substrates, like Rab proteins, by keeping the
+shows LRRK2 in an inactive conformation in which the LRR LRRdomainintheclosedinhibitoryconformation,whilestilla
+domain wraps around the kinase domain, thereby keeping the certaindegreeofflexibilityorconformationalchangewouldbe
+kinaseinaninactiveconformation(27).Nb1andNb6couldact possible to allow the phosphorylation of smaller peptide
+by stabilizing this inactive conformation. Another intriguing substratesandautophosphorylation.
+observation is that Nb1 also forms a cross-link with K1910 on Nb36and Nb38,whichbelongtothesameNb family,cross-
+theN-terminallobeofthekinasedomain.Thislatterresidueis linkwithresiduesontheC-terminallobeofthekinasedomain
+located between K1906 and E1920,two of the conserved regu- (K1963 and K2078) and the N terminus of the LRR domain
+latory triad residues formed by K1906-E1920-D2017. In the (K947,K951,andK963).Althoughthelatterthreeresiduesare
+inactive state, K1906 and E1920 interact with Y2018, thereby notresolvedinthecryo-EMstructureofFL-LRRK2,thisagain
+preventing a direct salt bridge between K1906 and E1920 and suggests a mechanism in which the LRR domain is blocked in
+thus keeping the kinase in an inactive state (27). It has indeed an inhibitory conformation (Fig. 6). Together, these observa-
+been shown that via this mechanism Y2018 acts as a break on tionssuggest a common mechanismfor the group2Nbs, which
+the kinase activity (42). Potentially, Nb1 can contribute to the bindontheinterfaceofseveralLRRK2domains,therebykeep-
+stabilization of this inactive conformation by contacting the ing LRRK2 in a “tight” conformation with the LRR domain
+peptideregionconnectingK1906andE1920(SIAppendix,Fig. wrapped as a lid around the kinase domains and preventing
+S17A).Ontheotherhand,theothergroup1Nb,Nb23,bindsto eitherthebindingortheentryofbulkyRabsubstratesintothe
+the K-WD40 domain in ELISA and cross-links exclusively with active site pocket to allow their phosphorylation. In this
+K2078 and K2091in the C-terminal lobe of the kinase domain respect, it is also worth noting that “unleashing” of the
+Fig.6. Schematicrepresentationoftherelationbetweentheactivityandbindingepitopesofthedifferent,functionalNbgroups.Asurfacerepresenta-
+tionofthecryo-EMstructureofFL-LRRK2isshownwiththedomainscoloredasindicated(ProteinDataBankidentificationcode7LHW)(27).TheATP-
+bindingpocketandtheS1292autophosphorylationsiteareindicated.Thebindingepitopes,determinedbycombiningtheresultsfromELISAandCL-MS
+experiments,oftheNbsbelongingtodifferentfunctionalgroupsareindicatedwithdottedlines,withtheLRRK2lysineresiduesthatformcross-links
+withtherespectiveNbsindicatedadjacenttothelines.
+YRTSIMEHCOIB
+Singhetal. PNAS j 9of12
+NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2 https://doi.org/10.1073/pnas.2112712119
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+N-terminal domains from the catalytic RCKW domains, as (52, 53), and gene therapy strategies have also been developed
+inducedbytypeIkinaseinhibitorsandmultiplePDmutations, for PD (54–57). Different approaches for the development of
+has been linked to the association of LRRK2 to microtubules. the Nbs into next-generation therapeutics to target LRRK2 in
+Correspondingly, we found that group2 Nbs inhibit MLi- PDarecurrentlybeingexplored.
+2–inducedLRRK2microtubuleassociation(Fig.5).
+Finally, the kinase-activating Nb22 cross-links with residue MaterialsandMethods
+K2382ontheWD40domain.Thisbindingepitopeisverycloseto
+ProteinExpressionandPurification.Full-lengthhumanLRRK2wasexpressed
+the interface of the WD40 domain with the ankyrin domain and andpurifiedbasedonpreviouslydevelopedprotocols(28,58),withminor
+theso-called“hingehelix”oftheLRRdomain(aminoacid832to adaptations to obtain purified LRRK2 either bound to GTPγS or GDP, as
+854). This hinge helix bridges the ARM, ANK, and WD40 describedinSIAppendix,SIMaterialsandMethods.Also,theexpressionand
+domains and thereby inhibits LRRK2 oligomerization via the purificationofRab8aandtheLRRK2four-domainRCKWconstruct;thetwo-
+WD40 domains, whichin turn is associated with filament forma- domainK-WD40construct;andtheARM,Roc-COR,Roc,andCOR-Bdomains
+tion (27) (Fig. 6 and SI Appendix, Fig. S17D). K2382 is located aredescribedindetailinSIAppendix,SIMaterialsandMethods.
+very close to G2385. The G2385R mutation is a PD-associated
+ImmunizationsandNbSelection.Intotal,threeimmunizationsusingdifferent
+variant that is common in the Chinese population (43) and was
+llamaswereperformedwiththefollowing:1)withtheRocCORdomaincon-
+shown to disrupt WD40 dimer formation and the formation of
+structof human LRRK2; 2) with FL-LRRK2 in the presence of an excess of
+pathogenicfilamentsincells(30,44).Inverygoodagreement,we GTPγS;and3)withFL-LRRK2inthepresenceofanexcessofGDP.Additionally,
+also find that Nb22 very efficiently inhibits MLi-2–induced incaseofimmunization2and3,amildcross-linkingwasperformedonthe
+LRRK2filamentformationinourexperiments(Fig.5).Moreover, proteinafterpurificationandpriortoimmunizationinorderto“trap”atleast
+probablyviadisruptingtheinteractionbetweentheWD40andthe partoftheinjectedproteinsintheirrespective,nucleotide-specificconforma-
+LRRhingehelix,theG2385R mutationleads toanactivationof tionduringimmunization(notethatduringallphagedisplayselectionsteps
+Rab10phosphorylation(44),andwecanthusanticipatethatNb22 non-crosslinkedLRRK2wasused).A6-wkprotocolwithweeklyimmunizations
+increasesthekinaseactivityviaasimilarmechanism. inpresenceofGERBUadjuvantwasused,andbloodwascollected4dafter
+The discovery of Nbs with a wide variety of LRRK2- thelastinjection.Allanimalvaccinationswereperformedinstrictaccordance
+withgoodpracticesandtheEuropeanUnionanimalwelfarelegislation.Next,
+modulating activities and with different mechanisms of inhibi-
+constructionofimmunelibrariesandNbselectionviaphagedisplaywereper-
+tion forms a treasure chest for the further development of
+formedusingpreviouslydescribedprotocols(59),asdescribedindetailinSI
+research tools to study the cellular role of LRRK2 and the
+Appendix,SIMaterialsandMethods.
+associated disease mechanisms, as well as for future develop-
+mentofnewdiagnosticandtherapeuticstrategies.Inparticular, Nb Expression, Purification, and Binding Analysis via ELISA and Pull-down
+the finding that a subset of Nbs inhibits total LRRK2 kinase Experiments.TheexpressionandpurificationofNbs,aswellastheiranalysis
+activity(group1),whileothersonlyinhibitRabphosphorylation viaELISAandpull-downexperiments,wereperformedaccordingtostandard
+(group2), can be exploited to disentangle the role of the differ- and previously published protocols (24) and are described in detail in SI
+entLRRK2activitiesandsubstratesinpathology.Owingtotheir Appendix,SIMaterialsandMethods.
+ease of recombinant production, small size, and stability, Nbs
+Phospho-RabAssayinCells.HEK293Tcellsweretransfectedwiththeindivid-
+arealsobeingintensivelyexploitedforthedevelopmentofdiag-
+ualNb-GFPexpressionconstructs,SF-taggedLRRK2(G2019S),andFLAG-HA
+nostics and therapeutics (23). This presents the Nbs described Rab29.After48h,cellswerelysed,andlysateswereclearedbycentrifuga-
+here as a potentially promising route for the development of tion and adjusted to a protein concentration of 1 μg/μL in 1× Laemmli
+newPDtherapeuticsnexttoothercurrentlyexploredstrategies, Buffer.LRRK2pS1292andRab10T73phosphorylationlevelsweredeter-
+including but not restricted to small-molecule kinase inhibitors mined by Western blot analysis, as detailed in SI Appendix, SI Materials
+(36, 45), inhibitors of GTP binding (46), and LRRK2-targeting andMethods.
+antisenseoligonucleotides(47,48).However,therapeutictarget-
+ingofLRRK2hassofarmainlyfocusedonthedevelopmentof Chemical CL-MS. For chemical cross-linking, the LRRK2 concentration was
+adjustedto3μM,andeachNbwasaddedata2:1molarratioandincubated
+small-molecule, ATP-competitive inhibitors, and recently, two
+for1hat4°C.Thecross-linkingreactionwasperformedusingtheN-hydroxy-
+moleculesfrom Denali(DNL151 and DNL201) entered clinical succinimide (NHS)-ester–based and collision-induced dissociation (CID)-
+trials (49, 50). But despite these successes, some concerns cleavablereagentdisuccinimidylsulfoxide(ThermoFisherScientific)(60)ata
+regardingtheobservedadversesideeffectuponprolongedtreat- molarexcessof60:1(referredtotheNbs)andcarriedoutfor30minatroom
+ment with high concentrations of ATP-competitive inhibitors temperature. Proteins were precipitated by chloroform/methanol and sub-
+remain(19,20,40).Recentstudiesidentifiedoligomerizationof jectedtotrypticproteolysis(61).Thetrypticpeptidesolutionswerecleanedup
+overexpressedLRRK2onmicrotubules,withconcomitantblock- byStageTipsandsubjectedtosizeexclusionchromatography(SEC)separation
+ing of microtubule-associated motor proteins, as a potential toenrichforcross-linkedpeptides(28).Vacuum-driedfractionswereanalyzed
+underlying cause of LRRK2 pathology. Similar to four out of onanOrbitrapFusionmassspectrometer(ThermoFisherScientific)usingthe
+thefivecommonPDmutations,alsotreatmentwithtypeIATP- MS2_MS3 fragmentation method (version 3.0), and the Thermo Raw files
+competitiveinhibitorsincreasessuchmicrotubuleassociation.In
+wereanalyzedwiththeMS2_MS3workflowprovidedbyinProteomeDiscov-
+erer 2.5 (build 2.5.0.400)using XlinkX(version 2.5)(62),asdescribedin SI
+contrast, the LRRK2-inhibiting Nbs act via completely novel,
+Appendix,SIMaterialsandMethods.
+non–ATP-competitive, allosteric mechanisms. Correspondingly,
+noneoftheseNbsinduceLRRK2associationwithmicrotubules, MST and BLI Measurements. For the MST experiments,the Nbs were first
+while some even revert MLi-2–induced LRRK2 relocalization. expressedandpurifiedfromapHEN29vectorwithaC-terminalLPETGG-His6-
+Theseobservationswillsetthestageforfurtherdevelopmentof EPEA tag, and the latter tag was exchanged with an m-TAMRA–labeled
+those Nbs into LRRK2 inhibitors, with a completely different GGGYKpeptide(GenicBio)usingSortase(63).MSTmeasurementswereper-
+mode of action and cellular profile to the currently existing, formedusingaMonolithNT.115instrument(Nanotempertechnologies)by
+small-molecule inhibitors. While Nbs have already been tested
+titratingafixedconcentrationofm-TAMRA–labeledNb(50to100nM)with
+as therapeutics at the (pre)clinical stage for different diseases, varying concentrations of LRRK2 (16 points, 3:1 dilution series) in 50 mM
+therapeutictargetingofLRRK2withNbspresentsanumberof
+HepespH8.0,150mMNaCl,10mMMgCl 2,5%glycerol,0.1%bovineserum
+albumin(BSA),0.05%Tween,and500μMGDP(GTPγSwasusedforNb42).
+challenges, including the need for obtaining sufficient levels of
+Afterincubation,measurementswereperformed(intriplicate)at25°Cusing
+Nbwithincellsinthebrainforasustainedperiod.Onepossible 50to70%LED(light-emittingdiode)powerand80%laserintensity.Data
+approachisto deliverthegenesencodingtheNbs usingaviral, wereinitiallyprocessedusingtheMO.affinitysoftware,andfinalK Dvalues
+vector-basedsystem(51).Thefieldofgenetherapyforthener- wereobtainedbyfittingtheMSTsignal(at5to15son-time)versusLRRK2
+vous system has undergone explosive growth in the last 5 y curvestoaquadraticbindingisotherminGraphPadPrism7.
+10of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+BLImeasurementswereperformedusinganOctetRed96(Forte(cid:2)Bio,Inc.) loadingof250ngRab8aonSDSgel).Relativevalueswerequantifiedwith
+systeminthesamebufferat25°C.BindingoftheNbstoRCKWwasmeasured ImageStudioLitesoftwareversion5.2(LiCOR),anddose–responsecurvesplot-
+using thebiotinylatedRCKW proteinloadedontostreptavidin-coated(SA) ted againstthe concentrationofthe Nbs were calculated using GraphPad
+biosensorsataconcentrationof10μg/mL.BindingofNbstoFL-LRRK2was Prism6.
+measuredbytrappingLRRK2onSAbiosensorsusinganLRRK2-specific,bioti-
+nylatedNb(eitherNb40orNb42).Thissensorwasthenusedtomonitorassoci- ConfocalMicroscopyandMicrotubuleLocalization.AHEK293celllinewascul-
+ationanddissociationofthewholesetofNbs(intriplicate).Theassociation/ turedincompletemedia(high-glucoseDulbecco’smodifiedEagle’smedium,
+dissociationtraceswerefittedwitha1:1bindingmodelusingeitherthelocal, 10%fetalbovineserum,andpenicillin–streptomycin–glutamine[Gibco]).Cells
+partial,orglobal(full)options(implementedintheForte(cid:2)BioAnalysisSoft- wereseededon8-wellμ-slide(Ibidi)andtransfectedataconfluencyof50to
+ware). The resulting Req values weresubsequently plotted against the Nb 70%withGFP-NbandmScarlet-LRRK2constructs,usingJetPEIreagent(Poly-
+concentration and used to derive the KD values from the corresponding plustransfection).After24h,cellsweretreatedwitheitherDMSOor1μM
+dose–response curves fitted on a Langmuir model. Final figures were LRRK2kinaseinhibitor(MLi-2,catalogNo.5756,TOCRIS)for90minandthen
+generatedusingGraphPadPrism7. examined for localization. Data acquisition was done with a ×100
+oil-immersionobjectivewithaZeissLSM800confocallaser-scanningmicro-
+InVitroPeptideandRab8aPhosphorylationAssay.TheLRRK2kinaseactivity
+scope. Image analysis of z-scan was done using the Zeiss microscope
+towardapeptidesubstratewasdeterminedusingthePhosphoSensProtein
+softwareZEN.
+KinaseAssay(AssayQuantTechnologiesInc.)usingtheoptimizedAQT0615
+peptide as substrate, according to the manufacturers’ instructions and as
+describedintheSIAppendix,SIMaterialsandMethods. DataAvailability.Sourcedatasets(26,39)arepublishedassupportinginfor-
+TodetermineLRRK2kinaseactivitytowardRab8a,100nMLRRK2and25 mationonthejournalwebsitealongwiththemanuscriptordepositedtoded-
+μMoftherespectiveNbswereincubatedfor30minat4°Cinkinaseassay icatedonlinerepositories(theProteomeXchangeConsortiumviatheProteo-
+buffer(50mMHepespH7.5,50mMNaCl,10mMMgCl 2,500μMGDPor micsIdentification[PRIDE]DatabasewithdatasetidentifierPXD030063for
+GTPγS,1mMATP,and0.1mg/mLBSA).Apositivecontrol,containingnoNb, theCL-MSdataset,andtoZenodo[https://doi.org/10.5281/zenodo.6028265]
+andtwonegativecontrols,containingeither25μMMLi-2ornoLRRK2,were forthemicroscopydata).ThefullaminoacidsequencesoftheNbsthatwere
+treatedthesameway.Theproteinkinasereactionwasinitiatedbyadding thoroughly biochemically/biophysically characterized in this study are pro-
+2.5μMHis6-Rab8aandperformedfor3minat30°C.ForWesternblotting videdinDatasetS1linkedtothismanuscriptandavailableviathejournal
+(WB),samplesweretransferredaftersodiumdodecylsulfate–polyacrylamide webpage,andthematerialscanalsobeobtainedfromtheVerse(cid:2)esLaboratory
+gelelectrophoresis(SDS-PAGE)to0.45μmnitrocellulose(GEHealthcare),and bycontactingmta.requests@vib.be.Allotherstudydataareincludedinthe
+membraneswereblocked.Monoclonalmouse-anti–His6(1:1,000,GEHealth- articleand/orsupportinginformation.
+care)andmonoclonalrabbit-anti–pT72-Rab8a(1:1,000,Abcam)wereusedas
+primaryantibodies.ForLRRK2detection,amonoclonalmouse-anti–Flaganti- ACKNOWLEDGMENTS.ThisworkwassupportedbytheMichaelJ.FoxFoun-
+body (1:1,000, SIGMA) was used as primary antibody. IRDye680RD goat- dationforParkinson’sResearch(GrantNo.14527toA.K.,C.J.G.,andW.V.;
+anti–mouse and IRDye800CW donkey-anti–rabbit (both 1:15,000, Li-COR) 14527.01toF.W.H.,A.K.,C.J.G.,andW.V.;and002977toD.C.andS.K.),the
+wereusedassecondaryantibodies.QuantificationoftheWesternblotswas FondsvoorWetenschappelijkOnderzoek(FWO;G005219NtoW.V.),theDFG
+(GrantNo.HE1818/11-1toD.C.andS.K.),theASAPprogram(toD.C.and
+performedusinganOdysseyFCimagingsystemandImageStudioLitesoft-
+S.K.),andaStrategicResearchProgramFinancingfromtheVrijeUniversiteit
+ware version 5.2 (both LiCOR). The ratio of the pT72-Rab8a signal to the
+Brussel(SRP50toW.V.).L.V.R.wassupportedbyaVUBOZR-bridginggrant.
+accordingtotalHis 6-Rab8asignalwasusedforquantification.Additionally,
+WeacknowledgeInstruct-ERICandtheFWOfortheirsupporttotheNbdis-
+thesignalratioswerenormalizedbyusingthepositivecontrolwithoutNbas covery.WethankthestaffoftheCoreFacilityforMedicalBioanalyticsatthe
+a reference. To determine (semiquantitative) dose–responsecurves, Nbs in University of Tubingen for technical assistance and Bernd Gilsbach and
+concentrationsrangingfrom4nMto40μMwereincubatedwith2.5μMHis6- MichaelaHanschforhelpinproteinpurification.WethankSebastianMathea
+Rab8a, and Rab8a phosphorylation was quantified via WB analysis (upon forfruitfulscientificdiscussions.
+1. A.Elbaz,L.Carcaillon,S.Kab,F.Moisan,EpidemiologyofParkinson’sdisease.Rev. 16. Z.Shengetal.,Ser1292autophosphorylationisanindicatorofLRRK2kinaseactivity
+Neurol.(Paris)172,14–26(2016). andcontributestothecellulareffectsofPDmutations.Sci.Transl.Med.4,164ra161
+2. E.Monfrini,A.DiFonzo,“Leucine-richrepeatkinase(LRRK2)geneticsandParkin- (2012).
+son’sdisease”inLeucine-RichRepeatKinase2(LRRK2).AdvancesinNeurobiology,H. 17. J.-M.Taymans,E.Greggio,LRRK2kinaseinhibitionasatherapeuticstrategyforPar-
+Rideout,Ed.(2017),pp.3–30. kinson’sdisease,wheredowestand?Curr.Neuropharmacol.14,214–225(2016).
+3. R.DiMaioetal.,LRRK2activationinidiopathicParkinson’sdisease.Sci.Transl.Med. 18. S.Domingos,T.Duarte,L.Saraiva,R.C.Guedes,R.Moreira,Targetingleucine-rich
+10,eaar5429(2018). repeatkinase2(LRRK2)forthetreatmentofParkinson’sdisease.FutureMed.Chem.
+4. W.P.Gilksetal.,AcommonLRRK2mutationinidiopathicParkinson’sdisease.Lancet 11,1953–1977(2019).
+365,415–416(2005). 19. R.N.Fujietal.,EffectofselectiveLRRK2kinaseinhibitiononnonhumanprimate
+5. J.C.Barrettetal.,NIDDKIBDGeneticsConsortium;Belgian-FrenchIBDConsortium; lung.Sci.Transl.Med.7,273ra15(2015).
+WellcomeTrustCaseControlConsortium,Genome-wideassociationdefinesmore 20. M.A.S.Baptistaetal.,Lossofleucine-richrepeatkinase2(LRRK2)inratsleadstopro-
+than30distinctsusceptibilitylociforCrohn’sdisease.Nat.Genet.40,955–962(2008). gressiveabnormalphenotypesinperipheralorgans.PLoSOne8,e80705(2013).
+6. K.Y.Huietal.,FunctionalvariantsintheLRRK2geneconfersharedeffectsonriskfor 21. D.Bryceetal.,Characterizationoftheonset,progression,andreversibilityofmor-
+Crohn’sdiseaseandParkinson’sdisease.Sci.Transl.Med.10,eaai7795(2018). phologicalchangesinmouselungfollowingpharmacologicalinhibitionofLRRK2
+7. L.Wauters,W.Verse(cid:2)es,A.Kortholt,Rocoproteins:GTPaseswithabaroquestructure kinaseactivity.J.Pharmacol.Exp.Ther.,10.1124/jpet.120.000217(2021).
+andmechanism.Int.J.Mol.Sci.20,147(2019). 22. X.Lu,J.B.Smaill,K.Ding,Newpromiseandopportunitiesforallosterickinaseinhibi-
+8. M.Stegeretal.,PhosphoproteomicsrevealsthatParkinson’sdiseasekinaseLRRK2 tors.Angew.Chem.Int.Ed.Engl.59,13764–13776(2020).
+regulatesasubsetofRabGTPases.eLife5,e12813(2016). 23. S.Muyldermans,Nanobodies:Naturalsingle-domainantibodies.Annu.Rev.Bio-
+9. Z.Liuetal.,LRRK2phosphorylatesmembrane-boundRabsandisactivatedbyGTP- chem.82,775–797(2013).
+boundRab7L1topromoterecruitmenttothetrans-Golginetwork.Hum.Mol.Genet. 24. M.Leemansetal.,AllostericmodulationoftheGTPaseactivityofabacterialLRRK2
+27,385–395(2018). homologbyconformation-specificnanobodies.Biochem.J.477,1203–1218(2020).
+10. A.Marchand,M.Drouyer,A.Sarchione,M.-C.Chartier-Harlin,J.-M.Taymans,LRRK2 25. J.H.Klussetal.,DetectionofendogenousS1292LRRK2autophosphorylationin
+phosphorylation,morethananepiphenomenon.Front.Neurosci.14,527(2020). mousetissueasareadoutforkinaseactivity.NPJParkinsonsDis.4,13(2018).
+11. E.Deyaertetal.,AhomologueoftheParkinson’sdisease-associatedproteinLRRK2 26. C.J.Gloeckner,MappingofnanobodybindingsitesonhumanLRRK2byCX-MS.Pro-
+undergoesamonomer-dimertransitionduringGTPturnover.Nat.Commun.8,1008 teomeXchangeConsortiumviathePRIDEpartnerrepository.https://www.ebi.ac.uk/
+(2017). pride/archive/projects/PXD030063.Deposited30November2021.
+12. S.Sen,P.J.Webber,A.B.West,Dependenceofleucine-richrepeatkinase2(LRRK2) 27. A.Myasnikovetal.,Structuralanalysisofthefull-lengthhumanLRRK2.Cell184,
+kinaseactivityondimerization.J.Biol.Chem.284,36346–36356(2009). 3519–3527.e10(2021).
+13. Z.Berger,K.A.Smith,M.J.Lavoie,MembranelocalizationofLRRK2isassociated 28. G.Guaitolietal.,StructuralmodelofthedimericParkinson’sproteinLRRK2revealsa
+withincreasedformationofthehighlyactiveLRRK2dimerandchangesinitsphos- compactarchitectureinvolvingdistantinterdomaincontacts.Proc.Natl.Acad.Sci.
+phorylation.Biochemistry49,5511–5523(2010). U.S.A.113,E4357–E4366(2016).
+14. P.A.Lewisetal.,TheR1441CmutationofLRRK2disruptsGTPhydrolysis.Biochem. 29. C.K.Denistonetal.,StructureofLRRK2inParkinson’sdiseaseandmodelformicrotu-
+Biophys.Res.Commun.357,668–671(2007). buleinteraction.Nature588,344–349(2020).
+15. A.B.Westetal.,Parkinson’sdisease-associatedmutationsinleucine-richrepeatkinase 30. R.Watanabeetal.,TheinsitustructureofParkinson’sdisease-linkedLRRK2.Cell182,
+2augmentkinaseactivity.Proc.Natl.Acad.Sci.U.S.A.102,16842–16847(2005). 1508–1518.e16(2020).
+YRTSIMEHCOIB
+Singhetal. PNAS j 11of12
+NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2 https://doi.org/10.1073/pnas.2112712119
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+31. A.Gardetetal.,LRRK2isinvolvedintheIFN-γresponseandhostresponsetopatho- 47. J. A. Korecka et al., Splice-switching antisense oligonucleotides reduce LRRK2
+gens.J.Immunol.185,5577–5585(2010). kinaseactivityinhumanLRRK2transgenicmice.Mol.Ther.NucleicAcids21,623–635
+32. J.D.Scottetal.,Discoveryofa3-(4-Pyrimidinyl)indazole(MLi-2),anorallyavailable (2020).
+andselectiveleucine-richrepeatkinase2(LRRK2)inhibitorthatreducesbrainkinase 48. H.T.Zhaoetal.,LRRK2antisenseoligonucleotidesameliorateα-synucleininclusion
+activity.J.Med.Chem.60,2983–2992(2017). formationinaParkinson’sdiseasemousemodel.Mol.Ther.NucleicAcids8,508–519
+33. M.J.Felletal.,MLi-2,apotent,selective,andcentrallyactivecompoundforexplor- (2017).Correctionin:Mol.Ther.NucleicAcids24,1051–1053(2021).
+ingthetherapeuticpotentialandsafetyofLRRK2kinaseinhibition.J.Pharmacol. 49. StudytoEvaluateDNL201inSubjectsWithParkinson’sDisease,https://clinicaltrials.
+Exp.Ther.355,397–409(2015). gov/ct2/show/NCT03710707.Accessed18January2022.
+34. D.S.Williamsonetal.,Designofleucine-richrepeatkinase2(LRRK2)inhibitorsusing 50. StudytoEvaluateDNL151inSubjectsWithParkinson’sDisease,https://clinicaltrials.
+acrystallographicsurrogatederivedfromcheckpointkinase1(CHK1).J.Med.Chem. gov/ct2/show/NCT04056689.Accessed18January2022.
+60,8945–8962(2017). 51. A.Messer,D.C.Butler,Optimizingintracellularantibodies(intrabodies/nanobodies)
+35. D.Demeestereetal.,Developmentandvalidationofasmallsingle-domainanti- totreatneurodegenerativedisorders.Neurobiol.Dis.134,104619(2020).
+bodythateffectivelyinhibitsmatrixmetalloproteinase8.Mol.Ther.24,890–902 52. E.Hudry,L.H.Vandenberghe,TherapeuticAAVgenetransfertothenervoussystem:
+(2016). Aclinicalreality.Neuron101,839–862(2019).Correctionin:Neuron102,263(2019).
+36. X.Ding,F.Ren,Leucine-richrepeatkinase2inhibitors:Apatentreview(2014-pre- 53. S.Kimura,H.Harashima,CurrentstatusandchallengesassociatedwithCNS-targeted
+sent).ExpertOpin.Ther.Pat.30,275–286(2020). genedeliveryacrosstheBBB.Pharmaceutics12,1216(2020).
+37. N.Dzamkoetal.,InhibitionofLRRK2kinaseactivityleadstodephosphorylationof 54. A.Merolaetal.,Genetherapyinmovementdisorders:Asystematicreviewofongo-
+Ser(910)/Ser(935),disruptionof14-3-3bindingandalteredcytoplasmiclocalization. ingandcompletedclinicaltrials.Front.Neurol.12,648532(2021).
+Biochem.J.430,405–413(2010). 55. P.C.Buttery,R.A.Barker,Geneandcell-basedtherapiesforParkinson’sdisease:
+38. L.R.Kettetal.,LRRK2Parkinsondiseasemutationsenhanceitsmicrotubuleassocia- Wherearewe?Neurotherapeutics17,1539–1562(2020).
+tion.Hum.Mol.Genet.21,890–899(2012). 56. F. L. Hitti, A. I. Yang, P. Gonzalez-Alegre, G. H. Baltuch, Human gene therapy
+39. A.A.Soliman,R.K.Singh,W.Verse(cid:2)es,A.Kortholt,Nanobodiesasallostericmodula- approachesforthetreatmentofParkinson’sdisease:Anoverviewofcurrentand
+tors of Parkinson's disease-associated LRRK2. Zenodo. https://zenodo.org/record/ completedclinicaltrials.ParkinsonismRelat.Disord.66,16–24(2019).
+6028265#.Yhaa9OjMLcs.Deposited2October2021. 57. M.Hocquemiller,L.Giersch,M.Audrain,S.Parker,N.Cartier,Adeno-associated
+40. M.A.Andersenetal.,PFE-360-inducedLRRK2inhibitioninducesreversible,non- virus-basedgenetherapyforCNSdiseases.Hum.GeneTher.27,478–496(2016).
+adverserenalchangesinrats.Toxicology395,15–22(2018). 58. C.J.Gloeckneretal.,Phosphopeptideanalysisrevealstwodiscreteclustersofphos-
+41. A.W.Fenton,Allostery:Anillustrateddefinitionforthe‘secondsecretoflife’.Trends phorylationintheN-terminusandtheRocdomainoftheParkinson-diseaseassoci-
+Biochem.Sci.33,420–425(2008). atedproteinkinaseLRRK2.J.ProteomeRes.9,1738–1745(2010).
+42. S.H.Schmidtetal.,ThedynamicswitchmechanismthatleadstoactivationofLRRK2 59. E.Pardonetal.,Ageneralprotocolforthegenerationofnanobodiesforstructural
+isembeddedintheDFGψmotifinthekinasedomain.Proc.Natl.Acad.Sci.U.S.A. biology.Nat.Protoc.9,674–693(2014).
+116,14979–14988(2019). 60. W.V.Kandur,A.Kao,D.Vellucci,L.Huang,S.D.Rychnovsky,DesignofCID-cleavable
+43. I.F.Mataetal.,Lrrk2pathogenicsubstitutionsinParkinson’sdisease.Neurogenetics proteincross-linkers:Identicalmassmodificationsforsimplersequenceanalysis.Org.
+6,171–177(2005). Biomol.Chem.13,9793–9807(2015).
+44. P.Zhangetal.,CrystalstructureoftheWD40domaindimerofLRRK2.Proc.Natl. 61. C.J.Gloeckner,K.Boldt,M.Ueffing,Strep/FLAGtandemaffinitypurification(SF-TAP)
+Acad.Sci.U.S.A.116,1579–1584(2019). tostudyproteininteractions.Curr.Protoc.ProteinSci.57,19.20.1–19.20.19(2009).
+45. M.A.S.Baptistaetal.,LRRK2inhibitorsinducereversiblechangesinnonhumanpri- 62. F.Liu,D.T.S.Rijkers,H.Post,A.J.R.Heck,Proteome-wideprofilingofproteinassem-
+matelungswithoutmeasurablepulmonarydeficits.Sci.Transl.Med.12,eaav0820 bliesbycross-linkingmassspectrometry.Nat.Methods12,1179–1184(2015).
+(2020). 63. S.Massaetal.,SortaseA-mediatedsite-specificlabelingofcamelidsingle-domain
+46. T.Lietal.,NovelLRRK2GTP-bindinginhibitorsreduceddegenerationinParkinson’s antibody-fragments:Aversatilestrategyformultiplemolecularimagingmodalities.
+diseasecellandmousemodels.Hum.Mol.Genet.23,6212–6222(2014). ContrastMediaMol.Imaging11,328–339(2016).
+12of12 j PNAS Singhetal.
+https://doi.org/10.1073/pnas.2112712119 NanobodiesasallostericmodulatorsofParkinson’sdisease–associatedLRRK2
+.121.63.232.031
+sserdda
+PI
+morf
+3202
+,3
+yaM
+no
+YRARBIL
+IROTUET
+UKRUT
+FO
+YTISREVINU
+yb
+gro.sanp.www//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+

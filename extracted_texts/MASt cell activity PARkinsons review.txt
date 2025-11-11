@@ -1,0 +1,627 @@
+ORIGINALRESEARCH
+published:09February2021
+doi:10.3389/fnagi.2021.605970
+Immune Profiling of Parkinson’s
+Disease Revealed Its Association
+With a Subset of Infiltrating Cells
+and Signature Genes
+XiZhang1,2,ZhihuaShao1,SutongXu1,QiuluLiu1,ChenmingLiu1,YupingLuo1,3,
+LingjingJin2*andSiguangLi1,2,3*
+1StemCellTranslationalResearchCenter,TongjiHospital,TongjiUniversitySchoolofMedicine,Shanghai,China,
+2DepartmentofNeurology,TongjiHospital,TongjiUniversitySchoolofMedicine,Shanghai,China,3KeyLaboratoryofSpine
+andSpinalCordInjuryRepairandRegenerationofMinistryofEducation,OrthopedicDepartmentofTongjiHospital,Tongji
+UniversitySchoolofMedicine,Shanghai,China
+Parkinson’sdisease(PD)isanage-relatedandsecondmostcommonneurodegenerative
+disorder. In recent years, increasing evidence revealed that peripheral immune cells
+might be able to infiltrate into brain tissues, which could arouse neuroinflammation
+and aggravate neurodegeneration. This study aimed to illuminate the landscape of
+peripheral immune cells and signature genes associated with immune infiltration in PD.
+Several transcriptomic datasets of substantia nigra (SN) from the Gene Expression
+Omnibus (GEO) database were separately collected as training cohort, testing cohort,
+and external validation cohort. The immunoscore of each sample calculated by single-
+Editedby: sample gene set enrichment analysis was used to reflect the peripheral immune cell
+KhalilSheraliRawji,
+infiltration and to identify the differential immune cell types between PD and healthy
+UniversityofCambridge,
+UnitedKingdom participants. According to receiver operating characteristic (ROC) curve analysis, the
+Reviewedby: immunoscoreachievedanoverallaccuracyoftheareaunderthecurve(AUC)=0.883in
+SudhanshuP.Raikwar, the testing cohort, respectively. The immunoscore displayed good performance in the
+UniversityofMissouri,UnitedStates
+external validation cohort with an AUC of 0.745. The correlation analysis and logistic
+DenisGris,
+UniversitédeSherbrooke,Canada regressionanalysiswereusedtoanalyzethecorrelationbetweenimmunecellsandPD,
+*Correspondence: and mast cell was identified most associated with the occurrence of PD. Additionally,
+SiguangLi
+increased mast cells were also observed in our in vivo PD model. Weighted gene
+siguangli@163.com
+LingjingJin co-expression network analysis (WGCNA) was used to selected module genes related
+lingjingjin@163.com to a mast cell. The least absolute shrinkage and selection operator (LASSO) analysis
+and random-forest analysis were used to analyze module genes, and two hub genes
+Received:14September2020
+Accepted:19January2021 RBM3 and AGTR1 were identified as associated with mast cells in the training cohort.
+Published:09February2021 The expression levels of RBM3 and AGTR1 in these cohorts and PD models revealed
+Citation: that these hub genes were significantly downregulated in PD. Moreover, the expression
+ZhangX,ShaoZ,XuS,LiuQ,LiuC,
+trend of the aforementioned two genes differed in mast cells and dopaminergic (DA)
+LuoY,JinLandLiS(2021)Immune
+ProfilingofParkinson’sDisease neurons. In conclusion, this study not only exhibited a landscape of immune infiltrating
+RevealedItsAssociationWitha
+patterns in PD but also identified mast cells and two hub genes associated with the
+SubsetofInfiltratingCellsand
+SignatureGenes. occurrenceofPD,whichprovidedpotentialtherapeutictargetsforPDpatients(PDs).
+Front.AgingNeurosci.13:605970.
+doi:10.3389/fnagi.2021.605970 Keywords:Parkinson’sdisease,RBM3,AGTR1,mastcell,immunecellinfiltration
+FrontiersinAgingNeuroscience | www.frontiersin.org 1 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+INTRODUCTION sets of genes that are representative for specific immune cell
+subpopulations(Charoentongetal.,2017).Inthepresentstudy,
+Parkinson’s disease (PD) is an age-related and the second we used ssGSEA to calculate the immunescores of peripheral
+most common neurodegenerative disorder characterized immune cells in the samples of PD patients (PDs) and healthy
+clinically by classic motor symptoms, including resting tremor, controls(HCs)basedontheirgeneexpressionprofilesavailable
+bradykinesia, rigidity, and non-motor symptoms, including from public databases, which provided a new angle to uncover
+insomnia, constipation, and pathologically by the progressive thecelltypesandtheextentofperipheralimmunecellinfiltration
+lossofdopaminergic(DA)neuronsinthesubstantianigra(SN) in PD. We also identified two immune-based signature genes,
+pars compacta and the occurrence of Lewy bodies containing RNA-Binding Motif Protein 3 (RBM3) and Angiotensin II
+α-synuclein(Caoetal.,2011;Fasanoetal.,2015;KaliaandLang, Receptor Type 1 (AGTR1), to provide promising targets for
+2015).TheetiologyofPDhasnotbeencompletelydetermined, improvingtheprognosisofPDpatients.
+involving a complex interaction between various genetic and
+environmentalfactors(KaliaandLang,2015).Furthermore,the MATERIALS AND METHODS
+pathogenesisofPDhasnotyetbeenfullyunderstood.
+Mounting evidence indicates that neuroinflammation is Gene Expression Data and Processing
+one of the vital features in both PD patients (PDs) and As shown in Figure 1, we searched the Gene Expression
+animal models of PD, the hallmarks of which are the Omnibus (GEO1) for the following keywords: ‘‘(Parkinson’s
+presence of activated microglia and astrocyte that occur disease)and(Substantianigra)’’andcollectedseveraldatasetsin
+together with the loss of DA neurons in the midbrain March 2020 (Barrett et al., 2013). According to the description
+(Cao et al., 2011; Calabrese et al., 2018; Stephenson et al., of these datasets, three array datasets with the same platform
+2018). Microglia and astrocyte could be activated by multiple GPL570 were analyzed as the internal cohort in our study,
+factors related to PD, such as the pivotal PD-associated genes includingGSE7621,GSE20141,andGSE49036.Theraw‘‘CEL’’
+[α-synuclein (SNCA), Parkin, deglycase (DJ-1), leucine-rich files of these microarray data were downloaded, normalized,
+repeat kinase 2 (LRRK2)] and neurotoxins (rotenone and and log2 transform with ‘‘affy’’ packages (Gautier et al., 2004).
+methyl-4-phenyl-1,2,3,6-tetrahydropyridine;Wangetal.,2015). Afterprocessing,thebatcheffectofthreedatasetswasremoved
+Besides, neuroinflammation may play significant roles in with ‘‘sva’’ packages (Leek et al., 2012), with 41 PD patients
+pathogenetic mechanisms of PD, including the deposition of and25HCssubsequentlyincluded.Forexternalvalidation,two
+protein aggregates, injury of oxidative stress, impairment of array datasets with the same platform GPL96 were selected
+mitochondrialfunction,disruptionofcalciumhomeostasis,and as the external cohort in our study, including GSE20163 and
+abnormalirondeposition(Heetal.,2020;Piccaetal.,2020). GSE20164.Thesamepreprocessingprocedureswereperformed
+Deep researches accumulating the changes of peripheral on the two datasets as mentioned above, with 14 PD patients
+immunityinPDpatientshavecapturedincreasingattentionand and14HCssubsequentlyinvolved;andtwodatasetsprofiledby
+is gradually (Cao et al., 2011; Kannarkat et al., 2013; Lee et al., next-generationsequencing,GSE114517,andGSE133101,were
+2017). These changes are not only reflected in the types and alsousedtoverifyoursignaturegenes.Theinformationofthese
+numbers of peripheral immune cells, but also in the impact datasetsislistedinTable1.
+on PD-related organs, such as the intestinal tract and central
+nervoussystem(CNS;Travaglietal.,2020).Underphysiological Immune Cell Infiltration Score
+conditions, the peripheral immune cells are hardly detectable ThessGSEAwasintroducedtoquantifytherelativeinfiltration
+in CNS due to the existence of a blood-brain barrier (BBB). of immune cell types in substantia nigra of each PD patients
+However, the pathological processes of PD could break down and HCs according to the expression of metagenes that are
+BBB, and BBB breakdown leads to increased infiltration of representative of specific immune cells (Jia et al., 2018);
+peripheral immune cells into CNS, which has been identified and we selected the metagene set of 28 peripheral immune
+as one of the major contributing factors for PD (Pan and cell types that were deeply researched and widely accepted,
+Nicolazzo,2018;Sweeneyetal.,2018).Theincreasedinfiltration and the metagene set was shown in Supplementary Table 1
+of peripheral immune cells may induce excessive microglial (Charoentong et al., 2017). The relative abundance of each
+inflammation, oxidative stress, and cytotoxicity that exacerbate immune cell type was represented by an enrichment score in
+neurodegenerationinPD(Wangetal.,2015;Stephensonetal., ssGSEA analysis that was performed using ‘‘GSEA’’ package
+2018;Kustrimovicetal.,2019).Inaword,thecurrentevidence (Subramanianetal.,2005).Thentwosamplesunequalvariance
+indicatesthatthereisacloserelationshipbetweentheperipheral two-tailed t-test was used to analyze the immunoscores of
+immunesystemandtheprogressionofPD. PDs and HCs to determine differential immune cell types
+Nevertheless, the infiltration of peripheral immune cells (p-value < 0.05) between the two groups. We analyzed the
+during PD remains largely unknown, which highlights the correlations among these immune cell types and disease states
+significance to illuminate the crosstalk between the peripheral and employed a Logistic regression model to evaluate the
+immune system and neuroinflammation in PD. Single-sample associationsbetweenimmunecelltypesanddiseaseoccurrence
+genesetenrichmentanalysis(ssGSEA)wasdevelopedtoanalyze usingthe‘‘glmnet’’package(Friedmanetal.,2010).Thereceiver
+the statistical enrichment score of each sample according to
+the expression of these sets of metagenes, i.e., non-overlapping 1http://www.ncbi.nlm.nih.gov/geo
+FrontiersinAgingNeuroscience | www.frontiersin.org 2 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE1 | Flowchartofthisstudy.
+operating characteristic (ROC) curve was used to explore the themoduleconstructionproceededwiththeappropriatepower
+sensitivityandspecificityoftheaforementionedmodelusingthe value. The minimum number of genes was set as 40 for the
+‘‘ROCR’’package(Singetal.,2005). high reliability of the results. Module-trait associations were
+estimated using the correlation between module eigengenes
+Weighted Gene Co-expression Network and clinical features, which facilitates the identification of
+Analysis expressionmoduleshighlycorrelatedtoclinicalfeatures.Then,
+weselectedtwoexpressionmodulesthathadsignificantpositive
+All genes of the datasets were used for weighted gene
+andnegativecorrelationswithclinicalfeaturesandextractedthe
+co-expressionnetworkanalysis(WGCNA)usingthe‘‘WGCNA’’
+corresponding genes’ information of these modules to perform
+package (Langfelder and Horvath, 2008). WGCNA was used
+subsequentanalysis.
+to explore the relationships between expression modules and
+clinical features. The immunoscores and disease state were
+Identification and Validation of Signature
+regarded as clinical features. According to the algorithm, we
+tested the independence and the average connectivity degree Genes
+of different modules with different power values (the power To remove confounding genes and screen key genes without
+value ranging from 1 to 20). The appropriate power value was a relationship between each other, the least absolute shrinkage
+determined when the degree of independence was 0.85 and andselectionoperator(LASSO)analysiswasperformedtofind
+FrontiersinAgingNeuroscience | www.frontiersin.org 3 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+TABLE1 | TheinformationofGeneExpressionOmnibus(GEO)datasets.
+GEOdatasets Platform Method Tissue PDsamples HCsamples
+GSE7621 GPL570 Microarray Substantianigra 16 9
+GSE20141 GPL570 Microarray Substantianigra 10 8
+GSE49036 GPL570 Microarray Substantianigra 15 8
+GSE20164 GPL96 Microarray Substantianigra 6 5
+GSE20163 GPL96 Microarray Substantianigra 8 9
+GSE114517 GPL18573 NGS Substantianigra 17 12
+GSE133101 GPL18573 NGS Substantianigra 15 10
+Abbreviations:PD,Parkinson’sdisease;HC,healthycontrol;NGS,next-generationsequencing.
+the optimal gene list. Moreover, to select out more convincing mouse brains intended for cell lysis (three per group) were
+key genes, we also chose random forest (Liaw and Wiener, transcardially perfused with ice-cold PBS and later performed
+2002) for feature selection, which has been widely used and westernblotting.
+can precisely calculate the importance of each feature in the
+dataset.RFandLASSOanalysiswereperformedtoanalyzegenes’
+Cell Co-culture and Drug Treatment
+information of two modules selected from WGCNA analysis
+using‘‘randomForest’’and‘‘glmnet’’packages(LiawandWiener, Human neuroblastoma SH-SY5Y cells and human mast cells
+2002; Friedman et al., 2010). Internal datasets consisting of HMC-1 (560) were kindly provided by Dr. Jingxing Zhang
+GSE7621, GSE20141, and GSE49036 were randomly divided (Tongji Hospital, Tongji University School of Medicine,
+into the training cohort and the testing cohort by the ratio Shanghai, China) and Prof. Furong Gao (Tongji University
+of 7-3. The intersection of two gene lists analyzed by RF and School of Medicine, Shanghai, China), and they were cultured
+LASSO analysis in training cohort were used to construct a in Dulbecco’s Modified Eagle’s Medium (Hyclone, Logan, UT,
+logistic regression model to explore the correlation of disease USA)mixedwith10%fetalbovineserum(Gibco,GrandIsland,
+occurrence and these genes and were analyzed by ROC curve NY, USA) at 37◦C in a humidified incubator (Thermo Fisher
+and confusion matrix to verify the sensitivity and specificity Scientific, Wilmington, MA, USA) supplied with 5% CO 2 . To
+of the model in the testing cohort, in the internal cohort and contribute to the two-cell co-culture system, 1 ml of 1.5 × 105
+externalone. cells/ml of SH-SY5Y cells and 1 ml of 1.5 × 105 cells/ml of
+HMC-1 cells were co-cultured for 24 h directly or by using
+In vivo Mouse Model Experiments and Transwell12-wellplateswith0.4µmporepolyestermembrane
+Behavioral Tests insert(Corning,NY,USA).
+Male C57BL/6 mice (weighing 20–30 g) were purchased from To contribute PD cell culture model in vitro, 1.5 ml of
+ShanghaiSLACLaboratoryAnimal,housed,andmaintainedat 1 × 105 cells/ml of SH-SY5Y cells were cultured in 12-well
+constanttemperatureandhumiditywitha12hlight/darkcycle platesforapproximately24handwerethenrespectivelytreated
+inTongjiUniversity.Eight-week-oldmice(sixpergroup)were with 0.1% dimethyl sulfoxide (Sigma–Adrich, St. Louis, MO,
+injected a daily i.p. injection of a 1-methyl-4-phenyl-1,2,3,6- USA) containing 1 µmol/L (µM) rotenone (Sigma–Adrich,
+tetrahydropyridine(MPTP;Sigma–Adrich,St.Louis,MO,USA; St. Louis, MO, USA) for 24 h, 1 mmol/L (mM) 1-methyl-4-
+30 mg/kg) or saline treatment for 5 days. Motor impairments
+phenylpyridinium(MPP+;Sigma–Adrich,St.Louis,MO,USA)
+weretestedwithrotarodtestsandpoletests.Intherotarodtests, for 24 h or 100 µmol/L (µM) 6-hydroxydopamine (6-OHDA;
+mice were trained for 2 min at a speed of 4 r.p.m. and then Sigma–Adrich, St. Louis, MO, USA) for 24 h (Feng et al.,
+performedthreetrialsforamaximumof4minwithincreasing 2015; Zhang et al., 2017; Kim et al., 2018) After being digested
+speed starting from 4 r.p.m. to 40 r.p.m. The pole tests were and washed with phosphate buffer saline, SH-SY5Y cells were
+performedwithawoodenpole(50cmhigh,0.5cmindiameter, subjectedtofurthertreatmentandanalysis.Eachexperimentwas
+wrapped with gauze to prevent slipping) with a wooden ball at repeatedatleastthreetimes.
+thetop.Aftertrainingandacclimatization,miceweretestedwith
+thepolethreetimesforthetotaltimeittookforthemousetoget
+RNA Extraction and Quantitative Real
+fromthetoptothebottom.
+Time-PCR
+Tissue Preparation For the quantitation of AGTR1 and RBM3 gene expression,
+After treatment and behavioral test, mice (three per group) the total SH-SY5Y cell RNA was extracted using RNAiso Plus
+intended for immunofluorescence (IF) staining analysis were (9109, TaKaRa, Dalian, China) following the manufacturer’s
+euthanized and transcardially perfused with PBS followed by instructions. Quantitative real-time PCR was carried out using
+4% paraformaldehyde (PFA) in PBS. Brains were postfixed for the AceQ Universal SYBR qPCR Master Mix (Q411, Vazyme,
+24 h in 4% PFA at 4◦C and transferred to a solution of 30% Biotech, Nanjing, China). Primer sequences are listed in
+sucrose in PBS for 24 h at 4◦C. The coronal section of SN SupplementaryTable2.Relativeexpressionlevelsofgeneswere
+and STR was sectioned as 10 µm sections on a cryostat (Leica calculated by ∆∆Ct method normalized to β-Actin compared
+CM3050) and kept on polylysine-coated slides at −80◦C. The withcontrolsamples.
+FrontiersinAgingNeuroscience | www.frontiersin.org 4 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE2 | TheimmunecellinfiltrationanalysisofsubstantianigrabetweenParkinson’sdiseasepatients(PDs)andhealthycontrols(HCs).(A)Thelandscapeof
+immunecellinfiltrationbasedonexpressiondatafromtheGeneExpressionOmnibus(GEO)database.(B)Theimmunecelltypeswithsignificantdifferences
+betweenPDsandHCs.
+Western Blot Analysis [25mMTris-HCl(pH8.3),192mMglycocoll,and20%methyl
+Cultured cells and brain tissues were lysed with RIPA lysis alcohol]. After being blocked in 5% skim milk for an hour, the
+buffer (Beyotime, Wuhan, China) supplemented with protease membranebarswereincubatedwithspecificprimaryantibodies
+inhibitor cocktail (Roche, Switzerland) and phosphatase overnightat4◦C,andthenthemembranebarswerewashedin
+inhibitor cocktail (Roche, Switzerland). BCA assay kits 0.1%TBSTthreetimesandincubatedwithsecondaryantibodies
+(Beyotime,Shanghai,China)wereusedtomeasuretotalprotein for an hour at room temperature. Antibodies are listed in
+concentrations. Then, 50–750 µg protein for each sample was SupplementaryTable3.Afterbeingwashedin0.1%TBSTthree
+separatedon12.5%SDSpolyacrylamidegelswithSDSrunning times, the protein signals were detected with an ECL Western
+buffer [25 mM Tris (pH 8.3), 250 mM glycocoll, and 0.1% Blotting Substrate kit (Thermo Fisher Scientific, Wilmington,
+SDS].Theproteinsweretransferredonto0.2PVDFmembranes MA, USA) on the ImageQuant LAS 4000mini system. ImageJ
+(Merck Millipore, Darmstadt, Alemanha) with transfer buffer softwarewasappliedforquantitativeanalysisofbanddensity.
+FrontiersinAgingNeuroscience | www.frontiersin.org 5 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE3 | MastcellwasidentifiedtobetightlycorrelatedwithPD.(A)Thecorrelationofdiseasestateandimmunecelltypeswithsignificantdifferencesbetween
+PDsandHCs.(B)Thereceiveroperatingcharacteristic(ROC)curveoflogisticmodelforverifyingtheassociationbetweenmastcellandtheoccurrenceofPD.
+Immunofluorescence Staining immatureBcell,Tfollicularhelpercell,immaturedendriticcell,
+Cultured cells on coverslips and brain slices were fixed with mast cell, myeloid-derived suppressor cell (MDSC), neutrophil
+4% paraformaldehyde in PBS for 15 min, washed with PBS and plasmacytoid dendritic cell (Figure 2B). Together, these
+three times, and then permeabilized in 0.1–0.3% Triton X-100 results suggest that the immune infiltration patterns in SN
+for 30–60 min. After blocking in 3% donkey serum for an tissue of PDs might be altered during the progression of
+hour, cells and tissues were incubated with primary antibodies thedisease.
+overnight at 4◦C. Then, cells and tissues were incubated
+with corresponding secondary antibodies for an hour at room
+Mast Cell Could Be the Key Immunocyte
+temperature. Antibodies are listed in Supplementary Table 3.
+Associated With the Occurrence of PD
+Thenuclei werestained byDAPI (1:1,000;Roche,Switzerland)
+for 15 min at room temperature. Images were captured by Basedontheimmunoscore,weobtainedimmunecelltypesthat
+fluorescencemicroscopy(OLYMPUSBX53). differed between PDs and HCs. According to the correlation
+analysis of these immune cells and disease states, mast cells
+Statistical Analysis
+were most associated with the occurrence of PD (Figure 3A).
+All data are presented as mean ± standard deviation (SD). The Logistic regression analysis based on these immune cell
+Each experiment was replicated at least three times. Data types revealed that mast cells were significantly correlated
+visualizationandanalysiswereperformedwithGraphPadPrism to the occurrence of PD, and the ROC curve of mast cells
+8(GraphPadSoftwareInc.,LaJolla,CA,USA).Statisticalanalysis was drawn to assess the predictive accuracy with the area
+wasperformedusingeitherstudent’st-testorone-wayANOVA. under the curve (AUC) = 0.716 (Figure 3B); and it was
+Significantdifferenceamonggroupswasassessedasnsp>0.05,
+already reported that the number and activation of mast cells
+*p<0.05,**p<0.01,and∗∗∗p<0.001.
+in PD brain slices had a higher level compared to non-PD
+control brain slices (Kempuraj et al., 2019). Then based on the
+RESULTS WGCNA that was used to explore the relationships between
+gene expression modules and clinical features, we found that
+Immune Cell Infiltration Landscape of
+the modules significantly correlated to mast cells and disease
+Substantia Nigra Tissue in PDs and HCs states were the same (Figure 4). The purple module was
+The research flowchart is shown in Figure 1. Based on the positively correlated to a disease state (r = 0.26, p = 0.04)
+profilingdataof25HCsand41PDs,theimmunecellinfiltration and mast cell (r = 0.59, p = 2e-07), and the turquoise
+landscape of substantia nigra was constructed through ssGSEA module was observably negatively correlated to a disease state
+with 28 immune cell types identified (Figure2A). Notably, the (r = 0.29, p = 0.02) and mast cells (r = 0.41, p = 7e-04).
+infiltratinglevelsof10kindsofimmunecellsweresignificantly In aggregate, these results indicate that mast cells could be
+different between PDs and HCs, containing activated B cell, the key immunocyte and were most associated with the
+CD56 bright natural killer cell, effector memory CD8 T cell, occurrenceofPD.
+FrontiersinAgingNeuroscience | www.frontiersin.org 6 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE4 | Determinationofsoft-thresholdingpowerintheweightedgeneco-expressionnetworkanalysis(WGCNA)andidentificationofmodules.(A)Analysisof
+thescale-freefitindexforvarioussoft-thresholdingpowers.(B)Analysisofthemeanconnectivityforvarioussoft-thresholdingpowers.(C)Heatmapofthe
+correlationbetweenmoduleeigengenesandclinicaltraitsofPD.
+Multiple Algorithms Collectively Revealed above two modules were used to explore key genes through
+That RBM3 and AGTR1 Were Associated LASSOandRFanalyses.Eightgeneswereidentifiedaskeygenes
+With Mast Cell and PD basedonLASSOanalysis(Table2,Figure5A),andPDsandHCs
+could be distinguished according to the model constructed by
+To explore signature genes associated with the immune
+thesegenesinthetestingcohort(Figures5B,C).Weselectedthe
+infiltrationandoccurrenceofPD,thegenes’informationofthe
+FrontiersinAgingNeuroscience | www.frontiersin.org 7 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+TABLE2 | ThekeygenelistofLASSOandRFanalysis. revealedthatRBM3andAGTR1wereassociatedwithmastcells
+anddiseasestates.
+Analysis Genes
+LASSO RBM3,AGTR1,PSPH,PAK6,MTMR9,KANK4,
+CALN1,TCERG1L Logistic Regression Model Identified That
+RF AGTR1,CNTN6,PCSK1,KIAA1191,RBM3,RIT2,UNC13C,
+RBM3, AGTR1 Could be Signature Genes
+RIIAD1,KCNJ6,SLC35D3,CHPF2,NUPR1,SGSH,MAN1C1,
+RBM17,DCC,DNM1L,TPBG,CCDC117,LOC101928307, Related to the Occurrence of PD
+DLL1,HSPA6,UBE2N,ABCA5,ROBO2,KLHL1,SEMA3G, To identify signature genes related to the occurrence of PD,
+SRA1,PLCXD2,DLK1
+a Logistic regression model was constructed based on the
+Abbreviations: LASSO, least absolute shrinkage and selection operator analysis; RF, expression level of RBM3 and AGTR1 in the training cohort.
+randomforestanalysis.ThesegenesinLASSOanalysisareequallyimportant.These
+A ROC curve was used to evaluate the efficacy of the model
+genesinRFanalysisaresortedbytheparameterofincreaseinnodepurity.Thetwo
+geneshighlightedinboldaretheoverlapoftheresultsofRFandLassoanalysis. in the testing cohort, the internal cohort, and the external
+one. The AUC of the testing cohort was 0.883 (95% CI:
+top 30 candidate genes from the result of RF analysis (Table2, 0.722–1.000; Figure 7A). Moreover, the AUC of the internal
+Figure6A), and the RF model based on these genes could also cohort was 0.897 (95% CI: 0.823–0.970; Figure 7B), and the
+distinguishPDsfromHCsinthetestingcohort(Figures6B,C). AUC of the external cohort was 0.745 (95% CI: 0.553–0.937;
+The intersection genes of the two results gained from LASSO Figure 7C). A confusion matrix was also used to evaluate
+andRFanalyses,RBM3andAGTR1,wereregardedaskeygenes the model in the internal cohort (Figure 7D, Table 3) and
+thatwereassociatedwithmastcellsandPD.Thenthecorrelation the external cohort (Figure 7E, Table 3). Together, these
+analysis also indicated that RBM3 and AGTR1 were related to results indicate that RBM3 and AGTR1 could be signature
+diseasestatesandmastcells(Figure6D).Collectively,thesedata genesofPD.
+FIGURE5 | Constructionandvalidationoftheleastabsoluteshrinkageandselectionoperator(LASSO)modelinPDpatients.(A)Therelationshipbetween
+cross-validatedmeansquareerrorandmodelsize.Partiallikelihooddevianceisplottedagainstlog(λ),whereλisthetuningparameter.Dottedverticallineswere
+drawnattheoptimalvaluesbyminimumcriteriaand1-s.e.criteria,andweselected1-s.e.criteriatoconstructthemodel.(B)ThedistributionoftheLASSOmodelin
+thetestingcohort.(C)ROCcurveofLASSOmodelfordifferentiatingPDsfromHCsofthetestingcohort.
+FrontiersinAgingNeuroscience | www.frontiersin.org 8 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE6 | Constructionandvalidationoftherandomforest(RF)modelinPDs.(A)Top30genesbasedontheparameterofincreaseinnodepurityinRFanalysis.
+(B)ThedistributionoftheRFmodelisbasedonthese30genesinthetestingcohort.(C)ROCcurveofRFmodelfordifferentiatingPDsfromHCsofthetesting
+cohort.(D)ThecorrelationbetweentheintersectiongeneoflassoandRFanalysis(RBM3,AGTR1),mastcell,anddiseasestate.
+RBM3 and AGTR1 Were Differentially RBM3 and AGTR1 Were Also Differentially
+Expressed Genes Between PDs and HCs Expressed Genes in PD Models
+To better verify the aforementioned results, we compared Moreover, we constructed in vitro and in vivo PD models to
+the expression levels of RBM3 and AGTR1 in all the array verifytheresult.TheexpressionlevelsofRBM3andAGTR1in
+datasets, including 55 PDs and 39 HCs, and the expression PDcellmodelsbasedonSH-SY5YcelllineandtwoPD-related
+levels of RBM3 and AGTR1 in PDs were significantly neurotoxins,RotenoneandMPP+,alsoshowedasimilartrend,
+downregulated compared with HCs (Figures 8A,B). The
+relative expression levels of AGTR1 in next-generation
+TABLE3 | Themodelindexofconfusionmatrixbasedontheinternalcohortand
+sequencingdata(Figures8C,E)alsohadasignificantdifference
+theexternalcohort.
+between PDs and HCs, but the relative expression levels of
+Index Cohorts
+RBM3 in PDs only shown the lower level without significant
+Theinternalcohort Theexternalcohort
+differences (Figures 8D,F). In a word, low expression of
+Accuracy 0.8182 0.7143
+AGTR1 and RBM3 in PD patients was not only found in the
+Precision 0.9143 0.7500
+microarray profiling cohort, but also in the next-generation
+Sensitivity 0.7805 0.6429
+sequencingcohort. Specificity 0.8800 0.7857
+FrontiersinAgingNeuroscience | www.frontiersin.org 9 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE7 | ROCcurveoflogisticmodelbasedonRBM3andAGTR1.(A)ROCcurveoflogisticmodelfordifferentiatingPDsfromHCsofthetestingcohort.
+(B)ROCcurveoflogisticmodelfordifferentiatingPDsfromHCsoftheinternalcohort.(C)ROCcurveoflogisticmodelfordifferentiatingPDsfromHCsofthe
+externalcohort.(D)Confusionmatrixbasedontheinternalcohort.(E)Confusionmatrixbasedontheexternalcohort.
+butthetrendofRBM3andAGTR1wasunavailableinSH-SY5Y in SH-SY5Y and HMC-1 respectively showed more significant
+celltreatedwith6-OHDA(Figures8G–I,9A–D).Interestingly, differences comparing with the control group (Figures 8J–M,
+compared with the two-cell co-culture system by Transwell, in 9A–F). After successfully constructing and evaluating MPTP
+theco-culturesystemthatwasbaseddirectlyontheco-cultureof subacute models (Figures 10A–E), we analyzed the expression
+SH-SY5YandHMC-1,theexpressionlevelsofthesetwogenes levels of AGTR1 and RBM3 in SN of MPTP mice, which were
+FrontiersinAgingNeuroscience | www.frontiersin.org 10 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE8 | ThemRNArelativeexpressionlevelsofRBM3andAGTR1inGEOdatasetsandPDcellculturemodel.(A)TheexpressionlevelsofAGTR1ofPDsand
+HCsinatotaloffivearraydatasets.(B)TheexpressionlevelsofRBM3ofPDsandHCsinatotaloffivearraydatasets.(C)TheexpressionlevelsofAGTR1ofPDs
+andHCsinGSE114517.(D)TheexpressionlevelsofRBM3ofPDsandHCsinGSE114517.(E)TheexpressionlevelsofAGTR1ofPDsandHCsinGSE133101.
+(F)TheexpressionlevelsofRBM3ofPDsandHCsinGSE133101.(G)TheexpressionlevelsofRBM3andAGTR1incellculturemodelinvitroconstructedby
+SH-SY5Ycellusingrotenone.(H)TheexpressionlevelsofRBM3andAGTR1incellculturemodelinvitroconstructedbySH-SY5YcellusingMPP+.(I)The
+expressionlevelsofRBM3andAGTR1incellculturemodelinvitroconstructedbySH-SY5Ycellusing6-OHDA.(J)TheexpressionlevelsofRBM3andAGTR1in
+SH-SY5Ycellco-culturedwithHMC-1celldirectly.(K)TheexpressionlevelsofRBM3andAGTR1inHMC-1cellco-culturedwithSH-SY5Ycelldirectly.(L)The
+expressionlevelsofRBM3andAGTR1inSH-SY5Ycellco-culturedwithHMC-1cellbyTranswell.(M)TheexpressionlevelsofRBM3andAGTR1inHMC-1cell
+co-culturedwithSH-SY5YcellbyTranswell(nsp>0.05,∗p<0.05,∗∗p<0.01,∗∗∗p<0.001vs.Controlgroup).
+significantly downregulated compared with the control group also showed the downregulated trend (Figures 10I,J), but
+(Figures10F–H,11A,D).Accordingtoco-localizationstaining, the trend was unavailable in mast cells labeled by CD117,
+the expression levels of AGTR1 and RBM3 in dopaminergic MAR-1, Tryptase, and Chymase simultaneously of MPTP
+neurons labeled by tyrosine hydroxylase (TH) of MPTP mice mice(Figures11B,C,F,12A–H).Furthermore,CD117/MAR-1,
+FrontiersinAgingNeuroscience | www.frontiersin.org 11 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE9 | TheproteinrelativeexpressionlevelsofRBM3andAGTR1inPDcellculturemodel.(A)AGTR1expressionlevelineachtreatedgroupwasdetectedby
+fluorescencemicroscopeafterimmunofluorescencestaining.Scalebars:100µm;1,000µm.(B)RBM3expressionlevelineachtreatedgroupwasdetectedby
+fluorescencemicroscopeafterimmunofluorescencestaining.(C,D)Westernblotanalysesofspecificgenes’expressioninSH-SY5YcellstreatedbyMPP+,6-OHDA,
+andRotenone.GAPDHwasusedasanendogenouscontrol.(E,F)Westernblotanalysesofspecificgenes’expressioninSH-SY5Ycellsco-culturedwithHMC-1by
+Transwellordirectly.GAPDHwasusedasanendogenouscontrol(nsp>0.05,*p<0.05,**p<0.01,vs.Controlgroup).
+Tryptase, and Chymase staining also verified the increased subsequent stimuli produce exaggerated responses, and thus
+infiltration of mast cells in MPTP mice (Figures 11B,C,E, affecttheoutcomeinCNSinjuryanddisease(PrinzandPriller,
+12A–F).Takentogether,theseresultsfurtherconfirmedthatthe 2017; Greenhalgh et al., 2020; Urban et al., 2020). All lines of
+levelsofRBM3andAGTR1inneurocytescouldbesignificantly evidence provided, it might be speculated that a key trigger to
+downregulated in both in vivo and in vitro PD models, and PD pathogenesis is the peripheral immune system that could
+thechangescouldbeshowninneuronalcellsdirectlycontacted affect the neuroinflammation of CNS to induce and promote
+Shoulditbe‘‘connected’’withmastcells. the process of PD (Sim et al., 2020). In this study, using high
+throughput data and bioinformatic techniques, we provided
+DISCUSSION more robust evidence for the potential roles of infiltrating
+immunocytesinPDaswellastheirkeymolecules,whichmight
+The arrival of peripheral immune cells at the CNS may have be helpful to further illustrate the correlations between the
+a role in modulating these microglial functions such that peripheralimmunesystemandPD.
+FrontiersinAgingNeuroscience | www.frontiersin.org 12 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE10 | TherelativeproteinexpressionlevelsofRBM3andAGTR1inthePDanimalmodel.(A)TheflowchartoftheconstructionoftheMPTPsubacute
+model,behavioraltests,andsacrifice.(B)Tyrosinehydroxylase(TH)stainingofthesubstantianigra(SN)oftheabovemice.Scalebars:200µm.(C)Poletestswere
+conductedbyablindedobserverafterMPTPtreatment.(D,E)RotarodtestswereconductedbyablindedobserverafterMPTPtreatment.(F–H)Westernblot
+analysesofRBM3andAGTR1inSNoftheabovemice.(I)Theco-localizationofAGTR1andTHinSNofthecontrolgroupandMPTPgroupwasdetectedby
+fluorescencemicroscopeafterimmunofluorescencestaining.Scalebars:100µm.(J)Theco-localizationofRBM3andTHinSNoftwogroupswasdetectedby
+fluorescencemicroscope(**p<0.01,***p<0.001vs.Controlgroup).
+It is generally accepted that T-cell infiltration participated were identified to be significantly different from those in HCs,
+in nigrostriatal dopaminergic neurodegeneration in models of which provided new insights into the infiltrating patterns of
+PD (González and Pacheco, 2014). Based on our analysis of immunocytes in PD. Mast cell was the most eye-catching
+the immune infiltration, 10 kinds of immune cells in PDs immunocyte that had wide correlations with other immune
+FrontiersinAgingNeuroscience | www.frontiersin.org 13 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE11 | TherelativeproteinexpressionlevelsofRBM3andAGTR1inthePDanimalmodel.(A)Theco-localizationofAGTR1andRBM3inSNoftwogroups
+wasdetectedbyfluorescencemicroscope.Scalebars:50µm.(B)Theco-localizationofAGTR1,MAR-1,andCD117inSNoftwogroupswasdetectedby
+fluorescencemicroscope.(C)Theco-localizationofRBM3,MAR-1,andCD117inSNoftwogroupswasdetectedbyfluorescencemicroscope.(D)Therelative
+expressionlevelsofAGTR1andRBM3inSNofthetwogroupsarebasedontheco-localizationofAGTR1andRBM3.(E)Therelativeco-expressionlevelof
+CD117/MAR-1inSNoftwogroupsbasedontheco-localizationofCD117andMAR-1.(F)TherelativeexpressionlevelsofAGTR1andRBM3inSNoftwogroups
+separatelybasedontheco-localizationofAGTR1/CD117/MAR-1andRBM3/CD117/MAR-1(nsp>0.05,*p<0.05,***p<0.001vs.Controlgroup).
+cells and disease states. PD brains showed increased number receptor-2(PAR-2)thatisexpressedinneuronalandglialcells
+and activation of mast cells compared with normal brains of and is involved in the development and progression of PD
+non-PD control in both human tissues and animal models and upregulate neuroinflammation (Liu et al., 2014; Kempuraj
+(Kempuraj et al., 2019). Our results proved the increased et al., 2019; Widera et al., 2019). Additionally, tryptase induces
+number and activation of mast cells in PD models through the recruitment and accumulation of mast cells at the site
+the staining of CD117, MAR-1, Chymase, and Tryptase. These of inflammation through the activation of PAR-2 (Liu et al.,
+proteases from mast cells could activate Protease-activated 2016). The changes of mast cells also occur together with the
+FrontiersinAgingNeuroscience | www.frontiersin.org 14 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+FIGURE12 | TherelativeproteinexpressionlevelsofRBM3andAGTR1inthePDanimalmodel.(A)Theco-localizationofAGTR1andTryptaseinSNoftwo
+groupswasdetectedbyfluorescencemicroscope.Scalebars:100µm.(B)Theco-localizationofRBM3andTryptaseinSNoftwogroupswasdetectedby
+fluorescencemicroscope.(C)Theco-localizationofAGTR1andChymaseinSNoftwogroupswasdetectedbyfluorescencemicroscope.(D)Theco-localizationof
+RBM3andChymaseinSNoftwogroupswasdetectedbyfluorescencemicroscope.(E)TherelativeexpressionlevelsofTryptaseinSNoftwogroups.(F)The
+relativeexpressionlevelsofChymaseinSNoftwogroups.(G)TherelativeexpressionlevelsofAGTR1andRBM3inSNoftwogroupsseparatelybasedonthe
+co-localizationofAGTR1/TryptaseandRBM3/Tryptase.(H)TherelativeexpressionlevelsofAGTR1andRBM3inSNoftwogroupsseparatelybasedonthe
+co-localizationofAGTR1/ChymaseandRBM3/Chymase(nsp>0.05,**p<0.01,***p<0.001vs.Controlgroup).
+FrontiersinAgingNeuroscience | www.frontiersin.org 15 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+activationofmicroglialandastrocyte.Mastcellscanselectively ininvitroandinvivoPDmodelsandotherpublishedresearches,
+releaseproinflammatorycytokines/chemokinesandneuroactive functionalexperimentsbasedonmodelsthatcouldbetterimitate
+mediatorsinpathophysiologicalconditions(Skaperetal.,2014; the real state of PD, like induced pluripotent stem cells from
+Hendriksenetal.,2017;Kempurajetal.,2018).Thesecytokines PDpatientsandtransgenicanimalmodelsarestillnecessaryto
+notonlycouldactivemicroglialandastrocytesthroughmatched revealtherolesofRBM3andAGTR1playedinPD.
+receptors, but also break down BBB and attract peripheral In conclusion, based on the gene expression profiling, the
+immunecellstoincreaseinflammatoryinfiltration(Hendriksen immune landscape of PDs was preliminarily constructed. This
+etal.,2017).Theglialcellscanalsointeractwithmastcellsand study revealed core immunocytes and molecules significantly
+accelerate neuroinflammation, and the crosstalk may act as a associated with peripheral immune cell infiltration in SN of
+noveltherapeutictargetforPD. PD patients. Our findings will help enhance our cognition
+RBM3 is a neuroprotective cold-shock protein and can of immune cell infiltration heterogeneity and complexity,
+improve neurological function. According to previous as well as provide promising targets for immunotherapy in
+researches, knockdown of RBM3 can aggravate apoptosis patientswithPD.
+inducted by rotenone and 1-methyl-4-phenylpyridinium
+(MPP+), while overexpression of RBM3 not only reduces this DATA AVAILABILITY STATEMENT
+apoptosis, but also restores structural synaptic plasticity, and
+mediates neuroprotection against rotenone by inhibiting the The original contributions presented in the study are included
+MAPKsignalingofp38,JNK,andERK(Perettietal.,2015;Yang inthearticle/SupplementaryMaterial,furtherinquiriescanbe
+etal.,2018,2019).Inaword,therelationshipbetweenRBM3and directedtothecorrespondingauthors.
+PDisworthyoffurtherinvestigation.
+The angiotensin II type 1 receptor (AT1R) is coded by
+AUTHOR CONTRIBUTIONS
+AGTR1andistermedasthecomponentoftherenin-angiotensin
+system. Compared with the matched controls, radiolabeled
+XZ, ZS, YL, LJ, and SL designed the study. XZ, SX, QL,
+AT1R recognition site levels were significantly decreased by
+and CL performed the data analysis. XZ, ZS, and SX wrote
+approximately 70%, 70%, and 90% in the caudate nucleus,
+the manuscript. YL, LJ, and SL reviewed and edited the
+putamen, and SN (Ge and Barnes, 1996); and total cellular
+manuscript.Allauthorscontributedtothearticleandapproved
+AT1R expression in SN DA neurons is reduced with disease
+thesubmittedversion.
+progression(Zawadaetal.,2015).However,AT1Rupregulation
+can lead to the release of pro-inflammatory cytokines and
+FUNDING
+subsequent inflammation to induce dopaminergic cell death
+anddysfunction,anditsantagonistcouldreducedopaminergic
+ThisprojectwassupportedbygrantsfromtheNationalKeyR&D
+neuron degeneration introduced by a neurotoxin in SN
+Program of China (2017YFE9126600 and 2018YFC1314700),
+(Grammatopoulos et al., 2007; Sathiya et al., 2013). The results
+National Natural Science Foundation of China (31830111,
+of model-based studies seem to be contrary to the clinical
+81771333, and 81873779), Key Research and Innovation
+phenomenon,butitalsoindicatesthattheroleofAGTR1inPD
+Program from Shanghai Municipal Education Commission
+iscomplexandneedsfurtherexploration.
+(2019-01-07-00-07-E00040), and Fundamental Research Funds
+Our study had several limitations that should be
+fortheCentralUniversities(22120190238).
+acknowledged. First, the method combined with metagenes
+andssGSEAcouldnotaccuratelyidentifyimmunecellsubtypes
+from bulk RNA-Seq data, since some of these metagenes are ACKNOWLEDGMENTS
+controversialtorepresentspecificimmunecellsubpopulations.
+Although,weanalyzedtheexpressionofRBM3andAGTR1in We appreciate the support from all lab members, especially
+dopaminergic neurons and mast cells in PD models using Yueqiang Song, Prof. Xiaoping Chen (Tongji Hospital,
+co-localization staining, the relationship between other cell Tongji University School of Medicine, Shanghai, China),
+typesandthesetwogenesremainsunclear.Itisnecessarytouse Dr. Jinxing Zhang (Tongji Hospital, Tongji University School
+single-cell RNA-Seq or other methods for verifying our results of Medicine, Shanghai), Prof. Furong Gao (Tongji University
+and illustrating the roles of RBM3 and AGTR1 in different School of Medicine, Shanghai, China), and Dr. Donglai Chen
+cell types of PD. Second, we did not illustrate the correlations (Department of Thoracic Surgery, Tongji University Affiliated
+between immune infiltration and clinical symptoms due to the Shanghai Pulmonary Hospital, Shanghai, China), and we
+lack of complete clinical information in the included datasets. wouldliketothank‘‘GEOdatabase’’forprovidinghigh-quality
+Then, although we collected multiple datasets in the public biologicaldata.
+database, the number of samples in the present study was not
+largeenough,whichrequiredfurtherreal-worldstudiestoverify SUPPLEMENTARY MATERIAL
+thecurrentresults.Besidesthese,thecurrentresultsalsoshould
+bevalidatedinhumanPDbrainspecimens.Althoughmastcell TheSupplementaryMaterialforthisarticlecanbefoundonline
+plays key roles in PD, the source of mast cell is unknown and at: https://www.frontiersin.org/articles/10.3389/fnagi.2021.6059
+needtobestudied.Finally,althoughourfindingswereverified 70/full#supplementary-material.
+FrontiersinAgingNeuroscience | www.frontiersin.org 16 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+REFERENCES
+Kustrimovic, N., Marino, F., and Cosentino, M. (2019). Peripheral
+immunity, immunoaging and neuroinflammation in Parkinson’s disease.
+Barrett,T.,Wilhite,S.E.,Ledoux,P.,Evangelista,C.,Kim,I.F.,Tomashevsky,M., Curr. Med. Chem. 26, 3719–3753. doi: 10.2174/092986732566618100
+etal.(2013).NCBIGEO:archiveforfunctionalgenomicsdatasets—update. 9161048
+NucleicAcidsRes.41,D991–D995.doi:10.1093/nar/gks1193 Langfelder, P., and Horvath, S. (2008). WGCNA: an R package for weighted
+Calabrese,V.,Santoro,A.,Monti,D.,Crupi,R.,DiPaola,R.,Latteri,S.,etal. correlationnetworkanalysis.BMC Bioinformatics9:559.doi:10.1186/1471-
+(2018).AgingandParkinson’sdisease:inflammaging,neuroinflammationand 2105-9-559
+biologicalremodelingaskeyfactorsinpathogenesis.FreeRadic.Biol.Med.115, Lee,H.,James,W.S.,andCowley,S.A.(2017).LRRK2inperipheralandcentral
+80–91.doi:10.1016/j.freeradbiomed.2017.10.379 nervoussysteminnateimmunity:itslinktoParkinson’sdisease.Biochem.Soc.
+Cao,J.-J.,Li,K.-S.,andShen,Y.-Q.(2011).ActivatedimmunecellsinParkinson’s Trans.45,131–139.doi:10.1042/BST20160262
+disease. J. Neuroimmune Pharmacol. 6, 323–329. doi: 10.1007/s11481-011- Leek, J. T., Johnson, W. E., Parker, H. S., Jaffe, A. E., and Storey, J. D.
+9280-9 (2012). The sva package for removing batch effects and other unwanted
+Charoentong, P., Finotello, F., Angelova, M., Mayer, C., Efremova, M., variation in high-throughput experiments. Bioinformatics 28, 882–883.
+Rieder,D.,etal.(2017).Pan-cancerimmunogenomicanalysesrevealgenotype- doi:10.1093/bioinformatics/bts034
+immunophenotype relationships and predictors of response to checkpoint Liaw,A.,andWiener,M.(2002).ClassificationandregressionbyrandomForest.
+blockade.CellRep.18,248–262.doi:10.1016/j.celrep.2016.12.019 RNews2,18–22. Availableonlineat:https://journal.r-project.org/archive/r-
+Fasano, A., Visanji, N. P., Liu, L. W. C., Lang, A. E., and Pfeiffer, R. F. news.html
+(2015).GastrointestinaldysfunctioninParkinson’sdisease.LancetNeurol.14, Liu, P., Sun, L., Zhao, X.-L., Zhang, P., Zhao, X.-M., and Zhang, J. (2014).
+625–639.doi:10.1016/S1474-4422(15)00007-1 PAR2-mediated epigenetic upregulation of α-synuclein contributes to the
+Feng, Y., Liu, T., Dong, S.-Y., Guo, Y.-J., Jankovic, J., Xu, H., et al. (2015). pathogenesis of Parkinson’s disease. Brain Res. 1565, 82–89. doi: 10.1016/j.
+Rotenone affects p53 transcriptional activity and apoptosis via targeting brainres.2014.04.014
+SIRT1andH3K9acetylationinSH-SY5Ycells.J.Neurochem.134,668–676. Liu,X.,Wang,J.,Zhang,H.,Zhan,M.,Chen,H.,Fang,Z.,etal.(2016).Induction
+doi:10.1111/jnc.13172 of mast cell accumulation by tryptase via a protease activated receptor-2
+Friedman, J., Hastie, T., and Tibshirani, R. (2010). Regularization paths for and ICAM-1 dependent mechanism. Mediators Inflamm. 2016:6431574.
+generalized linear models via coordinate descent. J. Stat. Softw. 33, 1–22. doi:10.1155/2016/6431574
+doi:10.18637/jss.v033.i01 Pan,Y.,andNicolazzo,J.A.(2018).Impactofaging,Alzheimer’sdiseaseand
+Gautier,L.,Cope,L.,Bolstad,B.M.,andIrizarry,R.A.(2004).Affy—analysis Parkinson’sdiseaseontheblood-brainbarriertransportoftherapeutics.Adv.
+ofAffymetrixGeneChipdataattheprobelevel.Bioinformatics20,307–315. DrugDeliv.Rev.135,62–74.doi:10.1016/j.addr.2018.04.009
+doi:10.1093/bioinformatics/btg405 Peretti,D.,Bastide,A.,Radford,H.,Verity,N.,Molloy,C.,Martin,M.G.,etal.
+Ge,J.,andBarnes,N.M.(1996).AlterationsinangiotensinAT1andAT2receptor (2015).RBM3mediatesstructuralplasticityandprotectiveeffectsofcoolingin
+subtypelevelsinbrainregionsfrompatientswithneurodegenerativedisorders. neurodegeneration.Nature518,236–239.doi:10.1038/nature14142
+Eur.J.Pharmacol.297,299–306.doi:10.1016/0014-2999(95)00762-8 Picca, A., Calvani, R., Coelho-Junior, H. J., Landi, F., Bernabei, R., and
+González, H., and Pacheco, R. (2014). T-cell-mediated regulation Marzetti, E. (2020). Mitochondrial dysfunction, oxidative stress, and
+of neuroinflammation involved in neurodegenerative diseases. neuroinflammation: intertwined roads to neurodegeneration. Antioxidants
+J.Neuroinflammation11:201.doi:10.1186/s12974-014-0201-8 9:647.doi:10.3390/antiox9080647
+Grammatopoulos,T.N.,Jones,S.M.,Ahmadi,F.A.,Hoover,B.R.,Snell,L.D., Prinz,M.,andPriller,J.(2017).TheroleofperipheralimmunecellsintheCNSin
+Skoch,J.,etal.(2007).Angiotensintype1receptorantagonistlosartan,reduces steadystateanddisease.Nat.Neurosci.20,136–144.doi:10.1038/nn.4475
+MPTP-induced degeneration of dopaminergic neurons in substantia nigra. Sathiya,S.,Ranju,V.,Kalaivani,P.,Priya,R.J.,Sumathy,H.,Sunil,A.G.,etal.
+Mol.Neurodegener.2:1.doi:10.1186/1750-1326-2-1 (2013).TelmisartanattenuatesMPTPinduceddopaminergicdegenerationand
+Greenhalgh,A.D.,David,S.,andBennett,F.C.(2020).Immunecellregulation motordysfunctionthroughregulationofα-synucleinandneurotrophicfactors
+of glia during CNS injury and disease. Nat. Rev. Neurosci. 21, 139–152. (BDNF and GDNF) expression in C57BL/6J mice. Neuropharmacology 73,
+doi:10.1038/s41583-020-0263-9 98–110.doi:10.1016/j.neuropharm.2013.05.025
+He, J., Zhu, G., Wang, G., and Zhang, F. (2020). Oxidative stress and Sim,K.-Y.,Im,K.C.,andPark,S.-G.(2020).Thefunctionalrolesandapplications
+neuroinflammation potentiate each other to promote progression of of immunoglobulins in neurodegenerative disease. Int. J. Mol. Sci. 21:5295.
+dopamine neurodegeneration. Oxid. Med. Cell. Longev. 2020:6137521. doi:10.3390/ijms21155295
+doi:10.1155/2020/6137521 Sing, T., Sander, O., Beerenwinkel, N., and Lengauer, T. (2005). ROCR:
+Hendriksen,E.,vanBergeijk,D.,Oosting,R.S.,andRedegeld,F.A.(2017).Mast visualizing classifier performance in R. Bioinformatics 21, 3940–3941.
+cellsinneuroinflammationandbraindisorders.Neurosci.Biobehav.Rev.79, doi:10.1093/bioinformatics/bti623
+119–133.doi:10.1016/j.neubiorev.2017.05.001 Skaper, S. D., Facci, L., and Giusti, P. (2014). Mast cells, glia and
+Jia,Q.,Wu,W.,Wang,Y.,Alexander,P.B.,Sun,C.,Gong,Z.,etal.(2018).Local neuroinflammation: partners in crime? Immunology 141, 314–327.
+mutationaldiversitydrivesintratumoralimmuneheterogeneityinnon-small doi:10.1111/imm.12170
+celllungcancer.Nat.Commun.9:5361.doi:10.1038/s41467-018-07767-w Stephenson,J.,Nutma,E.,vanderValk,P.,andAmor,S.(2018).Inflammationin
+Kalia,L.V.,andLang,A.E.(2015).Parkinson’sdisease.Lancet386,896–912. CNSneurodegenerativediseases.Immunology154,204–219.doi:10.1111/imm.
+doi:10.1016/S0140-6736(14)61393-3 12922
+Kannarkat, G. T., Boss, J. M., and Tansey, M. G. (2013). The role of innate Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B. L.,
+andadaptiveimmunityinParkinson’sdisease.J.ParkinsonsDis.3,493–514. Gillette,M.A.,etal.(2005).Genesetenrichmentanalysis:aknowledge-based
+doi:10.3233/JPD-130250 approachforinterpretinggenome-wideexpressionprofiles.Proc.Natl.Acad.
+Kempuraj, D., Selvakumar, G. P., Zaheer, S., Thangavel, R., Ahmed, M. E., Sci.USA102,15545–15550.doi:10.1073/pnas.0506580102
+Raikwar, S., et al. (2018). Cross-talk between glia, neurons and mast cells Sweeney,M.D.,Sagare,A.P.,andZlokovic,B.V.(2018).Blood-brainbarrier
+inneuroinflammationassociatedwithParkinson’sdisease.J. Neuroimmune breakdowninAlzheimerdiseaseandotherneurodegenerativedisorders.Nat.
+Pharmacol.13,100–112.doi:10.1007/s11481-017-9766-1 Rev.Neurol.14,133–150.doi:10.1038/nrneurol.2017.188
+Kempuraj, D., Thangavel, R., Selvakumar, G. P., Ahmed, M. E., Zaheer, S., Travagli, R. A., Browning, K. N., and Camilleri, M. (2020). Parkinson disease
+Raikwar, S. P., et al. (2019). Mast cell proteases activate astrocytes and andthegut:newinsightsintopathogenesisandclinicalrelevance.Nat.Rev.
+glia-neuronsandreleaseinterleukin-33byactivatingp38andERK1/2MAPKs Gastroenterol.Hepatol.17,673–685.doi:10.1038/s41575-020-0339-z
+andNF-κB.Mol.Neurobiol.56,1681–1693.doi:10.1007/s12035-018-1177-7 Urban,S.L.,Jensen,I.J.,Shan,Q.,Pewe,L.L.,Xue,H.-H.,Badovinac,V.P.,
+Kim,H.-Y.,Jeon,H.,Kim,H.,Koo,S.,andKim,S.(2018).Sophoraflavescensaiton et al. (2020). Peripherally induced brain tissue-resident memory CD8+ T
+decreasesMPP+-inducedmitochondrialdysfunctioninSH-SY5Ycells.Front. cellsmediateprotectionagainstCNSinfection.Nat.Immunol.21,938–949.
+AgingNeurosci.10:119.doi:10.3389/fnagi.2018.00119 doi:10.1038/s41590-020-0711-8
+FrontiersinAgingNeuroscience | www.frontiersin.org 17 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+
+Zhangetal. ImmuneProfilingofParkinson’sDisease
+Wang, Q., Liu, Y., and Zhou, J. (2015). Neuroinflammation in Parkinson’s isaccompaniedbyincreasesinNox4-and8-OHguanosine-relatednucleic
+disease and its potential as therapeutic target. Transl. Neurodegener. 4:19. acid oxidation and caspase-3 activation. Acta Neuropathol. Commun. 3:9.
+doi:10.1186/s40035-015-0042-0 doi:10.1186/s40478-015-0189-z
+Widera, D., Martínez Aguilar, R., and Cottrell, G. S. (2019). Toll- Zhang,J.,Cai,Q.,Jiang,M.,Liu,Y.,Gu,H.,Guo,J.,etal.(2017).Mesencephalic
+like receptor 4 and protease-activated receptor 2 in physiology and astrocyte-derivedneurotrophicfactoralleviated6-OHDA-inducedcelldamage
+pathophysiology of the nervous system: more than just receptor via ROS-AMPK/mTOR mediated autophagic inhibition. Exp. Gerontol. 89,
+cooperation? Neural Regen. Res. 14, 1196–1201. doi: 10.4103/1673-5374. 45–56.doi:10.1016/j.exger.2017.01.010
+251290
+Yang,H.-J.,Shi,X.,Ju,F.,Hao,B.-N.,Ma,S.-P.,Wang,L.,etal.(2018).Cold ConflictofInterest:Theauthorsdeclarethattheresearchwasconductedinthe
+shock induced protein RBM3 but not mild hypothermia protects human absenceofanycommercialorfinancialrelationshipsthatcouldbeconstruedasa
+SH-SY5Y neuroblastoma cells from MPP+-induced neurotoxicity. Front. potentialconflictofinterest.
+Neurosci.12:298.doi:10.3389/fnins.2018.00298
+Yang, H.-J., Zhuang, R.-J., Li, Y.-B., Li, T., Yuan, X., Lei, B.-B., et al. (2019). Copyright©2021Zhang,Shao,Xu,Liu,Liu,Luo,JinandLi.Thisisanopen-access
+Cold-inducibleproteinRBM3mediateshypothermicneuroprotectionagainst articledistributedunderthetermsoftheCreativeCommonsAttributionLicense
+neurotoxinrotenoneviainhibitiononMAPKsignalling.J.Cell.Mol.Med.23, (CC BY). The use, distribution or reproduction in other forums is permitted,
+7010–7020.doi:10.1111/jcmm.14588 providedtheoriginalauthor(s)andthecopyrightowner(s)arecreditedandthatthe
+Zawada,W.M.,Mrak,R.E.,Biedermann,J.,Palmer,Q.D.,Gentleman,S.M., originalpublicationinthisjournaliscited,inaccordancewithacceptedacademic
+Aboud,O.,etal.(2015).LossofangiotensinIIreceptorexpressionindopamine practice.Nouse,distributionorreproductionispermittedwhichdoesnotcomply
+neuronsinParkinson’sdiseasecorrelateswithpathologicalprogressionand withtheseterms.
+FrontiersinAgingNeuroscience | www.frontiersin.org 18 February2021 | Volume13 | Article605970
+
+---PAGE BREAK---
+

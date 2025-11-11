@@ -1,0 +1,1202 @@
+MINIREVIEW
+The Cell Biology of LRRK2 in Parkinson's Disease
+AhsanUsmani,aFarbodShavarebi,a AnnieHinikera
+aDepartmentofPathology,UniversityofCalifornia,SanDiego,SanDiego,California,USA
+ABSTRACT Point mutations in leucine-rich repeat kinase 2 (LRRK2) are the most
+common cause of familial Parkinson’s disease (PD) and are implicated in a significant
+proportion of apparently sporadic PD cases. Clinically, LRRK2-driven PD is indistin-
+guishable from sporadic PD, making it an attractive genetic model for the much
+more common sporadic PD. In this review, we highlight recent advances in under-
+standing LRRK2's subcellular functions using LRRK2-driven PD models, while also
+consideringsomeofthelimitationsofthesemodel systems.Recentdevelopmentsof
+particular importance include new evidence of key LRRK2 functions in the endolyso-
+somal system and LRRK2’s regulation of and by Rab GTPases. Additionally, LRRK2's
+interaction with the cytoskeleton allowed elucidation of the LRRK2 structure and
+appears relevant to LRRK2 protein degradation and LRRK2 inhibitor therapies. We
+further discuss how LRRK2's interactions with other PD-driving genes, such as the
+VPS35, GBA1, and SNCA genes, may highlight cellular pathways more broadly dis-
+ruptedinPD.
+KEYWORDS LRRK2,Parkinson'sdisease,endolysosome,kinase,microtubule
+Parkinson’sdisease(PD)isaprogressiveneurodegenerativedisorderaffectingnearly
+7 million individuals worldwide, including 1 to 2% of people over 60years of age
+andupto5%ofthoseover85yearsofage(1).Tremor,rigidity,andbradykinesiaare
+keyclinicalfeatures.Thesesymptomsaredrivenbyneuronaldysfunctionanddeathin
+a stereotyped anatomic distribution in which dopaminergic (DA) neurons in the sub-
+stantia nigra of the midbrain are particularly devastated. Many additional PD symp-
+toms clearly relate to neurodegeneration in other neuroanatomic sites (i.e., anosmia
+due to olfactory bulb involvement and autonomic symptoms due to involvement of
+thedorsalmotornucleusofthevagusnerve).Othersymptoms,likesleepdisturbances
+and abnormalities of mood, have less clear neuroanatomic causes (2). On a cellular
+level,survivingneuronsinaffectedregionsoftencontainLewybodiesandLewyneu-
+rites,cytoplasmicproteinaggregatescomposedpredominantlyofaggregateda-synu-
+clein(3).
+While most cases of PD are idiopathic, approximately 5 to 10% are familial, with
+clear-cutautosomal inheritancepatterns (4,5). Pointmutations inthe kinaseleucine-
+richrepeatkinase2(LRRK2)(foundinthePark8locusonchromosome12q12)arethe
+mostcommoncauseofautosomallyinheritedPD.LRRK2mutationsdriveupto5%of
+familialcasesworldwideandupto40%ofcasesincertainpopulations,suchasNorth CitationUsmaniA,ShavarebiF,HinikerA.
+African Berber and Ashkenazi Jewish patients (6). Seven point mutations (G2019S, 2021.ThecellbiologyofLRRK2inParkinson's
+disease.MolCellBiol41:e00660-20.https://doi
+I2020T, R1441C/G/H, Y1699C, and N1437H) in the LRRK2 enzymatic domains cause
+.org/10.1128/MCB.00660-20.
+autosomaldominantPD(Fig.1).LRRK2G2019Sisbyfarthemostprevalentmutation Copyright©2021AmericanSocietyfor
+and is common in LRRK2-driven PD (LRRK2-PD) patients with Berber and Ashkenazi Microbiology.AllRightsReserved.
+Jewishheritage.ThismutationisalsocommoninpatientsofEuropeandescentbutis AddresscorrespondencetoAnnieHiniker,
+ahiniker@health.ucsd.edu.
+rareinAsianpatients(7,8).ThepenetranceofLRRK2-PDisagedependentbutincom-
+Acceptedmanuscriptpostedonline
+plete, with estimates (ranging from 24% to nearly 100%) varying depending on the 1February2021
+particular mutation and the particular study (9, 10). Certain LRRK2 point mutations Published22April2021
+such as I2020T are rare and affect limited numbers of patients. These mutations also
+March2021 Volume41 Issue5 e00660-20 MolecularandCellularBiology mcb.asm.org 1
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+FIG 1 LRRK2 domain structure. LRRK2 is a multidomain kinase with two enzymatic domains, a Roc
+GTPase and a serine-threonine kinase of the TKL family, linked by a COR domain. LRRK2’s N and C
+termini are composed of protein-protein interaction domains, including N-terminal armadillo (ARM),
+ankyrin(ANK),andLRRdomainsandaC-terminalWD40domain.Indicatedatthetoparetheseven
+knownLRRK2pointmutationsthatdriveautosomaldominantPD.
+appeartobehighlypenetrant.Conversely,LRRK2G2019Siscommonbutonlymod-
+eratelypenetrant,whichmayhelpexplainwhyLRRK2pointmutationsunderlieupto
+1 to 2% of apparently idiopathic PD. Multiple risk loci for sporadic PD have been
+identified within the LRRK2 gene using population studies (11). LRRK2 variants
+G2385RandR1628PareassociatedwithincreasedPDriskinAsianpopulations,while
+the N551K-R1398H haplotype appears protective against sporadic PD (12, 13).
+Importantly, genetic variants in LRRK2 are also risk factors for Crohn’s disease, lep-
+rosy,and tuberculosis,suggesting thattheLRRK2proteinplaysimportantrolesout-
+sidethecentralnervoussystem(14–16).
+CLINICALFEATURESOFLRRK2-PD
+We use the term LRRK2-PD to describe the group of patients with both clinical
+symptomsofPDandoneofthesevenknowncausativemutations.Clinicalmanifesta-
+tionsofLRRK2-PDlargelyphenocopythoseofsporadicPD,withsimilarsymptoms,age
+ofonset(60sor70s),andrateofclinicaldecline(17).Thisisincontrasttoautosomalre-
+cessive causes of PD, such as PINK1, DJ1, and parkin, which frequently manifest with
+additionalsymptomsandatayoungerage(reviewedbyGasseretal.[18]).Theclassic
+clinicalsymptomsofLRRK2-PDmakeitacompellinggeneticmodelforidiopathicPD.
+Neuropathologically, the majority of LRRK2-PD brains show a-synuclein-positive
+LewypathologypathognomonicforPD.Thisfindingprovidesconclusiveevidencethat
+LRRK2pointmutationseitherdirectlyorindirectlyincreasea-synucleinaggregationin
+humans. In 2015, a review of all LRRK2-PD cases with published neuropathology (54
+cases with pathogenic LRRK2 mutations, with 37 described in detail) reported that
+essentiallyallshowednigralneuronallossandaboutone-halfshowedLewypathology
+(19). However, the same LRRK2 point mutations that drive Lewy pathology can also
+manifestwithawiderangeofneuropathologies.SomeLRRK2caseswithPDclinical
+featureslackedLewypathologyandhadother,distinctneuropathologies,including
+tauopathywithfeaturesofprogressivesupranuclearpalsyandtheglialsynucleinop-
+athymultiplesystematrophy.Othersdemonstratedpurestriatonigraldegeneration,
+with death of substantia nigra neurons but no clear protein aggregates (19).
+Interestingly, LRRK2 cases lacking Lewy pathology often arose in patients whose
+family members had Lewy pathology. The frequency of Lewy pathology appears
+related to the particular LRRK2 point mutation involved, with LRRK2 G2019S being
+most likely to display classic Lewy pathology and LRRK2 I2020T very rarely having
+Lewy pathology (19, 20). A more recent review of 55 cases of LRRK2-PD noted that
+about one-half had tau pathology, with most of this being mild to moderate
+Alzheimer’sdiseasechanges(i.e.,BraakstageIIIorlower)(21).Acausativerelation-
+shipbetweenAlzheimer’sdiseaseandLRRK2mutationshasnotbeenshown.
+LRRK2EXPRESSIONANDMODELSOFLRRK2-PD
+LRRK2proteinisexpressedatlowlevelsthroughoutthebody,withhighestlevelsin
+kidney,lung,andimmunecellsandmodestexpressioninthebrain(22).Inthebrain,
+LRRK2 expression is highest in the putamen, a target of substantia nigra neurons,
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 2
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+althoughitisalsomeasurableinsubstantianigra(13).Areproduciblephysicalinterac-
+tion between the LRRK2 and a-synuclein proteins has not been demonstrated
+(reviewedbyO’Haraetal.[23]).LRRK2mutantmurinemodels(bacterialartificialchro-
+mosome[BAC]andcDNAtransgenicandCRISPRknock-inmodels)donotfullyrecapit-
+ulatehumanPD.Thesemodelsconsistentlyfailtodemonstrateage-dependentneuro-
+degeneration and a-synuclein pathology, although more subtle neurophysiological
+and behavioral phenotypes have been observed in particular models (see Volta and
+Melrose for a comprehensive review [24]). Murine models genetically overexpressing
+bothLRRK2anda-synucleinhavealsoyieldedconflictingresults(25,26).Recentstud-
+ies suggest that LRRK2 may augment aggregation and cell-to-cell transmission of
+a-synuclein in murine systems in which a-synuclein is introduced intracranially via
+injection (27–29). Intriguingly, very recent work used neuron-specific viral delivery of
+mutantLRRK2toinduceDAneuronaldegenerationinratswithoutcausinga-synuclein
+pathology (30). Additional studies will be required to understand how well these
+modelsystemsreproducehumanPD.
+MurineknockoutmodelsofLRRK2havenobrainabnormalitiesbutdoshowabnor-
+malities of lung and kidney, two organs that normally express high levels of LRRK2.
+These include enlarged lamellar bodies (lysosome-related organelles) in lung alveolar
+typeIIcellsandenlargedsecondarylysosomeswithaccumulationoflipofuscininrenal
+proximaltubules(31–34).ThesechangessupportaroleforLRRK2innormalendolyso-
+somalfunction.Lysosomaldefectsappeartocausea-synucleinaggregationinkidneys
+of LRRK2 knockout mice (31). A murine double knockout of LRRK2 and its homolog
+LRRK1 (which has not been genetically linked to PD) shows DA neurodegeneration,
+neuronalaccumulationofa-synuclein,andimpairedautophagy;however,themecha-
+nismbywhichthisoccurshasnotbeenworkedout(35).
+A significant body of research demonstrates LRRK2’s importance in diseases unre-
+lated to PD, highlighting LRRK2’s role in regulating immune function. In response to
+gamma interferon (IFN-g), LRRK2 protein levels and phosphorylation increase in both
+human induced pluripotent stem cell (iPSC)-derived cell lines and other macrophage
+celllines.MultipleLRRK2alleles(typicallypointmutations)augmentriskforinflamma-
+tory bowel disease, particularly Crohn’s disease (16, 36). LRRK2 Crohn’s risk alleles
+reproduciblyincreasenuclearlocalizationandactivationofnuclearfactorofactivated
+Tcells(NFAT).However,whetherthisoccursinakinase-dependentmannerisdebated.
+TheN2081DalleleincreasesriskforbothPDandCrohn’sdiseaseandincreasesLRRK2
+kinase activity(16). Early studies indicatedthat LRRK2 has a kinase-independentscaf-
+foldingfunctionandtrapsinactiveNFATinthecytoplasm(36).TheCrohn’sriskallele
+M2397 appears to decrease LRRK2 protein stability, allowing NFAT to translocate to
+thenucleus(36).However,laterworksuggestedthatdirectphosphorylationbyLRRK2
+activatesNFAT(37).Inthepastfewmonths,Kimetal.demonstratedthat,inresponse
+to neuron-releaseda-synuclein, LRRK2 activates microglia via direct phosphorylation
+ofNFATc2andcausesNFATc2nucleartranslocationandneurotoxicity(38).
+LRRK2 also mediates inflammatory responses to multiple infectious organisms,
+includingmycobacteriaandSalmonellastrains.LRRK2impedesMycobacteriumtubercu-
+losis phagosome maturation in macrophages, with LRRK2-deficient mice showing
+decreased M. tuberculosis burdens early in infection (15). The LRRK2 R1628P variant,
+whichisariskalleleforPD,causesexcessiveinflammation(termedtype1reactions)in
+leprosy (which is caused by Mycobacterium leprae) (14, 39). LRRK2 also promotes
+inflammation in response to Salmonella infection through activation of NLRC4, with
+LRRK2-deficientmicehavinganimpairedresponsetoSalmonellainfection(40).Further
+supportingitsroleinimmunefunction,LRRK2ishighlyexpressedinthemyeloidline-
+age,includingmacrophages,monocytes,andneutrophils(41).Theimportanceofmye-
+loidcellsinthepathogenesisofLRRK2-PDisnotclear;however,atminimum,thehigh
+levelofLRRK2inmyeloid cellsfacilitates studies ofLRRK2function inpatient-derived
+bloodsamples(42,43).
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 3
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+LRRK2DOMAINORGANIZATIONANDENZYMATICFUNCTION
+LRRK2isa286-kDamultidomainkinasethatcanformhomodimers;dimerizationis
+requiredformaximalLRRK2kinaseactivity(44,45).Twoenzymaticdomains,aRoc(Ras
+ofcomplex)GTPaseandaserine-threoninekinaseofthetyrosinekinase-like(TKL)fam-
+ily,arelinkedbyaCOR(CterminusofRoc)domain(Fig.1).LRRK2’sNandCterminiare
+composed of protein-protein interaction domains, including N-terminal armadillo,
+ankyrin, and LRR domains and a C-terminal WD40 domain (46). LRRK2’s tandem Roc-
+COR domain structure qualifies it as a member of the ROCO protein superfamily and
+suggeststhattheCORdomainmaymediateinteractionsbetweenLRRK2’sGTPaseand
+kinase, something that has been validated in recent cryo-electron microscopy struc-
+tures of LRRK2 (47, 48). A homologous protein, LRRK1, which has not been linked to
+PD,hasasimilardomainstructureaswellas26%identityand45%similaritytoLRRK2
+(49). LRRK2 and LRRK1 are both conserved in vertebrates, while the invertebrates
+DrosophilamelanogasterandCaenorhabditiseleganshaveasingleLRRKortholog(50).
+Several unique features of LRRK2’s enzymatic domains have been described. In
+LRRK2’skinasedomain,theactivationloopcontainsaDYGmotifratherthanthetypi-
+callyconservedDFGmotifofotherkinases.ThetyrosinehydroxylofLRRK2’sDYGmotif
+servesasa“molecularbrake”onLRRK2kinaseactivity,decreasingsubstrateaccessibil-
+ity to the activation loop and favoring the inactive kinase state (51). Accordingly, a
+Y2018FLRRK2mutationthatrecapitulatesthestandardDFGmotifincreasesLRRK2ki-
+nase activity (51). LRRK2 has a preference for phosphorylating Thr over Ser residues,
+both in vitro and in vivo (52). LRRK2’s Roc GTPase domain utilizes a standard phos-
+phate-binding P-loop motif to bind GTP and GDP with micromolar binding affinities
+(dissociationconstant[K ]valuesof4.160.3mMand1.260.1mMforGTPandGDP,
+d
+respectively) (53). GTP binding appears necessary to activate LRRK2’s kinase function,
+asindicatedbythelackofkinaseactivityforLRRK2variantswithpointmutationsthat
+cannot bind GTP, such as T1348N (54). Crosstalk between the kinase and GTPase do-
+main occurs both intramolecularly and via dimerization. In vitro, LRRK2 can dimerize
+bothviahomodimerizationoftheCORdomainandviahomodimerizationoftheC-ter-
+minal WD40 domain (48). Cryo-electron tomography of the catalytic half of LRRK2
+revealedaJ-likeshapeinwhichtheCORandRocdomainsturnbacktowardthekinase
+domain,allowingthekinaseandGTPasedomainstocloselyinteractandtomodulate
+oneanother(48).
+RecentidentificationofbonafideinvivoLRRK2substrates,namely,theLRRK2auto-
+phosphorylationsiteS1292(55)andasubsetofRabproteinsdiscussedinmoredetail
+below (56, 57), demonstrates that all known PD-driving LRRK2 mutations increase
+LRRK2kinaseactivity.TheLRRK2pointmutationsG2019SandI2020Tlieinthekinase
+activationloopandmayincreasekinase activitythrough amechanismsimilartothat
+of the Y2018F mutation. Four PD-driving point mutations (R1441G/C/H and N1437H)
+fall in LRRK2’s Roc GTPase domain, and a fifth (Y1699C) lies in the COR domain
+betweentheRocandkinasedomains.R1441C/G/HandY1699CsuppressGTPhydroly-
+sis andincrease LRRK2’s affinity for GTP (58), which leads to 3-to 4-fold activationof
+the kinase toward Rab substrates (55, 56). N1437H appears to allow LRRK2 to remain
+GTPboundbylockingLRRK2intohighlystabledimersthathavebothdecreasedaffin-
+ityforGTPanddecreasedGTPaseactivity(59).S1292ispositionedclosetothekinase
+active site and also near the Crohn’s disease-related residue N2081, suggesting that
+thisinterfaceiscriticalinLRRK2’skinasefunction(48).TheG2385RPDriskalleleinthe
+WD40domaindisruptsdimerizationoftheWD40domainand,likeautosomalPD-driv-
+ingpointmutations,enhancesLRRK2activityincells(60).
+In addition to familial LRRK2-PD cases, there is some evidence that LRRK2 kinase
+activity may be elevated in idiopathic PD (61). Therefore, highly selective LRRK2 ki-
+nase inhibitors have been developed as possible therapeutics, and a number are in
+clinical trials (clinical trial no. NCT04056689; www.clinicaltrials.gov). However, treat-
+mentofanimalmodelsrangingfrommicetononhumanprimateswithLRRK2kinase
+inhibitors causes phenotypic abnormalities identical to those of LRRK2 knockout
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 4
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+FIG 2 LRRK2’s subcellular localizations and key interacting partners. LRRK2 is found in the cytoplasm, where it binds to 14-3-3
+proteinsinaphosphorylation-dependentmanner,andatcellmembranes,whereitformsahomodimer.LRRK2functionappears
+particularly important to the endolysosomal system and trans-Golgi network. Here, LRRK2 is activated by and phosphorylates
+Rab29 and also recruits and phosphorylates Rab8A/10 (as well as other Rab proteins) to initiate downstream pathways. In
+overexpression, LRRK2 binds the microtubule in an ordered helix, and we have found that LRRK2 proteasomal degradation is
+regulated by TRIM1, a microtubule-bound protein. LRRK2 also appears to have important roles in normal retromer and
+mitochondrialfunction.
+models(31–34,62).Kidneyandlungabnormalitiesmaybereversibleoncetheinhibi-
+tor is removed, although these studies are based on short-term (a few weeks) drug
+administration(63).
+All currently studied LRRK2 kinase inhibitors are type I inhibitors, occupying the
+ATP-boundpocketofthekinaseina“DFG-in”conformation(64,65).Atacellularlevel,
+typeILRRK2inhibitorsdriveoverexpressedLRRK2tothemicrotubuleandcauseLRRK2
+ubiquitination and proteasomal degradation, reproducibly decreasing LRRK2 steady-
+state levels(66). Therefore,it remainsunresolved whethersystemicabnormalitiesfol-
+lowing LRRK2 kinase inhibitor treatment are entirely due to kinase inhibition or are
+alsorelatedtodecreasedLRRK2proteinlevels.Differentiationofthesemechanismsis
+essentialforunderstandingandcircumventingpossibletoxicityoflong-termtreatment
+withLRRK2inhibitors.Highlyselectivetype2LRRK2kinaseinhibitors,whichwouldsta-
+bilizeLRRK2inanopen“DFG-out”conformation,havenotbeendeveloped.However,
+studiesoflessselectivetype2LRRK2kinaseinhibitorsindicatethatthesecompounds
+donotcausethesamechangesinLRRK2localizationanddegradation(48).Changesin
+LRRK2’sbindingpartnersdependingonitssubcellularlocalizationappeartobecritical
+toitsnormalanddisease-drivingfunctionsaswellasitsdegradation.
+LRRK2SUBCELLULARLOCALIZATION
+DuetoLRRK2’slowlevelsofexpression,directassessmentofitsendogenoussub-
+cellularlocalizationisasignificanttechnicalchallenge,andveryfewstudieshavecon-
+clusively visualized endogenous LRRK2 using microscopy. In overexpression systems,
+as well as biochemical fractionation studies of endogenous protein, LRRK2 appears
+predominantly cytoplasmic (67); however, increasing evidence suggests that key
+aspectsofLRRK2function andregulationoccurat membranesaswellasat thecyto-
+skeleton.TheremainingsectionsdiscussknownLRRK2functionsindifferentsubcellu-
+larcompartments(Fig.2),aswellasthecellularandgeneticinteractionsofLRRK2with
+otherPD-drivinggenes(Fig.3).
+(i) Cytoplasmic LRRK2. The majority of overexpressed and endogenous LRRK2 is
+foundinthecytoplasm(67,68).Inthecytoplasm,LRRK2associateswithhomodimers
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 5
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+FIG3 LRRK2’sinteractionswithkeyPD-relatedgenes.LRRK2hasbeenshowntophysicallyorgeneticallyinteractwithanumber
+of other PD genes. Rab29 and VPS35 appear to be upstream regulators of LRRK2, leading to LRRK2 endolysosomal recruitment
+andactivation.GCase,alysosomalenzymewhosedysfunctioncausesGaucher’sdisease,islikelytoberegulatedthroughLRRK2-
+mediatedRab10activity.ParkinandPINK1drivemitophagy,whichappearstobedisruptedbyhyperphosphorylationofRab10by
+LRRK2. Mutant LRRK2 can cause synucleinopathies, with abnormal aggregation of a-synuclein, as well as tauopathies, with
+abnormal aggregation of the microtubule-associated protein tau. How LRRK2 mutations drivea-synuclein and tau aggregation
+requiresfurtherinvestigation.
+of14-3-3proteins,afamilyofadaptorproteinsthatarehighlyexpressedinthebrain
+(69, 70). When 14-3-3 binding is disrupted, LRRK2 has been noted to aggregate into
+inclusion bodies, suggesting that 14-3-3 may stabilize proper LRRK2 folding in the
+cytoplasm(69,70).LRRK2’sbindingto14-3-3requiresinteractionbetween14-3-3and
+multiple phosphorylated residues of LRRK2; these include Ser910 and Ser935, which
+are part of a cluster of phosphoserines (Ser910, Ser935, Ser955, and Ser973) located
+betweenLRRK2’sankyrinandLRRdomains,aswellasSer1444,locatedintheRocdo-
+main(67,69–72).PhosphorylationoftheserineclusterisindirectlyrelatedtoLRRK2ki-
+naseactivity,andLRRK2kinaseinhibitorsleadtodephosphorylationofthesesites(66).
+PD-driving R1441C/G/H, Y1699C, and I2020T mutants show intrinsically decreased/
+absentphosphorylationofSer910andSer935andsubsequentreducedaffinityfor14-
+3-3proteins(72).
+(ii)Membrane-associatedLRRK2.Afraction(;10to20%)ofoverexpressedLRRK2
+forms membrane-associated dimers; dimerization increases the specific activity of
+LRRK2’s kinase (67, 73). Stimulation of Toll-like receptors (TLRs) (especially TLR4) in
+macrophage and microglial cell lines increases LRRK2 Ser935 phosphorylation and
+membrane association (73). TLR4 stimulation by lipopolysaccharide and initiation of
+autophagocytosis with rapamycin also result in membrane association of LRRK2,
+potentiallyimplicatingLRRK2inautophagicprocesseswithintheimmunesystem(73).
+AbundantevidencedemonstratesthatLRRK2canassociatewithmultiplemembrane-
+bound organelles, including the trans-Golgi network and membrane-bound vesicles,
+where it phosphorylates a subset of RabGTPases (56). Rabs were first identified as in
+vivo substrates of LRRK2 through phosphoproteomic screening in mouse embryonic
+fibroblasts(56).Afamilyofover60smallRas-likeGTPases,Rabsserveascriticalregula-
+tors of membrane trafficking processes by cycling between GTP-bound/membrane-
+associated and GDP-bound/cytosolic states (74). LRRK2 phosphorylates a conserved
+Thr/Ser residue in the Rab switch II effector domain of 16 Rab proteins, including
+Rab8a,Rab10,andRab29(57).PhosphorylationdisruptsRabbindingtoRabGDPdisso-
+ciationinhibitors(GDIs),causingRabaccumulationatmembranes.
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 6
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+InadditiontobeingaLRRK2kinasesubstrate,Rab29serves,atleastinoverexpres-
+sionsystems,asacriticalactivatorofLRRK2kinase(68,75).Rab29(alsocalledRab7L1)
+is one of five genes located in the PARK16 locus (11); additional genetic studies sug-
+gestthatLRRK2andRab29functioncoordinatelytoincreaseriskforPD(76).Inoverex-
+pressionstudies,Rab29activatesLRRK2throughitsrecruitmenttothemembranesof
+the trans-Golgi network (68). The mechanisms by which LRRK2 kinase is activated at
+membranes are only beginning to be worked out; however, using a mitochondrially
+anchored Rab29, Gomez et al. elegantly demonstrated that LRRK2 membrane activa-
+tion does not depend on LRRK2 association with the trans-Golgi network per se but
+appears to depend only on LRRK2 membrane association (77). Phosphorylated sub-
+strates such as phospho-Rab10 accumulate at the same membrane at which LRRK2
+becomesanchored(77).
+(iii)LRRK2andretromer.Theretromercomplexrecyclesmembraneproteinsfrom
+theendosometothetrans-Golginetworkorplasmamembrane(78).Recentworksug-
+geststhatitalsoplaysaroleinsynapticvesicleendocytosisandrecycling(79).Theret-
+romer core is composed of a heterotrimer of cargo-binding vacuolar protein sorting-
+associatedproteins(VPSs),VPS35,VPS29,andVPS26(80).AD620NmutationinVPS35
+(Park17 locus) causes late-onset autosomal dominant PD, indicating that retromer
+defectscandrivePD(81,82).VeryrecentstudiesofhumaniPSC-derivedneuronscarry-
+ingtheVPS35D620Nmutationshowedmitochondrialdysfunction,alteredmitophagy,
+anddecreasedoverallautophagicflux(83).AninterestingconnectionbetweenVPS35,
+LRRK2,andRab29isbeginningtoemerge.Inflyandmurinemodels,overexpressionof
+wild-type VPS35 rescues retromer-mediated defects (lysosomal enlargement and loss
+ofmannose-6-phosphatereceptors)causedbyLRRK2G2019SoverexpressionorRab29
+knockdown(76).Morerecently,VPS35D620NwasshowntoenhanceLRRK2-mediated
+phosphorylation of Rab10 and Ser1292 autophosphorylation, suggesting that VPS35
+may be an upstream regulator of LRRK2 capable of hyperactivating LRRK2 when
+mutated(84).
+(iv)Endolysosomal LRRK2. LRRK2 appears to play a regulatory role in lysosomal
+processes, including mitophagy and autophagy, although attempts to pinpoint
+LRRK2’sroleinautophagyhaveyieldedinconsistentresults(seetheworkofMadureira
+etal.forathoroughreview[86]).However,theenlarged,abnormallysosomesandly-
+sosome-relatedorganellesfoundinLRRK2knockoutsandwithLRRK2kinaseinhibition
+implicateLRRK2kinaseactivityinproperlysosomalfunction.Recentmechanisticwork
+supportsamodelinwhichLRRK2’sphosphorylationofRabproteinsatendolysosomal
+membranesiscriticalforcellularhomeostasis,particularlyunderconditionsoflysoso-
+malstress.
+Recently, multiple lysosome-disrupting agents have been used to study LRRK2’s
+response to lysosomal stress, including chloroquine, L-leucyl-L-leucine methyl ester
+(LLOME),monensin,andnigericin(75,87,88).Inmanysystems,treatmentwithlysoso-
+motropicdrugsdrivesLRRK2toendolysosomalmembranesandincreasesLRRK2phos-
+phorylationofsubstratessuchasRab10(75,88).Rab10,Rab8a,andpossiblyotherRab
+proteins appear to activate numerous compensatory pathways, which are still being
+worked out, to restore cellular homeostasis. Iwatsubo and colleagues showed that
+prolonged chloroquine-induced lysosomal overload causes Rab29-assisted LRRK2
+translocationandaccumulationatenlargedlysosomes(87,88).LRRK2-mediatedphos-
+phorylation of Rab8 and Rab10 at enlarged lysosomes suppresses lysosomal stress
+by increasing lysosomal secretion in an EH-domain-binding protein 1 (EHBP1)- and
+EHBP1L1-dependentmanner(87).Inprimaryastrocytes,LRRK2localizestoLLOME-rup-
+tured lysosomes, recruits Rab10 in a kinase-dependent manner, and leads to JIP4-
+mediated formation of lysosomal tubular structures that dynamically release cargo
+from stressed lysosomes (89). LLOME-induced translocation of LRRK2 and Rab8a to
+lysosomes is affected by intracellular calcium levels in macrophages. CHMP4B, a core
+subunit of the calcium-dependent ESCRT-III complex responsible for the lysosomal
+repairpathway,colocalizeswithLRRK2andRab8aatlysosomes(90).Conversely,LRRK2
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 7
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+depletionreduceslysosomalCHMP4Blocalizationandtargetsvesiclesfordegradation
+viathelysophagypathway(90).
+Anumberof unansweredquestions remainregardingthe role ofLRRK2in lysoso-
+mal homeostasis. First, it is debated whether Rab29 is absolutely required for LRRK2
+lysosomal localization and substrate Rab phosphorylation. While Kuwahara et al.
+showed that knockdown of endogenous Rab29 in RAW264.7 macrophages following
+chloroquine treatment led to a robust reduction in Rab10 phosphorylation (88),
+Kalogeropulouetal.foundthatRab29knockoutinmouseembryonicfibroblasts,under
+bothlysosomalstressandnonstressconditions,hadnoeffectonRab10orRab12phos-
+phorylation (75). It is possible that endogenous Rab29 is required only in certain cell
+types or cellular contexts. Second, endolysosomal LRRK2 localization and function
+under nonstress conditions have not been completely elucidated. Liu et al. showed
+that, in the absence of lysosomal stress, Rab10 localizes to macropinocytic vesicles,
+whereitisphosphorylatedbyLRRK2(91).Inthiscontext,EHBP1L1’sactivityinendoso-
+mal tubular recycling is blocked by LRRK2-mediated Rab10 phosphorylation. Thus,
+LRRK2 targets appear to function in multiple endolysosomal pathways. Finally, the
+mechanismsbywhichLRRK2-mediatedlysosomalhomeostasiscouldleadtoLRRK2-PD
+andidiopathicPDarefarfromclear.Recentworkshowedearlyendosomeaccumula-
+tioninconjunctionwithlateendosomeandlysosomedepletioninpostmortemhuman
+nigralDAneuronsofidiopathicPDpatients(92).Similarly,inarotenoneratmodelof
+PD,rotenone-inducedcytopathologies,includingendolysosomalstress,werereversed
+bytreatmentwiththeLRRK2kinaseinhibitorPF-360(92).
+(v)LRRK2andGBA1.MutationoftheGBA1geneisoneofthemostcommonrisk
+factors associated with PD (93, 94). GBA1 encodes b-glucocerebrosidase 1 (GCase), a
+lysosomal enzyme that hydrolyzes glucosylceramide to glucose and ceramide.
+HomozygousGBA1mutationsleadtolossofGCaseactivityandresultinthelysosomal
+disorderwithglucosylceramideaccumulationknownasGaucher’sdisease.Bothhomo-
+zygous and heterozygous GBA1 mutations increase risk for PD (94, 95). iPSC-derived
+neuronsfromLRRK2-PDpatientsshowreducedGCaseactivitythatisrescuedbytreat-
+ment with LRRK2 kinase inhibitor (96). GCase activity appears to be dependent on
+Rab10 protein levels, suggesting that GCase may be regulated by LRRK2-mediated
+Rab10phosphorylation.LRRK2inhibitionleadstorestorationofGCaseactivityinneu-
+ronsandpreventslysosomaldisruptionandaccumulationofa-synuclein(92,96,97).
+(vi) LRRK2 and mitochondria. Mitochondrial dysfunction is important in both
+genetic and sporadic PD, with the familial PD PINK and parkin genes being critical to
+proper mitochondrial quality control. Early reports indicated that a small fraction of
+overexpressed LRRK2 is found at mitochondrial membranes (98, 99). The full role of
+LRRK2inmitochondrialfunctionisunknown,butcompellingevidencesuggestsithas
+kinase-dependentrolesinmitophagyandmitochondrialtetheringtotheendoplasmic
+reticulum (ER). LRRK2 functions in multiple pathways to regulate mitophagy. LRRK2
+interactswiththemitochondrialouter membraneprotein Miro,whichis degraded to
+stop mitochondrial motility prior to the initiation of mitophagy (85). Mutant LRRK2
+G2019SpreventsproteasomaldegradationofMiro,leadingtodelayedmitophagy(85).
+Recently,itwasshownthatPINK1andparkindriveRab10accumulationontodepolar-
+ized mitochondria, which leads to recruitment of the autophagy receptor optineurin
+and subsequent mitophagy (100). Increased phosphorylation of Rab10 by PD mutant
+LRRK2 G2019S or R1441C decreases Rab10-mediated mitophagy, which is rescued by
+LRRK2kinaseinhibition(100).
+ThereareconflictingresultsregardingtheeffectsofLRRK2PDmutationsonmito-
+chondrialnetworkdynamics(seethereportbySinghetal.forarecentreview[101]).
+However,multiplegroupshavefoundthatLRRK2interactswiththemitochondrialfis-
+sion protein Drp1 (102, 103). Drp1-dependent mitochondrial fission occurs early in
+mitophagy to sequester damaged mitochondria from the healthy network (104).
+Recent evidence showed that mitochondrial stress, including Drp1-dependent mito-
+chondrialfragmentation,drivesalteredinnateimmuneresponsesinLRRK2KOmacro-
+phages (105). LRRK2 also impairs interactions between both parkin and Drp1 and
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 8
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+certain mitochondrial targets in a kinase-dependent manner (106). LRRK2 binding to
+parkin(aswellastoE3ligasesMARCH5andMULAN)wasshowntoregulatemitochon-
+drialtetheringtotheER(107).ThehyperactivekinaseG2019SLRRK2morereadilydis-
+sociates from these ligases, triggering their PERK-mediated phosphorylation and acti-
+vation, thus driving degradation of ER mitochondrial tethering proteins (107). It is
+interestingthatdefectsinmitophagyduetoLRRK2kinasehyperactivityparallelthose
+duetoPINK1orparkinknockout(i.e.,MirodegradationormitochondrialRab10accu-
+mulation).Incontrast,hyperactivekinaseLRRK2G2019Sappearstoaugmentparkin’s
+E3 ligase function as it relates to ER mitochondrial tethering. The relevance of these
+LRRK2phenotypestoPDremainstobefurtherinvestigated.
+(vii) LRRK2’s regulation of ciliogenesis and centrosomal cohesion. Cilia are
+microtubule-basedcellsurfaceappendagesthatarecrucialforprocessessuchaspro-
+tein trafficking and signal transduction (108, 109). Hyperactive kinase mutants of
+LRRK2 interfere with ciliogenesis. Mouse embryonic fibroblasts expressing LRRK2
+R1441G,cholinergicneuronsinthestriatumofLRRK2R1441Cmice,andLRRK2G2019S
+humaniPSCs show decreasedciliation(55, 110).LRRK2’s phosphorylationof Rabpro-
+teins,particularlyRab8AandRab10,modulatesciliogenesisinacomplexmannerthat
+requiresRab-interactinglysosomalprotein-like1(RILPL1)(57,110).Whereasphospho-
+rylation of Rab8A activates ciliogenesis, phosphorylation of Rab10 enhances Rab10
+bindingtoRILPL1andstrengthensRab10’sabilitytoblockciliogenesis(110).Reduced
+ciliation due to mutant LRRK2 expression impairs sonic hedgehog signaling; it has
+beenhypothesizedthatthismaydisruptneuroprotectivecircuitsforDAneurons(110).
+PD-drivingLRRK2mutationsalsodecreasecentrosomalcohesion(111).Thisisinkeep-
+ing with LRRK2’s function in ciliogenesis, since centrioles (radially organized arrays of
+triplet microtubules) form the centrosomes and serve as the foundation for the cilial
+basal body (108). Centrosomal cohesion defects appear to be mediated by LRRK2’s
+phosphorylation of Rab8 and Rab10, with RILPL1 also being involved, and can be
+reversedwithLRRK2kinaseinhibitortreatment(111,112).Becausecentrosomalcohe-
+sion defects are easily measured in blood samples, centrosomal cohesion assays are
+beingevaluatedasapossiblebiomarkerforPD(113).
+(viii)LRRK2atmicrotubules.Inadditiontolocalizingtothecytoplasmandmem-
+brane-bound vesicles and organelles, certain pathogenic LRRK2 mutants, namely, the
+Roc-CORmutantsR1441C/GandY1699C aswellas thekinasemutantI2020T, appear
+to localize as filaments around microtubule networks when overexpressed (51, 114,
+115).Wild-typeLRRK2andG2019SLRRK2,whichnormallydonotformthesefilaments,
+willdosowhentreatedwithtypeIkinaseinhibitors(51,116).
+A recent 14-Å in situ cryo-electron tomography structure of LRRK2 I2020T in com-
+plex with microtubules showed that LRRK2 oligomerizes as a right-handed helix
+aroundleft-handedmicrotubules,withtheRocdomainfacingthemicrotubuleandthe
+kinase domain exposed to the cytoplasm (117). Related cryo-electron microscopy
+structuralmodelingofthecatalyticportionofLRRK2showedthataclosedkinasecon-
+formation is required for microtubule association (48). Consistently, in vitro microtu-
+bule motor protein motility assays suggest that treatment with type I LRRK2 kinase
+inhibitors,whichstabilizetheclosedconformation,promotesmicrotubuleassociation,
+whiletreatmentwithtypeII kinaseinhibitors,whichstabilizetheopenconformation,
+preventsmicrotubuleassociation(48).MicrotubuleassociationofpathogenicortypeI
+kinase-inhibited LRRK2 is disrupted by GTP-binding inhibitors and is restored when
+GTP binding is stabilized, demonstrating that the Roc domain regulates microtubule
+associationaswellaskinasedomainconformation(116).LRRK2’sRocdomaincanalso
+mediatedirectinteractionofLRRK2withb-tubulin,selectivelyinteractingwithspecific
+tubulinisoforms,includingTUBB,TUBB4,andTUBB6(118).LRRK2mayblockmicrotu-
+buleacetylation,sinceitsinteractionwithb-tubulinoccursthroughtheK362residue,
+whichina/b-tubulinheterodimersisveryclosetotheK40acetylation(118).
+The functional relevance of the LRRK2-microtubule association remains elusive
+since these findings occurred largely in the context of LRRK2 overexpression.
+Nevertheless, this association is intriguing since disruption of microtubule
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 9
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+dynamics, particularly the cellular machinery associated with axonal transport, is
+linked to neurological disease (119). LRRK2 blocks motility of kinesin and dynein
+motorproteinsinvitro,implicatingLRRK2incargotransportdisruption(48).Invivo
+overexpressedLRRK2Roc-CORmutants(R1441CandY1699C)disruptaxonaltrans-
+port (48), which can be restored by increasing microtubule acetylation (120). This
+leads to a model in which Roc-COR mutants interfere with axonal trafficking by
+formingfilamentsarounddeacetylatedmicrotubules(120).
+Recently, we discovered that the microtubule-associated E3 ligase TRIM1 (also
+calledMID2)appearstobecriticallyinvolvedinLRRK2degradation(121).TRIM1inter-
+acts with LRRK2 at the microtubule to cause LRRK2 ubiquitination and proteasomal
+degradation.KnockdownofTRIM1increasesendogenousLRRK2levels,andTRIM1can
+rescueneuriteoutgrowthdeficitscausedbyLRRK2G2019S.ThelocalizationofLRRK2
+tothemicrotubulepriortoubiquitinationanddegradationisconsistentwithobserva-
+tionsthattypeIkinaseinhibitorsalsoinduceLRRK2microtubulelocalization,ubiquiti-
+nation,andproteasomaldegradation.Thesefindingsmaypointtothemicrotubuleas
+animportantsubcellularsiteinatleastsomeLRRK2degradationpathways.
+(ix)LRRK2andtau.LRRK2’spossiblephysicalassociationwiththemicrotubulecy-
+toskeletonisintriguing,givenitsclinicaleffectsontau,amicrotubule-associatedpro-
+tein.Inpatients,PD-drivingLRRK2mutationscanleadtotauaggregation,asevidenced
+byrareLRRK2mutationcarrierswhodeveloppuretauopathieswithouta-synucleinop-
+athy (19). LRRK2 can increase tau aggregation and phosphorylation in a transgenic
+LRRK2/Tau P301L mutant mouse model, and phosphorylation of tau is increased in
+someR1441GandG2019SLRRK2transgenicmice(122–124).However,onlylimitedevi-
+dencesuggeststauasaphysiologicalLRRK2substrate;alargerbodyofresearchsug-
+geststhat,ifLRRK2mediatestauphosphorylation,thepathwayisindirect(125,126).In
+Drosophila, either increased or decreased levels of the LRRK2 homolog Lrrk enhance
+tauneurotoxicitybypromotingexcessstabilizationoffilamentousactinandmislocali-
+zationofthemitochondrialfissionproteinDrp1(127).Interestingly,murinemodelsof
+PD mutant VPS35 D620N, which enhances LRRK2 kinase function, show striking tau
+neuropathology,againconnectinghyperactiveLRRK2totauaggregation(128).
+(x)LRRK2atsynapses.LRRK2isparticularlychallengingtostudyinneurons,where
+itisexpressedatverylowlevels.Consistentwithitsfunctioninendolysosomaltraffick-
+ing, LRRK2 may be involved in synaptic vesicle trafficking. Some evidence suggests
+thatLRRK2regulatessynapticvesiclefusionthroughinteractionswithcomponentsof
+theSNAREcomplex(129).RecentstudiessuggestLRRK2’sregulationofsynapticvesicle
+endocytosismaybeespeciallyimportantindisease.Threeproteinsinvolvedinsynap-
+tic vesicle endocytosis, namely, endophilin A, synaptojanin, and auxilin, can be phos-
+phorylated by LRRK2 in model systems (46, 130, 131). LRRK2 G2019S-mediated phos-
+phorylationofendophilinAimpedessynapticvesicleendocytosisinaflymodel(131).
+HumaniPSCmodelsofLRRK2mutantPDshowabnormalsynapticvesicleendocytosis,
+withreducedsynapticvesicledensity(130).Thisappearstocauseaccumulationofoxi-
+dizeddopamine,potentiallymediatingtheselectiveneurotoxicityinPD(130).
+LRRK2’SROLEINDANEURONDEGENERATION
+HowLRRK2mutationscausecircumscribeddegenerationofDAneuronalcircuitryis
+unknown. However, the specific cellular requirements for DA neuron regulation and
+upkeepsuggestthatpropermitochondrial,endolysosomal,andcytoskeletalfunctions
+are critical. Supporting the relevance of these pathways, single-gene mutations caus-
+ing DA neurodegeneration include those in parkin and PINK (mitochondrial), VPS35
+andGBA1(endolysosomal),andtau(cytoskeleton)genes.Asdiscussedthroughoutthis
+review,LRRK2notonlyfunctionsinthesethreepathwaysbutalsointeractsgenetically
+orphysicallywitheachoftheaforementionedgenes.
+DA neurons are notable for their high energy requirements and their widely
+branched, long, and unmyelinated axons (132). These characteristics make them sus-
+ceptibletoneurodegenerationiftheirenergydemandsarenotmet(133).Forthisrea-
+son, oxidative stress and other stresses that disrupt mitochondrial activity and
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 10
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+subsequentenergyproductionappeartobeparticularlydamagingtosubstantianigra
+neurons(134,135).LRRK2’snormalroleinmaintainingmitochondrialfunctionmaybe
+critical in DA neuronal health. PD mutant LRRK2 delays mitophagy through multiple
+mechanisms,hinderingmitochondrialturnoverandproperenergyproduction.
+The highly branched DA neuronal networks facilitate continuous communication
+with neighboring neurons. However, this extensive neuronal signaling also causes
+proteinhomeostaticstress that requires robust lysosomal activity to maintain pro-
+teostasis (136, 137). Endolysosomal dysfunction is increasingly implicated in PD
+(136). Compelling recent evidence indicates that LRRK2 is important in Rab-de-
+pendentandindependentpathwaysthatmaintainendolysosomalhomeostasisand
+thathyperactivekinasemutationsinLRRK2disruptthisfunction.
+DAneuronsappeartohavewidelyfluctuatingcalciumionlevelsandpoorcalcium-
+bufferingcapacity,factorsthatactivateproteases,includingcalpainsandphosphatases
+like calcineurin (138). Activated calpains promote a-synuclein aggregation and also
+appear to target cytoskeletal proteins (139, 140). We found that the E3 ligase TRIM1
+functions at the cytoskeleton to ubiquitinate LRRK2 for proteasomal degradation. If
+cytoskeletal disruption leads to decreased LRRK2 degradation, then DA neurons har-
+boringhyperactiveLRRK2mutationscouldbeparticularlysusceptibletoinjury.Lastly,
+neuroinflammation, particularly inthe form of hyperactivated microglia, may contrib-
+ute toDA neurodegeneration. Recentevidence suggests an important role forLRRK2
+inneuroinflammatorypathwayswithmicroglialresponsesalteredbyPDmutantLRRK2
+inanNFAT-dependentmanner.TherelativeimportanceofthesepathwaystoDAneu-
+rodegeneration has not been fully worked out, and critical questions remain, as dis-
+cussedinmoredetailbelow.
+FUTUREDIRECTIONSFORLRRK2RESEARCH
+Whilethehighlightedresearchdemonstratessignificantprogressinunderstand-
+ing LRRK2’s various subcellular functions, more work is needed to determine the
+relevanceofthesefunctionstoPDpathogenesis.Growingevidenceinrecentyears
+showsthattheLRRK2-RabGTPaseinteractionisakeycomponentofLRRK2biology.
+Phosphorylation of Rab8 and Rab10 substrates affects ciliogenesis, endolysosomal
+dynamics, and centrosomal cohesion, all of which raise interesting hypotheses
+about the mechanism of LRRK2 pathology. However, the roles of a majority of
+LRRK2’s Rab GTPasesubstrates are stillinadequately characterized. Further work is
+needed to investigate how mutant LRRK2’s effects on Rab proteins and other sub-
+stratescoulddisruptDAneuronhomeostasisandultimatelyleadtoneurodegener-
+ation.Additionally,theintersectionofLRRK2biologywiththatofotherPD-driving
+genes, particularly VPS35, Rab29, parkin, and PINK genes, is clearly important but
+remainstobefullydelineated.
+Type 1 LRRK2 inhibitors induce endolysosome-related lung and kidney toxicity;
+however,itisunclearwhetherthiseffectisentirelyduetodirectkinaseinhibitionoris
+also mediated by inhibitor-induced ubiquitination and degradation of LRRK2. Such
+considerationsarekeytothedevelopmentofLRRK2kinaseinhibitorsastherapeutics,
+as clearly defining drug mechanisms may suggest modifications that can decrease
+humansideeffects.
+It is also important to note that much of our understanding of LRRK2 biology is
+based on biological systems that may insufficiently mimic true physiological condi-
+tions.Duetothetechnicalchallengeofvisualizinganendogenousproteinexpressed
+at low levels, LRRK2’s activities have been characterized primarily in the context of
+overexpression.Thisraisesthequestionofwhethertheseactivitiesarereplicatedaten-
+dogenous levels. For example, Rab29-mediated LRRK2 activation in cellulo has not
+reproduced in transgenic mice overexpressing Rab29, and Rab29 knockout has no
+effect on LRRK2 activity. Although robust LRRK2 localization and oligomerization
+aroundmicrotubulesduetoPD-drivingmutationsorfollowingkinaseinhibitionoccur
+with overexpressed proteins, this effect has not yet been shown with endogenous
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 11
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+LRRK2.OurstudiesofTRIM1ubiquitinligasehavebeguntorevealapossiblepathway
+forLRRK2microtubulelocalizationrelatedtodegradation.However,mostofourwork
+wasalsodoneinthecontextofoverexpression.Therefore,itisofgreatinteresttode-
+velop novel techniques and tools to detect and to visualize LRRK2 at endogenous
+levels.
+Finally,ourcurrentunderstandingofLRRK2biologyandPDmutantLRRK2dysfunc-
+tion does not account for human LRRK2 pathology. In particular, no studies thus far
+provide a parsimonious rationale for the fact that human patients with LRRK2 muta-
+tionscandevelopa-synucleinpathology,taupathology,orevenpurenigraldegenera-
+tion. This information is essential to keep in mind when choosing LRRK2 model sys-
+temsandconstructinghypothesesabouthowLRRK2maydrivePD.
+ACKNOWLEDGMENTS
+We thank R. Jeremy Nichols and Hannah Ahrendt for their critical reading of the
+manuscript.
+REFERENCES
+1. deLauLM,BretelerMM.2006.EpidemiologyofParkinson'sdisease.Lan- J, Chartier-Harlin MC, Dardiotis E, Dickson DW, Diehl NN, Elbaz A,
+cetNeurol5:525–535.https://doi.org/10.1016/S1474-4422(06)70471-9. FerrareseC,FerrarisA,FiskeB,GibsonJM,GibsonR,HadjigeorgiouGM,
+2. SchapiraAHV,ChaudhuriKR,JennerP.2017.Non-motorfeaturesofPar- HattoriN,IoannidisJP,Jasinska-MygaB,JeonBS,KimYJ,KleinC,KrugerR,
+kinson disease. Nat Rev Neurosci 18:435–450. https://doi.org/10.1038/ KyratziE,LesageS,LinCH,LynchT,MaraganoreDM,MellickGD,MutezE,
+nrn.2017.62. NilssonC,OpalaG,ParkSS,PuschmannA,QuattroneA,SharmaM,Silburn
+3. Schulz-SchaefferWJ.2010.Thesynapticpathologyofa-synucleinaggre- PA,SohnYH,StefanisL,TadicV,TheunsJ,TomiyamaH,UittiRJ,Valente
+gationindementiawithLewybodies,Parkinson'sdiseaseandParkin- EM,vandeLooS,VassilatisDK,Vilariño-GüellC,WhiteLR,WirdefeldtK,
+son'sdiseasedementia.ActaNeuropathol120:131–143.https://doi.org/ WszolekZK,WuRM,FarrerMJ.2011.AssociationofLRRK2exonicvariants
+10.1007/s00401-010-0711-0. with susceptibility to Parkinson's disease: a case-control study. Lancet
+4. Klein C, Westenberger A. 2012. Genetics of Parkinson's disease. Cold Neurol10:898–908.https://doi.org/10.1016/S1474-4422(11)70175-2.
+SpringHarbPerspectMed2:a008888.https://doi.org/10.1101/cshperspect 13. ZimprichA,BiskupS,LeitnerP,LichtnerP,FarrerM,LincolnS,Kachergus
+.a008888. J, Hulihan M, Uitti RJ, Calne DB, Stoessl AJ, Pfeiffer RF, Patenge N,
+5. CortiO,LesageS,BriceA.2011.Whatgeneticstellsusaboutthecauses Carbajal IC, Vieregge P, Asmus F, Muller-Myhsok B, Dickson DW,
+and mechanisms of Parkinson's disease. Physiol Rev 91:1161–1218. MeitingerT,StromTM,WszolekZK,GasserT.2004.MutationsinLRRK2
+https://doi.org/10.1152/physrev.00022.2010. causeautosomal-dominantparkinsonismwithpleomorphicpathology.
+6. GilksWP,Abou-SleimanPM,GandhiS,JainS,SingletonA,LeesAJ,ShawK, Neuron44:601–607.https://doi.org/10.1016/j.neuron.2004.11.005.
+BhatiaKP,BonifatiV,QuinnNP,LynchJ,HealyDG,HoltonJL,ReveszT, 14. FavaVM,XuYZ,LettreG,VanThucN,OrlovaM,ThaiVH,TaoS,Croteau
+WoodNW.2005.AcommonLRRK2mutationinidiopathicParkinson'sdis- N, Eldeeb MA, MacDougall EJ, Cambri G, Lahiri R, Adams L, Fon EA,
+ease.Lancet365:415–416.https://doi.org/10.1016/S0140-6736(05)17830-1. TrempeJF,CobatA,AlcaisA,AbelL,SchurrE.2019.Pleiotropiceffects
+7. ShuL,ZhangY,SunQ,PanH,TangB.2019.Acomprehensiveanalysisof forparkinandLRRK2inleprosytype-1reactionsandParkinson'sdisease.
+populationdifferencesinLRRK2variantdistributioninParkinson'sdis- ProcNatlAcadSciUSA116:15616–15624.https://doi.org/10.1073/pnas
+ease. Front Aging Neurosci 11:13. https://doi.org/10.3389/fnagi.2019 .1901805116.
+.00013. 15. HartlovaA,HerbstS,PeltierJ,RodgersA,Bilkei-GorzoO,FearnsA,Dill
+8. TanEK,ShenH,TanLC,FarrerM,YewK,ChuaE,JamoraRD,PuvanK, BD,LeeH,FlynnR,CowleySA,DaviesP,LewisPA,GanleyIG,MartinezJ,
+PuongKY,ZhaoY,PavanniR,WongMC,YihY,SkipperL,LiuJJ.2005. AlessiDR,ReithAD,TrostM,GutierrezMG.2018.LRRK2isanegativereg-
+TheG2019SLRRK2mutationisuncommoninanAsiancohortofParkin- ulatorofMycobacteriumtuberculosisphagosomematurationinmacro-
+son's disease patients. Neurosci Lett 384:327–329. https://doi.org/10 phages.EMBOJ37:e98694.https://doi.org/10.15252/embj.201798694.
+.1016/j.neulet.2005.04.103. 16. HuiKY,Fernandez-HernandezH,HuJ,SchaffnerA,PankratzN,HsuNY,
+9. Marder K, Wang Y, Alcalay RN, Mejia-Santana H, Tang MX, Lee A, ChuangLS,CarmiS,VillaverdeN,LiX,RivasM,LevineAP,BaoX,Labrias
+Raymond D, Mirelman A, Saunders-Pullman R, Clark L, Ozelius L, Orr- PR,HarituniansT,RuaneD,GettlerK,ChenE,LiD,SchiffER,PontikosN,
+UrtregerA,GiladiN,BressmanS.2015.Age-specificpenetranceofLRRK2 BarzilaiN,BrantSR,BressmanS,CheifetzAS,ClarkLN,DalyMJ,Desnick
+G2019SintheMichaelJ.FoxAshkenaziJewishLRRK2Consortium.Neu- RJ,DuerrRH,KatzS,LenczT,MyersRH,OstrerH,OzeliusL,PayamiH,
+rology85:89–95.https://doi.org/10.1212/WNL.0000000000001708. Peter Y, Rioux JD, Segal AW, Scott WK, Silverberg MS, Vance JM,
+10. HealyDG,FalchiM,O'SullivanSS,BonifatiV,DurrA,BressmanS,BriceA, Ubarretxena-Belandia I, Foroud T, Atzmon G, Pe'er I, Ioannou Y,
+AaslyJ,ZabetianCP,GoldwurmS,FerreiraJJ,TolosaE,KayDM,KleinC, McGovernDPB,YueZ,SchadtEE,ChoJH,PeterI.2018.Functionalvar-
+WilliamsDR,MarrasC,LangAE,WszolekZK,BercianoJ,SchapiraAH, iantsintheLRRK2geneconfersharedeffectsonriskforCrohn'sdisease
+LynchT,BhatiaKP,GasserT,LeesAJ,WoodNW.2008.Phenotype,geno- andParkinson'sdisease.SciTranslMed10:eaai7795.https://doi.org/10
+type,andworldwidegeneticpenetranceofLRRK2-associatedParkinson's .1126/scitranslmed.aai7795.
+disease:acase-controlstudy.LancetNeurol7:583–590.https://doi.org/ 17. KlussJH,MamaisA,CooksonMR.2019.LRRK2linksgeneticandsporadic
+10.1016/S1474-4422(08)70117-0. Parkinson'sdisease. Biochem SocTrans47:651–661. https://doi.org/10
+11. Simon-SanchezJ,SchulteC,BrasJM,SharmaM,GibbsJR,BergD,Paisan- .1042/BST20180462.
+RuizC,LichtnerP,ScholzSW,HernandezDG,KrugerR,FederoffM,Klein 18. GasserT,HardyJ,MizunoY.2011.MilestonesinPDgenetics.MovDisord
+C,GoateA,PerlmutterJ,BoninM,NallsMA,IlligT,GiegerC,HouldenH, 26:1042–1048.https://doi.org/10.1002/mds.23637.
+SteffensM,OkunMS,RacetteBA,CooksonMR,FooteKD,FernandezHH, 19. KaliaLV,LangAE,HazratiLN,FujiokaS,WszolekZK,DicksonDW,Ross
+TraynorBJ,SchreiberS,ArepalliS,ZonoziR,GwinnK,vanderBrugM, OA,VanDeerlinVM,TrojanowskiJQ,HurtigHI,AlcalayRN,MarderKS,
+LopezG,ChanockSJ,SchatzkinA,ParkY,HollenbeckA,GaoJ,HuangX, ClarkLN,GaigC,TolosaE,Ruiz-MartinezJ,Marti-MassoJF,FerrerI,Lopez
+WoodNW,LorenzD,DeuschlG,ChenH,RiessO,HardyJA,SingletonAB, deMunainA,GoldmanSM,SchuleB,LangstonJW,AaslyJO,Giordana
+Gasser T. 2009. Genome-wide association study reveals genetic risk MT,BonifatiV,PuschmannA,CanesiM,PezzoliG,MauesDePaulaA,
+underlying Parkinson's disease. Nat Genet 41:1308–1312. https://doi HasegawaK,DuyckaertsC,BriceA,StoesslAJ,MarrasC.2015.Clinical
+.org/10.1038/ng.487. correlations with Lewy body pathology in LRRK2-related Parkinson
+12. RossOA,Soto-OrtolazaAI,HeckmanMG,AaslyJO,AbahuniN,AnnesiG, disease. JAMA Neurol 72:100–105. https://doi.org/10.1001/jamaneurol
+BaconJA,BardienS,BoziM,BriceA,BrighinaL,VanBroeckhovenC,Carr .2014.2704.
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 12
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+20. ZhaoY,PereraG,Takahashi-FujigasakiJ,MashDC,VonsattelJPG,Uchino lysosomalpathwayinLRRK-deficientmice.Neuron96:796–807.e6.https://
+A,HasegawaK,NicholsRJ,HoltonJL,MurayamaS,DzamkoN,Halliday doi.org/10.1016/j.neuron.2017.09.036.
+GM.2018.ReducedLRRK2inassociationwithretromerdysfunctionin 36. Liu Z, Lee J, Krummey S, Lu W, Cai H, Lenardo MJ. 2011. The kinase
+post-mortembraintissuefromLRRK2mutationcarriers.Brain141:486–495. LRRK2isaregulatorofthetranscriptionfactorNFATthatmodulatesthe
+https://doi.org/10.1093/brain/awx344. severity of inflammatory bowel disease. Nat Immunol 12:1063–1070.
+21. SchneiderSA,AlcalayRN.2017.Neuropathologyofgeneticsynucleino- https://doi.org/10.1038/ni.2113.
+pathies with parkinsonism: review of the literature. Mov Disord 37. Takagawa T, Kitani A, Fuss I, Levine B, Brant SR, Peter I, Tajima M,
+32:1504–1523.https://doi.org/10.1002/mds.27193. NakamuraS,StroberW.2018.AnincreaseinLRRK2suppressesautoph-
+22. WestAB,MooreDJ,ChoiC,AndrabiSA,LiX,DikemanD,BiskupS,Zhang agy and enhances Dectin-1-induced immunity in a mouse model of
+Z,LimKL,DawsonVL,DawsonTM.2007.Parkinson'sdisease-associated colitis.SciTranslMed10:eaan8162.https://doi.org/10.1126/scitranslmed
+mutationsinLRRK2linkenhancedGTP-bindingandkinaseactivitiesto .aan8162.
+neuronaltoxicity.HumMolGenet16:223–232.https://doi.org/10.1093/ 38. KimC,BeilinaA,SmithN,LiY,KimM,KumaranR,KaganovichA,Mamais
+hmg/ddl471. A,AdameA,IbaM,KwonS,LeeWJ,ShinSJ,RissmanRA,YouS,LeeSJ,
+23. O'HaraDM,PawarG,KaliaSK,KaliaLV.2020.LRRK2anda-synuclein:dis- SingletonAB,CooksonMR,MasliahE.2020.LRRK2mediatesmicroglial
+tinctorsynergisticplayersinParkinson'sdisease?FrontNeurosci14:577. neurotoxicity via NFATc2 in rodent models of synucleinopathies. Sci
+https://doi.org/10.3389/fnins.2020.00577. TranslMed12:eaay0399.https://doi.org/10.1126/scitranslmed.aay0399.
+24. VoltaM,MelroseH.2017.LRRK2mousemodels:dissectingthebehavior, 39. FavaVM,ManryJ,CobatA,OrlovaM,VanThucN,BaNN,ThaiVH,AbelL,
+striatalneurochemistryandneurophysiologyofPDpathogenesis.Bio- AlcaisA,SchurrE.2016.AmissenseLRRK2variantisariskfactorforex-
+chemSocTrans45:113–122.https://doi.org/10.1042/BST20160238. cessive inflammatory responses in leprosy. PLoS Negl Trop Dis 10:
+25. LinX,ParisiadouL,GuXL,WangL,ShimH,SunL,XieC,LongCX,Yang e0004412.https://doi.org/10.1371/journal.pntd.0004412.
+WJ,DingJ,ChenZZ,GallantPE,Tao-ChengJH,RudowG,TroncosoJC, 40. LiuW,LiuX,LiY,ZhaoJ,LiuZ,HuZ,WangY,YaoY,MillerAW,SuB,
+LiuZ,LiZ,CaiH.2009.Leucine-richrepeatkinase2regulatesthepro- Cookson MR, Li X, Kang Z. 2017. LRRK2 promotes the activation of
+gressionofneuropathologyinducedbyParkinson's-disease-relatedmu-
+NLRC4inflammasomeduringSalmonellaTyphimuriuminfection.JExp
+tanta-synuclein. Neuron 64:807–827. https://doi.org/10.1016/j.neuron Med214:3051–3066.https://doi.org/10.1084/jem.20170014.
+41. Wallings RL, Herrick MK, Tansey MG. 2020. LRRK2 at the interface
+.2009.11.006.
+betweenperipheralandcentralimmunefunctioninParkinson's.Front
+26. DaherJP,PletnikovaO,BiskupS,MussoA,GellhaarS,GalterD,Troncoso
+Neurosci14:443.https://doi.org/10.3389/fnins.2020.00443.
+JC,LeeMK,DawsonTM,DawsonVL,MooreDJ.2012.Neurodegenerative
+42. FanY,HowdenAJM,SarhanAR,LisP,ItoG,MartinezTN,BrockmannK,
+phenotypesinanA53Ta-synucleintransgenicmousemodelareinde-
+pendent of LRRK2. Hum Mol Genet 21:2420–2431. https://doi.org/10 GasserT,AlessiDR,SammlerEM.2018.InterrogatingParkinson'sdisease
+LRRK2 kinase pathway activity by assessing Rab10 phosphorylation
+.1093/hmg/dds057.
+in human neutrophils. Biochem J 475:23–44. https://doi.org/10.1042/
+27. NovelloS,ArcuriL,DoveroS,DutheilN,ShimshekDR,BezardE,Morari
+BCJ20170803.
+M.2018.G2019SLRRK2mutationfacilitatesa-synucleinneuropathology
+in aged mice. Neurobiol Dis 120:21–33. https://doi.org/10.1016/j.nbd 43. AtashrazmF,HammondD,PereraG,BolligerMF,MatarE,HallidayGM,
+SchuleB,LewisSJG,NicholsRJ,DzamkoN.2019.LRRK2-mediatedRab10
+.2018.08.018.
+phosphorylationinimmunecellsfromParkinson'sdiseasepatients.Mov
+28. BieriG,BrahicM,BoussetL,CouthouisJ,KramerNJ,MaR,NakayamaL,
+Disord34:406–415.https://doi.org/10.1002/mds.27601.
+Monbureau M, Defensor E, Schule B, Shamloo M, Melki R, Gitler AD.
+2019. LRRK2 modifiesa-syn pathology and spread in mouse models 44. GreggioE,ZambranoI,KaganovichA,BeilinaA,TaymansJM,DanielsV,
+LewisP,JainS,DingJ,SyedA,ThomasKJ,BaekelandtV,CooksonMR.
+andhumanneurons.ActaNeuropathol137:961–980.https://doi.org/10
+2008. The Parkinson disease-associated leucine-rich repeat kinase 2
+.1007/s00401-019-01995-0.
+(LRRK2)isadimerthatundergoesintramolecularautophosphorylation.J
+29. DaherJP,Volpicelli-DaleyLA,BlackburnJP,MoehleMS,WestAB.2014. BiolChem283:16906–16914.https://doi.org/10.1074/jbc.M708718200.
+Abrogationofa-synuclein-mediateddopaminergicneurodegeneration
+45. GuaitoliG,RaimondiF,GilsbachBK,Gomez-LlorenteY,DeyaertE,Renzi
+inLRRK2-deficientrats.ProcNatlAcadSciUSA111:9289–9294.https://
+F,LiX,SchaffnerA,JagtapPK,BoldtK,vonZweydorfF,GotthardtK,
+doi.org/10.1073/pnas.1403215111. LorimerDD,YueZ,BurginA,JanjicN,SattlerM,VerseesW,UeffingM,
+30. NguyenAPT,TsikaE,KellyK,LevineN,ChenX,WestAB,BoularandS,
+Ubarretxena-BelandiaI,KortholtA,GloecknerCJ.2016.Structuralmodel
+BarneoudP,MooreDJ.2020.Dopaminergicneurodegenerationinduced
+ofthedimericParkinson'sproteinLRRK2revealsacompactarchitecture
+byParkinson'sdisease-linkedG2019SLRRK2isdependentonkinaseand
+involvingdistantinterdomaincontacts.ProcNatlAcadSciUSA113:
+GTPaseactivity.ProcNatlAcadSciUSA117:17296–17307.https://doi
+E4357–E4366.https://doi.org/10.1073/pnas.1523708113.
+.org/10.1073/pnas.1922184117.
+46. IslamMS,MooreDJ.2017.MechanismsofLRRK2-dependentneurode-
+31. TongY,YamaguchiH,GiaimeE,BoyleS,KopanR,KelleherRJ,III,ShenJ. generation:roleofenzymaticactivityandproteinaggregation.Biochem
+2010.Lossofleucine-richrepeatkinase2causesimpairmentofprotein SocTrans45:163–172.https://doi.org/10.1042/BST20160264.
+degradationpathways,accumulationofa-synuclein,andapoptoticcell 47. Civiero L, Vancraenenbroeck R, Belluzzi E, Beilina A, Lobbestael E,
+deathinagedmice.ProcNatlAcadSciUSA107:9879–9884.https://doi
+Reyniers L, Gao F, Micetic I, De Maeyer M, Bubacco L, Baekelandt V,
+.org/10.1073/pnas.1004676107. CooksonMR,GreggioE,TaymansJM.2012.Biochemicalcharacterization
+32. HerzigMC,KollyC,PersohnE,TheilD,SchweizerT,HafnerT,Stemmelen ofhighlypurifiedleucine-richrepeatkinases1and2demonstratesfor-
+C,TroxlerTJ,SchmidP,DannerS,SchnellCR,MuellerM,KinzelB,Grevot mation of homodimers. PLoS One 7:e43472. https://doi.org/10.1371/
+A, Bolognani F, Stirn M, Kuhn RR, Kaupmann K, van der Putten PH, journal.pone.0043472.
+RovelliG,ShimshekDR.2011.LRRK2proteinlevelsaredeterminedbyki- 48. DenistonCK,SalogiannisJ,MatheaS,SneadDM,LahiriI,MatyszewskiM,
+nasefunctionandarecrucialforkidneyandlunghomeostasisinmice. Donosa O, Watanabe R, Bohning J, Shiau AK, Knapp S, Villa E, Reck-
+HumMolGenet20:4209–4223.https://doi.org/10.1093/hmg/ddr348.
+PetersonSL,LeschzinerAE.2020.StructureofLRRK2inParkinson'sdis-
+33. FujiRN,FlagellaM,BacaM,BaptistaMA,BrodbeckJ,ChanBK,FiskeBK, ease and model for microtubule interaction. Nature 588:344–349.
+HonigbergL,JubbAM,KatavolosP,LeeDW,Lewin-KohSC,LinT,LiuX, https://doi.org/10.1038/s41586-020-2673-2.
+LiuS,LyssikatosJP,O'MahonyJ,ReicheltM,Roose-GirmaM,ShengZ, 49. GreggioE,LewisPA,vanderBrugMP,AhmadR,KaganovichA,DingJ,
+ShererT,SmithA,SolonM,SweeneyZK,TarrantJ,UrkowitzA,Warming Beilina A, Baker AK, Cookson MR. 2007. Mutations in LRRK2/dardarin
+S,YaylaogluM,ZhangS,ZhuH,EstradaAA,WattsRJ.2015.Effectof associatedwithParkinsondiseasearemoretoxicthanequivalentmuta-
+selectiveLRRK2kinaseinhibitiononnonhumanprimatelung.SciTransl tions in the homologous kinase LRRK1. J Neurochem 102:93–102.
+Med7:273ra215.https://doi.org/10.1126/scitranslmed.aaa3634. https://doi.org/10.1111/j.1471-4159.2007.04523.x.
+34. BaptistaMA,DaveKD,FrasierMA,ShererTB,GreeleyM,BeckMJ,Varsho 50. Langston RG, Rudenko IN, Cookson MR. 2016. The function of ortho-
+JS,ParkerGA,MooreC,ChurchillMJ,MeshulCK,FiskeBK.2013.Lossof logues of the human Parkinson's disease gene LRRK2 across species:
+leucine-richrepeatkinase2(LRRK2)inratsleadstoprogressiveabnor- implications for disease modelling in preclinical research. Biochem J
+mal phenotypes in peripheral organs. PLoS One 8:e80705. https://doi 473:221–232.https://doi.org/10.1042/BJ20150985.
+.org/10.1371/journal.pone.0080705. 51. SchmidtSH,KnapeMJ,BoassaD,MumdeyN,KornevAP,EllismanMH,
+35. GiaimeE,TongY,WagnerLK,YuanY,HuangG,ShenJ.2017.Age-depend- TaylorSS,HerbergFW.2019.Thedynamicswitchmechanismthatleads
+entdopaminergicneurodegenerationandimpairmentoftheautophagy- toactivationofLRRK2isembeddedintheDFGcmotifinthekinase
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 13
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+domain.ProcNatlAcadSciUSA116:14979–14988.https://doi.org/10 65. Gilsbach BK, Messias AC, Ito G, Sattler M, Alessi DR, Wittinghofer A,
+.1073/pnas.1900289116. KortholtA.2015.StructuralcharacterizationofLRRK2inhibitors.JMed
+52. Nichols RJ, Dzamko N, Hutti JE, Cantley LC, Deak M, Moran J, Chem58:3751–3756.https://doi.org/10.1021/jm5018779.
+Bamborough P, Reith AD, Alessi DR. 2009. Substrate specificity and 66. ZhaoJ,MolitorTP,LangstonJW,NicholsRJ.2015.LRRK2dephosphoryl-
+inhibitorsofLRRK2,aproteinkinasemutatedinParkinson'sdisease.Bio- ation increases its ubiquitination. Biochem J 469:107–120. https://doi
+chemJ424:47–60.https://doi.org/10.1042/BJ20091035. .org/10.1042/BJ20141305.
+53. WuCX,LiaoJ,ParkY,ReedX,EngelVA,HoangNC,TakagiY,Johnson 67. BergerZ,SmithKA,LavoieMJ.2010.MembranelocalizationofLRRK2is
+SM,WangM,FedericiM,NicholsRJ,SanishviliR,CooksonMR,Hoang associatedwithincreasedformationofthehighlyactiveLRRK2dimer
+QQ. 2019. Parkinson's disease-associated mutations in the GTPase
+andchangesinitsphosphorylation.Biochemistry49:5511–5523.https://
+domainofLRRK2impairitsnucleotide-dependentconformationaldy- doi.org/10.1021/bi100157u.
+namics.JBiolChem294:5907–5913.https://doi.org/10.1074/jbc.RA119 68. PurlyteE,DhekneHS,SarhanAR,GomezR,LisP,WightmanM,Martinez
+.007631. TN,TonelliF,PfefferSR,AlessiDR.2018.Rab29activationoftheParkin-
+54. ItoG,OkaiT,FujinoG,TakedaK,IchijoH,KatadaT,IwatsuboT.2007.GTP
+son'sdisease-associatedLRRK2kinase.EMBOJ37:1–18.https://doi.org/
+10.15252/embj.201798099.
+binding is essential to the protein kinase activity of LRRK2, a causative
+geneproductforfamilialParkinson'sdisease.Biochemistry46:1380–1388. 69. NicholsRJ,DzamkoN,MorriceNA,CampbellDG,DeakM,OrdureauA,
+MacartneyT,TongY,ShenJ,PrescottAR,AlessiDR.2010.14-3-3binding
+https://doi.org/10.1021/bi061960m.
+toLRRK2isdisruptedbymultipleParkinson'sdisease-associatedmuta-
+55. ShengZ,ZhangS,BustosD,KleinheinzT,LePichonCE,DominguezSL,
+tions and regulates cytoplasmic localization. Biochem J 430:393–404.
+SolanoyHO,DrummondJ,ZhangX,DingX,CaiF,SongQ,LiX,YueZ,
+https://doi.org/10.1042/BJ20100483.
+vanderBrugMP,BurdickDJ,Gunzner-TosteJ,ChenH,LiuX,EstradaAA,
+70. DzamkoN,DeakM,HentatiF,ReithAD,PrescottAR,AlessiDR,Nichols
+Sweeney ZK, Scearce-Levie K, Moffat JG, Kirkpatrick DS, Zhu H. 2012.
+RJ.2010.InhibitionofLRRK2kinaseactivityleadstodephosphorylation
+Ser1292 autophosphorylation is an indicator of LRRK2 kinase activity
+of Ser910/Ser935, disruption of 14-3-3 binding and altered cytoplasmic
+andcontributestothecellulareffectsofPDmutations.SciTranslMed localization.BiochemJ430:405–413.https://doi.org/10.1042/BJ20100784.
+4:164ra161.https://doi.org/10.1126/scitranslmed.3004485.
+71. SteversLM,deVriesRM,DovestonRG,MilroyLG,BrunsveldL,Ottmann
+56. Steger M, Tonelli F, Ito G, Davies P, Trost M, Vetter M, Wachter S,
+C.2017.StructuralinterfacebetweenLRRK2and14-3-3protein.Biochem
+LorentzenE,DuddyG,WilsonS,BaptistaMA,FiskeBK,FellMJ,Morrow J474:1273–1287.https://doi.org/10.1042/BCJ20161078.
+JA,ReithAD,AlessiDR,MannM.2016.Phosphoproteomicsrevealsthat 72. MudaK,BertinettiD,GesellchenF,HermannJS,vonZweydorfF,Geerlof
+Parkinson'sdiseasekinaseLRRK2regulatesasubsetofRabGTPases.Elife A,JacobA,UeffingM,GloecknerCJ,HerbergFW.2014.Parkinson-related
+5:e12813.https://doi.org/10.7554/eLife.12813. LRRK2mutationR1441C/G/HimpairsPKAphosphorylationofLRRK2and
+57. Steger M, Diez F, Dhekne HS, Lis P, Nirujogi RS, Karayel O, Tonelli F, disrupts its interaction with 14-3-3. Proc Natl Acad Sci U S A 111:
+MartinezTN,LorentzenE,PfefferSR,AlessiDR,MannM.2017.Systematic E34–E43.https://doi.org/10.1073/pnas.1312701111.
+proteomic analysis of LRRK2-mediated Rab GTPase phosphorylation 73. SchapanskyJ,NardozziJD,FeliziaF,LaVoieMJ.2014.Membranerecruit-
+establishesaconnectiontociliogenesis.Elife6:e31012.https://doi.org/ mentofendogenousLRRK2precedesitspotentregulationofautoph-
+10.7554/eLife.31012. agy.HumMolGenet23:4201–4214.https://doi.org/10.1093/hmg/ddu138.
+58. LiaoJ,WuCX,BurlakC,ZhangS,SahmH,WangM,ZhangZY,VogelKW, 74. HutagalungAH,NovickPJ.2011.RoleofRabGTPasesinmembranetraf-
+FedericiM,RiddleSM,NicholsRJ,LiuD,CooksonMR,StoneTA,Hoang ficandcellphysiology.PhysiolRev91:119–149.https://doi.org/10.1152/
+QQ.2014.Parkinsondisease-associatedmutationR1441HinLRRK2pro- physrev.00059.2009.
+longsthe“activestate”ofitsGTPasedomain.ProcNatlAcadSciUSA 75. KalogeropulouA,FreemantleJ,LisP,VidesE,PolinskiN,AlessiD.2020.
+111:4055–4060.https://doi.org/10.1073/pnas.1323285111. EndogenousRab29doesnotimpactbasalornigericinandmonensin
+59. HuangX,WuC,ParkY,LongX,HoangQQ,LiaoJ.2019.TheParkinson's stimulatedLRRK2pathwayactivity.BioRxiv2020.06.08.139675.https://
+disease-associatedmutationN1437Himpairsconformationaldynamics doi.org/10.1101/2020.06.08.139675.
+in the G domain of LRRK2. FASEB J 33:4814–4823. https://doi.org/10 76. MacLeod DA, Rhinn H, Kuwahara T, Zolin A, Di Paolo G, McCabe BD,
+.1096/fj.201802031R. MacCabe BD, Marder KS, Honig LS, Clark LN, Small SA, Abeliovich A.
+60. ZhangP,FanY,RuH,WangL,MagupalliVG,TaylorSS,AlessiDR,WuH. 2013.RAB7L1interactswithLRRK2tomodifyintraneuronalproteinsort-
+2019.CrystalstructureoftheWD40domaindimerofLRRK2.ProcNatl
+ingandParkinson'sdiseaserisk.Neuron77:425–439.https://doi.org/10
+AcadSciUSA116:1579–1584.https://doi.org/10.1073/pnas.1817889116. .1016/j.neuron.2012.11.033.
+61. DiMaioR,HoffmanEK,RochaEM,KeeneyMT,SandersLH,DeMiranda 77. GomezRC,WawroP,LisP,AlessiDR,PfefferSR.2019.Membraneassocia-
+BR,ZharikovA,VanLaarA,StepanAF,LanzTA,KoflerJK,BurtonEA, tionbutnotidentityisrequiredforLRRK2activationandphosphoryla-
+AlessiDR,HastingsTG,GreenamyreJT.2018.LRRK2activationinidio-
+tionofRabGTPases.JCellBiol218:4157–4170.https://doi.org/10.1083/
+pathicParkinson'sdisease.SciTranslMed10:eaar5429.https://doi.org/ jcb.201902184.
+78. LucasM,HierroA.2017.Retromer.CurrBiol27:R687–R689.https://doi
+10.1126/scitranslmed.aar5429.
+.org/10.1016/j.cub.2017.05.072.
+62. TongY,PisaniA,MartellaG,KarouaniM,YamaguchiH,PothosEN,Shen
+79. YeH,OjeladeSA,Li-KroegerD,ZuoZ,WangL,LiY,GuJY,TepassU,
+J.2009.R1441CmutationinLRRK2impairsdopaminergicneurotransmis-
+sioninmice.ProcNatlAcadSciUSA106:14622–14627.https://doi.org/ RodalAA,BellenHJ,ShulmanJM.2020.Retromersubunit,VPS29,regu-
+latessynaptictransmissionandisrequiredforendolysosomalfunction
+10.1073/pnas.0906334106. intheagingbrain.Elife9:e51977.https://doi.org/10.7554/eLife.51977.
+63. Baptista MAS, Merchant K, Barrett T, Bhargava S, Bryce DK, Ellis JM,
+80. BurdC,CullenPJ.2014.Retromer:amasterconductorofendosomesort-
+EstradaAA,FellMJ,FiskeBK,FujiRN,GalatsisP,HenryAG,HillS,HirstW,
+ing.ColdSpringHarbPerspectBiol6:a016774.https://doi.org/10.1101/
+HouleC,KennedyME,LiuX,MaddessML,MarkgrafC,MeiH,MeierWA,
+cshperspect.a016774.
+NeedleE,PlochS,RoyerC,RudolphK,SharmaAK,StepanA,SteynS,
+81. Zimprich A, Benet-Pages A, Struhal W, Graf E, Eck SH, Offman MN,
+TrostC,YinZ,YuH,WangX,ShererTB.2020.LRRK2inhibitorsinducere-
+HaubenbergerD,SpielbergerS,SchulteEC,LichtnerP,RossleSC,Klopp
+versiblechangesinnonhumanprimatelungswithoutmeasurablepul-
+N,WolfE,SeppiK,PirkerW,PresslauerS,MollenhauerB,Katzenschlager
+monary deficits. Sci Transl Med 12:eaav0820. https://doi.org/10.1126/
+R,FokiT,HotzyC,ReinthalerE,HarutyunyanA,KralovicsR,PetersA,
+scitranslmed.aav0820. ZimprichF,BruckeT,PoeweW,AuffE,TrenkwalderC,RostB,Ransmayr
+64. ScottJD,DeMongDE,GreshockTJ,BasuK,DaiX,HarrisJ,HruzaA,LiSW, G,Winkelmann J,MeitingerT,StromTM. 2011.A mutation inVPS35,
+LinSI,LiuH,MacalaMK,HuZ,MeiH,ZhangH,WalshP,PoirierM,ShiZC, encodingasubunitoftheretromercomplex,causeslate-onsetParkin-
+XiaoL,AgnihotriG,BaptistaMA,ColumbusJ,FellMJ,HydeLA,Kuvelkar sondisease.AmJHumGenet89:168–175.https://doi.org/10.1016/j.ajhg
+R, Lin Y, Mirescu C, Morrow JA, Yin Z, Zhang X, Zhou X, Chang RK, .2011.06.008.
+EmbreyMW,SandersJM,TisciaHE,DroletRE,KernJT,SurSM,RengerJJ, 82. Vilarino-GuellC,WiderC,RossOA,DachselJC,KachergusJM,LincolnSJ,
+Bilodeau MT, Kennedy ME, Parker EM, Stamford AW, Nargund R, Soto-OrtolazaAI,CobbSA,WilhoiteGJ,BaconJA,BehrouzB,MelroseHL,
+McCauleyJA,MillerMW.2017.Discoveryofa3-(4-pyrimidinyl)indazole HentatiE,PuschmannA,EvansDM,ConibearE,WassermanWW,Aasly
+(MLi-2), an orally available and selective leucine-rich repeat kinase 2 JO,BurkhardPR,DjaldettiR,GhikaJ,HentatiF,Krygowska-WajsA,Lynch
+(LRRK2) inhibitor that reduces brain kinase activity. J Med Chem T,MelamedE,RajputA,RajputAH,SolidaA,WuRM,UittiRJ,WszolekZK,
+60:2983–2992.https://doi.org/10.1021/acs.jmedchem.7b00045. VingerhoetsF,FarrerMJ.2011.VPS35mutationsinParkinsondisease.
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 14
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+Am J Hum Genet 89:162–167. https://doi.org/10.1016/j.ajhg.2011.06 depolarization-inducedmitophagythroughinhibitionofmitochondrial
+.001. accumulation of RAB10. Autophagy 16:203–222. https://doi.org/10
+83. Hanss Z, Larsen SB, Antony P, Mencke P, Massart F, Jarazo J, .1080/15548627.2019.1603548.
+SchwambornJC,BarbutiPA,MellickGD,KrugerR.2020.Mitochondrial 101. SinghA,ZhiL,ZhangH.2019.LRRK2andmitochondria:recentadvances
+andclearanceimpairmentinp.D620NVPS35patient-derivedneurons. and current views. Brain Res 1702:96–104. https://doi.org/10.1016/j
+MovDisordhttps://doi.org/10.1002/mds.28365. .brainres.2018.06.010.
+84. MirR,TonelliF,LisP,MacartneyT,PolinskiNK,MartinezTN,ChouMY, 102. StafaK,TsikaE,MoserR,MussoA,GlauserL,JonesA,BiskupS,XiongY,
+Howden AJM, Konig T, Hotzy C, Milenkovic I, Brucke T, Zimprich A, BandopadhyayR,DawsonVL,DawsonTM,MooreDJ.2014.Functional
+Sammler E, Alessi DR. 2018. The Parkinson's disease VPS35[D620N] interaction of Parkinson's disease-associated LRRK2 with members
+mutation enhances LRRK2-mediated Rab protein phosphorylation in of the dynamin GTPase superfamily. Hum Mol Genet 23:2055–2077.
+mouseandhuman.BiochemJ475:1861–1883.https://doi.org/10.1042/ https://doi.org/10.1093/hmg/ddt600.
+BCJ20180248. 103. WangX,YanMH,FujiokaH,LiuJ,Wilson-DelfosseA,ChenSG,PerryG,
+85. HsiehCH,ShaltoukiA,GonzalezAE,BettencourtdaCruzA,BurbullaLF, CasadesusG,ZhuX.2012.LRRK2regulatesmitochondrialdynamicsand
+StLawrenceE,SchuleB,KraincD,PalmerTD,WangX.2016.Functional function through direct interaction with DLP1. Hum Mol Genet
+impairmentinMirodegradationandmitophagyisasharedfeaturein 21:1931–1944.https://doi.org/10.1093/hmg/dds003.
+familial and sporadic Parkinson's disease. Cell Stem Cell 19:709–724. 104. TwigG,ElorzaA,MolinaAJ,MohamedH,WikstromJD,WalzerG,StilesL,
+https://doi.org/10.1016/j.stem.2016.08.002. HaighSE,KatzS,LasG,AlroyJ,WuM,PyBF,YuanJ,DeeneyJT,Corkey
+86. MadureiraM,Connor-RobsonN,Wade-MartinsR.2020.LRRK2:autoph- BE,ShirihaiOS.2008.Fissionandselectivefusiongovernmitochondrial
+agy and lysosomal activity. Front Neurosci 14:498. https://doi.org/10 segregationandeliminationbyautophagy.EMBOJ27:433–446.https://
+.3389/fnins.2020.00498. doi.org/10.1038/sj.emboj.7601963.
+87. EguchiT,KuwaharaT,SakuraiM,KomoriT,FujimotoT,ItoG,Yoshimura 105. WeindelCG,BellSL,VailKJ,WestKO,PatrickKL,WatsonRO.2020.LRRK2
+SI,HaradaA,FukudaM,KoikeM,IwatsuboT.2018.LRRK2anditssub- maintains mitochondrial homeostasis and regulates innate immune
+strateRabGTPasesaresequentiallytargetedontostressedlysosomes responsestoMycobacteriumtuberculosis.Elife9:e51071.https://doi.org/
+andmaintaintheirhomeostasis.ProcNatlAcadSciUSA115:E9115–
+10.7554/eLife.51071.
+E9124.https://doi.org/10.1073/pnas.1812196115. 106. BonelloF,HassounSM,Mouton-LigerF,ShinYS,MuscatA,TessonC,
+88. Kuwahara T, Funakawa K, Komori T, Sakurai M, Yoshii G, Eguchi T,
+LesageS,BeartPM,BriceA,KruppJ,CorvolJC,CortiO.2019.LRRK2
+FukudaM,IwatsuboT.2020.RolesoflysosomotropicagentsonLRRK2
+impairsPINK1/parkin-dependentmitophagyviaitskinaseactivity:path-
+activation and Rab10 phosphorylation. Neurobiol Dis 145:105081. ologicinsightsintoParkinson'sdisease.HumMolGenet28:1645–1660.
+https://doi.org/10.1016/j.nbd.2020.105081.
+https://doi.org/10.1093/hmg/ddz004.
+89. Bonet-Ponce L, Beilina A, Williamson CD, Lindberg E, Kluss JH, Saez-
+107. ToyofukuT,OkamotoY,IshikawaT,SasawatariS,KumanogohA.2020.
+AtienzarS,LandeckN,KumaranR,MamaisA,BleckCKE,LiY,Cookson
+LRRK2regulatesendoplasmicreticulum-mitochondrialtetheringthrough
+MR. 2020. LRRK2 mediates tubulation and vesicle sorting from lyso-
+thePERK-mediatedubiquitinationpathway.EMBOJ39:e100875.https://
+somes.SciAdv6:eabb2454.https://doi.org/10.1126/sciadv.abb2454.
+doi.org/10.15252/embj.2018100875.
+90. HerbstS,CampbellP,HarveyJ,BernardEM,PapayannopoulosV,Wood
+108. KumarD,ReiterJ.2020.Howthecentriolebuildsitscilium:ofmothers,
+NW,MorrisHR,GutierrezMG.2020.LRRK2activationcontrolstherepair
+daughters, and the acquisition of appendages. Curr Opin Struct Biol
+of damaged endomembranes in macrophages. EMBO J 39:e104494. 66:41–48.https://doi.org/10.1016/j.sbi.2020.09.006.
+https://doi.org/10.15252/embj.2020104494.
+109. PlotnikovaOV,PugachevaEN,GolemisEA.2009.Primaryciliaandthe
+91. LiuZ,XuE,ZhaoHT,ColeT,WestAB.2020.LRRK2andRab10coordinate cellcycle.MethodsCellBiol94:137–160.https://doi.org/10.1016/S0091
+macropinocytosistomediateimmunologicalresponsesinphagocytes.
+-679X(08)94007-3.
+EMBOJ39:e104862.https://doi.org/10.15252/embj.2020104862.
+110. DhekneHS,YanatoriI,GomezRC,TonelliF,DiezF,SchuleB,StegerM,
+92. RochaEM,DeMirandaBR,CastroS,DroletR,HatcherNG,YaoL,Smith
+SM,KeeneyMT,DiMaioR,KoflerJ,HastingsTG,GreenamyreJT.2020. AlessiDR,PfefferSR.2018.ApathwayforParkinson'sdiseaseLRRK2ki-
+LRRK2inhibitionpreventsendolysosomaldeficitsseeninhumanParkin- nasetoblockprimaryciliaandSonichedgehogsignalinginthebrain.
+Elife7:e40202.https://doi.org/10.7554/eLife.40202.
+son's disease. Neurobiol Dis 134:104626. https://doi.org/10.1016/j.nbd
+111. Madero-PerezJ,FdezE,FernandezB,LaraOrdonezAJ,BlancaRamirez
+.2019.104626.
+M,Gomez-SuagaP,WaschbuschD,LobbestaelE,BaekelandtV,Nairn
+93. DoJ,McKinneyC,SharmaP,SidranskyE.2019.Glucocerebrosidaseand
+AC,Ruiz-MartinezJ,AiastuiA,LopezdeMunainA,LisP,ComptdaerT,
+itsrelevancetoParkinsondisease.MolNeurodegener14:36.https://doi
+Taymans JM, Chartier-Harlin MC, Beilina A, Gonnelli A, Cookson MR,
+.org/10.1186/s13024-019-0336-2.
+Greggio E, Hilfiker S. 2018.Parkinson disease-associatedmutations in
+94. SidranskyE,SamaddarT,TayebiN.2009.MutationsinGBAareassoci-
+LRRK2causecentrosomaldefectsviaRab8aphosphorylation.MolNeu- atedwithfamilialParkinsondiseasesusceptibilityandageatonset.Neu-
+rology73:1424–1426.https://doi.org/10.1212/WNL.0b013e3181b28601. rodegener13:3.https://doi.org/10.1186/s13024-018-0235-y.
+95. BultronG,KacenaK,PearsonD,BoxerM,YangR,SatheS,PastoresG, 112. LaraOrdonezAJ,FernandezB,FdezE,Romo-LozanoM,Madero-PerezJ,
+MistryPK.2010.TheriskofParkinson'sdiseaseintype1Gaucherdisease. LobbestaelE,BaekelandtV,AiastuiA,LopezdeMunainA,MelroseHL,
+J Inherit Metab Dis 33:167–173. https://doi.org/10.1007/s10545-010 CivieroL,HilfikerS.2019.RAB8,RAB10andRILPL1contributetoboth
+-9055-0.
+LRRK2kinase-mediatedcentrosomalcohesionandciliogenesisdeficits.
+96. YsselsteinD,NguyenM,YoungTJ,SeverinoA,SchwakeM,MerchantK, HumMolGenet28:3552–3568.https://doi.org/10.1093/hmg/ddz201.
+KraincD.2019.LRRK2kinaseactivityregulateslysosomalglucocerebrosi- 113. FernandezB,LaraOrdonezAJ,FdezE,MutezE,ComptdaerT,LeghayC,
+daseinneuronsderivedfromParkinson'sdiseasepatients.NatCommun KreislerA,SimoninC,VandewynckelL,DefebvreL,DesteeA,BleuseS,
+10:5570.https://doi.org/10.1038/s41467-019-13413-w.
+TaymansJM,Chartier-HarlinMC,HilfikerS.2019.Centrosomalcohesion
+97. Sanyal A, DeAndrade MP, Novis HS, Lin S, Chang J, Lengacher N, deficitsascellularbiomarker inlymphoblastoid cell linesfrom LRRK2
+TomlinsonJJ,TanseyMG,LaVoieMJ.2020.Lysosomeandinflammatory Parkinson'sdiseasepatients.BiochemJ476:2797–2813.https://doi.org/
+defectsinGBA1-mutantastrocytesarenormalizedbyLRRK2inhibition. 10.1042/BCJ20190315.
+MovDisord35:760–773.https://doi.org/10.1002/mds.27994. 114. KettLR,BoassaD,HoCC,RideoutHJ,HuJ,TeradaM,EllismanM,Dauer
+98. BiskupS,MooreDJ,CelsiF,HigashiS,WestAB,AndrabiSA,KurkinenK, WT.2012.LRRK2Parkinsondiseasemutationsenhanceitsmicrotubule
+YuSW,SavittJM,WaldvogelHJ,FaullRL,EmsonPC,TorpR,OttersenOP, association.HumMolGenet21:890–899.https://doi.org/10.1093/hmg/
+DawsonTM,DawsonVL.2006.LocalizationofLRRK2tomembranous ddr526.
+andvesicularstructuresinmammalianbrain.AnnNeurol60:557–569. 115. CaesarM,FelkS,AaslyJO,GillardonF.2015.Changesinactindynamics
+https://doi.org/10.1002/ana.21019. and F-actin structure both in synaptoneurosomes of LRRK2(R1441G)
+99. WestAB,MooreDJ,BiskupS,BugayenkoA,SmithWW,RossCA,Dawson mutant mice and in primary human fibroblasts of LRRK2(G2019S)
+VL,DawsonTM.2005.Parkinson'sdisease-associatedmutationsinleu- mutationcarriers.Neuroscience284:311–324.https://doi.org/10.1016/j
+cine-rich repeat kinase 2 augment kinase activity. Proc Natl Acad Sci .neuroscience.2014.09.070.
+USA102:16842–16847.https://doi.org/10.1073/pnas.0507360102. 116. BlancaRamirezM,LaraOrdonezAJ,FdezE,Madero-PerezJ,GonnelliA,
+100. WautersF,CornelissenT,ImberechtsD,MartinS,KoentjoroB,SueC, Drouyer M, Chartier-Harlin MC, Taymans JM, Bubacco L, Greggio E,
+Vangheluwe P, Vandenberghe W. 2020. LRRK2 mutations impair HilfikerS.2017.GTPbindingregulatescellularlocalizationofParkinson's
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 15
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+
+Minireview MolecularandCellularBiology
+disease-associated LRRK2. Hum Mol Genet 26:2747–2767. https://doi 128. ChenX,KordichJK,WilliamsET,LevineN,Cole-StraussA,MarshallL,
+.org/10.1093/hmg/ddx161. LabrieV,MaJ,LiptonJW,MooreDJ.2019.Parkinson'sdisease-linked
+117. WatanabeR,BuschauerR,BöhningJ,AudagnottoM,LaskerK,LuT-W, D620NVPS35knockinmicemanifesttauneuropathologyanddopami-
+BoassaD,TaylorS,VillaE.2020.TheinsitustructureofParkinson’sdis- nergic neurodegeneration. Proc Natl Acad Sci U S A 116:5765–5774.
+ease-linkedLRRK2.Cellhttps://doi.org/10.1016/j.cell.2020.08.004. https://doi.org/10.1073/pnas.1814909116.
+118. LawBM,SpainVA,LeinsterVH,ChiaR,BeilinaA,ChoHJ,TaymansJM, 129. BelluzziE,GonnelliA,CirnaruMD,MarteA,PlotegherN,RussoI,Civiero
+UrbanMK,SanchoRM,BlancaRamirezM,BiskupS,BaekelandtV,CaiH, L,CogoS,CarrionMP,FranchinC,ArrigoniG,BeltraminiM,BubaccoL,
+CooksonMR,BerwickDC,HarveyK.2014.Adirectinteractionbetween OnofriF,PiccoliG,GreggioE.2016.LRRK2phosphorylatespre-synaptic
+leucine-richrepeatkinase2andspecificb-tubulinisoformsregulates
+N-ethylmaleimidesensitivefusion(NSF)proteinenhancingitsATPase
+tubulinacetylation.JBiolChem289:895–908.https://doi.org/10.1074/
+activity and SNARE complex disassembling rate. Mol Neurodegener
+jbc.M113.507913.
+11:1.https://doi.org/10.1186/s13024-015-0066-z.
+119. Guedes-DiasP,HolzbaurELF.2019.Axonaltransport:drivingsynap-
+130. NguyenM,KraincD.2018.LRRK2phosphorylationofauxilinmediates
+ticfunction.Science366:eaaw9997.https://doi.org/10.1126/science
+synaptic defects in dopaminergic neurons from patients with Parkin-
+.aaw9997.
+son'sdisease.ProcNatlAcadSciUSA115:5576–5581.https://doi.org/
+120. GodenaVK,Brookes-HockingN,MollerA,ShawG,OswaldM,Sancho
+10.1073/pnas.1717590115.
+RM,MillerCC,WhitworthAJ,DeVosKJ.2014.Increasingmicrotubule
+acetylationrescuesaxonaltransportandlocomotordeficitscausedby 131. MattaS,VanKolenK,daCunhaR,vandenBogaartG,MandemakersW,
+MiskiewiczK,DeBockP-J,MoraisVA,VilainS,HaddadD,DelbroekL,
+LRRK2 Roc-COR domain mutations. Nat Commun 5:5245. https://doi
+.org/10.1038/ncomms6245. SwertsJ,Chávez-GutiérrezL,EspositoG,DaneelsG,KarranE,HoltM,
+121. StormoAED,FitzGibbonM,ShavarebiF,EarleyEM,LumLS,Verschueren GevaertK,MoecharsDW,DeStrooperB,VerstrekenP.2012.LRRK2con-
+E,SwaneyDL,SkibinskiG,RavisankarA,vanHarenJ,DavisEJ,Johnson trolsanEndoAphosphorylationcycleinsynapticendocytosis.Neuron
+JR,VonDollenJ,MirescuC,IaccarinoC,DauerWT,NicholsRJ,Wittmann 75:1008–1021.https://doi.org/10.1016/j.neuron.2012.08.022.
+T,CoxTC,FinkbeinerS,KroganNJ,OakesSA,HinikerA.2020.TheE3 132. SurmeierDJ,ObesoJA,HallidayGM.2017.Selectiveneuronalvulnerabil-
+ligaseTRIM1ubiquitinatesLRRK2andcontrolsitslocalization,degrada- ityinParkinsondisease.NatRevNeurosci18:101–113.https://doi.org/10
+tion,andtoxicity.BioRxivhttps://doi.org/10.1101/2020.10.21.336578. .1038/nrn.2016.178.
+122. BaileyRM,CovyJP,MelroseHL,RousseauL,WatkinsonR,KnightJ,Miles 133. BolamJP,PissadakiEK.2012.Livingontheedgewithtoomanymouths
+S,FarrerMJ,DicksonDW,GiassonBI,LewisJ.2013.LRRK2phosphoryl- tofeed:whydopamineneuronsdie.MovDisord27:1478–1483.https://
+ates novel tau epitopes and promotes tauopathy. Acta Neuropathol doi.org/10.1002/mds.25135.
+126:809–827.https://doi.org/10.1007/s00401-013-1188-4. 134. SurmeierDJ,GuzmanJN,SanchezJ,SchumackerPT.2012.Physiological
+123. MelroseHL,DachselJC,BehrouzB,LincolnSJ,YueM,HinkleKM,Kent phenotype and vulnerability in Parkinson's disease. Cold Spring Harb
+CB, Korvatska E, Taylor JP, Witten L, Liang YQ, Beevers JE, Boules M, PerspectMed2:a009290.https://doi.org/10.1101/cshperspect.a009290.
+Dugger BN, Serna VA, Gaukhman A, Yu X, Castanedes-Casey M, 135. MisgeldT,SchwarzTL.2017.Mitostasisinneurons:maintainingmito-
+BraithwaiteAT,OgholikhanS,YuN,BassD,TyndallG,SchellenbergGD, chondria in an extended cellular architecture. Neuron 96:651–666.
+DicksonDW,JanusC,FarrerMJ.2010.Impaireddopaminergicneuro- https://doi.org/10.1016/j.neuron.2017.09.055.
+transmission and microtubule-associated protein tau alterations in 136. VidyadharaDJ,LeeJE,ChandraSS.2019.Roleoftheendolysosomalsys-
+human LRRK2 transgenic mice. Neurobiol Dis 40:503–517. https://doi teminParkinson'sdisease.JNeurochem150:487–506.https://doi.org/
+.org/10.1016/j.nbd.2010.07.010.
+10.1111/jnc.14820.
+124. LiY,LiuW,OoTF,WangL,TangY,Jackson-LewisV,ZhouC,GeghmanK,
+137. HeoS,DieringGH,NaCH,NirujogiRS,BachmanJL,PandeyA,Huganir
+BogdanovM,PrzedborskiS,BealMF,BurkeRE,LiC.2009.MutantLRRK2 RL. 2018. Identification of long-lived synaptic proteins by proteomic
+(R1441G)BACtransgenicmicerecapitulatecardinalfeaturesofPar-
+analysisofsynaptosomeproteinturnover.ProcNatlAcadSciUSA115:
+kinson's disease. Nat Neurosci 12:826–828. https://doi.org/10.1038/
+E3827–E3836.https://doi.org/10.1073/pnas.1720956115.
+nn.2349.
+138. LiuJ,LiuMC,WangKK.2008.CalpainintheCNS:fromsynapticfunction
+125. KawakamiF,ShimadaN,OhtaE,KagiyaG,KawashimaR,MaekawaT,
+toneurotoxicity.SciSignal1:re1.https://doi.org/10.1126/stke.114re1.
+MaruyamaH,IchikawaT.2014.Leucine-richrepeatkinase2regulates
+139. DiepenbroekM,CasadeiN,EsmerH,SaidoTC,TakanoJ,KahlePJ,Nixon
+tauphosphorylationthroughdirectactivationofglycogensynthaseki-
+nase-3b.FEBSJ281:3–13.https://doi.org/10.1111/febs.12579. RA,RaoMV,MelkiR,PieriL,HellingS,MarcusK,KruegerR,MasliahE,
+126. Shanley MR, Hawley D, Leung S, Zaidi NF, Dave R, Schlosser KA,
+RiessO,NuberS.2014.Overexpressionofthecalpain-specificinhibitor
+BandopadhyayR,GerberSA,LiuM.2015.LRRK2facilitatestauphospho- calpastatin reduces human alpha-synuclein processing, aggregation
+rylation through strong interaction with tau and cdk5. Biochemistry and synaptic impairment in [A30P]aSyn transgenic mice. Hum Mol
+54:5198–5208.https://doi.org/10.1021/acs.biochem.5b00326. Genet23:3975–3989.https://doi.org/10.1093/hmg/ddu112.
+127. BardaiFH,OrdonezDG,BaileyRM,HammM,LewisJ,FeanyMB.2018. 140. PosmanturR,KampflA,SimanR,LiuJ,ZhaoX,CliftonGL,HayesRL.
+Lrrkpromotestauneurotoxicitythroughdysregulationofactinandmi- 1997. A calpain inhibitor attenuates cortical cytoskeletal protein loss
+tochondrialdynamics.PLoSBiol16:e2006265.https://doi.org/10.1371/ after experimental traumatic brain injury in the rat. Neuroscience
+journal.pbio.2006265. 77:875–888.https://doi.org/10.1016/s0306-4522(96)00483-6.
+March2021 Volume41 Issue5 e00660-20 mcb.asm.org 16
+.66.63.232.031
+yb
+2202
+rebmevoN
+20
+no
+bcm/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+
+---PAGE BREAK---
+

@@ -1,0 +1,2364 @@
+ReviewArticle
+The Endo-lysosomal System in
+Parkinson’s Disease: Expanding the
+Horizon
+⇑
+Amitha Muraleedharan and Benoˆıt Vanderperre
+Centred’ExcellenceenRecherchesurlesMaladiesOrphelines-FondationCourtoisandBiologicalSciences
+Department,Universite´duQue´beca`Montre´al,Canada
+Correspondence to Benoıˆt Vanderperre: vanderperre.benoit@uqam.ca (B. Vanderperre)@DrAmithaMurali1
+(A. Muraleedharan), @Benoit_VDP (B.Vanderperre)
+https://doi.org/10.1016/j.jmb.2023.168140
+Edited by J.-F.Trempe
+Abstract
+Parkinson’sdisease(PD) isthesecond mostcommon neurodegenerativedisorderafter Alzheimer’s dis-
+ease, and its prevalence is increasing with age. A wealth of genetic evidence indicates that the endo-
+lysosomalsystemisamajorpathwaydrivingPDpathogenesiswithagrowingnumberofgenesencoding
+endo-lysosomalproteinsidentifiedasriskfactorsforPD,makingitapromisingtargetfortherapeuticinter-
+vention. However, detailed knowledge and understanding of the molecular mechanisms linking these
+genes to the disease are available for only a handful of them (e.g. LRRK2, GBA1, VPS35). Taking on
+the challenge of studying poorly characterized genes and proteins can be daunting, due to the limited
+availability of tools and knowledge from previous literature. This review aims at providing a valuable
+source of molecular and cellular insights into the biology of lesser-studied PD-linked endo-lysosomal
+genes,tohelpandencourageresearchersinfillingtheknowledgegaparoundtheselesspopulargenetic
+players.Specificendo-lysosomalpathwaysdiscussedrangefromendocytosis,sorting,andvesiculartraf-
+ficking to the regulation of membrane lipids of these membrane-bound organelles and the specific enzy-
+maticactivitiestheycontain.Wealsoprovideperspectivesonfuturechallengesthatthecommunityneeds
+to tackle and propose approaches to move forward in our understanding of these poorly studied endo-
+lysosomal genes. This will help harness their potential in designing innovative and efficient treatments
+to ultimately re-establish neuronal homeostasis in PD but also other diseases involving endo-lysosomal
+dysfunction.
+(cid:1)2023ElsevierLtd.Allrightsreserved.
+Introduction sequencingtechnologieshaveallowedtheanalysis
+ofcohortsofincreasingsizeinGenome-WideAsso-
+Parkinson’s disease (PD) is the second most ciationStudies(GWAS),leadingtotheidentification
+common neurodegenerative disorder after ofever-increasingsinglenucleotidepolymorphisms
+Alzheimer’s disease, and its prevalence is (SNPs) that are associated with PD risk.3–5 Even
+increasing with age. Approximately 10–15% of thoughwestartseeingbelowthetipoftheiceberg,
+cases are familial, being linked to mutations in explaininggrowingpercentagesofthegeneticliabil-
+PD-related genes (e.g. SNCA, VPS35, LRRK2, ityofPD,alargeproportionofpotentiallysignificant
+PRKN (Parkin), PINK1, PARK7 (DJ-1)),1,2 while riskfactorsremaintobeidentifiedandconfirmedin
+the rest of cases are sporadic and influenced by diverse cohorts. In addition, synergistic effects of
+individual genetic risk, environmental factors, or a genetic variants with limited individual effects,6 or
+combination thereof.2 The recent advances in theexistenceofvariantsthataffectthepenetrance
+0022-2836/(cid:1)2023ElsevierLtd.Allrightsreserved. JournalofMolecularBiology435(2023)168140
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+of another one,7 highlight how genetic modifiers lysosomal genes within these loci as well. Given
+bring an additional layer of complexity that geneti- the high number of lesser-studied genes in PD,
+cistsarebeginningtoexplore. and to maintain the focus on the endo-lysosomal
+Despite inherent challenges, GWAS and other system, we excluded genes encoding proteins
+genetic studies have provided extensive and strictlyrelatedtoautophagy,endoplasmicreticulum
+crucialinformationtothecommunityongenesand or Golgi. The discussed genes, their molecular
+pathways driving PD pathogenesis. Notably, a functions, and some of the associated genetic evi-
+clear enrichment for genes encoding endosomes dencearesummarizedinTable1.Thisreviewaims
+and/or lysosomes localized proteins has been atprovidingavaluablesourceofmolecularandcel-
+observed.4,8–10 As is the case for other age- lular insights into the biology of lesser studied PD-
+related neurodegenerative proteinopathies, PD is linked endo-lysosomal genes, at placing them in
+tightly associated with a progressive decline in the the cellular landscape of trafficking (Figure 1) and
+ability of brain cells to degrade, discard or recycle lysosomal function (Figure 2) and identifies key
+defective cellular componentssuch as depolarized challengesthatneedtobetakenonbythecommu-
+mitochondria,11,12misfolded/aggregatedproteins,13 nity to fill this knowledge gap. This will help and
+andlipids.14,15Defectsinintracellularvesiculartraf- encourageresearcherstoharnessthefulldepth of
+ficking can lead to improper sorting or delivery of genetic clues and scrutinize these less popular
+cellularmaterialtargetedfordegradation.16,17Neu- geneticplayers.
+rons and especially dopaminergic neurons of the
+substantia nigra pars compacta (SNpc) that are
+Lesser studied genes of the endocytic
+selectively vulnerable in PD, have a highly arbor-
+and endosomal machinery in PD
+ized architecture that renders them particularly
+dependent on adequate vesicular trafficking to
+Several GWAS studies have identified genes of
+eitherensuredeliveryofcargoestargetedfordegra-
+dationintolysosomesinthesoma18ortargetingof theendocyticand endosomalsystemsaspotential
+risk factors that can contribute to Parkinson’s
+soma-derived degradative lysosomes to distal
+axons.19 In addition, proper delivery or activity of disease etiology. Some of the lesser-studied
+genes are discussed in this section, classified by
+factors and enzymes implicated in the maturation
+functionalcategories.
+and degradative capacity of lysosomes are also
+key to ensuring the removal of potentially harmful
+materialfromthecells.20–22Finally,faileddegrada- Rab GTPases
+tionofcellularcomponentswillcausetheiraccumu-
+The Ras-associated binding protein (Rab) family
+lation, in turn affecting trafficking and the general
+of small GTPases has recently emerged as a
+degradativecapacityofthecell.23–25Thesemecha-
+major player in PD pathology. Rabs maintain
+nisms likely occur in both familial and sporadic
+neuronal vesicular trafficking as well as synaptic
+forms of PD, although to varying degrees, and
+architecture and integrity in the central nervous
+becauseoftheircomplexity,itisnotsurprisingthat
+system.27 About60Rabs have beendiscoveredin
+many different genetic variations can contribute to
+eukaryotespointingtowardstheirkeyroleincellular
+thedisease.
+physiology. Rab39B, which controls the antero-
+Currently,wehaveadecentunderstandingofthe
+grade transport of vesicles, is the most defined/
+molecular involvement in PD of only a few PD-
+studied risk gene in familial PD in the Rab
+linked endo-lysosomal genes: mostly those
+family.27,28
+causing familial PD and the most common risk
+factors (SNCA, VPS35, LRRK2, PRKN, PINK1,
+PARK7 (DJ-1)). However, this has not yet RAB29. GWASstudiesidentifiedriskvariants in
+the RAB29 gene (PARK16 risk locus) in different
+translated into disease-modifying therapy, and a
+ethnicities.29RAB29playsaroleintheLRRK2path-
+better understanding of the lesser studied PD-
+way of PD pathogenesis. LRRK2 (leucine-rich
+linked genes in general (and endo-lysosomal
+repeat kinase 2, PARK8) is one of the most com-
+genes in particular) appears essential to grasp the
+mon autosomal-dominant genetic causes linked to
+complexity of the mechanisms underlying PD
+familialPDandhasalsobeenshowntohaveacau-
+pathogenesis. As in other fields of biomedical
+sal effect in sporadic PD.30,31 Mutations in LRRK2
+research, the study of these genes is lagging
+behind mainly due to historical bias.26 For the pur- accountsfor5–13%offamilialPDand1–5%ofspo-
+radicPD,whichcanvarydependingonthepopula-
+pose of this review, we focused on lesser-studied
+tion studied. In the North African Berber and
+PD-associated endo-lysosomal protein-coding
+Ashkenazi Jewish patient populations, this propor-
+genes with a low number of research articles
+tionrisestoupto40%ofcases.Thegeneticasso-
+describing how they are implicated in disease at
+ciation between LRRK2 and PD is complex, with a
+the molecular level. Notably, because some SNPs
+lot of variation in penetrance depending on the
+in PD-linked loci could affect several genes, we
+specific familial mutations. As such, LRRK2 can
+decided to be permissive and discuss not only the
+be considered as both a gene that causes familial
+most likely candidate per locus but other endo-
+PD,butalsoamodifierofthelifetimeriskofdevel-
+2
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Table1Summaryoflesser-studiedendo-lysosomalgenesdiscussed,themolecularfunctionoftheproteintheyencode,
+and some of the genetic evidence linking them to PD. * OR=odds ratio; the 95% confidence interval is mentioned in
+parntheses.For other abbreviations, refertoabbreviations list.
+Gene Molecularfunction PDassociation
+Endocyticandendosomalmachinery
+1. RabGTPases
+i) RAB29/ functionstorecruitLRRK2tooverloadedlysosomesandthetrans- GWAS29
+PARK16 Golginetwork(TGN),andstimulatingitskinaseactivity rs947211
+OR=0.91(0.88–0.94)GWAS43
+rs823156
+OR=0.74(0.68-0.81)
+ii) RAB25 promotesthereroutingofintegrinsandreceptortyrosinekinases GWAS43
+towardstheplasmamembranethroughlateendosomalrecycling chr1:154105678
+OR=1.73(1.43–2.02)
+OR=1.67(1.41–1.98)303
+GWAS3
+rs34372695
+OR=0.66(0.60–0.74)
+2. ESCRT
+i) VPS37B involvedintheendocytictargetingofubiquitinatedproteintoMVBs GWAS303
+rs12817488
+OR=1.17(1.09–1.25)
+ii) VPS25 involvedinregulatingtheendocytictargetingofubiquitinatedproteins GWAS
+toMVBs rs14461024443
+iii) CHMP2B mediatestherecruitmentofVps4andinitiationofESCRTcomplex GWAS
+dissociation rs11133841943
+3. Inositol
+Phosphatases
+i) INPP5F dephosphorylationofPI(4,5)P phosphoinositidetopreventits GWAS3
+2
+accumulationintheendosomalmembrane rs117896735
+OR=1.624
+PD-GWASgeneprioritization
+WPPINA105
+ii) SYNJ1/ adualphosphatasewithaSac14-phosphatasedomainanda5- c.773G>A,p.Arg258Gln
+PARK20 phosphatasedomainthatdephosphorylatesPI(4,5)P genome-widehomozygositymapping
+2
+phosphoinositideinearlyendosomes andexomesequencing304,305
+4. Othervesiculartraf-
+fickinggenes
+i) SH3GL2 endocyticadaptorproteincriticalforclathrin-dependentand Two-stagemeta-analysisGWAS66
+independentendocytosis rs13294100
+OR=0.92(0.89–0.94)
+ii) TMEM230 predominantlyco-localizeswiththeTGN-enrichedproteinsyntaxin6 Wholeexomesequencing72
+(STX6),andisinvolvedinvesicletrafficking WEGWGS74
+iii) SYT11 showntolimitmembraneinvaginationensuringprecisioninvesicle GWAS3
+retrieval rs34032320
+OR=0.52(0.45–0.60)
+iv) GAK facilitatestheclathrinuncoatingofvesiclesintraffickingby GWAS3,303
+phosphorylatingthecoatadaptorcomponent,AP2M1 rs1564282
+OR=1.24(1.17–1.31)
+v) SCAMP3 involvedintheregulationofmorphologyandcompositionof PD-GWASgeneprioritization
+endosomes WPPINA105
+Lysosomal
+machinery
+1. Ceramide
+metabolism
+i) PSAP cleavageproductsgiverisetothesphingolipidactivatorproteins/SAP PSAPc.1358A>C,p.Q453P
+(saposins)A,B,C,andDthatregulatesphingolipidmetabolism Wholeexomesequencing126
+ii) SCARB2 encodesthelysosomemembraneprotein2(LIMP-2)thattrafficks GWAS3,4
+GCasefromtheERthroughtheGolgiandendosomestothe rs6825004
+lysosomes OR=0.92(0.89–0.95)
+iii) ATP10B P4-typeATPasethatactsasalipidflippaseinlate-endo-lysosomes Wholeexomesequencing140
+totranslocateGlcCerandphosphatidylcholine(PC)fromtheluminal
+tothecytoplasmicleafletofthelate-endolysosomalmembrane
+iv) GALC encodesGalCase,anenzymeresponsibleforhydrolyzingGalCerand Two-stagemeta-analysisGWAS66
+galactosylsphingosineGalSph rs8005172
+OR=1.08
+(continuedonnextpage)
+3
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Table1(continued)
+Gene Molecularfunction PDassociation
+v) GLA encodesa-GalAhydrolyzesterminalgalactosylresiduesfromvarious Bi-directionalsequencing148
+complexglycoconjugatedceramidesinlysosomes
+vi) ARSA encodesArylsulfataseA,alysosomalhydrolasethatconverts BurdenanalysisSKAT-Otest,meta-
+sulfatides,amajorcomponentofmyelin,togalactosylceramides analysis154
+vii) ASAH1 encodesAcidCeramidase(aCerase)thathydrolyzesCertoSphand Whole-exomesequencing8
+freefattyacid P=0.031
+viii) SMPD1 Acidsphingomyelinase(ASMase),encodedbySMPD1,converts Whole-exomesequencing8
+sphingomyelintoCerandphosphorylcholine P=0.029
+ix) HEXA/B b-hexosaminidase(HEX)isresponsibleforthehydrolysisofthe Whole-exomesequencing8
+glycosphingolipidgangliosideGM2
+2. Cholesterol
+metabolism
+i) NPC1/2 Involvedinthesensingandtransportofcholesterol HeterozygousmutationsinNPC
+patientswithParkinsonism178
+NPC1/2genotypinginPDpatients
+(notsignificant177
+ReviewedinSchneideretal.183
+3. Glycosaminoglycan
+metabolism
+i) NAGLU N-acetylglucosaminidase:hydrolysestheterminalN-acetyl-D- GWAS3
+glucosamineresiduesinHS rs601999
+OR=0.92(0.89–0.95)
+ii) IDUA iduronidasethathydrolyzesterminalunsulfatedalpha-L-iduronosidic GWAS3
+linkagesinDSandHSpromotingthedegradationoftheseGAGs rs34311866
+OR=1.26(1.22–1.31)
+iii) GUSB hydrolaseb-glucuronidase,ahomotetramer,whichremoves GWAS4
+glucuronicacidfromGAGssuchasHS
+iv) ARSB ArylsulfataseBhydrolyzesN-acetyl-D-galactosamine4-sulfateunitsin WESLoFvariantanalysis
+GAGs rs138279020200
+4. Sialic acid
+metabolism
+i) NEU1 Catalyzestheremovalofsialicacid(Neu5Ac)residuesfrom GWAS3
+glycoproteinsandglycolipids rs9267649
+OR=1.10(1.06–1.15)
+ii) SLC17A5 proton-coupledexporterofsialicacid(Neu5Ac)andotheracidic Whole-exomesequencing8
+hexosesfromthelysosomes P=0.005
+5. Peptidemetabolism
+i) GRN InvolvedinlysosomaldeliveryandactivationofGCaseandother GWAS3
+lysosomalenzymes rs5848
+OR=1.10(1.05–1.15)
+ii) Cathepsins
+a. CTSB lysosomalproteaseofthepapainfamilyhavingendopeptidaseand Two-stagemeta-analysisGWAS66
+dipeptidylcarboxypeptidasefunction rs2740594
+OR=1.09(1.07–1.12)
+b. CTSD lysosomalasparticproteaseinvolvedinthelysosomalrecyclingand Whole-exomesequencing8
+degradationofmanysubstrates,includinga-syn P=0.002
+iii) ABCB9 transportpolypeptides6-59aminoacidslongfromthecytosolicspace GWAS303
+intothelysosomallumen rs12817488
+OR=1.17(1.09–1.25)
+6. IonChannels
+i) TMEM175 K+channellocatedinlateendosomesandlysosomeshelpsmaintain Two-stagemeta-analysisGWAS66
+optimumpH rs34311866
+OR=1.23(1.20–1.27)
+ii) ATP6V0A1 acomponentofvacuolarATPase(V-ATPase),amultisubunitproton GWAS3
+pumpthatmediatestheacidificationoforganelles rs34779517
+OR=0.91(0.88–0.94)
+Two-stagemeta-analysisGWAS66
+rs601999
+OR=NA
+iii) ATP6V1D containstheATPcatalyticsiteforthetransportofH+tomediatethe GWAS43
+acidificationofendo-lysosomes rs10144002
+Otherendo-
+lysosomalgenes
+4
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Table1(continued)
+Gene Molecularfunction PDassociation
+1. VAMP4 recruitmentofclathrinadaptorproteins;TGN-from/to-endosome GWAS4
+vesicletransport rs11578699
+OR=0.93(0.91–0.95)
+2. VTI1B partofaproteincomplexthatisrequiredforlateendosome-lysosome GWAS3
+membranefusion rs10913565
+OR=0.91(0.88–0.95)
+3. SPPL2B memberoftheGXGDfamilyofasparticproteasesmediatethe WGS-basedimputationandanalysis
+sheddingofseveralsubstratesallbelongingtotype2transmembrane ofexistingexomegenotypedata306
+proteinsubfamily rs62120679
+OR=1.097
+4. ZFYVE26 SPASTIZINhypothesizedtorecruitBeclin1andotherpartners GWAS3
+involvedinautophagosomematuration rs2057119
+OR=0.96(0.92–0.99)
+5. ATP11B catalyticcomponentofaP4-ATPaseflippasecomplexthattransports GWAS3
+aminophospholipids,PS,andPE,fromtheoutertotheinnerleafletof
+intracellularmembranes
+6. CLCN3 encodestheClC3vesicular2Cl(cid:2)/H+exchangerthatmaintainstheion GWAS4
+homeostasisandacidityintheendosomallumen rs62333164
+OR=0.94(0.92–0.96)
+oping PD. Point mutations (G2019S, I2020T, Thr71wasshowntobethemajortargetresidueof
+R1441C/G/H,Y1699C,andN1437H)intheLRRK2 LRRK2 kinase activity when in a GTP-bound
+functional enzymatic domains result in autosomal state.35 Recent work by the Holzbaur team eluci-
+dominant PD. Some rare LRRK2 point mutations dated the mechanism of physiological dysfunction
+such as I2020T appear to be highly penetrant, in neurons by Rab29/LRRK2. The LRRK2
+whereas the common G2019S LRRK2 mutation is G2019S hyperactive mutant or the Rab29-induced
+just moderately penetrant. LRRK2 missense vari- LRRK2hyperactivitywasshowntodisrupttheretro-
+ants G2385R and R1628P are associated with gradeaxonaltransportofautophagosomesbycre-
+increasedPD risk in HanChinese populations, but ating an imbalance in motor protein activity. This
+other haplotypes (e.g. N551K-R1398H) present resulting accumulation of autophagosomes could
+with lower sporadic PD risk. The presence of the explain neuronal death in PD.39,40 Since a role for
+G2019S mutation in the kinase domain of LRRK2 Rab29asthemasterregulatorofLRRK2hasbeen
+hasbeendemonstratedtogiverisetoahyperactive defined (which was recently challenged by Karo-
+kinase displaying increased autophosphorylation gelopulou et al.,41 targeting the activity of Rab29
+andsubstratephosphorylation.32–34 mightbeatherapeuticoptiontotreatLRRK2auto-
+LRKK2 phosphorylates most Rabs, including somal dominant cohort of PD-affected patients
+Rab29. However, Rab29 also functions upstream and sporadic patients with hyperactive LRRK2.
+of LRRK2 by binding to its N-terminus ankyrin Interestingly, another recent study showed that
+domain, recruiting it to overloaded lysosomes and RAB29 positively modulates the pathogenic
+the trans-Golgi network (TGN), and stimulating its G2019S LRRK2-mediated non-Golgi-related traf-
+kinase activity.27–28,35 Rab29 was shown to have ficking deficits, highlighting the possibility that
+a poor affinity to GTP and its GTPase activity did RAB29 may play additional physiological roles
+notaffectLRRK2bindingsuggestingthatitsregula- important for proper endo-lysosomal trafficking
+tion on LRRK2 activity functions differently from unrelatedtoitsproposedroleasaLRRK2activator
+other Rabs. Pathogenic LRRK2 (R1441G/C and at the Golgi.42 Further studies in animal models
+Y1699C mutants) are more readily recruited to the need to beundertaken to authenticate Rab29 as a
+GolgibyRab29.36Rab29KOmicedisplayedasim- potentialtargetofintervention.
+ilarhistologicalphenotypeasLRRK2KOmice,with
+an accumulation of secondary lysosomes in the
+proximal tubules of the kidney.37 Rab29[T71A, RAB25. Meta-analysis of genetic association
+studies in PD patients have shown a significant
+S72A] non-phosphorylable mutant did not affect
+associationofSNPsfromtheSYT11-RAB25locus
+LRRK2 activation but Rab29[T71E, S72E] phos-
+with PD risk.43 Especially, RAB25 is the closest
+phomimeticabolisheditsabilitytoactivateLRRK2,
+gene to the significant SNP rs34372695 (odds
+which may be due to its inactivation. This mimics
+ratio=0.66; 95% confidence interval=0.60–
+a negative feedback loop where LRRK2-mediated
+0.74),3beinglocatedjust914bpdownstreamofthis
+Rab29 phosphorylation prevents Rab29 from acti-
+vating LRRK2.36 While Rab290s residue Ser72 SNP.43 Whether and how that and other SNPs
+was suggested to influence TGN morphology,38 affect RAB25 expression and/or function remains
+tobedetermined.
+5
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Together with Rab11a, and Rab11b, Rab25 is a K+ ATPase, and secretory carrier proteins
+member of the Rab11 subfamily. These Rabs (SCAMPs).45 By promoting the rerouting of inte-
+regulate the recycling of plasma membrane- grins and receptor tyrosine kinases towards the
+associated proteins following their internalization. plasma membrane through late endosomal recy-
+Rab250s GTP binding domain carries a novel cling, Rab25 prevents the lysosomal degradation
+sequence WDTAGLE, that differs from the Rab of proteins. This function of Rab25 was shown to
+family consensus WDTAGQE sequence by a Q to depend on the presence of the late endosomal
+L substitution.44 Rab25 is localized in the and lysosomal factor CLIC3.45 The function of
+membrane-associated recycling vesicular struc- Rab25 in PD still remains unclear. Strategies that
+tures of neurons that are positive for VAMP-2, H+/ modulate Rab25-dependent protein–protein inter-
+6
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+actions and function will be key to understanding TSG101/ESCRT-Iactivityandpromotethebudding
+theroleofthisprotein. of HIV-viral particles from Cos-7 cells.49 We pro-
+pose the hypothesis that this protein is involved in
+the egress of a-syn from neurons promoting trans-
+ESCRT
+cellpropagationofa-synaggregatesinPDaffected
+The molecular machinery known as Endosomal brains, similar to its involvement in viral propaga-
+Complexes Required for Transport or ESCRT tion.Arecentstudyshowedthatthepharmacologi-
+recognizes ubiquitinated proteins in early cal or genetic inhibition of p38MAPK in primary
+endosomes and multivesicular bodies (MVBs). cortical neurons expressing p25a and a-syn
+The proteins belonging to this family were termed induces ESCRTI-dependent degradation of a-syn.
+Vps (vacuolar protein sorting). The ESCRT This alleviated accumulation of a-syn and
+system comprises four different protein autophagosomes,decreasedsynucleinopathictox-
+complexes, namely ESCRT-0, -I, -II, and -III, and icity,whileloweringtheamountofsecreteda-synin
+the Vps4 ATPase complex. ESCRT-0 first aTSG101-dependentmanner.50
+recognizes the ubiquitinated proteins and the
+other complexes are sequentially recruited to the VPS25. Belonging to the ESCRT-II complex,
+endosomal membrane via protein–protein Vps25(alsotermedEAP20)appearsasa dimerin
+interactions. While ESCRT-I and -II further the heterotetrameric complex. Vps25 is also
+concentrate ubiquitinated proteins, ESCRT-III involved in regulating the endocytic targeting of
+along with Vps4 ATPase complex participates in ubiquitinated proteins to MVBs. Deletion of Vps25
+the budding and abscission of intraluminal resulted in the complete blockade of Avian
+vesicles (ILVs) of MVBs from the endosomal sarcoma virus budding from 293/E cells.51 Similar
+membrane thereby completing MVB biogenesis. to Vps37b, Vps25 could also be hypothesized to
+The ESCRTs are recycled into the cytoplasm by beinvolvedina-synreleaseandpropagation.
+the action of ATPase Vps4 and co-factor Vta1.46–
+47 In the context of PD, the uptake of a-syn aggre-
+CHMP2B. Belonging to the ESCRT-III complex,
+gates in B103 neuroblastoma cell line is at least in
+CHMP2 has two isoforms: A and B. CHMP2
+part by clathrin-mediated endocytosis. These
+mediates the recruitment of Vps4 and initiation of
+aggregates are subject to ESCRT-mediated traf-
+ESCRT complex dissociation. In neurons, it is
+fickinginMVBsanddegradationinlysosomes.48
+associated postsynaptically with the cytoskeleton
+andisthoughttostrengthenthedendriticspines.52
+VPS37B. Vps37isoneofthefoursubunitsofthe CHMP2B mutations are reported to cause autoso-
+ESCRT-I complex. Vps37 has four isoforms (A, B, mal dominant frontal temporal dementia (FTD) in
+C, and D). Vps37b positively regulates the viral humans.53 Mutated CHMP2B causes the death of
+budding via host ESCRT machinery. It is involved cortical neurons in culture as a result of dendritic
+in the endocytic targeting of ubiquitinated protein retraction, and accumulation of ubiquitinated pro-
+toMVBs.49ItwasshownthatVps37bcouldrecruit teins and autophagosomes.54 Several immunohis-
+Figure1. PD-linked,understudiedplayersofendocyticandsecretorytraffickingpathways.Synapticvesicle
+(SV)formationandfission:Syt11inhibitsendocytosisandvesiclereplenishmentbylimitingmembraneinvagination.
+VAMP4 recruits clathrin adaptor proteins, while EndoA1 induces membrane curvature and recruits downstream
+factors required for fission and/or uncoating such as Synj1. The latter dephosphorylates PI(4,5)P to facilitate the
+2
+uncoating of SV. GAK also facilitates the uncoating of clathrin by phosphorylating a coat adaptor component.
+Endosomeshomeostasis:Theendosomesmembranelipidcomposition,whichiscrucialtomaintaintheidentityand
+functionalityofthismembrane,isregulatedbyflippasecomplexesthatcontaintheATP11B(earlyendosomes,EE)or
+ATP10B (late endosomes, LE) subunits. PIP phosphatases Synj1 and Sac2 also contribute to this regulation. The
+ClC3 2Cl(cid:2)/H+ exchanger regulates the acidity of the endosomal compartment. Sorting in late endosome: Rab25
+regulates the recycling of internalized membrane-associated proteins to the plasma membrane. The ESCRT
+complexes components VPS37, VPS25, and CHMP2B facilitate the targeting of ubiquitinated proteins to
+multivesicular bodies (MVB). The retromer complex component VPS35 regulates retrograde trafficking from
+endosomestoGolgi,andTMEM230mayparticipateinthatprocesstogetherwithRab8aandLRRK2.Golgitrafficking
+andsecretoryautophagy:TMEM230,togetherwithRab8aandLRRK2,convergeonregulatingGolgi-derivedvesicle
+traffickingandsecretoryautophagy.TheGolgiv-SNAREVAMP4interactswithLRRK2toregulatemembranefusion
+during retrograde trafficking from endosomes to Golgi. Rab29 can recruit and stimulate the LRRK2 kinase at the
+trans-Golgi network. Lysosome homeostasis: Rab29 can also recruit and stimulate LRRK2 at the surface of
+overloaded lysosomes, facilitating the release of lysosomal content into the cytosolic space. Autophagosome
+maturation:ZFYVE26(SPASTIZIN)inducesautophagosomematurationbybindingtoPI3Patthesurfaceofforming
+autophagosomes,andrecruitingBeclin1andothermaturationfactors.Intramembranecleavage:Neuronsenriched
+SPPL2B performs intramembrane cleavage of several substrates, including TNF-alpha. It also cleaves vesicular
+trafficking regulators VAMP1,2,3, and4,regulating their turnover.
+7
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+tochemicalstudiesonpatientbrains have reported ofCHMP2Binthehippocampuscausedrapidclear-
+CHMP2Bimmunoreactivityinintracytoplasmicand anceofa-synaggregatesandameliorationofneu-
+axonal Lewy bodies in a-synucleinopathies includ- rodegenerative pathology in a mouse model
+ing PD and dementia with Lewy bodies (DLB).55,56 overexpressing human a-syn from the murine
+Overexpressionorknock-downofCHMP2Binneu- Thy1 promoter.48 On the contrary, siRNA-induced
+ronal B103 cells decreased or increased the accu- depletion of CHMP2B increased exocytosis and
+mulation of a-syn oligomers respectively.57,57 It intercellular propagation of a-syn aggregates in
+was also reported that a-syn aggregates disrupt B103 neuroblastoma cell lines and primary mouse
+the ESCRT-III complex causing a-syn exocytosis corticalneurons.47,48
+resultingincell–cellpropagation.48Overexpression
+8
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Inositol phosphatases cling.60Sac2mRNAishighlyenrichedinthebrain,
+while Sac2 protein interacts with Rab4 and Rab5
+Inositol phosphatases belong to the family of
+and is preferentially expressed in neurons.60,61
+phosphodiesterases and are involved in the
+Sac2 was recently identified as a risk locus in PD
+phosphatidylinositol signaling pathway. bytheGWASstudyconductedbyNallsetal.4
+Phosphatidylinositol phosphates (PIPs) are
+phosphorylated derivatives of the membrane
+phospholipid, phosphatidylinositol (PI) which is
+synthesized at the endoplasmic reticulum from the SYNJ1. Synaptojanin1 (Synj1, PARK20) is a
+precursor glucose-6-phosphate. The subcellular dual phosphatase with a Sac1 4-phosphatase
+membranes of different cell organelles have domain and a 5-phosphatase domain that
+varying PIP compositions providing a unique lipid dephosphorylate PI(4,5)P phosphoinositide in
+2
+signature that aids in targeting the delivery of early endosomes. Synj1 has a highly variable C-
+proteins to specific organelles and facilitates terminal proline-rich domain for endoA1-mediated
+cellular processes. PI makes up to 10–20% of the recruitment in SV endocytosis.62 The most estab-
+total mammalian membrane, but the total levels of lished function of Synj1 is in the clathrin uncoating
+PIPs are maintained at very low levels of synaptic vesicles.58 The R258Q inactivating
+(approximately 2–5% of PI) suggesting a high homozygous missense mutation in the highly con-
+regulation in synthesis, maintenance, and turnover served Sac inositol phosphatase domain of Synj1
+ofPIPsresultinginafine-tuningofPIsignaling.58 causes early-onset Parkinsonism (EOP) with
+epilepsy.61,63Adifferentiallyexpressedgeneanaly-
+sisstudyalsopointstowardsSynj1asariskfactor
+INPP5F. INPP5Fwasrecentlyidentifiedasarisk for PD.64 Synaptojanin1 (Synj1) is a dual phos-
+locusinPDbytheGWASstudyconductedbyNalls phatase with a Sac1 4-phosphatase domain and a
+etal.4INPP5FencodesSac2,amemberoftheSac 5-phosphatase domain that dephosphorylate PI
+familyofinositolphosphatases.Sac2isreportedto (4,5)P phosphoinositideinearlyendosomes.Synj1
+2
+act as a PI4 phosphatase. It colocalizes with the hasahighlyvariableC-terminalproline-richdomain
+earlyendosomesandaidsinthedephosphorylation for endoA1-mediated recruitment in SV endocyto-
+of PI(4,5)P phosphoinositide to prevent its accu- sis.62 The most established function of Synj1 is in
+2
+mulation in the endosomal membrane.59 Sac2 the clathrin uncoating of synaptic vesicles.58 The
+was shown to be selectively recruited to endocytic R258Q inactivating homozygous missense muta-
+cargoes (e.g. transferrin) that are programmed for tion in the highly conserved Sac inositol phos-
+recycling.60 INPP5F mRNA is highly enriched in phatase domain of Synj1causes early-onset
+the brain, while Sac2 protein interacts with Rab4 Parkinsonism (EOP) with epilepsy61,63 A differen-
+and Rab5 and is preferentially expressed in neu- tially expressed gene analysis study also points
+rons.60,61transferrin)thatareprogrammedforrecy- towardsSynj1asariskfactorforPD.64
+Figure2. UnderstudiedlysosomalproteinswithapotentialgeneticlinktoPD.Cholesterolhomeostasis:The
+transmembrane protein NPC1 senses cholesterol in the lysosomal membrane (and other membranes of the endo-
+lysosomal system), inducing budding for the ultimate delivery of cholesterol in target membranes. NPC2 transports
+cholesterolfromthedonortoacceptormembranes.Lysosomaldelivery:SCARB2mediatesthetraffickingofGCase
+through the secretory pathway for its delivery to the lysosomal lumen. Interaction between Prosaposin and
+Progranulin regulates their delivery to lysosomes by the sortilin SORT1. The ABCB9 transporter mediates the
+translocationof6–59aminoacidlongpeptidesfromthecytosoltothelysosomallumenfordegradation.Degradation
+of a-synuclein (a-syn): Cathepsins B, D, and L were shown to cleave a-syn, facilitating its clearance. Cathepsin D
+activity is positively and directly regulated by Ceramide, progranulin, and granulin E. Regulation of sphingolipid
+metabolismbySaposins(Sap-A/B/C/D):Prosaposinmaturesbyproteolyticcleavageinthelysosomes.CathepsinB
+favorsSap-Cmaturation.Sap-A,Sap-B,Sap-C,andSap-Dactbyfacilitatingtheactivityofvariousenzymesrelated
+to sphingolipid metabolism, including ceramide metabolism. Ceramide metabolism: A clear enrichment of genes
+encodingenzymesofthispathwayarefoundasriskfactorsforPD,includingGCase(glucosylceramidase),GalCase
+(galactosylceramidase),ASMase(acidsphingomyelinase),a-GalA(a-galactosidaseA),aCerase(acidceramidase),
+ArylsulfataseA,andHEX(b-hexosaminidase).Glycosaminoglycans(GAGs)metabolism:severalgeneslinkedtoPD
+are regulating GAGs metabolism in the lysosome. Their link to PD is unclear but it can be hypothesized that
+decreased GAGs degradation leads to reduced degradation of a-syn and its subsequent accumulation. Lysosomal
+acidity: Acting as a K+ “leak” channel, TMEM175 influences lysosomal pH (increased acidity upon TMEM175
+deficiency).The twov-ATPase subunits, ATP6V0A1andATP6V1D, arepart ofthe enzymaticcomplexresponsible
+for pumping protons into the lysosomal lumen. Miscellaneous: Progranulin and granulin peptides display anti- and
+pro-inflammatory properties respectively. This may not be via a lysosome-specific action, but rather following
+secretionintheextracellularspace.Gb3:globotriaosylceramide;GM2:GM2ganglioside;LacCer:lactosylceramide;
+GalSph: galactosylsphingosine; Sph: sphingosine; Gal: galactose; GalCer: galactosylceramide; GlcSph: glucosyl-
+sphingosine; GlcCer: glucosylceramide; Cer: ceramide;AA: amino acids.
+9
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Sac2andSynj10sSacdomainshaveoverlapping autosomal-dominant. Only a single missense vari-
+functions which suggest a compensatory effect in ant (c.422G>T, p.R141L) was confirmed to co-
+the absence of one of the two proteins. This is segregate with the disease.73 Whole-exome
+supported by findings that inactivation of Sac2 in sequencing and whole-genome sequencing analy-
+Synj1 R258Q PD mutants accelerates the sis of TMEM protein family genes also identified
+occurrence of neurodegeneration due to the linkage of three rare variants of TMEM230 with
+accumulation of endocytic factors in the axon PD.74However,severalstudiesindifferentcohorts
+terminals of dopaminergic neurons in culture and by other groups failed to identify the PD-linked
+insituinbrainssectionsfrommicemodels.61Synj1 mutationsinTMEM230.73,75Onestudyalsorejects
+wasshowntobeadirectsubstrateofLRRK2phos- the possibility of TMEM230 as a PD risk gene.76
+phorylationinvitroinmid-brainneurons,andphos- Thiscouldbeexplainedbythepresenceofalarge
+phorylationinitsproline-richdomainresultedinthe number of polymorphisms in the TMEM230 gene
+disruption of endophilin-Synj1 interaction required observed across various ethnicities and cohorts
+for SV endocytosis.65 LRRK2, endoA1, and Synj1 which could pose a challenge to a conclusive find-
+aresuggestedtoformatripartitesignalingcomplex ing.Theexactreasonsforthesediscordantfindings
+that controls synaptic membrane trafficking and willneedtobetackledbythePDgeneticscommu-
+autophagy,bothshowntobedisruptedinPD. nity.Here,wedecidedtodiscussthisgeneregard-
+less of the ongoing debate but encourage readers
+Other vesicular trafficking genes
+topayattentiontoitsresolutioninthefuture.
+Studies have reported that Transmembrane
+SH3GL2. SH3GL2, encoding endoA1, was Protein 230 (also termed C20orf30) is involved in
+recently identified in a meta-analysis of GWAS
+vesicle trafficking (secretion/recycling of vesicles
+studies as a novel risk factor for PD.66 Increased
+including synaptic vesicles in neurons), Golgi
+expression of endoA1 was causally linked to PD
+secretion, endosomal recycling, autophagy, and
+by a recent GWAS study conducted by Bandres-
+neurotoxicity. TMEM230 predominantly co-
+Ciga and colleagues.67 Located in Chr 9, the risk
+localizes with the TGN-enriched protein syntaxin 6
+loci rs10756899 near the SH3GL2 gene was the
+(STX6) but is also observed to localize with other
+top SNP out of the 15 SNPs in the region as
+vesicular proteins like VPS35, VMAT2, Rab5a,
+reported by Nalls et al.4 Mammalian endophilin A andRab11a.1,72,73
+consists of a family of three homologous proteins
+TMEM230 distribution was found to be confined
+encodedbythegenesSH3GL2(endoA1),SH3GL1
+to vesicular membrane structures in SH-SY5Y
+(endoA2), and SH3GL3 (endoA3). EndoA1 is the
+cells and mouse dopaminergic (DA) neurons of
+only brain-specific isoform and a well- theSNpc.72Amongthe two isoformsencoded,the
+characterized endocytic adaptor protein critical for
+shorterisoform-2accountsfor95%ofthetotalpro-
+clathrin-dependentandindependentendocytosis.62
+tein and harbors a highly conserved amino acid
+It coordinates synaptic vesicle (SV) endocytosis65
+sequencethatincludesitstwotransmembraneseg-
+and exocytosis68 at nerve terminals. It contains
+ments(TMS)aswellasN-andC-terminiexposed
+two domains: the N-terminal BAR allows detection
+to the cytosol. TMEM230 mRNA is highly
+and induction of membrane curvature, while the
+expressed in the neural tissuesof most mammals,
+C-terminal SH-3 domain acts as a protein hub,
+mainly detected in the midbrain, neocortex, and
+mediating protein interactions to orchestrate the
+spinal cord. TMEM230 has no reported sequence
+functions of factors that remodel the membrane homology to any known protein.1,72,73 More than
+andperformconstrictionandscission.68
+half of the reported mutations in TMEM230 are
+Lack of functional endophilins was shown to
+foundin and aroundthe TMSs.There isa growing
+cause accumulations of clathrin-coated vesicles at
+bodyofevidencethatTMEM230sharespathogenic
+the synaptic terminals of both invertebrate and
+pathways with vesicular trafficking proteins
+vertebrate models.69 Deletion studies on endoA1 encoded in PD-causing genes like a-syn, LRRK2/
+exhibited age-related motor impairments and pro-
+Rab8a, Vps35, and Pink1 suggesting its role in
+gressiveataxiainacerebellarataxiamicemodel.70
+PD-related neurodegeneration.72,77 TMEM230
+EndoA1 was shown to be a direct substrate of the
+was observed to be consistently colocalized with
+LRRK2 kinase in the neuromuscular junction of SNCA-positive Lewy bodies and Lewy neurites.72
+drosophila.71 Studies suggest that the LRRK2
+The function of the LRRK2 and Pink1 substrate
+G2019SmutationdisruptsSVrecyclinginthemid-
+Rab8 (involved in vesicle trafficking) was impaired
+brainDAneuronsofSYNJ+/(cid:2)
+micebyphosphorylat-
+when TMEM230 was mutated in HEK293-FT cells
+ing Synj1 and compromising its interaction with
+suggesting a shared pathway for TMEM230 and
+endoA1.65 SynJ1 being a close binding partner of
+Rab8ainthedevelopmentofPDandLewypathol-
+endoA1,62 places endoA1 in a common pathway ogy.77–79Apartialco-localizationofTMEM230with
+ofPDpathogenesiswhereLRRK2andSYNJ1sig-
+Vps35 (encoded by the VSP35 gene, in which
+nalingconverge.
+mutations cause autosomal dominant late-onset
+PD) was observed, suggesting they could act
+TMEM230. Four mutations in TMEM230 were togetherinregulatingretromertraffickingfunction.72
+reported by Deng et al.72 and suggested to be
+10
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+FurtherstudiesonTMEM230,usinggeneticanimal Bentoetal.revealedapositiveregulatoryrolefor
+modelsforinstance,needtobeundertakentocon- ATP13A2 on Syt11 expression levels: ATP13A2
+firmitsroleinPDincidenceandneurodegeneration. favors Syt11 expression via the TSC2/mTORC1/
+TFEB transcriptional axis, while it decreases
+Syt11 ubiquitination and subsequent proteasomal-
+SYT11. Synaptotagmins (Syts) are secretory dependent degradation. In HeLa cells,
+proteins composed of a short N-terminus, a
+perturbations in the ATP13A2-Syt11 pathway
+transmembrane domain, and an evolutionarily
+were linked to PD-relevant pathogenic events,
+conserved Ca2+ binding cytoplasmic tandem C2
+including dysfunction of lysosomes, autophagy,
+domain.80,81Sytsaremajorcomponentsofthevesi-
+and a-syn A53T accumulation.89 Although there
+cle trafficking machinery. Syt11 is a Ca2+- are contradicting claims about ATP13A2 and a-
+insensitiveform(duetoanaspartate-serinesubsti-
+syn aggregation, the leading hypothesis is that the
+tution in its C2A domain) that has recently been
+autophagy dysfunction caused by ATP13A2 loss
+implicated as a novel risk factor in PD.82 Studies causes the abnormal accumulation of a-
+reveal a function for Syt11 in a non-conventional syn.84,86,89,90
+vesicular pathway ensuring precision in vesicle
+retrieval and hence deemed essential for normal
+development, synaptic function, and memory for- GAK. The chromosome 4p16.3 region is one of
+mation.80,81 Syt11 is a substrate of Parkin (PRKN the strongest PD risk loci and comprises several
+candidate genes including GAK, TMEM175,
+gene, an E3 ubiquitin ligase in which loss-of-
+DGKQ,SLC26A1,andIDUA.91,92Theriskalleleof
+function mutations cause autosomal recessive
+the GWAS SNP rs1564282 in the GAK gene
+PD).ItwasshownthatSyt11wasanessentialcom-
+ponent in mediating Parkin-linked neurotoxicity.83 showed a marked association with susceptibility to
+familial and sporadic PD in Chinese, Taiwanese,
+Syt11 accumulation in DA neurons leads to late-
+and Caucasian populations.92–96 rs1564282 was
+onset neuronal loss and behavioral deficits in
+Syt11 overexpressing mice.83 In the dorsal root associated with an increase in the expression of
+several genes including SNCA in SNpc of PD
+ganglion and hippocampal neurons, Syt11 was
+patients.92,93
+shown to limit membrane invagination. This
+Cyclin G–associated kinase (GAK) (also known
+resultedinendocytosisinhibitionandreducedvesi-
+cle replenishment.81 Syt11 overexpression in mice as auxilin 2, a member of the Numb-associated
+kinase (NAK) family) is a ubiquitously expressed
+leadstodepressionofDAtransmissionandsubse-
+serine/threoninekinase.Byphosphorylatingacoat
+quent and progressive loss of DA neurons of the
+adaptor component, AP2M1, it facilitates the
+SNpc. Syt11 thus appears as an early player in
+geneticPDcases.83 clathrin uncoating of vesicles in trafficking. GAK
+was recently reported to have a role in a-syn
+Syt11 was also shown to interact (split-ubiquitin
+yeast two-hybrid84and be regulated by ATP13A2 expression and toxicity. GAK was shown to be
+required for CTSD maturation,97–99 the main lyso-
+(previouslyPARK9),whichismutatedinautosomal
+recessive early-onset PD.84 ATP13A2 encodes a somal enzyme involved in a-syn degradation,100
+but its involvement in the trafficking of CTSD from
+P5B-type ATPase, an integral 10-transmembrane
+TGN to lysosomes is controversial.97–99 GAK
+spanningATPasewhosefunctionwasrecentlyelu-
+knockdownina-synover-expressingHEK293cells
+cidated to be a late endo-lysosomal polyamine
+transporter.85DownregulationofATP13A2expres- increased cellular toxicity and total a-syn protein
+levels.93 GAK was shown to form a complex with
+sionlevelsorloss-of-functionofATP13A2resulted
+the well-studied PD-risk protein kinase LRRK2,
+in lysosomal dysregulation characterized by
+which has been implicated in the trafficking of
+impaired substrate degradation and autophago-
+Golgi-derived vesicles to the lysosomal-autophagy
+some clearance in DA neurons, while also leading
+to a-syn misfolding and accumulation84. The system.101 GAK was also shown to have a co-
+chaperone function with Hsp70 for clathrin uncoat-
+polyamines were shown to induce cytotoxicity
+ing during endocytosis in non-neuronal and neu-
+which was exacerbated by lysosomal dysfunction
+due to ATP13A2 loss.85 Deficiency of ATP13A2
+ronalcells.102–104
+and familialATP13A2mutations were demon-
+strated to induce a-syn aggregation, membrane SCAMP3. SCAMP3 was reported to be a novel
+association and multimerization in primary cortical candidate PD risk gene by a protein interactome-
+neurons and SH-SY5Y neuroblastoma cells.84,86 based approach on candidate genes from GWAS
+This has however been challenged. A study in risk loci.105 SCAMP3 isanintegralmembrane pro-
+ATP13A2 KO mice found no a-syn positive Lewy tein belonging to the carrier membrane protein
+bodies even in aged animals, and this KO did not (SCAMP) family. This family consist of 5 isoforms;
+exacerbate neurodegeneration nor a-syn insolubil- SCAMPs 1–3 being the longer isoforms, while
+itywhencombinedtoa-synA53Toverexpression.87 SCAMP4and5areshorter.SCAMPSareinvolved
+a-syn aggregation was also not found in the post- intheintracellulartraffickingofdiversetransporters
+mortem brain of an ATP13A2-linked Kufor-Rakeb andreceptors,viatheirinteractionwithfactorsimpli-
+patientwithParkinsonism.88 cated in protein sorting and vesicle formation.106
+11
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+SCAMP3wasrecentlyshowntobeanovelplayerin Mutations in the lysosomal enzyme
+the regulation of morphology and composition of glucocerebrosidase (GCase encoded by the
+endosomes. It has also been shown to modulate GBA1 gene) that breaks down GlcCer to glucose
+EGFR turnover by ubiquitination and interaction and Cer cause the most common LSD Gaucher’s
+with ESCRT components.106 No molecular role for Disease in homozygosis while increasing the
+SCAMP3inPDhasbeendescribedsofar. lifetimeriskofPDto5-foldinheterozygosis.115This
+increasedprevalenceofPDintheGBA1heterozy-
+gous carriers was first observed in the Ashkenazi
+Lesser studied lysosomal genes in PD Jewish population.116 Another established
+autosomal-dominantriskfactoristheLRRK2gene,
+Substantial evidence from cell biology, genetics,
+and mouse models deficient in LRRK2 displayed
+andGWASidentifiesthedysfunctionoflysosomes
+changesinsphingolipidcompositionandincreased
+as a primary cellular mechanism in PD Cerlevels.117GeneticevidencefromrecentGWAS
+susceptibility and pathology.107,108 The strong
+studies links several PD risk genes to Cer biology.
+genetic evidence linking Gaucher’s disease (GD,
+These potentially PD-causing but sparsely studied
+anautosomalrecessivelysosomalstoragedisorder
+genes implicated in Cer metabolism will be dis-
+(LSD) caused by the loss of function of the gluco-
+cussedinthefollowingsection.
+cerebrosidase gene, GBA1) and PD risk raises
+the intriguing hypothesis that the LSDs and PD
+could share a common pathogenic mechanism. PSAP (Prosaposin). Prosaposin is a highly
+GBA1 mutation carriers have a 5–6 fold increased conserved glycoprotein whose cleavage products
+risk to develop PD but display low penetrance. A give rise to the sphingolipid activator proteins/SAP
+study combining whole exome sequencing and (saposins) A, B, C, and D.118 GM2A or SAP-3 is
+exome-wide genotyping has identified (cid:3)54 LSD also considered a member of the SAP family.119
+genes as attractive candidate risk factors for PD.8 Localizedprimarilyinthelysosomalcompartments,
+Multiple lysosomal pathways and functions could saposins facilitate the catabolism of glycosphin-
+be affected due to mutations in lysosomal genes golipids by lysosomal hydrolases. They act by iso-
+culminatinginPDpathology. lating the lipid substrate from the surrounding
+membrane thereby orchestrating its access to
+degradative hydrolytic enzymes. Saposin C is
+Ceramide metabolism
+showntoberequiredforGCaseactivityanditsdefi-
+Ceramides (Cer) are a collective of bioactive ciency causes Gaucher’s Disease.120 Mutations in
+lipids that belong to the class of sphingolipids SaposinD,alysosomalacidceramidase(aCerase)
+composed of a sphingosine moiety and fatty activator, cause a rare variant type of Gaucher’s
+acid.109,110 The brain has the highest proportion of Disease.121,122 Saposin B whose deficiency is
+lipid content and the lipid rafts in the neuronal known to cause metachromatic leukodystrophy
+plasma membrane are enriched in Cer.109 Cer is (MLD),promoteshydrolysisofsulfatidesbyArylsul-
+also the backbone of glycosphingolipids (GSLs) fatase A (ARSA) and globotriaosylceramide (Gb3)
+thataresynthesizedbythelinkingofthehydropho- by a -Galactosidase A (GLA),123 while saposin A
+bicceramidemoietytothehydrophilicglycanhead maycauseatypicalKrabbe’sDisease(KD)presum-
+group and constitutes cerebrosides, globosides, ably due to altered galactosylceramidase (GALC)
+and gangliosides.111 In addition to shaping the cell activity.118,124,125 Recently studies were conducted
+membrane, Cer also acts as bioactive molecules in various cohorts and ethnic groups around the
+taking part in critical cellular events. For instance, world to explore the genetic role of PSAP variants
+Cer accumulation induces death in dopaminergic in PD. Oji et al.126 were the first to provide novel
+neurons by inhibiting the PI3K/AKT survival path- genetic evidence for the contribution of saposin D
+way and activating BAK/BAX-mediated apopto- mutations in PD. Three pathogenic mutations in
+sis.109 There is a growing body of evidence that the saposin D domain of PSAP were identified in
+linksCermetabolismtoPD.Brainandplasmacer- patients from Japanese and Taiwanese cohorts
+amide levels are increased in sporadic PD withautosomaldominantinheritedParkinson’sdis-
+patients112,113 (although this might not reflect the ease.PSAP-PD patient-derivediPSC neuronsdis-
+eventsoccurringinthemembraneofspecificorga- played an abnormal accumulation of autophagic
+nelles). Ceramide synthase expression is vacuoles, perturbed autophagic flux, a-syn aggre-
+increased,andceramideacylchainlengthisaltered gation, and retention of PSAP in the endoplasmic
+insporadicPD.114Plasmaceramidelevelsarecor- reticulum.126 While a follow-up study by Chao
+related with cognitive deficits in PD.112 In addition, etal.127corroboratedthefindingsofOjietal.inalar-
+several studies have highlighted that sphingolipid gersamplesize,Zhaoetal.118reportedbutamod-
+metabolites including glucosylceramide, psy- est effect for PSAP saposin D mutations in PD
+chosine, glucosylsphingosine, and gangliosides pathogenesisinalargeChinesemainlandcohort.
+that build-up in LSDs can alter a-syn homeostasis StudiesinsaposinD (cid:2)/(cid:2) miceshowedsubstantial
+triggering its accumulation and aggregation in accumulation of 2-hydroxy fatty acid containing-
+neurons.110 ceramide (HFA-Cer) in the brain and kidney along
+12
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+with severe renal tubular degeneration and susceptibility factor in PD. It is not excluded that
+cerebellar Purkinje neuronal degenerating SCARB2 may also bear other PD-relevant
+displaying symptoms of progressive motor functions, such as regulating the sorting of
+dysfunction and ataxia, the phenotypic lysosomalhydrolasesotherthanGCase.
+abnormalities being evident only well into
+adulthood. Saposin D
+(cid:2)/(cid:2)
+mice did not show any
+hallmarks of Farber’s Disease (caused by ATP10B. Compound heterozygous ATP10B
+deficiency of acid ceramidase) such as skin mutation was initially identified, along with a
+nodules or lesions, joint involvements, or biallelic loss-of-function mechanism in early-onset
+hepatosplenomegaly. This might be because of PD (EOPD) in a Belgian cohort.140 This claim was
+partial defects in the degradation of Cer upon challenged by Real et al. as part of the IPDGC
+specific saposin D deficiency as indicated by the (International Parkinson’sDiseaseGenomicsCon-
+comparatively less HFA-Cer load from the human sortium) who reported an absence of enrichment
+Farber’s disease.128 Given the rarity of PSAP vari- of putative compound heterozygous or homozy-
+ants,furtherstudiesneedtobedoneindifferenteth- gous carriers in patients with PD (including
+nic cohorts to obtain substantial evidence to
+EOPD).141StudiesonaJapanesecohortalsofailed
+conclusively attribute the role of PSAP variants in
+toidentifypathogenicvariants.142Overall,moreevi-
+PD. In addition, the molecular implication of such dence is needed to conclude if ATP10B classifies
+variantsforthehomeostasisofPD-relevantlysoso- asaPD-causinggene.
+mal pathways, especially in human iPSC-derived ATPase phospholipid transporting 10B is a P4-
+models,willrequiremoreworkinthefuture. type ATPase that acts as a lipid flippase in late-
+endolysosomes to translocate GlcCer and
+phosphatidylcholine (PC) from the luminal to the
+SCARB2. The scavenger receptor class B cytoplasmic leaflet of the late-endolysosomal
+member 2 gene (SCARB2) encodes the lysosome membrane.143P4-typeATPasesincludingATP10B
+membrane protein 2 (LIMP-2) also known as (except for 9A and 9B) form a heterodimer with
+CD36L2. It is a type III glycoprotein having two CDC50A. CDC50A is a predicted b-subunit of the
+transmembrane domains, that traffics GCase from flippase complex and is important to chaperone
+the ER through the Golgi and endosomes to the P4-type ATPases to the plasma membrane.144
+lysosomes in a mannose-6-phosphate ATP10B seems to function in the same pathway
+independent manner relying on the di-leucine asGCase,bothregulatinglysosomalGlcCerlevels.
+motif (L475 and I476) in cytoplasmic C- ATP10Bisnecessaryforthefunctionoflysosomes
+terminus.129–132InvestigationinCOS1cellsbyKur-
+and membrane integrity. Its knock-down increases
+onita et al. attributes a function for LIMP-2 in the the susceptibility of cortical neurons to cell death
+normalbiogenesisandmaintenanceofendosomes bydysregulatedGlcCerandPChomeostasislead-
+andlysosomes.133LIMP-2wasmostrecentlylinked ingtolysosomaldysfunction.140
+to actin myoclonus renal failure (AMRF), where its
+deficiencycausesmyoclonicepilepsyandglomeru-
+losclerosis.130 The single nucleotide C/T polymor- GALC. GALC encodes galactosylceramidase
+phism rs6812193 near the SCARB2 gene locus (GalCase), a lysosomal enzyme responsible for
+and its association with sporadic PD has been hydrolyzing galactosylceramide (GalCer) and
+widely studied in different ethnic cohorts but with galactosylsphingosine (GalSph).110 Mutations in
+inconclusive evidence of susceptibility.2,131,134–138 GALC cause a lethal infantile disease known as
+Although an association between SCARB2 geno- Krabbe’sDisease(KD)or globoid cell leukodystro-
+type at rs6812193 and an increase in PD risk was phy (GLD).110 A correlation between some genetic
+observed, this did not appear to be mediated by variants of GALC and increased PD risk has been
+GCase activity according to the observations from reported.8,66Senkevichetal.recentlyreportedthat
+dried blood spots (DBS) assays of PD patients.129 mutationsthatincreaseGalCaseactivitylevelsare
+Limitations of DBS assays and other non-live cell potentially causal in PD.9 The SNP rs8005172 of
+assaysisthattheydonotrecapitulatetheendoge- GALC association with late-onset PD (LOPD) was
+nous context, where GCase needs to be correctly also replicated in a small Chinese cohort.145 The
+localized and its substrate is not exclusively avail- knockout of GALC did not affect monomeric a-syn
+able in a soluble form. In contrast, Rothaug et. al. accumulation in iPSC-derived Ngn2-induced neu-
+demonstratedabuildupina-synlevelsandreduced rons under basal conditions.146 The exact mecha-
+GCase expression and activity in LIMP2-deficient nism of how enhanced GalCase activity is
+mice, resulting in neurotoxicity in dopaminergic associated with Parkinson’s disease needs to be
+neurons.139 investigated by further studying models that
+More studies need to be conducted to establish express variants that induce enhanced GalCase
+the importance of PD-linked SCARB2 expression and activity. The impact of changes in
+polymorphisms in PD-relevant models (neurons GalCaseactivityona-synbuild-upandaggregation
+derived from patient iPSCs for instance) to have also requires investigation, to determine if some
+conclusive evidence for SCARB2 as a overlapwiththeGCase/a-synaxisexists.
+13
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+GLA. a-galactosidase A (a-Gal A) hydrolyzes levelswhichcorrelatedwithdiseaseprogression.157
+terminal galactosyl residues from various complex Given the emerging interest in lysosomal-targeted
+glycoconjugated ceramides in lysosomes.110 GLA therapeutic strategies for PD, further larger case-
+is located on the X chromosome. Its mutation and control studies on different cohorts and ethnic
+subsequent deficiency in a-Gal A activity leads to groups need to be carried out to confirm the role
+Fabry disease, characterized by the marked accu- ofARSAinPD.
+mulationofglycosphingolipidsincludingglobotriao-
+sylceramide (Gb3) and globotriaosylsphingosine ASAH1. Acid Ceramidase(aCerase)hydrolyzes
+(lyso-Gb3).110,147 A polymorphism for GLA within Cer to Sph and free fatty acid. Ceramidases are
+theproximalpromoterregionthatmaycompromise classified based on their optimal pH for catalysis;
+its gene expression was previously identified in a aCerase (ASAH1), neutral Cerase (ASAH2), and
+PD patient.148 Significantly low lysosomal a-Gal A alkaline Cerase (ACER1, 2, and 3).110,158 Defi-
+activity was reported in the substantia nigra, DBS, ciency in ASAH1 causes two rare inherited disor-
+andinleukocytesofPDpatientscomparedtocon- ders: Farber Disease (FD) and SMA-PME.159 Due
+trolsbutnoconcurrentchangesinGb3levelswere tothelowlifeexpectancyofFD/SMA-PMEpatients,
+observed.116,149Ina-GalA-deficientmousebrains,
+there is a lack of correlation studies with PD
+concomitant overexpression of Gb3 was required although large GWAS studies showed the burden
+for the development of symptoms of parkinsonism of mutation in ASAH1. Recent work showed that
+such as spontaneous tremors, delayed move- inhibition of aCerase activity in GBA1-PD-derived
+ments, and gait disturbances.150 Nelson et. al.147 dopaminergic neurons resulted in lower levels of
+report a novel finding of a-Gal A deficiency in the a-syn accumulation.160 This effect could be
+temporal cortex of LOPD post-mortem brains that explainedasaresultofCathepsinDactivitystimu-
+also harbors pathological a-syn accumulation. In lation by elevated Cer levels leading to enhanced
+addition, the changes in a-Gal A showed a signifi- degradationofa-syn.110Thehypothesisthatasim-
+cant correlation with GCase levels suggesting a ilarmechanismcouldbeatplayasaresultofmuta-
+potentialcooperativeroleinPD.147,151Furtherstud-
+tionsinothergenesthatcauseelevatedCerlevels
+iesarewarrantedtoprovethisobservation. willbeimportanttotestinthefuture.
+ARSA. Arylsulfatase is a lysosomal hydrolase SMPD1. Acid sphingomyelinase (ASMase),
+that converts sulfatides, a major component of encoded by SMPD1, converts sphingomyelin to
+myelin, to galactosylceramides and its complete Cer and phosphorylcholine. Biallelic mutations in
+deficiency causes the autosomal recessive LSD SMPD1 are known to cause Niemann Pick’s
+metachromatic leukodystrophy (MLD).110,152 Disease type A or B (NPA/B).110 The association
+PathogenicandprotectivemutationsinARSAwere of SMPD1 to PD or synucleinopathy risks have
+reported to be associated with PD.153 In a recent beenreportedin7independentcohortsthatinclude
+pre-print, four out of six independent cohorts ana-
+ethnicitieslikeAshkenaziJews,161–163Chinese,164–
+lyzed by burden analysis followed by meta- 166 and European.8 The variants L302P (the foun-
+analysis showed evidence for association. In addi- der mutation of NPA/B) and p.fs330162,163 were
+tion, a E384K variant waspossibly found tosegre- shown to associate with an increased risk of sus-
+gatewithPDintwofamilies.However,theauthors ceptibility to PD in Ashkenazi Jews. R591C164
+indicate that this will need confirmation in larger increased PD risk in a Chinese cohort. Reduced
+cohorts and in familial studies to ensure ASMase activity was also associated with
+association.154 increased a-syn levels in BE(2)-M17 dopaminergic
+At the molecular level, ARSA was reported to cell line and Hela cells.162 L302P and p.fsP330
+interact with a-syn via a non-lysosome-related mutants caused retention of ASMase in the endo-
+molecular chaperone function. While ARSA gene plasmic reticulum, leading to the absence of the
+deficiency led to higher levels of a-syn enzyme in lysosomes. At the structural level, the
+aggregation, secretion, and propagation from cell- L302P and A487V mutations are in the catalytic
+to-cell in SH-SY5Y, ARSA functional mutations domain and are likely to destabilize it and prevent
+altered this process.153 While the protective proper folding.162 Given the strong similarity of
+N352SARSAvariantshowedahighbindingaffinity SMPD1 with GBA1, the most prominent risk factor
+toa-synandreduceda-synaggregation,thepatho- for PD, causing closely related lysosomal storage
+genic L300S variant had the opposite effect.153 disordersandhavingacommonhydrolysisproduct
+However,follow-upstudiesfailedtoprovetheasso- (Cer),evidencesuggestsasharedpathwayforboth
+ciation of pathogenic L300S154,155 or protective geneswhichrequiresfurtherinvestigation.161,167
+N352S155,156 mutations with PD. A study by Li
+et al.157 on the Chinese Han population showed HEXA/HEXB. b-hexosaminidase (HEX) is
+anELISA-basedquantitativeassessmentofARSA responsible for the metabolism of
+and a-syn levels in PD patients with and without glycosphingolipid ganglioside GM2. The three
+cognitive impairment (PD-CI). PD-CI patients isoforms of HEX result from the combination of a
+showed a low plasma ARSA level and high a-syn and b subunits encoded in HEXA and HEXB
+14
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+genes,168namely:theHEXAisoform(HEXa+HEXb neuronal membranes and is internalized into the
+heterodimer), HEX B (HEXb+HEXb homodimer) neuron. Cholesterol is released by the hydrolysis
+and HEX S (HEXa+HEXa homodimer). The a- ofthecomplexwithinthelateendosome/lysosome
+subunit of HEX hydrolyzes the ganglioside GM2 and is trafficked into subcellular compartments by
+and requires the GM2 activator saposin peptide theactionofmembrane-boundNiemann–Picktype
+for its activation. Loss-of-function mutations in the C1(NPC1)andluminalNPC2proteins.Thischoles-
+HEXA gene cause Tay-Sachs disease, also called terol is critical for neurons to build the membranes
+GM2 gangliosidosis. This lysosome storage disor- that constitute axons, dendrites, synapses, and
+der results from the aberrant hydrolysis of GM2 synapticvesicles.173
+ganglioside. Mutations in HEXB cause Sandhoff
+disease, a variant type of Tay-Sachs disease.
+Tay-SachsandSandhoffdiseaseareneurodegen- NPC1/NPC2. Mutations in the NPC1 gene result
+in an LSD termed Niemann Pick’s Disease type C
+erativediseaseswheretheprogressivelossofneu-
+(NPC) which is characterized by the accumulation
+ronsoccursintheCNSduetotheaccumulationof
+GM2ganglioside.169 of unesterified cholesterol, glycosphingolipids, and
+other fatty acids in the endo-lysosomal system.175
+Variants in the LSD gene HEXB were recently
+confirmed as risk factors in PD patients.8 Deletion A single I1061T substitution results in misfolding
+of HEXA in mice causes a-syn pathology and of the NPC1 protein and subsequent removal by
+GM2accumulationintheSNpc.170DeficientHEXA
+ER-associateddegradation.176
+There are reports of disease-associated
+activityinpatientsaffectedbyGM2gangliosidoses
+mutations in PD patients,177 Parkinsonism in carri-
+was suggested to lead to parkinsonian-like symp-
+ersofNPC1heterozygousmutants,178andacorre-
+toms but the sample size was too low to make a
+conclusive inference.171 Recently, a neuroprotec- lation between altered cholesterol metabolism and
+neurodegeneration.179Increasedcholesteroldepo-
+tiveeffectwasattributedtoincreasedHEXactivity,
+inaHEXB
+(cid:2)/(cid:2)
+Sandhoffmicemodeloverexpressing
+sitionasaresultofdysregulatedcholesteroltraffick-
+inginneuronswasreportedinbothNPCandPD.180
+HEXA and HEXB, reducing the degeneration of
+dopaminergic neurons induced by a-syn overex- Evidence supporting a link between cholesterol
+levelsandPDincludes:(i)presenceofhighcholes-
+pression.Thisappearedtobemediatedbyrestrict-
+inga-synassociationtolipidcompartments.172Itis terol derivatives levels in the plasma and brain of
+hypothesizedthat thedirect interaction betweena- PD patients, (ii) elevated levels of oxidizedcholes-
+syn and GM2 drives a-syn accumulation. More in- terol derivatives increase a -syn levels and aggre-
+gation, (iii) decreased a -syn levels in neuronal
+depth investigations will help in better delineating
+cells upon treatment with statins, (iv) hypercholes-
+theinvolvementofthisenzymeinPDpathogenesis.
+terolemiahasbeenlinkedtothehighervulnerability
+of DA neurons and resulting PD-like symptoms.179
+Cholesterol metabolism
+Controversial studies also link statin therapy, a
+In mammals, cholesterol is required to maintain cholesterol-lowering drug, to the risk of PD.181
+the integrity, fluidity, organization, and biophysical Recently,anabsenceofassociation ofa subset of
+properties of cell membranes.173 In neurons, NPC1 variants with PD, REM-sleep behavior, and
+cholesterol is found in abundance in the synaptic DLB was reported in European cohorts, although
+lipid rafts, interacts directly with neurotransmitters, a possibility exists that association might be found
+and is necessary for proper synaptic transmission in other populations, or for other variants.182 The
+and synaptogenesis.173 The brain depends on the possibilityofNPCvariants,eventhoughrare,play-
+de novo synthesis of cholesterol by brain resident ingacausalroleinPDcannotbeexcluded.183The
+cellslikeastrocytes. association of NPC1/NPC2 variants with PD risk
+Cholesterolsynthesisisamultistep,ER-localized requires further elucidation and validation through
+processwheretherate-limitingandregulatorystep widespreadpopulationgeneticstudies.179
+is catalyzed by 3-hydroxy-3-methyglutaryl-coen NPC1 is a large 13-transmembrane domain
+zyme-A reductase (HMGR). Regulation of glycoprotein located in late endosomes. NPC1
+cholesterol synthesis is achieved through the possesses a ‘sterol-sensing domain’ formed by 5
+binding of sterol-regulatory element-binding of its transmembrane segments. This domain is
+protein-2 (SREBP-2), a transcription factor, to the found in similar proteins that are thought to sense
+sterol-regulatory element-1 (SRE-1) in the cholesterol. NPC1 can sense rising cholesterol
+promoter region of HMGR, thereby inducing its levels in membranes causing it to bud and be
+expression and associated cholesterol delivered to target organelles. NPC2, on the other
+biosynthesis.173,174Cholesterolisdeliveredtoneu- hand, is a soluble glycoprotein that is targeted to
+ronsfromastrocytesviaanApoE-cholesterolcom- lysosomes via the mannose 6 phosphate route.
+plex.TheApoE-cholesterolcomplexreleasedfrom NPC2 was determined in vitro to employ a
+the astrocytes via the ATP-binding cassette trans- collisional mechanism to rapidly transport
+porter protein A1 (ABCA1), then binds to the low- cholesterol from donor to acceptor membranes
+densitylipoprotein(LDL)receptors(LDLR)andthe and facilitatethetransferofcholesteroltodestined
+LDLR-related protein 1 (LRP1) expressed on the organelles.175 Excessive accumulation of choles-
+15
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+terol in lysosomes caused by NPC1/NPC2 muta- mal enzymes such as cathepsins,192 or through
+tions causes its transglucosylation by GCase,184 regulation of endo-lysosomal fusion by proteogly-
+leading to toxic accumulation of GlcChol and Gal- cans.193 A role for HS proteoglycans as receptors
+Chol that can be hypothesized to cause neu- of a-syn aggregates has also been estab-
+ropathology.173 Multilamellar bodies (MLB), lished,189,191 possibly contributing to the prion-like
+intracellularmembranestructuresoflysosomalori- spread of these proteopathic seeds and progres-
+gin composed mainly of non-degraded phospho- sionofPDpathogenesisasshowninworms.194
+lipids and cholesterol, are a characteristic feature
+of GBA1-PD and NPC.173 MLBs are hypothesized NAGLU. NAGLU encodes N-
+tofacilitateaberrantinteractionofa-synandcholes-
+acetylglucosaminidase, an enzyme that
+terol promoting a prion-like propagation of a-syn hydrolyses the terminal N-acetyl-D-glucosamine
+fromneuron-to-neuron.180
+residues in HS. Defects in this gene cause MPS
+It has been shown that alterations in the lipid type IIIB (MPS-IIIB), also known as Sanfilippo
+composition of organelle or vesicle membranes syndrome B, an LSD characterized by
+affect their ability to fuse with target membranes. accumulation of HS in lysosomes and HS urinary
+SNARE complex proteins, SNAP-23 and syntaxin excretion. Mutation in the NAGLU gene leading to
+4 present atthe plasma membrane and VAMP7at perturbed HS degradation was recently suggested
+the surface of lysosomes mediate their fusion, to play a role in a-syn accumulation in PD,
+thus regulating exocytosis.185 Interestingly, these although the precise mechanism remains to be
+proteins are localized in the cholesterol-rich lipid determined.195 NAGLU expression was also found
+rafts of vesicular structures like rat brain synapto- to be decreased in idiopathic PD-patient-derived
+somes.186Anydysregulationincholesterolmetabo- dopaminergicneurons.196
+lismcanaffecttheproperdistributionofthelipidson
+the membraneswhichcanimpairessentiallysoso-
+IDUA. IDUA encodes iduronidase
+malfunctionsleadingtoneurodegeneration.
+(glycosaminoglycan alpha-L-iduronohydrolase), an
+enzyme that hydrolyzes terminal unsulfated alpha-
+Glycosaminoglycans metabolism L-iduronosidic linkages in DS and HS promoting
+the degradation of these GAGs. Iduronidase
+Glycosaminoglycans (GAGs) are a family of
+works closely and sequentially with other GAG
+linear and negatively charged polysaccharides
+hydrolyzingenzymeslikeARSB(discussedbelow)
+with a molecular weight of approximately 10–
+thereby maintaining GAG physiological levels.
+100kDa. GAGs are present in most cell types,
+withinthecells,andintheirsurroundings.187GAGs IDUA mutations, which are inherited in an
+autosomal recessive fashion, result in the MPS 1
+areexquisitelycomplexstructurallyduetomodifica-
+phenotype.197 Defective alpha-L-iduronidase
+tionsintypesofresiduesandtheirglycosidicbonds,
+results in an accumulation of its substrates within
+sulfation levels, and positions, as well as chain
+various cell types including neurons, and fibrob-
+lengths. GAGs are classified based on the hex-
+lasts.198 No mechanistic explanation of IDUA
+osamine,hexose,orhexuronicacidinthedisaccha-
+involvement in PD has been described to date. It
+ride repeating building blocks and the glycosidic
+could be hypothesized that impairment of HS
+bonds linking these units. Accordingly, five main
+degradation plays a role in a-syn accumulation
+types of GAGs exist: nonsulfated GAGs, such as
+andprion-likespreadinPD.
+hyaluronicacid(HA),andsulfatedGAGs,including
+heparin and heparan sulfate (HS), chondroitin sul-
+fate (CS), dermatan sulfate (DS) and keratan sul- GUSB. GUSB was identified as the candidate
+fate (KS). The most extensively studied GAGs are gene of a novel PD locus.4 GUSB encodes the
+heparin and HS due to their high sulfation and
+hydrolaseb-glucuronidase,ahomotetramer,which
+plethora of biological activities. In mammals, all removes glucuronic acid from GAGs such as HS.
+GAGs except HA are linked to a core protein and Mutations in GUSB result in the LSD MPS-VII.
+are thus proteoglycans (PGs). Mutations in many GUSB was identified as the candidate gene of a
+GAG-degrading enzymes have been associated novel PD locus.4 How GUSB is involved in PD is
+with the LSD, mucopolysaccharidosis (MPS). Bur- unknown. The impairment in HS metabolismcould
+den analysis in a discovery cohort was confirmed
+behypothesizedasaplayerina-synaccumulation
+in a meta-analysis, supporting the role of MPS inPD.
+genes as modifiers of GBA1-PD risk,.108 It was
+shown that intracellular sulfated GAGs like HS ARSB. Arylsulfatase B belongs to a group of
+and CS regulate cathepsin D activity, the main a- arylsulfatase enzymes present in lysosomes.
+synuclein degrading enzyme, and that their pres- ARSB hydrolyzes N-acetyl-D-galactosamine4-
+enceisrequiredfora-synucleinintracellularaggre- sulfate units in GAGs. ARSB mainly targets
+gation,188 accumulation, uptake,189–191 and dermatan sulfateandchondroitin sulfate.199
+transcellularpropagation.189,190Althoughitremains Mutated ARSB is linked with the recessive LSD
+to be determined, it could be hypothesized that MPS-VI or Maroteaux-Lamy syndrome. Four PD
+GAGsactinPDbymodulatingtheactivityoflysoso- cases in the cohort studied by Jansen et al. were
+16
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+foundtocarryloss-of-functionvariantsintheARSB condition called lysosomal free sialic acid storage
+genethatwerepreviouslylinkedtoMPS-VI.200Aryl- disorder (FSASD), which is a neurodegenerative,
+sulfatase B belongs to a group of arylsulfatase multisystemic disease.211 SLC12A5 gene variants
+enzymes present in lysosomes. ARSB hydrolyzes can lead to loss-of-function and/or mistargeting of
+N-acetyl-D-galactosamine4-sulfate units in GAGs. the transporter. SLC17A5 variants in heterozygos-
+ARSB mainly targets dermatan sulfateandchon- ity, including R39C and K136Q, have been identi-
+droitinsulfate.199,200 fied as risk factors for PD8 Since sialic acid is a
+competitive inhibitor of lysosomal neuraminidases,
+Sialic acid metabolism it is possible that excessive accumulation of free
+sialic acid could cause secondary storage of sialo-
+Sialic acids are a diverse family of sugars that
+glycoproteins and gangliosides in FSASD tissues.
+carry negative charges. They play essential roles
+This could result in clinical symptoms, particularly
+in normal biological functions and disease
+intheCNSsimilartoLSDs.
+mechanisms. Sialic acids are predominantly found
+at the terminal positions of oligosaccharide chains
+Peptide metabolism
+of most glycans (glycoproteins and gangliosides).
+Sialidases, or neuraminidases, hydrolyze the a-
+glycosidic linkages between sialic acid residues GRN. GRN encodes the precursor protein
+and carbohydrate groups of glycoproteins and progranulin (PGRN) (593 amino acids, 68.5kDa)
+glycolipids.201 ofthegranulinpeptides.212Cleavageofprogranulin
+is mainly achieved by serine proteases elastase,
+NEU1. NEU1, NEU2, NEU3, and NEU4 are the proteinase 3, and matrix metalloproteinase to pro-
+four types of sialidases identified in mammals.202 duce a variety of active 6kDa granulin peptides
+They display differences in their expression pat- namedgranulinA,granulinB,granulinC,etc.This
+terns, localizations, and functions. NEU1, which is processing occurs either in the extracellular matrix
+lysosomal, is implicated in exocytosis, immune orthelysosomes.212Itwasshownthatprogranulin
+response, phagocytosis, and assembly of elastic trafficking to lysosomes is mediated by interaction
+fiber.203 withSORT1(sortilin).213Progranulinshowsstriking
+Thesialyationofcellsurfacecarbohydratesinthe similaritiestoprosaposinsuchastheexistenceasa
+CNS plays an essential role in the modulation of pro-polypeptide, cleavage to active components
+neuronalandglialbehavior.204Theextentofsialyla- andfunctionsinthelysosome,andutilizationofsor-
+tionisdynamicandfluctuatesduringbraindevelop- tilinfortrafficking.Progranulinandprosaposinwere
+ment and also in neurological disorders.204 In shown to influence and facilitate each other’s traf-
+vertebrates,polysialicacid(PSA)isoneofthemost fickingtolysosomesviasortilininteraction.214,215
+biologically relevant glycotopes and is highly A role for PGRN and granulin has been found in
+enriched in the neuronal cell adhesion molecule development, inflammation, cell proliferation, and
+(NCAM) of the brain.205 NEU1 can affect neuronal proteostasis.212 The inflammatory response is
+migration and positioning by regulating PSA mediated by the proteolytic processing of anti-
+levels.206 NEU1 also inhibits glutamate exocytosis inflammatoryPGRNintopro-inflammatorygranulin
+inhippocampalneuronsbyinterferingwithCa2+sig- peptides.216Ahigherriskoffrontotemporaldemen-
+naling.207 NEU1 exists as part of a heterotrimeric tia (FTD) was directly correlated to mutations in
+complex together with b -galactosidase and GRN that lead to reduced function or decreased
+Cathepsin A in the lysosome.208 NEU1-mediated levelsoftheprotein.217–220TheGRNlocuswasalso
+regulationofsialyationisrelevanttothepathogene- recently designated as contributive to the lifetime
+sisofAlzheimer’sdiseaseowingtoitscontrol over risk of numerous neurodegenerative diseases
+the levels of APP and its proteolytic cleavage.209 (NDDs) such as AD, PD, and ALS to different
+In a MPTP mouse model of PD, administration of extents.4,221,222ArecentGWASanalysisconducted
+GM1 ganglioside (a form of sialylated glycosphin- byNallsetal.reportsafirst-of-its-kindstrongcausal
+golipid) results in significant biochemical and functionalinferencethatlinksgeneticriskforthese
+behavioral recovery.210 Sialidases such as NEU1 threecommondisorderstovariationsofGRNgene
+have been proposed as an alternative to GM1, expressioninthebrain,223 suggestingagene-level
+due low bioavailability and low blood–brain barrier mechanisticconnectionthattransverseaspectrum
+(BBB) penetrance of this ganglioside, to enzymati- ofNDDs.
+cally increase the amount of endogenous GM1 in Progranulin seems to be highly involved in
+thebrainbyhydrolysisofpolysialogangliosides.210 lysosomal function and organization. It colocalizes
+with Lamp1, its transcription is mediated by the
+SLC17A5. SLC17A5 encodes the lysosomal lysosomal biogenesis transcription factor TFEB224
+membrane protein SLC17A5 (sialin). Sialin is a anditseemstopositivelyregulateprosaposindeliv-
+12-transmembrane domain proton-coupled erytolysosomesandCTSDactivation.225–227GRN
+exporter of sialic acid (Neu5Ac) and other acidic mutationsharessimilarpathologytoCHMP2Bdefi-
+hexoses from the lysosomes. Bi-allelic pathogenic ciency,212 an endo-lysosomal sorting protein dis-
+variants in SLC17A5 cause an extremely rare cussed above. Progranulin is required for the
+17
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+lysosomal presenceofGCase/LIMP-2 and recruits caspases 1 and 11 mediated neuronal
+HSP70toGCasetopreventitscytoplasmicaggre- apoptosis.236,237
+gation under stress conditions in PGRN KO CTSB and more efficiently CTSL derived from
+mice.228Recently,thesameteamdevelopedaclin- purified mouse brain and liver lysosomes seemed
+icallyrelevantmodel(PG9Vmice)tostudymecha- to be able to proteolyze the central and amyloid
+nisticaspectsandidentifypotentialtherapeuticson region of monomeric a-syn and thereby prevented
+GD and PD and provided convincing evidence its fibrillization in vitro.232 A stimulatory effect of
+invivoandexvivoontheparamountroleofPGRN anionicphospholipidsoncathepsinactivitywasalso
+inpathologieslinkedtoGBA1mutation.ThePG9V observed in the same study. However, CTSB was
+mice developed neurodegenerative manifestations alsoshowntogenerateC-terminallytruncatedspe-
+ofneuropathicGDandPD,suchasneurodegener- cies of a-syn in symptomatic SNCA A53T trans-
+ation, inflammation, and protein aggregation in the genic mice.238 A protective CTSB variant
+brain.PGRN was also shown to directly affect rs1293298wasdetectedasamodifierintheonset
+GCase lysosomal delivery and activation. A BBB and the risk in GBA1- PD and Lewy body demen-
+penetrant PGRN derivative ND7 ameliorated GD tia,7,66 probably via increased CTSB expression in
+manifestations and PD pathology in this mouse the brain. Mechanistically, it appears that CTSB is
+model.229TheseresultssuggestthatGRNdysfunc- mediating prosaposin processing into saposin C,
+tion could lead to a defective endo-lysosomal sys- which coactivates GCase in the lysosome. Thus,
+tem by affecting the delivery and activation of risk variants that decrease CTSB expression are
+manylysosomalenzymes. thought to contribute to further hindering GCase
+activity in GBA1-associated PD. A recent study
+found a novel, rare CTSB G284V variant in PD
+Cathepsins. The cathepsin family has a total of patients of a Polish-German family from Poland.
+15 known proteases. Based on their catalytic Gly284 is conserved in evolution and lies within
+mechanism they are subgrouped into three theheavychainoftheenzymeandamutationcould
+categories: serine cathepsins (A and G), cysteine disrupt its activity. Functional studies in patient-
+cathepsins (B, C, F, H, K, L, O, S, V, W, and X), derived fibroblasts failed to provide any clear evi-
+and aspartic cathepsins (D and E).230,231 Most dence for this mutation.233 Studies in patient-
+cathepsins display optimal activity at low pH, mak- derivediPSCreprogrammedDAneuronsormicro-
+ing them key players in autophagy and the endo- glia might provide better insight into the role of the
+lysosomal system.230,232 Of all lysosomal pro- G284VvariantinPD.
+teases, the most abundant are the aspartate pro-
+tease cathepsin D (CTSD) and the cysteine
+cathepsinsBandL(CTSB,CTSL).Theyareespe- CTSD. Cathepsin D is a lysosomal aspartic
+ciallypresentintheCNS.230Manyproteinsassoci- protease involved in the lysosomal recycling and
+ated with neurodegeneration like a-syn, b-amyloid degradation of many substrates, including a-
+(Ab), or huntingtin (Htt) are substrates of one or syn.239 Homozygous inactivation mutations in
+more cathepsins, signifying a requirement of CTSD have been related to multiple age-related
+cathepsin-mediated degradation for neuronal neurodegenerative diseases involving aggregation
+homeostasis230. GWAS studies have found ofmisfoldedproteins,likeneuronalceroidlipofusci-
+CTSD8233andCTSB66asmodulatorsofPDrisk. nosis (NCL), AD, and PD.240 Genetic variants of
+CTSDwerefoundtobeassociatedwithdysfunction
+oflysosomesandPDpathologyinalargescreening
+CTSB. CTSB encodes the lysosomal cysteine ofPDpatients.8Thereisconflictingevidenceonthe
+protease known as Cathepsin B. In addition to its impact of CTSD on a-syn clearance. While most
+endopeptidase function, CTSB also has a variants in Robak et al. failed to display an effect
+dipeptidyl carboxypeptidase activity.234 Physiologi- on protein function, maturation, and localization,
+calfunctionsofcysteinecathepsinsincludeprotein, thePD-associatedvariantsp.A239Vhadincreased
+neuropeptide, and hormoneprocessing, major his- enzymatic activity and enhanced a-syn clear-
+tocompatibility complex (MHC) class II-mediated ance.240 Studies conducted in the dopaminergic
+antigen presentation, bone remodeling, apoptosis, neurons of C. elegans, mice, and humans confirm
+and keratinocyte differentiation whilealso having a that CTSD activelyclears a-syn SNCAaggregates
+role in several disease pathologies like cancer, andrestoresendo-lysosomalandautophagyhome-
+inflammation, psoriasis, muscular dystrophy, and ostasis.241CathepsinDlevelsandactivitywereres-
+neurodegenerative diseases235 In the CNS, CTSB cued in GBA1 mutant dopaminergic neurons
+is preferentially expressed in the neocortical and treatedwithGCasereplacementorchaperonether-
+hippocampalneurons.CTSBisthemostabundant apy, driving a decrease in monomeric a-synuclein
+lysosomal protease of the papain family and is suggesting a possible interaction between GCase
+important for the physiological turnover of cell pro- and CTSD. Ceramide, the byproduct of GCase,
+teinsinneurons.235CTSBisamajorcausativefac- can bind and activate CTSD.242 Based on these
+tor of microglia-induced neuronal apoptosis and results, lower levels of CTSD protein and activity
+playsaroleintheactivationoftheproinflammatory seemtomediateatleastinparttheincreasedlevels
+18
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+of monomeric a-syn in GBA1 mutant neurons.243 could drive the PD risk is a missense variant, p.
+TheroleofCTSDinmicroglia-mediateda-synclear- M393T in the 10th transmembrane domain of
+ancewillbeimportanttoinvestigateandcouldrep- TMEM175.3 Molecular modeling indicates that this
+resentapromisingtargetfortherapy. mutationislikelytodestabilizethetransmembrane
+domain of the protein, impacting its assembly or
+ABCB9. Several polymorphisms on the ABCB9 maturation.252 The M393T variant caused reduced
+gene were reported where rs7953894 was found lysosomal levels of TMEM175 and partial pheno-
+to be a significant genetic risk factor in PD.3 Inter- copy of KO, including more acidic lysosomes at
+estingly, a recent study reported alterations in the steady state and upon starvation, reduced GCase
+methylation of CpG islands in genes from PD activity, and a trend toward decreased autophagy.
+patients’ saliva and blood samples. ABCB9 was Overexpression of wild-type TMEM175, but not
+one of the genes that had hypomethylated CpG theM393Tvariantcausedareductionofphospho-
+alterations(alongwithLARS,amitochondrialgene, rylateda-syninvitroinrathippocampalneurons.253
+and C1orf200) and was associated with the SNP ThePD-associatedmutantsTMEM175didnotdis-
+rs73408862.244 play impaired lysosomal localization in Hela
+ATP-binding cassette (ABC) transporters are cells.252 Additional studies are required to fully
+transmembrane proteins that actively pump endo- grasptheinfluenceofTMEM175variantsonPDrisk
+and xenobiotic solutes across cellular membranes andifothergenesinthislocusareimplicatedinPD.
+against a concentration gradient using energy
+derived from ATP hydrolysis.245 ABC genes can ATP6V0A1. The GWAS study by Nalls et al.
+be divided into seven subfamilies (ABC1, MDR/ identified several polymorphisms in the
+TAP,MRP,ALD,OABP,GCN20,andWhite).245,246 ATP6V0A1 gene of PD patients with rs34779517
+In cancer, the multidrug resistance (MDR) pheno- having the most significance.254 ATP6V0A1
+typeisattributedtotheoverexpressionofthesepro- (ATPaseH+TransportingV0SubunitA1)encodes
+teins.245 ATP-binding cassette sub-family B a component of vacuolar ATPase (V-ATPase), a
+member 9 is encoded by the ABCB9 gene and multisubunit protonpump thatmediatesthe acidifi-
+belongs to the MDR/TAP subfamily that mediates cation of eukaryotic intracellular organelles. v-
+MDR and antigen presentation.246,247 ABCB9 ATPase consists of a transmembrane V0 domain
+(TAPL) is localized in the lysosomes and was and a cytosolic V1 domain. The GWAS study by
+shown to have the ability to transport polypeptides Nalls et al. identified several polymorphisms in the
+6–59aminoacidslongfromthecytosolicspaceinto ATP6V0A1 gene of PD patients with rs34779517
+thelysosomallumen.248Amolecularmechanismof having the most significance.254 Impaired lysoso-
+ABCB90s involvement in PD is lacking. Several maltargetingofATP6V0A1hasbeenimplicatedin
+polymorphisms ontheABCB9 genewere reported a neurodegenerative LSD in turn affecting lysoso-
+where rs7953894 was found to be a significant mal acidification.255 A similar mechanism could be
+genetic risk factor in PD.249 Interestingly, a recent atplayinPD,althoughthisneedstobetested.
+study reported alterations in the methylation of
+CpG islands in genesfrom PD patients’ salivaand ATP6V1D. ATP6V1D was also identified by
+blood samples. ABCB9 was one of the genes that GWAS analysis as a PD-linked gene.3 It encodes
+had hypomethylated CpG alterations (along with theV1domainDsubunitproteinATPaseH+trans-
+LARS, a mitochondrial gene, and C1orf200) and portingV1subunitDthatcontainstheATPcatalytic
+wasassociatedwiththeSNPrs73408862.244 siteforthetransportofH+tomediatetheacidifica-
+tion of endo-lysosomes.256 Mutations in the gene
+Ion channels might also affect lysosomal acidification leading to
+dysfunction.
+TMEM175. As mentioned above, TMEM175 is
+Other endo-lysosomal genes
+part of the strongest PD disease risk loci
+(chromosome4p16.3region).92Humantransmem-
+The endo-lysosomal system is a complex
+brane protein 175 (TMEM175) is a K+channel
+network of coordinated and intertwined processes,
+located in late endosomes and lysosomes.92
+where the lysosome is the terminal point of
+TMEM175 was recently identified as a proton-
+convergence. Many proteins have overlapping
+activated proton pump and is a proton ‘leak’ chan-
+functions in endosomes and lysosomes and are
+nel. TMEM175 helps sets the optimum pH of lyso-
+hence distributed in both cellular compartments.
+somes via a negative feedback mechanism.
+Several common endo-lysosomal genes involved
+TMEM175 deficiency led to over-acidity of lyso-
+in vesicle trafficking and function have been
+somes, reduced proteolytic activity, and a-syn implicatedasPDriskcandidates.4
+aggregation in vivo.250 In a previous study,
+TMEM175 was shown to regulate lysosomal func-
+VAMP4
+tion, autophagy, mitochondrial respiration, and a-
+syn aggregation in SH-SY5Y and rat hippocampal Theproteinencodedbythisgeneisamemberof
+neurons.3,251 The lead SNP (rs34311866) that the vesicle-associated membrane protein (VAMP)/
+19
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+synaptobrevinfamilyandmightfunctioninTGN-to- ZFYVE26
+endosome transport. VAMP4 rs11578699
+This gene encodes a protein, also known as
+polymorphism was associated with PD in a large
+GWAS meta-analysis of idiopathic PD.4 Genetic SPASTIZIN, that contains a PI3P-binding FYVE
+zinc finger domain. This domain is suggested to
+interactionbetweenanLRRK2variantandVAMP4
+target these proteins to membrane lipids through
+hasbeensuggested.257Ithasalsobeensuggested
+interaction with PI3P in the membrane, where it
+thatVAMP4maybeimplicatedinPDbyregulating
+has been hypothesized to recruit Beclin 1 and
+endocytic mechanisms. As a Golgi v-SNARE,
+other partners involved in autophagosome
+VAMP4 physically interacts with LRRK2 (indepen-
+maturation.268LossoffunctionmutationsinSPAS-
+dently from Rab29) to regulate membrane fusion
+TIZIN has been linked to autophagosome matura-
+during retrograde trafficking from endosomes to
+Golgi.258 VAMP4 also modulates synaptic vesicle tion defects and reduction of autophagosome-
+retrieval in Ca2+-dependent spontaneous neuro- lysosome fusion in cells from patients with autoso-
+mal recessive spastic paraplegia-15, a motor dis-
+transmission, through its dileucine motif that can
+ease that presents with Parkinsonism in 16% of
+recruit clathrin adaptor proteins and induce its
+cases.269,270 Depletion of SPASTIZIN in primary
+trafficking.259
+hippocampal neurons also leads to the accumula-
+tion of autophagosomes.268 Accumulation of
+autophagosomes in DA neurons could lead to cell
+VTI1B deathresultinginparkinsonism.
+VIT1B encodes the vesicle transport through
+interaction with t-SNAREs 1B (VTI1B). This ATP11B
+protein is part ofa protein complex that is required
+Thers2270968SNPthatliesincloseproximityto
+for late endosome-lysosome membrane fusion.260
+the ATP11B gene was identified to have a strong
+It enables the SNARE binding activity in recycling
+association to PD risk in a Han Chinese GWAS
+endosomes through the interaction with t-SNAREs study.271ATP11BwasalsoidentifiedinDrosophila
+inthetargetmembraneandinteractswiththechlo-
+asadifferentiallyexpressedgeneingliacompared
+ride channelCFTR inepithelialcells.VTI1B deple- toneuronsintheagingdrosophilabrain.64ATP11B
+tion reduces CFTR activity by affecting its
+(ATPasePhospholipidTransporting11B)isthecat-
+polarized trafficking to the plasma membrane.261
+alyticcomponentofaP4-ATPaseflippasecomplex.
+VIT1BisalsolocalizedinlysosomesandtheGolgi,
+The flippase transports aminophospholipids, phos-
+where its function remains to be elucidated.
+phatidylserines (PS), and phosphatidylethanolami-
+WhetherandhowVTI1BisimplicatedinPDpatho-
+nes (PE) from the outer to the inner leaflet of
+genesisremainstobedetermined.
+intracellularmembranespoweredbythehydrolysis
+of ATP.272 It is also suggested to contribute to the
+maintenance of membrane lipid asymmetry in the
+endosomal compartment.272 ATP11B was shown
+SPPL2B
+to regulate the synaptic plasticity of hippocampal
+This gene encodes the transmembrane protein neurons via the mitogen-activated protein kinase
+signal peptide peptidase-like 2B (SPPL2B), a 14 (MAPK14) signaling pathway.273 For this gene
+member of the GXGD family of aspartic aswell,thereisascarcityofevidenceforitsmolec-
+proteases. SPPL2B has two conserved catalytic ularroleinPDpathogenesis.273
+motifs that are localized within its membrane-
+spanning regions. Interestingly, SPPL2B is
+CLCN3
+targeted through the secretory pathway to the
+endosomes, lysosomes, and the plasma CLCN3, which was identified by GWAS as a PD
+membrane. It has been shown to mediate the gene,3encodestheClC3vesicular2Cl (cid:2) /H+exchan-
+shedding of several substrates all belonging to ger.Itismajorlylocatedintheearlyandlateendo-
+type 2 transmembrane protein subfamily262 such somesandtosomeextentinSVs.Itsmainfunction
+asintramembranecleavageofTNF-alpha(allowing is attributed to maintaining ion homeostasis and
+thecytosolicreleaseofitsintracellulardomain(ICD) acidity in the endosomal lumen. Guzman et al.
+that triggers interleukin-12 production263 concomi- demonstratedaroleforClC3incontrollingtheglu-
+tant with the liberation of TNF-alpha’s C-terminal tamatergicsynaptic strengthin culturedhippocam-
+partintheextracellularspace,264Bri2(Itm2b)which pal neurons and identified excessive release of
+is genetically linked to Familial British and Danish glutamateinClCn3
+(cid:2)/(cid:2)
+neuronsasacauseforneu-
+dementia,265 and Fas ligand (FasL) whose ICD rodegeneration.274 ClC3 forms heterodimers with
+cannegativelyregulategenetranscription.266There ClC4 which adds to the latter’s stability. ClC4 was
+isanincreasinginterestintheroleofTNF-alphasig- also shown to compensate for ClC3 function
+nalinginmediatingdopaminergicneuronlossinPD causedbyuncouplingmutationsandlackeddetect-
+models,267 but whether this is affected in any way ablephenotypeinmiceasopposedtoClCn3 (cid:2)/(cid:2)275
+bySPPL2Bactivityremainstobeverified. inCA1hippocampalpyramidalneurons.Thelackof
+20
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+ClC3together with the concomitant depletion ofits whether they encode endo-lysosomal proteins or
+heteromerizationpartnerClC4mayimpairintracel- not.
+lular trafficking as caused by other mutations in The mounting genetic evidence for the role of
+endo-lysosomal ion transport proteins leading to genes implicated in lysosomal lipid metabolism,
+neurodegenerationpathologylikePD. and the enrichment of LSD genes in PD risk
+factors, highlight the importance to delve deeper
+into the targeted analysis of subcellular
+compartments ratherthan more complex samples.
+Discussion and future directions To understand the impact of the dysfunction of
+endo-lysosomal proteins on the function of
+Inthisreview,wehavefocusedonlesser-studied
+endosomes and lysosomes in an unbiased
+PD-linked genes encoding proteins that act at the
+manner, analyzing their specific composition
+level of the endo-lysosomal compartment. Even
+rather than that of whole cells/tissues/biofluids is a
+though many endo-lysosomal genes have genetic
+promising avenue. Previous methods relying on
+evidence of their involvement in PD, or have been
+biochemicalenrichmentsuchassucrosegradients
+shown to affect PD pathogenesis in various
+can be contaminated with other organelles and
+animal and/or cellular models, the underlying
+require large amounts of material that are poorly
+molecular and cellular mechanisms often remain
+compatible with analyzing human samples from
+unclear. How PD neuropathology is driven by
+PD-relevant cell types (e.g.iPSC-derived neurons,
+genetic variants has proven difficult to grasp for
+post-mortem brain tissue). In addition, they rely on
+familial PD genes, and it will likely be even more
+time-consuming protocols that increase the
+challenging for risk factors. Insights into these
+chances of degradation of labile components, and
+mechanisms will be key to properly targeting
+loss of integrity of purified organelles. In the past
+these genes therapeutically. To do so, the various
+years, systems have been engineered whereby
+stakeholders need to overcome several
+expression of a lysosome-specific or endosome-
+challenges. First, the sharing of reagents (e.g.
+specific tag allows rapid immunoprecipitation-
+antibodies, KO or overexpression cell lines,
+mediated isolation of intact, highly pure lysosomes
+patient-derived iPSCs, plasmids, animal models, (Lyso-IP)279,280 or endosomes (Endo-IP)281 from
+etc...) and their associated quality control and
+cultured cells. Another approach, specific to lyso-
+validation data will help address the lack of tools
+somes,isbasedontheuseofmagnetic–plasmonic
+available to study poorly characterized genes and
+hybridnanoparticlescoupledtodextran,whichcan
+proteins. For instance, initiatives like that of be taken up via the endocytic pathway.282 Purified
+YcharOS (https://ycharos.com/), a public interest
+organelles can then be analyzed by mass
+Canadian company that openly shares validation
+spectrometry-based proteomics, lipidomics, or
+data of commercially available antibodies for all
+metabolomics, revealing alterations that may go
+human proteins in applications such as Western
+unnoticed when analyzing more complex samples
+blot, immunostaining, and IP,276 will help fill this such as whole-cell lysates.283–285 Applying these
+gap.Forcelllines,anincreasingnumberofgroups
+methods in human iPSC-derived cells and orga-
+andorganizationsaresettingupbanksofcellmod-
+noids (possibly patient-derived) as well as animal
+elsaccessibleforexperimentaluseatareasonable
+models will likely identify key molecular changes
+price (e.g. Parkinson’s Progression Markers Initia-
+that drive the dyshomeostasis of lysosomes and
+tive (PPMI), The Neuro Early Drug Discovery Unit
+endosomes.
+(EDDU)). Secondly, an initiative towards studying
+AnunexploredareainPDgeneticsisthepossible
+theseless-characterizedgenesneedstobeactively
+perturbation of non-canonical protein-coding
+encouraged. Taking on the challenge of studying
+sequences. Extensive evidence from several
+poorly characterized genes and proteins can be
+groups points to an underestimation of the coding
+daunting,duetothelimitedavailabilityoftoolsand
+potential of our genome, with thousands of
+knowledge from previous literature.26 Young
+proteins being expressed from open reading
+researchersshouldbeabletoembracetheinherent
+frames located in lncRNAs, in pseudogenes, in
+risks associated with such undertakings, which the 50 and 30 UTR of mRNAs, or overlapping the
+might seem less profitable from an individual point
+canonical coding sequence of cellular mRNAs but
+of view than studying more “popular” genes and in a different reading frame.286–291 High-
+pathways.Theongoingchangeinmentality,where
+confidenceexperimentalproofisaccumulatingthat
+anincreasedvarietyofoutputsforresearchimpact
+validates the expression of these alternative pro-
+are recognized rather than solely the number and
+teins (using Ribo-Seq or mass spectrometry), but
+impact factor of publications,277,278 will certainly
+alsotheirfunctionalimportanceinseveralkeycellu-
+help de-risk such studies at the individual level. larprocesses.288,291–294Forinstance,itisestimated
+Specific calls from funding bodies dedicated to the
+that30%ofcancer-causingsynonymousmutations
+study of poorly characterized genes and pathways alter unannotated ORFs,295 and these non-
+are also likely to re-equilibrate the balance. Hope-
+canonical ORFs can be essential for the survival
+fully,thiswillpushthefieldtogobeyondthehistor- ofcancercellsorcellfitness.287,293Thevastmajor-
+ical bias towards a limited set of PD-linked genes,
+21
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+ity of alternative proteins remain uncharacterized, molecular and cellular phenotypic screening
+anditwillbeimportantforgeneticiststotestthepos- assaysforendo-lysosomalfunctionwiththeuseof
+sibility that PD-linked SNPs alter such non- patient-specific, iPSC-derived cell types of interest
+canonical coding sequences. Even though gener- (beyond just dopaminergic neurons), it might be
+allysmallerthancanonicalproteins,alternativepro- possible to evaluate which particular disease-
+teins have been shown to localize to various causing dysfunction to target therapeutically, even
+subcellularcompartments,and somelikelyplayan in the absence of known genetic liabilities.
+importantroleinendo-lysosomalhomeostasis. Alternatively, given the intricate interplays
+Beyond variations in protein-coding sequences, between multiple pathways (synaptic vesicles
+endo-lysosomal dysfunction could arise from trafficking, endosomal sorting, lysosomal
+perturbations in other genetic elements causing degradation, proteostasis, mitochondrial health,
+transcriptional, translational, or post-translational etc...), therapeutic advancement could also
+deregulations of endo-lysosomal PD genes and benefit from multi-pronged approaches to
+proteins. Potential perturbators include non-coding ameliorate endo-lysosomal system function at
+RNAs, enhancers/silencers, and other several levels simultaneously, to ultimately
+transcription efficiency modulators. For instance, a reestablish neuronal homeostasis in PD but also
+GBA1 regulation network was recently described otherdiseasesinvolvingendo-lysosomes.
+in cultured immortalized cell lines, where the
+transcript of its pseudogene GBAP can act as a CRediT authorship contribution
+sponge for miR-122, thereby facilitating the
+statement
+maintenance of adequate glucocerebrosidase
+levels and activity.296 It remains to be determined
+Amitha Muraleedharan: Conceptualization,
+whether this pathway is active in disease-relevant
+Writing – original draft, Writing – review & editing.
+cell types and in vivo. Another miRNA, miR-128,
+Benoˆıt Vanderperre:Conceptualization, Writing –
+was shown to repress autophagy by downregulat-
+original draft, Writing – review & editing, Funding
+ing the master regulator of the autophagy-
+acquisition,Supervision.
+lysosomepathwayTFEB,sensitizingnigralDAneu-
+rons to a-syn-induced toxicity.297,298 Overall, this
+DECLARATION OF COMPETING INTEREST
+suggeststhatpseudogenesandmiRNAscouldplay
+an important role in PD pathogenesis.299 In the The authors declare that they have no known
+future, approaches such as chromosome confor- competing financial interests or personal relationships
+mation capture to study gene regulatory net- that could have appeared to influence the work
+works,300 and HITS-CLIP/CLIP-seq or other reported in this paper.
+genome-wide methods to identify targets of miR-
+NAs and other non-coding RNAs301,302 will likely
+inform on how PD-linked SNPs in non-coding and
+intergenic regions could affect the homeostasis of
+Acknowledgments
+theendo-lysosomalcompartment.
+Genes that have not been identified as PD risk We thank members of the Vanderperre lab for
+factorsingeneticstudiescanstillbeoftherapeutic their support, and discussions and for creating a
+interest for restoring proper endo-lysosomal stimulating scientific environment. We also thank
+function.297 While some PD-linked genes may not Dr. Ziv Gan-Or for helpful discussions regarding
+beeasilytargeted,someoftheirupstreamordown- PD genetics and especially the lysosomal
+stream functional partners may be more readily ceramide pathway. Scientific discussions with Dr.
+druggable. Exploring such avenues will increase Edward A. Fon, Dr. Thomas M. Durcan, and
+the chances of drug repurposing. Only a deeper members of their research teams were also key in
+mechanistic understanding of disease processes grasping the scale of the knowledge gaps in the
+will allow these possibilities, and increasing funds physiological and pathological roles of
+allocatedtobasicresearchwillbekeyinprogress- understudied PD-linked genes. Figures were
+ingtowardscuringPD. created with BioRender.com (https://
+Finally, from a therapeutic development point of biorender.com).
+view, deciphering the mechanistic causes
+underlying endo-lysosomal system failure that are
+Funding
+specific to individual patients based on their
+uniquegeneticvariations,couldyieldbetterresults
+This work was supported by funds from the
+than a one-size-fit-all approach, whether it be for
+Michael J. Fox Foundation for Parkinson’s
+familial or sporadic forms of PD. For instance,
+research (Grant ID: MJFF-021129), and Starting
+ameliorating lysosomal activity might be of limited
+FundsfromUniversite´ duQue´beca` Montre´al.
+impact if the targeting of material to degrade is
+inefficient due to defects in the endosomal sorting
+Received26January2023;
+machinery. By combining the advances in precise
+22
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+Accepted 27April 2023; member2;SH3GL2,SH3domaincontainingGRB2like2;
+Available online 4May2023 SLC17A5, solute carrierfamily17 member 5;SMPD1,
+sphingomyelinphosphodiesterase1; SNAP,
+Keywords: synaptosomeassociatedprotein;SNARE, SNAP
+Endosomes; receptor;SNCA,synucleinalpha;SNP,single nucleotide
+lysosomes; polymorphism;Sph,sphingosine; SPPL2B, Signal
+ceramide; peptidepeptidase-like2B;SV,Synapticvesicles;SYNJ1,
+cholesterol; Synaptojanin 1;SYT, Synaptotagmin;TGN,trans-Golgi
+trafficking network;TMEM,Transmembraneprotein;TNF-alpha,
+TumorNecrosisFactoralpha;VAMP,Vesicleassociated
+membrane proteins;VPS,Vacuolar protein sorting-
+Abbreviations:
+associated protein;VTI1B, Vesicle transportthrough
+a-syn, AlphaSynuclein;AA,aminoacids; ABCB9,ATP-
+interactionwith t-SNAREshomolog 1B; ZFYVE26,Zinc
+binding cassettesub-family Bmember 9; aCerase,Acid
+finger,FYVEdomaincontaining26
+Ceramidase;ARSA,ArylsulfataseA;ARSB,Arylsulfatase
+B;ASAH1, N-acylsphingosineamidohydrolase 1;
+ASMase,Acidsphingomyelinase; ATP10B,ATPase References
+phospholipid transporting 10B;ATP11B,ATPase
+phospholipidtransporting11B;ATP13A2,ATPasecation
+1. Deng, H., Fan, K., Jankovic, J., (2018). The Role of
+transporting 13A2;ATP6V0A1, ATPaseH+ transporting
+TMEM230 Gene in Parkinson’s Disease. J. Parkinsons
+V0subunita1; ATP6V1D, ATPaseH+ transportingV1
+Dis.8,469–477.
+subunitD; Cer, ceramide;CFTR, Cystic fibrosis 2. Kalinderi,K.,Bostantjopoulou,S.,Katsarou,Z.,Fidani,L.,
+transmembraneconductanceregulator;CLCN3,Chloride (2013). Association study of rs6812193 polymorphism
+Voltage-Gated Channel 3;CLIP-Seq, Cross-linking and withParkinson’sdiseaseinaGreekpopulation.Neurosci.
+immunoprecipitation; CS,chondroitin sulfate; CTSB, Lett.541,190–192.
+Cathepsin B;CTSD, Cathepsin D; DA, dopaminergic; 3. Nalls,M.A.,Pankratz,N.,Lill,C.M.,Do,C.B.,Hernandez,
+DGKQ,Diacylglycerol kinasetheta;EOPD, Early-onset D.G.,Saad,M.,etal.,(2014).Large-scalemeta-analysis
+Parkinson’sDisease; ESCRT,endosomalsorting of genome-wide association data identifies six new risk
+complexesrequiredfortransport;FSASD,freesialicacid lociforParkinson’sdisease.Nat.Genet.46,989–993.
+storagedisease;GAG,Glycosaminoglycans;GAK,Cyclin 4. Nalls,M.A.,Blauwendraat,C.,Vallerga,C.L.,Heilbron,K.,
+G-associated kinase; Gal, galactose;GALC, Bandres-Ciga,S.,Chang,D.,etal.,(2019).Identification
+Galactosylceramidasegene; GalCase, of novel risk loci, causal insights, and heritable risk for
+Galactosylceramidase;GalCer,galactosylceramide; Parkinson’s disease: a meta-analysis of genome-wide
+associationstudies.LancetNeurol.18,1091–1102.
+GalSph, galactosylsphingosine;Gb3,
+5. Nalls, M.A., Plagnol, V., Hernandez, D.G., Sharma, M.,
+globotriaosylceramide;GBA1, glucosylceramidasebeta
+1;GCase,b-Glucocerebrosidase; GD, Gaucher’s Sheerin, U.M., Saad, M., et al., (2011). Imputation of
+sequence variants for identification of genetic risks for
+disease;GLA, galactosidase alpha;GlcCer,
+Parkinson’s disease: a meta-analysis of genome-wide
+glucosylceramide; GlcSph,glucosylsphingosine; GM2,
+associationstudies.Lancet377,641–649.
+GM2ganglioside;GRN, granulin; GTP,Guanosine
+6. Gialluisi, A., Reccia, M.G., Modugno, N., Nutile, T.,
+triphosphate; GUSB,Beta-glucuronidases; GWAS,
+Lombardi, A., Di Giovannantonio, L.G., et al., (2021).
+Genomewide associationstudies;HEX, beta-
+Identification of sixteen novel candidate genes for late
+hexosaminidase; HITS-CLIP, High-throughput
+onsetParkinson’sdisease.Mol.Neurodegener.16,35.
+sequencingof RNAisolated bycrosslinking 7. Blauwendraat, C., Reed, X., Krohn, L., Heilbron, K.,
+immunoprecipitation;HS,Heparan sulfate; ICD, Bandres-Ciga, S., Tan, M., et al., (2020). Genetic
+Intracellulardomain; IDUA,Alpha-L-Iduronidase; ILV, modifiers of risk and age at onset in GBA associated
+intraluminal vesicle;INPP5F,Inositol polyphosphate-5- Parkinson’sdiseaseandLewybodydementia.Brain143,
+phosphatase F;IP,Immunoprecipitation;iPSC, induced 234–248.
+pluripotent stemcells; LacCer,lactosylceramide; LDL, 8. Robak,L.A.,Jansen,I.E.,vanRooij,J.,Uitterlinden,A.G.,
+Low-densitylipoprotein; LIMP2, Lysosomalintegral Kraaij,R.,Jankovic,J.,etal.,(2017).Excessiveburdenof
+membraneprotein 2;lncRNA, longnon-coding RNA; lysosomal storage disorder gene variants in Parkinson’s
+LOPD,Late-onsetParkinson’sDisease; LRP1, Low disease.Brain140,3191–3203.
+density lipoproteinreceptor-related protein 1;LRRK2, 9. Senkevich,K.,Gan-Or,Z.,(2020).Autophagylysosomal
+Leucine-richrepeatkinase 2;LSD, lysosomalstorage pathway dysfunction in Parkinson’s disease; evidence
+disease;miRNA,microRNA; MPS, fromhumangenetics.ParkinsonismRelat.Disord.73,60–
+71.
+Mucopolysaccharidoses;mRNA, messengerRNA; MVB,
+10. Vidyadhara,D.J.,Lee,J.E., Chandra,S.S.,(2019).Role
+Multivesicularbodies;NAGLU,N-acetylglucosaminidase,
+of the endolysosomal system in Parkinson’s disease. J.
+alpha;NEU1,Neuraminidase1; NPC, Niemann–Pick’s
+Neurochem.150,487–506.
+disease typeC; PD, Parkinson’sDisease;PG,
+11. Tatsuta, T., Langer, T., (2008). Quality control of
+Proteoglycans; PINK1,PTEN-inducedkinase 1;PIP,
+mitochondria: protection against neurodegeneration and
+phosphatidylinositolphosphate;PSAP,Prosaposin;SAP,
+ageing.EMBOJ.27,306–314.
+Saposin;SCAMP, Secretorycarrier-associated
+12. Schon, E.A., Przedborski, S., (2011). Mitochondria: the
+membraneprotein;SCARB2,scavengerreceptorclassB
+next(neurode)generation.Neuron70,1033–1053.
+23
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+13. Cook, C., Stetler, C., Petrucelli, L., (2012). Disruption of 29. Tucci,A.,Nalls,M.A.,Houlden,H.,Revesz,T.,Singleton,
+Protein Quality Control in Parkinson’s Disease. Cold A.B.,Wood,N.W.,etal.,(2010).Geneticvariabilityatthe
+SpringHarb.Perspect.Med.2 PARK16locus.Eur.J.HumanGenet.:EJHG.18,1356–
+14. Navarro-Romero, A., Fernandez-Gonzalez, I., Riera, J., 1359.
+Montpeyo, M., Albert-Bayo, M., Lopez-Royo, T., et al., 30. Paisa´n-Ru´ız, C., Jain, S., Evans, E.W., Gilks, W.P.,
+(2022). Lysosomal lipid alterations caused by Simo´n, J., van der Brug, M., et al., (2004). Cloning of
+glucocerebrosidase deficiency promote lysosomal the gene containing mutations that cause PARK8-linked
+dysfunction, chaperone-mediated-autophagy deficiency, Parkinson’sdisease.Neuron44,595–600.
+and alpha-synuclein pathology. NPJ Parkinsons Dis. 8, 31. Zimprich,A.,Biskup,S.,Leitner,P.,Lichtner,P.,Farrer,
+126. M.,Lincoln,S.,etal.,(2004).MutationsinLRRK2cause
+15. Galper, J., Dean, N.J., Pickford, R., Lewis, S.J.G., autosomal-dominant parkinsonism with pleomorphic
+Halliday, G.M., Kim, W.S., et al., (2022). Lipid pathway pathology.Neuron44,601–607.
+dysfunction is prevalent in patients with Parkinson’s 32. Li,J.-Q.,Tan,L.,Yu,J.-T.,(2014).TheroleoftheLRRK2
+disease.Brain,awac176. geneinParkinsonism.Mol.Neurodegener.9,47.
+16. Yarwood, R., Hellicar, J., Woodman, P.G., Lowe, M., 33. Rui,Q.,Ni,H.,Li,D.,Gao,R.,Chen,G.,(2018).TheRole
+(2020).Membranetraffickingin health anddisease. Dis. of LRRK2 in Neurodegeneration of Parkinson Disease.
+Model.Mech.13,dmm043448. Curr.Neuropharmacol.16,1348–1357.
+17. Filimonenko,M.,Stuffers,S.,Raiborg,C.,Yamamoto,A., 34. Usmani, A., Shavarebi, F., Hiniker, A., (2021). The Cell
+Malerød, L., Fisher, E.M.C., et al., (2007). Functional BiologyofLRRK2inParkinson’sDisease.Mol.Cell.Biol.
+multivesicular bodies are required for autophagic 41,e00660–e720.
+clearance of protein aggregates associated with 35. Liu, Z., Bryant, N., Kumaran, R., Beilina, A., Abeliovich,
+neurodegenerativedisease.J.CellBiol.179,485–500. A.,Cookson,M.R.,etal.,(2018).LRRK2phosphorylates
+18. Ferguson,S.M.,(2018).Axonaltransportandmaturation membrane-bound Rabs and is activated by GTP-bound
+oflysosomes.Curr.Opin.Neurobiol.51,45–51. Rab7L1 to promote recruitment to the trans-Golgi
+19. Farfel-Becker, T., Roney, J.C., Cheng, X.-T., Li, S., network.Hum.Mol.Genet.27,385–395.
+Cuddy, S.R., Sheng, Z.-H., (2019). Neuronal soma- 36. Purlyte,E.,Dhekne,H.S.,Sarhan,A.R.,Gomez,R.,Lis,
+derived degradative lysosomes are continuously P.,Wightman,M.,etal.,(2018).Rab29activationofthe
+delivered to distal axons to maintain local degradation Parkinson’sdisease-associatedLRRK2kinase.EMBOJ.
+capacity.CellRep.28,51–64.e4. 37,1–18.
+20. diRonza,A.,Bajaj,L.,Sharma,J.,Sanagasetti,D.,Lotfi, 37. Kuwahara, T., Inoue, K., D’Agati, V.D., Fujimoto, T.,
+P.,Adamski,C.J.,etal.,(2018).CLN8isanendoplasmic Eguchi,T.,Saha,S.,etal.,(2016).LRRK2andRAB7L1
+reticulum cargo receptor that regulates lysosome coordinately regulate axonal morphology and lysosome
+biogenesis.Nat.CellBiol.20,1370–1377. integrityindiversecellularcontexts.Sci.Rep.6,29945.
+21. Kondo,H.,Maksimova,N.,Otomo,T.,Kato,H.,Imai,A., 38. Fujimoto, T., Kuwahara, T., Eguchi, T., Sakurai, M.,
+Asano, Y., et al., (2017). Mutation in VPS33A affects Komori, T., Iwatsubo, T., (2018). Parkinson’s disease-
+metabolism of glycosaminoglycans: a new type of associated mutant LRRK2 phosphorylates Rab7L1 and
+mucopolysaccharidosis with severe systemic symptoms. modifiestrans-Golgimorphology.Biochem.Biophys.Res.
+Hum.Mol.Genet.26,173–183. Commun.495,1708–1715.
+22. Platt,F.M.,d’Azzo,A.,Davidson,B.L.,Neufeld,E.F.,Tifft, 39. Boecker, C.A., Goldsmith, J., Dou, D., Cajka, G.G.,
+C.J.,(2018).Lysosomalstoragediseases.Nat.Rev.Dis. Holzbaur, E.L.F., (2021). Increased LRRK2 kinase
+Primers4,27. activity alters neuronal autophagy by disrupting the
+23. Settembre, C., Ballabio, A., (2014).Lysosome:regulator axonal transport of autophagosomes. Curr. Biol. 31,
+oflipiddegradationpathways.TrendsCellBiol.24,743– 2140-54e6.
+750. 40. Boecker, C.A., Holzbaur, E.L.F., (2021). Hyperactive
+24. Volpicelli-Daley, L.A., Gamble, K.L., Schultheiss, C.E., LRRK2 kinase impairs the trafficking of axonal
+Riddle,D.M.,West,A.B.,Lee,V.M.Y.,(2014).Formation autophagosomes.Autophagy17,2043–2045.
+of a-synuclein Lewy neurite–like aggregates in axons 41. Kalogeropulou, A.F., Freemantle, J.B., Lis, P., Vides, E.
+impedes the transport of distinct endosomes. Mol. Biol. G., Polinski, N.K., Alessi, D.R., (2020). Endogenous
+Cell25,4010–4023. Rab29 does not impact basal or stimulated LRRK2
+25. Fraldi, A., Annunziata, F., Lombardi, A., Kaiser, H.-J., pathwayactivity.Biochem.J.477,4397–4423.
+Medina,D.L.,Spampanato,C.,etal.,(2010).Lysosomal 42. Rivero-R´ıos,P.,Romo-Lozano,M.,Ferna´ndez,B.,Fdez,
+fusion and SNARE function are impaired by cholesterol E., Hilfiker, S., (2020). Distinct Roles for RAB10 and
+accumulation in lysosomal storage disorders. EMBO J. RAB29 in Pathogenic LRRK2-Mediated Endolysosomal
+29,3607–3620. TraffickingAlterations.Cells.,9.
+26. Stoeger,T.,Gerlach,M.,Morimoto,R.I.,Amaral,L.A.N., 43. Lill, C.M., Roehr, J.T., McQueen, M.B., Kavvoura, F.K.,
+(2018). Large-scale investigation of the reasons why Bagade,S.,Schjeide,B.M.,etal.,(2012).Comprehensive
+potentially important genes are ignored. PLoS Biol. 16, research synopsis and systematic meta-analyses in
+e2006643. Parkinson’s disease genetics: The PDGene database.
+27. Bellucci, A., Longhena, F., Spillantini, M.G., (2022). The PLoSGenet.8,e1002548.
+Role of Rab Proteins in Parkinson’s Disease 44. Goldenring,J.R.,Shen,K.R.,Vaughan,H.D.,Modlin,I.M.,
+Synaptopathy.Biomedicines.,10. (1993). Identification of a small GTP-binding protein,
+28. Kuwahara, T., Iwatsubo, T., (2020). The Emerging Rab25, expressed in the gastrointestinal mucosa,
+Functions of LRRK2 and Rab GTPases in the kidney,andlung.J.Biol.Chem.268,18419–18422.
+EndolysosomalSystem.Front.Neurosci.14,227.
+24
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+45. Mitra, S., Mills, G.B., (2017). Rab25. In: Choi, S. (Ed.), 60. Hsu, F., Mao, Y., (2013). The Sac domain-containing
+Encyclopedia of Signaling Molecules. New York, NY, phosphoinositide phosphatases: structure, function, and
+Springer,NewYork,pp.1–13. disease.FrontBiol(Beijing).8,395–407.
+46. Kaul, Z., Chakrabarti, O., (2018). Endosomal sorting 61. Cao,M.,Park,D.,Wu,Y.,DeCamilli,P.,(2020).Absence
+complexes required for ESCRTing cells toward death ofSac2/INPP5FenhancesthephenotypeofaParkinson’s
+during neurogenesis, neurodevelopment and disease mutation of synaptojanin 1. PNAS 117, 12428–
+neurodegeneration.Traffic19,485–495. 12434.
+47. Alfred,V.,Vaccari,T.,(2016).Whenmembranesneedan 62. Pan,P.-Y.,Zhu,Y.,Shen,Y.,Yue,Z.,(2019).Crosstalk
+ESCRT:endosomalsortingandmembraneremodellingin between presynaptic trafficking and autophagy in
+healthanddisease.SwissMed.Wkly.146,w14347. Parkinson’sdisease.Neurobiol.Dis.122,64–71.
+48. Spencer,B.,Kim,C.,Gonzalez,T.,Bisquertt,A.,Patrick, 63. Cao, M., Wu, Y., Ashrafi, G., McCartney, A.J., Wheeler,
+C., Rockenstein, E., et al., (2016). alpha-Synuclein H.,Bushong,E.A.,etal.,(2017).ParkinsonSacDomain
+interfereswiththeESCRT-IIIcomplexcontributingtothe MutationinSynaptojanin1ImpairsClathrinUncoatingat
+pathogenesis of Lewy body disease. Hum. Mol. Genet. Synapses and Triggers Dystrophic Changes in
+25,1100–1115. DopaminergicAxons.Neuron93,882–896.e5.
+49. Stuchell, M.D., Garrus, J.E., Muller, B., Stray, K.M., 64. Davie,K.,Janssens,J.,Koldere,D.,DeWaegeneer,M.,
+Ghaffarian, S., McKinnon, R., et al., (2004). The human Pech, U., Kreft, L., et al., (2018). A Single-Cell
+endosomal sorting complex required for transport Transcriptome Atlas of the Aging Drosophila Brain. Cell
+(ESCRT-I) and its role in HIV-1 budding. J. Biol. Chem. 174,982–998.e20.
+279,36059–36071. 65. Pan,P.Y.,Li,X.,Wang,J.,Powell,J.,Wang,Q.,Zhang,
+50. Borland, H., Rasmussen, I., Bjerregaard-Andersen, K., Y.,etal.,(2017).Parkinson’sDisease-AssociatedLRRK2
+Rasmussen, M., Olsen, A., Vilhardt, F., (2022). a- Hyperactive Kinase Mutant Disrupts Synaptic Vesicle
+synuclein buildup is alleviated via ESCRT-dependent Traffickingin VentralMidbrainNeurons. J. Neurosci.37,
+endosomal degradation brought about by p38MAPK 11366–11376.
+inhibitionincellsexpressingp25a.J.Biol.Chem.298 66. Chang, D., Nalls, M.A., Hallgrimsdottir, I.B., Hunkapiller,
+51. Pincetic,A.,Medina,G.,Carter,C.,Leis,J.,(2008).Avian J., van der Brug, M., Cai, F., et al., (2017). A meta-
+sarcomavirusandhumanimmunodeficiencyvirus,type1 analysisofgenome-wideassociationstudiesidentifies17
+use different subsets of ESCRT proteins to facilitate the newParkinson’sdiseaseriskloci.Nat.Genet.49,1511–
+buddingprocess.J.Biol.Chem.283,29822–29830. 1516.
+52. Kaul, Z., Chakrabarti, O., (2017). Tumor susceptibility 67. Bandres-Ciga, S., Saez-Atienzar, S., Bonet-Ponce, L.,
+gene 101 regulates predisposition to apoptosis via Billingsley,K.,Vitale,D.,Blauwendraat,C.,etal.,(2019).
+ESCRT machinery accessory proteins. Mol. Biol. Cell The endocytic membrane trafficking pathway plays a
+28,2106–2122. majorroleintheriskofParkinson’sdisease.Mov.Disord.
+53. Zhang,Y.,Schmid,B.,Nikolaisen,N.K.,Rasmussen,M. 34,460–468.
+A., Aldana, B.I., Agger, M., et al., (2017). Patient iPSC- 68. Gowrisankaran, S., Steubler, V., Houy, S., Pen˜a del
+DerivedNeuronsforDiseaseModelingofFrontotemporal Castillo, J.G., Gelker, M., Kroll, J., et al., (2019).
+Dementia with Mutation in CHMP2B. Stem Cell Rep. 8, Endophilin-A controls recruitment, priming and fusion of
+648–658. neurosecretoryvesicles.bioRxiv,540864.
+54. Lee,J.-A.,Beigneux,A.,Ahmad,S.T.,Young,S.G.,Gao, 69. Milosevic, I., Giovedi, S., Lou, X., Raimondi, A., Collesi,
+F.-B., (2007). ESCRT-III Dysfunction Causes C.,Shen,H.,etal.,(2011).RecruitmentofEndophilinto
+Autophagosome Accumulation and Neurodegeneration. Clathrin-CoatedPitNecksIsRequiredforEfficientVesicle
+Curr.Biol.17,1561–1567. UncoatingafterFission.Neuron72,587–601.
+55. Kurashige, T., Takahashi, T., Yamazaki, Y., Hiji, M., 70. Murdoch John, D., Rostosky Christine, M.,
+Izumi, Y., Yamawaki, T., et al., (2013). Localization of Gowrisankaran, S., Arora Amandeep, S., Soukup, S.-F.,
+CHMP2B-immunoreactivityinthebrainstemofLewybody Vidal,R.,etal.,(2016).Endophilin-ADeficiencyInduces
+disease.Neuropathology33,237–245. the Foxo3a-Fbxo32 Network in the Brain and Causes
+56. Tanikawa,S.,Mori,F.,Tanji,K.,Kakita,A.,Takahashi,H., Dysregulation of Autophagy and the Ubiquitin-
+Wakabayashi, K., (2012). Endosomal sorting related ProteasomeSystem.CellRep.17,1071–1086.
+protein CHMP2B is localized in Lewy bodies and glial 71. Matta,S.,VanKolen,K.,daCunha,R.,vandenBogaart,
+cytoplasmic inclusions in alpha-synucleinopathy. G., Mandemakers, W., Miskiewicz, K., et al., (2012).
+Neurosci.Lett.527,16–21. LRRK2 Controls an EndoA Phosphorylation Cycle in
+57. Spencer,B.,Emadi,S.,Desplats,P.,Eleuteri,S.,Michael, SynapticEndocytosis.Neuron75,1008–1021.
+S., Kosberg, K., et al., (2014). ESCRT-mediated uptake 72. Deng, H.X., Shi, Y., Yang, Y., Ahmeti, K.B., Miller, N.,
+and degradation of brain-targeted alpha-synuclein single Huang, C., et al., (2016). Identification of TMEM230
+chainantibodyattenuatesneuronaldegenerationinvivo. mutationsinfamilialParkinson’sdisease.Nat.Genet.48,
+Mol.Ther.22,1753–1767. 733–739.
+58. Schechter,M.,Sharon,R.,(2021).AnEmergingRolefor 73. Wang, X., Whelan, E., Liu, Z., Liu, C.-F., Smith, W.W.,
+Phosphoinositidesin the Pathophysiology of Parkinson’s (2021). Controversy of TMEM230 Associated with
+Disease.J.ParkinsonsDis.11,1725–1750. Parkinson’sDisease.Neuroscience453,280–286.
+59. Nakatsu,F.,Messa,M.,Nandez,R.,Czapla,H.,Zou,Y., 74. Zhao,Y.,Zhang,K.,Pan,H.,Wang,Y.,Zhou,X.,Xiang,
+Strittmatter, S.M., et al., (2015). Sac2/INPP5F is an Y.,etal.,(2022).GeneticAnalysisofSixTransmembrane
+inositol 4-phosphatase that functions in the endocytic ProteinFamilyGenes inParkinson’sDiseaseina Large
+pathway.J.CellBiol.209,85–95. ChineseCohort.Front.AgingNeurosci.14,889057.
+25
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+75. Procopio, R., Gagliardi, M., Nicoletti, G., Morelli, M., autophagy via a common pathway. Nat. Commun. 7,
+Annesi, G., Quattrone, A., (2019). Analysis of the 11803.
+TMEM230 gene in familial Parkinson’s disease from 90. Zhang, F., Wu, Z., Long, F., Tan, J., Gong, N., Li, X.,
+southItaly.J.Neurol.Sci.404,16–18. et al., (2022). The Roles of ATP13A2 Gene Mutations
+76. Farrer, M.J., Milnerwood, A.J., Follett, J., Guella, I., Leading to Abnormal Aggregation of a-Synuclein in
+(2017).TMEM230isnotageneforParkinson’sdisease. Parkinson’sDisease.Front.Cell.Neurosci.16,927682.
+bioRxiv,097030. 91. Nagle,M.W.,Latourelle,J.C.,Labadorf,A.,Dumitriu,A.,
+77. Kim,M.J.,Deng,H.X.,Wong,Y.C.,Siddique,T.,Krainc, Hadzi, T.C., Beach, T.G., et al., (2016). The 4p16.3
+D., (2017). The Parkinson’s disease-linked protein Parkinson Disease Risk Locus Is Associated with GAK
+TMEM230 is required for Rab8a-mediated secretory ExpressionandGenesInvolvedwiththeSynapticVesicle
+vesicle trafficking and retromer trafficking. Hum. Mol. Membrane.PLoSOne11,e0160925.
+Genet.26,729–741. 92. Pankratz,N.,Wilk,J.B.,Latourelle,J.C.,DeStefano,A.L.,
+78. Lai,Y.C.,Kondapalli,C.,Lehneck,R.,Procter,J.B.,Dill, Halter, C., Pugh, E.W., et al., (2009). Genomewide
+B.D., Woodroof, H.I., et al., (2015). Phosphoproteomic association study for susceptibility genes contributing to
+screening identifies Rab GTPases as novel downstream familialParkinsondisease.Hum.Genet.124,593–605.
+targetsofPINK1.EMBOJ..34,2840–2861. 93. Dumitriu,A.,Pacheco,C.D.,Wilk,J.B.,Strathearn,K.E.,
+79. Madero-Pe´rez,J.,Fdez,E.,Ferna´ndez,B.,LaraOrdo´n˜ez, Latourelle, J.C., Goldwurm, S., et al., (2011). Cyclin-G-
+A.J., Blanca Ram´ırez, M., Go´mez-Suaga, P., et al., associated kinase modifies alpha-synuclein expression
+(2018). Parkinson disease-associated mutations in levelsandtoxicityinParkinson’sdisease:resultsfromthe
+LRRK2 cause centrosomal defects via Rab8a GenePDStudy.Hum.Mol.Genet.20,1478–1487.
+phosphorylation.Mol.Neurodegener.13,3. 94. Tseng, W.E., Chen, C.M., Chen, Y.C., Yi, Z., Tan, E.K.,
+80. Shimojo,M.,Madara,J.,Pankow,S.,Liu,X.,Yates3rd, Wu, Y.R., (2013). Genetic variations of GAK in two
+J., Sudhof, T.C., et al., (2019). Synaptotagmin-11 ChineseParkinson’sdiseasepopulations:acase-control
+mediates a vesicle trafficking pathway that is essential study.PLoSOne8,e67506.
+for development and synaptic plasticity. Genes Dev. 33, 95. Li, H., Zhang, C., Ji, Y. (2012). Association of GAK
+365–376. rs1564282 With Susceptibility to Parkinson’s Disease in
+81. Wang,C.,Wang,Y.,Hu,M.,Chai,Z.,Wu,Q.,Huang,R., ChinesePopulations.12.
+etal.,(2016).Synaptotagmin-11inhibitsclathrin-mediated 96. Lin, C.H., Chen, M.L., Tai, Y.C., Yu, C.Y., Wu, R.M.,
+andbulkendocytosis.EMBORep.17,47–63. (2013). Reaffirmation of GAK, but not HLA-DRA, as a
+82. Rudakou,U.,Yu,E.,Krohn,L.,Ruskey,J.A.,Asayesh,F., Parkinson’s disease susceptibility gene in a Taiwanese
+Dauvilliers, Y., et al., (2021). Targeted sequencing of population.Am.J.Med.Genet.PartB,Neuropsychiatric
+Parkinson’sdiseaselocigeneshighlightsSYT11,FGF20 Genet.:Off.Publ.Int.Soc.PsychiatricGenet.162b,841–
+andotherassociations.Brain144,462–472. 846.
+83. Wang,C.,Kang,X.,Zhou,L.,Chai,Z.,Wu,Q.,Huang,R., 97. Kametaka,S.,Moriyama,K.,Burgos,P.V.,Eisenberg,E.,
+et al., (2018). Synaptotagmin-11 is a critical mediator of Greene, L.E., Mattera, R., et al., (2007). Canonical
+parkin-linked neurotoxicity and Parkinson’s disease-like interaction of cyclin G associated kinase with adaptor
+pathology.Nat.Commun.9,81. protein 1 regulates lysosomal enzyme sorting. Mol. Biol.
+84. Usenovic, M., Tresse, E., Mazzulli, J.R., Taylor, J.P., Cell18,2991–3001.
+Krainc, D., (2012). Deficiency of ATP13A2 leads to 98. Miyazaki, M., Hiramoto, M., Takano, N., Kokuba, H.,
+lysosomal dysfunction, a-synuclein accumulation, and Takemura, J., Tokuhisa, M., et al., (2021). Targeted
+neurotoxicity. J. Neurosci. : Off. J. Soc. Neurosci. 32, disruptionofGAKstagnatesautophagicfluxbydisturbing
+4240–4246. lysosomaldynamics.Int.J.Mol.Med.48,195.
+85. vanVeen,S.,Martin,S.,VandenHaute,C., Benoy,V., 99. Zhang, C.X., Engqvist-Goldstein, A.E., Carreno, S.,
+Lyons, J., Vanhoutte, R., et al., (2020). ATP13A2 Owen, D.J., Smythe, E., Drubin, D.G., (2005). Multiple
+deficiency disrupts lysosomal polyamine export. Nature roles for cyclin G-associated kinase in clathrin-mediated
+578,419–424. sortingevents.Traffic6,1103–1113.
+86. Si,J.,VandenHaute,C.,Lobbestael,E.,Martin,S.,van 100. Cullen, V., Lindfors, M., Ng, J., Paetau, A., Swinton, E.,
+Veen, S., Vangheluwe, P., et al., (2021). ATP13A2 Kolodziej,P.,etal.,(2009).CathepsinDexpressionlevel
+Regulates Cellular a-Synuclein Multimerization, affects alpha-synuclein processing, aggregation, and
+Membrane Association, and Externalization. Int. J. Mol. toxicityinvivo.Mol.Brain2,5.
+Sci.22 101. Beilina, A., Rudenko, I.N., Kaganovich, A., Civiero, L.,
+87. Kett,L.R.,Stiller,B.,Bernath,M.M.,Tasset,I.,Blesa,J., Chau,H.,Kalia,S.K.,etal.,(2014).Unbiasedscreenfor
+Jackson-Lewis, V., et al., (2015). a-Synuclein- interactors of leucine-rich repeat kinase 2 supports a
+Independent Histopathological and Motor Deficits in common pathway for sporadic and familial Parkinson
+Mice Lacking the Endolysosomal Parkinsonism Protein disease.PNAS111,2626–2631.
+Atp13a2.J.Neurosci.35,5724–5742. 102. Lee, D.W., Wu, X., Eisenberg, E., Greene, L.E., (2006).
+88. Chien, H.F., Rodriguez, R.D., Bonifati, V., Nitrini, R., RecruitmentdynamicsofGAKandauxilintoclathrin-coated
+Pasqualucci, C.A., Gelpi, E., et al., (2021). pitsduringendocytosis.J.CellSci.119,3502–3512.
+Neuropathologic Findings in a Patient With Juvenile- 103. Lee,D.W.,Zhao,X.,Zhang,F.,Eisenberg,E.,Greene,L.
+Onset Levodopa-Responsive Parkinsonism Due to E., (2005). Depletion of GAK/auxilin 2 inhibits receptor-
+ATP13A2Mutation.Neurology97,763–766. mediatedendocytosisandrecruitmentofbothclathrinand
+89. Bento, C.F., Ashkenazi, A., Jimenez-Sanchez, M., clathrinadaptors.J.CellSci.118,4311–4321.
+Rubinsztein, D.C., (2016). The Parkinson’s disease- 104. Yim,Y.I.,Sun,T.,Wu,L.G.,Raimondi,A.,DeCamilli,P.,
+associated genes ATP13A2 and SYT11 regulate Eisenberg, E., et al., (2010). Endocytosis and clathrin-
+26
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+uncoating defects at synapses of auxilin knockout mice. activators for the enzymic hydrolysis of GM1 and GM2
+PNAS107,4412–4417. gangliosides.J.Biol.Chem.254,10592–10595.
+105. Ferrari,R.,Kia,D.A.,Tomkins,J.E.,Hardy,J.,Wood,N. 120. Tylki-Szymanska, A., Czartoryska, B., Vanier, M.T.,
+W., Lovering, R.C., et al., (2018). Stratification of Poorthuis, B.J., Groener, J.A., Lugowska, A., et al.,
+candidategenesforParkinson’sdiseaseusingweighted (2007). Non-neuronopathic Gaucher disease due to
+protein-protein interaction network analysis. BMC saposinCdeficiency.Clin.Genet.72,538–542.
+Genomics19,452. 121. Azuma, N., O’Brien, J.S., Moser, H.W., Kishimoto, Y.,
+106. Thomas,P.,Wohlford,D.,Aoh,Q.L.,(2016).SCAMP3is (1994).Stimulationofacidceramidaseactivitybysaposin
+a novel regulator of endosomal morphology and D.Arch.Biochem.Biophys.311,354–357.
+composition. Biochem. Biophys. Res. Commun. 478, 122. RadhaRamaDevi,A.,Kadali,S.,Radhika,A.,Singh,V.,
+1028–1034. Kumar,M.A.,Reddy,G.M.,etal.,(2019).AcuteGaucher
+107. Wallings,R.L.,Humble,S.W.,Ward,M.E.,Wade-Martins, Disease-Like Condition in an Indian Infant with a Novel
+R., (2019). Lysosomal Dysfunction at the Centre of Biallelic Mutation in the Prosaposin Gene. J Pediatr
+Parkinson’s Disease and Frontotemporal Dementia/ Genet.8,81–85.
+AmyotrophicLateralSclerosis.TrendsinNeurosciences: 123. Sandhoff,K.,vanEchten,G.,Schroder,M.,Schnabel,D.,
+ElsevierLtd,pp.899–912. Suzuki, K., (1992).Metabolismof glycolipids: the role of
+108. Straniero, L., Rimoldi, V., Monfrini, E., Bonvegna, S., glycolipid-binding proteins in the function and
+Melistaccio,G.,Lake,J.,etal.,(2022).RoleofLysosomal pathobiochemistry of lysosomes. Biochem. Soc. Trans.
+Gene Variants in Modulating GBA-Associated 20,695–699.
+Parkinson’sDiseaseRisk.Mov.Disord.37,1202–1210. 124. Calderwood, L., Wenger, D.A., Matern, D., Dahmoush,
+109. Plotegher, N., Bubacco, L., Greggio, E., Civiero, L., H., Watiker, V., Lee, C., (2020). Rare Saposin A
+(2019). Ceramides in Parkinson’s disease: From recent deficiency: Novel variant and psychosine analysis. Mol.
+evidence to new hypotheses. Front. Neurosci: Frontiers Genet.Metab.129,161–164.
+MediaS.A.. 125. Kose,M.,Demir,S.A.,Akinci,G.,Eraslan,C.,Yilmaz,U.,
+110. Paciotti, S., Albi, E., Parnetti, L., Beccari, T., (2020). Ceylaner,S.,etal.,(2019).TheSecondCaseofSaposin
+Lysosomal ceramide metabolism disorders: Implications ADeficiencyandAlteredAutophagy.JIMDRep.44,43–
+inParkinson’sdisease.J.Clin.Med.:MDPI. 54.
+111. Wallom,K.L.,Ferna´ndez-Sua´rez,M.E.,Priestman,D.A., 126. Oji,Y.,Hatano,T.,Ueno,S.I.,Funayama,M.,Ishikawa,
+teVruchte,D.,Huebecker,M.,Hallett,P.J.,etal.,(2022). K.I., Okuzumi, A., et al., (2020). Variants in saposin D
+Glycosphingolipid metabolism and its role in ageing and domainofprosaposingenelinkedtoParkinson’sdisease.
+Parkinson’sdisease.GlycoconjugateJ.:Springer,39–53. Brain143,1190–1205.
+112. Guedes, L.C., Chan, R.B., Gomes, M.A., Conceic¸a˜o, V. 127. Chao,Y.X.,Lee,B.,Ng,E.Y.,Lian,M.M.,Chew,E.G.Y.,
+A.,Machado,R.B.,Soares,T.,etal.,(2017).Serumlipid Tandiono,M.,etal.,(2021).AssociationanalysisofPSAP
+alterations in GBA-associated Parkinson’s disease. variants in Parkinson’s disease patients. Oxford
+ParkinsonismRelat.Disord.44,58–65. UniversityPress,Brain.
+113. Mielke,M.M.,Maetzler,W.,Haughey,N.J.,Bandaru,V.V. 128. Matsuda, J., Kido, M., Tadano-Aritomi, K., Ishizuka, I.,
+R., Savica, R., Deuschle, C., et al., (2013). Plasma Tominaga, K., Toida, K., et al., (2004). Mutation in
+ceramide andglucosylceramide metabolism is altered in saposin D domain of sphingolipid activator protein gene
+sporadic Parkinson’s disease and associated with causesurinarysystemdefectsandcerebellarPurkinjecell
+cognitiveimpairment:apilotstudy.PLoSOne8,e73094. degeneration with accumulation of hydroxy fatty acid-
+114. Abbott, S.K.,Li, H., Mun˜oz,S.S., Knoch, B.,Batterham, containing ceramide in mouse. Hum. Mol. Genet. 13,
+M., Murphy, K.E., et al., (2014). Altered ceramide acyl 2709–2723.
+chain length and ceramide synthase gene expression in 129. Alcalay,R.N.,Levy,O.A.,Wolf,P.,Oliva,P.,Zhang,X.K.,
+Parkinson’sdisease.Mov.Disord.29,518–526. Waters, C.H., et al., (2016). SCARB2 variants and
+115. Sidransky, E., Samaddar, T., Tayebi, N., (2009). glucocerebrosidase activity in Parkinson’s disease. NPJ
+Mutationsin GBAare associatedwith familialParkinson ParkinsonsDis.2
+disease susceptibility and age at onset. Neurology 73, 130. Gonzalez, A., Valeiras, M., Sidransky, E., Tayebi, N.,
+1424–1425.authorreply5–6. (2014). Lysosomal integral membrane protein-2: A new
+116. Huebecker, M., Moloney, E.B., Van Der Spoel, A.C., player in lysosome-related pathology. In: Molecular
+Priestman,D.A.,Isacson,O.,Hallett,P.J.,etal.,(2019). GeneticsandMetabolism.AcademicPressInc.,pp.84–
+Reduced sphingolipid hydrolase activities, substrate 91.
+accumulation and ganglioside decline in Parkinson’s 131. Michelakakis,H.,Xiromerisiou,G.,Dardiotis,E.,Bozi,M.,
+disease.Mol.Neurodegener.14 Vassilatis,D.,Kountra,P.M.,etal.,(2012).Evidenceofan
+117. Ferrazza, R., Cogo, S., Melrose, H., Bubacco, L., association between the scavenger receptor class B
+Greggio,E.,Guella,G.,etal.,(2016).LRRK2deficiency member 2 gene and Parkinson’s disease. Mov. Disord.
+impactsceramidemetabolisminbrain.Biochem.Biophys. 27,400–405.
+Res.Commun.478,1141–1146. 132. Reczek, D., Schwake, M., Schroder, J., Hughes, H.,
+118. Zhao, Y.W., Pan, H.X., Zeng, Q., Fang, Z.H., Liu, Z.H., Blanz, J.,Jin,X.,etal., (2007).LIMP-2is areceptorfor
+Wang, Y., et al., (2021). PSAP variants in Parkinson’s lysosomal mannose-6-phosphate-independent targeting
+disease: a large cohort study in Chinese mainland ofbeta-glucocerebrosidase.Cell131,770–783.
+population.Brain144,e25. 133. Kuronita, T., Eskelinen, E.L., Fujita, H., Saftig, P.,
+119. Li, S.C., Nakamura, T., Ogamo, A., Li, Y.T., (1979). Himeno, M., Tanaka, Y., (2002). A role for the
+Evidence for the presence of two separate protein lysosomal membrane protein LGP85 in the biogenesis
+27
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+and maintenance of endosomal and lysosomal galactosidase A gene in sporadic Parkinson’s disease.
+morphology.J.CellSci.115,4117–4131. Neurosci.Lett.500,31–35.
+134. Hopfner,F.,Schulte,E.C.,Mollenhauer,B.,Bereznai,B., 149. Wu,G.,Yan,B.,Wang,X.,Feng,X.,Zhang,A.,Xu,X.,
+Knauf,F.,Lichtner,P.,etal.,(2013).TheroleofSCARB2 et al., (2008). Decreased activities of lysosomal acid
+as susceptibility factor in Parkinson’s disease. Mov. alpha-D-galactosidase A in the leukocytes of sporadic
+Disord.28,538–540. Parkinson’sdisease.J.Neurol.Sci.271,168–173.
+135. Chen,S.,Zhang,Y.,Chen,W.,Wang,Y.,Liu,J.,Rong,T. 150. Taguchi,A.,Maruyama,H.,Nameta,M.,Yamamoto,T.,
+Y., et al., (2012). Association study of SCARB2 Matsuda,J.,Kulkarni,A.B.,etal.,(2013).Asymptomatic
+rs6812193 polymorphism with Parkinson’s disease in Fabry disease mouse model generated by inducing
+HanChinese.Neurosci.Lett.516,21–23. globotriaosylceramide synthesis. Biochem. J. 456, 373–
+136. Huo, Q., Li, T., Zhao, P., Wang, L., (2015). Association 383.
+between rs6812193 polymorphism and sporadic 151. Alcalay, R.N., Wolf, P., Levy, O.A., Kang, U.J., Waters,
+Parkinson’s disease susceptibility. Neurol. Sci. 36, C.,Fahn,S.,etal.,(2018).AlphagalactosidaseAactivity
+1479–1481. inParkinson’sdisease.Neurobiol.Dis.112,85–90.
+137. Li,K.,TangBs,Y.u.,Rl,L.Z.,Qy,S.,Li,Q.,etal.,(2012). 152. Angelopoulou, E., Paudel, Y.N., Villa, C., Piperi, C.,
+Association study between two novel single nucleotide (2020). Arylsulfatase a (Asa) in parkinson’s disease:
+polymorphisms and sporadic Parkinson’s disease in Frompathogenesistobiomarkerpotential.BrainSci.10,
+ChineseHanpopulation.Neurosci.Lett.517,56–59. 1–13.
+138. Usenko, T.S., Bezrukova, A.I., Bogdanova, D.A., 153. Lee,J.S.,Kanai,K.,Suzuki,M.,Kim,W.S.,Yoo,H.S.,Fu,
+Kopytova, A.E., Senkevich, K.A., Gracheva, E.V., et al., Y.H.,etal.,(2019).ArylsulfataseA,ageneticmodifierof
+(2021).GeneticsvariantsandexpressionoftheSCARB2 Parkinson’s disease, is an a-synuclein chaperone. Brain
+gene in the pathogenesis of Parkinson’s disease in 142,2845–2859.
+Russia.Neurosci.Lett.741 154. Senkevich, K., Beletskaia, M., Dworkind, A., Yu, E.,
+139. Rothaug, M., Zunke, F., Mazzulli, J.R., Schweizer, M., Ahmad,J.,Ruskey,J.A.,etal.,(2023).Associationofrare
+Altmeppen,H.,Lullmann-Rauch,R.,etal.,(2014).LIMP-2 variantsinARSAwithParkinson’sdisease.medRxiv.
+expressioniscriticalforbeta-glucocerebrosidaseactivity 155. Fan, Y., Mao, C.Y., Dong, Y.L., Shen, S., Zhang, Q.M.,
+and alpha-synuclein clearance. PNAS 111, 15573– Yao, D.B., et al., (2020). ARSA gene variants and
+15578. Parkinson’s disease. Oxford University Press, Brain, p.
+140. Martin,S.,Smolders,S.,VandenHaute,C.,Heeman,B., e47-e..
+van Veen, S., Crosiers, D., et al., (2020). Mutated 156. Makarious, M.B., Diez-Fairen, M., Krohn, L.,
+ATP10B increases Parkinson’s disease risk by Blauwendraat, C., Bandres-Ciga, S., Ding, J., et al.,
+compromising lysosomal glucosylceramide export. Acta (2019).ARSAvariantsina-synucleinopathies.Brain142,
+Neuropathol.139,1001–1024. e70
+141. Real, R., Moore, A., Blauwendraat, C., Morris, H.R., 157. Li, M., Shi, X., Ma, J., Sun, W., Wang, Z., Li, D., et al.,
+Bandres-Ciga, S., (2020). ATP10B and the risk for (2022).PlasmaarylsulfataseAlevelsareassociatedwith
+Parkinson’s disease. Acta Neuropathologica: Springer, cognitivefunctioninParkinson’sdisease.Neurol.Sci.43,
+401–402. 4753–4759.
+142. Ishiguro,M.,Yoshino,H.,Li,Y.,Ikeda,A.,Funayama,M., 158. Eliyahu, E., Park, J.H., Shtraizent, N., He, X.,
+Nishioka, K., et al., (2021). Genetic analysis of ATP10B Schuchman, E.H., (2007). Acid ceramidase is a novel
+for Parkinson’s disease in Japan. Parkinsonism and factor required for early embryo survival. FASEB J. 21,
+RelatedDisorders.ElsevierLtd,pp.10–12. 1403–1409.
+143. Zhao,Y.,Pan,H.,Wang,Y.,Zeng,Q.,Fang,Z.,He,R., 159. Frohbergh, M., He, X., Schuchman, E.H., (2015). The
+etal.,(2021).ATP10BvariantsinParkinson’sdisease:a molecularmedicineofacidceramidase.Biol.Chem.396,
+large cohort study in Chinesemainland population. Acta 759–765.
+Neuropathol.141,805–806. 160. Kim, M.J., Jeon, S., Burbulla, L.F., Krainc, D., (2018).
+144. Segawa,K.,Kurata,S.,Nagata,S.,(2018).TheCDC50A Acid ceramidase inhibition ameliorates alpha-synuclein
+extracellular domain is required for forming a functional accumulation upon loss of GBA1 function. Hum. Mol.
+complex with and chaperoning phospholipid flippases to Genet.27,1972–1988.
+theplasmamembrane.J.Biol.Chem.293,2172–2182. 161. Dagan, E., Adir, V., Schlesinger, I., Borochowitz, Z.,
+145. Li, G., Cui, S., Du, J., Liu, J., Zhang, P., Fu, Y., et al., Ayoub,M.,Mory,A.,etal.,(2015).SMPD1mutationsand
+(2018). Association of GALC, ZNF184, IL1R2 and Parkinson disease. In: Parkinsonism and Related
+ELOVL7WithParkinson’sDiseaseinSouthernChinese. Disorders.ElsevierLtd,pp.1296–1297.
+Front.AgingNeurosci.10 162. Alcalay,R.N.,Mallett,V.,Vanderperre,B.,Tavassoly,O.,
+146. Senkevich, K., Zorca, C.E., Dworkind, A., Rudakou, U., Dauvilliers, Y., Wu, R.Y.J., et al., (2019). SMPD1
+Somerville,E.,Yu,E.,etal.,(2022).GALCvariantsaffect mutations, activity, and a-synuclein accumulation in
+galactosylceramidase enzymatic activity and risk of Parkinson’sdisease.Mov.Disord.34,526–535.
+Parkinson’sdisease.Brain. 163. Gan-Or, Z, Ozelius, L.J., Bar-Shira, A., Saunders-
+147. Nelson,M.P.,Boutin,M.,Tse,T.E.,Lu,H.,Haley,E.D., Pullman, R., Mirelman, A., Kornreich, R., et al. (2013).
+Ouyang,X.,etal.,(2018).Thelysosomalenzymealpha- The p.L302P mutation in the lysosomal enzyme gene
+GalactosidaseAisdeficientinParkinson’sdiseasebrain SMPD1isariskfactorforParkinsondisease.
+inassociationwiththepathologicaccumulationofalpha- 164. Foo,J.N.,Liany,H.,Bei,J.X.,Yu,X.Q.,Liu,J.,Au,W.L.,
+synuclein.Neurobiol.Dis.110,68–81. et al., (2013). A rare lysosomal enzyme gene SMPD1
+148. Wu,G.,Pang,S.,Feng,X.,Zhang,A.,Li,J.,Gu,K.,etal., variant (p.R591C) associates with Parkinson’s disease.
+(2011). Genetic analysis of lysosomal alpha- NeurobiolAging.342890.e13-.e15.
+28
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+165. Mao,C.Y.,Yang,J.,Wang,H.,Zhang,S.Y.,Yang,Z.H., neurodegenerativediseases.Mol.Cell.Neurosci.43,33–
+Luo,H.Y.,etal.,(2017).SMPD1variantsinChineseHan 42.
+patientswithsporadicParkinson’sdisease.Parkinsonism 181. Wu,C.C.,Islam,M.M.,Lee,A.J.,Su,C.H.,Weng,Y.C.,
+Relat.Disord.34,59–61. Yeh,C.Y.,etal.,(2022).AssociationbetweenStatinUse
+166. Song, N.,Wang,W., Chen,C., Niu,J.,Guojin,Y., Guo, and Risk of Parkinson’s Disease: Evidence from 18
+C., et al., (2018). Analysis of SMPD1 gene mutations in Observational Studies Comprising 3.7 Million
+ChinesepatientswithParkinson’sdisease.ZhonghuaYi Individuals.JPersMed.,12.
+XueYiChuanXueZaZhi35,319–323. 182. Somerville, E.N., Krohn, L., Yu, E., Rudakou, U.,
+167. Gan-Or, Z., Dion, P.A., Rouleau, G.A., (2015). Genetic Senkevich, K., Ruskey, J.A., et al., (2023). NPC1
+perspective on the role of the autophagy-lysosome variants are not associated with Parkinson’s disease,
+pathway in Parkinson disease. Taylor and Francis Inc., REM-sleep behavior disorder or dementia with Lewy
+Autophagy,pp.1443–1457. bodiesinEuropeancohorts.Neurobiol.Aging.
+168. Beccari,T.,Hoade,J.,Orlacchio,A.,Stirling,J.L.,(1992). 183. Schneider, S.A., Tahirovic, S., Hardy, J., Strupp, M.,
+Cloningandsequenceanalysisof a cDNAencodingthe Bremova-Ertl, T., (2021). Do heterozygous mutations of
+alpha-subunit of mouse beta-N-acetylhexosaminidase Niemann-Pick type C predispose to late-onset
+and comparison with the human enzyme. Biochem. J. neurodegeneration: a review of the literature. J. Neurol.
+285(Pt2),593–596. 268,2055–2064.
+169. Karimzadeh,P.,Jafari,N.,NejadBiglari,H.,JabbehDari, 184. Akiyama, H., Kobayashi, S., Hirabayashi, Y., Murakami-
+S., Ahmad Abadi, F., Alaee, M.R., et al., (2014). GM2- Murofushi, K., (2013). Cholesterol glucosylation is
+Gangliosidosis (Sandhoff and Tay Sachs disease): catalyzed by transglucosylation reaction of beta-
+Diagnosis and Neuroimaging Findings (An Iranian glucosidase 1. Biochem. Biophys. Res. Commun. 441,
+PediatricCaseSeries).IranianJ.ChildNeurol.8,55–60. 838–843.
+170. Suzuki, K., Iseki, E., Katsuse, O., Yamaguchi, A., 185. Hissa,B.,Duarte,J.G.,Kelles,L.F.,Santos,F.P.,delPuerto,
+Katsuyama, K., Aoki, I., et al., (2003). Neuronal H.L.,Gazzinelli-Guimara˜es,P.H.,etal.,(2012).Membrane
+accumulation of alpha- and beta-synucleins in the brain Cholesterol Regulates Lysosome-Plasma Membrane
+of a GM2 gangliosidosis mouse model. Neuroreport 14, FusionEventsandModulatesTrypanosomacruziInvasion
+551–554. ofHostCells.PLoSNegl.Trop.Dis.6,e1583.
+171. Inzelberg, R., Korczyn, A.D., (1994). Parkinsonism in 186. Gil, C., Soler-Jover, A., Blasi, J., Aguilera, J., (2005).
+adult-onsetGM2gangliosidosis.Mov.Disord.9,375–377. SynapticproteinsandSNAREcomplexesarelocalizedin
+172. Brekk,O.R.,Korecka,J.A.,Crapart,C.C.,Huebecker,M., lipid rafts from rat brain synaptosomes. Biochem.
+MacBain, Z.K., Rosenthal, S.A., et al., (2020). Biophys.Res.Commun.329,117–124.
+Upregulating beta-hexosaminidase activity in rodents 187. Shi, D., Sheng, A., Chi, L., (2021). Glycosaminoglycan-
+prevents alpha-synuclein lipid associations and protects Protein Interactionsand Their Roles in Human Disease.
+dopaminergic neurons from alpha-synuclein-mediated Front.Mol.Biosci.8,639666.
+neurotoxicity.ActaNeuropathol.Commun.8,127. 188. Lehri-Boufala, S., Ouidja, M.O., Barbier-Chassefiere, V.,
+173. Garcia-Sanz, P., MFG Aerts, J., Moratalla, R., (2021). Henault, E., Raisman-Vozari, R., Garrigue-Antar, L.,
+The Role of Cholesterol in alpha-Synuclein and Lewy et al., (2015). New roles of glycosaminoglycans in
+Body Pathology in GBA1 Parkinson’s Disease. Mov. alpha-synuclein aggregation in a cellular model of
+Disord.36,1070–1085. Parkinsondisease.PLoSOne10,e0116641.
+174. Weber, L.W., Boll, M., Stampfl, A., (2004). Maintaining 189. Holmes, B.B., DeVos, S.L., Kfoury, N., Li, M., Jacks, R.,
+cholesterol homeostasis: sterol regulatory element- Yanamandra, K., et al., (2013). Heparan sulfate
+bindingproteins.WorldJ.Gastroenterol.10,3081–3087. proteoglycans mediate internalization and propagation of
+175. Brauer,A.U.,Kuhla,A.,Holzmann,C.,Wree,A.,Witt,M., specific proteopathic seeds. Proc. Nat. Acad. Sci. 110,
+(2019).CurrentChallengesinUnderstandingtheCellular E3138–E3147.
+and Molecular Mechanisms in Niemann-Pick Disease 190. Stopschinski,B.E.,Holmes,B.B.,Miller,G.M.,Manon,V.
+TypeC1.Int.J.Mol.Sci.20 A.,Vaquer-Alicea,J.,Prueitt,W.L.,etal.,(2018).Specific
+176. Vivas,O.,Tiscione,S.A.,Dixon,R.E.,Ory,D.S.,Dickson, glycosaminoglycanchainlengthandsulfationpatternsare
+E.J., (2019). Niemann-Pick Type C Disease Reveals a requiredforcelluptakeoftauversusa-synucleinandb-
+LinkbetweenLysosomalCholesterolandPtdIns(4,5)P(2) amyloidaggregates.J.Biol.Chem.293,10826–10840.
+ThatRegulatesNeuronalExcitability.CellRep.27,2636– 191. Zhang,Q.,Xu,Y.,Lee,J.,Jarnik,M.,Wu,X.,Bonifacino,
+2648.e4. J.S.,etal.,(2020).Amyosin-7B–dependentendocytosis
+177. Zech,M.,Nu¨bling,G.,Castrop,F.,Jochim,A.,Schulte,E. pathwaymediatescellularentryofa-synucleinfibrilsand
+C., Mollenhauer, B., et al., (2013). Niemann-Pick C polycation-bearing cargos. Proc. Nat. Acad. Sci. 117,
+disease gene mutations and age-related 10865–10875.
+neurodegenerativedisorders.PLoSOne8,e82879. 192. Novinec, M., Lenarcic, B., Turk, B., (2014). Cysteine
+178. Kluenemann, H.H., Nutt, J.G., Davis, M.Y., Bird, T.D., cathepsin activity regulation by glycosaminoglycans.
+(2013). Parkinsonism syndrome in heterozygotes for BiomedRes.Int.2014,309718.
+Niemann-PickC1.J.Neurol.Sci.335,219–220. 193. Galeev, A., Suwandi, A., Bakker, H., Oktiviyari, A.,
+179. Limphaibool, N., Iwanowski, P., Holstad, M.J.V., Routier, F.H., Krone, L., et al., (2020). Proteoglycan-
+Perkowska, K., (2018). Parkinsonism in Inherited Dependent Endo-Lysosomal Fusion Affects Intracellular
+Metabolic Disorders: Key Considerations and Major Survival of Salmonella Typhimurium in Epithelial Cells.
+Features.Front.Neurol.9,857. Front.Immunol.11,731.
+180. Liu, J.P., Tang,Y., Zhou,S., Toh, B.H., McLean, C., Li, 194. Chen, M., Vincent, J., Ezeanii, A., Wakade, S.,
+H.,(2010).Cholesterolinvolvementinthepathogenesisof Yerigenahally, S., Mor, D.E., (2022). Heparan sulfate
+29
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+proteoglycans mediate prion-like a-synuclein toxicity in chaperone protective protein/cathepsin A prevents its
+Parkinson’s in vivo models. Life Sci. Alliance 5 premature oligomerization. J. Biol. Chem. 284, 28430–
+e202201366. 28441.
+195. Winder-Rhodes, S.E., Garcia-Reitbock, P., Ban, M., 209. Annunziata, I., Patterson, A., Helton, D., Hu, H.,
+Evans, J.R., Jacques, T.S., Kemppinen, A., et al., Moshiach, S., Gomero, E., et al., (2013). Lysosomal
+(2012). Genetic and pathological links between NEU1deficiencyaffectsamyloidprecursorproteinlevels
+Parkinson’s disease and the lysosomal disorder and amyloid-b secretion via deregulated lysosomal
+Sanfilipposyndrome.Mov.Disord.27,312–315. exocytosis.Nat.Commun.4,2734.
+196. Drouin-Ouellet, J., Legault, E.M., Nilsson, F., Pircs, K., 210. Schneider, J.S., Seyfried, T.N., Choi, H.-S., Kidd, S.K.,
+Bouquety, J., Petit, F., et al., (2022). Age-related (2015). Intraventricular Sialidase Administration
+pathological impairments in directly reprogrammed Enhances GM1 Ganglioside Expression and Is Partially
+dopaminergic neurons derived from patients with Neuroprotective in a Mouse Model of Parkinson’s
+idiopathic Parkinson’s disease. Stem Cell Rep. 17, Disease.PLoSOne10e0143351.
+2203–2219. 211. Huizing,M.,Hackbarth,M.E.,Adams,D.R.,Wasserstein,
+197. Scott, H.S., Nelson, P.V., Litjens, T., Hopwood, J.J., M., Patterson, M.C., Walkley, S.U., et al., (2021). Free
+Morris, C.P., (1993). Multiple polymorphisms within the sialic acid storage disorder: Progress and promise.
+alpha-L-iduronidasegene(IDUA):implicationsforarolein Neurosci.Lett.755135896.
+modification of MPS-I disease phenotype. Hum. Mol. 212. Eriksen, J.L., Mackenzie, I.R., (2008). Progranulin:
+Genet.2,1471–1473. normal function and role in neurodegeneration. J.
+198. Hampe,C.S.,Eisengart,J.B.,Lund,T.C.,Orchard,P.J., Neurochem.104,287–297.
+Swietlicka, M., Wesley, J., et al., (2020). 213. Hu, F., Padukkavidana, T., Vaegter, C.B., Brady, O.A.,
+Mucopolysaccharidosis Type I: A review of the natural Zheng, Y., Mackenzie, I.R., et al., (2010). Sortilin-
+historyandmolecularpathology.Cells9,1838. mediated endocytosis determines levels of the
+199. Peters, C., Schmidt, B., Rommerskirch, W., Rupp, K., frontotemporal dementia protein, progranulin. Neuron
+Zuhlsdorf, M., Vingron, M., et al., (1990). Phylogenetic 68,654–667.
+conservation of arylsulfatases. cDNA cloning and 214. Zhou,X.,Sun,L.,BastosdeOliveira,F.,Qi,X.,Brown,W.
+expression of human arylsulfatase B. J. Biol. Chem. J., Smolka, M.B., et al., (2015). Prosaposin facilitates
+265,3374–3381. sortilin-independent lysosomal trafficking of progranulin.
+200. Jansen,I.E.,Ye,H.,Heetveld,S.,Lechler,M.C.,Michels, J.CellBiol.210,991–1002.
+H.,Seinstra,R.I.,etal.,(2017).Discoveryandfunctional 215. Zhou,X.,Sun,L.,Bracko,O.,Choi,J.W.,Jia,Y.,Nana,A.
+prioritizationofParkinson’sdiseasecandidategenesfrom L., et al., (2017). Impaired prosaposin lysosomal
+large-scale whole exome sequencing. Genome Biol. 18, trafficking in frontotemporal lobar degeneration due to
+22. progranulinmutations.Nat.Commun.8,15277.
+201. Glanz,V.Y.,Myasoedova,V.A.,Grechko,A.V.,Orekhov, 216. Tang,W.,Lu,Y.,Tian,Q.-Y.,Zhang,Y.,Guo,F.-J.,Liu,
+A.N.,(2019).Sialidaseactivityinhumanpathologies.Eur. G.-Y.,etal.,(2011).TheGrowthFactorProgranulinBinds
+J.Pharmacol.842,345–350. to TNF Receptors and Is Therapeutic Against
+202. Minami,A.,Fujita,Y.,Shimba,S.,Shiratori,M.,Kaneko, InflammatoryArthritisinMice.Science332,478–484.
+Y.K., Sawatani, T., et al., (2020). The sialidase inhibitor 217. Cruts, M., Van Broeckhoven, C., (2008). Loss of
+2,3-dehydro-2-deoxy-N-acetylneuraminic acid is a progranulin function in frontotemporal lobar
+glucose-dependent potentiator of insulin secretion. Sci. degeneration.TrendsGenet.24,186–194.
+Rep.10,5198. 218. Goedert, M., Spillantini, M.G., (2006). Frontotemporal
+203. Khan, A., Sergi, C.M., (2022). NEU1-A Unique lobar degeneration through loss of progranulin function.
+Therapeutic Target for Alzheimer’s Disease. Front. Brain129,2808–2810.
+Pharmacol.13,902259. 219. LeBer,I.,vanderZee,J.,Hannequin,D.,Gijselinck,I.,
+204. Yoo, S.W., Motari, M.G., Susuki, K., Prendergast, J., Campion, D., Puel, M., et al., (2007). Progranulin null
+Mountney, A., Hurtado, A., et al., (2015). Sialylation mutations in both sporadic and familial frontotemporal
+regulates brain structure and function. FASEB J. 29, dementia.Hum.Mutat.28,846–855.
+3040–3053. 220. Rademakers, R., Baker, M., Gass, J., Adamson, J.,
+205. Schnaar, R.L., Gerardy-Schahn, R., Hildebrandt, H., Huey, E.D., Momeni, P., et al., (2007). Phenotypic
+(2014). Sialic acids in the brain: gangliosides and variability associated with progranulin
+polysialic acid in nervous system development, stability, haploinsufficiencyinpatientswith the common1477C–
+disease,andregeneration.Physiol.Rev.94,461–518. >T(Arg493X)mutation:aninternationalinitiative.Lancet
+206. Sajo,M.,Sugiyama,H.,Yamamoto,H.,Tanii,T.,Matsuki, Neurol.6,857–868.
+N.,Ikegaya,Y.,etal.,(2016).Neuraminidase-Dependent 221. Bellenguez,C.,Ku¨c¸u¨kali,F.,Jansen,I.E.,Kleineidam,L.,
+Degradation of Polysialic Acid Is Required for the Moreno-Grau, S., Amin, N., et al., (2022). New insights
+Lamination of Newly Generated Neurons. PLoS One 11 into the genetic etiology of Alzheimer’s disease and
+e0146398. relateddementias.Nat.Genet.54,412–436.
+207. Minami, A., Ishii, A., Shimba, S., Kano, T., Fujioka, E., 222. Jansen, I.E., Savage, J.E., Watanabe, K., Bryois, J.,
+Sai, S., et al., (2018). Down-regulation of glutamate Williams,D.M.,Steinberg,S.,etal.,(2019).Genome-wide
+release from hippocampal neurons by sialidase. J. meta-analysisidentifiesnewlociandfunctionalpathways
+Biochem.163,273–280. influencingAlzheimer’sdiseaserisk.Nat.Genet.51,404–
+208. Bonten, E.J., Campos, Y., Zaitsev, V., Nourse, A., 413.
+Waddell, B., Lewis, W., et al., (2009). 223. Nalls, M.A., Blauwendraat, C., Sargent, L., Vitale, D.,
+Heterodimerization of the sialidase NEU1 with the Leonard, H., Iwaki, H., et al., (2021). Evidence for GRN
+30
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+connecting multiple neurodegenerative diseases. Brain Variants Associated With Neurodegenerative Diseases
+Commun.3fcab095. Show Dysregulated Functionality and Modified alpha-
+224. Kao,A.W.,McKay,A.,Singh,P.P.,Brunet,A.,Huang,E. SynucleinDegradationProperties.Front.CellDev.Biol.9,
+J., (2017). Progranulin, lysosomal regulation and 581805.
+neurodegenerative disease. Nat. Rev. Neurosci. 18, 241. Prieto Huarcaya, S., Drobny, A., Marques, A.R.A., Di
+325–333. Spiezio, A., Dobert, J.P., Balta, D., et al., (2022).
+225. Valdez,C.,Wong,Y.C.,Schwake,M.,Bu,G.,Wszolek,Z. Recombinant pro-CTSD (cathepsin D) enhances SNCA/
+K.,Krainc,D.,(2017).Progranulin-mediateddeficiencyof a-Synuclein degradation in a-Synucleinopathy models.
+cathepsin D results in FTD and NCL-like phenotypes in Autophagy18,1127–1151.
+neuronsderivedfromFTDpatients.Hum.Mol.Genet.26, 242. Heinrich,M.,Wickel,M.,Winoto-Morbach,S.,Schneider-
+4861–4872. Brachert, W., Weber, T., Brunner, J., et al., (2000).
+226. Paushter, D.H., Du, H., Feng, T., Hu, F., (2018). The CeramideasanactivatorlipidofcathepsinD.Adv.Exp.
+lysosomal function of progranulin, a guardian against Med.Biol.477,305–315.
+neurodegeneration.ActaNeuropathol.136,1–17. 243. Yang, S.-y., Gegg, M., Chau, D., Schapira, A., (2020).
+227. Tayebi, N., Lopez, G., Do, J., Sidransky, E., Pro- Glucocerebrosidaseactivity,cathepsinDandmonomeric
+cathepsin, D., (2020). Prosaposin, and Progranulin: a-synuclein interactions in a stem cell derived neuronal
+LysosomalNetworksinParkinsonism.TrendsMol.Med. modelofaPDassociatedGBA1mutation.Neurobiol.Dis.
+26,913–923. 134,104620.
+228. Jian,J.,Tian,Q.-Y.,Hettinghouse,A.,Zhao,S.,Liu,H., 244. Chuang,Y.-H.,Paul,K.C.,Bronstein,J.M.,Bordelon,Y.,
+Wei,J.,etal.,(2016).ProgranulinRecruitsHSP70tob- Horvath, S., Ritz, B., (2017). Parkinson’s disease is
+GlucocerebrosidaseandIsTherapeuticAgainstGaucher associated with DNA methylation levels in human blood
+Disease.EBioMedicine13,212–224. andsaliva.GenomeMed.9,76.
+229. Zhao, X., Lin, Y., Liou, B., Fu, W., Jian, J., Fannin, V., 245. Stefan, S.M., (2019). Multi-target ABC transporter
+et al., (2023). PGRN deficiency exacerbates, whereas a modulators: what next and where to go? Future Med.
+brain penetrant PGRN derivative protects, GBA1 Chem.11,2353–2358.
+mutation-associated pathologies and diseases. Proc. 246. Allikmets, R., Gerrard, B., Hutchinson, A., Dean, M.,
+Nat.Acad.Sci.120e2210442120. (1996).CharacterizationoftheHumanABCSuperfamily:
+230. Drobny, A., Prieto Huarcaya, S., Dobert, J., Kluge, A., Isolation and Mapping of 21 New Genes Using the
+Bunk, J., Schlothauer, T., et al., (2022). The role of ExpressedSequenceTagsDatabase.Hum.Mol.Genet.
+lysosomalcathepsinsinneurodegeneration:Mechanistic 5,1649–1655.
+insights,diagnosticpotentialandtherapeuticapproaches. 247. Zhang,F.,Zhang,W.,Liu,L.,Fisher,C.L.,Hui,D.,Childs,
+Biochim.Biophys.Acta1869,119243. S., et al., (2000). Characterization of ABCB9, an ATP
+231. Patel,S.,Homaei,A.,El-Seedi,H.R.,Akhtar,N.,(2018). binding cassette protein associated with lysosomes. J.
+Cathepsins: Proteases that are vital for survival but can Biol.Chem.275,23287–23294.
+alsobefatal.Biomed.Pharmacother.105,526–532. 248. Bock,C.,Zollmann,T.,Lindt,K.A.,Tampe,R.,Abele,R.,
+232. McGlinchey,R.P.,Lee,J.C.,(2015).Cysteinecathepsins (2019). Peptide translocation by the lysosomal ABC
+areessentialinlysosomaldegradationofalpha-synuclein. transporterTAPLisregulatedbycouplingefficiencyand
+PNAS112,9322–9327. activationenergy.Scientificreports.9,11884.
+233. Milanowski,L.M.,Hou,X.,Bredenberg,J.M.,Fiesel,F.C., 249. Katzeff Jared, S., Kim, W.S., (2021). ATP-binding
+Cocker,L.T.,Soto-Beasley,A.I.,etal.,(2022).Cathepsin cassette transporters and neurodegenerative diseases.
+B p.Gly284Val Variant in Parkinson’s Disease EssaysBiochem.65,1013–1024.
+Pathogenesis.Int.J.Mol.Sci.23 250. Hu,M.,Li,P.,Wang,C.,Feng,X.,Geng,Q.,Chen,W.,
+234. Yoon, M.C., Hook, V., O’Donoghue, A.J., (2022). etal.,(2022).Parkinson’sdisease-riskproteinTMEM175
+Cathepsin B dipeptidyl carboxypeptidase and is a proton-activated proton channel in lysosomes. Cell
+endopeptidase activities demonstrated across a broad 185,2292–2308.e20.
+pHrange.Biochemistry61,1904–1914. 251. Jinn, S., Drolet, R.E., Cramer, P.E., Wong, A.-H.-K.,
+235. Pislar, A., Kos, J., (2014). Cysteine cathepsins in Toolan, D.M., Gretzula, C.A., et al., (2017). TMEM175
+neurologicaldisorders.Mol.Neurobiol.49,1017–1030. deficiency impairs lysosomal and mitochondrial function
+236. Benchoua, A., Braudeau, J., Reis, A., Couriaud, C., andincreasesa-synucleinaggregation.Proc.Nat.Acad.
+Onteniente, B., (2004). Activation of proinflammatory Sci.114,2389–2394.
+caspases by cathepsin B in focal cerebral ischemia. J. 252. Krohn, L., Ozturk, T.N., Vanderperre, B., Ouled Amar
+Cereb.BloodFlowMetab.24,1272–1279. Bencheikh,B.,Ruskey,J.A.,Laurent,S.B.,etal.,(2020).
+237. Stoka,V.,Turk,B.,Turk,V.,(2005).Lysosomalcysteine Genetic, Structural, and Functional Evidence Link
+proteases:structuralfeaturesandtheirroleinapoptosis. TMEM175 to Synucleinopathies. Ann. Neurol. 87, 139–
+IUBMBLife57,347–353. 153.
+238. McGlinchey, R.P., Lacy, S.M., Huffer, K.E., Tayebi, N., 253. Jinn, S., Blauwendraat, C., Toolan, D., Gretzula, C.A.,
+Sidransky, E., Lee, J.C., (2019). C-terminal a-synuclein Drolet,R.E.,Smith,S.,etal.,(2019).Functionalizationof
+truncations are linked to cysteine cathepsin activity in the TMEM175 p.M393T variant as a risk factor for
+Parkinson’sdisease.J.Biol.Chem.294,9973–9984. Parkinsondisease.HumanMol.Genet.28,3244–3254.
+239. Hossain, S., Alim, A., Takeda, K., Kaji, H., Shinoda, T., 254. Billingsley, K.J., Bandres-Ciga, S., Saez-Atienzar, S.,
+Ueda, K., (2001). Limited proteolysis of NACP/alpha- Singleton,A.B.,(2018).GeneticriskfactorsinParkinson’s
+synuclein.J.AlzheimersDis.3,577–584. disease.CellTissueRes.373,9–20.
+240. Bunk, J., Prieto Huarcaya, S., Drobny, A., Dobert, J.P., 255. Bagh,M.B.,Peng,S.,Chandra,G.,Zhang,Z.,Singh,S.
+Walther, L., Rose-John, S., et al., (2021). Cathepsin D P., Pattabiraman, N., et al., (2017). Misrouting of v-
+31
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+ATPase subunit V0a1 dysregulates lysosomal hereditaryspasticparaparesisandautophagy.Autophagy
+acidification in a neurodegenerative lysosomal storage 10,374–375.
+diseasemodel.Nat.Commun.8,14612. 271. Foo, J.N., Tan, L.C., Irwan, I.D., Au, W.L., Low, H.Q.,
+256. Stevens,T.H.,Forgac,M.,(1997).Structure,functionand Prakash, K.M., et al., (2017). Genome-wide association
+regulationofthevacuolar(H+)-ATPase.Annu.Rev.Cell study of Parkinson’s disease in East Asians. Hum. Mol.
+Dev.Biol.13,779–808. Genet.26,226–232.
+257. Brown,E.E.,Blauwendraat,C.,Trinh,J.,Rizig,M.,Nalls, 272. Wang, J., Molday, L.L., Hii, T., Coleman, J.A., Wen, T.,
+M.A., Leveille, E., et al., (2021). Analysis of DNM3 and Andersen, J.P., et al., (2018). Proteomic Analysis and
+VAMP4 as genetic modifiers of LRRK2 Parkinson’s Functional Characterization of P4-ATPase Phospholipid
+disease.Neurobiol.Aging97(148),e17–e24. FlippasesfromMurineTissues.Sci.Rep.8,10795.
+258. Beilina,A.,Bonet-Ponce,L.,Kumaran,R.,Kordich,J.J., 273. Wang,J.,Li,W.,Zhou,F.,Feng,R.,Wang,F.,Zhang,S.,
+Ishida, M., Mamais, A., et al., (2020). The Parkinson’s etal.,(2019).ATP11Bdeficiencyleadstoimpairmentof
+Disease Protein LRRK2 Interacts with the GARP hippocampalsynapticplasticity.J.Mol.CellBiol.11,688–
+Complex to Promote Retrograde Transport to the trans- 702.
+GolgiNetwork.CellRep.31,107614. 274. Guzman,R.E.,Alekov,A.K.,Filippov,M.,Hegermann,J.,
+259. Lin,P.Y.,Chanaday,N.L.,Horvath,P.M.,Ramirez,D.M. Fahlke, C., (2014). Involvement of ClC-3 chloride/proton
+O., Monteggia, L.M., Kavalali, E.T., (2020). VAMP4 exchangersincontrollingglutamatergicsynapticstrength
+Maintains a Ca(2+)-Sensitive Pool of Spontaneously inculturedhippocampalneurons.Front.Cell.Neurosci.8,
+RecyclingSynapticVesicles.J.Neurosci.40,5389–5401. 143.
+260. Luzio, J.P., Parkinson Michael, D.J., Gray Sally, R., 275. Weinert, S., Gimber, N., Deuschel, D., Stuhlmann, T.,
+Bright, N.A., (2009). The delivery of endocytosed Puchkov, D., Farsi, Z., et al., (2020). Uncoupling
+cargo to lysosomes. Biochem. Soc. Trans. 37, 1019– endosomal CLC chloride/proton exchange causes
+1021. severeneurodegeneration.EMBOJ.39,e103358.
+261. Bilan, F., Nacfer, M., Fresquet, F., Norez, C., Melin, P., 276. Laflamme,C.,McKeever,P.M.,Kumar,R.,Schwartz,J.,
+Martin-Berge, A., et al., (2008). Endosomal SNARE Kolahdouzan, M., Chen, C.X., et al., (2019).
+proteins regulate CFTR activity and trafficking in Implementation of an antibody characterization
+epithelialcells.Exp.CellRes.314,2199–2211. procedure and application to the major ALS/FTD
+262. Martin, L., Fluhrer, R., Haass, C., (2009). Substrate diseasegeneC9ORF72.eLife.8,e48363.
+Requirements for SPPL2b-dependent Regulated 277. Gasparyan, A.Y., Yessirkepov, M., Duisenova, A.,
+Intramembrane Proteolysis. J. Biol. Chem. 284, 5662– Trukhachev, V.I., Kostyukova, E.I., Kitas, G.D., (2018).
+5670. Researcher and Author Impact Metrics: Variety, Value,
+263. Friedmann,E.,Hauben,E.,Maylandt,K.,Schleeger,S., andContext.J.KoreanMed.Sci.33,e139.
+Vreugde, S., Lichtenthaler, S.F., et al., (2006). SPPL2a 278. Hood, A.S.C., Sutherland, W.J., (2021). The data-index:
+and SPPL2b promote intramembrane proteolysis of An author-level metric that values impactful data and
+TNFalpha in activated dendritic cells to trigger IL-12 incentivizesdatasharing.Ecol.Evol.11,14344–14350.
+production.Nat.CellBiol.8,843–848. 279. Abu-Remaileh, M., Wyant, G.A., Kim, C., Laqtom, N.N.,
+264. Fluhrer, R., Grammer, G., Israel, L., Condron, M.M., Abbasi, M., Chan, S.H., et al., (2017). Lysosomal
+Haffner, C., Friedmann, E., et al., (2006). A gamma- metabolomicsrevealsV-ATPase-andmTOR-dependent
+secretase-like intramembrane cleavage of TNFalpha by regulation of amino acid efflux from lysosomes. Science
+the GxGD aspartyl protease SPPL2b. Nat. Cell Biol. 8, 358,807–813.
+894–896. 280. Davis,O.B.,Shin,H.R.,Lim,C.-Y.,Wu,E.Y.,Kukurugya,
+265. Martin,L.,Fluhrer,R.,Reiss,K.,Kremmer,E.,Saftig,P., M.,Maher,C.F.,etal.,(2021).NPC1-mTORC1Signaling
+Haass,C.,(2008).Regulatedintramembraneproteolysis Couples Cholesterol Sensing to Organelle Homeostasis
+ofBri2(Itm2b)byADAM10andSPPL2a/SPPL2b.J.Biol. and Is a Targetable Pathway in Niemann-Pick Type C.
+Chem.283,1644–1652. Dev.Cell56,260–276.e7.
+266. Kirkin,V.,Cahuzac,N.,Guardiola-Serrano,F.,Huault,S., 281. Park, H., Hundley, F.V., Yu, Q., Overmyer, K.A.,
+Lu¨ckerath, K., Friedmann, E., et al., (2007). The Fas Brademan, D.R., Serrano, L., et al., (2022). Spatial
+ligand intracellular domain is released by ADAM10 and snapshots of amyloid precursor protein intramembrane
+SPPL2acleavageinT-cells.CellDeathDiffer.14,1678– processing via early endosome proteomics. Nat.
+1687. Commun.13,6112.
+267. Jayanti, S., Moretti, R., Tiribelli, C., Gazzin, S., (2022). 282. Le, T.S., Takahashi, M., Isozumi, N., Miyazato, A.,
+Bilirubin Prevents the TH(+) Dopaminergic Neuron Loss Hiratsuka, Y., Matsumura, K., et al., (2022). Quick and
+inaParkinson’sDiseaseModelbyActingonTNF-alpha. Mild Isolation of Intact Lysosomes Using Magnetic-
+Int.J.Mol.Sci.23 PlasmonicHybridNanoparticles.ACSNano16,885–896.
+268. Vantaggiato,C.,Crimella,C.,Airoldi,G.,Polishchuk,R., 283. Chen, C., Sidransky, E., Chen, Y., (2022). Lyso-IP:
+Bonato, S., Brighina, E., et al., (2013). Defective Uncovering Pathogenic Mechanisms of Lysosomal
+autophagy in spastizin mutated patients with hereditary Dysfunction.Biomolecules12,616.
+spasticparaparesistype15.Brain136,3119–3139. 284. Singh,J.,Kaade,E.,Muntel,J.,Bruderer,R.,Reiter,L.,
+269. Chang, J., Lee, S., Blackstone, C., (2014). Spastic Thelen, M., et al., (2020). Systematic Comparison of
+paraplegia proteins spastizin and spatacsin mediate Strategies for the Enrichment of Lysosomes by Data
+autophagic lysosome reformation. J. Clin. Invest. 124, IndependentAcquisition.J.ProteomeRes.19,371–381.
+5249–5262. 285. Udayar,V.,Chen,Y.,Sidransky,E.,Jagasia,R.,(2022).
+270. Vantaggiato, C., Clementi, E., Bassi, M.T., (2014). Lysosomal dysfunction in neurodegeneration: emerging
+ZFYVE26/SPASTIZIN:acloselinkbetweencomplicated conceptsandmethods.TrendsNeurosci.45,184–199.
+32
+
+---PAGE BREAK---
+
+A. Muraleedharan and Benoıˆt Vanderperre Journal ofMolecular Biology435 (2023) 168140
+286. Brunet, M.A., Brunelle, M., Lucier, J.-F., Delcourt, V., 296. Straniero,L.,Rimoldi,V.,Samarani,M.,Goldwurm,S.,Di
+Levesque, M., Grenier, F., et al., (2019). OpenProt: a Fonzo, A., Kru¨ger, R., et al., (2017). The GBAP1
+more comprehensive guide to explore eukaryotic coding pseudogene acts as a ceRNA for the
+potential and proteomes. Nucleic Acids Res. 47, D403– glucocerebrosidase gene GBA by sponging miR-22-3p.
+D410. Scientificreports.7,12702.
+287. Chen,J.,Brunner,A.-D.,Cogan,J.Z.,Nun˜ez,J.K.,Fields, 297. Decressac, M., Mattsson, B., Weikop, P., Lundblad, M.,
+A.P., Adamson, B., et al., (2020). Pervasive functional Jakobsson, J., Bjo¨rklund, A., (2013). TFEB-mediated
+translationofnoncanonicalhumanopenreadingframes. autophagy rescues midbrain dopamine neurons from a-
+Science367,1140–1146. synucleintoxicity.Proc.Nat.Acad.Sci.USA110,E1817–
+288. Saghatelian, A., Couso, J.P., (2015). Discovery and E1826.
+characterization of smORF-encoded bioactive 298. Sardiello, M., Palmieri, M., di Ronza, A., Medina, D.L.,
+polypeptides.Nat.Chem.Biol.11,909–916. Valenza, M., Gennarino, V.A., et al., (2009). A gene
+289. Vanderperre,B.,Lucier,J.-F.,Bissonnette,C.,Motard,J., network regulating lysosomal biogenesis and function.
+Tremblay, G., Vanderperre, S., et al., (2013). Direct Science325,473–477.
+Detection of Alternative Open Reading Frames 299. Yang,X.,Zheng,J.,An,R.,Tian,S.,Zhao,Q.,Chen,Y.,
+Translation Products in Human Significantly Expands etal.,(2017).PolymorphisminMIR4697butnotVPS13C,
+theProteome.PLoSOne8 GCH1,orSIPA1L2isassociatedwithriskofParkinson’s
+290. Wright, B.W., Yi, Z., Weissman, J.S., Chen, J., (2022). diseaseinaHanChinesepopulation.Neurosci.Lett.650,
+The dark proteome: translation from noncanonical open 8–11.
+readingframes.TrendsCellBiol.32,243–258. 300. Farrow, S.L., Schierding, W., Gokuladhas, S., Golovina,
+291. Brunet, M.A., Leblanc, S., Roucou, X., (2020). E.,Fadason,T.,Cooper,A.A.,etal.,(2022).Establishing
+Reconsidering proteomic diversity with functional gene regulatory networks from Parkinson’s disease risk
+investigation of small ORFs and alternative ORFs. Exp. loci.Brain145,2422–2435.
+CellRes.393,112057. 301. Cao,M.,Zhao,J.,Hu,G.,(2019).Genome-widemethods
+292. Brunet, M.A., Jacques, J.-F., Nassari, S., Tyzack, G.E., for investigating long noncoding RNAs. Biomed.
+McGoldrick,P.,Zinman,L.,etal.,(2021).TheFUSgene Pharmacother.111,395–401.
+is dual-coding with both proteins contributing to FUS- 302. Thomson, D.W., Bracken, C.P., Goodall, G.J., (2011).
+mediatedtoxicity.EMBORep.22,e50640. Experimental strategies for microRNA target
+293. Prensner, J.R., Enache, O.M., Luria, V., Krug, K., identification.NucleicAcidsRes.39,6845–6853.
+Clauser, K.R., Dempster, J.M., et al., (2021). 303. Lin,M.K.,Farrer,M.J.,(2014).Geneticsandgenomicsof
+Noncanonical open reading frames encode functional Parkinson’sdisease.GenomeMed.6,48.
+proteins essential for cancer cell survival. Nat. 304. Olgiati, S., De Rosa, A., Quadri, M., Criscuolo, C.,
+Biotechnol.,1–8. Breedveld, G.J., Picillo, M., et al., (2014). PARK20
+294. Samandi, S., Roy, A.V., Delcourt, V., Lucier, J.-F., causedbySYNJ1homozygousArg258Glnmutationina
+Gagnon, J., Beaudoin, M.C., et al., (2017). Deep newItalianfamily.Neurogenetics15,183–188.
+transcriptome annotation enables the discovery and 305. Quadri,M.,Fang,M.,Picillo,M.,Olgiati,S.,Breedveld,G.
+functionalcharacterization ofcrypticsmallproteins. Elife J., Graafland, J., et al., (2013). Mutation in the SYNJ1
+6,e27860. gene associated with autosomal recessive, early-onset
+295. Brunet,M.A.,Levesque,S.A.,Hunting,D.J.,Cohen,A.A., Parkinsonism.Hum.Mutat.34,1208–1215.
+Roucou, X., (2018). Recognition of the polycistronic 306. Rodrigo, L.M., Nyholt, D.R., (2021). Imputation and
+nature of human genes is critical to understanding the Reanalysis of ExomeChip Data Identifies Novel,
+genotype-phenotyperelationship.GenomeRes.28,609– Conditional and Joint Genetic Effects on Parkinson’s
+624. DiseaseRisk.Genes(Basel),12.
+33
+
+---PAGE BREAK---
+

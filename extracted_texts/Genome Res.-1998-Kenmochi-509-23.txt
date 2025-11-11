@@ -1,0 +1,863 @@
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+RESEARCH
+A Map of 75 Human Ribosomal Protein Genes
+Naoya Kenmochi,1,3,4 Tomoko Kawaguchi,1 Steve Rozen,1,2
+Elizabeth Davis,1 Nathan Goodman,2 Thomas J. Hudson,2
+Tatsuo Tanaka,3 and David C. Page1,2,4
+1Howard Hughes Medical Institute and 2Center for Genome Research, Whitehead Institute and
+Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142 USA;
+3Department of Biochemistry, School of Medicine, University of the Ryukyus, Nishihara,
+Okinawa903-01,Japan
+We mapped 75 genes that collectively encode >90% of the proteins found in human ribosomes. Because
+localization of ribosomal protein genes (rp genes) is complicated by the existence of processed pseudogenes,
+multiple strategies were devised to identify PCR-detectable sequence-tagged sites (STSs) at introns. In some cases
+we exploited specific, pre-existing information about the intron/exon structure of a given human rp gene or its
+homolog in another vertebrate. When such information was unavailable, selection of PCR primer pairs was
+guided by general insights gleaned from analysis of all mammalian rp genes whose intron/exon structures have
+been published. For many genes, PCR amplification of introns was facilitated by use of YAC pool DNAs rather
+than total human genomic DNA as templates. We then assigned the rp gene STSs to individual human
+chromosomes by typing human–rodent hybrid cell lines. The genes were placed more precisely on the physical
+map of the human genome by typing of radiation hybrids or screening YAC libraries. Fifty-one previously
+unmapped rp genes were localized, and 24 previously reported rp gene localizations were confirmed, refined, or
+corrected. Though functionally related and coordinately expressed, the 75 mapped genes are widely dispersed:
+Both sex chromosomes and at least 20 of the 22 autosomes carry one or more rp genes. Chromosome 19,
+known to have a high gene density, contains an unusually large number of rp genes (12). This map provides a
+foundation for the study of the possible roles of ribosomal protein deficiencies in chromosomal and Mendelian
+disorders.
+[The sequence data described in this paper have been submitted to GenBank. They are listed in Table 1.]
+Although the ribosome, as catalyst for protein syn- diminishedfertility,andshort,thinbristles)results
+thesis, is known to be essential for organismal from heterozygous deficiencies (deletions) at any 1
+growth and development, the effects of ribosomal of50lociscatteredaboutthegenome(Schultz1929;
+mutations and their role in human disease have FlyBase 1997). Several Minute loci have been char-
+beenexploredbarely.Themammalianribosomeisa acterized molecularly, and all have been found to
+massive structure composed of 4 RNA species and encoderibosomalproteins(Kongsuwanetal.1985;
+~80 different proteins (Wool 1979). Typical mam- Hart et al. 1993; Andersson et al. 1994; Cramton
+malian cells contain about 4(cid:50)106 ribosomes, and and Laski 1994; Saebøe-Larssen and Lambertsson
+ribosomalRNAsandproteinsconstitute~80%ofall 1996; Schmidt et al. 1996; A. Cheng, A. Zinn, J.
+cellular RNA and 5%–10% of cellular protein. One Mach,R.Lehman,andD.C.Page,unpubl.).Thus,it
+might predict that genetic defects in ribosomal appears that reductions in the amount of any of a
+componentswouldinvariablyresultinearlyembry- number of ribosomal proteins have a similar, char-
+onic death. However, there is strong evidence in acteristic effect on the development of Drosophila
+Drosophila and suggestive evidence in humans that embryos.
+quantitativedeficienciesofribosomalproteinsmay Perhaps ribosomal protein deficiencies have
+yield viable but abnormal phenotypes. In Dro- analogous consequences in humans, resulting in
+sophila, the Minute phenotype (reduced body size, specific,recognizableclinicalfeatures(whichmight
+or might not resemble the Minute phenotype ob-
+served in Drosophila). We and our colleagues have
+4Correspondingauthors. reported findings consistent with a role for ribo-
+E-MAILpage@wi.mit.edu;FAX(617)258-5578.
+E-MAILkenmochi@med.u-ryuku.ac.jp;FAX81-98-895-7049. somalproteinS4(RPS4)deficiencyintheetiologyof
+8:509–523 ©1998 by Cold Spring Harbor Laboratory Press ISSN 1054-9803/98 $5.00; www.genome.org GENOME RESEARCH 509
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+certainfeaturesofTurnersyndrome,acomplexhu- enceofprocessedpseudogeneselsewhereinthege-
+man disorder classically associated with a 45,X nome.Wedevelopedgeneralstrategiestophysically
+karyotype(Fisheretal.1990;Watanabeetal.1993; maphumanrpgenes,whileavoidingpseudogenes,
+Zinnetal.1994).Weareintriguedbythepossibility using sequence tags specific to the functional, in-
+thatdeficienciesofotherhumanribosomalprotein tron-bearing genes.
+genes(rpgenes)mightcausephenotypicabnormali-
+ties similar to those seen in Turner syndrome—just RESULTS
+as deficiencies of any of a number of Drosophila rp
+Thehumanrpgeneshadbeenpreviouslycharacter-
+genes cause the Minute phenotype.
+ized to varying degrees. Some human rp genes had
+The ribosome is the largest, most complex
+been completely sequenced at both the cDNA and
+mammalianstructuretobecompletelydescribedat
+genomic levels, whereas for others, even partial
+the level of nucleotide and amino acid sequence.
+cDNA sequences were unavailable. We divided the
+The nucleotide sequences of the four ribosomal
+estimated80humanrpgenesintothreeclasses,or-
+RNAs—28S, 18S, 5.8S, and 5S—have been deter-
+dered according to how much gene structure infor-
+mined in their entirety (Maidak et al. 1997), and a
+mation was available (Table 1). For group 1, con-
+systematicefforttodeducetheprimarystructureof
+taining 19 genes, at least some human splice sites
+all mammalian ribosomal proteins by cDNA se-
+had been determined and some human intron se-
+quencing has come to completion (Wool et al.
+quence was available. No human splice site infor-
+1996).
+mationwasavailableforanyoftheremaining61rp
+Moreover, the genes encoding the RNA con-
+genes. However, for 12 of these 61 genes, at least
+stituentsofthemammalianribosomeshaveallbeen
+some splice sites had been determined in the ho-
+assigned to chromosomes. The 28S, 18S, and 5.8S
+mologous genes in rat, mouse, chicken, or frog. As
+rRNAs are generated by elaborate processing of a
+describedbelow,theextremeconservationofsplice-
+single 45S precursor derived from tandemly re-
+site positions among homologous vertebrate rp
+peated gene arrays which, in humans, are located
+genes allowed us to predict the positions of splice
+on the short arms of chromosomes 13, 14, 15, 21,
+sites in the human genes using this information.
+and22(Hendersonetal.1973;Wortonetal.1988).
+These 12 rp genes, for which somewhat less infor-
+The 5S rRNA derives from tandemly repeated gene
+mation was available, constitute group 2. No verte-
+clusters on human chromosome 1 (Sørensen et al.
+bratesplice-siteinformationwasavailableforanyof
+1991; Lomholt et al. 1995).
+theremaining49rpgenes,whichcomprisegroup3.
+Paradoxically,onlyasmallfractionofthegenes
+For each of the three groups, we developed a
+encoding the mammalian ribosomal proteins have
+separate strategy for generating sequence tags spe-
+beenmappedpreviously.Thoughthese80proteins
+cifictothefunctional,intron-bearinggenes.Forall
+function together, their amino acid sequences are
+three groups, we exploited the fact that rp pseudo-
+dissimilar. Unlike the ribosomal RNAs, each mam-
+genes, derived from processed transcripts, lack the
+malian ribosomal protein typically is encoded by a
+intronsfoundintheirprogenitors(DudovandPerry
+single gene. However, in the case of most if not all
+1984;Daviesetal.1989).Forgroup1genes,identi-
+ribosomal proteins, the single, functional gene has
+fication of STSs was straightforward. We derived
+generated a large number of silent, processed pseu-
+STSs specific to the functional genes by choosing
+dogenes at sites dispersed throughout the genome
+oligonucleotidesfromthepreviouslysequencedin-
+(Dudov and Perry 1984; Wagner and Perry 1985;
+trons (Fig. 1A).
+Kuzumaki et al. 1987). These pseudogenes impede
+themappingofthefunctionalrpgenes,explaining
+STSs for Group 2 and 3 Genes: Intron Trapping
+atleastinpart,whyonly24ofthe~80rpgeneshad
+been chromosomally assigned. The 24 genes that For group 2 and group 3 genes, no human intron
+had been assigned map to 14 different chromo- sequences were available. However, other informa-
+somes,suggestingthatrpgenes,unlikerRNAgenes, tionallowedustopredictthelocationof,andthen
+arenotclusteredatafewsitesinthegenome(Feoet trap,intronsfromthesegenes.Themethodsweem-
+al. 1992). ployed were inspired in part by earlier successes in
+If we are to explore systematically the possibil- identifyingandmappingintron-bearingrpgenesby
+itythatribosomalproteindeficienciesormutations PCR (Davies et al. 1989).
+cause certain human disorders, we must first learn Forgroup2genes,thepositionsofatleastsome
+the chromosomal map position of each of the ~80 splicesitesinvertebratehomologswereknown,and
+humanrpgenes.Thistaskishinderedbytheexist- this information played a central role in our map-
+510 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+Table 1. Chromosomal Assignments and STSs for Human Ribosomal ProteinGenes
+(Continuedonfollowingpage.)
+GENOME RESEARCH 511
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+Table 1. (Continued)
+aUpper-andlowercaselettersdenoteexonandintronsequences,respectively.
+bSequencefromwhichSTSwasgenerated.
+cSize(inbp)estimatedbyagarosegelelectrophoresis.
+dSequencedeterminedinthisstudy.
+e–yPreviouslyreportedchromosomalassignmentswereconfirmed:ePolakiewiczetal.1995;fNolteetal.1996;gFisheretal.1990;hAntoine
+andFried1992;iAnniloetal.1995;jDaviesandFried1993;kFeoetal.1992;lRhoadsetal.1986;mJonesetal.1997;nImaietal.1994;
+oKasetal.1993;pYonetal.1993;qMazuruketal.1996;rVandenOuwelandetal.1992;sAdamsetal.1992;tDaviesandFried1995;uFan
+etal.1997;vGarcia-Barceloetal.1997;wColomboetal.1996;xOeltjenetal.1995;yWebbetal.1994.
+zPreviouslyreportedchromosomalassignment(Feoetal.1992)wascorrected.
+512 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+Figure1 Introntrapping:derivationofSTSsforandchromosomalassignmentofrepresentativegroup1,group
+2, and group 3 rp genes. (A) (Group 1) PCR primers were chosen from a previously sequenced intron of human
+RPS7.(Right)Resultsoftestingofhuman/rodentsomaticcellhybridDNAs(NIGMSpanels1and2)fortheRPS7STS;
+agarosegelstainedwithethidiumbromide.Oneachgel,theleft-mostlanecontainssizemarkers,andthenextfour
+lanesshowresultsofPCRcontrolswithhuman,hamster,ormousegenomicDNA,ornoaddedDNA,astemplate.
+(Panel1)18hybridlines,eachretainingmultiplehumanchromosomes;6hybridsthattestedpositiveforRPS7are
+numbered; the results map RPS7 to chromosome 2. (Panel 2) 24 hybrid lines, most retaining a single human
+chromosome; we initially tested these hybrids in pools of four (here mixture m1 is positive) and then tested
+individual hybrids from the positive pool (the chromosome 2 hybrid is positive). (B) (Group 2) PCR primers were
+chosenfromhumanRPL5cDNAsequenceatapredictedsplicesite,withthedinucleotideGTappendedtothe3(cid:56)
+endoftheforwardprimerandthedinucleotideCT(thecomplementofAG)appendedtothe3(cid:56)endofthereverse
+primer.(Right)Resultsofhybridmapping,whichassignedRPL5tochromosome1.Thearrowhead(extremeright)
+indicatesthesizeofthehumanPCRproduct;asmaller,hamsterproductisalsopresentinmanylanes.(C)(Group
+3)MappingofRPL24involvedtwoquitedifferentPCRassays.ThefirstPCRassay(top),with45YACDNApoolsas
+template, was designed to trap an intron with primers chosen from human cDNA sequence according to rules
+discussed in the text. Six YAC pools that yielded the higher molecular weight, trapped-intron product are num-
+bered; many more pools yielded the lower molecular weight, pseudogene product. The control reaction with
+human genomic DNA as template yelded only the pseudogene product. Sequencing of the trapped intron made
+possible a second PCR assay specific to the functional RPL24 gene (bottom); with the second assay, the gene was
+mapped to chromosome 3.
+GENOME RESEARCH 513
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+pingstrategy.Asurveyofallrpgeneswhoseintron/ tides upstream of the termination codon are not
+exon structures had been determined in any two interruptedbyanintron.Thus,wechosethereverse
+vertebrates revealed universal conservation of in- primerfromwithina50-bpregionimmediatelyup-
+tron location but little conservation of intron se- stream of the termination codon; this reverse
+quence (analysis not shown; for examples, see Ma- primerwaslikelytoderivefromthefinalexon.We
+edaetal.1993;Anniloetal.1995;DaviesandFried also noted that the terminal exon of human rp
+1995). Thus, we could predict the sites of introns genesrarelyextends>150bpupstreamofthetermi-
+within human group 2 cDNA sequences by com- nation codon, and that internal exons average 100
+parison with more thoroughly studied vertebrate bp in length. Thus, we chose the forward primer
+homologs. These predictions enabled us to avoid fromwithintheregion150–250bpupstreamofthe
+coamplification of pseudogenes by choosing PCR termination codon; this forward primer was likely
+primersthatwerelikelytocontainsplicesitesandto toderivefromthepenultimateexonortheonepre-
+extend slightly into introns. We exploited the fact ceding. Further, we noted that about half of all
+thatintronsusuallyhaveaGTdinucleotideattheir splice sites in human ribosomal protein coding se-
+5(cid:56) end and an AG dinucleotide at their 3(cid:56) end. As quences are preceded by the dinucleotide AG. To
+diagrammed in Figure 1B, the forward and reverse reduce the probability that primers would span
+primers were based on human cDNA sequence im- splice sites, we chose forward primers that did not
+mediately preceding and following a predicted include the sequence AG.
+splice site, but with the dinucleotide GT appended The rules just outlined were intended to (1)
+to the 3(cid:56) end of the forward primer and the di- maximize the probability that PCR primer pairs
+nucleotideCTappendedtothe3(cid:56)endofthereverse would flank one or two introns (products contain-
+primer.Thus,boththeforwardandreverseprimers ingthreeormoreintronsmightbemoredifficultto
+extended two nucleotides into the intron. The re- amplify) and (2) minimize the probability that ei-
+sulting PCR product was a trapped intron. therprimerwouldspanasplicesite.However,these
+WeavoidedsplicesiteswherethehumancDNA rulesforprimerselectionwouldnotpreventampli-
+sequenceisAG/GT,asinsuchcasesprocessedpseu- fication of closely related pseudogenes. We were
+dogeneswouldbeexpectedtobeperfecttemplates. concernedthatduringPCRamplificationofhuman
+In a few cases where primers immediately flanking or human–rodent hybrid genomic DNA, competi-
+onesplicesitehadmarkedlydifferentmeltingtem- tionbetweenfunctionalgeneandpseudogenetem-
+peratures or were otherwise predicted to be incom- plateswouldoccur;suchcompetitionwouldusually
+patible,primerswereselectedfromtwoconsecutive favorthepseudogenesbecauseoftheirgreaternum-
+splicesites(i.e.,primerspredictedtospantheouter ber,theirhighsequencesimilaritytothefunctional
+borders of two consecutive introns). genes, and the smaller size of the resulting PCR
+Forgroup3genes,wehadnopriorinformation product.Inanefforttocircumventthisproblem,we
+about splice sites in any vertebrate. These genes testedPCRprimerpairson45poolsofrandomhu-
+couldnotbemappedbyuseofthegroup1orgroup manYACs,eachpoolcomprisingarandomfifthof
+2 methods. However, if we could trap rp gene in- the human genome (Chumakov et al. 1995). (The
+trons using human cDNA sequence as our only YAC inserts averaged 0.6–1.0 Mb, and each pool
+starting information, we might then derive intron- contained768YACs.)Wereasonedthatamongthe
+based sequence tags that would identify the func- 45YACpools,9or10shouldcontainthefunctional
+tionalgenesasdistinctfromtheirpseudogenes.We geneandthat,ofthese,oneormorepoolsmightbe
+arrivedattheschemediagrammedinFigure1C.Us- relativelyfreeofcompetingpseudogenes.SuchYAC
+ing a forward primer likely to derive from the pen- pool roulette often yielded a jackpot (a clearly dis-
+ultimate exon and a reverse primer likely to derive cernible,highermolecularweightPCRproduct,pre-
+from the final exon, we attempted to PCR amplify sumablycontainingoneormoreintrons)inoneor
+thefinalintronofeachgroup3gene.Thedetailsof moreYACpools,evenwhenuseofthesameprimers
+the strategy emerged from several considerations. on human genomic DNA yielded only pseudogene
+We would have to confront not only cross- products (e.g., RPL24, as shown in Fig. 1C).
+amplification of pseudogenes but also the possible We then sequenced the higher molecular
+failureofthefunctionalgenetoamplifybecausethe weight products obtained by PCR on YAC pools to
+sequence complementary to one (or both) of the confirm the presence of a genuine rp gene intron
+PCR primers was interrupted by an intron. We flanked by consensus splice sites. Indeed, by se-
+notedthat,formosthumanrpgeneswhoseintron/ quencingsuchPCRproducts,weidentifiedatotalof
+exonstructurehasbeendetermined,the50nucleo- 55 new splice sites within 44 of the group 3 genes
+514 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+(Table 2). For 34 of these genes, the PCR product 1995). In this case, the CEPH YAC library (Chuma-
+contained a single intron, in which case we identi- kov et al. 1995) was screened by PCR to identify
+fied a single splice site. For the other 10 genes, the clonescontaininghumanrpgenes.Weidentifieda
+PCR product contained two (or, in one case, three) total of 222 YACs that carry 55 different rp genes.
+introns, in which case we identified two (or three) Information as to the identities, STS content, and
+splicesites.Allsplicejunctionsequencesconformed chromosomal location of these 222 ribosomal pro-
+totheGT/AGruleandapproximatedthelargercon- tein-encoding YACs is available at an Internet site
+sensus sequence described by Mount (1982). The maintainedbytheWhiteheadInstitute/MITCenter
+trapped introns varied in length from 75 to ~2100 for Genome Research (http://www-genome.wi.mit.
+bp. With the sequence of the trapped introns in edu/cgi-bin/contig/physmap).
+hand, we were then able to design new PCR assays By integrating the results of our RH and YAC
+thatamplifiedthefunctionalrpgenesbutnottheir mapping efforts, we were able to place all 75 chro-
+processed pseudogenes. These new, intron-based mosomallyassignedrpgenesonthemapofthehu-
+STSswereemployedinsubsequentmappingexperi- man genome (Fig. 2). Regional assignments had
+ments. beenreportedpreviouslyforsomeofthesegenes;in
+only one case (RPL29, on chromosome 3p) do our
+resultsconflictwithapreviousregionallocalization.
+Chromosomal Assignments
+In all, we succeeded in identifying PCR-assayable DISCUSSION
+STSsfor75rpgenes,includingall19group1genes,
+The ribosome is the most complex mammalian
+all12group2genes,and44of49group3genes.To
+structure to have been completely described at the
+assign each of these 75 rp genes to an individual
+levelofnucleotideandaminoacidsequence(Wool
+human chromosome, we tested two panels of hu-
+1996; Maidak et al. 1997). We now know the chro-
+man–rodent hybrid cell line DNAs (Drwinga et al.
+mosomallocations,inhumans,ofthegenesencod-
+1993)forthepresenceofthecorrespondingSTS.For
+ing all 4 RNAs and 75 of an estimated 80 proteins
+each of the rp gene STSs the chromosomal assign-
+comprising this elaborate, protein synthesis ma-
+mentsderivedbyuseofthefirstandsecondhybrid
+chine(Fig.2).Mostmammalianribosomalproteins
+panelswereconcordant.(Threeexamplesareshown
+haverecognizedhomologsinprokaryotes,whererp
+in Fig. 1.) In this manner, each of the 75 rp genes
+genesareorganizedintoasmallnumberofoperons,
+was unambiguously mapped to a single human
+with as many as 11 ribosomal proteins under the
+chromosome (Table 1). Chromosomal assignments
+control of a single promoter (Nomura et al. 1984).
+had been reported previously for 24 of these 75
+In contrast, there is little evidence of rp gene clus-
+genes, and in 23 cases we confirmed these prior
+tering in mammals (Feo et al. 1992)—a conclusion
+studies. In only one case (RPS17, on chromosome
+that our results confirm and extend. Both human
+15)doourresultscontradictapreviousassignment.
+sexchromosomesandatleast20autosomes(allbut
+chromosomes7and21)carryoneormorerpgenes
+(Table1;Fig.2).Onlythepresenceof12rpgeneson
+Fine Localization
+chromosome 19, which constitutes only two per-
+We employed two methods, radiation hybrid (RH) cent of the haploid genome (Morton 1991), is no-
+mapping and YAC/STS content analysis, to localize tablyatoddswitharandomdistributionofrpgenes
+more precisely the 75 chromosomally assigned rp throughoutthehumangenome.Chromosome19is
+genes. For RH mapping, we scored for the presence known to have a high gene density (Schuler et al.
+orabsenceofeachoftherpgeneSTSsin91human– 1996),andevenhere,the12rpgenesarescattered.
+hamster hybrid cell lines comprising the Gene- With55rpgenesmappedtoYACclones,wefound
+Bridge 4 whole-genome RH panel (Walter et al. onlytwoexamplesofmultiplerpgenesresidingon
+1994). This RH panel had been used previously to thesameYACclone:RPS26andRPL41(onchromo-
+construct a comprehensive, STS-based map of the some12),andRPS11andRPL13A(onchromosome
+human genome (Hudson et al. 1995). Analysis of 19).IfoneconsidersbothribosomalRNAsandpro-
+therpgeneSTStypingresultsallowedustoposition teins,itisapparentthatvirtuallyeveryhumanchro-
+73oftherpgenesonthispre-existingmap(Fig.2). mosome (except perhaps chromosome 7) contrib-
+In parallel, we attempted to place the chromo- utesoneormorecomponentstotheribosome(Fig.
+somallyassignedrpgenesonapre-existingYAC/STS 2).Thoughencodedatdispersedgenomicsites,the
+content map of the human genome (Hudson et al. ribosome’s myriad components are apparently as-
+GENOME RESEARCH 515
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+sembled with stoichiometric precision. Table 2. Newly Identified Splice Sites in Human Ribosomal
+Regulated coproduction of the compo- ProteinGenes
+nents could, in theory, be achieved in
+severalways.Theclusteringofrpgenes
+inoperons,asinbacteria(Nomuraetal.
+1984), is evidently not an important
+meansofregulatedcoproductioninhu-
+mans. Trans-acting regulatory mecha-
+nisms, both transcriptinal and transla-
+tional, have been argued to play a sub-
+stantialroleincoordinatingproduction
+of ribosomal components in mammals
+(Hariharan et al. 1989; Meyuhas et al.
+1996),thoughfeedbackmechanisms,if
+any, remain to be elucidated. Alterna-
+tively, some ribosomal components
+maysimplybeproducedinexcess,with
+molecules not incorporated into ribo-
+somes being discarded.
+Afewhumanrpgenesremaintobe
+mapped. In five cases (RPL14, RPL22,
+RPL35,RPL36,andRPL39),wewereun-
+abletotrapverifiableintronsdespitere-
+peated efforts; we did not map these
+five genes. We anticipate that these
+geneswillbemappedasmoreinforma-
+tion about their gene structures be-
+comes available. [One of these genes,
+RPL22, has been assigned to chromo-
+some3(Nuciforaetal.1993).]Asarule,
+each mammalian ribosomal protein is
+encoded by a single functional gene
+(Dudov and Perry 1984; Wagner and
+Perry 1985; Kuzumaki et al. 1987), but
+wecannotexcludethepossibilitythata
+second functional gene may exist in
+some cases. Indeed, functionally inter-
+changeable isoforms of RPS4 are en-
+coded by the human X and Y chromo-
+somes (Fisher et al. 1990; Watanabe et
+al.1993).InthecaseofRPL36A,afunc-
+tional, intron-bearing gene is located
+on the X chromosome (Oeltjen et al.
+1995), but analysis of cDNA sequences
+suggests that a second functional gene
+(Continuedonfacingpage.)
+may exist elsewhere in the genome, as
+yetunmapped(N.Kenmochietal.,un-
+publ.).
+based typing of RH panels (or YAC libraries) was
+used to map many thousands of gene-based STSs
+Implications for the Human Genome Project
+(Schuleretal.1996).Thesehigh-volumegenemap-
+The methods we employed for STS generation via ping efforts relied on STSs drawn from 3(cid:56) untrans-
+introntrappingshouldbeofgeneraluseinmapping lated regions of genes (Berry et al. 1995). This
+genes with processed homologs. Recently, PCR- method minimized the chance that PCR products
+516 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+Table 2. (Continued) mapping results when applied to genes
+with abundant processed pseudogenes.
+Hadweappliedthisstrategytorpgenes,
+we would have completely overlooked
+the functional genes, which are less ef-
+ficient than their intron-less pseudo-
+gene derivatives as templates for PCR
+amplification with cDNA-based prim-
+ers. Although an error rate of only 1%
+has been claimed for the high-volume,
+STS-based gene mapping efforts (Schu-
+ler et al. 1996), these error estimates
+took no account of processed pseudo-
+genes,theimpactofwhichcouldbesig-
+nificantifasizablefractionofallgenes
+giverisetoprocessedpseudogenes.The
+methods we employed for STS genera-
+tion via intron trapping should be of
+use in efforts to systematically map
+geneswithapropensitytogeneratepro-
+cessedpseudogenes,thatis,housekeep-
+ingandothergenesthatareabundantly
+expressed in the germ line.
+Ribosomal Protein Defects in Human
+Disease
+Evolutionary and genetic consider-
+ations lead us to predict roles for rp
+genesinhumandisease.Ribosomalpro-
+teins are highly conserved among eu-
+karyotes and prokaryotes. Virtually all
+mammalian ribosomal proteins have
+counterparts (with 40%–88% amino
+acid identity) in the yeast ribosome
+(Wool et al. 1996). Of the 78 rat ribo-
+somal proteins whose amino acid se-
+quence is known, at least 49 have rec-
+ognizablehomologsinthearchaebacte-
+Upper-andlowercaselettersdenoteexonandintronsequences,respectively. rialribosome(Wooletal.1996).Among
+ForDDBJ/EMBL/GenBankaccessionnos.,seeTable1.
+multicellular animals, the conse-
+aLastnucleotideinexonisnumberedaccordingtopositionincDNAsequence.
+bSizeestimatedbyagarosegelelectrophoresis. quences of mutations in rp genes have
+been explored most thoroughly in Dro-
+sophila.Here,mutationsresultinginre-
+duced expression of individual ribo-
+wouldcontainintrons,therebyreducingthesizeof somalproteinsyieldtheMinutephenotype.Because
+PCR products and increasing amplification effi- afullcomplementofribosomalproteinsisrequired
+ciency. In contrast, our rp gene STSs were designed to assemble a functional, stable ribosome, Minute
+tospanorliewithinintrons,toidentifyfunctional, cells probably contain fewer ribosomes and thus
+intron-bearing genes as distinct from processed have less capacity for protein synthesis (Kay and
+pseudogenes. Although the procedure for deriving Jacobs-Lorena 1987). Conservation of ribosomal
+STSs from 3(cid:56)-untranslated regions of genes is sim- proteins among eukaryotes, combined with se-
+pler—a requirement of high-volume genomic stud- quencestudies,indicatethatDrosophilaandhuman
+ies—the procedure would likely yield erroneous ribosomes are extremely similar. Thus, it is likely
+GENOME RESEARCH 517
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+that quantitative deficiencies in human ribosomal typesdoresultfromribosomalproteindeficiencies,
+proteins, as in Drosophila, will result in reduced thosephenotypesmayormaynotresembletheDro-
+translationalcapacityandtherebyyieldspecific,re- sophila Minute phenotype.
+producible phenotypes. If specific human pheno- The present mapping study was motivated by
+Figure 2 (See facing page for legend.)
+518 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+the possibility that ribosomal protein mutations cies of autosomal rp genes may yield Turner-like
+contributetohumandisease,includingTurnersyn- phenotypes in humans. Given the dispersion of rp
+drome,otherchromosomalbirthdefects,andMen- genes throughout the human genome, virtually all
+delian disorders. As yet, no human disorder has monosomiesandmanypartialmonosomieswillen-
+beentraceddefinitivelytoaribosomalproteinmu- tail heterozygous deficiencies of one or more rp
+tation. Having a map of the rp genes will facilitate genes. We speculate that ribosomal protein defi-
+the search for mutations and roles in human dis- ciencies contribute to the abnormal development
+ease,includingmonosomiesandvariousMendelian and poor viability of monosomic human fetuses
+disorders. and perhaps also to phenotypes observed in chil-
+dren born with partial monosomies. Thus, a search
+Monosomies forcorrelationsbetweenribosomalproteinlociand
+haploinsufficient or haplolethal regions of the hu-
+Turner syndrome is a complex human phenotype
+man genome should be initiated. [Note: The hy-
+associatedwithmonosomyX(Fordetal.1959).Em-
+pothesizedroleofRPS4inTurnersyndromeiscon-
+bryoswitha45,Xkaryotypedevelopasfemaleswith
+troversial. Some investigators have concluded that
+poor viability in utero, and those that survive ex-
+RPS4 is not a Turner gene, because many Turner
+hibitshortstature,ovarianfailure,andspecificana-
+patients with structurally abnormal X chromo-
+tomicabnormalitiesthatmayincludelymphedema,
+someshavetwoormoreactivecopiesofRPS4X(Just
+webbing of the neck, and cubitus valgus (Lippe
+etal.1992;Geerkensetal.1996).However,asmost
+1991).Thesephenotypeslikelyresultfromthehap-
+such patients do not exhibit the particular Turner
+loinsufficiencyofcertaingenesthatarecommonto
+features that we attribute to RPS4 deficiency, these
+the X and Y chromosomes and that escape X inac-
+observations are consistent with our hypothesis.
+tivation (Ferguson-Smith 1965); specific XY gene
+OmoeandEndo(1996)havesuggestedthatRPS4is
+pairsprobablyaccountforparticularcomponentsof
+perhaps not involved in Turner syndrome, because
+this complex phenotype (Zinn et al. 1993) On the
+some mammalian species that have no RPS4Y gene
+basis of studies of individuals carrying partial Y
+on their Y chromosome exhibit an XO phenotype
+chromosomes, we and our colleagues have previ-
+that is reminiscent of human Turner syndrome.
+ouslysuggestedthatribosomalproteinS4,encoded
+However, because these XO animals do not exhibit
+byboththeXandYchromosomes,isanimportant
+the particular Turner features that we attribute to
+factor in Turner syndrome (Fisher et al. 1990). Spe-
+RPS4deficiency,OmoeandEndo’sobservationsare
+cifically, our results suggest that a quantitative de-
+also consistent with our hypothesis.]
+ficiency of RPS4 may be responsible for the lymph-
+edema and neck webbing observed in 45,X indi-
+MendelianHaploinsufficiencies
+viduals, and perhaps also for the poor viability of
+45,Xfetuses(L.Brown,C.Raut,andD.C.Page,un- Quantitative deficiencies of individual ribosomal
+publ.). Following the principle, from Drosophila, proteins could possibly result from either gross
+that translational deficiencies stemming from any chromosomaldeletionsorpointmutationsinindi-
+of a large number of rp genes yield a consistent, vidual rp genes. In the latter case, resulting haplo-
+reproducible phenotype, we predict that deficien- insufficient traits might display simple Mendelian
+Figure2 Amapofgenesencodingthehumanribosome.The22autosomesandtwosexchromosomesareshown
+asverticallines,onwhicharepositioned75rpgenes(RP...),fiveribosomalRNAgeneclusters(rRNA),andtwo5S
+RNA gene clusters (5SRNA). To the right of each chromosome are listed rp gene STSs, nearby markers, and
+approximate distances (in centiMorgans and/or centiRays) from the most distal short-arm marker on maps con-
+structed at Ge´ne´thon and the Whitehead Institute/MIT Center for Genome Research (Hudson et al. 1995). (Maps
+shown as of November 1997; for updated maps see http://www-genome.wi.mit.edu/cgi-bin/contig/physmap).
+Because of the inherently statistical nature of RH mapping, we have high confidence in marker orders only where
+markers are separated by at least 15 centiRays. On distal 19q, for example, RPS5, RPL28, and RPS9 appear to be
+clustered within 10 centiRays and thus cannot be ordered with confidence. Our present data are most consistent
+withtheorderRPS5—RPL28—RPS9—qter(asshown),buthigherresolutionmappingexperiments,whileconfirm-
+ingtheproximityofthethreegenes,stronglysuggesttheorderRPS9–RPL28–RPS5–qter(N.Kenmochi,G.Lennon,
+S. Higa, and L. Ashworth, unpubl.). For the Y chromosome, where no genetic map is available, deletion map
+intervals(Vollrathetal.1992)arelisted.OurassignmentofRPL29to3pconflictswitharecentreportthatitmaps
+to3q29-qter(Garcia-Barceloetal.1997).(*)Onchromosome17,RPL23AandRPL38werelocalizedtotheindicated
+intervals, but their distances from flanking markers could not be meaningfully estimated.
+GENOME RESEARCH 519
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+transmission, probably appearing like autosomal is available (Wool et al. 1996). We used these rat cDNA se-
+dominant characters in human pedigrees. Because, quencestoquerytheGenBank,EMBL,andDDBJdatabasesfor
+humanrpgenesequences(cDNAandgenomic).Theamino
+in Drosophila, heterozygotes for loss-of-function
+acidsequencesofhomologousratandhumanribosomalpro-
+mutationsinanyofalargenumberofrpgenesdis-
+teinsare,onaverage,99%identical.Werefertothehuman
+play the Minute phenotype, one might expect the ribosomal proteins using the established rat nomenclature
+phenotype in human heterozygotes to be similarly (Wooletal.1996).
+consistentdespitegeneticheterogeneity.Wepredict
+thatthisautosomaldominantphenotypewoulden-
+compass the components of the 45,X phenotype PCR Primers and Conditions
+that are likely attributable to RPS4 deficiency,
+Formostrpgenes,theprimerselectionrulesdescribedinthe
+namely,lymphedema,neckwebbing,and,perhaps,
+Results proved workable and effective. However, for a few
+reduced fetal viability.
+group3genes,theserulesweretoostringenttopermitselec-
+Particularly intriguing is the possibility that tionofprimerpairs,ortheprimersselectedfailedtoamplify
+Noonan syndrome might be attributable to ribo- a higher molecular weight product with YAC pools as tem-
+somal protein deficiency. Many investigators have plate.Inseveralsuchcases,wewereabletoselectsatisfactory
+pairsbypickingtheforwardprimerfromalargertargetregion
+drawnattentiontosimilaritiesbetweentheNoonan
+(150–300bpupstreamoftheterminationcodon)orbyallow-
+and Turner phenotypes (Allanson 1987). As one
+ingtheforwardprimertocontainasingleAGdinucleotide.In
+would predict for a Minute-like ribosomal protein allcases,PCRprimerpairswereselectedbyuseofthePRIMER
+deficiency,Noonansyndromeisinheritedinappar- program(S.Lincoln,M.J.Daly,E.S.Lander,WhiteheadInsti-
+entlyautosomaldominantfashion,anditisgeneti- tute); optimal oligonucleotide T m was set at 58°C and the
+optimalprimerlengthwassetat20nucleotides.
+cally heterogeneous. We note that the RPL6 and
+PCRwasperformedin20-µlvolumescontaining30–50
+RPPOgenesmaptoaregionofchromosome12im-
+ng of template DNA, 10 pmole each of forward and reverse
+plicated,bylinkageanalysis,inalargepedigreewith primers,0.1mMdNTPs,10mMTris-Cl(pH8.2),50mMKCl,
+Noonan syndrome (Jamieson et al. 1994). 1.5 mM MgCl
+2
+, 5.0 mM NH
+4
+Cl. Reaction mixes were first
+heatedat90°Cand,then,1unitofTaqDNApolymerasewas
+added.Cyclingconditionsincludedaninitialdenaturationat
+OtherMendelianDisorders 94°Cfor3min,followedby35cyclesof94°Cfor1min,61°C
+for1min,72°Cfor1min,andafinalextensionat72°Cfor5
+In considering the potential range of human disor-
+min.
+dersthatmightbecausedbyrpgenemutations,itis
+important to recognize that some ribosomal pro-
+teins may have additional, extraribosomal func-
+Physical Mapping
+tions. Wool (1996) has suggested that, during evo-
+lution,proteinsofdiversefunctionwererecruitedto RPgeneSTSswerechromosomallyassignedbyuseofNational
+the ribosome to stabilize rRNA or otherwise en- InstituteofGeneralMedicalSciences(NIGMS)human-rodent
+hybridcelllinepanels1and2(Drwingaetal.1993).
+hance translation, and that, in some cases, these
+To place rp gene STSs on an existing RH map of the
+recruitedproteinshavealsoretainedtheirancestral
+humangenome(Hudsonetal.1995),wetestedthehybridsof
+functions. For example, in mammals and Dro- theGeneBridge4panel(Walteretal.1994)induplicate,by
+sophila,RPS3functionsasbotharibosomalprotein PCR, and analyzed the results using RHMAPPER software
+andanendonuclease(Wilsonetal.1994;Kimetal. (Hudsonetal.1995).
+To place RP gene STSs on an existing YAC/STS content
+1995;Yacoubetal.1996).InDrosophila,RPS6func-
+mapofthehumangenome(Hudsonetal.1995),wescreened
+tions as a tumor suppressor in the hematopoietic
+25,344 YACs (plates 709–972) from the CEPH library (Chu-
+system(Watsonetal.1992),andRPS2functionsin makovetal.1995)usingmethodsdescribedpreviously(Hud-
+oogenesis (Cramton and Laski 1994), perhaps re- sonetal.1995).
+flectingextraribosomalfunctionsfortheseproteins.
+Given these precedents, human geneticists should
+not overlook the possibility that ribosomal protein ACKNOWLEDGMENTS
+mutations could directly perturb diverse cellular
+We thank Carl Rosenberg for thoughtful analyses and assis-
+functions, without affecting translation, and
+tancewithprimerselection,LincolnSteinforhelpinmanag-
+thereby produce disease.
+ingtheinformaticsaspectsofRHandYACmapping,Sebas-
+tianGeretyforexpertassistanceinmapping,HelenSkaletsky
+METHODS for help in RH analysis, William Gelbart and Chao Sun for
+comments on the manuscript, and Ira Wool and Yuen-Ling
+DNA Sequences and Nomenclature Chan for encouragement and valuable advice during the
+courseofthiswork.ThisstudywassupportedbytheHoward
+AcompletecatalogofratribosomalproteincDNAsequences Hughes Medical Institute, the National Institutes of Health,
+520 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+theMinistryofEducation,Science,SportsandCultureofJa- presenceofmultipleprocessedpseudogenes.Proc.Natl.
+pan,andtheJapaneseFoundationforGrowthScience. Acad.Sci.86:6691–6695.
+Thepublicationcostsofthisarticleweredefrayedinpart
+by payment of page charges. This article must therefore be Drwinga,H.L.,L.H.Toji,C.H.Kim,A.E.Greene,andR.A.
+hereby marked ‘‘advertisement’’ in accordance with 18 USC Mulivor.1993.NIGMShuman/rodentsomaticcellhybrid
+section1734solelytoindicatethisfact. mappingpanels1and2.Genomics16:311–314.
+Dudov,K.P.andR.P.Perry.1984.Thegenefamilyencoding
+REFERENCES themouseribosomalproteinL32containsauniquely
+expressedintron-containinggeneandanunmutated
+Adams,S.M.,N.R.Helps,M.G.Sharp,W.J.Brammar,R.A. processedgene.Cell37:457–468.
+Walker,andJ.M.Varley.1992.Isolationand
+characterizationofanovelgenewithdifferentialexpression Fan,W.,M.Christensen,E.Eichler,X.Zhang,andG.
+inbenignandmalignanthumanbreasttumours.Hum.Mol. Lennon.1997.Cloning,sequencing,geneorganization,and
+Genet.1:91–96. localizationofthehumanribosomalproteinRPL23Agene.
+Genomics46:234–239.
+Allanson,J.E.1987.Noonansyndrome.J.Med.Genet.
+24:9–13. Feo,S.,B.Davies,andM.Fried.1992.Themappingof
+sevenintron-containingribosomalproteingenesshows
+Andersson,S.,S.Saebøe-Larssen,A.Lambertsson,J. theyareunlinkedinthehumangenome.Genomics
+Merriam,andM.Jacobs-Lorena.1994.ADrosophilathird 13:201–207.
+chromosomeMinutelocusencodesaribosomalprotein.
+Genetics137:513–520. Ferguson-Smith,M.A.1965.Karyotype-phenotype
+correlationsingonadaldysgenesisandtheirbearingonthe
+Annilo,T.,M.Laan,J.Stahl,andA.Metspalu.1995.The pathogenesisofmalformations.J.Med.Genet.2:142–155.
+humanribosomalproteinS7-encodinggene:Isolation,
+structureandlocalizationin2p25.Gene165:297–302. Fisher,E.M.,P.Beer-Romero,L.G.Brown,A.Ridley,J.A.
+McNeil,J.B.Lawrence,H.F.Willard,F.R.Bieber,andD.C.
+Page.1990.Homologousribosomalproteingenesonthe
+Antoine,M.andM.Fried.1992.Theorganizationofthe
+humanXandYchromosomes:EscapefromXinactivation
+intron-containinghumanS6ribosomalprotein(rpS6)gene
+andpossibleimplicationsforTurnersyndrome.Cell
+anddeterminationofitslocationatchromosome9p21.
+63:1205–1218.
+Hum.Mol.Genet.1:565–570.
+FlyBase.1997.FlyBase:ADrosophiladatabase.NucleicAcids
+Berry,R.,T.J.Stevens,N.A.Walter,A.S.Wilcox,T.Rubano,
+Res.25:63–66.
+J.A.Hopkins,J.Weber,R.Goold,M.B.Soaresetal.1995.
+Gene-basedsequence-tagged-sites(STSs)asthebasisfora
+Ford,C.E.,O.J.Miller,P.E.Polani,J.C.deAlmeida,andJ.H.
+humangenemap.NatureGenet.10:415–423.
+Briggs.1959.Asex-chromosomeanomalyinacaseof
+gonadaldysgenesis(Turner’ssyndrome).Lancet1:711–713.
+Chumakov,I.M.,P.Rigault,I.LeGall,C.
+Ballanne´-Chantelot,A.Billault,S.Guillou,P.Soularue,G.
+Garcia-Barcelo,M.,P.T.W.Law,S.K.W.Tsui,K.P.Fung,C.Y.
+Guasconi,E.Poullieretal.1995.AYACcontigmapofthe
+Lee,andM.M.Y.Waye.1997.Mappingofthehuman
+humangenome.Nature377:S175–S298.
+ribosomallargesubunitproteingeneRPL29tohuman
+chromosome3q29-qter.Genomics46:148–151.
+Colombo,P.,M.Read,andM.Fried.1996.ThehumanL35a
+ribosomalprotein(RPL35A)geneislocatedatchromosome
+Geerkens,C.,W.Just,K.R.Held,andW.Vogel.1996.
+band3q29-qter.Genomics32:148–150.
+Ullrich-Turnersyndromeisnotcausedby
+haploinsufficiencyofRPS4X.Hum.Genet.97:39–44.
+Cramton,S.E.andF.A.Laski.1994.stringofpearlsencodes
+DrosophilaribosomalproteinS2,hasMinute-like
+Hariharan,N.,D.E.Kelley,andR.P.Perry.1989.Equipotent
+characteristics,andisrequiredduringoogenesis.Genetics
+mouseribosomalproteinpromotershaveasimilar
+137:1039–1048.
+architecturethatincludesinternalsequenceelements.Genes
+&Dev.3:1789–1800.
+Davies,B.andM.Fried.1993.Thestructureofthehuman
+intron-containingS8ribosomalproteingeneand Hart,K.,T.Klein,andM.Wilcox.1993.AMinuteencoding
+determinationofitschromosomallocationat1p32-p34.1. aribosomalproteinenhanceswingmorphogenesismutants.
+Genomics15:68–75. Mech.Dev.43:101–110.
+———.1995.TheL19ribosomalproteingene(RPL19): Henderson,A.S.,D.Warburton,andK.C.Atwood.1973.
+Geneorganization,chromosomalmapping,andnovel RibosomalDNAconnectivesbetweenhumanacrocentric
+promoterregion.Genomics25:372–380. chromosomes.Nature245:95–97.
+Davies,B.,S.Feo,E.Heard,andM.Fried.1989.Astrategy Hudson,T.J.,L.D.Stein,S.S.Gerety,J.Ma,A.B.Castle,J.
+todetectandisolateanintron-containinggeneinthe Silva,D.K.Slonim,R.Baptista,L.Kruglyaketal.1995.An
+GENOME RESEARCH 521
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+KENMOCHI ET AL.
+STS-basedmapofthehumangenome.Science Mazuruk,K.,T.J.Schoen,G.J.Chader,T.Iwata,andI.R.
+270:1945–1954. Rodriguez.1996.Structuralorganizationandchromosomal
+localizationofthehumanribosomalproteinL9gene.
+Imai,T.,K.Sudo,andT.Miwa.1994.Assignmentofthe Biochim.Biophys.Acta1305:151–162.
+humanribosomalproteinS25gene(RPS25)tochromosome
+11q23.3bysequenceanalysisofthemarkerD11S456. Meyuhas,O.,D.Avni,andS.Shama.1996.Translational
+Genomics20:142–143. controlofribosomalproteinmRNAsineukaryotes.In
+Translationalcontrol(ed.J.W.B.Hershey,M.B.Mathews,and
+Jamieson,C.R.,I.vanderBurgt,A.F.Brady,M.vanReen, N.Sonenberg),pp.363–388.ColdSpringHarborLaboratory
+M.M.Elsawi,F.Hol,S.Jeffery,M.A.Patton,andE. Press,ColdSpringHarbor,NY.
+Mariman.1994.MappingageneforNoonansyndrometo
+thelongarmofchromosome12.NatureGenet.8:357–360. Morton,N.E.1991.Parametersofthehumangenome.Proc.
+Natl.Acad.Sci.88:7474–7476.
+Jones,A.M.,R.Marzella,M.Rocchi,andJ.E.Hewitt.1997.
+Mappingofthehumanribosomalsmallsubunitprotein Mount,S.M.1982.Acatalogueofsplicejunctionsequences.
+geneRPS24tothechromosome10q22-q23boundary. NucleicAcidsRes.10:459–472.
+Genomics39:121–122.
+Nolte,D.,G.Taimor,M.Kalff-Suske,andK.H.Seifart.1996.
+Just,W.,C.Geerkens,K.R.Held,andW.Vogel.1992. ThehumanS3aribosomalprotein:Sequence,locationand
+ExpressionofRPS4Xinfibroblastsfrompatientswith cell-freetranscriptionofthefunctionalgene.Gene
+structuralaberrationsoftheXchromosome.Hum.Genet. 169:179–185.
+89:240–242.
+Nomura,M.,R.Gourse,andG.Baughman.1984.
+Kas,K.,E.Schoenmakers,W.vandeVen,G.Weber,M. Regulationofthesynthesisofribosomesandribosomal
+Nordenskjold,L.Michiels,J.Merregaert,andC.Larsson. components.Annu.Rev.Biochem.53:75–117.
+1993.AssignmentofthehumanFAUgenetoasubregionof
+chromosome11q13.Genomics17:387–392.
+Nucifora,G.,C.R.Begy,P.Erickson,H.A.Drabkin,andJ.D.
+Rowley.1993.The3;21translocationinmyelodysplasia
+Kay,M.A.andM.Jacobs-Lorena.1987.Developmental resultsinafusiontranscriptbetweentheAML1geneand
+geneticsofribosomesynthesisinDrosophila.TrendsGenet. thegeneforEAP,ahighlyconservedproteinassociated
+3:347–351. withtheEpstein-BarrvirussmallRNAEBER1.Proc.Natl.
+Acad.Sci.90:7784–7788.
+Kim,J.,L.S.Chubatsu,A.Admon,J.Stahl,R.Fellous,andS.
+Linn.1995.Implicationofmammalianribosomalprotein Oeltjen,J.C.,X.Liu,J.Lu,R.C.Allen,D.Muzny,J.W.
+S3intheprocessingofDNAdamage.J.Biol.Chem. Belmont,andR.A.Gibbs.1995.Sixty-ninekilobasesof
+270:13620–13629. contiguoushumangenomicsequencecontainingthe
+alpha-galactosidaseAandBruton’styrosinekinaseloci.
+Kongsuwan,K.,Q.Yu,A.Vincent,M.C.Frisardi,M. Mamm.Genome6:334–338.
+Rosbash,J.A.Lengyel,andJ.Merriam.1985.ADrosophila
+Minutegeneencodesaribosomalprotein.Nature Omoe,K.andA.Endo.1996.Relationshipbetweenthe
+317:555–558. monosomyXphenotypeandY-linkedribosomalproteinS4
+(Rps4)inseveralspeciesofmammals:Amolecular
+Kuzumaki,T.,T.Tanaka,K.Ishikawa,andK.Ogata.1987. evolutionaryanalysisofRps4homologs.Genomics
+RatribosomalproteinL35amultigenefamily:Molecular 31:44–50.
+structureandcharacterizationofthreeL35a-related
+pseudogenes.Biochim.Biophys.Acta909:99–106. Polakiewicz,R.D.,D.J.Munroe,S.N.Sait,K.T.Tycowski,N.J.
+Nowak,T.B.Shows,D.E.Housman,andD.C.Page.1995.
+Lippe,B.1991.TurnerSyndrome.Endocrinol.Metab.Clin.of MappingofribosomalproteinS3andinternallynested
+NorthAm.20:121–152. snoRNAU15Agenetohumanchromosome11q13.3-q13.5.
+Genomics25:577–580.
+Lomholt,B.,S.Frederiksen,J.N.Nielsen,andC.Hallenberg.
+1995.Additionalassignmentofthehuman5SrRNAgenes Rhoads,D.D.,A.Dixit,andD.J.Roufa.1986.Primary
+tochromosomeregion1q31.Cytogenet.CellGenet. structureofhumanribosomalproteinS14andthegene
+70:76–79. thatencodesit.Mol.Cell.Biol.6:2774–2783.
+Maeda,N.,N.Kenmochi,andT.Tanaka.1993.The Saebøe-Larssen,S.andA.Lambertsson.1996.Anovel
+completenucleotidesequenceofchickenribosomalprotein DrosophilaMinutelocusencodesribosomalproteinS13.
+L7ageneandthemultiplefactorbindingsitesinits Genetics143:877–885.
+5(cid:56)-flankingregion.Biochimie75:785–790.
+Schmidt,A.,M.Hollmann,andU.Schafer.1996.Anewly
+Maidak,B.L.,G.J.Olsen,N.Larsen,R.Overbeek,M.J. identifiedMinutelocus,M(2)32D,encodestheribosomal
+McCaughey,andC.R.Woese.1997.TheRDP(Ribosomal proteinL9inDrosophilamelanogaster.Mol.&Gen.Genet.
+DatabaseProject).NucleicAcidsRes.25:109–111. 251:381–387.
+522 GENOME RESEARCH
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A MAP OF 75 HUMAN RIBOSOMAL PROTEIN GENES
+Schuler,G.D.,M.S.Boguski,E.A.Stewart,L.D.Stein,G. Worton,R.G.,J.Sutherland,J.E.Sylvester,H.F.Willard,S.
+Gyapay,K.Rice,R.E.White,P.Rodriguez-Tome,A. Bodrug,I.Dube,C.Duff,V.Kean,P.N.Rayetal.1988.
+Aggarwaletal.1996.Agenemapofthehumangenome. HumanribosomalRNAgenes:Orientationofthetandem
+Science274:540–546. arrayandconservationofthe5(cid:56)end.Science239:64–68.
+Schultz,J.1929.TheMinutereactioninthedevelopmentof Yacoub,A.,L.Augeri,M.R.Kelley,P.W.Doetsch,andW.A.
+Drosophilamelanogaster.Genetics14:366–419. Deutsch.1996.ADrosophilaribosomalproteincontains
+8-oxoguanineandabasicsiteDNArepairactivities.EMBOJ.
+Sørensen,P.D.,B.Lomholt,S.Frederiksen,andN. 15:2306–2312.
+Tommerup.1991.Finemappingofhuman5SrRNAgenes
+tochromosome1q42.11-q42.13.Cytogenet.CellGenet. Yon,J.,T.Jones,K.Garson,D.Sheer,andM.Fried.1993.
+57:26–29. TheorganizationandconservationofthehumanSurfeit
+geneclusteranditslocalizationtelomerictothec-abland
+vandenOuweland,A.M.,P.Kioschis,M.Verdijk,F. canproto-oncogenesatchromosomeband9q34.1.Hum.
+Tamanini,D.Toniolo,A.Poustka,andB.A.vanOost.1992. Mol.Genet.2:237–240.
+Identificationandcharacterizationofanewgeneinthe
+humanXq28region.Hum.Mol.Genet.1:269–273. Zinn,A.R.,R.K.Alagappan,L.G.Brown,I.Wool,andD.C.
+Page.1994.StructureandfunctionofribosomalproteinS4
+Vollrath,D.,S.Foote,A.Hilton,L.G.Brown,P. genesonthehumanandmousesexchromosomes.Mol.
+Beer-Romero,J.S.Bogan,andD.C.Page.1992.Thehuman Cell.Biol.14:2485–2492.
+Ychromosome:A43-intervalmapbasedonnaturally
+occurringdeletions.Science258:52–59. Zinn,A.R.,D.C.Page,andE.M.C.Fisher.1993.Turner
+syndrome:Thecaseofthemissingsexchromosome.Trends
+Wagner,M.andR.P.Perry.1985.Characterizationofthe Genet.9:90–93.
+multigenefamilyencodingthemouseS16ribosomal
+protein:Strategyfordistinguishinganexpressedgenefrom
+itsprocessedpseudogenecounterpartsbyananalysisof ReceivedJanuary1,1998;acceptedinrevisedformMarch13,
+totalgenomicDNA.Mol.Cell.Biol.5:3560–3576. 1998.
+Walter,M.,D.Spillett,P.Thomas,J.Weissenbach,andP.
+Goodfellow.1994.Amethodforconstructingradiation
+hybridmapsofwholegenomes.NatureGenet.7:22–28.
+Watanabe,M.,A.R.Zinn,D.C.Page,andT.Nishimoto.
+1993.FunctionalequivalenceofhumanX-andY-encoded
+isoformsofribosomalproteinS4consistentwitharolein
+Turnersyndrome.NatureGenet.4:268–271.
+Watson,K.L.,K.D.Konrad,D.F.Woods,andP.J.Bryant.
+1992.DrosophilahomologofthehumanS6ribosomal
+proteinisrequiredfortumorsuppressioninthe
+hematopoieticsystem.Proc.Natl.Acad.Sci.
+89:11302–11306.
+Webb,G.C.,R.T.Baker,M.Coggan,andP.G.Board.1994.
+LocalizationofthehumanUBA52ubiquitinfusiongeneto
+chromosomeband19p13.1-p12.Genomics19:567–569.
+Wilson,D.M.I.,W.A.Deutsch,andM.R.Kelley.1994.
+DrosophilaribosomalproteinS3containsanactivitythat
+cleavesDNAatapurinic/apyrimidinicsites.J.Biol.Chem.
+269:25359–25364.
+Wool,I.G.1979.Thestructureandfunctionofeukaryotic
+ribosomes.Annu.Rev.Biochem.48:719–754.
+———.1996.Extraribosomalfunctionsofribosomal
+proteins.TrendsBiochem.Sci.21:164–165.
+Wool,I.G.,Y.L.Chan,andA.Glu¨ck.1996.Mammalian
+ribosomes:Thestructureandtheevolutionoftheproteins.
+InTranslationalcontrol(ed.J.W.B.Hershey,M.B.Mathews,
+andN.Sonenberg),pp.685–732.ColdSpringHarbor
+LaboratoryPress,ColdSpringHarbor,NY.
+GENOME RESEARCH 523
+
+---PAGE BREAK---
+
+Downloaded from genome.cshlp.org on January 12, 2023 - Published by Cold Spring Harbor Laboratory Press
+A Map of 75 Human Ribosomal Protein Genes
+Naoya Kenmochi, Tomoko Kawaguchi, Steve Rozen, et al.
+Genome Res. 1998 8: 509-523
+Access the most recent version at doi:10.1101/gr.8.5.509
+References This article cites 67 articles, 20 of which can be accessed free at:
+http://genome.cshlp.org/content/8/5/509.full.html#ref-list-1
+License
+Email Alerting Receive free email alerts when new articles cite this article - sign up in the box at the
+Service top right corner of the article or click here.
+To subscribe to Genome Research go to:
+https://genome.cshlp.org/subscriptions
+Cold Spring Harbor Laboratory Press
+
+---PAGE BREAK---
+

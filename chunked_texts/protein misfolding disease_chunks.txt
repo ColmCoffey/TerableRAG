@@ -1,0 +1,591 @@
+Chunk 1:
+insight review articles
+Therapeutic approaches to protein-
+misfolding diseases
+Fred E. Cohen1& Jeffery W. Kelly2
+1University of California at San Francisco, Department of Cellular and Molecular Pharmacology, Genentech Hall, 600 16th Street N472J,
+San Francisco, California 94107, USA (e-mail: cohen@cmpharm.ucsf.edu)
+2Department of Chemistry and the Skaggs Institute of Chemical Biology, The Scripps Research Institute, 10550 North Torrey Pines Rd, BCC 265,
+La Jolla, California 92037, USA (e-mail: jkelly@scripps.edu)
+Several sporadic and genetic diseases are caused by protein misfolding. These include cystic fibrosis and
+other devastating diseases of childhood as well as Alzheimer’s, Parkinson’s and other debilitating maladies of
+the elderly. A unified view of the molecular and cellular pathogenesis of these conditions has led to the
+search for chemical chaperones that can slow, arrest or revert disease progression. Molecules are now
+emerging that link our biophysical insights with our therapeutic aspirations.
+H
+ow and whether a protein folds in vivoare influ- teins, and drugs that increase the native-state stability or
+enced primarily by its amino-acid sequence increase the kinetic barrier to misfolding aggregation
+and the cellular environment surrounding the (see Box 1).
+polypeptide chain1. Protein folding in the cell In this review, we focus on small molecules, antibodies
+occurs either in the cytoplasm or within the and dominant-negative protein subunits that increase the
+secretory pathway (see the review in this issue by Dobson, stability of the native state and/or increase the activation
+page 884). ATP-dependent chaperones in the cytoplasm and barrier associated with misfolding because these approaches
+the lumen of the endoplasmic reticulum (ER) collaborate to are innovative and likely to be efficacious.
+give a polypeptide chain several opportunities to fold. If
+folding is unsuccessful, the polypeptide is directed to the Small-molecule chaperones and treatment of d
+
+Chunk 2:
+ the activation
+page 884). ATP-dependent chaperones in the cytoplasm and barrier associated with misfolding because these approaches
+the lumen of the endoplasmic reticulum (ER) collaborate to are innovative and likely to be efficacious.
+give a polypeptide chain several opportunities to fold. If
+folding is unsuccessful, the polypeptide is directed to the Small-molecule chaperones and treatment of disease
+proteasome — a large multisubunit protease — for degra- Many wild-type (WT) proteins fold inefficiently in the ER,
+dation (see the review in this issue by Goldberg, page 895). even with the aid of the heat shock protein 40/70/90 (hsp40,
+Ensuring accuracy in protein folding is crucial for maintain- hsp70 and hsp90) chaperone system that facilitates the
+ing proper cellular function. refolding or retrotranslocation of misfolded proteins back
+Several diseases are caused by a loss of protein function into the cytoplasm, where they are degraded by the protea-
+because the misfolded proteins have been degraded by the some. Mutations further reduce folding efficiency by
+proteasome. Cystic fibrosis and a1-antitrypsin (a1-AT) altering the energetics of proper folding. However, small-
+deficiency are well-known heritable diseases that fall into molecule ligands that bind to the native state of these
+this category2–4. Other misfolding diseases are caused by mutant proteins can stabilize the native state or destabilize
+conformational changes coupled to the aggregation of mis- the transition state (see Box 1) to compensate for the
+folded proteins outside the cell, beyond the influence of influence of the mutation (Fig. 1).
+intracellular quality-control systems. The major represen- Bouvier and colleagues9have shown that selective V2-
+tatives of these disorders are the amyloidoses, in which receptor antagonists (for example, SR121463A and VPA985)
+protein aggregation in the extracellular space is associated can lead to a 15-fold increase in expression of functional V2
+with the appearan
+
+Chunk 3:
+fluence of the mutation (Fig. 1).
+intracellular quality-control systems. The major represen- Bouvier and colleagues9have shown that selective V2-
+tatives of these disorders are the amyloidoses, in which receptor antagonists (for example, SR121463A and VPA985)
+protein aggregation in the extracellular space is associated can lead to a 15-fold increase in expression of functional V2
+with the appearance of a toxic function5,6. vasopressin receptor at the cell surface, rescuing these recep-
+Proteins that use the secretory pathway for folding and tors from proteasome degradation. Antagonists that were
+trafficking are over-represented in protein-misfolding not cell permeable were ineffective, showing the importance
+diseases. These proteins fold in the ER and then proceed of intercepting the misfolded protein in the cell and most
+through the secretory pathway to their final destination, likely in the ER. Chemical chaperones are small molecules
+where the environment can be very different. For example, that bind to a protein, stabilize the folded state and thereby
+lysosomal enzymes have to fold at neutral pH to leave the reduce protein misfolding. The cell-permeable chemical
+ER, yet their sequences are optimized for folding and stabili- chaperoneswere able to functionally complement more than
+ty at pH 5 (lysosomal pH). So mutations in lysosomal pro- six V2 receptor variants, some of which are associated with
+teins can adversely alter folding in the ER, leading to degra- nephrogenic diabetes insipidus. These investigators also
+dation by the quality-control machinery. Ironically, many of used chemical chaperones to complement the misfolding
+the variants that cause heritable lysosomal storage diseases tendencies of variants of the d-opioid receptor10.
+would be able to fold into functional enzymes in the lyso- Conn and colleagues11have demonstrated that it is possi-
+some, if only they could get there7,8. In contrast, amyloido- ble to use indoles, quinolones and erythromycin macro
+
+Chunk 4:
+of used chemical chaperones to complement the misfolding
+the variants that cause heritable lysosomal storage diseases tendencies of variants of the d-opioid receptor10.
+would be able to fold into functional enzymes in the lyso- Conn and colleagues11have demonstrated that it is possi-
+some, if only they could get there7,8. In contrast, amyloido- ble to use indoles, quinolones and erythromycin macrolides
+genic proteins seem to fold efficiently in the ER but get into to complement the secretion-deficient loss-of-function
+trouble in their destination environments, where they mis- variants of the gonadotropin-releasing hormone receptor
+fold and misassemble, a process known as amyloidogenesis. (GnRHR) in transiently transfected COS-7 cells. ER-per-
+The thermodynamic principles behind protein folding are meable agonists and antagonists with a high affinity for WT
+discussed in Box 1. GnRHR were most efficient at chaperoning several, but not
+Therapeutic intervention can take the form of drugs that all, GnRHR variants out of the ER, and enabling their traf-
+reduce the production of a certain protein, drugs that ficking to the plasma membrane where they function. In an
+increase the rate of clearance of misfolded/aggregated pro- analogous approach, defects in rhodopsin folding in the
+NATURE|VOL 426|18/25 DECEMBER 2003|www.n©at u2re0.0co3m N/naattuurree PublishingGroup 905
+
+---PAGE BREAK---
+
+insight review articles
+Box 1
+The thermodynamics of protein folding
+In discussing therapeutic approaches to diseases Physiological conditions Misfolding conditions
+of protein misfolding, it is useful to consider the
+kinetic and thermodynamic underpinnings (see
+figure). Most proteins easily find their native state
+because the free energy of activation (DG‡, which
+dictates rate) separating the unfolded and D G‡ Environment change
+transition states is surmountable, and the folded
+D G‡*
+state is substantially more stable than the
+unfolded state (the difference in free energy, DG,
+dictates the re
+
+Chunk 5:
+l to consider the
+kinetic and thermodynamic underpinnings (see
+figure). Most proteins easily find their native state
+because the free energy of activation (DG‡, which
+dictates rate) separating the unfolded and D G‡ Environment change
+transition states is surmountable, and the folded
+D G‡*
+state is substantially more stable than the
+unfolded state (the difference in free energy, DG,
+dictates the relative populations of folded and
+unfolded proteins). For aggregation-prone Unfolded D G N fo o ld rm ed ally
+proteins, it has become clear that the misfolded
+oligomeric state can be more stable than the
+functional three-dimensional structure under D G*
+certain conditions, including those associated
+with a high-denaturation stress47,48. Fortunately,
+the kinetic barrier, DG‡, separating the native and Aggregation Oligomer (n) Oligomer
+misfolded states is usually insurmountable on a competent conformer (n+1)
+biologically relevant time frame, and, in most or multimeric seed
+cases, intrinsic clearance mechanisms operate
+more efficiently than the misfolding process19,49.
+Because the misfolding process involves
+multimerization of individual chains, DG‡* has two
+components, one relating to the conformation of
+the monomer and a second relating to
+multimerization that is dependent on concentration. The asterisk indicates that this DG‡
+is the barrier between the monomeric conformer
+and a multimer that can oligomerize efficiently.
+The free-energy diagram in the top left panel of
+the figure indicates to what extent a given
+sequence under native conditions prefers a
+normally folded conformation. The difference in
+free energy (DG) between the native state and the
+unfolded ensemble of conformations (unfolded Aggregation-competent monomer concentration
+state) dictates the relative population of each
+state. The free energy of activation (DG‡) governs
+how fast one conformation will convert to another. Under denaturing antibody in altering the free energy of activation, DG‡4DH‡1TDS‡, for
+condi
+
+Chunk 6:
+ The difference in
+free energy (DG) between the native state and the
+unfolded ensemble of conformations (unfolded Aggregation-competent monomer concentration
+state) dictates the relative population of each
+state. The free energy of activation (DG‡) governs
+how fast one conformation will convert to another. Under denaturing antibody in altering the free energy of activation, DG‡4DH‡1TDS‡, for
+conditions, a misfolded aggregation-competent conformation can be amyloidogenesis. Situations below the diagonal permit amyloidogenesis,
+preferred to the normally folded native state as a consequence of the whereas those found above the diagonal resist misassembly.
+interplay between sequence and environment1, as shown in the top right After this energetic analysis, it is possible to consider therapeutics in
+panel of the figure. For example, the environment surrounding the three classes: interventions that decrease production; small molecules,
+polypeptide can change as a result of intracellular or extracellular antibodies or dominant-negative protein subunits that increase native
+alterations. DG and DG‡have implications analogous to those described state stability and/or the kinetic barrier to misfolding/aggregation; and
+above. The bottom panel of the figure illustrates the interplay between approaches that increase clearance of the misfolded monomer,soluble
+sequence, monomer concentration and the presence of drug or multimer or insoluble amyloid.
+disease retinitis pigmentosa were corrected by using retinal-based lysosomes of b-Glu-deficient cells can competitively displace the
+ligands12, as were human ether-a-gogo-relatedgene (HERG) muta- inhibitor, allowing the enzyme to function. Kelly and colleagues8
+tions by channel blockers13. have shown that a subset of N-alkylated deoxynorjirimycins and sim-
+The most prevalent lysosomal storage disease, Gaucher’s disease, pler six-membered ring N-heterocycles increase the activity of b-Glu
+is caused by the inefficient folding and traffick
+
+Chunk 7:
+, as were human ether-a-gogo-relatedgene (HERG) muta- inhibitor, allowing the enzyme to function. Kelly and colleagues8
+tions by channel blockers13. have shown that a subset of N-alkylated deoxynorjirimycins and sim-
+The most prevalent lysosomal storage disease, Gaucher’s disease, pler six-membered ring N-heterocycles increase the activity of b-Glu
+is caused by the inefficient folding and trafficking of certain variants within human cells8; the best compounds discovered so far double
+of b-glucocerebrosidase (b-Glu). The most prominent mutation b-Glu activity. This should be sufficient to ameliorate the pathology
+(N370S) and other b-Glu mutations were thought to alter active-site of Gaucher’s disease and could offer a convenient alternative to intra-
+residues. However, it is now becoming clear that several of these muta- venous enzyme replacement therapy; however, relevant transgenic
+tions interfere with folding in the ER and/or trafficking. The intracel- animal models to test this approach are not yet available.
+lular activity of misfolded variants such as N370S can be partly Fan et al.14have shown that it is possible to use the small molecule
+restored by administering cell-permeable b-Glu inhibitors that serve 1-deoxy-galactonojirimycin, a potent competitive inhibitor of a-
+as chemical chaperones. These inhibitors seem to provide a template galactosidase A (a-Gal A), to rescue the misfolding and mistraffick-
+that complements the active site of b-Glu, stabilizing the native state ing associated with certain Fabry-disease-causing mutations. These
+in the ER, allowing b-Glu to leave the ER and be trafficked to the chemical chaperones facilitate the proper folding and trafficking
+lysosome. The high concentration of the glycolipid substrate in the of a-Gal A variants to the lysosome, increasing enzyme activity
+eht
+fo
+noitavitca
+fo ygrene
+eerf
+gnisaercnI
+noitagergga
+gnilbane
+egnahc
+lanoitamrofnoc
+Normally folded
+state or
+conformational
+ensemble
+WT b -Glu pH 5
+WT-TTR + dru
+
+Chunk 8:
+ leave the ER and be trafficked to the chemical chaperones facilitate the proper folding and trafficking
+lysosome. The high concentration of the glycolipid substrate in the of a-Gal A variants to the lysosome, increasing enzyme activity
+eht
+fo
+noitavitca
+fo ygrene
+eerf
+gnisaercnI
+noitagergga
+gnilbane
+egnahc
+lanoitamrofnoc
+Normally folded
+state or
+conformational
+ensemble
+WT b -Glu pH 5
+WT-TTR + drug WT b -Glu pH 7
+Normal
+physiological Aggregation-
+Ig light situation prone Ig chain
+light chains
+Mutant-TTR + drug Mutant b -Glu
+pH 5 WT-TTR
+Ab + antibody
+Misfolded
+Mutant b -Glu
+pH 7
+and aggregation
+prone
+Ab
+Mutant TTR
+‡S
+TD –
+‡H
+D =
+‡G
+D
+niahc
+niahc
+906 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+seven- to eightfold in cells when used at sub-inhibitory intracellular polyneuropathy19. These individuals make TTR tetramers composed
+concentrations. Biophysical experiments suggest that these chemical of T119M and/or V30M subunits. The incorporation of T119M sub-
+chaperones stabilize the enzyme. Oral administration of 1-deoxy- units imparts kinetic stability by increasing the tetramer-dissociation
+galactonorjirimycin to transgenic mice with Fabry disease expressing barrier, slowing the rate of TTR-amyloid fibril formation19. This result
+a variant of a-Gal A increased the enzyme activity significantly in sev- suggests that interallelic and intra-allelic trans-suppression of mis-
+eral organs14. Chaperoning of a-Gal A can also be accomplished by folding could become very powerful therapeutic strategies for the pre-
+galactose infusions in humans15. vention of misfolding diseases. It might be difficult to use suppressor
+Other loss-of-function diseases, including cystic fibrosis, might proteins delivered by exogeneous supplementation owing to the slow
+be corrected by chemical chaperones2,3. Cystic fibrosis caused by the kinetics of subunit exchange and the possible antigenicity of suppres-
+DF508 mut
+
+Chunk 9:
+or the pre-
+galactose infusions in humans15. vention of misfolding diseases. It might be difficult to use suppressor
+Other loss-of-function diseases, including cystic fibrosis, might proteins delivered by exogeneous supplementation owing to the slow
+be corrected by chemical chaperones2,3. Cystic fibrosis caused by the kinetics of subunit exchange and the possible antigenicity of suppres-
+DF508 mutation in the Cl–channel protein results from chaperone- sor variants20. Similar approaches have been suggested to prevent p53
+mediated retention of this mutant in the ER and subsequent degrada- misfolding in a variety of cancers21. Gene therapy, once practical,
+tion of this channel by the proteasome. Investigators at Vertex and a should be very useful for the implementation of trans-suppression.
+group at the University of California, San Francisco have recently
+identified small molecules that bind to and stabilize the DF508 Cl–
+channel in the ER, enabling the channel to exit from the ER and to be
+trafficked to the plasma membrane, where it exhibits sufficient
+activity to partly ameliorate the disease16.
+a1-AT is a member of the serpin family of protease inhibitors and
+is secreted by liver cells to control the proteolytic activity of a variety
+of circulating enzymes. In a1-AT deficiency, a misfolded but other- ER
+wise functional mutant protein is retained in the ER of liver cells. The
+failure to secrete a1-AT into the circulation allows neutrophil elastase
+to degrade lung parenchyma, causing emphysema. Perlmutter and Lysosome
+colleagues17have shown that osmolytes such as 4-phenylbutyric acid
+and glycerol increase the secretion efficiency of a1-AT in cell lines and in
+transgenic animals. Although these compounds do not bind to a1-AT
+specifically, they increase the secretion efficiency of variants of
+a1-AT that are normally retained in the ER. 4-Phenylbutyric acid and
+glycerol accomplish this without influencing the secretion efficiency Nucleus
+of other proteins or by decreasi
+
+Chunk 10:
+yric acid
+and glycerol increase the secretion efficiency of a1-AT in cell lines and in
+transgenic animals. Although these compounds do not bind to a1-AT
+specifically, they increase the secretion efficiency of variants of
+a1-AT that are normally retained in the ER. 4-Phenylbutyric acid and
+glycerol accomplish this without influencing the secretion efficiency Nucleus
+of other proteins or by decreasing proteasome activity. We speculate
+that these osmolytes upregulate the chaperone system in cells and in
+transgenic mice expressing variants of a1-AT. This would explain
+why misfolded variants of a1-AT, but not other WT proteins, are
+secreted more efficiently. We suspect that this is not a pure osmolytic
+Golgi stack
+effect in cells because the most potent osmolyte, trimethylamine
+N-oxide, does not increase secretion efficiency. This is reminiscent
+of the impact of guanidinium chloride, a potent denaturant, on
+curing the prion Psi+ phenotype in yeast, a result attributable to
+chaperone changes.
+Stabilizing proteins that misfold after secretion ER lumen
+The misfolding and misassembly that occur within the ER are largely Proteasome
+Secretory vesicular
+controlled by the interplay between the chaperone and proteasome
+trafficking
+systems. Misfolding and misassembly occurring later in the secretory
+Cytoplasm
+pathway or outside the cell, after secretion or membrane attachment,
+are more difficult to correct. Extracellular amyloid and related aggre-
+gates can be degraded by immune-system pathways including catab- Plasma
+membrane
+olism by macrophages. Unfortunately, aggregate clearance is often
+slowed down by disease and ageing, leading to the accumulation of
+misfolded and misassembled proteins thought to be responsible for
+diseases such as Alzheimer’s and the familial amyloidoses.
+Mutant Folded mutant
+unfolded enzyme lysosomal enzyme
+Transthyretin amyloidosis Ribosome
+Stabilization of the native state is one approach to prevent post-secre- Chemical Lysosomal
+chaperone enzyme substra
+
+Chunk 11:
+ten
+slowed down by disease and ageing, leading to the accumulation of
+misfolded and misassembled proteins thought to be responsible for
+diseases such as Alzheimer’s and the familial amyloidoses.
+Mutant Folded mutant
+unfolded enzyme lysosomal enzyme
+Transthyretin amyloidosis Ribosome
+Stabilization of the native state is one approach to prevent post-secre- Chemical Lysosomal
+chaperone enzyme substrate
+tory misfolding that has been studied extensively in the case of
+transthyretin (TTR) amyloidogenesis. TTR is secreted into the plas-
+ma as a homotetramer with 127 amino-acid subunits, and is the Figure 1 Folding of mutant proteins destined to be lysosomal enzymes. Cell-permeable
+backup transporter for thyroxine and the primary transporter of chemical chaperones (dark red triangles) act as a template for variant lysosomal
+holo-retinol-binding protein. Tetramer dissociation to a misfolded enzymes as they fold in the ER. Some of these lysosomal enzymes would otherwise
+monomer is typically rate-limiting for TTR misassembly, and leads misfold and be retained in the ER and ultimately be degraded by the proteasome.
+to the formation of non-fibrillar and amyloid aggregates. All of the Chemical chaperones facilitate folding in the ER lumen, which is necessary for proper
+TTR mutations associated with familial disease studied so far trafficking to the lysosome where a high concentration of substrate (red triangles) exists
+decrease tetramer stability and, in the most severe cases, increase the to compete with the chemical chaperones that bind to the active site. Although the
+speed of dissociation and thus of amyloidogenesis18. Interallelic chemical chaperones are crucial for folding at pH 7 (for example, in the ER), the variant
+trans-suppression of TTR amyloidogenesis has been observed in a lysosomal enzymes might not need the chaperones when they arrive in the lysosome
+compound heterozygous Portuguese family, who express the dis- (where the pH is about 5) because their sequences are
+
+Chunk 12:
+ation and thus of amyloidogenesis18. Interallelic chemical chaperones are crucial for folding at pH 7 (for example, in the ER), the variant
+trans-suppression of TTR amyloidogenesis has been observed in a lysosomal enzymes might not need the chaperones when they arrive in the lysosome
+compound heterozygous Portuguese family, who express the dis- (where the pH is about 5) because their sequences are stably folded at this pH.
+ease-associated mutation V30M but do not develop familial amyloid
+NATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 907
+
+---PAGE BREAK---
+
+insight review articles
+Evidence that trans-suppression ameliorates TTR amyloid cancer) or plasma-cell dyscrasia overproduce an antibody light-
+disease provides both an incentive and the biological rationale to chain clone that is prone to aggregation. Light-chain aggregation
+search for small molecules that stabilize the native state and/or desta- often results in progressive organ failure, making it difficult to use
+bilize the transition state associated with TTR amyloidogenesis22. autologous blood stem-cell transplantation to treat the cancerous
+Screening and structure-based design have identified six distinct component of this disease. Direct approaches to decrease light-chain
+classes of small molecules that bind with high affinity to the unoccu- production by the use of specific antibodies, antisense RNA or short
+pied thyroxine-binding sites within TTR. These small molecules sta- interfering RNA are likely to be difficult owing to the patient-specific
+bilize the native state, preventing amyloidogenesis and denaturation features of each plasma-cell dyscrasia32. However, it is possible that
+at low pH and in a wide variety of chaotropes and organic solvents for Velcade, a proteasome inhibitor that is effective in the treatment of
+extended periods (for example, weeks)19. When ligand binding stabi- multiple myeloma, could have a paradoxical palliative effect on light-
+lizes t
+
+Chunk 13:
+eventing amyloidogenesis and denaturation features of each plasma-cell dyscrasia32. However, it is possible that
+at low pH and in a wide variety of chaotropes and organic solvents for Velcade, a proteasome inhibitor that is effective in the treatment of
+extended periods (for example, weeks)19. When ligand binding stabi- multiple myeloma, could have a paradoxical palliative effect on light-
+lizes the native state by more than 3 kcal mol–1(about 12.5 kJ mol–1), chain aggregation. Plasma cells need an efficient proteasome system
+the concentration of the misfolded amyloidogenic monomer to manipulate antibodies, so proteasome inhibitors could disable or
+decreases by more than 100-fold (assuming that the barriers associat- kill neoplastic cells faster than new cells arise, decreasing the manu-
+ed with misfolding are readily surmountable). Decreasing the con- facture of light chains.
+centration of the aggregation-prone species is important because
+amyloidogenesis is a high-order kinetic process; decreasing the con- Intervention in Alzheimer’s disease
+centration modestly can therefore markedly influence the aggrega- The risk of Alzheimer’s disease is strongly influenced by two compet-
+tion rate23. Stabilization of the native state by a ligand also has kinetic itive ER processing pathways. The amyloid precursor protein (APP)
+ramifications when the ligand selectively stabilizes the native state has a single membrane-spanning helix that is processed by either
+over the transition state19. TTR tetramer stabilization by ligand bind- a-secretase (about 90%) or by the b- and g-secretases (about 10%).
+ing often increases the DG‡of dissociation (see Box 1), markedly The cleavage by a-secretase produces two fragments that do not pro-
+slowing the typical rate-limiting step of TTR amyloidogenesis. The duce amyloids. The b-secretase and subsequent g-secretase cleavages
+mechanistic similarities between trans-suppression and native-state yield three fragments; the smallest of which is a fa
+
+Chunk 14:
+about 10%).
+ing often increases the DG‡of dissociation (see Box 1), markedly The cleavage by a-secretase produces two fragments that do not pro-
+slowing the typical rate-limiting step of TTR amyloidogenesis. The duce amyloids. The b-secretase and subsequent g-secretase cleavages
+mechanistic similarities between trans-suppression and native-state yield three fragments; the smallest of which is a family of 39–43-
+small-molecule stabilization imply that altering denaturation ener- residue peptides referred to as Ab. These fragments have a tendency
+getics with ligands will probably be effective in humans. to assemble into a variety of aggregates, including amyloid fibrils.
+Generally speaking, the longer the Abpeptide, the more amyloido-
+Prion disease genic it is. Its exact length distribution is controlled by the allosteric
+The agreement between the various mouse models of prion disease modulation of g-secretase.
+and their human and bovine counterparts provides a prototypic set- Inhibition of Ab-fibril formation might be a reasonable thera-
+ting for the exploration of therapeutic approaches to diseases of mis- peutic strategy, because familial mutations that lead to an increase in
+folding. These therapeutic efforts can be divided into two broad class- Abconcentration or to its aggregation increase neuropathology33–35.
+es, serendipitous and mechanistic. A variety of compounds including Peptidomimetics, based on the peptide LVFFA from Ab, modified at
+anthracyclines, porphyrins and diazo dyes block prion replication the amino or carboxy terminus, and the all-D(right-handed) version
+when administered with PrPSc, the aggregated infectious form of the and several retroinverso peptidomimetics, block both Abseeding
+prion protein, into animal models24,25. Unfortunately, this is not a clin- and growth. Unfortunately the pharmacological profile of these
+ically relevant model for therapeutic intervention, because subclinical compounds is far from ideal33. Non-peptidic, aromatic-ric
+
+Chunk 15:
+n
+when administered with PrPSc, the aggregated infectious form of the and several retroinverso peptidomimetics, block both Abseeding
+prion protein, into animal models24,25. Unfortunately, this is not a clin- and growth. Unfortunately the pharmacological profile of these
+ically relevant model for therapeutic intervention, because subclinical compounds is far from ideal33. Non-peptidic, aromatic-rich Ab
+disease exists for months in mice and years in humans. Efforts to iden- aggregation inhibitors have also been reported by many pharmaceu-
+tify more potent analogues of these molecules have been disappoint- tical and biotechnology companies. These compounds typically
+ing; however, quinacrine might prove to be a different case. As inhibit the aggregation of Ab and several other amyloidogenic
+quinacrine is an approved pharmaceutical, clinical trials are being car- polypeptides. Their lack of specificity might be a problem; it now
+ried out to test the usefulness of this molecule in patients with seems likely that mammalian melanocytes and related cell types
+Creutzfeldt–Jakob disease. Medicinal chemistry efforts are underway make amyloid for functional purposes36. Moreover, recent evidence
+to identify more potent agents. For example, some bisacridines are suggests that soluble, diffusible non-fibrillar Abaggregates lead to
+10–20-fold more potent than quinacrine. Animal studies are under- pathology in Alzheimer’s disease5,37–39. This calls into question the
+way to characterize the efficacy of bisacridines in the treatment of merits of the subset of these compounds that shift the distribution
+prion disease. Recently, Zahn and colleagues26have used NMR spec- from fibrils towards soluble, diffusible non-fibrillar Abaggregates.
+troscopy and chemical-shift titration to show that quinacrine binds Because Abaggregation is highly dependent on monomer con-
+specifically to PrPC, the normally folded cellular isoform of the prion centration (because of its high kinetic order) and on the
+
+Chunk 16:
+tribution
+prion disease. Recently, Zahn and colleagues26have used NMR spec- from fibrils towards soluble, diffusible non-fibrillar Abaggregates.
+troscopy and chemical-shift titration to show that quinacrine binds Because Abaggregation is highly dependent on monomer con-
+specifically to PrPC, the normally folded cellular isoform of the prion centration (because of its high kinetic order) and on the distribution
+protein. This observation could accelerate drug-development efforts. of Abfamily members, substantial effort has gone into the develop-
+Studies of heterozygous and homozygous mice with PrP knocked ment of inhibitors, activators and modulators of the secretases40,41.
+out show that decreasing or eliminating PrPCproduction will slow or Decreasing the concentration of Abbelow the critical concentration
+prevent prion infection. Similarly, antibody studies suggest that prevents aggregation42, and so it is not necessary to block all Abpro-
+more efficient clearance of PrP could slow or cure prion disease27–29. duction. Several b-secretase inhibitors are now available, and this
+These results complement similar efforts with Alzheimer’s disease30. seems to be a promising approach because mice lacking b-secretase
+As with other aggregation-prone proteins, the tendency for PrPCto do not have an overt phenotype. Considerable progress has also been
+misfold can be altered by proteins that bind to PrPC. In prion disease, made in developing g-secretase inhibitors. However, the side-effect
+PrPScclearly induces misfolding, so antibodies or small molecules profile for these inhibitors must be considered carefully: mice lacking
+that antagonize this interaction should prove useful. There is also g-secretase die in uterobecause this enzyme processes notch, a regu-
+genetic evidence that other host molecules facilitate PrPSc latory protein required for development. A therapeutic window for
+replication31. Dominant-negative variants of PrPCslow or stop PrPSc g-secretase inhibitors will re
+
+Chunk 17:
+ be considered carefully: mice lacking
+that antagonize this interaction should prove useful. There is also g-secretase die in uterobecause this enzyme processes notch, a regu-
+genetic evidence that other host molecules facilitate PrPSc latory protein required for development. A therapeutic window for
+replication31. Dominant-negative variants of PrPCslow or stop PrPSc g-secretase inhibitors will require substantial inhibition of Abpro-
+replication in cell culture and in transgenic animals. Small molecules cessing without the complete inhibition of notch processing. Golde
+designed to mimic this dominant-negative effect can block PrPSc and Koo43have shown that some non-steroidal anti-inflammatory
+replication in cell culture as well. drugs can influence the processing of APP to produce less Ab1–42;
+others have shown that cholesterol depletion can markedly decrease
+Multiple myeloma the overall amount of Abproduced.
+Immunoglobulin light-chain amyloidosesare particularly challeng- When APP transgenic mice overexpressing Abare actively immu-
+ing from a therapeutic perspective. Multiple myeloma (plasma-cell nized with Abpeptides, deposits that would ordinarily accumulate
+908 © 2003 Nature PublishingGroupNATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature
+
+---PAGE BREAK---
+
+insight review articles
+are cleared44. Passive immunotherapy with intravenous Abantibody 13.Ficker, E., Obejero-Paz, C. A., Zhao, S. & Brown, A. M. The binding site for channel blockers that
+also prevents the formation of Ab deposits in animals that would rescue misprocessed human long QT syndrome type 2 ether-a-gogo-related gene (HERG) mutations.
+otherwise be deposit-laden. Unfortunately, active immunization of J. Biol. Chem.277,4989–4998 (2002).
+patients with Alzheimer’s disease using Ab1–42 revealed antibodies 14.Fan, J.-Q., Ishii, S., Asano, N. & Suzuki, Y. Accelerated transport and maturation of lysosomal a-
+galactosidase A in Fabry lymphoblasts by an enzyme inhibitor. Nature Med.5,112–115 (1999)
+
+Chunk 18:
+r-a-gogo-related gene (HERG) mutations.
+otherwise be deposit-laden. Unfortunately, active immunization of J. Biol. Chem.277,4989–4998 (2002).
+patients with Alzheimer’s disease using Ab1–42 revealed antibodies 14.Fan, J.-Q., Ishii, S., Asano, N. & Suzuki, Y. Accelerated transport and maturation of lysosomal a-
+galactosidase A in Fabry lymphoblasts by an enzyme inhibitor. Nature Med.5,112–115 (1999).
+crossing the blood–brain barrier causing meningoencephalitis-like 15.Frustaci, A. et al. Improvement in cardiac function in the cardiac variant of Fabry’s disease with
+inflammation in 4% of the trial participants, presumably originating galactose-infusion therapy. N. Engl. J. Med.345,25–32 (2001).
+from microglial activation45. This resulted in the discontinuation of 16.Springsteel, M. F. et al. Benzoflavone activators of the cystic fibrosis transmembrane conductance
+regulator: towards a pharmacophore model for the nucleotide-binding domain. Bioorg. Medic. Chem.
+the clinical trial. Cautious optimism still exists for passive
+11,4113–4120 (2003).
+immunotherapy in humans, because anti-Ab antibody infusion 17.Burrows, J. A. J., Willis, L. K. & Perlmutter, D. H. Chemical chaperones mediate increased secretion of
+could be stopped if meningoencephalitis symptoms develops46. mutant a1-antitrypsin (a1-AT) Z: a potential pharmacological strategy for prevention of liver injury
+and emphysema in a1-AT deficiency. Proc. Natl Acad. Sci. USA 97,1796–1801 (2000).
+18.Hammarstrom, P., Jiang, X., Hurshman, A. R., Powers, E. T. & Kelly, J. W. Sequence-dependent
+Future considerations
+denaturation energetics: a major determinant in amyloid disease diversity. Proc. Natl Acad. Sci. USA
+Although thermodynamics undoubtedly has a role in misfolding 99,16427–16432 (2002).
+diseases, it is the kinetics of misfolding and misassembly that seems to 19.Hammarstrom, P., Wiseman, R. L., Powers, E. T. & Kelly, J. W. Prevention of transthyretin amyloid
+disease by changing protein misfolding energetics. Science2
+
+Chunk 19:
+etics: a major determinant in amyloid disease diversity. Proc. Natl Acad. Sci. USA
+Although thermodynamics undoubtedly has a role in misfolding 99,16427–16432 (2002).
+diseases, it is the kinetics of misfolding and misassembly that seems to 19.Hammarstrom, P., Wiseman, R. L., Powers, E. T. & Kelly, J. W. Prevention of transthyretin amyloid
+disease by changing protein misfolding energetics. Science299,713–716 (2003).
+have the dominant influence. New therapeutics are likely to come
+20.Schneider, F., Hammarstrom, P. & Kelly, J. W. Transthyretin slowly exchanges subunits under
+from medicinal chemistry efforts and clinical trial designs based on physiological conditions: a convenient chromatographic method to study subunit exchange in
+the considerations discussed here. We therefore expect that orally oligomeric proteins. Protein Sci.10,1606–1613 (2001).
+administered chemical chaperones that treat lysosomal storage dis- 21.Nikolova, P. V., Wong, K.-B., DeDecker, B., Henckel, J. & Fersht, A. R. Mechanism of rescue of common
+p53 cancer mutations by second-site suppressor mutations. EMBO J.19,370–378 (2000).
+eases will replace intravenous enzyme replacement therapy as the
+22.Sacchettini, J. C. & Kelly, J. W. Therapeutic strategies for human amyloid diseases. Nature Rev. Drug
+standard treatment for these rare inherited conditions. Some drugs Discov. 1,267–275 (2002).
+have already been identified that block the destruction of mutant 23.White, J. T. & Kelly, J. W. Support for the multigenic hypothesis of amyloidosis: the binding
+stoichiometry of retinol-binding protein, vitamin A, and thyroid hormone influences transthyretin
+integral membrane proteins exhibiting suboptimal folding in the ER.
+amyloidogenicity in vitro. Proc. Natl Acad. Sci. USA98,13019–13024 (2001).
+We believe that therapeutics based on similar approaches will soon 24.Korth, C., May, B. C. H., Cohen, F. E. & Prusiner, S. B. Acridine and phenothiazine derivatives as
+enter clinical trials for patients with cystic f
+
+Chunk 20:
+hyroid hormone influences transthyretin
+integral membrane proteins exhibiting suboptimal folding in the ER.
+amyloidogenicity in vitro. Proc. Natl Acad. Sci. USA98,13019–13024 (2001).
+We believe that therapeutics based on similar approaches will soon 24.Korth, C., May, B. C. H., Cohen, F. E. & Prusiner, S. B. Acridine and phenothiazine derivatives as
+enter clinical trials for patients with cystic fibrosis and a1-AT pharmacotherapeutics for prion disease. Proc. Natl Acad. Sci. USA98,9836–9841 (2001).
+deficiency. For the amyloid-deposition diseases, small alterations in 25.May, B. C. H. et al. Potent inhibition of scrapie prion replication in cultured cells by bis-acridines.
+Proc. Natl Acad. Sci. USA100,3416–3421 (2003).
+the rate of aggregation mediated by stabilization of the native state or
+26.Vogtherr, M. et al. Antimalarial drug quinacrine binds to C-terminal helix of cellular prion protein.
+depletion of the precursor could stabilize or improve patients with J. Med. Chem.46,3563–3564 (2003).
+these diseases. Enhanced clearance of amyloidogenic aggregates by 27.Peretz, D. et al. Antibodies inhibit prion propagation and clear cell cultures of prion infectivity.
+immunotherapy also seems promising. Given the challenges posed Nature412,739–743 (2001).
+28.White, A. R. et al. Monoclonal antibodies inhibit prion replication and delay the development of
+by unregulated immune responses after vaccination, passive
+prion disease. Nature422, 80–83 (2003).
+immunotherapy is more likely to be available in the short term. More 29.Heppner, F. L. et al. Prevention of scrapie pathogenesis by transgenic expression of anti-prion protein
+clinically palatable small-molecule approaches will follow with the antibodies. Science294,178–182 (2001).
+30.Solomon, B. Anti-aggregating antibodies, a new approach towards treatment of conformational
+more typical timeline for pharmaceutical discovery and develop-
+diseases. Curr. Med. Chem.9,1737–1749 (2002).
+ment. The histological aggregates observed by 
+
+Chunk 21:
+ansgenic expression of anti-prion protein
+clinically palatable small-molecule approaches will follow with the antibodies. Science294,178–182 (2001).
+30.Solomon, B. Anti-aggregating antibodies, a new approach towards treatment of conformational
+more typical timeline for pharmaceutical discovery and develop-
+diseases. Curr. Med. Chem.9,1737–1749 (2002).
+ment. The histological aggregates observed by Lewy, Pick and other 31.Telling, G. C. et al. Prion propagation in mice expressing human and chimeric PrP transgenes
+noted pathologists more than a century ago have recently been iden- implicates the interaction of cellular PrP with another protein. Cell83,79–90 (1995).
+tified as largely homogeneous deposits of misfolded proteins. A large 32.Ohno, S. et al. The antisense approach in amyloid light chain amyloidosis: identification of
+monoclonal Ig and inhibition of its production by antisense oligonucleotides in in vitroand in vivo
+and increasing number of diseases are now associated with the accel-
+models. J. Immunol.169,4039–4045 (2002).
+erated production and/or delayed clearance of protein aggregates. 33.Findeis, M. A. Peptide inhibitors of beta amyloid aggregation. Curr. Top. Med. Chem.2,417–423
+With the development of pharmacological approaches to these (2002).
+diseases, we are participating in a journey from the bedside to the 34.Yang, D.-S. et al. Assembly of Alzheimer’s amyloid-bfibrils and approaches for therapeutic
+bench and now back to the bedside. nn 35.H in o te w r l v e e t n t, t D io . n R . . A e m t a y l l . o I i n d h 8 i , b 1 it 0 i – o 1 n 9 o ( f 2 f 0 ib 0 r 1 i ) l . formation in b-amyloid peptide by a novel series of
+benzofurans. Biochem. J.340,283–289 (1999).
+doi:10.1038/nature02265 36.Kelly, J. W. & Balch, W. E. Amyloid as a natural product. J. Cell Biol.161,461–462 (2003).
+37.Lamber, M. P. et al.Diffusible, nonfibrillar ligands derived from Ab1–42 are potent central nervous
+1. Anfinsen, C. B. Principles that govern the folding of protein chain
+
+Chunk 22:
+ r 1 i ) l . formation in b-amyloid peptide by a novel series of
+benzofurans. Biochem. J.340,283–289 (1999).
+doi:10.1038/nature02265 36.Kelly, J. W. & Balch, W. E. Amyloid as a natural product. J. Cell Biol.161,461–462 (2003).
+37.Lamber, M. P. et al.Diffusible, nonfibrillar ligands derived from Ab1–42 are potent central nervous
+1. Anfinsen, C. B. Principles that govern the folding of protein chains. Science181,223–230 (1973).
+system neurotoxins. Proc. Natl Acad. Sci. USA95,6448–6453 (1998).
+2. Powell, K. & Zeitlin, P. L. Therapeutic approaches to repair defects in DF508 CFTR folding and 38.Kayed, R. et al. Common structure of soluble amyloid oligomers implies common mechanism of
+cellular targeting. Adv. Drug Deliv. Rev.54,1395–1408 (2002). pathogenesis. Science300,486–489 (2003).
+3. Howard, M. & Welch, W. J. Manipulating the folding pathway of DF508 CFTR using chemical 39.Walsh, D. M. et al. Naturally secreted oligomers of amyloid bprotein potently inhibit hippocampal
+chaperones. Methods Mol. Med.70,267–275 (2002). long-term potentiation in vivo. Nature416,535–539 (2002).
+4. Carrell, R. W. & Lomas, D. A. Mechanisms of disease. Alpha1-antitrypsin deficiency—a model for 40.Wolfe, M. S. g-Secretase as a target for Alzheimer’s disease. Curr. Top. Med. Chem.2,371–383 (2002).
+conformational diseases. N. Engl. J. Med.346,45–53 (2002). 41.Vassar, R. b-Secretase (BACE) as a drug target for Alzheimer’s disease. Adv. Drug Deliv. Rev.54,
+5. Rochet, J.-C. & Lansbury, P. T. Jr. Amyloid fibrillogenesis: themes and variations. Curr. Opin. Struct. 1589–1602 (2002).
+Biol.10,60–68 (2000). 42.Jarrett, J. T. & Lansbury, P. T. Jr. Seeding ‘one-dimensional crystallization’ of amyloid: A pathogenic
+6. Kelly, J. W. Alternative conformations of amyloidogenic proteins govern their behavior. Curr. Opin. mechanism in Alzheimer’s disease and scrapie? Cell73,1055–1058 (1993).
+Struct. Biol.6,11–17 (1996). 43.Golde, T. E., Eriksen, J. L., Weggen, S., Sagi, S. A. & Koo, E. H. Nonsteroidal antiinflam
+
+Chunk 23:
+Jarrett, J. T. & Lansbury, P. T. Jr. Seeding ‘one-dimensional crystallization’ of amyloid: A pathogenic
+6. Kelly, J. W. Alternative conformations of amyloidogenic proteins govern their behavior. Curr. Opin. mechanism in Alzheimer’s disease and scrapie? Cell73,1055–1058 (1993).
+Struct. Biol.6,11–17 (1996). 43.Golde, T. E., Eriksen, J. L., Weggen, S., Sagi, S. A. & Koo, E. H. Nonsteroidal antiinflammatory drugs
+7. Fan, J.-Q. A contradictory treatment for lysosomal storage disorders: inhibitors enhance mutant as therapeutic agents for Alzheimer’s disease. Drug Dev. Res.56,415–420 (2002).
+enzyme activity. Trends Pharm. Sci.24,355–360 (2003). 44.Spooner, E. T., Desai, R. V., Mori, C., Leverone, J. F. & Lemere, C. A. The generation and
+8. Sawkar, A. R. et al. Chemical chaperones increase the cellular activity of N370S b-glucosidase: a characterization of potentially therapeutic Abantibodies in mice: differences according to strain and
+therapeutic strategy for Gaucher disease. Proc. Natl Acad. Sci. USA99,15428–15433 (2002). immunization protocol. Vaccine21,290–297 (2002).
+9. Morello, J.-P. et al. Pharmacological chaperones rescue cell-surface expression and function of 45.Nicoll, J. A. R. et al. Neuropathology of human Alzheimer disease after immunization with amyloid-b
+misfolded V2 vasopressin receptor mutants. J. Clin. Inv.105,887–895 (2000). peptide: a case report. Nature Med.9,448–452 (2003).
+10.Petaja-Repo, U. E. et al.Ligands act as pharmacological chaperones and increase the efficiency of 46.Solomon, B. Protective molecules in Alzheimer’s disease: therapeutic antibodies. Drug News Perspect.
+dopioid receptor maturation. EMBO J.21,1628–1637 (2002). 15,410–416 (2002).
+11.Janovick, J. A. et al. Structure–activity relations of successful pharmacologic chaperones for rescue of 47.Colon, W. & Kelly, J. W. Partial denaturation of transthyretin is sufficient for amyloid fibril formation
+naturally occurring and manufactured mutants of the gonadotropin-releasing hormone recept
+
+Chunk 24:
+ug News Perspect.
+dopioid receptor maturation. EMBO J.21,1628–1637 (2002). 15,410–416 (2002).
+11.Janovick, J. A. et al. Structure–activity relations of successful pharmacologic chaperones for rescue of 47.Colon, W. & Kelly, J. W. Partial denaturation of transthyretin is sufficient for amyloid fibril formation
+naturally occurring and manufactured mutants of the gonadotropin-releasing hormone receptor. in vitro. Biochemistry31,8654–8660 (1992).
+J. Pharm. Exp. Ther. 305,608–614 (2003). 48.Fandrich, M., Fletcher, M. A. & Dobson, C. M. Amyloid fibrils from muscle myoglobin. Nature410,
+12.Noorwez, S. M. et al. Pharmacological chaperone-mediated in vivofolding and stabilization of the 165–166 (2001).
+P23H-opsin mutant associated with autosomal dominant retinitis pigmentosa. J. Biol. Chem.278, 49.Baskakov, I. V., Legname, G., Prusiner, S. B. & Cohen, F. E. Folding of prion protein to its native a-
+14442–14450 (2003). helical conformation is under kinetic control. J. Biol. Chem. 276,19687–19690 (2001).
+NATURE|VOL 426|18/25 DECEMBER 2003|www.nature.com/nature © 2003 Nature PublishingGroup 909
+
+---PAGE BREAK---
+
+
+

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What was the unique status of China's age-standardised incidence and prevalence of Parkinson's disease compared to other G20 countries in 2021?",
+    "ground_truth": "China had the highest age-standardised incidence (24.3 per 100,000) and prevalence (245.7 per 100,000) of PD among G20 countries in 2021.",
+    "papers_containing_answer": [
+      "Global burden of disease 2021 Parkinsons statistics from China.pdf"
+    ]
+  },
+  {
+    "question": "What specific cellular component/pathway did the mass spectrometry-based proteomic analysis of human substantia nigra identify as potentially involved in Parkinson's disease pathogenesis for the first time?",
+    "ground_truth": "The study discovered that mitoribosome dysfunction is potentially involved in the Parkinson's disease pathogenesis process for the first time.",
+    "papers_containing_answer": [
+      "Proteomics paper from substantia nigra PD patient brain Ted Dawson among authors 2023.pdf"
+    ]
+  },
+  {
+    "question": "What specific technology and sample types/numbers were used to measure proteins in the *Identification of a possible proteomic biomarker...* study?",
+    "ground_truth": "The study used aptamer-based technology (SomaLogic®) to measure proteins in 1599 serum, 85 cerebrospinal fluid, and 37 brain tissue samples from the Oxford Parkinson's Disease Centre, Tracking Parkinson's, and the Parkinson's Disease Brain Bank cohorts.",
+    "papers_containing_answer": [
+      "soma logic brain communications parkinsons ppmi.pdf"
+    ]
+  },
+  {
+    "question": "How is the diagnosis of Parkinson's disease described as evolving in this review?",
+    "ground_truth": "Parkinson's disease diagnosis is evolving from a clinical entity to a \"biomarker-supported diagnostic entity,\" which allows for earlier identification and recognition of different subtypes.",
+    "papers_containing_answer": [
+      "Parkinsons disease subtype review 202.pdf"
+    ]
+  },
+  {
+    "question": "Why is the blood platelet considered a suitable peripheral model for studying Parkinson's disease, as discussed in the review *Role of platelet in Parkinson's disease*?",
+    "ground_truth": "Platelets are considered a suitable peripheral model for PD because they are non-nucleated cell fragments that express several PD-specific biomarkers, including $\\alpha$-synuclein, parkin, PTEN-induced kinase-1, tyrosine hydroxylase, and dopamine transporter.",
+    "papers_containing_answer": [
+      "Platelet aggregation PArkinsons.pdf"
+    ]
+  },
+  {
+    "question": "What specific cellular and molecular associations of the IRGM protein are proposed to explain its role in regulating autophagy?",
+    "ground_truth": "The review highlights the physical association of IRGM (immunity-related GTPase family M) with mitochondria and different autophagy-regulating proteins, specifically ATG5, ATG10, SH3GLB1, and LC3.",
+    "papers_containing_answer": [
+      "fimmu-03-00426 IRGM in autphagy upon viral infection REVIEW.pdf"
+    ]
+  },
+  {
+    "question": "What is the specific mechanism identified for the INPP5F protein in promoting tumor growth in hepatocellular carcinoma (HCC) in this 2022 study?",
+    "ground_truth": "INPP5F promotes HCC tumor growth by translocating into the cytoplasm and interacting with ASPH, which then activates the Notch signaling pathway and upregulates c-MYC and cyclin E1 expression.",
+    "papers_containing_answer": [
+      "INPP5f knockoudown in vivo 2022.pdf"
+    ]
+  },
+  {
+    "question": "According to this review, how many family members of inositol polyphosphate 5-phosphatases have been identified in mammalian and yeast organisms?",
+    "ground_truth": "The inositol polyphosphate 5-phosphatases have been identified as a large family of signal modifying enzymes comprising 10 mammalian and 4 yeast family members.",
+    "papers_containing_answer": [
+      "IUBMB Life - 2008 - Mitchell - Inositol Polyphosphate 5‐Phosphatases  Lipid Phosphatases With Flair.pdf"
+    ]
+  }
+]

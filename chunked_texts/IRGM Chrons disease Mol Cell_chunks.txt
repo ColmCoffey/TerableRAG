@@ -1,0 +1,2925 @@
+Chunk 1:
+Article
+The Crohn’s Disease Risk Factor IRGM Limits NLRP3
+Inflammasome Activation by Impeding Its Assembly
+and by Mediating Its Selective Autophagy
+Graphical Abstract Authors
+SubhashMehto,KautilyaKumarJena,
+ParejNath,...,AshishJain,
+GregoryA.Taylor,SantoshChauhan
+Correspondence
+schauhan@ils.res.in
+In Brief
+TheIRGMisanestablishedgeneticrisk
+factorforCrohn’sdiseasesandseveral
+otherinflammatorydisorders.Mehto
+etal.showthatIRGMinhibitsNLRP3
+inflammasomeactivationtokeepthe
+inflammationundercheck.Thisstudy
+providesabasisfortheprotective
+functionofIRGMininflammatory
+diseases.
+Highlights
+d IRGMnegativelyregulatesNLRP3/ASCinflammasome
+activation
+d IRGMobstructsNLRP3/ASCinflammasomeassembly
+d IRGMmediatesselectiveautophagicdegradationofNLRP3/
+ASCinflammasome
+d Irgm1bysuppressingNlrp3inflammasomepreventsgut
+inflammationinanIBDmousemodel
+Mehtoetal.,2019,MolecularCell73,429–445
+February7,2019ª2018TheAuthor(s).PublishedbyElsevierInc.
+https://doi.org/10.1016/j.molcel.2018.11.018
+
+---PAGE BREAK---
+
+Molecular Cell
+Article
+The Crohn’s Disease Risk Factor IRGM Limits NLRP3
+Inflammasome Activation by Impeding Its Assembly
+and by Mediating Its Selective Autophagy
+SubhashMehto,1,7KautilyaKumarJena,1,2,7ParejNath,1,2SwatiChauhan,1SrinivasaPrasadKolapalli,1
+SarojKumarDas,1,8PradyumnaKumarSahoo,1AshishJain,3,4GregoryA.Taylor,5,6andSantoshChauhan1,9,*
+1CellBiologyandInfectiousDiseasesUnit,InstituteofLifeSciences,Bhubaneswar751023,India
+2SchoolofBiotechnology,KIITUniversity,Bhubaneswar751024,India
+3DepartmentofMolecularCellBiology,InstituteforCancerResearch,OsloUniversityHospital,Oslo,Norway
+4CentreforCancerCellReprogramming,InstituteofClinicalMedicine,FacultyofMedicine,UniversityofOslo,Oslo,Norway
+5GeriatricResearch,Education,andClinicalCenter,VAMedicalCenter,Durham,NC27705,USA
+6DepartmentsofMedicine,MolecularGeneticsandMicrobiology,andImmunology,DivisionofGeriatricsandCenterfortheStudyofAging
+andHumanDevelopment,DukeUniversityMedicalCenter,Durham,NC27710,USA
+7Theseauthorscontributedequally
+
+
+Chunk 2:
+orCancerCellReprogramming,InstituteofClinicalMedicine,FacultyofMedicine,UniversityofOslo,Oslo,Norway
+5GeriatricResearch,Education,andClinicalCenter,VAMedicalCenter,Durham,NC27705,USA
+6DepartmentsofMedicine,MolecularGeneticsandMicrobiology,andImmunology,DivisionofGeriatricsandCenterfortheStudyofAging
+andHumanDevelopment,DukeUniversityMedicalCenter,Durham,NC27710,USA
+7Theseauthorscontributedequally
+8Presentaddress:CentreforBiotechnology,Siksha‘O’Anusandhan(DeemedtobeUniversity),Bhubaneswar,Odisha,India
+9LeadContact
+*Correspondence:schauhan@ils.res.in
+https://doi.org/10.1016/j.molcel.2018.11.018
+SUMMARY thatplaysabroadhomeostaticroleincleaningcellsbyremoving
+toxicwastesincludingdeterminantsofsurplusinflammation(De-
+Severallarge-scalegenome-wideassociationstudies reticetal.,2013;Maetal.,2013).Recently,severalstudieshave
+geneticallylinkedIRGMtoCrohn’sdiseaseandother demonstratedtheimportanceofautophagyinprotectingagainst
+inflammatorydisordersinwhichtheIRGMappearsto chronicinflammatorydiseases(DereticandKlionsky,2018).
+haveaprotectivefunction.However,themechanism One of the most critical components of the inflammatory
+bywhich IRGM accomplishes this anti-inflammatory response are inflammasomes, which are molecular complexes
+that are activated by diverse danger signals of pathogenic and
+role remains unclear. Here, we reveal that IRGM/
+non-pathogenicorigin,resultingintheproductionofthepro-in-
+Irgm1isanegativeregulatoroftheNLRP3inflamma-
+flammatorycytokinessuchasinterleukin-1b(IL-1b)andIL-18(Jo
+some activation. We show that IRGM expression,
+etal.,2016;Schroderetal.,2018).Awell-studiedinflammasome
+whichisincreasedbyPAMPs,DAMPs,andmicrobes,
+iscomposedoftheNLRP3(NACHT,LRR,andPYDdomainscon-
+can suppress the pro-inflammatory responses pro-
+taining protein 3) protein that complexes with ASC (PYCARD)
+voked by the same stimuli. IRGM/Irgm1 negatively (apoptosis-associatedspeck-likeproteincontainingaCARD)to
+regulatesIL-1bmaturationbysuppressingtheactiva-
+form a caspase-1-activating com
+
+Chunk 3:
+dinflammasome
+whichisincreasedbyPAMPs,DAMPs,andmicrobes,
+iscomposedoftheNLRP3(NACHT,LRR,andPYDdomainscon-
+can suppress the pro-inflammatory responses pro-
+taining protein 3) protein that complexes with ASC (PYCARD)
+voked by the same stimuli. IRGM/Irgm1 negatively (apoptosis-associatedspeck-likeproteincontainingaCARD)to
+regulatesIL-1bmaturationbysuppressingtheactiva-
+form a caspase-1-activating complex that then cleaves and
+tionoftheNLRP3inflammasome.Mechanistically,we activatesIL-1b(Guoetal.,2015).DysregulationofNLRP3inflam-
+show that IRGM interacts with NLRP3 and ASC and masomehasbeenlinkedwithseveralchronicinflammatory,infec-
+hinders inflammasome assembly by blocking their tious,andautoimmunediseases(LamkanfiandDixit,2012;Stro-
+oligomerization. Further, IRGM mediates selective wigetal.,2012).Autophagyhasemergedasoneoftheessential
+processes in controlling excess inflammasome activation. By
+autophagic degradation of NLRP3 and ASC. By
+mediatingthedegradationofobsoletemitochondriaandbyde-
+suppressing inflammasome activation, IRGM/Irgm1
+gradinginflammasomecomponentsincludingNLRP3,autophagy
+protects from pyroptosis and gut inflammation in a
+keepsunnecessaryandaberrantactivationofinflammasomesun-
+Crohn’s disease experimental mouse model. This
+dercheck(Shietal.,2012;Yanetal.,2015;Zhongetal.,2016).
+study for the first time identifies the mechanism
+Immunity-related GTPase M (IRGM) belongs to a family of
+by which IRGM is protective against inflammatory interferon-inducible GTPases(IRGs),one ofthestrongest cell-
+disorders. autonomous resistance systems to intracellular pathogens
+(Hunnetal.,2011).Afteralandmarkstudyshowingtheimpor-
+tance of human IRGM in anti-mycobacterial autophagy (Singh
+INTRODUCTION etal.,2006),severalgenome-wideassociationstudiesidentified
+SNPsintheIRGMgeneandadeletionpolymorphisminIRGM
+Acute inflammation isan essential innate immune response to promoterregionasbeingstronglyassociatedwithCrohn’sdis-
+self-protect from harmful stimuli, including irritants an
+
+Chunk 4:
+netal.,2011).Afteralandmarkstudyshowingtheimpor-
+tance of human IRGM in anti-mycobacterial autophagy (Singh
+INTRODUCTION etal.,2006),severalgenome-wideassociationstudiesidentified
+SNPsintheIRGMgeneandadeletionpolymorphisminIRGM
+Acute inflammation isan essential innate immune response to promoterregionasbeingstronglyassociatedwithCrohn’sdis-
+self-protect from harmful stimuli, including irritants and patho- ease(CD)andtuberculosis(Brestetal.,2011;Cheetal.,2010;
+gens.However,achronicinflammatoryresponseisdeleterious McCarroll et al., 2008; Parkes et al., 2007; Wellcome Trust
+andleadstoseveralinflammatorydiseases(OkinandMedzhi- Case Control, 2007; Craddock et al., 2010). Later, IRGM was
+tov, 2012). Autophagy is a fundamental cell-survival process genetically and functionally linked with several other chronic
+MolecularCell73,429–445,February7,2019ª2018TheAuthor(s).PublishedbyElsevierInc. 429
+ThisisanopenaccessarticleundertheCCBYlicense(http://creativecommons.org/licenses/by/4.0/).
+
+---PAGE BREAK---
+
+B
+3 * 2.5 2 1.5 1 0.5
+0
+0 h 2 h
+LPS
+Human PBMC
+noitcudnI dloF ANRm
+C D
+* 18 ** * 16 14 12 10 8 6 4 2 0 noitcudnI dloF ANRm noitcudnI dloF ANRm
+E Control shRNA F Control shRNA
+IRGM shRNA IRGM shRNA
+45 * 40 35 30 25 20 15 10 5 0
+Salmonella Salmonella
+IL-1β TNF-α
+HT-29
+THP-1
+noitcudnI
+dloF ANRm
+noitcudnI
+dloF ANRm
+G H I J
+Control siRNA Control siRNA
+IRGM siRNA IRGM siRNA 900 * 250 * 800
+700 200
+600 500 150 400 100 300
+200 50 100
+0 0 LPS - - + + LPS - - + +
+IL-1β TNF-α IL-1β
+K
+L
+noitcudnI
+dloF ANRm
+noitcudnI
+dloF ANRm
+Control siRNA Control siRNA
+IRGM siRNA IRGM siRNA
+0 LPS - - + + LPS - - + +
+TNF-α
+Human PBMC
+Control siRNA IRGM siRNA
+0 5 10 15 20 0 5 10 15 20 min
+37 IκBα
+Phospho-p65 50
+p65 50
+37 Phospho-p38
+p38
+37
+Actin
+37
+THP-1
+β1-LI
+deterceS )lm/gp(
+β1-LI
+deterceS
+)lm/gp(
+Control siRNA
+IRGM siRNA 250 **
+200
+15.0
+100
+5.0
+0
+Control LPS LPS+
+Nigericin
+THP-1
+N
+O P Q
+THP-1
+1-esapsaCevitcA )egnahc
+dlof(
+A
+kDa Control Starvation L P S L P S + Nigeric M in D P Exp 1 k 2 D 5 a 0 A T P (
+
+Chunk 5:
+- + +
+TNF-α
+Human PBMC
+Control siRNA IRGM siRNA
+0 5 10 15 20 0 5 10 15 20 min
+37 IκBα
+Phospho-p65 50
+p65 50
+37 Phospho-p38
+p38
+37
+Actin
+37
+THP-1
+β1-LI
+deterceS )lm/gp(
+β1-LI
+deterceS
+)lm/gp(
+Control siRNA
+IRGM siRNA 250 **
+200
+15.0
+100
+5.0
+0
+Control LPS LPS+
+Nigericin
+THP-1
+N
+O P Q
+THP-1
+1-esapsaCevitcA )egnahc
+dlof(
+A
+kDa Control Starvation L P S L P S + Nigeric M in D P Exp 1 k 2 D 5 a 0 A T P ( 5 3 m 0 M ) 60 I A R m c G i t n i M n kD 25 a M 0 S U ( 3 1 0 0 μ g 6 / m I l ) R G M 37 25 IRGM Actin Exp 225 IRGM 37
+Actin THP-1 Actin
+37 37
+HT-29 THP-1
+M
+Cleaved IL-1β
+pro-Caspase-1
+Cleaved
+Caspase-1
+Control-siRNA Control-siRNA IRGM-siRNA IRGM-siRNA 6 * # 5 ** 4
+3
+2
+Cleaved 1
+Caspase-1 0 LPS - + + - + + Nigericin - + + - + +
+NLRP3-siRNA - - + - - +
+tnatanrepuS
+etasyL
+Control siRNA IRGM siRNA
+LPS - + + - + +
+Nigericin - - + - - +
+kDa 37 pro-IL-1β
+25
+20
+15
+50
+37
+25
+20
+37 pro-IL-1β
+Actin
+37
+IRGM 25 IRGM
+pro-IL-1β Cleaved IL-1β
+pro-Caspase-1
+pro-IL-1β
+IRGM
+Actin
+tnatanrepuS
+etasyL
+50 * 35 * 45 30 40
+35 25
+30 20 25 20 15 15 10
+10 5 5
+0
+25
+THP-1
+Control siRNA IRGM siRNA
+LPS - + + - + + ATP - - + - - + Control siRNA IRGM siRNA kDa 37 LPS + + + + + + 25 350 *** # *** N M i C ge C r 9 ic 5 in 0 - - + - + + - - + - + + 20 300 kDa 250 50 pro-Caspase-1 15
+50 200 37
+150
+37 25 100
+25 50 20 Cleaved Caspase-1
+20 0 37 LPS - + + - + + 25 IRGM Nigericin - + + - + +
+Actin 25 NLRP3-siRNA - - + - - + 37
+THP-1
+37
+THP-1
+Figure1. IRGMSuppressesPro-inflammatoryResponseandNLRP3-InflammasomeActivation
+(A)HumancolonepithelialHT-29cellswerestarved(2hr)orstimulatedwithLPS(100ng/mL,2hr)aloneorincombinationwithnigericin(10mM,1hr)orwithMDP
+(10mg/mL,6hr),andimmunoblottingwasperformedwithlysates.
+(B)HumanPBMCsfromhealthyvolunteerswereexposedtoLPS(100ng/mL),andtotalRNAwassubjectedtoqRT-PCRusingIRGMTaqManprobe.
+(CandD)THP-1cellswerestimulatedwithinflammasomeinducers(C)ATPor(D)MSUcrystalsfortheindicatedtimeperiods,andextractsweresubjectedto
+westernblottingwithIRGMantibody.
+(legendcontinuedonnextpage)
+430 Mo
+
+Chunk 6:
+thnigericin(10mM,1hr)orwithMDP
+(10mg/mL,6hr),andimmunoblottingwasperformedwithlysates.
+(B)HumanPBMCsfromhealthyvolunteerswereexposedtoLPS(100ng/mL),andtotalRNAwassubjectedtoqRT-PCRusingIRGMTaqManprobe.
+(CandD)THP-1cellswerestimulatedwithinflammasomeinducers(C)ATPor(D)MSUcrystalsfortheindicatedtimeperiods,andextractsweresubjectedto
+westernblottingwithIRGMantibody.
+(legendcontinuedonnextpage)
+430 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+inflammatoryandautoimmunediseases(Baskaranetal.,2014; typhimurium, and the expression of sentinel pro-inflammatory
+Buradaetal.,2012;Glasetal.,2013;Yangetal.,2014).Given genesIl1b,Tnfa,Il18,andRantesweremonitoredbyqRT-PCR.
+thelinkageofIRGMwithsomanyinflammatoryandautoimmune Ascomparedtothecontrolcells,IRGM-depletedcellsmounted
+disorders, it is surprising that IRGM’s mechanism of action in astrongerpro-inflammatoryresponse(Figures1E,1F,S1D,and
+regulatinginflammationremainsunclear. S1E).Similarly, in THP-1 cells, theLPSinduced Il1band Tnfa,
+Inthisstudy,ourworkrevealsthathumanIRGManditsmice expressionwasfurtherincreasedinIRGMsmallinterferingRNA
+orthologIrgm1controlinflammationbysuppressingtheactiva- (siRNA) knockdown cells (Figures 1G and 1H). In these cells,
+tion of NLRP3 inflammasomes. Mechanistically, we found that Il18expressionwasincreasedbutnotsignificantly,andRantes
+IRGMphysicallycomplexeswithNLRP3inflammasomecompo- expressionwasnotaffected(FiguresS1FandS1G).Further,hu-
+nents and obstructs inflammasome assembly. IRGM interacts manPBMCsfromhealthydonorsshowedenhancedproduction
+with SQSTM1/p62 (henceforth, p62) and mediates p62-depen- of pro-inflammatory cytokine Il1b and Tnfa when IRGM was
+dentselectiveautophagyofNLRP3andASC.Thus,byrestricting knockdown (Figures 1I and 1J). Furthermore, the secretion of
+inflammasomeactivity,IRGMprotectsfrompyroptosis.Further, IL-6 and tumor necrosis factor alpha (TNF-a) was significantly
+wefoundthatmouseIrgm1suppressesthecoloninflammation higherinIRGM-depletedTHP-1cellsascomparedtoth
+
+Chunk 7:
+62-depen- of pro-inflammatory cytokine Il1b and Tnfa when IRGM was
+dentselectiveautophagyofNLRP3andASC.Thus,byrestricting knockdown (Figures 1I and 1J). Furthermore, the secretion of
+inflammasomeactivity,IRGMprotectsfrompyroptosis.Further, IL-6 and tumor necrosis factor alpha (TNF-a) was significantly
+wefoundthatmouseIrgm1suppressesthecoloninflammation higherinIRGM-depletedTHP-1cellsascomparedtothecontrol
+by inhibiting NLRP3 inflammasome in a DSS-induced colitis cells(FiguresS1HandS1I).Takentogether,thedatasuggestthat
+mousemodel.Takentogether,thisworkidentifiesa directrole IRGMsuppressesthepro-inflammatorycytokineresponse.
+of IRGMin suppressing the inflammation andprovides a basis To determine the pro-inflammatory signaling pathway
+foritsprotectiveroleininflammatorydiseasesincludingCrohn’s. controlled by IRGM, we performed a time-course experiment
+of LPS treatment in control and IRGM-depleted THP-1 cells.
+RESULTS As compared to the control cells, the IRGM-depleted cells
+havelesserIkBathatwasdegradedfasterwithLPStreatment
+HumanIRGMSuppressesPro-inflammatoryCytokine (Figure1K).Intheagreement,phospho-NF-kB-p65levelswere
+Response higherinIRGM-depletedcellsatallthetimepoints(Figure1K).
+HumanIRGMismainlyexpressedincellsofmyeloidandepithe- A previous study in mice indicated the role of p38 MAPK
+lialorigin,andthisexpressionisincreasedfollowingexposureof signaling pathway in Irgm1-mediated LPS (TLR4) induced a
+interferon(IFN)-g(Chauhanetal.,2015).IRGMexpressioninthe pro-inflammatorycytokineresponse(Baficaetal.,2007).Here,
+colonepithelialcelllineHT-29isincreasedunderstarvationcon- inhumancells,wefoundasimilarincrease inphospho-p38in
+ditionsandbytreatmentofcellswiththepathogen-associated- IRGM knockdown cells compared to control cells (Figure 1K)
+molecular-patterns (PAMPs) such as lipopolysaccharide (LPS) suggesting that human IRGM inhibit both NF-kB and p38
+andmuramyldipeptide(MDP)(Figures1AandS1A).Inhuman MAPK pro-inflammatory signaling pathways to control pro-in-
+peripheral
+
+Chunk 8:
+humancells,wefoundasimilarincrease inphospho-p38in
+ditionsandbytreatmentofcellswiththepathogen-associated- IRGM knockdown cells compared to control cells (Figure 1K)
+molecular-patterns (PAMPs) such as lipopolysaccharide (LPS) suggesting that human IRGM inhibit both NF-kB and p38
+andmuramyldipeptide(MDP)(Figures1AandS1A).Inhuman MAPK pro-inflammatory signaling pathways to control pro-in-
+peripheralbloodmononuclearcells(PBMCs),IRGMexpression flammatorycytokineresponse.
+was increased on treatment with LPS (Figure 1B). Further, the We note that our several attempts to generate an IRGM
+treatmentofTHP-1cellswithdanger-associatedmolecularpat- knockouthumanmonocyticcelllineoracolonepithelialcelllines
+terns (DAMPs) such as ATP, MSU (Monosodium urate), and bydifferentCRISPR-CAS9methodswereunsuccessful.Conse-
+cholesterolcrystalsincreasedproteinexpressionofIRGM(Fig- quently, in this study, we used siRNA (THP-1 and PBMCs) or
+ures1C,1D,andS1B).TheexpressionofIRGMwasincreased smallhairpinRNA(shRNA)(HT-29cells)totransientlyorstably
+on infection of THP-1 cells with Salmonella typhimurium knockdownthehumanIRGM;typicalknockdownefficiencyin
+(SL1433) (Figure S1C). Thus, IRGM expression is induced by anygiven cell orcell line(PBMC, THP-1, HT-29)was foundto
+DAMPs,PAMPs,andmicrobesininnateimmunecells. be40%–60%(FiguresS1J–S1L).
+Next,weinvestigatedtheroleofIRGMinmodulatingthepro-
+inflammatory responses induced by LPS treatment and by IRGMLimitsNLRP3InflammasomeActivation
+Salmonellainfection.ThecontrolandIRGMstableknockdown IL-1bistranslatedaspro-IL-1bthatstaysininactivatedformuntil
+HT-29humancolonepithelialcellswereinfectedwithSalmonella asecondsignalactivatesinflammasomesleadingtopro-IL-1b
+(EandF)HT-29controlandIRGMknockdowncellswereinfectedwithS.typhimurium(1:10MOI,8hr),andthetotalRNAwassubjectedtoqRT-PCRwith(E)IL-1b
+and(F)TNF-a.
+(G–J)ThetotalRNAisolatedfromtheLPS-stimulated(100ng/mL,2hr)controlandIRGMsiRNA-transfected(GandH)THP-1cellsor(IandJ)PBMCsfromfive
+healthydonorsweresubjectedtoqRT
+
+Chunk 9:
+pithelialcellswereinfectedwithSalmonella asecondsignalactivatesinflammasomesleadingtopro-IL-1b
+(EandF)HT-29controlandIRGMknockdowncellswereinfectedwithS.typhimurium(1:10MOI,8hr),andthetotalRNAwassubjectedtoqRT-PCRwith(E)IL-1b
+and(F)TNF-a.
+(G–J)ThetotalRNAisolatedfromtheLPS-stimulated(100ng/mL,2hr)controlandIRGMsiRNA-transfected(GandH)THP-1cellsor(IandJ)PBMCsfromfive
+healthydonorsweresubjectedtoqRT-PCRfortheindicatedgenes.For(G)and(H),n=3,mean±SE,*p<0.05,Student’sunpairedttest.For(I)and(J),n=5,
+mean±SE,*p<0.05,Student’spairedttest.
+(K)TheLPS(500ng/mL)-stimulatedcontrolandIRGMsiRNA-transfectedTHP-1celllysatesweresubjectedtoimmunoblottingwithindicatedantibodies.
+(L)ThesupernatantsfromcontrolandIRGMsiRNA-transfectedTHP-1cells,whichwerestimulatedwithLPS(100ng/mL,4hr)aloneorincombinationwith
+nigericin(5mM,30min),weresubjectedtoELISAwithIL-1bantibody.
+(MandN)ThewesternblottingwasperformedwithcontrolandIRGMsiRNA-transfectedTHP-1cells,whichwerestimulatedwithLPS(1mg/mLfor3hr)aloneorin
+combination(M)withnigericin(5mM,30min)or(N)withATP(2.5mM,4hr).
+(OandP)Quantificationof(O)activecaspase-1(FLICAassay)and(P)secretedIL-1b(ELISA)inTHP-1cellstransfectedwithcontrol,IRGM,andNLRP3siRNAand
+treatedwithLPS(1mg/mL,3hr)andnigericin(5mM,15min).
+(Q)ThecontrolandIRGMsiRNA-transfectedTHP-1cellsweretreatedwithLPS(1mg/mL,3hr),nigericin(5mM,15min),orMCC950(1mM)asindicated,and
+westernblottingwasperformed.
+Unlessotherwisestatedabove,n=3,mean±SD,*p<0.05,**p<0.005,***p<0.0005,#insignificant,Student’sunpairedttest.SeealsoFigureS1.
+MolecularCell73,429–445,February7,2019 431
+
+---PAGE BREAK---
+
+D C IRGM NLRP3 Nucleus IRGM
+NLRP3
+MERGE
+ZOOM
+Line profile
+THP-1 (LPS)
+E H
+IRGM
+NLRP3
+ASC NLRP3 Nucleus
+ASC Nucleus
+Line profile THP-1 (LPS+ Nigericin)
+Flag ASC
+Constructs
+Flag ASC
+Constructs
+PFG:PI
+Flag ASC
+Flag ASC
+F
+-
+l
+P ag Y R A I S N C-CARD
+GFP-IRGM + + + +
+NLRP3 - + + +
+kDa
+25
+20
+WB:Flag
+15
+WB:NLRP3 NLRP3
+100
+WB:GFP 50 GFP-IRGM
+25
+20
+15
+NLRP3
+100
+50 GFP-IRGM
+PYD CARD
+Flag-ASC-WT (1-195 aa) 1 91 107 195
+Flag-
+
+Chunk 10:
+cleus IRGM
+NLRP3
+MERGE
+ZOOM
+Line profile
+THP-1 (LPS)
+E H
+IRGM
+NLRP3
+ASC NLRP3 Nucleus
+ASC Nucleus
+Line profile THP-1 (LPS+ Nigericin)
+Flag ASC
+Constructs
+Flag ASC
+Constructs
+PFG:PI
+Flag ASC
+Flag ASC
+F
+-
+l
+P ag Y R A I S N C-CARD
+GFP-IRGM + + + +
+NLRP3 - + + +
+kDa
+25
+20
+WB:Flag
+15
+WB:NLRP3 NLRP3
+100
+WB:GFP 50 GFP-IRGM
+25
+20
+15
+NLRP3
+100
+50 GFP-IRGM
+PYD CARD
+Flag-ASC-WT (1-195 aa) 1 91 107 195
+Flag-ASC-PYRIN (1-91 aa)
+Flag-ASC-CARD(107-195 aa)
+tupnI
+G
+MERGE
+IRGM
+J
+I
+Nucleus GFP-NLRP3
+mcherry-IRGM
+HA-ASC
+mcherry-IRGM
+HA-ASC
+GFP-NLRP3
+GFP-IRGM
+HA-ASC HA-ASC ZOOM GFP-IRGM
+WB:Flag
+WB:NLRP3
+WB:GFP
+K
+90
+80
+70
+60 50
+40
+30
+20
+10
+0
+)CSA-MGRI(
+noitazilacoloC
+%
+35S-Myc-NLRP3
+35S-Myc-NLRP3
+KDa
+250
+150
+100 75
+50 GST-IRGM
+37
+25 GST
+20
+HEK293T
+- NLRP3 + NLRP3
+tupnI
+%01 TSG
+GFP + - GFP-IRGM - +
+NLRP3 + +
+WB:NLRP3
+WB:GFP
+GST-IRGM
+M
+L
+N
+PFG:PI WB: NLRP3
+tupnI
+A B
+Input IP: Flag
+3XFlag plasmid+ - + -
+Flag-NLRP3 - + - +
+kDa GFP-IRGM kDa + + + + IgG 100 50 GFP-IRGM
+WB:NLRP3
+100 100 Flag-NLRP3
+50 GFP-IRGM HEK293T
+37
+GFP
+25
+HEK293T
+PI
+tupnI
+M
+IP:
+Ig G
+IP:
+IR G
+LPS + + kDa
+WB: NLRP3 100
+WB: IRGM 25 IRGM
+100
+WB: IRGM 25
+THP-1
+PI
+tupnI
+5 μm
+F IP:
+Ig
+G
+IP:
+ASC
+IP:
+Ig
+G
+IP:
+ASC
+LPS+Nigericin- - + + Input IP: GFP
+kDa IgG Flag-ASC + + + + 25 IRGM GFP-IRGM + + + +
+Vector control + - + -
+25 ASC NLRP3 kDa - + - +
++
+Flag-ASC (S.E) LPS+Nigericin - + 25
+25 IRGM Flag-ASC (L.E)
+25
+25 ASC 10 μm NLRP3
+THP-1 50 GFP-IRGM
+37
+HEK293T
+MERGE
+10 μm
+25 μm
+Input IP:ASC
+C N o L n R t P ro 3 l s s i i R R N N A A + - + - + - + - HEK293T kDa
+*** 50 IgG
+WB:IRGM
+25
+IgG
+WB:ASC 25
+WB:NLRP3100
+THP-1
+Figure2. IRGMInteractsandCo-localizeswithNLRP3InflammasomeComponents
+(AandB)Co-immunoprecipitation(coIP)analysisofinteractionbetween(A)GFP-IRGMandNLRP3or(B)Flag-NLRP3andGFP-IRGMinHEK293Tcellslysates.
+(C)IPanalysisofinteractionbetweenendogenousIRGMandNLRP3inLPS-stimulatedTHP-1cells.
+(legendcontinuedonnextpage)
+432 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+cleavagebycaspase-1toamatureformthatissecreted(Choi izedwit
+
+Chunk 11:
+lizeswithNLRP3InflammasomeComponents
+(AandB)Co-immunoprecipitation(coIP)analysisofinteractionbetween(A)GFP-IRGMandNLRP3or(B)Flag-NLRP3andGFP-IRGMinHEK293Tcellslysates.
+(C)IPanalysisofinteractionbetweenendogenousIRGMandNLRP3inLPS-stimulatedTHP-1cells.
+(legendcontinuedonnextpage)
+432 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+cleavagebycaspase-1toamatureformthatissecreted(Choi izedwithASCandNLRP3inthecoreregionofspecks(Figures
+andRyter,2014).WenextinvestigatedwhetherIRGMcontrols 2G, S1Q, and S1R). In co-immunoprecipitation (coIP) experi-
+the levelsof secreted IL-1b. InELISA assays, the secreted IL- ments, IRGM interacted with ASC, and this interaction was
+1b levels were significantly increased on silencing IRGM (Fig- increasedwhenNLRP3wasco-expressed(Figure2H).Inagree-
+ure 1L) indicating that IRGM suppresses IL-1b cleavage and mentwiththis,theco-localizationofoverexpressedASCstruc-
+secretion.ThetreatmentofTHP-1cellswithLPSandtheinflam- turesandIRGMwasdramaticallyincreasedwhenNLRP3was
+masome inducers nigericin (Figure 1M) or ATP (Figure 1N) co-expressed (Figures 2I–2K). Also, the depletion of NLRP3
+resulted in increased cleavage of caspase-1 and IL-1b in reducedtheASC-IRGMinteraction(Figure2L).Thedatashow
+IRGM-depletedcellscomparedtothecontrolcells.Theresults thatNLRP3isimportantforbridgingIRGMandASC.Next,ina
+indicatethatIRGMsuppressesthecleavageofcaspase-1and domain-mapping experiment, we found that IRGM interacts
+IL-1b presumably by suppressing NLRP3 inflammasome. We withPYRINdomainbutnotwiththeCARDdomainofASC(Fig-
+validated this notion by depleting (by siRNA) and inhibiting ures 2M and 2N). The PYRIN is the oligomerization domain of
+(by MCC950) the NLRP3 in IRGM knockdown cells. The ASC. Taken together, the data suggest that IRGM is part of
+enhanced inflammasome activation in IRGM-depleted THP-1 NLRP3 inflammasome where it complexes with both NLRP3
+cellswasbluntedwhenNLRP3wasdepletedorinhibited(Fig- andASC.
+ures1O–1QandS1M)suggestingthatIRGMinhibitsNL
+
+Chunk 12:
+ and inhibiting ures 2M and 2N). The PYRIN is the oligomerization domain of
+(by MCC950) the NLRP3 in IRGM knockdown cells. The ASC. Taken together, the data suggest that IRGM is part of
+enhanced inflammasome activation in IRGM-depleted THP-1 NLRP3 inflammasome where it complexes with both NLRP3
+cellswasbluntedwhenNLRP3wasdepletedorinhibited(Fig- andASC.
+ures1O–1QandS1M)suggestingthatIRGMinhibitsNLRP3ac-
+tivitytosuppressactivationofcaspase-1andIL-1b. IRGMInterfereswithNLRP3InflammasomeAssembly
+To further understand the details of the NLRP3-IRGM interac-
+IRGMInteractsandCo-localizeswithNLRP3andASC tion,wemappedthebindingofIRGMtofunctionaldomainsin
+overtheInflammasomes NLRP3 (Figure 3A). NLRP3 is composed of PYRIN, NACHT
+Several diverse signals can activate NLRP3 leading to the (nucleotide binding domain or NBD), and LRR domains (Fig-
+oligomerization of NLRP3, the adaptor protein ASC, and the ure3A).WefoundthatIRGMpredominantlyinteractedwiththe
+caspase-1enzymefortheassemblyofanactivatedinflamma- NACHT domain (Figure 3A). A weak interaction with LRR and
+some (Choi and Ryter, 2014). Since we found that IRGM sup- almostnegligibleinteractionwithPYRINdomainwereobserved
+presses cleavage of caspase-1 and IL-1b, next, we examined (Figure 3A). The NACHT domain of NLRP3 is an ATP binding
+the mechanism by which IRGM suppresses the activity of domainwithanATPaseactivity(Duncanetal.,2007).Anintact
+NLRP3 inflammasome. First, we investigated whether IRGM NACHT domain of NLRP3 is required for its oligomerization
+physicallyassociateswithinflammasomecomponents.Inimmu- and activation (Duncan et al., 2007). Hence, we examined
+noprecipitation assays, IRGM strongly interacted with both whetherIRGMperturbstheoligomerization ofNLRP3.Indeed,
+exogenousandendogenousNLRP3(Figures2A–2CandS1N). incrosslinkingexperiments,IRGMdepletionwassufficienttoin-
+TheendogenousIRGMandNLRP3interactedinTHP-1mono- crease oligomerization of NLRP3 (Figure 3B). In contrast, the
+cytes(Figure2C),andtheinteractionwasinc
+
+Chunk 13:
+al., 2007). Hence, we examined
+noprecipitation assays, IRGM strongly interacted with both whetherIRGMperturbstheoligomerization ofNLRP3.Indeed,
+exogenousandendogenousNLRP3(Figures2A–2CandS1N). incrosslinkingexperiments,IRGMdepletionwassufficienttoin-
+TheendogenousIRGMandNLRP3interactedinTHP-1mono- crease oligomerization of NLRP3 (Figure 3B). In contrast, the
+cytes(Figure2C),andtheinteractionwasincreasedinthepres- oligomericformsofoverexpressedNLRP3werereducedwhen
+ence of Salmonella typhimurium (Figure S1N). Endogenous as IRGMwasoverexpressed(Figure3C).Further,incoIPassays,
+well as exogenously expressed IRGM was found to be IRGM was able to reduce homotypic interaction between
+completely co-localized with the NLRP3 in the perinuclear re- FLAG-NLRP3andGFP-NLRP3(Figure3D).Furthermore,over-
+gions of the cells (Figures 2D, S1O, and S1P). In GST pull- expressionofIRGMreducedtheinteractionbetweenfull-length
+down assays, purified IRGM directly interacted with NLRP3 in NLRP3andNACHTdomain(Figure3E)andalsobetweenFLAG-
+aconcentration-dependentmanner(Figure2E).Takentogether, NACHTandmCherry-NACHTsuggestingthatIRGMdisruptsthe
+the data suggest that IRGM directly interacts and co-localizes homo-oligomerizationoftheNLRP3(Figure3F).Inimmunofluo-
+withNLRP3. rescenceassays,thesizeofNLRP3aggregateswasreducedin
+Oninflammasomeactivation,ASColigomerizeswithitselfand thepresenceofIRGM(FiguresS2A–S2C).Altogether,thedata
+with NLRP3 and caspase-1 to form an active inflammasome showthatIRGMrestrictstheoligomerizationofNLRP3.
+complex. In immunoprecipitation assays, performed in THP-1 ASC possess prion-like properties of self-association and
+cells,IRGMinteractedwithASC,bothunderbasalandinflam- formsbranchedfiber-likestructureimportantforinflammasome
+masome-inducing conditions (Figure 2F). ASC formed distinct activation(Caietal.,2014).Ahigh-resolutionmicroscopyofASC
+specksinthecellsthatarehallmarksofinflammasomeactiva- specks in THP-1 cells revealed a significantly larger and
+tion.Underinflammaso
+
+Chunk 14:
+like properties of self-association and
+cells,IRGMinteractedwithASC,bothunderbasalandinflam- formsbranchedfiber-likestructureimportantforinflammasome
+masome-inducing conditions (Figure 2F). ASC formed distinct activation(Caietal.,2014).Ahigh-resolutionmicroscopyofASC
+specksinthecellsthatarehallmarksofinflammasomeactiva- specks in THP-1 cells revealed a significantly larger and
+tion.Underinflammasome-inducingconditions,IRGMco-local- branchedASCspecksinIRGMknockdowncellscomparedto
+(D)RepresentativeconfocalimagesofTHP-1macrophages,treatedwithLPSandprocessedforimmunofluorescence(IF)analysis.
+(E)GSTpull-downassayofin-vitro-translatedandradiolabeledmyc-taggedNLRP3withGSTorGST-taggedIRGM.
+(F)IPanalysisofinteractionbetweenendogenousIRGMandASCinLPS+nigericin-treatedTHP-1cells.
+(G)RepresentativeconfocalimagesofTHP-1cells,treatedwithLPS(1mg/mL,3hr)andnigericin(5mM,30min)andprocessedforIFanalysis.
+(H)CoIPanalysisofinteractionbetweenIRGMandASCinHEK293TcelllysatesinabsenceandinpresenceofNLRP3.S.E.,shortexposure;L.E.,longexposure.
+(IandJ)RepresentativeconfocalimagesofHEK293Tcellstransientlyexpressing(I)GFP-IRGMandHA-ASCand(J)GFP-NLRP3,mcherry-IRGM,andHA-ASC.
+(K)Thegraphdepictspercentageco-localizationofASCspeckswithIRGMintheabsenceandpresenceofNLRP3(n=3,mean±SD,***p<0.0005).
+(L)IPanalysisoftheinteractionbetweenendogenousIRGMandASCinTHP1cellstransfectedwithcontrolsiRNAorNLRP3siRNA.
+(M)CoIPanalysistomaptheinteractionofASCdomainswithIRGMinHEK293Tcelllysates.
+(N)ThedomainorganizationmapofASCanddeletionconstructsclonedasFLAG-taggedproteins.Scalebarsareindicatedintherespectivefigures.
+SeealsoFigureS1.
+MolecularCell73,429–445,February7,2019 433
+
+---PAGE BREAK---
+
+GFP + - + -
+GFP-IRGM - + - + NLRP3 + + + + Input IP: Flag ATP - - GFP + - + - GFP-IRGM - + - + NLRP3 GFP-NLRP3+ + + + Oligomers Flag-NLRP3 + + + +
+WB:GFP GFP-NLRP3*
+WB:Flag Flag-NLRP3*
+NLRP3 Oligomers GFP-IRGM
+WB:GFP GFP-IRGM
+GFP
+GFP
+Tubulin
+Ponceau
+Control siRNAIRGM siRNA
+LPS - + + - + + Input IP: HA Nigericin - - + - - + GFP +
+
+Chunk 15:
+gureS1.
+MolecularCell73,429–445,February7,2019 433
+
+---PAGE BREAK---
+
+GFP + - + -
+GFP-IRGM - + - + NLRP3 + + + + Input IP: Flag ATP - - GFP + - + - GFP-IRGM - + - + NLRP3 GFP-NLRP3+ + + + Oligomers Flag-NLRP3 + + + +
+WB:GFP GFP-NLRP3*
+WB:Flag Flag-NLRP3*
+NLRP3 Oligomers GFP-IRGM
+WB:GFP GFP-IRGM
+GFP
+GFP
+Tubulin
+Ponceau
+Control siRNAIRGM siRNA
+LPS - + + - + + Input IP: HA Nigericin - - + - - + GFP + - + - GFP-IRGM - + - + HA-ASC + + + + NLRP3 + + + +
+ASC WB:NLRP3 NLRP3*
+Oligomer
+WB:HA HA-ASC*
+GFP-IRGM
+WB:GFP
+GFP
+ASC monomer
+ASC Oligomer
+ASC monomer
+Actin
+elbulosnI
+elbuloS
+elbulosnI
+elbulosnI
+elbuloS
+A kDa Flag Pla F s la m g i d NL F R la P g 3 NL F R la P g 3 N Δ L L F R R la P R g 3 N Δ L F P R l Y a P R g 3 I N N F L L R la R R g P N 3 L N R A P C 3 H P T YRIN
+50 GFP-IRGM (S.E)
+IP:Flag
+WB:GFP 50 GFP-IRGM (L.E)
+150
+100
+70
+Input
+WB:Flag 50 Flag NLRP3
+Constructs
+37
+25
+20
+Input 50 GFP-IRGM
+WB:GFP
+37
+F
+C
+D E
++ + Input IP: Flag kDa GFP + - + - 250 GFP-IRGM - + - + 150 NLRP3 + + + +
+kDa Flag-NACHT + + + + kDa 100 100 WB:NLRP3 100
+100
+WB:Flag 37Flag-NACHT*
+250 50 150 50 WB:GFP GFP-IRGM
+37 100 37
+50 GFP 25 IgG
+37
+25
+25
+50
+100
+I J
+K
+Control siRNA IRGM siRNA k2D5a0 150 100 75
+kDa
+50 100
+37 25
+ASC-speck ASC-speck 50
+25 37
+25
+25
+12 250 * 150
+10 100
+75
+8
+50 6
+37
+4
+2 25
+0
+37
+)Mμ(
+eziS
+kcepS
+CSA
+B Domain structure and deletion constructs of NLRP3 siRNA
+Control IRGM
+PYRIN NACHT LRR LPS - + + - + +
+Flag-NLRP3-WT (1-1036 aa) 1 93 220 536 742 991 1036 Nigericin - - + - - +
+Flag-NLRP3- ∆LRR (1-741 aa)
+kDa NLRP3
+Flag-NLRP3- ∆PYRIN (220-1036 aa) Oligomerization
+Flag-NLRP3- LRR (742-991 aa)
+Flag-NLRP3- NACHT (220-536 aa)
+Flag-NLRP3- PYRIN (1-93 aa) NLRP3
+A ctin
+37
+THP-1
+HEK293T Input IP:Flag
+Flag-NACHT + + + +
+mcherry-NACHT+ + + +
+GFP + - + - GFP-IRGM - + - + kDa mcherry- 50 NACHT WB:Flag
+NLRP3* and mCherry 37 Flag-NACHT
+50 GFP-IRGM
+WB:GFP 37
+IgG 25
+50 GFP-IRGM
+HEK293T WWBB::GGFFPP 37
+HEK293T
+GFP
+25
+HEK293T
+HEK293T
+G
+GFP + - + - GFP-IRGM - + - + HA-ASC + + + + Flag-ASC + + + + NLRP3 kDa -
+
+Chunk 16:
+NLRP3- NACHT (220-536 aa)
+Flag-NLRP3- PYRIN (1-93 aa) NLRP3
+A ctin
+37
+THP-1
+HEK293T Input IP:Flag
+Flag-NACHT + + + +
+mcherry-NACHT+ + + +
+GFP + - + - GFP-IRGM - + - + kDa mcherry- 50 NACHT WB:Flag
+NLRP3* and mCherry 37 Flag-NACHT
+50 GFP-IRGM
+WB:GFP 37
+IgG 25
+50 GFP-IRGM
+HEK293T WWBB::GGFFPP 37
+HEK293T
+GFP
+25
+HEK293T
+HEK293T
+G
+GFP + - + - GFP-IRGM - + - + HA-ASC + + + + Flag-ASC + + + + NLRP3 kDa - - + +
+25 HA-ASC*
+IP:Flag
+Flag-ASC*
+25
+THP-1 50 GFP-IRGM
+50 GFP-IRGM
+H
+Control siRNA 25 HA-ASC*
+IRGM siRNA HEK293T
+25 Flag-ASC*
+100 NLRP3*
+Input 150 GFP-IRGM
+35
+GFP
+25
+HEK293T
+THP-1
+(legendonnextpage)
+434 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+the control cells (Figures 3G and 3H). In contrast, when IRGM byimmunofluorescenceexperimentsshowingthattheLPSand
+wasoverexpressed,ASCspeckswerefoundtobesignificantly nigericin-induced ASC specks (inflammasomes) were signifi-
+smaller in overexpressing cells compared to the control cells cantly increased in number on knocking down IRGM (Figures
+(FiguresS2D–2F).ThedataindicatethatIRGMsuppressesthe S2PandS2Q).Incontrast,overexpressionofIRGMsignificantly
+polymerizationofASC.Tocorroboratethesefindings, weper- reducedthetotalnumberofASCspecks(FiguresS2RandS2S).
+formed biochemical assays. In coIP experiments, the overex- These data suggest that IRGM mediates degradation of ASC.
+pression of IRGM reduced interaction between HA-ASC and This degradation was completely restored in the presence of
+FLAG-ASC (Figure 3I). In western blotting experiments per- BafA1, but only partly in the presence of MG132 (Figures 4J
+formedwithcross-linkedinsolublecellularfraction,ASColigo- andS2T).IntheabsenceofATG5orATG7,IRGMwasnotable
+merization was inhibited by overexpression of IRGM (Fig- todegradeASC(Figures4Fand4G)suggestingthatIRGMde-
+ure S2G). In contrast, the amount of oligomerized ASC in the gradesASCviaautophagyprocess.
+insolublefractionoftheTHP-1cellswasmarkedlyincreasedin
+IRGMknockdowncellscomparedtothecontrolcells(Figure3J). IRGMMedi
+
+Chunk 17:
+insolublecellularfraction,ASColigo- andS2T).IntheabsenceofATG5orATG7,IRGMwasnotable
+merization was inhibited by overexpression of IRGM (Fig- todegradeASC(Figures4Fand4G)suggestingthatIRGMde-
+ure S2G). In contrast, the amount of oligomerized ASC in the gradesASCviaautophagyprocess.
+insolublefractionoftheTHP-1cellswasmarkedlyincreasedin
+IRGMknockdowncellscomparedtothecontrolcells(Figure3J). IRGMMediatesp62-DependentSelectiveAutophagyof
+Takentogether,theseresultssuggestthatIRGMobstructsthe NLRP3Inflammasomes
+oligomerization of ASC also. The interaction between NLRP3 p62 is a selective autophagy adaptor protein that plays a vital
+andASCwasalsoreducedinthepresenceofIRGM(Figure3K, roleinautophagicdegradationofseveralinflammatorysignaling
+seealsoFigure5E),buttheinteractionbetweenASCandcas- pathway proteins including inflammasomes and their compo-
+pase-1wasunaffectedbyIRGM(FigureS2H).Overall,wefound nents (Chen et al., 2016; Samie et al., 2018; Shi et al., 2012).
+thatIRGMrestrictsassemblyoftheinflammasomebyimpeding Here,weexploredwhetherIRGMactsasascaffoldproteinto
+thehomo-andhetero-oligomerizationofNLRP3andASC. mediate p62-dependent selective autophagy of NLRP3. We
+foundthatIRGMinteractedandco-localizedwithp62(Figures
+IRGMMediatesAutophagicDegradationofNLRP3 4Kand4L).IRGMwasalsorequiredforexpressionofp62under
+InflammasomeComponents basal and inflammasome-inducing conditions in THP-1 cells
+We found that the overexpression of IRGM reduced NLRP3 (Figure S3A). NLRP3 itself can interact and co-localize with
+levels(Figure4A,S2I,andS2J),whilesilencingIRGMbysiRNA p62 (Figures S3B–3D). In THP-1 cells, p62 was co-localized
+increasedthetotalamountofendogenousNLRP3(Figures4B with NLRP3 (Figure S3D) on perinuclear structures that ap-
+and S2K). The data indicate that IRGM mediates degradation pearedsimilartothoseonwhichIRGMandNLRP3co-localized
+oftheNLRP3protein. (Figure2D)suggestingthatallthethreeproteinsarepartofthe
+NLRP3isknowntobedegradedbyboththeproteasomeand same complex. In HEK293
+
+Chunk 18:
+THP-1 cells, p62 was co-localized
+increasedthetotalamountofendogenousNLRP3(Figures4B with NLRP3 (Figure S3D) on perinuclear structures that ap-
+and S2K). The data indicate that IRGM mediates degradation pearedsimilartothoseonwhichIRGMandNLRP3co-localized
+oftheNLRP3protein. (Figure2D)suggestingthatallthethreeproteinsarepartofthe
+NLRP3isknowntobedegradedbyboththeproteasomeand same complex. In HEK293T cells, overexpressed IRGM, p62,
+autophagy (Kimura et al., 2015; Song et al., 2016). The and NLRP3 co-localized with each other suggesting that they
+BafilomycinA1(BafA1,anautophagyinhibitor),butnotMG132 are indeed in a single complex (Figure 4M). IRGM increased
+(aproteasomeinhibitor),wasabletorestoretheIRGM-mediated the interaction of p62 with both NLRP3 (Figures 4N and 4O)
+degradation of NLRP3 indicating a role for autophagy in the andASC(Figure4P)suggestingthatIRGMisvitalforbridging
+degradation process (Figures 4C and S2L). In the absence of p62withNLRP3-andASC-containinginflammasomes.
+the essential autophagy proteins, ATG5 or ATG7, IRGM was Next, we asked whether p62 as a part of the IRGM-p62-
+notabletodegradeNLRP3(Figures4D–4GandS2M)suggest- NLRP3 complex is required for IRGM-mediated autophagic
+ingthatIRGMdegradesNLRP3viaautophagyprocess. degradation of NLRP3. Indeed, depletion of p62 by siRNA
+ASCasapartofaninflammasomewaspreviouslyshowntobe restored IRGM-mediated NLRP3 degradation (Figures 4Q and
+degradedbyautophagy(Shietal.,2012).Here,wefoundthat S3E). ULK1 plays an important role in autophagy initiation,
+overexpression of IRGM reduced ASC protein levels (Figures whereas Beclin1 and ATG16L1 are required for autophago-
+4HandS2N),whileIRGMdepletionresultedinincreasedASC some assembly and elongation. Since IRGM interacts with
+amounts(Figures4IandS2O).Thisfindingwasfurthersupported ULK1, Beclin 1, and ATG16L1 for assembly of the autophagy
+Figure3. IRGMImpedestheHomo-andHetero-oligomerizationofNLRP3andASC
+(A)Leftpanel,coIPanalysistomapthebindingofIRGMovertheNLRP3domainsi
+
+Chunk 19:
+clin1 and ATG16L1 are required for autophago-
+4HandS2N),whileIRGMdepletionresultedinincreasedASC some assembly and elongation. Since IRGM interacts with
+amounts(Figures4IandS2O).Thisfindingwasfurthersupported ULK1, Beclin 1, and ATG16L1 for assembly of the autophagy
+Figure3. IRGMImpedestheHomo-andHetero-oligomerizationofNLRP3andASC
+(A)Leftpanel,coIPanalysistomapthebindingofIRGMovertheNLRP3domainsinHEK293Tcelllysates.Rightpanel,thedomainorganizationmapofNLRP3
+anddeletionconstructsclonedasFLAG-taggedproteins.S.E.,shortexposure;L.E.,longexposure.
+(B)ThewesternblottinganalysisofDSScross-linkedinsolublefractionofLPSandnigericin-treatedcontrolandIRGMknockdownTHP-1cells.
+(C)ThesolubleandinsolublefractionsofDSScross-linkedHEK293TcellslysatesexpressingNLRP3andGFPorGFP-IRGMweresubjectedtowesternblotting.
+(D–F) CoIP analysis of interaction between (D) FLAG-NLRP3 and GFP-NLRP3, (E) FLAG-NLRP3-NACHT and NLRP3, and (F) FLAG-NLRP3-NACHT and
+mcherrry-NLRP3-NACHTintheabsenceandpresenceofGFP-IRGMinHEK293Tcellslysates.
+(G)Super-resolutionmicrographofcontrolandIRGMsiRNA-transfectedTHP-1cellsstablyexpressingLPS-inducibleGFP-ASC.
+(H)AverageASCspecksizemeasured(n=2,mean±SD[40specks],*p<0.05).
+(I)IPanalysisfromHEK293TcelllysatesexpressingHA-ASC,FLAG-ASC,andNLRP3alongwithGFPcontrolvectororGFP-IRGMvector.
+(J)ThewesternblotanalysiswithDSScross-linkedinsolublefractionandsolublefractionsofcontrolandIRGMknockdownTHP-1cellsstimulatedwithLPS
+(1mg/mL,3hr)andnigericin(5mM,15min).
+(K)IPanalysisofinteractionbetweenNLRP3andASCintheabsenceandpresenceofGFP-IRGM.
+*InordertoreducetheartifactcomingfromIRGM-mediateddegradationofNLRP3andASC,theinputsratioswereadjustedtohaveequalinputsinboththe
+conditionsandtheIPsampleswereruninthesameratiosasoftheinputs.
+Scalebarsareasindicatedinfigures.SeealsoFigureS2.
+MolecularCell73,429–445,February7,2019 435
+
+---PAGE BREAK---
+
+A
+G
+G
+NL
+F
+F
+R
+P
+P
+P
+-I
+3
+RGM
++
++
+-
++
++
+-
++
++
+-
++
++
+- B Control-siRNA IRGM-siRNA C G F 3
+B
+M
+X l
+a
+F a
+G
+F
+f
+P g
+i
+1
+l
+l -
+o
+- a
+3
+I N
+m
+R g
+2
+L - 
+
+Chunk 20:
+degradationofNLRP3andASC,theinputsratioswereadjustedtohaveequalinputsinboththe
+conditionsandtheIPsampleswereruninthesameratiosasoftheinputs.
+Scalebarsareasindicatedinfigures.SeealsoFigureS2.
+MolecularCell73,429–445,February7,2019 435
+
+---PAGE BREAK---
+
+A
+G
+G
+NL
+F
+F
+R
+P
+P
+P
+-I
+3
+RGM
++
++
+-
++
++
+-
++
++
+-
++
++
+- B Control-siRNA IRGM-siRNA C G F 3
+B
+M
+X l
+a
+F a
+G
+F
+f
+P g
+i
+1
+l
+l -
+o
+- a
+3
+I N
+m
+R g
+2
+L - G
+y
+P R
+c
+M l
+i
+P a
+n
+s 3
+A
+m
+1
+id+ +
+-
+-
+- + +
+-
+-
+-
++
++ +
+-
+-
++
++ +
+-
+- D
+G
+G
+F
+F
+P
+P
+-IRGM
++
+C
+-
+ontro C l-
++
+-
+s o i n R tr N o A l-
++
+A
+-
+s T iR G N 5 A -s iRNA
+1 k 0 D 0 a NLRP3 N LP L S RP3 0 2 0 2 k h D 10 a 0 1 k 0 D 0 a GFP-NLRP3 (L.E) NLRP3 1 k 0 D 0 a + + + NLRP3
+50 GFP-IRGM IRGM 25 100 GFP-NLRP3 (S.E) 50 GFP-IRGM
+Actin Flag-IRGM
+25 G Ac F t P in THP-1 37 2 3 5 7 Actin 25 GFP
+37 ATG5 50
+Actin
+37 F G H I GFP + - - G G F F P P-IRGM + - + - + - G G F F P P -IRGM + - + - + - + - GFP- k I D R a G 10 M 0 - + + NLRP3 kDa 1 2 0 5 0 A N S L C R P (S 3 .E) HA-ASC kD 25 a + + + + HA-ASC 25 ASC (S.E) 25 50 GFP-IRGM
+25 ASC (L.E) ASC (L.E) LC3B-I
+50 GFP-IRGM 15 LC3B-II
+37 50 GFP-IRGM 25 GFP
+Actin
+25 GFP 37 37 LC3B-I 15 LC3B-II 25 GFP
+50 ATG5 75 ATG7
+37 Actin 37 Actin THP-1 THP-1
+J L
+GFP + - - -
+GFP-IRGM- + + +
+HA-ASC + + + +
+BafA1 - - + -
+MG132 - - - + k 2 D 5 a HA-ASC
+50 GFP-IRGM
+GFP 25
+37 Actin
+M N O P
+HA-p62
+2 P=0.008
+1.8
+1.6
+1.4
+1.2 mcherry-IRGM 1
+0.8
+0.6 0.4
+0.2
+0
+tupnI
+/ PI
+HEK293T HEK293T
+E G G NL F F R P P P -I 3 RGM + + C - ontro C l- + + s - o i n R t N ro A l- s + + A - iR T N G A 7 -siRNA Control C -s o iR n N tro A l -s A iR TG N 5 A - siRNA Contro C l-s o i n R t N ro A l- s A iR T N G A 7- siRNA HEK293T kDa Control I s R iR G N M A siRNA 1 k 0 D 0 a NLRP3 25 ASC
+50 GFP-IRGM 25 IRGM
+Actin 37
+25 GFP THP-1
+HEK293T Actin 37
+ATG7 75
+Actin 37 HEK293T
+K mcherry-IRGM mcherry-IRGM
+GFP-p62 Input IP:Flag
+3XFlag Plasmid + - + -
+Flag-p62 - + - +
+GFP-IRGM + + + + WB: GFP k 5 D 0 a GFP-IRGM GFP-p62
+WB: Flag Flag-p62
+50 8 μm HEK293T
+HEK293T
+HEK293T
+GFP-NLRP3 GFP-NLRP3 ZOOM Inp
+
+Chunk 21:
+ l- s A iR T N G A 7- siRNA HEK293T kDa Control I s R iR G N M A siRNA 1 k 0 D 0 a NLRP3 25 ASC
+50 GFP-IRGM 25 IRGM
+Actin 37
+25 GFP THP-1
+HEK293T Actin 37
+ATG7 75
+Actin 37 HEK293T
+K mcherry-IRGM mcherry-IRGM
+GFP-p62 Input IP:Flag
+3XFlag Plasmid + - + -
+Flag-p62 - + - +
+GFP-IRGM + + + + WB: GFP k 5 D 0 a GFP-IRGM GFP-p62
+WB: Flag Flag-p62
+50 8 μm HEK293T
+HEK293T
+HEK293T
+GFP-NLRP3 GFP-NLRP3 ZOOM Input IP:HA 3XFlag-Plasmid Input IP:Flag
+mcherry-IRGM Flag-plasmid + - + - Flag-IRGM GFP-plasmid + - + -
+Flag-IRGM - + - + * GFP-IRGM - + - +
+HA-p62 GFP-NLRP3 + + + + NLRP3 + + + +
+HA-p62 + + + + HA-ASC + + + +
+Flag-P62 + + + +
+WB: GFP 1 k 0 D 0 a WB: HA 1 k 0 D 0 a ASC*
+WB: HA WB: Flag P62 50 50
+WB: Flag
+5 μm 25 HEK293T WB: NLRP 1 3 00 NLRP3*
+50 IRGM
+HEK293T Line profile
+Q Control C -s o iR nt N ro A p l- 6 s 2 iR -s N iR A N A R S WB: GFP3 2 7 5 HEK293T GFP
+GFP + - -
+G NL F R P P -I 3 RGM + - + + + + mcherry-IRGM mcherry-IRGM NLRP3 ZOOM Input IP:GFP
+NLRP31 k 0 D 0 a GFP-BECLIN-1 Flag-plasmid + - + -
+GFP-IRGM 50 NLRP3 G Fl F a P g- - I B R e G c M lin1 - + + + + - + +
+NLRP3 + + + +
+37
+GFP-BECLIN-1 WB: NLRP3
+100
+NLRP3*
+GFP
+25 WB: GFP GFP-Beclin1
+75
+Actin 37 5 μm WB: Flag 25 Flag-IRGM
+p62
+50 HEK293T HEK293T Line profile HEK293T
+(legendonnextpage)
+436 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+machinery(Chauhanetal.,2015),wenextaskedwhichofthese orNLRC4arenotdegradedbyIRGM-mediatedselectiveauto-
+autophagy proteins are utilized by IRGM for autophagy of phagy,andthediscoveredmechanismisspecifictoNLRP3.
+NLRP3.NLRP3andIRGMco-localizedwithallthreeautophagy Next, we investigated whether the LPS and inflammasome
+regulatoryproteins(Figures4R,S3F,andS3G).Further,incoIP activator-induced general autophagy flux is controlled by
+experiments, IRGM robustly increased NLRP3-Beclin1 and IRGM.TheresultssuggestthatLPS-,LPS+nigericin-,andLPS+
+NLRP3-ATG16L1 interactions (Figures 4S and S3H) but did ATP-induced autophagy flux is inhibited upon IRGM depletion
+not affect NLRP3-ULK1 inte
+
+Chunk 22:
+d whether the LPS and inflammasome
+regulatoryproteins(Figures4R,S3F,andS3G).Further,incoIP activator-induced general autophagy flux is controlled by
+experiments, IRGM robustly increased NLRP3-Beclin1 and IRGM.TheresultssuggestthatLPS-,LPS+nigericin-,andLPS+
+NLRP3-ATG16L1 interactions (Figures 4S and S3H) but did ATP-induced autophagy flux is inhibited upon IRGM depletion
+not affect NLRP3-ULK1 interaction (Figure S3I). Taken (Figures5Aand5B),whereastheLPS+poly(dA-dT)(anAIM2in-
+together, the data suggested a scaffolding role for IRGM in flammasomeinducer)-inducedautophagyfluxwasnotaffected
+bringingtheautophagyadaptorprotein(p62),autophagyinitia- byknockdownofIRGM(FigureS5G).
+tion (Beclin 1), and elongation protein (ATG16L1) over the IRGMmediatesselectiveautophagyofNLRP3andASCand
+NLRP3inflammasomes. alsoregulatesbasalautophagy.WeaskedwhetherIRGMitself
+We performed time-chase immunofluorescence experiments is an autophagy target. In cycloheximide chase experiments,
+to understand whether the p62 docksto NLRP3/ASCcomplex wefoundthatMG132butnotBafA1couldprotectIRGMfrom
+first or the Beclin1/ATG16L1 reaches the complex first. The degradationsuggestingthatIRGMisdegradedbyproteasome
+IRGM-p62-ASCshowed co-localization in 5 min of stimulation, butnotbytheautophagy(FiguresS5HandS5I).
+whereasATG16L1camelaterat15minormoreprominentlyon
+30minpoststimulation(FiguresS4AandS4B).Wealsoperformed TwoDistinctMechanismsGovernedbyIRGMRegulate
+time-chaseimmunofluorescenceexperimentsinoverexpression NLRP3InflammasomeSuppression
+systeminHEK293Tcells.Thedatashowthat,inthepresenceof IRGMutilizestwomechanisms:(1)suppressionofoligomeriza-
+p62, the NLRP3-IRGM puncta formation are fast, and all three tion and (2) autophagic degradation of NLRP3/ASC to inhibit
+p62,IRGM,andNLRP3co-localizedwitheachother6hrpost- theinflammasomeactivation.Next,weperformedexperiments
+transfection(FiguresS4CandS4D),whereasinthepresenceof to determine whether these two mechanisms are distinct or
+Beclin1theIRGM-NLRP3complexap
+
+Chunk 23:
+sms:(1)suppressionofoligomeriza-
+p62, the NLRP3-IRGM puncta formation are fast, and all three tion and (2) autophagic degradation of NLRP3/ASC to inhibit
+p62,IRGM,andNLRP3co-localizedwitheachother6hrpost- theinflammasomeactivation.Next,weperformedexperiments
+transfection(FiguresS4CandS4D),whereasinthepresenceof to determine whether these two mechanisms are distinct or
+Beclin1theIRGM-NLRP3complexappearedat12hrpost-trans- dependentoneachother.Inoligomerizationassays,inthepres-
+fection(FiguresS4CandS4D).Takentogether,thedatasuggest ence of autophagy inhibitor chloroquine, although the IRGM-
+thatp62beinganadaptorproteinrecognizestheinflammasome mediated degradation of NLRP3 and ASC monomers (soluble
+firstfollowedbydockingofotherautophagyproteins. fraction) was significantly restored, the oligomerization defect
+NLRC4 and AIM2 are other well-studied inflammasomes. ofNLRP3andASCwasnotrescued(Figures5Cand5D).These
+The NLRC4 levels were unchanged, whereas, surprisingly, dataindicatethattheIRGM-mediatedautophagicdegradation
+AIM2levelsweredecreasedonknockingdownIRGM(Figures ofNLRP3andASCisindependentofIRGM-regulatedinhibition
+5Aand5B).However,theoverexpressionofIRGMdidnotsignif- ofoligomerization.Next,wefoundthatIRGMwasabletoinhibit
+icantlyaffectthelevelsofoverexpressedAIM2inHEK293T(Fig- theoligomerizationofNLRP3,aswellasASCeveninthepres-
+uresS5CandS5D)suggestingthatthereductioninAIM2expres- ence of autophagy inhibitor (Figures 5E and 5F) suggesting
+sionobserved in IRGMknockdown THP-1 cells isnot adirect that IRGM-mediated oligomerization defect is independent of
+effectofIRGMlowexpressionbutcouldbeasecondaryevent. IRGM-controlledautophagicdegradationofNLRP3andASC.
+ThisnotionissupportedbynegligibleAIM2-IRGMco-localization ArecentstudyshowedthatasinglemutationintheGTPase
+(FiguresS5EandS5F).Takentogether,ourdatashowthatAIM2 domain (S47N) of IRGM makes it incompetent in interaction
+Figure4. IRGMMediatesAutophagicDegradationofNLRP3andASC
+(A)WesternblottingexperimentwithHEK293Tcells
+
+Chunk 24:
+sionbutcouldbeasecondaryevent. IRGM-controlledautophagicdegradationofNLRP3andASC.
+ThisnotionissupportedbynegligibleAIM2-IRGMco-localization ArecentstudyshowedthatasinglemutationintheGTPase
+(FiguresS5EandS5F).Takentogether,ourdatashowthatAIM2 domain (S47N) of IRGM makes it incompetent in interaction
+Figure4. IRGMMediatesAutophagicDegradationofNLRP3andASC
+(A)WesternblottingexperimentwithHEK293TcellsexpressingNLRP3andGFPorGFP-IRGMplasmids.
+(B)WesternblotanalysiswithuntreatedorLPS-treated(100ng/mL,2hr)controlorIRGMsiRNA-transfectedTHP-1cellslysates.
+(C)HEK293TcellsexpressingFLAGcontrolvector,FLAG-IRGM,andGFP-NLRP3weretreatedwithMG132orBafilomycinA1,andlysatesweresubjectedto
+westernblotting.S.E.,shortexposure;L.E.,longexposure.
+(DandE)Thecontroland(D)ATG5siRNAor(E)ATG7siRNA-transfectedHEK293TcellsexpressingNLRP3,GFP,or/andGFP-IRGMweresubjectedto
+immunoblotting.
+(FandG)Thecontrolandthe(F)ATG5siRNAor(G)ATG7siRNA-transfectedTHP-1cellsexpressingGFPorGFP-IRGMwerestimulatedwithLPS(1mg/mL,3hr),
+andthecelllysatesweresubjectedtoimmunoblotting.
+(H)HEK293TcellsexpressingHA-ASCandGFPorGFP-IRGMweresubjectedtoimmunoblotting.
+(I)ThecontrolandIRGMsiRNA-transfectedTHP-1cellslysatesweresubjectedtoimmunoblotting.
+(J)WesternblottinganalysiswithlysatesfromHEK293TcellstransfectedwithHA-ASCandGFPorGFP-IRGM,untreatedortreatedwithBafA1orMG132.
+(K)CoIPanalysisofinteractionbetweenFLAG-p62andGFP-IRGMinHEK293Tcelllysates.
+(LandM)RepresentativeconfocalimagesofHEK293Tcellsexpressing(L)GFP-p62andmcherry-IRGM(M)HA-p62,mcherry-IRGM,andGFP-NLRP3.
+(N)CoIPanalysisofinteractionbetweenHA-p62andGFP-NLRP3intheabsenceandpresenceofFLAG-IRGM.
+(O)GraphdepictsthequantificationofGFP-NLRP3bandintensityinIP(normalizedcomparedtoinputs)(n=3,mean±SD,*p%0.05,Student’sunpairedttest)
+(P)CoIPanalysisofinteractionbetweenp62andASCintheabsenceandpresenceofIRGMinHEK293Tcell.
+(Q)AnalysisofdegradationofNLRP3intheabsenceandpresenceofIRGMandinHEK293TcellstransfectedwithcontrolsiRNAandp62siRNA.
+(R)RepresentativeconfocalimagesofHEK293T
+
+Chunk 25:
+dpresenceofFLAG-IRGM.
+(O)GraphdepictsthequantificationofGFP-NLRP3bandintensityinIP(normalizedcomparedtoinputs)(n=3,mean±SD,*p%0.05,Student’sunpairedttest)
+(P)CoIPanalysisofinteractionbetweenp62andASCintheabsenceandpresenceofIRGMinHEK293Tcell.
+(Q)AnalysisofdegradationofNLRP3intheabsenceandpresenceofIRGMandinHEK293TcellstransfectedwithcontrolsiRNAandp62siRNA.
+(R)RepresentativeconfocalimagesofHEK293Tcellsexpressingmcherry-IRGM,GFP-Beclin-1,andNLRP3.
+(S)CoIPanalysisofinteractionbetweenNLRP3andBeclin-1intheabsenceandpresenceofIRGMinHEK293Tcellsexpressingtheindicatedplasmids.
+*InordertoreducetheartifactcomingfromIRGM-mediateddegradationofNLRP3andASC,theinputsratioswereadjustedtohaveequalinputsinboththe
+conditions,andtheIPsampleswasruninthesameratiosasoftheinputs.Scalebarsareasindicatedinfigures.S.E.,shortexposure;L.E.,longexposure.
+SeealsoFiguresS2andS3.
+MolecularCell73,429–445,February7,2019 437
+
+---PAGE BREAK---
+
+ASC Oligomerization
+GFP-IRGM
+GFP
+Actin
+elbulosnI
+elbuloS
+GFP + - - GFP-IRGM - + + Flag-ASC + + + Chloroquine - - + kDa
+250 150 100 75
+50
+Ponceau
+25 ASC monomer
+50
+37
+25
+37 LC3-I 15
+LC3-II
+C IR o G n M tro -s l i s R iR N N A A C IR o G n M tro -s l i s R iR N N A A 180 160 140 120 100 80 60
+40 20 0
+Control siRNA Control siRNA IRGM-siRNA IRGM-siRNA 180 160 140
+120
+100 80
+60 40
+20 0
+skceps CSA
+skceps
+CSA
+400 *** 350 300 ** 250 * 200 150
+100 50 0 LPS+Nigericin+ + + + LPS+Nigericin+ + + + 3-MA - - + + 3-MA - - + + THP-1 (GFP-ASC stable cells)
+350 *** 300 *** ** 250
+200
+150
+100 50
+0 LPS+Nigericin+ + + + LPS+Nigericin+ + + + p62-siRNA - - + + p62-siRNA - - + +
+THP-1 (GFP-ASC stable cells)
+)lm/gp( β1-LI
+)lm/gp(
+β1-LI
+*** 500 450 400 350
+300 250 200 150 100 50 0 GFP + - + -
+GFP-IRGM - + - +
+- - + +
+***
+)lm/gp(
+β1-LI
+A Contro I l R s G iR M N A s C iR o N nt A ro I l R s G iR M N C A si o R n N tr A o IR l s G iR M N C s A o iR n N tro A IR l s G iR M N s C A iR on N t A ro IR l s G iR M N s A iRNA B LPS C - ontro I l R - s G iR M N A s + C iR o N nt A ro I + l R s G iR
+
+Chunk 26:
+ stable cells)
+)lm/gp( β1-LI
+)lm/gp(
+β1-LI
+*** 500 450 400 350
+300 250 200 150 100 50 0 GFP + - + -
+GFP-IRGM - + - +
+- - + +
+***
+)lm/gp(
+β1-LI
+A Contro I l R s G iR M N A s C iR o N nt A ro I l R s G iR M N C A si o R n N tr A o IR l s G iR M N C s A o iR n N tro A IR l s G iR M N s C A iR on N t A ro IR l s G iR M N s A iRNA B LPS C - ontro I l R - s G iR M N A s + C iR o N nt A ro I + l R s G iR M N C + A o si n R tr N o I A l R + s G iR M N A s + C iR o N nt A ro I + l R s G iR M N A siRNA C
+LPS - - + + + + + + + + Nigericin - - - - + + + + ATP - - - - - - + + + + Bafilomycin A1 - - - - - - + + Bafilomycin A1 - - - - + + - - + + kDa LC3B-I kDa LC3B-I 15 LC3B-II (S.E)
+15 LC3B-II (S.E)
+LC3B-I
+LC3B-I 15 LC3B-II (L.E)
+15
+LC3B-II (L.E) Actin
+37
+25 IRGM
+25 IRGM
+Actin
+37 THP-1
+THP-1
+D E
+GFP + - -
+GFP-IRGM - + + GFP - + - F
+F C l h a l g o - r N oq L u R i P ne 3 + - + - + GFP-IRGM - - +
+HA-ASC + + + Input IP:Flag Myc-ASC - + + NLRP3 NLRP3 + + + GFP + - + - + - + - Oligomerization Chloroquine - + + GFP-IRGM - + - + - + - +
+kDa
+GFP-NLRP3+ + + + + + + +
+25 HA-ASC (S.E) Flag-NLRP3 - - + + - - + + HEK293T
+Chloroquine - - + + - - + +
+IP:Myc IgG kDa
+25 HA-ASC (L.E) WB:GFP 150 GFP-NLRP3 (S.E)
+100
+100 NLRP3 150 GFP-NLRP3 (L.E)
+100
+150
+25 HA-ASC WB:Flag 100 Flag-NLRP3
+Input 100 NLRP3 WB:GFP 50 GFP-IRGM
+25 Myc-ASC
+GFP-IRGM 50 GFP-IRGM
+50 GFP-IRGM WB:GFP 37
+GFP 37 25 GFP
+25 GFP LC3-I
+Actin LC3-I 15 LC3-II
+15 LC3-II HEK293T HEK293T
+NLRP3
+Oligomerization
+Actin
+K L
+GFP + - + -
+G H GFP-IRGM - + - + GFP + - + - GFP-IRGM - + - + Chloroquine - - + + kDa ATG5-siRNA - - + + 17 5 05 0 0 p C r a o s - pase-1 kDa 5 7 0 5 p C r a o s - pase-1 M 37 37 25 25 * 20 15 Cleaved 20 Caspase-1 (L.E) 15 Cleaved
+10705 pro- Caspase-1 (S.E) 5 3 0 7 Caspase-1 50 p C r a o s - pase-1 ** 25 37 2 1 0 5 C C l a e s a p v a e s d e-1 (S.E) 2 2 5 0
+15 Cleaved
+100 NLRP3 Caspase-1 (L.E) Chloroquine
+I J
+25 HA-ASC 100 NLRP3 50 GFP-IRGM 25 HA-ASC 50 GFP-IRGM 37 37
+25 GFP
+25 GFP ATG5 LC3B-I 50
+15 LC3B-II (S.E) LC3B-I
+LC
+
+Chunk 27:
+- pase-1 kDa 5 7 0 5 p C r a o s - pase-1 M 37 37 25 25 * 20 15 Cleaved 20 Caspase-1 (L.E) 15 Cleaved
+10705 pro- Caspase-1 (S.E) 5 3 0 7 Caspase-1 50 p C r a o s - pase-1 ** 25 37 2 1 0 5 C C l a e s a p v a e s d e-1 (S.E) 2 2 5 0
+15 Cleaved
+100 NLRP3 Caspase-1 (L.E) Chloroquine
+I J
+25 HA-ASC 100 NLRP3 50 GFP-IRGM 25 HA-ASC 50 GFP-IRGM 37 37
+25 GFP
+25 GFP ATG5 LC3B-I 50
+15 LC3B-II (S.E) LC3B-I
+LC3B-I 15 LC3B-II 15 LC3B-II (L.E) Actin 37 Actin
+37
+HEK293T
+(Inflammasome reconstitution system)
+elbulosnI
+elbuloS
++
+kDa 250
+150
+100
+75
+Ponceau
+150 Flag-NLRP3
+100
+50
+25
+37
+LC3-I 15 LC3-II
+250
+150
+100
+37
+HEK293T
+(legendonnextpage)
+438 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+with Syntaxin 17, an autophagosome-lysosome fusion protein IRGMProtectsfromPyroptosis
+(Kumaretal.,2018).Wefoundthatthismutation(S47N,IRGM Pyroptosisisaninflammatorycelldeathmediatedbyactivation
+GTPase activity defective) in IRGM renders it inefficient in de- of inflammasomes (also called pyroptosomes) (Fernandes-Al-
+gradingNLRP3suggestingtheimportanceofIRGMGTPaseac- nemrietal.,2007;Shietal.,2017).AnnexinVandpropidiumio-
+tivity in autophagy-mediated cargo degradation (Figure S5J). dide(PI)doublestainingwasusedtoaccesstheroleofIRGMin
+Veryinterestingly,thismutationwasabletorescuetheIRGM- pyroptosis. Due to the formation of pores, pyroptotic cells
+mediatedautophagic degradation of NLRP3butnottheoligo- are mainly stained by PI (PI is cell membrane impermeant).
+merization defect mediated by IRGM (Figure S5J). Taken Annexin-V cannot distinguish between apoptotic cells and py-
+together, the results suggest that IRGM controls two distinct roptoticcellsandstainsbothofthem.Inflowcytometryexperi-
+mechanisms, autophagic degradation of NLRP3 (GTPase- ments,onexposureofinflammatorythreats,boththeapoptotic
+dependentfunction)andinhibitionofoligomerizationofNLRP3 and pyroptotic populations were increased considerably in
+(GTPase-independentfunction). IRGM-depletedTHP-1cellscomparedtocontrolcells(Figures
+Nex
+
+Chunk 28:
+st that IRGM controls two distinct roptoticcellsandstainsbothofthem.Inflowcytometryexperi-
+mechanisms, autophagic degradation of NLRP3 (GTPase- ments,onexposureofinflammatorythreats,boththeapoptotic
+dependentfunction)andinhibitionofoligomerizationofNLRP3 and pyroptotic populations were increased considerably in
+(GTPase-independentfunction). IRGM-depletedTHP-1cellscomparedtocontrolcells(Figures
+Next,weperformedseveralexperimentstoparseouttherela- 6A–6G, S6A, and S6B). These results suggest that IRGM pro-
+tivecontribution ofthesetwomechanismsininhibitingNLRP3 tects the cells from inflammation-induced cell death. In the
+inflammasome activation. We observed that the treatment of lactatedehydrogenase(LDH)releaseassays,therewasasignif-
+3-MA (an autophagy inhibitor) results in increased inflamma- icantincreaseintheLDHamountinsupernatantcollectedfrom
+somes (ASC specks) numbers and IL-1b secretion compared LPS-andDAMP-treatedIRGM-depletedTHP-1cellscompared
+totheuntreatedTHP-1cellssuggestingthatautophagyreduces to the control cells (Figure S6C). Similar results were obtained
+theNLRP3inflammasomeformationandactivation(Figures5G usingatrypanblueexclusionassaythataccessestheintegrity
+and5HandS5K).WefoundthatknockdownofIRGMinduces ofthecellmembraneduringcelldeath(FigureS6D).
+significantlymoreASCspecksformationandalsoIL-1bsecre- Recent studies identified Gasdermin D (GSDMD) as an
+tionascomparedtothe3-MA-treatedTHP-1cells(Figures5G effectorproteinforpyroptosis(Liuetal.,2016;Shietal.,2015).
+and5H).ThesedataindicatethatIRGM-mediatedsuppression In agreement with caspase-1 cleavage data presented in Fig-
+of inflammasomes includes mechanisms more than auto- ure1,thecleavageofGSDMDwasincreasedinIRGM-depleted
+phagy-mediated degradation. The 3-MA-treated IRGM knock- cellscomparedtothecontrolcells(Figure6H).Inagreementwith
+down cells showed significantly higher ASC speck formation flow cytometry data, apoptosis was also increased in IRGM
+and IL-1b secretion than 3-MA-treated control cells (
+
+Chunk 29:
+ted in Fig-
+of inflammasomes includes mechanisms more than auto- ure1,thecleavageofGSDMDwasincreasedinIRGM-depleted
+phagy-mediated degradation. The 3-MA-treated IRGM knock- cellscomparedtothecontrolcells(Figure6H).Inagreementwith
+down cells showed significantly higher ASC speck formation flow cytometry data, apoptosis was also increased in IRGM
+and IL-1b secretion than 3-MA-treated control cells (Figures knockdown cells compared to control cells as clear from the
+5Gand5H)suggestingthat,inadditiontoautophagy-mediated enhanced PARP1 (Poly [ADP-ribose] polymerase 1) cleavage
+suppression,theIRGM-mediatedinhibitionofoligomerizationof (Figure 6I). Taken together, our data show that IRGM protects
+inflammasomes may play a significant role in suppressing cellsfrominflammation-inducedcelldeath.
+NLRP3inflammasomes.Similarresultswereobtainedwhense- Next, we blocked the caspase’s activity using the pan-cas-
+lectiveautophagicdegradationofinflammasomewasinhibited pase inhibitor z-VAD-FMK orselective caspase-1 inhibitor Ac-
+byknockingdownofp62inIRGM-depletedTHP-1cells(Figures YVAD-CMK to determine whether the inflammatory cell death
+5Iand5J).Next,inHEK293Tinflammasomereconstitutionsys- observed in IRGM-depleted cells is caspase dependent or
+tem,theoverexpressionofIRGMreducescaspase-1cleavage independent. Theresults(both byflowcytometry andwestern
+(Figures 5K and 5L cf. lane 1 and 2 in SE) and also the IL-1b blotting) show that z-VAD-FMK and Ac-YVAD-CMK can block
+secretion(Figure5M).Theinhibitionofautophagy(usingchloro- pyroptosis and also can reduce apoptosis induced by IRGM
+quine or ATG5 knockdown) in IRGM-overexpressing cells depletion (Figures 6J–6N) suggesting that IRGM suppresses
+increasedthecaspase-1cleavageandalsoIL-1bsecretionbut caspase-1-dependentinflammatorycelldeath.
+tolesserextentthanautophagy-inhibitedcontrolcells(Figures
+5Kand5L,cf.lane4with3inlongexposure[L.E.],Figure5M) MouseIrgm1SuppressestheGutInflammationby
+suggesting yet again that IRGM mediates suppression of 
+
+Chunk 30:
+knockdown) in IRGM-overexpressing cells depletion (Figures 6J–6N) suggesting that IRGM suppresses
+increasedthecaspase-1cleavageandalsoIL-1bsecretionbut caspase-1-dependentinflammatorycelldeath.
+tolesserextentthanautophagy-inhibitedcontrolcells(Figures
+5Kand5L,cf.lane4with3inlongexposure[L.E.],Figure5M) MouseIrgm1SuppressestheGutInflammationby
+suggesting yet again that IRGM mediates suppression of InhibitingtheNLRP3InflammasomeActivation
+NLRP3 inflammasome by at least two distinct mechanisms AlthoughhumanIRGMandmouseIrgm1possessbiochemical
+discoveredhere. differences,theyhavebeenfoundtohaveoverlappingfunctions,
+Figure5. BothAutophagyandInflammasomeAssemblyDefectTriggeredbyIRGMLeadstoInhibitionofNLRP3InflammasomeActivation
+(AandB)AnalysisofregulationofautophagyfluxincontrolandIRGMknockdownTHP-1cellsstimulatedwithLPS(1mg/mL,3hr)or(A)LPS+ATP(5mM,60min)
+or(B)LPS+nigericin(5mM,15min)withorwithoutBafilomycinA1(300nM,3hr).
+(CandD)WesternblottinganalysisoftheDSScross-linkedinsolubleandsolublefractionofHEK293Tcellsexpressing(C)FLAG-ASCor(D)FLAG-NLRP3and
+GFPorGFP-IRGMinabsenceorpresenceofchloroquine(50mM,5hr).
+(EandF)CoIPanalysisofinteractionbetween(E)myc-ASCandHA-ASCor(F)GFP-NLRP3andFLAG-NLRP3intheabsenceandpresenceofGFP-IRGMin
+HEK293Tcellstreatedoruntreatedwithchloroquine(50mM,5hr).
+(G–J)Averagenumberof(GandI)ASCspecksor(HandJ)secretedIL-1bfromTHP-1GFP-ASCstablecellstransfectedwithcontrolandIRGMsiRNAand
+stimulatedwithLPS+nigericin,intheabsenceandpresenceof(GandH)3-MA(10mM,3hr)or(IandJ)p62siRNA(n=3,mean±SD,*p%0.05,**p%0.005,
+***p%0.0005,Student’sunpairedttest).
+(K–M)HEK293TcellstransfectedwithNLRP3,HA-ASC,caspase-1,pro-IL-1b,GFP-IRGM,andGFPfor30hrand(KandM)treatedwithchloroquinefornext6hr
+or(L)transfectedwithATG5siRNA.(KandL)Thecelllysatesweresubjectedtowesternblottingand(M)supernatantusedinELISAtomeasureIL-1b.(n=3,
+mean±SD,*p%0.05,**p%0.005,Student’sunpairedttest).
+S.E.,shortexposure;L.E.,longexposure.SeealsoFiguresS4andS5.
+MolecularCell73,429–445,February7,2019 439
+
+---PAGE
+
+Chunk 31:
+fectedwithNLRP3,HA-ASC,caspase-1,pro-IL-1b,GFP-IRGM,andGFPfor30hrand(KandM)treatedwithchloroquinefornext6hr
+or(L)transfectedwithATG5siRNA.(KandL)Thecelllysatesweresubjectedtowesternblottingand(M)supernatantusedinELISAtomeasureIL-1b.(n=3,
+mean±SD,*p%0.05,**p%0.005,Student’sunpairedttest).
+S.E.,shortexposure;L.E.,longexposure.SeealsoFiguresS4andS5.
+MolecularCell73,429–445,February7,2019 439
+
+---PAGE BREAK---
+
+B C
+20 18
+16
+14
+12
+10
+8
+6
+4
+2 0
+F
+)%( sllec evitisop
+IP
+)%( sllec evitisop
+IP
+)%(
+sllec
+evitisop
+IP
+)%(
+sllec
+evitisop
+IP
+Control-siRNA Control-siRNA
+IRGM-siRNA IRGM-siRNA
+25 ***
+20
+15
+10
+5
+LPS - - + + + + 0 Nigericin - - - - + +
+Control-siRNA
+Control-siRNA IRGM-siRNA
+IRGM-siRNA
+L M P S S U - - - - + - - + + + + + + - + - L M P S S U - - - - + - + - + + + + + - + -
+Cholesterol- - - - - - + + C cr h y o st le a s l terol- - - - - - + +
+crystal Control-siRNA Control-siRNA IRGM-siRNA IRGM-siRNA
+Control-siRNA 25 IRGM-siRNA
+20
+15
+10 5
+0
+IP+V-nixennA )%( sllec evitisop
+elbuod
+IP+V-nixennA
+)%(
+sllec
+evitisop
+elbuod
+IP+V-nixennA )%( sllec evitisop
+elbuod
+A
+*
+LPS - - + + + + Nigericin - - - - + +
+D E
+8 30 *** 7 * 25 * 6 * 20 *** 5 15 4
+3 10
+2 5
+1
+0
+0
+G
+J Control-siRNA IRGM-siRNA *** 30
+25
+20
+15
+# 10 5
+0 LPS+ Nigericin - + + - + +
+Z-VAD-FMK - - + - - +
+IP+V-nixennA
+)%(
+sllec
+evitisop
+elbuod
+11..6644 5.88
+3.91
+25 20 * * 18 20 16 14 15 12
+10 10 8 6 5 4
+2 LP 0 S - - + + + + L 0 PS - - + + + +
+ATP - - - - + + ATP - - - - + +
+L
+K * *
+LPS+ Nigericin - + + - + +
+Z-VAD-FMK - - + - - +
+edidoI
+muidiporP
+Annexin V-FITC
+3.25 10.8
+4.13
+edidoI muidiporP
+Annexin V-FITC 5.07 11.2
+3.05
+edidoI muidiporP
+Annexin V-FITC
+edidoI
+muidiporP
+3.0 10.5
+4.45
+Annexin V-FITC
+edidoI muidiporP 2.96 20.09
+9.5
+Annexin V-FITC edidoI muidiporP 18.45 23.38
+7.27
+Annexin V-FITC
+edidoI
+muidiporP
+3.87 5.32
+4.18
+Annexin V-FITC
+edidoI
+muidiporP
+12.12 9.34
+3.39
+Annexin V-FITC
+edidoI
+muidiporP
+5.94 8.94
+4.36
+Annexin V-FITC
+edidoI
+muidiporP
+3.17 5.82
+12.06
+Annexin V-FITC
+edidoI
+muidiporP
+29.07 22.14
+11.58
+Annexin V-FI
+
+Chunk 32:
+iporP
+Annexin V-FITC
+edidoI
+muidiporP
+3.0 10.5
+4.45
+Annexin V-FITC
+edidoI muidiporP 2.96 20.09
+9.5
+Annexin V-FITC edidoI muidiporP 18.45 23.38
+7.27
+Annexin V-FITC
+edidoI
+muidiporP
+3.87 5.32
+4.18
+Annexin V-FITC
+edidoI
+muidiporP
+12.12 9.34
+3.39
+Annexin V-FITC
+edidoI
+muidiporP
+5.94 8.94
+4.36
+Annexin V-FITC
+edidoI
+muidiporP
+3.17 5.82
+12.06
+Annexin V-FITC
+edidoI
+muidiporP
+29.07 22.14
+11.58
+Annexin V-FITC
+edidoI
+muidiporP
+Control siRNA IRGM siRNA
+Control
+LPS
+LPS+
+Nigericin
+Control siRNA IRGM siRNA
+6.72 15.88
+11.19
+Annexin V-FITC
+niciregiN+SPL
+lortnoC
+niciregiN+SPL
+KMF-DAV-Z+
+H Control I s R iR G N M A C si o R n N tr A ol I s R iR G N M A siRNA I LPS Gasder min D +N
+C
+ig
+l
+e
+e IR
+r
+a
+i F c
+v G
+u i
+e
+n
+M
+l
+d
+l - - + + kD
+2 2
+5 3 a
+5 5
+0 7 LPS+Ni
+P A R P1
+geric
+k 1 D 0
+i
+a 0
+n C - ontrol I s - R iR G N M A + C si o R n N tr A + ol I s R iR G N M A
+C
+s
+F
+iR
+l u e
+N
+l a l
+A
+ved Actin Actin
+37 37 THP-1
+M N
+Control siRNA IRGM siRNA Control siRNA IRGM siRNA
+LPS+Nigericin- + + - + + LPS+Nigericin - + + - + +
+z-VAD-FMK - - + - - + Ac-YVAD-cmk - - + - - +
+er
+mi n
+D kDa 5
+3
+0
+7
+Full
+mi n
+D
+C
+Fu
+l
+(
+e
+S
+ll
+a
+.E
+ve
+)
+d G as d 25 Cleaved G as d er (L.E)
+Full (S.E) 1 100 Cleaved P R
+P A 100 C F l u e l a l ved (L.E) IRGM
+25 IRGM Actin
+Actin
+37
+THP-1
+1PRAP
+kDa 50
+37
+25 50 Full 37
+Cleaved 25 Full
+100 Cleaved
+25
+37
+THP-1
+(legendonnextpage)
+440 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+particularlyasrelatedtoinnateimmunityandautophagy.Given thepresenceofMCC950(Figures7H–7J,S7F,andS7G).Atmo-
+the role of IRGM in inflammatory bowel disease (IBD) and lecularlevels,incolontissues,theincreasedamountofinflam-
+Crohn’s, we utilized the dextran-sulfate (DSS)-induced colitis masomecomponents(Nlrp3,ASCmonomers,anddimers)and
+model to investigate the role of Irgm1 in Nlrp3 inflammasome also the enhanced inflammasome activity as measured by
+activation.Irgm1(cid:1)/(cid:1)micehavepreviouslybeenshowntoexhibit cleavedcaspase-1bywesternblot(Figure7K)andfluorescent
+enhancedinflammationfollowing
+
+Chunk 33:
+easedamountofinflam-
+Crohn’s, we utilized the dextran-sulfate (DSS)-induced colitis masomecomponents(Nlrp3,ASCmonomers,anddimers)and
+model to investigate the role of Irgm1 in Nlrp3 inflammasome also the enhanced inflammasome activity as measured by
+activation.Irgm1(cid:1)/(cid:1)micehavepreviouslybeenshowntoexhibit cleavedcaspase-1bywesternblot(Figure7K)andfluorescent
+enhancedinflammationfollowingDSSadministration(Liuetal., caspase-1 cleavage assay (Figure 7L) in Irgm1(cid:1)/(cid:1) mice were
+2013).Consistentwiththisreport,wefoundherethattheadmin- reversedbyMCC950treatment.Next,weisolatedtheBMDMs
+istrationofDSSledtodecreasedbodyweightandcolonlength from these mice and induced the inflammasome (using LPS+
+in Irgm1(cid:1)/(cid:1) mice relative to those responses in littermate nigericin)intheabsenceandpresenceofMCC950.Again,the
+Irgm1+/+ mice (Figures S7A–S7D). Like in human colon cells, data show that inactivation of Nlrp3 by MCC950 considerably
+the expression of IL-1b, TNF-a, and IL-18 was significantly reducedtheenhancedinflammasomeactivityinIrgm1(cid:1)/(cid:1)mice
+increasedinDSS-treatedIrgm1(cid:1)/(cid:1)comparedtoIrgm1+/+mice as measured by fluorescent caspase-1 cleavage assay (Fig-
+(Figure 7A). Next, we scrutinized the expression of inflamma- ure7M)andwesternblotting(Nlrp3,ASCdimer,andcaspase-1
+some components. In untreated mice, Nlrp3 expression was cleavage) (Figure 7N). Next, we used a genetic approach to
+increased in Irgm1(cid:1)/(cid:1) mice compared to Irgm1+/+ mice (Fig- determine whether enhanced inflammasome activation in
+ure 7B); however, expression of ASC was not different (Fig- Irgm1(cid:1)/(cid:1) mice BMDMs is because of increased activation of
+ure7B).InDSS-treatedmice,theexpressionofbothNlrp3and the Nlrp3/ASC inflammasome. In LPS+nigericin-stimulated
+ASC in bone-marrow-derived macrophages and colon was BMDMs, the increased caspase-1 cleavage (Figures 7O and
+moreinIrgm1(cid:1)/(cid:1)micecomparedtoIrgm1+/+mice(Figures7C S7H)andtheIL-1bsecretion(Fi
+
+Chunk 34:
+s not different (Fig- Irgm1(cid:1)/(cid:1) mice BMDMs is because of increased activation of
+ure7B).InDSS-treatedmice,theexpressionofbothNlrp3and the Nlrp3/ASC inflammasome. In LPS+nigericin-stimulated
+ASC in bone-marrow-derived macrophages and colon was BMDMs, the increased caspase-1 cleavage (Figures 7O and
+moreinIrgm1(cid:1)/(cid:1)micecomparedtoIrgm1+/+mice(Figures7C S7H)andtheIL-1bsecretion(Figures7PandS7H)inIrgm1(cid:1)/(cid:1)
+and7D).Also,ASColigomerizationwasconsiderablyhigherin mice BMDMs was blunted when Nlrp3 was depleted in these
+Irgm1(cid:1)/(cid:1) mice compared to Irgm1+/+ mice (Figures 7C and cellsusingsiRNA.
+7D). In a cross-linking experiment with bone marrow-derived Taken together, several lines of evidence suggest that
+macrophages (BMDMs), both ASC and Nlrp3 oligomerization NLRP3activationistheprimaryfactorbehindenhancedinflam-
+was found to be increased in Irgm1(cid:1)/(cid:1) mice compared masomeactivityinIRGM-depletedcells,andalsotheactivation
+Irgm1+/+mice(Figures7EandS7E;STARMethods).Underin- of NLRP3 inflammasome is one of the major reasons for
+flammasome-inducingconditions,theactivecaspase-1amount exacerbated outcomes of DSS-induced colitis in the Irgm1
+was significantly higher in Irgm1(cid:1)/(cid:1) mice compared to control knockoutmice.WeconcludethattheIRGM/Irgm1suppresses
+Irgm1+/+ mice (Figure 7F). Similar to human cell lines studies, the NLRP3 inflammasome to keep the gut inflammation un-
+thebasalautophagyandalsotheLPS-inducedautophagyflux dercheck.
+in BMDMs were dependent on the expression of Irgm1 (Fig-
+ure7G).Altogether,thedatashowthatIrgm1,likeitshumanor- DISCUSSION
+tholog,suppressestheactivationoftheNLRP3inflammasome
+byinhibitingitsassemblyandbyincreasingautophagy. In landmark genome-wide association studies conducted by
+Next, we analyzed whether increased Nlrp3 inflammasome Wellcome Trust Case Control Consortium to understand the
+activation is the cause for exacerbated outcomes of DSS- genetic determinants of inflammatory diseases, 
+
+Chunk 35:
+keitshumanor- DISCUSSION
+tholog,suppressestheactivationoftheNLRP3inflammasome
+byinhibitingitsassemblyandbyincreasingautophagy. In landmark genome-wide association studies conducted by
+Next, we analyzed whether increased Nlrp3 inflammasome Wellcome Trust Case Control Consortium to understand the
+activation is the cause for exacerbated outcomes of DSS- genetic determinants of inflammatory diseases, SNPs in the
+induced colitis in Irgm1 knockout mice. MCC950 is the most IRGMlocuswerefoundtobestronglyassociatedwithCrohn’s
+potentandthemostspecificsmall-moleculeinhibitorofactiva- disease (Wellcome Trust Case Control, 2007; Craddock et al.,
+tion of NLRP3 known to date (Coll et al., 2015; Strangward 2010). Later, several studies showed similar genetic linkages
+etal.,2018;Yaoetal.,2018).Weinvestigatedwhetherselective of IRGM with Crohn’s disease and other inflammatory and
+pharmacologic blockade of the Nlrp3 inflammasome using autoimmune diseasesindifferent populationsworldwide (Bas-
+MCC950wouldreducethecolitissymptomsinIrgm1(cid:1)/(cid:1)mice. karan et al., 2014; Glas et al., 2013; Li et al., 2014; McCarroll
+Indeed, we found that all the intensified outcomes of DSS- et al., 2008; Xia et al., 2017; Yang et al., 2014). Most of these
+induced colitis in the Irgm1 knockout mice were reversed in studies suggested a protective role of IRGM against the
+Figure6. IRGMProtectsfromCaspase-DependentInflammatoryCellDeath
+(AandB)FlowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPS(1mg/mL,3hr)andnigericin(5mM,30min).Bar
+graphsshowpercentageof(A)PIpositiveor(B)AnnexinV/PIdouble-positivecells.
+(C)RepresentativedotplotshowingflowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPSandnigericin.
+(D–G)FlowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPS,MSU,cholesterolcrystal,andATPasindicated.Bar
+graphshowingpercentageof(DandF)PIpositiveand(EandG)AnnexinV/PIdouble-positivecells.
+(HandI)ThecontrolandIRGMsiRNA-trans
+
+Chunk 36:
+Idouble-positivecells.
+(C)RepresentativedotplotshowingflowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPSandnigericin.
+(D–G)FlowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPS,MSU,cholesterolcrystal,andATPasindicated.Bar
+graphshowingpercentageof(DandF)PIpositiveand(EandG)AnnexinV/PIdouble-positivecells.
+(HandI)ThecontrolandIRGMsiRNA-transfectedTHP-1cellstreatedwithLPSandnigericinweresubjectedtoimmunoblotanalysiswith(H)GasderminDor(I)
+PARP1andactinantibodies.
+(JandK)FlowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPS,nigericin,andZ-VAD-FMK(5mM,30min)as
+indicated.Bargraphshowingthepercentageof(J)PIpositiveand(K)AnnexinV/PIdouble-positivecells.
+(L)RepresentativedotplotisshowingflowcytometryanalysisofcontrolandIRGMsiRNAknockdowncellsuntreatedortreatedwithLPSandnigericinandZ-VAD
+FMKasdepicted.
+(MandN)WesternblotanalysisofcontrolandIRGMknockdownTHP-1cellsuntreatedortreatedwithLPS,nigericin,and(M)Z-VAD-FMKor(N)Ac-YVAD-cmk.
+Unlessotherwisestated,n=3,mean±SD,*p%0.05**p%0.005,***p%0.0005,#insignificant,Student’sunpairedttest).S.E.,shortexposure;L.E.,long
+exposure.SeealsoFigureS6.
+MolecularCell73,429–445,February7,2019 441
+
+---PAGE BREAK---
+
+3 ** 2.5
+2 **
+1.5
+1
+0.5
+0
+BMDM
+1esapsaCevitcA
+)egnahc
+dlof(
+A C D
+F G *
+LPS - + + - + + Nigericin - - + - - +
+Irgm1 +/+ Irgm1 -/- Irg + m M 1 -/ C - C95 Ir 0 gm1 +/+ Irgm1 -/- Irg + m M 1 -/ C - C950
+Mice#1 Mice#2
+DSS (2%)
+)%(
+thgieW
+ydoB
+-/- Irgm1 +MCC950
+DSS (2%)
+6 5
+4
+3
+2
+1
+0
+DSS (2%)
+)mc(
+htgneL
+noloC
+H 140
+130
+120 * ** ** 110
+100
+90
+80
+0 1 23 4 5 6 7 8
+K Mice#1 Mice#
+M
+2 ice#1 Mice#
+M
+2 ice#1 Mice#2
++ + - - - - I J - - + + + + L MCC950 - - - - + + kDa 100 NLRP3 ** * 25 ASC monomer (S.E)
+50 ASC dimer
+37
+25 ASC monomer (L.E)
+50 Caspase-1
+37
+25
+M N 20 Colon
+15 Cleaved Caspase-1
+10
+Actin 37
+IRGM1 37
+Colon
+O P
+1esapsaCevitcA
+)egnahc
+dlof(
+1esapsaCevitcA
+)egnahc
+dlof(
+2.0 1.8 ****** 1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+4.0 *
+3.5 ***
+3.0
+2.5
+2.0 1.5 1.0 
+
+Chunk 37:
+ Mice#1 Mice#
+M
+2 ice#1 Mice#
+M
+2 ice#1 Mice#2
++ + - - - - I J - - + + + + L MCC950 - - - - + + kDa 100 NLRP3 ** * 25 ASC monomer (S.E)
+50 ASC dimer
+37
+25 ASC monomer (L.E)
+50 Caspase-1
+37
+25
+M N 20 Colon
+15 Cleaved Caspase-1
+10
+Actin 37
+IRGM1 37
+Colon
+O P
+1esapsaCevitcA
+)egnahc
+dlof(
+1esapsaCevitcA
+)egnahc
+dlof(
+2.0 1.8 ****** 1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+4.0 *
+3.5 ***
+3.0
+2.5
+2.0 1.5 1.0 0.5
+0.0
+LPS+ - + - + - + Nigericin BMDM
+1esapsaCevitcA
+)egnahc
+dlof(
+)lm/gp(
+β1-LI
+2.5 I I r r g g m m * 1 1 + -/ / - + 1 1 . . 4 6 I I r r g g m m * 1 1 + -/ / - + I I r r g g m m 1 1 + -/ / - + I I r r g g m m 1 1 + -/ / - + I I r r g g m m 1 1 + -/ / - + I I r r g g m m 1 1 + -/ / - + 2 1.2
+1.5 1 0.8
+1 0.6 0.4 0.5 0.2
+0 0
+IL-1β TNF-α IL-18 DSS-colitis model (Colon)
++/+ I I r r g g m m 1 1 -/- Irgm1 + -/ / - + Irgm1
++/+ Irgm1 + -/ / - + I I r r g g m m 1 1 -/- Irgm1 + -/ / - + I I r r g g m m 1 1 -/- +MCC950 I I r r g g m m 1 1 -/- +MCC950
++/+
+Irgm1 -/-
+Irgm1-/- Irgm1 +MCC950
+# 2.5 ** # *** 2500 ** ***
+2 2000
+1.5 1500
+1 1000
+0.5 500
+L N P ig S ericin 0 - - + + + + - - + + + + L N P ig S ericin 0 - - + + + + - - + + + + Control-siRNA + + - + + - Control-siRNA + + - + + -
+NLRP3-siRNA - - + - - + NLRP3-siRNA- - + - - +
+BMDM BMDM
+noitcudnI
+dloF
+ANRm
+noitcudnI
+dloF
+ANRm
+noitcudnI
+dloF
+ANRm
+B
+-DSS +DSS +DSS Mice#1 Mice#2 Mice#1 Mice#2 Mice#1 Mice#2 1 2 .8 * + - + - + - + - + - + - + - + - + - + - + - + - 1 1 . . 4 6 1 kD 00 a NLRP3 1 k 0 D 0 a NLRP3 1 kD 00 a NLRP3
+1.2 1 50 ASC dimer 25 ASC monomer
+0.8 50 ASC dimer 37 S.E 0 0 0 . . . 2 4 6 37 25 A S S .E C monomer 50 ASC dimer
+0 25 A m S o C no mer 50 ASC dimer 37 L.E
+37 Actin 37 L.E 25 ASC monomer
+BMDM Actin
+25 ASC monomer 37
+Colon
+Actin
+37
+E BMDM Mice#1 Mice#2 L N P ig S ericin - - + - + + - - + - + + Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /-
+ASC Oligomer L B P a S filomycin A1 - - - - + - + - + - + - + + + +
+ASC dimer kDa LC3B-I 15 LC3B-II
+ASC monomer Actin
+37
+ASC
+
+Chunk 38:
+ S o C no mer 50 ASC dimer 37 L.E
+37 Actin 37 L.E 25 ASC monomer
+BMDM Actin
+25 ASC monomer 37
+Colon
+Actin
+37
+E BMDM Mice#1 Mice#2 L N P ig S ericin - - + - + + - - + - + + Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /- Irg m + 1 /+ Irg m - 1 /-
+ASC Oligomer L B P a S filomycin A1 - - - - + - + - + - + - + + + +
+ASC dimer kDa LC3B-I 15 LC3B-II
+ASC monomer Actin
+37
+ASC monomer 37 IRGM1
+Actin BMDM
+BMDM
++/+ +/+ Irgm1-/- Irgm1-/- Irgm1 Irgm1
+elbulosnI
+)deknilssorc(
+elbuloS
++/+ -/- Irgm1 Irgm1 kDa
+215500 100 75
+50
+37
+25
+25
+37
++/+ Irgm1 + + - - - -
+-/- Irgm1 - - + + + +
+MCC950 - - - - + +
+LPS+ Nigericin- + - + - +
+kDa 100 NLRP3
+25 ASC -
+monomer
+50 ASC dimer 37 ASC- 25 monomer
+3 5 7 0 Caspase-1
+25 20
+*
+15 Cleaved
+10 Caspase-1
+Actin
+37
+IRGM1 37 BMDM
+Figure7. Irgm1SuppressesColitisviaInhibitionofNLRP3Inflammasome
+(A)TheqPCRanalysisfromthetotalRNAisolatedfromcolonofDSS-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)knockoutmice(n=3,mean±SE,*p<0.05,Student’s
+unpairedttest).
+(legendcontinuedonnextpage)
+442 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+inflammatory diseases; however, none of the studies revealed similar reasons, understanding the protective nature of IRGM
+themechanism(s). inhumaninflammatorydiseasesiscrucial.Thisstudydelineates
+This study defined the mechanism by which IRGM/Irgm1 both.ThetherapeuticstrategiestoincreaseIRGMactivityortar-
+regulates cellular inflammation in immune and gut epithelial getingtheIRGM-NLRP3interactioncouldbeusefulfortreating
+cells (Figure S7I). We found here that IRGM suppresses IRGM-andNLRP3-associateddiseases.
+IL-1b production by limiting the activation of the NLRP3 in-
+flammasome (Figure S7I). Remarkably, IRGM performs this STAR+METHODS
+function by complexing directly with inflammasome compo-
+nents including NLRP3 and ASC. By binding to the oligomer-
+Detailedmethodsareprovidedintheonlineversionofthispaper
+izationdomain(NACHT)ofNLRP3,itimpedestheoligomeriza-
+andincludethefollowing:
+tion of NLRP3. IRGM 
+
+Chunk 39:
+
+IL-1b production by limiting the activation of the NLRP3 in-
+flammasome (Figure S7I). Remarkably, IRGM performs this STAR+METHODS
+function by complexing directly with inflammasome compo-
+nents including NLRP3 and ASC. By binding to the oligomer-
+Detailedmethodsareprovidedintheonlineversionofthispaper
+izationdomain(NACHT)ofNLRP3,itimpedestheoligomeriza-
+andincludethefollowing:
+tion of NLRP3. IRGM also hinders polymerization of ASC
+protein (Figure S7I), which is a key event for activation of d KEYRESOURCESTABLE
+inflammasome (Cai et al., 2014; Lu et al., 2014). Previous B CellCulture
+studiesdemonstratedtheroleofautophagyprocessinlimiting B Isolation of human peripheral blood mononuclear
+theIL-1bproduction,andoneofthemechanismswasbyde- cells(PBMCs)
+grading the inflammasome and its components in a p62- B PlasmidConstructsandTransfection
+dependent manner (Shi et al., 2012). Here, we found that B TransienttransfectionwithsiRNA
+IRGM is a key player in mediating p62-dependent selective B Transienttransfectionwithplasmids
+autophagyofNLRP3andASC(FigureS7I).Thus,IRGMlimits B Enzyme-linkedimmunosorbentassay(ELISA)
+IL-1b production by two mechanisms: (1) by interfering in the B BacterialInfections
+assembly of the inflammasome and (2) by mediating auto- B ASCOligomerizationAssay
+phagy of inflammasome. In the inflammatory bowel disease B WesternBlotting
+experimental mice model, Irgm1 suppresses the colitis by in- B Antibodiesanddilution
+hibiting the NLRP3 inflammasome. Taken together, this work B Co-Immunoprecipitation
+revealed IRGM-mediated anti-inflammatory immune homeo- B GSTpull-downassay
+stasismechanismbywhichIRGMcouldbeprotectiveagainst B ImmunofluorescenceAnalysis
+inflammatory diseases. B Cycloheximidechaseassay
+Ascomparedtohumans,whereIRGMisalonememberofthe B Macrophagedifferentiationandstimulation
+IRGfamily,micehave20morehomologsofIrgm1,presumably B Chloroform-methanolproteinprecipitation
+providingthecompensationwhentheIrgm1isknockoutinthe B Annexin-V/PropidiumIodidestain
+
+Chunk 40:
+ssay
+stasismechanismbywhichIRGMcouldbeprotectiveagainst B ImmunofluorescenceAnalysis
+inflammatory diseases. B Cycloheximidechaseassay
+Ascomparedtohumans,whereIRGMisalonememberofthe B Macrophagedifferentiationandstimulation
+IRGfamily,micehave20morehomologsofIrgm1,presumably B Chloroform-methanolproteinprecipitation
+providingthecompensationwhentheIrgm1isknockoutinthe B Annexin-V/PropidiumIodidestaining
+mice. Although human IRGM and mice Irgm1 are of different B Caspase-1inhibitionAssay
+size(21versus47kDa),theyarestrikinglysimilarintheregulation B SolubleandInsolubleproteinsfractionation
+ofautophagyandinflammation. B RNAIsolationandQuantitativeReal-timePCR
+The dysregulated NLRP3 inflammasome has been linked to B Caspase1activitymeasurementassay
+the pathogenesis of several inflammatory diseases including B Miceexperiments
+gout, type 2 diabetes, cancer, cardiovascular diseases, Alz- B Mice Bone marrow cells isolation and differentiation
+heimer’s,Parkinson’s,andpriondiseases(Alcocer-Go´mezand intomacrophages
+Cordero,2017;Leeetal.,2013;Songetal.,2017).Also,muta- d DATAANDSOFTWAREACCESSIBILITY
+tionsintheNLRP3genehavebeenlinkedwitharangeofdomi-
+nantly inherited auto-inflammatory diseases (Masters et al.,
+SUPPLEMENTALINFORMATION
+2009).Therefore,itisofhighimportancetothemedicalscience
+to understand the mechanisms by which the cell restrains the SupplementalInformationincludessevenfiguresandcanbefoundwiththis
+activation of NLRP3 inflammasome and IL-1b production. For articleonlineathttps://doi.org/10.1016/j.molcel.2018.11.018.
+(BandC)WesternblotanalysiswithBMDMlysatesfrom(B)untreatedor(C)DSS-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)knockoutmicewithindicatedantibodies.
+(D)WesternblotanalysiswithcolonlysatesfromDSS-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(E)Westernblottinganalysisofcross-linkedinsolubleandsolublecellfractionfromLPS-andnigericin-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)BMDMs.
+(F)Thequantificationofactivatedcaspase-1(FLICAassay)inLPS-andnigericin-treatedIrgm1+/+andIr
+
+Chunk 41:
+(C)DSS-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)knockoutmicewithindicatedantibodies.
+(D)WesternblotanalysiswithcolonlysatesfromDSS-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(E)Westernblottinganalysisofcross-linkedinsolubleandsolublecellfractionfromLPS-andnigericin-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)BMDMs.
+(F)Thequantificationofactivatedcaspase-1(FLICAassay)inLPS-andnigericin-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)BMDMlysates.
+(G)WesternblottinganalysisfromLPS-andBafilomycinA1-treatedIrgm1+/+andIrgm1(cid:1)/(cid:1)BMDMcelllysates.
+(H)GraphdepictingthepercentageofchangeinbodyweightduringthecourseofDSStreatment.
+(I)RepresentativepicturesofcolonsofDSS-andMCC950-treatedand-untreatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(J)GraphdepictscolonlengthofDSS-andMCC950-treatedand-untreatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(K)WesternblotanalysisfromcolonlysatesofDSS-andMCC950-treatedand-untreatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(LandM)Thequantificationofactivatedcaspase-1(FLICAassay)in(L)colonlysatesofDSSandMCC950or(M)BMDMlysatesofLPS,nigericin,andMCC950
+(1mM)-treatedand-untreatedIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+(N)WesternblotanalysisfromofLPS,nigericin,andMCC950(1mM)-treatedor-untreatedBMDMcelllysatesfromIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.*Non-specific.
+(OandP)Quantificationofactivecaspase-1(caspase-1FLICAassay)(O)andsecretedIL-1b(ELISA)(P)inLPS-(100ng/mL,3hr)andnigericin-(5mM,15min)
+treatedNLRP3-depletedBMDMsfromIrgm1+/+andIrgm1(cid:1)/(cid:1)mice.
+S.E.,shortexposure;L.E.,longexposure.n=3,mean±SD,*p<0.05,**p<0.005,***p<0.0005,#insignificantStudent’sttestunpaired).SeealsoFigureS7.
+MolecularCell73,429–445,February7,2019 443
+
+---PAGE BREAK---
+
+ACKNOWLEDGMENTS mediatedbyselectiveautophagyreceptorp62topromoteinnateimmunere-
+sponses.Mol.Cell64,105–119.
+This work is funded by the Wellcome Trust/Department of Biotechnology
+Choi,A.J.,andRyter,S.W.(2014).Inflammasomes:Molecularregulationand
+(DBT)IndiaAlliance(IA/I/15/2/502071)fellowshiptoSantoshChauhan.Sub-
+implicationsformeta
+
+Chunk 42:
+reS7.
+MolecularCell73,429–445,February7,2019 443
+
+---PAGE BREAK---
+
+ACKNOWLEDGMENTS mediatedbyselectiveautophagyreceptorp62topromoteinnateimmunere-
+sponses.Mol.Cell64,105–119.
+This work is funded by the Wellcome Trust/Department of Biotechnology
+Choi,A.J.,andRyter,S.W.(2014).Inflammasomes:Molecularregulationand
+(DBT)IndiaAlliance(IA/I/15/2/502071)fellowshiptoSantoshChauhan.Sub-
+implicationsformetabolicandcognitivediseases.Mol.Cells37,441–448.
+hashMehto,andSwatiChauhanaresupportedbyafellowshipfromSERB
+Coll, R.C., Robertson, A.A., Chae, J.J., Higgins, S.C., Mun˜oz-Planillo, R.,
+(NPDF, PDF/2016/001697) and DST (SR/WOS-A/LS-9/2016), respectively.
+Inserra,M.C.,Vetter,I.,Dungan,L.S.,Monks,B.G.,Stutz,A.,etal.(2015).
+We acknowledge the technical assistance of Kshitish Rout, Paritosh Nath
+Asmall-moleculeinhibitoroftheNLRP3inflammasomeforthetreatmentofin-
+(FACS facility), and Bhabani Sahoo (Microscopy facility). We gratefully
+flammatorydiseases.Nat.Med.21,248–255.
+acknowledgethereagentsprovidedbyDr.VojoDeretic(UniversityofNew
+Mexico,US)andDr.TerjeJohansen(ThearcticuniversityofNorway,Norway) Craddock,N.,Hurles,M.E.,Cardin,N.,Pearson,R.D.,Plagnol,V.,Robson,S.,
+duringthecourseofstudy.WegratefullyacknowledgethesupportoftheInsti- Vukcevic, D.,Barnes,C.,Conrad,D.F.,Giannoulatou,E.,etal.;Wellcome
+tute of Life Sciences central facilities funded by Department of Biotech- Trust Case Control Consortium (2010). Genome-wide association study of
+nology(India). CNVsin16,000casesofeightcommondiseasesand3,000sharedcontrols.
+Nature464,713–720.
+AUTHORCONTRIBUTIONS Deretic,V.,andKlionsky,D.J.(2018).Autophagyandinflammation:Aspecial
+reviewissue.Autophagy14,179–180.
+SantoshChauhansecuredfunding,conceivedtheproject,designedexperi-
+ments,andwrotethemanuscript.S.M.,K.K.J.,P.N.,SwatiChauhan,S.P.K., Deretic,V.,Saitoh,T.,andAkira,S.(2013).Autophagyininfection,inflamma-
+S.K.D.,P.K.S.,andA.J.carriedouttheexperiments.G.A.T.providedcritical tionandimmunity.Nat.Rev.Immunol.13,722–737.
+inputsforexperimentsand
+
+Chunk 43:
+phagyandinflammation:Aspecial
+reviewissue.Autophagy14,179–180.
+SantoshChauhansecuredfunding,conceivedtheproject,designedexperi-
+ments,andwrotethemanuscript.S.M.,K.K.J.,P.N.,SwatiChauhan,S.P.K., Deretic,V.,Saitoh,T.,andAkira,S.(2013).Autophagyininfection,inflamma-
+S.K.D.,P.K.S.,andA.J.carriedouttheexperiments.G.A.T.providedcritical tionandimmunity.Nat.Rev.Immunol.13,722–737.
+inputsforexperimentsandeditedthemanuscript. Duncan, J.A., Bergstralh, D.T., Wang, Y., Willingham, S.B., Ye, Z.,
+Zimmermann, A.G., and Ting, J.P. (2007). Cryopyrin/NALP3 binds ATP/
+DECLARATIONOFINTERESTS dATP, is an ATPase, and requires ATP binding to mediate inflammatory
+signaling.Proc.Natl.Acad.Sci.USA104,8041–8046.
+Theauthorsdeclarenocompetinginterests.
+Fernandes-Alnemri,T.,Wu,J.,Yu,J.W.,Datta,P.,Miller,B.,Jankowski,W.,
+Rosenberg,S.,Zhang,J.,andAlnemri,E.S.(2007).Thepyroptosome:Asupra-
+Received:May4,2018
+molecularassemblyofASCdimersmediatinginflammatorycelldeathviacas-
+Revised:September19,2018
+pase-1activation.CellDeathDiffer.14,1590–1604.
+Accepted:November15,2018
+Published:January3,2019 Glas,J.,Seiderer,J.,Bues,S.,Stallhofer,J.,Fries,C.,Olszak,T.,Tsekeri,E.,
+Wetzke,M.,Beigel,F.,Steib,C.,etal.(2013).IRGMvariantsandsusceptibility
+REFERENCES to inflammatory bowel disease in the German population. PLoS ONE 8,
+e54338.
+Alcocer-Go´mez, E., and Cordero, M.D. (2017). NLRP3 inflammasome: Guo,H.,Callaway,J.B.,andTing,J.P.(2015).Inflammasomes:Mechanismof
+Commonnexusbetweendepressionandcardiovasculardiseases.Nat.Rev. action,roleindisease,andtherapeutics.Nat.Med.21,677–687.
+Cardiol.14,124.
+Henry, S.C., Daniell, X., Indaram, M., Whitesides, J.F., Sempowski, G.D.,
+Bafica,A.,Feng,C.G.,Santiago,H.C.,Aliberti,J.,Cheever,A.,Thomas,K.E., Howell,D.,Oliver,T.,andTaylor,G.A.(2007).Impairedmacrophagefunction
+Taylor, G.A., Vogel, S.N., and Sher, A. (2007). The IFN-inducible GTPase underscores susceptibility to Salmonella in mice lacking Irgm1 (LRG-47).
+LRG47(Irgm1)negativelyregulatesTLR4-triggeredproinflammatorycytokin
+
+Chunk 44:
+ Indaram, M., Whitesides, J.F., Sempowski, G.D.,
+Bafica,A.,Feng,C.G.,Santiago,H.C.,Aliberti,J.,Cheever,A.,Thomas,K.E., Howell,D.,Oliver,T.,andTaylor,G.A.(2007).Impairedmacrophagefunction
+Taylor, G.A., Vogel, S.N., and Sher, A. (2007). The IFN-inducible GTPase underscores susceptibility to Salmonella in mice lacking Irgm1 (LRG-47).
+LRG47(Irgm1)negativelyregulatesTLR4-triggeredproinflammatorycytokine J.Immunol.179,6963–6972.
+productionandpreventsendotoxemia.J.Immunol.179,5514–5522.
+Hunn, J.P., Feng, C.G., Sher, A., and Howard, J.C. (2011). The immunity-
+Baskaran,K.,Pugazhendhi,S.,andRamakrishna,B.S.(2014).Associationof
+related GTPases in mammals: A fast-evolving cell-autonomous resistance
+IRGMgenemutationswithinflammatoryboweldiseaseintheIndianpopula-
+systemagainstintracellularpathogens.Mamm.Genome22,43–54.
+tion.PLoSONE9,e106863.
+Jo,E.K.,Kim,J.K.,Shin,D.M.,andSasakawa,C.(2016).Molecularmecha-
+Brest, P., Lapaquette, P., Souidi, M., Lebrigand, K., Cesaro, A., Vouret-
+nisms regulating NLRP3 inflammasome activation. Cell.Mol. Immunol. 13,
+Craviari,V.,Mari,B.,Barbry,P.,Mosnier,J.F.,He´buterne,X.,etal.(2011).
+148–159.
+AsynonymousvariantinIRGMaltersabindingsiteformiR-196andcauses
+deregulation of IRGM-dependent xenophagy in Crohn’s disease. Nat. Kimura,T.,Jain,A.,Choi,S.W.,Mandell,M.A.,Schroder,K.,Johansen,T.,and
+Genet.43,242–245. Deretic,V.(2015).TRIM-mediatedprecisionautophagytargetscytoplasmic
+regulatorsofinnateimmunity.J.CellBiol.210,973–989.
+Burada,F.,Plantinga,T.S.,Ioana,M.,Rosentul,D.,Angelescu,C.,Joosten,
+L.A., Netea, M.G., and Saftoiu, A. (2012). IRGM gene polymorphisms and Kumar,S.,Jain,A.,Farzam,F.,Jia,J.,Gu,Y.,Choi,S.W.,Mudd,M.H.,Claude-
+riskofgastriccancer.J.Dig.Dis.13,360–365. Taupin,A.,Wester,M.J.,Lidke,K.A.,etal.(2018).MechanismofStx17recruit-
+menttoautophagosomesviaIRGMandmammalianAtg8proteins.J.CellBiol.
+Cai,X.,Chen,J.,Xu,H.,Liu,S.,Jiang,Q.X.,Halfmann,R.,andChen,Z.J.
+217,997–1013.
+(2014).Prion-likepolymerizationunderliessignaltransductioninantiviralim-
+muned
+
+Chunk 45:
+Kumar,S.,Jain,A.,Farzam,F.,Jia,J.,Gu,Y.,Choi,S.W.,Mudd,M.H.,Claude-
+riskofgastriccancer.J.Dig.Dis.13,360–365. Taupin,A.,Wester,M.J.,Lidke,K.A.,etal.(2018).MechanismofStx17recruit-
+menttoautophagosomesviaIRGMandmammalianAtg8proteins.J.CellBiol.
+Cai,X.,Chen,J.,Xu,H.,Liu,S.,Jiang,Q.X.,Halfmann,R.,andChen,Z.J.
+217,997–1013.
+(2014).Prion-likepolymerizationunderliessignaltransductioninantiviralim-
+munedefenseandinflammasomeactivation.Cell156,1207–1222. Lamkanfi,M.,andDixit,V.M.(2012).Inflammasomesandtheirrolesinhealth
+Chauhan,S.,Mandell,M.A.,andDeretic,V.(2015).IRGMgovernsthecore anddisease.Annu.Rev.CellDev.Biol.28,137–161.
+autophagymachinerytoconductantimicrobialdefense.Mol.Cell58,507–521. Lee, H.M., Kim, J.J., Kim, H.J., Shong, M., Ku, B.J., and Jo, E.K. (2013).
+Chauhan,S.,Kumar,S.,Jain,A.,Ponpuak,M.,Mudd,M.H.,Kimura,T.,Choi, UpregulatedNLRP3inflammasomeactivationinpatientswithtype2diabetes.
+S.W.,Peters,R.,Mandell,M.,Bruun,J.,etal.(2016).TRIMsandGalectins Diabetes62,194–204.
+Globally Cooperate and TRIM16 and Galectin-3 Co-direct Autophagy in Li,Y.,Feng,S.T.,Yao,Y.,Yang,L.,Xing,Y.,Wang,Y.,andYou,J.H.(2014).
+EndomembraneDamageHomeostasis.Dev.Cell39,13–27. CorrelationbetweenIRGMgeneticpolymorphismsandCrohn’sdiseaserisk:
+Che,N.,Li,S.,Gao,T.,Zhang,Z.,Han,Y.,Zhang,X.,Sun,Y.,Liu,Y.,Sun,Z., Ameta-analysisofcase-controlstudies.Genet.Mol.Res.13,10741–10753.
+Zhang,J.,etal.(2010).IdentificationofanovelIRGMpromotersinglenucleo- Liu, B., Gulati, A.S., Cantillana, V., Henry, S.C., Schmidt, E.A., Daniell, X.,
+tide polymorphism associated with tuberculosis. Clin. Chim. Acta 411, Grossniklaus, E., Schoenborn, A.A., Sartor, R.B., and Taylor, G.A. (2013).
+1645–1649. Irgm1-deficientmiceexhibitPanethcellabnormalitiesandincreasedsuscep-
+Chen,M.,Meng,Q.,Qin,Y.,Liang,P.,Tan,P.,He,L.,Zhou,Y.,Chen,Y., tibility to acute intestinal inflammation. Am. J. Physiol. Gastrointest. Liver
+Huang,J.,Wang,R.F.,andCui,J.(2016).TRIM14inhibitscGASdegradation Physiol.305,G573–G584.
+444 MolecularCell73,429–445,Feb
+
+Chunk 46:
+., Schoenborn, A.A., Sartor, R.B., and Taylor, G.A. (2013).
+1645–1649. Irgm1-deficientmiceexhibitPanethcellabnormalitiesandincreasedsuscep-
+Chen,M.,Meng,Q.,Qin,Y.,Liang,P.,Tan,P.,He,L.,Zhou,Y.,Chen,Y., tibility to acute intestinal inflammation. Am. J. Physiol. Gastrointest. Liver
+Huang,J.,Wang,R.F.,andCui,J.(2016).TRIM14inhibitscGASdegradation Physiol.305,G573–G584.
+444 MolecularCell73,429–445,February7,2019
+
+---PAGE BREAK---
+
+Liu,X.,Zhang,Z.,Ruan,J.,Pan,Y.,Magupalli,V.G.,Wu,H.,andLieberman,J. Singh,S.B.,Davis,A.S.,Taylor,G.A.,andDeretic,V.(2006).HumanIRGMin-
+(2016).Inflammasome-activatedgasderminDcausespyroptosisbyforming duces autophagy to eliminate intracellular mycobacteria. Science 313,
+membranepores.Nature535,153–158. 1438–1441.
+Lu,A.,Magupalli,V.G.,Ruan,J.,Yin,Q.,Atianand,M.K.,Vos,M.R.,Schro¨der, Song,H.,Liu,B.,Huai,W.,Yu,Z.,Wang,W.,Zhao,J.,Han,L.,Jiang,G.,
+G.F.,Fitzgerald,K.A.,Wu,H.,andEgelman,E.H.(2014).Unifiedpolymeriza- Zhang,L.,Gao,C.,andZhao,W.(2016).TheE3ubiquitinligaseTRIM31atten-
+tion mechanism for the assembly of ASC-dependent inflammasomes. Cell uatesNLRP3inflammasomeactivationbypromotingproteasomaldegrada-
+156,1193–1206. tionofNLRP3.Nat.Commun.7,13727.
+Ma, Y., Galluzzi, L., Zitvogel, L., and Kroemer, G. (2013). Autophagy and Song,L.,Pei,L.,Yao,S.,Wu,Y.,andShang,Y.(2017).NLRP3inflammasome
+cellularimmuneresponses.Immunity39,211–227. inneurologicaldiseases,fromfunctionstotherapies.Front.Cell.Neurosci.
+Masters,S.L.,Simon,A.,Aksentijevich,I.,andKastner,D.L.(2009).Horror 11,63.
+autoinflammaticus:Themolecularpathophysiologyofautoinflammatorydis-
+Strangward,P.,Haley,M.J.,Albornoz,M.G.,Barrington,J.,Shaw,T.,Dookie,
+ease(*).Annu.Rev.Immunol.27,621–668.
+R.,Zeef,L.,Baker,S.M.,Winter,E.,Tzeng,T.C.,etal.(2018).Targetingthe
+McCarroll,S.A.,Huett,A.,Kuballa,P.,Chilewski,S.D.,Landry,A.,Goyette,P., IL33-NLRP3axisimprovestherapyforexperimentalcerebralmalaria.Proc.
+Zody,M.C.,Hall,J.L.,Brant,S.R.,Cho,J.H.,etal.(2008).Deletionpolymor- Natl.Acad.Sci.USA115,7404–7409.
+phi
+
+Chunk 47:
+ley,M.J.,Albornoz,M.G.,Barrington,J.,Shaw,T.,Dookie,
+ease(*).Annu.Rev.Immunol.27,621–668.
+R.,Zeef,L.,Baker,S.M.,Winter,E.,Tzeng,T.C.,etal.(2018).Targetingthe
+McCarroll,S.A.,Huett,A.,Kuballa,P.,Chilewski,S.D.,Landry,A.,Goyette,P., IL33-NLRP3axisimprovestherapyforexperimentalcerebralmalaria.Proc.
+Zody,M.C.,Hall,J.L.,Brant,S.R.,Cho,J.H.,etal.(2008).Deletionpolymor- Natl.Acad.Sci.USA115,7404–7409.
+phism upstream of IRGM associated with altered IRGM expression and
+Strowig,T.,Henao-Mejia,J.,Elinav,E.,andFlavell,R.(2012).Inflammasomes
+Crohn’sdisease.Nat.Genet.40,1107–1112.
+inhealthanddisease.Nature481,278–286.
+Okin,D.,andMedzhitov,R.(2012).Evolutionofinflammatorydiseases.Curr.
+WellcomeTrustCaseControl,C.;WellcomeTrustCaseControlConsortium
+Biol.22,R733–R740.
+(2007).Genome-wideassociationstudyof14,000casesofsevencommon
+Parkes, M., Barrett, J.C., Prescott, N.J., Tremelling, M., Anderson, C.A.,
+diseasesand3,000sharedcontrols.Nature447,661–678.
+Fisher,S.A.,Roberts,R.G.,Nimmo,E.R.,Cummings,F.R.,Soars,D.,etal.;
+WellcomeTrustCaseControlConsortium(2007).Sequencevariantsinthe Xia,Q.,Wang,M.,Yang,X.,Li,X.,Zhang,X.,Xu,S.,Shuai,Z.,Xu,J.,Fan,D.,
+autophagy gene IRGM and multiple other replicating loci contribute to Ding,C.,andPan,F.(2017).Autophagy-relatedIRGMgenesconfersuscepti-
+Crohn’sdiseasesusceptibility.Nat.Genet.39,830–832. bilitytoankylosingspondylitisinaChinesefemalepopulation:Acase-control
+study.GenesImmun.18,42–47.
+Samie, M., Lim, J., Verschueren, E., Baughman, J.M.,Peng, I., Wong, A.,
+Kwon,Y.,Senbabaoglu,Y.,Hackney,J.A.,Keir,M.,etal.(2018).Selective Yan,Y.,Jiang,W.,Liu,L.,Wang,X.,Ding,C.,Tian,Z.,andZhou,R.(2015).
+autophagyoftheadaptorTRIFregulatesinnateinflammatorysignaling.Nat. DopaminecontrolssystemicinflammationthroughinhibitionofNLRP3inflam-
+Immunol.19,246–254. masome.Cell160,62–73.
+Schroder,K.,Kanneganti,T.D.,Shao,F.,andBroz,P.(2018).Mechanismsand Yang,D.,Chen,J.,Shi,C.,Jing,Z.,andSong,N.(2014).Autophagygenepoly-
+ConsequencesofInflammasomeActivation.J.Mol.Biol.430,131–132
+
+Chunk 48:
+,C.,Tian,Z.,andZhou,R.(2015).
+autophagyoftheadaptorTRIFregulatesinnateinflammatorysignaling.Nat. DopaminecontrolssystemicinflammationthroughinhibitionofNLRP3inflam-
+Immunol.19,246–254. masome.Cell160,62–73.
+Schroder,K.,Kanneganti,T.D.,Shao,F.,andBroz,P.(2018).Mechanismsand Yang,D.,Chen,J.,Shi,C.,Jing,Z.,andSong,N.(2014).Autophagygenepoly-
+ConsequencesofInflammasomeActivation.J.Mol.Biol.430,131–132. morphismisassociatedwithsusceptibilitytoleprosybyaffectinginflamma-
+Shi,C.S.,Shenderov,K.,Huang,N.N.,Kabat,J.,Abu-Asab,M.,Fitzgerald, torycytokines.Inflammation37,593–598.
+K.A.,Sher,A.,andKehrl,J.H.(2012).Activationofautophagybyinflammatory Yao,C.,Veleva,T.,Scott,L.,Jr.,Cao,S.,Li,L.,Chen,G.,Jeyabal,P.,Pan,X.,
+signalslimitsIL-1bproductionbytargetingubiquitinatedinflammasomesfor Alsina,K.M.,Abu-Taha,I.,etal.(2018).EnhancedcardiomyocyteNLRP3in-
+destruction.Nat.Immunol.13,255–263. flammasomesignalingpromotesatrialfibrillation.Circulation.Publishedonline
+Shi,J.,Zhao,Y.,Wang,K.,Shi,X.,Wang,Y.,Huang,H.,Zhuang,Y.,Cai,T., May25,2018.https://doi.org/10.1161/CIRCULATIONAHA.118.035202.
+Wang,F.,andShao,F.(2015).CleavageofGSDMDbyinflammatorycaspases Zhong,Z.,Umemura,A.,Sanchez-Lopez,E.,Liang,S.,Shalapour,S.,Wong,
+determinespyroptoticcelldeath.Nature526,660–665. J.,He,F.,Boassa,D.,Perkins,G.,Ali,S.R.,etal.(2016).NF-kBrestrictsinflam-
+Shi,J.,Gao,W.,andShao,F.(2017).Pyroptosis:Gasdermin-mediatedpro- masome activation via elimination of damaged mitochondria. Cell 164,
+grammednecroticcelldeath.TrendsBiochem.Sci.42,245–254. 896–910.
+MolecularCell73,429–445,February7,2019 445
+
+---PAGE BREAK---
+
+STAR+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+NLRP3 Adipogen Cat#:AG-20B-0014-C100
+NLRP3 CellSignaling Cat#:13158S
+Anti-Caspase-1(p20)(human),cloneBally-1 Adipogen Cat#:AG-20B-0048-C100
+GFP Abcam Cat#:ab290;RRID:AB_303395
+Anti-IRGMAntibody(Human) Abcam Cat#:Ab69494;RRID:AB_1209373
+IRGMAntibody(Rodentspecific) CellSignaling Cat#:14979S
+IL-1b(3A6)MousemAb CellSignaling Cat
+
+Chunk 49:
+METHODS
+KEYRESOURCESTABLE
+REAGENTorRESOURCE SOURCE IDENTIFIER
+Antibodies
+NLRP3 Adipogen Cat#:AG-20B-0014-C100
+NLRP3 CellSignaling Cat#:13158S
+Anti-Caspase-1(p20)(human),cloneBally-1 Adipogen Cat#:AG-20B-0048-C100
+GFP Abcam Cat#:ab290;RRID:AB_303395
+Anti-IRGMAntibody(Human) Abcam Cat#:Ab69494;RRID:AB_1209373
+IRGMAntibody(Rodentspecific) CellSignaling Cat#:14979S
+IL-1b(3A6)MousemAb CellSignaling Cat#:12242;RRID:AB_2715503
+HA-Tag(C29F4)RabbitmAb CellSignaling Cat#:3724S;RRID:AB_1549585
+c-Myc SantaCruzBiotechnology Cat#:sc-40;RRID:AB_627268
+Atg5Antibody CellSignaling Cat#:2630S
+Atg7(D12B11)RabbitmAb CellSignaling Cat#:8558S;RRID:AB_10831194
+Anti-proCaspase1+p10+p12Antibody(EPR16883) Abcam Cat#:ab179515
+ASC SantaCruzBiotechnology Cat#:sc-22514R
+ATG16L MBL Cat#:M150-3;RRID:AB_1278758
+ATG16L MBL Cat#:PM040;RRID:AB_1278757
+Beclin-1 CellSignaling Cat#:3738S;RRID:AB_490837
+Anti-LC-3Bantibody SIGMA-ALDRICH Cat#:L7543;RRID:AB_796155
+p62 BDBiosciences Cat#:BD–610832;RID:AB_398151
+NF-kbp65 SantaCruzBiotechnology Cat#:sc-8008;RRID:AB_628017
+p-NFkBp65(Ser536) SantaCruzBiotechnology Cat#:sc-33020;RRID:AB_2179018
+p-38a SantaCruzBiotechnology Cat#:sc-535;RRID:AB_632138
+Phsopho-p38MAPK(Thr180/Tyr182) CellSignaling Cat#:9211;RRID:AB_331641
+IkappaBalpha(L35A5) CellSignaling Cat#:4814;RRID:AB_390781
+PARP1 CellSignaling Cat#:9542L;RRID:AB_2160739
+GasderminD CellSignaling Cat#:96458
+NLRC4(D5Y8E) CellSignaling Cat#:12421S
+AIM2(D5X7K) CellSignaling Cat#:12948S
+Anti-betaActin Abcam Cat#:ab6276;RRID:AB_2223210
+Rabbitpolyclonaltobetatublin Abcam Cat#:ab6046;RRID:AB_2210370
+MonoclonalAnti-FlagM2 SIGMA-ALDRICH Cat#:F1804:RRID:AB_262044
+GoatAnti-RabbitIgGH&L(HRP) Abcam Cat#:Ab97051;RRID:AB_10679369
+Anti-MouseIgG(H+L)HRPConjugate Promega Cat#:W4021
+Anti-RabbitIgG(H+L)HRPConjugate Promega Cat#:W4011
+MouseAnti-RabbitHRP SantaCruzBiotechnology Cat#:sc-2357
+MouseTrueBlotULTRA:AntimouseIgGHRP Rockland Cat#:18-8817-33
+RabbitTrueBlotULTRA:AntiRabbitIgGHRP Rockland Cat#:18-8816-33
+AlexaFluor488goatanti-mous
+
+Chunk 50:
+DRICH Cat#:F1804:RRID:AB_262044
+GoatAnti-RabbitIgGH&L(HRP) Abcam Cat#:Ab97051;RRID:AB_10679369
+Anti-MouseIgG(H+L)HRPConjugate Promega Cat#:W4021
+Anti-RabbitIgG(H+L)HRPConjugate Promega Cat#:W4011
+MouseAnti-RabbitHRP SantaCruzBiotechnology Cat#:sc-2357
+MouseTrueBlotULTRA:AntimouseIgGHRP Rockland Cat#:18-8817-33
+RabbitTrueBlotULTRA:AntiRabbitIgGHRP Rockland Cat#:18-8816-33
+AlexaFluor488goatanti-mouse Invitrogen Cat#:A11029
+AlexaFluor488goatanti-Rabbit Invitrogen Cat#:A11034
+AlexaFluor568goatanti-mouse Invitrogen Cat#:A11031
+AlexaFluor568goatanti-Rabbit Invitrogen Cat#:A11036
+AlexaFluor647goatanti-mouse Invitrogen Cat#:A21236
+AlexaFluor647goatanti-Rabbit Invitrogen Cat#:A21245
+(Continuedonnextpage)
+e1 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+BacterialandVirusStrains
+E.ColiDH5alpha Labstrain N/A
+SalmonellatyphimuriumstrainST1433strain Labstrain N/A
+BiologicalSamples
+Mousecolontissue C57BL/6irgm1+/+andirgm1(cid:1)/(cid:1) NA
+HumanPBMCs Healthydonorsblood NA
+Chemicals,Peptides,andRecombinantProteins
+LipopolysaccharidesfromEscherichiacoliO111:B4 SIGMA-ALDRICH Cat#:L4391
+Lipopolysaccharides(LPS) CST Cat#:14011S
+MuramylDipeptide,MDP InvivoGen Cat#:tlrl-mdp
+Poly(I:C)LMW/LyoVec InvivoGen Cat#:tlrl-picwlv
+Poly(dA:dT)/LyoVec InvivoGen Cat#:tlrl-patc
+Phorbol12-myristate13-acetate,PMA SIGMA-ALDRICH Cat#:P8139
+CP-456773sodiumsalt,(MCC950) SIGMA-ALDRICH Cat#:PZ0280
+Nigericinsodiumsalt SIGMA-ALDRICH Cat#:N7143-5MG
+MonosodiumUrate(MSU)Crystals InvivoGen Cat#:tlrl-msu
+Cholesterol SIGMA-ALDRICH Cat#:C3045
+Adenosinetriphosphate,ATP InvivoGen Cat#:tlrl-atpl
+Dextransulfatesodiumsalt,40,000 SIGMA-ALDRICH Cat#:42867
+Subericacidbis(N-hydroxysuccinimideester) SIGMA-ALDRICH Cat#:S1885
+Z-VADFMK(CAS187389-52-2) SantaCruzBiotechnology Cat#:sc-3067
+Z-YVAD-AFC EnzoLifeSciences Cat#:ALX-260-035-M005
+Ac-YVAD-cmk InvivoGen Cat#:inh-yvad
+PowerSYBRGreenPCRMasterMix Invitrogen Cat#:A25742
+MouseM-CSFRecombinant Invitrogen Cat#:PMC2044
+His
+
+Chunk 51:
+,ATP InvivoGen Cat#:tlrl-atpl
+Dextransulfatesodiumsalt,40,000 SIGMA-ALDRICH Cat#:42867
+Subericacidbis(N-hydroxysuccinimideester) SIGMA-ALDRICH Cat#:S1885
+Z-VADFMK(CAS187389-52-2) SantaCruzBiotechnology Cat#:sc-3067
+Z-YVAD-AFC EnzoLifeSciences Cat#:ALX-260-035-M005
+Ac-YVAD-cmk InvivoGen Cat#:inh-yvad
+PowerSYBRGreenPCRMasterMix Invitrogen Cat#:A25742
+MouseM-CSFRecombinant Invitrogen Cat#:PMC2044
+Histopaque-1077 SIGMA-ALDRICH Cat#:10771SIGMA
+Trizol Invitrogen Cat#:15596018
+ProteaseInhibitors Roche Cat#:11836170001
+Z-Leu-Leu-Leu-al(MG132) SIGMA-ALDRICH Cat#:C2211-5MG
+BafilomycinA1 InvivoGen Cat#:tlrl-baf1
+BafilomycinA1 CST Cat#54645S
+Earle’sBalancedSaltSolution,EBSS Invitrogen Cat#:14155063
+3-Metyladenine SIGMA-ALDRICH Cat#:M9281
+Hydroxychloroquinesulfate SIGMA-ALDRICH Cat#:H0915-5MG
+PMSF SIGMA-ALDRICH Cat#:P7626
+2XLaemmliSampleBuffer Bio-RAD Cat#:1610737
+CriticalCommercialAssays
+IL-1betaMouseELISAKit Invitrogen Cat#:KMC0011
+IL-6HumanELISAKit Invitrogen Cat#:KHC0061
+HumanIL-1betaELISAReady-SETGO(2ndGeneration) Invitrogen Cat#:88-7261-88
+HumanTNFalphaELISAReady-SETGO(2ndGeneration) Invitrogen Cat#:88-7346-88
+AnnexinVFITC/PI Invitrogen Cat#:88-8005-74
+DepositedData
+Rawdataofimages Thispaper,MendeleyData https://doi.org/10.17632/
+xx73b2kx2x.1
+ExperimentalModels:CellLines
+THP-1 ATCC ATCC#:TIB-202
+HT-29 ATCC ATCC#:HTB-38
+(Continuedonnextpage)
+MolecularCell73,429–445.e1–e7,February7,2019 e2
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+HEK293T ATCC ATCC#:CRL-11268
+THP-1GFPASC InvivoGen Cat#:thp-ascgfp
+ExperimentalModels:Organisms/Strains
+C57BL/6irgm1+/+andirgm1(cid:1)/(cid:1)mice GregoryATaylor(Henryetal.,2007) NA
+Oligonucleotides
+IL1BetaTaqManGeneExpressionAssay(HS01555410_m1) ThermoFisherScientific Cat#:4331182
+IRGM-TaqManGeneExpressionAssay(HS01013699_s1) ThermoFisherScientific Cat#:4331182
+HumanIL-18Forwardprimer50-CCTCTATTTGAAGATATG Thismanuscript N/A
+ACTGATTCTG-30
+HumanIL-18Reverseprimer50-CCATACCTCTAGGCTGGC-30 Thismanuscript N/A
+HumanTNFalphaForwardp
+
+Chunk 52:
+:1)/(cid:1)mice GregoryATaylor(Henryetal.,2007) NA
+Oligonucleotides
+IL1BetaTaqManGeneExpressionAssay(HS01555410_m1) ThermoFisherScientific Cat#:4331182
+IRGM-TaqManGeneExpressionAssay(HS01013699_s1) ThermoFisherScientific Cat#:4331182
+HumanIL-18Forwardprimer50-CCTCTATTTGAAGATATG Thismanuscript N/A
+ACTGATTCTG-30
+HumanIL-18Reverseprimer50-CCATACCTCTAGGCTGGC-30 Thismanuscript N/A
+HumanTNFalphaForwardprimer50-ACTTTGGAGTGATC Thismanuscript N/A
+GGCC-30
+HumanTNFalphaReverseprimer50-AACATGGGCTACAG Thismanuscript N/A
+GCTTG-30
+HumanRANTESForwardprimer50-CTCATTGCTACTGCCC Thismanuscript N/A
+TCTG-30
+HumanRANTESReverseprimer50-AATACTCCTTGATGTG Thismanuscript N/A
+GGCAC-30
+MouseIL-1betaForwardprimer50-ACGGACCCCAAAAGA Thismanuscript N/A
+TGAAG-30
+MouseIL-1betaReverseprimer50-TTCTCCACAGCCACAA Thismanuscript N/A
+TGAG-30
+MouseIL-18Forwardprimer50CCTGTGTTCGAGGATATG Thismanuscript N/A
+ACTG30
+MouseIL-18Reverseprimer50-AGTCCTCTTACTTCACTGT Thismanuscript N/A
+CTTTG-30
+MouseTNFalphaForwardprimer50-GGAACTGGCAGAAGA Thismanuscript N/A
+GGCACTC-30
+MouseTNFalphaReverseprimer50-GCAGGAATGAGAAGA Thismanuscript N/A
+GGCTGAGAC-30
+SMARTpool:siGENOMEIRGM(345611)siRNA Dharmacon Cat#:M-028450-01-0005
+SMARTpool:siGENOMEATG5(9474)siRNA Dharmacon Cat#:M-004374-04-0005
+Humanp62siRNA SIGMA-ALDRICH SASI_Hs01_00118616
+HumanATG7 SIGMA-ALDRICH SASI_Mm01_00044616
+HumanNLRP3siRNA SIGMA-ALDRICH SASI_Hs02_00313820
+MouseNLRP3siRNA SIGMA-ALDRICH SASI_Mm01_00136572
+RecombinantDNA
+GFP-IRGM Chauhanet.al.2015,VojoDeretic N/A
+Flag-IRGM Thismanuscript N/A
+mCherry-IRGM Thismanuscript N/A
+Flag-NLRP3andconstructs Thismanuscript N/A
+GFP-NLRP3 Addgene Plasmid#73955
+Myc-ASC Addgene Plasmid#73952
+HA-ASC Addgene Plasmid#41553
+Flag-ASCandconstructs Thismanuscript N/A
+pcDNA3-EGFP Addgene Plasmid#13031
+HA-p62 Addgene Plasmid#28027
+Flag-p62 ThisManuscript N/A
+Flag-ATG16L Chauhanet.al.2015,VojoDeretic N/A
+mcherry-NACHT-NLRP3 Thismanuscript N/A
+(Continuedonnextpage)
+e3 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+Continued
+RE
+
+Chunk 53:
+ Addgene Plasmid#73955
+Myc-ASC Addgene Plasmid#73952
+HA-ASC Addgene Plasmid#41553
+Flag-ASCandconstructs Thismanuscript N/A
+pcDNA3-EGFP Addgene Plasmid#13031
+HA-p62 Addgene Plasmid#28027
+Flag-p62 ThisManuscript N/A
+Flag-ATG16L Chauhanet.al.2015,VojoDeretic N/A
+mcherry-NACHT-NLRP3 Thismanuscript N/A
+(Continuedonnextpage)
+e3 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+Continued
+REAGENTorRESOURCE SOURCE IDENTIFIER
+GFP-AIM2 Addgene Plasmid#51542
+HA-K48 Addgene Plasmid#17605
+HA-K63 Addgene Plasmid#17606
+pCMV-pro-IL-1beta Addgene Plasmid#73953
+pCMV-Caspase1-Flag Addgene Plasmid#21142
+pCI-Caspase1 Addgene Plasmid#41552
+pDest-mCherry TerjeJohansen N/A
+pDest-3XFlag TerjeJohansen N/A
+SoftwareandAlgorithms
+CellQuestPro BDBiosciences N/A
+ImageJ NIH https://imagej.nih.gov/
+LeicaLASAF LeicaMicrosystem N/A
+Other
+NP-40Lysisbuffer ThermoFisher Cat#:FNN0021
+DynabeadsProteinG ThermoFisher Cat#:10004D
+ProteaseInhibitorsCocktailTablets Roche Cat#:11836170001
+Phosstop Roche Cat#:4906845001
+CellCulture
+AllthecelllineswereobtainedfromAmericanTypeCultureCollection(ATCC).HT-29andHEK293TcellsweregrowninDMEMme-
+dium(GIBCO)supplementedwith10%Fetalbovineserum(FBS).Humanmonocyticcellline,THP-1andPBMC’sweregrownin
+RPMI-1640 (GIBCO) media supplemented with 10% FBS, 5 mM L-glutamine, glucose (5%), HEPES buffer, Sodium pyruvate
+(1mM),penicillin/streptomycin(10,000units/mL).Allexperimentswereperformedwithcellsbeforethe20thpassagewasreached.
+THP1ASC-GFPcellsstablyexpressinganASC::GFPfusionproteinwerepurchasedfrominvivogen(catno.thp-ascgfp).Thesecells
+arederivedfromTHP-1humanmonocyticcellsandtheexpressionofASC::GFPisdrivenbyanNF-kB-induciblepromoterthatcan
+beinducedbyLPS.InpresenceofLPSadiffusedsignalofASC::GFPcanbeseenandonlyinpresenceofNigericin,ASC::GFP
+speckswereobserved.
+Isolationofhumanperipheralbloodmononuclearcells(PBMCs)
+IsolationofHumanPBMCswereperformedusingdensitygradientcentrifugationmethodusingHistopaqueaspermanufacturerec-
+ommendations(Sigma).Briefly,5mLhomogenizedblood
+
+Chunk 54:
+theexpressionofASC::GFPisdrivenbyanNF-kB-induciblepromoterthatcan
+beinducedbyLPS.InpresenceofLPSadiffusedsignalofASC::GFPcanbeseenandonlyinpresenceofNigericin,ASC::GFP
+speckswereobserved.
+Isolationofhumanperipheralbloodmononuclearcells(PBMCs)
+IsolationofHumanPBMCswereperformedusingdensitygradientcentrifugationmethodusingHistopaqueaspermanufacturerec-
+ommendations(Sigma).Briefly,5mLhomogenizedbloodweremixedwithanequalvolumeofPBSandslowlylayeredonthe3mL
+Histopaque-1077(Sigma1077,density1.077).Thesamplewasthencentrifugedat400gfor20minutesatroomtemperature(RT)
+usingslowaccelerationanddeceleration.Buffycoatgeneratedinthemiddleofthegradientwascollected,mixedwithDPBSand
+spunat100gfor10minutes.CellswerethenwashedtwicewithDPBSandre-suspendedinRPMI-1640supplementedwith10%
+FBSandincubatedat37(cid:3)Cwith5%CO overnight.CellswerecountedinanInvitrogenCountlessIIAutomatedCellCounterusing
+2
+anequalvolumeoftrypanblue(Sigma).Atotalof23106cellswereseededineach6wellplatefortreatmentwithLPS(100ng/ml).
+TotalRNAwasextractedusingTRIZOL(Invitrogen).
+PlasmidConstructsandTransfection
+Themcherry-IRGMandFlag-NLRP3anditsdeletionconstructsweregeneratedusinggatewaycloningstrategyasperstandardpro-
+tocols(Invitrogen).
+TransienttransfectionwithsiRNA
+TheTHP-1andPBMCcellswereelectroporated(Neon,Invitrogen;setting:1400V,10ms,3pulseusingthe100mltip)withnon-tar-
+getingsiRNA(30nM)orIRGMsiRNA(30nM)orp62siRNA(30nM)orATG5siRNA((30nM)orATG7siRNA((30nM)andincubatedfor
+24h.After24h,onemoretimetransfectionwasperformedinsimilarconditionasdescribedaboveandincubatedforanother48h
+before startof each experiment. The HT-29cells and HEK293Tcells were transfected with10nMsiRNA usingLipofectamine(cid:2)
+RNAiMAXTransfectionReagentaspermanufacturer’sinstructions.
+Fortransientgene/sknockdownexperimentinBMDMs:Freshlyisolated,4x106Bonemarrowcellselectroporatedwithnon-tar-
+getingsiRNAorNLRP3siRNA(30nM)usingNeonsystem(Invitrogen)withfollowingparameter:1350V,10ms.3pulseandkeptfor
+MolecularCell73,429–445.e1–e7,February7,2019 e4
+
+-
+
+Chunk 55:
+s and HEK293Tcells were transfected with10nMsiRNA usingLipofectamine(cid:2)
+RNAiMAXTransfectionReagentaspermanufacturer’sinstructions.
+Fortransientgene/sknockdownexperimentinBMDMs:Freshlyisolated,4x106Bonemarrowcellselectroporatedwithnon-tar-
+getingsiRNAorNLRP3siRNA(30nM)usingNeonsystem(Invitrogen)withfollowingparameter:1350V,10ms.3pulseandkeptfor
+MolecularCell73,429–445.e1–e7,February7,2019 e4
+
+---PAGE BREAK---
+
+differentiationwith20ng/mlMouseM-CSFinmediaintomacrophagesfor4days.After4days,BMDMscellswereagaintransfected
+with non-targeting siRNA or NLRP3 siRNA (30nM) using Lipofectamine(cid:2) RNAiMAX transfection Reagent as per manufacturer’s
+instructions.
+Transienttransfectionwithplasmids
+HEK293Tcellsforoverexpressionexperimentweretransfectedusingcalciumphosphatemethodasperthemanufacturer’sinstruc-
+tions(Clonetech,Promega).
+TransfectioninTHP-1orTHP-1GFPASCcells:After72hofATG5(30nM)orATG7(30nM)orp62(30nM)siRNAtransfection,2x106
+THP-1 cells were transfected with EGFP (3 mg) and GFP-IRGM (2 mg) using the Neon electroporation system (Invitrogen) with
+following parameter:1300V,30 ms,1pulse.After 1hofpost-transfection cellswere stimulatedwithLPS(1 mg)and incubated
+for3h.Celllysateswerepreparedandwesternblotswereperformed.
+Inflammasomereconstitution:3x105HEK293Tcellswereplatedin6wellplateandtransfectedwithNLRP3,HA-ASC,Caspase-1,
+pro-IL1beta,GFPorGFPIRGMplasmidsfor30h.After30hcellswerereplenishedwithfreshmediumwithoutserumwithorwithout
+Chloroquine(50mM)andincubatedforanother6h.Afterincubation,supernatantwascollectedandusedforIL-1breleaseandcells
+lysatewasusedforimmunoblottingwithdifferentantibodies.
+Enzyme-linkedimmunosorbentassay(ELISA)
+ELISAwasperformedusingtheAffymetrix(ebiosciences)Kitaspermanufacturer’sinstructions.Briefly,polystyrene96-wellplates
+(CorningCostar#9018)werepre-coatedovernightat4(cid:3)Cwithspecificcaptureantibody,thenblockedwithElispotblocking(diluent)
+bufferfor1hatRT,andincubatedwithstandardcytokinedilutionsandcellculturesmedia(100ml,undiluted)forO/Nat
+
+Chunk 56:
+ifferentantibodies.
+Enzyme-linkedimmunosorbentassay(ELISA)
+ELISAwasperformedusingtheAffymetrix(ebiosciences)Kitaspermanufacturer’sinstructions.Briefly,polystyrene96-wellplates
+(CorningCostar#9018)werepre-coatedovernightat4(cid:3)Cwithspecificcaptureantibody,thenblockedwithElispotblocking(diluent)
+bufferfor1hatRT,andincubatedwithstandardcytokinedilutionsandcellculturesmedia(100ml,undiluted)forO/Nat4(cid:3)Cfollowed
+bywasheswithPBSplus0.05%Tween20,andincubationwithbiotinylateddetectionantibodyfor1hatRT.Afterthesecondwash,
+theplateswereincubatedwithHRP-Avidinfor30minatRTandwashedagain.Thesignalwasdevelopedafteraddition1XTMB
+(3,30,5,50-Tetramethylbenzidine) until color appeared and the reaction was stopped by 1M H PO . Microplate reader (Bio-RAD)
+3 4
+wasusedtodetectthesignalsat450nm.
+BacterialInfections
+AsinglecolonyofSalmonellatyphimuriumstrainST1433strainwasgrowninantibiotic-freeLuriaBertani(LB)mediauntilOD
+450
+reached 0.5- 0.6. Prior to infection, bacterial cells were washed thrice with 1 mL of sterile PBS and re-suspended in antibiotic-
+freeDMEMorRPMImedium.THP-1,andHT29cellswereinfectedatmultiplicityofinfection(MOI)of10:1(bacteria:cells).
+ASCOligomerizationAssay
+TheTHP-1controlandIRGMdepletedcellsorBMDMcellswereseededin6wellplatesandstimulatedwithLPS(1mg/ml)for3h
+followedbynigericin(10mM)for30min.Cellswerelysedwithbuffercontaining0.5%TritonX-100,andthecelllysateswerecentri-
+fugedat6,797gfor15minat4(cid:3)C.Supernatantsweretransferredtonewtubes(Triton-X-solublefractions).TheTritonX-100-insol-
+ublepelletswerewashedwithPBStwiceandthensuspendedin200mLPBS.Thepelletswerethencross-linkedatroomtemperature
+for30minbyadding2mMsubericacidbis(N-hydroxysuccinimideester),(DSS).Thecross-linkedpelletswerespundownat6,797g
+for15minanddissolveddirectlyinnon-reducingSDSsamplebuffer.
+WesternBlotting
+TheNP-40(Invitrogen)orRadio-immunoprecipitationassay(RIPA)buffer(20mMTris,pH8.0;1mM,EDTA;0.5mM,EGTA;0.1%
+Sodium deoxycholate; 150 mM NaCl; 1% IGEPAL (Sigma);10% glycerol) supplemented with 
+
+Chunk 57:
+s-linkedatroomtemperature
+for30minbyadding2mMsubericacidbis(N-hydroxysuccinimideester),(DSS).Thecross-linkedpelletswerespundownat6,797g
+for15minanddissolveddirectlyinnon-reducingSDSsamplebuffer.
+WesternBlotting
+TheNP-40(Invitrogen)orRadio-immunoprecipitationassay(RIPA)buffer(20mMTris,pH8.0;1mM,EDTA;0.5mM,EGTA;0.1%
+Sodium deoxycholate; 150 mM NaCl; 1% IGEPAL (Sigma);10% glycerol) supplemented with protease inhibitor cocktail (Roche)
+and1mMPMSF(Sigma)wasusedtomakecelllysates.ProteinconcentrationwasmeasuredbyBCAkit(Pierce).Proteinlysates
+wereseparatedonSDS-polyacrylamidegel,transferredontonitrocellulosemembrane(Bio-Rad)andblockedfor1hin5%skimmed
+milk.Subsequently,membraneswereincubatedinprimaryantibodyovernightat4(cid:3)C,washed(3XPBS/PBST)andthenincubated
+for1hwithHRPconjugatedsecondaryantibody.AfterwashingwithPBS/PBST(3X)theblotsaredevelopedusingenhancedchem-
+iluminescencesystem(ThermoFisher).DensitometricanalysisofwesternblotsweredoneusingImageJsoftware.
+Antibodiesanddilution
+Primaryantibodiesusedinwesternblottingwithdilutions
+Flag(1:1000),c-Myc(Santacruz-SC-40;1:750andsc-764;1:1000),p62(BD;1:2000),Actin(Abcam;1:5000),IRGM(Abcam;1:500),
+HA(CST;1:1000),IL-1b(CST;1:1000),Caspase-1(Adipogen;1:1000),NLRP3(Adipogen;1:1000),GFP(Abcam;1:5000),ASC(San-
+tacruz;1:1000),ATG-5(CST,1:1000),ATG7(CST,1:1000),NLRC4(CST;1:1000)andAIM2(CST;1:1000),IRGMAntibodyRodent
+specific (CST; 1:1000), c-Myc (Santa Cruz; 1:750). Phsopho-p38 MAPK (CST, 1:1000), p-38a (Santa cruz, 1:1000), Anti-pro
+Caspase1+p10+p12Antibody(Abcam;1:1000),NF-kbp65(Santacruz;1:1000),p-NF-kbp65(Santacruz;1:1000).
+HRPconjugatedsecondaryantibodieswerepurchasedfromSantacruz(1:2000)orPromega(1:5000)orAbcam(1:10000).
+Primaryantibodiesusedinimmunofluorescenceswithdilutions
+Flag(Sigma;1:250),IRGM(Abcam;1:100),NLRP3(Adipogen;1:200),NLRP3(CST;1:400),c-Myc(SantaCruz;1:50),p62(BD;1:500);
+ASC(Adipogen;1:200),HA(CST;1:500).
+e5 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+Co-Immunoprecipitation
+Forimmunoprecipitat
+
+Chunk 58:
+secondaryantibodieswerepurchasedfromSantacruz(1:2000)orPromega(1:5000)orAbcam(1:10000).
+Primaryantibodiesusedinimmunofluorescenceswithdilutions
+Flag(Sigma;1:250),IRGM(Abcam;1:100),NLRP3(Adipogen;1:200),NLRP3(CST;1:400),c-Myc(SantaCruz;1:50),p62(BD;1:500);
+ASC(Adipogen;1:200),HA(CST;1:500).
+e5 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+Co-Immunoprecipitation
+ForimmunoprecipitationassayscellswerelysedinNP-40lysisbuffer(FNN0021,ThermoFisherScientific)supplementedwithpro-
+teaseinhibitor/phosphataseinhibitorcocktailsand1MPMSFfor20minat4(cid:3)Candcentrifuged.Thesupernatantwasincubatedwith
+antibodyat4(cid:3)C(2htoO/N)onrotationalcellmixerfollowedbyincubationwithProteinGDynabeads(Invitrogen,#10004D)for2hat
+4(cid:3)C.ThebeadswerewashedwithicecoldPBS(4X)andtheproteinswereelutedfromwashedbeadsbyboilingfor5minin2XSDS-
+PAGEgelloadingdyeandproceededforwesternblotanalysis.
+GSTpull-downassay
+GSTpulldownassaywasdoneasdescribedpreviously(Kimuraetal.,2015;Chauhanetal.,2016).GST-IRGMrecombinantprotein
+wasexpressedinSoluBL21(Amsbio)andpurifiedonGlutathioneSepharose4Fast-Flowbeads(GEHealthcare).[35S]-labeledMyc-
+NLRP3wascotranscribed/translatedusingtheTnTT7–coupledreticulocytelysatesystem(Promega).Theinvitro–translated[35S]-
+labeled Myc-NLRP3 protein was then incubated with GST or GST-IRGM in 250 ml of NETN-E buffer (50 mm Tris, pH 8.0,
+100mmNaCl,6mmEDTA,6mmEGTA,0.5%NP-40,and1mmdithiothreitolsupplementedwithcompleteminiEDTA-freeprotease
+inhibitorcocktail[Roche])for2hat4(cid:3)Candthenwashedfivetimeswith1mLofNETN-Ebuffer,boiledwithloadingbuffer,andsub-
+jectedtoSDS-PAGE.GelwasstainedwithCoomassieBlueandvacuum-dried.TheGST-IRGMwasdetectedbystainingwithCoo-
+massieBlue,whereasthe[35S]-labeledMyc-NLRP3wasdetectedinPharosFXimager(Bio-RadLaboratories)
+ImmunofluorescenceAnalysis
+About105cellswereplatedonacoverslip.Thenextday,cellswerefixedin4%paraformaldehydefor10minutes(min),permeabilized
+with0.1%saponin(or0.1%TritonX-100)for10min,followedbyblockingwith1%BSAfor30minatroomte
+
+Chunk 59:
+sstainedwithCoomassieBlueandvacuum-dried.TheGST-IRGMwasdetectedbystainingwithCoo-
+massieBlue,whereasthe[35S]-labeledMyc-NLRP3wasdetectedinPharosFXimager(Bio-RadLaboratories)
+ImmunofluorescenceAnalysis
+About105cellswereplatedonacoverslip.Thenextday,cellswerefixedin4%paraformaldehydefor10minutes(min),permeabilized
+with0.1%saponin(or0.1%TritonX-100)for10min,followedbyblockingwith1%BSAfor30minatroomtemperature(RT).Per-
+meabilizedcellswerethenincubatedwithprimaryantibodyfor1hour(h)atRT,washedthricewith1XPBS,followedby1hincubation
+withAlexaFlourconjugatedsecondaryantibody.Cellswereagainwashedthricewith1XPBS,mounted(Prolonggoldantifade,
+Invitrogen),air-dried,andvisualizedusingLeicaTCSSP5confocalmicroscope.
+Cycloheximidechaseassay
+Aftertheplasmidstransfection,cellsweretreatedwithMG132(20mM)orBafilomycin(300nM)alongwithcycloheximide(100mg/ml)
+for2,4,6and8h.AtvarioustimepointscellswerelysedinNP-40lysisbufferandwesternblotswereperformedwithindicated
+antibodies.
+Macrophagedifferentiationandstimulation
+Forimmunofluorescenceassays,THP-1cellsweredifferentiatedintomacrophage-likestatebyadditionof50ng/mlofPMA(16h).
+Afterarestingperiodof48hmacrophagesweretreatedwithstimulantsasrequired.
+Chloroform-methanolproteinprecipitation
+Proteinsfromculturedmediasupernatantswereisolatedbymethanol/chloroformprecipitationassay.Briefly,500mLofsupernatant
+wasmixedwith500mLofmethanoland125ulofchloroformandmixed.Aftercentrifugation,theaqueousphasewasremovedwithout
+disturbingtheproteinlayer.Anadditional500mLofmethanolwasaddedtothesampleandcentrifugedforproteinprecipitation.The
+proteinpelletwasair-driedandre-suspendedinof2xLaemmlibuffer.Thesamplewasboiledat95(cid:3)Cfor5minandseparatedona
+12%SDS-polyacrylamidegelandtransferredtothenitrocellulosemembrane.
+Annexin-V/PropidiumIodidestaining
+ApoptosisismeasuredusingAnnexin-V/PIdoublestainingmethodaspermanufacturer’sinstruction(ebiosciences#88800574).
+Briefly,cellsweretreatedwithrequiredstress-inducersandfollowedbydesiredincubationtimecellswerewashedwithPBSa
+
+Chunk 60:
+spendedinof2xLaemmlibuffer.Thesamplewasboiledat95(cid:3)Cfor5minandseparatedona
+12%SDS-polyacrylamidegelandtransferredtothenitrocellulosemembrane.
+Annexin-V/PropidiumIodidestaining
+ApoptosisismeasuredusingAnnexin-V/PIdoublestainingmethodaspermanufacturer’sinstruction(ebiosciences#88800574).
+Briefly,cellsweretreatedwithrequiredstress-inducersandfollowedbydesiredincubationtimecellswerewashedwithPBSand
+trypsinizedtoobtainasinglecellsuspension.Next,105cells/mlweresuspendedin100mLbindingbufferalongwith5mLAnnexin
+V-fluoresceinisothiocyanateand5mLPropidiumIodidefor30minatroomtemperaturefollowedbyacquisitiononFACSCalibur
+(Beckton&Dickinson).TheresultswereanalyzedusingCellQuestProsoftware.
+Caspase-1inhibitionAssay
+ToinhibitsCaspase1activity,THP-1orBMDMcellsweretreatedwithCaspaseInhibitor(Z-VADFMK,5mM)orcaspase1specific
+inhibitor(Ac-YVAD-cmk,20mM)30minpriortostimulationasindicated.CellswereprocessedforapoptosisassaythroughAnnexin
+V/PIstainingasdescribedaboveorwesternblotsforvariousproteins.
+SolubleandInsolubleproteinsfractionation
+Soluble-insolubleproteinsfractionationwasperformedusingbuffercontaining2%TritonX-100,50mMTris(pH8.0),150mMNaCl,
+1mMEDTA,10%glycerol,proteaseinhibitorcocktailand1mMPMSF.Aftercentrifugation,thesupernatantisusedassolublefrac-
+tionandthepelletwasextractedin1%SDStoobtaininsolubleproteinfraction.
+MolecularCell73,429–445.e1–e7,February7,2019 e6
+
+---PAGE BREAK---
+
+RNAIsolationandQuantitativeReal-timePCR
+The total RNAwas extracted usingTrizolreagent accordingto manufacturer’s protocols(Invitrogen). 2mgofRNAwas usedfor
+reversetranscriptionusinghighcapacityDNAreversetranscriptionkit(AppliedBiosystemsCatNo:4368813)andqRT-PCRwas
+performedusingTaqmanmastermixorPowerSYBRgreenPCRmastermix(AppliedbiosystemscatNo:4367659)accordingto
+manufacturer’sprotocolsonStepOneReal-TimePCRsystem(AppliedBiosystems).Thefollowingcyclingprogramwasusedfor
+SYBRgreenassay:initialdenaturationat95(cid:3)Cfor10min;40cyclesof95(cid:3)Cfor15sand60(cid:3)Cfor60s;followedbyameltcurve
+step. For
+
+Chunk 61:
+ranscriptionkit(AppliedBiosystemsCatNo:4368813)andqRT-PCRwas
+performedusingTaqmanmastermixorPowerSYBRgreenPCRmastermix(AppliedbiosystemscatNo:4367659)accordingto
+manufacturer’sprotocolsonStepOneReal-TimePCRsystem(AppliedBiosystems).Thefollowingcyclingprogramwasusedfor
+SYBRgreenassay:initialdenaturationat95(cid:3)Cfor10min;40cyclesof95(cid:3)Cfor15sand60(cid:3)Cfor60s;followedbyameltcurve
+step. ForTaqman assay:Initialdenaturation 50(cid:3)Cfor2minand95(cid:3)Cfor10 min;40cyclesof 95(cid:3)Cfor15sand 60(cid:3)Cfor 60s.
+mRNAexpressionprofileswerenormalizedtolevelsofhousekeepinggeneGlyceraldehyde3-phosphatedehydrogenase(GAPDH)
+orb-Actinineachsampleandthefold-changeinexpressionwascalculatedbythe2(cid:1)DDCtmethod.
+Caspase1activitymeasurementassay
+Forcaspase-1activityassay,BMDM’sorTHP-1cellswereprimedwithLPSandtreatedwithNigericinandcolontissuelysedinlysis
+buffer(0.1%NonidetP-40,1mMEDTA,50mMHEPES,pH7.5,0.1CHAPS,1mMPMSF,2mMdithiothreitolandproteaseInhibitors
+cocktail).Equalamount(20mgfromeachsample)ofproteintransferredtoeachwellofa96-wellmicroplateintriplicate.Thevolumein
+eachwell-adjustedwith50ml/wellwithcelllysisbuffer.50mllysisbufferweretakenforbackgroundsubtraction.50mlcaspase1buffer
+(100mMHEPES,10%Sucrose,0.1%CHAPS,1mMNa-EDTAand2mMdithiothreitol)withZ-YVAD-AFCsubstrate(50mMfinal
+concentration)addedtoeachwellandincubatedat37(cid:3)Cindark.FreeAFCwasmeasuredonafluorescencemicroplatereader
+atEx/Em=400/505.
+Miceexperiments
+Irgm1knockout(C57BL/6)miceweredescribedpreviously(Liuetal.,2013).Themiceexperimentswereperformedwithprocedures
+approvedbyinstitutionalanimalethicalcommitteeatInstituteofLifeScience,Bhubaneswar,India.Foreachexperiment,littermates
+wereusedandalsogenderandageofmicewerematched.ForDextranSulfateSodium(DSS)inducedcolitismodel,themicewere
+given with 2% (wt/vol) of DSS dissolved in drinking water. DSS solution was replaced on alternate day. To inhibits the NLRP3,
+MCC950 (20 mg/Kg) injected intraperitoneally (IP) into the mice. The control group were injected in
+
+Chunk 62:
+nstituteofLifeScience,Bhubaneswar,India.Foreachexperiment,littermates
+wereusedandalsogenderandageofmicewerematched.ForDextranSulfateSodium(DSS)inducedcolitismodel,themicewere
+given with 2% (wt/vol) of DSS dissolved in drinking water. DSS solution was replaced on alternate day. To inhibits the NLRP3,
+MCC950 (20 mg/Kg) injected intraperitoneally (IP) into the mice. The control group were injected intraperitoneally with saline.
+Eachday,miceweremonitoredforbodyweightandstoolconsistency.Inbrief,stoolscoreswereassignedasfollows:0,well-formed
+pellets;1,semisolid;2,semisolidandnotadheretotheanus;3,liquidandadheretotheanus;4,diarrhea.Bleedingscoreswere
+assignedasfollows:0,Nobloodinstool;1,lightfaint;2,clearvisible;3grossrectalbleeding.Themiceweresacrificedandentire
+colonwasremovedandcolonlengthwasmeasuredusingVernierscale.Approx.0.5cmcolontissueneartorectumwascollected
+andhomogenizedinRIPAbuffercontainingproteaseinhibitorscocktailsforproteinextractionandwesternblottingorhomogenized
+intrizolfortotalRNAextraction.
+MiceBonemarrowcellsisolationanddifferentiationintomacrophages
+Thebonemarrowcellsfrommicewereisolatedanddifferentiatedintomacrophagesbystandardprocedure(Henryetal.,2007).
+Briefly,sixtoeightweekoldmaleC57BL/6irgm1+/+andirgm1(cid:1)/(cid:1)miceweresacrificedbycervicaldislocation,bonemarrowcells
+from the tibia and femurs were flushed out in RPMI medium. Red blood cells were removed by cell lysis buffer containing
+(155mMNH Cl,12mMNaHCO and0.1mMEDTA).CellsweredifferentiatedinRPMImedium(10%FBS,1mMsodiumpyruvate
+4 3
+and0.05M2-mercaptoethanol)with20ng/mlMouseM-CSF(GIBCOPMC2044,ThermoFisherScientific)for5days.Onalternate
+day,mediumwasreplacedwithfreshmediumcontainingM-CSF.
+DATAANDSOFTWAREACCESSIBILITY
+AlltheoriginaldataforwesternblottingandImmunofluorescencehavebeendepositedwithMendeleyandcanbeaccessedwith
+https://doi.org/10.17632/xx73b2kx2x.1.
+e7 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+
+
+Chunk 63:
+FisherScientific)for5days.Onalternate
+day,mediumwasreplacedwithfreshmediumcontainingM-CSF.
+DATAANDSOFTWAREACCESSIBILITY
+AlltheoriginaldataforwesternblottingandImmunofluorescencehavebeendepositedwithMendeleyandcanbeaccessedwith
+https://doi.org/10.17632/xx73b2kx2x.1.
+e7 MolecularCell73,429–445.e1–e7,February7,2019
+
+---PAGE BREAK---
+
+
+

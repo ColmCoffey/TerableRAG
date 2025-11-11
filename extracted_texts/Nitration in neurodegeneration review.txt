@@ -1,0 +1,1190 @@
+ANTIOXIDANTS&REDOXSIGNALING
+Volume32,Number12,2020
+ªMaryAnnLiebert,Inc.
+DOI:10.1089/ars.2019.7916
+F R A
+ORUM EVIEW RTICLE
+Nitric Oxide-Dependent Protein Post-Translational Modifications
+Impair Mitochondrial Function and Metabolism
+to Contribute to Neurodegenerative Diseases
+Tomohiro Nakamura1 and Stuart A. Lipton1,2
+Abstract
+Significance: Most brains affected by neurodegenerative diseases manifest mitochondrial dysfunction as well
+as elevated production of reactive oxygen species and reactive nitrogenspecies (RNS),contributingto synapse
+loss and neuronal injury.
+Recent Advances: Excessive production of RNS triggers nitric oxide (NO)-mediated post-translational
+modifications of proteins, such as S-nitrosylation of cysteine residues and nitration of tyrosine residues.
+Proteins thus affected impair mitochondrial metabolism, mitochondrial dynamics, and mitophagy in the
+nervous system.
+Critical Issues: Identification and better characterization of underlying molecular mechanisms for NO-
+mediated mitochondrial dysfunction will provide important insights into the pathogenesis of neurodegenera-
+tive disorders. In this review, we highlight recent discoveries concerning S-nitrosylation of the tricarboxylic
+acid cycle enzymes, mitochondrial fission GTPase dynamin-related protein 1, and mitophagy-related proteins
+Parkin and phosphatase and tensin homolog-induced putative kinase protein 1. We delineate signaling cas-
+cades affected by pathologically S-nitrosylated proteins that diminish mitochondrial function in neurode-
+generative diseases.
+Future Directions: Further elucidation of the pathological events resulting from aberrant S-nitrosothiol or
+nitrotyrosine formation may lead to new therapeutic approaches to ameliorate neurodegenerative disorders.
+Antioxid. Redox Signal. 32, 817–833.
+Keywords: nitric oxide, protein S-nitrosylation, nitration, mitochondrial metabolism, mitochondrial dynamics,
+mitophagy
+Introduction dysfunction may start early in presymptomatic stages and
+correlates with cognitive decline as the disease progresses
+The incidence of neurodegenerative disorders, in- (74,111).Growingevidenceinavarietyofneurodegenera-
+cluding Alzheimer’s disease (AD), Parkinson’s disease tive disorders has suggested that a number of factors may
+(PD), amyotrophic lateral sclerosis (ALS), and fronto- contribute to synaptic loss and neuronal damage, including
+temporaldementia,isrisingwiththeincreasinglongevityof misfolded proteins or lack of adequate degradation of these
+theglobalpopulation.Themajorityofpatientssufferingfrom proteins (e.g., amyloid-b [Ab], a-synuclein, tau, and TDP-
+neurodegenerative disorders manifest progressive impair- 43),mitochondrialdysfunction,endoplasmicreticulum(ER)
+mentofcognitive,behavioral,andmotorfunction;ahallmark stress, excitotoxicity, and neuroinflammation. Moreover,
+of these disorders is synaptic dysfunction and loss, with recent studies have presented evidence that, as the disease
+eventual irreversible neuronal dropout. In AD, synaptic progresses, pathologically misfolded proteins may spread
+1Departments of Molecular Medicine and Neuroscience, Neuroscience Translational Center, The Scripps Research Institute, La Jolla,
+California.
+2DepartmentofNeurosciences,UniversityofCaliforniaSanDiego,SchoolofMedicine,LaJolla,California.
+817
+
+---PAGE BREAK---
+
+818 NAKAMURA ANDLIPTON
+throughout thenervoussystemviacell-to-cell transmission, factors (such as ApoE polymorphism) and environmental
+propagatingthetoxiceffectsoftheabnormalproteinstore- influences (e.g., agricultural chemicals, air pollution, head
+cipient cells, including neurons and glia (39). Although the trauma, andlifestyle[such asdisturbanceofsleeping]). Im-
+mechanismsforthesekeyneurodegenerativefeaturesremain portantly, from work on experimental models of neurode-
+unclear, increased generation of reactive oxygen species generation, exposure to many disease-linked environmental
+(ROS)/reactivenitrogenspecies(RNS)isknowntoprecede factors is known to increase ROS/RNS production and thus
+or accompany these pathological processes, consistent with overcomes the brain’s antioxidant capacity, resulting in
+thenotionthatoxidativeandnitrosativestressrepresentsan oxidative/nitrosative stress (10, 108). Accordingly, in this
+importantcontributortopathogenesis(4,43). review, we propose the hypothesis that elevated production
+Along these lines, we and others have mounted evi- of ROS/RNS is a critical pathogenic mediator of common
+dencethatelevatedproductionofRNS,includingnitricoxide sporadiccasesofneurodegenerativedisordersviatriggering
+(NO)-related species, engenders aberrant post-translational post-translational modifications on specific proteins, thus
+modifications on specific cysteine residues (i.e., protein mimicking pathological manifestations of rare genetic mu-
+S-nitrosylation),contributingtopathologicaldisturbancesin tations.Tosupportthisnotion,wehighlightclassicalfindings
+neural networks, synaptic function, and neuronal survival andnew studieswith particular focus onimpairmentof mi-
+(81,82).Analogoustootherpost-translationalmodifications, tochondrial metabolism and function. We show that aber-
+S-nitrosylation can affect a protein’s enzymatic activity, rantly S-nitrosylated (or nitrated) proteins can contribute to
+cause conformational changes (including protein aggrega- diseasepathogenesis.
+tion),alterprotein–proteininteractions,andinfluenceprotein
+localization,thusactingasanimportantsignalingmechanism
+RNS Generation inthe CentralNervous System
+under both physiological and pathological conditions. In
+distinction to other post-translational modifications such as Inmammaliancells,threeisoformsofnitricoxidesynthase
+phosphorylation, protein S-nitrosylation can occur both in- (NOS) predominantly generate NO, involving enzymatic
+tracellularly and extracellularly. Moreover, at low levels of conversion of l-arginine to l-citrulline and NO (15). The
+RNS, protein S-nitrosylation represents a normal signaling mammalianbrainexpressesallthreeisoforms:neuronalNOS
+process. For example, basal levels of NO support normal (nNOSorNOS1),inducibleNOS(iNOSorNOS2),anden-
+mitochondrial function in part via S-nitrosylation of tran- dothelial NOS (eNOS or NOS3). As their names indicate,
+scriptionfactors,suchasCREBandp53(8,121),drivingthe nNOSisprimarilypresentunderbasalconditionsinadiscrete
+expression of proliferator-activated receptor gamma coacti- populationofneurons,andeNOSisinthebrainvasculature,
+vator1athatpromotesmitochondrialbiogenesis.Incontrast, althoughitdoesexistinneuronstosomedegree.Incontrast,
+athighlevelsofRNS,asoccursinmanyneurodegenerative acute inflammatory stimuli induce expression of iNOS
+disorders, aberrant protein S-nitrosylation involves reaction mainlyinastrocytesandmicroglia.AllNOSproteinsexistas
+with cysteine residues that would not normally become ni- homodimers and bind to calmodulin for NO production;
+trosylated and often do not have a full consensus motif of however, while nNOS and eNOS require an increase in in-
+flanking amino acids that facilitate S-nitrosylation by lower tracellular calcium concentration for calmodulin binding,
+levelsofRNS(82,122).Giventhefactthatcysteinesareoften iNOScanbindtocalmodulinatphysiologicallylowcalcium
+locatedintheactivesiteofenzymes,aberrantS-nitrosylationat concentrations. Thus, after induction, iNOS constitutively
+thesesitescanseriouslycompromisenormalfunction.Forin- generatesNO.
+stance, aberrant S-nitrosylation of dynamin-related protein 1 Inthebrain,whenproducedatphysiologicallevels,RNS/
+(Drp1)andphosphataseandtensinhomolog(PTEN)-induced ROSgenerallysupportnormalneuronalsignaling,function,
+putativekinaseprotein1(PINK1)alterstheirenzymaticac- andsurvival,whereaselevatedproductionofRNS/ROScan
+tivities, leading to abnormalities in mitochondrial bioener- contribute to protein misfolding, mitochondrial/bioener-
+getics,morphology,andqualitycontrol,asdiscussedindetail getic dysfunction, ER stress, synaptic injury, and other
+insubsequentsectionsofthisreview(22,87).Additionally, forms of neuronal damage (82). For example, mild activa-
+another type of RNS, peroxynitrite (ONOO-), can lead to tion of N-methyl-d-aspartate (NMDA)-type glutamate re-
+post-translationalmodificationoftyrosineresidues,knownas ceptors at neuronal synapses causes calcium influx that
+protein nitration, andalso contributes to mitochondrial dys- physiologically activates nNOS, which is tethered to the
+function, among other disturbances (33, 51). In this review NMDAreceptorcomplexviaPSD-95.Thus,physiological/
+article,dedicatedtotheSpecialForumIssueof‘‘Mitochon- phasicsynapticactivityisimportantformaintainingnormal
+drial Metabolism and Mitophagy,’’ we will focus on the neuronalfunction,includingmitochondrialmetabolismand
+pathological effects of NO-dependent post-translational memory formation. By contrast, excessive/tonic stimula-
+modifications leading to mitochondrial dysfunction in neu- tionofNMDAreceptors,particularlyatextrasynapticsites,
+rodegenerativedisorders. initiates overactivation of nNOS, leading to pathological
+Thereareatleasttwoclassificationsofneurodegenerative production of RNS; moreover, ROS levels can also be el-
+diseases: rare familial cases (typically <5%–10% of all pa- evated by NMDA receptor stimulation (61, 77) (Fig. 1).
+tients) and the much more common sporadic cases (>90%– Furtheralongtheselines,invivostudiesfoundthatgenetic
+95%).Thefamilialcasesaregenerallyearlyonset(beforeage ablationofnNOSprovidessomedegreeofneuroprotection
+65) and due to a mutation in a single disease-causing gene, againstNMDAtoxicity(5),ischemicinjury(49),andtoxin-
+such as a-synuclein, PINK1, or Parkin in PD, and amyloid induced PD-like neuropathology (97). Moreover, with ag-
+precursorproteinorpresenilin1inAD.Incontrast,sporadic ing or neurodegenerative disorders,high concentrations of
+forms are generally of late onset, have no familial predis- NOfromNOScancontributetoneurotoxicityviainhibition
+position,andlikelyarisefromacombinationofgeneticrisk of mitochondrial respiration and activation of cell death
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 819
+mitochondrial damage and neuronal injury (123). Consistent
+with these findings, genetic ablation of iNOS ameliorates
+neuropathologicalabnormalitiesinmodelsofbothPDandAD
+(66,84).Notwithstandingthesereports,onestudyshowedthat
+deletion of iNOS actually aggravates behavioral deficits and
+neuropathologyinamousemodelofAD,suggestingthatNO-
+mediatedeffectsdependondiseasecontext,redoxmilieu,and
+additionalasyetunknownfactors(67,140).
+NO-DependentPost-Translational Modifications
+Protein S-nitrosylation
+NO was initially demonstratedto exertits biological func-
+tion via activation of guanylyl cyclase (GC), followedby the
+production of cyclic guanosine monophosphate (50, 78, 90).
+However,emergingevidencesuggeststhat,inlargepart,pro-
+tein S-nitrosylation mediates NO-dependent signal transduc-
+tion pathways (even regulating GC activity), affecting both
+physiologicalandpathophysiologicalprocesses(33,48,82).S-
+nitrosylation is a reversible post-translational modification in
+whichanNOgroupiscovalentlyattachedtoaspecificcysteine
+thioltoformanS-nitrosothiol(SNO).Mechanistically,wefa-
+vorthisreactionproceedingthroughthechemicalintermediate
+of a nitrosonium cation (NO+, which is not present in a free
+FIG. 1. NO-dependent signaling contributes to neuro- stateatphysiologicalpH).Thisintermediatereactswithafree
+degeneration. While physiological production of NO af- cysteine thiol (or more properly thiolate anion, –S-) (48, 68,
+fords neuroprotective effects, pathologically high levels of 82).Forthisreactiontooccur,atransitionmetalisneededfor
+NO mediate signaling pathways that contribute to neuronal electrontransfer,althoughoxidationmaypotentiallytakeplace
+damage and synaptic loss. In general, low levels of NO (i) very slowly in vitro in the absence of a transition metal. For
+activate sGC to produce cGMP and (ii) trigger neuropro- example, copper ions may act as an electron acceptor to fa-
+tectiveS-nitrosylation(SNO)eventssuchasS-nitrosylation cilitatethetransferof[NO+]equivalents(bracketstoindicate
+of NMDARs (forming SNO-NMDAR), mediating cell pro-
+thisgenerallyrepresentsachemicalintermediateratherthanthe
+tective functions of NO (left). In contrast, in neurodegen-
+free cation) (36). It should be noted, however, that some au-
+erative diseases, the increased activity of iNOS and nNOS
+thorities have proposed direct thiyl radical/(cid:2)NO radical re-
+due to neuroinflammation and overstimulation of extra-
+synaptic NMDARs, respectively, results in excessive NO actionstomediateproteinS-nitros(yl)ation(128).Moreover,
+production (right). In several neurodegenerative disorders, S-nitrosylating enzymes (nitrosylases) and denitrosylating
+high levels of NO contribute to mitochondrial dysfunction enzymes (denitrosylases) generally control the reactions
+and protein misfolding via aberrant protein S-nitrosylation in vivo when physiological amounts of NO are involved.
+in which cysteine residues undergo SNO modification. In EnzymaticallymediatedS-nitrosylationmaynotberequired
+general, these aberrant reactions do not occur with physi- when excessive levels of NO are present that can aber-
+ological levels of NO but can occur with higher levels
+rantly S-nitrosylate a protein. NO-related species engender
+whenapartialSNO-facilitatingaminoacidmotifispresent
+S-nitrosylationonspecific/criticalthiolgroupsofproteins
+near the target cysteine. Additionally, NO can react with
+superoxide (O -) to generate peroxynitrite (ONOO-), me- (forming SNO-proteins). Additionally, low molecular
+2 weight(LMW)compounds,suchasl-cysteine,glutathione,
+diatingneurotoxicitythroughnitrationoftyrosineresidues
+(Tyr-NO ), lipid peroxidation, and other pathological re- and co-enzyme A, can be used to produce SNO-cysteine,
+2
+actions. cGMP, cyclic guanosine monophosphate; iNOS, S-nitroso-glutathione (GSNO), and S-nitroso-co-enzyme A
+inducible nitric oxide synthase; NMDAR, N-methyl-d- (SNO-CoA),respectively(3,13)(Fig.1).Moreover,weand
+aspartate-type glutamate receptor; nNOS, neuronal nitric othershavefoundaprominentrolefortransnitrosylation,that
+oxide synthase; NO, nitric oxide; NOS, nitric oxide syn- is, transfer of an NO group from one SNO-molecule to an-
+thase;sGC,solubleguanylatecyclase;SNO,S-nitrosothiol.
+other reactive cysteine residue on an acceptor protein; this
+Color images are available online.
+reaction likely represents a major mechanism for genera-
+tion of SNO-proteins in vivo (56, 76, 80, 83) (Fig. 2). Im-
+portantly, in protein–protein transnitrosylation reactions,
+pathways(16).Forexample,iNOS-mediatedNOproduction thedonorSNO-proteinandtheacceptorproteinserveasthe
+contributes to aggregated a-synuclein, causing a decrease in S-nitrosylating and denitrosylating enzymes, respectively,
+mitochondrial respiratory capacity, downregulation of the thereby acting as signaling molecules to regulate SNO-
+mitochondrial fusion protein, OpaI, and a selective loss of dependentpathways.Notably,whentheNOgroupleavesthe
+dopaminergic neurons (129). In addition, iNOS-derived NO protein,thepriorSNO-inducedalterationinlocalstructureor
+may elicit neuronal glutamate release that further augments conformationmaypotentiallyallowthesamethiolgroupto
+NMDA receptor-dependent excitotoxicity, involving addi- reactwithlessreactiveROS(42).ROSareoftengeneratedin
+tionalgenerationvianNOSactivation,andthuscontributingto excess quantities under pathophysiological conditions, and
+
+---PAGE BREAK---
+
+820 NAKAMURA ANDLIPTON
+tertiaryprotein structure (29,73).Inaddition, ahydrophobic
+environment, as occurs in lipid membranes or within a par-
+ticular protein structure, aids in SNO formation because hy-
+drophobicity promotes the formation of the nitrosylating
+species(124).
+Importantly, with excessive generation of RNS, as occurs
+duringnormalagingorinmanyneurodegenerativedisorders,a
+partial SNO motif will support S-nitrosylation of a cysteine
+residue, which is not targeted for S-nitrosylation by physio-
+logicallevelsofNO-relatedspecies.Thus,elevatedproduction
+of RNS often leads to aberrant formation of SNO-proteins,
+appearingonlyunderdiseaseconditions.Additionally,locali-
+zationofaSNOtargetcysteineinaproteincomplexcontaining
+NOS can facilitate S-nitrosylation. In this case, high local
+concentrations of NO may (i) result in auto-S-nitrosylation
+of NOS, possibly via the transition metal pathway; or (ii)
+contribute to the generation of nitrosylating species that S-
+nitrosylate nearby proteins (82, 120, 124). For example,
+tethered via a PSD-domain, nNOS is located in a complex
+withtheNMDAreceptor.CalciuminfluxthroughtheNMDA
+receptor-associated ion channel stimulates nNOS activity,
+FIG. 2. Transnitrosylation effects enzymatic deni- resulting inS-nitrosylation of boththeNMDA receptor and
+trosylation from one protein and S-nitrosylation of an-
+PSD-95(65,67,82).
+other recipient protein. (A) Transnitrosylation entails
+Also, as introduced above, accumulating evidence im-
+transferofanNOgroupfromonethioltoanotherthiol.For
+plies that protein–protein transnitrosylation plays a major
+example, LMW-SNOs, such as GSNO or SNO-CoA, can
+role in cellular SNO formation (Fig. 2). In this case, the
+transnitrosylatetargetproteinstogenerateanewSNO-protein
+(designated ‘‘LMW compound—protein transnitrosylation’’). protein–protein interaction underlies precisely regulated
+(B)SNO-proteinsthusgeneratedcantransfertheNOgroupto transferoftheNOgroupfromthedonor(transnitrosylating)
+another protein via ‘‘protein–protein transnitrosylation.’’ protein to an acceptor (denitrosylating) protein. As an ex-
+Here, the NO donating protein serves as an S-nitrosylase, ample, we demonstrated that SNO-caspase-3 acts as a
+whereas the NO accepting protein acts as denitrosylase transnitrosylasetowardXIAP,resultingintheformationof
+(having removed the NO group from the donating SNO- SNO-XIAP and thus inhibition of the protein’s anti-
+protein); thus, this reaction occurs in an enzymatic manner.
+apoptotic activity; concurrently, denitrosylation of the ac-
+GSNO, S-nitroso-glutathione; LMW-SNOs, low-molecular-
+tive/cleaved form of caspase-3 results in its reactivation
+weight S-nitrosothiols; SNO-protein, S-nitrosylated protein;
+(83). Interestingly, interfering with this caspase-3–XIAP
+SNO-CoA, S-nitroso-co-enzyme A. Color images are avail-
+interaction,forexample,byusingapro(uncleaved)-formof
+able online.
+SNO-caspase-3 or D148A mutant XIAP, inhibited the
+transnitrosylation reaction, consistent with the notion that
+specific protein–protein interaction is required for the
+this can result in sulfenic acid (–SOH) derivatization of the
+transnitrosylationreactiontooccur.
+thiol. This adduct can be further oxidized to yield hyperox-
+Additionally, transnitrosylation reactions occur not only
+idationproducts,namelysulfinicacid(–SO H)andsulfonic
+2 from one SNO-protein to another protein but also from
+acid (–SO H) derivatives, suggesting that these more stable
+3 LMW-SNOstoproteins(Fig.2)(48,82,124).Enzymesthat
+(and, in the case of –SO H, irreversible) hyperoxidative
+3 can mediate denitrosylation include S-nitroso-glutathione
+modifications can also participate in NO-initiated patholog-
+reductase (GSNOR), SNO-CoA reductase (SCoR), thior-
+icalprocesses(20,42,110).
+edoxin(Trx),andTrx-relatedprotein14kDa(3,13,124).As
+anexample,theactivesitecysteineofTrxcanfacilitatede-
+nitrosylation of target SNO-proteins, including SNO-
+SNO(S-nitrosylation reaction)specificity
+caspases and SNO-GAPDH, leading to the liberation of an
+Although most cellular proteins contain multiple cysteine NO group and the formation of an intermolecular disulfide
+residues,NOgroupsonlytargetaspecificpopulationofthiols bondbetweenTrxandthetargetprotein(12,18).
+toformSNO-proteins(48,65, 67, 82, 124). Several contrib- Inaddition,GSNOR-andSCoR-dependentmetabolismof
+uting mechanisms have been implicated in governing SNO LMW-SNOscanpreventtheformationofSNO-proteinsdue
+specificity: acid–base and hydrophobic motifs, proximity to to decreased transnitrosylation from these LMW-SNOs. In
+the NOS complex, and protein–protein transnitrosylation. contrast, GSNOR-deficient mice show greatly increased
+Concerningtheacid–basemotif,ourgrouporiginallyproposed protein S-nitrosylation, producing phenotypes in part re-
+thatthe presenceofthe charged acidicand basic amino acid sembling advanced aging and presymptomatic processes of
+sidechains that are located in close proximity to the target neurodegenerativedisorders,suchasproteinmisfoldingand
+cysteinelowersitspKatofacilitateSNOformation(48,122). mitochondrial dysfunction (104). Moreover, in the kidney,
+Notably,laterproteomicsandstructuralstudiesconfirmedthat decreasedSCoRactivityresultsinincreasedS-nitrosylation
+the acid–base SNO motif can support protein S-nitrosylation ofpyruvatekinaseM2,whichinhibitsthefinalstepsofgly-
+whenitexistswithina6–8A˚ distancefromthetargetsiteina colysis. This inhibition results in a metabolic switch from
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 821
+glycolysis to the pentose phosphate pathway, reportedly in-
+creasingantioxidantcapacitytoenhancecellsurvival(150).
+Despite being expressed in the brain, the possible role of
+SCoR in protein S-nitrosylation in the nervous system is as
+yetunknown(57,150).
+Tyrosine nitration
+After production from NOS, (cid:2)NO can very rapidly react
+with another free radical, superoxide, to produce ONOO-
+(100). Apparent decomposition of peroxynitrite generates
+(cid:2)NO ,whichcanpromotetyrosinenitrationwiththeforma-
+2
+tion of 3-nitrotyrosine, often associated with aberrant and
+pathologicalNOsignaling(11,34,51)(Fig.1).Chemically,
+tyrosine nitration is thought to be generated by a two-step,
+free radical-mediated process: a one-electron oxidation of
+tyrosine, producing tyrosyl radical, is followed by a
+radical-radical coupling reaction of the tyrosyl radical and
+(cid:2)NO , thus attaching a nitro group (–NO ) to the three-
+2 2
+positionofthephenolicringofthetyrosineresidue.Although
+nitration appears to favor certain tyrosine residues, the
+mechanism for selective tyrosine nitration remains largely
+unknown (34). Notably, peroxynitrite can also facilitate
+disulfide bond formation between vicinal cysteines, as can
+S-nitrosylationofoneofthecysteines(68,101).Inaddition,
+similar to other post-translational modifications such as
+proteinS-nitrosylation,tyrosinenitrationisthoughttoaffect
+theconformationandactivityoftargetproteins.Forexample, FIG. 3. Representative SNO-proteins mediating mito-
+nitration of a-synuclein, Ab, and Tau accelerates their ag- chondrial dysfunction in neurodegenerative disorders.
+gregationandoccursinhumanbrainswithneurodegenerative Emerging evidence suggests that neurotoxic levels of NO
+disorders (38, 59, 103), consistent with the notion that the trigger aberrant S-nitrosylation of key proteins, including
+augmented NO/nitration pathways contribute to disease TCA cycle enzymes, mitochondrial fission protein Drp1,
+pathogenesis.Additionally,tyrosinenitrationofa-synuclein and mitophagy-related proteins PINK1 and Parkin, con-
+tributing to impairment of mitochondrial metabolism, mi-
+isassociatedwithanautophagicresponseinperipheralblood
+tochondrial dynamics, and mitophagy. As a consequence,
+cells of individuals with idiopathic PD (96). Interestingly,
+these SNO reactions promote excessive mitochondrial
+peroxynitrite can also react with free thiol to yield the sul-
+fragmentation,accumulationofdamagedmitochondria,and
+fenic acid (–SOH) derivative, at least in vitro (101), sug-
+bioenergetic compromise, thus contributing to synaptic
+gesting that peroxynitrite-mediated oxidative modifications damage, characteristic of many neurodegenerative disor-
+ofcysteineresidues(i.e.,forming–SOH,–SO 2 H,or–SO 3 H) ders. Drp1, dynamin-related protein 1; PINK1, PTEN-
+can also occur, and this may potentially contribute to the induced putative kinase protein 1; PTEN, phosphatase and
+disease process. In recent years, mitochondrial function has tensin homolog; TCA, tricarboxylic acid. Color images are
+been reported to be influenced by increasing numbers of S- available online.
+nitrosylated or nitrotyrosinated proteins [e.g., MEF2C (88,
+108), Bcl-2 (6), PPARc (119), and mitochondria-associated
+caspases(12,117)].Therefore,inthefollowingsections,we erative diseases. The first evidence to support such a con-
+focus on protein S-nitrosylation and tyrosine nitration that ceptcamefromahumanstudywherebytheinadvertentuse
+directly affect mitochondrial metabolism, morphology, and (viaillicitdrugcontamination)of1-methyl-4-phenyl-1,2,3,6-
+mitophagy(Fig.3). tetrahydropyridine, a prodrug to MPP+, interfered with mi-
+tochondrial respiration and increased ROS/RNS production
+Impairment ofMitochondrial Metabolism indopaminergicneurons,therebycausingparkinsonian-like
+in Neurodegenerative Diseases symptoms in the patients (62). Subsequently, over the next
+several decades, numerous studies demonstrated that mito-
+Mitochondrial metabolisminthe brain
+chondrial dysfunction,including not only impairment inres-
+Neuronsdemandsubstantialenergyforthemaintenanceof piration/energy(i.e.,ATP)productionbutalsomitochondrial
+membrane potential and synaptic function. Hence, efficient DNA defects, abnormal Ca2+ handling, imbalance in redox
+energy production from functional mitochondria represents homeostasis, alterations in mitochondrial morphology, and
+avitalcellulareventforneuronal/synapticactivity,plasticity, aberrantmitochondrialqualitycontrol,maycontributetoand
+and survival. Additionally, mitochondria are known to regu- even underlie the pathogenesis of neurodegenerative condi-
+late apoptosis and cellular calcium storage, making them an tions. For instance, our group demonstrated that PD-related
+even more important organelle for neurons. Consistent with environmental toxins decrease mitochondrial respiration in
+thesenotions,dysregulationofmitochondrialmetabolism/ dopaminergicneuronsderivedfromhumaninducedpluripotent
+function is linked to the pathogenesis of neurodegen- stem cells (hiPSCs), and the presence of genetic factors
+
+---PAGE BREAK---
+
+822 NAKAMURA ANDLIPTON
+aggravate such impairment (108). Interestingly, this type of pears to be critical, at least under basal conditions (Fig. 4).
+mitochondrialdysfunctionresulted,atleastinpart,fromthe These findings suggest that disturbances in either astrocytic
+formationofSNO-MEF2C. glycolysis or neuronal oxidative metabolism can lead to
+Interestingly, while adult neurons mainly rely on mito- impairmentinenergymetabolisminthebrain.
+chondrial oxidative phosphorylation (OXPHOS) for ATP Emergingevidencesuggeststhatpathologicalinteractions
+production,glialcellspredominantlyleverageglycolysisfor between aberrant NO signaling and mitochondrial metabo-
+this purpose (72). In the adult brain, glucose is the major lism contribute to synaptic abnormalities and eventual cell
+source of energy/ATP production, although ketone bodies death during neurodegenerative diseases. Along these lines,
+may be utilized during development or glucose starvation. elevatedlevelsofNOcanleadtoaberrantS-nitrosylationof
+Additionally, neuronal stimulation in adult brains can tem- enzymesintheTCAcycleaswellasproteinsintheelectron
+porarilytriggerneuronalglycolysis(28).Concerningglucose transport chain (ETC), compromising their enzymatic ac-
+metabolism in the brain, the Magistretti group proposed an tivity (81). For instance, direct S-nitrosylation and/or nitra-
+interestingmodeltermedtheastrocyte–neuronlactateshuttle tionofkeysubunitsincomplexesI,II,IV,andVintheETC
+(72, 92), whereby astrocytes generate lactate via glycolysis inhibittheirrespirationactivityandconsequentlytheirability
+and export lactate to neurons for conversion into pyruvate, togenerateATP.Inthisreview,wehighlighttherelationship
+feeding into the tricarboxylic acid (TCA) cycle, which ap- between aberrant NO signaling and TCA cycle enzymes/
+FIG. 4. Protein S-nitrosylation and energy metabolism in the brain. In adult brains, high glycolytic activity in
+astrocytes produces lactate, which is transported to neurons through the ANLS system. Lactate taken up into neurons is
+converted to pyruvate for mitochondrial oxidative metabolism (OXPHOS). To facilitate TCA cycle activity, neurons can
+also leverage the PPP to produce pyruvate. Additionally, during intense neuronal stimulation or under conditions of
+nutrient depletion, neurons may utilize glycolysis or fatty acid (ketone body) metabolism for the production of pyruvate/
+acetyl-CoA. Glutamate metabolism also helps maintain the TCA cycle in neurons via production of a-ketoglutarate.
+NADH generated from the TCA cycle is further utilized in the ETC to produce ATP. S-nitrosylation (SNO) of key
+enzymes in glycolysis, fatty acid metabolism, glutamate metabolism, the TCA cycle, and the ETC affects all these
+processes. aKGDH, a-ketoglutarate dehydrogenase; ACO, aconitase; ANLS, astrocyte–neuron lactate shuttle; CS, citrate
+synthase; ETC, electron transport chain; IDH, isocitrate dehydrogenase; MDH, malate dehydrogenase; NADH, reduced
+nicotinamide adenine dinucleotide; OXPHOS, oxidative phosphorylation; PDH, pyruvate dehydrogenase; PPP, pentose
+phosphatepathway;SCS,succinylCoAsynthetase;SDH,succinatedehydrogenase;TCA,tricarboxylicacid.Colorimages
+are available online.
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 823
+metabolites; the effects of NO-dependent post-translational TCA cycle. For instance, basal levels of NO promote
+modifications on mitochondrial OXPHOS have been exten- S-nitrosylationofverylong-chainacyl-CoAdehydrogenase,
+sively discussed in multiple recent review articles [see re- possibly enhancing fatty acid metabolism, whereas high
+views(37,81,95)]. levels of NO can aberrantly S-nitrosylate mitochondrial
+carnitine/acylcarnitine transporter, potentially impairing
+Effectsof NO signaling onthe TCA cycle fattyacidb-oxidation(30,130).Whileglucoseasafuelplays
+a major role in homeostatic adult brain metabolism, as dis-
+EnzymaticactivitiesrequiredfortheTCAcycletorunin
+cussedabove,ithasbeensuggestedthatneuronsmayalsouse
+the forward direction include aconitase (ACO), isocitrate
+fattyacidsasafuelunderspecificcircumstances,forexam-
+dehydrogenase, a-ketoglutarate dehydrogenase (aKGDH),
+ple,during early developmental stagesor nutrientdepletion
+succinyl-CoA synthetase, succinate dehydrogenase (SDH),
+(106, 113). The brain may not favor fatty acid metabolism,
+fumarase, malate dehydrogenase, and citrate synthase. Re-
+possibly because neuronal fatty acid b-oxidation is linked
+centS-nitrosoproteomeanalysesidentifiedalltheTCAcycle
+to high levels of oxidative stress, and intermediates of
+proteinsaspotentialtargetsofS-nitrosylation(7,25,30,64,
+b-oxidation are toxic to the brain mitochondria (114). Ad-
+93, 115, 127) (Fig. 4). Generally, S-nitrosylation of these
+ditionally, analysis of the S-nitrosoproteome has identified
+TCA proteins is inhibitory, thereby decreasing reduced ni-
+mitochondrial enzymes involved in ketone body utilization
+cotinamideadeninedinucleotide(NADH)productionneeded
+(ketolysis),includingsuccinyl-CoA:3-ketoacidcoenzymeA
+foractivityofcomplexIandtheETCtogenerateATP.For
+transferase 1 that catalyzes the rate-determining step in ke-
+instance,S-nitrosylationofACOoccursatcysteineresidues
+tolysis, as substrates for S-nitrosylation (30). Future studies
+responsible for the formation of the Fe–S cluster in the en-
+will be necessary to examine whether S-nitrosylation of
+zyme, possiblydisruptingiron–sulfurbinding(112).Asasec-
+proteins involved in b-oxidation or ketolysis serves as an
+ondexample,theaKGDHcomplex,comprisingthreeenzymatic
+important regulator of energy metabolism during periods
+components, aKGDH (E1), dihydrolipoamide succinyltrans-
+whenfattyacidmetabolisminfluencesbrainfunction.
+ferase (E2), and dihydrolipoamide dehydrogenase (E3), pro-
+Moreover,S-nitrosylationofseveralkeyenzymesingluta-
+ducessuccinyl-CoA,NADH,andFADH ,usingFAD,NAD+,
+2 mate metabolism and clearance, including glutamate trans-
+lipoic acid, Co-A, and thiamine pyrophosphate as cofactors.
+porter 1 or excitatory amino acid transporter 2, glutamate
+S-nitrosylationoftheaKGDHcomplexreportedlycanoccuron
+dehydrogenase (GDH), mitochondrial aspartate aminotrans-
+theE1componentleadingtoreversibleinhibition(25),although
+ferase (mAspAT),and glutamine synthetase (GS), appears to
+anotherstudyshowedthatS-nitrosylationoftheE1component
+regulate mitochondrial metabolism (102). During glutamate
+augmentstheaKGDHactivity(127).Moreover,S-nitrosylation
+catabolism, GDH and mAspAT catalyze oxidation of gluta-
+canalso occur on the E3 component of the aKGDHcomplex
+mate to produce a-ketoglutarate, which enters into the TCA
+(35), possibly inhibiting the enzymatic activity of E3 (143).
+cycleasasubstrateforaKGDH;however,S-nitrosylationcan
+However,sincemostofthesestudiesusedexogenousNOdo-
+inhibittheactivityofGDHandmAspAT,thuspotentiallyde-
+norsformonitoringtheaKGDHactivity,furtherstudiesusing
+creasinga-ketoglutarateavailability.
+modelsofneurodegenerativediseasesareneededtodetermine
+howendogenouslyproducedNOmightaffecttheaKGDHac-
+DefectsinMitochondrial DynamicsContribute
+tivity. In addition, peroxynitrite induces nitration of all three
+toNeurodegenerative Diseases
+subunitsintheaKGDHcomplex,inactivatingtheenzyme(118).
+In contrast to these inhibitory effects of NO, at least in Mitochondrialdynamics
+cancer cells, S-nitrosylation at Cys501of themitochondrial
+Mitochondria constantly undergo fusion and fission (col-
+chaperoneTRAP1,whichactsasanSDHinhibitor,facilitates
+lectivelytermedmitochondrialdynamics)underphysiological
+TRAP1degradation, therebyincreasingSDHlevelsandac-
+conditions. These processes result in distinct mitochondrial
+tivity(105).DirecteffectsofS-nitrosylationofSDHremain
+morphologies.Thedynamicnatureofmitochondrialfusionand
+unclear (127). Interestingly, because SDH also functions as
+biogenesis (resultingfrom fission) ensures proper distribution
+complex II in the ETC, SNO-TRAP1-dependent regulation
+of mitochondria to subcellular locations, including neuronal
+of SDH may simultaneously affect the activity of both the
+axons,presynapticterminals,andpostsynapticdendriticspines.
+TCA cycle and ETC. Notwithstanding these prior protein
+Critically, in these spines, Ca2+ homeostasis and ATP pro-
+S-nitrosylation/nitration findings, human brains with neuro-
+duction are required for normal synaptic maintenance and
+degenerative diseases, such as AD, have been reported to
+transmission.Additionally,mitochondrialdynamicsmodulate
+manifestdecreasedTCAcycleenzymaticactivity,including
+apoptosis,ROSgeneration,mitophagy,andbioenergetics(19,
+ACO, isocitrate dehydrogenase, and aKGDH (17). Hence,
+126).Alongtheselines,animbalanceinmitochondrialfission
+these findings are consistent with the hypothesis that S-
+and fusion has been linked to a variety of human diseases,
+nitrosylation and possibly oxidation of TCA cycle-related
+includingneurodegenerativedisorders(23,125).
+proteins compromise mitochondrial TCA cycle activity,
+While many proteins affect mitochondrial morphology,
+contributing to the development of neurodegenerative con-
+four large GTPases constitute the core machinery for mito-
+ditionsbecauseofbioenergeticcompromise.
+chondrialdynamics:mitofusin1(Mfn1),Mfn2,opticatrophy
+1 (OPA1), and Drp1 (Fig. 5). Mfns and OPA1 mediate mi-
+Effectsof NO signaling onother aspects
+tochondrial fusion; Mfn1 and Mfn2 are responsible for the
+of mitochondrialmetabolism
+fusionofoutermitochondrialmembranes,andOPA1supports
+NOmayalsoaffectmitochondrialmetabolismthroughS- the fusion of inner mitochondrial membranes. By contrast,
+nitrosylation of proteins associated with fatty acid b- Drp1 acts as a mitochondrial fission protein. To initiate mi-
+oxidation, producing acetyl-CoA from fatty acids for the tochondrial fission, Drp1 translocates from the cytosol to
+
+---PAGE BREAK---
+
+824 NAKAMURA ANDLIPTON
+elongated structures due to decreased mitochondrial fission.
+Consistent with this human case, Drp1-deficient mice dem-
+onstrate elongated mitochondria, abnormalities in synapse
+formation,andembryoniclethality(52,133).Thus,thesere-
+sults argue that basal Drp1 activity supports physiological
+mitochondrialfissionformaintenanceofpropermitochondria
+distribution and bioenergetics in neurons, as well as in other
+celltypes.Additionally,normallevelsoffissioncanfacilitate
+removal of small mitochondria through mitophagy as dis-
+cussedinthefollowingsections.
+S-nitrosylation of Drp1 inneurodegenerative diseases
+Modelsofneurodegenerativedisorderssimulatedbytheap-
+plicationofAD-relatedAboligomers,exposuretoPD-related
+environmental toxins (e.g., rotenone, 6-hydroxydopamine), or
+expressionofmutanthuntingtin(mHtt)tomimicHuntington’s
+disease (HD) all induce Drp-1 dependent, excessive mito-
+chondrial fragmentation, in part via an increase in ROS/RNS
+(9, 40, 70). Along these lines, our group and subsequently
+others found that Drp1 activity became overactivated by S-
+nitrosylationandpossiblyfurtheroxidationofDrp1atCys644
+(1,2,22,47,55,63,79,85,104,134,135).WhileS-nitrosylated
+Drp1(SNO-Drp1)appearsinthebrainswithvariousneurode-
+generative disorders, as discussed below, studies with AD
+models exemplify the pathophysiological relevance of forma-
+FIG. 5. Mechanistic schema of SNO-Drp1-mediated
+tionofSNO-Drp1 (2, 22, 99, 134,135). In responsetooligo-
+excessivemitochondrialfragmentation.Mitochondriacan
+mericAbornitrosativestress,Drp1isS-nitrosylatedwithinthe
+undergo fusion and fission, referred to as mitochondrial
+dynamics. Opa1 and Mfns typically mediate mitochondrial GED domain, facilitating dimerization and allosteric upregu-
+fusion, whereas Drp1 facilitates mitochondrial fission. Ba- lation of the GTPase activity (22). Accordingly, SNO-Drp1
+lanced mitochondrial dynamics play an important role in formation leads to excessive mitochondrial fragmentation,
+maintaining a proper mitochondrial network in neurons. bioenergetic failure, and consequently synapse loss/neuronal
+OligomerizedAbinAD,mHttexpressioninHD,andscrapie injury(Fig.5)(22).RecentstudiesfurtheridentifiedCdk5and
+in TSE can all induce aberrant S-nitrosylation of Drp1 that possibly protein disulfide isomerase as S-nitrosylases toward
+hyperactivates its GTPase activity, resulting in excessive
+Drp1, enhancing SNO-Drp1 formation through direct transni-
+fragmentation of mitochondria. Fragmented mitochondria
+trosylation(63,99,132).Notably,expressionofaDrp1mutant
+result in injured cristae and bioenergetic compromise with
+lacking the S-nitrosylation site ameliorated synaptic loss in-
+decreased ATP production, thereby contributing to neuronal
+duced by Ab oligomers, consistent with our hypothesis that
+injury and synaptic loss in neurodegenerative diseases. Ab,
+amyloid-b; AD, Alzheimer’s disease; HD, Huntington’s dis- SNO-Drp1 plays a causal role in the pathogenesis of AD. In
+ease; Mfn, mitofusin; mHtt, mutant huntingtin; Opa1, optic agreementwiththisnotion,weandsubsequentlyothersfound
+atrophy 1; TSE, transmissible spongiform encephalopathy. significantlyincreasedlevelsofSNO-Drp1inthepostmortem
+Color images are available online. humanADbrains(22,135).Intriguingly,wealsoshowedthat
+elevated levels of glucose, as seen in metabolic syndrome
+(MetS) and type 2 diabetes mellitus (T2DM), increase NO
+mitochondria, binds to mitochondria fission factor, and oli- production and subsequent SNO-Drp1 formation coordinately
+gomerizes to form a ring-like structure at the mitochondrial withAboligomers(2).BecauseT2DM/MetSrepresentsakey
+scissionsite.ConstrictionoftheDrp1ringstructureuponGTP riskfactorforthedevelopmentofAD(14),theseresultsprovide
+hydrolysistheninitiatesmitochondrialfission,producingtwo mechanistic insight into the epidemiological association be-
+mitochondria from a single mitochondrion. Drp1 contains tween these metabolic and cognitive diseases. By contrast,
+severalfunctionaldomainsthatexecutemitochondrialfission, calorie restriction (CR) delays the onset of neurodegenerative
+includingaGTPasedomain,adynamin-likemiddledomain, phenotypes in some mouse models (41), and it has been sug-
+and a GTPase effector domain (GED). The intermolecu- gestedthatNO-dependentsignalingpathwaysmaymediate,at
+lar interactions of the GED domain facilitate the assembly least in part, the anti-aging effects of CR (116). Whether CR
+of higher order structures, for example, Drp1 dimers and decreasesS-nitrosylationofDrp1orothermitochondrial-related
+tetramers (147, 154), thus stimulating assembly-driven proteinsremainsasanopenquestion.
+GTPaseactivity. Morerecentstudieshaveidentifiedmultiplecellularmech-
+Several lines of evidence indicate that dysregulated Drp1 anisms acting upstream or downstream of SNO-Drp1 to en-
+activity leads to an imbalance in mitochondrial dynamics, hanceits neurotoxiceffects.First,asanupstreameffectorof
+contributingtothe development ofseveral neurologicalcon- SNO-Drp1inAD,markeddownregulationofmicroRNA-132
+ditions.Inhumans,adominant-negativemutation(A395D)in resultsinelevatedNOproductionduetoincreasedexpression
+the Drp1 gene was encountered that causes lethality in the ofnNOS(137).ThisleadstoaberrantS-nitrosylationofcrit-
+newborn (138). With this mutation, mitochondria display icalneuronalproteins,includingnotonlyDrp1butalsoCdk5
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 825
+and GAPDH. Additionally, as a downstream event of SNO- merousstudieshavesuggestedthatPINK1andParkin,whose
+Drp1-dependent excessive mitochondrial fragmentation, an- genemutationsarelinkedtofamilialformsofPD,regulatethe
+other study found that ROS released from fragmented process of mammalian mitophagy (94), although Parkin/
+mitochondria trigger elevated cytokine production in im- PINK1-independentmitophagyalsoexists(139).PINK1rep-
+mune cells (107). Since many cytokines stimulate NO resents a mitochondrially targeted serine/threonine kinase,
+production, this finding may represent a positive-feedback whereas the cytosolic protein Parkin possesses ubiquitin E3
+loop involving SNO-Drp1 and neuroinflammation during ligaseactivity.Under basal conditions, PINK1 protein levels
+Alzheimerpathogenesis. remainlow due to its high turnover rate; however,whenthe
+Interestingly, several research groups have now reported mitochondrial membrane potential drops, a sign of mito-
+SNO-Drp1-mediatedmitochondrialfragmentationandasso- chondrialdamage,PINK1accumulatesontheoutermembrane
+ciatedsynapticinjuryinmodelsofotherneurologicaldisease of the damaged mitochondrion. PINK1 then phosphorylates
+conditions,pointingtothepossibilitythatS-nitrosylationof ubiquitin,facilitatingtheselectiverecruitmentofParkintothe
+Drp1may serve asa commonmediator ofsynaptic damage mitochondrialmembrane,whichenhancesParkin’sE3ligase
+neurodegenerativeprocesses.Forexample,inmodelsofHD activity (58). Consequently, Parkin ubiquitinates mitochon-
+and transmissible spongiform encephalopathies (TSEs) (47, drialmembraneproteinstorecruitautophagy-relatedproteins,
+144), the formation of SNO-Drp1 was shown to contribute such as microtubule-associated protein 1A/1B-light chain 3
+to mHtt or scrapie-induced mitochondrial dysfunction and andp62,thusinitiatingmitophagy(Fig.6).Notably,defectsin
+synaptic injury. In the case of HD, aberrant expansion of a Parkin/PINK1-dependent mitophagy have been linked not
+trinucleotide CAG repeat in the htt gene translates into the onlytoPDbutalsotomanyotherneurodegenerativediseases,
+expandedpolyglutaminerepeatofmHttprotein,resultingin includingAD,ALS,andHD[reviewedinref.(136)].
+toxic misfolding of mHtt. The misfolded mHtt initially af- Aninitialstudyfromourgroupprovidedsomeofthefirst
+fects thestriatum,triggering anadult onset,neurodegenera- evidence that NO could affect neuronal mitochondrial dy-
+tive movement disorder. As the disease progresses, the namics and mitophagy (9). In that study, NO triggered ex-
+neuropathologyalsooccursinthecerebralcortex.Consistent cessive fragmentation of mitochondria, and these injured
+withthisaspectofdiseaseprogression,expressionofmHttin mitochondriawereengulfedinautophagosomes.Additional
+thestriatumandcortexwasfoundtocorrelatewithincreased evidencehasrevealedthatNOsignalingplaysacriticalrole
+SNO-Drp1 formation in HD transgenic mouse and human in mitophagy at multiple steps. For instance, under normal
+postmortemHDbrains.Usingcell-basedmodels,wefurther conditions, PINK1 recruits nNOS to mitochondria, and
+demonstrated that expression of non-nitrosylatable mutant physiological levels of NO from nNOS enhance Parkin
+Drp1 mitigates mHtt-induced mitochondrial fragmentation translocation to mitochondria to increase mitophagy (46).
+and synaptic damage. Hence, these findings suggest that However, until recently exactly how pathological levels of
+SNO-Drp1 acts downstream of mHtt, mediating signaling NOimpairmitophagyremainedunclear.Ourgrouprecently
+cascades contributing to degeneration of synapses and neu- demonstrated that following mitochondrial insult, aberrant
+rons in HD. Since S-nitrosylation of Drp1 appears to be S-nitrosylation of PINK1 at Cys568 inhibits its kinase ac-
+associated with AD, HD, TSE, and possibly PD, character- tivityanddisruptsParkintranslocation tothemitochondrial
+ization of SNO-Drp1-dependent pathways in other disease membrane, thus impairing Parkin/PINK1-dependent mito-
+statescouldfurtherstrengthentheunifyingroleofSNO-Drp1 phagy in dopaminergic neurons derived from hiPSCs (87)
+as a critical mediator of mitochondrial pathology in neuro- (Fig.6). Intriguingly,wefound that SNO-PINK1 formation
+degenerativedisorders. occurs at the presymptomatic stage in mouse PD models,
+As another example of SNO-regulated mitochondrial dy- consistent with the notion that SNO-PINK1 contributes to
+namics,aknock-inmouseline,inwhichendogenoustype1 mitophagydeficitsearlyinthepathogenesisofPD.
+ryanodine receptor (RyR1) was replaced with its non- In addition, SNO-Parkin levels have been reported to be
+nitrosylatablemutant(C3636A),demonstratedadecreasein greatlyelevatedinthepostmortemhumanbrainsofpatients
+mitochondrialfragmentation,therebyrescuingneuronalcell diagnosed with PD (26, 145). Moreover, in cell-based and
+deathinthehippocampusofakainicacid-inducedmodelof animal models, exposure of neurons to PD-related mito-
+temporal lobe epilepsy (75). S-nitrosylation of RyR1 is chondrial toxins (e.g., MPP+ or rotenone) or oligomeric a-
+knowntoincreaseCa2+releasethroughtheRyR1channelin synucleintriggersaberrantS-nitrosylationofParkin,leading
+theER(31).Hence,itwillbeimportantforfutureexperiments to abnormal mitochondrial morphology and mitophagy (89,
+to study the possible interaction between the SNO-RyR1/ 141,148)(Fig.6).Mechanistically,inthelaterstagesofPD,
+ER/Ca2+ pathway and SNO-Drp1-mediated mitochondrial S-nitrosylation of Parkin results in an increase in its
+fragmentation. ubiquitin-E3 ligase activity; intriguingly, this is followed
+temporally by a decrease in this activity (26, 145). Accord-
+NO-Induced Dysfunction inMitophagy/Autophagy ingly,theSNO-Parkinthusproducedcontributesnotonlyto
+Neurodegenerative Disorders deficits in mitophagy but also to the accumulation of mis-
+foldedproteins,suchassynphilin-1(26,89,145).Inaddition,
+NO/SNO and mitophagy
+S-nitrosylation of Parkin inhibits its binding to Drp1, thus
+Mitophagy involves a selective elimination of damaged decreasing Parkin ubiquitination of Drp1 and relatively in-
+mitochondria through the autophagy–lysosomal degradation creasingDrp1levels.TheresultingincreaseinSNO-Parkin-
+pathway.Impairmentofthiscellulardefensemachineryresults dependent Drp1 activity coincides with the appearance of
+in the accumulation of dysfunctional mitochondria typically excessivelyfragmentedmitochondriainneuronsexposedto
+associated with excessive production of ROS, eventually mitochondrial toxins (148), implicating SNO-Parkin in ab-
+leading to mitochondrial-dependent neuronal cell death. Nu- errantmitochondrialdynamics.
+
+---PAGE BREAK---
+
+826 NAKAMURA ANDLIPTON
+FIG. 6. Mitophagy and protein
+S-nitrosylation. Mitophagy repre-
+sents an autophagic process for re-
+moval of damaged mitochondria.
+Initially, translocation and stabili-
+zation of PINK1 on damaged mi-
+tochondria facilitate recruitment of
+Parkin to the mitochondrial mem-
+brane from the cytosol. Once trans-
+located, PINK1 phosphorylates
+Parkinaswellasubiquitintoenhance
+ubiquitinationofmitochondrialouter
+membrane proteins. Mitochondria
+thus marked are subsequently en-
+gulfed by autophagosomes for lyso-
+somal degradation. Hence, when
+normally functioning, mitophagy
+ameliorates neurotoxicity by remov-
+ing damaged or dysfunctional mito-
+chondria. S-nitrosylation of PINK1
+inhibits its kinase activity and thus
+attenuates mitophagy. In addition,
+S-nitrosylation of Parkin alters its
+ubiquitination activity, allowing
+accumulationofdamagedmitochon-
+dria. Note that SNO-Parkin forma-
+tioncanalsofacilitateanincreasein
+misfoldedproteins,inpart,because
+they are not properly ubiquitinated
+and removed by mitophagy or the
+ubiquitin-proteasome system. LC3,
+microtubule-associated protein 1A/
+1B-light chain 3; Ub, ubiquitin.
+Colorimagesareavailableonline.
+FurtherconcerningtheroleofSNO-Parkininmitophagy,a recent work has also suggested that nitrotyrosine formation
+recent study demonstrated that the initial increase in Parkin on other proteins may affect mitophagy. For example, ni-
+activityfollowingitsS-nitrosylationpromotesubiquitination tration of Mn superoxide dismutase (SOD2) inhibits its ac-
+of mitochondrial proteins destined for mitophagy, whereas tivity; the resulting increase in ROS may contribute to an
+thesubsequentdecreaseinParkinubiquitinE3ligaseactivity imbalanceinmitochondrialredoxhomeostasisandincreased
+decreasesmitophagy(89).Moreover,SNO-ParkinandSNO- mitophagy (27). However, the exact mechanism by which
+Drp1 are present in the GSNOR knockout model of aging/ nitratedMnSODupregulatesmitophagyremainsunclear,as
+senescence, and these S-nitrosylated proteins contribute to doesthepotentialpathologicalroleofthisevent.
+impairmentofmitochondrialdynamicsandmitophagy(104).
+Since this experimental model exhibits early signs of neu-
+SNO-proteins andautophagy
+rodegeneration, for example, aggregated a-synuclein, the
+formation of SNO-Parkin and SNO-Drp1 may represent an Macroautophagy(referredtohereasautophagy)elimina-
+earlypathogeniceventinneurodegenerativediseases. tes unwanted cellular components via a lysosomal degrada-
+Prior studies have also found that prolonged nitrosative tionpathwaythathelpsmaintainpropercellularhomeostasis
+stress results in tyrosine nitration of Parkin, thus inhibiting andproteostasis.Asdescribedabove,mitophagyisaspecial
+mitophagy (89). Nonetheless, in a different in vivo model form of autophagy that clears damaged mitochondria. In
+system, another group demonstrated that peroxynitrite acti- neurons, autophagic dysregulation (via either increased or
+vates mitophagy, possibly through nitration of Drp1 (32). decreased activity) disrupts the normal neuroprotective
+Hence,the preciseroleofnitrationonmitophagy meritsfur- function of autophagy, thus contributing to various disease
+therstudy.InadditiontonitrationofDrp1andParkin(32,89), statesincludinganumberofneurodegenerativedisorders.In
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 827
+this context, aberrant protein S-nitrosylation of autophagy- sistent with the notion that TRPM2 nitration contributes to
+related proteins can affect autophagy. Two classical path- autophagy-dependent pericyte injury. Intriguingly, pericyte
+ways that regulate autophagy involve thec-Jun terminal ki- injuryislinkedtodysfunctionoftheblood–brainbarrier,as
+nase (JNK)/Bcl-2/Beclin 1 cascade and the IjB kinase occursinstroke,AD,andotherneurodegenerativedisorders
+(IKK)b/AMPK/mTORC1cascade.Duringautophagy,JNK1 (146).Thus,infuturestudies,itwillbeinterestingtodeter-
+activation leads to Bcl-2 phosphorylation, which decreases mineifnitratedTRPM2affectsautophagyinothercelltypes,
+Bcl-2–Beclin1interactionandallowsBeclin1toparticipate andconsequentcelllossinneurodegenerativediseases.
+inautophagosomeformation.Inaddition,activationofIKKb
+results in phosphorylation of AMPK, which inactivates ConcludingRemarks
+mTORC1(apotentinhibitorofautophagy);thisoccursina
+Inthepresentreviewarticle,wehavehighlightedemerg-
+tuberous sclerosis complex (TSC) 2-dependent manner.
+ing roles for S-nitrosylated and tyrosine nitrated proteins in
+UsingcellculturemodelsofHD,Rubinszteinandcolleagues
+mitochondrial metabolism, mitochondrial dynamics, and
+presented evidence that inhibition of JNK1 and IKKb, pos-
+mitophagy/autophagy with a focus on neurodegenerative
+sibly via protein S-nitrosylation of each, mediates an inhib-
+diseases.WithrecentadvancementintheanalysisoftheSNO-
+itoryeffectonautophagy(109).
+proteome(30,115),weanticipatethatincreasingnumbersof
+Moreover,subsequentstudiesfoundthatadditionalSNO-
+SNO-proteinsthatdirectlyorindirectlyregulatemitochondrial
+proteins were involved in autophagy. For example, S-
+function will be identified. Interestingly, while many pro-
+nitrosylation of Bcl-2 stabilizes Bcl-2–Beclin 1 interaction
+teins are aberrantly S-nitrosylated in and contribute to the
+(142)(71),andS-nitrosylationofTSC2increasesmTORC1
+pathogenesisofneurodegenerativedisorders,interventionin
+activity (69); thus, both of these SNO reactions inhibit au-
+justafeworevenasinglecriticalSNOpathway(s),suchas
+tophagy. It has also been demonstrated that S-nitrosylation
+SNO-Drp1,SNO-Parkin,orSNO-PINK1,canalleviatemi-
+andthusinhibition ofPTEN,knowntoaffect themTORC1
+tochondrialdysfunctionandprotectcellsinmodelsofneu-
+activity,promotecellsurvival(24,45,60,86,91).Arecent
+rodegenerative diseases. Hence, identification of the SNO-
+studyshowedthatSNO-PTENaffordsprosurvivaleffectsin
+proteome in each neurodegenerative disorder is only the
+part via activation of mTORC1, causing inhibition of au-
+beginning, as characterization of critical SNO-dependent
+tophagy (152, 153). However, other studies have demon-
+pathwaysleadingtomitochondrialimpairmentandneuronal
+strated that NO can elicit cytotoxic activity via excessive
+injury will be critical to our understanding of the patho-
+augmentationofautophagy.NotwithstandingtheSNO-TSC2
+physiological role of protein S-nitrosylation in these con-
+study described above (69), NO has also been reported to
+ditions. Moreover, future studies aimed at abating aberrant
+activateTSC2andsuppressthemTORC1activitytoincrease
+protein S-nitrosylation may lead to new therapies for dys-
+autophagy;whetherproteinS-nitrosylationplaysaroleinthis
+regulated mitochondrial dynamics, metabolism, and mito-
+setting, however, remains to be established (131). Another
+phagyinneurodegenerativedisorders.
+effect of protein S-nitrosylation on autophagy has been re-
+ported by Snyder and colleagues. They found that cocaine
+stimulates the formation of SNO-GAPDH, which in turn Acknowledgment
+triggersaBeclin1-dependentformofautophagythatexertsa WethankScottR.McKercher(TheScrippsResearchIn-
+cytotoxic effect (44). Obviously, further studies will be es-
+stitute)forcriticalreadingofthearticle.
+sentialtoelucidatethedifferential effectsofS-nitrosylation
+of all these proteins and potentially others on autophagy,
+Funding Information
+particularly under conditions relevant to neurodegenerative
+diseases. ThisworkwassupportedinpartbytheNationalInstitutes
+Additionally, S-nitrosylation of lysosomal proteins may ofHealth(NIH)grantsRF1AG057409,R01AG056259,R01
+contribute to impaired autophagy. Obesity, as observed in NS086890andDP1DA041722(toS.A.L.),R01AG061845
+high-fat diet mice, leads to downregulation of the GSNOR (toT.N.),anawardfromtheCaliforniaTobacco-RelatedDis-
+activity in the liver, increasing S-nitrosylation of two lyso- ease Research Program (TDRP 27IR-0010), a Distinguished
+somalenzymes,hexosaminidasesubunitbandcathepsinB, Investigator Award from the Brain and Behavior Research
+thusinhibitingtheiractivities(98).Moreover,S-nitrosylation Foundation(toS.A.L.),andtheMichaelJ.FoxFoundation(to
+of lysosomal ATPase (Atp6v1a1 subunit) and cathepsin D S.A.L.andT.N.).
+has been reported (53, 151). However, whether these SNO-
+lysosomalproteinsplayacausalroleininhibitionofautop- References
+hagyremainsuncertain.Importantly,furtherworkisneeded
+1. Akaike T, Ida T, Wei FY, NishidaM, Kumagai Y, Alam
+toelucidatetheeffectsoftheseautophagy/lysosome-related
+MM, Ihara H, Sawa T, Matsunaga T, Kasamatsu S,
+SNO-proteins on autophagy in general and mitophagy in
+Nishimura A, Morita M, Tomizawa K, Nishimura A,
+particular using experimental models of neurodegenerative
+WatanabeS,InabaK,ShimaH,TanumaN,JungM,Fujii
+disorders.
+S, Watanabe Y, Ohmuraya M, Nagy P, Feelisch M, Fu-
+Finally,anotherstudydemonstratedthatnitrationoftran-
+kuto JM, and Motohashi H. Cysteinyl-tRNA synthetase
+sientreceptorpotentialmelastatin-related2(TRPM2)protein
+governs cysteine polysulfidation and mitochondrial bio-
+attyrosine1485inhibitsitsionchannelactivity,stimulating energetics. Nat Commun 8: 1177, 2017.
+autophagy during injury to brain pericytes; this form of au- 2. AkhtarMW,Sanz-BlascoS,DolatabadiN,ParkerJ,Chon
+tophagy activation may possibly involve the HIF (hypoxia- K,LeeMS,SoussouW,McKercher SR,AmbasudhanR,
+inducible factor)-1/2 pathways (21, 54). Notably, mutation Nakamura T, and Lipton SA. Elevated glucose and olig-
+of the nitration site in TRPM2 attenuates autophagy, con- omeric b-amyloid disrupt synapses via a common path-
+
+---PAGE BREAK---
+
+828 NAKAMURA ANDLIPTON
+way of aberrant protein S-nitrosylation. Nat Commun 7: 18. Chakravarti R and Stuehr DJ. Thioredoxin-1 regulates
+10242, 2016. cellular heme insertion by controlling S-nitrosation of
+3. AnandP,HausladenA,WangYJ,ZhangGF,Stomberski glyceraldehyde-3-phosphate dehydrogenase. J Biol Chem
+C, Brunengraber H, Hess DT, and Stamler JS. Identifica- 287: 16179–16186, 2012.
+tion of S-nitroso-CoA reductases that regulate protein 19. Chan DC. Mitochondrial fusion and fission in mammals.
+S-nitrosylation. Proc Natl Acad Sci U S A 111: 18572– Annu Rev Cell Dev Biol 22: 79–99, 2006.
+18577, 2014. 20. ChangTS,JeongW,WooHA,LeeSM,ParkS,andRhee
+4. Andersen JK. Oxidative stress in neurodegeneration: SG. Characterization of mammalian sulfiredoxin and its
+cause or consequence? Nat Med 10(Suppl): S18–S25, reactivation of hyperoxidized peroxiredoxin through re-
+2004. duction of cysteine sulfinic acid in the active site to cys-
+5. Ayata C, Ayata G, Hara H, Matthews RT, Beal MF, teine. J Biol Chem 279: 50994–51001, 2004.
+Ferrante RJ, Endres M, Kim A, Christie RH, Waeber C, 21. ChenSJ,HoffmanNE,ShanmughapriyaS,BaoL,Keefer
+HuangPL,HymanBT,andMoskowitzMA.Mechanisms K, Conrad K, Merali S, Takahashi Y, Abraham T,
+of reduced striatal NMDA excitotoxicity in type I nitric Hirschler-Laszkiewicz I, Wang J, Zhang XQ, Song J,
+oxide synthase knock-out mice. J Neurosci 17: 6908– Barrero C, Shi Y, Kawasawa YI, Bayerl M, Sun T, Bar-
+6917, 1997. bour M, Wang HG, Madesh M, Cheung JY, and Miller
+6. AzadN,VallyathanV,WangL,TantishaiyakulV,Stehlik BA. A splice variant of the human ion channel TRPM2
+C,LeonardSS,andRojanasakulY.S-nitrosylationofBcl- modulatesneuroblastomatumorgrowththroughhypoxia-
+2 inhibits its ubiquitin-proteasomal degradation. A novel induciblefactor(HIF)-1/2alpha.JBiolChem289:36284–
+antiapoptoticmechanismthatsuppressesapoptosis.JBiol 36302, 2014.
+Chem 281: 34124–34134, 2006. 22. Cho DH, Nakamura T, Fang J, Cieplak P, Godzik A, Gu
+7. Bak DW, Pizzagalli MD, and Weerapana E. Identifying Z, and Lipton SA. S-nitrosylation of Drp1 mediates b-
+functional cysteine residues in the mitochondria. ACS amyloid-relatedmitochondrialfissionandneuronalinjury.
+Chem Biol 12: 947–957, 2017. Science 324: 102–105, 2009.
+8. BaldelliSandCirioloMR.AlteredS-nitrosylationofp53 23. Cho DH, Nakamura T, and Lipton SA. Mitochondrial
+is responsible for impaired antioxidant response in skel- dynamics in cell death and neurodegeneration. Cell Mol
+etal muscle during aging. Aging (Albany NY) 8: 3450– Life Sci 67: 3435–3447, 2010.
+3467, 2016. 24. ChoiMS,NakamuraT,ChoSJ,HanX,HollandEA,QuJ,
+9. BarsoumMJ,YuanH,GerencserAA,LiotG,Kushnareva PetskoGA,YatesJR,3rd,LiddingtonRC,andLiptonSA.
+Y, Graber S, Kovacs I, Lee WD, Waggoner J, Cui J, TransnitrosylationfromDJ-1toPTENattenuatesneuronal
+White AD, Bossy B, Martinou JC, Youle RJ, Lipton SA, cell death in Parkinson’s disease models. J Neurosci 34:
+Ellisman MH, Perkins GA, and Bossy-Wetzel E. Nitric 15123–15131, 2014.
+oxide-induced mitochondrial fission is regulated by 25. Chouchani ET, Hurd TR, Nadtochiy SM, Brookes PS,
+dynamin-relatedGTPasesinneurons.EMBOJ25:3900– Fearnley IM, Lilley KS, Smith RA, and Murphy MP.
+3911, 2006. IdentificationofS-nitrosatedmitochondrialproteinsbyS-
+10. Beal MF. Experimental models of Parkinson’s disease. nitrosothiol difference in gel electrophoresis (SNO-
+Nat Rev Neurosci 2: 325–334, 2001. DIGE): implications for the regulation of mitochondrial
+11. Beckman JS, Beckman TW, Chen J, Marshall PA, and function by reversible S-nitrosation. Biochem J 430: 49–
+Freeman BA. Apparent hydroxyl radical production by 59, 2010.
+peroxynitrite: implications for endothelial injury from 26. ChungKK,ThomasB,LiX,PletnikovaO,TroncosoJC,
+nitricoxideandsuperoxide.ProcNatlAcadSciUSA87: Marsh L, Dawson VL, and Dawson TM. S-nitrosylation
+1620–1624, 1990. of parkin regulates ubiquitination and compromises
+12. Benhar M, Forrester MT, Hess DT, and Stamler JS. parkin’s protective function. Science 304: 1328–1331,
+Regulated protein denitrosylation by cytosolic and 2004.
+mitochondrial thioredoxins. Science 320: 1050–1054, 27. Dhar SK, Batinic-Haberle I, and St. Clair DK. UVB-
+2008. induced inactivation ofmanganese-containing superoxide
+13. Benhar M, Forrester MT, and Stamler JS. Protein deni- dismutase promotes mitophagy via ROS-mediated
+trosylation:enzymaticmechanismsandcellularfunctions. mTORC2 pathway activation. J Biol Chem 294: 6831–
+Nat Rev Mol Cell Biol 10: 721–732, 2009. 6842, 2019.
+14. Biessels GJ, Staekenborg S, Brunner E, Brayne C, and 28. Diaz-Garcia CM, Mongeon R, Lahmann C, Koveal D,
+Scheltens P. Risk of dementia in diabetes mellitus: a Zucker H, and Yellen G. Neuronal stimulation triggers
+systematic review. Lancet Neurol 5: 64–74, 2006. neuronalglycolysisandnotlactateuptake.CellMetab26:
+15. BredtDS,HwangPM,GlattCE,LowensteinC,ReedRR, 361–374.e4, 2017.
+and Snyder SH. Cloned and expressed nitric oxide syn- 29. Doulias PT, Greene JL, Greco TM, Tenopoulou M, See-
+thase structurally resembles cytochrome P-450 reductase. holzerSH,DunbrackRL,andIschiropoulosH.Structural
+Nature 351: 714–718, 1991. profilingofendogenousS-nitrosocysteineresiduesreveals
+16. Brown GC. Mechanisms of inflammatory neurodegen- uniquefeaturesthataccommodatediversemechanismsfor
+eration: iNOS and NADPH oxidase. Biochem Soc Trans proteinS-nitrosylation.Proc.Natl.Acad.Sci.USA107:
+35: 1119–1121, 2007. 16958–16963, 2010.
+17. BubberP,HaroutunianV,FischG,BlassJP,andGibson 30. Doulias PT, Tenopoulou M, Greene JL, Raju K, and
+GE. Mitochondrial abnormalities in Alzheimer brain: IschiropoulosH.Nitricoxideregulatesmitochondrialfatty
+mechanistic implications. Ann Neurol 57: 695–703, acidmetabolismthroughreversibleproteinS-nitrosylation.
+2005. Sci Signal6:rs1,2013.
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 829
+31. Eu JP, Sun J, Xu L, Stamler JS, and Meissner G. The functional role of neuronal nitric oxide synthase during
+skeletalmusclecalciumreleasechannel:coupledO2sensor mitophagy. J Biol Chem 290: 10325–10335, 2015.
+and NOsignaling functions. Cell102:499–509,2000. 47. Haun F, Nakamura T, Shiu AD, Cho DH, Tsunemi T,
+32. Feng J, Chen X, Guan B, Li C, Qiu J, and Shen J. In- HollandEA,LaSpadaAR,andLiptonSA.S-nitrosylation
+hibition of peroxynitrite-induced mitophagy activation ofdynamin-relatedprotein1mediatesmutanthuntingtin-
+attenuates cerebral ischemia-reperfusion injury. Mol induced mitochondrial fragmentation and neuronal injury
+Neurobiol 55: 6369–6386, 2018. inHuntington’sdisease.AntioxidRedoxSignal19:1173–
+33. Fernhoff NB, Derbyshire ER, and Marletta MA. A nitric 1184, 2013.
+oxide/cysteine interaction mediates the activation of sol- 48. Hess DT, Matsumoto A, Kim SO, Marshall HE, and
+uble guanylate cyclase. Proc Natl Acad Sci U S A 106: Stamler JS. Protein S-nitrosylation: purview and parame-
+21602–21607, 2009. ters. Nat Rev Mol Cell Biol 6: 150–166, 2005.
+34. Ferrer-Sueta G, Campolo N, Trujillo M, Bartesaghi S, 49. Huang Z, Huang PL, Panahian N, Dalkara T, Fishman
+Carballal S, Romero N, Alvarez B, and Radi R. Bio- MC,and Moskowitz MA. Effects of cerebral ischemia in
+chemistry of peroxynitrite and protein tyrosine nitration. mice deficient in neuronal nitric oxide synthase. Science
+Chem Rev 118: 1338–1408, 2018. 265: 1883–1885, 1994.
+35. Foster MW and Stamler JS. New insights into protein S- 50. Ignarro LJ, Buga GM, Wood KS, Byrns RE, and Chaud-
+nitrosylation. Mitochondria as a model system. J Biol huriG.Endothelium-derivedrelaxingfactorproducedand
+Chem 279: 25891–25897, 2004. released from artery and vein is nitric oxide. Proc Natl
+36. Gaston BM, Carver J, Doctor A, and Palmer LA. S- Acad Sci U S A 84: 9265–9269, 1987.
+nitrosylationsignalingincellbiology.MolInterv3:253– 51. Ischiropoulos H, Zhu L, and Beckman JS. Peroxynitrite
+263, 2003. formation from macrophage-derived nitric oxide. Arch
+37. Ghasemi M, Mayasi Y, Hannoun A, Eslami SM, and Biochem Biophys 298: 446–451, 1992.
+Carandang R. Nitric oxide and mitochondrial function in 52. Ishihara N, Nomura M, Jofuku A, Kato H, Suzuki SO,
+neurological diseases. Neuroscience 376: 48–71, 2018. Masuda K, Otera H, Nakanishi Y, Nonaka I, Goto Y,
+38. Giasson BI, Duda JE, Murray IV, Chen Q, Souza JM, TaguchiN,MorinagaH,MaedaM,TakayanagiR,Yokota
+HurtigHI,IschiropoulosH,TrojanowskiJQ,andLeeVM. S, and Mihara K. Mitochondrial fission factor Drp1 is
+Oxidative damage linked to neurodegeneration by selec- essential for embryonic development and synapse forma-
+tive alpha-synuclein nitration in synucleinopathy lesions. tion in mice. Nat Cell Biol 11: 958–966, 2009.
+Science 290: 985–989, 2000. 53. Jaishy B, Zhang Q, Chung HS, Riehle C, Soto J, Jenkins
+39. Goedert M. Neurodegeneration. Alzheimer’s and Parkin- S,AbelP,CowartLA,VanEykJE,andAbelED.Lipid-
+son’sdiseases:theprionconceptinrelationtoassembled induced NOX2 activation inhibits autophagic flux by
+Abeta, tau, and alpha-synuclein. Science 349: 1255555, impairing lysosomal enzyme activity. J Lipid Res 56:
+2015. 546–561, 2015.
+40. Gomez-Lazaro M, Bonekamp NA, Galindo MF, Jordan 54. JiangQ,GaoY,WangC,TaoR,WuY,ZhanK,LiaoM,
+J, and Schrader M. 6-Hydroxydopamine (6-OHDA) in- Lu N, Lu Y, Wilcox CS, Luo J, Jiang LH, Yang W, and
+duces Drp1-dependent mitochondrial fragmentation in HanF.NitrationofTRPM2asamolecularswitchinduces
+SH-SY5Y cells. Free Radic Biol Med 44: 1960–1969, autophagy during brain pericyte injury. Antioxid Redox
+2008. Signal 27: 1297–1316, 2017.
+41. Graff J, Kahn M, Samiei A, Gao J, Ota KT, Rei D, and 55. Kim YM, Youn SW, Sudhahar V, Das A, Chandhri R,
+Tsai LH. A dietary regimen of caloric restriction or Cuervo Grajal H, Kweon J, Leanhart S, He L, Toth PT,
+pharmacologicalactivationofSIRT1todelaytheonsetof Kitajewski J, Rehman J, Yoon Y, Cho J, Fukai T, and
+neurodegeneration. J Neurosci 33: 8951–8960, 2013. Ushio-FukaiM.Redoxregulationofmitochondrialfission
+42. GuZ,KaulM,YanB,KridelSJ,CuiJ,StronginA,Smith protein Drp1 by protein disulfide isomerase limits endo-
+JW, Liddington RC, and Lipton SA. S-nitrosylation of thelial senescence. Cell Rep 23: 3565–3578, 2018.
+matrix metalloproteinases: signaling pathway to neuronal 56. Kornberg MD, Sen N, Hara MR, Juluri KR, Nguyen JV,
+cell death. Science 297: 1186–1190, 2002. Snowman AM, Law L, Hester LD, and Snyder SH.
+43. Gu Z, Nakamura T, Yao D, Shi ZQ, and Lipton SA. Ni- GAPDH mediates nitrosylation of nuclear proteins. Nat
+trosative and oxidative stress links dysfunctional ubiqui- Cell Biol 12: 1094–1100, 2010.
+tination to Parkinson’s disease. Cell Death Differ 12: 57. Kotzbauer PT, Truax AC, Trojanowski JQ, and Lee VM.
+1202–1204, 2005. Altered neuronal mitochondrial coenzyme A synthesis in
+44. Guha P, Harraz MM, and Snyder SH. Cocaine elicits neurodegeneration with brain iron accumulation caused by
+autophagic cytotoxicity via a nitric oxide-GAPDH sig- abnormal processing, stability, and catalyticactivityofmu-
+naling cascade. Proc Natl Acad Sci U S A 113: 1417– tantpantothenatekinase2.JNeurosci25:689–698,2005.
+1422, 2016. 58. KoyanoF,OkatsuK,KosakoH,TamuraY,GoE,Kimura
+45. Gupta A, Anjomani-Virmouni S, Koundouros N, Dimi- M, Kimura Y, Tsuchiya H, Yoshihara H, Hirokawa T,
+triadi M, Choo-Wing R, Valle A, Zheng Y, Chiu YH, Endo T, Fon EA, Trempe JF, Saeki Y, Tanaka K, and
+Agnihotri S, Zadeh G, Asara JM, Anastasiou D, Arends Matsuda N. Ubiquitin is phosphorylated by PINK1 to
+MJ, Cantley LC, and Poulogiannis G. PARK2 depletion activate parkin. Nature 510: 162–166, 2014.
+connects energy and oxidative stress to PI3K/Akt activa- 59. Kummer MP, Hermes M, Delekarte A, Hammerschmidt
+tionviaPTENS-nitrosylation.MolCell65:999–1013.e7, T, Kumar S, Terwel D, Walter J, Pape HC, Konig S,
+2017. RoeberS,JessenF,KlockgetherT,KorteM,andHeneka
+46. HanJY,KangMJ,KimKH,HanPL,KimHS,HaJY,and MT. Nitration of tyrosine 10 critically enhances amyloid
+Son JH. Nitric oxide induction of Parkin translocation in beta aggregation and plaque formation. Neuron 71: 833–
+PTEN-induced putative kinase 1 (PINK1) deficiency: 844, 2011.
+
+---PAGE BREAK---
+
+830 NAKAMURA ANDLIPTON
+60. KwakYD,MaT,DiaoS,ZhangX,ChenY,HsuJ,Lipton and Iino M. Nitric oxide-induced activation of the type 1
+SA, Masliah E, Xu H, and Liao FF. NO signaling andS- ryanodinereceptoriscriticalforepilepticseizure-induced
+nitrosylation regulate PTEN inhibition in neurodegenera- neuronal cell death. EBioMedicine 11: 253–261, 2016.
+tion. Mol Neurodegener 5: 49, 2010. 76. MitchellDAandMarlettaMA.Thioredoxincatalyzesthe
+61. Lafon-Cazal M, Pietri S, Culcasi M, and Bockaert J. S-nitrosation of the caspase-3 active site cysteine. Nat
+NMDA-dependent superoxide production and neurotox- Chem Biol 1: 154–158, 2005.
+icity. Nature 364: 535–537, 1993. 77. Molokanova E, Akhtar MW, Sanz-Blasco S, Tu S, Pina-
+62. LangstonJW,BallardP,TetrudJW,andIrwinI.Chronic Crespo JC, McKercher SR, and Lipton SA. Differential
+Parkinsonism in humans due to a product of meperidine- effectsofsynapticandextrasynapticNMDAreceptorson
+analog synthesis. Science 219: 979–980, 1983. Abeta-induced nitric oxide production in cerebrocortical
+63. LeeDSandKimJE.PDI-mediatedS-nitrosylationofDRP1 neurons. J Neurosci 34: 5023–5028, 2014.
+facilitates DRP1–S616 phosphorylation and mitochondrial 78. MuradF.Cyclicguanosinemonophosphateasamediator
+fissioninCA1neurons.CellDeathDis9:869,2018. of vasodilation. J Clin Invest 78: 1–5, 1986.
+64. Lee YI, Giovinazzo D, Kang HC, Lee Y, Jeong JS, 79. Nakamura T, Cieplak P, Cho DH, Godzik A, and Lipton
+Doulias PT, Xie Z, Hu J, Ghasemi M, Ischiropoulos H, SA.S-nitrosylationofDrp1linksexcessivemitochondrial
+Qian J, Zhu H, Blackshaw S, Dawson VL, and Dawson fission to neuronal injury in neurodegeneration. Mi-
+TM. Protein microarray characterization of the S- tochondrion 10: 573–578, 2010.
+nitrosoproteome. Mol Cell Proteomics 13: 63–72, 2014. 80. Nakamura T and Lipton SA. Emerging role of protein-
+65. Lei SZ, Pan ZH, Aggarwal SK, Chen HS, Hartman J, protein transnitrosylation in cell signaling pathways. An-
+Sucher NJ, and Lipton SA. Effect of nitric oxide pro- tioxid Redox Signal 18: 239–249, 2012.
+duction on the redox modulatory site of the NMDA 81. Nakamura T and Lipton SA. ‘SNO’-storms compromise
+receptor-channel complex. Neuron 8: 1087–1099, 1992. protein activity and mitochondrial metabolism in neuro-
+66. Liberatore GT, Jackson-Lewis V, Vukosavic S, Mandir degenerative disorders. Trends Endocrinol Metab 28:
+AS, Vila M, McAuliffe WG, Dawson VL, Dawson TM, 879–892, 2017.
+and Przedborski S. Inducible nitric oxide synthase stim- 82. NakamuraT,TuS,AkhtarMW,SunicoCR,OkamotoS,
+ulates dopaminergic neurodegeneration in the MPTP and Lipton SA. Aberrant protein S-nitrosylation in neu-
+model of Parkinson disease. Nat Med 5: 1403–1409, rodegenerative diseases. Neuron 78: 596–614, 2013.
+1999. 83. NakamuraT,WangL,WongCC,ScottFL,EckelmanBP,
+67. Lipton SA, Choi YB, Pan ZH, Lei SZ, Chen HS, Sucher Han X, Tzitzilonis C, Meng F, Gu Z, Holland EA,
+NJ,LoscalzoJ,SingelDJ,andStamlerJS.Aredox-based Clemente AT, Okamoto S, Salvesen GS, Riek R, Yates
+mechanism for the neuroprotective and neurodestructive JR, 3rd, and Lipton SA. Transnitrosylation of XIAP reg-
+effects of nitric oxide and related nitroso-compounds. ulatescaspase-dependentneuronalcelldeath.MolCell39:
+Nature 364: 626–632, 1993. 184–195, 2010.
+68. Lipton SA and Stamler JS. Actions of redox-related con- 84. Nathan C, Calingasan N, Nezezon J, Ding A, Lucia MS,
+geners of nitric oxide at the NMDA receptor. Neuro- LaPerleK,FuortesM,LinM,EhrtS,KwonNS,ChenJ,
+pharmacology 33: 1229–1233, 1994. Vodovotz Y, Kipiani K, and Beal MF. Protection from
+69. Lopez-Rivera E, Jayaraman P, Parikh F, Davies MA, Ek- Alzheimer’s-likediseaseinthemousebygeneticablation
+mekcioglu S, Izadmehr S, Milton DR, Chipuk JE, Grimm ofinduciblenitricoxidesynthase.JExpMed202:1163–
+EA, Estrada Y, Aguirre-Ghiso J, and Sikora AG. Inducible 1169, 2005.
+nitric oxide synthase drives mTOR pathway activation and 85. Nishimura A, Shimoda K, Tanaka T, Toyama T, Nish-
+proliferationofhumanmelanomabyreversiblenitrosylation iyama K, Shinkai Y, Numaga-Tomita T, Yamazaki D,
+ofTSC2.CancerRes74:1067–1078,2014. Kanda Y, Akaike T, Kumagai Y, and Nishida M. Depo-
+70. LustbaderJW,CirilliM,LinC,XuHW,TakumaK,Wang lysulfidationofDrp1inducedbylow-dosemethylmercury
+N,CaspersenC,ChenX,PollakS,ChaneyM,TrincheseF, exposure increases cardiac vulnerability to hemodynamic
+LiuS,Gunn-MooreF,LueLF,WalkerDG,KuppusamyP, overload. Sci Signal 12: pii:eaaw1920, 2019.
+ZewierZL,ArancioO,SternD,YanSS,andWuH.ABAD 86. NumajiriN,TakasawaK,NishiyaT,TanakaH,OhnoK,
+directly links Abeta to mitochondrial toxicity in Alzhei- HayakawaW,AsadaM,MatsudaH,AzumiK,KamataH,
+mer’sdisease. Science 304:448–452,2004. NakamuraT,HaraH,MinamiM,LiptonSA,andUehara
+71. Ma Z, Wang C, Liu C, Yan DY, Deng Y, Liu W, Yang T.On-offsystemforPI3-kinase-AktsignalingthroughS-
+TY, Xu ZF, and Xu B. The role S-nitrosylation in nitrosylation of phosphatase with sequence homology to
+manganese-inducedautophagydysregulationinSH-SY5Y tensin (PTEN). Proc Nati Acad Sci U S A 108: 10349–
+cells. Environ Toxicol 32: 2428–2439, 2017. 10354, 2011.
+72. Magistretti PJ and Allaman I. A cellular perspective on 87. Oh CK, Sultan A, Platzer J, Dolatabadi N, Soldner F,
+brain energymetabolism andfunctionalimaging. Neuron McClatchyDB,DiedrichJK,YatesJR,3rd,AmbasudhanR,
+86: 883–901, 2015. NakamuraT,JaenischR,andLiptonSA.S-Nitrosylationof
+73. Marino SM and Gladyshev VN. Structural analysis of PINK1 attenuates PINK1/Parkin-dependent mitophagy in
+cysteine S-nitrosylation: a modified acid-based motif and hiPSC-basedParkinson’sdiseasemodels.CellRep21:2171–
+the emerging role of trans-nitrosylation. J Mol Biol 395: 2182,2017.
+844–859, 2010. 88. Okamoto S, Nakamura T, Cieplak P, Chan SF, Ka-
+74. Masliah E. Mechanisms of synaptic dysfunction in Alz- lashnikova E, Liao L, Saleem S, Han X, Clemente A,
+heimer’s disease. Histol Histopathol 10: 509–519, 1995. Nutter A, Sances S, Brechtel C, Haus D, Haun F, Sanz-
+75. MikamiY,KanemaruK,OkuboY,NakauneT,SuzukiJ, Blasco S, Huang X, Li H, Zaremba JD, Cui J, Gu Z,
+Shibata K,Sugiyama H, Koyama R,Murayama T, Ito A, NikzadR,HarropA,McKercherSR,GodzikA,YatesJR,
+YamazawaT,IkegayaY,SakuraiT,SaitoN,KakizawaS, 3rd, and Lipton SA. S-nitrosylation-mediated redox tran-
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 831
+scriptional switch modulates neurogenesis and neuronal nitrosylation drives cell senescence and aging in
+cell death. Cell Rep 8: 217–228, 2014. mammals by controlling mitochondrial dynamics and
+89. Ozawa K, Komatsubara AT, Nishimura Y, Sawada T, mitophagy. Proc Natl Acad Sci U S A 115: E3388–
+Kawafune H, Tsumoto H, Tsuji Y, Zhao J, Kyotani Y, e3397, 2018.
+TanakaT,TakahashiR,andYoshizumiM.S-nitrosylation 105. Rizza S, Montagna C, Cardaci S, Maiani E, Di Giacomo
+regulates mitochondrial quality control via activation of G, Sanchez-Quiles V, Blagoev B, Rasola A, De Zio D,
+parkin. Sci Rep 3: 2202, 2013. StamlerJS,CecconiF,andFilomeniG.S-nitrosylationof
+90. Palmer RM, Ferrige AG, and Moncada S. Nitric oxide re- the mitochondrial chaperone TRAP1 sensitizes hepato-
+lease accounts for the biological activity of endothelium- cellular carcinoma cells to inhibitors of succinate dehy-
+derivedrelaxingfactor.Nature327:524–526,1987. drogenase. Cancer Res 76: 4170–4182, 2016.
+91. Pei DS, Sun YF, and Song YJ. S-nitrosylation of PTEN 106. Romano A, Koczwara JB, Gallelli CA, Vergara D, Mi-
+invovledinischemicbraininjuryinrathippocampalCA1 cioni Di Bonaventura MV, Gaetani S, and Giudetti AM.
+region. Neurochem Res 34: 1507–1512, 2009. Fats for thoughts: an update on brain fatty acid metabo-
+92. Pellerin L and Magistretti PJ. Glutamate uptake into as- lism. Int J Biochem Cell Biol 84: 40–45, 2017.
+trocytes stimulates aerobic glycolysis: a mechanism cou- 107. Roth D, Krammer PH, and Gulow K. Dynamin related
+pling neuronal activity to glucose utilization. Proc Natl protein 1-dependent mitochondrial fission regulates oxi-
+Acad Sci U S A 91: 10625–10629, 1994. dative signalling in T cells. FEBS Lett 588: 1749–1754,
+93. Piantadosi CA. Regulation of mitochondrial processes by 2014.
+proteinS-nitrosylation.BiochimBiophysActa1820:712– 108. RyanSD,DolatabadiN,ChanSF,ZhangX,AkhtarMW,
+721, 2012. Parker J, Soldner F, Sunico CR, Nagar S, Talantova M,
+94. Pickrell AM and Youle RJ. The roles of PINK1, parkin, LeeB,LopezK,NutterA,ShanB,MolokanovaE,Zhang
+andmitochondrialfidelityinParkinson’sdisease.Neuron Y, Han X, Nakamura T, Masliah E, Yates JR, 3rd, Na-
+85: 257–273, 2015. kanishi N, Andreyev AY, Okamoto S, Jaenisch R, Am-
+95. PoderosoJJ,Helfenberger K,andPoderosoC.Theeffect basudhan R, and Lipton SA. Isogenic human iPSC
+of nitric oxide on mitochondrial respiration. Nitric Oxide Parkinson’s model shows nitrosative stress-induced dys-
+88: 61–72, 2019. function in MEF2-PGC1a transcription. Cell 155: 1351–
+96. PrigioneA,PiazzaF,BrighinaL,BegniB,GalbusseraA, 1364, 2013.
+Difrancesco JC, Andreoni S, Piolti R, and Ferrarese C. 109. SarkarS,KorolchukVI,RennaM,ImarisioS,FlemingA,
+Alpha-synuclein nitration and autophagy response are Williams A, Garcia-Arencibia M, Rose C, Luo S, Un-
+induced in peripheral blood cells from patients with Par- derwood BR, Kroemer G, O’Kane CJ, and Rubinsztein
+kinson disease. Neurosci Lett 477: 6–10, 2010. DC. Complex inhibitory effects of nitric oxide on autop-
+97. Przedborski S, Jackson-Lewis V, Yokoyama R, Shibata T, hagy. Mol Cell 43: 19–32, 2011.
+DawsonVL,andDawsonTM.Roleofneuronalnitricoxide 110. SatohT,AkhtarMW,andLiptonSA.Combattingoxidative/
+in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)- nitrosative stress with electrophilic counterattack strategies.
+induceddopaminergicneurotoxicity.ProcNatlAcadSci In:OxidativeStressandRedoxRegulation,editedbyJakob
+U S A 93: 4565–4571, 1996. UH and Reichmann D. Dordrecht, Netherlands: Springer,
+98. Qian Q, Zhang Z, Orwig A, Chen S, Ding WX, Xu Y, 2013,pp.277–307.
+Kunz RC, Lind NRL, Stamler JS, and Yang L. 111. Scheff SW, Price DA, Schmitt FA, and Mufson EJ. Hip-
+S-nitrosoglutathione reductase dysfunction contributes to pocampal synaptic loss in early Alzheimer’s disease and
+obesity-associated hepatic insulin resistance via regulating mild cognitive impairment. Neurobiol Aging 27: 1372–
+autophagy.Diabetes67: 193–207,2018. 1384, 2006.
+99. Qu J, Nakamura T, Cao G, Holland EA, McKercher SR, 112. SchevingR,WittigI,HeideH,AlbuquerqueB,StegerM,
+and Lipton SA. S-nitrosylation activates Cdk5 and con- Brandt U, and Tegeder I. Protein S-nitrosylation and de-
+tributes to synaptic spine loss induced by b-amyloid nitrosylation in the mouse spinal cord upon injury of the
+peptide. Proc Natl Acad Sci U S A: 14330–14335, 2011. sciatic nerve. J Proteomics 75: 3987–4004, 2012.
+100. Radi R. Oxygen radicals, nitric oxide, and peroxynitrite: 113. Schonfeld P and Reiser G. Why does brain metabolism
+redox pathways in molecular medicine. Proc Natl Acad not favor burning of fatty acids to provide energy? Re-
+Sci U S A 115: 5839–5848, 2018. flectionsondisadvantagesoftheuseoffreefattyacidsas
+101. Radi R, Beckman JS, Bush KM, and Freeman BA. Per- fuelforbrain.JCerebBloodFlowMetab33:1493–1499,
+oxynitrite oxidation of sulfhydryls. The cytotoxic poten- 2013.
+tial of superoxide and nitric oxide. J Biol Chem 266: 114. Schonfeld P and Reiser G. Brain energy metabolism
+4244–4250, 1991. spurnsfattyacidsasfuelduetotheirinherentmitotoxicity
+102. Raju K, Doulias PT, Evans P, Krizman EN, Jackson JG, and potential capacity to unleash neurodegeneration.
+Horyn O, Daikhin Y, Nissim I, Yudkoff M, Nissim I, Neurochem Int 109: 68–77, 2017.
+Sharp KA, Robinson MB, and Ischiropoulos H. Regula- 115. SeneviratneU,Nott A,BhatVB, RavindraKC, Wishnok
+tionofbrainglutamatemetabolismbynitricoxideandS- JS, Tsai LH, and Tannenbaum SR. S-nitrosation of pro-
+nitrosylation. Sci Signal 8: ra68, 2015. teins relevant to Alzheimer’s disease during early stages
+103. Reynolds MR, Berry RW, and Binder LI. Site-specific of neurodegeneration. Proc Natl Acad Sci U S A 113:
+nitration and oxidative dityrosine bridging of the tau 4152–4157, 2016.
+protein by peroxynitrite: implications for Alzheimer’s 116. Sharifi AM, Mohseni S, Nekoparvar S, Larijani B,
+disease. Biochemistry 44: 1690–1700, 2005. Fakhrzadeh H, and Oryan S. Effect of caloric restriction
+104. RizzaS,CardaciS,MontagnaC,DiGiacomoG,DeZio on nitric oxide production, ACE activity, and blood
+D, Bordi M, Maiani E, Campello S, Borreca A, Puca pressureregulationinrats.ActaPhysiolHung95:55–63,
+AA, Stamler JS, Cecconi F, and Filomeni G. S- 2008.
+
+---PAGE BREAK---
+
+832 NAKAMURA ANDLIPTON
+117. ShenX,BurguillosMA,OsmanAM,FrijhoffJ,Carrillo- 132. Uehara T, Nakamura T, Yao D, Shi ZQ, Gu Z, Ma Y,
+Jimenez A, Kanatani S, Augsten M, Saidi D, Rodhe J, Masliah E, Nomura Y, and Lipton SA. S-nitrosylated
+Kavanagh E, Rongvaux A, Rraklli V, Nyman U, Holm- protein-disulphide isomerase links protein misfolding to
+berg J, Ostman A, Flavell RA, Barragan A, Venero JL, neurodegeneration. Nature 441: 513–517, 2006.
+BlomgrenK,andJosephB.Glioma-inducedinhibitionof 133. Wakabayashi J, Zhang Z, Wakabayashi N, Tamura Y,
+caspase-3 in microglia promotes a tumor-supportive phe- Fukaya M, Kensler TW, Iijima M, and Sesaki H. The
+notype. Nat Immunol 17: 1282–1290, 2016. dynamin-related GTPase Drp1 is required for embryonic
+118. ShiQ,XuH,YuH,ZhangN,YeY,EstevezAG,DengH, andbraindevelopmentinmice.JCellBiol186:805–816,
+and Gibson GE. Inactivation and reactivation of the mi- 2009.
+tochondrial alpha-ketoglutarate dehydrogenase complex. 134. Wang S, Song J, Tan M, Albers KM, and Jia J. Mi-
+J Biol Chem 286: 17640–17648, 2011. tochondrial fission proteins in peripheral blood lympho-
+119. ShibuyaA,WadaK,NakajimaA,SaekiM,KatayamaK, cytes are potential biomarkers for Alzheimer’s disease.
+Mayumi T, Kadowaki T, Niwa H, and Kamisaki Y. Ni- Eur J Neurol 19: 1015–1022, 2012.
+tration of PPARgamma inhibits ligand-dependent trans- 135. Wang X, Su B, Lee HG, Li X, Perry G, Smith MA, and
+location into the nucleus in a macrophage-like cell line, Zhu X. Impaired balance of mitochondrial fission and
+RAW 264. FEBS Lett 525: 43–47, 2002. fusioninAlzheimer’sdisease.J.Neurosci29:9090–9103,
+120. Smith BC and Marletta MA. Mechanisms of S- 2009.
+nitrosothiol formation and selectivity in nitric oxide sig- 136. Wang Y, Liu N, and Lu B. Mechanisms and roles of
+naling. Curr Opin Chem Biol 16: 498–506, 2012. mitophagy in neurodegenerative diseases. CNS Neurosci
+121. Smith JG, Aldous SG, Andreassi C, Cuda G, Gaspari M, Ther 25: 859–875, 2019.
+andRiccioA.ProteomicanalysisofS-nitrosylatednuclear 137. WangY,VeremeykoT,WongAH,ElFatimyR,WeiZ,CaiW,
+proteins in rat cortical neurons. Sci Signal 11: eaar3396, and Krichevsky AM. Downregulation of miR-132/212 im-
+2018. pairsS-nitrosylationbalanceandinducestauphosphorylation
+122. Stamler JS, Toone EJ, Lipton SA, andSucher NJ. (S)NO inAlzheimer’sdisease.NeurobiolAging51:156–166,2017.
+signals: translocation, regulation, and a consensus motif. 138. WaterhamHR,KosterJ,vanRoermundCW,MooyerPA,
+Neuron 18: 691–696, 1997. Wanders RJ, and Leonard JV. A lethal defect of mito-
+123. Stewart VC, Heslegrave AJ, Brown GC, Clark JB, and chondrial and peroxisomal fission. N Engl J Med 356:
+Heales SJ. Nitric oxide-dependent damage to neuronal 1736–1741, 2007.
+mitochondria involves the NMDA receptor. Eur J Neu- 139. Wei H, Liu L, and Chen Q. Selective removal of mito-
+rosci 15: 458–464, 2002. chondria via mitophagy: distinct pathways for different
+124. Stomberski CT, Hess DT, and Stamler JS. Protein S- mitochondrial stresses. Biochim Biophys Acta 1853:
+-nitrosylation: determinants of specificity and enzymatic 2784–2790, 2015.
+regulation of S-nitrosothiol-based signaling. Antioxid Re- 140. Wilcock DM, Lewis MR, Van Nostrand WE, Davis J,
+dox Signal 30: 1331–1351, 2019. Previti ML, Gharkholonarehe N, Vitek MP, and Colton
+125. SuB,WangX,ZhengL,PerryG,SmithMA,andZhuX. CA. Progression of amyloid pathology to Alzheimer’s
+Abnormal mitochondrial dynamics and neurodegenera- disease pathology in an amyloid precursor protein trans-
+tive diseases. Biochim Biophys Acta 1802: 135–142, genicmousemodelbyremovalofnitricoxidesynthase2.
+2010. J Neurosci 28: 1537–1545, 2008.
+126. Suen DF, Norris KL, and Youle RJ. Mitochondrial 141. Wilkaniec A, Lenkiewicz AM, Czapski GA, Jesko HM,
+dynamics and apoptosis. Genes Dev 22: 1577–1590, Hilgier W, Brodzik R, Gassowska-Dobrowolska M,
+2008. Culmsee C, and Adamczyk A. Extracellular alpha-
+127. Sun J, Morgan M, Shen RF, Steenbergen C, and Murphy synuclein oligomers induce parkin S-nitrosylation: rele-
+E. Preconditioning results in S-nitrosylation of proteins vance to sporadic Parkinson’s disease etiopathology. Mol
+involved in regulation of mitochondrial energetics and Neurobiol 56: 125–140, 2019.
+calcium transport. Circ Res 101: 1155–1163, 2007. 142. WrightC,IyerAK,KulkarniY,andAzadN.S-nitrosylation
+128. Tannenbaum SR and White FM. Regulation and speci- of Bcl-2 negatively affects autophagy in lung epithelial
+ficity of S-nitrosylation and denitrosylation. ACS Chem cells.JCellBiochem117:521–532,2016.
+Biol 1: 615–618, 2006. 143. YanLJ,LiuL,andForsterMJ.Reversibleinactivationof
+129. Tapias V, Hu X, Luk KC, Sanders LH, Lee VM, and dihydrolipoamide dehydrogenase by Angeli’s salt. Sheng
+Greenamyre JT. Synthetic alpha-synuclein fibrils cause Wu Wu Li Hsueh Bao 28: 341–350, 2012.
+mitochondrial impairment and selective dopamine neu- 144. YangX,ShiQ,SunJ,LvY,MaY,ChenC,XiaoK,Zhou
+rodegeneration in part via iNOS-mediated nitric oxide W, and Dong XP. Aberrant alterations of mitochondrial
+production. Cell Mol Life Sci 74: 2851–2874, 2017. factorsDrp1andOpa1inthebrainsofscrapieexperiment
+130. TonazziA,GiangregorioN,ConsoleL,DePalmaA,and rodents. J Mol Neurosci 61: 368–378, 2017.
+Indiveri C. Nitric oxide inhibits the mitochondrial carni- 145. Yao D, Gu Z, Nakamura T, Shi ZQ, Ma Y, Gaston B,
+tine/acylcarnitine carrier through reversible S- PalmerLA,RockensteinEM,ZhangZ,MasliahE,Uehara
+nitrosylation of cysteine 136. Biochim Biophys Acta T, and Lipton SA. Nitrosative stress linked to sporadic
+Bioenerg 1858: 475–482, 2017. Parkinson’sdisease:S-nitrosylationofparkinregulatesits
+131. TripathiDN,ChowdhuryR,TrudelLJ,TeeAR,SlackRS, E3 ubiquitin ligase activity. Proc Natl Acad Sci U S A
+Walker CL, and Wogan GN. Reactive nitrogen species 101: 10810–10814, 2004.
+regulateautophagythroughATM-AMPK-TSC2-mediated 146. Yemisci M, Gursoy-Ozdemir Y, Vural A, Can A, To-
+suppressionofmTORC1.ProcNatlAcadSciUSA110: palkaraK,andDalkaraT.Pericytecontractioninducedby
+E2950–E2957, 2013. oxidative-nitrative stress impairs capillary reflow despite
+
+---PAGE BREAK---
+
+S-NITROSYLATION AND MITOCHONDRIAL DYSFUNCTION 833
+successful opening of an occluded cerebral artery. Nat
+Abbreviations Used
+Med 15: 1031–1037, 2009.
+147. Zhang P and Hinshaw JE. Three-dimensional reconstruc- aKGDH¼a-ketoglutarate dehydrogenase
+tion of dynamin in the constricted state. Nat Cell Biol 3: Ab¼amyloid-b
+922–926, 2001. ACO¼aconitase
+148. ZhangZ,LiuL,JiangX,ZhaiS,andXingD.Theessential AD¼Alzheimer’s disease
+roleofDrp1anditsregulationbyS-nitrosylationofparkin ALS¼amyotrophic lateral sclerosis
+in dopaminergic neurodegeneration: implications for Par- CR¼calorie restriction
+kinson’sdisease.AntioxidRedoxSignal25:609–622,2016. Drp1¼dynamin-related protein 1
+149. This reference has been deleted. eNOS¼endothelial nitric oxide synthase
+150. Zhou HL, Zhang R, Anand P, Stomberski CT, Qian Z, ER¼endoplasmic reticulum
+HausladenA,WangL,RheeEP,ParikhSM,Karumanchi ETC¼electron transport chain
+SA, and Stamler JS. Metabolic reprogramming by the S- GC¼guanylyl cyclase
+nitroso-CoA reductase system protects against kidney in- GDH¼glutamate dehydrogenase
+jury. Nature 565: 96–100, 2019. GED¼GTPase effector domain
+151. Zhou Y, Wynia-Smith SL, Couvertier SM, Kalous KS, GSNO¼S-nitroso-glutathione
+Marletta MA, Smith BC, and Weerapana E. Chemopro- GSNOR¼S-nitroso-glutathione reductase
+teomic strategy to quantitatively monitor transnitrosation HD¼Huntington’s disease
+uncovers functionally relevant S-nitrosation sites on ca- hiPSC¼human induced pluripotent stem cell
+thepsinDandHADH2.CellChemBiol23:727–737,2016. iNOS¼inducible nitric oxide synthase
+152. ZhuL,LiL,ZhangQ,YangX,ZouZ,HaoB,Marincola JNK¼c-Jun terminal kinase
+FM,LiuZ,ZhongZ,WangM,LiX,WangQ,LiK,Gao LMW¼low molecular weight
+W, Yao K, and Liu Q. NOS1 S-nitrosylates PTEN and mAspAT¼mitochondrial aspartate aminotransferase
+inhibits autophagy in nasopharyngeal carcinoma cells. MetS¼metabolic syndrome
+Cell Death Discov 3: 17011, 2017. Mfn¼mitofusin
+153. Zhu L, Zhang C, and Liu Q. PTEN S-nitrosylation by mHtt¼mutant huntingtin
+NOS1inhibitsautophagyinNPCcells.CellDeathDis10: NADH¼reduced nicotinamide adenine dinucleotide
+306, 2019.
+NMDA¼N-methyl-d-aspartate
+154. ZhuPP,PattersonA,StadlerJ,SeeburgDP,ShengM,and nNOS¼neuronal nitric oxide synthase
+Blackstone C. Intra- and intermolecular domain interac- NO¼nitric oxide
+tions of the C-terminal GTPase effector domain of the NOS¼nitric oxide synthase
+multimericdynamin-likeGTPaseDrp1.JBiolChem279: ONOO-¼peroxynitrite
+35967–35974, 2004. Opa1¼optic atrophy 1
+OXPHOS¼oxidative phosphorylation
+Address correspondence to:
+PD¼Parkinson’s disease
+Dr. Tomohiro Nakamura PINK1¼phosphatase and tensin homolog (PTEN)-
+Departments of Molecular Medicine and Neuroscience induced putative kinase protein 1
+Neuroscience Translational Center PTEN¼phosphatase and tensin homolog
+The Scripps Research Institute RNS¼reactive nitrogen species
+La Jolla, CA 92037 ROS¼reactive oxygen species
+RyR1¼type 1 ryanodine receptor
+E-mail: tnakamura@scripps.edu
+SCoR¼S-nitroso-co-enzyme A reductase
+SDH¼succinate dehydrogenase
+Dr. Stuart A. Lipton
+SNO¼S-nitrosothiol
+Departments of Molecular Medicine and Neuroscience SNO-CoA¼S-nitroso-co-enzyme A
+Neuroscience Translational Center T2DM¼type 2 diabetes mellitus
+The Scripps Research Institute TCA¼tricarboxylic acid
+La Jolla, CA 92037 TRPM2¼transient receptor potential
+melastatin-related 2
+E-mail: slipton@scripps.edu
+Trx¼thioredoxin
+TSC¼tuberous sclerosis complex
+Date of first submission to ARS Central, October 21, 2019;
+TSE¼transmissible spongiform encephalopathy
+dateofacceptance,October23,2019.
+
+---PAGE BREAK---
+

@@ -1,0 +1,2232 @@
+cells
+Review
+Autophagy-Lysosomal Pathway as Potential Therapeutic Target
+in Parkinson’s Disease
+SrinivasaReddyBonam1,* ,ChristineTranchant2,3,4andSylvianeMuller4,5,6,*
+1 InstitutNationaldelaSantéetdelaRechercheMédicale,CentredeRecherchedesCordeliers,
+Equipe-ImmunopathologieetImmunointerventionThérapeutique,SorbonneUniversité,UniversitédeParis,
+75006Paris,France
+2 ServicedeNeurologie,HôpitauxUniversitairesdeStrasbourg,67000Strasbourg,France;
+Christine.Tranchant@chru-strasbourg.fr
+3 InstitutdeGénétiqueetdeBiologieMoléculaireetCellulaire(IGBMC),
+INSERM-U964/CNRS-UMR7104/UniversitédeStrasbourg,67400Illkirch,France
+4 FédérationdeMédecineTranslationnelledeStrasbourg(FMTS),UniversitédeStrasbourg,
+67000Strasbourg,France
+5 CNRSandStrasbourgUniversity,UnitBiotechnologyandCellSignaling/StrasbourgDrugDiscoveryand
+DevelopmentInstitute(IMS),67000Strasbourg,France
+6 UniversityofStrasbourgInstituteforAdvancedStudy(USIAS),67000Strasbourg,France
+* Correspondence:bsrpharmacy90@gmail.com(S.R.B.);sylviane.muller@unistra.fr(S.M.)
+Abstract: Cellularqualitycontrolsystemshavegainedmuchattentioninrecentdecades. Among
+these,autophagyisanaturalself-preservationmechanismthatcontinuouslyeliminatestoxiccellular
+componentsandactsasananti-ageingprocess.Itisvitalforcellsurvivalandtopreservehomeostasis.
+Severalcell-type-dependentcanonicalornon-canonicalautophagypathwayshavebeenreported
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7) showingvaryingdegreesofselectivitywithregardtothesubstratestargeted.Here,weprovidean
+updatedreviewoftheautophagymachineryanddiscusstheroleofvariousformsofautophagy
+Citation: Bonam,S.R.;Tranchant,C.;
+inneurodegenerativediseases,withaparticularfocusonParkinson’sdisease.Wedescriberecent
+Muller,S.Autophagy-Lysosomal
+findingsthathaveledtotheproposaloftherapeuticstrategiestargetingautophagytoalterthecourse
+PathwayasPotentialTherapeutic
+ofParkinson’sdiseaseprogression.
+TargetinParkinson’sDisease.Cells
+2021,10,3547. https://doi.org/
+Keywords:autophagy;lysosomes;neurodegenerativedisease;Parkinson’sdisease;autoimmunity
+10.3390/cells10123547
+AcademicEditors:CiroIsidoroand
+TatianaA.Korolenko
+1. Introduction
+Received:22November2021 Although some elements of Parkinson’s disease (PD) were described a very long
+Accepted:13December2021 time ago, the first clear medical description of this disease was published in 1817 by
+Published:15December2021 James Parkinson [1]. Since then, substantial efforts have been made to understand the
+underlyingpathogenesisandpathologicalelementsofthiscomplexdisease,intermsof
+Publisher’sNote:MDPIstaysneutral neuropathologicalandanatomo-pathologicalchanges[2–5]. PDisamultifactorialdisease
+withregardtojurisdictionalclaimsin withheterogeneouscausativefactors,includinggenetic,environmental,molecularand
+publishedmapsandinstitutionalaffil-
+cellularcomponents. PDischaracterizedbyabroadspectrumofmotorandnon-motor
+iations.
+signsandsymptoms. Theyincluderesttremor,bradykinesia,posturalinstability/unsteady
+gait, rigidity, alongsidepsychiatricdisorders, sleepdisorders, dysautonomicdisorders,
+pain, anosmia, and cognitive disorders. Motor signs result primarily from the loss of
+dopaminergic (DA) neurons in the substantia nigra pars compacta (SNpc) and intracellu-
+Copyright: © 2021 by the authors. larinclusionsofaggregatedandmisfoldedα-synuclein(α-syn),encapsulatedornotin
+Licensee MDPI, Basel, Switzerland. Lewybodies(LB)andLewyneurites(LN)intheneurons[3,6](Figure1;seeAppendixA
+This article is an open access article fordefinition).
+distributed under the terms and
+ThesymptomsofPDdevelopgraduallywithage. Theycanstartwithaslighttremor
+conditionsoftheCreativeCommons
+inonehandandafeelingofstiffnessinthebody;bradykinesiaisfrequent. Recentstudies
+Attribution(CCBY)license(https://
+confirmthatmorethan3%ofthegeneralpopulationfrom65yearsofageareaffectedby
+creativecommons.org/licenses/by/
+PD.In5%–10%ofcases,however,symptomsofPDappearearlier;thisisreferredtoas
+4.0/).
+Cells2021,10,3547.https://doi.org/10.3390/cells10123547 https://www.mdpi.com/journal/cells
+
+---PAGE BREAK---
+
+Cells2021,10,3547 2of40
+young-onsetPD(YOPD).Menare50%morelikelytodevelopPDthanwomen,buttherisk
+forwomenappearstoincreasewithage.
+Figure1.NeuropathologicalfindingsinParkinson’sdisease.(A,B)Post-mortemmesencephalonandponsfromacontrol
+patient(A)andfromapatientwithPD(B):SNappearedpalerinBduetodopaminergicdenervation.(C),SN,H&Estaining
+(×250).(D):H&Estaining(×250)ofLBinacorticalneuron.TheblackarrowshowsaLB.Abbreviationsnotdescribedin
+thetext:H&E,hematoxylinandeosin.
+TherootcauseofPDremainslargelyunknown. SomecasesofPDhavebeenlinked
+to genetic mutations, but clear hereditary causes of this disease are difficult to estab-
+lish. Indeed, only 15% of patients with PD have a family history of the disease. Some
+genes have been associated with distinct, typical or rarer forms of the disease, which
+includejuvenileoradult-onset,earlyorlate,autosomalrecessive,dominantorX-linked
+forms[4,7–9].Causativeriskfactorsassociatedwithparticularethnicgroupshavealsobeen
+identified. ThegenesmostfrequentlylinkedtoPDincludeGBA,LRRK2,PRKN,SNCA,
+ATP13A2,ATP10B,DJ-1,DNAJC6,FBXO7,HTRA2,MAPT,PINK1,PLA2G6,VPS35,and
+VPS13C[4,7–13]. Themajorityofthesegenesencodeproteinsthatarelinkedeitherdirectly
+orindirectlytoqualitycontrolmechanismsthatarevitalinmaintainingcellhomeostasis,
+vesiculartransportpathways,autophagyprocesses,andtheendo-lysosomalsystem. Other
+geneticalterationshavealsobeenassociatedwithPD,includingepigeneticchanges,such
+asDNAmethylation,chromatinremodeling,histonemodifications,microRNAsandlong
+non-codingRNAs[4,14].
+2. PathogenesisandPathology
+Clinicopathological studies reveal slow progression of PD from the ventrolateral
+regionoftheSNpc,withlaterspreadtootherbrainregions[15]. ClinicalsymptomsofPD
+becomedetectablewhenthedegenerationoftheDAneuronsprogresseswithintheSNpc.
+LBsareobservedatsitesofneuronaldamage(Figure1). Innormalphysiology,theα-syn
+depositedinthesestructuresperformscentralfunctionsinendocytosis;vesicletrafficking;
+synthesis, storage and release of dopamine; Ca2+ homeostasis; microtubule dynamics;
+andotherprocesses[16]. Thus,neuronalactivityiscompletelydependentonα-syn,and
+alsoonmitochondrialhomeostasis. Althoughα-synispredominantlypresentincytosolic
+eosinophilicLBs,ithasalsobeendetectedinmitochondria,lysosomes,andotherorganelles
+inpost-mortemPDbrains.ThepresenceofLBsintheperipheral,enteric,andcentralnervous
+
+---PAGE BREAK---
+
+Cells2021,10,3547 3of40
+systems(CNS)hasbeenimplicatedinbothmotorandnon-motorsymptomsofPD[17,18].
+Pointmutationsintheα-synsequenceorotherpathologicalinsultsleadstotheformationof
+oligomers,whichmaythengrouptogetheraslargeraggregates. Theseaggregatescanalter
+numerouscellularandmolecularpathwaysinneurons—inparticularinvolvingautophagy
+andproteasomalprocesses,suchasmitochondrialfunction,vesicletrafficking,organelle,
+andproteindegradation—allofwhichleadtoneurodegeneration. Subsequently,asaresult
+oftheneurodegeneration,α-synaggregatesaredepositedintheSN,wheretheyactivate
+microglia[19]. Thisuncontrollableactivationcangeneratepro-inflammatorysignals[20],
+whichmayleadtofurtherneurodegenerationwhenacriticalthresholdisreached.
+2.1. NeuropsychiatricManifestationsofPD
+NospecifictestexiststodiagnosePD.Consequently,diagnosisisbasedonmedical
+history, areviewofsignsandsymptoms, andaneurologicalandphysicalexamination
+(Box1). MotorsignsofPDusuallybeginaround60yearsofage[21],butYOPDisnotrare,
+particularlyinsomehereditaryforms[22]. Unilateralorasymmetricbradykinesiaand/or
+resttremorarethefirstsymptomsofthedisease[23]. Resttremorispresentinrelaxed
+musclesanddisappearsduringactionandsleep. Itmaybeincreasedbymentalcalculation.
+Bradykinesia,definedbyslownessofmovementanddecreasedamplitudeorspeed,leads
+todifficultieswithrepetitivemovements,micrography,small-stepgait,speechdifficulties
+(hypophoniaanddysarthria),whichwillemergeasthediseaseevolves.Rigiditymaycause
+painandcontributetoposturaldeformity(thoracolumbarspinalflexion). Progressionis
+slowwithbilateralextensionofakinesia,tremor,andhypertonia,followedbypostural
+instability,freezingofgait,falls,andinsomepatients,camptocormia. Somenon-motor
+signs(premotor)mayoccurseveralyearsbeforethefirstmotorsymptoms;theseinclude
+depression,hyposmia,constipation,orrapid-eye-movementsleepdisorders[24]. Anxiety
+andapathymaybepresentfromtheonsetofPD,whereasseveredysautonomia(orthostatic
+hypotension, urinary dysfunction due to detrusor hyperactivity), sleep fragmentation,
+cognitive disorders (dysexecutive disorders), and hallucinations emerge later, and will
+contributetolossofautonomy[24,25].
+Box1.DiagnosisofPD.
+Parkinsoniansyndrome,whichmayhavenumerouscauses,isdefinedbythepresenceof
+bradykinesiaandatleasttwofeaturesamongresttremor, plastichypertonia, orboth. Among
+parkinsoniansyndromes,diagnosisofPD,basedontheMovementDisorderSocietyinternational
+criteria[23],restson
+- atleasttwosupportivecriteria(e.g.,clearpositiveresponsetoL-dopa,induceddyskinesia,
+resttremor),
+- absenceofabsoluteexclusioncriteria(e.g.,associatedcerebellarsigns,verticalocularpalsy,
+frontotemporaldementiaorsensitivesigns,noL-doparesponse,isolatedlowerlimbparkin-
+sonism,treatmentwithdopaminereceptorblockers),and
+- absence of red flags (e.g., rapid progression with, over the 5 first years, wheelchair use,
+bulbardysfunction,severedysautonomicdysfunction,recurrentfallsduringthefirst3years,
+inspiratoryrespiratorydysfunction,associatedpyramidalsignsormusclecontractures(neck,
+hands; feet), bilateralandsymmetricevolution, absenceofdopaminesensitivityand/or
+evolution,absenceofnon-motorsigns).
+2.2. CurrentTreatmentsforPDandClinicalManagement
+Symptomatictreatmentistheonlyclinicaloptioncurrentlyavailable[26],withthera-
+piesaimingtocompensateforthedopaminergicdeficit. Dopaminergicdrugs(levodopa
+associated with dopa-decarboxylase inhibitor, dopaminergic agonists, or monoamine
+oxidase-typeBinhibitors),usedindividuallyorinpoly-therapyregimens,areveryefficient
+duringtheearlystagesofthedisease. However,managementbecomesmoredifficultas
+theyearsprogress. Indeed, dopaminergictreatments, whichimprovemotorsigns, can
+haveverydisablingcomplications. Awearing-offphenomenon(endofdosefailure)and
+
+---PAGE BREAK---
+
+Cells2021,10,3547 4of40
+dyskinesiaoccurafterseveralyearsoflevodopatreatment[27]. Impulsecontroldisorders
+(pathological gambling or shopping, hyper sexuality; [28], hallucinations, or psychosis
+mayalsocomplicatedopaminergictreatments,andaremorefrequentlyencounteredwith
+dopamine agonists [29]. Other treatments, including catechol-O-methyltransferase in-
+hibitorstotreatmotorfluctuations,oramantadinefordyskinesia[26]canbeusedlater
+asthediseaseprogresses. Second-linetreatment(continuoussubcutaneousinfusionof
+apomorphine, continuous jejunal administration of duodopa gel, bilateral subthalamic
+nuclearstimulation)areproposedwhenmotorfluctuationsanddyskinesiabecomesignifi-
+cant[30].Thesetreatmentsaimtoachievestablestriataldopaminergicstimulationbuthave
+noimpactondiseaseprogression. Furthermore,someaxialsymptoms(dysarthria,postu-
+ralinstability)arenotdopa-sensitive,andclinicalmanagementofnon-motorsymptoms
+remainsdifficult[31,32].
+Decadesofinvestigationshaveledtothedevelopmentoftherapeuticstrategies,which
+haveundoubtedlyimprovedqualityoflifeforpatients. However,slowingthedisease’s
+progression still remains a challenge, and a persistent priority [33], and novel disease-
+modifyingapproachesareeagerlyawaited[3,34].Althoughthefunctionsoftheproteasome
+andofautophagy,includingmacroautophagyandchaperone-mediatedautophagy(CMA),
+have long been known to contribute to α-syn clearance [35,36], dysregulation of these
+processes remains poorly understood in PD. Several gene mutations and alterations to
+proteins involved in PD are closely linked to autophagy, particularly mitophagy and
+autophagy-lysosomalpathways. Inthisreview,wefocusontheinvolvementofautophagy
+in PD, we comment on the major unanswered questions in the field and propose new
+directionsforpossibletherapeuticinterventionstargetingautophagypathways.
+3. Autophagy
+Autophagyisamajorintracellulardegradationsystembywhichcytoplasmicmaterials
+aredeliveredtothelysosomefordegradation. Basedontheroutebywhichcontentisde-
+liveredtolysosomes,severalformsofautophagyhavebeendefined. Thesedifferentforms
+alsohavevaryingdegreesofselectivityfortargetedcargos(Table1;Figure2). Thethree
+maintypesofautophagyprocessaremacroautophagy,CMA,andmicroautophagy/eMi.
+Whateverthedeliveryroute,themainroleoftheseprocessesistodegradeunwantedmate-
+rialthatisdefective,maybetoxic,orhasbeenproducedinexcess,andthustomaintain
+cellhomeostasis.
+Table1.Typesofselectiveautophagy.
+Processes OrganellesandSubstrates SelectiveMarkers Functions
+• Inadditiontotheproteasomeand
+CMA—whichdegrademisfolded
+Aggrephagy Proteinaggregates MAP1LC3,Alfy andunwantedsoluble
+proteins—thisprocessdegrades
+proteinaggregates[37].
+• Degradessecretoryvesiclesand
+granules,whichevadetheinnate
+processofexocytosis[38,39].
+• Unnecessaryorobsoletesecretory
+granulesdirectlyfusewithlate
+Secretoryvesicles
+Crinophagy HOPS endosomes/lysosomesallowing
+orgranules
+rapideliminationofunused
+secretorymaterialfrom
+thecytoplasm.
+• Discoveredin1966.Remains
+littleknown.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 5of40
+Table1.Cont.
+Processes OrganellesandSubstrates SelectiveMarkers Functions
+• Unlikemacroautophagyand
+microautophagy,CMAsequesters
+Proteinsthatcontain
+CMA LAMP2A,HSPA8 solubleproteinswithKFERQ-motif
+KFERQ-motif
+inaHSPA8-and
+LAMP2A-dependentmanner[40].
+• DegradesDNAviaLAMP2Cinan
+DNautophagy DNA LAMP2C
+ATP-dependentmanner[41].
+• UnlikeUPS,whichisdedicatedto
+thedegradationofERproteins,this
+processclearsunwantedmembrane
+lipidsandproteinaggregates[42].
+ER-phagy(alsoreferred • Isinvolvedinthemaintenanceof
+Endoplasmicreticulum Syntaxin17,DFCP1
+toasreticulophagy) proteinfolding,processing,and
+transport,lipidandsteroid
+synthesis,calciumstorage,
+anddetoxification.
+• Half-life:3–5days.
+• Involvedinthedegradationof
+ferritin(ironproteincomplex),
+Ferritinophagy Ferritin NCOA4
+whencellularironlevelsare
+low[43].
+• Processinwhichcellularglycogen
+isdeliveredtothevacuoleand
+degradedinresponsetochanging
+cellularconditions.
+• Playsacrucialroleinmaintaining
+Glycophagy Glycogen STBD1/Genethonin-1
+glucosehomeostasisinmany
+tissues,includingheart,liverand
+skeletalmuscles[44].
+• Isessentialforlipid
+dropletbiogenesis.
+• Arecentlydiscoveredformof
+non-canonicalautophagy,inwhich
+receptorengagementduring
+phagocytosistriggersthe
+recruitmentofcertain(notall)
+membersoftheautophagy
+machinerytothesingle-membrane
+cargo-containingphagosome,
+orLAPosome.
+Bacteria,livinganddead
+LAP LipidatedLC3 • Degradespathogens,dyingcells,or
+cells
+antibody-coatedparticles
+recognizedthankstoTLR,
+phosphatidylserine,andFcreceptor,
+respectively.Theengulfmentofthe
+Fcreceptortriggersrecruitmentof
+theRUBICON-containingClassIII
+PI3Kcomplextothe
+cargo-containingphagosome.
+• Firstdescribedin2007[45].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 6of40
+Table1.Cont.
+Processes OrganellesandSubstrates SelectiveMarkers Functions
+• Degradeslipiddroplets,aunique
+structuresurroundedbya
+phospholipidmonolayerthat
+Lipophagy Lipiddroplets LIPA
+separatesneutrallipidsfromthe
+cytoplasmicenvironment.
+• Veryshorthalf-life[46].
+• Degradeshighlypermeabilizedor
+damagedlysosomes[47].
+• Lysosomesaredouble
+membrane-boundacidicorganelles,
+whichdegradeunwantedmaterials
+Lysophagy Lysosomes LAMP2A
+receivedviaendocytic,phagocytic,
+andautophagicpathways.They
+playsignificantrolesin
+nutrient-sensingandcholesterol
+homeostasis[48].
+• Degradesmitochondria[49].
+Mitophagy Mitochondria PINK1,RKN • Half-life:14days(heart),2days
+(liver).
+• Degradesnucleus-derived
+material[50,51].
+Nucleophagy Nucleus ATG39* • Inmammaliancells,nucleophagic
+activityislinkedtooncogenicand
+genotoxicstress.
+• Degrades
+peroxisomes—membrane-bound
+organellesplayinganessentialrole
+inavarietyofmetabolicreactions
+Pexophagy Peroxisomes ATG36
+(e.g.,purinecatabolism,fattyacid
+beta-oxidation,bileacidsynthesis,
+etherphospholipidsynthesis)[52].
+• Half-life:5days.
+• Degradesproteasomesandis
+thereforeinvolvedintheregulation
+ofproteasometurnover[53,54].
+• Discoveredin1995when
+Proteasome(dependson proteasomeswereobservedwithin
+Proteaphagy Proteasomes
+thesizeoftheproteasome) autophagicvesiclesandlysosomes
+inratlivercellsunderstarvation
+conditions[53,54],confirmedand
+termed“proteaphagy”in2015[55].
+• Half-life:12–15days.
+• Degradesribosomescontaining
+RNAandribosomalproteins,which
+decodethegenomeandare
+involvedintheformationofpeptide
+bonds[56].
+Ribophagy Ribosomes Ubp3,Bre5,Rsp5 • Thecompositionoftheribosome
+poolisheterogenous;numerous
+inherentribosomepropertiescan
+promotepreferentialtranslationof
+distinctcellularmRNAs.
+• Half-life:5–10days.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 7of40
+Table1.Cont.
+Processes OrganellesandSubstrates SelectiveMarkers Functions
+• DegradesRNAviaLAMP2Cinan
+RNautophagy RNA LAMP2C
+ATP-dependentmanner[57].
+• Degradesα-syn.
+• Microgliaingestanddegradeα-syn
+releasedbyneuronsvia
+SQSTM1-mediatedselective
+autophagy.Shownbothinvivoand
+Synucleinphagy α-syn SQSTM1 invitro.
+• Theprocessrequiresthepresenceof
+TLR4,whichinteractswithα-synto
+inducethetranscriptional
+upregulationofSqstm1throughthe
+NFKBpathway[58].
+• Degradesintracellularpathogens
+(bacteria,protozoans,andviruses)
+Xenophagy Invadingmicrobes CALCOCO2/NDP52 thatareeitherpresentinthecytosol
+orcontainedin
+pathogen-containingvacuoles.
+• Degradeszymogengranules.
+• VMP1,theubiquitin-protease
+USP9x,andSQSTM1mediatethe
+zymophagyprocess.
+• VMP1isamultispanning
+Pancreaticzymogen transmembraneproteinassociated
+Zymophagy VMP1
+granules withtheERandGolgicomplexthat
+participatesinautophagosome
+formation[59,60].
+• AlthoughVMP1isupregulatedin
+acutepancreatitis,itisessentialfor
+autophagosomeformation[60].
+*Yeast-specificreceptor;nospecificreceptorhasbeenidentifiedinmammals.Abbreviationsnotdescribedinthetext:Alfy,PI3P-binding
+Autophagy-linkedFYVEdomainprotein;ATP,adenosine-triphosphate;Bre5,Ubp3-associatedcofactor;CALCOCO2,calcium-bindingand
+coiled-coildomain2;DFCP1,doubleFYVEdomain-containingprotein;HOPS,homotypicfusionandvacuoleproteinsorting;LAMP2C,
+lysosomal-associatedmembraneprotein2C;LIPA,lysosomalacidlipaseA;NCOA4,nuclearreceptorcoactivator4;Rsp5,E3ubiquitin
+ligase;STBD1,Starch-bindingdomain-containingprotein1;Ubp3,ubiquitin-specificprotease3;VMP1,vacuolemembraneprotein1.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 8of40
+Figure2. Thethreemaintypesofautophagy. Macroautophagy: schematicrepresentationofthesequentialsteps: initia-
+tion/nucleation,phagophoreformation,phagophoreelongation,closure(autophagosome),fusion,anddegradation.Under
+nutrient/energy-richconditions(insulingrowthfactors,aminoacids)MTORinhibitsautophagyinitiationbyregulatingthe
+ULK1complex.Incontrast,AMPKactivatesautophagyinresponsetostressorstarvation.CMA:processthatdegrades
+substratescontainingaKFERQ-motif(orCMA-targetingrecognitionmotif).ThechaperoneHSPA8formsacomplexwith
+otherco-chaperones(HSP90,HSP40,HSP70-interactingprotein/HIPandHSP70-HSP90organizingprotein/HOP)that
+notonlyactsasacatalystallowingunfoldedproteinstorefold,butalsomediatesdeliveryofproteinstothelysosomevia
+theLAMP2Areceptoratthelysosomalmembrane.Microautophagy:inthisprocess,thecytoplasmiccontentdestinedfor
+autophagyisdirectlyengulfedintothelysosomefollowingformationofaninvagination.Abbreviationsnotdescribedin
+thetext:DFCP1,doubleFYVEdomain-containingprotein1;RB1CC1/FIP200,FAK-familyinteractingproteinof200kDa;
+RER,roughER;UVRAG,UVresistance-associatedgene;WIPI,WDrepeatdomainphosphoinositide-interacting.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 9of40
+3.1. TheAutophagyMachinery
+Themechanismsofautophagyhavebeenthoroughlyinvestigatedandwerereviewed
+in detail by numerous authors [61–63]. The general features of the three pathways are
+presentedinFigure2. Recentadvancesrelatedtocanonicalandnon-canonicalautophagic
+processes—especiallyinmammaliansystems—haveaddedtoourunderstandingofthe
+mechanisms that may play important roles in neurodegenerative diseases such as PD.
+Nevertheless,manyofthemoleculardiscoveriesuponwhichourcurrentunderstandingof
+theregulationofautophagyisbasedemergedfromanalysesinvolvingyeast. Incells,the
+threeformsofautophagycoexist,andplayvitalrolesinmaintainingcellularhomeostasis.
+However,thelargemajorityofresultsavailableinthisfieldrelatetomacroautophagy. This
+processhasbeendividedintothefollowingsteps: nucleation,elongation,autophagosome
+formation,autophagosome-lysosomefusion,anddegradation(Figure2). Eachstepisfinely
+genetically-regulatedandplaysitsownspecificroleinmaintainingthedynamicnature
+oftheprocess. Forexample,anumberofconservedautophagy-relatedproteinsactina
+hierarchicalmannertomediateautophagosomeformation. Uponupstreaminduction,the
+autophagymachinerycomesintocontactwiththeisolationmembrane/phagophore. The
+earlyoriginsanddefinitivecomplexsource[endoplasmicreticulum(ER),Golgicomplex,
+endosomes, and mitochondria] of the nascent isolation membrane remains a matter of
+debate[64].Anultrastructuralstudyinvolvingelectronmicroscopyexperimentsconfirmed
+thataspecializedsubdomainoftheERcontributestophagophoregeneration[65]. About
+40 autophagy-related (ATG) proteins have been identified as involved in this dynamic
+process,theyarehierarchicallyorganized,startingfromtheinitiationoftheprocessand
+progressingthroughtothematurationofautophagosomes. Theseproteinsworktogether
+inseveralfunctionalcomplexes,notably(i)theUnc-51-likekinase1(ULK1)/ATG1kinase
+complex;(ii)theclassIIIphosphatidylinositol(PI)3-kinasecomplex;(iii)thePI(3)P-binding
+ATG2-ATG18 complex; (iv) the two conjugation systems (ATG12 conjugation system
+andmicrotubule-associatedprotein1A/1B-lightchain3(MAP1LC3)/ATG8conjugation
+system);and(v)thefusionmachinery(Figure2).
+Infact,severalso-calledATGproteinshavealternativefunctionsbeyondautophagy[66].
+Thus,forexample,MAP1LC3lipidation(amechanismthathaslongbeenusedtoassess
+autophagicactivity[67,68])isalsoinvolvedinnon-autophagiccellularmechanismssuch
+asphagocytosis,LAP,micropinocytosis,orviralinfection. Theseprocessesareknownas
+non-canonicalautophagicprocesses[69]. Inthesenon-canonicalprocesses,thefunctions
+ofwhicharestillincompletelycharacterized[70,71]MAP1LC3conjugatestosinglemem-
+branes(singlemembraneATG8conjugation,SMAC),andcytosolicconstituentsarenot
+deliveredtothelysosome[72].
+3.2. NeuronalAutophagyContributestoNeuronalPhysiology
+Thereiscompellingevidencetosupporttheideathatneuronalautophagyplaysa
+decisiveroleinseveralaspectsofneurondevelopmentandinpreservingneuronalactiv-
+ity[73–75].Inpost-mitoticcellslikeneurons,autophagyisespeciallyimportantforsurvival
+andhomeostasis,becausethesecellscannoteliminateaccumulatedtoxicsubstancesand
+damaged organelles during cell division. Autophagy, as well as the proteasomal sys-
+tem[76],isthereforeoneofthevitalqualitycontrolmechanismsthatensurethelongevity
+ofneuronalcells. Presynapticautophagyintheaxonterminalisalsoessentialforsynaptic
+maintenanceandplasticity[77].
+Amongnervecells,onlycorticalneurons,Purkinjecells,andhypothalamicneurons
+canincreasetheirautophagosomecontentuponastimulus. Theprecisereasonsforthis
+nichemechanismarecurrentlyunknown[62,78]. Onepossibleexplanationistrivialand
+relatedtothefactthat,likeforsomeothercelltypes,measuringautophagyinneurons,
+especiallyinthebrain,remainschallenging[79,80]. Alternatively,becausenervecellsare
+terminallydifferentiated—withalowerregenerativecapacitythanothercells—theyareless
+autophagic. However,studiesonbrainsfromautophagy-deficientmiceprovidedevidence
+thatsequestosome-1(SQSTM1)/p62proteinandpolyubiquitinatedproteinsaccumulatein
+
+---PAGE BREAK---
+
+Cells2021,10,3547 10of40
+mostneuronalcells[81]. Incontrast,SQSTM1deficiencydoesnotresultinacompletelack
+ofautophagy. Itappearsthereforethattheautophagosomecontentdependsonthetypeof
+cellsandthetypeofstressor.
+3.3. AutophagyandNeurodegenerativeDiseases
+Asintroducedabove,topreventneuronalandsynapticdysfunction,neuronshave
+evolvedmechanismstoremovetoxicanddefectivecomponentsandorganelles. These
+mechanismsareessentialtomaintainahighdegreeofneurotransmissionandtheintegrity
+of the functional proteome in neurons. Autophagy is central to this protective system.
+Age-relatedfunctionallossofautophagymakestheneuronsmorevulnerabletostressand
+canleadtocelldeath[82]. Pathologicaldisruptionofautophagypathwayscanalsoresult
+inneurodegenerativedisordersthatmayormaynotbelinkedtoageing.
+Compromisedautophagyhasbeendocumentedinmanyneurodegenerativediseases,
+includingPD,Alzheimer’sdisease(AD),Huntington’sdisease(HD),andamyotrophic
+lateral sclerosis (ALS) (for comprehensive reviews, see [63,83,84]). In investigating the
+mechanismslinkingautophagytothesediseases,ithasbeenobserved,forexample,that
+micespecificallydeficientforAtg5inneuralcellsdevelopprogressivedeficitsinmotor
+functionwhilealsoaccumulatingcytoplasmicinclusionbodiesinneurons[85]. Similarly,
+inmicedeficientforAtg7,Atg5,orAmbra1,ubiquitinwasfoundtoaccumulateintheCNS,
+andcytoplasmicinclusionswereassociatedwithmotordysfunctions,andneuronaltube
+defectsinmouseembryos[86]. Mutationofgeneslinkedtoautophagicprocesses—for
+example,SQSTM1,optineurin/OPTN,E3ubiquitinligasePARKIN/PRKN,PINK1,TBK1—
+have also been implicated in many neurodegenerative diseases. In particular, defects
+in mitophagy that are also seen in organ-specific and systemic inflammatory diseases,
+havebeendocumentedinneurodegenerativediseases[87]. Inadditiontothesegenetic
+mutations,significantalterationstoproteinexpressionhavebeenlinkedtoneurodegenera-
+tivediseases. Forexample,abnormalexpressionoftheproteinglandularepithelialcell1
+(GABARAPL1/GEC1)hasbeenassociatedwithneurodegenerativediseases[88].
+3.4. AutophagyandParkinson’sDisease
+AmongthepathologicalhallmarksofPDareLBsthatcontainabnormallyaggregated
+α-synprotein.Mutationsortriplicationofthegeneencodingα-syn(SNCA)arerare,butare
+clearlyinvolvedintheinitiationandprogressionofPD.Interestingly,anyfailureaffecting
+oneofthecomponentsofthedegradativeprocess,eitherdirectlyorindirectly,impairsthe
+otherautophagyprocesses. Theubiquitin-proteasomesystem(UPS)isknowntobethe
+primarydegradativepathwayformonoubiquitinatedα-syn,whereasthemacroautophagy
+pathwaydegradesdeubiquitinatedα-syn[89,90]. InPD,therefore,bothmitochondriaand
+lysosomesplaycrucialroles(Figure3).
+3.4.1. RoleofMitophagyinPD
+Asanenergyproducingorganelle,themitochondrioniscentraltoseveralneurode-
+generativediseases,includingPD[91–95]. Multipleinvestigationsrevealedthatgenetic
+mutationsassociatedwithPD(e.g.,PRKN,PINK1,andothers)arealsocloselylinkedto
+mitochondrialdefects,includingdefectsinmitophagy(Table2)[96]. Thetypeofdamage
+causedtothemitochondrianaturallydependsonthetypeofα-syn(formingaggregates
+ornot,producedfrommutatedornativeformsofSNCA).Furtherstudiesconfirmedthat
+α-synaffectstheinteractionofthemitochondria-associatedmembranewiththeER.This
+interactionplaysapivotalroleinregulatingCa2+ signalingandapoptosis. Inaddition,
+abnormal α-syn interferes with the peroxisome proliferator-activated receptor gamma
+coactivator1-alpha,whichplaysacrucialroleinmitochondrialbiogenesisandinapopto-
+sis. Mitochondrialdysfunctionwiththeinvolvementoffactorsrelatedtoα-synhasbeen
+comprehensivelydiscussedelsewhere[9,97,98].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 11of40
+Figure3.AutophagyimpairmentinPD.ImpairedformsofautophagyhavebeenobservedinPD.Geneticmutationsof
+α-synarelinkedtoimpairmentoftheautophagyprocess.Manyfactors,suchasgeneticfactors,defectivemitochondrial
+trafficking,oxidativestress,dysfunctionalATPcycle,deregulatedmitochondrialdynamics,andalteredmitogenesisperturb
+healthymitochondria.Damaged/dysfunctionalmitochondriaallowPINK1torecruitPRKN,whichinturnactivatesother
+essentialproteins,suchasOPTNandubiquitin,Rab7andothersthustoinitiateaqualitycontrolprocess,i.e.,mitophagy.
+ThefunctionoftheRab7isregulatedbytheTBC1D15/17(belongtotheTBCfamilywithRab-GAPfunctions),which
+isalsoregulatetheshapingandtargetfunctionsofisolationmembranebycross-linkingwithFis1andMAP1LC3B.The
+sequentialstepsofmitophagyare: formationofthephagophore,maturationintothemitoautophagosome,andfusion
+ofthemitoautophagosomewiththelysosome. Conventionalautophagyalsoplaysanessentialrolein(bothnaïveand
+aggregated)α-syndegradation.α-synselectivelybindstothepathogen-recognitionreceptor,TLR-4,whichactivatesthe
+downstreamsignalingpathwayfollowingNF-κBactivation,tostimulateSQSTM1/p62production.TheSQSTM1produced
+bindstotheinternalizedα-synandinitiatestheautophagyprocess.Dysregulationoftheautophagyprocessleadstothe
+accumulationofα-synalongsideSQSTM1.Apartfrommitophagyandmacroautophagy,CMAalsoselectivelydegrades
+α-syn,whichcontainsaKFERQ-likemotif.SelectiveCMAinhibitionoralteredCMAfunctioningaffectα-syndegradation.
+Abbreviationsnotdescribedinthetext:Fis1,Mitochondrialfission1protein;GAP,GTPase-activatingproteins;IKK,IκB
+kinase;MyD88,myeloiddifferentiationprotein88;Rab,RassuperfamilyofsmallGproteins;TBC,Tre-2/Bub2/Cdc16;
+TIRAP,Toll-interleukin1receptoradaptorprotein.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 12of40
+Table2.GeneticmutationslinkingautophagycomponentstoPD*.
+Genes Functions LinktoPD
+• ReducedexpressionofATG5anditsvariantsis
+ATG5-dependentautophagyprotectsvariouscells,
+ATG5 implicatedinPDpathology,andincreased
+includingneurons,fromapoptosis[99].
+expressionreversesPDpathology[100].
+ATG7isavitalpartoftheATG8andATG12 • FourATG7genepromotervariantshavebeen
+ATG7 conjugatingsystemsofautophagy,andplaysan identifiedandimplicatedinthedevelopment
+essentialroleinneuronaldevelopment[101]. ofsporadicPD[102].
+InconjunctionwithotherATGs,itformsanATG12 • ThreeATG12genepromotervariantshave
+ATG12 system,whichisessentialforautophagosome beenidentifiedandimplicatedinthe
+formation. developmentofsporadicPD[103].
+• ExonskippingmutationsinATP6AP2strongly
+VacuolarATPaselocalizedonthelysosomal
+ATP6AP2 associatedwithPD.Mutationleadstoimpaired
+membranethatregulatespH.
+lysosomalacidification[104,105].
+P4-typeATPasepresentonthelateendo/lysosomal
+compartment.Inadditiontoitslipidflippase • KnockdownofATP10Bincorticalneurons
+function(transferoflipidsfromtheexoplasmicto elevatedthelysosomalpHandlysosomalmass,
+ATP10B
+thecytoplasmicmembraneleaflet),italsotransports therebyreducinglysosomaldegradative
+cellcycleregulatorproteinsfromtheERto function[13].
+endosomesandlysosomes[9,13].
+P5-typeATPaselocalizedonvesicularstructures,
+• CloselylinkedtoKufor–Rakebsyndromeand
+ATP13A2/PARK9 particularlylysosomes;functionsasacation
+YOPD[10].
+transporter[10].
+• StronglyassociatedwithYOPD.
+Functionsasanantioxidantandchaperone.Through
+• LackofDJ-1leadstoreducedmitochondrial
+DJ-1/PARK7 itsdiversifiedfunctions,itmaintainsmitochondrial
+membranepotentialandincreasedautophagy
+homeostasis[106].
+markers[106–108].
+DNAJC13/PARK21 Retromer-mediatedendosomalproteinsorting[106]. • Closelylinkedwithlate-onsetofPD[106].
+• Closelylinkedtoimpairedmitophagy.
+InassociationwithPINK1andPRKN,regulates
+FBOX7/PARK15 Mutationleadstoautosomalrecessive
+mitophagy[109].
+YOPD[109].
+• HeterozygousdefectslinkedtoPD.
+• Mutationimpairsautophagic-lysosomal
+GBAisalysosomalenzyme,whichdegradescell
+GBA1 function[110,111].
+membraneglycolipids,i.e.,glycosylceramide[48].
+• LackofGBAactivitycausesGaucher’s
+disease[48].
+• InPBMCs,decreasedtranscriptlevelsobserved
+HSPA8 ActsasasubstratecarrierproteininCMA.
+inPDpatients[88].
+• Stronglyassociatedwithlate-onsetPD.
+• Likeα-syn,variantsoftheLRRK2locushave
+LRRK2isknownforsortingvariousvesicles,based
+beenobserved[10].
+LRRK2 onitsinteractionswithRab5b,Rab7,Rab7L1,Hsc70,
+• IncreasedkinaseactivityofLRRK2and
+andothers[10].
+reducedautophagicfluxwere
+observed[112,113].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 13of40
+Table2.Cont.
+Genes Functions LinktoPD
+MAP1LC3Banditssubfamilymembersarecrucial • Althoughmutationsarenotreported,
+MAP1LC3 toautophagosomeformation,elongationand significantincreasesinexpressionofATG8
+maturation[88]. subfamilygenesareobserved[88].
+• Mutationsinthisgeneimpairmitophagy,lead
+GenethatencodesPRKN(E3ligase),whichplaysan toautosomalrecessiveandsporadic
+PRKN/PARK2
+essentialroleinmitophagyinparallelwithPINK1. early-onsetPD[114,115].
+• ResponsiblefordominantformsofPD.
+Memberoftheserine-threoninekinasesclass,playsa • Closelylinkedtomitophagyimpairment
+PINK1/PARK6 crucialroleinmitochondriaqualitycontrolby • Mutationleadstoautosomalrecessiveand
+inducingmitophagy. sporadicYOPD[116].
+• RegulatesK+conductanceonendo/lysosomal
+Genethatencodesendo/lysosomalK+ membranestomaintainmembranepotential,
+TMEM175
+channel[117]. pHstability,andregulateorganelle
+fusion[117].
+Genethatencodestransmembraneproteininvolved
+TMEM230 inretromerandsecretoryvesicle • Mutationsaltertraffickingfunction[118].
+traffickingfunctions.
+VPS13C/PARK23 Mitophagydevelopment. • CloselylinkedtoYOPD[4].
+Asapartoftheretromercomplex,itperforms
+VPS35/PARK17 • Linkedtolate-onsetPD[106].
+proteintraffickingfunctions[106].
+*MoreinformationaboutthegeneticsofPDcanbefoundinthefollowingreferences[4,7–11,63,106].Abbreviationsnotusedinthetext:
+Fbxo7,F-boxonlyprotein7;Rab,Rasanalogueinthebrain.
+Defectsinthemitophagypathway,especiallyPARK2(PRKNmutations)andPARK6
+(PINK1mutations),havebeenproposedasamajorcauseoffamilialPD.Inhealthycondi-
+tions,PINK1,whichlocalizestothemitochondrion,istranslocatedintothemitochondrial
+innermembranewhereitisdegraded.Undercertainunknownconditions,mitochondriabe-
+comedamagedandlosemembranepotential(Figure3). ThisleadstoPINK1activationand
+recruitmentofPRKN,whichhelpstoinducemitophagywhileactingonothermitochon-
+drialmembraneproteins[OPTNandnucleardotprotein52-kDa(NDP52)][62,119–124].
+PRKN mutations are the most frequent cause of autosomal recessive YOPD, followed
+bymutationsinPINK1. Alongsideitsroleinmitophagy, PRKNplaysanessentialrole
+in lipid processing and the ubiquitination of the GTPase Rab7, which regulate lysoso-
+maldynamics[125–128]. PRKNdeficiencyresultsinDAneuronaldegenerationinmice,
+andembryonicfibroblastsderivedfromPINK1-deficientmiceshowlysosomaldysfunc-
+tion[129]. Inaddition,mutationsinPINK1andPRKN leadtodefectsinthemitophagy
+process[62]. However, studieshaveyettoexplainwhyPRKNisnotrecruitedtomito-
+chondriainDAneuronsunderdepolarizedconditions[130]. Aconsequenceofmitophagy
+dysfunctionsinneuronsisuncontrolledstress(i.e.,generationofreactiveoxygenspecies),
+which causes neuronal cell death. In line with this effect, targeting mitophagy defects
+may be beneficial in PD. It has been shown, for example, that an inhibitor of the mito-
+chondrialdeubiquitinaseUSP30,whichnegativelyregulatesPRKN-mediatedmitophagy,
+selectivelyincreasesmitophagicflux,thusitcouldbeofinterestforthedevelopmentof
+noveltherapeuticapproaches[131,132].
+InadditiontothemajoreffectofPINK1andPRKNmutations,SNCAmutationshave
+beenstudiedinthecontextofmitophagy. α-syninteractswiththeMiroproteins(outer
+mitochondrialmembraneadapterproteins,usefulinmitochondrialmotility)andinterferes
+withtheMirodegradationprocess,whichisanessentialstepinthemitophagyprocess[133].
+StudiesinmiceandyeastharboringmutationsinSCNAconfirmedtheroleofα-synin
+neuronaldeath,viamitochondrialdysfunction[134,135].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 14of40
+Thetranscriptionfactormyocyteenhancerfactor2D(MEF2D)isanotheressential
+mitochondrialregulator(Table2). Itisacentralfactorinthetransmissionofextracellular
+signalsandactivationofgeneticprogramsinresponsetoawiderangeofstimuliinseveral
+cell types, including neurons. MEF2D is a critical regulator of IL-10 gene expression,
+involved in negative control of the microglial inflammatory response, and preventing
+inflammation-mediatedcytotoxicity[136]. ReducedMEF2Dexpressionhasbeendirectly
+linkedtoreducedlevelsofnicotinamideadeninedinucleotidedehydrogenase6(NADH),
+acomponentofmitochondrialcomplexI.Post-mortemanalysisofbrainsamplesfromPD
+patientsrevealedreducedlevelsofbothMEF2DandNADH[137].
+Anumberofothergeneticmutations,includingdeficienciesinmitochondrialapoptosis-
+inducingfactor(AIF)andmitochondrialtranscriptionfactorA(TFAM;[138]thatperturb
+endo-lysosomalpathways,alsoaffectmitochondrialphysiologyandfunction,leadingfor
+exampletoimpairedmitophagy,dysfunctionaloxidativephosphorylation,deregulated
+mitochondrialdynamics,alteredmitogenesis,calciumimbalance,alteredmitochondrial
+trafficking, and induction of oxidative stress (Table 2). PRKN-independent autophagy
+pathwaysareinvolvedintheselectivemitophagyprocessviareceptor-mediated,lipid-
+mediated,andubiquitinligase-mediatedpathways[97,139,140]. Itisnotcurrentlyknown
+towhatextentthesepathwaysarelinkedtoPD.
+3.4.2. RoleofMacroautophagyinPD
+Theinvolvementofmacroautophagyanditsdefectshavebeenextensivelyinvesti-
+gatedinneurodegenerativediseasesandsynucleinopathy,withsomestudiesalsoreferring
+toPD[141–144]. Accumulatingevidenceindicatesthatseveralcomponentsofthemacroau-
+tophagy pathway are involved in PD (Figure 3). Genetic analyses of PD patients have
+revealed abnormal expression levels for the genes encoding ATG5, ATG7, ATG12, and
+MAP1LC3B(Table2). Twoindependentexomesequencingstudies[145,146]alsoidentified
+point mutations in the vacuolar protein sorting ortholog 35 (VPS35) gene, causing an
+autosomaldominantformofPD(PARK17)(Table2). ThismonogenicsubtypeofPDis
+rare,andthepreciseroleoftheVPS35mutations(especiallyVPS35D620N)isnotyetfully
+understood(discussedin[147]. Nevertheless,thispathogeniceffecthighlightstheroleof
+theretromer,ahighlyconservedmembrane-associatedproteincomplexinwhichVPS35
+is an intrinsic component, in the α-syn degradation pathway [148,149]. Studies on DA
+neuronslackingtheVPS35geneshowα-synaccumulationandtoxicity,inparticularloss
+ofmitochondrialfusionandfunctions[150]. ATG9traffickingdefects(theATG9systemis
+requiredforphagophoreexpansion)werealsoassociatedwithmutantVPS35,leadingto
+α-synaccumulation. IncreasingVPS35levelsinPDmicerescuedα-synaccumulationand
+inducedneuroprotection,demonstratingthatregulatingVSP35maybeofinteresttotreat
+PD[147,151].
+Althoughstillamatterofdebate,recentdatasuggesttheinvolvementofmoreselective
+autophagypathwaysparticularlytargetingα-syn,thatis,synucleinphagy(Table1)[58]. In
+Vitroandinvivostudiesconductedonmicroglialcellsclearlydemonstratedthatα-syn
+wasdegradedviamacroautophagy. Toll-likereceptor(TLR)-4onthemicrogliarecognizes
+α-syn and activates NF-κB signaling, which in turn alters SQSTM1 transcription. The
+proteinproduced,whichispresentatraisedlevels,selectivelybindstotheinternalized
+α-syn leading to its colocalization with autophagosomes. Lack of TLR-4 and SQSTM1
+altersautophagy-mediatedα-syndegradation[58]. Thus,TLR-4orSQSTM1mayserveas
+relevantmarkersinneuronswhereα-synhasaccumulated.
+3.4.3. RoleofCMAinPD
+Inadditiontomitophagyandlysosomalmacroautophagy,whichhaverelativelywell-
+established roles in α-syn degradation, CMA also appears to be involved in this vital
+process. CMAisacentralprocessthatdegradesproteinsharboringaspecificcombination
+offiveaminoacids—the“KFERQ-motif”(Figures2and3). Thismotifallowsthechaperone
+heat shock protein A8 (HSPA8)/cognate 70 kDa protein (HSC70) to bind the substrate
+
+---PAGE BREAK---
+
+Cells2021,10,3547 15of40
+proteinanddirectittothelysosomalmembrane,whereitencounterslysosome-associated
+membraneproteintype2A(LAMP2A),whichplaysadecisiverole. Bindingofthecomplex
+promotesLAMP2Amultimerizationtoformamembrane-boundhigher-molecular–order
+complex. The substrate protein is then unfolded within this complex and translocated
+intothelysosome. Alysosome-residentHSPA8isoform(Lys-HSPA8)contributestothe
+translocationofthesubstrateproteinacrossthemembranetowardsthelysosomallumen,
+whereitisdegradedbyacidichydrolases[36,152–155]. α-syncontainsaKFERQ-likemotif
+anditsCMA-mediateddegradationissignificantlyreducedforα-synconstructslacking
+theKFERQ-likemotif,andbyLAMP2Aknockdown[152,156].
+Interestingly,anotherprotein,leucine-richrepeatkinase2(LRRK2)—whichisalso
+linked to familial forms of PD (Table 2)—is degraded in lysosomes as part of CMA. In
+contrast, the most common pathogenic mutant form of LRRK2, G2019S, is poorly de-
+gradedbythispathway[154,157]. CMAactivitycanbemodulatedbytherateofassem-
+bly/disassemblyofthetranslocationcomplex[40]. Inthiscontext,akeyfindingforPD
+wasthediscoverythatlysosomalbindingofbothwild-typeandseveralpathogenicmutant
+LRRK2formswasincreasedinthepresenceofotherCMAsubstrates. Thesesubstrates
+interferewiththeorganizationoftheCMAtranslocationcomplexastheenhancedbind-
+inginhibitsassemblyoftheCMAtranslocationcomplexatthelysosomalmembrane. In
+responsetothisinhibition,affectedcellsproducedmoreLAMP2A.Asimilarfeaturehas
+beenobservedinbrainsfromPDpatientswithLRRK2mutations. Thismechanismleads
+totheaccumulationofotherCMAsubstrates,includingα-syn,thatremainboundlonger
+thannormalatthesurfaceofthelysosomalmembraneawaitingtranslocation[157]. Thus,
+inPD,theSCNAgeneisnotaloneincontributingtothepathology,andgenesinvolvedin
+theclearanceofaggregatedα-synmayalsobeinvolved[154]. Thisfindingissignificant
+sincebothmutantα-synandaggregatedα-synthathaveescapedautophagicdegradation
+canhampertheCMAprocessinneurons,leadingtoneuronalcelldeath[158].
+Severalpost-mortemstudieshaverevealedthatthelevelsofrate-limitingCMAcompo-
+nentsLAMP2AandHSPA8arereducedinPDpatients,especiallyintheSNpc[156,159,160].
+Interestingly,theoxidizedmitochondrialregulatorMEF2Ddescribedabovealsobindsto
+HSPA8andisindirectlyinvolvedinCMA[161]. Studiesonperipheralleukocytesfrompa-
+tientswithsporadicPDrevealedthatLAMP2transcriptandproteinlevelsaresignificantly
+reducedcomparedtothelevelsmeasuredinhealthyindividuals[162]. Althoughinthe
+samestudy,macroautophagy(measuredbyMAP1LC3IIanalysis)appearedtobeinduced,
+thisconclusionwouldmeritmorecompleteindependentconfirmation,withtheaddition
+ofmeasurementofautophagicflux(notperformedintheinitialstudy).
+Afewotherautophagy-relatedgenesandproteinsinvolvedinCMAhavebeenas-
+sociatedwithPD.Forexample,theperoxiredoxin-likeredoxsensorDJ-1modulatesthe
+activityofSQSTM1andthetargetingofubiquitin-conjugatedproteinstomacroautophagy
+under oxidative stress caused by tumor necrosis factor ligand superfamily, member 10
+(TNFSF10/TRAIL)[163]. TheimplicationofmutatedDJ-1(PARK7)inearly-onsetfamilial
+PDiswellknown(Table2). DJ-1isinvolvedinawidevarietyofcellularfunctions, in-
+cludingaroleasanantioxidant,chaperonefunctions,transcriptionalregulation,control
+ofmitochondrialCa2+transients,amongothers. Thisproteinregulatesp53-inducedmito-
+chondrialdysfunction,stabilizesmitochondria-associatedERmembranes,andinteracts
+withanti-apoptoticproteins[164]. Inadditiontoitseffectsonmitophagyandlysosomal
+macroautophagy,DJ-1alsomodulatesCMAthroughitsinteractionswithLAMP2Aand
+lysosomalHSPA8[165]. Inparticular,itescortswild-typeα-synfordegradationbyCMA.
+Lack of the DJ-1 gene inhibits CMA activity and α-syn degradation both invitro and
+invivo[165]. Incontrast,DJ-1isstabilizedincorticalneuronsbyaCMA-mediatedprocess
+thatinvolvesLAMP2A[166]. Interestingly,mutatedα-synproteinscanescapefromCMA-
+mediateddegradation,whichonceagainsupportstheCMAselectiveautophagyprocess.
+InadditiontoimpairedautophagyduetoCMA-relatedgenesinfamilialPD,alter-
+ationstoCMAhavealsobeenimplicatedinsporadicPD,whichaccountsforthemajority
+ofPDcases. Theetiologyismorecomplicatedtodefineinthissettingandmayberelated
+
+---PAGE BREAK---
+
+Cells2021,10,3547 16of40
+tovariousfactors—includingenvironmental(e.g.,pesticides)andcellular(e.g.,oxidative
+stress;seeabove)stressors. TheproposedinvolvementofCMAmalfunctioninPDpatho-
+genesisisfurthersupportedbyage-relatedchangestotheLAMP2Aproteinitself,which
+leadtoagradualreductioninCMAandsubsequentaccelerationofthediseaseinolder
+patients[154,156,157,167,168].
+Recently,severalnotabledatahavehighlightedvariousimmunealterationsunderly-
+ingthatPDisassociatedtoautoimmunefeaturesandcouldbeconsideredasanautoim-
+munedisease[87]. ThepresenceofserumautoantibodiesreactingwithLAMP2Ahasnot
+yetbeeninvestigatedinPD.Theseautoreactiveantibodieshavebeendescribedrecentlyin
+theserumofautoimmunepatientswithlupusandcloselyrelatedsystemicautoimmune
+diseases[169].
+3.4.4. RoleofLysosomesinPD
+RegardlessoftherolesplayedbythedifferenttypesofautophagyinPD(macroau-
+tophagy,CMAandevensomeformsofsecretoryautophagy[170]),lysosomesplayacentral
+roleinα-syndegradation.Alterationstothelysosomalenzymecontent(particularlyhydro-
+lases)influencethedegradationprocess,leadingtotheaccumulationofproteinaggregates
+whichcauseneuronaldamage[48]. Studieshavereporteddecreasedlevelsoflysosomal
+hydrolasessuchasα-mannosidase,β-mannosidase,andβ-glucocerebrosidase(GBA)inthe
+cerebrospinalfluid(CSF)frompatientswithPD.Incontrast,inthesamepatients’serumthe
+activityofthesehydrolaseswasnotsignificantlyaltered[171]. Thedifferenceinlevelsof
+hydrolasesintheCSFisnowbeingusedfordiagnosticpurposes[171].Incontrast,thelevel
+ofα-syninCSFfromPDpatientswasfoundtobegreatlydiminished[172]. Thesereduced
+levelsareprobablyduetoα-synaccumulationinLBs[172]. Severalgenesassociatedwith
+PDarealsodirectlylinkedtolysosomalfunctions. Asmentionedabove,alltheautophagy
+pathwaysatsomepointinvolvelysosomes,asthepointtowhichthematerialisdelivered
+forprocessingbyvariousenzymes[48]. Amongtheenzymesimplicatedintheseprocesses,
+cathepsinDisassociatedwithα-syndegradation. StudiesonDrosophilahaveshownthat
+lackofcathepsinDleadstotheaccumulationofunprocessedsubstratesinlysosomesand
+lateendosomes[10,148].
+GBA,encodedbyGBA1,isanotherlysosomalenzymeinvolvedinα-syndegradation.
+LackofGBAfunctionorlowlevelsofGBAinthehumanbraininducetheaccumulation
+ofanoligomericformofα-syn[173–175],whichinturninterfereswiththematurationof
+GBA[173],leadingtoaviciouscycle. HeterozygousmutationsinATP10B,whichencodes
+ATP10B(Table2),alateendo-lysosomallipidflippasethattranslocatesthelipidsgluco-
+sylceramideandphosphatidylcholinetowardsthecytosolicmembraneleaflet,havebeen
+implicatedinPD[13]. ThesemutationsalterthetranslocationfunctionsofATP10B,leading
+toanaccumulationofglucosylceramidewhichcandrivelysosomaldysfunction[13].
+ATP13A2(PARK9)(Table2)isanotherlysosomalproteinthatisimportantinPD.Itis
+responsibleforcationtransportinlysosome-likevesicles. MutationsinATP13A2havebeen
+observedinearly-onsetPD[12]. InVitrostudiesconfirmedthatincreasedATP13A2protein
+levelsreduceα-syn-inducedtoxicity[176,177]. Similarly,reducedlevelsofα-galactosidase
+AtranscriptandproteinwereobservedinperipheralbloodmononuclearcellsfromPD
+patients[178]. Inaddition,studiesonthebrainofPDpatientsrevealedthatDAneurons
+containednumerouslysosome-likevesiclesandgranules,suggestingthateveninthefinal
+stagesofthedisease,theseneuronsundergoactiveapoptosisandengageinautophagy
+processes[179].
+Humantransmembraneprotein175(TMEM175),oneofthehighlyexpressedgenes
+thatencodelysosome-boundK+channelshasalsobeenlinkedtoPDpathogenesis. Both
+invitro and invivo studies on neurons confirmed that TMEM175 deficiency provokes
+α-synaccumulationwithdefectsinmacroautophagy,lysosomaldegradation,andmito-
+chondrialrespirationprocesses[117].
+AnotherlysosomalproteinwithsignificantlinkstoPDisthetranscriptionfactorEB
+(TFEB),whichcoordinatesexpressionoflysosomalhydrolases,membraneproteins,and
+
+---PAGE BREAK---
+
+Cells2021,10,3547 17of40
+genesinvolvedinautophagy. Thismasterregulatoroflysosomebiogenesisisregulated
+bymammaliantargetofrapamycin(MTOR)C1throughphosphorylationofspecificserine
+residues [180]. A study based on a rodent model of α-syn-induced toxicity confirmed
+that the autophagy-lysosomal pathway is impaired, with TFEB retained in the cytosol.
+Therefore,increasingautophagy-mediateddegradationofSNCAviaTFEBregulationcould
+beapromisingstrategyforPDpreventionandtreatment[180–183]. Severaldirectand
+indirectTFEBagonistshavebeendescribedaspotentregulatorinpre-clinicalandclinical
+trials[183].
+Takentogether,theseobservationsleadustoconcludethatanydrugsthatincrease
+thefunctionalpropertiesoflysosomesshouldhaveapotenteffect,haltingtheprogression
+ofPD.
+3.5. IstheAutophagyMachineryaPotentialTargetforSelectiveInterventioninPD?
+ThelinkbetweenPDandautophagydysfunctionstillremainslargelyunknown. Thus,
+thereisinsufficientinformationtoanswerthequestionofwhetherautophagyalteration
+occurinallpatientswithPD,andisnotassociatedonlytoPDriskgenes. Inthiscontext,
+it would be of great interest to examine the autophagic activity at the cellular level in
+patientswith and withoutmutations inautophagy-linked genes. Despitethe complex-
+ity of the autophagy defects in PD, this vital cellular system could represent a target
+of considerable interest for the treatment of the disease. Indeed, to date, although our
+understanding of the molecular bases of PD and its diagnosis [184,185] are improving,
+therapeuticaspectsofPDremainbelowexpectations,withalimitedarsenalofefficient
+andspecificdrugs. Thus, currenttherapiesareessentiallysymptomatic, aimingtopar-
+tiallymaintaindopaminelevelsbylimitingitsdegradationusingmonoamineoxidaseB
+inhibitors,supplyingdopamineprecursorsusinglevodopa[186]ordopamineagonists
+such as ropinirole, pramipexole, or rotigotine [187] (Figure 4). Today, numerous strate-
+gies,includingregenerativemedicine-basedsolutions—suchascell-basedimplants,fetal
+grafts,patient-specifictissue-engineeredconstructs—andsomecutting-edgetechnological
+approachesinvolvingthedeliveryofnear-infraredlightdirectlyintotheSNinthebrain
+of PD patients, have been used or are being explored [188,189]. Biologics, such as anti-
+bodiestoα-syn(prasinezumab,developedbyRocheandProthena)havebeenevaluated
+but unfortunately demonstrated limited success in a first phase II clinical trial. Other
+companiesarealsoexploringthesamelineofpossibleinterventionwithmonoclonalan-
+tibodiestoα-syn[190]. However, thislineoftreatmentremainsuncertain; inFebruary
+2021,thefailureofBiogen’scinpanemabwasannounced—thismonoclonalantibodyhas
+a mode of action similar to Roche’s prasinezumab. In parallel, novel pharmacological
+interventionsarebeingevaluatedinclinicaltrials. Someofthesealsotargetα-syn[191]
+whereasotherstargetTNF,transcriptionfactors,nuclearfactorerythroid2–relatedfactor2
+(NRF2),andPPARγ,Gprotein-coupledreceptors,glucocorticoidreceptors,glucagon-like
+peptide1(GLP1),andinflammasome/NLRfamilypyrindomain-containing3(NLRP3)
+(see[187,192–194]). MicroglialNLRP3isasourceofsustainedneuroinflammationthatcan
+contributetoprogressiveDAneuronloss[195]. MoleculesandbiologicstargetingBandT
+lymphocytesarealsobeinginvestigated. Inthiscontext,compoundstargetingautophagy
+remainsanunexploredrouteforthedevelopmentofinnovativetreatmentsforPD.
+A number of proof-of-concept studies have been performed with compounds tar-
+geting autophagy invitro in cells and invivo, generally in genetically-deficient animal
+models. Themoleculestestedweredesignedtotargetmitophagy,macroautophagy,CMA,
+orlysosomes(Table3[196]). Inthecontextofmitophagy,sinceoxidativestressisoneofthe
+principalcausesofmitochondrialdysfunction,theagentsassessedmainlyprotectagainst
+theproductionof,orneutralize,freeradicals. Inaddition,agentstargetingmitochondrial
+biogenesis,suchasnuclearrespiratoryfactor1and2(NRF1,NRF2),TFAM,andPGC1-α
+(describedabove)havebeeninvestigated(Table3). Thisprocesscouldalsobecontrolled
+bytuningafewofitscrucialinteractions. Forexample,thetumorsuppressorproteinp53is
+arelevanttargetasitinteractswithPRKN,inhibitingitstranslocationtothecytosol. Com-
+
+---PAGE BREAK---
+
+Cells2021,10,3547 18of40
+paredtohealthycontrols,significantlyhigherlevelsofp53proteinhavebeenmeasuredin
+thecaudatenucleusinPDpatients[197]. ExperimentsinPDmodelseffectivelyshowed
+thattheinhibitionofthisinteractionactivatesPRKN-dependentmitophagyandreducesthe
+symptomsofPD[197]. Severalothertargetslinkedtothemitophagypathwayhavebeen,
+orarecurrentlybeing,exploredinrelationtoPD[197–199]. Emergingpromisingmolecules
+includeselectiveinhibitorofthemitochondrialdeubiquitinase,USP30thatnegativelyreg-
+ulatesPRKN-mediatedmitophagy[132,200]. Inaddition,agentsthattargetmitochondrial
+dysfunction rather than mitophagy per se (e.g., nimodipine or tetrahydroisoquinoline;
+Table3)werefoundtohaveaprotectiveeffectagainstPD[201,202].
+Figure 4. The macroautophagy pathway and potential drug targets for PD treatment. The diagram includes current
+smalltherapeuticsanddrugcandidates(smallmoleculesandpeptides)thatactatdifferentstagesofthemacroautophagy
+pathwaysandmightbebeneficialinPD.
+Table3.Therapeuticautophagy-targetingmoleculeswithpotentialinPD*.
+Candidate MechanismofAction Comments
+• InVitrostudiesonyeast(Saccharomyces
+AGK2 Enhancesautolysosomeformation cerevisiae)andmammaliancells(HeLa)confirmed
+itseffectonclearanceofα-synaggregates[203].
+• Unlikeothermajorautophagyenhancers,it
+Inhibitsthephosphataseactivityof activelycrossestheblood-brainbarrier[204].
+AUTEN-99
+MTMR14(Jumpy),anegative • PreliminaryresultsonDrosophilamodel
+(autophagyenhancer-99)
+regulatorofautophagy confirmedefficacyagainstneurodegenerative
+disease,includingPD[204].
+• ClassicalflavonoidfromScutellariabaicalensis
+(Lamiaceae)withwidepharmacologicalactions.
+• Itsautophagy-inducingeffecthasbeenwidely
+exploredincancerandneurodegenerativediseases
+Baicalein InducesPI3K-mediatedautophagy [205,206].Itcovalentlybindstoα-synandprevents
+itstransmissionviacomplexformationand
+autophagyactivation[207].Thoughconflicting
+resultsofBaicaleinonautophagyexist,itis
+reportedtobeeffectiveagainstPD[208–210].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 19of40
+Table3.Cont.
+Candidate MechanismofAction Comments
+Enhancesautolysosomeformationin • Preclinicalstudiesinmousemodelsshowedeffects
+6-Bio
+DAneurons onclearanceofα-synaggregates[211].
+• SourcedfromTripterygiumwilfordii(Celastraceae).
+Invitro,dataonneuroblastomacellsconfirmed
+Celastrol Enhancesautolysosomeformation
+enhancementofautophagyandclearanceofα-syn
+aggregates[212].
+• Extractedfromturmeric,anaturalspicethatgives
+curryitsyellowcolor.
+• Chronicdietarysupplementationwithcurcuminin
+α-syntransgenicmiceresultedinreducedmotor
+Curcumin InhibitsMTOR/p70S6K defects.Italsoincreasedα-synphosphorylation,
+whichincreasesα-syndegradation[213].InVitro
+studiesonSH-SY5Ycells(expressingA53Tα-syn)
+confirmedthatα-synaccumulationwasreduced
+andautophagywasinduced[214].
+MTOR-independentTFEBenhancer.
+• Protectsneuronalcellsfrom
+SelectivelybindstotheN-terminusof
+CurcuminanalogueC1 6-hydroxydopamine/ascorbicacid-induced
+TFEBandpromotesits
+toxicity;alleviatessymptomsinPDmice[182,215].
+nucleartranslocation
+• ActivatesthemasterregulatorfunctionsofNRF2,
+anantioxidanttranscriptionfactor,whichrescues
+Modulatorof
+Dimethylfumarate α-synaggregate-inducedneuronaldeathvia
+SQSTM1-dependentautophagy
+SQSTM1-dependentautophagyactivation[216].
+Requiresconfirmation.
+• Inducesautophagyinneuronalcells[217].
+Epigallocatechingallate • ProtectsDAneuronsagainstdeathbyinhibiting
+ActivatesAMPK
+(EGCG) mitochondrialdysfunctioninbothmutantLRRK2
+andPRKN-nullDrosophilamodels[218].
+• Significantlyenhancesdegradationof
+2-HPβCD ActivatesTFEB TFEB-mediatedα-synaggregatesinhuman
+neurogliomacells[219].
+• LikeAmbroxol,itisalsoamolecularchaperonefor
+GCase[220].Studiesonhumanfibroblastsfrom
+PDpatientswithGBAmutationsandDrosophila
+Isofagomine GCase expressingmutantformsofGBAshowedenhanced
+GCaseactivity[221].
+• ReducesERstressandimprovesmotor
+function[58].
+• Atetracyclicoxindolealkaloidextractedfromthe
+ChineseherbalmedicineUncariarhynchophylla
+(Miq.)Jacks.
+ActivationofBECN-mediated • Therapeuticpotencypromotingα-synaggregate
+(Iso)rhynchophylline
+autophagy clearancehasbeendocumentedbothininvitro
+(N2a,SH-SY5YandPC12cells,andprimary
+corticalneurons)andinvivo(Drosophila)
+models[103,222,223].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 20of40
+Table3.Cont.
+Candidate MechanismofAction Comments
+• Anaturaldietaryflavonoidwithpotent
+chemopreventiveeffect[224].
+• StudiesperformedonSH-SY5Ycells,primary
+Kaempferol AMPK/MTOR-mediatedpathway neurons,andstriatalcellsshowedaprotective
+effectagainstrotenone-inducedtoxicity.Thiseffect
+wasmediatedthroughtheactivationof
+mitophagy[225].
+• Inhibitstheformationofα-synaggregatesbothin
+mutantcells(A30P/A53Tmutanthumanα-syn)
+andinthebrainoftransgenicmice(A30Pα-syn
+KYP-2047 ProlylendopeptidaseinhibitorIII
+strains)[226].Thiseffectwasmediatedthoughthe
+inductionofBECN1-mediated
+autophagy[227,228].
+• CurrentlyevaluatedinclinicaltrialsagainstAD
+Latrepirdine(Dimebon; EnhancesATG8-dependent
+andHD[229].Chronictreatmentabrogatedα-syn
+dimebolin) autophagy
+accumulationinmousebrain[229].
+• Asamoodstabilizer,lithiumhasshowna
+neuroprotectiveeffectinvarious
+neurodegenerativemodels,including
+PD[230–233].
+• Inadditiontoeffectsonautophagy,italsoinhibits
+ReducesIP productionbyinhibiting GSK-3β,eitherbyinterferingwithcatalyticMg2+
+Lithium 3
+inositolmonophosphatase orbyinducingitsphosphorylationatserine9.
+UpregulationofGSK-3βhasbeenimplicatedin
+AD[234].Botheffectsaredose-dependent;lower
+dosesactivateautophagy,whereashigherdoses
+inhibitautophagy.HigherdosesinhibitGSK-3β
+betterthanlowerdoses[231].
+• Althoughnotwellexploredinneurons,an
+enhancedeffectofMCC950onautophagyhasbeen
+documented[235–237].
+Potent,selectiveinhibitorofNLRP3 • Exhibitsanti-inflammatoryactivityonmicroglial
+MCC950
+withIC50of7.5nMinBMDMs neuroinflammation,mediatedbyfibrillar
+α-syn-inducedNLRP3activation[238].
+• Beneficialeffectconfirmedinmousemodels
+ofPD[238].
+• ApprovedbytheU.S.FDAasaprescription
+Antihyperglycemicagentofthe medicationtotreatdiabetes.
+biguanideclass. • Studiesperformedinvitro(SH-SY5Ycells)
+Metformin
+ActsviabothAMPK-dependentand [239–241]andinvivo,usingdrosophila[218]and
+AMPK-independentmechanisms mouse[240,242]modelsshowedprotectiveeffects
+againstPD.
+• AtriterpenoidsaponinfromRadixPolygalae
+Triggersautophagyviathe
+(Polygalaceae).InVitrostudieshaveshownthatit
+OnjisaponinB AMPK/MTOR-mediated
+clearsmutantα-syninratpheochromocytomacells
+signalingpathway
+(PC-12cells)[243].
+• AmonoterpeneglucosideextractedfromPaeoniae
+alba(Paeoniaceae)[244].Contributestothe
+Paeoniflorin Enhancesautolysosomeformation degradationofmutantα-syninPC-12cellsby
+modulatingacid-sensingionchannelsand
+autophagicmachinery[245].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 21of40
+Table3.Cont.
+Candidate MechanismofAction Comments
+• Anaturaldietaryflavonoidwithpotent
+chemopreventiveeffect[224].
+• StudiesperformedonSH-SY5Ycells,primary
+Kaempferol AMPK/MTOR-mediatedpathway neurons,andstriatalcellsshowedaprotective
+effectagainstrotenone-inducedtoxicity.Thiseffect
+wasmediatedthroughtheactivationof
+mitophagy[225].
+• PFT-αanditsanaloguePFT-µreducemRNAlevels
+oftraumaticbraininjury(TBI)-induced
+pro-inflammatorycytokines(IL-1βandIL-6),as
+wellasmodulatinglocalizationofTBI-induced
+autophagicmarkers(MAP1LC3and
+SQSTM1)[246].
+Specificinhibitorofp53transcription • TreatmentwithPFT-µmitigatesTBI-induced
+Pifithrin(PFT)-α activity.Displayspotent reductionsinmRNAlevelsofPINK-1andSOD2.
+p53-independentactivityincells. • TreatmentwithPFT-αintheMPTP-inducedPD
+mousemodelrescuesneuronalcelldeath[197,247].
+PFT-µalsoshowedabeneficialeffectinPD
+(requiresconfirmation)[248].
+• PFT-α-mediatedmitophagyactivationisalso
+effectiveintypeIandIIdiabeticmouse
+models[249].
+Rapamycinanditsderivatives • Theautophagyenhancerrapamycinandits
+(CCI-779,RAD001and InhibitorsofMTOR analogueshaveshownpromisingefficacyin
+AP23573) variousmodelsofPD[250–255].
+• Combinationofvalproatewithlithiumhasshown
+therapeuticefficacyintheMPTPmousemodelof
+PD,whereitenhancesautophagy[256].
+Synergistictolithium-induced • Despitethebroaduseofvalproatetotreatseveral
+Sodiumvalproate
+autophagy psychiatricandneurologicaldisorders,this
+moleculehasonlyaslightornoeffectinPD
+[257,258].However,itinducesareversibleformof
+parkinsonismeffects[259,260].
+• Anaturallyoccurringendogenouspolyamine
+synthesizedfromdiamineputrescine.Levels
+declinewithage.Supplementationwith
+spermidinehasshownprotectiveeffectsagainst
+Autophagyinducerthatmaintains
+motordysfunction,neuronallossinDrosophila
+cellularandneuronalhomeostasis.
+Spermidine melanogasterandCaenorhabditiselegans
+MayachieveeffectsviaBECN1and
+expressinghumanα-syn[261].
+TFEB-mediatedpathways
+• Sperminesynthesisanditsmetabolite,
+N1,N8-diacetylspermidine,maybeuseful
+diagnosticandseveritybiomarkersforPD,
+respectively[262].
+• Amitochondria-targetedtetrapeptidethatbelongs
+totheSSpeptidefamily.Designedtolocalizetothe
+SS-31
+(D-Arg-2(cid:48)6(cid:48)-dimethylTyr-Lys- BECN1-mediatedautophagy mitochondriaandinhibitfreeradicals.Showed
+protectiveeffectsonDAneuronsinMPTPmouse
+Phe-NH2)
+model[263,264].Correctsdysregulatedautophagy
+intype2-diabetes[265].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 22of40
+Table3.Cont.
+Candidate MechanismofAction Comments
+• Anaturaldietaryflavonoidwithpotent
+chemopreventiveeffect[224].
+• StudiesperformedonSH-SY5Ycells,primary
+Kaempferol AMPK/MTOR-mediatedpathway neurons,andstriatalcellsshowedaprotective
+effectagainstrotenone-inducedtoxicity.Thiseffect
+wasmediatedthroughtheactivationof
+mitophagy[225].
+• Protectsneuronalcellsfrom
+6-hydroxydopamine/ascorbicacid-induced
+Torin1 MTOR-dependentTFEBenhancer
+toxicityandalleviatessymptomsinPDmice
+[182,215].
+• Extensivelyusedasanexcipient[266].Recent
+Inducesautophagyvia findingsrevealedthatitactivatesautophagy
+Trehalose
+lysosome-mediatedTFEBactivation [252,267].Contributestotheclearanceofα-syn
+aggregates[268].
+• TreatmentwithMF-094hasshownpotentprotein
+MF-094 SelectiveUSP30inhibitor ubiquitinationandacceleratedmitophagyinvitro
+[132,200,269].
+Modulatesautophagosomeformation • Contributestotheclearanceofα-synaggregates
+XCT790 byestrogen-relatedreceptor andcorrectssomemotorcoordination
+α-dependentmanner defects[270].
+* Further information about drug candidates or drug-like molecules that have potential in PD via their effects on autophagy pro-
+cessescanbefoundelsewhere[103,271–274].Abbreviationsnotusedinthetext:BMDMs,bone-marrow-derivedmacrophages;GCase,
+β-glucocerebrosidase; GSK-3β, glycogen synthase kinase-3 beta; IP3, inositol-1,4,5-trisphosphate; MPTP, 1-methyl-4-phenyl-1,2,3,6-
+tetrahydropyridine;MTMRs,myotubularin-relatedphosphatases;SS,Szeto–Schiller,USP,ubiquitinspecificpeptidase.
+Independent studies on animal models have also demonstrated that enhancing
+macroautophagybyactingonTFEBorBECN1canprotectneuronsagainstα-syn-induced
+toxicity[180,275]. Nitolinib,anbroxol,curcumin,spermidine,Torin1,2-hydroxypropyl-β-
+cyclodextrin(2-HPβCD),orthewell-knownexcipienttrehaloseareallrepresentativeofthis
+pharmacologicalclass(Tables3and4)[196,276]. Animportantmoleculetomentionhereis
+theTat-Beclin-1peptide,acell-permeablepeptideconsistingofBECN1(residues267–284)
+conjugatedtotheHIV-1Tatprotein. Thispeptideconstructenhancesautophagyinitiation
+byinteractingwiththeautophagyinhibitorGolgi-associatedplantpathogenesis-related
+protein 1 (GAPR-1/GLIPR2). This interaction leads to BECN1 distribution throughout
+thecytosolwhilealsoincreasingautophagosomeformationinneurons. Analoguesofthis
+peptidearecurrentlybeingexploredinclinicaltrials.
+Table4.Therapeuticautophagy-targetingmoleculesunderclinicalevaluationforuseinPD*.
+Stageof
+Drugs CharacteristicsandMechanismofAction Identifiers
+Development/Sponsors
+Well-knownexpectorantandmucolyticagent.In
+additiontoitsdiversefunctions,alsoactsasapotent
+chaperoneforGCase[277].InVitroandinvivo
+studiesinwild-typeandtransgenicmodelsindicate
+PhaseII/UniversityCollege,
+thatitstherapeuticeffectsinthecontextofPDinvolve
+London,UK(NCT02941822), NCT02941822;
+Ambroxol modulatingtheautophagyprocess[221,278,279].
+LawsonHealthResearch NCT02914366
+TheseeffectsaremediatedbytheTFEBpathwayand
+Institute(NCT02914366)
+throughincreasedexocytosis[280].Arecentclinical
+studyinPDpatientswithandwithoutGBA1
+mutationsprovidedpositivepreliminarydatafor
+largecohortstudies[281].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 23of40
+Table4.Cont.
+Stageof
+Drugs CharacteristicsandMechanismofAction Identifiers
+Development/Sponsors
+Ananalogueofanaturalcompound,resveratrol,
+whichhasawidepharmacologicalaction,especiallyin
+BIA6-512(trans-
+PD[282,283].Potentialantioxidant;italsoinitiates PhaseI/Bial—PortelaCS.A. NCT03095092
+resveratrol)
+Sirtuin1(SIRT1)-dependentAMPK
+activation[103,283].
+PhaseIII/WeillMedical
+CollegeofCornell
+CoenzymeQ10 FreeradicalscavengerusedasasupplementinPD. University(NCT00740714), NCT00740714;
+(CoQ) ReducedCoQincellstriggersmitophagy[284]. TechnischeUniversität NCT00180037
+Dresden,Germany
+(NCT00180037)
+AnactivecomponentisolatedfromApiumgraveolens
+(Apiaceae)[285].Itsantioxidantfunction,andcapacity
+tocorrectmitochondrialdysfunctioniswidely
+documented[286].
+DL-3-n- PhaseII/FirstAffiliated
+ApprovedbytheChineseFDAforthetreatmentof
+butylphthalide HospitalofBengbuMedical ChiCTR1800018892
+ischemicstroke[287].
+(NBP) College(Bengbu,China)
+VariouspreclinicalmodelsofPDhaveconfirmedits
+efficacyinalleviatingneuronaltoxicityviaautophagic
+mechanisms;indirectlyinhibitsMTOR-mediated
+autophagy[286,288,289].
+Aconjugateoflipophilictriphenylphosphonium
+cationandcoenzymeQ10.Powerfulantioxidant.
+MitoQ StudieswithMitoQonleukemiacells(HL-60)and PhaseII/Antipodean
+NCT00329056
+(mitoquinone) hepatocellularcarcinomacells(HepG2)confirmedthe Pharmaceuticals,Inc.
+inductionofautophagyfollowingactivationofAMPK
+andinhibitionofMTOR[207].
+Usedasasupplement.Nicotinamide(invarious
+Nicotinamide forms)inducesautophagybyactingon ND/HaukelandUniversity
+NCT03816020
+riboside SIRT1-dependentandMTOR-mediated Hospital,Norway
+mechanisms[290,291].
+AnAbelsonkinase/tyrosinekinaseinhibitor.
+ApprovedbytheUSFDA(2007)forthetreatmentof
+chronicmyelogenousleukemia.Preclinicalstudieson
+transgenicmicemodels(A53Tmutationofhuman
+α-syn)haveshownthatitincreasesα-synclearance PhaseII/Georgetown
+Nilotinib NCT02954978
+viaBECN1-mediatedautophagy[292]. University,USA
+Reducescelldeathandimprovesmotorfunction.
+Underevaluationfortreatmentofother
+neurodegenerativediseases(AD,NCT02947893;HD,
+NCT03764215).
+*Updated: June2021. Abbreviationsnotusedinthetext: FDA,FoodandDrugAdministration;GCase,β-glucocerebrosidase;ND,
+notdisclosed.
+MoleculesthattargetCMAarealsohighlyrelevant. ThedecisiveroleofLAMP2Ain
+α-syndegradationhasbeenclearlydemonstrated(seeabove). CellsandDrosophilaover-
+expressingLAMP2Adisplayacapacitytoresistα-syn-inducedneurotoxicityorneuronal
+degenerationandPD-relatedfeatures[293,294]. Thesedataalongwiththedatapresented
+above,undoubtedlyindicatethatCMAregulatorsLAMP2AandHSPA8representtargets
+ofchoiceforPDtreatments[192,295].Geranylgeranylacetone,anontoxicacyclicisoprenoid
+compoundthathasbeenclinicallyappliedasanantiulcerdruginAsiancountries,and
+isaknowninducerofHSPsactingviatheactivationofheatshocktranscriptionfactor-1,
+phorbol12-myristate13-acetateandothers,couldrepresentexploratorymoleculestotreat
+PDviamodulationoftheCMApathway[296].
+
+---PAGE BREAK---
+
+Cells2021,10,3547 24of40
+As indicated above, numerous molecules that target mitophagy or lysosomal au-
+tophagypathwaysareunderinvestigationinpreclinicalorclinicalstudies(Tables3and4).
+Tothebestofourknowledge,however,noneofthemhaveyetbeenapprovedand/orare
+alreadyappliedinthetreatmentofPD.
+4. AwaitingSatisfactoryAnswers—FutureResearch
+Asignificantnumberofnewresearchlinessuggestnovelavenuesofinvestigation
+centeredonautophagy. InthespecificcontextofPD,wereviewedabovesomeofthekey
+results indicating that targeting the mitophagy and CMA pathways could be a means
+to protect against α-syn-related toxicity (Appendix B provides a general significance
+statement). However,somelimitationsremain,relatedbothtothedevelopmentofefficient
+pharmacologicalmolecules,totheiradministration,andtosometheoreticalconsiderations.
+Infact,veryfewmoleculesareselectivetoonetypeofautophagy,orevenautophagy
+as distinct from other cellular pathways, such as apoptosis [48,271,297–301] (Figure 4).
+Consequently,mostmoleculesmaydisplayunwantedside-effects,especiallywhenthey
+areadministereddailyinthemedium-orlong-termtoPDpatients.Stabilityofacompound
+canalsorepresentalimitationforitsuse. Ingeneral,thehalf-lifeinthebodyisaround
+10–25min,especiallyintheliver. Itshouldbementioned,however,thatinmostorgans
+andtissues,inductionofautophagosomeformationisveryrapid. Therefore,activation
+of autophagy remains a rational target strategy when aggregated proteins accumulate.
+In addition, autophagosomes generally recycle quickly. This represents an advantage
+with regard to possible toxic events linked to the consequences of induced/activated
+autophagy. However,itcanalsobealimitation,inthesensethatitwillbenecessaryto
+extendthetreatmentperiods. Infact,intheparticularcaseofneurons,autophagosome
+biogenesisisextremelycomplex,andsomeheterogeneityhasbeendescribeddepending
+ontheneuronalcompartmentconsidered. Thisaspectremainsamatterofdebate. Further
+invivoinformationisalsorequiredregardingautophagosomeformationanddynamicsin
+developingversusmaturesystems[302].
+Autophagyisaverydynamiccompartmentalizedprocess;itcanbeincreasedincer-
+tainorgansandtissuesbutdecreasedinotherorgansinthesamesubject. Thisdifferential
+activationhasbeendescribedinseveralmodelsofchronicinflammationandautoimmune
+diseases,forexampleinmurinemodelsofSjögren’ssyndrome[303],chronicinflammatory
+demyelinatingpolyneuropathy[304]andchronichousedustmite-inducedairwayinflam-
+mation[305]. Withregardtoneurons,asindicatedabove,autophagyisevenmorecomplex,
+withspecificstagesofthepathwayoccurringindistinctsubcellularcompartments. Asa
+consequence,treatinganindividualwithacompoundtoinduceorinhibitautophagycan
+havearangeofindividualeffects. Duetothisvarietyofeffects,treatingasubjectwithan
+inhibitorcanrestoreabnormallyweaklevelsofautophagicactivityinanothertissue,as
+illustratedbytheeffectoftheCMA-modulatorpeptideP140[303–305]. P140thattargets
+CMA and probably indirectly macroautophagy, has shown correcting effect on altered
+CMAactivity,butdisplaynoeffectonthebasal,wellbalancedandvitalautophagyprocess.
+ThistherapeuticpeptideiscurrentlyevaluatedinphaseIIIclinicaltrialsforlupus.
+Another critical question that arises is the timing of treatment with regard to the
+courseofthedisease. Howearlyshouldweintervenetoseeefficacy? Thisaspecthasnot
+reallybeensolvedandraisesthegeneralquestionofthebenefit-riskofsuchtreatments.
+Thefunctionalityofautophagythatdeclineswithagealsorepresentsanaspectthatmust
+betakenintoconsiderationinanyautophagy-basedtreatmentofPD.
+5. GeneralConclusions
+Although the considerations described in this review highlight some gaps in our
+understanding and appreciation of the potential of autophagy modulators to treat PD,
+several molecules hold promise for future specific treatment. An important aspect to
+underlinehereisthatthesemoleculesactonacellularmechanismandnotonthefinal
+
+---PAGE BREAK---
+
+Cells2021,10,3547 25of40
+damageinduced. Theycouldthereforebeincludedinearlytreatment,orevenaspartof
+preventivestrategies,toavoidorhaltdiseasedevelopment.
+Interestingly, in addition to the molecules described above in the context of PD,
+others that target autophagy have shown beneficial effects against neurodegenerative
+diseases[306–309],andcouldpossiblybeconsideredforreviewoftheirindications. These
+include,forexample,neferine,LuAE58054/idalopirdine,SB-742457,latrepirdine,MCI-
+186/Edaravone, SAGE217, GSK621, AICAR, Propofol, A769662, RSVA314, RSVA405,
+AUTEN-67, cystatin C, MSL, Digoxin, FTY720, carbamazepine, rilmenidine, clonidine,
+verapamil,SMER28,BRD5631,andAUTEN-67,amongothers. However,theirselectivity,
+efficacy,andsafetymustbedemonstratedinthecontextofPD.Extensiveworkisbeing
+undertakentodiscoverpotentnewchemicalcompoundsforPDtreatment[308,310]. Novel
+targetsthatarecloselylinkedtoautophagypathwayscouldalsoprovetoberelevantinPD,
+forexample,protein-O-linkedN-acetyl-β-D-glucosaminidase(O-GlcNAcase)[311,312].
+Fromatechnicalpointofview,itisworthrecallingherethatitishighlyrecommended
+tostudytheefficacyofthesenovelstrategiesinseveralindependentmodels,bothinvitro
+andinvivoifwehopetoachievereproducibleresultsand,inthecontextofautophagy,
+tomonitorseveralrelevantbiomarkers[313–315], aswellasmeasuringtheautophagic
+flux[79,80].
+PDaffects1–2individualsper1000inthegeneralpopulationatanytime. Itspreva-
+lenceincreaseswithage. Inindustrializedcountries,itisestimatedthatthediseaseaffects
+0.6%–0.8%of65–69-year-oldindividualsand2.6%–3.5%of85–89-year-olds. Currently,no
+specific test exists to diagnose PD, and it cannot be cured. Medications (dopaminergic
+drugs)aswellassurgicaltreatmentonlyactonsymptoms. Theultimategoalofongoing
+investigationsistodevelop,ideallynon-invasive,therapiesthatcouldretunethecellular
+degradationpathwaysresponsibleforclearingabnormallyfoldedoraggregatedproteins
+thataretoxicforneurons. Targetingautophagywithoutalteringothervitalcellularpath-
+waysisachallengethatmaybeachievableinPDandotherneurodegenerativediseasesif
+safeandselectivemoleculescanbeappropriatelyappliedanddelivered.
+AuthorContributions: Allauthorscontributedequally. Allauthorshavereadandagreedtothe
+publishedversionofthemanuscript.
+Funding:Thisworkreceivednoexternalfunding.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Notapplicable.
+Acknowledgments:WearegratefultoBéatriceLannesforprovidingtheimagesshowninFigure1.
+Weaddressoursincereapologiestoauthorswhoseworkwecouldnotciteduetospacelimitations.
+ThisresearchwasfundedinpartbytheFrenchNationalCentreforScientificResearch(CNRS),
+Région Grand-Est, the University of Strasbourg Institute for Advanced Study (USIAS) and the
+InterdisciplinaryThematicInstitute2021–2028programoftheUniversityofStrasbourg,CNRSand
+Inserm(ANR-10-IDEX-0002andANR-20-SFRI-0012)inthecontextoftheStrasbourgdrugdiscovery
+anddevelopmentInstitute(IMS).SRBisgratefultoJagadeeshBayry(INSERM,CentredeRecherche
+des Cordeliers, Sorbonne Universités, Université de Paris, France and IIT Palakkad, Palakkad,
+Kerala,India)forprovidingapost-doctoralposition. S.M.alsoacknowledgesthesupportofthe
+TRANSAUTOPHAGYCOSTAction(CA15138),theFrench-languageautophagyclub(CFATG),and
+theEuropeanRegionalDevelopmentFundoftheEuropeanUnioninthecontextoftheINTERREG
+VUpperRhineprogram. Thefundershadnoroleinstudydesign,datacollectionandanalysis,
+decisiontopublish,orpreparationofthemanuscript.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+Abbreviations
+α-syn,α-synuclein;Aβ,amyloidbeta;AD,Alzheimer’sdisease;ALS,amyotrophic
+lateralsclerosis;AMPK,AMP-activatedproteinkinase;APP,amyloidprecursorprotein;
+
+---PAGE BREAK---
+
+Cells2021,10,3547 26of40
+ATG,autophagy-related;AV,autophagicvacuole;BECLIN1/BECN1,B-celllymphoma2in-
+teractingmyosin/moesin-likecoiled-coilprotein1;CMA,chaperone-mediatedautophagy;
+CNS,centralnervoussystem;DA,dopaminergic;eMI,endosomalmicroautophagy;ER,
+endoplasmicreticulum;HD,Huntington’sdisease;LAMP2A,lysosomal-associatedmem-
+braneprotein2A;LAP,LC3-associatedphagocytosis;LB,Lewybody;LN,Lewyneurite;
+LRRK2/dardarin,leucine-richrepeatkinase;MAP1LC3,microtubule-associatedprotein
+1A/1B-lightchain3;MTOR,mammaliantargetofrapamycin;PD,Parkinson’sdisease;PE,
+phosphatidylethanolamine;PI3K,phosphatidylinositol3-kinase;PINK1/PARK6,PTEN-
+inducedputativekinase1;PRKN,PARKIN;SMAC,singlemembraneATG8conjugation;
+SN,substantianigra;SNpc,SNparscompacta;SQSTM1/p62,sequestosome1;TLR,Toll-like
+receptor;ULK1,Unc-51-likekinase1;UPS,ubiquitin-proteasomesystem;YOPD,young-
+onsetPD.
+AppendixA
+Alzheimer’sdisease(AD)
+Themostcommoncauseofdementia,ageneraltermforlossofmemoryandother
+cognitiveabilitiesseriousenoughtointerferewithdailylife. ADaccountsfor60–80%of
+dementiacases.
+Amyotrophiclateralsclerosis(ALS)
+ALS(alsoknownasmotorneurondiseaseorLouGehrig’sdisease)generallystarts
+withmuscletwitchingandweaknessinonelimb,orslurredspeech. Itcanaffectcontrolof
+themusclesneededtomove,speak,eat,andbreathe,andcanbefatal.
+Autophagosomes
+Adoublemembrane-boundvesicle,whichenclosescellularconstituentsandfuses
+withlysosomestoformphagolysosomeswheretheengulfedmaterialisdigestedorde-
+gradedandeitherreleasedintotheextracellularmatrixviaexocytosis,orreleasedintracel-
+lularlytoundergofurtherprocessing.
+Autophagy
+A vital, finely-regulated and evolutionarily-conserved intracellular pathway that
+continuouslydegrades,recycles,andclearsunnecessaryordysfunctionalcellularcompo-
+nents. Autophagyiscrucialforcellularadaptationtotheenvironmentandtomaintaincell
+homeostasis,especiallyunderstressconditions.
+Chaperone-mediatedautophagy(CMA)
+SelectiveautophagypathwayinwhichproteinscontainingaKFERQ-likesequenceare
+capturedbytheHSAP8chaperoneandtranslocatedintolysosomesfollowinginteraction
+withLAMP2A,whichactsasarate-limitingfactorinthisprocess.
+Endocytosis
+Avesicle-mediatedprocessbywhichcellsengulfmembraneandextracellularma-
+terials. Severalendocyticpathways—phagocytosis,pinocytosis,andreceptor-mediated
+endocytosis—usedistinctmechanismstointernalizematerial. Clathrin-mediatedendocy-
+tosis(CME)isthemajorendocyticpathwayinmammaliancells.
+Endosomal-lysosomalsystem
+Asetofintracellularmembrane-delimitedcompartmentsthatdynamicallyintercon-
+vertfromearlyendosomes,recyclingendosomes,lateendosomes,andthelysosome.
+GABARAP
+A member of the ATG8 family that also includes MAP1LC3. It interacts with the
+GABA receptorandtubulin,andpromotestubulinpolymerization.
+A
+Huntington’sdisease(HD)
+Aprogressivebraindisorderthatcausesuncontrolledmovements,emotionalprob-
+lems,andlossofthinkingability(cognition).
+
+---PAGE BREAK---
+
+Cells2021,10,3547 27of40
+Isolationmembrane/phagophore
+SmallvesicularsacderivedfromtheER,mitochondria,vacuoles,andotherunidenti-
+fiedsources,whichsequestersandfoldsawayaportionofthecytoplasmattheveryfirst
+stepofmacroautophagy.
+LC3-associatedphagocytosis(LAP)
+LAPcombinesthemolecularmachineriesofphagocytosisandautophagy,resulting
+inconjugationoftheautophagicmarkerMAP1LC3tophosphatidylethanolamine(PE)on
+thephagosomalmembrane,generating“LAPosomes”thatundergofacilitatedfusionwith
+lysosomes.
+Lewybodies(LB)
+Abnormalaggregatesofα-synandubiquitinfoundinthecytoplasmofneuronsfrom
+patientswithPD.LBareinitiallypresentindopaminergicneurons(substantianigra),butas
+PDprogressestheymayalsobefoundincorticalneurons. Itisnotfullyunderstoodhow
+LBscontributetoneuronalcelldeath.
+Lewyneurites(LN)
+Aggregatesofabnormalα-synlocalizedinaxons.LikeLBs,LNsmaybefoundinitially
+inthebulb,pons,andmesencephalon,butmayextendlatertothecortex.
+Lysosome
+Anorganellelocatedinthecytoplasmofeukaryoticcells,containingacidhydrolases,
+whichcanbreakdownvirtuallyanykindofbiomolecule,includingproteins,nucleicacids,
+carbohydrates,lipids,andcellulardebris.
+Macroautophagy
+Finely-regulatedprocessduringwhichthecellformsaphagophore,adoublemem-
+branecompartmentsequesteringitscontents,whichmaturesintoanautophagosome.
+Microglia
+Atypeofsmallmacrophage-likeglialcellintheCNS
+Mitophagy
+A key process that selectively disrupts damaged mitochondria by autolysosomal
+degradation,preventingexcessiveproductionofreactiveoxygenspecies,andactivationof
+celldeath.
+PARKIN(PRKN)
+A protein encoded by the human PARK2 gene, the precise functions of which are
+unknown. PARKINisacomponentofamultiproteinE3ubiquitinligasecomplex,present
+intheubiquitin-proteasomesystem(UPS)thattargetsproteinsfordegradation.
+Phagocytosis
+Anendocyticprocessbywhichcertaincellsknownasphagocytes(e.g.,macrophages)
+internalize large particles (>0.5 µm) including bacteria, other microorganisms, foreign
+particles,andagedredbloodcellstoformaphagosome.
+Proteasome
+Proteincomplexescontainingproteases,whichdegradeunneededordamagedpro-
+teins. Theyarefoundincellsfromalleukaryotesandarchaea,andinsomebacteria. Each
+humancellcontainsabout30,000proteasomes.
+Rabproteins
+Duringtheautophagyprocess,severalvesicularstructuresareformed,transported
+and degraded by the fusion with lysosomes. The proteins that helps in the vesicular
+traffickingarecalledRabprotiens. RabproteinsaresmallGTPases,whichbelongstothe
+Ras-likeGTPase,playacriticalroleinregulatingautophagy.
+
+---PAGE BREAK---
+
+Cells2021,10,3547 28of40
+SEQUESTOSOME1(SQSTM1)
+SQSTM1, also known as the ubiquitin-binding protein p62, acts as a major cargo
+receptor during the sequestration process. It acts both in a MAP1LC3-dependent and
+-independentmanner.
+α-SYNUCLEIN(α-syn)
+A140-aminoacidresiduesolubleproteinmostlyfoundinthepresynapticneurons.
+ThegeneSNCAencodesα-synuclein,andmutationsofthisgenecausefamilialPD.
+Ubiquitin-proteasomesystem(UPS)
+A major proteolytic system that controls protein degradation and regulates many
+cellularprocessesineukaryoticcells,suchasDNArepair,stressresponses,andcellprolifer-
+ation. TheUPSconsistsofspecificenzymesthatmodifyproteinsubstratesusingubiquitin,
+and26Sproteasomesresponsibleforproteolysisofubiquitin-taggedsubstrates.
+AppendixB
+SignificanceStatement
+Autophagy plays an important role in the onset and development of neurodegen-
+erationlinkedtotheaccumulationofmisfoldedproteinsordysfunctionalmitochondria.
+Dysfunctionofcanonicalandnon-canonicalautophagyprocessesareinvolvedinneurode-
+generativediseases,especiallyParkinson’sdisease(PD).Bothgenetic(ATGgenes)and
+cellularautophagydefectshavebeendescribedinyoung-onsetandclassicalPD.Defectsin
+theautophagy-lysosomalpathwayindopaminergicneuronsmayresultintheexcessive
+accumulationofdamagedproteinsinthecytoplasm,ultimatelyresultingincelllossand
+theneuropsychiatricmanifestationscharacteristicofPD.Therationalintroductionofspe-
+cificagentstomodulatemitophagyandotherformsoflysosome-dependentautophagy
+processes,suchaschaperone-mediatedautophagy,couldrepresentpromisingavenuesfor
+thetreatmentofPD.
+References
+1. Parkinson,J.Anessayontheshakingpalsy.1817.J.NeuropsychiatryClin.Neurosci.2002,14,223–236.[CrossRef]
+2. Poewe,W.;Seppi,K.;Tanner,C.M.;Halliday,G.M.;Brundin,P.;Volkmann,J.;Schrag,A.-E.;Lang,A.E.Parkinsondisease.Nat.
+Rev.Dis.Primers2017,3,17013.[CrossRef]
+3. Charvin,D.;Medori,R.;Hauser,R.A.;Rascol,O.TherapeuticstrategiesforParkinsondisease:Beyonddopaminergicdrugs.Nat.
+Rev.DrugDiscov.2018,17,804–822.[CrossRef]
+4. DelRey,N.L.;Quiroga-Varela,A.;Garbayo,E.;Carballo-Carbajal,I.;Fernandez-Santiago,R.;Monje,M.H.G.;Trigo-Damas,I.;
+Blanco-Prieto,M.J.;Blesa,J.AdvancesinParkinson’sdisease:200yearslater.Front.Neuroanat.2018,12,113.[CrossRef][PubMed]
+5. Bloem,B.R.;Okun,M.S.;Klein,C.Parkinson’sdisease.Lancet2021,397,2284–2303.[CrossRef]
+6. Baba,M.;Nakajo,S.;Tu,P.H.;Tomita,T.;Nakaya,K.;Lee,V.M.;Trojanowski,J.Q.;Iwatsubo,T.Aggregationofalpha-synucleinin
+LewybodiesofsporadicParkinson’sdiseaseanddementiawithLewybodies.Am.J.Pathol.1998,152,879–884.
+7. Klein, C.; Westenberger, A.GeneticsofParkinson’sdisease. ColdSpringHarb. Perspect. Med. 2012, 2, a008888. [CrossRef]
+[PubMed]
+8. Gan-Or,Z.;Dion,P.A.;Rouleau,G.A.Geneticperspectiveontheroleoftheautophagy-lysosomepathwayinParkinsondisease.
+Autophagy2015,11,1443–1457.[CrossRef][PubMed]
+9. Smolders,S.;VanBroeckhoven,C.Geneticperspectiveonthesynergisticconnectionbetweenvesiculartransport,lysosomaland
+mitochondrialpathwaysassociatedwithParkinson’sdiseasepathogenesis.ActaNeuropathol.Commun.2020,8,63.[CrossRef]
+10. Beilina,A.;Cookson,M.R.GenesassociatedwithParkinson’sdisease:Regulationofautophagyandbeyond.J.Neurochem.2016,
+139,91–107.[CrossRef]
+11. Gonzalez-Casacuberta,I.; Juarez-Flores,D.L.; Moren,C.; Garrabou,G.Bioenergeticsandautophagicimbalanceinpatients-
+derivedcellmodelsofParkinsondiseasesupportssystemicdysfunctioninneurodegeneration. Front. Neurosci. 2019,13,894.
+[CrossRef]
+12. VanVeen,S.;Martin,S.;VandenHaute,C.;Benoy,V.;Lyons,J.;Vanhoutte,R.;Kahler,J.P.;Decuypere,J.-P.;Gelders,G.;Lambie,
+E.;etal.ATP13A2deficiencydisruptslysosomalpolyamineexport.Nature2020,578,419–424.[CrossRef][PubMed]
+13. Martin,S.; Smolders,S.; VandenHaute,C.; Heeman,B.; vanVeen,S.; Crosiers,D.; Beletchi,I.; Verstraeten,A.; Gossye,H.;
+Gelders,G.;etal.MutatedATP10BincreasesParkinson’sdiseaseriskbycompromisinglysosomalglucosylceramideexport.Acta
+Neuropathol.2020,139,1001–1024.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 29of40
+14. Santos-Lobato,B.L.;Vidal,A.F.;Ribeiro-dos-Santos,Â.RegulatorymiRNA–mRNANetworksinParkinson’sDisease.Cells2021,
+10,1410.[CrossRef]
+15. Braak,H.;Tredici,K.D.;Rüb,U.;deVos,R.A.I.;JansenSteur,E.N.H.;Braak,E.Stagingofbrainpathologyrelatedtosporadic
+Parkinson’sdisease.Neurobiol.Aging2003,24,197–211.[CrossRef]
+16. Yavich,L.;Tanila,H.;Vepsalainen,S.;Jakala,P.Roleofalpha-synucleininpresynapticdopaminerecruitment.J.Neurosci.2004,
+24,11165–11170.[CrossRef]
+17. Todorova,A.;Jenner,P.;RayChaudhuri,K.Non-motorParkinson’s:IntegraltomotorParkinson’s,yetoftenneglected.Pract.
+Neurol.2014,14,310–322.[CrossRef]
+18. Lin, K.J.; Lin, K.L.; Chen, S.D.; Liou, C.W.; Chuang, Y.C.; Lin, H.Y.; Lin, T.K. The overcrowded crossroads: Mitochondria,
+alpha-synuclein,andtheendo-lysosomalsysteminteractioninParkinson’sdisease.Int.J.Mol.Sci.2019,20,5312.[CrossRef]
+19. Pieri,L.;Madiona,K.;Melki,R.Structuralandfunctionalpropertiesofprefibrillarα-synucleinoligomers.Sci.Rep.2016,6,24526.
+[CrossRef][PubMed]
+20. More,S.V.;Kumar,H.;Kim,I.S.;Song,S.Y.;Choi,D.K.Cellularandmolecularmediatorsofneuroinflammationinthepathogenesis
+ofParkinson’sdisease.Mediat.Inflamm.2013,2013,952375.[CrossRef]
+21. Lees,A.J.;Hardy,J.;Revesz,T.Parkinson’sdisease.Lancet2009,373,2055–2066.[CrossRef]
+22. Balestrino,R.;Schapira,A.H.V.Parkinsondisease.Eur.J.Neurol.2020,27,27–42.[CrossRef]
+23. Postuma,R.B.;Berg,D.;Stern,M.;Poewe,W.;Olanow,C.W.;Oertel,W.;Obeso,J.;Marek,K.;Litvan,I.;Lang,A.E.;etal.MDS
+clinicaldiagnosticcriteriaforParkinson’sdisease.Mov.Disord.2015,30,1591–1601.[CrossRef]
+24. Schapira,A.H.V.;Chaudhuri,K.R.;Jenner,P.Non-motorfeaturesofParkinsondisease. Nat. Rev. Neurosci. 2017,18,435–450.
+[CrossRef][PubMed]
+25. Pfeiffer,R.F.Non-motorsymptomsinParkinson’sdisease.Park.Relat.Disord.2016,22,S119–S122.[CrossRef]
+26. Fox,S.H.;Katzenschlager,R.;Lim,S.Y.;Barton,B.;deBie,R.M.A.;Seppi,K.;Coelho,M.;Sampaio,C.;MovementDisorderSociety
+Evidence-BasedMedicine,C.InternationalParkinsonandmovementdisordersocietyevidence-basedmedicinereview:Update
+ontreatmentsforthemotorsymptomsofParkinson’sdisease.Mov.Disord.2018,33,1248–1266.[CrossRef][PubMed]
+27. Fox,S.H.;Lang,A.E.Levodopa-relatedmotorcomplications-phenomenology.Mov.Disord.2008,23,S509–S514.[CrossRef]
+28. Weintraub,D.;Claassen,D.O.Chapter22—ImpulsecontrolandrelateddisordersinParkinson’sdisease.InInternationalReviewof
+Neurobiology;Chaudhuri,K.R.,Titova,N.,Eds.;AcademicPress:Cambridge,MA,USA,2017;Volume133,pp.679–717.
+29. Garcia-Ruiz,P.J.;MartinezCastrillo,J.C.;Alonso-Canovas,A.;HerranzBarcenas,A.;Vela,L.;SanchezAlonso,P.;Mata,M.;
+OlmedillaGonzalez,N.;MahilloFernandez,I.ImpulsecontroldisorderinpatientswithParkinson’sdiseaseunderdopamine
+agonisttherapy:Amulticentrestudy.J.Neurol.Neurosurg.Psychiatry2014,85,840–844.[CrossRef]
+30. Dijk,J.M.;Espay,A.J.;Katzenschlager,R.;deBie,R.M.A.ThechoicebetweenadvancedtherapiesforParkinson’sdiseasepatients:
+Why,what,andwhen?J.Park.Dis.2020,10,S65–S73.[CrossRef]
+31. Chaudhuri,K.R.;Healy,D.G.;Schapira,A.H.Non-motorsymptomsofParkinson’sdisease:Diagnosisandmanagement.Lancet
+Neurol.2006,5,235–245.[CrossRef]
+32. Seppi, K.; Ray Chaudhuri, K.; Coelho, M.; Fox, S.H.; Katzenschlager, R.; Perez Lloret, S.; Weintraub, D.; Sampaio, C.; the
+collaboratorsoftheParkinson’sDiseaseUpdateonNon-MotorSymptomsStudyGrouponbehalfoftheMovementDisorders
+SocietyEvidence-BasedMedicineCommittee.UpdateontreatmentsfornonmotorsymptomsofParkinson’sdisease-anevidence-
+basedmedicinereview.Mov.Disord.2019,34,180–198.[CrossRef]
+33. Schapira,A.H.;Bezard,E.;Brotchie,J.;Calon,F.;Collingridge,G.L.;Ferger,B.;Hengerer,B.;Hirsch,E.;Jenner,P.;LeNovere,N.;
+etal.NovelpharmacologicaltargetsforthetreatmentofParkinson’sdisease.Nat.Rev.DrugDiscov.2006,5,845–854.[CrossRef]
+[PubMed]
+34. Elkouzi,A.;Vedam-Mai,V.;Eisinger,R.S.;Okun,M.S.EmergingtherapiesinParkinsondisease—Repurposeddrugsandnew
+approaches.Nat.Rev.Neurol.2019,15,204–223.[CrossRef]
+35. Webb, J.L.; Ravikumar, B.; Atkins, J.; Skepper, J.N.; Rubinsztein, D.C.α-Synucleinisdegradedbybothautophagyandthe
+proteasome.J.Biol.Chem.2003,278,25009–25013.[CrossRef]
+36. Vogiatzi,T.;Xilouri,M.;Vekrellis,K.;Stefanis,L.Wildtypealpha-synucleinisdegradedbychaperone-mediatedautophagyand
+macroautophagyinneuronalcells.J.Biol.Chem.2008,283,23542–23556.[CrossRef][PubMed]
+37. Lamark, T.; Johansen, T. Aggrephagy: Selective disposal of protein aggregates by macroautophagy. Int. J. Cell Biol. 2012,
+2012,736905.[CrossRef][PubMed]
+38. Marzella,L.;Ahlberg,J.;Glaumann,H.Autophagy,heterophagy,microautophagyandcrinophagyasthemeansforintracellular
+degradation.VirchowsArch.BCellPathol.Incl.Mol.Pathol.1981,36,219–234.[CrossRef]
+39. Landstrom,A.S.AroleforcrinophagyinpancreaticisletB-cells.Minireviewbasedonadoctoralthesis.Ups.J.Med.Sci.1987,92,
+99–113.[CrossRef]
+40. Bandyopadhyay,U.;Kaushik,S.;Varticovski,L.;Cuervo,A.M.Thechaperone-mediatedautophagyreceptororganizesindynamic
+proteincomplexesatthelysosomalmembrane.Mol.Cell.Biol.2008,28,5747–5763.[CrossRef][PubMed]
+41. Fujiwara,Y.;Kikuchi,H.;Aizawa,S.;Furuta,A.;Hatanaka,Y.;Konya,C.;Uchida,K.;Wada,K.;Kabuta,T.Directuptakeand
+degradationofDNAbylysosomes.Autophagy2013,9,1167–1171.[CrossRef][PubMed]
+42. Chino,H.;Mizushima,N.ER-Phagy:Qualitycontrolandturnoverofendoplasmicreticulum.TrendsCellBiol.2020,30,384–398.
+[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 30of40
+43. Mancias,J.D.;Vaites,L.P.;Nissim,S.;Biancur,D.E.;Kim,A.J.;Wang,X.;Liu,Y.;Goessling,W.;Kimmelman,A.C.;Harper,J.W.
+FerritinophagyviaNCOA4isrequiredforerythropoiesisandisregulatedbyirondependentHERC2-mediatedproteolysis.eLife
+2015,4,e10308.[CrossRef]
+44. Zhao, H.; Tang, M.; Liu, M.; Chen, L.Glycophagy: Anemergingtargetinpathology. Clin. Chim. Acta2018, 484, 298–303.
+[CrossRef]
+45. Sanjuan,M.A.;Dillon,C.P.;Tait,S.W.G.;Moshiach,S.;Dorsey,F.;Connell,S.;Komatsu,M.;Tanaka,K.;Cleveland,J.L.;Withoff,S.;
+etal.Toll-likereceptorsignallinginmacrophageslinkstheautophagypathwaytophagocytosis.Nature2007,450,1253–1257.
+[CrossRef][PubMed]
+46. Kounakis,K.;Chaniotakis,M.;Markaki,M.;Tavernarakis,N.Emergingrolesoflipophagyinhealthanddisease.Front.CellDev.
+Biol.2019,7,185.[CrossRef]
+47. Otomo,T.;Yoshimori,T.Lysophagy:Amethodformonitoringlysosomalrupturefollowedbyautophagy-dependentrecovery.In
+Lysosomes;Springer:Berlin/Heidelberg,Germany,2017;Volume1594,pp.141–149.
+48. Bonam,S.R.;Wang,F.;Muller,S.Lysosomesasatherapeutictarget.Nat.Rev.DrugDiscov.2019,18,923–948.[CrossRef]
+49. Vives-Bauza, C.; Zhou, C.; Huang, Y.; Cui, M.; de Vries, R.L.A.; Kim, J.; May, J.; Tocilescu, M.A.; Liu, W.; Ko, H.S.; et al.
+PINK1-dependentrecruitmentofParkintomitochondriainmitophagy.Proc.Natl.Acad.Sci.USA2010,107,378–383.[CrossRef]
+[PubMed]
+50. Mijaljica,D.;Devenish,R.J.Nucleophagyataglance.J.CellSci.2013,126,4325–4330.[CrossRef][PubMed]
+51. Papandreou,M.E.;Tavernarakis,N.Nucleophagy:Fromhomeostasistodisease.CellDeathDiffer.2019,26,630–639.[CrossRef]
+[PubMed]
+52. Cho,D.H.;Kim,Y.S.;Jo,D.S.;Choe,S.K.;Jo,E.K.Pexophagy:Molecularmechanismsandimplicationsforhealthanddiseases.
+Mol.Cells2018,41,55–64.
+53. Tanaka,K.;Ichihara,A.Half-lifeofproteasomes(multiproteasecomplexes)inratliver.Biochem.Biophys.Res.Commun.1989,159,
+1309–1315.[CrossRef]
+54. Cuervo,A.M.;Palmer,A.;Rivett,A.J.;Knecht,E.Degradationofproteasomesbylysosomesinratliver.Eur.J.Biochem.1995,227,
+792–800.[CrossRef][PubMed]
+55. Marshall,R.S.;Vierstra,R.D.Eatorbeeaten:Theautophagicplightofinactive26Sproteasomes.Autophagy2015,11,1927–1928.
+[CrossRef]
+56. Cebollero,E.;Reggiori,F.;Kraft,C.Reticulophagyandribophagy:Regulateddegradationofproteinproductionfactories.Int.J.
+CellBiol.2012,2012,182834.[CrossRef][PubMed]
+57. Fujiwara,Y.;Furuta,A.;Kikuchi,H.;Aizawa,S.;Hatanaka,Y.;Konya,C.;Uchida,K.;Yoshimura,A.;Tamai,Y.;Wada,K.;etal.
+DiscoveryofanoveltypeofautophagytargetingRNA.Autophagy2013,9,403–409.[CrossRef]
+58. Choi, I.; Zhang, Y.; Seegobin, S.P.; Pruvost, M.; Wang, Q.; Purtell, K.; Zhang, B.; Yue, Z. Microglia clear neuron-released
+alpha-synucleinviaselectiveautophagyandpreventneurodegeneration.Nat.Commun.2020,11,1386.[CrossRef]
+59. Mizushima,N.;Yoshimori,T.;Ohsumi,Y.TheroleofAtgproteinsinautophagosomeformation.Annu.Rev.Cell.Dev.Biol.2011,
+27,107–132.[CrossRef]
+60. Grasso,D.;Ropolo,A.;LoRe,A.;Boggio,V.;Molejon,M.I.;Iovanna,J.L.;Gonzalez,C.D.;Urrutia,R.;Vaccaro,M.I.Zymophagy,
+anovelselectiveautophagypathwaymediatedbyVMP1-USP9x-p62,preventspancreaticcelldeath. J.Biol. Chem. 2011,286,
+8308–8324.[CrossRef][PubMed]
+61. Ravikumar,B.;Futter,M.;Jahreiss,L.;Korolchuk,V.I.;Lichtenberg,M.;Luo,S.;Massey,D.C.;Menzies,F.M.;Narayanan,U.;
+Renna,M.Mammalianmacroautophagyataglance.J.CellSci.2009,122,1707–1711.[CrossRef]
+62. Mizushima,N.;Komatsu,M.Autophagy:Renovationofcellsandtissues.Cell2011,147,728–741.[CrossRef][PubMed]
+63. Levine, B.; Kroemer, G. Biological functions of autophagy genes: A disease perspective. Cell 2019, 176, 11–42. [CrossRef]
+[PubMed]
+64. Itakura,E.;Mizushima,N.CharacterizationofautophagosomeformationsitebyahierarchicalanalysisofmammalianAtg
+proteins.Autophagy2010,6,764–776.[CrossRef][PubMed]
+65. Biazik,J.;Ylä-Anttila,P.;Vihinen,H.;Jokitalo,E.;Eskelinen,E.-L.Ultrastructuralrelationshipofthephagophorewithsurrounding
+organelles.Autophagy2015,11,439–451.[CrossRef][PubMed]
+66. Levine,B.;Kroemer,G.Autophagyinthepathogenesisofdisease.Cell2008,132,27–42.[CrossRef]
+67. Kabeya,Y.;Mizushima,N.;Ueno,T.;Yamamoto,A.;Kirisako,T.;Noda,T.;Kominami,E.;Ohsumi,Y.;Yoshimori,T.LC3,a
+mammalianhomologueofyeastApg8p,islocalizedinautophagosomemembranesafterprocessing.EMBOJ.2000,19,5720–5728.
+[CrossRef]
+68. Noda,N.N.;Ohsumi,Y.;Inagaki,F.ATGsystemsfromtheproteinstructuralpointofview. Chem. Rev. 2009,109,1587–1598.
+[CrossRef]
+69. Galluzzi,L.; Baehrecke,E.H.; Ballabio,A.; Boya,P.; Bravo-SanPedro,J.M.; Cecconi,F.; Choi,A.M.; Chu,C.T.; Codogno,P.;
+Colombo, M.I.; et al. Molecular definitions of autophagy and related processes. EMBO J. 2017, 36, 1811–1836. [CrossRef]
+[PubMed]
+70. Durgan,J.;Lystad,A.H.;Sloan,K.;Carlsson,S.R.;Wilson,M.I.;Marcassa,E.;Ulferts,R.;Webster,J.;Lopez-Clavijo,A.F.;Wakelam,
+M.J.;etal.Non-canonicalautophagydrivesalternativeATG8conjugationtophosphatidylserine.Mol.Cell2021,81,2031–2040.e8.
+[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 31of40
+71. Nieto-Torres,J.L.;Leidal,A.M.;Debnath,J.;Hansen,M.Beyondautophagy: TheexpandingrolesofATG8proteins. Trends
+Biochem.Sci.2021,46,673–686.[CrossRef]
+72. Fletcher,K.;Ulferts,R.;Jacquin,E.;Veith,T.;Gammoh,N.;Arasteh,J.M.;Mayer,U.;Carding,S.R.;Wileman,T.;Beale,R.;etal.
+TheWD40domainofATG16L1isrequiredforitsnon-canonicalroleinlipidationofLC3atsinglemembranes.EMBOJ.2018,
+37,e97840.[CrossRef]
+73. Cuervo,A.M.Autophagyinneurons:Itisnotallaboutfood.TrendsMol.Med.2006,12,461–464.[CrossRef][PubMed]
+74. Stavoe,A.K.H.;Holzbaur,E.L.F.Autophagyinneurons.Annu.Rev.Cell.Dev.Biol.2019,35,477–500.[CrossRef]
+75. Evans,C.S.;Holzbaur,E.L.F.Qualitycontrolinneurons: Mitophagyandotherselectiveautophagymechanisms. J.Mol. Biol.
+2020,432,240–260.[CrossRef][PubMed]
+76. Bence,N.F.;Sampat,R.M.;Kopito,R.R.Impairmentoftheubiquitin-proteasomesystembyproteinaggregation.Science2001,292,
+1552–1555.[CrossRef][PubMed]
+77. AzarniaTehran,D.;Kuijpers,M.;Haucke,V.Presynapticendocyticfactorsinautophagyandneurodegeneration.Curr.Opin.
+Neurobiol.2018,48,153–159.[CrossRef]
+78. Mizushima,N.;Yamamoto,A.;Matsui,M.;Yoshimori,T.;Ohsumi,Y.Invivoanalysisofautophagyinresponsetonutrient
+starvationusingtransgenicmiceexpressingafluorescentautophagosomemarker.Mol.Biol.Cell2004,15,1101–1111.[CrossRef]
+79. Bonam, S.R.; Bayry, J.; Tschan, M.P.; Muller, S. Progress and challenges in the use of MAP1LC3 as a legitimate marker for
+measuringdynamicautophagyinvivo.Cells2020,9,1321.[CrossRef]
+80. Klionsky,D.J.;Abdel-Aziz,A.K.;Abdelfatah,S.;Abdellatif,M.;Abdoli,A.;Abel,S.;Abeliovich,H.;Abildgaard,M.H.;Abudu,
+Y.P.;Acevedo-Arozena,A.;etal.Guidelinesfortheuseandinterpretationofassaysformonitoringautophagy(4thedition)(1).
+Autophagy2021,17,1–382.[PubMed]
+81. Yue,Z.;Friedman,L.;Komatsu,M.;Tanaka,K.Thecellularpathwaysofneuronalautophagyandtheirimplicationinneurode-
+generativediseases.Biochim.Biophys.Acta2009,1793,1496–1507.[CrossRef][PubMed]
+82. Stavoe,A.K.H.;Gopal,P.P.;Gubas,A.;Tooze,S.A.;Holzbaur,E.L.F.ExpressionofWIPI2Bcounteractsage-relateddeclinein
+autophagosomebiogenesisinneurons.eLife2019,8,e44219.[CrossRef]
+83. Kim,S.;Nam,Y.;Kim,C.;Lee,H.;Hong,S.;Kim,H.S.;Shin,S.J.;Park,Y.H.;Mai,H.N.;Oh,S.M.;etal. Neuroprotectiveand
+anti-inflammatoryeffectsoflow-moderatedoseionizingradiationinmodelsofAlzheimer’sdisease.Int.J.Mol.Sci.2020,21,
+3678.[CrossRef]
+84. Scheiblich,H.;Trombly,M.;Ramirez,A.;Heneka,M.T.Neuroimmuneconnectionsinagingandneurodegenerativediseases.
+TrendsImmunol.2020,41,300–312.[CrossRef]
+85. Hara,T.;Nakamura,K.;Matsui,M.;Yamamoto,A.;Nakahara,Y.;Suzuki-Migishima,R.;Yokoyama,M.;Mishima,K.;Saito,I.;
+Okano,H.;etal. Suppressionofbasalautophagyinneuralcellscausesneurodegenerativediseaseinmice. Nature2006,441,
+885–889.[CrossRef][PubMed]
+86. Khandia,R.;Dadar,M.;Munjal,A.;Dhama,K.;Karthik,K.;Tiwari,R.;Yatoo,M.;Iqbal,H.;Singh,K.P.;Joshi,S.K.Acomprehensive
+reviewofautophagyanditsvariousrolesininfectious,non-infectious,andlifestylediseases:Currentknowledgeandprospects
+fordiseaseprevention,noveldrugdesign,andtherapy.Cells2019,8,674.[CrossRef][PubMed]
+87. Bonam,S.R.;Muller,S.Parkinson’sdiseaseisanautoimmunedisease:Areappraisal.Autoimmun.Rev.2020,19,102684.[CrossRef]
+88. ElHaddad,S.;Serrano,A.;Moal,F.;Normand,T.;Robin,C.;Charpentier,S.;Valery,A.;Brulé-Morabito,F.;Auzou,P.;Mollet,L.;
+etal.DisturbedexpressionofautophagygenesinbloodofParkinson’sdiseasepatients.Gene2020,738,144454.[CrossRef]
+89. Rott,R.; Szargel,R.; Shani,V.; Bisharat,S.; Engelender,S.Alpha-synucleinubiquitinationandnoveltherapeutictargetsfor
+Parkinson’sdisease.CNSNeurol.Disord.DrugTargets2014,13,630–637.[CrossRef]
+90. Popova, B.; Kleinknecht, A.; Braus, G.H. Posttranslational modifications and clearing of α-synuclein aggregates in yeast.
+Biomolecules2015,5,617–634.[CrossRef]
+91. Parker,W.D.,Jr.;Boyson,S.J.;Parks,J.K.AbnormalitiesoftheelectrontransportchaininidiopathicParkinson’sdisease.Ann.
+Neurol.1989,26,719–723.[CrossRef]
+92. Schapira,A.H.;Cooper,J.M.;Dexter,D.;Clark,J.B.;Jenner,P.;Marsden,C.D.MitochondrialcomplexIdeficiencyinParkinson’s
+disease.J.Neurochem.1990,54,823–827.[CrossRef][PubMed]
+93. Deus,C.M.;Yambire,K.F.;Oliveira,P.J.;Raimundo,N.Mitochondria-lysosomecrosstalk:Fromphysiologytoneurodegeneration.
+TrendsMol.Med.2020,26,71–88.[CrossRef][PubMed]
+94. Wang,L.;Qi,H.;Tang,Y.;Shen,H.M.Post-translationalmodificationsofkeymachineryinthecontrolofmitophagy. Trends
+Biochem.Sci.2020,45,58–75.[CrossRef]
+95. Malpartida,A.B.;Williamson,M.;Narendra,D.P.;Wade-Martins,R.;Ryan,B.J.Mitochondrialdysfunctionandmitophagyin
+Parkinson’sdisease:Frommechanismtotherapy.TrendsBiochem.Sci.2021,46,329–343.[CrossRef]
+96. Poole,A.C.;Thomas,R.E.;Andrews,L.A.;McBride,H.M.;Whitworth,A.J.;Pallanck,L.J.ThePINK1/Parkinpathwayregulates
+mitochondrialmorphology.Proc.NatlAcad.Sci.USA2008,105,1638–1643.[CrossRef][PubMed]
+97. Liu,J.;Liu,W.;Li,R.;Yang,H.MitophagyinParkinson’sdisease:Frompathogenesistotreatment.Cells2019,8,712.[CrossRef]
+98. Dernie,F.MitophagyinParkinson’sdisease:Frompathogenesistotreatmenttarget.Neurochem.Int.2020,138,104756.[CrossRef]
+99. Leiva-Rodríguez,T.;Romeo-Guitart,D.;Marmolejo-Martínez-Artesero,S.;Herrando-Grabulosa,M.;Bosch,A.;Forés,J.;Casas,C.
+ATG5overexpressionisneuroprotectiveandattenuatescytoskeletalandvesicle-traffickingalterationsinaxotomizedmotoneurons.
+CellDeathDis.2018,9,626.[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 32of40
+100. Hu,Z.-Y.;Chen,B.;Zhang,J.-P.;Ma,Y.-Y.Up-regulationofautophagy-relatedgene5(ATG5)protectsdopaminergicneuronsina
+zebrafishmodelofParkinson’sdisease.J.Biol.Chem.2017,292,18062–18074.[CrossRef][PubMed]
+101. Mizushima,N.TheATGconjugationsystemsinautophagy.Curr.Opin.CellBiol.2020,63,1–10.[CrossRef]
+102. Chen,D.;Pang,S.;Feng,X.;Huang,W.;Hawley,R.G.;Yan,B.GeneticanalysisoftheATG7genepromoterinsporadicParkinson’s
+disease.Neurosci.Lett.2013,534,193–198.[CrossRef]
+103. Moors,T.E.;Hoozemans,J.J.;Ingrassia,A.;Beccari,T.;Parnetti,L.;Chartier-Harlin,M.C.;vandeBerg,W.D.Therapeuticpotential
+ofautophagy-enhancingagentsinParkinson’sdisease.Mol.Neurodegener.2017,12,11.[CrossRef]
+104. Korvatska,O.;Strand,N.S.;Berndt,J.D.;Strovas,T.;Chen,D.H.;Leverenz,J.B.;Kiianitsa,K.;Mata,I.F.;Karakoc,E.;Greenup,J.L.;
+etal.AlteredsplicingofATP6AP2causesX-linkedparkinsonismwithspasticity(XPDS).Hum.Mol.Genet.2013,22,3259–3268.
+[CrossRef]
+105. Rujano,M.A.;CannataSerio,M.;Panasyuk,G.;Peanne,R.;Reunert,J.;Rymen,D.;Hauser,V.;Park,J.H.;Freisinger,P.;Souche,
+E.;etal. MutationsintheX-linkedATP6AP2causeaglycosylationdisorderwithautophagicdefects. J.Exp. Med. 2017,214,
+3707–3729.[CrossRef]
+106. Plotegher,N.;Duchen,M.R.CrosstalkbetweenlysosomesandmitochondriainParkinson’sdisease.Front.CellDev.Biol.2017,5,
+110.[CrossRef][PubMed]
+107. Hao,L.Y.;Giasson,B.I.;Bonini,N.M.DJ-1iscriticalformitochondrialfunctionandrescuesPINK1lossoffunction.Proc.Natl.
+Acad.Sci.USA2010,107,9747–9752.[CrossRef]
+108. McCoy,M.K.;Cookson,M.R.DJ-1regulationofmitochondrialfunctionandautophagythroughoxidativestress.Autophagy2011,
+7,531–532.[CrossRef]
+109. Burchell,V.S.;Nelson,D.E.;Sanchez-Martinez,A.;Delgado-Camprubi,M.;Ivatt,R.M.;Pogson,J.H.;Randle,S.J.;Wray,S.;Lewis,
+P.A.;Houlden,H.;etal.TheParkinson’sdisease-linkedproteinsFbxo7andParkininteracttomediatemitophagy.Nat.Neurosci.
+2013,16,1257–1265.[CrossRef][PubMed]
+110. Schapira,A.H.GlucocerebrosidaseandParkinsondisease:Recentadvances.Mol.Cell.Neurosci.2015,66,37–42.[CrossRef]
+111. Aflaki,E.;Westbroek,W.;Sidransky,E.Thecomplicatedrelationshipbetweengaucherdiseaseandparkinsonism:Insightsfroma
+raredisease.Neuron2017,93,737–746.[CrossRef]
+112. Cooper,O.;Seo,H.;Andrabi,S.;Guardia-Laguarta,C.;Graziotto,J.;Sundberg,M.;McLean,J.R.;Carrillo-Reid,L.;Xie,Z.;Osborn,
+T.;etal.PharmacologicalrescueofmitochondrialdeficitsiniPSC-derivedneuralcellsfrompatientswithfamilialParkinson’s
+disease.Sci.Transl.Med.2012,4,141ra190.[CrossRef][PubMed]
+113. Hui,K.Y.;Fernandez-Hernandez,H.;Hu,J.;Schaffner,A.;Pankratz,N.;Hsu,N.Y.;Chuang,L.S.;Carmi,S.;Villaverde,N.;Li,X.;
+etal.FunctionalvariantsintheLRRK2geneconfersharedeffectsonriskforCrohn’sdiseaseandParkinson’sdisease.Sci.Transl.
+Med.2018,10,eaai7795.[CrossRef]
+114. Kitada,T.;Asakawa,S.;Hattori,N.;Matsumine,H.;Yamamura,Y.;Minoshima,S.;Yokochi,M.;Mizuno,Y.;Shimizu,N.Mutations
+intheparkingenecauseautosomalrecessivejuvenileparkinsonism.Nature1998,392,605–608.[CrossRef]
+115. Mira,M.T.;Alcais,A.;Nguyen,V.T.;Moraes,M.O.;DiFlumeri,C.;Vu,H.T.;Mai,C.P.;Nguyen,T.H.;Nguyen,N.B.;Pham,X.K.;
+etal.SusceptibilitytoleprosyisassociatedwithPARK2andPACRG.Nature2004,427,636–640.[CrossRef]
+116. Jiang,P.;Mizushima,N.Autophagyandhumandiseases.CellRes.2014,24,69–79.[CrossRef][PubMed]
+117. Jinn,S.;Drolet,R.E.;Cramer,P.E.;Wong,A.H.;Toolan,D.M.;Gretzula,C.A.;Voleti,B.;Vassileva,G.;Disa,J.;Tadin-Strapps,M.;
+etal.TMEM175deficiencyimpairslysosomalandmitochondrialfunctionandincreasesalpha-synucleinaggregation.Proc.Natl.
+Acad.Sci.USA2017,114,2389–2394.[CrossRef][PubMed]
+118. Kim,M.J.;Deng,H.X.;Wong,Y.C.;Siddique,T.;Krainc,D.TheParkinson’sdisease-linkedproteinTMEM230isrequiredfor
+Rab8a-mediatedsecretoryvesicletraffickingandretromertrafficking.Hum.Mol.Genet.2017,26,729–741.[CrossRef][PubMed]
+119. Narendra,D.;Tanaka,A.;Suen,D.-F.;Youle,R.J.Parkinisrecruitedselectivelytoimpairedmitochondriaandpromotestheir
+autophagy.J.CellBiol.2008,183,795–803.[CrossRef]
+120. Matsuda,N.; Sato,S.; Shiba,K.; Okatsu,K.; Saisho,K.; Gautier,C.A.; Sou,Y.S.; Saiki,S.; Kawajiri,S.; Sato,F.; etal. PINK1
+stabilizedbymitochondrialdepolarizationrecruitsParkintodamagedmitochondriaandactivateslatentParkinformitophagy.J.
+CellBiol.2010,189,211–221.[CrossRef]
+121. Narendra,D.P.;Jin,S.M.;Tanaka,A.;Suen,D.-F.;Gautier,C.A.;Shen,J.;Cookson,M.R.;Youle,R.J.PINK1isselectivelystabilized
+onimpairedmitochondriatoactivateParkin.PLoSBiol.2010,8,e1000298.[CrossRef]
+122. Narendra,D.;Kane,L.A.;Hauser,D.N.;Fearnley,I.M.;Youle,R.J.p62/SQSTM1isrequiredforParkin-inducedmitochondrial
+clusteringbutnotmitophagy;VDAC1isdispensableforboth.Autophagy2010,6,1090–1106.[CrossRef]
+123. Heo,J.M.;Ordureau,A.;Paulo,J.A.;Rinehart,J.;Harper,J.W.ThePINK1-PARKINmitochondrialubiquitylationpathwaydrivesa
+programofOPTN/NDP52recruitmentandTBK1activationtopromotemitophagy.Mol.Cell2015,60,7–20.[CrossRef][PubMed]
+124. Lazarou,M.;Sliter,D.A.;Kane,L.A.;Sarraf,S.A.;Wang,C.;Burman,J.L.;Sideris,D.P.;Fogel,A.I.;Youle,R.J.Theubiquitinkinase
+PINK1recruitsautophagyreceptorstoinducemitophagy.Nature2015,524,309–314.[CrossRef][PubMed]
+125. Hutagalung,A.H.;Novick,P.J.RoleofRabGTPasesinmembranetrafficandcellphysiology. Physiol. Rev. 2011,91,119–149.
+[CrossRef]
+126. Song,P.;Trajkovic,K.;Tsunemi,T.;Krainc,D.Parkinmodulatesendosomalorganizationandfunctionoftheendo-lysosomal
+pathway.J.Neurosci.2016,36,2425–2437.[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 33of40
+127. Yamano,K.;Fogel,A.I.;Wang,C.;vanderBliek,A.M.;Youle,R.J.MitochondrialRabGAPsgovernautophagosomebiogenesis
+duringmitophagy.eLife2014,3,e01612.[CrossRef]
+128. Guerra,F.;Bucci,C.MultiplerolesofthesmallGTPaseRab7.Cells2016,5,34.[CrossRef]
+129. Demers-Lamarche,J.;Guillebaud,G.;Tlili,M.;Todkar,K.;Belanger,N.;Grondin,M.;Nguyen,A.P.;Michel,J.;Germain,M.Loss
+ofmitochondrialfunctionimpairslysosomes.J.Biol.Chem.2016,291,10263–10276.[CrossRef]
+130. Sterky,F.H.;Lee,S.;Wibom,R.;Olson,L.;Larsson,N.G.ImpairedmitochondrialtransportandParkin-independentdegeneration
+ofrespiratorychain-deficientdopamineneuronsinvivo.Proc.Natl.Acad.Sci.USA2011,108,12937–12942.[CrossRef]
+131. Bingol,B.;Tea,J.S.;Phu,L.;Reichelt,M.;Bakalarski,C.E.;Song,Q.;Foreman,O.;Kirkpatrick,D.S.;Sheng,M.Themitochondrial
+deubiquitinaseUSP30opposesparkin-mediatedmitophagy.Nature2014,510,370–375.[CrossRef]
+132. Luo,H.;Krigman,J.;Zhang,R.;Yang,M.;Sun,N.PharmacologicalinhibitionofUSP30activatestissue-specificmitophagy.Acta
+Physiol.2021,232,e13666.[CrossRef][PubMed]
+133. Wang,X.;Winter,D.;Ashrafi,G.;Schlehe,J.;Wong,Y.L.;Selkoe,D.;Rice,S.;Steen,J.;LaVoie,M.J.;Schwarz,T.L.PINK1and
+ParkintargetMiroforphosphorylationanddegradationtoarrestmitochondrialmotility.Cell2011,147,893–906.[CrossRef]
+134. Choubey, V.; Safiulina, D.; Vaarmann, A.; Cagalinec, M.; Wareski, P.; Kuum, M.; Zharkovsky, A.; Kaasik, A. Mutant A53T
+alpha-synucleininducesneuronaldeathbyincreasingmitochondrialautophagy.J.Biol.Chem.2011,286,10814–10824.[CrossRef]
+135. Chen,J.; Ren,Y.; Gui,C.; Zhao,M.; Wu,X.; Mao,K.; Li,W.; Zou,F.PhosphorylationofParkinatserine131byp38MAPK
+promotesmitochondrialdysfunctionandneuronaldeathinmutantA53Talpha-synucleinmodelofParkinson’sdisease.Cell
+DeathDis.2018,9,700.[CrossRef][PubMed]
+136. Yang,S.;Gao,L.;Lu,F.;Wang,B.;Gao,F.;Zhu,G.;Cai,Z.;Lai,J.;Yang,Q.Transcriptionfactormyocyteenhancerfactor2D
+regulatesinterleukin-10productioninmicrogliatoprotectneuronalcellsfrominflammation-induceddeath.J.Neuroinflamm.
+2015,12,33.[CrossRef][PubMed]
+137. She,H.;Yang,Q.;Shepherd,K.;Smith,Y.;Miller,G.;Testa,C.;Mao,Z.DirectregulationofcomplexIbymitochondrialMEF2D
+isdisruptedinamousemodelofParkinsondiseaseandinhumanpatients. J.Clin. Investig. 2011,121,930–940. [CrossRef]
+[PubMed]
+138. Baixauli, F.; Acin-Perez, R.; Villarroya-Beltri, C.; Mazzeo, C.; Nunez-Andrade, N.; Gabande-Rodriguez, E.; Ledesma, M.D.;
+Blazquez,A.;Martin,M.A.;Falcon-Perez,J.M.;etal.Mitochondrialrespirationcontrolslysosomalfunctionduringinflammatory
+Tcellresponses.CellMetab.2015,22,485–498.[CrossRef]
+139. Palikaras, K.; Daskalaki, I.; Markaki, M.; Tavernarakis, N. Mitophagy and age-related pathologies: Development of new
+therapeuticsbytargetingmitochondrialturnover.Pharmacol.Ther.2017,178,157–174.[CrossRef]
+140. Villa,E.;Marchetti,S.;Ricci,J.E.NoParkinzone:MitophagywithoutParkin.TrendsCellBiol.2018,28,882–895.[CrossRef]
+141. Winslow,A.R.;Rubinsztein,D.C.TheParkinsondiseaseproteinalpha-synucleininhibitsautophagy.Autophagy2011,7,429–431.
+[CrossRef]
+142. Stolz,A.;Ernst,A.;Dikic,I.Cargorecognitionandtraffickinginselectiveautophagy.Nat.CellBiol.2014,16,495–501.[CrossRef]
+143. Arotcarena,M.-L.;Teil,M.;Dehay,B.Autophagyinsynucleinopathy:Theoverwhelmedanddefectivemachinery.Cells2019,
+8,565.[CrossRef]
+144. Fleming,A.;Rubinsztein,D.C.Autophagyinneuronaldevelopmentandplasticity.TrendsNeurosci.2020,43,767–779.[CrossRef]
+[PubMed]
+145. Zimprich,A.;Benet-Pages,A.;Struhal,W.;Graf,E.;Eck,S.H.;Offman,M.N.;Haubenberger,D.;Spielberger,S.;Schulte,E.C.;
+Lichtner,P.;etal.AmutationinVPS35,encodingasubunitoftheretromercomplex,causeslate-onsetParkinsondisease.Am.J.
+Hum.Genet.2011,89,168–175.[CrossRef]
+146. Vilariño-Güell,C.;Wider,C.;Ross,O.A.;Dachsel,J.C.;Kachergus,J.M.;Lincoln,S.J.;Soto-Ortolaza,A.I.;Cobb,S.A.;Wilhoite,G.J.;
+Bacon,J.A.;etal.VPS35mutationsinParkinsondisease.Am.J.Hum.Genet.2011,89,162–167.[CrossRef]
+147. Eleuteri,S.;Albanese,A.VPS35-basedapproach:ApotentialinnovativetreatmentinParkinson’sdisease.Front.Neurol.2019,
+10,1272.[CrossRef]
+148. Miura,E.;Hasegawa,T.;Konno,M.;Suzuki,M.;Sugeno,N.;Fujikake,N.;Geisler,S.;Tabuchi,M.;Oshima,R.;Kikuchi,A.;etal.
+VPS35dysfunctionimpairslysosomaldegradationofalpha-synucleinandexacerbatesneurotoxicityinaDrosophilamodelof
+Parkinson’sdisease.Neurobiol.Dis.2014,71,1–13.[CrossRef][PubMed]
+149. Zavodszky,E.;Seaman,M.N.J.;Moreau,K.;Jimenez-Sanchez,M.;Breusegem,S.Y.;Harbour,M.E.;Rubinsztein,D.C.Mutation
+inVPS35associatedwithParkinson’sdiseaseimpairsWASHcomplexassociationandinhibitsautophagy.Nat.Commun.2014,
+5,3828.[CrossRef][PubMed]
+150. Tang,F.L.;Liu,W.;Hu,J.X.;Erion,J.R.;Ye,J.;Mei,L.;Xiong,W.C.VPS35deficiencyormutationcausesdopaminergicneuronal
+lossbyimpairingmitochondrialfusionandfunction.CellRep.2015,12,1631–1643.[CrossRef][PubMed]
+151. Rahman,A.A.;Soto-Avellaneda,A.;YongJin,H.;Stojkovska,I.;Lai,N.K.;Albright,J.E.;Webb,A.R.;Oe,E.;Valarde,J.P.;Oxford,
+A.E.;etal.EnhancedhyaluronansignalingandautophagydysfunctionbyVPS35D620N.Neuroscience2020,441,33–45.[CrossRef]
+152. Cuervo,A.M.;Stefanis,L.;Fredenburg,R.;Lansbury,P.T.;Sulzer,D.Impaireddegradationofmutantα-synucleinbychaperone-
+mediatedautophagy.Science2004,305,1292–1295.[CrossRef]
+153. Mak,S.K.;McCormack,A.L.;Manning-Bog,A.B.;Cuervo,A.M.;DiMonte,D.A.Lysosomaldegradationofalpha-synuclein
+invivo.J.Biol.Chem.2010,285,13621–13629.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 34of40
+154. Cuervo,A.M.;Wong,E.Chaperone-mediatedautophagy: Rolesindiseaseandaging. CellRes. 2014,24,92–104. [CrossRef]
+[PubMed]
+155. Alfaro,I.E.;Albornoz,A.;Molina,A.;Moreno,J.;Cordero,K.;Criollo,A.;Budini,M.Chaperonemediatedautophagyinthe
+crosstalkofneurodegenerativediseasesandmetabolicdisorders.Front.Endocrinol.2018,9,778.[CrossRef][PubMed]
+156. Alvarez-Erviti,L.;Rodriguez-Oroz,M.C.;Cooper,J.M.;Caballero,C.;Ferrer,I.;Obeso,J.A.;Schapira,A.H.Chaperone-mediated
+autophagymarkersinParkinsondiseasebrains.Arch.Neurol.2010,67,1464–1472.[CrossRef]
+157. Orenstein,S.J.;Kuo,S.-H.;Tasset,I.;Arias,E.;Koga,H.;Fernandez-Carasa,I.;Cortes,E.;Honig,L.S.;Dauer,W.;Consiglio,A.;
+etal.InterplayofLRRK2withchaperone-mediatedautophagy.Nat.Neurosci.2013,16,394–406.[CrossRef]
+158. Xilouri,M.;Vogiatzi,T.;Vekrellis,K.;Park,D.;Stefanis,L.Abberantalpha-synucleinconferstoxicitytoneuronsinpartthrough
+inhibitionofchaperone-mediatedautophagy.PLoSONE2009,4,e5515.[CrossRef][PubMed]
+159. Chu,Y.;Dodiya,H.;Aebischer,P.;Olanow,C.W.;Kordower,J.H.AlterationsinlysosomalandproteasomalmarkersinParkinson’s
+disease:Relationshiptoalpha-synucleininclusions.Neurobiol.Dis.2009,35,385–398.[CrossRef]
+160. Murphy,K.E.;Gysbers,A.M.;Abbott,S.K.;Spiro,A.S.;Furuta,A.;Cooper,A.;Garner,B.;Kabuta,T.;Halliday,G.M.Lysosomal-
+associatedmembraneprotein2isoformsaredifferentiallyaffectedinearlyParkinson’sdisease.Mov.Disord.2015,30,1639–1647.
+[CrossRef]
+161. Gao,L.;She,H.;Li,W.;Zeng,J.;Zhu,J.;Jones,D.P.;Mao,Z.;Gao,G.;Yang,Q.OxidationofsurvivalfactorMEF2Dinneuronal
+deathandParkinson’sdisease.Antioxid.RedoxSignal.2014,20,2936–2948.[CrossRef]
+162. Wu,G.;Wang,X.;Feng,X.;Zhang,A.;Li,J.;Gu,K.;Huang,J.;Pang,S.;Dong,H.;Gao,H.;etal.Alteredexpressionofautophagic
+genesintheperipheralleukocytesofpatientswithsporadicParkinson’sdisease.BrainRes.2011,1394,105–111.[CrossRef]
+163. Lim,H.; Lim,Y.-M.; Kim,K.H.; Jeon,Y.E.; Park,K.; Kim,J.; Hwang,H.-Y.; Lee,D.J.; Pagire,H.; Kwon,H.J.; etal. Anovel
+autophagyenhancerasatherapeuticagentagainstmetabolicsyndromeanddiabetes.Nat.Commun.2018,9,1438.[CrossRef]
+164. Ottolini,D.;Calì,T.;Negro,A.;Brini,M.TheParkinsondisease-relatedproteinDJ-1counteractsmitochondrialimpairment
+inducedbythetumoursuppressorproteinp53byenhancingendoplasmicreticulum–mitochondriatethering.Hum.Mol.Genet.
+2013,22,2152–2168.[CrossRef]
+165. Xu,C.Y.;Kang,W.Y.;Chen,Y.M.;Jiang,T.F.;Zhang,J.;Zhang,L.N.;Ding,J.Q.;Liu,J.;Chen,S.D.DJ-1Inhibitsalpha-synuclein
+aggregationbyregulatingchaperone-mediatedautophagy.Front.AgingNeurosci.2017,9,308.[CrossRef]
+166. Brekk,O.R.;Makridakis,M.;Mavroeidi,P.;Vlahou,A.;Xilouri,M.;Stefanis,L.Impairmentofchaperone-mediatedautophagy
+affectsneuronalhomeostasisthroughalteredexpressionofDJ-1andCRMP-2proteins. Mol. Cell. Neurosci. 2019, 95, 1–12.
+[CrossRef][PubMed]
+167. Rubinsztein,D.C.;Mariño,G.;Kroemer,G.AutophagyandAging.Cell2011,146,682–695.[CrossRef]
+168. Metaxakis,A.;Ploumi,C.;Tavernarakis,N.Autophagyinage-associatedneurodegeneration.Cells2018,7,37.[CrossRef]
+169. Wilhelm,M.;Bonam,S.R.;Schall,N.;Bendorius,M.;Korganow,A.-S.;Lumbroso,C.;Muller,S.Implicationofalysosomalantigen
+inthepathogenesisoflupuserythematosus.J.Autoimmun.2021,120,102633.[CrossRef][PubMed]
+170. Gonzalez-Hunt,C.P.;Thacker,E.A.;Toste,C.M.;Boularand,S.;Deprets,S.;Dubois,L.;Sanders,L.H.MitochondrialDNAdamage
+asapotentialbiomarkerofLRRK2kinaseactivityinLRRK2Parkinson’sdisease.Sci.Rep.2020,10,17293.[CrossRef][PubMed]
+171. Balducci,C.;Pierguidi,L.;Persichetti,E.;Parnetti,L.;Sbaragli,M.;Tassi,C.;Orlacchio,A.;Calabresi,P.;Beccari,T.;Rossi,A.
+LysosomalhydrolasesincerebrospinalfluidfromsubjectswithParkinson’sdisease.Mov.Disord.2007,22,1481–1484.[CrossRef]
+172. Tokuda,T.;Salem,S.A.;Allsop,D.;Mizuno,T.;Nakagawa,M.;Qureshi,M.M.;Locascio,J.J.;Schlossmacher,M.G.;El-Agnaf,O.M.
+Decreasedalpha-synucleinincerebrospinalfluidofagedindividualsandsubjectswithParkinson’sdisease.Biochem.Biophys.Res.
+Commun.2006,349,162–166.[CrossRef]
+173. Mazzulli,J.R.;Xu,Y.H.;Sun,Y.;Knight,A.L.;McLean,P.J.;Caldwell,G.A.;Sidransky,E.;Grabowski,G.A.;Krainc,D.Gaucher
+diseaseglucocerebrosidaseandalpha-synucleinformabidirectionalpathogenicloopinsynucleinopathies.Cell2011,146,37–52.
+[CrossRef][PubMed]
+174. Cullen,V.; Sardi,S.P.; Ng,J.; Xu,Y.H.; Sun,Y.; Tomlinson,J.J.; Kolodziej,P.; Kahn,I.; Saftig,P.; Woulfe,J.; etal. Acidbeta-
+glucosidasemutantslinkedtoGaucherdisease,Parkinsondisease,andLewybodydementiaalteralpha-synucleinprocessing.
+Ann.Neurol.2011,69,940–953.[CrossRef]
+175. Murphy,K.;Gysbers,A.;Abbott,S.;Tayebi,N.;Kim,W.;Sidransky,E.;Cooper,A.;Garner,B.;Halliday,G.Reducedglucocere-
+brosidaseisassociatedwithincreasedα-synucleininsporadicParkinson’sdisease.Brain2014,137,834–848.[CrossRef]
+176. Gitler,A.D.;Chesi,A.;Geddie,M.L.;Strathearn,K.E.;Hamamichi,S.;Hill,K.J.;Caldwell,K.A.;Caldwell,G.A.;Cooper,A.A.;
+Rochet,J.C.;etal. Alpha-synucleinispartofadiverseandhighlyconservedinteractionnetworkthatincludesPARK9and
+manganesetoxicity.Nat.Genet.2009,41,308–315.[CrossRef][PubMed]
+177. Murphy,K.E.;Cottle,L.;Gysbers,A.M.;Cooper,A.A.;Halliday,G.M.ATP13A2(PARK9)proteinlevelsarereducedinbraintissue
+ofcaseswithLewybodies.ActaNeuropathol.Commun.2013,1,11.[CrossRef]
+178. Wu,G.; Huang,J.; Feng,X.; Zhang,A.; Li,J.; Pang,S.; Gu,K.; Dong,H.; Zhang,J.; Gao,H.; etal. Decreasedexpressionof
+lysosomalalpha-galactosiaseageneinsporadicParkinson’sdisease.Neurochem.Res.2011,36,1939–1944.[CrossRef]
+179. Anglade,P.;Vyas,S.;Javoy-Agid,F.;Herrero,M.T.;Michel,P.P.;Marquez,J.;Mouatt-Prigent,A.;Ruberg,M.;Hirsch,E.C.;Agid,Y.
+ApoptosisandautophagyinnigralneuronsofpatientswithParkinson’sdisease.Histol.Histopathol.1997,12,25–31.
+180. Decressac,M.;Mattsson,B.;Weikop,P.;Lundblad,M.;Jakobsson,J.;Bjorklund,A.TFEB-mediatedautophagyrescuesmidbrain
+dopamineneuronsfromalpha-synucleintoxicity.Proc.Natl.Acad.Sci.USA2013,110,E1817–E1826.[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 35of40
+181. Dehay,B.;Bové,J.;Rodríguez-Muela,N.;Perier,C.;Recasens,A.;Boya,P.;Vila,M.PathogeniclysosomaldepletioninParkinson’s
+disease.J.Neurosci.2010,30,12535–12544.[CrossRef]
+182. Zhuang, X.-X.; Wang, S.-F.; Tan, Y.; Song, J.-X.; Zhu, Z.; Wang, Z.-Y.; Wu, M.-Y.; Cai, C.-Z.; Huang, Z.-J.; Tan, J.-Q.; et al.
+PharmacologicalenhancementofTFEB-mediatedautophagyalleviatedneuronaldeathinoxidativestress-inducedParkinson’s
+diseasemodels.CellDeathDis.2020,11,128.[CrossRef][PubMed]
+183. Chen,M.;Dai,Y.;Liu,S.;Fan,Y.;Ding,Z.;Li,D.TFEBbiologyandagonistsataglance.Cells2021,10,333.[CrossRef]
+184. Orrù, V.; Steri, M.; Sidore,C.; Marongiu, M.; Serra,V.; Olla, S.; Sole, G.; Lai, S.; Dei, M.; Mulas,A.; etal. Complexgenetic
+signaturesinimmunecellsunderlieautoimmunityandinformtherapy.Nat.Genet.2020,52,1036–1045.[CrossRef][PubMed]
+185. Zerr,I.RT-QuICfordetectionofprodromalα-synucleinopathies.LancetNeurol.2021,20,165–166.[CrossRef]
+186. Curtis,L.; Lees,A.J.; Stern,G.M.; Marmot,M.G.EffectofL-dopaoncourseofParkinson’sdisease. Lancet1984,2,211–212.
+[CrossRef]
+187. Pajares,M.;Rojo,A.;Manda,G.;Boscá,L.;Cuadrado,A.InflammationinParkinson’sdisease: Mechanismsandtherapeutic
+implications.Cells2020,9,1687.[CrossRef][PubMed]
+188. Parmar,M.;Grealish,S.;Henchcliffe,C.ThefutureofstemcelltherapiesforParkinsondisease. Nat. Rev. Neurosci. 2020,21,
+103–115.[CrossRef]
+189. Schweitzer, J.S.; Song, B.; Herrington, T.M.; Park, T.Y.; Lee, N.; Ko, S.; Jeon, J.; Cha, Y.; Kim, K.; Li, Q.; etal. Personalized
+iPSC-deriveddopamineprogenitorcellsforParkinson’sdisease.N.Engl.J.Med.2020,382,1926–1932.[CrossRef][PubMed]
+190. Dawson,V.L.;Dawson,T.M.Promisingdisease-modifyingtherapiesforParkinson’sdisease.Sci.Transl.Med.2019,11,eaba1659.
+[CrossRef][PubMed]
+191. Pujols,J.;Peña-Díaz,S.;Pallarès,I.;Ventura,S.ChemicalchaperonesasnoveldrugsforParkinson’sdisease.TrendsMol.Med.
+2020,26,408–421.[CrossRef]
+192. Robinson,E.J.;Aguiar,S.;Smidt,M.P.;vanderHeide,L.P.MCL1asatherapeutictargetinParkinson’sdisease?TrendsMol.Med.
+2019,25,1056–1065.[CrossRef]
+193. Harris,J.P.;Burrell,J.C.;Struzyna,L.A.;Chen,H.I.;Serruya,M.D.;Wolf,J.A.;Duda,J.E.;Cullen,D.K.Emergingregenerative
+medicineandtissueengineeringstrategiesforParkinson’sdisease.NPJParkinson’sDis.2020,6,4.[CrossRef]
+194. Marin-Aguilar,F.;Castejon-Vega,B.;Alcocer-Gomez,E.;Lendines-Cordero,D.;Cooper,M.A.;delaCruz,P.;Andujar-Pulido,E.;
+Perez-Alegre,M.;Muntane,J.;Perez-Pulido,A.J.;etal. NLRP3inflammasomeinhibitionbyMCC950inagedmiceimproves
+healthviaenhancedautophagyandPPARalphaactivity.J.Gerontol.ABiol.Sci.Med.Sci.2020,75,1457–1464.[CrossRef]
+195. Panicker,N.;Sarkar,S.;Harischandra,D.S.;Neal,M.;Kam,T.-I.;Jin,H.;Saminathan,H.;Langley,M.;Charli,A.;Samidurai,M.;
+etal.Fynkinaseregulatesmisfoldedα-synucleinuptakeandNLRP3inflammasomeactivationinmicroglia.J.Exp.Med.2019,
+216,1411–1430.[CrossRef]
+196. Park,H.;Kim,J.;Shin,C.;Lee,S.Intersectionbetweenredoxhomeostasisandautophagy:Valuableinsightsintoneurodegenera-
+tion.Antioxidants2021,10,694.[CrossRef][PubMed]
+197. Georgakopoulos,N.D.;Wells,G.;Campanella,M.Thepharmacologicalregulationofcellularmitophagy.Nat.Chem.Biol.2017,
+13,136–146.[CrossRef]
+198. Koentjoro,B.;Park,J.-S.;Sue,C.M.NixrestoresmitophagyandmitochondrialfunctiontoprotectagainstPINK1/Parkin-related
+Parkinson’sdisease.Sci.Rep.2017,7,44373.[CrossRef]
+199. Yi,W.;MacDougall,E.J.;Tang,M.Y.;Krahn,A.I.;Gan-Or,Z.;Trempe,J.-F.;Fon,E.A.ThelandscapeofParkinvariantsreveals
+pathogenicmechanismsandtherapeutictargetsinParkinson’sdisease.Hum.Mol.Genet.2019,28,2811–2825.[CrossRef]
+200. Kluge,A.F.; Lagu,B.R.; Maiti,P.; Jaleel,M.; Webb,M.; Malhotra,J.; Mallat,A.; Srinivas,P.A.; Thompson,J.E.Novelhighly
+selectiveinhibitorsofubiquitinspecificprotease30(USP30)acceleratemitophagy.Bioorg.Med.Chem.Lett.2018,28,2655–2659.
+[CrossRef][PubMed]
+201. Singh,A.;Verma,P.;Balaji,G.;Samantaray,S.;Mohanakumar,K.P.Nimodipine,anL-typecalciumchannelblockerattenuates
+mitochondrialdysfunctionstoprotectagainst1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-inducedParkinsonisminmice.
+Neurochem.Int.2016,99,221–232.[CrossRef]
+202. Banerjee,R.;Raju,A.;NgimaNthenge-Ngumbau,D.;Singh,R.;Jaisankar,P.;Mohanakumar,K.P.;Biswas,S.C.Tetrahydroiso-
+quinolinemoleculeofIndianayurvedamedicine:TherapeuticpotentialinParkinson’sdisease.Park.Relat.Disord.2018,46,e85.
+[CrossRef]
+203. Suresh,S.N.; Manjithaya,R.Asmallmoleculeautophagyinducerexertscytoprotectionagainstα-synucleintoxicity. Eur. J.
+Pharmacol.2019,862,172635.[CrossRef]
+204. Kovács,T.;Billes,V.;Komlós,M.;Hotzi,B.;Manzéger,A.;Tarnóci,A.;Papp,D.;Szikszai,F.;Szinyákovics,J.;Rácz,Á.;etal.The
+smallmoleculeAUTEN-99(autophagyenhancer-99)preventstheprogressionofneurodegenerativesymptoms.Sci.Rep.2017,
+7,42014.[CrossRef]
+205. Wang,Z.;Jiang,C.;Chen,W.;Zhang,G.;Luo,D.;Cao,Y.;Wu,J.;Ding,Y.;Liu,B.Baicaleininducesapoptosisandautophagyvia
+endoplasmicreticulumstressinhepatocellularcarcinomacells.Biomed.Res.Int.2014,2014,732516.[CrossRef]
+206. Yan,W.;Ma,X.;Zhao,X.;Zhang,S.BaicaleininducesapoptosisandautophagyofbreastcancercellsviainhibitingPI3K/AKT
+pathwayinvivoandvitro.DrugDes.Dev.Ther.2018,12,3961–3972.[CrossRef][PubMed]
+207. Sun,C.;Liu,X.;Di,C.;Wang,Z.;Mi,X.;Liu,Y.;Zhao,Q.;Mao,A.;Chen,W.;Gan,L.;etal. MitoQregulatesautophagyby
+inducingapseudo-mitochondrialmembranepotential.Autophagy2017,13,730–738.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 36of40
+208. Hung,K.C.;Huang,H.J.;Wang,Y.T.;Lin,A.M.Baicaleinattenuatesalpha-synucleinaggregation,inflammasomeactivationand
+autophagyintheMPP(+)-treatednigrostriataldopaminergicsysteminvivo.J.Ethnopharmacol.2016,194,522–529.[CrossRef]
+[PubMed]
+209. Hu, Q.; Uversky, V.N.; Huang, M.; Kang, H.; Xu, F.; Liu, X.; Lian, L.; Liang, Q.; Jiang, H.; Liu, A.; etal. Baicaleininhibits
+alpha-synucleinoligomerformationandpreventsprogressionofalpha-synucleinaccumulationinarotenonemousemodelof
+Parkinson’sdisease.Biochim.Biophys.Acta2016,1862,1883–1890.[CrossRef]
+210. Li,Y.;Lin,S.;Xu,C.;Zhang,P.;Mei,X.Triggeringofautophagybybaicaleininresponsetoapoptosisafterspinalcordinjury:
+PossibleinvolvementofthePI3Kactivation.Biol.Pharm.Bull.2018,41,478–486.[CrossRef][PubMed]
+211. Suresh,S.N.;Chavalmane,A.K.;Dj,V.;Yarreiphang,H.;Rai,S.;Paul,A.;Clement,J.P.;Alladi,P.A.;Manjithaya,R.Anovel
+autophagymodulator6-BioamelioratesSNCA/α-synucleintoxicity.Autophagy2017,13,1221–1234.[CrossRef]
+212. Deng,Y.N.;Shi,J.;Liu,J.;Qu,Q.M.CelastrolprotectshumanneuroblastomaSH-SY5Ycellsfromrotenone-inducedinjurythrough
+inductionofautophagy.Neurochem.Int.2013,63,1–9.[CrossRef]
+213. Spinelli, K.J.; Osterberg, V.R.; Meshul, C.K.; Soumyanath, A.; Unni, V.K. Curcumin treatment improves motorbehavior in
+α-synucleintransgenicmice.PLoSONE2015,10,e0128510.
+214. Jiang,T.-F.;Zhang,Y.-J.;Zhou,H.-Y.;Wang,H.-M.;Tian,L.-P.;Liu,J.;Ding,J.-Q.;Chen,S.-D.Curcuminamelioratestheneu-
+rodegenerativepathologyinA53Tα-synucleincellmodelofParkinson’sdiseasethroughthedownregulationofmTOR/p70S6K
+signalingandtherecoveryofmacroautophagy.J.NeuroimmunePharmacol.2013,8,356–369.[CrossRef]
+215. Song,J.-X.;Sun,Y.-R.;Peluso,I.;Zeng,Y.;Yu,X.;Lu,J.-H.;Xu,Z.;Wang,M.-Z.;Liu,L.-F.;Huang,Y.-Y.;etal.Anovelcurcumin
+analog binds to and activates TFEB invitro and invivo independent of MTOR inhibition. Autophagy 2016, 12, 1372–1389.
+[CrossRef]
+216. Lastres-Becker,I.;Garcia-Yague,A.J.;Scannevin,R.H.;Casarejos,M.J.;Kugler,S.;Rabano,A.;Cuadrado,A.Repurposingthe
+NRF2activatordimethylfumarateastherapyagainstsynucleinopathyinParkinson’sdisease.Antioxid.RedoxSignal.2016,25,
+61–77.[CrossRef]
+217. Lee,J.H.;Moon,J.H.;Kim,S.W.;Jeong,J.K.;Nazim,U.M.D.;Lee,Y.J.;Seol,J.W.;Park,S.Y.EGCG-mediatedautophagyfluxhasa
+neuroprotectioneffectviaaclassIIIhistonedeacetylaseinprimaryneuroncells.Oncotarget2015,6,9701–9717.[CrossRef]
+218. Ng,C.H.;Guan,M.S.;Koh,C.;Ouyang,X.;Yu,F.;Tan,E.K.;O’Neill,S.P.;Zhang,X.;Chung,J.;Lim,K.L.AMPkinaseactivation
+mitigatesdopaminergicdysfunctionandmitochondrialabnormalitiesinDrosophilamodelsofParkinson’sdisease.J.Neurosci.
+2012,32,14311–14317.[CrossRef][PubMed]
+219. Kilpatrick,K.;Zeng,Y.;Hancock,T.;Segatori,L.GeneticandchemicalactivationofTFEBmediatesclearanceofaggregated
+α-synuclein.PLoSONE2015,10,e0120819.[CrossRef][PubMed]
+220. Lieberman,R.L.;Wustman,B.A.;Huertas,P.;Powe,A.C.;Pine,C.W.;Khanna,R.;Schlossmacher,M.G.;Ringe,D.;Petsko,G.A.
+Structureofacidβ-glucosidasewithpharmacologicalchaperoneprovidesinsightintoGaucherdisease.Nat.Chem.Biol.2007,3,
+101–107.[CrossRef]
+221. Sanchez-Martinez,A.;Beavan,M.;Gegg,M.E.;Chau,K.-Y.;Whitworth,A.J.;Schapira,A.H.V.Parkinsondisease-linkedGBA
+mutationeffectsreversedbymolecularchaperonesinhumancellandflymodels.Sci.Rep.2016,6,31380.
+222. Lu,J.-H.;Tan,J.-Q.;Durairajan,S.S.K.;Liu,L.-F.;Zhang,Z.-H.;Ma,L.;Shen,H.-M.;Chan,H.Y.E.;Li,M.Isorhynchophylline,
+anaturalalkaloid,promotesthedegradationofalpha-synucleininneuronalcellsviainducingautophagy.Autophagy2012,8,
+98–108.[CrossRef][PubMed]
+223. Hu,S.;Mak,S.;Zuo,X.;Li,H.;Wang,Y.;Han,Y.NeuroprotectionagainstMPP(+)-inducedcytotoxicitythroughtheactivationof
+PI3-K/Akt/GSK3beta/MEF2Dsignalingpathwaybyrhynchophylline,themajortetracyclicoxindolealkaloidisolatedfrom
+uncariarhynchophylla.Front.Pharmacol.2018,9,768.[CrossRef]
+224. Filomeni,G.;Desideri,E.;Cardaci,S.;Graziani,I.;Piccirillo,S.;Rotilio,G.;Ciriolo,M.R.CarcinomacellsactivateAMP-activated
+proteinkinase-dependentautophagyassurvivalresponsetokaempferol-mediatedenergeticimpairment. Autophagy2010,6,
+202–216.[CrossRef][PubMed]
+225. Filomeni,G.;Graziani,I.;DeZio,D.;Dini,L.;Centonze,D.;Rotilio,G.;Ciriolo,M.R.Neuroprotectionofkaempferolbyautophagy
+inmodelsofrotenone-mediatedacutetoxicity:PossibleimplicationsforParkinson’sdisease.Neurobiol.Aging2012,33,767–785.
+[CrossRef]
+226. Myöhänen,T.;Hannula,M.;VanElzen,R.;Gerard,M.;VanDerVeken,P.;García-Horsman,J.;Baekelandt,V.;Männistö,P.;
+Lambeir,A.Aprolyloligopeptidaseinhibitor,KYP-2047,reducesα-synucleinproteinlevelsandaggregatesincellularandanimal
+modelsofParkinson’sdisease.Br.J.Pharmacol.2012,166,1097–1113.[CrossRef][PubMed]
+227. Savolainen,M.H.;Richie,C.T.;Harvey,B.K.;Männistö,P.T.;Maguire-Zeiss,K.A.;Myöhänen,T.T.Thebeneficialeffectofaprolyl
+oligopeptidaseinhibitor,KYP-2047,onalpha-synucleinclearanceandautophagyinA30Ptransgenicmouse.Neurobiol.Dis.2014,
+68,1–15.[CrossRef]
+228. Kilpeläinen,T.P.;Hellinen,L.;Vrijdag,J.;Yan,X.;Svarcbahs,R.;Vellonen,K.-S.;Lambeir,A.-M.;Huttunen,H.;Urtti,A.;Wallen,
+E.A.A.;etal.Theeffectofprolyloligopeptidaseinhibitorsonalpha-synucleinaggregationandautophagycannotbepredictedby
+theirinhibitoryefficacy.Biomed.Pharmacother.2020,128,110253.[CrossRef][PubMed]
+229. Steele,J.W.;Ju,S.;Lachenmayer,M.L.;Liken,J.;Stock,A.;Kim,S.H.;Delgado,L.M.;Alfaro,I.E.;Bernales,S.;Verdile,G.;etal.
+Latrepirdinestimulatesautophagyandreducesaccumulationofα-synucleinincellsandinmousebrain.Mol.Psychiatry2013,18,
+882–888.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 37of40
+230. Sarkar,S.;Floto,R.A.;Berger,Z.;Imarisio,S.;Cordenier,A.;Pasco,M.;Cook,L.J.;Rubinsztein,D.C.Lithiuminducesautophagy
+byinhibitinginositolmonophosphatase.J.CellBiol.2005,170,1101–1111.[CrossRef][PubMed]
+231. Forlenza,O.V.;De-Paula,V.J.R.;Diniz,B.S.O.Neuroprotectiveeffectsoflithium:ImplicationsforthetreatmentofAlzheimer’s
+diseaseandrelatedneurodegenerativedisorders.ACSChem.Neurosci.2014,5,443–450.[CrossRef]
+232. Motoi,Y.;Shimada,K.;Ishiguro,K.;Hattori,N.Lithiumandautophagy.ACSChem.Neurosci.2014,5,434–442.[CrossRef]
+233. Hou,L.;Xiong,N.;Liu,L.;Huang,J.;Han,C.;Zhang,G.;Li,J.;Xu,X.;Lin,Z.;Wang,T.Lithiumprotectsdopaminergiccellsfrom
+rotenonetoxicityviaautophagyenhancement.BMCNeurosci.2015,16,82.[CrossRef]
+234. Lazzara,C.A.;Kim,Y.-H.PotentialapplicationoflithiuminParkinson’sandotherneurodegenerativediseases.Front.Neurosci.
+2015,9,403.[CrossRef][PubMed]
+235. Pavillard,L.E.;Cañadas-Lozano,D.;Alcocer-Gómez,E.;Marín-Aguilar,F.;Pereira,S.;Robertson,A.A.B.;Muntané,J.;Ryffel,B.;
+Cooper,M.A.;Quiles,J.L.;etal.NLRP3-inflammasomeinhibitionpreventshighfatandhighsugardiets-inducedheartdamage
+throughautophagyinduction.Oncotarget2017,8,99740–99756.[CrossRef]
+236. Saber,S.;El-Kader,E.M.A.NovelcomplementarycoloprotectiveeffectsofmetforminandMCC950bymodulatingHSP90/NLRP3
+interactionandinducingautophagyinrats.Inflammopharmacology2021,29,237–251.[CrossRef]
+237. Corcoran,S.E.;Reena,H.;Matthew,A.C.PharmacologicalInhibitionoftheNod-LikeReceptorFamilyPyrinDomainContaining
+3InflammasomewithMCC950.Pharmacol.Rev.2021,73,968–1000.[CrossRef][PubMed]
+238. Gordon,R.;Albornoz,E.A.;Christie,D.C.;Langley,M.R.;Kumar,V.;Mantovani,S.;Robertson,A.A.B.;Butler,M.S.;Rowe,D.B.;
+O’Neill,L.A.;etal.Inflammasomeinhibitionpreventsα-synucleinpathologyanddopaminergicneurodegenerationinmice.Sci.
+Transl.Med.2018,10,eaah4066.[CrossRef][PubMed]
+239. Dulovic,M.;Jovanovic,M.;Xilouri,M.;Stefanis,L.;Harhaji-Trajkovic,L.;Kravic-Stevovic,T.;Paunovic,V.;Ardah,M.T.;El-Agnaf,
+O.M.;Kostic,V.;etal.TheprotectiveroleofAMP-activatedproteinkinaseinalpha-synucleinneurotoxicityinvitro.Neurobiol.
+Dis.2014,63,1–11.[CrossRef][PubMed]
+240. Perez-Revuelta,B.I.;Hettich,M.M.;Ciociaro,A.;Rotermund,C.;Kahle,P.J.;Krauss,S.;DiMonte,D.A.MetforminlowersSer-129
+phosphorylatedalpha-synucleinlevelsviamTOR-dependentproteinphosphatase2Aactivation.CellDeathDis.2014,5,e1209.
+[CrossRef]
+241. Jovanovic-Tucovic,M.;Harhaji-Trajkovic,L.;Dulovic,M.;Tovilovic-Kovacevic,G.;Zogovic,N.;Jeremic,M.;Mandic,M.;Kostic,
+V.; Trajkovic,V.; Markovic,I.AMP-activatedproteinkinaseinhibitsMPP+-inducedoxidativestressandapoptoticdeathof
+SH-SY5YcellsthroughsequentialstimulationofAktandautophagy.Eur.J.Pharmacol.2019,863,172677.[CrossRef]
+242. Patil,S.P.;Jain,P.D.;Ghumatkar,P.J.;Tambe,R.;Sathaye,S.NeuroprotectiveeffectofmetformininMPTP-inducedParkinson’s
+diseaseinmice.Neuroscience2014,277,747–754.[CrossRef][PubMed]
+243. Wu,A.-G.;Wong,V.K.-W.;Xu,S.-W.;Chan,W.-K.;Ng,C.-I.;Liu,L.;Law,B.Y.-K.OnjisaponinBderivedfromradixpolygalae
+enhancesautophagyandacceleratesthedegradationofmutantα-synucleinandhuntingtininpc-12cells.Int.J.Mol.Sci.2013,14,
+22618–22641.[CrossRef]
+244. Zhang,X.;Zhai,Y.;Yuan,J.;Hu,Y.NewinsightsintoPaeoniaceaeusedasmedicinalplantsinChina. Sci. Rep. 2019,9,18469.
+[CrossRef][PubMed]
+245. Sun, X.; Cao, Y.B.; Hu, L.F.; Yang, Y.P.; Li, J.; Wang, F.; Liu, C.F. ASICs mediate the modulatory effect by paeoniflorin on
+alpha-synucleinautophagicdegradation.BrainRes.2011,1396,77–87.[CrossRef]
+246. Yang,L.-Y.;Greig,N.H.;Tweedie,D.;Jung,Y.J.;Chiang,Y.-H.;Hoffer,B.J.;Miller,J.P.;Chang,K.-H.;Wang,J.-Y.Thep53inactiva-
+torspifithrin-µandpifithrin-αmitigateTBI-inducedneuronaldamagethroughregulationofoxidativestress,neuroinflammation,
+autophagyandmitophagy.Exp.Neurol.2020,324,113135.[CrossRef]
+247. Duan,W.;Zhu,X.;Ladenheim,B.;Yu,Q.-S.;Guo,Z.;Oyler,J.;Cutler,R.G.;Cadet,J.L.;Greig,N.H.;Mattson,M.P.p53inhibitors
+preservedopamineneuronsandmotorfunctioninexperimentalparkinsonism. Ann. Neurol. 2002,52,597–606. [CrossRef]
+[PubMed]
+248. Shin,E.-J.;Nam,Y.; Lee,J.W.; Nguyen,P.-K.T.;Yoo,J.E.;Tran,T.-V.;Jeong,J.H.; Jang,C.-G.; Oh,Y.J.; Youdim,M.B.H.; etal.
+N-Methyl,N-propynyl-2-phenylethylamine(MPPE),aselegilineanalog,attenuatesMPTP-induceddopaminergictoxicitywith
+guaranteedbehavioralsafety:Involvementofinhibitionsofmitochondrialoxidativeburdensandp53gene-elicitedpro-apoptotic
+change.Mol.Neurobiol.2016,53,6251–6269.[CrossRef][PubMed]
+249. Hoshino,A.;Ariyoshi,M.;Okawa,Y.;Kaimoto,S.;Uchihashi,M.;Fukai,K.;Iwai-Kanai,E.;Ikeda,K.;Ueyama,T.;Ogata,T.;etal.
+Inhibitionofp53preservesParkin-mediatedmitophagyandpancreaticbeta-cellfunctionindiabetes.Proc.Natl.Acad.Sci.USA
+2014,111,3116–3121.[CrossRef]
+250. Santini,E.;Heiman,M.;Greengard,P.;Valjent,E.;Fisone,G.InhibitionofmTORsignalinginParkinson’sdiseaseprevents
+L-DOPA-induceddyskinesia.Sci.Signal.2009,2,ra36.[CrossRef][PubMed]
+251. Pan,T.;Rawal,P.;Wu,Y.;Xie,W.;Jankovic,J.;Le,W.Rapamycinprotectsagainstrotenone-inducedapoptosisthroughautophagy
+induction.Neuroscience2009,164,541–551.[CrossRef][PubMed]
+252. Tain, L.S.; Mortiboys, H.; Tao, R.N.; Ziviani, E.; Bandmann, O.; Whitworth, A.J. Rapamycin activation of 4E-BP prevents
+parkinsoniandopaminergicneuronloss.Nat.Neurosci.2009,12,1129–1135.[CrossRef][PubMed]
+253. Malagelada,C.;Jin,Z.H.;Jackson-Lewis,V.;Przedborski,S.;Greene,L.A.Rapamycinprotectsagainstneurondeathininvitro
+andinvivomodelsofParkinson’sdisease.J.Neurosci.2010,30,1166–1175.[CrossRef]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 38of40
+254. Maiese,K.;Chong,Z.Z.;Shang,Y.C.;Wang,S.mTOR:Ontargetfornoveltherapeuticstrategiesinthenervoussystem.Trends
+Mol.Med.2013,19,51–60.[CrossRef]
+255. Bai,X.;Wey,M.C.;Fernandez,E.;Hart,M.J.;Gelfond,J.;Bokov,A.F.;Rani,S.;Strong,R.Rapamycinimprovesmotorfunction,
+reduces4-hydroxynonenaladductedproteininbrain,andattenuatessynapticinjuryinamousemodelofsynucleinopathy.
+Pathobiol.AgingAgeRelat.Dis.2015,5,28743.[CrossRef][PubMed]
+256. Li, X.-z.; Chen, X.-p.; Zhao, K.; Bai, L.-m.; Zhang, H.; Zhou, X.-p. Therapeuticeffectsofvalproatecombinedwithlithium
+carbonateonMPTP-inducedParkinsonisminmice:Possiblemediationthroughenhancedautophagy.Int.J.Neurosci.2012,123,
+73–79.[CrossRef]
+257. Price,P.A.;Parkes,J.D.;Marsden,C.D.Sodiumvalproateinthetreatmentoflevodopa-induceddyskinesia.J.Neurol.Neurosurg.
+Psychiatry1978,41,702–706.[CrossRef][PubMed]
+258. Nutt,J.G.;Williams,A.C.;Calne,D.B.EffectofsodiumvalproateonparkinsonismandL-DOPAinduceddyskinesia.BrainRes.
+Bull.1980,5,589–593.[CrossRef]
+259. Ristic,A.J.;Vojvodic,N.;Jankovic,S.;Sindelic,A.;Sokic,D.Thefrequencyofreversibleparkinsonismandcognitivedecline
+associatedwithvalproatetreatment: Astudyof364patientswithdifferenttypesofepilepsy. Epilepsia2006, 47, 2183–2185.
+[CrossRef][PubMed]
+260. Silver,M.;Factor,S.A.Valproicacid-inducedparkinsonism:Levodoparesponsivenesswithdyskinesia.Park.Relat.Disord.2013,
+19,758–760.[CrossRef]
+261. Büttner,S.;Broeskamp,F.;Sommer,C.;Markaki,M.;Habernig,L.;Alavian-Ghavanini,A.;Carmona-Gutierrez,D.;Eisenberg,T.;
+Michael,E.;Kroemer,G.;etal.Spermidineprotectsagainstα-synucleinneurotoxicity.CellCycle2014,13,3903–3908.[CrossRef]
+[PubMed]
+262. Saiki,S.; Sasazawa,Y.; Fujimaki,M.; Kamagata,K.; Kaga,N.; Taka,H.; Li,Y.; Souma,S.; Hatano,T.; Imamichi,Y.; etal. A
+metabolicprofileofpolyaminesinparkinsondisease:Apromisingbiomarker.Ann.Neurol.2019,86,251–263.[CrossRef]
+263. Yang,L.;Zhao,K.;Calingasan,N.Y.;Luo,G.;Szeto,H.H.;Beal,M.F.Mitochondriatargetedpeptidesprotectagainst1-methyl-4-
+phenyl-1,2,3,6-tetrahydropyridineneurotoxicity.Antioxid.RedoxSignal.2009,11,2095–2104.[CrossRef][PubMed]
+264. Jin,H.;Kanthasamy,A.;Ghosh,A.;Anantharam,V.;Kalyanaraman,B.;Kanthasamy,A.G.Mitochondria-targetedantioxidants
+fortreatmentofParkinson’sdisease:Preclinicalandclinicaloutcomes.Biochim.Biophys.Acta2014,1842,1282–1294.[CrossRef]
+[PubMed]
+265. Escribano-López,I.;deMarañon,A.M.;Iannantuoni,F.;López-Domènech,S.;Abad-Jiménez,Z.;Díaz,P.;Solá,E.;Apostolova,
+N.;Rocha,M.;Víctor,V.M.ThemitochondrialantioxidantSS-31modulatesoxidativestress,endoplasmicreticulumstress,and
+autophagyintype2diabetes.J.Clin.Med.2019,8,1322.[CrossRef]
+266. Muller,S.Excipients:Notsoinert?whentheexcipientplaystheroleofanactivesubstance,asexemplifiedbysystemiclupus.
+SwissMed.Wkly.2018,148,w14631.[CrossRef]
+267. DeBosch,B.J.;Heitmeier,M.R.;Mayer,A.L.;Higgins,C.B.;Crowley,J.R.;Kraft,T.E.;Chi,M.;Newberry,E.P.;Chen,Z.;Finck,B.N.;
+etal.Trehaloseinhibitssolutecarrier2A(SLC2A)proteinstoinduceautophagyandpreventhepaticsteatosis.Sci.Signal.2016,
+9,ra21.[CrossRef]
+268. Sarkar,S.;Davies,J.E.;Huang,Z.;Tunnacliffe,A.;Rubinsztein,D.C.Trehalose,anovelmTOR-independentautophagyenhancer,
+acceleratestheclearanceofmutanthuntingtinandα-synuclein.J.Biol.Chem.2007,282,5641–5652.[CrossRef]
+269. Rusilowicz-Jones,E.V.; Barone,F.G.; Lopes,F.M.; Stephen,E.; Mortiboys,H.; Urbé,S.; Clague,M.J.Benchmarkingahighly
+selectiveUSP30inhibitorforenhancementofmitophagyandpexophagy.bioRxiv2021.[CrossRef][PubMed]
+270. Suresh,S.N.;Chavalmane,A.K.;Pillai,M.;Ammanathan,V.;Vidyadhara,D.J.;Yarreiphang,H.;Rai,S.;Paul,A.;Clement,J.P.;
+Alladi,P.A.;etal.ModulationofautophagybyasmallmoleculeinverseagonistofERRαIsneuroprotective.Front.Mol.Neurosci.
+2018,11,109.[CrossRef]
+271. Fleming,A.;Noda,T.;Yoshimori,T.;Rubinsztein,D.Chemicalmodulatorsofautophagyasbiologicalprobesandpotential
+therapeutics.Nat.Chem.Biol.2011,7,9–17.[CrossRef]
+272. Javed,H.;NagoorMeeran,M.F.;Azimullah,S.;Adem,A.;Sadek,B.;Ojha,S.K.Plantextractsandphytochemicalstargeting
+alpha-synucleinaggregationinParkinson’sdiseasemodels.Front.Pharmacol.2018,9,1555.
+273. Vucicevic,L.;Misirkic-Marjanovic,M.;Harhaji-Trajkovic,L.;Maric,N.;Trajkovic,V.Mechanismsandtherapeuticsignificanceof
+autophagymodulationbyantipsychoticdrugs.CellStress2018,2,282–291.[CrossRef]
+274. Thellung,S.;Corsaro,A.;Nizzari,M.;Barbieri,F.;Florio,T.Autophagyactivatordrugs:Anewopportunityinneuroprotection
+frommisfoldedproteintoxicity.Int.J.Mol.Sci.2019,20,901.[CrossRef][PubMed]
+275. Spencer,B.;Potkar,R.;Trejo,M.;Rockenstein,E.;Patrick,C.;Gindi,R.;Adame,A.;Wyss-Coray,T.;Masliah,E.Beclin1gene
+transferactivatesautophagyandamelioratestheneurodegenerativepathologyinalpha-synucleinmodelsofParkinson’sand
+Lewybodydiseases.J.Neurosci.2009,29,13578–13588.[CrossRef]
+276. Perrone,L.;Squillaro,T.;Napolitano,F.;Terracciano,C.;Sampaolo,S.;Melone,M.A.B.Theautophagysignalingpathway: A
+potentialmultifunctionaltherapeutictargetofcurcumininneurologicalandneuromusculardiseases.Nutrients2019,11,1881.
+[CrossRef]
+277. Maegawa,G.H.B.;Tropak,M.B.;Buttner,J.D.;Rigat,B.A.;Fuller,M.;Pandit,D.;Tang,L.;Kornhaber,G.J.;Hamuro,Y.;Clarke,
+J.T.R.;etal.IdentificationandcharacterizationofambroxolasanenzymeenhancementagentforGaucherdisease.J.Biol.Chem.
+2009,284,23502–23516.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 39of40
+278. Ambrosi,G.;Ghezzi,C.;Zangaglia,R.;Levandis,G.;Pacchetti,C.;Blandini,F.Ambroxol-inducedrescueofdefectiveglucocere-
+brosidaseisassociatedwithincreasedLIMP-2andsaposinClevelsinGBA1mutantParkinson’sdiseasecells.Neurobiol.Dis.
+2015,82,235–242.[CrossRef][PubMed]
+279. Migdalska-Richards,A.;Daly,L.;Bezard,E.;Schapira,A.H.V.Ambroxoleffectsinglucocerebrosidaseandα-synucleintransgenic
+mice.Ann.Neurol.2016,80,766–775.[CrossRef]
+280. Magalhaes,J.;Gegg,M.E.;Migdalska-Richards,A.;Schapira,A.H.Effectsofambroxolontheautophagy-lysosomepathwayand
+mitochondriainprimarycorticalneurons.Sci.Rep.2018,8,1385.[CrossRef]
+281. Mullin,S.;Smith,L.;Lee,K.;D’Souza,G.;Woodgate,P.;Elflein,J.;Hällqvist,J.;Toffoli,M.;Streeter,A.;Hosking,J.;etal.Ambroxol
+forthetreatmentofpatientswithParkinsondiseasewithandwithoutglucocerebrosidasegenemutations:Anonrandomized,
+noncontrolledtrial.JAMANeurol.2020,77,427–434.[CrossRef]
+282. Albani,D.;Polito,L.;Batelli,S.;DeMauro,S.;Fracasso,C.;Martelli,G.;Colombo,L.;Manzoni,C.;Salmona,M.;Caccia,S.;etal.
+TheSIRT1activatorresveratrolprotectsSK-N-BEcellsfromoxidativestressandagainsttoxicitycausedbyalpha-synucleinor
+amyloid-beta(1-42)peptide.J.Neurochem.2009,110,1445–1456.[CrossRef]
+283. Wu,Y.;Li,X.;Zhu,J.X.;Xie,W.;Le,W.;Fan,Z.;Jankovic,J.;Pan,T.Resveratrol-activatedAMPK/SIRT1/autophagyincellular
+modelsofParkinson’sdisease.Neurosignals2011,19,163–174.[CrossRef][PubMed]
+284. Rodríguez-Hernández,Á.;Cordero,M.D.;Salviati,L.;Artuch,R.;Pineda,M.;Briones,P.;GómezIzquierdo,L.;Cotán,D.;Navas,
+P.;Sánchez-Alcázar,J.A.CoenzymeQdeficiencytriggersmitochondriadegradationbymitophagy. Autophagy2009,5,19–32.
+[CrossRef][PubMed]
+285. Huang,J.Z.;Chen,Y.Z.;Su,M.;Zheng,H.F.;Yang,Y.P.;Chen,J.;Liu,C.F.dl-3-n-Butylphthalidepreventsoxidativedamageand
+reducesmitochondrialdysfunctioninanMPP(+)-inducedcellularmodelofParkinson’sdisease.Neurosci.Lett.2010,475,89–94.
+[CrossRef][PubMed]
+286. Zhou, H.; Ye, M.; Xu, W.; Yu, M.; Liu, X.; Chen, Y. DL-3-n-butylphthalide therapy for Parkinson’s disease: A randomized
+controlledtrial.Exp.Ther.Med.2019,17,3800–3806.[CrossRef][PubMed]
+287. Wang,S.;Ma,F.;Huang,L.;Zhang,Y.;Peng,Y.;Xing,C.;Feng,Y.;Wang,X.;Peng,Y.Dl-3-n-Butylphthalide(NBP):Apromising
+therapeuticagentforischemicstroke.CNSNeurol.Disord.DrugTargets2018,17,338–347.[CrossRef]
+288. Xiong,N.;Huang,J.;Chen,C.;Zhao,Y.;Zhang,Z.;Jia,M.;Zhang,Z.;Hou,L.;Yang,H.;Cao,X.;etal.Dl-3-n-butylphthalide,a
+naturalantioxidant,protectsdopamineneuronsinrotenonemodelsforParkinson’sdisease.Neurobiol.Aging2012,33,1777–1791.
+[CrossRef][PubMed]
+289. Tian,A.;Ma,X.;Li,H.;Zhang,R.Dl-3n-butylphthalideimprovesspatiallearningandmemoryinratswithvasculardementiaby
+reducingautophagyviaregulationofthemTORsignalingpathway.Exp.Ther.Med.2020,19,1940–1946.[CrossRef][PubMed]
+290. Zheng,D.;Zhang,Y.;Peng,T.Abstract20228:Nicotinamideribosideimprovesautophagicfluxandpreventsdoxorubicin-induced
+cardiacinjury.Circulation2017,136,A20228.
+291. Maiese,K.Newinsightsfornicotinamide:Metabolicdisease,autophagy,andmTOR.Front.Biosci.2020,25,1925–1973.[CrossRef]
+[PubMed]
+292. Hebron,M.L.;Lonskaya,I.;Moussa,C.E.-H.Nilotinibreverseslossofdopamineneuronsandimprovesmotorbehaviorvia
+autophagicdegradationofα-synucleininParkinson’sdiseasemodels.Hum.Mol.Genet.2013,22,3315–3328.[CrossRef]
+293. Wang,B.;Abraham,N.;Gao,G.;Yang,Q.DysregulationofautophagyandmitochondrialfunctioninParkinson’sdisease.Transl.
+Neurodegener.2016,5,19.[CrossRef]
+294. Issa,A.-R.;Sun,J.;Petitgas,C.;Mesquita,A.;Dulac,A.;Robin,M.;Mollereau,B.;Jenny,A.;Chérif-Zahar,B.;Birman,S.The
+lysosomalmembraneproteinLAMP2ApromotesautophagicfluxandpreventsSNCA-inducedParkinsondisease-likesymptoms
+intheDrosophilabrain.Autophagy2018,14,1898–1910.[CrossRef][PubMed]
+295. Anguiano,J.;Garner,T.P.;Mahalingam,M.;Das,B.C.;Gavathiotis,E.;Cuervo,A.M.Chemicalmodulationofchaperone-mediated
+autophagybyretinoicacidderivatives.Nat.Chem.Biol.2013,9,374–382.[CrossRef]
+296. Bonam,S.R.;Ruff,M.;Muller,S.HSPA8/HSC70inimmunedisorders:Amolecularrheostatthatadjustschaperone-mediated
+autophagysubstrates.Cells2019,8,849.[CrossRef][PubMed]
+297. Renna,M.;Jimenez-Sanchez,M.;Sarkar,S.;Rubinsztein,D.C.Chemicalinducersofautophagythatenhancetheclearanceof
+mutantproteinsinneurodegenerativediseases.J.Biol.Chem.2010,285,11061–11067.[CrossRef]
+298. Rubinsztein,D.C.;Codogno,P.;Levine,B.Autophagymodulationasapotentialtherapeutictargetfordiversediseases.Nat.Rev.
+DrugDiscov.2012,11,709–730.[CrossRef]
+299. Gros,F.;Muller,S.Pharmacologicalregulatorsofautophagyandtheirlinkwithmodulatorsoflupusdisease.Br.J.Pharmacol.
+2014,171,4337–4359.[CrossRef]
+300. Levine,B.;Packer,M.;Codogno,P.Developmentofautophagyinducersinclinicalmedicine.J.Clin.Investig.2015,125,14–24.
+[CrossRef][PubMed]
+301. Mardones,P.;Rubinsztein,D.C.;Hetz,C.Mysterysolved:Trehalosekickstartsautophagybyblockingglucosetransport. Sci.
+Signal.2016,9,fs2.[CrossRef][PubMed]
+302. Hill, S.E.; Colon-Ramos, D.A.Thejourneyofthesynapticautophagosome: Acellbiologicalperspective. Neuron2020, 105,
+961–973.[CrossRef][PubMed]
+303. Li, B.; Wang, F.; Schall, N.; Muller, S.RescueofautophagyandlysosomedefectsinsalivaryglandsofMRL/lprmicebya
+therapeuticphosphopeptide.J.Autoimmun.2018,90,132–145.[CrossRef][PubMed]
+
+---PAGE BREAK---
+
+Cells2021,10,3547 40of40
+304. Brun,S.;Schall,N.;Bonam,S.R.;Bigaut,K.;Mensah-Nyagan,A.-G.;deSèze,J.;Muller,S.Anautophagy-targetingpeptideto
+treatchronicinflammatorydemyelinatingpolyneuropathies.J.Autoimmun.2018,92,114–125.[CrossRef][PubMed]
+305. Daubeuf,F.;Schall,N.;Petit-Demoulière,N.;Frossard,N.;Muller,S.Anautophagymodulatorpeptidepreventslungfunction
+decreaseandcorrectsestablishedinflammationinmurinemodelsofairwayallergy.Cells2021,10,2468.[CrossRef][PubMed]
+306. Baskaran,R.;Poornima,P.;Priya,L.B.;Huang,C.Y.;Padma,V.V.Neferinepreventsautophagyinducedbyhypoxiathrough
+activationofAkt/mTORpathwayandNrf2inmusclecells.Biomed.Pharmacother.2016,83,1407–1413.[CrossRef][PubMed]
+307. Wong,V.K.;Wu,A.G.;Wang,J.R.;Liu,L.;Law,B.Y.Neferineattenuatestheproteinlevelandtoxicityofmutanthuntingtinin
+PC-12cellsviainductionofautophagy.Molecules2015,20,3496–3514.[CrossRef][PubMed]
+308. Panda,P.K.;Fahrner,A.;Vats,S.;Seranova,E.;Sharma,V.;Chipara,M.;Desai,P.;Torresi,J.;Rosenstock,T.;Kumar,D.;etal.
+Chemicalscreeningapproachesenablingdrugdiscoveryofautophagymodulatorsforbiomedicalapplicationsinhumandiseases.
+Front.CellDev.Biol.2019,7,38.[CrossRef]
+309. Suresh,S.N.;Chakravorty,A.;Giridharan,M.;Garimella,L.;Manjithaya,R.Pharmacologicaltoolstomodulateautophagyin
+neurodegenerativediseases.J.Mol.Biol.2020,432,2822–2842.[CrossRef]
+310. Hatstat,A.K.;Ahrendt,H.D.;Foster,M.W.;Mayne,L.;Moseley,M.A.;Englander,S.W.;McCafferty,D.G.Characterizationof
+small-molecule-inducedchangesinParkinson’s-relatedtraffickingviathenedd4ubiquitinsignalingcascade.CellChem.Biol.
+2021,28,14.e19–25.e19.[CrossRef]
+311. Zhu,Y.;Shan,X.;Safarpour,F.;ErroGo,N.;Li,N.;Shan,A.;Huang,M.C.;Deen,M.;Holicek,V.;Ashmus,R.;etal.Pharmacological
+inhibitionofO-GlcNAcaseenhancesautophagyinbrainthroughanmTOR-independentpathway.ACSChem.Neurosci.2018,9,
+1366–1379.[CrossRef][PubMed]
+312. Ryan,P.;Xu,M.;Davey,A.K.;Danon,J.J.;Mellick,G.D.;Kassiou,M.;Rudrawar,S.O-GlcNAcmodificationprotectsagainst
+proteinmisfoldingandaggregationinneurodegenerativedisease.ACSChem.Neurosci.2019,10,2209–2221.[CrossRef]
+313. Whitworth,A.J.;Wes,P.D.;Pallanck,L.J.DrosophilamodelspioneeranewapproachtodrugdiscoveryforParkinson’sdisease.
+DrugDiscov.Today2006,11,119–126.[CrossRef]
+314. Chen-Plotkin,A.S.;Albin,R.;Alcalay,R.;Babcock,D.;Bajaj,V.;Bowman,D.;Buko,A.;Cedarbaum,J.;Chelsky,D.;Cookson,
+M.R.;etal.FindingusefulbiomarkersforParkinson’sdisease.Sci.Transl.Med.2018,10,eaam6003.[CrossRef][PubMed]
+315. Fisher,E.M.C.;Bannerman,D.M.Mousemodelsofneurodegeneration:Knowyourquestion,knowyourmouse.Sci.Transl.Med.
+2019,11,eaaq1818.[CrossRef][PubMed]
+
+---PAGE BREAK---
+

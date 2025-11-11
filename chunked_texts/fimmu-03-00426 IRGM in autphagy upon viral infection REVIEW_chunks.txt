@@ -1,0 +1,566 @@
+Chunk 1:
+MINIREVIEWARTICLE
+published:17January2013
+doi:10.3389/fimmu.2012.00426
+IRGM in autophagy and viral infections
+DenitsaS.Petkova,ChristopheViretandMathiasFaure*
+LaboratoryofAutophagy,InfectionsandImmunity,INSERM,U1111,CIRI,UniversitéLyon1,Lyon,France
+Editedby: Autophagyisacellautonomousprocessallowingeachindividualcelltofightintracellular
+ChristianMuenz,UniversityofZurich, pathogens.Autophagycandestroypathogenswithinthecytosol,andcanelicitinnateand
+Switzerland
+adaptiveimmuneresponsesagainstmicroorganisms.Nevertheless,numerouspathogens
+Reviewedby:
+havedevelopedmolecularstrategiesenablingthemtoavoidorevenexploitautophagyfor
+PhilippePierre,CentreNationaldeLa
+theirownbenefit.IRGM(immunity-relatedGTPasefamilyM)isahumanproteinrecently
+RechercheSceintifique,France
+JohnD.MacMicking,YaleUniversity highlighted for its contribution to autophagy upon infections. The physical association
+SchoolofMedicine,USA of IRGM with mitochondria and different autophagy-regulating proteins, ATG5, ATG10,
+*Correspondence: SH3GLB1, andLC3, contributetoexplainhowIRGMcouldregulateautophagy.Whereas
+MathiasFaure,Laboratoryof
+IRGMisinvolvedinautophagy-mediatedimmunityagainstbacteria,certainvirusesseemto
+Autophagy,InfectionsandImmunity,
+havedevelopedstrategiestomanipulateautophagythroughtheselectivetargetingofthis
+INSERM,U1111,CIRI,UniversitéLyon
+1,21AvenueTonyGarnier,69365 protein. Furthermore, irgm variants are linked to infection-associated human pathologies
+LyonCedex07,France. suchastheinflammatoryCrohn’sdisease.Here,wediscusshowIRGMmightcontribute
+e-mail:mathias.faure@inserm.fr
+tohumanautophagyuponviralinfection,andwhyitstargetingmightbebeneficialtovirus
+replication.
+Keywords:autophagy,IRGM,virus,infection,immunity,interferon
+INTRODUCTION The understanding of the molecular pathways linked to the
+Asobligatoryintracellularparasites,virusesarecontinuallyfaced proviralorantiviralfunctionsofautophagyisstillatitsbeginning,
+with the degradative mechanism of macroautophagy (thereafter especiallyregardingt
+
+Chunk 2:
+fection,andwhyitstargetingmightbebeneficialtovirus
+replication.
+Keywords:autophagy,IRGM,virus,infection,immunity,interferon
+INTRODUCTION The understanding of the molecular pathways linked to the
+Asobligatoryintracellularparasites,virusesarecontinuallyfaced proviralorantiviralfunctionsofautophagyisstillatitsbeginning,
+with the degradative mechanism of macroautophagy (thereafter especiallyregardingthemolecularinterplaybetweenvirusesand
+referredtoasautophagy;Figure1).Autophagycandestroyinfec- autophagyproteins. Thehumanimmunity-relatedGTPasefam-
+tiousvirionsorviruscomponentsthatareessentialforreplication ilyM(IRGM)proteinwasshowntobewidelytargetedbyRNA
+(Levine,2005;RichettaandFaure,2012).Furthermore,autophagy viruses,severalamongwhichcanexploitautophagyinhumancells
+can deliver viral genomes to TLR-containing endosomes, which to improve their replication (Gregoire etal., 2011, 2012). How-
+sets off synthesis of antiviral type I interferon (IFN-I; Lee etal., ever, how IRGM regulates autophagy upon infections remains
+2007). Autophagy can also contribute to virus-derived peptide unknown.Thisaspectmightbeofgreatinterestinseveralhuman
+presentationonclassIandclassIImajorhistocompatibilitycom- pathologiesforwhichirgmwasrecentlyfoundtobeinvolved.
++ +
+plex (MHC) molecules to trigger antiviral CD8 and CD4 T
+cells responses, respectively (English etal., 2009; Munz, 2009). IRGMANDAUTOPHAGYININFECTIONS
+Thus, autophagy is an intrinsic cellular antiviral process able to Unlike its mouse ortholog, the human irgm gene expression is
+enhanceinnateresponsesandtolinkthemtoadaptiveimmunity notunderthecontrolofIFN-γ(Bekpenetal.,2005).Whereas23
+tooptimizethefightagainstviruses. immune-relatedgenes(irg)genesexistinmiceandplayimmune-
+Numerousviruseshavedevelopedmolecularstrategiestocoun- relatedfunctions,theIRGM-mediatedcellautonomousresistance
+teract autophagy. Certain viruses developed properties enabling mechanisms have been first lost in primates due to deleterious
+them to inhibit the autopha
+
+Chunk 3:
+econtrolofIFN-γ(Bekpenetal.,2005).Whereas23
+tooptimizethefightagainstviruses. immune-relatedgenes(irg)genesexistinmiceandplayimmune-
+Numerousviruseshavedevelopedmolecularstrategiestocoun- relatedfunctions,theIRGM-mediatedcellautonomousresistance
+teract autophagy. Certain viruses developed properties enabling mechanisms have been first lost in primates due to deleterious
+them to inhibit the autophagy flux. For instance, herpes sim- mutations.However,irgmgenefunctionwasrestoredinsomepri-
+plex virus (HSV)-1 or the cytomegalovirus (CMV) can inhibit mates including Homo sapiens, possibly due to the insertion of
+autophagyinductionbytargetingBECLIN1(BECN1),anessen- a retroviral element that promotes its expression (Bekpen etal.,
+tialautophagy-associatedprotein,throughinteractionswithviral 2009). Inhuman,fivedifferentIRGMspliceisoformsthatdiffer
+proteins (Orvedahl etal., 2007; Chaumorcel etal., 2012). Other in their C-terminal ends could be expressed, but their individ-
+viruses avoid autophagy degradation by inhibiting autophago- ualendogenousexpressionhasnotyetbeendocumented(Bekpen
+somematurationsuchashumanimmunodeficiencyvirus(HIV)-1 etal.,2005;Singhetal.,2010);endogenousIRGMaswellasover-
+and influenza A virus which prevent autophagosome matura- expressed IRGMd isoform can localize in mitochondria (Singh
+tion through the physical interaction of one viral protein with etal.,2010;Gregoireetal.,2011).
+BECN1 (Gannage etal., 2009; Kyei etal., 2009). Finally, viruses One of the first molecular demonstrations of a role of
+caninduceacompleteproductiveautophagyprocessandexploit autophagyinimmuneresponsesagainstintracellularmicroorgan-
+itasasourceformetabolitesorasaplatformforimprovingtheir isms, involved the murine ortholog of IRGM, IRGM1 (Gutier-
+ownreplication(Jacksonetal.,2005;HeatonandRandall,2010). rez etal., 2004), previously described to be involved in the
+Thus, host-virus co-evolution may have led to the selection of vacuolar trafficking of phagosomes containing Mycobacter
+
+Chunk 4:
+nimmuneresponsesagainstintracellularmicroorgan-
+itasasourceformetabolitesorasaplatformforimprovingtheir isms, involved the murine ortholog of IRGM, IRGM1 (Gutier-
+ownreplication(Jacksonetal.,2005;HeatonandRandall,2010). rez etal., 2004), previously described to be involved in the
+Thus, host-virus co-evolution may have led to the selection of vacuolar trafficking of phagosomes containing Mycobacterium
+very different mechanisms used by viruses to avoid or exploit tuberculosis(MacMickingetal.,2003). M.tuberculosisentrapped
+autophagy. within phagosomes can avoid its destruction by preventing
+www.frontiersin.org January2013|Volume3|Article426|1
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 1 — #1
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+FIGURE1|Generalstepsofmammalianautophagy.Autophagyengulfs independentselectiveautophagies(forschematicsimplification,allwere
+portionsofthecytosolthroughthreemainsteps.Thenucleationinducesthe representedwithinonesingleautophagosome).Autophagosomeultimately
+formationofanisolationmembranewhichcouldemergefromdifferent fuseswithlysosomesduringthematurationsteptoformautolysosomes
+membranesources(theendoplasmicreticulum,theGolgiapparatus,the wheredegradationoccurs.Someofthecrucialproteinsinvolvedinthe
+plasmamembrane,themitochondria)toformaphagophorewhichelongates differentphasesofautophagyareindicated.Severalvirusescaninducea
+toformdouble-membranedautophagosomevesicles.Autophagosomecan completeautophagyflux,asMeVorChikV,whereasotherscaninhibit
+sequestercytosolicmaterialincludingsenescentorganellessuchas autophagosomematuration,asHIV-1andHCV,inordertoimprovetheir
+mitochondria,long-livedproteinsorintracellularpathogens,through replication(seetextfordetails).
+phagosome fusion with lysosomes but the rerouting of M. familiesrevealedIRGMasthemosttargetedautophagy-associated
+tuberculosis-containing phagosomes to the autophagic machin- proteinbytheseviruses.IRGMcaninteractwith12viralproteins
+erycanultimatelydegradethebacteria.Thetreatmentof
+
+Chunk 5:
+,inordertoimprovetheir
+mitochondria,long-livedproteinsorintracellularpathogens,through replication(seetextfordetails).
+phagosome fusion with lysosomes but the rerouting of M. familiesrevealedIRGMasthemosttargetedautophagy-associated
+tuberculosis-containing phagosomes to the autophagic machin- proteinbytheseviruses.IRGMcaninteractwith12viralproteins
+erycanultimatelydegradethebacteria.Thetreatmentofmurine belonging to five different viruses, Chikungunya virus (ChikV),
+macrophageswithIFN-γinducesautophagyviaIRGM1andpro- Mumps virus (MuV), Hepatitis C virus (HCV), Measles virus
+tects from M. tuberculosis (Gutierrez etal., 2004; Singh etal., (MeV), and HIV-1 (Gregoire etal., 2011). Except for MuV for
+2006).IRGM-mediatedautophagyalsocontributestoprotection whom no autophagy-related studies were yet reported, all other
+in human cells against intracellular M. tuberculosis, Escherichia virusesmanipulateautophagy.
+coli, and Salmonella typhimurium (Singh etal.,2006; McCarroll
+etal.,2008;Lapaquetteetal.,2010;Brestetal.,2011).Thefactthat IRGMANDVIRUSESEXPLOITINGTHEAUTOPHAGYFLUX
+thereappearstobenoroleforIRGMorforitsmurineortholog Measles virus infection increases the formation of de novo
+IRGM1intheregulationofautophagyinabsenceofinfectionsug- autophagosomesbyinducingtheautophagyflux(Figure1;Jou-
+gestsapathogen-specificfunctioninautophagyfortheseproteins bertetal.,2009;Meiffrenetal.,2010;Gregoireetal.,2011).Genetic
+(Gregoireetal.,2011;Matsuzawaetal.,2012). inhibition of autophagy limits MeV viral particles production,
+indicatingthatMeVexploitsautophagytoreplicate.Thereduced
+IRGMINVIRUS-MEDIATEDAUTOPHAGY expressionof cellularIRGMwithspecificsiRNAdecreasedMeV
+IRGMISACOMMONTARGETOFRNAVIRUSES replicationinHeLacells. Furthermore,thenon-structuralMeV-
+RNA viruses genome encodes very few proteins including non- CproteincaninteractwithIRGM,anditssingleoverexpression
+structural proteins that are often dedicated to prevent antiviral induces autophagy through an IRGM-dependent pathway (Gre-
+
+
+Chunk 6:
+DIATEDAUTOPHAGY expressionof cellularIRGMwithspecificsiRNAdecreasedMeV
+IRGMISACOMMONTARGETOFRNAVIRUSES replicationinHeLacells. Furthermore,thenon-structuralMeV-
+RNA viruses genome encodes very few proteins including non- CproteincaninteractwithIRGM,anditssingleoverexpression
+structural proteins that are often dedicated to prevent antiviral induces autophagy through an IRGM-dependent pathway (Gre-
+responses (Katze etal., 2008). To optimize replication, individ- goire etal., 2011). Thus, in the course of MeV infection, the
+ualviralproteinscouldtargetseveraldifferenthost-cellproteins MeV-C/IRGM interaction might contribute to the exploitation
+tocounteractcellularantiviralresponses.Alternatively,viralpro- ofautophagybyMeV.
+teinscouldbededicatedtotheefficienttargetingoffewhost-cell Chikungunyavirusinfectionalsoinducestheautophagyflux
+proteins to counteract essential biological functions. The analy- (Figure 1; Krejbich-Trotot etal., 2011; Joubert etal., 2012).
+sis of the interactions between 44 autophagy-associated human WhereasinhibitionofautophagylimitsChikVviralparticlespro-
+proteins and 83 viral proteins belonging to different RNA virus duction, the experimental promotion of autophagy improved
+FrontiersinImmunology|AntigenPresentingCellBiology January2013|Volume3|Article426|2
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 2 — #2
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+its replication (Krejbich-Trotot etal., 2011). ChikV replication Thus, virusesthatmanipulateautophagyeitherbybenefiting
+is required to induce autophagy upon infection, and, as a fromthecompleteautophagyfluxorbyinhibitingthematuration
+consequence, autophagy delays cell death, which limits ChikV- step, target IRGM. Beyond its role in virus biology, how IRGM
+associated pathogenesis, but favors its dissemination (Joubert contributestotheorchestrationofautophagyuponviralinfection
+etal.,2012).ChikVinfectioninducesendoplasmicreticulumand remainstobeunderstood.
+oxidativestressesthatindependentlycant
+
+Chunk 7:
+hagyfluxorbyinhibitingthematuration
+consequence, autophagy delays cell death, which limits ChikV- step, target IRGM. Beyond its role in virus biology, how IRGM
+associated pathogenesis, but favors its dissemination (Joubert contributestotheorchestrationofautophagyuponviralinfection
+etal.,2012).ChikVinfectioninducesendoplasmicreticulumand remainstobeunderstood.
+oxidativestressesthatindependentlycantriggerautophagy(Jou-
+bertetal.,2012).However,itisunknownwhetherChikVproteins IRGMINAUTOPHAGYINDUCTIONUPONVIRALINFECTIONS
+contribute directly to autophagy induction and/or maintenance IRGMANDAUTOPHAGY-ASSOCIATEDPROTEINS
+in infected cells. Especially, IRGM was found to interact with Todate,onlyfourcellularproteinswereidentifiedtointeractwith
+ChikV-NS2andE3proteins(Gregoireetal.,2011).Itwillbeinter- IRGM:ATG5,ATG10,MAP1LC3C,andSH3GLB1(Figure2).All
+estingtodeterminewhetherChikV/IRGMinteractioncontributes theseproteinscontributetoautophagy,supportingtheideathat
+toautophagymanipulation. IRGMplaysanessentialroleinthisprocess(Gregoireetal.,2011).
+ATG10, aconjugatingE2-likeprotein, contributestotheassem-
+IRGMANDVIRUSESINHIBITINGAUTOPHAGYMATURATION bly of the ATG12/ATG5 complex that binds ATG16L1 to form
+During HIV-1 infection, autophagy manipulation strategies macromolecularATG12/ATG5/ATG16L1 complexes essential for
+dependonthetypeofinfectedcells.TheexpositionofHIV-1-ENV the elongation of the phagophore (Figure 1; Xie and Klionsky,
+proteinonmembranesofinfectedcellsinducesautophagyinunin- 2007).MAP1LC3CisamemberoftheMAP1LC3(knownasLC3)
++
+fectedCD4 Tcellsleadingtotheirapoptoticcelldeath(Espert sub-familyandisalsorequiredforelongationofthephagophore
++
+etal.,2006).However,HIV-1inhibitsautophagyininfectedCD4 throughlipidationwithphosphatidylethanolamineandanchoring
+Tcells,whichfacilitatesreplication(Espertetal.,2009). Inden- withintheextendingphagophore(Figure1;Weidbergetal.,2010).
+dritic cells (DC),HIV-1 inhibits autophagy through exhaustion Finally,SH3GLB1(alsoknownasBif-1)isapositiver
+
+Chunk 8:
+t sub-familyandisalsorequiredforelongationofthephagophore
++
+etal.,2006).However,HIV-1inhibitsautophagyininfectedCD4 throughlipidationwithphosphatidylethanolamineandanchoring
+Tcells,whichfacilitatesreplication(Espertetal.,2009). Inden- withintheextendingphagophore(Figure1;Weidbergetal.,2010).
+dritic cells (DC),HIV-1 inhibits autophagy through exhaustion Finally,SH3GLB1(alsoknownasBif-1)isapositiveregulatorof
+of the mTOR signaling pathway (Blanchet etal., 2010). How- thenucleationprocessthatinitiatesautophagosomeformation,via
+ever,autophagyisinducedinHIV-1-infectedmacrophageswhere itsinteractionwithUVRAG,aproteinoftheBECN1/VPS34com-
+HIV-1–NEFproteincaninteractwithBECN1toinhibitthemat- plex.Innutrientdeprivedcells,SH3GLB1colocalizeswithATG5
+uration of autophagosomes, what is required for an efficient and LC3 to the autophagosome and potentiates the activation
+replication of HIV-1 (Espert etal.,2009; Kyei etal.,2009). NEF of the class III PI(3)-kinase VPS34 to promote autophagosome
+can also interact with IRGM and the overexpression of NEF biogenesis (Figure 2; Takahashi etal., 2007). Thus, all the pro-
+induces an IRGM-dependent accumulation of autophagosomes teins known to interact with IRGM regulate one of the initial
+(Kyeietal.,2009;Gregoireetal.,2011).Thus,whileNEF–BECN1 stepsofautophagosomebiogenesis,suggestingthatIRGMmight
+interaction could prevent autophagosome maturation, NEF– contributetothenucleationand/ortheelongationofautophagic
+IRGMinteractioncouldbeinvolvedinautophagyinductionupon vesiclesthroughitsinteractionwithoneorseveralof thesepro-
+HIV-1 infection in macrophages. Through its interaction with teins.Theseinteractionscouldbefacilitateduponviralinfection
+distinct autophagy-associated proteins, a unique HIV-1 protein (Figure2).ThroughthedampeningofantiviralIFN-Isynthesis,
+could finely regulate autophagy. Interestingly, a NEF deficient thistargetingmightbeof furtherbenefittovirusesasdiscussed
+strain of HIV-1 does not induce autophagosome accumulation, below
+
+Chunk 9:
+ges. Through its interaction with teins.Theseinteractionscouldbefacilitateduponviralinfection
+distinct autophagy-associated proteins, a unique HIV-1 protein (Figure2).ThroughthedampeningofantiviralIFN-Isynthesis,
+could finely regulate autophagy. Interestingly, a NEF deficient thistargetingmightbeof furtherbenefittovirusesasdiscussed
+strain of HIV-1 does not induce autophagosome accumulation, below.
+suggestingindeedthat,besidespreventingautophagosomematu-
+ration,NEFisinvolvedintheinductionof autophagybyHIV-1 IRGM,MITOCHONDRIA,AUTOPHAGY,ANDIFN-IINVIRALINFECTIONS
+(Kyeietal.,2009). OverexpressedGFP-fusedIRGMdwassuggestedtobetranslocated
+Infection by HCV also induces autophagy. This induction is totheinnermembraneof mitochondriavia itsassociationwith
+independent of mTOR (Su etal.,2011; Shrivastava etal.,2012), cardiolipin (CL; Singh etal.,2010). CL is a phospholipid abun-
+and the contribution of the unfolded protein response remains dantintheinnermitochondrialmembranethatishoweveralso
+unclear (Sir etal.,2008; Mohl etal.,2012). However, autophagy foundintheoutermembraneandatthecontactsitesbetweenthe
+is required for an optimal HCV replication since inhibition of twomembranes(Schlameetal.,2000;SchugandGottlieb,2009).
+autophagy affects HCV replication (Dreux etal., 2009; Tanida ThusIRGMdmightalsobeassociatedtoCLlinkedtotheouter
+etal.,2009;Gregoireetal.,2011).ReportshaveshownthatHCV membraneofmitochondria,andexposedtothecytosol.Thefour
+infectioncouldeitherinduceacompleteautophagyfluxorinhibit other overexpressed GFP-fused IRGM isoforms (IRGMa/b/c/e)
+autophagosomematuration. Thisdiscrepancymightresultfrom were not found associated to mitochondria (Singh etal., 2010).
+themodelsusedand/orthekineticsof infection. HCVinfection However, endogenous IRGM expression, detected with an anti-
+was shown to prevent autophagosome maturation at an early bodywithputativeabilitytorecognizeallIRGMisoforms,isfound
+time of infection (Sir etal.,2008; Gregoire etal.,2011; Su etal., associated to mi
+
+Chunk 10:
+epancymightresultfrom were not found associated to mitochondria (Singh etal., 2010).
+themodelsusedand/orthekineticsof infection. HCVinfection However, endogenous IRGM expression, detected with an anti-
+was shown to prevent autophagosome maturation at an early bodywithputativeabilitytorecognizeallIRGMisoforms,isfound
+time of infection (Sir etal.,2008; Gregoire etal.,2011; Su etal., associated to mitochondria suggesting that: (i) all endogenous
+2011). At a later one a complete autophagy flux was reported IRGM can be located to mitochondria, (ii) IRGMd is the most
+(Ke and Chen, 2011; Mohl etal., 2012). Interestingly, a subge- expressedisoform,or(iii)duetopossiblydistinctfoldingamong
+nomic replicon expressing the non-structural NS3-5B proteins the isoforms, the epitope for the antibody is only accessible on
+induces autophagy (Mohl etal.,2012). Furthermore, IRGM can IRGMd(Figure2;Singhetal.,2010;Gregoireetal.,2011).Inter-
+interact with HCV-NS3, and the reduced expression of IRGM estingly, amongtheproteinsinteractingwithIRGMatleasttwo
+prevents HCV-induced and HCV-NS3-induced autophagy, and werefoundpartiallyassociatedwithmitochondria,SH3GLB1and
+limitsHCVreplication(Gregoireetal.,2011). ATG5. A fraction of SH3GLB1 localizes to mitochondria where
+www.frontiersin.org January2013|Volume3|Article426|3
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 3 — #3
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+FIGURE2|HypotheticalregulationofautophagybyIRGMupon processescouldbenefittovirusestoimprovetheirreplication.
+viralinfections.IRGMisassociatedtomitochondriaviacardiolipin(CL). NotethatMFN2-mediatedautophagyhasnotyetbeenreported
+Uponviralinfection,IRGMcouldinteractwithfourdifferentautophagy- inthecontextofviralinfection(seetextfordetails).Asrepresented,
+associatedproteinswhichcouldsupportautophagosomebiogenesisfrom viraldouble-stranded(ds)RNAcanberecognizedbyRIG-I.IFN-I
+mitochondriamembrane,byregulatingnucleationand/orelongationsteps inhibitionviaIRGMisnotyetdemonstrated(dashe
+
+Chunk 11:
+atMFN2-mediatedautophagyhasnotyetbeenreported
+Uponviralinfection,IRGMcouldinteractwithfourdifferentautophagy- inthecontextofviralinfection(seetextfordetails).Asrepresented,
+associatedproteinswhichcouldsupportautophagosomebiogenesisfrom viraldouble-stranded(ds)RNAcanberecognizedbyRIG-I.IFN-I
+mitochondriamembrane,byregulatingnucleationand/orelongationsteps inhibitionviaIRGMisnotyetdemonstrated(dashedline)and
+ofautophagy.IRGM-mediatedautophagymightcorrelatetoadecreaseof putativenotmitochondrialIRGMisoformsarenotrepresented
+IFN-IsynthesissimilarlytowhatwasdescribedforTUFMandMFN2.Both (seetextfordetails).
+it may contribute to the regulation of morphological dynamics Indeed,MFN2contributestothesupplyof mitochondriamem-
+of the outer mitochondrial membrane (Karbowski etal., 2004), branesforthebiogenesisofautophagosome(Haileyetal.,2010),
+and to mitochondria-dependent apoptotic signals by interact- andcandown-regulatetheproductionofIFN-Iuponviralinfec-
+ing with the proapoptotic protein BAX (Takahashi etal., 2005). tion by interacting with IPS-1 (Yasukawa etal.,2009). Similarly,
+ATG5 was also shown to associate with mitochondria through TUFM recruits the ATG5/ATG12 complex in order to induce
+its binding to IPS-1, a mitochondria-associated adaptor which autophagy,whileitpreventsRIG-1/IPS-1signaltransductionfor
+relays signals from viral genome-detecting cytosolic receptors IFN-IproductionviaitsinteractionwithNLRX1(Leietal.,2012).
+RIG-I and MDA5, in order to promote IFN-I synthesis. This The antagonistic activities of TUFM and MFN2 on autophagy
+interaction contributes to the down-regulation of IFN-I pro- andIFN-Iproductionwereshowntobenefittovirusreplication
+duction during viral infection (Jounai etal., 2007). A possible (Yasukawa etal., 2009; Lei etal., 2012). As IRGM is associated
+hypothesisforthemolecularcontributionofIRGMinautophagy tomitochondriaandmodulatesautophagyinductionuponvirus
+would be that IRGM interacts/recruits its protein partners at infection, it would be import
+
+Chunk 12:
+ion of IFN-I pro- andIFN-Iproductionwereshowntobenefittovirusreplication
+duction during viral infection (Jounai etal., 2007). A possible (Yasukawa etal., 2009; Lei etal., 2012). As IRGM is associated
+hypothesisforthemolecularcontributionofIRGMinautophagy tomitochondriaandmodulatesautophagyinductionuponvirus
+would be that IRGM interacts/recruits its protein partners at infection, it would be important to evaluate its contribution to
+the mitochondria to induce autophagy upon infections espe- theabilityofvirusestodampenIFN-Iproduction;alltheviruses
+cially as mitochondria is one possible source of membrane for described to date to target IRGM are known to inhibit IFN-
+autophagosomebiogenesis(Figures1and2;Haileyetal.,2010). I production. Thus, different mitochondrial proteins, including
+Furthermore, the IRGM targeting to mitochondria could allow IRGM,mighthavedualfunctionsuponvirusinfection,byinduc-
+viruses to limit IFN-I production similarly to two other mito- ing autophagy ultimately exploited by viruses, while restricting
+chondrial proteins, MFN2 and TUFM, which were shown to theinnateantiviralresponse;theselectivetargetingofthesepro-
+dampenIFN-Iproductionwhileinducingautophagy(Figure2). teins would offer an evident advantage for infectious viruses to
+FrontiersinImmunology|AntigenPresentingCellBiology January2013|Volume3|Article426|4
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 4 — #4
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+replicatewithinacell.Itremainshoweverpossiblethatcytosolic hypomorphicexpressionofatg16l1developsaCD-likepathology
+isoformsofIRGMcontributestoautophagyinductionuponviral inmiceonlyuponinfectionwithaviralstrainofmurinenorovirus
+infection. (Cadwell etal., 2010). This study pointed toward a genotype-
+specificviraltriggerofapathologyverysimilartoCD.Itwouldbe
+IRGMANDAUTOPHAGY-MEDIATEDVIRUS-DERIVEDPEPTIDEMHC interestingtoinvestigatetheroleofviralinfectionsinirgmvariant
+LOADING expressingCDpatients,forapossiblecontributionofvirus/IRGM
+It re
+
+Chunk 13:
+stoautophagyinductionuponviral inmiceonlyuponinfectionwithaviralstrainofmurinenorovirus
+infection. (Cadwell etal., 2010). This study pointed toward a genotype-
+specificviraltriggerofapathologyverysimilartoCD.Itwouldbe
+IRGMANDAUTOPHAGY-MEDIATEDVIRUS-DERIVEDPEPTIDEMHC interestingtoinvestigatetheroleofviralinfectionsinirgmvariant
+LOADING expressingCDpatients,forapossiblecontributionofvirus/IRGM
+It recently became clear that autophagy which is constitutively interactionsintheonsetorthedevelopmentofCD.
+active in antigen-presenting cells (APCs), can regulate adaptive
+immuneresponsesbypromotingtheaccessofantigensfromintra- IRGMINTB,GASTRICCANCER,ANDSLE
+cellularpathogenstocompartmentsthatassemblepeptide:MHC As mentioned above, IRGM contributes to the control of M.
+classIIcomplexesforpresentationtoCD4 + Tcells(Munz,2009). tuberculosisinmacrophagesviaautophagy.Interestingly,anirgm
+AmongvirusestargetingIRGM,itwasobservedthattheresponse polymorphismprotectsfromTBcausedbyEuro-Americansub-
+of HIV-1gag-specificCD4 + TcellstoDCthatprocessthevirus groupsofM.tuberculosis(Intemannetal.,2009).Itwasproposed
+was drastically reduced upon either pharmacological or genetic that when the polymorphism occurs, IRGM is more expressed
+inhibitionofautophagy,indicatingadeficientcapacitytoprocess resultinginenhancedautophagyandexplainingamoreefficient
+and present MHC class II-restricted HIV-1 determinants when destruction of bacteria. Conversely, several different polymor-
+autophagyisimpaired(Blanchetetal.,2010).Thenegativeregu- phismsintheirgmgenehavebeenfoundtoresultinanincreased
+lation of autophagy in DCs by HIV-1 could thus help the virus susceptibility to TB in Chinese and African American popula-
+evadeCD4 + Tcellresponses.AstopresentationbyMHCclassI tions (Che etal., 2010; King etal., 2011). In African American
+molecules,itisknownthatinmouseDCs,IRGM3/IGTP(another populations one CD-related polymorphism was associated pos-
+murine ortholog or IRGM) plays an important role in cross- itively with
+
+Chunk 14:
+Cs by HIV-1 could thus help the virus susceptibility to TB in Chinese and African American popula-
+evadeCD4 + Tcellresponses.AstopresentationbyMHCclassI tions (Che etal., 2010; King etal., 2011). In African American
+molecules,itisknownthatinmouseDCs,IRGM3/IGTP(another populations one CD-related polymorphism was associated pos-
+murine ortholog or IRGM) plays an important role in cross- itively with TB suggesting a possible link between CD and an
+presentation of phagocytosed protein antigens to conventional infectious etiology. Irgm polymorphism is possibly also a risk
+CD8 + T cells without impacting antigen presentation to CD4 + factor for gastric cancer (Burada etal.,2012). Although deregu-
+Tcells(Bougneresetal.,2009). lationofautophagyiswellestablishedtobeassociatedwithcancer
+(White,2012),aroleforIRGMinthesediseaseshastobefurther
+irgmVARIANTSINHUMANPATHOLOGIESANDVIRAL determined. Similarly,agenetic-associationstudysuggestedthat
+INFECTIONS irgm variants are linked to SLE, an autoimmune disease (Zhou
+etal.,2011).AroleofIRGMinthesediseasesremainstobefully
+Recent studies identified irgm variants as susceptibility genes
+depicted as well as a potential influence of viral infections on
+for Crohn’s disease (CD), tuberculosis (TB), gastric cancer and
+suchrole.
+autoimmunesystemiclupuserythematosus(SLE).
+CONCLUSION
+IRGM,CD,ANDVIRALINFECTION
+In an infected cell a virus has to counteract cell autonomous
+Crohn’sdiseaseisachronicinflammatoryboweldiseaseresulting
+defense mechanisms while exploiting elementary cellular pro-
+fromanaberrantimmuneresponsetowardtheintestinalflorathat
+cesses to replicate efficiently. By selectively targeting autophagy,
+leads to inflammation and tissue damages (Xavier etal., 2008).
+viruses might accomplish both. As discussed here, IRGM could
+Genome-wide association studies identified polymorphisms in
+beakeyproteinforautophagymanipulationuponviralinfection.
+twoautophagy-associatedgenes,atg16L1andirgm,thatarelinked
+ThemolecularorganizationinvolvingIRGMinau
+
+Chunk 15:
+ replicate efficiently. By selectively targeting autophagy,
+leads to inflammation and tissue damages (Xavier etal., 2008).
+viruses might accomplish both. As discussed here, IRGM could
+Genome-wide association studies identified polymorphisms in
+beakeyproteinforautophagymanipulationuponviralinfection.
+twoautophagy-associatedgenes,atg16L1andirgm,thatarelinked
+ThemolecularorganizationinvolvingIRGMinautophagyduring
+to CD. CD-associated irgm polymorphisms, that influence or
+viralinfectionsrequiresfurtherinvestigations.Whileinteractions
+not the primary protein sequence, were both reported (Parkes
+of IRGM with its protein partners were only observed in trans-
+etal., 2007; McCarroll etal., 2008; Moon etal., 2012). Inter-
+fectedcellsforthetimebeing,itwouldbeimportanttovisualize
+estingly, the gut mucosa of CD patients harbors an increased
+theseinteractionsbetweenendogenousproteinsandduringpro-
+amount of the pathogenicAdherent-invasive E. coli (AIEC) and
+ductiveinfections.Itwouldalsobecrucialtounderstandwhyand
+IRGM-dependentautophagycontributestofightpathogenicAIEC
+howIRGMplaysanantibacterialfunction,whereasitseemstoact
+(Lapaquetteetal.,2012). Moreover,microRNA(miR)-196binds
+asaproviralfactor.Furthermore,theroleofIRGMcouldbecell
+stronglytheirgmprotectivehaplotype,whereasexpressionofthe
+type-specificand,asdescribedforseveralautophagy-relatedpro-
+riskhaplotyperemainsintactthusleadingtooverallderegulation
+teins, IRGM might have non-autophagy-related functions upon
+ofIRGMexpression(Brestetal.,2011).miR-196wasfoundover-
+infections.Inregardsofthelinkofnumerousirgmvariantswith
+expressedininflamedileumandcolonofpatients,independently
+humanpathologies,thecomprehensionoftherole(s)ofIRGMin
+oftheprotectiveorriskirgmhaplotype.Asaresult,IRGMwasless
+autophagy-mediatedimmunitycouldbeofcrucialimportanceto
+expressed in individuals with the protective genotype. Further-
+fightinfectiousvirusesandhumanpathologies.
+more,thetransfectionofHEK293TcellswithmiR-196resultedin
+adecreasedautophagyflux,indic
+
+Chunk 16:
+amedileumandcolonofpatients,independently
+humanpathologies,thecomprehensionoftherole(s)ofIRGMin
+oftheprotectiveorriskirgmhaplotype.Asaresult,IRGMwasless
+autophagy-mediatedimmunitycouldbeofcrucialimportanceto
+expressed in individuals with the protective genotype. Further-
+fightinfectiousvirusesandhumanpathologies.
+more,thetransfectionofHEK293TcellswithmiR-196resultedin
+adecreasedautophagyflux,indicatingthatmiR-196actsasanega-
+tiveregulatorofautophagyviaIRGMuponAIECinfection.These ACKNOWLEDGMENTS
+studiessuggestedthatthecornerstoneofautophagyregulationby WeacknowledgegrantsfromINSERM,CNRS,UniversityLyon-1,
+IRGMuponinfectioncouldbeitsfinetunedlevelofexpression. InstitutuniversitairedeFranceandANR-08-JCJC-0064-01.Den-
+Interestingly, a viral infection-plus-susceptibility autophagy itsaS.PetkovaistherecipientofafellowshipfromLigueNationale
+geneinteractioncouldcontributetotheonsetofCD.Indeed,the ContreleCancer.
+www.frontiersin.org January2013|Volume3|Article426|5
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 5 — #5
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+REFERENCES English, L., Chemali, M., Duron, J., M., Kopito, R. R., etal. (2005). response. Cell. Microbiol. 14,
+Bekpen, C., Hunn, J. P., Rohde, C., Rondeau, C., Laplante, A., Gin- Subversion of cellular autophago- 791–807.
+Parvanova, I., Guethlein, L., Dunn, gras, D., etal. (2009). Autophagy somal machinery by RNA viruses. Lapaquette, P., Glasser, A. L., Huett,
+D.M.,etal.(2005).Theinterferon- enhancesthepresentationofendoge- PLoSBiol.3:e156.doi:10.1371/jour- A., Xavier, R. J., and Darfeuille-
+induciblep47(IRG)GTPasesinver- nous viral antigens on MHC class nal.pbio.0030156 Michaud,A.(2010).Crohn’sdisease-
+tebrates:lossofthecellautonomous ImoleculesduringHSV-1infection. Joubert, P. E., Meiffren, G., Gre- associated adherent-invasive E. coli
+resistancemechanisminthehuman Nat.Immunol.10,480–487. goire,I.P.,Pontini,G.,Richetta,C., areselectivelyfavouredbyimpaired
+lineage.GenomeBiol.6,R92. Espert,L.,Denizot,M.,Grima
+
+Chunk 17:
+nver- nous viral antigens on MHC class nal.pbio.0030156 Michaud,A.(2010).Crohn’sdisease-
+tebrates:lossofthecellautonomous ImoleculesduringHSV-1infection. Joubert, P. E., Meiffren, G., Gre- associated adherent-invasive E. coli
+resistancemechanisminthehuman Nat.Immunol.10,480–487. goire,I.P.,Pontini,G.,Richetta,C., areselectivelyfavouredbyimpaired
+lineage.GenomeBiol.6,R92. Espert,L.,Denizot,M.,Grimaldi,M., Flacher,M.,etal.(2009).Autophagy autophagytoreplicateintracellularly.
+Bekpen,C.,Marques-Bonet,T.,Alkan, Robert-Hebmann, V., Gay, B., Var- induction by the pathogen recep- Cell.Microbiol.12,99–113.
+C.,Antonacci,F.,Leogrande,M.B., banov,M.,etal. (2006). Autophagy tor CD46. Cell Host Microbe 6, Lee, H.K., Lund, J.M., Ramanathan,
+Ventura, M., etal. (2009). Death isinvolvedinTcelldeathafterbind- 354–366. B., Mizushima, N., andIwasaki, A.
+andresurrectionofthehumanIRGM ing of HIV-1 envelope proteins to Joubert, P. E., Werneke, S., de la (2007). Autophagy-dependent viral
+gene. PLoS Genet. 5:e1000403. doi: CXCR4. J. Clin. Invest. 116, 2161– Calle,C.,Guivel-Benhassine,F.,Gio- recognition by plasmacytoid den-
+10.1371/journal.pgen.1000403 2172. dini, A., Peduto, L., etal. (2012). driticcells.Science315,1398–1401.
+Blanchet, F.P., Moris, A., Nikolic, D. Espert, L., Varbanov, M., Robert- Chikungunya-induced cell death is Lei, Y., Wen, H., Yu, Y., Taxman,
+S., Lehmann, M., Cardinaud, S., Hebmann, V., Sagnier, S., Robbins, limited by ER and oxidative stress- D. J., Zhang, L., Widman, D. G.,
+Stalder, R., etal. (2010). Human I., Sanchez, F., etal. (2009). Dif- induced autophagy. Autophagy 8, etal.(2012).Themitochondrialpro-
+immunodeficiencyvirus-1inhibition ferential role of autophagy in CD4 1261–1263. teins NLRX1 and TUFM form a
+ofimmunoamphisomesindendritic TcellsandmacrophagesduringX4 Jounai,N.,Takeshita,F.,Kobiyama,K., complexthatregulatestypeIinter-
+cellsimpairsearlyinnateandadap- andR5HIV-1infection.PLoSONE Sawano,A.,Miyawaki,A.,Xin,K.Q., feronandautophagy. Immunity 36,
+tiveimmun
+
+Chunk 18:
+tal.(2012).Themitochondrialpro-
+immunodeficiencyvirus-1inhibition ferential role of autophagy in CD4 1261–1263. teins NLRX1 and TUFM form a
+ofimmunoamphisomesindendritic TcellsandmacrophagesduringX4 Jounai,N.,Takeshita,F.,Kobiyama,K., complexthatregulatestypeIinter-
+cellsimpairsearlyinnateandadap- andR5HIV-1infection.PLoSONE Sawano,A.,Miyawaki,A.,Xin,K.Q., feronandautophagy. Immunity 36,
+tiveimmuneresponses.Immunity32, 4:e5787. doi: 10.1371/journal.pone. etal. (2007). The Atg5 Atg12 con- 933–946.
+654–669. 0005787 jugateassociateswithinnateantivi- Levine, B. (2005). Eating oneself and
+Bougneres, L., Helft, J., Tiwari, S., Gannage,M.,Dormann,D.,Albrecht, ral immune responses. Proc. Natl. uninvited guests: autophagy-related
+Vargas, P., Chang, B. H., Chan, R.,Dengjel,J.,Torossi,T.,Ramer,P. Acad. Sci. U.S.A. 104, 14050– pathwaysincellulardefense.Cell120,
+L., etal. (2009). A role for lipid C.,etal.(2009).Matrixprotein2of 14055. 159–162.
+bodies in the cross-presentation of influenzaAvirusblocksautophago- Karbowski, M., Jeong, S. Y., and MacMicking, J.D., Taylor, G.A., and
+phagocytosedantigensbyMHCclass some fusion with lysosomes. Cell Youle, R. J. (2004). Endophilin B1 McKinney,J.D.(2003).Immunecon-
+I in dendritic cells. Immunity 31, HostMicrobe6,367–380. is required for the maintenance of troloftuberculosisbyIFN-gamma-
+232–244. Gregoire, I.P., Rabourdin-Combe, C., mitochondrial morphology. J. Cell inducible LRG-47. Science 302,
+Brest, P., Lapaquette, P., Souidi, M., andFaure,M.(2012).Autophagyand Biol.166,1027–1039. 654–659.
+Lebrigand, K., Cesaro, A., Vouret- RNAvirusinteractomesrevealIRGM Katze,M.G.,Fornek,J.L.,Palermo,R. Matsuzawa, T., Kim, B. H., Shenoy,
+Craviari, V., etal. (2011). A syn- as a common target. Autophagy 8, E.,Walters, K.A., andKorth, M.J. A. R., Kamitani, S., Miyake, M.,
+onymous variant in IRGM alters a 1136–1137. (2008). Innateimmunemodulation and Macmicking, J. D. (2012).
+bindingsiteformiR-196andcauses Gregoire, I. P., Richetta, C., Meyniel- by RNA vir
+
+Chunk 19:
+revealIRGM Katze,M.G.,Fornek,J.L.,Palermo,R. Matsuzawa, T., Kim, B. H., Shenoy,
+Craviari, V., etal. (2011). A syn- as a common target. Autophagy 8, E.,Walters, K.A., andKorth, M.J. A. R., Kamitani, S., Miyake, M.,
+onymous variant in IRGM alters a 1136–1137. (2008). Innateimmunemodulation and Macmicking, J. D. (2012).
+bindingsiteformiR-196andcauses Gregoire, I. P., Richetta, C., Meyniel- by RNA viruses: emerging insights IFN-gamma elicits macrophage
+deregulation of IRGM-dependent Schicklin, L., Borel, S., Pradezyn- fromfunctionalgenomics.Nat.Rev. autophagy via the p38 MAPK sig-
+xenophagy in Crohn’s disease. Nat. ski, F., Diaz, O., etal. (2011). Immunol.8,644–654. naling pathway. J. Immunol. 189,
+Genet.43,242–245. IRGM is a common target of RNA Ke,P.Y.,andChen,S.S.(2011).Activa- 813–818.
+Burada,F.,Plantinga,T.S.,Ioana,M., viruses that subvert the autophagy tionoftheunfoldedproteinresponse McCarroll, S. A., Huett, A., Kuballa,
+Rosentul,D.,Angelescu,C.,Joosten, network. PLoS Pathog. 7:e1002422. andautophagyafterhepatitisCvirus P., Chilewski, S. D., Landry, A.,
+L.A.,etal.(2012).IRGMgenepoly- doi:10.1371/journal.ppat.1002422 infectionsuppressesinnateantiviral Goyette, P., etal. (2008). Deletion
+morphismsandriskofgastriccancer. Gutierrez,M.G.,Master,S.S.,Singh, immunityinvitro.J.Clin.Invest.121, polymorphism upstream of IRGM
+J.Dig.Dis.13,360–365. S.B.,Taylor,G.A.,Colombo,M.I., 37–56. associatedwithalteredIRGMexpres-
+Cadwell,K.,Patel,K.K.,Maloney,N. andDeretic,V.(2004).Autophagyis King, K. Y., Lew, J. D., Ha, N. P., sionandCrohn’sdisease.Nat.Genet.
+S., Liu, T. C., Ng, A. C., Storer, adefensemechanisminhibitingBCG Lin, J. S., Ma, X., Graviss, E. A., 40,1107–1112.
+C. E., etal. (2010). Virus-plus- andMycobacteriumtuberculosissur- etal. (2011). Polymorphic allele of Meiffren,G.,Joubert,P.E.,Gregoire,I.
+susceptibilitygeneinteractiondeter- vival in infected macrophages. Cell humanIRGM1isassociatedwithsus- P.,Codogno,P.,Rabourdin-Combe,
+minesCrohn’sdiseasegeneAtg16L1 119,753–766. 
+
+Chunk 20:
+, adefensemechanisminhibitingBCG Lin, J. S., Ma, X., Graviss, E. A., 40,1107–1112.
+C. E., etal. (2010). Virus-plus- andMycobacteriumtuberculosissur- etal. (2011). Polymorphic allele of Meiffren,G.,Joubert,P.E.,Gregoire,I.
+susceptibilitygeneinteractiondeter- vival in infected macrophages. Cell humanIRGM1isassociatedwithsus- P.,Codogno,P.,Rabourdin-Combe,
+minesCrohn’sdiseasegeneAtg16L1 119,753–766. ceptibilitytotuberculosisinAfrican C.,andFaure,M.(2010).Pathogen
+phenotypes in intestine. Cell 141, Hailey,D.W.,Rambold,A.S.,Satpute- Americans.PLoSONE6:e16317.doi: recognition by the cell surface
+1135–1145. Krishnan, P., Mitra, K., Sougrat, 10.1371/journal.pone.0016317 receptor CD46 induces autophagy.
+Chaumorcel, M., Lussignol, M., R., Kim, P. K., etal. (2010). Krejbich-Trotot, P., Gay, B., Li-Pat- Autophagy6,299–300.
+Mouna, L., Cavignac, Y., Fahie, Mitochondriasupplymembranesfor Yuen,G.,Hoarau,J.J.,Jaffar-Bandjee, Mohl, B. P., Tedbury, P. R., Griffin,
+K., Cotte-Laffitte, J., etal. (2012). autophagosome biogenesis during M. C., Briant, L., etal. (2011). S., and Harris, M. (2012). Hep-
+Thehumancytomegalovirusprotein starvation.Cell141,656–667. Chikungunyatriggersanautophagic atitis C virus-induced autophagy is
+TRS1inhibitsautophagyviaitsinter- Heaton,N.S.,andRandall,G.(2010). processwhichpromotesviralreplica- independentoftheunfoldedprotein
+action with Beclin 1. J. Virol. 86, Dengue virus-induced autophagy tion.Virol.J.8,432. response.J.Virol.86,10724–10732.
+2571–2584. regulateslipidmetabolism.CellHost Kyei, G. B., Dinkins, C., Davis, A. Moon,C.M.,Shin,D.J.,Kim,S.W.,Son,
+Che,N.,Li,S.,Gao,T.,Zhang,Z.,Han, Microbe8,422–432. S., Roberts, E., Singh, S.B., Dong, N.H.,Park,A.,Park,B.,etal.(2012).
+Y.,Zhang,X.,etal.(2010).Identifica- Intemann, C. D., Thye, T., Niemann, C., etal. (2009). Autophagy path- Associationsbetweengeneticvariants
+tionofanovelIRGMpromotersingle S., Browne, E. N., Amanua Chin- way intersects with HIV-1 biosyn- intheIRGMgeneandinflammatory
+nucleotidepolymorphis
+
+Chunk 21:
+S.,Gao,T.,Zhang,Z.,Han, Microbe8,422–432. S., Roberts, E., Singh, S.B., Dong, N.H.,Park,A.,Park,B.,etal.(2012).
+Y.,Zhang,X.,etal.(2010).Identifica- Intemann, C. D., Thye, T., Niemann, C., etal. (2009). Autophagy path- Associationsbetweengeneticvariants
+tionofanovelIRGMpromotersingle S., Browne, E. N., Amanua Chin- way intersects with HIV-1 biosyn- intheIRGMgeneandinflammatory
+nucleotidepolymorphismassociated buah, M., Enimil, A., etal. (2009). thesis and regulates viral yields in bowel diseases in the korean pop-
+withtuberculosis. Clin. Chim. Acta AutophagygenevariantIRGM-261T macrophages. J. Cell Biol. 186, ulation. Inflamm. Bowel Dis. doi:
+411,1645–1649. contributestoprotectionfromtuber- 255–268. 10.1002/ibd.22972. [Epub ahead of
+Dreux, M., Gastaminza, P., Wieland, culosis caused by Mycobacterium Lapaquette, P., Bringer, M. A., and print].
+S.F.,andChisari,F.V.(2009). The tuberculosisbutnotbyM.africanum Darfeuille-Michaud, A. (2012). Munz, C. (2009). Enhancing immu-
+autophagymachineryisrequiredto strains.PLoSPathog.5:e1000577.doi: Defects in autophagy favour nitythroughautophagy.Annu. Rev.
+initiatehepatitisCvirusreplication. 10.1371/journal.ppat.1000577 adherent-invasive Escherichia coli Immunol.27,423–449.
+Proc. Natl. Acad. Sci. U.S.A. 106, Jackson,W.T.,Giddings,T.H.Jr.,Tay- persistencewithinmacrophageslead- Orvedahl, A., Alexander, D., Talloczy,
+14046–14051. lor,M.P.,Mulinyawe,S.,Rabinovitch, ing to increased pro-inflammatory Z.,Sun,Q.,Wei,Y.,Zhang,W.,etal.
+FrontiersinImmunology|AntigenPresentingCellBiology January2013|Volume3|Article426|6
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 6 — #6
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+(2007).HSV-1ICP34.5confersneu- inducesautophagytoeliminateintra- Tanida, I., Fukasawa, M., Ueno, T., H.,etal.(2011).Geneticassociation
+rovirulencebytargetingtheBeclin1 cellular mycobacteria. Science 313, Kominami, E., Wakita, T., and of PRDM1-ATG5 intergenic region
+autophagyprotein.CellHostMicrobe 1438–1441. Hanada, K. (20
+
+Chunk 22:
+17:53 — page 6 — #6
+
+---PAGE BREAK---
+
+Petkovaetal. IRGM,autophagy,andvirus
+(2007).HSV-1ICP34.5confersneu- inducesautophagytoeliminateintra- Tanida, I., Fukasawa, M., Ueno, T., H.,etal.(2011).Geneticassociation
+rovirulencebytargetingtheBeclin1 cellular mycobacteria. Science 313, Kominami, E., Wakita, T., and of PRDM1-ATG5 intergenic region
+autophagyprotein.CellHostMicrobe 1438–1441. Hanada, K. (2009). Knockdown and autophagy with systemic lupus
+1,23–35. Singh, S. B., Ornatowski, W., Vergne, ofautophagy-relatedgenedecreases erythematosusinaChinesepopula-
+Parkes, M., Barrett, J.C., Prescott, N. I.,Naylor,J.,Delgado,M.,Roberts, theproductionofinfectioushepati- tion. Ann. Rheum. Dis. 70, 1330–
+J.,Tremelling,M.,Anderson,C.A., E.,etal.(2010).HumanIRGMregu- tis C virus particles. Autophagy 5, 1337.
+Fisher,S.A.,etal.(2007).Sequence latesautophagyandcell-autonomous 937–945.
+variantsintheautophagygeneIRGM immunity functions through mito- Weidberg, H., Shvets, E., Shpilka,
+and multiple other replicating loci chondria. Nat. CellBiol. 12, 1154– T., Shimron, F., Shinder, V., Conflict of Interest Statement: The
+contributetoCrohn’sdiseasesuscep- 1165. and Elazar, Z. (2010). LC3 and authors declare that the research was
+tibility.Nat.Genet.39,830–832. Sir, D., Chen,W.L., Choi, J.,Wakita, GATE-16/GABARAPsubfamiliesare conductedintheabsenceofanycom-
+Richetta, C., and Faure, M. (2012). T.,Yen,T.S.,andOu,J.H.(2008). both essential yet act differently in mercial or financial relationships that
+Autophagy in antiviral innate Inductionofincompleteautophagic autophagosomebiogenesis.EMBOJ. couldbeconstruedasapotentialcon-
+immunity. Cell. Microbiol. doi: responsebyhepatitisCvirusviathe 29,1792–1802. flictofinterest.
+10.1111/cmi.12043. [Epubaheadof unfoldedproteinresponse.Hepatol- White, E. (2012). Deconvoluting
+print]. ogy48,1054–1061. the context-dependent role for Received:30October2012;accepted:23
+Schlame,M.,Rua,D.,andGreenberg, Su, W.C., Chao, T.C., Huang, Y.L., autophagy in cancer. Nat. Re
+
+Chunk 23:
+truedasapotentialcon-
+immunity. Cell. Microbiol. doi: responsebyhepatitisCvirusviathe 29,1792–1802. flictofinterest.
+10.1111/cmi.12043. [Epubaheadof unfoldedproteinresponse.Hepatol- White, E. (2012). Deconvoluting
+print]. ogy48,1054–1061. the context-dependent role for Received:30October2012;accepted:23
+Schlame,M.,Rua,D.,andGreenberg, Su, W.C., Chao, T.C., Huang, Y.L., autophagy in cancer. Nat. Rev. December 2012; published online: 17
+M.L.(2000). Thebiosynthesisand Weng,S.C.,Jeng,K.S.,andLai,M.M. Cancer12,401–410. January2013.
+functionalroleof cardiolipin. Prog. (2011).Rab5andclassIIIphospho- Xavier, R.J., Huett, A., andRioux, J. Citation:PetkovaDS,ViretCandFaure
+LipidRes.39,257–288. inositide3-kinaseVps34areinvolved D.(2008). Autophagyasanimpor- M(2013)IRGMinautophagyandviral
+Schug, Z.T., andGottlieb, E.(2009). in hepatitis C virus NS4B-induced tantprocessinguthomeostasisand infections. Front. Immun. 3:426. doi:
+Cardiolipinactsasamitochondrial autophagy.J.Virol.85,10561–10571. Crohn’sdiseasepathogenesis.Gut57, 10.3389/fimmu.2012.00426
+signallingplatformtolaunchapop- Takahashi,Y.,Coppola,D.,Matsushita, 717–720. This article was submitted to Frontiers
+tosis. Biochim. Biophys. Acta 1788, N., Cualing, H. D., Sun, M., Sato, Xie, Z., and Klionsky, D. J. (2007). in Antigen Presenting Cell Biology, a
+2022–2031. Y.,etal. (2007). Bif-1interactswith Autophagosome formation: core specialtyofFrontiersinImmunology.
+Shrivastava, S., Bhanja Chowdhury, Beclin 1 through UVRAG and reg- machineryandadaptations.Nat.Cell Copyright © 2013 Petkova, Viret and
+J., Steele, R., Ray, R., and Ray, ulatesautophagyandtumorigenesis. Biol.9,1102–1109. Faure.Thisisanopen-accessarticledis-
+R. B. (2012). Hepatitis C virus Nat.CellBiol.9,1142–1151. Yasukawa,K.,Oshiumi,H.,Takeda,M., tributedunderthetermsoftheCreative
+upregulates Beclin1 for induction Takahashi, Y., Karbowski, M., Yam- Ishihara,N.,Yanagi,Y.,Seya,T.,etal. Commons Attribution License, which
+of autophagy and activates mTOR aguchi, H., Kazi,
+
+Chunk 24:
+esautophagyandtumorigenesis. Biol.9,1102–1109. Faure.Thisisanopen-accessarticledis-
+R. B. (2012). Hepatitis C virus Nat.CellBiol.9,1142–1151. Yasukawa,K.,Oshiumi,H.,Takeda,M., tributedunderthetermsoftheCreative
+upregulates Beclin1 for induction Takahashi, Y., Karbowski, M., Yam- Ishihara,N.,Yanagi,Y.,Seya,T.,etal. Commons Attribution License, which
+of autophagy and activates mTOR aguchi, H., Kazi, A., Wu, J., Sebti, (2009). Mitofusin 2 inhibits mito- permitsuse, distributionandreproduc-
+signaling. J. Virol. 86, 8705– S. M., etal. (2005). Loss of Bif-1 chondrialantiviralsignaling.Sci.Sig- tioninotherforums,providedtheorigi-
+8712. suppresses Bax/Bak conformational nal.2,ra47. nalauthorsandsourcearecreditedand
+Singh,S.B.,Davis,A.S.,Taylor,G.A., changeandmitochondrialapoptosis. Zhou, X. J., Lu, X. L., Lv, J. C., subjecttoanycopyrightnoticesconcern-
+andDeretic,V.(2006).HumanIRGM Mol.Cell.Biol.25,9369–9382. Yang, H. Z., Qin, L. X., Zhao, M. inganythird-partygraphicsetc.
+www.frontiersin.org January2013|Volume3|Article426|7
+“fimmu-03-00426” — 2013/1/12 — 17:53 — page 7 — #7
+
+---PAGE BREAK---
+
+
+

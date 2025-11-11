@@ -1,0 +1,2168 @@
+Knight Helen Miranda (Orcid ID: 0000-0003-3267-9591)
+Title: m6A mRNA methylation in human brain is disrupted in Lewy body disorders
+Braulio Martinez De La Cruz1†, Chris Gell2, Robert Markus2, Ian Macdonald3, Rupert Fray4,
+Helen Miranda Knight1
+1. Division of Cells, Organisms and Molecular Genetics, School of Life Sciences,
+University of Nottingham, Nottingham, NG7 2UH, UK.
+2. School of Life Sciences Imaging Facility, University of Nottingham, Nottingham,
+NG7 2UH, UK.
+3. Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences,
+University of Nottingham, NG7 2UH, UK.
+4. Division of Plant Sciences, School of Biosciences, University of Nottingham
+†Current address: LMCB, University College London, WC1E 6BT, UK
+Correspondence to: Dr Helen Miranda Knight
+School of Life Sciences, Queen’s Medical Centre, University of Nottingham, Nottingham,
+NG7 2UH, UK, Helen.knight@nottingham.ac.uk, ORCID: 0000-0003-3267-9591
+Keywords: Epitranscriptomics; Dementia with Lewis bodies; m6A; Lewy body Disease; Mild
+Cognitive Impairment; Parkinson’s disease; RNA methylation.
+Number of words in the text: 5140
+This article has been accepted for publication and undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process which may lead to
+differences between this version and the Version of Record. Please cite this article as doi:
+10.1002/nan.12885
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Number of main Figures and Tables: 4
+Key Points
+ m6A RNA modification influences the fate of RNAs and has been associated with
+the formation of highly condensed macromolecular aggregates.
+ The distribution of m6A-RNAs in specific cell populations in human brain tissue and
+evidence for changes in Lewy body disease has not yet been investigated.
+ m6A-modified RNAs were found consistently more abundant in dementia with Lewy
+bodies tissue and significantly reduced or misplaced in brain tissue from individuals
+with Parkinson’s disease.
+ The findings of disrupted localisation and abundance of m6A RNAs in Lewy body
+diseases are consistent with evidence for alterations in the control of RNA translation
+contributing to the formation of protein aggregate neurotoxic structures.
+Abstract
+N6-methyladenosine modification of RNA (m6A) regulates translational control which may
+influence neuronal dysfunction underlying neurodegenerative diseases. Using microscopy and
+a machine learning approach, we performed cellular profiling of m6A-RNA abundance and
+YTHDF1/YTHDF3 m6A reader expression within four regions of the human brain from non-
+affected individuals and individuals with Parkinson’s disease, Dementia with Lewy bodies
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+(DLB) or Mild Cognitive Impairment (MCI). In non-diseased tissue, we found m6A-modified
+RNAs showed cell-type and sub-compartment-specific variation. YTHDF1 and YTHDF3
+showed opposing expression patterns in the cerebellum, and frontal and cingulate cortices.
+Machine learning quantitative image analysis revealed that m6A-modified transcripts were
+significantly altered in localisation and abundance in disease tissue with significant decreases
+in m6A-RNAs in Parkinson’s disease, and significant increases in m6A-RNA abundance in
+Dementia with Lewy bodies. MCI tissue showed variability across regions but similar to DLB,
+in brain areas with an overall significant increase in m6A-RNAs, modified RNAs within
+dendritic processes were reduced. Using mass spectrometry proteomic datasets to corroborate
+our findings, we found significant changes in YTHDF3 and m6A anti-reader protein abundance
+in Alzheimer’s disease (AD) and asymptomatic AD/MCI tissue and correlation with cognitive
+resilience. These results provide evidence for disrupted m6A regulation in Lewy body diseases
+and a plausible mechanism through which RNA processing could contribute to the formation
+of Lewy bodies and other dementia-associated pathological aggregates. The findings suggest
+that manipulation of epitranscriptomic processes influencing translational control may lead to
+new therapeutic approaches for neurodegenerative diseases.
+Introduction
+N6-methyladenosine (m6A) and the cap-adjacent N6,2′‐O‐dimethyladenosine (m6A ) are
+m
+highly abundant and reversible mRNA modifications [1 2]. m6A modification is regulated by
+effector proteins termed writer, eraser and reader proteins. RNA binding proteins belonging to
+the reader category, recognise specific chemical modifications and direct binding events [3 4].
+The best-characterised m6A readers belong to the YTH domain family which consists of
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+YTHDF1, YTHDF2, YTHDF3, YTHDC and YTHDC2. The YTHDF1-3 proteins have similar
+sequence identity and binding affinities toward preferred RNA motifs [5 6] and recent studies
+support dosage-dependent redundancy in their function to regulate m6A-dependent mRNA
+stability and translation [7-9]. However, context-specific factors are proposed to determine
+each of their unique roles in moderating cellular protein turnover required for specialised
+physiological processes [10]. In addition to YTH domain reader proteins which interact with
+m6A RNA modified sites, several proteins have been identified as preferentially interacting
+with unmodified m6A RNA binding sequences, i.e., they are repelled by ‘m6A’ RNA
+modifications, and are hence referred to as m6A anti-readers [11 12].
+Synaptic plasticity is widely accepted as the main neural basis of learning and memory and
+when disrupted gives rise to neurological disease. Evidence now exists that m6A methylated
+transcripts and effector protein machinery are involved in synaptic function, as well as glial
+cell plasticity and neuronal development [13-16]. For instance, m6A-modified RNAs, the
+YTHDF proteins and the ALKBH5 eraser protein are located at actively translating synapses
+and involved in early- and late- stage synaptic plasticity [14], and disrupting writer, reader and
+eraser effector protein function e.g. METTL3, YTHDF1, FTO, give rise to changes in
+plasticity, behaviour and cognition [17-19]. Furthermore, m6A methylome mapping of mouse
+forebrain synaptosomes and human parahippocampus brain tissue also indicates that synaptic
+and neuronal transcripts as well as RNAs associated with increased risk for cognitive diseases,
+are commonly m6A modified [14 20].
+Dementia with Lewy bodies (DLB) and Parkinson’s disease (PD) are common progressive
+neurodegenerative diseases [21]. At the prodromal stages of DLB, as with other dementia-
+related disorders such as Alzheimer’s disease (AD), mild cognitive impairment (MCI) is a
+common feature, although only individuals with non-amnestic MCI progress to develop DLB
+[22-24]. Both DLB and PD are classified as α-Synucleinopathies as the neuropathological
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+hallmarks are large abnormal α-synuclein (α-syn) aggregates within the cytoplasm of neurons
+known as Lewy bodies, and associated dendritic structures termed Lewy neurites [23-26].
+However, early PD pathology is characterised by the loss of dopaminergic neurotransmission
+in the medulla, substantia nigra, and cerebellum [27-29] whereas, in DLB, abnormal deposits
+of α-syn at synaptic sites accumulate within the neocortex and limbic system regions [30 31].
+In both diseases, large α-syn aggregates are initially regionally localised but at later stages,
+pathology progressively spreads to other areas of the brain [32]. Although the underlying
+mechanisms which drive neuropathological spreading are currently still under debate, one
+hypothesis is that specific molecular factors may act as a ‘seed’ for the formation of neurotoxic
+aggregates in other regions [33]. Furthermore, with the recent discovery that the YTHDF reader
+proteins are intrinsically disordered proteins [9 34] which can promote the formation of highly
+condensed macromolecular aggregates, this leaves open the possibility that m6A RNA
+modification within neurons may influence abnormal protein aggregation.
+To better understand the importance of m6A RNA methylation in human brain physiology and
+Lewy body diseases, we performed cellular profiling of m6A RNA abundance and YTHDF1
+and YTHDF3 m6A reader protein expression within cell populations of the cerebellum, frontal
+and cingulate gyrus cortices and the hippocampus in aged individuals with no disease and from
+individuals with a diagnosis of PD, DLB or MCI. m6A profiling revealed that modified
+transcripts and YTHDF readers were found to be significantly altered in the localisation and
+abundance within PD, DLB and MCI brain tissue. YTHDF3 and specific anti-reader proteins
+were also found to change in abundance in AD brain tissue. The results provide evidence for
+m6A regulation disruption in Lewy body diseases and other degenerative neurocognitive
+conditions, and a plausible mechanism influencing translational control which drives the
+formation of toxic protein aggregates.
+Materials and methods
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Brain tissue
+Non-affected, healthy brain tissue samples were obtained from the Nottingham Health Science
+Biobank (Biobank reference ID ACP0000101). Individuals were at an advanced age at the time
+of death (mean 85 years, ranging from 63-99 years old) but otherwise, the brains were classified
+as non-disease-affected by a neuropathologist. MCI, PD and DLB brain tissue samples and
+associated clinical and neuropathological data were supplied by the Parkinson’s UK Brain
+Bank, funded by Parkinson’s UK, a charity registered in England and Wales (258197) and in
+Scotland (SC037554). These samples had a mean age of 82.5 years and ranged from 63-104
+years old. Ethical permission to collect and use human samples was previously granted to both
+tissue banks by the relevant multicentre research ethical committees (Parkinson’s UK Brain
+Bank approval Ref. No. 08/MRE09/31+5). Demographic details and neuropathology at
+autopsy per tissue sample are presented in Supplementary Table 1. Tissue from four different
+brain regions was examined:- the cerebellum, cingulate gyrus, middle frontal gyrus and
+hippocampus. These areas were chosen to enable comparison of regions of the brain which
+undergo pathological changes in MCI, DLB and PD at early or later stages of the disease. Three
+sections from non-affected aged control, PD, DLB and MCI tissue per region were examined.
+No differences in age or sex were evident between affected and non-affected samples. Post-
+mortem Interval data were available for only a subset of PD and DLB brains (Supplementary
+Table 1).
+Immunohistochemistry
+Sections were dewaxed and rehydrated by immersion in xylene and ethanol. Antigen retrieval
+was conducted by immersing sections in sodium citrate. Protein and endogenous peroxidases
+were blocked by incubation with horse serum and by immersing sections in 3% hydrogen
+peroxide. Endogenous avidin, biotin, and biotin receptors were blocked by incubating sections
+in Avidin D followed by Biotin (Avidin/Biotin Blocking Kit, Vector Labs). Primary antibodies
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+were diluted in 0.2% Triton X-100 and sections were incubated overnight. A universal
+secondary antibody was incubated with slides for 1 hour before incubation with Vectastain
+ABC Reagent (Vectastain Elite ABC Kit, Vector Labs, USA), for 30 minutes. Tissue sections
+were finally incubated with ImmPACT DAB substrate, counterstained in Haematoxylin and
+Scott’s Tap Water, and dehydrated. Positive (GFAP immunoreactivity) and negative controls
+were included for each experiment.
+Antibodies and bright field microscopy
+The following primary antibodies and dilutions were used: mouse anti-m6A (Merck Millipore,
+MABE 1006, clone 17-3-4-1) 1:50, mouse anti-YTHDF3 (Santa Cruz Biotech, sc-377119)
+1:200, rabbit anti-m6A (Abcam, ab190886) 1:250, rabbit anti-YTHDF1 (Abcam, ab99080)
+1:100, mouse anti-NeuN (Merck Millipore, MAB377) 1:100, and rabbit anti-GFAP
+(ThermoFisher, RM-2125-S) 1:50. The mouse anti-m6A (Merck Millipore, MABE 1006),
+consistent with other anti-m6A antibodies, does not show immunoreactivity in the nucleus of
+cells in cell cultures or FFPE tissue [14]. Images of immunostained tissue were captured using
+the Micro Manager open-source microscope controller software [35] on an Axioplan
+microscope (Carl Zeiss, Germany). All images were captured using a 20x air objective (NA =
+0.5) with an exposure time of 35 ms. A blank image was captured and used to white balance
+all other experimental images using a macro created to apply the same degree of colour
+intensity change to all images.
+Image Analysis of IHC Using Machine Learning
+Quantitative localisation was performed blind using the ilastik open-source image
+classification and segmentation software (www.ilastik.org) [36 37]. Ilastik uses machine
+learning algorithms to automatically, but under supervision, quantify features in an image. All
+feature selection algorithms were set at a threshold of σ = 1.0. Two labels were used in the
+training module, one to identify and train for brown DAB staining and one to teach the
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+exclusion of blue haematoxylin staining. After training, experimental images were batch
+processed and the probability maps generated were exported as .tiff files and used in FIJI as
+masks. A macro was run in FIJI to calculate and record mean pixel intensity values. A pipeline
+for this analysis is presented in Supplementary Figure 1. One way ANOVAs and Dunnett’s
+multiple comparison tests were undertaken to assess statistical significance. Statistical tests and
+the generation of graphs were performed using GraphPad Prism.
+Data analysis of effector proteins using tandem mass tag mass spectrometry (TMT-MS)
+quantitative proteomic datasets
+Tandem mass tag mass spectrometry (TMT-MS) data from the dorsal lateral prefrontal cortex
+(DLPFC) published by Johnson et al., 2022 [38] and Yu L, et al., 2020 [39] were examined for
+changes in YTHDF1 and YTHDF3 protein abundance and 18 human cytoplasmic m6A anti-
+readers reported by Edupuganti, et al., 2017 [12]. The anti-reader proteins examined were
+METTL16, THUMD1, DUS3L, SRSF9, SRSF6, SRSF5, SRSF4, SRSF1, ZC3HAV1, LSM12,
+DNAJC13, ATXN2L, POLD1, NUFIP2, CAPRIN1, USP10, G3BP1 and G3BP2. The Johnson
+et al., dataset performed TMT-MS using AD, Asymptomatic AD (AsymAD) and unaffected
+control brain tissue from the Religious Orders Study and Memory and Aging Project
+(ROSMAP, n = 84 control, 148 AsymAD and 108 AD) and the Banner Sun Health Research
+Institute (Banner, n = 26 control, 58 AsymAD and 92 AD) [38]. Asymptomatic AD samples in
+this dataset are similar in phenotype to MCI. In addition to quantifying protein levels,
+individual protein abundance was correlated with: performance in the Mini-Mental State
+Examination (MMSE); Braak staging; CERAD scores; alpha-synuclein (SNCA) and TARDBP
+[TDP-43]; and amyloid beta 6-28 protein measures. In the Yu L, et al., study, cognitive
+resilience was quantified using cognitive and clinical evaluations [39]. Further details of
+methods and statistical analyses are provided by [38 39].
+Results
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+m6A-modified RNA distribution within neuronal cells in the aged human brain
+Using an antibody specific for m6A-modified RNAs, we characterised m6A-RNA distribution
+and abundance in non-diseased aged human brain tissue. We observed m6A-modified
+transcripts throughout all cytoplasmic regions, including axons and dendrites, of neuronal and
+glial cells but an m6A signal was absent from the nucleus. M6A-modified RNAs were observed
+within the three main regions of the cerebellum, the outermost molecular layer (ML), the
+Purkinje cell layer (PL), and the granular cell layer (GL), although there was some clear
+variation in the presence and abundance of modified RNAs between cells. Medium to high
+abundance of m6A-modified RNA was observed around the nucleus of inhibitory interneurons
+in the ML, within the cytoplasm of the granular layer cells and large Purkinje cells and in
+putative Bergmann glia cells. Strong m6A abundance was observed in the processes of the
+Purkinje cells which extended into the molecular layer (Supplementary Figure 2).
+We next examined the abundance of modified RNAs within the cingulate gyrus (CG), a part of
+the limbic system reported to be one of the first areas in DLB to accumulate α-synuclein
+aggregates at synapses as well as large cytoplasmic Lewy bodies. Within the six cortical layer
+structure (Figure 1, column 1), glial cells and processes within Layer I, and granular cells
+within Layers II and IV showed a high abundance of m6A RNAs. Within Layer III pyramidal
+cells, m6A immunoreactivity was found to be darker near the nucleus and lighter within the
+cytoplasm along neuronal processes indicating fewer modified RNAs. However, the large
+pyramidal cells of Layer V were darkly immunostained throughout the cytoplasm. Finally,
+Layer VI contained a mixture of immunoreactive cell types showing varying degrees of m6A
+abundance. Consistent with the cingulate gyrus, observations of the frontal cortex (FC), also a
+cortical region, revealed similar m6A-modified RNA abundance (Supplementary Figure 3).
+However, a decrease in modified m6A RNAs was observed within the cell body and processes
+of pyramidal cells within Layer V.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+m6A modified RNA profiles were also characterised within the hippocampal formation, a
+region in which neuropathological changes associated with dementias contribute to cognitive
+decline. Within the dentate gyrus granular cell layer, a site where adult neurogenesis occurs,
+widespread m6A immunoreactivity was observed (Figure 2). In the dentate gyrus hilar region,
+m6A-modified RNAs were observed in large pyramidal cells and along extended processes of
+mossy cell and CA4 field neurons. Putative small inhibitory basket cells within this region
+appeared to have few modified RNAs. In the Cornu Ammonis (CA) fields outside of the dentate
+gyrus, individual neurons within the CA4 and CA3/2 were all similarly stained. The
+hippocampus CA1 field displayed the most variance in m6A immunostaining with some cells
+showing low overall immunoreactivity while others were darkly stained in the cytoplasm. The
+location of m6A-RNAs also varied between the cytoplasm and axons in CA1 cells.
+m6A-readers YTHDF1 and YTHDF3 expression in human brain
+We next characterised YTHDF1 and YTHDF3 expression across the same four brain regions.
+YTHDF1 was found to be expressed in all layers of the cerebellum with cell type-specific
+variation. Expression of YTHDF1 within the Purkinje cells was especially high in the
+cytoplasm including neuronal/dendritic processes but these cells had low or no YTHDF3
+expression (Supplementary Figures 4 and 5). Similarly, YTHDF1 was also highly expressed
+in the GL whereas few cells in the GL were immuno-positive for YTHDF3. The abundance of
+YTHDF1 and YTHDF3 varied in the CG and FC cortices and contrasted with the pattern
+observed in the cerebellum. YTHDF1 abundance in both cortical regions was generally low
+across cell populations. An exception was pyramidal neurons within layer III which had high
+cytoplasmic expression and layers V-VI where YTHDF1 was consistently located in the
+cytoplasm opposite to the axon, i.e., showed a polarised pattern. Conversely, YTHDF3
+abundance was high in all layers of CG and layers I-IV of FC (Supplementary Figures 6).
+However, within FC the large pyramidal cells of layer V had very low immunoreactivity and
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+interestingly, YTHDF3 staining was also not observed in the neuronal processes of pyramidal
+cells. The lack of expression of YTHDF1 and YTHDF3 readers within processes of layer V
+cortical pyramidal cells deviates from our previous observation of high m6A-modified mRNA
+in these same pyramidal cells.
+Within the hippocampus, low levels of cytoplasmic YTHDF1 expression were observed within
+the dentate gyrus granular cells and large neurons within the hilar, while in the CA4 primary
+neurons, strong m6A abundance was evident but restricted to neuronal soma (Supplementary
+Figure 7). Within the CA3/CA2 and CA1 fields, YTHDF1 was highly abundant in small
+cytoplasmic clusters, whereas in CA1 pyramidal neurons YTHDF1 was also evident in axons.
+YTHDF3 expression was observed in all sub-regions of the hippocampus (Supplementary
+Figure 8). In the CA fields, pyramidal cells displayed strong YTHDF3 immunoreactivity as a
+distinctive ring pattern in soma which might reflect high YTHDF3 expression in the
+endoplasmic reticulum. In contrast to YTHDF1 in the CA1, YTHDF3 was absent from
+neuronal processes. These results suggest that YTHDF1 and YTHDF3 are co-expressed within
+pyramidal neurons but they also differentially localise within cell sub-compartments.
+Quantitative image analysis of m6A-modified RNAs and YTHDF1/YTHDF3 abundance
+in PD, DLB and MCI brain tissue.
+Cerebellum
+To examine whether m6A processes are disrupted in Lewy body diseases, we examined brain
+tissue from individuals with PD, DLB and MCI and performed unbiased machine learning
+quantification of m6A staining intensities. In the cerebellum, there was a significant increase in
+m6A abundance across the entire cerebellum in PD, (Ctrl 120.8 ± 21.31, PD 149.5 ± 24.14, p
+≤ 0.005), DLB (149.8 ± 26.05; p ≤ 0.0005) and MCI tissue samples (MCI 154.8 ± 27.00; p ≤
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+0.0001; Supplementary Figure 2 and Table 1). However, the large Purkinje cells in all
+disease tissue had reduced or no m6A expression as compared to unaffected control tissue
+(Supplementary Figure 2, yellow arrows). Counter to m6A abundance, we observed a
+significant reduction in YTHDF1 expression in PD cerebellum tissue (Ctrl 113.7 ± 25.42, PD
+95.02 ± 20.82; p ≤ 0.005), with no YTHDF1 expression in Purkinje cells or cells within the
+molecular layer (Supplementary Figure 4, column 2). Like PD tissue, MCI tissue showed an
+overall reduced YTHDF1 expression (MCI 99.88 ± 23.87; p ≤ 0.05). This contrasted
+significantly with YTHDF1 expression in DLB tissue which was found to be of comparative
+abundance and distribution as non-affected control tissue (DLB 108.2 ± 23.77; p > 0.65,
+Supplementary Figure 4, column 3). YTHDF3 expression was found to be significantly
+increased in the cerebellum of all disease tissues compared to control tissue (Ctrl 136.9 ± 25.52,
+PD 160.1 ± 20.7, p ≤ 0.0005; DLB 158.7 ± 20.17, p ≤ 0.0005; MCI 158.9 ± 23.33, p ≤ 0.001;
+Supplementary Figure 5). However, Purkinje cells in PD samples had either no or very low
+YTHDF3 immunoreactivity and in DLB tissue YTHDF3 was observed in the cytoplasm but
+not proximal neuronal processes. Finally, MCI tissue showed some Purkinje cells had high,
+medium, or low YTHDF3 expression in the cytoplasm and proximal neuronal processes.
+Frontal cortex and cingulate gyrus
+Cingulate gyrus tissue showed an overall increased m6A abundance in DLB and MCI (Ctrl
+107.5 ± 12.66, DLB 153.0 ± 4.43, p ≤ 0.0001; MCI 123.5 ± 15.43; p ≤ 0.0005; Figure 1 and
+Supplementary Figure 3). However, in Layer V of the CG in DLB and MCI tissue, a notable
+decrease in the number of m6A-stained pyramidal neuron processes was observed despite an
+overall increase in the expression of m6A modifications in these cells. Furthermore, pyramidal
+neurons in Layer VI of CG and FC tissue in MCI individuals indicated a polarised distribution
+with m6A abundance localised to the cytoplasmic region opposite the cell’s axon, a pattern
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+which was also evident for YTHDF1 expression in this cortical layer in non-affected tissue.
+DLB tissue also showed a similar decrease in pyramidal neuron processes immunoreactivity
+but an overall increase in m6A methylation levels (Figure 1, column 3) in both cytoplasm and
+processes of cells within the FC (Ctrl 116.8 ± 6.14, DLB 136.3 ± 9.13, p ≤ 0.001).
+Compared to control tissue, CG and FC cortical regions in PD tissue revealed a large decrease
+in m6A modification abundance (CG Ctrl 107.5 ± 12.66, PD 93.57 ± 15.09, p ≤ 0.005; FC Ctrl
+116.8 ± 6.14, PD 109.1 ± 6.71, p ≤ 0.05) but notably, modified RNAs in pyramidal processes
+remained apparent and numerous and the spatial distribution and localisation of m6A
+abundance within cells was generally unchanged (Figure 1, column 2, Supplementary Figure
+3, column 2). MCI tissue in the frontal cortex also showed an overall decrease in m6A
+abundance (FC Ctrl 116.8 ± 6.14, MCI 102.3 ± 16.97, p ≤ 0.0001), a pattern opposite to the
+increased m6A abundance in the CG. Of interest, layer V showed a clear decrease in
+immunoreactivity in neuronal processes, and unlike PD tissue, also showed decreased m6A
+modified RNAs in large pyramidal layer V neuronal processes.
+YTHDF1 expression in the CG and FC PD tissue was globally reduced although this change
+in abundance was significant only for the CG (CG Ctrl 135.9 ± 10.54, PD 124.0 ±18.82, p ≤
+0.005; FC Ctrl 118.7 ± 6.37, PD 116.5 ± 5.7, p > 0.49). Decreased expression was most notable
+in Layer III and Layers V-VI. For DLB and MCI tissue, no overall quantitative differences
+were identified for YTHDF1 expression in either the CG or FC (CG Ctrl 135.9 ± 10.54, DLB
+135.4 ± 5.22, p > 0.99; MCI 141.6 ± 9.76; p > 0.24; FC Ctrl 118.7 ± 6.37, DLB 118.1 ± 10.34,
+p > 0.98; MCI 120.6 ± 6.2, p > 0.69). However, in MCI tissue Layers III and V of CG, YTHDF1
+expression was not observed in processes.
+YTHDF3 expression was found reduced in PD samples within the CG and FC (CG Ctrl 120.5
+± 11.24, PD 106.4 ± 11.02, p ≤ 0.0001; FC Ctrl 128.7 ± 9.62, PD 123.4 ± 7.63, p < 0.05) and
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+this decrease was evident across all cortical layers (Supplementary Figure 6). An overall de-
+crease in YTHDF3 expression in MCI tissue was found in the CG (CG Ctrl 120.5 ± 11.24, MCI
+111.2 ± 8.26, p ≤ 0.005) but no significant differences in expression for the frontal cortex (FC
+Ctrl 128.7 ± 9.62, MCI 131.8 ± 6.01, p > 0.21). In contrast, YTHDF3 expression in DLB CG
+and FC tissue saw a global increase (CG Ctrl 120.5 ± 11.24, DLB 136.4 ± 6.8, p ≤ 0.0001; FC
+Ctrl 128.7 ± 9.62, DLB 133.7 ± 4.2, p < 0.05).
+Hippocampus
+Consistent with other regions of the brain, PD-affected hippocampal tissue had significantly
+reduced overall m6A-modified RNAs (Ctrl 110.8 ± 11.65, PD 94.02 ± 16.27, p ≤ 0.0001). The
+intensity of staining in dentate gyrus neurons was lower and processes did not show m6A
+immunoreactivity (Figure 2). Likewise, we did not observe modified transcripts in the
+neuronal processes of CA4 and CA3/CA2 neurons but in the CA1 field, although m6A
+abundance was reduced, some processes were m6A-positive (Figure 2, rows 2-4). In contrast
+to PD, but consistent with all three other regions, DLB samples showed a significant increase
+in m6A abundance, (Ctrl 110.8 ± 11.65, DLB 133.7 ± 4.59, p ≤ 0.0001). However, patterns of
+subcellular localisation including within processes did not appear different to unaffected
+control tissue. MCI-affected hippocampal tissue showed the largest reduction in m6A
+expression (Ctrl 110.8 ± 11.65, MCI 89.16 ± 8.45, p ≤ 0.0001), and compared with controls
+tissue, there was a lack of modified transcripts in DG cells including granular cells as well as
+within neuronal processes in all CA fields (Figures 2, column 4, rows 1-4).
+Global YTHDF1 expression was increased in PD and DLB samples within the hippocampus
+(Ctrl 122.2 ± 16.46, PD 141.4 ± 14.48, p ≤ 0.0001; DLB 138.6 ± 9.32, p ≤ 0.0001), where
+highly increased cytoplasmic and axonal expression was observed in the CA fields
+(Supplementary Figure 7). However, the expression of YTHDF1 was reduced in MCI
+samples (Ctrl 122.2 ± 16.46, MCI 109.2 ± 8.45, p ≤ 0.0005). A global increase of YTHDF3
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+immunoreactivity was also evident in PD (Ctrl 118.2 ± 10.79, PD 145.4 ± 6.63, p ≤ 0.0001)
+and DLB (Ctrl 118.2 ± 10.79, DLB 137.1 ± 6.55, p ≤ 0.001) (Supplementary Figure 8) and
+in particular, in PD tissue within the dentate gyrus and CA3/CA2 cells. Expression of YTHDF3
+did not appear to differ in MCI from the control tissue (Ctrl 118.2 ± 10.79, MCI 121.4 ± 4.31,
+p = 0.12). These significant changes in m6A methylation abundance and reader expression
+patterns suggest that m6A methylation is a key mechanism underlying RNA processing, which
+is dysregulated in the hippocampus of individuals with Lewy body disease or MCI.
+Factors which influence changes in YTHDF protein sub-localisation within cells or abundance
+across cell populations are not well characterised but may include feedback systems involving
+m6A autoregulation of effector reader proteins, reader Lnc RNAs, e.g., YTHDF3-AS1, or m6A
+anti-reader proteins [14]. In an attempt to first provide corroborating evidence supporting our
+findings that the YTHDF1 and YTHDF3 m6A reader proteins change in abundance in
+neurodegenerative disease brain tissue, we examined tandem mass tag mass spectrometry
+(TMT-MS) proteomic datasets which assessed protein abundance in the prefrontal cortex and
+quantified differences between individuals with AD, asymptomatic AD and healthy control
+individuals [38] or protein associations with cognitive resilience [39]. We found that YTHDF3
+protein abundance was significantly lower in the prefrontal cortex in individuals with AD (post
+hoc FDR corrected p value, AD vs control p = 0.003; AD vs AsymAD p = 0.006) and that
+YTHDF3 protein abundance showed a significant positive correlation with high cognitive
+performance in the MMSE (p = 0.03), as well as positive correlations with α-syn [SCNA] (p =
+0.009) and TARDBP (p = 1.92 x 10-10) protein levels. In contrast, a negative correlation
+between YTHDF3 protein levels and CERAD pathology score (p = 0.046) was observed.
+YTHDF3 protein abundance was also reported to be significantly positively associated with
+cognitive resilience which is consistent with lower YTHDF3 abundance in cognitively
+impaired AD individuals (Table S2). YTHDF1 indicated no differences in expression in the
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+prefrontal cortex across AD, AsymAD or control groupings and no correlations with
+pathological or cognitive measures.
+We hypothesised that if significant changes to m6A reader protein localisation and abundance
+occur across neurodegenerative disease tissues, anti-reader proteins, which may influence m6A
+RNA binding protein complexes and could be part of an autoregulatory feedback mechanism,
+would also show changes with disease. On analysing the protein abundance of the 18
+cytoplasmic anti-readers, we discovered that 9 of the 18 anti-reader proteins showed significant
+differences in abundance between AD/AsymAD and control tissue (Table S2). These
+significant differences included both increases and decreases in protein expression in AD
+suggesting context-specific factors influence effector protein localisation and function.
+Furthermore, one anti-reader protein, ATXN2L, like YTHDF3, also showed a significant
+association with cognitive resilience. These findings support that reader and anti-reader protein
+abundance change across neurodegenerative diseases and that the direction of change in m6A
+effector machinery, like changes in m6A modified RNA, are different depending on the disease,
+e.g., AD, Parkinson’s disease or dementia with Lewy bodies.
+Discussion
+The processes leading to neurodegeneration in brain tissue will involve disruption to normal
+cellular turnover of RNAs and proteins in subcellular compartments. m6A modification
+regulates translation, degradation and stability across most RNA species known. However,
+whether, how and where disruption to m6A modified-RNA contributes to Lewy body
+pathology, is still unknown. In healthy brain tissue, we observed m6A-RNAs in most
+cytoplasmic regions including in both neuronal and glial cells. High abundance was observed
+in dendritic processes of specific neuronal cell populations, for example, cortical pyramidal
+layers III, V and VI, CA regions of the hippocampus and granular cells of the dentate gyrus,
+but, found sparse or inconsistently abundant within processes of pyramidal cells of the
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+subiculum and Purkinje cells of the cerebellum. Of note, and consistent with reports that m6A
+modification governs cell fate determination [40], self-renewal of mouse embryonic stem cells
+[41] and prolongs embryonic cortical neurogenesis [16], we observed in non-disease tissue
+high abundance of modified RNAs within potential stems cells in the SGZ of the hippocampus,
+as well as in the large mossy fibre cells of the dentate gyrus. Changes in m6A-modified RNA
+abundance in these ‘neurogenic’ cell populations were evident in PD, DLB and MCI tissue but
+showed contrasting patterns of change across the Lewy body diseases. For example, in PD and
+MCI, m6A-RNAs were reduced in dentate gyrus neurons and were no longer located in the
+processes, whereas in DLB there was a significant increase in m6A-RNAs but no evident
+change in subcellular localisation. Whether demethylation by ALKBH5 controls modified
+RNA abundance within sub-cellular compartments and thus influences the development and
+proliferation of SGZ cells, as evident in developing mouse cerebellar cells [42], remains to be
+determined.
+m6A abundance was found to be significantly altered in diseased tissue in all brain regions
+examined but showed consistent opposing patterns across neurodegenerative disorders (Figure
+3). In PD tissue, the abundance of m6A-modified RNAs was significantly decreased across all
+regions except for the cerebellum where modified RNAs were significantly more abundant
+than in healthy tissue. However, within the cerebellum, Purkinje cells showed no, or reduced,
+m6A-RNAs and YTHDF3 abundance within the cytosol. This is of interest because Purkinje
+cell loss or depletion of Purkinje cell processes has been repeatedly reported in Parkinsonism
+[31 43] and hence our findings support that RNA processing mechanisms may be contributing
+to such Parkinson’s disease cerebellar dysfunction. The significantly decreased abundance of
+modified RNA in PD in the cytosol of cells found throughout the hippocampus and in both
+cortical regions could have a significant influence on cytoplasmic protein turnover and protein
+subcellular distribution and aggregation, affecting known molecular neuropathological
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+processes. As yet, the mechanisms which may be determining why modified RNAs are
+significantly reduced are not known but could involve disruption to m6A RNAs transport out
+of the nucleus into the cytoplasm, or, increased demethylation processing occurring at localised
+cytoplasmic sites.
+DLB tissue showed a significant increase in both modified RNAs and YTHDF3 expression
+across all regions although, in some areas such as the hippocampus, the pattern of m6A-RNA
+subcellular localisation did not differ from unaffected tissue. Whilst MCI tissue showed
+variability with both significant increases and decreases in m6A abundance across brain areas
+and similar to DLB, in brain areas where there was an overall increase in m6A-RNAs, modified
+RNAs within dendritic processes were found to be reduced. Mass spectrometry proteomic data
+of prefrontal tissue also substantiated that m6A effector machinery is altered in AD and
+extended the findings to include anti-reader proteins. Together these findings suggest that there
+may be independent molecular switches which govern changes in modified RNA abundance
+within the cell compartments and functional subcellular structures, and which differ between
+neurodegenerative diseases and potentially, stage of disease pathology. Future m6A mRNA
+mapping studies using base resolution techniques such as miCLiP-seq [44] and brain tissue
+from clinical populations are needed to determine which transcripts change their modification
+profiles in disease.
+The study is not without limitations. First, the cellular profiling of m6A-RNAs was conducted
+with relatively few samples per disease group and a possible difference between amnestic or
+non-amnestic MCI cases was not explored. Moreover, the approach adopted cannot distinguish
+whether significant increases or decreases in m6A-modified RNA abundance are owing to
+changes in the number of modified mRNAs or a change in the number of modifications along
+mRNAs, i.e., an increase or decrease in multi-modified transcripts. However, evidence
+providing further support for our findings that m6A processes are disrupted in
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+neurodegenerative disease is beginning to emerge. First, RNA-binding motif protein 3
+(RMB3), an RNA-binding protein involved in cellular stress response which is known to
+increase global protein synthesis rates including in dendrites [45 46], was recently predicted to
+bind to m6A modified sites, i.e., act as an alternative m6A effector reader protein [47]. RBM3
+knockdown has been found to exacerbate synaptic loss in mouse prion and AD models of
+disease, whilst enhanced expression of RBM3 restores the capacity for synapse repair after
+cooling [48]. Second, HNRNPA2B1, an m6A writer which influences splicing [49], associates
+with oligomeric tau and m6A-RNAs, and in late-stage AD temporal cortical tissue, global
+HNRNPA2B1, tau and m6A-RNAs are all found increased in abundance [50]. Indeed, the
+cytoplasmic distribution of m6A immunoreactivity in severe AD cases was found much broader
+than Tau or HNRNPA2B1, suggesting that changes in the m6A modification process begin
+earlier, and may be independent of HNRNPA2B1 or tau pathology [50]. Third, α-syn RNA is
+m6A modified in brain tissue as are several proteins which interact with α-syn including β-
+synuclein and γ-synuclein [13 14 51]. Furthermore, α-syn undergoes extensive protein
+phosphorylation in synuclein aggregates in DLB and PD tissue and is commonly found
+ubiquitinated in Lewy bodies [52 53]. Proteins involved in both these post-translational
+modification processes have to be found significantly enriched for m6A-modified transcripts in
+brain tissue [14]. With the uncovering role of multi-modified-m6A mRNAs in promoting the
+formation of highly condensed membrane-less macromolecular aggregates [9 34 54 55], our
+study provides a novel avenue to explore mechanisms which drive the formation of neurotoxic
+Lewy aggregates. Together, our findings provide support that manipulation of common
+epitranscriptomic processes influencing translational control may lead to new therapies
+preventing synaptic failure and neuronal pathology across the spectrum of neurodegenerative
+diseases.
+Acknowledgements
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+The project was funded by Nottingham University, UK. B Martinez De La Cruz was supported
+by a CONACYT PhD scholarship. We thank the Nottingham Health Science Biobank and the
+Parkinson's UK Brain Bank for providing brain samples.
+Funding The work was funded by Nottingham University, UK. B Martinez De La Cruz was
+supported by a CONACYT PhD scholarship.
+Competing Interests
+The authors have no competing interests to declare that are relevant to the content of this article.
+Authors’ contributions
+Helen Miranda Knight, Rupert George Fray, Ian A Macdonald and Braulio Martinez De La
+Cruz designed the study. Braulio Martinez De La Cruz performed the microscopy
+experiments and Braulio Martinez De La Cruz, Chris Gell and Robert Markus contributed to
+the image data analysis. Helen Miranda Knight performed mass spectrometry data mining.
+Helen Miranda Knight and Braulio Martinez De La Cruz wrote the manuscript. The first draft
+of the manuscript was written by Helen Miranda Knight and all authors commented on
+previous versions of the manuscript. All authors read and approved the final manuscript.
+Ethics approval
+Ethical permission to collect and use human samples was previously granted to the Nottingham
+Health Science Biobank and Parkinson's UK Brain tissue banks by the relevant multicentre
+research ethical committees (Parkinson's UK Brain Bank approval Ref. No. 08/MRE09/31+5).
+Data availability statement
+All data analyzed during this study are included in this published article and its supplementary
+information files. The macro generated for image analysis is available upon request.
+References
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+1. Dominissini D, Moshitch-Moshkovitz S, Schwartz S, et al. Topology of the human and mouse m6A
+RNA methylomes revealed by m6A-seq. Nature 2012;485(7397):201-6 doi:
+10.1038/nature11112[published Online First: Epub Date]|.
+2. Meyer KD, Saletore Y, Zumbo P, Elemento O, Mason CE, Jaffrey SR. Comprehensive analysis of mRNA
+methylation reveals enrichment in 3' UTRs and near stop codons. Cell 2012;149(7):1635-46
+doi: 10.1016/j.cell.2012.05.003[published Online First: Epub Date]|.
+3. Huang H, Weng H, Sun W, et al. Recognition of RNA N(6)-methyladenosine by IGF2BP proteins
+enhances mRNA stability and translation. Nat Cell Biol 2018;20(3):285-95 doi:
+10.1038/s41556-018-0045-z[published Online First: Epub Date]|.
+4. Liu N, Dai Q, Zheng G, He C, Parisien M, Pan T. N(6)-methyladenosine-dependent RNA structural
+switches regulate RNA-protein interactions. Nature 2015;518(7540):560-4 doi:
+10.1038/nature14234[published Online First: Epub Date]|.
+5. Li A, Chen YS, Ping XL, et al. Cytoplasmic m(6)A reader YTHDF3 promotes mRNA translation. Cell Res
+2017;27(3):444-47 doi: 10.1038/cr.2017.10[published Online First: Epub Date]|.
+6. Li Y, Bedi RK, Moroz-Omori EV, Caflisch A. Structural and Dynamic Insights into Redundant Function
+of YTHDF Proteins. J Chem Inf Model 2020;60(12):5932-35 doi:
+10.1021/acs.jcim.0c01029[published Online First: Epub Date]|.
+7. Kontur C, Jeong M, Cifuentes D, Giraldez AJ. Ythdf m(6)A Readers Function Redundantly during
+Zebrafish Development. Cell Rep 2020;33(13):108598 doi:
+10.1016/j.celrep.2020.108598[published Online First: Epub Date]|.
+8. Luo S, Tong L. Molecular basis for the recognition of methylated adenines in RNA by the eukaryotic
+YTH domain. Proc Natl Acad Sci U S A 2014;111(38):13834-9 doi:
+10.1073/pnas.1412742111[published Online First: Epub Date]|.
+9. Ries RJ, Zaccara S, Klein P, et al. m(6)A enhances the phase separation potential of mRNA. Nature
+2019;571(7765):424-28 doi: 10.1038/s41586-019-1374-1[published Online First: Epub Date]|.
+10. Lasman L, Krupalnik V, Viukov S, et al. Context-dependent functional compensation between Ythdf
+m(6)A reader proteins. Genes Dev 2020;34(19-20):1373-91 doi:
+10.1101/gad.340695.120[published Online First: Epub Date]|.
+11. Arguello AE, DeLiberto AN, Kleiner RE. RNA Chemical Proteomics Reveals the N6-Methyladenosine
+(m6A)-Regulated Protein–RNA Interactome. Journal of the American Chemical Society
+2017;139(48):17249-52 doi: 10.1021/jacs.7b09213[published Online First: Epub Date]|.
+12. Edupuganti RR, Geiger S, Lindeboom RGH, et al. N(6)-methyladenosine (m(6)A) recruits and repels
+proteins to regulate mRNA homeostasis. Nature structural & molecular biology
+2017;24(10):870-78 doi: 10.1038/nsmb.3462[published Online First: Epub Date]|.
+13. Breydo L, Wu JW, Uversky VN. Alpha-synuclein misfolding and Parkinson's disease. Biochim
+Biophys Acta 2012;1822(2):261-85 doi: 10.1016/j.bbadis.2011.10.002[published Online First:
+Epub Date]|.
+14. Martinez De La Cruz B, Markus R, Malla S, et al. Modifying the m(6)A brain methylome by ALKBH5-
+mediated demethylation: a new contender for synaptic tagging. Mol Psychiatry 2021 doi:
+10.1038/s41380-021-01282-z[published Online First: Epub Date]|.
+15. Xu H, Dzhashiashvili Y, Shah A, et al. m(6)A mRNA Methylation Is Essential for Oligodendrocyte
+Maturation and CNS Myelination. Neuron 2020;105(2):293-309 e5 doi:
+10.1016/j.neuron.2019.12.013[published Online First: Epub Date]|.
+16. Yoon KJ, Ringeling FR, Vissers C, et al. Temporal Control of Mammalian Cortical Neurogenesis by
+m(6)A Methylation. Cell 2017;171(4):877-89 e17 doi: 10.1016/j.cell.2017.09.003[published
+Online First: Epub Date]|.
+17. Hess ME, Hess S, Meyer KD, et al. The fat mass and obesity associated gene (Fto) regulates activity
+of the dopaminergic midbrain circuitry. Nat Neurosci 2013;16(8):1042-8 doi:
+10.1038/nn.3449[published Online First: Epub Date]|.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+18. Shi H, Zhang X, Weng YL, et al. m(6)A facilitates hippocampus-dependent learning and memory
+through YTHDF1. Nature 2018;563(7730):249-53 doi: 10.1038/s41586-018-0666-1[published
+Online First: Epub Date]|.
+19. Zhang Z, Wang M, Xie D, et al. METTL3-mediated N(6)-methyladenosine mRNA modification
+enhances long-term memory consolidation. Cell Res 2018;28(11):1050-61 doi:
+10.1038/s41422-018-0092-9[published Online First: Epub Date]|.
+20. Merkurjev D, Hong WT, Iida K, et al. Synaptic N(6)-methyladenosine (m(6)A) epitranscriptome
+reveals functional partitioning of localized transcripts. Nat Neurosci 2018;21(7):1004-14 doi:
+10.1038/s41593-018-0173-6[published Online First: Epub Date]|.
+21. McKeith IG, Boeve BF, Dickson DW, et al. Diagnosis and management of dementia with Lewy
+bodies: Fourth consensus report of the DLB Consortium. Neurology 2017;89(1):88-100 doi:
+10.1212/WNL.0000000000004058[published Online First: Epub Date]|.
+22. Aarsland D. Cognitive impairment in Parkinson's disease and dementia with Lewy bodies.
+Parkinsonism Relat Disord 2016;22 Suppl 1:S144-8 doi:
+10.1016/j.parkreldis.2015.09.034[published Online First: Epub Date]|.
+23. Aarsland D, Bronnick K, Fladby T. Mild cognitive impairment in Parkinson's disease. Curr Neurol
+Neurosci Rep 2011;11(4):371-8 doi: 10.1007/s11910-011-0203-1[published Online First: Epub
+Date]|.
+24. Ferman TJ, Smith GE, Kantarci K, et al. Nonamnestic mild cognitive impairment progresses to
+dementia with Lewy bodies. Neurology 2013;81(23):2032-8 doi:
+10.1212/01.wnl.0000436942.55281.47[published Online First: Epub Date]|.
+25. Goedert M, Spillantini MG, Del Tredici K, Braak H. 100 years of Lewy pathology. Nat Rev Neurol
+2013;9(1):13-24 doi: 10.1038/nrneurol.2012.242[published Online First: Epub Date]|.
+26. Spillantini MG, Schmidt ML, Lee VM, Trojanowski JQ, Jakes R, Goedert M. Alpha-synuclein in Lewy
+bodies. Nature 1997;388(6645):839-40 doi: 10.1038/42166[published Online First: Epub
+Date]|.
+27. Damier P, Hirsch EC, Agid Y, Graybiel AM. The substantia nigra of the human brain. II. Patterns of
+loss of dopamine-containing neurons in Parkinson's disease. Brain 1999;122 ( Pt 8):1437-48
+doi: 10.1093/brain/122.8.1437[published Online First: Epub Date]|.
+28. Tsuboi Y, Uchikado H, Dickson DW. Neuropathology of Parkinson's disease dementia and dementia
+with Lewy bodies with reference to striatal pathology. Parkinsonism Relat Disord 2007;13
+Suppl 3:S221-4 doi: 10.1016/S1353-8020(08)70005-1[published Online First: Epub Date]|.
+29. Wu T, Hallett M. The cerebellum in Parkinson's disease. Brain 2013;136(Pt 3):696-709 doi:
+10.1093/brain/aws360[published Online First: Epub Date]|.
+30. Colom-Cadena M, Pegueroles J, Herrmann AG, et al. Synaptic phosphorylated alpha-synuclein in
+dementia with Lewy bodies. Brain 2017;140(12):3204-14 doi:
+10.1093/brain/awx275[published Online First: Epub Date]|.
+31. Schulz-Schaeffer WJ. The synaptic pathology of alpha-synuclein aggregation in dementia with Lewy
+bodies, Parkinson's disease and Parkinson's disease dementia. Acta Neuropathol
+2010;120(2):131-43 doi: 10.1007/s00401-010-0711-0[published Online First: Epub Date]|.
+32. Beach TG, Adler CH, Lue L, et al. Unified staging system for Lewy body disorders: correlation with
+nigrostriatal degeneration, cognitive impairment and motor dysfunction. Acta Neuropathol
+2009;117(6):613-34 doi: 10.1007/s00401-009-0538-8[published Online First: Epub Date]|.
+33. Luk KC, Song C, O'Brien P, et al. Exogenous alpha-synuclein fibrils seed the formation of Lewy body-
+like intracellular inclusions in cultured cells. Proc Natl Acad Sci U S A 2009;106(47):20051-6
+doi: 10.1073/pnas.0908005106[published Online First: Epub Date]|.
+34. Gao Y, Pei G, Li D, et al. Multivalent m(6)A motifs promote phase separation of YTHDF proteins.
+Cell Res 2019;29(9):767-69 doi: 10.1038/s41422-019-0210-3[published Online First: Epub
+Date]|.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+35. Edelstein A, Amodaj N, Hoover K, Vale R, Stuurman N. Computer control of microscopes using
+microManager. Curr Protoc Mol Biol 2010;Chapter 14:Unit14 20 doi:
+10.1002/0471142727.mb1420s92[published Online First: Epub Date]|.
+36. Berg S, Kutra D, Kroeger T, et al. ilastik: interactive machine learning for (bio)image analysis. Nat
+Methods 2019;16(12):1226-32 doi: 10.1038/s41592-019-0582-9[published Online First: Epub
+Date]|.
+37. Kan A. Machine learning applications in cell image analysis. Immunol Cell Biol 2017;95(6):525-30
+doi: 10.1038/icb.2017.16[published Online First: Epub Date]|.
+38. Johnson ECB, Carter EK, Dammer EB, et al. Large-scale deep multi-layer analysis of Alzheimer’s
+disease brain reveals strong proteomic disease-related changes not observed at the RNA level.
+Nature Neuroscience 2022;25(2):213-25 doi: 10.1038/s41593-021-00999-y[published Online
+First: Epub Date]|.
+39. Yu L, Tasaki S, Schneider JA, et al. Cortical Proteins Associated With Cognitive Resilience in
+Community-Dwelling Older Persons. JAMA Psychiatry 2020;77(11):1172-80 doi:
+10.1001/jamapsychiatry.2020.1807[published Online First: Epub Date]|.
+40. Agarwala SD, Blitzblau HG, Hochwagen A, Fink GR. RNA methylation by the MIS complex regulates
+a cell fate decision in yeast. PLoS Genet 2012;8(6):e1002732 doi:
+10.1371/journal.pgen.1002732[published Online First: Epub Date]|.
+41. Wang Y, Li Y, Toth JI, Petroski MD, Zhang Z, Zhao JC. N(6)-methyladenosine modification
+destabilizes developmental regulators in embryonic stem cells. Nat Cell Biol 2014;16(2):191-8
+doi: 10.1038/ncb2902[published Online First: Epub Date]|.
+42. Ma C, Chang M, Lv H, et al. RNA m(6)A methylation participates in regulation of postnatal
+development of the mouse cerebellum. Genome Biol 2018;19(1):68 doi: 10.1186/s13059-018-
+1435-z[published Online First: Epub Date]|.
+43. Rolland AS, Herrero MT, Garcia-Martinez V, Ruberg M, Hirsch EC, Francois C. Metabolic activity of
+cerebellar and basal ganglia-thalamic neurons is reduced in parkinsonism. Brain 2007;130(Pt
+1):265-75 doi: 10.1093/brain/awl337[published Online First: Epub Date]|.
+44. Linder B, Grozhik AV, Olarerin-George AO, Meydan C, Mason CE, Jaffrey SR. Single-nucleotide-
+resolution mapping of m6A and m6Am throughout the transcriptome. Nat Methods
+2015;12(8):767-72 doi: 10.1038/nmeth.3453[published Online First: Epub Date]|.
+45. Dresios J, Aschrafi A, Owens GC, Vanderklish PW, Edelman GM, Mauro VP. Cold stress-induced
+protein Rbm3 binds 60S ribosomal subunits, alters microRNA levels, and enhances global
+protein synthesis. Proc Natl Acad Sci U S A 2005;102(6):1865-70 doi:
+10.1073/pnas.0409764102[published Online First: Epub Date]|.
+46. Smart F, Aschrafi A, Atkins A, et al. Two isoforms of the cold-inducible mRNA-binding protein RBM3
+localize to dendrites and promote translation. J Neurochem 2007;101(5):1367-79 doi:
+10.1111/j.1471-4159.2007.04521.x[published Online First: Epub Date]|.
+47. Zhang Y, Hamada M. Identification of m(6)A-Associated RNA Binding Proteins Using an Integrative
+Computational Framework. Front Genet 2021;12:625797 doi:
+10.3389/fgene.2021.625797[published Online First: Epub Date]|.
+48. Peretti D, Bastide A, Radford H, et al. RBM3 mediates structural plasticity and protective effects of
+cooling in neurodegeneration. Nature 2015;518(7538):236-9 doi:
+10.1038/nature14142[published Online First: Epub Date]|.
+49. Alarcon CR, Goodarzi H, Lee H, Liu X, Tavazoie S, Tavazoie SF. HNRNPA2B1 Is a Mediator of m(6)A-
+Dependent Nuclear RNA Processing Events. Cell 2015;162(6):1299-308 doi:
+10.1016/j.cell.2015.08.011[published Online First: Epub Date]|.
+50. Jiang L, Lin W, Zhang C, et al. Interaction of tau with HNRNPA2B1 and N6-methyladenosine RNA
+mediates the progression of tauopathy. Molecular Cell 2021;81(20):4209-27.e12 doi:
+https://doi.org/10.1016/j.molcel.2021.07.038[published Online First: Epub Date]|.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+51. Liu J, Li K, Cai J, et al. Landscape and Regulation of m(6)A and m(6)Am Methylome across Human
+and Mouse Tissues. Mol Cell 2020;77(2):426-40 e6 doi:
+10.1016/j.molcel.2019.09.032[published Online First: Epub Date]|.
+52. Fujiwara H, Hasegawa M, Dohmae N, et al. alpha-Synuclein is phosphorylated in synucleinopathy
+lesions. Nat Cell Biol 2002;4(2):160-4 doi: 10.1038/ncb748[published Online First: Epub
+Date]|.
+53. Tofaris GK, Razzaq A, Ghetti B, Lilley KS, Spillantini MG. Ubiquitination of alpha-synuclein in Lewy
+bodies is a pathological event not associated with impairment of proteasome function. J Biol
+Chem 2003;278(45):44405-11 doi: 10.1074/jbc.M308041200[published Online First: Epub
+Date]|.
+54. Liu SY, Feng Y, Wu JJ, et al. m(6) A facilitates YTHDF-independent phase separation. J Cell Mol Med
+2020;24(2):2070-72 doi: 10.1111/jcmm.14847[published Online First: Epub Date]|.
+55. Wang J, Wang L, Diao J, et al. Binding to m(6)A RNA promotes YTHDF2-mediated phase separation.
+Protein Cell 2020;11(4):304-07 doi: 10.1007/s13238-019-00660-2[published Online First:
+Epub Date]|.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Figure 1. m6A-modified transcripts in non-affected and diseased tissue within the
+cingulate gyrus in tissue. m6A-modified transcripts were found abundant in cells of all six
+cortical layers, I-VI (rows 1 - 6). The location and abundance of m6A-modified transcripts was
+found to significantly differ in disease tissue with an overall decrease in m6A-modified RNAs
+in PD and an overall increase in DLB and MCI tissue. White arrows indicate changes in
+subcellular localisation of m6A-modified transcripts between control and disease samples.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+DLB, Dementia with Lewy Bodies; GL, Granular Layer. ML, MCI, Mild Cognitive
+Impairment; Molecular Layer; PD Parkinson’s Disease; PL, Purkinje Layer. ** p ≤ 0.01, ***
+p ≤ 0.001, **** p ≤ 0.0001. Scale bar = 20 μm.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Figure 2. m6A-modified spatial profiling in the hippocampus in healthy and diseased
+brain tissue. m6A-modified transcripts were found to be highly prevalent in granular cells of
+the dentate gyrus and pyramidal neuron cytoplasm and processes. Arrows point to sites where
+differential abundance was observed between diseases. Yellow arrows indicate changes in
+abundance between control and disease samples, and white arrows indicate changes in
+subcellular localisation of m6A-modified transcripts between control and disease samples.
+DLB, Dementia with Lewy Bodies; MCI, Mild Cognitive Impairment, PD Parkinson’s
+Disease. CA, Cornu Ammonis; DG, Dentate Gyrus; DLB, Dementia with Lewy Bodies; MCI,
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Mild Cognitive Impairment, PD Parkinson’s Disease; SUB, subiculum. **** p ≤ 0.0001. Scale
+bar = 20 μm.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Figure 3. Heat chart of changes in abundance of m6A-modified RNAs and YTHDF1 and
+YTHDF3 reader proteins across brain regions and in healthy aged, PD, DLB and MCI
+tissue. Increased red, normal yellow, and decreased green for m6A-modified RNAs abundance
+and YTHDF1 and YTHDF3 expression across regions and within disease categories. DLB
+tissue was found to have consistently increased abundance of m6A-modified RNAs across all
+brain tissue regions as well general increases in YTHDF1 and YTHDF3 expression compared
+to healthy control tissue. PD tissue, in contrast, showed significantly reduced m6A-modiifed
+RNAs in three brain regions and no consistent pattern of changes in YTHDF reader protein
+expression. DLB, Dementia with Lewy Bodies; MCI, Mild Cognitive Impairment; PD,
+Parkinson’s Disease.
+Table 1. Mean quantitative abundance of m6A-modified RNAs and YTHDF1 and
+YTHDF3 reader proteins across brain regions and in healthy, PD, DLB, and MCI tissue.
+Mean abundance or protein expression in affected and control tissue and p values for
+differences in abundance are presented for the cerebellum, frontal and cingulate cortices and
+the hippocampal regions. DLB, Dementia with Lewy Bodies; MCI, Mild Cognitive
+Impairment; PD, Parkinson’s disease. * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001, **** p ≤ 0.0001.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Martinez De La Cruz et al.,
+Graphical abstract
+Using microscopy and a machine learning approach, we performed cellular and subcellular
+profiling of m6A-RNA abundance in human brain from non-affected individuals and individu-
+als with neurodegenerative diseases. m6A-modified RNAs were found consistently more abun-
+dant in dementia with Lewy bodies tissue and significantly reduced or misplaced in brain tissue
+from individuals with Parkinson’s disease. The findings of disrupted localisation and abun-
+dance of m6A RNAs in Lewy body diseases are consistent with evidence for alterations in the
+control of RNA translation contributing to the formation of protein aggregate neurotoxic struc-
+tures.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Control Disease
+Brain region Disease p value
+abundance abundance
+PD 149.5 ± 24.1** < 0.005
+m6A 120.8 ± 21.3 DLB 149.8 ± 26.1*** < 0.0005
+MCI 154.8 ± 27.0**** < 0.0001
+PD 95.0 ± 20.8** 0.005
+Cerebellum YTHDF1 113.7± 25.4 DLB 108.2 ± 23.8 0.65
+MCI 99.9 ± 23.9* < 0.05
+PD 160.1 ± 20.7*** < 0.0005
+YTHDF3 136.9 ± 25.5 DLB 158.7 ± 20.2*** < 0.0005
+MCI 158.9 ± 23.3*** < 0.001
+PD 109.1 ± 6.7* < 0.05
+m6A 116.8 ± 6.1 DLB 136.3 ± 9.1**** < 0.0001
+MCI 102.3 ± 17.0**** < 0.0001
+PD 116.5 ± 5.7 0.49
+Frontal
+YTHDF1 118.7 ± 6.4 DLB 118.1 ± 10.3* 0.98
+cortex
+MCI 120.6 ± 6.2 0.69
+PD 123.4 ± 7.6* < 0.05
+YTHDF3 128.7 ± 9.6 DLB 133.7 ± 4.2* < 0.05
+MCI 131.8 ± 6.0 0.21
+PD 93.6 ±15.1** < 0.005
+m6A 107.5 ± 12.7 DLB 153.0 ± 4.4**** < 0.0001
+MCI 123.5 ± 15.4*** < 0.0005
+PD 124.0 ± 18.8** < 0.005
+Cingulate
+YTHDF1 135.9 ± 10.5 DLB 135.4 ± 5.2 0.99
+gyrus
+MCI 141.6 ± 9.8 0.24
+PD 106.4 ± 11.0**** < 0.0001
+YTHDF3 120.5 ± 11.2 DLB 136.4 ± 6.8**** < 0.0001
+MCI 111.2 ± 8.3** < 0.005
+PD 94.0 ± 16.3**** < 0.0001
+m6A 110.8 ± 11.7 DLB 133.7 ± 4.6**** < 0.0001
+MCI 89.2 ± 8.5**** < 0.0001
+PD 141.4 ± 14.5**** < 0.0001
+Hippocampus
+YTHDF1 122.2 ± 16.5 DLB 138.6 ± 9.3**** < 0.0001
+MCI 109.4 ± 8.5*** < 0.0005
+PD 145.4 ± 6.6**** < 0.0001
+YTHDF3 118.2 ± 10.8 DLB 137.1 ± 6.5**** < 0.0001
+MCI 121.4 ± 4.3 0.12
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+
+Table 1. Mean quantitative abundance of m6A-modified RNAs and YTHDF1 and
+YTHDF3 reader proteins across brain regions and in healthy, PD, DLB, and MCI tissue.
+Mean abundance or protein expression in affected and control tissue and p values for
+differences in abundance are presented for the cerebellum, frontal and cingulate cortices and
+the hippocampal regions. DLB, Dementia with Lewy Bodies; MCI, Mild Cognitive
+Impairment; PD, Parkinson’s disease. P values presented are corrected for multiple
+comparisons. * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001, **** p ≤ 0.0001.
+This article is protected by copyright. All rights reserved.
+13652990,
+ja,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1111/nan.12885
+by
+University
+of
+Turku,
+Wiley
+Online
+Library
+on
+[03/02/2023].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+---PAGE BREAK---
+

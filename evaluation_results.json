@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "total_questions": 8,
+    "correct_papers_retrieved": 7,
+    "accuracy": 0.875,
+    "avg_keyword_overlap": 0.6020900178253119,
+    "avg_top_chunk_score": 0.8598935529589653
+  },
+  "results": [
+    {
+      "question": "What was the unique status of China's age-standardised incidence and prevalence of Parkinson's disease compared to other G20 countries in 2021?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Global burden of disease 2021 Parkinsons statistics from China.pdf"
+      ],
+      "expected_papers": [
+        "Global burden of disease 2021 Parkinsons statistics from China.pdf"
+      ],
+      "top_chunk_score": 0.845757007598877,
+      "keyword_overlap": 0.8
+    },
+    {
+      "question": "What specific cellular component/pathway did the mass spectrometry-based proteomic analysis of human substantia nigra identify as potentially involved in Parkinson's disease pathogenesis for the first time?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Proteomics paper from substantia nigra PD patient brain Ted Dawson among authors 2023.pdf",
+        "proteomics approaches reveiw.pdf",
+        "Parkinsons TMT labeling SN human brain from Dani.pdf",
+        "proteomics analysis of substantia nigra from PD patients.pdf"
+      ],
+      "expected_papers": [
+        "Proteomics paper from substantia nigra PD patient brain Ted Dawson among authors 2023.pdf"
+      ],
+      "top_chunk_score": 0.9122570157051086,
+      "keyword_overlap": 1.0
+    },
+    {
+      "question": "What specific technology and sample types/numbers were used to measure proteins in the *Identification of a possible proteomic biomarker...* study?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Parkinsons TMT labeling SN human brain from Dani.pdf",
+        "soma logic brain communications parkinsons ppmi.pdf",
+        "Neuropathology Appl Neurobio - 2023 - De La Cruz - m6A mRNA methylation in human brain is disrupted in Lewy body disorders.pdf",
+        "elife-72328-v2 autophagy and lysosome flux proteomic markers for PD 2021.pdf"
+      ],
+      "expected_papers": [
+        "soma logic brain communications parkinsons ppmi.pdf"
+      ],
+      "top_chunk_score": 0.8135871887207031,
+      "keyword_overlap": 0.36
+    },
+    {
+      "question": "How is the diagnosis of Parkinson's disease described as evolving in this review?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Medrxiv biomarker parkinsons review MArek.pdf",
+        "Lancet Parkinsons review 2020.pdf",
+        "PD diagnosis review from Valtteri.full.pdf",
+        "Ray Dorsey Parkinsons pandemic review.pdf",
+        "Parkinsons disease subtype review 202.pdf"
+      ],
+      "expected_papers": [
+        "Parkinsons disease subtype review 202.pdf"
+      ],
+      "top_chunk_score": 0.829451322555542,
+      "keyword_overlap": 0.5882352941176471
+    },
+    {
+      "question": "Why is the blood platelet considered a suitable peripheral model for studying Parkinson's disease, as discussed in the review *Role of platelet in Parkinson's disease*?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Platelet aggregation PArkinsons.pdf",
+        "Platelets and Parkinson_s disease.pdf"
+      ],
+      "expected_papers": [
+        "Platelet aggregation PArkinsons.pdf"
+      ],
+      "top_chunk_score": 0.8550659418106079,
+      "keyword_overlap": 0.72
+    },
+    {
+      "question": "What specific cellular and molecular associations of the IRGM protein are proposed to explain its role in regulating autophagy?",
+      "correct_paper_retrieved": false,
+      "retrieved_papers": [
+        "IRGM autophagy Molecular cell 2015.pdf",
+        "IRGM  inflammation autophagy.pdf"
+      ],
+      "expected_papers": [
+        "fimmu-03-00426 IRGM in autphagy upon viral infection REVIEW.pdf"
+      ],
+      "top_chunk_score": 0.8961817026138306,
+      "keyword_overlap": 0.16666666666666666
+    },
+    {
+      "question": "What is the specific mechanism identified for the INPP5F protein in promoting tumor growth in hepatocellular carcinoma (HCC) in this 2022 study?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "Parkinsons INPP5f sacII exosomes in cancer.pdf",
+        "INPP5f knockoudown in vivo 2022.pdf"
+      ],
+      "expected_papers": [
+        "INPP5f knockoudown in vivo 2022.pdf"
+      ],
+      "top_chunk_score": 0.8949777483940125,
+      "keyword_overlap": 0.6818181818181818
+    },
+    {
+      "question": "According to this review, how many family members of inositol polyphosphate 5-phosphatases have been identified in mammalian and yeast organisms?",
+      "correct_paper_retrieved": true,
+      "retrieved_papers": [
+        "IUBMB Life - 2008 - Mitchell - Inositol Polyphosphate 5\u2010Phosphatases  Lipid Phosphatases With Flair.pdf"
+      ],
+      "expected_papers": [
+        "IUBMB Life - 2008 - Mitchell - Inositol Polyphosphate 5\u2010Phosphatases  Lipid Phosphatases With Flair.pdf"
+      ],
+      "top_chunk_score": 0.8318704962730408,
+      "keyword_overlap": 0.5
+    }
+  ]
+}
