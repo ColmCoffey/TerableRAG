@@ -1,0 +1,15 @@
+venv/
+venv311/
+.venv/
+__pycache__/
+*.pyc
+.terraform/
+*.tfstate
+*.tfstate.backup
+local.settings.json
+Original_Documents/
+embeddings/
+chunked_pickle/
+chunked_texts/
+extracted_texts/
+.DS_Store
