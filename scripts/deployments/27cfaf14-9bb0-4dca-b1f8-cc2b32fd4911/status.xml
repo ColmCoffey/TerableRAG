@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>27cfaf14-9bb0-4dca-b1f8-cc2b32fd4911</id>
+  <author>N/A</author>
+  <deployer>az_cli_functions</deployer>
+  <authorEmail>N/A</authorEmail>
+  <message>Created via a push deployment</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2025-11-13T14:19:44.4440568Z</lastSuccessEndTime>
+  <receivedTime>2025-11-13T14:19:25.1119371Z</receivedTime>
+  <startTime>2025-11-13T14:19:27.4732665Z</startTime>
+  <endTime>2025-11-13T14:19:44.4440568Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>True</is_readonly>
+  <buildSummary />
+</deployment>

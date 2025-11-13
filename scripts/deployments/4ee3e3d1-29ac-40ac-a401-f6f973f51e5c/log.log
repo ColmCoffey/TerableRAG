@@ -1,0 +1,79 @@
+2025-11-13T15:33:18.7007346Z,Updating submodules.,8265d17d-a701-44b0-b6fc-5a881a4c58dd,0
+2025-11-13T15:33:20.2887443Z,Preparing deployment for commit id '4ee3e3d1-2'.,9b058c47-c0a0-42c0-8845-ae933f2ef79d,0
+2025-11-13T15:33:21.3641797Z,PreDeployment: context.CleanOutputPath False,6749994d-07b9-43cc-9b7b-360f0a8130d7,0
+2025-11-13T15:33:21.7219399Z,PreDeployment: context.OutputPath /home/site/wwwroot,18bfc28d-418f-4245-88da-4a7f65a69790,0
+2025-11-13T15:33:22.1663085Z,Generating deployment script.,d7bb54f3-42a6-4efa-a3f7-cf4f22b39875,0
+2025-11-13T15:33:22.5183336Z,Running deployment command...,e6737068-5269-4acb-83cd-6a13a690a6ae,0
+	2025-11-13T15:33:22.5466589Z,Command: /opt/Kudu/Scripts/parallel_rsync.sh /tmp/zipdeploy/extracted /home/site/wwwroot 8 /tmp/ False True  ,,0
+	2025-11-13T15:33:23.2322101Z,Run rsync from: /tmp/zipdeploy/extracted/ to: /home/site/wwwroot/ in 8 parallel threads,,0
+	2025-11-13T15:33:23.3665416Z,Delete options: clean=False&comma; use manifest=True&comma; directory to ignore=,,0
+	2025-11-13T15:33:23.4921735Z,Prev manifest = /home/site/deployments/4901b9c2-9709-4e83-8077-686480b5ce22/manifest and next /home/site/deployments/4ee3e3d1-29ac-40ac-a401-f6f973f51e5c/manifest,,0
+	2025-11-13T15:33:23.5528990Z,Cleaning up /tmp//filelist.txt and /tmp//splits,,0
+	2025-11-13T15:33:23.6368592Z,Creating a list of all files at /tmp//filelist.txt,,0
+	2025-11-13T15:33:23.6969350Z,No directory to exclude.,,0
+	2025-11-13T15:33:23.8424594Z,Created /tmp//filelist.txt. Total number of files to be synced = 3.,,0
+	2025-11-13T15:33:23.9015300Z,Created batches from the list of files. Processing 1 files in each thread,,0
+	2025-11-13T15:33:23.9520029Z,Running rsync for filelist /tmp//splits/split.aa from /tmp/zipdeploy/extracted/ to /home/site/wwwroot/,,0
+	2025-11-13T15:33:23.9905552Z,Running rsync for filelist /tmp//splits/split.ab from /tmp/zipdeploy/extracted/ to /home/site/wwwroot/,,0
+	2025-11-13T15:33:24.0282775Z,Running rsync for filelist /tmp//splits/split.ac from /tmp/zipdeploy/extracted/ to /home/site/wwwroot/,,0
+	2025-11-13T15:33:24.0650538Z,,,0
+	2025-11-13T15:33:24.0970077Z,Number of files: 1 (reg: 1),,0
+	2025-11-13T15:33:24.1352981Z,Number of created files: 0,,0
+	2025-11-13T15:33:24.1645203Z,Number of deleted files: 0,,0
+	2025-11-13T15:33:24.1919539Z,Number of regular files transferred: 0,,0
+	2025-11-13T15:33:24.2095731Z,Total file size: 63 bytes,,0
+	2025-11-13T15:33:24.2296972Z,Total transferred file size: 0 bytes,,0
+	2025-11-13T15:33:24.2479123Z,Literal data: 0 bytes,,0
+	2025-11-13T15:33:24.2692847Z,Matched data: 0 bytes,,0
+	2025-11-13T15:33:24.2852766Z,File list size: 0,,0
+	2025-11-13T15:33:24.3018535Z,File list generation time: 0.001 seconds,,0
+	2025-11-13T15:33:24.3211564Z,File list transfer time: 0.000 seconds,,0
+	2025-11-13T15:33:24.3400862Z,Total bytes sent: 117,,0
+	2025-11-13T15:33:24.3605000Z,Total bytes received: 19,,0
+	2025-11-13T15:33:24.3917885Z,,,0
+	2025-11-13T15:33:24.4129628Z,sent 117 bytes  received 19 bytes  272.00 bytes/sec,,0
+	2025-11-13T15:33:24.4666759Z,total size is 63  speedup is 0.46,,0
+	2025-11-13T15:33:24.4831845Z,Attempt 1: Rsync for filelist /tmp//splits/split.ac completed with exit code 0,,0
+	2025-11-13T15:33:24.5022942Z,,,0
+	2025-11-13T15:33:24.5201477Z,Number of files: 1 (reg: 1),,0
+	2025-11-13T15:33:24.5342736Z,Number of created files: 0,,0
+	2025-11-13T15:33:24.5521910Z,Number of deleted files: 0,,0
+	2025-11-13T15:33:24.5691336Z,Number of regular files transferred: 0,,0
+	2025-11-13T15:33:24.5892046Z,Total file size: 4.14K bytes,,0
+	2025-11-13T15:33:24.6082708Z,Total transferred file size: 0 bytes,,0
+	2025-11-13T15:33:24.6251352Z,Literal data: 0 bytes,,0
+	2025-11-13T15:33:24.6484214Z,Matched data: 0 bytes,,0
+	2025-11-13T15:33:24.6645051Z,File list size: 0,,0
+	2025-11-13T15:33:24.6859429Z,File list generation time: 0.016 seconds,,0
+	2025-11-13T15:33:24.7026657Z,File list transfer time: 0.000 seconds,,0
+	2025-11-13T15:33:24.7287394Z,Total bytes sent: 116,,0
+	2025-11-13T15:33:24.7429017Z,Total bytes received: 19,,0
+	2025-11-13T15:33:24.7608721Z,,,0
+	2025-11-13T15:33:24.7936874Z,sent 116 bytes  received 19 bytes  270.00 bytes/sec,,0
+	2025-11-13T15:33:24.8093213Z,total size is 4.14K  speedup is 30.70,,0
+	2025-11-13T15:33:24.8295896Z,Attempt 1: Rsync for filelist /tmp//splits/split.ab completed with exit code 0,,0
+	2025-11-13T15:33:24.8444415Z,,,0
+	2025-11-13T15:33:24.8630257Z,Number of files: 1 (reg: 1),,0
+	2025-11-13T15:33:24.8831229Z,Number of created files: 0,,0
+	2025-11-13T15:33:24.9060746Z,Number of deleted files: 0,,0
+	2025-11-13T15:33:24.9213535Z,Number of regular files transferred: 0,,0
+	2025-11-13T15:33:24.9396557Z,Total file size: 166 bytes,,0
+	2025-11-13T15:33:24.9553866Z,Total transferred file size: 0 bytes,,0
+	2025-11-13T15:33:24.9731622Z,Literal data: 0 bytes,,0
+	2025-11-13T15:33:24.9909174Z,Matched data: 0 bytes,,0
+	2025-11-13T15:33:25.0172737Z,File list size: 0,,0
+	2025-11-13T15:33:25.0408517Z,File list generation time: 0.001 seconds,,0
+	2025-11-13T15:33:25.0637517Z,File list transfer time: 0.000 seconds,,0
+	2025-11-13T15:33:25.0817708Z,Total bytes sent: 114,,0
+	2025-11-13T15:33:25.1023473Z,Total bytes received: 19,,0
+	2025-11-13T15:33:25.1228901Z,,,0
+	2025-11-13T15:33:25.1407259Z,sent 114 bytes  received 19 bytes  266.00 bytes/sec,,0
+	2025-11-13T15:33:25.1597763Z,total size is 166  speedup is 1.25,,0
+	2025-11-13T15:33:25.1794827Z,Attempt 1: Rsync for filelist /tmp//splits/split.aa completed with exit code 0,,0
+	2025-11-13T15:33:25.2003275Z,Deleting files not present in /tmp/zipdeploy/extracted/ from /home/site/wwwroot/ based on manifest file /home/site/deployments/4901b9c2-9709-4e83-8077-686480b5ce22/manifest,,0
+	2025-11-13T15:33:25.2142159Z,Number of files deleted: 0. See /tmp//rsync_deletion_logs.txt for more details.,,0
+	2025-11-13T15:33:25.2384967Z,create new manifest file at /home/site/deployments/4ee3e3d1-29ac-40ac-a401-f6f973f51e5c/manifest,,0
+	2025-11-13T15:33:25.2606315Z,Completed successfully in 1 seconds,,0
+2025-11-13T15:33:25.5040347Z,Running post deployment command(s)...,ca4312b3-b503-43d9-b4ef-be8fbc12e901,0
+2025-11-13T15:33:25.8459197Z,Triggering recycle (preview mode disabled).,76124d2f-ecac-493d-8cf5-d726f4ba5386,0
+2025-11-13T15:33:26.2448507Z,Deployment successful. deployer = az_cli_functions deploymentPath = Functions App ZipDeploy. Extract zip.,38c7a0e0-2b2b-4a6d-8ed4-d2b5536a9ed1,0

@@ -1,8 +1,0 @@
-{
-    "IsEncrypted": false,
-    "Values": {
-      "FUNCTIONS_WORKER_RUNTIME": "python",
-      "AzureWebJobsStorage": "",
-      "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=stparkinsonsrag;AccountKey=hexpz1hSw6hBadiaj26F41bU9tmi583qWKDmAFTUj/554vIv7ZP9iYGkG2ON8Kn9/OTgdVL9Ktb++AStxpfKUA==;BlobEndpoint=https://stparkinsonsrag.blob.core.windows.net/;FileEndpoint=https://stparkinsonsrag.file.core.windows.net/;QueueEndpoint=https://stparkinsonsrag.queue.core.windows.net/;TableEndpoint=https://stparkinsonsrag.table.core.windows.net/"
-    }
-  }

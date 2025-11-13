@@ -1,0 +1,9 @@
+<step title="Incoming Request" date="2025-11-13T15:09:03.783" instance="bec1e0" url="/api/deployments/latest" method="GET" type="request" pid="780,1,29" Accept="*/*" Host="func-parkinsons-rag.scm.azurewebsites.net" User-Agent="AZURECLI/2.79.0 (HOMEBREW)" Accept-Encoding="gzip, deflate" Authorization="Bas..." x-ms-client-request-id="a1a189ba-c0a2-11f0-86fa-120dbd01ba0d" X-ARR-LOG-ID="a1a189ba-c0a2-11f0-86fa-120dbd01ba0d" CLIENT-IP="37.228.250.238:43209" X-SITE-DEPLOYMENT-ID="func-parkinsons-rag" WAS-DEFAULT-HOSTNAME="func-parkinsons-rag.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.3" X-WAWS-Unencoded-URL="/api/deployments/latest" X-Client-IP="37.228.250.238" X-Client-Port="43209" >
+  <step title="Cleanup Xml Logs" date="2025-11-13T15:09:03.812" /><!-- duration: 59ms -->
+  <step title="DeploymentService.GetResult" date="2025-11-13T15:09:03.936" >
+    <step title="DeploymentService.GetLatestDeployment" date="2025-11-13T15:09:03.970" >
+      <step title="DeploymentManager.GetResults" date="2025-11-13T15:09:03.989" /><!-- duration: 2271ms -->
+    </step><!-- duration: 2357ms -->
+  </step><!-- duration: 2411ms -->
+  <step title="Outgoing response" date="2025-11-13T15:09:06.362" type="response" statusCode="202" statusText="Accepted" /><!-- duration: 16ms -->
+</step><!-- duration: 2615ms -->

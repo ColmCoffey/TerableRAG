@@ -1,0 +1,60 @@
+2025-11-13T14:19:25.7416301Z,Updating submodules.,7389e237-cf90-435a-857d-a2856eb244f2,0
+2025-11-13T14:19:27.2730414Z,Preparing deployment for commit id '27cfaf14-9'.,78fc40f0-2449-49f0-80ba-c71ea0d7dcda,0
+2025-11-13T14:19:28.3644187Z,PreDeployment: context.CleanOutputPath False,f425a57a-4390-454b-abc8-455d4c97ce49,0
+2025-11-13T14:19:28.7386145Z,PreDeployment: context.OutputPath /home/site/wwwroot,04a41b5a-caa9-475d-8e5d-4ebcded2e9a0,0
+2025-11-13T14:19:29.2038058Z,Generating deployment script.,e7bf5ecb-0e0e-4492-ac4f-e63eb1d0dfda,0
+2025-11-13T14:19:29.5762152Z,Running deployment command...,8f7e8b85-e4cd-4994-b408-c38bbc2119a6,0
+	2025-11-13T14:19:29.6335830Z,Command: /opt/Kudu/Scripts/parallel_rsync.sh /tmp/zipdeploy/extracted /home/site/wwwroot 8 /tmp/ False True  ,,0
+	2025-11-13T14:19:30.8341411Z,Run rsync from: /tmp/zipdeploy/extracted/ to: /home/site/wwwroot/ in 8 parallel threads,,0
+	2025-11-13T14:19:30.9186327Z,Delete options: clean=False&comma; use manifest=True&comma; directory to ignore=,,0
+	2025-11-13T14:19:31.1258107Z,Prev manifest = /opt/Kudu/Scripts/firstDeploymentManifest and next /home/site/deployments/27cfaf14-9bb0-4dca-b1f8-cc2b32fd4911/manifest,,0
+	2025-11-13T14:19:31.1725771Z,Cleaning up /tmp//filelist.txt and /tmp//splits,,0
+	2025-11-13T14:19:31.2204752Z,Creating a list of all files at /tmp//filelist.txt,,0
+	2025-11-13T14:19:31.3908286Z,No directory to exclude.,,0
+	2025-11-13T14:19:31.4966802Z,Created /tmp//filelist.txt. Total number of files to be synced = 2.,,0
+	2025-11-13T14:19:31.5853700Z,Created batches from the list of files. Processing 1 files in each thread,,0
+	2025-11-13T14:19:31.6823041Z,Running rsync for filelist /tmp//splits/split.aa from /tmp/zipdeploy/extracted/ to /home/site/wwwroot/,,0
+	2025-11-13T14:19:31.7211998Z,Running rsync for filelist /tmp//splits/split.ab from /tmp/zipdeploy/extracted/ to /home/site/wwwroot/,,0
+	2025-11-13T14:19:31.7881699Z,,,0
+	2025-11-13T14:19:31.8644869Z,Number of files: 1 (reg: 1),,0
+	2025-11-13T14:19:31.9165895Z,Number of created files: 1 (reg: 1),,0
+	2025-11-13T14:19:31.9544053Z,Number of deleted files: 0,,0
+	2025-11-13T14:19:32.0231939Z,Number of regular files transferred: 1,,0
+	2025-11-13T14:19:32.1775171Z,Total file size: 63 bytes,,0
+	2025-11-13T14:19:32.2277974Z,Total transferred file size: 63 bytes,,0
+	2025-11-13T14:19:32.2647755Z,Literal data: 63 bytes,,0
+	2025-11-13T14:19:32.3061590Z,Matched data: 0 bytes,,0
+	2025-11-13T14:19:32.3653155Z,File list size: 0,,0
+	2025-11-13T14:19:32.4128717Z,File list generation time: 0.009 seconds,,0
+	2025-11-13T14:19:32.4817917Z,File list transfer time: 0.000 seconds,,0
+	2025-11-13T14:19:32.5370593Z,Total bytes sent: 228,,0
+	2025-11-13T14:19:32.5789963Z,Total bytes received: 35,,0
+	2025-11-13T14:19:32.6156618Z,,,0
+	2025-11-13T14:19:32.7020221Z,sent 228 bytes  received 35 bytes  526.00 bytes/sec,,0
+	2025-11-13T14:19:32.7486404Z,total size is 63  speedup is 0.24,,0
+	2025-11-13T14:19:32.7879267Z,,,0
+	2025-11-13T14:19:32.8446501Z,Number of files: 1 (reg: 1),,0
+	2025-11-13T14:19:32.8835941Z,Number of created files: 1 (reg: 1),,0
+	2025-11-13T14:19:32.9323298Z,Number of deleted files: 0,,0
+	2025-11-13T14:19:32.9844579Z,Number of regular files transferred: 1,,0
+	2025-11-13T14:19:33.0396471Z,Total file size: 4.14K bytes,,0
+	2025-11-13T14:19:33.0899918Z,Total transferred file size: 4.14K bytes,,0
+	2025-11-13T14:19:33.1376599Z,Literal data: 4.14K bytes,,0
+	2025-11-13T14:19:33.1851594Z,Matched data: 0 bytes,,0
+	2025-11-13T14:19:33.2341252Z,File list size: 0,,0
+	2025-11-13T14:19:33.2853522Z,File list generation time: 0.006 seconds,,0
+	2025-11-13T14:19:33.3600847Z,File list transfer time: 0.000 seconds,,0
+	2025-11-13T14:19:33.4297938Z,Total bytes sent: 1.57K,,0
+	2025-11-13T14:19:33.4966831Z,Total bytes received: 35,,0
+	2025-11-13T14:19:33.5572525Z,,,0
+	2025-11-13T14:19:33.6063597Z,sent 1.57K bytes  received 35 bytes  3.20K bytes/sec,,0
+	2025-11-13T14:19:33.6322169Z,total size is 4.14K  speedup is 2.59,,0
+	2025-11-13T14:19:33.6920114Z,Attempt 1: Rsync for filelist /tmp//splits/split.ab completed with exit code 0,,0
+	2025-11-13T14:19:33.7600381Z,Attempt 1: Rsync for filelist /tmp//splits/split.aa completed with exit code 0,,0
+	2025-11-13T14:19:41.3519322Z,Deleting files not present in /tmp/zipdeploy/extracted/ from /home/site/wwwroot/ based on manifest file /opt/Kudu/Scripts/firstDeploymentManifest,,0
+	2025-11-13T14:19:41.4202266Z,Number of files deleted: 0. See /tmp//rsync_deletion_logs.txt for more details.,,0
+	2025-11-13T14:19:41.4590532Z,create new manifest file at /home/site/deployments/27cfaf14-9bb0-4dca-b1f8-cc2b32fd4911/manifest,,0
+	2025-11-13T14:19:41.4888499Z,Completed successfully in 1 seconds,,0
+2025-11-13T14:19:42.6023453Z,Running post deployment command(s)...,7e61de21-83be-4598-ac6d-c5bab86be4fe,0
+2025-11-13T14:19:43.1657971Z,Triggering recycle (preview mode disabled).,eb760d57-6285-4105-8056-352953d984ce,0
+2025-11-13T14:19:44.0883854Z,Deployment successful. deployer = az_cli_functions deploymentPath = Functions App ZipDeploy. Extract zip.,fcfb027e-fc5a-49e0-a062-e9f52cebcb2f,0

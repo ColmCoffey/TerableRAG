@@ -1,0 +1,33 @@
+2025-11-12T19:24:23.0010160Z Container start method called.
+2025-11-12T19:24:23.0116189Z Establishing network.
+2025-11-12T19:24:23.0120523Z Pulling image: azure-functions/python:4-python3.11-appservice-stage5.
+2025-11-12T19:26:35.5114712Z Image azure-functions/python:4-python3.11-appservice-stage5 is pulled from registry mcr.microsoft.com
+2025-11-12T19:26:35.5133453Z Container is starting.
+2025-11-12T19:26:35.5337648Z Establishing user namespace if not established already.
+2025-11-12T19:26:35.5339012Z Establishing network if not established already.
+2025-11-12T19:26:35.5340231Z Mounting volumes.
+2025-11-12T19:26:35.5442965Z Nested mountpoint 
+2025-11-12T19:26:35.5823158Z Nested mountpoint volatile/logs
+2025-11-12T19:26:35.6320075Z Nested mountpoint 
+2025-11-12T19:26:35.6442079Z Nested mountpoint 
+2025-11-12T19:26:35.7321868Z Nested mountpoint 
+2025-11-12T19:26:35.8443015Z Creating container.
+2025-11-12T19:26:35.8444875Z Creating pipes for streaming container io.
+2025-11-12T19:26:35.8446423Z Creating stdout named pipe at /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stdout_ad7e5e2bcfa249d6a206e990e7f2e7ff.
+2025-11-12T19:26:35.8452915Z Successfully created stdout named pipe at: /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stdout_ad7e5e2bcfa249d6a206e990e7f2e7ff.
+2025-11-12T19:26:35.8454466Z Opening named pipe /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stdout_ad7e5e2bcfa249d6a206e990e7f2e7ff for reading in non-blocking mode.
+2025-11-12T19:26:35.8459979Z Successfully opened named pipe: /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stdout_ad7e5e2bcfa249d6a206e990e7f2e7ff.
+2025-11-12T19:26:35.8528998Z Successfully removed non-blocking flag from /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stdout_ad7e5e2bcfa249d6a206e990e7f2e7ff.
+2025-11-12T19:26:35.8531101Z Creating stderr named pipe at /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stderr_e129ae4970dd41be8acfa20d97d0cc11.
+2025-11-12T19:26:35.8534184Z Successfully created stderr named pipe at: /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stderr_e129ae4970dd41be8acfa20d97d0cc11.
+2025-11-12T19:26:35.8536393Z Opening named pipe /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stderr_e129ae4970dd41be8acfa20d97d0cc11 for reading in non-blocking mode.
+2025-11-12T19:26:35.8538124Z Successfully opened named pipe: /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stderr_e129ae4970dd41be8acfa20d97d0cc11.
+2025-11-12T19:26:35.8543654Z Successfully removed non-blocking flag from /podr/container/pipe/bf86708289b7_func-parkinsons-rag/stderr_e129ae4970dd41be8acfa20d97d0cc11.
+2025-11-12T19:26:35.8549677Z Creating container with image: azure-functions/python:4-python3.11-appservice-stage5 from registry: mcr.microsoft.com and fully qualified image name: mcr.microsoft.com/azure-functions/python:4-python3.11-appservice-stage5
+2025-11-12T19:26:36.6277692Z Starting container: bf86708289b7_func-parkinsons-rag.
+2025-11-12T19:26:36.7162688Z Starting watchers and probes.
+2025-11-12T19:26:36.7190299Z Starting metrics collection.
+2025-11-12T19:26:36.7260141Z Container is running.
+2025-11-12T19:26:37.8129219Z Container start method finished after 134796 ms.
+2025-11-12T19:26:54.1681842Z Site startup probe succeeded after 16.2869856 seconds.
+2025-11-12T19:26:55.7015440Z Site started.
