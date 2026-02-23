@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ingestion-worker
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ingestion-worker
+  template:
+    metadata:
+      labels:
+        app: ingestion-worker
+    spec:
+      containers:
+      - name: ingestion-worker
+        image: ingestion-worker:latest
+        imagePullPolicy: Never

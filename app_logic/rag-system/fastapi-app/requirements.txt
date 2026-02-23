@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
+pydantic-settings
+qdrant-client
+asyncpg
+pytest
+httpx
+sqlalchemy
+asyncpg
